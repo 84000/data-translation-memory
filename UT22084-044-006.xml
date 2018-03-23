@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14">
+    <header creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" segtype="phrase" adminlang="en" srclang="bo" o-tmf="tei" datatype="Text"/>
+    <body>
+        <tu tuid="1">
+            <prop name="folio">F.116.b</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-21T18:52:47.738+01:00" creationid="admin">
+                <seg>དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ་བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-21T18:52:47.738+01:00" creationid="admin">
+                <seg>Homage to all the buddhas and bodhisattvas</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

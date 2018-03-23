@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14">
+    <header creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" segtype="phrase" adminlang="en" srclang="bo" o-tmf="tei" datatype="Text"/>
+    <body>
+        <tu tuid="1">
+            <prop name="folio">F.104.b</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-21T18:51:08.882+01:00" creationid="admin">
+                <seg>ནས་མངོན་པར་བསྟོད་དོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-21T18:51:08.882+01:00" creationid="admin">
+                <seg>Homage to all the buddhas and bodhisattvas</seg>
+            </tuv>
+        </tu>
+        <tu tuid="2">
+            <prop name="folio">F.104.b</prop>
+            <prop name="position">46</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-21T18:51:12.003+01:00" creationid="admin">
+                <seg>།།འཕགས་པ་དཀོན་མཆོག་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-21T18:51:12.003+01:00" creationid="admin">
+                <seg>Thus have I heard at one time</seg>
+            </tuv>
+        </tu>
+        <tu tuid="6">
+            <prop name="folio">F.104.b</prop>
+            <prop name="position">77</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-21T18:51:14.807+01:00" creationid="admin">
+                <seg>་བརྒྱ་པ་ལས་བུ་མོ་རྣམ་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-21T18:51:14.807+01:00" creationid="admin">
+                <seg>The Blessed One</seg>
+            </tuv>
+        </tu>
+        <tu tuid="9">
+            <prop name="folio">F.104.b</prop>
+            <prop name="position">93</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-21T18:51:17.676+01:00" creationid="admin">
+                <seg>རྣམ་དག་དད་པས་ཞུས་པའི་ལེའུ་སྟེ་བཞི་བཅུ་པ་རྫོགས་སོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-21T18:51:17.676+01:00" creationid="admin">
+                <seg>was staying in the Country of the Bhargas</seg>
+            </tuv>
+        </tu>
+        <tu tuid="10">
+            <prop name="folio">F.104.b</prop>
+            <prop name="position">136</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-21T18:51:20.425+01:00" creationid="admin">
+                <seg>།།འཕགས་པ་དཀོན་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-21T18:51:20.425+01:00" creationid="admin">
+                <seg>on Mount Śuśumāra</seg>
+            </tuv>
+        </tu>
+        <tu tuid="11">
+            <prop name="folio">F.104.b</prop>
+            <prop name="position">154</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-21T18:51:23.243+01:00" creationid="admin">
+                <seg>འཕགས་པ་བྱམས་པས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-21T18:51:23.243+01:00" creationid="admin">
+                <seg>in a fearsome forest of wild animals</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>
