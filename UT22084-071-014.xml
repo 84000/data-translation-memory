@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14">
+    <header creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-04-04T10:04:29.971Z" creationid="dirk"/>
+    <body>
+        <tu tuid="1">
+            <prop name="folio">F.304.b</prop>
+            <prop name="position">41</prop>
+            <tuv xml:lang="bo" creationdate="2018-04-04T10:04:29.971Z" creationid="dirk">
+                <seg>།འདི་ སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-04-04T10:04:29.971Z" creationid="dirk">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="2">
+            <prop name="folio">F.304.b</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-04-04T10:04:59.572Z" creationid="dirk">
+                <seg>སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-04-04T10:04:59.572Z" creationid="dirk">
+                <seg>Homage to all buddhas and bodhisattvas.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="3">
+            <prop name="folio">F.304.b</prop>
+            <prop name="position">70</prop>
+            <tuv xml:lang="bo" creationdate="2018-04-04T10:08:38.27Z" creationid="dirk">
+                <seg>བཅོམ་ལྡན་འདས་གྲོང་ཁྱེར་ཀུ་ཤ་ན་གྱད་ཀྱི་ཉེན་འཁོར་ཤིང་སཱ་ལ་ཟུང་གི་ཚལ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-04-04T10:08:38.27Z" creationid="dirk">
+                <seg>The Bhagavān was dwelling in the Grove of Twin Sāl-Trees in the vicinity of the Malla town of Kuśinagara,</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

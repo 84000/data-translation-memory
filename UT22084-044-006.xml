@@ -2,14 +2,85 @@
 <tmx xmlns="http://www.lisa.org/tmx14">
     <header creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" segtype="phrase" adminlang="en" srclang="bo" o-tmf="tei" datatype="Text"/>
     <body>
-        <tu tuid="1">
+        
+    <tu tuid="">
             <prop name="folio">F.116.b</prop>
             <prop name="position">1</prop>
-            <tuv xml:lang="bo" creationdate="2018-03-21T18:52:47.738+01:00" creationid="admin">
-                <seg>དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ་བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།</seg>
+            <tuv xml:lang="bo" creationdate="2018-03-26T15:24:00.589Z" creationid="celso">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
             </tuv>
-            <tuv xml:lang="en" creationdate="2018-03-21T18:52:47.738+01:00" creationid="admin">
-                <seg>Homage to all the buddhas and bodhisattvas</seg>
+            <tuv xml:lang="en" creationdate="2018-03-26T15:24:00.589Z" creationid="celso">
+                <seg>Homage to all the buddhas and bodhisattvas!</seg>
+            </tuv>
+        </tu>
+        <tu tuid="1">
+            <prop name="folio">F.116.b</prop>
+            <prop name="position">45</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T15:24:09.896Z" creationid="celso">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-26T15:24:09.896Z" creationid="celso">
+                <seg>Thus have I heard at one time.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="2">
+            <prop name="folio">F.116.b</prop>
+            <prop name="position">76</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T15:24:39.613Z" creationid="celso">
+                <seg>བཅོམ་ལྡན་འདས་རྒྱལ་པོའི་ཁབ་ན་བྱ་རྒོད་ཕུང་པོའི་རི་ལ་དགེ་སློང་སྟོང་ཉིས་བརྒྱ་ལྔ་བཅུའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་། བྱང་ཆུབ་ སེམས་དཔའ་ཁྲི་དང་ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-26T15:24:39.613Z" creationid="celso">
+                <seg>The Blessed One was staying in Rājagṛha on the Vulture-peak, together with a great saṅgha of 1,250 monks and 10,000 bodhisattvas.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="3">
+            <prop name="folio">F.116.b</prop>
+            <prop name="position">206</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T15:25:11.182Z" creationid="celso">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་འཁོར་བརྒྱ་སྟོང་དུ་མས་ཡོངས་སུ་བསྐོར་ཅིང་མདུན་གྱིས་བལྟས་ནས་ཆོས་སྟོན་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-26T15:25:11.182Z" creationid="celso">
+                <seg>The Blessed One, surrounded by a retinue of many hundreds of thousands, surveyed those before him, and taught the Dharma.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="4">
+            <prop name="folio">F.116.b</prop>
+            <prop name="position">328</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T15:25:41.75Z" creationid="celso">
+                <seg>།དེའི་ཚེ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བྱམས་པ་ཞེས་བྱ་བ་འཁོར་དེ་ཉིད་དུ་འདུས་པར་གྱུར་ཏེ་འདུག་གོ</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-26T15:25:41.75Z" creationid="celso">
+                <seg>At that time, the bodhisattva mahāsattva Maitreya was present among that very retinue.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="5">
+            <prop name="folio">F.116.b</prop>
+            <prop name="position">415</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T15:26:08.369Z" creationid="celso">
+                <seg>དེ་ནས་ བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བྱམས་པ་སྟན་ལས་ལངས་ཏེ་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-26T15:26:08.369Z" creationid="celso">
+                <seg>He rose from his seat,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="6">
+            <prop name="folio">F.116.b</prop>
+            <prop name="position">438</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T15:27:15.402Z" creationid="celso">
+                <seg>བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས་པུས་མོ་གཡས་པའི་ལྷ་ང་ས་ལ་བཙུགས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-26T15:27:15.402Z" creationid="celso">
+                <seg>draped his shawl over one shoulder, set his right knee on the ground, and knelt down</seg>
+            </tuv>
+        </tu>
+        <tu tuid="7">
+            <prop name="folio">F.116.b</prop>
+            <prop name="position">523</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T15:27:37.198Z" creationid="celso">
+                <seg>བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-26T15:27:37.198Z" creationid="celso">
+                <seg>to pay homage with palms joined before the Blessed One. He then said to the Blessed One,</seg>
             </tuv>
         </tu>
     </body>

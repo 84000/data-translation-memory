@@ -2,64 +2,80 @@
 <tmx xmlns="http://www.lisa.org/tmx14">
     <header creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" segtype="phrase" adminlang="en" srclang="bo" o-tmf="tei" datatype="Text"/>
     <body>
-        <tu tuid="1">
+        
+        
+        
+        
+        
+        
+    <tu tuid="">
             <prop name="folio">F.104.b</prop>
             <prop name="position">1</prop>
-            <tuv xml:lang="bo" creationdate="2018-03-21T18:51:08.882+01:00" creationid="admin">
-                <seg>ནས་མངོན་པར་བསྟོད་དོ།།</seg>
+            <tuv xml:lang="bo" creationdate="2018-03-26T15:18:32.896Z" creationid="celso">
+                <seg>སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
             </tuv>
-            <tuv xml:lang="en" creationdate="2018-03-21T18:51:08.882+01:00" creationid="admin">
-                <seg>Homage to all the buddhas and bodhisattvas</seg>
+            <tuv xml:lang="en" creationdate="2018-03-26T15:18:32.896Z" creationid="celso">
+                <seg>Homage to all the buddhas and bodhisattvas!</seg>
+            </tuv>
+        </tu>
+        <tu tuid="1">
+            <prop name="folio">F.104.b</prop>
+            <prop name="position">45</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T15:18:45.53Z" creationid="celso">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-26T15:18:45.53Z" creationid="celso">
+                <seg>Thus have I heard at one time.</seg>
             </tuv>
         </tu>
         <tu tuid="2">
             <prop name="folio">F.104.b</prop>
-            <prop name="position">46</prop>
-            <tuv xml:lang="bo" creationdate="2018-03-21T18:51:12.003+01:00" creationid="admin">
-                <seg>།།འཕགས་པ་དཀོན་མཆོག་</seg>
+            <prop name="position">76</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T15:21:50.587Z" creationid="celso">
+                <seg>བཅོམ་ལྡན་འདས་ཡུལ་བརྒ་ན་ཆུ་སྲིན་བྱིས་པ་གསོད་ལྟ་བུའི་རི་ འཇིགས་སུ་རུང་བའི་ནགས་རི་དགས་ཀྱི་ནགས་ན་</seg>
             </tuv>
-            <tuv xml:lang="en" creationdate="2018-03-21T18:51:12.003+01:00" creationid="admin">
-                <seg>Thus have I heard at one time</seg>
+            <tuv xml:lang="en" creationdate="2018-03-26T15:21:50.587Z" creationid="celso">
+                <seg>The Blessed One was staying in the Country of the Bhargas, on Mount Śuśumāra in a fearsome forest of wild animals,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="3">
+            <prop name="folio">F.104.b</prop>
+            <prop name="position">191</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T15:22:28.999Z" creationid="celso">
+                <seg>དགེ་སློང་ལྔ་བརྒྱ་ཙམ་གྱི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་མངོན་པར་ཤེས་པ་མངོན་པར་ཤེས་པ་གནས་བརྟན་ཉན་ཐོས་ཆེན་པོ་ཤ་སྟག་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-26T15:22:28.999Z" creationid="celso">
+                <seg>together with a great saṅgha of about 500 monks, eminent śrāvaka-elders who possessed clairvoyance.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="4">
+            <prop name="folio">F.104.b</prop>
+            <prop name="position">291</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T15:22:42.339Z" creationid="celso">
+                <seg>འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-26T15:22:42.339Z" creationid="celso">
+                <seg>These included</seg>
+            </tuv>
+        </tu>
+        <tu tuid="5">
+            <prop name="folio">F.104.b</prop>
+            <prop name="position">306</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T15:23:10.93Z" creationid="celso">
+                <seg>ཚེ་དང་ལྡན་པ་ཀུན་ཤེས་ཀཽ་ཌི་ནྱ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-26T15:23:10.93Z" creationid="celso">
+                <seg>the omniscient venerable Kauṇḍinya, and</seg>
             </tuv>
         </tu>
         <tu tuid="6">
             <prop name="folio">F.104.b</prop>
-            <prop name="position">77</prop>
-            <tuv xml:lang="bo" creationdate="2018-03-21T18:51:14.807+01:00" creationid="admin">
-                <seg>་བརྒྱ་པ་ལས་བུ་མོ་རྣམ་</seg>
+            <prop name="position">346</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T15:23:26.151Z" creationid="celso">
+                <seg>ཚེ་དང་ལྡན་པ་རྟ་ཐུལ་དང་།</seg>
             </tuv>
-            <tuv xml:lang="en" creationdate="2018-03-21T18:51:14.807+01:00" creationid="admin">
-                <seg>The Blessed One</seg>
-            </tuv>
-        </tu>
-        <tu tuid="9">
-            <prop name="folio">F.104.b</prop>
-            <prop name="position">93</prop>
-            <tuv xml:lang="bo" creationdate="2018-03-21T18:51:17.676+01:00" creationid="admin">
-                <seg>རྣམ་དག་དད་པས་ཞུས་པའི་ལེའུ་སྟེ་བཞི་བཅུ་པ་རྫོགས་སོ།།</seg>
-            </tuv>
-            <tuv xml:lang="en" creationdate="2018-03-21T18:51:17.676+01:00" creationid="admin">
-                <seg>was staying in the Country of the Bhargas</seg>
-            </tuv>
-        </tu>
-        <tu tuid="10">
-            <prop name="folio">F.104.b</prop>
-            <prop name="position">136</prop>
-            <tuv xml:lang="bo" creationdate="2018-03-21T18:51:20.425+01:00" creationid="admin">
-                <seg>།།འཕགས་པ་དཀོན་</seg>
-            </tuv>
-            <tuv xml:lang="en" creationdate="2018-03-21T18:51:20.425+01:00" creationid="admin">
-                <seg>on Mount Śuśumāra</seg>
-            </tuv>
-        </tu>
-        <tu tuid="11">
-            <prop name="folio">F.104.b</prop>
-            <prop name="position">154</prop>
-            <tuv xml:lang="bo" creationdate="2018-03-21T18:51:23.243+01:00" creationid="admin">
-                <seg>འཕགས་པ་བྱམས་པས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</seg>
-            </tuv>
-            <tuv xml:lang="en" creationdate="2018-03-21T18:51:23.243+01:00" creationid="admin">
-                <seg>in a fearsome forest of wild animals</seg>
+            <tuv xml:lang="en" creationdate="2018-03-26T15:23:26.151Z" creationid="celso">
+                <seg>the venerables Aśvajit,</seg>
             </tuv>
         </tu>
     </body>

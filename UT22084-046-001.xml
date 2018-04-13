@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14">
+    <header creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-03-26T15:28:17.884Z" creationid="celso"/>
+    <body>
+        <tu tuid="1">
+            <prop name="folio">F.1.b</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T15:28:17.884Z" creationid="celso">
+                <seg>སངས་རྒྱས་དང་བྱང་ ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-26T15:28:17.884Z" creationid="celso">
+                <seg>Homage to all buddhas and bodhisattvas!</seg>
+            </tuv>
+        </tu>
+        <tu tuid="2">
+            <prop name="folio">F.1.b</prop>
+            <prop name="position">41</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T15:28:31.697Z" creationid="celso">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-26T15:28:31.697Z" creationid="celso">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="3">
+            <prop name="folio">F.1.b</prop>
+            <prop name="position">70</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T15:29:28.572Z" creationid="celso">
+                <seg>བཅོམ་ལྡན་འདས་མཉན་ཡོད་ན། རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-26T15:29:28.572Z" creationid="celso">
+                <seg>The Blessed One was staying in Śrāvastī at the Jeta Grove, in the park of Anathapiṇḍada,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="4">
+            <prop name="folio">F.1.b</prop>
+            <prop name="position">159</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T15:30:18.789Z" creationid="celso">
+                <seg>དགེ་ སློང་ཁྲི་ཉིས་སྟོང་གི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་ལ་འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-26T15:30:18.789Z" creationid="celso">
+                <seg>along with a great saṅgha of twelve thousand monks. Among them were</seg>
+            </tuv>
+        </tu>
+        <tu tuid="5">
+            <prop name="folio">F.1.b</prop>
+            <prop name="position">227</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T15:30:31.848Z" creationid="celso">
+                <seg>ཚེ་དང་ལྡན་པ་ཀུན་ཤེས་ཀཽཎྜི་ནྱ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-26T15:30:31.848Z" creationid="celso">
+                <seg>venerable Ājñāta­kauṇḍinya,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="6">
+            <prop name="folio">F.1.b</prop>
+            <prop name="position">255</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T15:30:48.356Z" creationid="celso">
+                <seg>ཚེ་དང་ལྡན་པ་རྟ་ཐུལ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-26T15:30:48.356Z" creationid="celso">
+                <seg>venerable Aśvajit,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="7">
+            <prop name="folio">F.1.b</prop>
+            <prop name="position">274</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T15:31:28.291Z" creationid="celso">
+                <seg>ཚེ་དང་ལྡན་པ་རླངས་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-26T15:31:28.291Z" creationid="celso">
+                <seg>venerable Bāṣpa,</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

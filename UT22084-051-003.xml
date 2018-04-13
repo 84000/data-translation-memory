@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14">
+    <header creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-03-26T15:37:56.261Z" creationid="celso"/>
+    <body>
+        <tu tuid="1">
+            <prop name="folio">F.195.b</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-27T07:48:30.692Z" creationid="admin">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-27T07:48:30.692Z" creationid="admin">
+                <seg>Homage to all the buddhas and bodhisattvas.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="2">
+            <prop name="folio">F.195.b</prop>
+            <prop name="position">45</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-27T07:48:36.967Z" creationid="admin">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-27T07:48:36.967Z" creationid="admin">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="3">
+            <prop name="folio">F.195.b</prop>
+            <prop name="position">74</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-28T15:37:37.634Z" creationid="celso">
+                <seg>བཅོམ་ལྡན་འདས་མཉན་ཡོད་ན། རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-28T15:37:37.634Z" creationid="celso">
+                <seg>The Bhagavān was dwelling in Anāthapiṇḍaḍa’s park in the Jeta Grove in Śrāvastī,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="4">
+            <prop name="folio">F.195.b</prop>
+            <prop name="position">155</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-28T15:38:32.102Z" creationid="celso">
+                <seg>དགེ་སློང་སྟོང་ཉིས་བརྒྱ་ལྔ་བཅུའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་གནས་བརྟན་ཉན་ཐོས་ ཆེན་པོ་དགྲ་བཅོམ་པ་ཤ་སྟག་ལ་</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-28T15:38:32.102Z" creationid="celso">
+                <seg>along with a large monastic saṅgha of 1,250 bhikṣus, all of them great elders, śrāvakas, and arhats,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="5">
+            <prop name="folio">F.195.b</prop>
+            <prop name="position">256</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-28T15:38:49.145Z" creationid="celso">
+                <seg>འདི་ལྟ་སྟེ། གནས་བརྟན་ཤཱ་རིའི་བུ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-28T15:38:49.145Z" creationid="celso">
+                <seg>such as the Elder Śāriputra,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="6">
+            <prop name="folio">F.195.b</prop>
+            <prop name="position">285</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-28T15:38:59.885Z" creationid="celso">
+                <seg>མཽད་གལ་གྱི་བུ་ཆེན་པོ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-28T15:38:59.885Z" creationid="celso">
+                <seg>Mahā­maudgalyāyana,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="7">
+            <prop name="folio">F.195.b</prop>
+            <prop name="position">305</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-28T15:39:14.974Z" creationid="celso">
+                <seg>འོད་སྲུང་ཆེན་པོ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-28T15:39:14.974Z" creationid="celso">
+                <seg>Mahākāśyapa,</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

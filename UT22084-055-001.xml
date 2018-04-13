@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14">
+    <header creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-03-26T16:03:30.805Z" creationid="celso"/>
+    <body>
+        <tu tuid="1">
+            <prop name="folio">F.1.b</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T16:03:30.805Z" creationid="celso">
+                <seg>།སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-26T16:03:30.805Z" creationid="celso">
+                <seg>I pay homage to all the buddhas and bodhisattvas.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="2">
+            <prop name="folio">F.1.b</prop>
+            <prop name="position">51</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T16:03:46.577Z" creationid="celso">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-26T16:03:46.577Z" creationid="celso">
+                <seg>Thus have I heard at one time:</seg>
+            </tuv>
+        </tu>
+        <tu tuid="3">
+            <prop name="folio">F.1.b</prop>
+            <prop name="position">82</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T16:04:19.094Z" creationid="celso">
+                <seg>བཅོམ་ལྡན་འདས་རྒྱལ་པོའི་ཁབ་ན། བྱ་རྒོད་ཀྱི་ཕུང་པོའི་རི་ལ་དགེ་སློང་འབུམ་དུ་ཚང་བའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-26T16:04:19.094Z" creationid="celso">
+                <seg>The Bhagavān was residing at Vulture Peak Mountain in Rājagṛha together with a great bhikṣu saṅgha of a full hundred thousand bhikṣus,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="4">
+            <prop name="folio">F.1.b</prop>
+            <prop name="position">217</prop>
+            <tuv xml:lang="bo" creationdate="2018-03-26T16:05:30.433Z" creationid="celso">
+                <seg>།བྱང་ཆུབ་སེམས་དཔའ་བྱེ་བ་ཁྲག་ཁྲིག་ཕྲག་ བརྒྱད་ཅུ་དང་ཡང་ཐབས་ཅིག་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-03-26T16:05:30.433Z" creationid="celso">
+                <seg>and together with eighty quintillion bodhisattvas,</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>
