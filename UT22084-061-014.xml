@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14">
+    <header creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-05-03T06:51:41.225Z" creationid="dolma"/>
+    <body>
+        <tu tuid="1">
+            <prop name="folio">F.250.b</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-03T06:51:41.225Z" creationid="dolma">
+                <seg>ཙན་དན་གྱི་བདུག་པ་ཕུལ་ཏེ། བཀླགས་ན་དེས་དཔལ་ཐམས་ཅད་ཐོབ་པར་འགྱུར་ཞིང་བདེ་བ་དང་། ཡིད་བདེ་བ་ཐམས་ཅད་ཐོབ་པར་འགྱུར་ཏེ། ལྷ་ཐམས་ཅད་ཀྱང་བསྲུང་བ་དང་། བསྐྱབ་པ་ད</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-03T06:51:41.225Z" creationid="dolma">
+                <seg/>
+            </tuv>
+        </tu>
+        <tu tuid="2">
+            <prop name="folio">F.250.b</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-05-03T06:51:47.666Z" creationid="dolma">
+                <seg/>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-05-03T06:51:47.666Z" creationid="dolma">
+                <seg/>
+            </tuv>
+        </tu>
+    </body>
+</tmx>
