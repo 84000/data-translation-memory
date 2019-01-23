@@ -252,16 +252,7 @@
                 <seg>Do not look for the Buddha elsewhere.”</seg>
             </tuv>
         </tu>
-        <tu tuid="26">
-            <prop name="folio">F.153.a</prop>
-            <prop name="position">1757</prop>
-            <tuv xml:lang="bo" creationdate="2018-03-29T18:26:08.341Z" creationid="celso">
-                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང་།</seg>
-            </tuv>
-            <tuv xml:lang="en" creationdate="2018-03-29T18:26:08.341Z" creationid="celso">
-                <seg>After the Blessed One had spoken,</seg>
-            </tuv>
-        </tu>
+        
         <tu tuid="27">
             <prop name="folio">F.153.b</prop>
             <prop name="position">35</prop>
@@ -290,6 +281,26 @@
             </tuv>
             <tuv xml:lang="en" creationdate="2018-03-29T18:27:27.498Z" creationid="celso">
                 <seg>This concludes the Noble Mahāyāna Sūtra on Wisdom at the Hour of Death.</seg>
+            </tuv>
+        </tu>
+    <tu tuid="30">
+            <prop name="folio">F.153.a</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-03T08:46:44.312Z" creationid="dirk">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་ཀ་མ་ལ་གུཔྟ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-03T08:46:44.312Z" creationid="dirk">
+                <seg/>
+            </tuv>
+        </tu>
+        <tu tuid="31">
+            <prop name="folio">F.153.a</prop>
+            <prop name="position">1762</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-03T08:47:31.693Z" creationid="dirk">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-03T08:47:31.693Z" creationid="dirk">
+                <seg>After the Blessed One had spoken,</seg>
             </tuv>
         </tu>
     </body>

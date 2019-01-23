@@ -102,16 +102,7 @@
                 <seg>thanks to their correct knowledge, their minds were perfectly liberated.</seg>
             </tuv>
         </tu>
-        <tu tuid="11">
-            <prop name="folio">F.276.a</prop>
-            <prop name="position">933</prop>
-            <tuv xml:lang="bo" creationdate="2018-03-26T17:34:44.619Z" creationid="celso">
-                <seg>འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་དང་།</seg>
-            </tuv>
-            <tuv xml:lang="en" creationdate="2018-03-26T17:34:44.619Z" creationid="celso">
-                <seg>youthful Mañjuśrī,</seg>
-            </tuv>
-        </tu>
+        
         <tu tuid="12">
             <prop name="folio">F.276.a</prop>
             <prop name="position">952</prop>
@@ -15610,6 +15601,26 @@
             </tuv>
             <tuv xml:lang="en" creationdate="2018-05-22T17:15:18.088Z" creationid="celso">
                 <seg>And worship a hundred million buddhas.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="1718">
+            <prop name="folio">F.276.a</prop>
+            <prop name="position">1</prop>
+            <tuv xml:lang="bo" creationdate="2018-06-18T03:49:14.075Z" creationid="mabja">
+                <seg/>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-06-18T03:49:14.075Z" creationid="mabja">
+                <seg/>
+            </tuv>
+        </tu>
+        <tu tuid="1719">
+            <prop name="folio">F.276.b</prop>
+            <prop name="position">2018</prop>
+            <tuv xml:lang="bo" creationdate="2018-07-10T12:11:16.361Z" creationid="dirk">
+                <seg>རིམ་གྱིས་མཐོ་བ་ནོར་བུ་རིན་པོ་ཆེ་ཀུན་ཏུ་སྣང་བ་ལས་གྲུབ་པ། ནོར་བུ་རིན་པོ་ཆེ་གློག་གི་སྒྲོན་མའི་ཁ་ཁྱེར་གྱིས་ཡོངས་སུ་བསྐོར་བ། ནོར་བུ་རིན་པོ་ཆེ་འོད་བསམ་གྱིས་མི་ཁྱབ་པའི་ལན་ཀན་གྱིས་ཡོངས་སུ་བསྐོར་བ། ནོར་བུ་རིན་པོ་ཆེ་དཔེ་མེད་པས་ཡོངས་སུ་བསྐོར་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en" creationdate="2018-07-10T12:11:16.361Z" creationid="dirk">
+                <seg>A lion throne within a great, jeweled lotus then appeared at the center of the Womb of Dharmadhātu Palace. It was an uncountable number of leagues in width, and of unprecedented height.</seg>
             </tuv>
         </tu>
     </body>
