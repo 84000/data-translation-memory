@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx xmlns="http://www.lisa.org/tmx14">
-    <header creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-09-18T04:04:33.736Z" creationid="mabja"/>
+    <header xmlns:eft="http://read.84000.co/ns/1.0" creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-09-18T04:04:33.736Z" creationid="mabja" eft:text-id="UT22084-062-018"/>
     <body>
         <tu tuid="3">
             <prop name="folio">f.288.a</prop>

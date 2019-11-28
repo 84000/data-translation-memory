@@ -1,12 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <tmx xmlns="http://www.lisa.org/tmx14">
-    <header creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-03-26T15:49:49.594Z" creationid="celso"/>
+    <header xmlns:eft="http://read.84000.co/ns/1.0" creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-03-26T15:49:49.594Z" creationid="celso" eft:text-id="UT22084-051-004"/>
     <body>
-        
-        
-        
-        
-        
-    <tu tuid="5">
+        <tu tuid="5">
             <prop name="folio">f.215.a</prop>
             <prop name="position">13</prop>
             <tuv xml:lang="bo" creationdate="2018-09-19T04:07:20.519Z" creationid="mabja">
@@ -1626,7 +1622,6 @@
                 <seg>some go to the bathing pools;</seg>
             </tuv>
         </tu>
-        
         <tu tuid="292">
             <prop name="folio">f.239.b</prop>
             <prop name="position">512</prop>
@@ -2677,7 +2672,6 @@
                 <seg>they teach the perfection of generosity,</seg>
             </tuv>
         </tu>
-        
         <tu tuid="437">
             <prop name="folio">f.226.a</prop>
             <prop name="position">1242</prop>
@@ -4848,7 +4842,6 @@
                 <seg>There are those who are born in Kālasūtra, born in Raurava, born in the great hell of Hāhava,</seg>
             </tuv>
         </tu>
-        
         <tu tuid="800">
             <prop name="folio">f.229.a</prop>
             <prop name="position">1242</prop>
@@ -9599,7 +9592,6 @@
                 <seg>the samādhi named Summoning Nirvāṇa,</seg>
             </tuv>
         </tu>
-        
         <tu tuid="1536">
             <prop name="folio">f.233.b</prop>
             <prop name="position">1590</prop>
@@ -12920,7 +12912,6 @@
                 <seg>and many hundreds of thousands of other female kiṃnaras were gathered there.</seg>
             </tuv>
         </tu>
-        
         <tu tuid="2121">
             <prop name="folio">f.232.a</prop>
             <prop name="position">1939</prop>
@@ -18421,7 +18412,6 @@
                 <seg>Those who have incorrect conduct should not give ordination.</seg>
             </tuv>
         </tu>
-        
         <tu tuid="2681">
             <prop name="folio">f.246.a</prop>
             <prop name="position">1805</prop>

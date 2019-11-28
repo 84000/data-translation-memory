@@ -1,8 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <tmx xmlns="http://www.lisa.org/tmx14">
-    <header creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" segtype="phrase" adminlang="en" srclang="bo" o-tmf="tei" datatype="Text"/>
+    <header xmlns:eft="http://read.84000.co/ns/1.0" creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" segtype="phrase" adminlang="en" srclang="bo" o-tmf="tei" datatype="Text" eft:text-id="UT22084-055-004"/>
     <body>
-        
-    <tu tuid="2">
+        <tu tuid="2">
             <prop name="folio">F.210.b</prop>
             <prop name="position">41</prop>
             <tuv xml:lang="bo" creationdate="2018-07-10T13:12:45.352Z" creationid="dirk">
