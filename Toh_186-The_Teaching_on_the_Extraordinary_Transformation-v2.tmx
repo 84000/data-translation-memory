@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" version="1.4b">
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
     <header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="XML aligned text" eft:text-id="UT22084-061-006"/>
     <body>
         <tu>
@@ -9,8 +9,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-16"/>
-                    Homage to the Omniscient One!</seg>
+                    <tei:milestone xml:id="UT22084-061-006-16"/>Homage to the Omniscient One!</seg>
             </tuv>
         </tu>
         <tu>
@@ -20,8 +19,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-17"/>
-                    Thus did I hear at one time.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-17"/>Thus did I hear at one time.</seg>
             </tuv>
         </tu>
         <tu>
@@ -36,9 +34,7 @@
         <tu>
             <prop name="folio">F.144.a</prop>
             <tuv xml:lang="bo">
-                <seg>བརྒྱ་བྱིན་དང་། ཚངས་པ་དང་། འཇིག་རྟེན་སྐྱོང་བ་ཐམས་ཅད་དང་། རྒྱལ་པོ་དང་། བློན་པོ་དང་། བྲམ་ཟེ་དང་། ཁྱིམ་བདག་ཐམས་ཅད་ཀྱིས་བསྐོར་ཅིང་། མདུན་
-                    <ref folio="F.144.a"/>
-                    དུ་བདར་ཏེ</seg>
+                <seg>བརྒྱ་བྱིན་དང་། ཚངས་པ་དང་། འཇིག་རྟེན་སྐྱོང་བ་ཐམས་ཅད་དང་། རྒྱལ་པོ་དང་། བློན་པོ་དང་། བྲམ་ཟེ་དང་། ཁྱིམ་བདག་ཐམས་ཅད་ཀྱིས་བསྐོར་ཅིང་། མདུན་<tei:ref folio="F.144.a"/>དུ་བདར་ཏེ</seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>He was circumambulated by Śakra, Brahmā, and all the protectors of the world, as well as all the kings, ministers, brahmins, and householders, and was placed in front of the assembly.</seg>
@@ -68,8 +64,7 @@
                 <seg>བཱ་རཱ་ཎ་སཱིའི་ཤིང་ཨ་མྲ་སྲུང་བའི་ཚལ་ན་བཞུགས་སོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>where they stayed in the grove of the caretaker of mango trees.
-                    <note xml:id="UT22084-061-006-214"/>
+                <seg>where they stayed in the grove of the caretaker of mango trees.<tei:note xml:id="UT22084-061-006-214"/>
                 </seg>
             </tuv>
         </tu>
@@ -80,8 +75,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-18"/>
-                    At that time the earth trembled greatly, and</seg>
+                    <tei:milestone xml:id="UT22084-061-006-18"/>At that time the earth trembled greatly, and</seg>
             </tuv>
         </tu>
         <tu>
@@ -90,9 +84,7 @@
                 <seg>སེང་གེའི་ཁྲི་ཆེན་པོ་རིན་པོ་ཆེ་སྣ་བདུན་ལས་བྱས་པ། འཕང་དུ་དཔག་ཚད་གཅིག་ཙམ། ཞེང་དུ་དཔག་ཚད་ཕྱེད་ཙམ་གྱི་ཚད་ལེགས་པར་སྤྲས་པ། ཤིན་ཏུ་དགའ་བར་འགྱུར་བ། ཡིད་དུ་འོང་བ་དར་གྱི་ཆུན་པོ་བཏགས་ཤིང་དཔྱངས་པ། ལྷའི་ན་བཟའ་བརྒྱ་སྟོང་དུ་མ་བཏིང་བ། ལྷའི་མེ་ཏོག་གི་ཆུན་པོ་བྱེ་བ་དུ་མ་རབ་ཏུ་དཔྱངས་པ། ལྷའི་དྲི་དང་ལྡན་པ། ཁ་དོག་དང་ལྡན་པ། </seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>a vast lion throne made from the seven kinds of precious substances appeared. Covering about ten miles in height and five miles in breadth, it was well adorned,
-                    <note xml:id="UT22084-061-006-215"/>
-                     delightful, and pleasing to the mind. It was tied with hanging silk tassels, clothed with thousands of divine garments, covered with myriad garlands of divine flowers, endowed with a divine fragrance, and colorful.</seg>
+                <seg>a vast lion throne made from the seven kinds of precious substances appeared. Covering about ten miles in height and five miles in breadth, it was well adorned,<tei:note xml:id="UT22084-061-006-215"/> delightful, and pleasing to the mind. It was tied with hanging silk tassels, clothed with thousands of divine garments, covered with myriad garlands of divine flowers, endowed with a divine fragrance, and colorful.</seg>
             </tuv>
         </tu>
         <tu>
@@ -111,8 +103,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-19"/>
-                    Then, the Blessed One sat down on this lion throne,</seg>
+                    <tei:milestone xml:id="UT22084-061-006-19"/>Then, the Blessed One sat down on this lion throne,</seg>
             </tuv>
         </tu>
         <tu>
@@ -140,21 +131,17 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-20"/>
-                    “Avalokiteśvara, go forth. Together with Vajrapāṇi, use your great supernatural powers and state of concentration to assemble around me the beings of this Sahā world system and of the other world systems of the ten directions whom you should tame and who are degenerate, have no faith, practice negative deeds, are obscured because of various types of affliction, have no consideration for their mothers or fathers, do not respect ascetics or brahmins for what they are, and have no faith in the Three Jewels.”</seg>
+                    <tei:milestone xml:id="UT22084-061-006-20"/>“Avalokiteśvara, go forth. Together with Vajrapāṇi, use your great supernatural powers and state of concentration to assemble around me the beings of this Sahā world system and of the other world systems of the ten directions whom you should tame and who are degenerate, have no faith, practice negative deeds, are obscured because of various types of affliction, have no consideration for their mothers or fathers, do not respect ascetics or brahmins for what they are, and have no faith in the Three Jewels.”</seg>
             </tuv>
         </tu>
         <tu>
             <prop name="folio">F.144.b</prop>
             <tuv xml:lang="bo">
-                <seg>དེ་ནས་བྱང་
-                    <ref folio="F.144.b"/>
-                    ཆུབ་སེམས་དཔའ་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་དང་། བྱང་ཆུབ་སེམས་དཔའ་ལག་ན་རྡོ་རྗེས་དེ་བཞིན་གཤེགས་པ་ལས་ཚིག་འདི་ཐོས་ན</seg>
+                <seg>དེ་ནས་བྱང་<tei:ref folio="F.144.b"/>ཆུབ་སེམས་དཔའ་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་དང་། བྱང་ཆུབ་སེམས་དཔའ་ལག་ན་རྡོ་རྗེས་དེ་བཞིན་གཤེགས་པ་ལས་ཚིག་འདི་ཐོས་ན</seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-21"/>
-                    On hearing these words from the Tathāgata, the bodhisattvas Noble Avalokiteśvara and Vajrapāṇi</seg>
+                    <tei:milestone xml:id="UT22084-061-006-21"/>On hearing these words from the Tathāgata, the bodhisattvas Noble Avalokiteśvara and Vajrapāṇi</seg>
             </tuv>
         </tu>
         <tu>
@@ -182,8 +169,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <note xml:id="UT22084-061-006-216"/>
-                     Thousands of light rays shone forth from the bodies of Avalokiteśvara and Vajrapāṇi,</seg>
+                    <tei:note xml:id="UT22084-061-006-216"/> Thousands of light rays shone forth from the bodies of Avalokiteśvara and Vajrapāṇi,</seg>
             </tuv>
         </tu>
         <tu>
@@ -220,8 +206,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-22"/>
-                    “Be attentive and without afflictions.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-22"/>“Be attentive and without afflictions.</seg>
             </tuv>
         </tu>
         <tu>
@@ -267,8 +252,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-23"/>
-                    “Those of unwholesome livelihood have no fear,</seg>
+                    <tei:milestone xml:id="UT22084-061-006-23"/>“Those of unwholesome livelihood have no fear,</seg>
             </tuv>
         </tu>
         <tu>
@@ -278,8 +262,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-24"/>
-                    “Gain, desires, and women are impermanent.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-24"/>“Gain, desires, and women are impermanent.</seg>
             </tuv>
         </tu>
         <tu>
@@ -307,8 +290,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-25"/>
-                    “Behold how tricky things are!</seg>
+                    <tei:milestone xml:id="UT22084-061-006-25"/>“Behold how tricky things are!</seg>
             </tuv>
         </tu>
         <tu>
@@ -336,8 +318,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-26"/>
-                    “No doubt, human beings take birth in the ocean of saṃsāra’s suffering, Yet they are not afraid.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-26"/>“No doubt, human beings take birth in the ocean of saṃsāra’s suffering, Yet they are not afraid.</seg>
             </tuv>
         </tu>
         <tu>
@@ -356,8 +337,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-27"/>
-                    “Once you have understood the one who can guide the untamed,</seg>
+                    <tei:milestone xml:id="UT22084-061-006-27"/>“Once you have understood the one who can guide the untamed,</seg>
             </tuv>
         </tu>
         <tu>
@@ -382,14 +362,11 @@
             <prop name="folio">F.145.a</prop>
             <tuv xml:lang="bo">
                 <seg>
-                    <ref folio="F.145.a"/>
-                    མི་རྣམས་ཀྱིས་ནི་དམ་པ་དེ་ལ་མཆོད། །</seg>
+                    <tei:ref folio="F.145.a"/>མི་རྣམས་ཀྱིས་ནི་དམ་པ་དེ་ལ་མཆོད། །</seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-28"/>
-                    “All you humans, honor this noble one!
-                    <note xml:id="UT22084-061-006-217"/>
+                    <tei:milestone xml:id="UT22084-061-006-28"/>“All you humans, honor this noble one!<tei:note xml:id="UT22084-061-006-217"/>
                 </seg>
             </tuv>
         </tu>
@@ -418,8 +395,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-29"/>
-                    “Always pay homage to the Buddhadharma!</seg>
+                    <tei:milestone xml:id="UT22084-061-006-29"/>“Always pay homage to the Buddhadharma!</seg>
             </tuv>
         </tu>
         <tu>
@@ -447,8 +423,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-30"/>
-                    “Upon arriving, behold the supreme person.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-30"/>“Upon arriving, behold the supreme person.</seg>
             </tuv>
         </tu>
         <tu>
@@ -485,8 +460,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-31"/>
-                    “He is named Avalokiteśvara Who continuously sends forth light rays So that the ignorant know And the myriad beings are liberated.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-31"/>“He is named Avalokiteśvara Who continuously sends forth light rays So that the ignorant know And the myriad beings are liberated.</seg>
             </tuv>
         </tu>
         <tu>
@@ -496,8 +470,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-32"/>
-                    “Those who are proud, arrogant, and haughty, And those who do not venerate the Buddhadharma, The protector, the supreme Vajrapāṇi, never ceases to illuminate them And leads them to understanding.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-32"/>“Those who are proud, arrogant, and haughty, And those who do not venerate the Buddhadharma, The protector, the supreme Vajrapāṇi, never ceases to illuminate them And leads them to understanding.</seg>
             </tuv>
         </tu>
         <tu>
@@ -507,8 +480,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-33"/>
-                    “Their bodies are vast with great supernatural powers.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-33"/>“Their bodies are vast with great supernatural powers.</seg>
             </tuv>
         </tu>
         <tu>
@@ -527,8 +499,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-34"/>
-                    “There, in the grove of the caretaker of mango trees, Bring perfume, garlands, fine clothes, and ornaments to honor the Sugata.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-34"/>“There, in the grove of the caretaker of mango trees, Bring perfume, garlands, fine clothes, and ornaments to honor the Sugata.</seg>
             </tuv>
         </tu>
         <tu>
@@ -556,8 +527,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-35"/>
-                    “Beings have suffered for myriads of eons And will forever do so due to desire.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-35"/>“Beings have suffered for myriads of eons And will forever do so due to desire.</seg>
             </tuv>
         </tu>
         <tu>
@@ -576,8 +546,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-36"/>
-                    “Sons, daughters, relatives, Parents, wives, friends— All are illusory and pointless;</seg>
+                    <tei:milestone xml:id="UT22084-061-006-36"/>“Sons, daughters, relatives, Parents, wives, friends— All are illusory and pointless;</seg>
             </tuv>
         </tu>
         <tu>
@@ -596,8 +565,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-37"/>
-                    “So, too, gold and silver are like flashes of lightning.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-37"/>“So, too, gold and silver are like flashes of lightning.</seg>
             </tuv>
         </tu>
         <tu>
@@ -621,14 +589,11 @@
         <tu>
             <prop name="folio">F.145.b</prop>
             <tuv xml:lang="bo">
-                <seg>དེ་ནས་དེའི་ཚེ་ན་འོད་ཟེར་ལས་བྱུང་བའི་ཚིགས་སུ་བཅད་པས་བསྐུལ་བ་གཅིག་ནས་གཅིག་ཏུ་བརྒྱུད་པ་འདིས་སྟོང་གསུམ་གྱི་སྟོང་
-                    <ref folio="F.145.b"/>
-                    ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་སྒྲས་གང་བར་གྱུར་ནས་</seg>
+                <seg>དེ་ནས་དེའི་ཚེ་ན་འོད་ཟེར་ལས་བྱུང་བའི་ཚིགས་སུ་བཅད་པས་བསྐུལ་བ་གཅིག་ནས་གཅིག་ཏུ་བརྒྱུད་པ་འདིས་སྟོང་གསུམ་གྱི་སྟོང་<tei:ref folio="F.145.b"/>ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་སྒྲས་གང་བར་གྱུར་ནས་</seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-38"/>
-                    As these inspirational verses arose one after another from the light rays, they filled the world systems of the great trichiliocosm with sound,</seg>
+                    <tei:milestone xml:id="UT22084-061-006-38"/>As these inspirational verses arose one after another from the light rays, they filled the world systems of the great trichiliocosm with sound,</seg>
             </tuv>
         </tu>
         <tu>
@@ -742,16 +707,11 @@
         <tu>
             <prop name="folio">F.146.a</prop>
             <tuv xml:lang="bo">
-                <seg>དེ་ནས་དེའི་
-                    <ref folio="F.146.a"/>
-                    ཚེ་ན་བཅོམ་ལྡན་འདས་འཛམ་བུའི་གླིང་དང་། ཨ་མྲ་སྲུང་བ་མོའི་ཚལ་དེ་དཔག་ཚད་ཁྲག་ཁྲིག་བརྒྱ་སྟོང་དུ་མ་སྲིད་དུ་རྒྱ་ཆེ་བར་བྱིན་གྱིས་བརླབས་ཏེ། </seg>
+                <seg>དེ་ནས་དེའི་<tei:ref folio="F.146.a"/>ཚེ་ན་བཅོམ་ལྡན་འདས་འཛམ་བུའི་གླིང་དང་། ཨ་མྲ་སྲུང་བ་མོའི་ཚལ་དེ་དཔག་ཚད་ཁྲག་ཁྲིག་བརྒྱ་སྟོང་དུ་མ་སྲིད་དུ་རྒྱ་ཆེ་བར་བྱིན་གྱིས་བརླབས་ཏེ། </seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-39"/>
-                    Then, at that moment, the Blessed One exerted his sovereign power
-                    <note xml:id="UT22084-061-006-218"/>
-                     on Jambudvīpa and the grove of the caretaker of mango trees so that it extended over several trillions of yojanas.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-39"/>Then, at that moment, the Blessed One exerted his sovereign power<tei:note xml:id="UT22084-061-006-218"/> on Jambudvīpa and the grove of the caretaker of mango trees so that it extended over several trillions of yojanas.</seg>
             </tuv>
         </tu>
         <tu>
@@ -806,8 +766,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-40"/>
-                    Then, the bodhisattvas Noble Avalokiteśvara and Vajrapāṇi emerged from their state of concentration and</seg>
+                    <tei:milestone xml:id="UT22084-061-006-40"/>Then, the bodhisattvas Noble Avalokiteśvara and Vajrapāṇi emerged from their state of concentration and</seg>
             </tuv>
         </tu>
         <tu>
@@ -858,9 +817,7 @@
         <tu>
             <prop name="folio">F.146.b</prop>
             <tuv xml:lang="bo">
-                <seg>བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པའི་གཟི་བརྗིད་དང་རྫུ་འཕྲུལ་གྱི་མཐུས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དང་། ཉན་ཐོས་ཆེན་པོ་དང་། ལྷ་དང་། ཀླུ་དང་། གནོད་སྦྱིན་དང་། དྲི་ཟ་དང་། ལྷ་མ་ཡིན་དང་། ནམ་མཁའ་ལྡིང་
-                    <ref folio="F.146.b"/>
-                    དང་། མིའམ་ཅི་དང་། ལྟོ་འཕྱེ་ཆེན་པོ་དང་། རྒྱལ་པོ་དང་། བློན་པོ་དང་། བྲམ་ཟེ་དང་། ཁྱིམ་བདག་དང་། དགེ་སློང་དང་། དགེ་སློང་མ་དང་། དགེ་བསྙེན་དང་། དགེ་བསྙེན་མ་རྣམས་མང་དུ་འདུས་སོ། །</seg>
+                <seg>བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པའི་གཟི་བརྗིད་དང་རྫུ་འཕྲུལ་གྱི་མཐུས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དང་། ཉན་ཐོས་ཆེན་པོ་དང་། ལྷ་དང་། ཀླུ་དང་། གནོད་སྦྱིན་དང་། དྲི་ཟ་དང་། ལྷ་མ་ཡིན་དང་། ནམ་མཁའ་ལྡིང་<tei:ref folio="F.146.b"/>དང་། མིའམ་ཅི་དང་། ལྟོ་འཕྱེ་ཆེན་པོ་དང་། རྒྱལ་པོ་དང་། བློན་པོ་དང་། བྲམ་ཟེ་དང་། ཁྱིམ་བདག་དང་། དགེ་སློང་དང་། དགེ་སློང་མ་དང་། དགེ་བསྙེན་དང་། དགེ་བསྙེན་མ་རྣམས་མང་དུ་འདུས་སོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>Blessed One, the bodhisattva mahāsattvas, the great śrāvakas, gods, nāgas, yakṣas, gandharvas, asuras, garuḍas, kinnaras, mahoragas, kings, ministers, brahmins, householders, monks, nuns, and male and female lay vow holders have gathered here in great numbers through the strength of the Tathāgata’s majesty and supernatural powers.”</seg>
@@ -873,8 +830,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-41"/>
-                    The Blessed One replied,</seg>
+                    <tei:milestone xml:id="UT22084-061-006-41"/>The Blessed One replied,</seg>
             </tuv>
         </tu>
         <tu>
@@ -1055,9 +1011,7 @@
                 <seg>!ཁ་ཅིག་ནི་དགེ་སློང་གི་དགེ་འདུན་ལ་མཆོད་པ་དང་བཀུར་སྟི་བྱ་བའི་དགེ་བའི་རྩ་བ་ལ་སྤྲོ་བ་བསྐྱེད་པས་འདུལ། </seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>Some to be converted strive
-                    <note xml:id="UT22084-061-006-219"/>
-                     for the roots of virtue that arise from worshipping and venerating the saṅgha of monks.</seg>
+                <seg>Some to be converted strive<tei:note xml:id="UT22084-061-006-219"/> for the roots of virtue that arise from worshipping and venerating the saṅgha of monks.</seg>
             </tuv>
         </tu>
         <tu>
@@ -1066,9 +1020,7 @@
                 <seg>ཁ་ཅིག་ནི་མདོ་སྡེ་འདྲི་བ་དང་། འདྲིར་གཞུག་པ་དང་། བཀླག་པ་ལ་སྤྲོ་བ་བསྐྱེད་པས་འདུལ། </seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>Some to be converted strive for the roots of virtue that arise from copying sūtras,
-                    <note xml:id="UT22084-061-006-220"/>
-                     having sūtras copied, or reciting sūtras.</seg>
+                <seg>Some to be converted strive for the roots of virtue that arise from copying sūtras,<tei:note xml:id="UT22084-061-006-220"/> having sūtras copied, or reciting sūtras.</seg>
             </tuv>
         </tu>
         <tu>
@@ -1083,9 +1035,7 @@
         <tu>
             <prop name="folio">F.147.a</prop>
             <tuv xml:lang="bo">
-                <seg>དོན་དམ་པ་ལ་མཁས་
-                    <ref folio="F.147.a"/>
-                    པའི་ཆོས་དང་ལྡན་པ་དང་། མྱ་ངན་ལས་འདས་པའི་ཆོས་དང་ལྡན་པ་ནི་མ་ཡིན་ནོ། །</seg>
+                <seg>དོན་དམ་པ་ལ་མཁས་<tei:ref folio="F.147.a"/>པའི་ཆོས་དང་ལྡན་པ་དང་། མྱ་ངན་ལས་འདས་པའི་ཆོས་དང་ལྡན་པ་ནི་མ་ཡིན་ནོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>They do not partake of a Dharma versed in the ultimate nor of a Dharma concerned with nirvāṇa.</seg>
@@ -1098,8 +1048,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-42"/>
-                    “Sons of the Victorious One, there is indeed nothing whatsoever that the tathāgatas do not know, see, hear, or fully comprehend.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-42"/>“Sons of the Victorious One, there is indeed nothing whatsoever that the tathāgatas do not know, see, hear, or fully comprehend.</seg>
             </tuv>
         </tu>
         <tu>
@@ -1190,8 +1139,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-43"/>
-                    “Sons of the Victorious One, it is as follows.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-43"/>“Sons of the Victorious One, it is as follows.</seg>
             </tuv>
         </tu>
         <tu>
@@ -1254,8 +1202,7 @@
                 <seg>སྨན་གྱི་རྫས་སྣ་ཚོགས་ཀྱིས་སྐྱུག་པ་དང་། བཀྲུ་བ་དང་། ཕྱེ་མ་སྦྱར་བ་དང་། སྣ་ནས་བླུག་པའི་ལས་དང་། གཏར་ཀ་གདབ་པ་དང་། མར་དང་། འབྲུ་མར་བསྐོལ་བ་དང་། སྨིན་པར་བྱ་བ་རྣམས་སྦྱོར་བའི་ཐབས་ཀྱིས་སེམས་ཅན་ཐམས་ཅད་ཀྱི་ནད་དེ་དག་ཐམས་ཅད་ཉེ་བར་ཞི་བར་བྱེད་ཅིང་ནད་སྣ་ཚོགས་ཀྱི་འཇིགས་པ་ལས་ཡོངས་སུ་ཐར་བར་བྱེད་དོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>he cures the diseases of all beings and liberates them from the fear of diverse ailments through various medicinal substances, vomitives, purgatives, powders, sternutatory treatments, bleeding, ghee, boiled oil, and tonics.
-                    <note xml:id="UT22084-061-006-221"/>
+                <seg>he cures the diseases of all beings and liberates them from the fear of diverse ailments through various medicinal substances, vomitives, purgatives, powders, sternutatory treatments, bleeding, ghee, boiled oil, and tonics.<tei:note xml:id="UT22084-061-006-221"/>
                 </seg>
             </tuv>
         </tu>
@@ -1266,18 +1213,14 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-44"/>
-                    “In the same way, noble sons of the Victorious One, the Tathāgata possesses eight branches of Āyurveda with the various states of concentration, the bases of supernatural powers, the powers, the assurances, and divine sight and hearing.
-                    <note xml:id="UT22084-061-006-222"/>
+                    <tei:milestone xml:id="UT22084-061-006-44"/>“In the same way, noble sons of the Victorious One, the Tathāgata possesses eight branches of Āyurveda with the various states of concentration, the bases of supernatural powers, the powers, the assurances, and divine sight and hearing.<tei:note xml:id="UT22084-061-006-222"/>
                 </seg>
             </tuv>
         </tu>
         <tu>
             <prop name="folio">F.147.b</prop>
             <tuv xml:lang="bo">
-                <seg>སེམས་ཅན་གྱི་ཁམས་དང་། བསམ་པ་དང་། སྦྱོར་བ་སྣ་ཚོགས་
-                    <ref folio="F.147.b"/>
-                    ལ་མཁས་པས་འདོད་ཆགས་དང་། ཞེ་སྡང་དང་། གཏི་མུག་གི་ནད་དང་། ཉོན་མོངས་པ་དང་། ཉེ་བའི་ཉོན་མོངས་པའི་ནད་ཀྱིས་གཟིར་བའི་སེམས་ཅན་དང་། ང་རྒྱལ་དང་། རྒྱགས་པ་དང་། དྲེགས་པས་བསྒྲིབས་པ་དང་། ཆགས་པ་དང་། མྱ་ངན་དང་། འཇིགས་པ་དང་། ཁྲོ་བས་བསྒྲིབས་པ་རྣམས་སེམས་ཅན་དམྱལ་བ་དང་། དུད་འགྲོའི་སྐྱེ་གནས་དང་། ཡི་དགས་ཀྱི་སྐྱེ་གནས་དང་། གཤིན་རྗེའི་འཇིག་རྟེན་གྱི་གནས་ནས་ཡོངས་སུ་ཐར་བར་བྱ་བའི་ཕྱིར་ཐབས་མཁས་པ་སྣ་ཚོགས་དང་། སྦྱོར་བ་སྣ་ཚོགས་དང་། ཏིང་ངེ་འཛིན་སྣ་ཚོགས་དང་། རྫུ་འཕྲུལ་གྱི་རྣམ་པར་རོལ་པས་སེམས་ཅན་རྣམས་ཡོངས་སུ་གྲོལ་བར་བྱས་ནས་</seg>
+                <seg>སེམས་ཅན་གྱི་ཁམས་དང་། བསམ་པ་དང་། སྦྱོར་བ་སྣ་ཚོགས་<tei:ref folio="F.147.b"/>ལ་མཁས་པས་འདོད་ཆགས་དང་། ཞེ་སྡང་དང་། གཏི་མུག་གི་ནད་དང་། ཉོན་མོངས་པ་དང་། ཉེ་བའི་ཉོན་མོངས་པའི་ནད་ཀྱིས་གཟིར་བའི་སེམས་ཅན་དང་། ང་རྒྱལ་དང་། རྒྱགས་པ་དང་། དྲེགས་པས་བསྒྲིབས་པ་དང་། ཆགས་པ་དང་། མྱ་ངན་དང་། འཇིགས་པ་དང་། ཁྲོ་བས་བསྒྲིབས་པ་རྣམས་སེམས་ཅན་དམྱལ་བ་དང་། དུད་འགྲོའི་སྐྱེ་གནས་དང་། ཡི་དགས་ཀྱི་སྐྱེ་གནས་དང་། གཤིན་རྗེའི་འཇིག་རྟེན་གྱི་གནས་ནས་ཡོངས་སུ་ཐར་བར་བྱ་བའི་ཕྱིར་ཐབས་མཁས་པ་སྣ་ཚོགས་དང་། སྦྱོར་བ་སྣ་ཚོགས་དང་། ཏིང་ངེ་འཛིན་སྣ་ཚོགས་དང་། རྫུ་འཕྲུལ་གྱི་རྣམ་པར་རོལ་པས་སེམས་ཅན་རྣམས་ཡོངས་སུ་གྲོལ་བར་བྱས་ནས་</seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>He is well versed in the various conditions of beings, their intentions, and their conduct. Thus he seeks to free from taking rebirth in hell or as animals, hungry ghosts, or in the world of Yama all those beings who are tormented by the diseases of desire, hatred, and bewilderment and by the sicknesses of the fundamental and secondary defilements, as well as those obscured by pride, vanity, and arrogance or by attachment, suffering, fear, and anger. To this end, by using various skillful means, various practices, various states of concentration, and supernatural powers, he brings beings to all stages of liberation</seg>
@@ -1308,8 +1251,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-45"/>
-                    “He liberates them from the eight unwholesome factors and sets each of them on the eightfold noble path.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-45"/>“He liberates them from the eight unwholesome factors and sets each of them on the eightfold noble path.</seg>
             </tuv>
         </tu>
         <tu>
@@ -1423,9 +1365,7 @@
         <tu>
             <prop name="folio">F.148.a</prop>
             <tuv xml:lang="bo">
-                <seg>ཁྱིམ་
-                    <ref folio="F.148.a"/>
-                    ནས་འབྱུང་བ་དང་། རབ་ཏུ་འབྱུང་བ་དང་། དཀའ་བ་སྤྱད་པ་རྣམས་ཀྱང་སྟོན། </seg>
+                <seg>ཁྱིམ་<tei:ref folio="F.148.a"/>ནས་འབྱུང་བ་དང་། རབ་ཏུ་འབྱུང་བ་དང་། དཀའ་བ་སྤྱད་པ་རྣམས་ཀྱང་སྟོན། </seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>He also manifests as someone who renounces the household life, goes forth to live as a renunciant and practices asceticism,</seg>
@@ -1455,9 +1395,7 @@
                 <seg>བསླབ་པ་འཛིན་པ་དང་། བརྟུལ་ཞུགས་དང་། སྡོམ་པ་དང་། ཉེ་བར་གནས་པ་དང་། དགེ་བསྙེན་གྱི་སྡོམ་པ་རྣམས་འཛིན་དུ་གཞུག་པའི་ཐབས་མཁས་པས་ཀྱང་སེམས་ཅན་རྣམས་ཐར་བར་མཛད་དེ</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>They also liberate beings through skillful means such as maintaining the training, the way of life, the monastic vows, fasting,
-                    <note xml:id="UT22084-061-006-223"/>
-                     and the lay pledges.</seg>
+                <seg>They also liberate beings through skillful means such as maintaining the training, the way of life, the monastic vows, fasting,<tei:note xml:id="UT22084-061-006-223"/> and the lay pledges.</seg>
             </tuv>
         </tu>
         <tu>
@@ -1494,8 +1432,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-46"/>
-                    At that point, some dim-witted gods thought,</seg>
+                    <tei:milestone xml:id="UT22084-061-006-46"/>At that point, some dim-witted gods thought,</seg>
             </tuv>
         </tu>
         <tu>
@@ -1537,9 +1474,7 @@
         <tu>
             <prop name="folio">F.148.b</prop>
             <tuv xml:lang="bo">
-                <seg>འཁོར་མང་པོ་བསྡུས་ནས་རྫུ་འཕྲུལ་དང་རྣམ་པར་འཕྲུལ་བའི་ཆོ་འཕྲུལ་སྣ་ཚོགས་
-                    <ref folio="F.148.b"/>
-                    སྟོན་པ་ལས་ན། </seg>
+                <seg>འཁོར་མང་པོ་བསྡུས་ནས་རྫུ་འཕྲུལ་དང་རྣམ་པར་འཕྲུལ་བའི་ཆོ་འཕྲུལ་སྣ་ཚོགས་<tei:ref folio="F.148.b"/>སྟོན་པ་ལས་ན། </seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>And he is displaying supernatural powers and miracles of extraordinary transformations after having assembled a great retinue.</seg>
@@ -1561,8 +1496,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-47"/>
-                    The youthful Mañjuśrī then clairvoyantly understood what those gods were thinking and said to them,</seg>
+                    <tei:milestone xml:id="UT22084-061-006-47"/>The youthful Mañjuśrī then clairvoyantly understood what those gods were thinking and said to them,</seg>
             </tuv>
         </tu>
         <tu>
@@ -1685,9 +1619,7 @@
         <tu>
             <prop name="folio">F.149.a</prop>
             <tuv xml:lang="bo">
-                <seg>གང་གི་ཚེ་སེམས་ཅན་རྣམས་དགེ་བའི་རྩ་བ་ཡོངས་སུ་སྨིན་པར་གྱུར་ཅིང་དེ་བཞིན་གཤེགས་
-                    <ref folio="F.149.a"/>
-                    པ་ལ་བལྟ་བར་འདོད་པ་དང་། མཆོད་པར་འོས་པ་དང་། ཆོས་ཉན་པར་འདོད་པ་དང་། ཟླ་བའི་དཀྱིལ་འཁོར་བཞིན་དུ་འདོད་པར་གྱུར་པ་དེའི་ཚེ་ལྷ་དང་མི་རྣམས་ཀྱི་སྐྱེ་བོ་མང་པོ་ལ་ཕན་པ་དང་། སྐྱེ་བོ་མང་པོ་ལ་བདེ་བར་བྱ་བ་དང་། དཀོན་མཆོག་གསུམ་གསལ་བར་བྱ་བ་དང་། རྒྱས་པར་བྱ་བའི་ཕྱིར་དེ་བཞིན་གཤེགས་པ་འཇིག་རྟེན་དུ་འབྱུང་མོད་ཀྱི། དེ་བཞིན་གཤེགས་པ་ལ་སྐྱེ་བ་མེད་དེ</seg>
+                <seg>གང་གི་ཚེ་སེམས་ཅན་རྣམས་དགེ་བའི་རྩ་བ་ཡོངས་སུ་སྨིན་པར་གྱུར་ཅིང་དེ་བཞིན་གཤེགས་<tei:ref folio="F.149.a"/>པ་ལ་བལྟ་བར་འདོད་པ་དང་། མཆོད་པར་འོས་པ་དང་། ཆོས་ཉན་པར་འདོད་པ་དང་། ཟླ་བའི་དཀྱིལ་འཁོར་བཞིན་དུ་འདོད་པར་གྱུར་པ་དེའི་ཚེ་ལྷ་དང་མི་རྣམས་ཀྱི་སྐྱེ་བོ་མང་པོ་ལ་ཕན་པ་དང་། སྐྱེ་བོ་མང་པོ་ལ་བདེ་བར་བྱ་བ་དང་། དཀོན་མཆོག་གསུམ་གསལ་བར་བྱ་བ་དང་། རྒྱས་པར་བྱ་བའི་ཕྱིར་དེ་བཞིན་གཤེགས་པ་འཇིག་རྟེན་དུ་འབྱུང་མོད་ཀྱི། དེ་བཞིན་གཤེགས་པ་ལ་སྐྱེ་བ་མེད་དེ</seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>When the roots of virtue of beings have fully matured, and they long to look upon the Tathāgata, are worthy of veneration, long to listen to the Dharma, and their longing is like the full moon, at that time, the Tathāgata appears in the world for the benefit and happiness of many beings such as gods and humans, and for the sake of manifesting and propagating the Three Jewels to them.</seg>
@@ -1700,8 +1632,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <note xml:id="UT22084-061-006-224"/>
-                     But in fact, the Tathāgata is not born, nor does he age or die.</seg>
+                    <tei:note xml:id="UT22084-061-006-224"/> But in fact, the Tathāgata is not born, nor does he age or die.</seg>
             </tuv>
         </tu>
         <tu>
@@ -1711,8 +1642,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-48"/>
-                    “Sons of noble family, it is as follows.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-48"/>“Sons of noble family, it is as follows.</seg>
             </tuv>
         </tu>
         <tu>
@@ -1740,8 +1670,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <note xml:id="UT22084-061-006-225"/>
-                     Gods, you should also look upon the body of the Tathāgata in this way.</seg>
+                    <tei:note xml:id="UT22084-061-006-225"/> Gods, you should also look upon the body of the Tathāgata in this way.</seg>
             </tuv>
         </tu>
         <tu>
@@ -1805,8 +1734,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-49"/>
-                    “Moreover, gods, the tathāgatas, even though a thousand years, an eon, or ten million eons may have elapsed since their parinirvāṇa, because of their former vows, and</seg>
+                    <tei:milestone xml:id="UT22084-061-006-49"/>“Moreover, gods, the tathāgatas, even though a thousand years, an eon, or ten million eons may have elapsed since their parinirvāṇa, because of their former vows, and</seg>
             </tuv>
         </tu>
         <tu>
@@ -1821,9 +1749,7 @@
         <tu>
             <prop name="folio">F.149.b</prop>
             <tuv xml:lang="bo">
-                <seg>སེམས་ཅན་དམྱལ་བ་དང་། དུད་འགྲོའི་སྐྱེ་གནས་དང་། གཤིན་རྗེའི་འཇིག་རྟེན་དང་། མི་ཁོམ་པ་དང་། ངན་སོང་དང་། ངན་འགྲོ་ལོག་པར་ལྟུང་བ་ཐམས་ཅད་དང་། སྡུག་
-                    <ref folio="F.149.b"/>
-                    བསྔལ་ཐམས་ཅད་ལས་ཡོངས་སུ་ཐར་བར་མཛད་ནས་</seg>
+                <seg>སེམས་ཅན་དམྱལ་བ་དང་། དུད་འགྲོའི་སྐྱེ་གནས་དང་། གཤིན་རྗེའི་འཇིག་རྟེན་དང་། མི་ཁོམ་པ་དང་། ངན་སོང་དང་། ངན་འགྲོ་ལོག་པར་ལྟུང་བ་ཐམས་ཅད་དང་། སྡུག་<tei:ref folio="F.149.b"/>བསྔལ་ཐམས་ཅད་ལས་ཡོངས་སུ་ཐར་བར་མཛད་ནས་</seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>liberate beings from all the hells, animal births, the world of Yama, downfalls into inopportune existences, unfortunate destinies, bad rebirths, and all suffering, even though these tathāgatas might belong to different world systems,</seg>
@@ -1836,9 +1762,7 @@
                 <seg>!རིམ་གྱིས་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཀྱི་བར་དུ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་བར་འགྱུར་ན</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>until beings gradually attain unsurpassable, truly perfect enlightenment.
-                    <note xml:id="UT22084-061-006-226"/>
-                     Thus,</seg>
+                <seg>until beings gradually attain unsurpassable, truly perfect enlightenment.<tei:note xml:id="UT22084-061-006-226"/> Thus,</seg>
             </tuv>
         </tu>
         <tu>
@@ -1943,9 +1867,7 @@
         <tu>
             <prop name="folio">F.150.a</prop>
             <tuv xml:lang="bo">
-                <seg>བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་སེམས་སྐྱེས་ནས་ལྷའི་མེ་ཏོག་དང་། ལྷའི་སྤོས་དང་། ཕྲེང་བ་དང་། བྱུག་པ་དང་། ཕྱེ་མ་དང་། སིལ་སྙན་དང་། གདུགས་དང་། རྒྱལ་
-                    <ref folio="F.150.a"/>
-                    མཚན་རྣམས་ཀྱིས་མཆོད་པ་བྱེད་པ་ལྟ་སྨོས་ཀྱང་ཅི་དགོས་ཏེ</seg>
+                <seg>བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་སེམས་སྐྱེས་ནས་ལྷའི་མེ་ཏོག་དང་། ལྷའི་སྤོས་དང་། ཕྲེང་བ་དང་། བྱུག་པ་དང་། ཕྱེ་མ་དང་། སིལ་སྙན་དང་། གདུགས་དང་། རྒྱལ་<tei:ref folio="F.150.a"/>མཚན་རྣམས་ཀྱིས་མཆོད་པ་བྱེད་པ་ལྟ་སྨོས་ཀྱང་ཅི་དགོས་ཏེ</seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>And what need is there to mention those who, having produced the thought directed toward unsurpassable, truly perfect awakening, make offerings of divine flowers and incense, garlands, salves, aromatic powders, cymbals, umbrellas, and royal banners?</seg>
@@ -1994,8 +1916,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-50"/>
-                    Then, those gods thought,</seg>
+                    <tei:milestone xml:id="UT22084-061-006-50"/>Then, those gods thought,</seg>
             </tuv>
         </tu>
         <tu>
@@ -2032,8 +1953,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-51"/>
-                    The youthful Mañjuśrī, having clairvoyantly understood what those gods were thinking, said,</seg>
+                    <tei:milestone xml:id="UT22084-061-006-51"/>The youthful Mañjuśrī, having clairvoyantly understood what those gods were thinking, said,</seg>
             </tuv>
         </tu>
         <tu>
@@ -2066,14 +1986,11 @@
         <tu>
             <prop name="folio">F.150.b</prop>
             <tuv xml:lang="bo">
-                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཇི་ལྟ་བུའི་རྫུ་འཕྲུལ་མངོན་པར་འདུ་མཛད་པ་མངོན་པར་མཛད་པས་དེ་བཞིན་གཤེགས་པ་གཙུག་ཕུད་ཅན་དང་། ཐམས་ཅད་སྐྱོབ་དང་། ལོག་པར་དད་སེལ་དང་། གསེར་ཐུབ་དང་། འོད་སྲུང་དང་། རྣམ་པར་གཟིགས་དང་། མི་འཁྲུགས་པ་དང་། འོད་དཔག་ཏུ་མེད་པ་དེ་དག་འཁོར་གྱི་དཀྱིལ་འཁོར་ན་བཞུགས་ཤིང་དེ་བཞིན་གཤེགས་པ་སེང་གེའི་ཁྲི་ཆེན་པོ་ལ་བཞུགས་ནས་ཉན་ཐོས་དང་། བྱང་ཆུབ་སེམས་
-                    <ref folio="F.150.b"/>
-                    དཔར་བཅས་པས་བསྐོར་ཅིང་འཁོར་རྒྱ་མཚོ་ལྟ་བུ་ལ་ཆོས་སྟོན་པར་སྣང་བ་དང་། </seg>
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཇི་ལྟ་བུའི་རྫུ་འཕྲུལ་མངོན་པར་འདུ་མཛད་པ་མངོན་པར་མཛད་པས་དེ་བཞིན་གཤེགས་པ་གཙུག་ཕུད་ཅན་དང་། ཐམས་ཅད་སྐྱོབ་དང་། ལོག་པར་དད་སེལ་དང་། གསེར་ཐུབ་དང་། འོད་སྲུང་དང་། རྣམ་པར་གཟིགས་དང་། མི་འཁྲུགས་པ་དང་། འོད་དཔག་ཏུ་མེད་པ་དེ་དག་འཁོར་གྱི་དཀྱིལ་འཁོར་ན་བཞུགས་ཤིང་དེ་བཞིན་གཤེགས་པ་སེང་གེའི་ཁྲི་ཆེན་པོ་ལ་བཞུགས་ནས་ཉན་ཐོས་དང་། བྱང་ཆུབ་སེམས་<tei:ref folio="F.150.b"/>དཔར་བཅས་པས་བསྐོར་ཅིང་འཁོར་རྒྱ་མཚོ་ལྟ་བུ་ལ་ཆོས་སྟོན་པར་སྣང་བ་དང་། </seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-52"/>
-                    At this, the Blessed One displayed his supernatural powers and the tathāgatas Śikhin, Viśvabhū, Krakucchanda, Kanakamuni, Vipāśyin, Akṣobhya, and Amitābha appeared in his surrounding retinue, sitting on lion thrones surrounded by the saṅgha of śrāvakas and bodhisattvas, and taught the Dharma to an ocean-like retinue.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-52"/>At this, the Blessed One displayed his supernatural powers and the tathāgatas Śikhin, Viśvabhū, Krakucchanda, Kanakamuni, Vipāśyin, Akṣobhya, and Amitābha appeared in his surrounding retinue, sitting on lion thrones surrounded by the saṅgha of śrāvakas and bodhisattvas, and taught the Dharma to an ocean-like retinue.</seg>
             </tuv>
         </tu>
         <tu>
@@ -2092,8 +2009,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-53"/>
-                    The retinue of all those gathered and the gods rejoiced, jubilated, and were pleased.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-53"/>The retinue of all those gathered and the gods rejoiced, jubilated, and were pleased.</seg>
             </tuv>
         </tu>
         <tu>
@@ -2121,8 +2037,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-54"/>
-                    “How wonderful is this gnosis! For this, one should practice the state of concentration and insight!</seg>
+                    <tei:milestone xml:id="UT22084-061-006-54"/>“How wonderful is this gnosis! For this, one should practice the state of concentration and insight!</seg>
             </tuv>
         </tu>
         <tu>
@@ -2131,9 +2046,7 @@
                 <seg>ཇི་ལྟར་འཇིག་རྟེན་སྒྲོན་མ་རྣམས། །འདས་ནས་བསྐལ་པ་དུ་མ་ན། །སེམས་ཅན་རྣམས་ལ་ཕན་པའི་ཕྱིར། །དཔའ་བོ་ཆེན་པོ་འདི་ན་བཞུགས། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>Just like lights illuminating the world, This great hero will remain 
-                    <milestone xml:id="UT22084-061-006-55"/>
-                    “For the benefit of beings For many eons after his nirvāṇa.</seg>
+                <seg>Just like lights illuminating the world, This great hero will remain <tei:milestone xml:id="UT22084-061-006-55"/>“For the benefit of beings For many eons after his nirvāṇa.</seg>
             </tuv>
         </tu>
         <tu>
@@ -2152,8 +2065,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-56"/>
-                    “Seeing the Buddha is excellent.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-56"/>“Seeing the Buddha is excellent.</seg>
             </tuv>
         </tu>
         <tu>
@@ -2181,8 +2093,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-57"/>
-                    “All the precepts of the body That preserve the training are excellent.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-57"/>“All the precepts of the body That preserve the training are excellent.</seg>
             </tuv>
         </tu>
         <tu>
@@ -2201,8 +2112,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-58"/>
-                    “Those who are skillful in means and insight Will liberate beings in this world.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-58"/>“Those who are skillful in means and insight Will liberate beings in this world.</seg>
             </tuv>
         </tu>
         <tu>
@@ -2221,8 +2131,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-59"/>
-                    “The Tathāgata shows himself To come and go.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-59"/>“The Tathāgata shows himself To come and go.</seg>
             </tuv>
         </tu>
         <tu>
@@ -2231,9 +2140,7 @@
                 <seg>མཆོད་རྟེན་དང་ནི་རི་མོ་དང་། །སྐུ་གཟུགས་བྱེད་དུ་གཞུག་པ་དང་། །མཆོད་དང་བཀུར་སྟི་བྱ་བའི་ཕྱིར། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>Because they have stūpas, Drawings, and images made 
-                    <milestone xml:id="UT22084-061-006-60"/>
-                    “And they honor and worship him,</seg>
+                <seg>Because they have stūpas, Drawings, and images made <tei:milestone xml:id="UT22084-061-006-60"/>“And they honor and worship him,</seg>
             </tuv>
         </tu>
         <tu>
@@ -2252,16 +2159,13 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-61"/>
-                    “Since they pay homage to the Tathāgata,</seg>
+                    <tei:milestone xml:id="UT22084-061-006-61"/>“Since they pay homage to the Tathāgata,</seg>
             </tuv>
         </tu>
         <tu>
             <prop name="folio">F.151.a</prop>
             <tuv xml:lang="bo">
-                <seg>དམ་པའི་
-                    <ref folio="F.151.a"/>
-                    ཆོས་ནི་མཉན་པ་དང་། །མཆོད་ཅིང་འཛིན་པའང་དེ་བཞིན་ཏེ། །</seg>
+                <seg>དམ་པའི་<tei:ref folio="F.151.a"/>ཆོས་ནི་མཉན་པ་དང་། །མཆོད་ཅིང་འཛིན་པའང་དེ་བཞིན་ཏེ། །</seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>Listen to the noble Dharma, And worship and retain it accordingly,</seg>
@@ -2283,9 +2187,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-61"/>
-                    As the Tathāgata imparted this instruction on the sovereign power and the miracle of the extraordinary transformation of a tathāgata, sixty-four thousand beings reached the stage where they accepted that phenomena are not produced.
-                    <note xml:id="UT22084-061-006-227"/>
+                    <tei:milestone xml:id="UT22084-061-006-61"/>As the Tathāgata imparted this instruction on the sovereign power and the miracle of the extraordinary transformation of a tathāgata, sixty-four thousand beings reached the stage where they accepted that phenomena are not produced.<tei:note xml:id="UT22084-061-006-227"/>
                 </seg>
             </tuv>
         </tu>
@@ -2332,8 +2234,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-63"/>
-                    King Prasenajit said to the youthful Mañjuśrī,</seg>
+                    <tei:milestone xml:id="UT22084-061-006-63"/>King Prasenajit said to the youthful Mañjuśrī,</seg>
             </tuv>
         </tu>
         <tu>
@@ -2397,8 +2298,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-64"/>
-                    Mañjuśrī replied,</seg>
+                    <tei:milestone xml:id="UT22084-061-006-64"/>Mañjuśrī replied,</seg>
             </tuv>
         </tu>
         <tu>
@@ -2426,8 +2326,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-65"/>
-                    The king said,</seg>
+                    <tei:milestone xml:id="UT22084-061-006-65"/>The king said,</seg>
             </tuv>
         </tu>
         <tu>
@@ -2469,14 +2368,11 @@
         <tu>
             <prop name="folio">F.151.b</prop>
             <tuv xml:lang="bo">
-                <seg>འཇམ་དཔལ་གྱིས་
-                    <ref folio="F.151.b"/>
-                    སྨྲས་པ། </seg>
+                <seg>འཇམ་དཔལ་གྱིས་<tei:ref folio="F.151.b"/>སྨྲས་པ། </seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-66"/>
-                    Mañjuśrī replied,</seg>
+                    <tei:milestone xml:id="UT22084-061-006-66"/>Mañjuśrī replied,</seg>
             </tuv>
         </tu>
         <tu>
@@ -2495,9 +2391,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-67"/>
-                    “In the world system called Vaiḍūrya Light abides the Tathāgata, the Arhat, the truly perfect Buddha called Bhaiṣajyaguru Vaidūryaprabharāja,
-                    <note xml:id="UT22084-061-006-228"/>
+                    <tei:milestone xml:id="UT22084-061-006-67"/>“In the world system called Vaiḍūrya Light abides the Tathāgata, the Arhat, the truly perfect Buddha called Bhaiṣajyaguru Vaidūryaprabharāja,<tei:note xml:id="UT22084-061-006-228"/>
                 </seg>
             </tuv>
         </tu>
@@ -2594,9 +2488,7 @@
         <tu>
             <prop name="folio">F.152.a</prop>
             <tuv xml:lang="bo">
-                <seg>འཇིག་རྟེན་གྱི་ཁམས་ངན་འགྲོ་དང་བྲལ་བ་ན་དེ་བཞིན་གཤེགས་པ་ངན་སོང་ཐམས་ཅད་ཞི་བར་
-                    <ref folio="F.152.a"/>
-                    མཛད་པ་ཞེས་བྱ་བ་དང་། </seg>
+                <seg>འཇིག་རྟེན་གྱི་ཁམས་ངན་འགྲོ་དང་བྲལ་བ་ན་དེ་བཞིན་གཤེགས་པ་ངན་སོང་ཐམས་ཅད་ཞི་བར་<tei:ref folio="F.152.a"/>མཛད་པ་ཞེས་བྱ་བ་དང་། </seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>In the world system called Free from Negative Forms of Existence abides the Tathāgata called Pacifier of All Negative Forms of Existence.</seg>
@@ -2636,8 +2528,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-68"/>
-                    “In the world system called Moon abides the Tathāgata called Stainless Full Moon.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-68"/>“In the world system called Moon abides the Tathāgata called Stainless Full Moon.</seg>
             </tuv>
         </tu>
         <tu>
@@ -2692,16 +2583,13 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-69"/>
-                    “Son of noble family, in a word, even if a sextillion years or a hundred eons have passed since the tathāgatas Ānandaśrī, Candanaśrī, Hero, Subjugator of All Demon Forces, Śikhin, Viśvabhū, Krakucchanda, Kanakamuni, and Kāśyapa have manifested nirvāṇa, great king,</seg>
+                    <tei:milestone xml:id="UT22084-061-006-69"/>“Son of noble family, in a word, even if a sextillion years or a hundred eons have passed since the tathāgatas Ānandaśrī, Candanaśrī, Hero, Subjugator of All Demon Forces, Śikhin, Viśvabhū, Krakucchanda, Kanakamuni, and Kāśyapa have manifested nirvāṇa, great king,</seg>
             </tuv>
         </tu>
         <tu>
             <prop name="folio">F.152.b</prop>
             <tuv xml:lang="bo">
-                <seg>སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཀྱི་མཚན་བཟུང་བ་དང་། རིང་བསྲེལ་གྱི་མཆོད་རྟེན་བྱེད་དུ་འཇུག་པ་དང་། རི་མོ་དང་སྐུ་གཟུགས་བྱེད་དུ་འཇུག་པ་དང་། མར་མེ་དང་། སྤོས་དང་། མེ་ཏོག་དང་། དྲི་དང་བྱུག་པ་རྣམས་ཀྱིས་མཆོད་ཅིང་བཀུར་སྟི་བྱས་པ་དང་། བསླབ་པ་འཛིན་དང་། བརྟུལ་ཞུགས་དང་། དཀའ་ཐུབ་དང་། སྡོམ་པ་
-                    <ref folio="F.152.b"/>
-                    དང་། ཉེ་བར་གནས་པ་རྣམས་ཀྱིས་སེམས་ཅན་ཐམས་ཅད་ངན་སོང་དང་། ངན་འགྲོ་ཐམས་ཅད་ལས་ཡོངས་སུ་གྲོལ་བར་འགྱུར་རོ། །</seg>
+                <seg>སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཀྱི་མཚན་བཟུང་བ་དང་། རིང་བསྲེལ་གྱི་མཆོད་རྟེན་བྱེད་དུ་འཇུག་པ་དང་། རི་མོ་དང་སྐུ་གཟུགས་བྱེད་དུ་འཇུག་པ་དང་། མར་མེ་དང་། སྤོས་དང་། མེ་ཏོག་དང་། དྲི་དང་བྱུག་པ་རྣམས་ཀྱིས་མཆོད་ཅིང་བཀུར་སྟི་བྱས་པ་དང་། བསླབ་པ་འཛིན་དང་། བརྟུལ་ཞུགས་དང་། དཀའ་ཐུབ་དང་། སྡོམ་པ་<tei:ref folio="F.152.b"/>དང་། ཉེ་བར་གནས་པ་རྣམས་ཀྱིས་སེམས་ཅན་ཐམས་ཅད་ངན་སོང་དང་། ངན་འགྲོ་ཐམས་ཅད་ལས་ཡོངས་སུ་གྲོལ་བར་འགྱུར་རོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>all beings will be liberated from negative rebirths and negative forms of existence by calling the names of these buddhas; by having relic stūpas, drawings, and representations made; by worshipping and honoring them with lamps, incense, flowers, and perfume; and by maintaining the training, way of life, austerities, discipline, and fasting.</seg>
@@ -2741,8 +2629,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-70"/>
-                    “Suppose that sons or daughters of noble family with a feeble recollection of faith and bodhicitta commission drawings or clay statues of those tathāgatas. Suppose they do so to liberate friends and relatives, and for the sake of beings who engage in negative actions, abandon the noble Dharma, denigrate the noble ones, commit the five actions with immediate results, take a life, steal the wealth of the Three Jewels, go to the Avīci hell, or take birth in the three negative forms of existence. And suppose that once they have commissioned the drawings or statues,</seg>
+                    <tei:milestone xml:id="UT22084-061-006-70"/>“Suppose that sons or daughters of noble family with a feeble recollection of faith and bodhicitta commission drawings or clay statues of those tathāgatas. Suppose they do so to liberate friends and relatives, and for the sake of beings who engage in negative actions, abandon the noble Dharma, denigrate the noble ones, commit the five actions with immediate results, take a life, steal the wealth of the Three Jewels, go to the Avīci hell, or take birth in the three negative forms of existence. And suppose that once they have commissioned the drawings or statues,</seg>
             </tuv>
         </tu>
         <tu>
@@ -2779,8 +2666,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-71"/>
-                    “Now, in order to liberate beings, the buddhas, the blessed ones, know with their tathāgatas’ gnosis,</seg>
+                    <tei:milestone xml:id="UT22084-061-006-71"/>“Now, in order to liberate beings, the buddhas, the blessed ones, know with their tathāgatas’ gnosis,</seg>
             </tuv>
         </tu>
         <tu>
@@ -2804,9 +2690,7 @@
         <tu>
             <prop name="folio">F.153.a</prop>
             <tuv xml:lang="bo">
-                <seg>སེམས་ཅན་དེ་དག་བདེ་འགྲོར་འགྲོ་བར་འགྱུར་གྱི་ངན་འགྲོར་འགྲོ་བར་མི་འགྱུར་བ་དང་། ལེགས་པར་བྱ་བ་བྱེད་ཀྱི་ངན་པར་བྱ་བ་མི་བྱེད་པར་ཡོངས་སུ་བསྔོ་ཞིང་། དེ་ལྟར་སེམས་
-                    <ref folio="F.153.a"/>
-                    ཅན་ངན་སོང་དུ་སྐྱེས་པ་དེ་དག་ཐར་པར་བགྱི་བའི་སླད་དུ་དེ་བཞིན་གཤེགས་པ་དེ་དག་ལ་གསོལ་བ་གདབ་བོ། །</seg>
+                <seg>སེམས་ཅན་དེ་དག་བདེ་འགྲོར་འགྲོ་བར་འགྱུར་གྱི་ངན་འགྲོར་འགྲོ་བར་མི་འགྱུར་བ་དང་། ལེགས་པར་བྱ་བ་བྱེད་ཀྱི་ངན་པར་བྱ་བ་མི་བྱེད་པར་ཡོངས་སུ་བསྔོ་ཞིང་། དེ་ལྟར་སེམས་<tei:ref folio="F.153.a"/>ཅན་ངན་སོང་དུ་སྐྱེས་པ་དེ་དག་ཐར་པར་བགྱི་བའི་སླད་དུ་དེ་བཞིན་གཤེགས་པ་དེ་དག་ལ་གསོལ་བ་གདབ་བོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>[so when sons or daughters of noble family] dedicate their merit so that such beings will pass to pleasant forms of existence and accomplish wholesome deeds instead of negative ones, in order to liberate the beings born in negative forms of existence, they should supplicate the tathāgatas.</seg>
@@ -2855,8 +2739,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-72"/>
-                    “Moreover, if one copies the different teachings of the Dharma or commissions this activity, keeps them in mind, recites them, and worships them, then due to the power of the aspiration of the past tathāgatas, the names of the buddhas will reach the ears of beings born in Avīci hell and in the three negative forms of existence.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-72"/>“Moreover, if one copies the different teachings of the Dharma or commissions this activity, keeps them in mind, recites them, and worships them, then due to the power of the aspiration of the past tathāgatas, the names of the buddhas will reach the ears of beings born in Avīci hell and in the three negative forms of existence.</seg>
             </tuv>
         </tu>
         <tu>
@@ -2866,8 +2749,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-73"/>
-                    “In addition, through the power of these different methods of the Dharma, all negative actions will be attenuated.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-73"/>“In addition, through the power of these different methods of the Dharma, all negative actions will be attenuated.</seg>
             </tuv>
         </tu>
         <tu>
@@ -2945,14 +2827,11 @@
         <tu>
             <prop name="folio">F.153.b</prop>
             <tuv xml:lang="bo">
-                <seg>རིགས་ཀྱི་བུ་དེ་ལྟར་ན་དེ་བཞིན་གཤེགས་པ་རྣམས་ཀྱི་ཐབས་མཁས་པ་དང་། སྨོན་ལམ་དང་། རྣམ་པར་འཕྲུལ་པ་དང་། བྱིན་གྱི་རླབས་དང་། ཏིང་ངེ་འཛིན་སྣ་ཚོགས་པས་མྱ་ངན་ལས་འདས་ནས་བསྐལ་པ་བརྒྱ་ལོན་པ་འཇིག་རྟེན་
-                    <ref folio="F.153.b"/>
-                    གྱི་ཁམས་སྣ་ཚོགས་ན་གནས་པ་དག་མཉན་ཅིང་མཆོད་པ་གཅིག་ནས་གཅིག་ཏུ་བརྒྱུད་པ་ཉིད་ཀྱིས་ངན་སོང་ཐམས་ཅད་ལས་ཡོངས་སུ་ཐར་ཏེ་བདེ་འགྲོར་བཀོད་པར་འགྱུར་ན</seg>
+                <seg>རིགས་ཀྱི་བུ་དེ་ལྟར་ན་དེ་བཞིན་གཤེགས་པ་རྣམས་ཀྱི་ཐབས་མཁས་པ་དང་། སྨོན་ལམ་དང་། རྣམ་པར་འཕྲུལ་པ་དང་། བྱིན་གྱི་རླབས་དང་། ཏིང་ངེ་འཛིན་སྣ་ཚོགས་པས་མྱ་ངན་ལས་འདས་ནས་བསྐལ་པ་བརྒྱ་ལོན་པ་འཇིག་རྟེན་<tei:ref folio="F.153.b"/>གྱི་ཁམས་སྣ་ཚོགས་ན་གནས་པ་དག་མཉན་ཅིང་མཆོད་པ་གཅིག་ནས་གཅིག་ཏུ་བརྒྱུད་པ་ཉིད་ཀྱིས་ངན་སོང་ཐམས་ཅད་ལས་ཡོངས་སུ་ཐར་ཏེ་བདེ་འགྲོར་བཀོད་པར་འགྱུར་ན</seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-74"/>
-                    “So, son of noble family, owing to the tathāgatas’ various skillful means, aspirations, extraordinary transformations, sovereign power, and states of concentration, one will pass to pleasant forms of existence and be liberated from all negative ones by continuously listening to and worshipping those who have remained in the various world systems, even if a hundred eons have passed since the tathāgatas’ nirvāṇa.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-74"/>“So, son of noble family, owing to the tathāgatas’ various skillful means, aspirations, extraordinary transformations, sovereign power, and states of concentration, one will pass to pleasant forms of existence and be liberated from all negative ones by continuously listening to and worshipping those who have remained in the various world systems, even if a hundred eons have passed since the tathāgatas’ nirvāṇa.</seg>
             </tuv>
         </tu>
         <tu>
@@ -2989,8 +2868,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-75"/>
-                    “Great king, you should thus rely on this excellent quality and keep in mind the various Dharma discourses.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-75"/>“Great king, you should thus rely on this excellent quality and keep in mind the various Dharma discourses.</seg>
             </tuv>
         </tu>
         <tu>
@@ -3081,8 +2959,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-76"/>
-                    King Prasenajit, together with his entire retinue, said to Mañjuśrī, “[Mañjuśrī,] this is excellent, [most excellent!]</seg>
+                    <tei:milestone xml:id="UT22084-061-006-76"/>King Prasenajit, together with his entire retinue, said to Mañjuśrī, “[Mañjuśrī,] this is excellent, [most excellent!]</seg>
             </tuv>
         </tu>
         <tu>
@@ -3097,9 +2974,7 @@
         <tu>
             <prop name="folio">F.154.a</prop>
             <tuv xml:lang="bo">
-                <seg>ཆོས་ཀྱི་ཆར་ཕབ་པས་བདག་ཅག་ཚིམ་པར་བགྱིས་
-                    <ref folio="F.154.a"/>
-                    རངས་པར་བགྱིས། </seg>
+                <seg>ཆོས་ཀྱི་ཆར་ཕབ་པས་བདག་ཅག་ཚིམ་པར་བགྱིས་<tei:ref folio="F.154.a"/>རངས་པར་བགྱིས། </seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>By bringing down the rain of the Dharma, you have made us content and happy.</seg>
@@ -3121,8 +2996,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-77"/>
-                    An eager bodhisattva then asked the Blessed One,</seg>
+                    <tei:milestone xml:id="UT22084-061-006-77"/>An eager bodhisattva then asked the Blessed One,</seg>
             </tuv>
         </tu>
         <tu>
@@ -3150,8 +3024,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-78"/>
-                    The Blessed One replied,</seg>
+                    <tei:milestone xml:id="UT22084-061-006-78"/>The Blessed One replied,</seg>
             </tuv>
         </tu>
         <tu>
@@ -3265,9 +3138,7 @@
         <tu>
             <prop name="folio">F.154.b</prop>
             <tuv xml:lang="bo">
-                <seg>ཡོན་ཏན་ཆེན་པོ་དེ་བརྒྱད་ཐོབ་
-                    <ref folio="F.154.b"/>
-                    པར་འགྱུར་རོ། །</seg>
+                <seg>ཡོན་ཏན་ཆེན་པོ་དེ་བརྒྱད་ཐོབ་<tei:ref folio="F.154.b"/>པར་འགྱུར་རོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>In this way those sons or daughters of noble family, and the others, will attain the eight great qualities.</seg>
@@ -3289,8 +3160,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-79"/>
-                    “Suppose someone were to fill Jambudvīpa with tathāgatas’ relic stūpas made of the seven precious substances, and then</seg>
+                    <tei:milestone xml:id="UT22084-061-006-79"/>“Suppose someone were to fill Jambudvīpa with tathāgatas’ relic stūpas made of the seven precious substances, and then</seg>
             </tuv>
         </tu>
         <tu>
@@ -3363,8 +3233,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-80"/>
-                    When the Blessed One had explained in detail the significance of the various teachings of the Dharma, he then spoke the following verses:</seg>
+                    <tei:milestone xml:id="UT22084-061-006-80"/>When the Blessed One had explained in detail the significance of the various teachings of the Dharma, he then spoke the following verses:</seg>
             </tuv>
         </tu>
         <tu>
@@ -3374,8 +3243,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-80"/>
-                    “Abiding in one trillion other fields, Ten million skillful buddhas Care for beings And liberate them from negative forms of existence.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-80"/>“Abiding in one trillion other fields, Ten million skillful buddhas Care for beings And liberate them from negative forms of existence.</seg>
             </tuv>
         </tu>
         <tu>
@@ -3385,8 +3253,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-82"/>
-                    “After you have performed actions of generosity</seg>
+                    <tei:milestone xml:id="UT22084-061-006-82"/>“After you have performed actions of generosity</seg>
             </tuv>
         </tu>
         <tu>
@@ -3405,8 +3272,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-83"/>
-                    “Produce drawings, stūpas, and various representations;</seg>
+                    <tei:milestone xml:id="UT22084-061-006-83"/>“Produce drawings, stūpas, and various representations;</seg>
             </tuv>
         </tu>
         <tu>
@@ -3421,8 +3287,7 @@
         <tu>
             <prop name="folio">F.155.a</prop>
             <tuv xml:lang="bo">
-                <seg>མཆོད་པ་སྣ་ཚོགས་ཀྱིས་ནི་མཆོད་པར་གྱིས། །
-                    <ref folio="F.155.a"/>
+                <seg>མཆོད་པ་སྣ་ཚོགས་ཀྱིས་ནི་མཆོད་པར་གྱིས། ། <tei:ref folio="F.155.a"/>
                 </seg>
             </tuv>
             <tuv xml:lang="en">
@@ -3436,8 +3301,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-84"/>
-                    “Worship the tathāgatas with flowers, garlands, salves, Lamps, cymbals, perfume, and incense.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-84"/>“Worship the tathāgatas with flowers, garlands, salves, Lamps, cymbals, perfume, and incense.</seg>
             </tuv>
         </tu>
         <tu>
@@ -3465,8 +3329,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-85"/>
-                    “The majesty of the Tathāgata and of the collection of sūtras Will liberate beings from negative actions.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-85"/>“The majesty of the Tathāgata and of the collection of sūtras Will liberate beings from negative actions.</seg>
             </tuv>
         </tu>
         <tu>
@@ -3485,8 +3348,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-86"/>
-                    “They will remember their former actions, and having done so, Those who understand will not commit negative actions again.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-86"/>“They will remember their former actions, and having done so, Those who understand will not commit negative actions again.</seg>
             </tuv>
         </tu>
         <tu>
@@ -3495,11 +3357,7 @@
                 <seg>མི་ཡི་བྱང་ཆུབ་སེམས་དཔས་མདོ་སྡེ་འདི། །བཤད་པ་དེས་ནི་བསོད་ནམས་མང་དུ་ཐོབ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>By expounding the bodhisattvas’ collection of sūtras for the sake of humans,
-                    <note xml:id="UT22084-061-006-229"/>
-                     They will obtain great merit. 
-                    <milestone xml:id="UT22084-061-006-87"/>
-                </seg>
+                <seg>By expounding the bodhisattvas’ collection of sūtras for the sake of humans,<tei:note xml:id="UT22084-061-006-229"/> They will obtain great merit.</seg>
             </tuv>
         </tu>
         <tu>
@@ -3508,7 +3366,8 @@
                 <seg>དེ་ནི་ལྷ་རྣམས་ཀུན་གྱིས་བསྲུང་བར་འགྱུར། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>“They will be protected by the gods.</seg>
+            <seg>
+                    <tei:milestone xml:id="UT22084-061-006-87"/>“They will be protected by the gods.</seg>
             </tuv>
         </tu>
         <tu>
@@ -3545,8 +3404,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-88"/>
-                    “Whoever holds at all times this collection of sutrās Holds at all times the treasury of the buddhas.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-88"/>“Whoever holds at all times this collection of sutrās Holds at all times the treasury of the buddhas.</seg>
             </tuv>
         </tu>
         <tu>
@@ -3574,8 +3432,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-89"/>
-                    The eager bodhisattva mahāsattva asked the Blessed One,</seg>
+                    <tei:milestone xml:id="UT22084-061-006-89"/>The eager bodhisattva mahāsattva asked the Blessed One,</seg>
             </tuv>
         </tu>
         <tu>
@@ -3675,8 +3532,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-90"/>
-                    The Blessed One answered the eager bodhisattva mahāsattva,</seg>
+                    <tei:milestone xml:id="UT22084-061-006-90"/>The Blessed One answered the eager bodhisattva mahāsattva,</seg>
             </tuv>
         </tu>
         <tu>
@@ -3691,9 +3547,7 @@
         <tu>
             <prop name="folio">F.155.b</prop>
             <tuv xml:lang="bo">
-                <seg>རིགས་ཀྱི་བུ་ཡང་འདི་ལ་གང་ཡང་
-                    <ref folio="F.155.b"/>
-                    སྐྱེ་བ་མེད། འཆི་བ་མེད། འཚོ་བ་མེད་དེ། </seg>
+                <seg>རིགས་ཀྱི་བུ་ཡང་འདི་ལ་གང་ཡང་<tei:ref folio="F.155.b"/>སྐྱེ་བ་མེད། འཆི་བ་མེད། འཚོ་བ་མེད་དེ། </seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>Now, son of noble family, there is no birth, no death, no life in this world.</seg>
@@ -3705,8 +3559,7 @@
                 <seg>རིགས་ཀྱི་བུ་འདི་ལ་རྒ་བ་དང་། འཆི་བ་མེད་ཀྱི། འཚོ་བའི་ཁམས་ནི་རྟག་ཏུ་ལུས་ཀྱི་རྣམ་པར་ཤེས་པ་ལ་གནས་སོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>Son of noble family, although there is no old age and death here, one’s state of life is always dependent on the body consciousness.
-                    <note xml:id="UT22084-061-006-230"/>
+                <seg>Son of noble family, although there is no old age and death here, one’s state of life is always dependent on the body consciousness.<tei:note xml:id="UT22084-061-006-230"/>
                 </seg>
             </tuv>
         </tu>
@@ -3753,8 +3606,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-91"/>
-                    “Son of noble family, it is as follows.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-91"/>“Son of noble family, it is as follows.</seg>
             </tuv>
         </tu>
         <tu>
@@ -3859,9 +3711,7 @@
         <tu>
             <prop name="folio">F.156.a</prop>
             <tuv xml:lang="bo">
-                <seg>ཇི་ལྟར་རང་གི་ལས་ཀྱི་རྐྱེན་གྱི་དགེ་བའི་རྩ་བ་ལས་སྐྱེས་པ་བཞིན་དུ་ལྷ་དང་། རྒྱལ་པོ་དང་། སེམས་
-                    <ref folio="F.156.a"/>
-                    ཅན་དམྱལ་བ་དང་། དུད་འགྲོའི་སྐྱེ་གནས་དང་། གཤིན་རྗེའི་འཇིག་རྟེན་རྣམས་སུ་སྐྱེ་བར་འགྱུར་ཏེ</seg>
+                <seg>ཇི་ལྟར་རང་གི་ལས་ཀྱི་རྐྱེན་གྱི་དགེ་བའི་རྩ་བ་ལས་སྐྱེས་པ་བཞིན་དུ་ལྷ་དང་། རྒྱལ་པོ་དང་། སེམས་<tei:ref folio="F.156.a"/>ཅན་དམྱལ་བ་དང་། དུད་འགྲོའི་སྐྱེ་གནས་དང་། གཤིན་རྗེའི་འཇིག་རྟེན་རྣམས་སུ་སྐྱེ་བར་འགྱུར་ཏེ</seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>Just as one is born according to one’s roots of virtue—namely, one’s karmic conditions—one will be born as a god, a king, a hell being, an animal, or a being from the world of Yama.</seg>
@@ -3901,8 +3751,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-92"/>
-                    “Son of noble family, it is like</seg>
+                    <tei:milestone xml:id="UT22084-061-006-92"/>“Son of noble family, it is like</seg>
             </tuv>
         </tu>
         <tu>
@@ -3984,8 +3833,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-93"/>
-                    “Now, son of noble family, some time in the future beings will experience more greed, attachment, anger, envy, and pride.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-93"/>“Now, son of noble family, some time in the future beings will experience more greed, attachment, anger, envy, and pride.</seg>
             </tuv>
         </tu>
         <tu>
@@ -3994,9 +3842,7 @@
                 <seg>སྲང་དང་གཞལ་བ་ལ་གཡོ་བྱེད་པར་དགའ་བ་འདོད་ཆགས་ཀྱི་རྗེས་སུ་སྤྱོད་པ་དག་འབྱུང་སྟེ། </seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>As they cause the scales and weights of karma to move,
-                    <note xml:id="UT22084-061-006-231"/>
-                     their behavior will follow upon pleasure and attachment, so that</seg>
+                <seg>As they cause the scales and weights of karma to move,<tei:note xml:id="UT22084-061-006-231"/> their behavior will follow upon pleasure and attachment, so that</seg>
             </tuv>
         </tu>
         <tu>
@@ -4083,9 +3929,7 @@
         <tu>
             <prop name="folio">F.156.b</prop>
             <tuv xml:lang="bo">
-                <seg>སྡུག་བསྔལ་ལ་དགའ་བའི་འདུ་ཤེས་
-                    <ref folio="F.156.b"/>
-                    སྐྱེད་དོ། །</seg>
+                <seg>སྡུག་བསྔལ་ལ་དགའ་བའི་འདུ་ཤེས་<tei:ref folio="F.156.b"/>སྐྱེད་དོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>They will then give rise to notions of suffering and pleasure.</seg>
@@ -4098,8 +3942,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-94"/>
-                    “Son of noble family, this is the answer of the Tathāgata.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-94"/>“Son of noble family, this is the answer of the Tathāgata.</seg>
             </tuv>
         </tu>
         <tu>
@@ -4190,8 +4033,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-95"/>
-                    At that point, the Tathāgata’s sovereign power caused the whole earth to tremble.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-95"/>At that point, the Tathāgata’s sovereign power caused the whole earth to tremble.</seg>
             </tuv>
         </tu>
         <tu>
@@ -4246,8 +4088,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-96"/>
-                    At the same time, the assembled retinue exclaimed,</seg>
+                    <tei:milestone xml:id="UT22084-061-006-96"/>At the same time, the assembled retinue exclaimed,</seg>
             </tuv>
         </tu>
         <tu>
@@ -4293,8 +4134,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-97"/>
-                    The Blessed One replied,</seg>
+                    <tei:milestone xml:id="UT22084-061-006-97"/>The Blessed One replied,</seg>
             </tuv>
         </tu>
         <tu>
@@ -4318,9 +4158,7 @@
         <tu>
             <prop name="folio">F.157.a</prop>
             <tuv xml:lang="bo">
-                <seg>དམ་
-                    <ref folio="F.157.a"/>
-                    པའི་ཆོས་ཡོངས་སུ་གཟུང་བ་ལ་སྤྲོ་བར་བྱོས་ཤིག །</seg>
+                <seg>དམ་<tei:ref folio="F.157.a"/>པའི་ཆོས་ཡོངས་སུ་གཟུང་བ་ལ་སྤྲོ་བར་བྱོས་ཤིག །</seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>Be filled with joy at upholding the holy Dharma.</seg>
@@ -4414,8 +4252,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-98"/>
-                    “Sons of noble family, once beings adopt even a single training of the Tathāgata for only a short while, they will be liberated from all suffering, experience pleasant rebirths, and</seg>
+                    <tei:milestone xml:id="UT22084-061-006-98"/>“Sons of noble family, once beings adopt even a single training of the Tathāgata for only a short while, they will be liberated from all suffering, experience pleasant rebirths, and</seg>
             </tuv>
         </tu>
         <tu>
@@ -4479,16 +4316,13 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-99"/>
-                    “Whoever has the body of a woman tainted by the fundamental and secondary defilements, if they genuinely take refuge in the Three Jewels and adopt the training, whether for one day, half a day, or just a moment,</seg>
+                    <tei:milestone xml:id="UT22084-061-006-99"/>“Whoever has the body of a woman tainted by the fundamental and secondary defilements, if they genuinely take refuge in the Three Jewels and adopt the training, whether for one day, half a day, or just a moment,</seg>
             </tuv>
         </tu>
         <tu>
             <prop name="folio">F.157.b</prop>
             <tuv xml:lang="bo">
-                <seg>དེ་དག་ཐམས་ཅད་བུད་མེད་ཀྱི་དངོས་པོ་དང་། སྡུག་བསྔལ་དང་། ཡིད་མི་བདེ་བ་དང་། འཁྲུག་པ་ཐམས་
-                    <ref folio="F.157.b"/>
-                    ཅད་རྣམ་པར་བཟློག་སྟེ</seg>
+                <seg>དེ་དག་ཐམས་ཅད་བུད་མེད་ཀྱི་དངོས་པོ་དང་། སྡུག་བསྔལ་དང་། ཡིད་མི་བདེ་བ་དང་། འཁྲུག་པ་ཐམས་<tei:ref folio="F.157.b"/>ཅད་རྣམ་པར་བཟློག་སྟེ</seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>they will all dispel that condition of being a woman, suffering, unhappiness, and afflictions.</seg>
@@ -4528,8 +4362,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-100"/>
-                    At that moment, a great noise resounded in the sky.  All the retinue marveled,</seg>
+                    <tei:milestone xml:id="UT22084-061-006-100"/>At that moment, a great noise resounded in the sky.  All the retinue marveled,</seg>
             </tuv>
         </tu>
         <tu>
@@ -4575,8 +4408,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-101"/>
-                    The tathāgatas, too, all disappeared.</seg>
+                    <tei:milestone xml:id="UT22084-061-006-101"/>The tathāgatas, too, all disappeared.</seg>
             </tuv>
         </tu>
         <tu>
@@ -4681,14 +4513,11 @@
         <tu>
             <prop name="folio">F.158.a</prop>
             <tuv xml:lang="bo">
-                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་
-                    <ref folio="F.158.a"/>
-                    ཀྱིས་དེ་དག་ལ་ལེགས་སོ་ལེགས་སོ་ཞེས་བྱ་བ་བྱིན་ནས་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །</seg>
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་<tei:ref folio="F.158.a"/>ཀྱིས་དེ་དག་ལ་ལེགས་སོ་ལེགས་སོ་ཞེས་བྱ་བ་བྱིན་ནས་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-102"/>
-                    The Blessed One declared, “Excellent. This is excellent!”</seg>
+                    <tei:milestone xml:id="UT22084-061-006-102"/>The Blessed One declared, “Excellent. This is excellent!”</seg>
             </tuv>
         </tu>
         <tu>
@@ -4707,8 +4536,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-103"/>
-                    When the Blessed One had spoken in this way, all the bodhisattva mahāsattvas, such as Noble Avalokiteśvara, Vajrapāṇi, and others, as well as the great śrāvakas and the entire retinue, and the world of the gods, human beings, asuras, and gandharvas, rejoiced and</seg>
+                    <tei:milestone xml:id="UT22084-061-006-103"/>When the Blessed One had spoken in this way, all the bodhisattva mahāsattvas, such as Noble Avalokiteśvara, Vajrapāṇi, and others, as well as the great śrāvakas and the entire retinue, and the world of the gods, human beings, asuras, and gandharvas, rejoiced and</seg>
             </tuv>
         </tu>
         <tu>
@@ -4727,8 +4555,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-061-006-104"/>
-                    Here ends the noble Mahāyāna sūtra, “The Teaching on the Extraordinary Transformation that is the Miracle of Attaining the Buddha’s Powers.”</seg>
+                    <tei:milestone xml:id="UT22084-061-006-104"/>Here ends the noble Mahāyāna sūtra, “The Teaching on the Extraordinary Transformation that is the Miracle of Attaining the Buddha’s Powers.”</seg>
             </tuv>
         </tu>
     </body>

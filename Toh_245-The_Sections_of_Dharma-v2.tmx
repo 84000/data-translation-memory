@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" version="1.4b">
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
     <header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="XML aligned text" eft:text-id="UT22084-066-003"/>
     <body>
         <tu>
@@ -18,8 +18,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-24"/>
-                    Homage to all buddhas and bodhisattvas!</seg>
+                    <tei:milestone xml:id="UT22084-066-003-24"/>Homage to all buddhas and bodhisattvas!</seg>
             </tuv>
         </tu>
         <tu>
@@ -29,8 +28,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-24"/>
-                    Thus did I hear at one time.</seg>
+                    <tei:milestone xml:id="UT22084-066-003-24"/>Thus did I hear at one time.</seg>
             </tuv>
         </tu>
         <tu>
@@ -63,9 +61,7 @@
         <tu>
             <prop name="folio">F.28.a</prop>
             <tuv xml:lang="bo">
-                <seg>ཕྱོགས་གཅིག་ཏུ་འདུག་ནས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་
-                    <ref folio="F.28.a"/>
-                    ཅེས་གསོལ་ཏོ། །</seg>
+                <seg>ཕྱོགས་གཅིག་ཏུ་འདུག་ནས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་<tei:ref folio="F.28.a"/>ཅེས་གསོལ་ཏོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>Sitting there, venerable Śāriputra asked the Blessed One,</seg>
@@ -114,8 +110,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-26"/>
-                    The Blessed One replied to venerable Śāriputra,</seg>
+                    <tei:milestone xml:id="UT22084-066-003-26"/>The Blessed One replied to venerable Śāriputra,</seg>
             </tuv>
         </tu>
         <tu>
@@ -169,9 +164,7 @@
                 <seg>ཤཱ་རིའི་བུ་འདི་ལྟ་སྟེ་དཔེར་ན་མ་ནིང་ནི་སྐྱེས་པའམ་བུད་མེད་ཅེས་བྱ་བའི་མིང་མི་འཐོབ་ཅིང་སྐྱེས་པའམ་བུད་མེད་ཅེས་བརྗོད་པར་བྱ་བ་མ་ཡིན་ནོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>For example, Śāriputra, paṇḍakas
-                    <note xml:id="UT22084-066-003-27"/>
-                     are not called men or women, and should indeed not be said to be men or women.</seg>
+                <seg>For example, Śāriputra, paṇḍakas<tei:note xml:id="UT22084-066-003-27"/> are not called men or women, and should indeed not be said to be men or women.</seg>
             </tuv>
         </tu>
         <tu>
@@ -217,10 +210,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-28"/>
-                    “As an analogy, Śāriputra, neither paṇḍakas nor ṣaṇḍhas
-                    <note xml:id="UT22084-066-003-29"/>
-                     have abandoned passion, but</seg>
+                    <tei:milestone xml:id="UT22084-066-003-28"/>“As an analogy, Śāriputra, neither paṇḍakas nor ṣaṇḍhas<tei:note xml:id="UT22084-066-003-29"/> have abandoned passion, but</seg>
             </tuv>
         </tu>
         <tu>
@@ -238,8 +228,7 @@
                 <seg>ཤཱ་རིའི་བུ་དེ་དག་གིས་བུད་མེད་སྡུག་གུ་མཐོང་ནས་འདོད་ཆགས་ཀྱི་སེམས་སྐྱེས་པས་ཟ་མའམ་མ་ནིང་རྣམས་ལས་ཕལ་ཆེར་བྱིན་པ་ནད་ཀྱིས་བཏབ་པར་འགྱུར། </seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>Śāriputra, when they see a beautiful woman, and desire is aroused, most paṇḍakas and ṣaṇḍhas suffer pain in their ducts.
-                    <note xml:id="UT22084-066-003-30"/>
+                <seg>Śāriputra, when they see a beautiful woman, and desire is aroused, most paṇḍakas and ṣaṇḍhas suffer pain in their ducts.<tei:note xml:id="UT22084-066-003-30"/>
                 </seg>
             </tuv>
         </tu>
@@ -258,8 +247,7 @@
                 <seg>བྱིན་པ་ཁར་བ་ལྟ་བུར་འགྱུར། </seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>their ducts become like metal,
-                    <note xml:id="UT22084-066-003-132"/>
+                <seg>their ducts become like metal,<tei:note xml:id="UT22084-066-003-132"/>
                 </seg>
             </tuv>
         </tu>
@@ -315,16 +303,13 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-31"/>
-                    Venerable Śāriputra replied to the Blessed One’s question,</seg>
+                    <tei:milestone xml:id="UT22084-066-003-31"/>Venerable Śāriputra replied to the Blessed One’s question,</seg>
             </tuv>
         </tu>
         <tu>
             <prop name="folio">F.28.b</prop>
             <tuv xml:lang="bo">
-                <seg>བཅོམ་
-                    <ref folio="F.28.b"/>
-                    ལྡན་འདས་ཟ་མའམ་མ་ནིང་ནི་བཙུན་མོའི་འཁོར་སྲུང་བ་ལགས་ཏེ། </seg>
+                <seg>བཅོམ་<tei:ref folio="F.28.b"/>ལྡན་འདས་ཟ་མའམ་མ་ནིང་ནི་བཙུན་མོའི་འཁོར་སྲུང་བ་ལགས་ཏེ། </seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>“Blessed One, paṇḍakas and ṣaṇḍhas are the guards of ladies’ quarters.</seg>
@@ -382,8 +367,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-32"/>
-                    Then the Blessed One said to venerable Śāriputra,</seg>
+                    <tei:milestone xml:id="UT22084-066-003-32"/>Then the Blessed One said to venerable Śāriputra,</seg>
             </tuv>
         </tu>
         <tu>
@@ -410,9 +394,7 @@
                 <seg>ཤཱ་རིའི་བུ་དགེ་སྦྱོང་ཤཱཀྱའི་བུ་རྣམས་ལས་གང་དག་འདོད་ཆགས་ཀྱིས་འཕྲོགས་པར་མི་འགྱུར་བའི་ཁྱད་པར་ལ་ལྟོས། </seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>Śāriputra, observe the contrast with the sons
-                    <note xml:id="UT22084-066-003-133"/>
-                     of the Śākya ascetic, none of whom get carried away by desire.</seg>
+                <seg>Śāriputra, observe the contrast with the sons<tei:note xml:id="UT22084-066-003-133"/> of the Śākya ascetic, none of whom get carried away by desire.</seg>
             </tuv>
         </tu>
         <tu>
@@ -467,8 +449,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-33"/>
-                    “Śāriputra, evil men are unable to feel weary or disenchanted.</seg>
+                    <tei:milestone xml:id="UT22084-066-003-33"/>“Śāriputra, evil men are unable to feel weary or disenchanted.</seg>
             </tuv>
         </tu>
         <tu>
@@ -573,9 +554,7 @@
         <tu>
             <prop name="folio">F.29.a</prop>
             <tuv xml:lang="bo">
-                <seg>ཤཱ་རིའི་བུ་མ་ནིང་གང་ལ་ལ་ཞིག་སྐྱེས་བུ་ངན་པ་རྣམས་ཀྱི་ཀུན་ཏུ་རྟོག་པ་དེ་ལྟ་བུ་དག་
-                    <ref folio="F.29.a"/>
-                    ལ་ཀུན་ཏུ་རྟོག་པར་བྱེད་པ་ནི་བདག་གིས་རེག་གོ་ཞེས་ཉམས་སུ་མྱོང་བར་བྱེད་དེབུ་ག་དགུའི་སྒོ་དང་ལྡན་པ་འདི་མི་གཙང་བ་འཛག་པ་འདི་ལ་གཙང་བར་འདུ་ཤེས་སྐྱེད་པར་བྱེད་དོ། །</seg>
+                <seg>ཤཱ་རིའི་བུ་མ་ནིང་གང་ལ་ལ་ཞིག་སྐྱེས་བུ་ངན་པ་རྣམས་ཀྱི་ཀུན་ཏུ་རྟོག་པ་དེ་ལྟ་བུ་དག་<tei:ref folio="F.29.a"/>ལ་ཀུན་ཏུ་རྟོག་པར་བྱེད་པ་ནི་བདག་གིས་རེག་གོ་ཞེས་ཉམས་སུ་མྱོང་བར་བྱེད་དེབུ་ག་དགུའི་སྒོ་དང་ལྡན་པ་འདི་མི་གཙང་བ་འཛག་པ་འདི་ལ་གཙང་བར་འདུ་ཤེས་སྐྱེད་པར་བྱེད་དོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>Śāriputra, those paṇḍakas who thus entertain evil men’s conceptions have the experience, ‘I am touching that,’ and thus perceive the body with its nine orifices—this impure, leaking thing—as clean.</seg>
@@ -606,8 +585,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-34"/>
-                    “Śāriputra, those ascetics and brahmins who do not recognize the flaws of the sense pleasures for what they really are fantasize about women and cling to certain features of their eyes,</seg>
+                    <tei:milestone xml:id="UT22084-066-003-34"/>“Śāriputra, those ascetics and brahmins who do not recognize the flaws of the sense pleasures for what they really are fantasize about women and cling to certain features of their eyes,</seg>
             </tuv>
         </tu>
         <tu>
@@ -707,8 +685,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-35"/>
-                    “Śāriputra, what is the reason for speaking of the eyes? What are the causes and conditions for their being called eyes ?</seg>
+                    <tei:milestone xml:id="UT22084-066-003-35"/>“Śāriputra, what is the reason for speaking of the eyes? What are the causes and conditions for their being called eyes ?</seg>
             </tuv>
         </tu>
         <tu>
@@ -735,8 +712,7 @@
                 <seg>རྒྱུ་དེས་ན་མིག་ཅེས་བྱའོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>Because of that we speak of eyes.
-                    <note xml:id="UT22084-066-003-36"/>
+                <seg>Because of that we speak of eyes.<tei:note xml:id="UT22084-066-003-36"/>
                 </seg>
             </tuv>
         </tu>
@@ -789,8 +765,7 @@
             <prop name="folio">F.29.b</prop>
             <tuv xml:lang="bo">
                 <seg>
-                    <ref folio="F.29.b"/>
-                    འདིས་དགེ་བ་སྤྱོད་པ་ཉམས་པར་བྱེད་དེ་རྒྱུ་དེས་ན་མིག་ཅེས་བྱའོ། །</seg>
+                    <tei:ref folio="F.29.b"/>འདིས་དགེ་བ་སྤྱོད་པ་ཉམས་པར་བྱེད་དེ་རྒྱུ་དེས་ན་མིག་ཅེས་བྱའོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>They cause one’s virtuous conduct to degenerate, and therefore we speak of eyes.</seg>
@@ -830,8 +805,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-37"/>
-                    “Śāriputra, skilled, well-learned, and dauntless monks relate to the eyes in this way: eyes are not a woman, not a man, not a sentient being, not a life principle, not a living being, and not a person.</seg>
+                    <tei:milestone xml:id="UT22084-066-003-37"/>“Śāriputra, skilled, well-learned, and dauntless monks relate to the eyes in this way: eyes are not a woman, not a man, not a sentient being, not a life principle, not a living being, and not a person.</seg>
             </tuv>
         </tu>
         <tu>
@@ -877,8 +851,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-38"/>
-                    “Śāriputra, those ascetics and brahmins who do not correctly know the shortcomings of the sense pleasures are tormented by lust.</seg>
+                    <tei:milestone xml:id="UT22084-066-003-38"/>“Śāriputra, those ascetics and brahmins who do not correctly know the shortcomings of the sense pleasures are tormented by lust.</seg>
             </tuv>
         </tu>
         <tu>
@@ -951,8 +924,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-39"/>
-                    “Śāriputra, young monks who are ordained in the prime of their lives will soon correctly know the sense pleasures, understanding that the sense pleasures lack substance.</seg>
+                    <tei:milestone xml:id="UT22084-066-003-39"/>“Śāriputra, young monks who are ordained in the prime of their lives will soon correctly know the sense pleasures, understanding that the sense pleasures lack substance.</seg>
             </tuv>
         </tu>
         <tu>
@@ -995,8 +967,7 @@
             <prop name="folio">F.30.a</prop>
             <tuv xml:lang="bo">
                 <seg>
-                    <ref folio="F.30.a"/>
-                    བཞིན་དང་འཕྲལ་བའི་མདངས་གསལ་བར་འགྱུར་རོ། །</seg>
+                    <tei:ref folio="F.30.a"/>བཞིན་དང་འཕྲལ་བའི་མདངས་གསལ་བར་འགྱུར་རོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>Their complexions become radiant.</seg>
@@ -1009,8 +980,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-40"/>
-                    “Śāriputra, consider this analogy:</seg>
+                    <tei:milestone xml:id="UT22084-066-003-40"/>“Śāriputra, consider this analogy:</seg>
             </tuv>
         </tu>
         <tu>
@@ -1028,9 +998,7 @@
                 <seg>དེའི་ཡན་ལག་དང་ཉིང་ལག་ཐམས་ཅད་ལ་རྨའི་ཁ་བརྒྱད་ཁྲི་བཞི་སྟོང་ཡོད་ལ། </seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>eighty-four thousand sores open up on all of that person’s limbs
-                    <note xml:id="UT22084-066-003-41"/>
-                     and</seg>
+                <seg>eighty-four thousand sores open up on all of that person’s limbs<tei:note xml:id="UT22084-066-003-41"/> and</seg>
             </tuv>
         </tu>
         <tu>
@@ -1039,8 +1007,7 @@
                 <seg>རྨའི་ཁ་རེ་རེ་ལ་ཡང་སྲིན་བུའི་ཚོགས་བརྒྱད་ཁྲི་བཞི་སྟོང་ཡོད་དེ</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>each open sore also harbors eighty-four thousand swarms of parasites.
-                    <note xml:id="UT22084-066-003-42"/>
+                <seg>each open sore also harbors eighty-four thousand swarms of parasites.<tei:note xml:id="UT22084-066-003-42"/>
                 </seg>
             </tuv>
         </tu>
@@ -1068,9 +1035,7 @@
                 <seg>དེ་མ་དག་མ་སྤུངས་པའི་དྲུང་དུ་འདུག་ནཇི་ཙམ་ན་སྲོག་ཆགས་དེ་དག་མེས་གདུངས་པར་གྱུར་པ་དང་། དེ་ལ་ཕྱིར་ཞིང་ཟ་བར་བྱེད། ཡོངས་སུ་ཟ་བར་བྱེད་ན། </seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>If that person sits near a heap of embers,
-                    <note xml:id="UT22084-066-003-43"/>
-                     the more those creatures are tormented by burning, the more they eat.</seg>
+                <seg>If that person sits near a heap of embers,<tei:note xml:id="UT22084-066-003-43"/> the more those creatures are tormented by burning, the more they eat.</seg>
             </tuv>
         </tu>
         <tu>
@@ -1098,8 +1063,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-44"/>
-                    Venerable Śāriputra replied to the Blessed One,</seg>
+                    <tei:milestone xml:id="UT22084-066-003-44"/>Venerable Śāriputra replied to the Blessed One,</seg>
             </tuv>
         </tu>
         <tu>
@@ -1154,8 +1118,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-45"/>
-                    “Śāriputra, what do you think?</seg>
+                    <tei:milestone xml:id="UT22084-066-003-45"/>“Śāriputra, what do you think?</seg>
             </tuv>
         </tu>
         <tu>
@@ -1183,8 +1146,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-45"/>
-                    “Similarly, Śāriputra, skilled monks train correctly by contemplating as follows:</seg>
+                    <tei:milestone xml:id="UT22084-066-003-45"/>“Similarly, Śāriputra, skilled monks train correctly by contemplating as follows:</seg>
             </tuv>
         </tu>
         <tu>
@@ -1235,14 +1197,11 @@
         <tu>
             <prop name="folio">F.30.b</prop>
             <tuv xml:lang="bo">
-                <seg>ཤཱ་རིའི་བུ་སྐྱེས་པའི་ལུས་ལ་ཡོད་པ་ལྟ་བུ་མ་ཡིན་
-                    <ref folio="F.30.b"/>
-                    པ། བུད་མེད་ལ་ཆེས་ལྷག་པ་སྲིན་བུའི་ཚོགས་ལྔ་ཡོད་དེ། </seg>
+                <seg>ཤཱ་རིའི་བུ་སྐྱེས་པའི་ལུས་ལ་ཡོད་པ་ལྟ་བུ་མ་ཡིན་<tei:ref folio="F.30.b"/>པ། བུད་མེད་ལ་ཆེས་ལྷག་པ་སྲིན་བུའི་ཚོགས་ལྔ་ཡོད་དེ། </seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-48"/>
-                    “Śāriputra, women’s bodies harbor an additional five groups of parasites that are different from those on men’s bodies.</seg>
+                    <tei:milestone xml:id="UT22084-066-003-48"/>“Śāriputra, women’s bodies harbor an additional five groups of parasites that are different from those on men’s bodies.</seg>
             </tuv>
         </tu>
         <tu>
@@ -1297,8 +1256,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-49"/>
-                    “Therefore, Śāriputra, if one sees the sense pleasures as being ridden with faults, one will be disenchanted</seg>
+                    <tei:milestone xml:id="UT22084-066-003-49"/>“Therefore, Śāriputra, if one sees the sense pleasures as being ridden with faults, one will be disenchanted</seg>
             </tuv>
         </tu>
         <tu>
@@ -1344,8 +1302,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-50"/>
-                    “Now Śāriputra, what is defilement?</seg>
+                    <tei:milestone xml:id="UT22084-066-003-50"/>“Now Śāriputra, what is defilement?</seg>
             </tuv>
         </tu>
         <tu>
@@ -1427,8 +1384,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-51"/>
-                    “Śāriputra, childish, ordinary beings are blind and thus</seg>
+                    <tei:milestone xml:id="UT22084-066-003-51"/>“Śāriputra, childish, ordinary beings are blind and thus</seg>
             </tuv>
         </tu>
         <tu>
@@ -1479,14 +1435,11 @@
         <tu>
             <prop name="folio">F.31.a</prop>
             <tuv xml:lang="bo">
-                <seg>ཤཱ་རིའི་བུ་བཅུ་པོ་འདི་དག་ནི་ཚུལ་ཁྲིམས་འཆལ་པའི་
-                    <ref folio="F.31.a"/>
-                    འཆལ་པའི་ཚུལ་ཁྲིམས་ཀྱི་ཉེས་པ་ཡིན་ཏེ། </seg>
+                <seg>ཤཱ་རིའི་བུ་བཅུ་པོ་འདི་དག་ནི་ཚུལ་ཁྲིམས་འཆལ་པའི་<tei:ref folio="F.31.a"/>འཆལ་པའི་ཚུལ་ཁྲིམས་ཀྱི་ཉེས་པ་ཡིན་ཏེ། </seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-52"/>
-                    “Śāriputra, there are ten misfortunes that befall someone whose discipline has lapsed.</seg>
+                    <tei:milestone xml:id="UT22084-066-003-52"/>“Śāriputra, there are ten misfortunes that befall someone whose discipline has lapsed.</seg>
             </tuv>
         </tu>
         <tu>
@@ -1604,8 +1557,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-53"/>
-                    “Śāriputra, since that is the case, you should come to perceive sense pleasures as ridden with faults.</seg>
+                    <tei:milestone xml:id="UT22084-066-003-53"/>“Śāriputra, since that is the case, you should come to perceive sense pleasures as ridden with faults.</seg>
             </tuv>
         </tu>
         <tu>
@@ -1696,8 +1648,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-54"/>
-                    “Śāriputra, a woman’s body is completely filled with feces and spittle—who would enjoy that?</seg>
+                    <tei:milestone xml:id="UT22084-066-003-54"/>“Śāriputra, a woman’s body is completely filled with feces and spittle—who would enjoy that?</seg>
             </tuv>
         </tu>
         <tu>
@@ -1766,9 +1717,7 @@
         <tu>
             <prop name="folio">F.31.b</prop>
             <tuv xml:lang="bo">
-                <seg>མི་
-                    <ref folio="F.31.b"/>
-                    དེ་དག་དྲི་མི་ཞིམ་པ་དེ་སྣོམ་པར་བྱེད་དམ། འོན་ཏེ་མི་སྣོམ། </seg>
+                <seg>མི་<tei:ref folio="F.31.b"/>དེ་དག་དྲི་མི་ཞིམ་པ་དེ་སྣོམ་པར་བྱེད་དམ། འོན་ཏེ་མི་སྣོམ། </seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>Will they sniff at its stench or not?”</seg>
@@ -1790,8 +1739,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-56"/>
-                    The Blessed One then asked venerable Śāriputra,</seg>
+                    <tei:milestone xml:id="UT22084-066-003-56"/>The Blessed One then asked venerable Śāriputra,</seg>
             </tuv>
         </tu>
         <tu>
@@ -1810,9 +1758,7 @@
                 <seg>!ཁྱི་རོ་དེ་ལ་རིག་པར་བྱེད་དམ། སྐྱོད་པར་བྱེད་དམ། མངོན་པར་དགའ་བར་བྱེད་ན། </seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>If someone touched
-                    <note xml:id="UT22084-066-003-57"/>
-                     the corpse of that dog, if he shook it, if he enjoyed himself with it,</seg>
+                <seg>If someone touched<tei:note xml:id="UT22084-066-003-57"/> the corpse of that dog, if he shook it, if he enjoyed himself with it,</seg>
             </tuv>
         </tu>
         <tu>
@@ -1849,8 +1795,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-56"/>
-                    The Blessed One then said to venerable Śāriputra,</seg>
+                    <tei:milestone xml:id="UT22084-066-003-56"/>The Blessed One then said to venerable Śāriputra,</seg>
             </tuv>
         </tu>
         <tu>
@@ -1932,8 +1877,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-61"/>
-                    “Śāriputra, monks must develop the perception of the faults of the sense pleasures in the following way.</seg>
+                    <tei:milestone xml:id="UT22084-066-003-61"/>“Śāriputra, monks must develop the perception of the faults of the sense pleasures in the following way.</seg>
             </tuv>
         </tu>
         <tu>
@@ -1948,9 +1892,7 @@
         <tu>
             <prop name="folio">F.32.a</prop>
             <tuv xml:lang="bo">
-                <seg>ཤཱ་རིའི་བུ་ལུས་འདི་ནི་གནོད་པ་མང་བའོ། 
-                    <ref folio="F.32.a"/>
-                    འཁྲུག་པ་མང་བའོ། །</seg>
+                <seg>ཤཱ་རིའི་བུ་ལུས་འདི་ནི་གནོད་པ་མང་བའོ། <tei:ref folio="F.32.a"/>འཁྲུག་པ་མང་བའོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>Śāriputra, this body is very harmful and troublesome.</seg>
@@ -2026,8 +1968,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-62"/>
-                    “Śāriputra, there are masses of parasites on the sides of women’s necks and heads. Known as the yearners,</seg>
+                    <tei:milestone xml:id="UT22084-066-003-62"/>“Śāriputra, there are masses of parasites on the sides of women’s necks and heads. Known as the yearners,</seg>
             </tuv>
         </tu>
         <tu>
@@ -2054,8 +1995,7 @@
                 <seg>ཤཱ་རིའི་བུ་བུད་མེད་ལ་སྲིན་བུའི་ཚོགས་ཨ་བ་རེ་བན་ཞེས་བྱ་བ་དག་ཡོད་དེ། </seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>Śāriputra, there are masses of parasites on women’s bodies. Known as the obstructors,
-                    <note xml:id="UT22084-066-003-63"/>
+                <seg>Śāriputra, there are masses of parasites on women’s bodies. Known as the obstructors,<tei:note xml:id="UT22084-066-003-63"/>
                 </seg>
             </tuv>
         </tu>
@@ -2120,8 +2060,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-64"/>
-                    “Śāriputra, inside the part of women’s bodies where the womb lies,</seg>
+                    <tei:milestone xml:id="UT22084-066-003-64"/>“Śāriputra, inside the part of women’s bodies where the womb lies,</seg>
             </tuv>
         </tu>
         <tu>
@@ -2172,9 +2111,7 @@
         <tu>
             <prop name="folio">F.32.b</prop>
             <tuv xml:lang="bo">
-                <seg>འདི་ལྟ་སྟེ། མཆུ་མཆོག་
-                    <ref folio="F.32.b"/>
-                    ཅེས་བྱ་བ་དང་། གོང་བུ་སྦེད་ཅེས་བྱ་བ་དང་། རླུང་འབྱིན་ཅེས་བྱ་བ་དང་། འདོད་ལེན་ཅེས་བྱ་བ་སྟེ། </seg>
+                <seg>འདི་ལྟ་སྟེ། མཆུ་མཆོག་<tei:ref folio="F.32.b"/>ཅེས་བྱ་བ་དང་། གོང་བུ་སྦེད་ཅེས་བྱ་བ་དང་། རླུང་འབྱིན་ཅེས་བྱ་བ་དང་། འདོད་ལེན་ཅེས་བྱ་བ་སྟེ། </seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>that are known as the great lips, the lump concealers , the wind expellers , and the desire catchers .</seg>
@@ -2222,8 +2159,7 @@
                 <seg>བསླབ་པའི་གཞི་ལྷག་པ་དང་བཅའ་བར་མཛད་དོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>added additional rules to the fundamental precepts.
-                    <note xml:id="UT22084-066-003-65"/>
+                <seg>added additional rules to the fundamental precepts.<tei:note xml:id="UT22084-066-003-65"/>
                 </seg>
             </tuv>
         </tu>
@@ -2234,9 +2170,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-66"/>
-                    “Śāriputra, you should teach this Dharma discourse on the sections of Dharma over and over again to the four assemblies.
-                    <note xml:id="UT22084-066-003-67"/>
+                    <tei:milestone xml:id="UT22084-066-003-66"/>“Śāriputra, you should teach this Dharma discourse on the sections of Dharma over and over again to the four assemblies.<tei:note xml:id="UT22084-066-003-67"/>
                 </seg>
             </tuv>
         </tu>
@@ -2301,8 +2235,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-68"/>
-                    After the Blissful One had uttered those words, the Teacher continued, saying the following:</seg>
+                    <tei:milestone xml:id="UT22084-066-003-68"/>After the Blissful One had uttered those words, the Teacher continued, saying the following:</seg>
             </tuv>
         </tu>
         <tu>
@@ -2348,8 +2281,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-70"/>
-                    “Monks and nuns, Laymen and laywomen, Upon hearing this, let go of their desire.</seg>
+                    <tei:milestone xml:id="UT22084-066-003-70"/>“Monks and nuns, Laymen and laywomen, Upon hearing this, let go of their desire.</seg>
             </tuv>
         </tu>
         <tu>
@@ -2368,8 +2300,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-71"/>
-                    “To practitioners of the Dharma</seg>
+                    <tei:milestone xml:id="UT22084-066-003-71"/>“To practitioners of the Dharma</seg>
             </tuv>
         </tu>
         <tu>
@@ -2406,8 +2337,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-72"/>
-                    “Just as the Buddha has taught,</seg>
+                    <tei:milestone xml:id="UT22084-066-003-72"/>“Just as the Buddha has taught,</seg>
             </tuv>
         </tu>
         <tu>
@@ -2435,8 +2365,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-72"/>
-                    After the Blessed One had spoken these words,</seg>
+                    <tei:milestone xml:id="UT22084-066-003-72"/>After the Blessed One had spoken these words,</seg>
             </tuv>
         </tu>
         <tu>
@@ -2464,21 +2393,17 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-72"/>
-                    This concludes the Noble Great Vehicle Sūtra “ The Sections of Dharma .” Colophon</seg>
+                    <tei:milestone xml:id="UT22084-066-003-72"/>This concludes the Noble Great Vehicle Sūtra “ The Sections of Dharma .” Colophon</seg>
             </tuv>
         </tu>
         <tu>
             <prop name="folio">F.33.a</prop>
             <tuv xml:lang="bo">
-                <seg>རྒྱ་གར་གྱི་
-                    <ref folio="F.33.a"/>
-                    མཁན་པོ་པྲཛྙཱ་བར་མ་དང་། ཞུ་ཆེན་གྱི་ལོཙྪ་བ་བན་དེ་ཡེ་ཤེས་སྡེས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ། །</seg>
+                <seg>རྒྱ་གར་གྱི་<tei:ref folio="F.33.a"/>མཁན་པོ་པྲཛྙཱ་བར་མ་དང་། ཞུ་ཆེན་གྱི་ལོཙྪ་བ་བན་དེ་ཡེ་ཤེས་སྡེས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ། །</seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-003-72"/>
-                    The Indian scholar Prajñāvarman and the chief editor-translator, venerable Yeshé Dé, translated, edited, and finalized this work.</seg>
+                    <tei:milestone xml:id="UT22084-066-003-72"/>The Indian scholar Prajñāvarman and the chief editor-translator, venerable Yeshé Dé, translated, edited, and finalized this work.</seg>
             </tuv>
         </tu>
     </body>

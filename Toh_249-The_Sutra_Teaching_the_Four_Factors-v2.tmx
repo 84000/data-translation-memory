@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" version="1.4b">
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
     <header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="XML aligned text" eft:text-id="UT22084-066-007"/>
     <body>
         <tu>
@@ -18,8 +18,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-007-16"/>
-                    Homage to all the buddhas and bodhisattvas!</seg>
+                    <tei:milestone xml:id="UT22084-066-007-16"/>Homage to all the buddhas and bodhisattvas!</seg>
             </tuv>
         </tu>
         <tu>
@@ -29,8 +28,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-007-16"/>
-                    Thus did I hear at one time.</seg>
+                    <tei:milestone xml:id="UT22084-066-007-16"/>Thus did I hear at one time.</seg>
             </tuv>
         </tu>
         <tu>
@@ -39,9 +37,7 @@
                 <seg>བཅོམ་ལྡན་འདས་སུམ་ཅུ་རྩ་གསུམ་ལྷའི་ནང་ན་ལྷའི་འདུན་ས་ཆོས་བཟང་ན་དགེ་སློང་ལྔ་བརྒྱ་ཐམ་པའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་། བྱམས་པ་དང་། འཇམ་དཔལ་ལ་སོགས་པ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རབ་ཏུ་མང་པོ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>The Blessed One was dwelling in the Sudharmā assembly hall in the Heaven of the Thirty-Three, together with a great gathering of five hundred monks,
-                    <note xml:id="UT22084-066-007-17"/>
-                     and very many bodhisattva mahāsattvas, including Maitreya and Mañjuśrī.</seg>
+                <seg>The Blessed One was dwelling in the Sudharmā assembly hall in the Heaven of the Thirty-Three, together with a great gathering of five hundred monks,<tei:note xml:id="UT22084-066-007-17"/> and very many bodhisattva mahāsattvas, including Maitreya and Mañjuśrī.</seg>
             </tuv>
         </tu>
         <tu>
@@ -51,16 +47,14 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-007-18"/>
-                    At that time the Blessed One said to the bodhisattva mahāsattva Maitreya,</seg>
+                    <tei:milestone xml:id="UT22084-066-007-18"/>At that time the Blessed One said to the bodhisattva mahāsattva Maitreya,</seg>
             </tuv>
         </tu>
         <tu>
             <prop name="folio">F.59.b</prop>
             <tuv xml:lang="bo">
                 <seg>
-                    <ref folio="F.59.b"/>
-                    བྱམས་པ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཆོས་བཞི་དང་ལྡན་ན་སྡིག་པ་བྱས་ཤིང་བསགས་པ་ཟིལ་གྱིས་ནོན་པར་འགྱུར་རོ། །</seg>
+                    <tei:ref folio="F.59.b"/>བྱམས་པ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཆོས་བཞི་དང་ལྡན་ན་སྡིག་པ་བྱས་ཤིང་བསགས་པ་ཟིལ་གྱིས་ནོན་པར་འགྱུར་རོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
                 <seg>“O Maitreya, bodhisattva mahāsattva, if you possess four factors, the misdeeds you have committed and accumulated will be overcome.</seg>
@@ -73,8 +67,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-007-18"/>
-                    “What are these four?</seg>
+                    <tei:milestone xml:id="UT22084-066-007-18"/>“What are these four?</seg>
             </tuv>
         </tu>
         <tu>
@@ -93,8 +86,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-007-18"/>
-                    “The action of repentance is to feel intense remorse for any non-virtuous action you have committed.</seg>
+                    <tei:milestone xml:id="UT22084-066-007-18"/>“The action of repentance is to feel intense remorse for any non-virtuous action you have committed.</seg>
             </tuv>
         </tu>
         <tu>
@@ -104,8 +96,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-007-18"/>
-                    “Antidotal action is to put great effort into virtuous actions once you have committed a non-virtuous action.</seg>
+                    <tei:milestone xml:id="UT22084-066-007-18"/>“Antidotal action is to put great effort into virtuous actions once you have committed a non-virtuous action.</seg>
             </tuv>
         </tu>
         <tu>
@@ -115,9 +106,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-007-18"/>
-                    “The power of restraint is to make a pledge and thereby refrain from any similar action.
-                    <note xml:id="UT22084-066-007-20"/>
+                    <tei:milestone xml:id="UT22084-066-007-18"/>“The power of restraint is to make a pledge and thereby refrain from any similar action.<tei:note xml:id="UT22084-066-007-20"/>
                 </seg>
             </tuv>
         </tu>
@@ -128,8 +117,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-007-59"/>
-                    “The power of support is to take refuge in the Buddha, Dharma, and Saṅgha, and not to forsake the mind of awakening.</seg>
+                    <tei:milestone xml:id="UT22084-066-007-59"/>“The power of support is to take refuge in the Buddha, Dharma, and Saṅgha, and not to forsake the mind of awakening.</seg>
             </tuv>
         </tu>
         <tu>
@@ -148,8 +136,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-007-21"/>
-                    “O Maitreya, bodhisattva mahāsattva, if you possess these four factors, you will overcome any misdeeds that you have committed and accumulated.</seg>
+                    <tei:milestone xml:id="UT22084-066-007-21"/>“O Maitreya, bodhisattva mahāsattva, if you possess these four factors, you will overcome any misdeeds that you have committed and accumulated.</seg>
             </tuv>
         </tu>
         <tu>
@@ -213,8 +200,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-007-22"/>
-                    Once the Blessed One had said this,</seg>
+                    <tei:milestone xml:id="UT22084-066-007-22"/>Once the Blessed One had said this,</seg>
             </tuv>
         </tu>
         <tu>
@@ -233,8 +219,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-007-22"/>
-                    This concludes the noble Mahāyāna sūtra entitled “Teaching the Four Factors.”</seg>
+                    <tei:milestone xml:id="UT22084-066-007-22"/>This concludes the noble Mahāyāna sūtra entitled “Teaching the Four Factors.”</seg>
             </tuv>
         </tu>
         <tu>
@@ -244,8 +229,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <milestone xml:id="UT22084-066-007-22"/>
-                    Translated, edited, and corrected by the Indian preceptor Surendrabodhi and the principal editor and translator venerable Yeshé Dé.</seg>
+                    <tei:milestone xml:id="UT22084-066-007-22"/>Translated, edited, and corrected by the Indian preceptor Surendrabodhi and the principal editor and translator venerable Yeshé Dé.</seg>
             </tuv>
         </tu>
     </body>
