@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+	<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="XML aligned text" eft:text-id="UT22084-062-011"/>
+<body>
+<tu>
+            <prop name="folio">F.123.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བ་དང་པོ་དང་རྣམ་པར་དབྱེ་བ་བསྟན་པ་ཞེས་བྱ་བའི་མདོ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Sūtra Teaching the Fundamental Exposition and Detailed Analysis of Dependent Arising</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.123.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-011-10"/>Homage to the Three Jewels.<tei:note xml:id="UT22084-062-011-11"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.123.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-011-13"/>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.123.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མཉན་ཡོད་ན་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན་བཞུགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Bhagavān was dwelling in Śrāvastī at Jeta Grove, in the park of Anāthapiṇḍada.<tei:note xml:id="UT22084-062-011-14"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.123.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དགེ་སློང་རྣམས་ལ་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-011-15"/>Then the Bhagavān spoke to the monks:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.123.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་ཁྱེད་ལ་རྟེན་ཅིང་འབྲེལ་པར་འབྱུང་བ་དང་པོ་དང་རྣམ་པར་དབྱེ་བ་བསྟན་གྱིས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Monks,<tei:note xml:id="UT22084-062-011-16"/> I shall teach you the fundamental exposition and detailed analysis of dependent arising.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.123.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ལེགས་པར་རབ་ཏུ་ཉོན་ལ་ཡིད་ལ་ཟུང་ཤིག་དང་བཤད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Listen very well and bear this in mind as I explain.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.123.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྟེན་ཅིང་འབྲེལ་པར་འབྱུང་བ་དང་པོ་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>What is the fundamental exposition of dependent arising?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.123.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ། འདི་ཡོད་ན་འདི་འབྱུང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is thus: if this exists, that arises;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.123.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་སྐྱེས་པས་འདི་སྐྱེ་བ་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>by this having been produced, that is produced.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.123.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ། མ་རིག་པའི་རྐྱེན་གྱིས་འདུ་བྱེད། འདུ་བྱེད་ཀྱི་རྐྱེན་གྱིས་རྣམ་པར་ཤེས་པ། རྣམ་པར་ཤེས་པའི་རྐྱེན་གྱིས་མིང་དང་གཟུགས། མིང་དང་གཟུགས་ཀྱི་རྐྱེན་གྱིས་སྐྱེ་མཆེད་དྲུག །སྐྱེ་མཆེད་དྲུག་གི་རྐྱེན་གྱིས་རེག་པ། རེག་པའི་རྐྱེན་གྱིས་ཚོར་བ། ཚོར་བའི་རྐྱེན་གྱིས་སྲེད་པ། སྲེད་པའི་རྐྱེན་གྱིས་ལེན་པ། ལེན་པའི་རྐྱེན་གྱིས་སྲིད་པ། སྲིད་པའི་རྐྱེན་གྱིས་སྐྱེ་བ། སྐྱེ་བའི་རྐྱེན་གྱིས་རྒ་ཤི་དང་། མྱ་ངན་དང་། སྨྲེ་སྔགས་འདོན་པ་དང་། སྡུག་བསྔལ་བ་དང་། ཡིད་མི་བདེ་བ་དང་། འཁྲུག་པ་རྣམས་འབྱུང་བར་འགྱུར་ཏེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-011-17"/>“It is thus: through the condition of ignorance, formations arise; through the condition of formations, consciousness arises; through the condition of consciousness, name-and-form arises; through the condition of name-and-form, the six sense sources arise; through the condition of the six sense sources, contact arises; through the condition of contact, feeling arises; through the condition of feeling, craving arises; through the condition of craving, grasping arises; through the condition of grasping, existence arises; through the condition of existence, birth arises; through the condition of birth, aging and death—as well as sorrow, lamentation, suffering, unhappiness, and strife—arise.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.123.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ལྟར་ན་སྡུག་བསྔལ་གྱི་ཕུང་པོ་ཆེན་པོ་འབའ་ཞིག་པོ་འདི་འབྱུང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>In this way, this sole great heap of suffering arises.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.123.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་ནི་རྟེན་ཅིང་འབྲེལ་པར་འབྱུང་བ་དང་པོ་ཞེས་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>This is the fundamental exposition of dependent arising.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.123.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྟེན་ཅིང་འབྲེལ་པར་འབྱུང་བའི་རྣམ་པར་དབྱེ་བ་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-011-18"/>“What is the detailed analysis of dependent arising?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.123.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མ་རིག་པའི་རྐྱེན་གྱིས་འདུ་བྱེད་ཅེས་བྱ་བའི་མ་རིག་པ་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>What is ignorance in the statement, ‘Through the condition of ignorance, formations arise’?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.124.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་དེ་སྔོན་གྱི་མཐའ་མི་ཤེས་པ་དང་། ཕྱི་མའི་མཐའ་མི་ཤེས་པ་དང་། སྔོན་དང་ཕྱི་མའི་མཐའ་མི་ཤེས་པ་དང་། ནང་མི་ཤེས་པ་དང་། ཕྱི་མི་ཤེས་པ་དང་། ནང་དང་ཕྱི་མི་ཤེས་པ་དང་། ལས་མི་ཤེས་པ་དང་། རྣམ་པར་སྨིན་པ་མི་ཤེས་པ་དང་། ལས་དང་རྣམ་<tei:ref folio="F.124.a"/>པར་སྨིན་པ་མི་ཤེས་པ་དང་། སངས་རྒྱས་མི་ཤེས་པ་དང་། ཆོས་མི་ཤེས་པ་དང་། དགེ་འདུན་མི་ཤེས་པ་དང་། སྡུག་བསྔལ་མི་ཤེས་པ་དང་། ཀུན་འབྱུང་དང་། འགོག་པ་དང་། ལམ་མི་ཤེས་པ་དང་། རྒྱུ་མི་ཤེས་པ་དང་། རྒྱུ་ལས་ཡང་དག་པར་འབྱུང་བའི་ཆོས་མི་ཤེས་པ་དང་། དགེ་བ་དང་། མི་དགེ་བ་དང་། ཁ་ན་མ་ཐོ་བ་དང་བཅས་པ་དང་། ཁ་ན་མ་ཐོ་བ་མེད་པ་དང་། བསྟེན་པར་བྱ་བ་དང་། བསྟེན་པར་བྱ་བ་མ་ཡིན་པ་དང་། ངན་པ་དང་། གྱ་ནོམ་པ་དང་། ནག་པོ་དང་། དཀར་པོ་དང་། རྣམ་པར་དབྱེ་བ་དང་བཅས་པའི་རྟེན་ཅིང་འབྲེལ་པར་འབྱུང་བ་དང་། རེག་པའི་སྐྱེ་མཆེད་དྲུག་ཡང་དག་པ་ཇི་ལྟ་བ་བཞིན་ཁོང་དུ་མི་ཆུད་པ་དང་། གང་དེ་དང་དེར་ཡང་དག་པ་ཇི་ལྟ་བ་བཞིན་དུ་མི་ཤེས་པ་དང་། མ་མཐོང་བ་དང་། མངོན་པར་མ་རྟོགས་པ་དང་། རྨོངས་པ་དང་། ཀུན་དུ་རྨོངས་པ་དང་། མ་རིག་པ་དང་། མུན་པའི་རྣམ་པ་ཞེས་བྱ་བ་འདི་ནི་མ་རིག་པ་ཞེས་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is not knowing the past, not knowing the future, and not knowing either the past or the future. It is not knowing the inner, not knowing the outer, and not knowing either the inner or the outer. It is not knowing actions, not knowing their maturation, and not knowing either actions or their maturation. It is not knowing the Buddha, not knowing the Dharma, not knowing the Saṅgha. It is not knowing suffering, origin, cessation, or the path. It is not knowing the causes and not knowing that phenomena arise from causes. It is not knowing virtue and nonvirtue. It is not knowing unseemliness and not knowing the absence of unseemliness. It is not knowing what to engage in and what not to engage in. It is not knowing what is bad, sublime, negative, or positive. It is not knowing the phenomena that dependently arise within such divisions. It is failing to understand the six sense sources of contact just as they are. It is not knowing what is and how it is. It is not seeing and not understanding. It is being confused, deluded, ignorant, and obscured. This is ignorance.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.124.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མ་རིག་པའི་རྐྱེན་གྱིས་འདུ་བྱེད་ཅེས་བྱ་བའི་འདུ་བྱེད་གང་ཞེ་ན། འདུ་བྱེད་ནི་རྣམ་པ་གསུམ་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-011-19"/>“What are formations in the statement, ‘Through the condition of ignorance, formations arise’? They are threefold.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.124.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གསུམ་གང་ཞེ་ན། ལུས་ཀྱི་འདུ་བྱེད་དང་། ངག་གི་འདུ་བྱེད་དང་། ཡིད་ཀྱི་འདུ་བྱེད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>What are the three?<tei:note xml:id="UT22084-062-011-20"/> They are the formations of the body, the formations of speech, and the formations of the mind.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.124.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འདུ་བྱེད་ཀྱི་རྐྱེན་གྱིས་རྣམ་པར་ཤེས་པ་ཞེས་བྱ་བའི་རྣམ་པར་ཤེས་པ་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-011-21"/>“What is consciousness in the statement, ‘Through the condition of formations, consciousness arises’?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.124.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྣམ་པར་ཤེས་པའི་ཚོགས་དྲུག་སྟེ། མིག་གི་རྣམ་པར་ཤེས་པ་དང་། རྣ་བ་དང་། སྣ་དང་། ལྕེ་དང་། ལུས་དང་། ཡིད་ཀྱི་རྣམ་པར་ཤེས་པའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the six collections of consciousness: the consciousnesses of the eye, ear, nose, tongue, body, and mind.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.124.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྣམ་པར་ཤེས་པའི་རྐྱེན་གྱིས་མིང་དང་གཟུགས་ཞེས་བྱ་བ་ལ་མིང་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-011-22"/>“What is name in the statement, ‘Through the condition of consciousness, name-and-form arises’?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.124.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཟུགས་ཅན་མ་ཡིན་པའི་ཕུང་པོ་བཞི་སྟེ། ཚོར་བའི་ཕུང་པོ་དང་། འདུ་ཤེས་ཀྱི་ཕུང་པོ་དང་། འདུ་བྱེད་ཀྱི་ཕུང་པོ་དང་། རྣམ་པར་ཤེས་པའི་ཕུང་པོའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the four formless aggregates. They are the aggregate of feeling, the aggregate of perception, the aggregate of formations, and the aggregate of consciousness.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.124.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཟུགས་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-011-23"/>“What is form ?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.124.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཟུགས་གང་ཡིན་པ་ཅི་ཡང་རུང་། དེ་དག་ཐམས་ཅད་འབྱུང་བ་ཆེན་པོ་བཞི་དང་། འབྱུང་བ་ཆེན་པོ་བཞི་དག་རྒྱུར་བྱས་པ་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Whatever form there may be, it is all the four great elements and form derived from the four great elements.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.124.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཟུགས་འདི་དང་། སྔ་མའི་མིང་གཉི་ག་གཅིག་ཏུ་མངོན་པར་བསྡུས་ནས་མིང་དང་གཟུགས་ཞེས་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>when both form and the aforementioned name are taken together, they are called name-and-form.<tei:note xml:id="UT22084-062-011-24"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.124.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མིང་དང་གཟུགས་ཀྱི་རྐྱེན་གྱིས་སྐྱེ་མཆེད་དྲུག་ཅེས་བྱ་བའི་སྐྱེ་མཆེད་དྲུག་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-011-25"/>“What are the six sense sources in the statement, ‘Through the condition of name-and-form, the six sense sources arise’?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.124.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ནང་གི་སྐྱེ་མཆེད་དྲུག་སྟེ། མིག་ནང་གི་སྐྱེ་མཆེད་དང་། རྣ་བ་དང་། སྣ་དང་། ལྕེ་དང་། ལུས་དང་། ཡིད་ནང་གི་སྐྱེ་མཆེད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>There are six inner sense sources: the inner sense sources of the eye, ear, nose, tongue, body, and mind. </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.124.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐྱེ་<tei:ref folio="F.124.b"/>མཆེད་དྲུག་གི་རྐྱེན་གྱིས་རེག་པ་ཞེས་བྱ་བའི་རེག་པ་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-011-26"/>“What is contact in the statement, ‘Through the condition of the six sense sources, contact arises’?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.124.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རེག་པའི་ཚོགས་དྲུག་སྟེ། མིག་གི་འདུས་ཏེ་རེག་པ་དང་། རྣ་བ་དང་། སྣ་དང་། ལྕེ་དང་། ལུས་དང་། ཡིད་ཀྱི་འདུས་ཏེ་རེག་པའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>There are six collections of contact: being conjoined with the eye, ear, nose, tongue, body, and mind. This is contact.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.124.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རེག་པའི་རྐྱེན་གྱིས་ཚོར་བ་ཞེས་བྱ་བའི་ཚོར་བ་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-011-27"/>“What is feeling in the statement, ‘Through the condition of contact, feeling arises’?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.124.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚོར་བ་ནི་གསུམ་སྟེ། བདེ་བ་དང་། སྡུག་བསྔལ་བ་དང་། བདེ་བ་ཡང་མ་ཡིན། སྡུག་བསྔལ་བ་ཡང་མ་ཡིན་པའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>There are three feelings: pleasure, pain, and neither pleasure nor pain.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.124.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚོར་བའི་རྐྱེན་གྱིས་སྲེད་པ་ཞེས་བྱ་བའི་སྲེད་པ་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-011-28"/>“What is craving in the statement, ‘Through the condition of feeling, craving arises’?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.124.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྲེད་པ་ནི་གསུམ་སྟེ། འདོད་པའི་སྲེད་པ་དང་། གཟུགས་ཀྱི་སྲེད་པ་དང་། གཟུགས་མེད་པའི་སྲེད་པའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>There are three cravings: the craving of the desire realm, the craving of the form realm, and the craving of the formless realm.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.124.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྲེད་པའི་རྐྱེན་གྱིས་ལེན་པ་ཞེས་བྱ་བའི་ལེན་པ་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-011-29"/>“What is grasping in the statement, ‘Through the condition of craving, grasping arises’?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.124.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལེན་པ་ནི་བཞི་སྟེ། འདོད་པ་ཉེ་བར་ལེན་པ་དང་། ལྟ་བ་ཉེ་བར་ལེན་པ་དང་། ཚུལ་ཁྲིམས་དང་བརྟུལ་ཞུགས་ཉེ་བར་ལེན་པ་དང་། བདག་ཏུ་སྨྲ་བ་ཉེ་བར་ལེན་པའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Grasping is of four types: grasping at desire, grasping at views, grasping at moral rules and vows and rites, and grasping at theories that assert the self.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.124.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལེན་པའི་རྐྱེན་གྱིས་སྲིད་པ་ཞེས་བྱ་བའི་སྲིད་པ་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-011-30"/>“What is existence in the statement, ‘Through the condition of grasping, existence arises’?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.124.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྲིད་པ་ནི་གསུམ་སྟེ། འདོད་པའི་སྲིད་པ་དང་། གཟུགས་ཀྱི་སྲིད་པ་དང་། གཟུགས་མེད་པའི་སྲིད་པའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>There are three existences: the existences of the desire realm, the form realm, and the formless realm.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.124.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྲིད་པའི་རྐྱེན་གྱིས་སྐྱེ་བ་ཞེས་བྱ་བའི་སྐྱེ་བ་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-011-31"/>“What is birth in the statement, ‘Through the condition of existence, birth arises’? Birth refers to the way a being is born into a particular class of beings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.124.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་སེམས་ཅན་དེ་དང་དེ་དག་གི་སེམས་ཅན་གྱི་རིས་དེ་དང་དེ་དག་ཏུ་གང་སྐྱེ་བ་དང་། ཤིན་ཏུ་སྐྱེ་བ་དང་། འཕོ་བ་དང་། མངོན་པར་འབྱུང་བ་དང་། རབ་ཏུ་འབྱུང་བ་དང་། ཕུང་པོ་སོ་སོར་ཐོབ་པ་དང་། ཁམས་སོ་སོར་ཐོབ་པ་དང་། སྐྱེ་མཆེད་སོ་སོར་ཐོབ་པ་དང་། ཕུང་པོ་རྣམས་མངོན་པར་གྲུབ་པ་དང་། སྲོག་གི་དབང་པོ་རབ་ཏུ་སྐྱེས་པ་འདི་ནི་སྐྱེ་བ་ཞེས་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It refers to conception, entrance, maturation, manifestation, obtaining aggregates, obtaining elements, obtaining sense sources, fully developing aggregates, and the manifestation of the life faculty.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.124.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐྱེ་བའི་རྐྱེན་གྱིས་རྒ་ཤི་ཞེས་བྱ་བའི་རྒ་བ་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-011-32"/>“What is aging in the statement, ‘Through the condition of birth, aging and death arise’?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.124.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་དེའི་སྤྱི་ཐེར་དང་། སྐྲ་དཀར་དང་། གཉེར་མའི་ཚོགས་པ་དང་། རྙིས་པ་དང་། ཞུམ་པ་དང་། བ་ལང་ཆུ་འཐུང་བ་ལྟ་བུར་གུག་པ་དང་། ལུས་ནག་པོའི་ཐིག་ལེས་གང་བ་དང་། ལུད་པ་ལུ་ཞིང་དབུགས་རྒོད་པ་དང་། མདུན་དུ་ལུས་བུབ་པ་ལྟར་བྱེད་པ་དང་། ཁར་བ་ལ་བརྟེན་པ་དང་། བླུན་པས་མོང་རྟུལ་བ་ཉིད་དང་། ཞན་པ་ཉིད་དང་། ཉམས་པ་དང་། ཡོངས་སུ་ཉམས་པ་དང་། དབང་པོ་རྒུད་པ་དང་། འདུ་བྱེད་རྣམས་རྙིངས་པ་དང་། ཤིན་ཏུ་རྙིངས་པར་གྱུར་པ་འདི་ནི་རྒ་བ་ཞེས་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Aging refers to becoming bald, white haired, wrinkled, worn out, slack, hunched like a cow drinking water, covered with liver spots, having drooping limbs, being afflicted with rheumatism, breathing heavily, walking hunched over, walking with a stick, feeling unwell and lethargic, being weakened, being exhausted, having impaired faculties, losing one’s memory, and becoming old and decrepit. This is called aging.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.124.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཆི་བ་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-011-33"/>“What is death? </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.125.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་གང་ཡིན་པ་དེ་དང་དེ་དག་སེམས་<tei:ref folio="F.125.a"/>ཅན་གྱི་རིས། དེ་དང་དེ་དག་ནས་འཕོས་པ་དང་། འཕོ་བ་ཉིད་དང་། ཞིག་པ་དང་། ནང་ཉམས་པ་དང་། ཚེ་ཉམས་པ་དང་། དྲོད་ཡལ་བ་དང་། སྲོག་གི་དབང་པོ་འགགས་པ་དང་། ཕུང་པོ་རྣམས་འདོར་བ་དང་། ཤི་བ་དང་། དུས་བྱེད་པ་འདི་ནི་ཤི་བ་ཞེས་བྱ་སྟེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Death is the departure or passing away of each and every being from their respective class of sentient beings; it is their disintegration, internal deterioration, loss of life, fading of bodily warmth, cessation of the life faculty, discarding of the aggregates, dying, and decease.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.125.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཤི་བ་འདི་དང་སྔ་མ་རྒ་བ་གཉིས་གཅིག་ཏུ་བསྡུས་ནས་རྒ་ཤི་ཞེས་བྱ་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Combining the two into one, death with the aforementioned aging, this is known as aging and death .</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.125.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་ནི་རྟེན་ཅིང་འབྲེལ་པར་འབྱུང་བ་རྣམ་པར་དབྱེ་བ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>This is the detailed analysis of dependent arising.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.125.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་ཁྱེད་ལ་རྟེན་ཅིང་འབྲེལ་པར་འབྱུང་བ་དང་པོ་དང་རྣམ་པར་དབྱེ་བ་བཤད་པར་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-011-34"/>“O monks, I said that I would explain to you the fundamental exposition and detailed analysis of dependent arising, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.125.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཞེས་ངས་སྨྲས་པ་གང་ཡིན་པ་དེའི་ཆེད་དུ་ངས་སྨྲས་པ་འདི་དག་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>they are as I have now described them.”<tei:note xml:id="UT22084-062-011-35"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.125.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྟེན་ཅིང་འབྲེལ་པར་འབྱུང་བ་དང་པོ་དང་རྣམ་པར་དབྱེ་བ་བསྟན་པ་ཞེས་བྱ་བའི་མདོ་རྫོགས་སོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-011-45"/>This concludes “ The Sūtra Teaching the Fundamental Exposition and Detailed Analysis of Dependent Arising .”</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>

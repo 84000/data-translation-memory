@@ -1,0 +1,1272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+	<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="XML aligned text" eft:text-id="UT22084-072-012"/>
+<body>
+<tu>
+            <prop name="folio">F.157.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཕགས་པ་ཡངས་པའི་གྲོང་ཁྱེར་དུ་འཇུག་པའི་མདོ་ཆེན་པོ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Noble Mahāsūtra Entering the City of Vaiśālī</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.157.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-50"/>Homage to all the buddhas and bodhisattvas!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.157.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Thus did I hear at one time:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.157.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་འདམ་བུའི་ཁྲོད་ན་གཟིངས་པའི་འདུག་གནས་ན་བཞུགས་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Blessed One was residing in Nāḍikā, at the Impenetrable Dwelling Place.<tei:note xml:id="UT22084-072-012-52"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.157.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་ལ་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Blessed One said to the venerable Ānanda,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.157.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་ཡངས་པའི་གྲོང་ཁྱེར་ག་ལ་བ་དེར་འདོང་ངོ་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Ānanda, let us proceed to the city of Vaiśālī.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.157.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཙུན་པ་དེ་ལྟར་བགྱིའོ་ཞེས་གསོལ་ནས། ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོས་བཅོམ་ལྡན་འདས་ཀྱི་ལྟར་ཉན་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Let us do so, O Honored One,” replied the venerable Ānanda, assenting to what the Blessed One had said.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.157.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཡུལ་བྲྀ་ཛིར་རྒྱུ་ཞིང་གཤེགས་ཏེ། ཡངས་པའི་གྲོང་ཁྱེར་དུ་བྱོན་ནས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Thereupon the Blessed One, traveling through the country of Vṛji, arrived in Vaiśālī.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.157.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡངས་པའི་གྲོང་ཁྱེར་གྱི་ཨ་མྲ་སྲུང་བའི་ཚལ་ན་བཞུགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>In Vaiśālī, he stayed in Āmrapālī’s grove.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.157.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་ལ་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-55"/>At that time the Blessed One said to the venerable Ānanda,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.157.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་ཡངས་པའི་གྲོང་ཁྱེར་དུ་སོང་ལ་ཕྱིན་ནས་སྒོའི་ཐེམ་པ་ལ་རྐང་པ་ཞོག་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Ānanda, go to the city of Vaiśālī, place your foot on the threshold of the city gate, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གསང་སྔགས་ཀྱི་གཞི་འདི་དག་དང་། ཚིགས་སུ་བཅད་པ་<tei:ref folio="F.158.a"/>འདི་དག་སྨྲོས་ཤིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>utter these mantras and these verses:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བི་ས་ར་ཏ། བི་ས་ར་ཏ། བི་ས་ར་ཏ། བི་ས་ར་ཏ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“ ‘ Visarata visarata visarata visarata<tei:note xml:id="UT22084-072-012-57"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་འཇིག་རྟེན་ལ་ཐུགས་བརྩེ་བ་ཅན་གྱིས་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-58"/>“ ‘The Buddha, who has compassion for the world, has spoken.<tei:note xml:id="UT22084-072-012-59"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཐམས་ཅད་ཀྱིས་དགོངས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>This is the wish of all buddhas.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རང་སངས་རྒྱས་ཀྱིས་བསམས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the wish of all pratyekabuddhas.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགྲ་བཅོམ་པ་ཐམས་ཅད་ཀྱིས་བསམས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the wish of all arhats.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སློབ་པ་ཐམས་ཅད་ཀྱིས་བསམས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the wish of all those undergoing training.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཉན་ཐོས་ཐམས་ཅད་ཀྱིས་བསམས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the wish of all śrāvakas.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བདེན་པའི་ཚིག་དང་ལྡན་པ་ཐམས་ཅད་ཀྱིས་བསམས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the wish of all who speak words of truth.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་ཀྱིས་བསམས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the wish of the Dharma.<tei:note xml:id="UT22084-072-012-60"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚངས་པས་བསམས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the wish of Brahmā.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚངས་པ་སོ་སོས་བསམས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the wish of Pratyeka­brahman.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འདོད་པའི་དབང་ཕྱུག་གིས་བསམས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the wish of Kāmeśvara.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དབང་པོས་བསམས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the wish of Indra.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྷས་བསམས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the wish of the gods.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྷ་མ་ཡིན་གྱི་དབང་པོས་བསམས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the wish of the lord of the demigods.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྷ་མ་ཡིན་ཐམས་ཅད་ཀྱིས་བསམས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the wish of all demigods.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྷ་མ་ཡིན་གྱི་མངག་གཞུག་པས་བསམས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the wish of the servants of the demigods.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འབྱུང་པོ་ཐམས་ཅད་ཀྱིས་བསམས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the wish of all bhūtas:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བི་ས་ར་ཏ། བི་ས་ར་ཏ། བི་ས་ར་ཏ། བི་ས་ར་ཏ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“ ‘ Visarata visarata visarata visarata<tei:note xml:id="UT22084-072-012-62"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་འཇིག་རྟེན་ལ་ཐུགས་བརྩེ་བ་ཅན་གྱིས་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-63"/>“ ‘The Buddha, who has compassion for the world, has spoken.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མུན་ཙྪ་ཏ། མུན་ཙྪ་ཏ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“ ‘ Muñcata muñcata<tei:note xml:id="UT22084-072-012-65"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མ་འདུག་ཤིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-66"/>“ ‘Do not stay.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡམས་ཀྱི་ནད་རྣམ་པར་ཞི་བར་གྱུར་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The epidemic should cease.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ནི་ར་ག་ཙྪ་ཏ། ནི་ར་ག་ཙྪ་ཏ། ནིར་ག་ཙྪ་ཏ། ནི་ར་གཙྪ་ཏ། ནི་ར་ག་ཙྪ་ཏ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“ ‘ Nirgacchata nirgacchata nirgacchata nirgacchata<tei:note xml:id="UT22084-072-012-68"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ལྷ་ཆེན་པོ་ལྷའི་ཡང་ལྷ། ལྷའི་བླ་མ་ཡང་གཤེགས་ཤིང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-69"/>“ ‘The Buddha, the Great God, the God of Gods, the Supreme God, has arrived.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དབང་པོ་དང་བཅས་པའི་ལྷ་རྣམས་དང་། ཚངས་པ་དང་བཅས་པའི་ལྷ་རྣམས་དང་། སྐྱེ་དགུའི་དབང་པོ་དང་བཅས་པ་རྣམས་དང་། འཇིག་རྟེན་སྐྱོང་བ་བཞི་པོ་དག་ཀྱང་འོང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The gods including Indra, the gods including Brahmā, the gods including Īśāna, the gods including Prajāpati, and the Four Protectors of the World have come.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྷ་འབུམ་ཕྲག་དུ་མ་དག་དང་། ལྷ་མ་ཡིན་གྱི་དབང་པོ་རྣམས་དང་། ལྷ་མ་ཡིན་འབུམ་ཕྲག་དུ་མ་དག་ཀྱང་འོང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Hundreds of thousands of gods, lords of the demigods, and hundreds of thousands of demigods have also come.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལ་མངོན་པར་དད་པའི་འབྱུང་པོ་འབུམ་ཕྲག་དུ་མ་དག་ཀྱང་སེམས་ཅན་ཐམས་ཅད་ཀྱི་དོན་གྱི་ཕྱིར་འོང་སྟེ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Hundreds of thousands of bhūtas who have faith in the Blessed One have also come for the sake of all living beings, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་དག་གིས་ཁྱེད་རྣམས་ལ་གནོད་པ་ཆེན་པོ་བྱེད་པར་འགྱུར་དུ་འོང་གིས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>they have come to bring great harm to you; so:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+            <eft:flag type="alternateSource"/>
+	<tuv xml:lang="bo">
+                <seg>!ནི་ར་གད་ཙྪ་ཏ། ནིར་གད་ཙྪ་ཏ། ནི་ར་གད་ཙྪ་ཏ། ནི་ར་ར་གད་ཙྪ་ཏ། ནི་ར་གད་ཙྪ་ཏ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“ ‘ Nirgacchata nirgacchata nirgacchata nirgacchata</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མྱུར་དུ་བྱེར་ཅིག་ཁྱེད་ཅག་ལས་གང་དག་སྡང་བའི་སེམས་དང་ལྡན་པ་དེ་དག་ནི་ཕུང་བར་གྱུར་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-71"/>“ ‘Disperse quickly. Those of you who have hateful thoughts, may you be destroyed.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་དག་བྱམས་པའི་སེམས་དང་ལྡན་ཞིང་ཉེས་པར་མི་འདོད་ལ་སྲུང་བར་འཇུག་པར་འདོད་པ་དེ་དག་ནི་འཁོད་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Those who have loving thoughts, who do not wish to sin but wish to protect beings, stay</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལུས་ལ་ཡང་<tei:ref folio="F.158.b"/>འཇུག་པར་གྱིས་ཤིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>and take on physical form.<tei:note xml:id="UT22084-072-012-72"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་འཇིག་རྟེན་ལ་ཐུགས་བརྩེ་བ་ཅན་གྱིས་བཀའ་སྩལ་པ། སུ་མུ། སུ་མུ། སུ་མུ། སུ་མུ། སུ་མུ། སུ་མུ་རུ། སུ་མུ་རུ། སུ་མུ་རུ། སུ་མུ་རུ། སུ་མུ་རུ། སུ་མུ་རུ། སུ་མུ་རུ། སུ་མུ་རུ། མུ་རུ། མུ་རུ། མུ་རུ། མུ་རུ། མུ་རུ། མུ་རུ། མུ་རུ། མུ་རུ། མི་རི། མི་རི། མི་རི། མི་རི། མི་རི། མི་རི། མི་རི། མུ་རུ་མི་རི། མུ་རུ་མི་རི། མུ་རུ་མི་རི། མུ་རུ་མི་རི། མུ་རུ་མི་རི། མུ་རུ་མི་རི། མུ་རུ་མི་རི། མུ་རུ་མི་རི། མུ་རུ་མི་རི། མུ་རུ་མི་རི། མུ་རུ་མི་རི། མུ་རུ་མི་རི། མུ་རུ་མི་རི། མུ་རཱུ་རཱི་ཏི། རི་རི་རི་རི་རི་རི། རཱི་རཱི་རཱི་རཱི་རཱི་རཱི་ཏི། མི་རི་མི་རི་མི་རི་མི་རི་ཏི། ཧི་སི་མི་རི། མི་རི་ཏི། མི་རི་སི། སཱི་སཱི་སཱི། ཀང་ཀ་རཱ། ཀ་ར་ཀ་ཏ། ཀང་ཀ་རཱ། ཀ་ར་ཀ་ཙ། ཀང་ཀ་རཱ། ཀང་ཀ་རཱ། ཀང་ཀ་རཱ། ཀང་ཀ་རཱ། ཀང་ཀ་རཱ། ཀང་ཀ་རཱ། ཀང་ཀ་རཱ། ཀང་ཀ་རཱ། ཀང་ཀ་རཱ། ཀང་ཀ་རཱ། ཀང་ཀ་རཱ། ཀང་ཀ་རཱ། ཀང་ཀ་རཱ། ཀང་ཀ་རོ་ཏི་ཏི། ཀུ་རི་ཤོ། ཀང་ཀ་ར་ཀང་ཀ་རི་ཤི། རི་རི་རི་རི་རི་རི། ཧི་རི་ཏ་ཕུ་སྭ། རི་པུ། །རི་པུ། །རི་པུ། །རི་པུ། །རི་པུ། །རི་པུ། །རི་པུ། །རི་པུ། །ནཱ་ཐཱ། ནཱ་ནཱ། ཐཱ་ཐཱ། རི་པུ་རི་པུ། ནཱ་ཐཱ་ཐཱ། ནི་ར་གཙྪ་ཏ། ནི་ར་གཙྪ་ཏ། རི་པུ། །རི་པུ། ནི་ར་གཙྪ་ཏ། པ་ལཱ་ཡཱ་ཏ། རི་པཱུ་རི་པཱུ། པ་ལཱ་ཡཱ་ཏ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Buddha, who has compassion for the world, has spoken. “ ‘ Sumu sumu | sumu sumu sumu | sumuru sumuru | sumuru sumuru | sumuru sumuru | sumuru sumuru | muru muru | muru muru | muru muru | muru muru | miri miri | miri miri | miri miri miri | murumiri murumiri | murumiri murumiri | murumiri murumiri | murumiri murumiri | murumiri murumiri | murumiri murumiri | murumiri murūrīti | riri riri riri | rīrī rīrī rīrīti | miri miri miriti | hisi miri miriti | mirisi sīsīmī | kaṅkarā karakata | kaṅkarā karakacā | kaṅkarā kaṅkarā | kaṅkarā kaṅkarā | kaṅkarā kaṅkarā | kaṅkarā kaṅkarā | kaṅkarā kaṅkarā | kaṅkarā kaṅkarā | kaṅkarā kaṅkarā | kaṅkaro titi kuriśo | kaṅkara kaṅkariśi | ririri ririri | hiritaphu svā | ripu ripu | ripu ripu | ripu ripu | ripu ripu | nāthā nānā | thā thā | ripu ripu | nāthātha | nirgacchata nirgacchata | ripu ripu | nirgacchata palāyāta | ripū ripū pālāyata |<tei:note xml:id="UT22084-072-012-74"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་འཇིག་རྟེན་ལ་ཐུགས་བརྩེ་བ་ཅན། སེམས་ཅན་ཐམས་ཅད་ལ་ཕན་པར་ལྷག་པར་དགོངས་པ་དང་ལྡན་པ། བྱམས་པ་ལ་གནས་པ། ཐུགས་རྗེ་དང་ལྡན་པ། དགའ་བ་ལ་གནས་པ། བཏང་སྙོམས་ལ་གནས་པ་གཤེགས་ཀྱིས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-75"/>“ ‘The Buddha, who has compassion for the world, whose wish is to benefit all living beings, who abides in love, who is compassionate, who abides in joy, and who abides in equanimity, has arrived.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཀྵི་ཕྲན་ནི་ར་གཙྪ་ཏ་སྭཱ་ཧཱ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“ ‘ Kṣipraṃ nirgacchata<tei:note xml:id="UT22084-072-012-77"/> svāhā</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཀྱི་ཡེ་ཤེས་ཀྱི་མཆོག་དང་། ཆོས་ཉིད་ཀྱིས་ལྷ་ཐམས་ཅད་དང་། འབྱུང་པོ་ཐམས་ཅད་ལ་བཀའ་སྩལ་པའི་གསང་སྔགས་གཞི་འདི་དག་ནི་འགྲུབ་བོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-78"/>“These mantras, which were proclaimed to all the gods and all the bhūtas through the Buddha’s supreme wisdom and truth, will accomplish their purpose.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚིགས་སུ་བཅད་པ་འདི་དག་ནི་འགྲུབ་བོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The following verses<tei:note xml:id="UT22084-072-012-79"/> will accomplish their purpose:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་ལ་སེར་སྣ་རྣམ་ཆགས་པ། །རྣམ་བཅོམ་དྲི་མ་མེད་མཛད་ཅིང་། །ཐུགས་ཞི་གནོད་པ་མི་མངའ་དེཁྱེད་ལ་བདེ་ལེགས་མཛད་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-80"/>“ ‘He in whom all attachment and greed Are conquered, all defilement gone, His mind at peace without harmful intent— He will bring you well-being.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.158.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འདྲེན་པ་གང་ཞིག་འགྲོ་བ་རྣམས། །ཐར་པའི་ལམ་དུ་འཛུད་མཛད་ཅིང་། ཆོས་རྣམས་ཐམས་ཅད་སྟོན་པ་དེ། །ཁྱེད་ལ་བདེ་ལེགས་མཛད་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-81"/>“ ‘He who leads all worldly beings To tread the path of liberation, The teacher of all dharmas— He will bring you well-being.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྟོན་པ་རྒྱུ་བ་རྣམས་ཀྱི་རྟེན། །སེམས་ཅན་ཀུན་གྱི་དོན་གྱི་ཕྱིར། །གང་གིས་བདེ་བ་མངའ་<tei:ref folio="F.159.a"/>མཛད་དེ། །ཁྱེད་ལ་བདེ་ལེགས་མཛད་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-82"/>“ ‘The teacher, support of wandering beings, Who, for the sake of every living creature, Brings them all to master happiness— He will bring you well-being.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐྱོབ་པ་གང་ཞིག་བྱམས་པ་ཡིས། །ཐུགས་ཀྱི་འགྲོ་བ་འདི་དག་ཀུན། །བུ་གཅིག་བཞིན་དུ་རྟག་བསྐྱངས་ཏེ། །ཁྱེད་ལ་བདེ་ལེགས་མཛད་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-83"/>“ ‘The protector who, with thoughts of love For all these beings, sustains them always Just as he would his only child— He will bring you well-being.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་ཞིག་འཁོར་བར་འཁོར་བ་ཡི། སེམས་ཅན་ཀུན་གྱི་རྟེན་གྱུར་ཅིང་། །གླིང་དང་དཔུང་གཉེན་གྱུར་པ་དེ། །ཁྱེད་ལ་བདེ་ལེགས་མཛད་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-84"/>“ ‘He who in saṃsāra has been For all saṃsāric beings a support, An island, and a friend— He will bring you well-being.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་ཞིག་ཆོས་ཀུན་མངོན་སུམ་གྱུར། །གཙང་ཞིང་སླུ་བ་མི་མངའ་ལ། །གསུང་གཙང་གཙང་མར་མཛད་པ་དེ། །ཁྱེད་ལ་བདེ་ལེགས་མཛད་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-85"/>“ ‘He who has laid bare all phenomena, Who is pure and free from deception, Whose words are pure, whose very acts are purity— He will bring you well-being.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དཔའ་བོ་ཆེན་པོ་གང་སྐྱེས་པས། །ཕུན་སུམ་ཚོགས་དོན་འབྱོར་གྱུར་ཅིང་། །དོན་གྲུབ་ཚོགས་ཀྱང་གྲུབ་པ་དེ། །ཁྱེད་ལ་བདེ་ལེགས་མཛད་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-86"/>“ ‘This great hero who, by taking birth, With perfection attained his purpose And accomplished all his goals<tei:note xml:id="UT22084-072-012-87"/> — He will bring you well-being.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་ཞིག་སྐྱེས་པས་ས་རྣམས་ནི། །ནགས་ཚལ་བཅས་པར་རབ་གཡོས་ཤིང་། །སེམས་ཅན་ཐམས་ཅད་རབ་དགའ་དེ། །ཁྱེད་ལ་བདེ་ལེགས་མཛད་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-88"/>“ ‘He whose birth, when this whole earth With all its forests shook and trembled, Brought joy for every living creature— He will bring you well-being.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སྙིང་པོར་གང་ཞིག་གིས། །ས་དག་རྣམ་དྲུག་གཡོས་གྱུར་ཅིང་། །བདུད་ཡིད་མི་བདེར་གྱུར་པ་དེ། །ཁྱེད་ལ་བདེ་ལེགས་མཛད་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-89"/>“ ‘He who caused, on the seat of awakening, The earth to quake in all six ways And Māra to feel despair— He will bring you well-being.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་བ་ན། །འཕགས་པའི་བདེན་པ་རྣམ་གསུངས་པ། །ཐུབ་པའི་སྙན་པ་གང་བྱུང་དེ། །ཁྱེད་ལ་བདེ་ལེགས་མཛད་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-90"/>“ ‘He who, turning the wheel of the Dharma, Pronounced the Truths of the Noble Ones And was extolled as a sage, the Muni— He will bring you well-being.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡིད་འཕྲོག་གང་གིས་མུ་སྟེགས་བྱེད། །ཐམས་ཅད་ཆོས་ཀྱིས་ཕམ་མཛད་ཅིང་། །ཚོགས་ཀུན་དབང་དུ་མཛད་པ་དེ། །ཁྱེད་ལ་བདེ་ལེགས་མཛད་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-91"/>“ ‘The alluring one<tei:note xml:id="UT22084-072-012-92"/> who defeated All the extremists with the Dharma And brought all assemblies<tei:note xml:id="UT22084-072-012-93"/> under his influence— He will bring you well-being.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཁྱེད་ལ་བདེ་ལེགས་མཛད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-94"/>“ ‘May the Buddha bring you well-being;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བརྒྱ་བྱིན་ལྷར་བཅས་བདེ་ལེགས་དང་། །འབྱུང་པོ་ཀུན་གྱིས་བདེ་ལེགས་ནི། །ཁྱེད་ལ་རྟག་ཏུ་སྦྱིན་གྱུར་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May Śakra and the gods bestow well-being; And may well-being from the bhūtas, too, Be provided to you always.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་བསོད་ནམས་མཐུ་དག་དང་། །ལྷ་རྣམས་ཀྱི་ནི་བསམས་པ་ཡིས། །ཁྱེད་རྣམས་དོན་འདོད་གང་ཡིན་པ། །དོན་དེ་དེ་རིང་གྲུབ་གྱུར་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-95"/>“ ‘By the Buddha’s merit and power And the wishes of the gods, May whatever goal you seek This very day be accomplished.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྐང་གཉིས་ཁྱེད་ཅག་བདེ་ལེགས་ཤོག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-96"/>“ ‘Two-legged beings, be well.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྐང་བཞི་ཁྱེད་ཅག་བདེ་ལེགས་ཤོག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Four-legged beings, be well.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཁྱེད་ཅག་ལམ་འགྲོ་བདེ་ལེགས་ཤོག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>When you set out, be well;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྱིར་འོང་དག་ཀྱང་བདེ་ལེགས་ཤོག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And when you return, be well.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཉིན་མོ་བདེ་ལེགས་མཚན་བདེ་ལེགས། །ཉི་མའི་གུང་ལའང་བདེ་ལེགས་ཤིང་། །ཁྱེད་ཅག་ཀུན་ཏུ་བདེ་ལེགས་<tei:ref folio="F.159.b"/>ཤོག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-97"/>“ ‘Be well in the daytime; be well in the night; Be well at midday, too. May all of you be always well;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཁྱེད་ཅག་སྡིག་པར་མ་གྱུར་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May all of you know no evil.<tei:note xml:id="UT22084-072-012-98"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ལྷ་རྣམས་སྟོང་དག་གིས། །ཡོངས་སུ་བསྐོར་ཏེ་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-99"/>“ ‘Surrounded by a thousand gods, The Buddha has arrived— So, you with hateful thoughts, disperse! And you whose nature is compassion, stay.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཤེགས་མཛད་ཀྱིས། །སྡང་སེམས་ལྡན་པ་རྣམས་བྱེར་ཅིང་། །སྙིང་རྗེའི་བདག་ཉིད་ཅན་རྣམས་འཁོད། །སངས་རྒྱས་རང་སངས་རྒྱས་རྣམས་དང་། །དགྲ་བཅོམ་སློབ་པའི་བདེན་ཚིག་གིས། །འཇིག་རྟེན་མི་ཕན་བྱེད་པ་རྣམས། །གྲོང་ཁྱེར་འདི་ནི་གཏོང་གྱུར་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-100"/>“ ‘By the power of the true words of the buddhas, Pratyekabuddhas, arhats, and those being trained, Those who do harm to the world Should be gone from this city.<tei:note xml:id="UT22084-072-012-101"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་ཀུན་དང་སྲོག་ཆགས་ཀུན། །འབྱུང་པོ་ཀུན་དང་ཁྱེད་ཅག་ཀུན། །བདེ་བ་འབའ་ཞིག་ལྡན་གྱུར་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-102"/>“ ‘All sentient beings, all living creatures, All bhūtas, and every one of you— May you have nothing but happiness.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐམས་ཅད་ནད་རྣམས་མེད་པར་ཤོག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May you all be free from illness.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཀུན་གྱིས་བཟང་རྣམས་མཐོང་གྱུར་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May you all see what is good.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་ཡང་སྡིག་པར་མ་གྱུར་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May all of you know no evil.<tei:note xml:id="UT22084-072-012-103"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འབྱུང་པོ་གང་དག་འདིར་ནི་ལྷགས་གྱུར་ཅིང་། །ས་དང་བར་སྣང་དག་ལ་གནས་པ་རྣམས། །སྐྱེ་དགུ་རྣམས་ལ་རྟག་ཏུ་བྱམས་བྱེད་ཤོག །ཉིན་དང་མཚན་དུ་ཆོས་ཀྱང་སྤྱོད་གྱུར་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-104"/>“ ‘May whatever bhūtas are assembled here, All those who live upon the earth or in the sky, Act always lovingly for human beings And practice Dharma day and night.’ ”<tei:note xml:id="UT22084-072-012-105"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོས་བཙུན་པ་དེ་བཞིན་བགྱིའོ་ཞེས་གསོལ་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-106"/>To these instructions, the venerable Ānanda replied, “I will do so, O Honored One.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱི་ལྟར་མཉན་ནས་ཡངས་པའི་གྲོང་ཁྱེར་དུ་སོང་སྟེ་སྒོའི་ཐེམ་པ་ལ་རྐང་པ་བཞག་ནས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-107"/>He went to Vaiśālī as the Blessed One had instructed and, placing his foot on the threshold of the city gate,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གསང་སྔགས་གཞི་དག་དང་། ཚིགས་སུ་བཅད་པ་འདི་དག་ཀྱང་སྨྲས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>uttered these mantras and these verses:<tei:note xml:id="UT22084-072-012-108"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བི་ས་ར་ཏ། བི་ས་ར་ཏ། བི་ས་ར་ཏ། བི་ས་ར་ཏ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“ Visarata visarata visarata visarata<tei:note xml:id="UT22084-072-012-110"/> </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་འཇིག་རྟེན་ལ་ཐུགས་བརྩེ་བ་ཅན་གྱིས་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-111"/>“The Buddha, who has compassion for the world, has spoken.<tei:note xml:id="UT22084-072-012-112"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཐམས་ཅད་ཀྱིས་དགོངས་པ། རང་སངས་རྒྱས་ཐམས་ཅད་ཀྱིས་བསམས་པ། དགྲ་བཅོམ་པ་ཐམས་ཅད་ཀྱིས་བསམས་པ། སློབ་པ་ཐམས་ཅད་ཀྱིས་བསམས་པ། ཉན་ཐོས་ཐམས་ཅད་ཀྱིས་བསམས་པ། བདེན་པའི་ཚིག་དང་ལྡན་པ་ཐམས་ཅད་ཀྱིས་བསམས་པ། ཆོས་ཐམས་ཅད་ཀྱིས་བསམས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>This is the wish of all buddhas. It is the wish of all pratyekabuddhas. It is the wish of all arhats. It is the wish of all those undergoing training. It is the wish of all śrāvakas. It is the wish of all who speak words of truth. It is the wish of all the Dharmas.<tei:note xml:id="UT22084-072-012-113"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚངས་པས་བསམས་པ། ཚངས་པ་སོ་སོས་བསམས་པ། འདོད་པའི་དབང་ཕྱུག་གིས་བསམས་པ། དབང་པོས་བསམས་པ། ལྷས་བསམས་པ། ལྷ་མ་ཡིན་གྱི་དབང་པོས་བསམས་པ། ལྷ་མ་ཡིན་ཐམས་ཅད་ཀྱིས་བསམས་པ། ལྷ་མ་ཡིན་གྱི་མངག་གཞུག་པས་བསམས་པ། འབྱུང་པོ་ཐམས་ཅད་ཀྱིས་བསམས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the wish of Kāmeśvara. It is the wish of Brahmā. It is the wish of Pratyeka­brahman. It is the wish of Indra. It is the wish of the gods. It is the wish of the lord of the demigods. It is the wish of all demigods. It is the wish of the servants of the demigods. It is the wish of all bhūtas.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.159.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བི་ས་ར་ཏ། བི་ས་ར་ཏ། བི་ས་ར་ཏ། བི་ས་ར་ཏ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“ Visarata visarata visarata visarata</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་<tei:ref folio="F.160.a"/>རྒྱས་འཇིག་རྟེན་ལ་ཐུགས་བརྩེ་བ་ཅན་གྱིས་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-115"/>“The Buddha, who has compassion for the world, has spoken.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མུན་ཙྪ་ཏ། མུན་ཙྪ་ཏ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“ Muñcata muñcata</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡམས་ཀྱི་ནད་རྣམས་ཞི་བར་གྱུར་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The epidemic should cease.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ནི་ར་གཙྪ་ཏ། ནི་ར་གཙྪ་ཏ། ནི་ར་གཙྪ་ཏ། ནི་ར་གཙྪ་ཏ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“ Nirgacchata nirgacchata nirgacchata nirgacchata</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ལྷ་ཆེན་པོ་ལྷའི་ཡང་ལྷ། ལྷའི་བླ་མ་གཤེགས་ཤིང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-119"/>“The Buddha, the Great God, the God of Gods, the Supreme God, has arrived.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དབང་པོ་དང་བཅས་པའི་ལྷ་རྣམས་དང་། ཚངས་པ་དང་བཅས་པའི་ལྷ་རྣམས་དང་། དབང་བདག་དང་བཅས་པ་རྣམས་དང་། སྐྱེ་དགུའི་བདག་པོ་དང་བཅས་པ་རྣམས་དང་། འཇིག་རྟེན་སྐྱོང་བ་བཞི་པོ་དག་ཀྱང་འོང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The gods including Indra, the gods including Brahmā, the gods including Īśāna, the gods including Prajāpati, and the Four Protectors of the World have come.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྷ་སྟོང་ཕྲག་དུ་མ་དག་དང་། ལྷ་མ་ཡིན་གྱི་དབང་པོ་རྣམས་དང་། ལྷ་མ་ཡིན་སྟོང་ཕྲག་དུ་མ་དག་ཀྱང་འོང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Hundreds of thousands of gods, lords of the demigods, and hundreds of thousands of demigods have also come.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལ་མངོན་པར་དད་པའི་འབྱུང་པོ་བརྒྱ་སྟོང་མང་པོ་དག་ཀྱང་སེམས་ཅན་ཐམས་ཅད་ཀྱི་དོན་གྱི་ཕྱིར་འོང་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Hundreds of thousands of bhūtas who have faith in the Blessed One have also come for the sake of all living beings, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་དག་ཁྱེད་ལ་གནོད་པ་ཆེན་པོ་བྱེད་པར་འགྱུར་གྱིས། ནི་ར་གཙྪ་ཏ། ནི་ར་གཙྪ་ཏ། ནི་ར་གཙྪ་ཏ། ནི་ར་གཙྪ་ཏ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>they have come to bring great harm to you; so: “ Nirgacchata nirgacchata nirgacchata nirgacchata</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མྱུར་དུ་བྱེར་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-121"/>“Disperse quickly.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཁྱེད་ཅག་ལས་གང་དག་སྡང་བའི་སེམས་དང་ལྡན་པ་དེ་དག་ནི་ཕུང་བར་གྱུར་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Those of you who have hateful thoughts, may you be destroyed.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་དག་བྱམས་པའི་སེམས་དང་ལྡན་ཞིང་ཉེས་པར་མི་འདོད་ལ་སྲུང་བར་འཇུག་པར་འདོད་པ་དེ་དག་ནི་འཁོད་ཅིག །ལུས་ལ་ཡང་འཇུག་པར་གྱིས་ཤིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Those who have loving thoughts, who do not wish to sin but wish to protect beings, stay and take on physical form.<tei:note xml:id="UT22084-072-012-122"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་འཇིག་རྟེན་ལ་ཐུགས་བརྩེ་བ་ཅན་གྱིས་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Buddha, who has compassion for the world, has spoken.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སུ་མུ། སུ་མུ། སུ་མུ། སུ་མུ། སུ་མུ། སུ་མུ་རུ། སུ་མུ་རུ། སུ་མུ་རུ། སུ་མུ་རུ། སུ་མུ་རུ། སུ་མུ་རུ། སུ་མུ་རུ། སུ་མུ་རུ། མུ་རུ། མུ་རུ། མུ་རུ། མུ་རུ། མུ་རུ། མུ་རུ། མུ་རུ། མུ་རུ། མི་རི། མི་རི། མི་རི། མི་རི། མི་རི། མི་རི། མི་རི། མུ་རུ་མི་རི། མུ་རུ་མི་རི། མུ་རུ་མི་རི། མུ་རུ་མི་རི། མུ་རུ་མི་རི། མུ་རུ་མི་རི། མུ་རུ་མི་རི། མུ་རུ་མི་རི། མུ་རུ་མི་རི། མུ་རུ་མི་རི། མུ་རུ་མི་རི། མུ་རུ་མི་རི། མུ་རུ་མི་རི། མུ་རུ་མི་རི། མུ་རུ་རི་ཏི། རི་རི་རི་རི་རི་རི། རཱི་རཱི་རཱི་རཱི་རཱི་རཱི་ཏི། མི་རི་མི་རི། མི་རི་མི་རཱི་ཏི། ཧི་སི་མི་རི་མི་རི་ཏི། མི་རི་སི། སཱི་སི་མི། ཀང་ཀ་རཱ། ཀ་ར་ཀ་ཏ། ཀང་ར་ཀ་ར། ཀ་ར་ཀ་ཙ། ཀང་ཀ་ར། ཀང་ཀ་རཱ། །ཀང་ཀ་རཱ། །ཀང་ཀ་རཱ། །ཀང་ཀ་རཱ། །ཀང་ཀ་རཱ། །ཀང་ཀ་རཱ། །ཀང་ཀ་རཱ། །ཀང་ཀ་རཱ། །ཀང་ཀ་<tei:ref folio="F.160.b"/>རཱ། །ཀང་ཀ་རཱ། །ཀང་ཀ་རཱ། །ཀང་ཀ་རཱ། །ཀང་ཀ་རཱོ་ཏཱི་ཏི། ཀུ་རི་ཤོ། ཀང་ཀ་རཱ། །ཀང་ཀ་རི་ཤི། རི་རི་རི་རི་རི་རི། ཏི་རི་ཏ་ཕུ་སྭ། །རི་ཕུ། རི་ཕུ། རི་ཕུ། རི་ཕུ། རི་ཕུ། རི་ཕུ། རི་ཕུ། རི་ཕུ། ནཱ་ཐཱ། ནཱ་ནཱ་ཐཱ་ཐཱ། རི་པཱུ། རི་པཱུ། ནཱ་ཐཱ་ཐཱ། ནི་ར་གཙྪ་ཏ། ནི་ར་གཙྪ་ཏ། རི་པུ། རི་པུ། ནི་ར་གཙྪ་ཏ། པ་ལཱ་ཡཱ་ཏ། རི་པཱུ་རི་པཱུ། པ་ལ་ཡཱ་ཏཱ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“ Sumu sumu | sumu sumu sumu | sumuru sumuru | sumuru sumuru | sumuru sumuru | sumuru sumuru | muru muru | muru muru | muru muru | muru muru | miri miri | miri miri | miri miri miri | murumiri murumiri | murumiri murumiri | murumiri murumiri | murumiri murumiri | murumiri murumiri | murumiri murumiri | murumiri murūrīti | riri riri riri | rīrī rīrī rīrīti | miri miri mirīti | hisi miri miriti | mirisi sīsīmī | kaṅkarā karakata | kaṅrakara karakaca | kaṅkara kaṅkarā | kaṅkarā kaṅkarā | kaṅkarā kaṅkarā | kaṅkarā kaṅkarā | kaṅkarā kaṅkarā | kaṅkarā kaṅkarā | kaṅkarā kaṅkarā | kaṅkaro tīti kuriśo | kaṅkara kaṅkariśi | ririri ririri | tiritaphu svā | riphu riphu | riphu riphu | riphu riphu | riphu riphu | nāthā nānā | thā thā | ripū ripū | nāthāthā | nirgacchata nirgacchata | ripu ripu | nirgacchata palāyāta | ripū ripū palayātā |<tei:note xml:id="UT22084-072-012-124"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་འཇིག་རྟེན་ལ་ཐུགས་བརྩེ་བ་ཅན། སེམས་ཅན་ཐམས་ཅད་ལ་ཕན་པར་ལྷག་པར་དགོངས་པ་དང་ལྡན་པ། །བྱམས་པ་ལ་གནས་པ། ཐུགས་རྗེ་དང་ལྡན་པ། དགའ་བ་ལ་གནས་པ། བཏང་སྙོམས་ལ་གནས་པ་གཤེགས་ཀྱིས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-125"/>“The Buddha, who has compassion for the world, whose wish is to benefit all living beings, who abides in love, who is compassionate, who abides in joy, and who abides in equanimity, has arrived.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཀྵི་ཕྲན་ནི་ར་གཙྪ་ཏ་སྭཱ་ཧཱ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“ Kṣipraṃ nirgacchata svāhā</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཀྱི་ཡེ་ཤེས་ཀྱི་མཆོག་དང་། ཆོས་ཉིད་ཀྱིས་ལྷ་ཐམས་ཅད་དང་། འབྱུང་པོ་ཐམས་ཅད་ལ་བཀའ་སྩལ་པའི་གསང་སྔགས་གཞི་འདི་དག་ནི་གྲུབ་པའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-127"/>“These mantras, which were proclaimed to all the gods and all the bhūtas through the Buddha’s supreme wisdom and truth, will accomplish their purpose.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚིགས་སུ་བཅད་པ་འདི་དག་ནི་གྲུབ་པའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The following verses will accomplish their purpose:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་ལ་སེར་སྣ་རྣམས་ཆགས་པ། །རྣམ་བཅོམ་དྲི་མ་མེད་མཛད་ཅིང་། །ཐུགས་ཞི་གནོད་པ་མི་མངའ་དེ། །ཁྱེད་ལ་བདེ་ལེགས་མཛད་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-128"/>“He in whom all attachment and greed Are conquered, all defilement gone, His mind at peace without harmful intent— He will bring you well-being.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འདྲེན་པ་གང་ཞིག་འགྲོ་བ་རྣམས། །ཐར་པའི་ལམ་དུ་འཛུད་མཛད་ཅིང་། །ཆོས་རྣམས་ཐམས་ཅད་སྟོན་པ་དེ། །ཁྱེད་ལ་བདེ་ལེགས་མཛད་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-129"/>“He who leads all worldly beings To tread the path of liberation, The teacher of all dharmas— He will bring you well-being.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྟོན་པ་རྒྱུག་པ་རྣམས་ཀྱི་རྟེན། །སེམས་ཅན་ཀུན་གྱི་དོན་གྱི་ཕྱིར། །གང་གིས་བདེ་བ་མངའ་མཛད་དེ། །ཁྱེད་ལ་བདེ་ལེགས་མཛད་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-130"/>“The teacher, support of wandering beings, Who, for the sake of every living creature, Brings them all to master happiness— He will bring you well-being.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐྱོབ་པ་གང་ཞིག་བྱམས་པ་ཡི། །ཐུགས་ཀྱིས་འགྲོ་བ་འདི་དག་ཀུན། །བུ་གཅིག་བཞིན་དུ་རྟག་བསྐྱངས་ཏེ། །ཁྱེད་ལ་བདེ་ལེགས་མཛད་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-131"/>“The protector who, with thoughts of love For all these beings, sustains them always Just as he would his only child— He will bring you well-being.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་ཞིག་འཁོར་བར་འཁོར་བ་ཡི། །སེམས་ཅན་ཀུན་གྱི་རྟེན་གྱུར་ཅིང་། །གླིང་དང་དཔུང་གཉེན་གྱུར་པ་དེ། །ཁྱེད་ལ་བདེ་ལེགས་མཛད་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-132"/>“He who in saṃsāra has been For all saṃsāric beings a support, An island, and a friend— He will bring you well-being.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་ཞིག་ཆོས་ཀུན་མངོན་སུམ་གྱུར། །གཙང་ཞིང་སླུ་བ་མི་མངའ་ལ། །གསུང་གཙང་གཙང་མར་མཛད་པ་དེ། །ཁྱེད་ལ་བདེ་ལེགས་མཛད་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-133"/>“He who has laid bare all phenomena, Who is pure and free from deception, Whose words are pure, whose very acts are purity— He will bring you well-being.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དཔའ་བོ་ཆེན་པོ་གང་སྐྱེས་པས། །ཕུན་སུམ་ཚོགས་དོན་འབྱོར་གྱུར་ཅིང་། །དོན་གྲུབ་ཚོགས་ཀྱང་གྲུབ་པ་དེ། །ཁྱེད་ལ་བདེ་ལེགས་མཛད་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-134"/>“This great hero who, by taking birth, With perfection attained his purpose And accomplished all his goals<tei:note xml:id="UT22084-072-012-135"/> — He will bring you well-being.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་ཞིག་སྐྱེས་པས་ས་རྣམས་ནི། །<tei:ref folio="F.161.a"/>ནགས་ཚལ་བཅས་པར་རབ་གཡོས་ཤིང་། །སེམས་ཅན་ཐམས་ཅད་རབ་དགའ་དེ། །ཁྱེད་ལ་བདེ་ལེགས་མཛད་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-136"/>“He whose birth, when this whole earth With all its forests shook and trembled, Brought joy for every living creature— He will bring you well-being.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སྙིང་པོར་གང་ཞིག་གིས། །ས་དག་རྣམ་དྲུག་གཡོས་གྱུར་ཅིང་། །བདུད་ཡིད་མི་བདེར་གྱུར་པ་དེ། །ཁྱེད་ལ་བདེ་ལེགས་མཛད་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-137"/>“He who caused, on the seat of awakening, The earth to quake in all six ways And Māra to feel despair— He will bring you well-being.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་བ་ན། །འཕགས་པའི་བདེན་པ་རྣམ་གསུངས་པ། །ཐུབ་པའི་སྙན་པ་གང་བྱུང་དེ། །ཁྱེད་ལ་བདེ་ལེགས་མཛད་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-138"/>“He who, turning the wheel of the Dharma, Pronounced the Truths of the Noble Ones And was extolled as a sage, the Muni— He will bring you well-being.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡིད་འཕྲོག་གང་གིས་མུ་སྟེགས་བྱེད། །ཐམས་ཅད་ཆོས་ཀྱིས་ཕམ་མཛད་ཅིང་། །ཚོགས་ཀུན་དབང་དུ་མཛད་པ་དེ། །ཁྱེད་ལ་བདེ་ལེགས་མཛད་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-139"/>“The alluring one who defeated All the extremists with the Dharma And brought all assemblies<tei:note xml:id="UT22084-072-012-140"/> under his influence— He will bring you well-being.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཁྱེད་ལ་བདེ་ལེགས་མཛད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-141"/>“May the Buddha bring you well-being;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བརྒྱ་བྱིན་ལྷར་བཅས་བདེ་ལེགས་དང་། །འབྱུང་པོ་ཀུན་ཀྱང་བདེ་ལེགས་ནི། །ཁྱེད་ལ་རྟག་ཏུ་སྦྱིན་གྱུར་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May Śakra and the gods bestow well-being; And may well-being from the bhūtas, too, Be provided to you always.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་བསོད་ནམས་མཐུ་དག་དང་། །ལྷ་རྣམས་ཀྱི་ནི་བསམས་པ་ཡིས། །ཁྱེད་ཀྱི་དོན་འདོད་གང་ཡིན་པ། །དོན་དེ་དེ་རིང་འགྲུབ་གྱུར་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-142"/>“By the Buddha’s merit and power And the wishes of the gods, May whatever goal you seek This very day be accomplished.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྐང་གཉིས་ཁྱེད་ཅག་བདེ་ལེགས་ཤོག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-143"/>“Two-legged beings, be well.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྐང་བཞི་ཁྱེད་ཅག་བདེ་ལེགས་ཤོག་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Four-legged beings, be well.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཁྱེད་ཅག་ལམ་འགྲོ་བདེ་ལེགས་ཤོག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>When you set out, be well;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྱིར་འོང་རྣམས་ཀྱང་བདེ་ལེགས་ཤོག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And when you return, be well.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཉིན་མོ་བདེ་ལེགས་མཚན་བདེ་ལེགས། །ཉི་མའི་གུང་ལའང་བདེ་ལེགས་ཤིང་། །ཁྱེད་ཅག་ཀུན་ཏུ་བདེ་ལེགས་ཤོག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-144"/>“Be well in the daytime; be well in the night; Be well at midday, too. May all of you be always well;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཁྱེད་ཅག་སྡིག་པར་མ་གྱུར་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May all of you know no evil.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ལྷ་རྣམས་སྟོང་དག་གིས། །ཡོངས་སུ་བསྐོར་ཏེ་གཤེགས་མཛད་ཀྱིས། །སྡང་སེམས་ལྡན་པ་རྣམས་བྱེར་ཅིག ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-146"/>“Surrounded by a thousand gods, The Buddha has arrived— So, you with hateful thoughts, disperse!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྙིང་རྗེའི་བདག་ཉིད་ཅན་རྣམས་འཁོད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And you whose nature is compassion, stay.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་རང་སངས་རྒྱས་རྣམས་དང་། །དགྲ་བཅོམ་སློབ་པའི་བདེན་ཚིག་གིས། །འཇིག་རྟེན་མི་ཕན་བྱེད་པ་རྣམས། །གྲོང་ཁྱེར་འདི་ནི་གཏོང་གྱུར་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-147"/>“By the power of the true words of the buddhas, Pratyekabuddhas, arhats, and those being trained, Those who do harm to the world Should be gone from this city.<tei:note xml:id="UT22084-072-012-148"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་ཀུན་དང་སྲོག་ཆགས་ཀུན། །འབྱུང་པོ་ཀུན་དང་ཁྱེད་ཅག་ཀུན། །བདེ་བ་འབའ་ཞིག་ལྡན་གྱུར་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-149"/>“All sentient beings, all living creatures, All bhūtas, and every one of you— May you have nothing but happiness.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐམས་ཅད་ནད་རྣམས་མེད་པར་ཤོག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May you all be free from illness.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཀུན་གྱིས་བཟང་རྣམས་མཐོང་གྱུར་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May you all see what is good.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་ཡང་སྡིག་པར་མ་གྱུར་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May all of you know no evil.<tei:note xml:id="UT22084-072-012-150"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འབྱུང་པོ་གང་དག་འདིར་ནི་ལྷགས་གྱུར་ཅིང་། །ས་དང་བར་སྣང་དག་ན་གནས་པ་རྣམས། །སྐྱེ་དགུ་རྣམས་<tei:ref folio="F.161.b"/>ལ་རྟག་ཏུ་བྱམས་བྱེད་ཤོག །ཉིན་དང་མཚན་དུ་ཆོས་ཀྱང་སྤྱོད་གྱུར་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-151"/>“May whatever bhūtas are assembled here, All those who live upon the earth or in the sky, Act always lovingly for human beings And practice Dharma day and night.”<tei:note xml:id="UT22084-072-012-152"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཕགས་པ་ཡངས་པའི་གྲོང་ཁྱེར་དུ་འཇུག་པའི་མདོ་ཆེན་པོ་རྫོགས་སོ།། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-012-221"/>This completes the Noble Mahāsūtra “On Entering the City of Vaiśālī.”</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>
