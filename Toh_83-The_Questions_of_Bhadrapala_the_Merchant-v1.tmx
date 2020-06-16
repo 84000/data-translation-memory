@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx xmlns="http://www.lisa.org/tmx14">
-    <header xmlns:eft="http://read.84000.co/ns/1.0" creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" segtype="phrase" adminlang="en" srclang="bo" o-tmf="tei" datatype="Text" eft:text-id="UT22084-044-003"/>
+    <header xmlns:eft="http://read.84000.co/ns/1.0" creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" segtype="phrase" adminlang="en" srclang="bo" o-tmf="tei" datatype="Text" eft:text-id="UT22084-044-003" eft:text-version="1.32 2017"/>
     <body>
         <tu tuid="5">
             <prop name="folio">F.71.a</prop>
@@ -26,8 +26,7 @@
             <prop name="folio">F.71.a</prop>
             <prop name="position">73</prop>
             <tuv xml:lang="bo" creationdate="2018-03-21T18:36:52.26+01:00" creationid="admin">
-                <seg>བཅོམ་ལྡན་འདས་རྒྱལ་པོའི་ཁབ་ན་འོད་མའི་ཚལ་བྱ་ཀ་ལན་དཀགནས་པ་ན། ཤཱ་རིའི་བུ་ལ་སོགས་པ་བྱ་བ་བྱས་པ།
-                    བྱེད་པ་བྱས་པ་དགེ་སློང་སྟོང་ཉིས་བརྒྱ་ལྔ་བཅུའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་སོ། །</seg>
+                <seg>བཅོམ་ལྡན་འདས་རྒྱལ་པོའི་ཁབ་ན་འོད་མའི་ཚལ་བྱ་ཀ་ལན་དཀགནས་པ་ན། ཤཱ་རིའི་བུ་ལ་སོགས་པ་བྱ་བ་བྱས་པ། བྱེད་པ་བྱས་པ་དགེ་སློང་སྟོང་ཉིས་བརྒྱ་ལྔ་བཅུའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་སོ། །</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-03-21T18:36:52.26+01:00" creationid="admin">
                 <seg>The Blessed One was staying at Rājagṛha in the Bamboo Grove, the home of flying squirrels, together with Śāriputra and a great saṅgha of 1,250 monks, who had accomplished all that needed to be done.</seg>
