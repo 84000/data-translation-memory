@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx xmlns="http://www.lisa.org/tmx14">
-    <header xmlns:eft="http://read.84000.co/ns/1.0" creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-07-18T06:21:33.896Z" creationid="dirk" eft:text-id="UT22084-059-014" eft:text-version="2.3 2016"/>
+    <header xmlns:eft="http://read.84000.co/ns/1.0" creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-07-18T06:21:33.896Z" creationid="dirk" eft:text-id="UT22084-059-014" eft:text-version="2.34.1 2019"/>
     <body>
         <tu tuid="1">
             <prop name="folio">F.310.b</prop>
@@ -29,7 +29,7 @@
                 <seg>བཅོམ་ལྡན་འདས་ཡུལ་བི་ཛི་ན་ཡུལ་རྒྱུ་བ་རྒྱུ་ཞིང་དགེ་སློང་སྟོང་ཉིས་བརྒྱ་ལྔ་བཅུའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རབ་ཏུ་མང་པོ་དང་ཐབས་ཅིག་ཏུ་གྲོང་ཁྱེར་ཆེན་པོ་ཡངས་པ་ཅན་ག་ལ་བ་དེར་གཤེགས་པ་དང་།</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-07-18T06:23:31.503Z" creationid="dirk">
-                <seg>When the Bhagavān was travelling in the land of Vṛji, he went to the great city of Vaiśālī, together with a large saṅgha of one thousand two hundred and fifty bhikṣus and a vast number of bodhisattva mahāsattvas.</seg>
+                <seg>When the Bhagavān was traveling in the land of Vṛji, he went to the great city of Vaiśālī, together with a large saṅgha of one thousand two hundred and fifty bhikṣus and a vast number of bodhisattva mahāsattvas.</seg>
             </tuv>
         </tu>
         <tu tuid="4">
@@ -1959,7 +1959,7 @@
                 <seg>འཕགས་པ་བགྲེས་མོས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-08-12T23:13:44.725Z" creationid="kent">
-                <seg>This completes the Noble Mahāyāna Sūtra, The Questions of an Old Lady.</seg>
+                <seg>This completes the Noble Mahāyāna Sūtra, “The Questions of an Old Lady.”</seg>
             </tuv>
         </tu>
         <tu tuid="210">

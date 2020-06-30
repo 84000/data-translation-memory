@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx xmlns="http://www.lisa.org/tmx14">
-    <header xmlns:eft="http://read.84000.co/ns/1.0" creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-07-18T06:19:40.66Z" creationid="dirk" eft:text-id="UT22084-058-002" eft:text-version="2.1 2011-2016"/>
+    <header xmlns:eft="http://read.84000.co/ns/1.0" creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-07-18T06:19:40.66Z" creationid="dirk" eft:text-id="UT22084-058-002" eft:text-version="2.15.4 2020"/>
     <body>
         <tu tuid="">
             <prop name="folio">f.205.a</prop>
@@ -59,7 +59,7 @@
                 <seg>འཕགས་པ་ཀླུའི་རྒྱལ་པོ་རྒྱ་མཚོས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།། །།</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-09-25T07:27:18.786Z" creationid="jinpa">
-                <seg>This completes the Noble Mahāyāna Sūtra, The Questions of the Nāga King Sāgara.</seg>
+                <seg>This completes the Noble Mahāyāna Sūtra, “The Questions of the Nāga King Sāgara.”</seg>
             </tuv>
         </tu>
         <tu tuid="7">

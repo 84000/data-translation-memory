@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
-	<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="XML aligned text" eft:text-id="UT22084-046-002" eft:text-version="1.3.2 2020"/>
+	<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="XML aligned text" eft:text-id="UT22084-046-002" eft:text-version="1.3.4 2020"/>
 <body>
 <tu>
             <prop name="folio">F.217.a</prop>
@@ -139,7 +139,7 @@
             </tuv>
 	<tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-046-002-12"/>One day, a banker’s son named Bhayadatta used some of his wealth to hire the courtesan's daughter, Suvarṇottama­prabhāśrī.</seg>
+                    <tei:milestone xml:id="UT22084-046-002-12"/>One day, a banker’s son named Bhayadatta used some of his wealth to hire the courtesan’s daughter, Suvarṇottama­prabhāśrī.</seg>
             </tuv>
 </tu>
 <tu>
@@ -487,7 +487,7 @@
                 <seg>དེ་སྐད་གྲག་པ་ལས་ན་འདིས་བདག་ལ་གོས་འདི་སྦྱིན་པར་འགྱུར་རོ་</seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>“So, according to what I've been told, Mañjuśrī will give me his garment.”</seg>
+                <seg>“So, according to what I’ve been told, Mañjuśrī will give me his garment.”</seg>
             </tuv>
 </tu>
 <tu>
@@ -6586,7 +6586,7 @@
             </tuv>
 	<tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-046-002-261"/>Seeing what had happened to the girl's body, the banker's son Bhayadatta was seized by panic and terror.</seg>
+                    <tei:milestone xml:id="UT22084-046-002-261"/>Seeing what had happened to the girl’s body, the banker’s son Bhayadatta was seized by panic and terror.</seg>
             </tuv>
 </tu>
 <tu>

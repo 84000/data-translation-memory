@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx xmlns="http://www.lisa.org/tmx14">
-    <header xmlns:eft="http://read.84000.co/ns/1.0" creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-07-30T07:33:27.522Z" eft:text-id="UT22084-090-002" eft:text-version="1.2 2016"/>
+    <header xmlns:eft="http://read.84000.co/ns/1.0" creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-07-30T07:33:27.522Z" eft:text-id="UT22084-090-002" eft:text-version="1.4.2 2020"/>
     <body>
         <tu tuid="">
             <prop name="folio">F.63.a</prop>
@@ -4626,20 +4626,10 @@
             <prop name="folio">f.77.b</prop>
             <prop name="position">1673</prop>
             <tuv xml:lang="bo" creationdate="2019-10-14T18:23:07.118Z" creationid="SJ">
-                <seg>སེམས་ཅན་གང་དག་འགྲོ་དང་མི་འགྲོ་བ། །དེ་དག་ཐམས་ཅད་འདིར་ནི་བདེ་གྱུར་ཅིག །འབྱུང་པོ་གང་དག་འདིར་ནི་ལྷགས་གྱུར་ཏེ། །ས་འམ་འོན་ཏེ་བར་སྣང་འཁོད་པ་དག །སྐྱེ་དགུ་རྣམས་ལ་རྟག་ཏུ་བྱམས་བྱེད་ཤོག</seg>
+                <seg>སེམས་ཅན་གང་དག་འགྲོ་དང་མི་འགྲོ་བ། །དེ་དག་ཐམས་ཅད་འདིར་ནི་བདེ་གྱུར་ཅིག །འབྱུང་པོ་གང་དག་འདིར་ནི་ལྷགས་གྱུར་ཏེ། །ས་འམ་འོན་ཏེ་བར་སྣང་འཁོད་པ་དག །སྐྱེ་དགུ་རྣམས་ལ་རྟག་ཏུ་བྱམས་བྱེད་ཤོག ཉིན་དང་མཚན་དུ་ཆོས་ཀྱང་སྤྱོད་པར་ཤོག</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2019-10-14T18:23:07.118Z" creationid="SJ">
-                <seg>May all sentient beings, moving or still, Be well here! “May the bhūtas assembled here, That dwell on the earth or in the sky, Forever be loving toward creatures!</seg>
-            </tuv>
-        </tu>
-        <tu tuid="470">
-            <prop name="folio">f.77.b</prop>
-            <prop name="position">1836</prop>
-            <tuv xml:lang="bo" creationdate="2019-10-14T18:23:17.132Z" creationid="SJ">
-                <seg>ཉིན་དང་མཚན་དུ་ཆོས་ཀྱང་སྤྱོད་པར་ཤོག</seg>
-            </tuv>
-            <tuv xml:lang="en" creationdate="2019-10-14T18:23:17.132Z" creationid="SJ">
-                <seg>May they practice Dharma day and night!</seg>
+                <seg>May whatever bhūtas are assembled here, All those that dwell upon the earth or in the sky, Act always lovingly toward all creatures And practice Dharma day and night!</seg>
             </tuv>
         </tu>
         <tu tuid="471">
@@ -5709,7 +5699,7 @@
                 <seg>ཤཱ་རིའི་བུ་ཡི་ཤེས་རབ་དང་། །མཽད་གལ་བུ་ཡི་རྫུ་འཕྲུལ་དང་། །མ་འགགས་པ་ཡི་མིག་དང་ནི། །འོད་སྲུང་སྦྱངས་པའི་ཡོན་ཏན་དང་། །</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2019-11-14T18:02:10.17Z" creationid="SJ">
-                <seg>By the wisdom of Śāriputra, The supernatural power of Maudgalya, The vision of Aniruddha, And the qualities from training of Kāśyapa,</seg>
+                <seg>By the wisdom of Śāriputra, The supernatural power of audgalyāyana, The vision of Aniruddha, And the ascetic practices of Kāśyapa,</seg>
             </tuv>
         </tu>
         <tu tuid="578">

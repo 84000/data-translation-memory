@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx xmlns="http://www.lisa.org/tmx14">
-    <header xmlns:eft="http://read.84000.co/ns/1.0" creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-07-18T06:08:11.291Z" creationid="dirk" eft:text-id="UT22084-057-009" eft:text-version="1.2 2014-2016"/>
+    <header xmlns:eft="http://read.84000.co/ns/1.0" creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-07-18T06:08:11.291Z" creationid="dirk" eft:text-id="UT22084-057-009" eft:text-version="1.26.2 2019"/>
     <body>
         <tu tuid="">
             <prop name="folio">F.331.a</prop>
@@ -209,7 +209,7 @@
                 <seg>འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གིས་ཞུས་པ་ཆོས་བདུན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།། །།</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-09-13T18:18:12.02Z" creationid="SJ">
-                <seg>This completes the Noble Mahāyāna sūtra, The Inquiry of Avalokiteśvara on the Seven Qualities.</seg>
+                <seg>This completes the Noble Mahāyāna sūtra, “The Inquiry of Avalokiteśvara on the Seven Qualities.”</seg>
             </tuv>
         </tu>
         <tu tuid="23">

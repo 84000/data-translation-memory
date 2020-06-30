@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx xmlns="http://www.lisa.org/tmx14">
-    <header xmlns:eft="http://read.84000.co/ns/1.0" creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-10-01T03:52:40.912Z" creationid="esukhia" eft:text-id="UT22084-066-018" eft:text-version="2.11 2016"/>
+    <header xmlns:eft="http://read.84000.co/ns/1.0" creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-10-01T03:52:40.912Z" creationid="esukhia" eft:text-id="UT22084-066-018" eft:text-version="2.18.2 2020"/>
     <body>
         <tu tuid="2">
             <prop name="folio">f.271.a</prop>
@@ -499,7 +499,7 @@
                 <seg>གང་ཡང་ཆོས་སྤོང་བར་བྱེད་དེ།</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-10-01T05:17:37.859Z" creationid="esukhia">
-                <seg>"Forcing someone to give up the Dharma,</seg>
+                <seg>“Forcing someone to give up the Dharma,</seg>
             </tuv>
         </tu>
         <tu tuid="110">
@@ -3589,7 +3589,7 @@
                 <seg>འཕགས་པ་ནམ་མཁའི་སྙིང་པོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།།</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-10-03T07:14:42.162Z" creationid="esukhia">
-                <seg>This completes the Noble Mahāyāna Ākāśagarbha Sūtra.</seg>
+                <seg>This completes the Noble Mahāyāna “Ākāśagarbha Sūtra.”</seg>
             </tuv>
         </tu>
         <tu tuid="632">

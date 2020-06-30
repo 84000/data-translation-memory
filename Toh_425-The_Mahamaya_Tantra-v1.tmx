@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx xmlns="http://www.lisa.org/tmx14">
-    <header xmlns:eft="http://read.84000.co/ns/1.0" creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-08-01T15:48:47.084Z" creationid="S.E." eft:text-id="UT22084-080-009" eft:text-version="2.1 2016"/>
+    <header xmlns:eft="http://read.84000.co/ns/1.0" creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-08-01T15:48:47.084Z" creationid="S.E." eft:text-id="UT22084-080-009" eft:text-version="2.16.1 2019"/>
     <body>
         <tu tuid="1">
             <prop name="folio">F.167.a</prop>
@@ -701,7 +701,7 @@
                 <seg>རྣལ་འབྱོར་མའི་དབང་ཕྱུག་མའི་རིག་མ་ཆེན་མོ་ལས་དངོས་གྲུབ་ཀྱི་མཚན་མ་བསྟན་པ་སྟེ་ལེའུ་དང་པོའོ། །</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-08-07T21:47:27.52Z" creationid="S.E.">
-                <seg>This completes the first instruction on the signs of spiritual attainment of The Great Vidyā, Queen of the Yoginīs.</seg>
+                <seg>This completes the first instruction on the signs of spiritual attainment of “The Great Vidyā, Queen of the Yoginīs.”</seg>
             </tuv>
         </tu>
         <tu tuid="84">
@@ -1272,7 +1272,7 @@
                 <seg>རྣལ་འབྱོར་མའི་དབང་ཕྱུག་མའི་རིག་པ་ཆེན་མོ་ལས་སྦྱོར་བ་གཏན་ལ་དབབ་པའི་ལེའུ་སྟེ་གཉིས་པའོ།། །།</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-08-19T09:45:05.371Z" creationid="S.E.">
-                <seg>This completes the second instruction on the practice of The Great Vidyā, Queen of the Yoginīs.</seg>
+                <seg>This completes the second instruction on the practice of “The Great Vidyā, Queen of the Yoginīs.”</seg>
             </tuv>
         </tu>
         <tu tuid="160">
@@ -2054,7 +2054,7 @@
                 <seg>སྒྱུ་འཕྲུལ་ཆེན་མོའི་རྒྱུད་ཅེས་བྱ་བ་རྫོགས་སོ།། །།</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-09-18T22:14:29.862Z" creationid="S.E.">
-                <seg>This completes the Mahāmāyātantra.</seg>
+                <seg>This completes the “Mahāmāyātantra.”</seg>
             </tuv>
         </tu>
         <tu tuid="257">

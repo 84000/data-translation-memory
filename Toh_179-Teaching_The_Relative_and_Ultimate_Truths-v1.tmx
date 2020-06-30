@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx version="1.4">
-    <header xmlns:eft="http://read.84000.co/ns/1.0" creationtool="Olifant" creationdate="20170418T102617Z" creationid="CloudedCat" changedate="20170418T103530Z" changeid="CloudedCat" segtype="phrase" adminlang="en" srclang="bo" o-tmf="tei" datatype="Text" eft:text-id="UT22084-060-008" eft:text-version="2.2 2016"> </header>
+    <header xmlns:eft="http://read.84000.co/ns/1.0" creationtool="Olifant" creationdate="20170418T102617Z" creationid="CloudedCat" changedate="20170418T103530Z" changeid="CloudedCat" segtype="phrase" adminlang="en" srclang="bo" o-tmf="tei" datatype="Text" eft:text-id="UT22084-060-008" eft:text-version="2.24.2 2020"> </header>
     <body>
         <tu>
            <prop name="folio">F.244.b</prop>
@@ -11222,7 +11222,7 @@
                 <seg>འཕགས་པ་ཀུན་རྫོབ་དང་དོན་དམ་པའི་བདེན་པ་བསྟན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>This completes the Noble Great Vehicle Sūtra, Teaching the Relative and Ultimate Truths.</seg>
+                <seg>This completes the Noble Great Vehicle Sūtra, “Teaching the Relative and Ultimate Truths.”</seg>
             </tuv>
         </tu>
     </body>

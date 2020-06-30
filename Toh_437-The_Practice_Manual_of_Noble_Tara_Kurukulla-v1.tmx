@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx xmlns="http://www.lisa.org/tmx14">
-    <header xmlns:eft="http://read.84000.co/ns/1.0" creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-09-11T00:27:56.057Z" creationid="K.S." eft:text-id="UT22084-081-006" eft:text-version="2.21 2016"/>
+    <header xmlns:eft="http://read.84000.co/ns/1.0" creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-09-11T00:27:56.057Z" creationid="K.S." eft:text-id="UT22084-081-006" eft:text-version="2.42.0 2019"/>
     <body>
         <tu tuid="">
             <prop name="folio">F.29.b</prop>
@@ -469,7 +469,7 @@
                 <seg>འདོད་པའི་ལྷའི་སྟེང་དུ་ཟླ་བའི་དཀྱིལ་འཁོར་རོ། །དེ་ལ་པདྨ་དམར་པོའི་གདན་ནོ། །</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-09-17T07:07:19.534Z" creationid="K.S.">
-                <seg>Above Kāmadeva there is a moon disc, and upon the moon disc a red lotus seat.</seg>
+                <seg>Above Kāmadeva there is a moon disk, and upon the moon disk a red lotus seat.</seg>
             </tuv>
         </tu>
         <tu tuid="49">
@@ -5329,7 +5329,7 @@
                 <seg>འཕགས་མ་སྒྲོལ་མ་ཀུ་རུ་ཀུལླེའི་རྟོག་པ་རྫོགས་སོ།།</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-10-14T02:59:49.908Z" creationid="K.S.">
-                <seg>This completes The Practice Manual of Noble Tārā‌ Kurukullā.</seg>
+                <seg>This completes “The Practice Manual of Noble Tārā‌ Kurukullā.”</seg>
             </tuv>
         </tu>
         <tu tuid="673">
@@ -5639,7 +5639,7 @@
                 <seg>ཨུཏྤལ་དཀྱིལ་དུ་ཟླ་བའི་གཟུགས། །ཡི་གེ་ཨ་ལས་བྱུང་བའོ། །</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-11-07T04:54:45.891Z" creationid="laura">
-                <seg>On the utpala, there is a moon-disc Arisen from the syllable a.</seg>
+                <seg>On the utpala, there is a moon disk Arisen from the syllable a.</seg>
             </tuv>
         </tu>
         <tu tuid="704">

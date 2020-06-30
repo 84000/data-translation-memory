@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx xmlns="http://www.lisa.org/tmx14">
-    <header xmlns:eft="http://read.84000.co/ns/1.0" creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-04-10T04:55:38.201Z" creationid="celso" eft:text-id="UT22084-089-001" eft:text-version="1.1 2016"/>
+    <header xmlns:eft="http://read.84000.co/ns/1.0" creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-04-10T04:55:38.201Z" creationid="celso" eft:text-id="UT22084-089-001" eft:text-version="1.17.2 2019"/>
     <body>
         <tu tuid="1">
             <prop name="folio">F.1.b</prop>
@@ -479,7 +479,7 @@
                 <seg>བཞི་མདོར་སྦས་ན་འགྲོ་བ་དང་འོང་བ་ཐམས་ཅད་རེངས་པར་བྱེད་ཅིང་རྟག་པར་བྱེད་པ་ཐམས་ཅད་རེངས་པར་བྱེད་དོ། །</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-04-10T05:27:37.246Z" creationid="celso">
-                <seg>buried at a crossroads, {3} will stop all coming and going. It will interrupt all daily activities.</seg>
+                <seg>buried at a crossroads, will stop all coming and going. It will interrupt all daily activities.</seg>
             </tuv>
         </tu>
         <tu tuid="49">
@@ -829,7 +829,7 @@
                 <seg>རི་དགས་དང་སྦྲུལ་གདུག་པ་རྣམས་ཁྱིམ་མམ་གྲོང་ངམ་གྲོང་ཁྱེར་དུ་སྦས་ན་ཅི་སྲིད་འདོད་པའི་བར་དུ་མཆེ་བ་འཆིང་བར་བྱེད་དོ། །</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-04-10T18:58:15.887Z" creationid="celso">
-                <seg>That will bind the teeth of wild animals and poisonous snakes in a house, village, or town for {4} as long as one desires.</seg>
+                <seg>That will bind the teeth of wild animals and poisonous snakes in a house, village, or town for as long as one desires.</seg>
             </tuv>
         </tu>
         <tu tuid="84">
@@ -1939,7 +1939,7 @@
                 <seg>སྒོ་ལ་བཏགས་པས་གསར་དུ་བཙས་པའི་བྱིས་པ་སྲུང་བར་བྱེད་དོ།</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-04-17T18:38:46.894Z" creationid="celso">
-                <seg>one should hang it by the door. {8} This will protect newborn babies.</seg>
+                <seg>one should hang it by the door. This will protect newborn babies.</seg>
             </tuv>
         </tu>
         <tu tuid="198">
@@ -2229,7 +2229,7 @@
                 <seg>དཔའ་བོ་གཅིག་པུ་གྲུབ་པ་རྒྱུད་ཀྱི་རྒྱལ་པོ་ཆེན་པོ་ལས་ལེའུ་དང་པོ་རྫོགས་སོ།། །</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-04-17T19:04:29.636Z" creationid="celso">
-                <seg>This was the first chapter in the Great Sovereign Tantra of Siddhaikavīra.</seg>
+                <seg>This was the first chapter in the “Great Sovereign Tantra of Siddhaikavīra.”</seg>
             </tuv>
         </tu>
         <tu tuid="227">
@@ -2359,7 +2359,7 @@
                 <seg>དགོངས་སྔས་དྲུང་དུ་དཀྱིལ་འཁོར་ཉེ་བར་བྱུགས་ལ།</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-04-17T20:15:42.076Z" creationid="celso">
-                <seg>In the evening, one should wipe the top surface of the maṇḍala disc and</seg>
+                <seg>In the evening, one should wipe the top surface of the maṇḍala disk and</seg>
             </tuv>
         </tu>
         <tu tuid="240">
@@ -3719,7 +3719,7 @@
                 <seg>དཔའ་བོ་གཅིག་པུ་གྲུབ་པའི་རྒྱུད་ཀྱི་རྒྱལ་པོ་ཆེན་པོ་ལས་ལེའུ་གཉིས་པ་རྫོགས་སོ།། །།</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-04-19T15:54:02.582Z" creationid="celso">
-                <seg>This was the second chapter in the Great Sovereign Tantra of Siddhaikavīra.</seg>
+                <seg>This was the second chapter in the “Great Sovereign Tantra of Siddhaikavīra.”</seg>
             </tuv>
         </tu>
         <tu tuid="378">
@@ -4009,7 +4009,7 @@
                 <seg>སྨན་བྷྲ་མའི་ཕྱེ་མ་ཞོ་བཞི་ཙམ་ལ་ལན་བརྒྱ་རྩ་བརྒྱད་བཟླས་ལ་ཐོ་རངས་དཀྱིལ་འཁོར་བྱས་ཏེ།</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-04-19T16:09:34.926Z" creationid="celso">
-                <seg>Early in the morning, one should prepare a maṇḍala disc using one cat’s paw of powdered pennywort and incant it 108 times.</seg>
+                <seg>Early in the morning, one should prepare a maṇḍala disk using one cat’s paw of powdered pennywort and incant it 108 times.</seg>
             </tuv>
         </tu>
         <tu tuid="407">
@@ -4139,7 +4139,7 @@
                 <seg>ལག་པས་བཀབ་ནས་བཟླས་པ་བྱས་ཏེ་འཐུངས་ན་</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-04-19T16:18:52.584Z" creationid="celso">
-                <seg>One should recite the mantra while covering it with one’s hand {16} and then eat it.</seg>
+                <seg>One should recite the mantra while covering it with one’s hand and then eat it.</seg>
             </tuv>
         </tu>
         <tu tuid="420">
@@ -4519,7 +4519,7 @@
                 <seg>ཟླ་བའི་དཀྱིལ་འཁོར་གྱི་དབུས་སུ་</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-04-19T16:41:03.74Z" creationid="celso">
-                <seg>in the center of a moon disc,</seg>
+                <seg>in the center of a moon disk,</seg>
             </tuv>
         </tu>
         <tu tuid="458">
@@ -5500,7 +5500,7 @@
                 <seg>དཔའ་བོ་གཅིག་པུ་གྲུབ་པའི་རྒྱུད་ཀྱི་རྒྱལ་པོ་ཆེན་པོ་ལས་ལེའུ་གསུམ་པ་རྫོགས་སོ།། །།</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-04-19T19:33:33.463Z" creationid="celso">
-                <seg>This was the third chapter in the Great Sovereign Tantra of Siddhaikavīra.</seg>
+                <seg>This was the third chapter in the “Great Sovereign Tantra of Siddhaikavīra.”</seg>
             </tuv>
         </tu>
         <tu tuid="561">
@@ -6120,7 +6120,7 @@
                 <seg>ཨ་མ་ལེ། བི་མ་ལེ། ཀུ་མ་ཀུ་མེ། ས་མ་ཡེ་ན། བད་དྷོ་སི། བིན་དྭ་ན། བིན་དྭ་ན། ཨིཙྪ། ཨིཙྪ། ཡཱ་དེ་བོ་བརྵ་ཏི། བིངྷྱོ་ཏ་ཡ་ཏི། གརྫྫ་ཏི། གརྫྫ་ཏི། བིསྨ་ཡ་མ་ཧཱ་རཱ་ཛ། ས་མཱ་དྷི་བརྡྷ་ཏ་ཡན་། དེ་བེ་བྷྱོ། མ་ནུ་ཥེ་བྷྱོ། གན་དྷ་ར་བེ་བྷྱོ། ཤི་ཁི་གྲ་ཧཱ་དེ་བ། ཨཱ་ནནྡ་སྱ། གྲ་ཧཱ་ཎཱི་ཡཱ། ཨ་ག་མ་ནཱ་ཡ་ཀྲ་མ་ཎཱི་ཡཱ་ཛུ་ཧོ་མི་ཧ་སྭཱ་ཧཱ།</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-04-20T19:42:39.071Z" creationid="celso">
-                <seg>In the pure and stainless saffron, you are bound by your pledge. The god rains raindrops, raindrops, as he pleases. He sends lightning and thunder. O amazing great king! May he bring prosperity and growth! Hūṁ! {22} O god of comets and planets, I now offer an oblation to gods, humans, and gandharvas, for the seizing, the coming, and the traversing of happiness, svāhā!</seg>
+                <seg>In the pure and stainless saffron, you are bound by your pledge. The god rains raindrops, raindrops, as he pleases. He sends lightning and thunder. O amazing great king! May he bring prosperity and growth! Hūṁ! O god of comets and planets, I now offer an oblation to gods, humans, and gandharvas, for the seizing, the coming, and the traversing of happiness, svāhā!</seg>
             </tuv>
         </tu>
         <tu tuid="623">
@@ -6200,7 +6200,7 @@
                 <seg>དཔའ་བོ་གཅིག་པུ་གྲུབ་པའི་རྒྱུད་ཀྱི་རྒྱལ་པོ་ལས་ལེའུ་བཞི་པ་རྫོགས་སོ།། །།</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-04-20T19:46:21.07Z" creationid="celso">
-                <seg>This was the fourth chapter in the Great Sovereign Tantra of Siddhaikavīra.</seg>
+                <seg>This was the fourth chapter in the “Great Sovereign Tantra of Siddhaikavīra.”</seg>
             </tuv>
         </tu>
         <tu tuid="631">

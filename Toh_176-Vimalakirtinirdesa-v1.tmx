@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx xmlns="http://www.lisa.org/tmx14">
-    <header xmlns:eft="http://read.84000.co/ns/1.0" creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-07-18T06:29:42.095Z" creationid="dirk" eft:text-id="UT22084-060-005" eft:text-version="1.31 2017"/>
+    <header xmlns:eft="http://read.84000.co/ns/1.0" creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="phrase" adminlang="en" srclang="bo" o-tmf="TEI" creationdate="2018-07-18T06:29:42.095Z" creationid="dirk" eft:text-id="UT22084-060-005" eft:text-version="1.45.1 2019"/>
     <body>
         <tu tuid="">
             <prop name="folio">F.175.a</prop>
@@ -200,7 +200,7 @@
                 <seg>དྲན་པ་དང་། བློ་གྲོས་དང་། རྟོགས་པ་དང་། ཏིང་ངེ་འཛིན་དང་། གཟུངས་དང་། སྤོབས་པ་ཕུན་སུམ་ཚོགས་པ།</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-07-23T02:01:40.345Z" creationid="dirk">
-                <seg>Their mindfulness, intelligence, realization, meditation, incantation, and eloquence all were perfected.</seg>
+                <seg>Their mindfulness, intelligence, realization, meditation, retention, and eloquence all were perfected.</seg>
             </tuv>
         </tu>
         <tu tuid="27">
@@ -1750,7 +1750,7 @@
                 <seg>བདག་ནི་རྟེན་འབྲེལ་བཅུ་གཉིས་ཀྱི་སྒོ་ནས་འཇུག་པས་ན་རང་སངས་རྒྱས་ཀྱི་ཐེག་པ་ཅན་ནོ།</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-09-10T10:20:01.523Z" creationid="jinpa">
-                <seg>I belong to the solitary sage vehicle when I teach the twelve links of dependent origination to those who need them.</seg>
+                <seg>I belong to the Solitary Sage Vehicle when I teach the twelve links of dependent origination to those who need them.</seg>
             </tuv>
         </tu>
         <tu tuid="309">
@@ -3241,7 +3241,7 @@
                 <seg>དེ་ན་ཉན་ཐོས་ཀྱི་ཐེག་པ་ཅན་གྱི་ལྷ་དང་མི་རྣམས་འདི་སྙམ་དུ་སེམས་ཏེ། །</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-09-11T05:56:48.752Z" creationid="mabja">
-                <seg>Then, both men and gods who subscribed to the disciple vehicle thought,</seg>
+                <seg>Then, both men and gods who subscribed to the Disciple Vehicle thought,</seg>
             </tuv>
         </tu>
         <tu tuid="523">
@@ -4081,7 +4081,7 @@
                 <seg>གཟུངས་ཐོབ་པ། མི་འཇིགས་པ་ཐོབ་པ།</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-09-11T07:34:29.8Z" creationid="mabja">
-                <seg>He had attained the power of incantations and the fearlessnesses.</seg>
+                <seg>He had attained the power of retention and the fearlessnesses.</seg>
             </tuv>
         </tu>
         <tu tuid="623">
@@ -4591,7 +4591,7 @@
                 <seg>ཐེག་པ་དམན་པ་ལ་མོས་པ་ཟློག་ཅིང་ཐེག་པ་ཆེན་པོ་ལ་སེམས་ཅན་རྣམས་ཡང་དག་པར་གཟུད་པའི་ཕྱིར་ཆོས་ཉན་པ་དང་། ཡང་དག་པར་བརྗོད་པ་ཐམས་ཅད་ན་ཡང་སྣང་བ།</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-09-11T09:49:19.713Z" creationid="mabja">
-                <seg>To turn people away from the individual vehicle and to engage them in the Mahāyāna, he appeared among listeners and teachers of the Dharma.</seg>
+                <seg>To turn people away from the Individual Vehicle and to engage them in the Mahāyāna, he appeared among listeners and teachers of the Dharma.</seg>
             </tuv>
         </tu>
         <tu tuid="696">
@@ -8411,7 +8411,7 @@
                 <seg>རླུང་དང་མཚུངས་པར་དྲི་རྣམས་མནམ་མོ། །</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-09-12T10:55:19.452Z" creationid="mabja">
-                <seg>smell scents as if they were winds,</seg>
+                <seg>smell scents as if they were like wind,</seg>
             </tuv>
         </tu>
         <tu tuid="1207">
@@ -8431,7 +8431,7 @@
                 <seg>ཡེ་ཤེས་ལ་རེག་པ་མེད་པས་རེག་བྱ་རྣམས་ལ་རེག་པར་བྱའོ། །</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-09-12T10:57:57.641Z" creationid="mabja">
-                <seg>touch tangibles in awareness of the ultimate lack of contact in gnosis,</seg>
+                <seg>touch tangible objects without there being in gnosis any contact,</seg>
             </tuv>
         </tu>
         <tu tuid="1209">
@@ -8451,7 +8451,7 @@
                 <seg>གང་བདག་གི་དངོས་པོ་དང་གཞན་གྱི་དངོས་པོ་མེད་པ་དེ་ནི་མི་འབར་བའོ། །</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-09-12T11:01:59.533Z" creationid="mabja">
-                <seg>That which is without intrinsic substance and without imparted substance does not burn.</seg>
+                <seg>That which is without a state of being self and a state of being other does not burn.</seg>
             </tuv>
         </tu>
         <tu tuid="1211">
@@ -10101,7 +10101,7 @@
                 <seg>ཉན་ཐོས་ཀྱི་ཐེག་པ་ནི་ཡང་དག་པ་མ་ཡིན་ཏེ།</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-09-13T09:23:37.805Z" creationid="mabja">
-                <seg>The disciple vehicle is not ultimately valid,</seg>
+                <seg>The Disciple Vehicle is not ultimately valid,</seg>
             </tuv>
         </tu>
         <tu tuid="1515">
@@ -11952,7 +11952,7 @@
                 <seg>དབང་པོ་ཤིན་ཏུ་ཉམས་པ་ས་བོན་ཚིག་པ་དང་རུལ་བ་ལྟར་ཐེག་པ་ཆེན་པོ་འདི་ལ་སྣོད་དུ་མ་གྱུར་ན་ད་ཇི་ལྟར་བྱ།</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-09-15T04:19:19.985Z" creationid="jinpa">
-                <seg>As for us, whose faculties are deteriorated, like a burned and rotten seed, what else can we do if we do not become receptive to this great vehicle?</seg>
+                <seg>As for us, whose faculties are deteriorated, like a burned and rotten seed, what else can we do if we do not become receptive to this Great Vehicle?</seg>
             </tuv>
         </tu>
         <tu tuid="1825">
@@ -16083,7 +16083,7 @@
                 <seg>ཁམས་དང་སྐྱེ་མཆེད་ཀྱི་འགྲོ་བར་འགྲོ་ཡང་གཟུངས་ཐོབ་ཅིང་སྤོབས་པ་སྣ་ཚོགས་ཀྱིས་བརྒྱན་པ་ཡང་ཡིན།</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-09-17T06:06:41.427Z" creationid="mabja">
-                <seg>“He follows the ways of the dumb and the incoherent, yet, having acquired the power of incantations, he is adorned with a varied eloquence.</seg>
+                <seg>“He follows the ways of the dumb and the incoherent, yet, having acquired the power of retention, he is adorned with a varied eloquence.</seg>
             </tuv>
         </tu>
         <tu tuid="2521">
@@ -19464,7 +19464,7 @@
                 <seg>འདི་དག་ལ་ཉན་ཐོས་ཀྱི་ཐེག་པ་མ་བསྟན་ཅིག</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-10-05T19:27:53.844Z" creationid="celso">
-                <seg>So do not instruct them in the disciple vehicle.</seg>
+                <seg>So do not instruct them in the Disciple Vehicle.</seg>
             </tuv>
         </tu>
         <tu tuid="3047">
@@ -22384,7 +22384,7 @@
                 <seg>ལྷ་མོ་ཁྱོད་ཉན་ཐོས་ཀྱི་ཐེག་པ་པའམ། རང་སངས་རྒྱས་ཀྱི་ཐེག་པ་པའམ། ཐེག་པ་ཆེན་པོ་པའམ།</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-10-12T14:44:01.159Z" creationid="celso">
-                <seg>Goddess, do you belong to the disciple vehicle, to the solitary sage vehicle, or to the great vehicle?</seg>
+                <seg>Goddess, do you belong to the Disciple Vehicle, to the Solitary Sage Vehicle, or to the Great Vehicle?</seg>
             </tuv>
         </tu>
         <tu tuid="3342">
@@ -22394,7 +22394,7 @@
                 <seg>བདག་ནི་ཉན་ཐོས་ཀྱི་ཐེག་པ་སྟོན་པས་ན་ཉན་ཐོས་ཀྱི་ཐེག་པ་ཅན་ནོ། །</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-10-12T14:44:20.196Z" creationid="celso">
-                <seg>I belong to the disciple vehicle when I teach it to those who need it.</seg>
+                <seg>I belong to the Disciple Vehicle when I teach it to those who need it.</seg>
             </tuv>
         </tu>
         <tu tuid="3343">
@@ -22404,7 +22404,7 @@
                 <seg>བདག་ནི་སྙིང་རྗེ་ཆེན་པོ་མི་གཏོང་བས་ན་ཐེག་པ་ཆེན་པོ་པ་ཡིན་མོད་ཀྱི་</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-10-12T14:45:30.309Z" creationid="celso">
-                <seg>And, since I never abandon the great compassion, I belong to the great vehicle,</seg>
+                <seg>And, since I never abandon the great compassion, I belong to the Great Vehicle,</seg>
             </tuv>
         </tu>
         <tu tuid="3344">
@@ -23934,7 +23934,7 @@
                 <seg>སྟོང་གསུམ་དུ་གཏོགས་པའི་སེམས་ཅན་རྣམས་ཀུན་དགའ་བོ་ཁྱོད་འདྲ་བར་མང་དུ་ཐོས་པ་དང་། དྲན་པ་དང་། གཟུངས་ཐོབ་པ་རྣམས་ཀྱི་ནང་ན་མཆོག་ཏུ་གྱུར་ལ།</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-10-15T18:56:29.119Z" creationid="celso">
-                <seg>Also, Ānanda, if all the living beings of this billion-world galactic universe were like you—the foremost of the learned and the foremost of those endowed with memory and incantations—</seg>
+                <seg>Also, Ānanda, if all the living beings of this billion-world galactic universe were like you—the foremost of the learned and the foremost of those endowed with memory and retention—</seg>
             </tuv>
         </tu>
         <tu tuid="3497">
@@ -23964,7 +23964,7 @@
                 <seg>ཀུན་དགའ་བོ་རྒྱ་མཚོ་ཐམས་ཅད་ཀྱི་གཏིང་ནི་ཚད་གཟུང་བར་ནུས་ཀྱི་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཀྱི་ཤེས་རབ་དང་། ཡེ་ཤེས་དང་། དྲན་པ་དང་། གཟུངས་དང་། སྤོབས་པའི་གཏིང་ནི་ཚོད་གཟུང་མི་ནུས་སོ།</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-10-15T19:00:38.2Z" creationid="celso">
-                <seg>Ānanda, one can fathom the depths of the ocean, but one cannot fathom the depths of the wisdom, gnosis, memory, incantations, or eloquence of the bodhisattvas.</seg>
+                <seg>Ānanda, one can fathom the depths of the ocean, but one cannot fathom the depths of the wisdom, gnosis, memory, retention, or eloquence of the bodhisattvas.</seg>
             </tuv>
         </tu>
         <tu tuid="3500">
@@ -24124,7 +24124,7 @@
                 <seg>གཟུངས་དང་། དྲན་པ་དང་། ཡེ་ཤེས་སོ།</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-10-15T19:13:54.296Z" creationid="celso">
-                <seg>acquiring incantations, memory, and knowledge</seg>
+                <seg>acquiring retention, memory, and knowledge</seg>
             </tuv>
         </tu>
         <tu tuid="3516">
@@ -25044,7 +25044,7 @@
                 <seg>དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རིག་པ་དང་ཞབས་སུ་ལྡན་པ། བདེ་བར་གཤེགས་པ། འཇིག་རྟེན་མཁྱེན་པ། སྐྱེས་བུ་འདུལ་བའི་ཁ་ལོ་སྒྱུར་བ་བླ་ན་མེད་པ་ལྷ་དང་མི་རྣམས་ཀྱི་སྟོན་པ་སངས་རྒྱས་བཅོམ་ལྡན་འདས་སྨན་གྱི་རྒྱལ་པོ་ཞེས་བྱ་བ་འཇིག་རྟེན་དུ་བྱུང་སྟེ། །</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-10-16T18:16:59.676Z" creationid="celso">
-                <seg>the Tathāgata called Bhaiṣajyarāja appeared in the world: an arhat, perfectly and fully enlightened, endowed with knowledge and conduct, a blissful one, knower of the world, incomparable knower of men who need to be civilized, teacher of gods and men, a lord, a buddha.</seg>
+                <seg>the tathāgata called Bhaiṣajyarāja appeared in the world: an arhat, perfectly and fully enlightened, endowed with knowledge and conduct, a blissful one, knower of the world, incomparable knower of men who need to be civilized, teacher of gods and men, a lord, a buddha.</seg>
             </tuv>
         </tu>
         <tu tuid="3608">
@@ -25355,7 +25355,7 @@
                 <seg>དེ་སྤོབས་པ་རྒྱུན་མི་ཆད་པ་ཐོབ་པས་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྨན་གྱི་རྒྱལ་པོ་དེ་ཡོངས་སུ་མྱ་ངན་ལས་འདས་ནས་ཀྱང་མངོན་པར་ཤེས་པ་དང་། གཟུངས་ཀྱི་སྟོབས་ཀྱིས་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྨན་གྱི་རྒྱལ་པོ་དེས་ཆོས་ཀྱི་འཁོར་ལོ་རབ་ཏུ་བསྐོར་བ་བཞིན་དུ་བར་གྱི་བསྐལ་པ་བཅུའི་བར་དུ་རྗེས་སུ་བསྐོར་ཏོ། །</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-10-16T19:06:27.345Z" creationid="celso">
-                <seg>When the Tathāgata Bhaiṣajyarāja attained ultimate liberation, Candracchattra, on the strength of his superknowledges and by the power of his incantations, made the wheel of the Dharma turn just as the Tathāgata Bhaiṣajyarāja had done and continued to do so for ten short eons.</seg>
+                <seg>When the Tathāgata Bhaiṣajyarāja attained ultimate liberation, Candracchattra, on the strength of his superknowledges and by the power of his retention, made the wheel of the Dharma turn just as the Tathāgata Bhaiṣajyarāja had done and continued to do so for ten short eons.</seg>
             </tuv>
         </tu>
         <tu tuid="3640">
@@ -25615,7 +25615,7 @@
                 <seg>བཅོམ་ལྡན་འདས་གྲོང་དང་། གྲོང་ཁྱེར་དང་། གྲོང་རྡལ་དང་། ཡུལ་འཁོར་དང་། རྒྱལ་པོའི་ཕོ་བྲང་འཁོར་གང་དང་གང་ན་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལྟ་བུ་སྤྱོད་པ་དང་། འཆད་པ་དང་། ཡང་དག་པར་སྟོན་པ་</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-10-16T19:33:25.633Z" creationid="celso">
-                <seg>Lord, in all the towns, villages, cities, kingdoms, and palaces, wherever this discourse of the Dharma will be practised, upheld, and correctly taught,</seg>
+                <seg>Lord, in all the towns, villages, cities, kingdoms, and palaces, wherever this formulation of the Dharma will be practiced, upheld, and correctly taught,</seg>
             </tuv>
         </tu>
         <tu tuid="3666">
@@ -25655,7 +25655,7 @@
                 <seg>བདག་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བཟུང་བ་ལགས་ན། བཅོམ་ལྡན་འདས་ཆོས་ཀྱི་རྣམ་གྲངས་འདིའི་མིང་ཅི་ལགས།</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-10-16T19:36:13.317Z" creationid="celso">
-                <seg>I have memorized, Lord, this expression of the teaching of the Dharma. But what is the name of this teaching,</seg>
+                <seg>I have memorized, Lord, this formulation of the Dharma. But what is the name of this teaching,</seg>
             </tuv>
         </tu>
         <tu tuid="3670">
@@ -25665,7 +25665,7 @@
                 <seg>ཆོས་ཀྱི་རྣམ་གྲངས་འདི་དྲི་མ་མེད་པར་གྲགས་པས་བསྟན་པ་དང་། ཕྲུགས་སུ་སྦྱར་བ་སྣྲེལ་ཞིར་མངོན་པར་བསྒྲུབས་པ་དང་། བསམ་གྱིས་མི་ཁྱབ་པའི་རྣམ་པར་ཐར་པའི་ལེའུ་ཞེས་ཀྱང་བྱ་བའི་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ཀུན་དགའ་བོ་ཁྱོད་ཀྱིས་ཟུང་ཤིག</seg>
             </tuv>
             <tuv xml:lang="en" creationdate="2018-10-16T19:37:05.17Z" creationid="celso">
-                <seg>Ānanda, this exposition of the Dharma is called The Teaching of Vimalakīrti, or The Reconciliation of Dichotomies, or even Section of the Inconceivable Liberation. Remember it thus!</seg>
+                <seg>Ānanda, this formulation of the Dharma is called The Teaching of Vimalakīrti, or The Reconciliation of Dichotomies, or also Section of the Inconceivable Liberation. Remember it thus!</seg>
             </tuv>
         </tu>
     </body>
