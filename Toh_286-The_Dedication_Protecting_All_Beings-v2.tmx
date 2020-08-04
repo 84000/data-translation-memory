@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="XML aligned text" eft:text-id="UT22084-068-020" eft:text-version="1.1.3 2020"/>
+<body>
+<tu>
+            <prop name="folio">F.79.b</prop>
+	<tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.79.b"/>༄༅། །འཕགས་པ་འགྲོ་བ་ཐམས་ཅད་ཡོངས་སུ་སྐྱོབ་པར་བྱེད་པ་ཞེས་བྱ་<tei:ref folio="F.80.a"/>བའི་ཡོངས་སུ་བསྔོ་བ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Noble Dedication Protecting All Beings</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.79.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་། ཆོས་དང་། དགེ་འདུན་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-068-020-13"/>I prostrate to the Buddha, to the Teaching, and to the entire Assembly.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.79.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་བཅོམ་ལྡན་འདས་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཐམས་ཅད་བདག་ལ་དགོངས་སུ་གསོལ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-068-020-15"/>Blessed buddhas and all bodhisattva great beings, please pay heed to me!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.79.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བདག་སྡིག་པ་ཐམས་ཅད་སོ་སོར་བཤགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-068-020-84"/>I confess all sins.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.79.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བསོད་ནམས་ཐམས་ཅད་ལ་རྗེས་སུ་ཡི་རང་ངོ་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>I rejoice in all merits.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.79.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཐམས་ཅད་ལ་གསོལ་བ་འདེབས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>I pray to all buddhas.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.79.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བསོད་ནམས་ཐམས་ཅད་སེམས་ཅན་ཐམས་ཅད་ཀྱིས་བླ་ན་མེད་པ་ཐམས་ཅད་མཁྱེན་པའི་ཡེ་ཤེས་ཐོབ་པར་བགྱི་བའི་སླད་དུ་ཡོངས་སུ་བསྔོ་བར་བགྱིའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>I dedicate all merits so that all sentient beings attain the unsurpassed wisdom of omniscience.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.79.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བདེན་པ་དང་བདེན་པའི་ཚིག་གང་གིས་བདེན་པ་གསུང་བ་སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཀྱིས་དགེ་བའི་རྩ་བ་ཡང་དག་པ་ཇི་ལྟར་ཡོངས་སུ་བསྔོ་བར་མཛད་པ་དེ་ལྟར་ཡོངས་སུ་བསྔོ་བར་བགྱིའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-068-020-20"/>Just as by their truth and true words the blessed buddhas who teach the truth have dedicated their perfect roots of virtue, in the same way do I, too, make this dedication.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.79.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བདེན་པ་དང་བདེན་པའི་ཚིག་དེས་གང་སེམས་ཅན་ཐམས་ཅད་ཀྱི་སྡིག་པ་མི་དགེ་བ་ཉེས་པ་བྱས་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>By that truth and those true words: whatever sins, nonvirtuous deeds, and evils that all sentient beings have committed;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.79.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལོག་པར་སྨྲ་བ་དང་། ངན་དུ་བསམས་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>whatever falsehoods they have spoken and harmful thoughts they have had;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.79.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཉོན་མོངས་པའི་སྒྲིབ་པ་དང་། ལས་ཀྱི་སྒྲིབ་པ་དང་། རྣམ་པར་སྨིན་པའི་སྒྲིབ་པ་དང་། ཤེས་བྱའི་སྒྲིབ་པ་དང་། སྒྲིབ་པ་གང་གིས་བསྒྲིབས་ཤིང་གཡོགས་ཏེཀུན་ནས་དཀྲིས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>whatever obscurations—afflictive obscurations, karmic obscurations, ripened obscurations, and cognitive obscurations—have obscured, veiled, and fettered them;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.79.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བདག་ཉིད་དང་། གཞན་དག་གི་བསམ་པ་དང་། བག་ལ་ཉལ་དང་། ཁམས་དང་། རང་བཞིན་ཡང་དག་པ་ཇི་ལྟ་བ་བཞིན་མ་འཚལ་བ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>that they have not correctly known their own and others’ aspirations, latent dispositions, constituents, or intrinsic nature;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.79.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དབང་པོ་དང་། བརྩོན་འགྲུས་ཀྱི་རིམ་པ་དང་། དགེ་བ་དང་། མི་དགེ་བའི་ཆོས་ཡང་དག་པ་ཇི་ལྟ་བ་བཞིན་མ་འཚལ་བ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>that they have not correctly known their differences in faculties and diligence or in their virtues and nonvirtues;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.79.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཁ་ན་མ་ཐོ་བ་དང་བཅས་པ་དང་། ཁ་ན་མ་ཐོ་བ་མེད་པ་དང་། བསྟེན་པར་བྱ་བ་དང་། བསྟེན་པར་བྱ་བ་མ་ཡིན་པའི་ཆོས་ཡང་དག་པ་ཇི་ལྟ་བ་བཞིན་མ་འཚལ་བ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>that they have not correctly known those qualities that are blameworthy, not blameworthy, to be relied upon, or not to be relied upon;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.79.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐྱེས་བུ་དམ་པ་དང་ཕྲད་པ་དང་། དམ་པའི་ཆོས་ཉན་པ་དང་། ཚུལ་བཞིན་ཡིད་ལ་བགྱིད་པ་དང་། ཆོས་དང་འཐུན་པའི་ཆོས་སྒྲུབ་པ་མི་སྒྲུབ་པར་འགྱུར་བ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>that they have not succeeded in encountering holy beings, listening to the holy Dharma, directing their minds appropriately, or practicing in accordance with the Dharma;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.80.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྒྲིབ་པ་གང་གིས་བསྒྲིབས་ཤིང་གཡོགས་ཏེཀུན་ནས་དཀྲིས་པ་རྣམས་སེམས་ཅན་འདུལ་བ་དང་། བདག་འདུལ་བ་དང་། གཞན་འདུལ་བ་དང་། གཉི་ག་འདུལ་བ་དང་། འཇམ་པོས་འདུལ་<tei:ref folio="F.80.b"/>བ་དང་། ཁྲོ་བས་འདུལ་བ་དང་། བཏང་སྙོམས་ཀྱིས་འདུལ་བ་དང་། བསྡིགས་པས་འདུལ་བ་དང་། བསྐྲད་པས་འདུལ་བ་དང་། སྨད་པས་འདུལ་བ་དང་། བསྟེན་པ་དང་། བསྙེན་པ་དང་། བསྙེན་བཀུར་བྱ་བས་འདུལ་བ་དང་། ཆོས་བཤད་པས་འདུལ་བ་དང་། འཛུམ་པ་བསྟན་པས་འདུལ་བ་དང་། ནང་དུ་ཡང་དག་འཇོག་གིས་འདུལ་བ་དང་། སྦྱངས་པའི་ཡོན་ཏན་དང་ཡོ་བྱད་བསྙུངས་པས་འདུལ་བ་དང་། སྦྱིན་པ་དང་། ཚུལ་ཁྲིམས་དང་། བཟོད་པ་དང་། བརྩོན་འགྲུས་དང་། བསམ་གཏན་དང་། ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྤྱོད་པས་འདུལ་བ་དང་། དད་པ་དང་། ཚུལ་ཁྲིམས་དང་། ཐོས་པ་དང་། གཏོང་བ་དང་། ཤེས་རབ་དང་། སྒོམ་པས་འདུལ་བ་དང་། འདུལ་བ་གང་དང་གང་གིས་སེམས་ཅན་གྱི་ཁམས་འདུལ་བར་འགྱུར་བ་དེ་ཡང་དག་པ་ཇི་ལྟ་བ་བཞིན་མ་འཚལ་བ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>that they have not correctly known the various methods of taming by which beings may be tamed however they are obscured, veiled, and fettered by obscurations: the taming of sentient beings, the taming of self, the taming of others, the taming of both, taming gently, taming wrathfully, taming with equanimity, taming threateningly, taming by exorcism, taming with censure, taming by means of acts of service, veneration, and worship, taming by explaining the Dharma, taming by smiling, taming by going into seclusion to meditate, taming by means of the ascetic disciplines and having few possessions, taming through the practice of the perfections of generosity, ethical discipline, endurance, diligence, meditative absorption, and wisdom, and taming by faith, ethical discipline, learning, renunciation, wisdom, and meditative cultivation;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.80.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚུལ་ཁྲིམས་ཀྱི་རྒྱུ་མི་འབྱུང་བ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>that they have not given rise to the causes of ethical discipline;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.80.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཏིང་ངེ་འཛིན་གྱི་རྒྱུ་དང་། དམིགས་པའི་རྒྱུ་དང་། བསམ་གཏན་གྱི་རྒྱུ་དང་། ཞི་གནས་ཀྱི་རྒྱུ་དང་། ལྷག་མཐོང་གི་རྒྱུ་དང་། མངོན་པར་ཤེས་པའི་རྒྱུ་དང་། ཟག་པ་ཟད་པའི་རྒྱུ་དང་། སོ་སོ་ཡང་དག་པར་རིག་པའི་རྒྱུ་རྣམ་པར་དག་པར་མི་འགྱུར་བ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>that they have not made pure the causes of meditative concentration, the causes of mental focus, the causes of meditative absorption, the causes of calm abiding, the causes of transcendent insight, the causes of the superknowledges, the causes of the exhaustion of defilements, or the causes of the discernments;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.80.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བསམ་གཏན་དང་། རྣམ་པར་ཐར་པ་དང་། ཏིང་ངེ་འཛིན་དང་། སྙོམས་པར་འཇུག་པ་དག་མངོན་དུ་མི་འགྱུར་བ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>that they have not actualized the meditative absorptions, the liberations, the meditative concentrations, and the meditative attainments, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.80.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྣང་བ་སྐྱེས་ཤིང་སྐྱེས་པ་དག་ནུབ་པར་འགྱུར་བ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>that when appearances arise they have allowed what has arisen to decline;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.80.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྙེད་པ་འདོད་པ་དང་། བསྙེན་བཀུར་འདོད་པ་དང་། གྲགས་པ་འདོད་པ་དང་། འཁོར་འདོད་པའི་སེམས་འབྱུང་བ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>that they have given rise in their minds to the wish for gain, the wish to be honored, the wish for fame, and the wish for followers;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.80.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འདོད་པའི་རྣམ་པར་རྟོག་པ་དང་། གནོད་སེམས་ཀྱི་རྣམ་པར་རྟོག་པ་དང་། འཚེ་བའི་རྣམ་པར་རྟོག་པ་དང་། མི་འཆི་བར་རྣམ་པར་རྟོག་པ་དང་། སྐྱེ་བོ་ལ་རྣམ་པར་རྟོག་པ་དང་། གཉེན་ལ་རྣམ་པར་རྟོག་པ་དང་། གོས་དང་། ཟས་དང་། མལ་སྟན་དང་། ན་བའི་གསོས་སྨན་གྱི་རྐྱེན་གྱི་ཡོ་བྱད་ལ་རྣམ་པར་རྟོག་པའི་སེམས་ལ་ཀུན་ནས་གནས་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>that they have harbored in their minds thoughts of desire, malevolent thoughts, violent thoughts, thoughts about immortality, thoughts about children, thoughts about relatives, and thoughts about the requisites of clothing, food, bedding, and medicines for treating illness;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.81.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚེ་ཐུང་བ་དང་། གནོད་པ་མང་བ་དང་། མདོག་ངན་པ་དང་། གཟུགས་ངན་པ་དང་། དབང་ཆུང་བ་དང་། རིགས་དམའ་བ་དང་། <tei:ref folio="F.81.a"/>ལོངས་སྤྱོད་ཆུང་བ་དང་། ཤེས་རབ་འཆལ་བ་དང་། སེམས་ཅན་དམྱལ་བ་དང་། དུད་འགྲོའི་སྐྱེ་གནས་དང་། གཤིན་རྗེའི་འཇིག་རྟེན་དང་། ངན་སོང་ངན་འགྲོར་འགྲོ་བ་དང་། ལུས་ལས་བྱུང་བའི་སྡུག་བསྔལ་རྣམ་པ་དུ་མ་དང་། སེམས་ལས་བྱུང་བ་ཡིད་མི་བདེ་བ་ཉམས་སུ་མྱོང་བ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>that they have experienced short lives, much ill health, bad complexions, poor figures, weakness, low status, meagre resources, stupidity, being reborn in the lower realms among the hell beings, in the animal realms, and in the realm of the Lord of the Dead, and that they have experienced many such kinds of suffering deriving from their bodies and mental unhappiness deriving from their minds;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.81.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྨོན་ལམ་ལོག་པ་ལ་དགའ་བ་དང་། ཡང་དག་པའི་སྨོན་ལམ་མ་རྟོགས་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>and that they have delighted in wrong aspirations and have not realized rightful aspirations—</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.81.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞན་ཡང་སྒྲིབ་པ་གང་དང་གང་གིས་བསྒྲིབས་ཤིང་ཀུན་ནས་དཀྲིས་པའི་སེམས་ཅན་རྣམས་ཀྱི་རྣམ་པར་སྨིན་པར་འགྱུར་བ་དེ་དག་ཐམས་ཅད་བདག་ལ་སྨིན་ནས</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>may everything that will ripen for sentient beings obscured and fettered by these and any other obscurations ripen for me!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.81.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་ཐམས་ཅད་རྣམ་པར་གྲོལ་ཞིང་རྣམ་པར་དག་པར་གྱུར་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And may all sentient beings thus be liberated and purified.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.81.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཀྱི་ཁམས་ཇི་ཙམ་པ་དང་། ཆོས་ཀྱི་ཁམས་ཇི་ཙམ་པ་དང་། དགེ་འདུན་གྱི་ཁམས་ཇི་ཙམ་པ་དང་། ཡང་དག་པའི་མཐའ་ཇི་ཙམ་པ་དང་། གཉིས་སུ་མེད་པ་ཇི་ཙམ་པ་དང་། དེ་བཞིན་ཉིད་ཇི་ཙམ་པ་དང་། མཉམ་པ་ཉིད་ཇི་ཙམ་པ་དང་། འདོད་ཆགས་དང་། ཞེ་སྡང་དང་། གཏི་མུག་གི་ཁམས་ཇི་ཙམ་པ་དང་། འཁོར་བར་གདགས་པ་དང་། འདོགས་པར་འགྱུར་བ་ཇི་ཙམ་པ་དེ་ཙམ་དུ་སེམས་ཅན་ཐམས་ཅད་ཀྱི་ཉོན་མོངས་པ་དང་། ཉེ་བའི་ཉོན་མོངས་པ་ཐམས་ཅད་དང་། ཀུན་ནས་ཉོན་མོངས་པའི་ཁམས་གང་ཡིན་པ་དེ་བདག་ལ་སྨིན་ནས་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-068-020-21"/>Whatever extent the Buddha element may have, whatever extent the Dharma element may have, whatever extent the Saṅgha element may have, whatever extent the very limit of reality may have, whatever extent nonduality may have, whatever extent suchness may have, whatever extent sameness may have, whatever extent the elements of desire, anger, and ignorance may have, and whatever extent those who are bound and will be bound in saṃsāra may have—to that very extent may all sentient beings’ primary afflictions, all their secondary afflictions, and whatever elements of affliction itself there may be, all ripen for me!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.81.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་ཐམས་ཅད་རྣམ་པར་གྲོལ་ཞིང་རྣམ་པར་དག་པར་གྱུར་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And may all sentient beings thus be liberated and purified.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.81.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བདག་གིས་ཇི་ཙམ་དུ་སྔོན་གྱི་མཐའ་མ་འཚལ་བར་དགེ་བའི་རྩ་བ་བགྱིས་ཤིང་བསགས་པ་གང་ལགས་པ་དེ་སེམས་ཅན་ཐམས་ཅད་ལ་ཡོངས་སུ་བསྔོ་བར་བགྱིའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-068-020-22"/>However many roots of virtue I have created and accumulated from cyclic existence’s undiscoverable beginning, I dedicate them to all sentient beings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.81.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བདག་ནི་འདོད་ཆགས་ལ་ཆགས། ཞེ་སྡང་གིས་གདུངས། གཏི་མུག་གིས་རྨོངས་ཏེ། ཉོན་མོངས་པ་དང་། ཉེ་བའི་ཉོན་མོངས་པ་དང་། ཀུན་ནས་ཉོན་མོངས་པ་དང་ལྡན་ནས་ ཇི་ལྟར་དགེ་བའི་རྩ་བ་ཡོངས་སུ་བསྔོ་བར་བགྱི་བ་ཡང་དག་པ་ཇི་ལྟ་བ་བཞིན་མ་འཚལ་མ་མཐོང་མ་རིག་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Attached to desire, tormented by anger, confused by ignorance, and yoked to the primary afflictions, secondary afflictions, and affliction itself, I do not correctly know, see, or understand how to dedicate the roots of virtue.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.81.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་དག་མཁྱེན་ཅིང་གཟིགས་ལ་ཐུགས་སུ་ཆུད་པས་ཇི་ལྟར་དགེ་བའི་རྩ་བ་ཡོངས་སུ་བསྔོ་བར་<tei:ref folio="F.81.b"/>མཛད་པ་དེ་ལྟར་བདག་གིས་ཡོངས་སུ་བསྔོ་བར་བགྱིའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>But the blessed buddhas do know, see, and understand such things, and just as they dedicated their roots of virtue, so too do I dedicate mine. </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.81.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པའི་ཐུགས་དང་འཐུན་པས་ཡོངས་སུ་བསྔོ་བར་བགྱིའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>I dedicate them in accordance with the mind of the tathāgatas.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.81.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་སེམས་ཅན་འདུལ་བ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Just as they tamed sentient beings;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.81.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་དགེ་བའི་རྩ་བ་སྨིན་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>just as they ripened their roots of virtue;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.81.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་དགེ་བའི་རྩ་བ་རྣམ་པར་འཕེལ་བ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>just as they multiplied their roots of virtue;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.81.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་སྡུག་བསྔལ་ཤེས་པ་དང་། ཀུན་འབྱུང་བ་སྤང་བ་དང་། འགོག་པ་མངོན་སུམ་དུ་བྱ་བ་དང་། ལམ་བསྒོམ་པ་དང་། བླ་ན་མེད་པ་ཐམས་ཅད་མཁྱེན་པའི་ཡེ་ཤེས་འཐོབ་པ་དང་། མི་དགེ་བའི་རྩ་བ་ཐམས་ཅད་སྤང་བ་དང་། དགེ་བའི་རྩ་བ་ཐམས་ཅད་དང་ལྡན་པ་དང་། བག་ཆགས་འཇོམས་པ་དང་། བསྙེལ་བ་མི་མངའ་བའི་ཆོས་ཉིད་དང་། རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་ཇི་ལྟར་འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་སངས་རྒྱས་སྔོན་བྱང་ཆུབ་སེམས་དཔར་གྱུར་པ་ཐམས་ཅད་ཀྱིས་དགེ་བའི་རྩ་བ་ཡོངས་སུ་བསྔོས་པ་དེ་བཞིན་དུ་བདག་གིས་ཡོངས་སུ་བསྔོ་བར་བགྱིའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>and just as they knew suffering, abandoned its origin, realized cessation, cultivated the path, attained the unsurpassed wisdom of omniscience, abandoned all roots of nonvirtue, possessed all roots of virtue, vanquished the latent tendencies, and attained the state of non-forgetfulness and the knowledge of all aspects—in just the same way that all the buddhas appearing in the past, the present, and the future dedicated their roots of virtue when they were bodhisattvas, so too do I dedicate mine.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.81.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མཉམ་པ་ཉིད་ཀྱིས་ཡོངས་སུ་བསྔོ་བ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>I dedicate them through sameness;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.81.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཉིས་སུ་མེད་པས་ཡོངས་སུ་བསྔོ་བ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>I dedicate them through nonduality;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.81.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འགྲོ་བ་ཐམས་ཅད་ཡོངས་སུ་བསྐྱབ་པའི་ཡོངས་སུ་བསྔོ་བས་ཡོངས་སུ་བསྔོ་བར་བགྱི་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>I dedicate them by means of the dedication that completely protects all beings;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.81.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ལྟར་ལན་གཉིས་དེ་ལྟར་ལན་གསུམ་དུའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>and thus I recite a second time, and thus a third time.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.81.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་གང་ཞིག་གང་དང་གང་གིས་འདུལ་བར་འགྱུར་བ་དེ་དང་དེའི་སེམས་རྣམ་པར་རྟོག་པ་མེད་པས་བདག་མཐོང་བར་འགྱུར་ཞིང་། ཇི་ལྟ་ཇི་ལྟར་སེམས་ཅན་དག་པར་འགྱུར་བ་དེ་ལྟ་དེ་ལྟར་བདག་གི་ལུས་ཀྱི་ལས་དང་། ངག་གི་ལས་དང་། ཡིད་ཀྱི་ལས་རྟག་ཏུ་འཇུག་པར་གྱུར་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-068-020-23"/>May sentient beings see me in whatever manner will tame them,<tei:note xml:id="UT22084-068-020-24"/> without their having any such thoughts in mind. And may I always engage in physical, verbal, and mental actions in whatever ways sentient beings will be purified.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.81.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དུས་ཇི་ལྟ་བ་དང་། ཡུལ་ཇི་ལྟ་བ་དང་། སེམས་ཅན་རྣམས་ཀྱི་འདུལ་བ་ཇི་ལྟ་བ་དེ་ལྟ་དེ་ལྟར་ཆོས་ཀྱི་དབྱིངས་འཁྲུག་པ་མེད་པར་སྟོན་པར་གྱུར་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-068-020-25"/>In whatever time, whatever place, and whatever way sentient beings will be tamed, may the sphere of reality be thus revealed to them without confusion!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.81.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཕགས་པ་འགྲོ་བ་ཐམས་ཅད་ཡོངས་སུ་སྐྱོབ་པར་བྱེད་པ་ཞེས་བྱ་བའི་ཡོངས་སུ་བསྔོ་བ་ཞེས་བྱ་བ་རྫོགས་སོ།། །།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Noble Dedication “Protecting All Beings” is concluded.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.81.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་བི་དྱཱ་ཀ་ར་པྲ་བྷ་དང་། ལོཙྪ་བ་བན་དེ་ཡེ་ཤེས་སྙིང་པོས་བསྒྱུར། ཞུ་ཆེན་གྱི་ལོཙྪ་བ་བན་དེ་དཔལ་བརྩེགས་ཀྱིས་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།། །།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-068-020-26"/>Translated by the Indian abbot Vidyākaraprabha and the translator Bandé Yeshé Nyingpo, and edited and finalized by the senior editor-translator Bandé Paltsek.<tei:note xml:id="UT22084-068-020-86"/>
+                </seg>
+            </tuv>
+</tu>
+</body>
+</tmx>

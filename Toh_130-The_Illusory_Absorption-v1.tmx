@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx xmlns="http://www.lisa.org/tmx14">
-    <header xmlns:eft="http://read.84000.co/ns/1.0" creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" segtype="phrase" adminlang="en" srclang="bo" o-tmf="tei" datatype="Text" eft:text-id="UT22084-055-004" eft:text-version="1.25.2 2019"/>
+    <header xmlns:eft="http://read.84000.co/ns/1.0" creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" segtype="phrase" adminlang="en" srclang="bo" o-tmf="tei" datatype="Text" eft:text-id="UT22084-055-004" eft:text-version="1.26.0 2019"/>
     <body>
         <tu tuid="2">
             <prop name="folio">F.210.b</prop>
@@ -6780,6 +6780,42 @@
             </tuv>
             <tuv xml:lang="en" creationdate="2018-11-06T22:07:09.605Z" creationid="laura">
                 <seg>the bodhisattva great being Padmaśrīgarbha, the monks, and the many bodhisattvas, as well as the world with its gods, men, demigods, and gandharvas, rejoiced and praised what the Blessed One had said.</seg>
+            </tuv>
+        </tu>
+        <tu tuid="933">
+            <prop name="folio">F.227.a</prop>
+            <tuv xml:lang="bo" creationdate="2020-07-24" creationid="celso">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བྱང་ཆུབ་སེམས་དཔའ་པད་མའི་དཔལ་གྱི་སྙིང་པོ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One said to the bodhisattva Padmaśrīgarbha,</seg>
+            </tuv>
+        </tu>
+        <tu tuid="934">
+            <prop name="folio">F.227.a</prop>
+            <tuv xml:lang="bo" creationdate="2020-07-24" creationid="celso">
+                <seg>པད་མའི་དཔལ་གྱི་སྙིང་པོ་དེའི་ཕྱིར་ལེགས་པར་རབ་ཏུ་ཉོན་ལ་ཡིད་ལ་ཟུང་ཤིག་དང་བཤད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Padmaśrīgarbha, for that very purpose I shall answer you, so listen well and keep in mind what I say.”</seg>
+            </tuv>
+        </tu>
+        <tu tuid="935">
+            <prop name="folio">F.227.a</prop>
+            <tuv xml:lang="bo" creationdate="2020-07-24" creationid="celso">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་པད་མའི་དཔལ་གྱི་སྙིང་པོས་བཅོམ་ལྡན་འདས་ལ་ལེགས་སོ་ཞེས་བྱ་བ་གསོལ་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The bodhisattva great being Padmaśrīgarbha said to the Blessed One, “Excellent!” and</seg>
+            </tuv>
+        </tu>
+        <tu tuid="936">
+            <prop name="folio">F.227.a</prop>
+            <tuv xml:lang="bo" creationdate="2020-07-24" creationid="celso">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱི་ལྟར་ཉན་པ་དང་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>listened as the Blessed One had directed.</seg>
             </tuv>
         </tu>
     </body>

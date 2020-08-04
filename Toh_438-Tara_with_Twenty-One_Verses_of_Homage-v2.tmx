@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="XML aligned text" eft:text-id="UT22084-081-007" eft:text-version="1.2.3 2020"/>
+<body>
+<tu>
+            <prop name="folio">INPUT_STARTING_FOLIO</prop>
+	<tuv xml:lang="bo">
+                <seg>སྒྲོལ་མ་ལ་ཕྱག་འཚལ་ཉི་ཤུ་རྩ་གཅིག་གིས་བསྟོད་པ་ཕན་ཡོན་དང་བཅས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Praise to Tārā with Twenty-One Verses of Homage</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">INPUT_STARTING_FOLIO</prop>
+	<tuv xml:lang="bo">
+                <seg>རྗེ་བཙུན་མ་འཕགས་མ་སྒྲོལ་མ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-081-007-16"/>Homage to the honored, noble lady Tārā!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">INPUT_STARTING_FOLIO</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྱག་འཚལ་སྒྲོལ་མ་མྱུར་མ་དཔའ་མོ། །སྤྱན་ནི་སྐད་ཅིག་གློག་དང་འདྲ་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-081-007-17"/>Homage to Tārā, swift and gallant, Whose glance is instantaneous like lightning.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">INPUT_STARTING_FOLIO</prop>
+	<tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་གསུམ་མགོན་ཆུ་སྐྱེས་ཞལ་གྱི། །གེ་སར་ཕྱེ་བ་ལས་ནི་བྱུང་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>You arose from the heart of the blossoming lotus That is the face of the lord of the three worlds.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">INPUT_STARTING_FOLIO</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྱག་འཚལ་སྟོན་ཀའི་ཟླ་བ་ཀུན་དུ། །གང་བ་བརྒྱ་ནི་བརྩེགས་པའི་ཞལ་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-081-007-18"/>Homage to you whose face resembles One hundred autumn full moons gathered;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">INPUT_STARTING_FOLIO</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐར་མ་སྟོང་ཕྲག་ཚོགས་པ་རྣམས་ཀྱིས། །རབ་ཏུ་ཕྱེ་བའི་འོད་རབ་འབར་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Your brilliant radiance blazes,<tei:note xml:id="UT22084-081-007-19"/> Like a thousand clusters of stars.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">INPUT_STARTING_FOLIO</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྱག་འཚལ་གསེར་སྔོ་ཆུ་ནས་སྐྱེས་ཀྱི། །པདྨས་ཕྱག་ནི་རྣམ་པར་བརྒྱན་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-081-007-20"/>Homage to you, whose hand is graced By a golden-blue lotus flower.<tei:note xml:id="UT22084-081-007-21"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">INPUT_STARTING_FOLIO</prop>
+	<tuv xml:lang="bo">
+                <seg>སྦྱིན་པ་བརྩོན་འགྲུས་དཀའ་ཐུབ་ཞི་བ། །བཟོད་པ་བསམ་གཏན་སྤྱོད་ཡུལ་ཉིད་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>You embody generosity, diligence, endurance, Serenity, patience, and concentration.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">INPUT_STARTING_FOLIO</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྱག་འཚལ་དེ་བཞིན་གཤེགས་པའི་གཙུག་ཏོར། །མཐའ་ཡས་རྣམ་པར་རྒྱལ་བར་སྤྱོད་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-081-007-22"/>Homage to you, whose triumphs are endless, Jewel on the Tathāgata’s crown.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">INPUT_STARTING_FOLIO</prop>
+	<tuv xml:lang="bo">
+                <seg>མ་ལུས་ཕ་རོལ་ཕྱིན་པ་ཐོབ་པའི། །རྒྱལ་བའི་སྲས་ཀྱིས་ཤིན་ཏུ་བསྟེན་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>You are well attended to by the heirs of the victors, Who have mastered all the perfections.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">INPUT_STARTING_FOLIO</prop>
+            <eft:flag type="alternateSource"/>
+	<tuv xml:lang="bo">
+                <seg>!ཕྱག་འཚལ་ཏུཏྟྭ་ར་ཧཱུྃ་ཡི་གེ། །འདོད་དང་ཕྱོགས་དང་ནམ་མཁའ་གང་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-081-007-23"/>Homage to Tuttārā,<tei:note xml:id="UT22084-081-007-24"/> who with hūṁ Fulfills all wishes to the bounds of space.<tei:note xml:id="UT22084-081-007-25"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">INPUT_STARTING_FOLIO</prop>
+	<tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་བདུན་པོ་ཞབས་ཀྱིས་མནན་ཏེལུས་པ་མེད་པར་འགུགས་པར་ནུས་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>You trample the seven worlds underfoot,<tei:note xml:id="UT22084-081-007-26"/> And possess the strength to summon all.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">INPUT_STARTING_FOLIO</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྱག་འཚལ་བརྒྱ་བྱིན་མེ་ལྷ་ཚངས་པ། །རླུང་ལྷ་སྣ་ཚོགས་དབང་ཕྱུག་མཆོད་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-081-007-27"/>Homage to you, praised by Śakra, Agni, Brahmā, maruts, and Śiva.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">INPUT_STARTING_FOLIO</prop>
+	<tuv xml:lang="bo">
+                <seg>འབྱུང་པོ་རོ་ལངས་དྲི་ཟ་རྣམས་དང་། །གནོད་སྦྱིན་ཚོགས་ཀྱིས་མདུན་ནས་བསྟོད་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The hosts<tei:note xml:id="UT22084-081-007-28"/> of bhūtas, vetālas, gandharvas, And yakṣas pay tribute to you.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྱག་འཚལ་ཏྲད་ཅེས་བྱ་དང་<tei:ref folio="F.43.a"/>ཕཊ་ཀྱིས། །ཕ་རོལ་འཁྲུལ་འཁོར་རབ་ཏུ་འཇོམས་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-081-007-29"/>Homage to you, who with traṭ<tei:note xml:id="UT22084-081-007-30"/> and phaṭ Crush the magical devices of other traditions.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཡས་བསྐུམ་གཡོན་བརྐྱང་ཞབས་ཀྱིས་མནན་ཏེམེ་འབར་འཁྲུགས་པ་ཤིན་ཏུ་འབར་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>With your right leg bent and your left leg extended, You shine amid flames blazing wildly.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྱག་འཚལ་ཏུ་རེ་འཇིགས་པ་ཆེན་མོ། །བདུད་ཀྱི་དཔའ་བོ་རྣམ་པར་འཇོམས་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-081-007-31"/>Homage to Turā, the fearsome lady, Destroyer of the most powerful demons.<tei:note xml:id="UT22084-081-007-32"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆུ་སྐྱེས་ཞལ་ནི་ཁྲོ་གཉེར་ལྡན་མཛད། །དགྲ་བོ་ཐམས་ཅད་མ་ལུས་གསོད་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>With your lotus face and stern frown, You are the slayer of each and every foe!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྱག་འཚལ་དཀོན་མཆོག་གསུམ་མཚོན་ཕྱག་རྒྱའི། །སོར་མོས་ཐུགས་ཀར་རྣམ་པར་བརྒྱན་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-081-007-33"/>Homage to you, whose fingers grace your heart, Displaying the mudrā of the Three Jewels.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མ་ལུས་ཕྱོགས་ཀྱི་འཁོར་ལོས་བརྒྱན་པའི། །རང་གི་འོད་ཀྱི་ཚོགས་རྣམས་འཁྲུག་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Graced by wheels in all directions, Your natural radiance overwhelms all.<tei:note xml:id="UT22084-081-007-34"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྱག་འཚལ་རབ་ཏུ་དགའ་བ་བརྗིད་པའི། །དབུ་རྒྱན་འོད་ཀྱི་ཕྲེང་བ་སྤེལ་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-081-007-35"/>Homage to you, supremely joyous, Your splendorous crown spreading garlands of light.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཞད་པ་རབ་བཞད་ཏུ་ཏྟྭ་ར་ཡིས། །བདུད་དང་འཇིག་རྟེན་དབང་དུ་མཛད་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Tuttārā, smiling and laughing, You bring demons and worlds within your control.<tei:note xml:id="UT22084-081-007-36"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྱག་འཚལ་ས་གཞི་སྐྱོང་བའི་ཚོགས་རྣམས། །ཐམས་ཅད་འགུགས་པར་ནུས་མ་ཉིད་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-081-007-37"/>Homage to you, who can summon The hosts of earthly guardians.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཁྲོ་གཉེར་གཡོ་བའི་ཡི་གེ་ཧཱུཾ་གིས། །ཕོངས་པ་ཐམས་ཅད་རྣམ་པར་སྒྲོལ་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Knitting your quivering brows, with the syllable hūṁ You deliver from every misfortune.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.a</prop>
+            <eft:flag type="alternateSource"/>
+	<tuv xml:lang="bo">
+                <seg>!ཕྱག་འཚལ་ཟླ་བའི་རྩེ་མོས་དབུ་བརྒྱན། །བརྒྱན་པ་ཐམས་ཅད་ཤིན་ཏུ་འབར་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-081-007-38"/>Homage to you, so brightly adorned, With a sliver of moon as your crown,<tei:note xml:id="UT22084-081-007-39"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རལ་པའི་ཁྲོད་ན་འོད་དཔག་མེད་ལས། །རྟག་པར་ཤིན་ཏུ་འོད་ནི་མཛད་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Your locks always graced by Amitābha, Whose bright light streams forever forth.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྱག་འཚལ་བསྐལ་པ་ཐ་མའི་མེ་ལྟར། །འབར་བའི་ཕྲེང་བའི་དབུས་ན་གནས་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-081-007-40"/>Homage to you, seated amid blazing flames That resemble the fire that ends an eon.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཡས་བརྐྱང་གཡོན་བསྐུམ་ཀུན་ནས་བསྐོར་དགས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Immersed in joy, your right leg extends, and the left is bent.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགྲ་ཡི་དཔུང་ནི་རྣམ་པར་འཇོམས་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Thus, you crush legions of foes.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྱག་འཚལ་ས་གཞིའི་ངོས་ལ་ཕྱག་གི། །མཐིལ་གྱིས་བསྣུན་ཅིང་ཞབས་ཀྱིས་བརྡུང་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-081-007-41"/>Homage to you, who on the earth’s surface Strike your palms and stamp your feet;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཁྲོ་གཉེར་ཅན་མཛད་ཡི་གེ་ཧཱུྃ་གིས། །རིམ་པ་བདུན་པོ་རྣམས་ནི་འགེམས་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The hūṁ that is formed by your frown Smashes the seven netherworlds to nothing but dust.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྱག་འཚལ་བདེ་མ་དགེ་མ་ཞི་མ། །མྱ་ངན་འདས་ཞི་སྤྱོད་ཡུལ་ཉིད་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-081-007-42"/>Homage to you, blissful, gracious, and tranquil, Whose domain is the peace of nirvāṇa.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྭཱ་ཧཱ་ཨོཾ་དང་ཡང་དག་ལྡན་པས། །སྡིག་པ་ཆེན་པོ་འཇོམས་པ་ཉིད་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>In perfect union with svāhā and oṁ, You lay to waste every terrible evil.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྱག་འཚལ་ཀུན་ནས་བསྐོར་རབ་དགའ་བའི། །དགྲ་ཡི་ལུས་ནི་རབ་ཏུ་འགེམས་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-081-007-43"/>Homage to you, who, immersed in rapture, Shatter the bodies of all foes.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡི་གེ་བཅུ་པའི་ངག་ནི་བཀོད་པའི། །རིག་པ་ཧཱུྃ་ལས་སྒྲོན་མ་ཉིད་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>You shine with the knowledge-syllable hūṁ, As your mantra’s ten syllables are set forth.<tei:note xml:id="UT22084-081-007-44"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྱག་འཚལ་ཏུ་རེའི་ཞབས་ནི་བརྡབས་པས། །ཧཱུྃ་གི་རྣམ་པའི་ས་བོན་ཉིད་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-081-007-45"/>Homage to Turā, your feet stomping, Formed from the seed of the syllable hūṁ.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རི་རབ་མན་དཱ་ར་དང་འབིགས་བྱེད། །འཇིག་རྟེན་གསུམ་རྣམས་གཡོ་བ་ཉིད་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The mountains of Meru, Mandara, and Vindhya,<tei:note xml:id="UT22084-081-007-46"/> And all the three worlds—you cause them to quake.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྱག་འཚལ་ལྷ་ཡི་མཚོ་ཡི་རྣམ་པའི། །རི་དགས་རྟགས་ཅན་ཕྱག་ན་བསྣམས་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-081-007-47"/>Homage to you, who hold in your hand A deer-marked moon like a divine lake.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཏཱ་ར་གཉིས་བརྗོད་ཕཊ་ཀྱི་<tei:ref folio="F.43.b"/>ཡི་གེས། །དུག་རྣམས་མ་ལུས་པར་ནི་སེལ་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>With tāra uttered twice and then with phaṭ, You eliminate all poisons.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྱག་འཚལ་ལྷ་ཡི་ཚོགས་རྣམས་རྒྱལ་པོ། །ལྷ་དང་མིའམ་ཅི་ཡིས་བསྟེན་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-081-007-48"/>Homage to you, sovereign of divine hosts, Served by gods and kiṃnaras.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཀུན་ནས་གོ་ཆ་དགའ་བའི་བརྗིད་ཀྱིས། །རྩོད་དང་རྨི་ལམ་ངན་པ་སེལ་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Your resplendence, an armor of joy, Pacifies strife and clears away nightmares.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྱག་འཚལ་ཉི་མ་ཟླ་བ་རྒྱས་པའི། །སྤྱན་གཉིས་པོ་ལ་འོད་རབ་གསལ་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-081-007-49"/>Homage to you, whose two eyes shine brightly Like the sun and the moon when it’s full.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཧ་ར་གཉིས་བརྗོད་ཏུ་ཏྟྭ་ར་ཡིས། །ཤིན་ཏུ་དྲག་པོའི་རིམས་ནི་སེལ་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Tuttārā, with twice-uttered hara, You pacify the most intractable ills.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྱག་འཚལ་དེ་ཉིད་གསུམ་རྣམས་བཀོད་པའི། །ཞི་བའི་མཐུ་དང་ཡང་དག་ལྡན་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-081-007-50"/>Homage to you, who have the power to pacify,<tei:note xml:id="UT22084-081-007-51"/> You display the three true natures.<tei:note xml:id="UT22084-081-007-52"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གདོན་དང་རོ་ལངས་གནོད་སྦྱིན་ཚོགས་རྣམས། །འཇོམས་པ་ཏུ་རེ་རབ་མཆོག་ཉིད་མ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Turā, supreme lady, you destroy The hordes of grahas, vetālas, and yakṣas.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྩ་བའི་སྔགས་ཀྱིས་བསྟོད་པ་འདི་དང་། །ཕྱག་འཚལ་བ་ནི་ཉི་ཤུ་རྩ་གཅིག །ལྷ་མོ་ལ་གུས་ཡང་དག་ལྡན་པའི། །བློ་ལྡན་གང་གིས་རབ་ཏུ་བརྗོད་པས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-081-007-53"/>This praise by means of the root mantra— The twenty-one verses of homage Should be recited in earnest by the wise,<tei:note xml:id="UT22084-081-007-54"/> Who are filled with devotion for the goddess.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྲོད་དང་ཐོ་རངས་ལངས་པར་བྱས་ནསདྲན་པས་མི་འཇིགས་ཐམས་ཅད་རབ་སྟེར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-081-007-55"/>Recalling it at dusk and also when rising at dawn Will grant them freedom from every fear.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྡིག་པ་ཐམས་ཅད་རབ་ཏུ་ཞི་བ། །ངན་འགྲོ་ཐམས་ཅད་འཇོམས་པ་ཉིད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It will pacify all misdeeds, And destroy all evil destinies.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྒྱལ་བ་བྱེ་བ་ཕྲག་བདུན་རྣམས་ཀྱིས། །མྱུར་དུ་དབང་ནི་བསྐུར་བར་འགྱུར་ལ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-081-007-56"/>Soon they will receive empowerment From seven million conquerors.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་ལས་ཆེ་བ་ཉིད་ནི་འཐོབ་ཅིང་། །སངས་རྒྱས་གོ་འཕང་མཐར་ཐུག་དེར་འགྲོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Beyond this, they shall attain greatness, And proceed to the ultimate state of buddhahood.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ཡི་དུག་ནི་དྲག་པོ་ཆེན་པོ། །བརྟན་གནས་པའམ་གཞན་ཡང་འགྲོ་བ། །ཟོས་པ་དང་ནི་འཐུངས་པ་ཉིད་ཀྱང་། །དྲན་པས་རབ་ཏུ་སེལ་བ་ཉིད་ཐོབ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-081-007-57"/>If they recall this praise all dreadful poisons, Whether natural or manufactured, Whether eaten or imbibed, Will be utterly neutralized.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གདོན་དང་རིམས་དང་དུག་གིས་གཟིར་བའི། །སྡུག་བསྔལ་ཚོགས་ནི་རྣམ་པར་སྤོང་སྟེ། །སེམས་ཅན་གཞན་པ་རྣམས་ལ་ཡང་ངོ་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-081-007-58"/>This will dispel the heap of suffering Inflicted by grahas, infectious diseases, and poisons, Even in other beings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཉིས་གསུམ་བདུན་དུ་མངོན་པར་བརྗོད་ན། །བུ་འདོད་པས་ནི་བུ་ཐོབ་འགྱུར་ཞིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>If chanted twice, thrice, or seven times, <tei:milestone xml:id="UT22084-081-007-59"/>Those who want children will come to have them,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ནོར་འདོད་པས་ནི་ནོར་རྣམས་ཉིད་ཐོབ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Those who seek wealth will come to have that,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འདོད་པ་ཐམས་ཅད་ཐོབ་པར་འགྱུར་ཏེ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Each and every wish will be fulfilled,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བགེགས་རྣམས་མེད་ཅིང་སོ་སོར་འཇོམས་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And obstacles, entirely vanquished, will be no more.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.43.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མ་སྒྲོལ་མ་ལ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱིས་བསྟོད་པ་གསུངས་པ་རྫོགས་སོ།། །།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-081-007-60"/>This completes the praise to the Blessed Tārā as spoken by the completely perfect Buddha.</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>
