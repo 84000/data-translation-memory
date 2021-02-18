@@ -1,0 +1,1881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="XML aligned text" eft:text-id="UT22084-059-007" eft:text-version="1.2.5 2020"/>
+<body>
+<tu>
+            <prop name="folio">F.160.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཕགས་པ་རིན་ཆེན་ཟླ་བས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Noble Great Vehicle Sūtra The Questions of Ratna­candra</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐམས་ཅད་མཁྱེན་པ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-14"/>Homage to the Omniscient One.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-15"/>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་རྒྱལ་པོའི་ཁབ་ན་བྱ་རྒོད་ཕུང་པོའི་རི་ལ་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Blessed One was residing in Rājagṛha, on Vulture Peak Mountain,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་དང་། མཽད་གལ་གྱི་བུ་ཆེན་པོ་ལ་སོགས་པ་དགེ་སློང་འབུམ་ཕྲག་བདུན་ཅུ་རྩ་གཉིས་ཀྱི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་རྣམས་དང་། ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>together with a large community of 7,200,000 monks, including Śāriputra and Maudgal­yāyana.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་དགུ་ཁྲི་ལ་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>There were also 90,000 bodhisattvas,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བྱམས་པ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འཇམ་དཔལ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བློ་གྲོས་མི་ཟད་པ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བློ་གྲོས་རྒྱ་མཚོ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བློ་གྲོས་མཐའ་ཡས་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བློ་གྲོས་བརྟན་པ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཁམས་གསུམ་རྣམ་པར་གནོན་པ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ལག་ན་རིན་པོ་ཆེ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་སྨན་གྱི་རྒྱལ་པོ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རིན་ཆེན་འབྱུང་གནས་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དགའ་སྡུག་དང་། དེ་དག་ལ་སོགས་པ་བྱང་ཆུབ་སེམས་དཔའ་དགུ་ཁྲི་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>including the bodhisattva great being Maitreya, the bodhisattva great being Mañjuśrī, the bodhisattva great being Akṣaya­mati, the bodhisattva great being Sāgara­mati, the bodhisattva great being Ananta­mati, the bodhisattva great being Dṛḍhamati, the bodhisattva great being Dispeller of the Three Realms, the bodhisattva great being Ratnapāṇi, the bodhisattva great being Vaidyarāja, the bodhisattva great being Ratnākara, and the bodhisattva great being Joy and Sorrow.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྷའི་བུ་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་དུ་མ་དག་དང་། རྒྱལ་པོ་ཆེན་པོ་བཞི་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>There were also many billions of gods, including the Four Great Kings;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྷ་རྣམས་ཀྱི་དབང་པོ་བརྒྱ་བྱིན་གཡོག་འཁོར་ལྷའི་བུ་འབུམ་ཕྲག་དུ་མ་དང་བཅས་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Śakra, king of the gods, along with his millions of divine attendants;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པ་གཡོག་འཁོར་ཚངས་རིས་ཀྱི་ལྷའི་བུ་འབུམ་ཕྲག་དུ་མ་དང་བཅས་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>and Brahmā, lord of the Enduring world, along with his millions of divine attendants from the Brahmā realm.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཀླུའི་རྒྱལ་པོ་རྒྱ་མཚོ་དང་། ཀླུའི་རྒྱལ་པོ་མ་དྲོས་པ་དང་། ཀླུའི་རྒྱལ་པོ་ཨེ་ལའི་འདབ་དང་། ཀླུའི་རྒྱལ་པོ་ཀུན་དུ་གྲགས་དང་། དེ་དག་ལ་སོགས་པ་ཀླུ་འབུམ་ཕྲག་དུ་མ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>There were also millions of nāgas, including the nāga king Sāgara, the nāga king Anavatapta, the nāga king Elapatra, and the nāga king Renowned .</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གནོད་སྦྱིན་གྱི་སྡེ་དཔོན་ཆེན་པོ་འབྲོག་གནས་དང་། ཁབ་སྤུ་<tei:ref folio="F.160.b"/>ཅན་དང་། རྩི་སྨན་དང་། བོང་བུ་དང་། དེ་དག་ལ་སོགས་པ་གནོད་སྦྱིན་གྱི་སྡེ་དཔོན་འབུམ་ཕྲག་དུ་མ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Along with them were millions of yakṣa generals, such as Āṭavaka, Sucīromā, Oṣadhi, and Gardabhaka.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་སྔ་དྲོའི་དུས་ཀྱི་ཚེ། ཤམ་ཐབས་དང་ཆོས་གོས་གསོལ་ཏེ། ལྷུང་བཟེད་བསྣམས་ནས་རྒྱལ་པོའི་ཁབ་ཀྱི་གྲོང་ཁྱེར་ཆེན་པོར་བསོད་སྙོམས་ལ་གཤེགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-16"/>One morning the Blessed One put on his lower garments and monk’s robes, took his alms bowl, and left for his alms round in Rājagṛha.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེའི་ཚེ་རྒྱལ་པོ་གཟུགས་ཅན་སྙིང་པོའི་སྲས་ཁྱེའུ་རིན་ཆེན་ཟླ་བ་ཞེས་བྱ་བ་གླང་པོ་ཆེའི་ལག་བརྒྱད་པ་ཞེས་བྱ་བ་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>At the same time Prince Ratna­candra, son of King Bimbisāra, left the city of Rājagṛha riding an elephant known as Eight-Trunked.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རིན་པོ་ཆེ་སྣ་བདུན་གྱིས་བརྒྱན་ཅིང་གསེར་གྱི་དྲ་བས་གཡོགས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It was adorned with seven kinds of precious materials and covered with golden latticework.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དྲིལ་བུ་གཡེར་ཁ་དཔྱངས་པ། གསེར་གྱིས་སྤྲས་པའི་དར་གྱི་ལྡ་ལྡི་མང་པོས་མཛེས་པར་བྱས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Small bells were tied onto the elephant, which was further ornamented with tassels of golden brocade.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བདུག་པས་བདུགས་པ། མེ་ཏོག་སིལ་མས་གཏོར་བ། རྒྱལ་མཚན་དང་བ་དན་བསྒྲེང་བ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>As the prince emerged incense was burned, flower petals were scattered, and banners and flags were unfurled.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གདུགས་དང་ར་བས་བརྒྱན་པ། རིན་པོ་ཆེའི་ཤིང་ལྗོན་པས་མཛེས་པར་བྱས་པ། སྟེགས་བུ་བདུན་གྱིས་ཁོ་ར་ཁོར་ཡུག་དག་བསྐོར་བ་ལ་ཞོན་ནས་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>After riding through the city, which was decorated with parasols and fences, beautified with precious trees, and encircled by seven pavilions,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྒྱལ་པོའི་འབྱོར་པ་ཆེན་པོ་དང་། རྒྱལ་པོའི་མཐུ་ཆེན་པོ་དང་ལྡན་པས་རྒྱལ་པོའི་ཁབ་ཀྱི་གྲོང་ཁྱེར་ཆེན་པོ་ནས་བྱུང་སྟེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>he rode out of the capital displaying both royal wealth and power.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་ཐམས་ཅད་ལ་སྦྱིན་པ་དག་སྦྱིན་ཞིང་སོང་བ་ལས་གཞོན་ནུ་རིན་ཆེན་ཟླ་བས་ཐག་རིང་པོ་ཞིག་ནས་བཅོམ་ལྡན་འདས་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-17"/>As Prince Ratna­candra was handing out alms to everyone present, he noticed the Blessed One walking in the distance.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མཛེས་པ། དད་པར་བྱ་བ། དབང་པོ་དུལ་བ། ཐུགས་དུལ་བ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He was handsome and gracious, with peaceful faculties and mind.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཁ་དོག་བཟང་པོ་རྒྱས་པ་མཆོག་དང་ལྡན་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He had the most exquisite color.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དུལ་བ་དང་ཞི་བའི་མཆོག །དུལ་བ་དང་ཞི་བ་དམ་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He was perfectly gentle and peaceful, the perfection of a gentle and peaceful being.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཙོ་བོ་ཆེན་པོ། དབང་པོ་བསྲུངས་པ། དབང་པོ་ཐུལ་བ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He had a great presence and was restrained and calm.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མཚོ་ལྟར་དང་ཞིང་གསལ་ལ་རྙོག་པ་མེད་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Like a lake, he was clear and pristine.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐྱེས་བུ་ཆེན་པོའི་མཚན་སུམ་ཅུ་རྩ་གཉིས་མངའ་བ། དཔེ་བྱད་བཟང་པོ་བརྒྱད་ཅུས་བརྒྱན་པའི་སྐུ་གསེར་གྱི་མཆོད་སྡོང་ལྟར་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Like a golden reliquary, his noble body was adorned with the thirty-two major marks and the eighty minor marks of a great being.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཕགས་ལ་དཔལ་གྱི་མཆོག་གིས་ལམ་མེ། ལྷན་ནེ། ལྷང་ངེ་སྟེ་གཤེགས་པ་མཐོང་ངོ་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Due to his supreme splendor, he was shining, bright, and resplendent.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མཐོང་ནས་ཀྱང་སེམས་དད་པར་གྱུར་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-18"/>Upon seeing the Blessed One, Ratna­candra was moved to faith.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་དད་པར་གྱུར་ནས་གླང་པོ་ཆེའི་སྟེང་ནས་སྐྱེན་པར་བབས་ཏེ། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Filled with faith, he immediately alighted from the elephant and approached the Blessed One.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.160.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་ཕྱག་འཚལ་ཏེ། བཅོམ་ལྡན་འདས་ལ་ལན་གསུམ་བསྐོར་བ་བྱས་ནས་ཕྱོགས་གཅིག་ཏུ་འདུག་གོ། །བཅོམ་ལྡན་འདས་ལ་ཞེ་ས་དང་བཅས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Prostrating at the feet of the Blessed One, he circumambulated him three times and sat to one side with deference and respect. </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གུས་པ་དང་བཅས་པས་<tei:ref folio="F.161.a"/>ཕྱོགས་གཅིག་ཏུ་འདུག་ནས་རྒྱལ་པོ་གཟུགས་ཅན་སྙིང་པོའི་སྲས་ཁྱེའུ་རིན་ཆེན་ཟླ་བས་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་དེ། བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Ratna­candra, son of King Bimbisāra, folded his palms together and bowed toward the Blessed One and spoke to him,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་དད་པ་ཅན་གང་དག་གིས་ཕྱོགས་བཅུའི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་བཅུ་པོ་དག་གི་མཚན་ཐོས་པ་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལས་ཕྱིར་མི་ལྡོག་པར་འགྱུར་བ་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“O Blessed One, it is said that a faithful noble son or daughter who has heard the names of the ten thus-gone, worthy, perfect buddhas who dwell in the ten directions will not fall back from the unsurpassed and perfect state of awakening.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ལྟ་བུ་བཅོམ་ལྡན་འདས་ཀྱིས་བཤད་དུ་གསོལ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Blessed One, please speak of this.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བདེ་བར་གཤེགས་པས་བཤད་དུ་གསོལ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Thus-Gone One, please tell us about this.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་སྐད་ཅེས་གསོལ་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་རྒྱལ་པོ་གཟུགས་ཅན་སྙིང་པོའི་སྲས་ཁྱེའུ་རིན་ཆེན་ཟླ་བ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-19"/>In response, the Blessed One said to Ratna­candra, son of King Bimbisāra,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་ལེགས་སོ་ལེགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Prince, well done! Well done indeed.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་ཁྱོད་འདི་ལྟར་སྐྱེ་བོ་མང་པོ་ལ་ཕན་པ་དང་། སྐྱེ་བོ་མང་པོ་ལ་བདེ་བའི་ཕྱིར་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Prince, you ask this in order to benefit many beings and bring them happiness.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་ལ་སྙིང་བརྩེ་བ་དང་། སྐྱེ་བོའི་ཚོགས་ཕལ་པོ་ཆེའི་དོན་དང་། ལྷ་དང་མི་རྣམས་ལ་ཕན་པ་དང་། བདེ་བའི་ཕྱིར་ཞུགས་པ་དང་། ད་ལྟར་དང་། མ་འོངས་པའི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་ཡོངས་སུ་གཟུང་བའི་ཕྱིར་ཞུགས་ཏེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>You do so out of love for the world and for the welfare of many beings, to benefit and bring happiness to gods and humans alike, and to assist the bodhisattvas of the present and the future.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་ཁྱོད་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ལ་དོན་འདི་ཞུ་བར་སེམས་པ་ལེགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Prince, it is excellent you thought to ask the thus-gone, worthy, perfect Buddha about this point.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་ཁྱོད་ཀྱི་ཞུ་བ་བཟང་སྟེ་སྤོབས་པ་དགེའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Prince, your request is excellent, and it is virtuous that you were moved to articulate it.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེའི་ཕྱིར་གཞོན་ནུ་ཁྱོད་ལེགས་པར་རབ་ཏུ་ཉོན་ལ་ཡིད་ལ་ཟུང་ཤིག་དང་བཤད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Therefore, Prince, listen carefully and keep this teaching in mind.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་རྩེ་གཅིག་ཏུ་རྣ་བ་བླགས་ཏེ་སེམས་སྡུས་ལ་སོམས་ཤིག་དང་། དོན་དེ་ངས་ཁྱོད་ལ་བཤད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Listen to me with one-pointed concentration and reflect on what I say as I explain this teaching to you.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་རྒྱལ་པོ་གཟུགས་ཅན་སྙིང་པོའི་སྲས་ཁྱེའུ་རིན་ཆེན་ཟླ་བས་བཅོམ་ལྡན་འདས་ལ་ལེགས་སོ་ཞེས་གསོལ་ནས་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Ratna­candra, son of King Bimbisāra, replied to the Blessed One, “Excellent!”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱི་ལྟར་ཉན་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And he listened as the Blessed One had directed.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-21"/>The Blessed One then said,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་སངས་རྒྱས་ཀྱི་ཞིང་འདི་ནས་ཤར་ཕྱོགས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་དཔག་ཏུ་མེད་གྲངས་མེད་བསམ་གྱིས་མི་ཁྱབ་གཞལ་དུ་མེད་པ་སྙེད་འདས་པ་ན་འཇིག་རྟེན་གྱི་<tei:ref folio="F.161.b"/>ཁམས་མྱ་ངན་མེད་པ་ཞེས་བྱ་བ་ཞིག་ཡོད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Prince, east of this buddha realm, past countless, inconceivably many, limitless billions of buddha realms, there is a realm called Sorrowless.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་གྱི་ཁམས་མྱ་ངན་མེད་པ་ཞེས་བྱ་བ་དེ་སངས་རྒྱས་ཀྱི་ཞིང་དཔག་ཏུ་མེད་པ་ཇི་སྙེད་ཅིག་འདས་པ་ན་ཡོད་ཅེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>You may wonder how many boundless buddha realms one must pass through to reach that realm.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་དཔེར་ན་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་འདི་སྲིད་པའི་རྩེ་མོའི་བར་དུ་བྱེ་མས་ཡོངས་སུ་གང་བར་གྱུར་ལ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Well, Prince, suppose the entire trichiliocosm was completely filled with sand, all the way to its summits.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་མི་ལ་ལ་ཞིག་གིས་བྱེ་མ་དེའི་ས་འབྲུ་རེ་རེ་ནས་བླངས་ཤིང་ཤར་ཕྱོགས་ཀྱི་སངས་རྒྱས་ཀྱི་ཞིང་རེ་རེར་བྱེ་མ་འབྲུ་རེ་འཇོག་པར་བྱེད་པ་དེ་ལྟ་བུའི་ཚུལ་གྱིས་བྱེ་མ་དེ་ཐམས་ཅད་ཤར་ཕྱོགས་སུ་ཡོངས་སུ་ཟད་ཅིང་ཡོངས་སུ་གཏུགས་པར་གྱུར་ཀྱང་། སངས་རྒྱས་ཀྱི་ཞིང་དེ་དག་གི་ཚད་དམ་མཐའ་རྟོགས་པར་མི་ནུས་པའི་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>If a person were to remove the sand, grain by grain, and place one grain of sand in each buddha realm toward the east until every single grain of sand was placed in a buddha realm in that direction, one would still not have reached the extent and limit of those buddha realms.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཀྱི་ཞིང་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་དཔག་ཏུ་མེད་གྲངས་མེད་པ་དེ་སྙེད་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་མྱ་ངན་མེད་པ་ཞེས་བྱ་བ་དེ་ཡོད་དེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The realm called Sorrowless lies farther away than such boundless and countless billions of buddha realms.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་གྱི་ཁམས་དེ་ཡང་ལག་མཐིལ་ལྟར་མཉམ་པར་གྱུར་པ། རིན་པོ་ཆེ་སྣ་བདུན་གྱིས་ལེགས་པར་བརྒྱན་པ། གསེར་གྱི་ས་གཞིར་འདུག་ཅིང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>That realm is as flat as the palm of the hand, is beautifully decorated with seven kinds of precious substances, and has a ground made of gold.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མིག་མངས་རིས་སུ་བྲིས་པ། རིན་པོ་ཆེའི་ཤིང་ལྗོན་པས་བརྒྱན་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is laid out in a checkered pattern and ornamented with precious trees.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་དམྱལ་བ་དང་། དུད་འགྲོའི་སྐྱེ་གནས་དང་། ཡི་དགས་དང་། ལྷ་མ་ཡིན་གྱི་ཚོགས་རྣམས་མེད་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>There are no hell beings, animals, hungry spirits, or asuras there,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྩྭ་དང་། ཤིང་སྐམ་དང་། ཚེར་མ་དང་། རྡོ་དང་། གསེག་མ་དང་། གྱོ་མོ་དག་མེད་པ། ངམ་གྲོག་དང་གཡང་ས་མེད་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>and it is free of grass, dried sticks, thorns, stones, pebbles, gravel, ravines, and precipices.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མེ་ཏོག་སིལ་མ་དག་བཀྲམ་པ་ཡིན་ཏེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Instead, the ground is covered in flower petals.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་རྫོགས་པའི་སངས་རྒྱས་དཔལ་བཟང་པོ་ཞེས་བྱ་བ་ད་ལྟར་བཞུགས་ཤིང་འཚོ་ལ་གཞེས་ཏེ། བྱང་ཆུབ་སེམས་དཔའི་ཚོགས་ཀྱིས་བསྐོར་ཅིང་། བྱང་ཆུབ་སེམས་དཔས་མདུན་གྱིས་བལྟས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-22"/>“There the thus-gone, worthy, perfect buddha Bhadraśrī resides and lives surrounded by a gathering of bodhisattvas who venerate him.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རིག་པ་དང་ཞབས་སུ་ལྡན་པ། བདེ་བར་གཤེགས་པ། འཇིག་རྟེན་མཁྱེན་པ། སྐྱེས་བུ་གདུལ་བྱའི་ཁ་ལོ་སྒྱུར་བ། བླ་ན་མེད་པ། ལྷ་དང་མི་རྣམས་ཀྱི་སྟོན་པ། སངས་རྒྱས་བཅོམ་ལྡན་འདས་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He is learned and venerable, a blissful one, a knower of the world, a steersman who guides beings, an unexcelled one, a teacher of gods and humans, a blessed buddha.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐྱེས་བུ་ཆེན་པོའི་མཚན་སུམ་ཅུ་རྩ་གཉིས་ཀྱིས་བརྒྱན་པའི་སྐུ། གསེར་ལེགས་པར་བཙོས་ཤིང་ལེགས་པར་དུལ་བ་ལྟ་བུ་རིན་པོ་ཆེའི་རྒྱན་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>His body, which is adorned with the thirty-two marks of a great being, is like purified and refined gold adorned with precious ornaments.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.161.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལེགས་པར་བཀོད་པ་བཞིན་དུ་འཁོར་གྱི་ནང་ན་མཛེས་པར་བཞུགས་ཤིང་། ཐོག་མར་དགེ་བ། བར་དུ་དགེ་བ། ཐ་མར་དགེ་བའི་ཆོས་སྟོན་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Sitting beautifully amidst the gathering, he teaches a Dharma that is virtuous in the beginning, virtuous in the middle, and virtuous in the end.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.162.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་<tei:ref folio="F.162.a"/>སྐད་ཅེས་ཀྱང་སྟོན་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He teaches as follows:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.162.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་ལྟར་སའི་ཁམས་ནི་མེད་པར་མི་འགྱུར་རོ། །དེ་བཞིན་དུ་ཆུའི་ཁམས་དང་། མེའི་ཁམས་དང་། རླུང་གི་ཁམས་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>‘In this way the earth element will not become nonexistent, nor will the water element, the fire element, or the wind element.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.162.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐྱེ་དགུའི་བདག་པོ་ཚངས་པ་དང་། གཟུགས་དང་། ཚོར་བ་དང་། འདུ་ཤེས་དང་། འདུ་བྱེད་དང་། རྣམ་པར་ཤེས་པ་མེད་པར་མི་འགྱུར་རོ་ཞེས་སྟོན་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Likewise, Brahmā who is the lord of beings will not become nonexistent, and the same applies to form, feeling, perception, formation, and consciousness.’<tei:note xml:id="UT22084-059-007-24"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.162.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་གཞན་ཡང་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་དཔལ་བཟང་པོ་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་ནས་ནི་བསྐལ་པ་བྱེ་བ་ཕྲག་དྲུག་ཅུ་ལོན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Prince, it has been six hundred million eons since the thus-gone, worthy, perfect buddha Bhadraśrī fully awakened to unsurpassed and perfect buddhahood.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.162.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་གཞན་ཡང་སངས་རྒྱས་ཀྱི་ཞིང་དེ་ན་ཉིན་མོ་དང་། མཚན་མོའི་མིང་ཡང་མེད་དེ། འཛམ་བུའི་གླིང་གི་རྩི་བའི་ཐབས་འདིས་དཔེར་བྱ་བ་ནི་མ་གཏོགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-23"/>“Prince, in that buddha realm there are no words for day and night , and there is nothing analogous to that calculation of time used in our world.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.162.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཀྱི་ཞིང་དེ་ཐམས་ཅད་ཀྱང་རྟག་ཏུ་དེ་བཞིན་གཤེགས་པ་དེའི་འོད་ཀྱིས་སྣང་བར་འདུག་གོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The entire buddha realm is permanently illuminated with the light of the thus-gone one.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.162.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་གཞན་ཡང་དེ་བཞིན་གཤེགས་པ་དེས་ཆོས་བསྟན་པ་རེ་རེས་ཀྱང་སེམས་ཅན་བྱེ་བ་ཁྲག་ཁྲིག་ཕྲག་འབུམ་དཔག་ཏུ་མེད་པ་དག་མི་སྐྱེ་བའི་ཆོས་ལ་འགོད་པར་མཛད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Moreover, Prince, every teaching given by the thus-gone one establishes countless billions of beings at the level of unborn phenomena.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.162.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཟོད་པ་དང་པོ་དང་། བཟོད་པ་གཉིས་པ་དང་། བཟོད་པ་གསུམ་པ་ལ་ནི་དེའི་ཉིས་འགྱུར་འགོད་པར་མཛད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He establishes twice as many beings in each of the three types of acceptance.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.162.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་གཞན་ཡང་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་དེའི་སྔོན་གྱི་སྨོན་ལམ་གྱི་སྟོབས་བསྐྱེད་པས་སངས་རྒྱས་ཀྱི་ཞིང་གཞན་དག་ན་གང་དག་སྔོན་གྱི་རྒྱལ་བ་རྣམས་ལ་ལྷག་པར་བྱ་བ་བྱས་ཤིང་དགེ་བའི་རྩ་བ་བསྐྱེད་པའི་སེམས་ཅན་དག་གི་ལུས་ལ་འོད་ཀྱིས་རེག་པ་དེ་དག་ཀྱང་མི་སྐྱེ་བའི་ཆོས་ལ་བཟོད་པ་ཐོབ་བོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Furthermore, Prince, sentient beings who served past buddhas in other buddha realms and produced roots of virtue with them will attain acceptance that phenomena are unborn when touched by the light born from the power generated from the past aspirations of this thus-gone, worthy, perfect buddha.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.162.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་གཞན་ཡང་རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་ཡང་རུང་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་དཔལ་བཟང་པོ་དེའི་མཚན་ཐོས་ན་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལས་ཕྱིར་མི་ལྡོག་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Prince, any noble son or daughter who hears the name of the thus-gone, worthy, perfect buddha Bhadraśrī will never turn back from unsurpassed and perfect awakening.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.162.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་འདི་ནས་ལྷོ་ཕྱོགས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་གྲངས་མེད་པ་སྔ་མ་ཇི་སྙེད་པ་དེ་སྙེད་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་དགའ་བ་ཞེས་བྱ་བ་ཞིག་ཡོད་དེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-149"/>“Prince, south of here, past as many countless billions of buddha realms as mentioned before, there is a realm called Joy .</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.162.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལག་མཐིལ་ལྟར་མཉམ་པ་ཞེས་བྱ་བ་<tei:ref folio="F.162.b"/>ནས་སྔ་མ་བཞིན་དུ་སྦྱར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>That realm is as flat as the palm of the hand and has all the other qualities previously described.<tei:note xml:id="UT22084-059-007-25"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.162.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཙན་དན་དཔལ་ཞེས་བྱ་བ་ད་ལྟར་བཞུགས་ཤིང་འཚོ་ལ་གཞེས་ཏེ། བྱང་ཆུབ་སེམས་དཔས་བསྐོར་ཅིང་བྱང་ཆུབ་སེམས་དཔས་མདུན་གྱིས་བལྟས་པ་ལ་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>There the thus-gone, worthy, perfect buddha Candanaśrī resides and lives surrounded by a gathering of bodhisattvas who venerate him.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.162.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐོག་མར་དགེ་བ། བར་དུ་དགེ་བ། ཐ་མར་དགེ་བའི་ཆོས་སྟོན་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He teaches them a Dharma that is virtuous in the beginning, virtuous in the middle, and virtuous in the end.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.162.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཞེས་བྱ་བ་ནས་རྣམ་པར་ཤེས་པ་མེད་པར་མི་འགྱུར་རོ། །ཞེས་བྱ་བའི་བར་དུ་སྔ་མ་བཞིན་དུ་སྦྱར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He also teaches the same Dharma mentioned previously, up until ‘consciousness.’</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.162.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་དེ་ལ་ཇི་སྙམ་དུ་སེམས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Prince, what do you think?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.162.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཅིའི་ཕྱིར་དེ་བཞིན་གཤེགས་པ་དེ་ཙན་དན་དཔལ་ཞེས་བྱ་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Why is the thus-gone one called Candanaśrī?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.162.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་དེ་བཞིན་གཤེགས་པ་དེའི་སངས་རྒྱས་ཀྱི་ཞིང་དེ་ཐམས་ཅད་ཙན་དན་གྱི་ཁང་པ་བརྩིགས་པས་ཡོངས་སུ་ཁྱབ་པས་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The entire buddha realm of the thus-gone one is filled with houses built of sandalwood.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.162.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེའི་ཕྱིར་དེ་བཞིན་གཤེགས་པ་དེའི་མཚན་ཙན་དན་དཔལ་ཞེས་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Therefore, the thus-gone one is called Candanaśrī.<tei:note xml:id="UT22084-059-007-26"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.162.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞན་ཡང་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་ཡང་རུང་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་དེའི་མཚན་ཐོས་ན་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལས་ཕྱིར་མི་ལྡོག་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Any noble son or daughter who hears the name of that thus-gone, worthy, perfect buddha will never turn back from unsurpassed and perfect awakening.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.162.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་འདི་ནས་ནུབ་ཕྱོགས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་གྲངས་མེད་པ་སྔ་མ་ཇི་སྙེད་པ་དེ་སྙེད་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་བཟང་པོ་ཞེས་བྱ་བ་ཞིག་ཡོད་དེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-27"/>“Prince, west of here, past as many countless billions of buddha realms as mentioned before, there is a realm called Excellence.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.162.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལག་མཐིལ་ལྟར་མཉམ་པར་གྱུར་པ་ཞེས་བྱ་བ་ནས་སྔ་མ་བཞིན་དུ་སྦྱར་ཏེ། ཇི་ལྟར་གོང་དུ་བསྟན་པ་བཞིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>That realm is as flat as the palm of the hand and has all the other qualities described above.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.162.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སྣང་བ་མཐའ་ཡས་ཞེས་བྱ་བ་ད་ལྟར་བཞུགས་ཤིང་འཚོ་ལ་གཞེས་ཏེ། བྱང་ཆུབ་སེམས་དཔས་ཡོངས་སུ་བསྐོར་ཅིང་། བྱང་ཆུབ་སེམས་དཔས་མདུན་གྱིས་བལྟས་པ་ལ་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>There the thus-gone, worthy, perfect buddha Amitābha resides and lives surrounded by a gathering of bodhisattvas who venerate him.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.162.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐོག་མར་དགེ་བ། བར་དུ་དགེ་བ། ཐ་མར་དགེ་བའི་ཆོས་སྟོན་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He teaches them a Dharma that is virtuous in the beginning, virtuous in the middle, and virtuous in the end.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.162.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་སྐད་ཅེས་ཀྱང་ཆོས་སྟོན་ཏོ། །ཞེས་བྱ་བ་ནས་རྣམ་པར་ཤེས་པ་མེད་པར་མི་འགྱུར་རོ། །ཞེས་བྱ་བའི་བར་དུ་སྔ་མ་བཞིན་དུ་སྦྱར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He also teaches the same Dharma mentioned previously, up until ‘consciousness.’</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.163.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་གཞན་ཡང་རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་ཡང་རུང་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་དེའི་མཚན་ཐོས་ན་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལས་ཕྱིར་མི་ལྡོག་པར་འགྱུར་ཞིང་འོད་དེ་<tei:ref folio="F.163.a"/>ཡང་ཉམས་སུ་མྱོང་ངོ་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Prince, any noble son or daughter who hears the name of that thus-gone, worthy, perfect buddha will never turn back from unsurpassed and perfect awakening and will experience that light. </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.163.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་འདི་ནས་བྱང་ཕྱོགས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་གྲངས་མེད་པ་སྔ་མ་ཇི་སྙེད་པ་དེ་སྙེད་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་འཁྲུག་མེད་ཅེས་བྱ་བ་ཞིག་ཡོད་དེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-28"/>“Prince, north of here, past as many countless billions of buddha realms as mentioned before, there is a realm called Without Conflict.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.163.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལག་མཐིལ་ལྟར་མཉམ་པར་གྱུར་པ་ཞེས་བྱ་བ་ནས་ཐམས་ཅད་སྔ་མ་བཞིན་དུ་སྦྱར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>That realm is as flat as the palm of the hand and has all the other qualities described above.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.163.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་མེ་ཏོག་གི་དཔལ་ཞེས་བྱ་བ་ད་ལྟར་བཞུགས་ཤིང་འཚོ་ལ་གཞེས་ཏེ། བྱང་ཆུབ་སེམས་དཔས་ཡོངས་སུ་བསྐོར་ཅིང་བྱང་ཆུབ་སེམས་དཔས་མདུན་གྱིས་བལྟས་པ་ལ་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>There the thus-gone, worthy, perfect buddha Floral Splendor resides and lives surrounded by a gathering of bodhisattvas who venerate him.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.163.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཞེས་བྱ་བ་ནས་རྣམ་པར་ཤེས་པ་མེད་པར་མི་འགྱུར་རོ། །ཞེས་བྱ་བའི་བར་དུ་སྔ་མ་བཞིན་དུ་སྦྱར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He also teaches the same Dharma mentioned previously, up until ‘consciousness.’</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.163.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་གཞན་ཡང་རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་ཡང་རུང་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་དེའི་མཚན་ཐོས་ནས་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལས་ཕྱིར་མི་ལྡོག་པར་འགྱུར་ཞིང་ལྷ་དང་བཅས་པའི་འཇིག་རྟེན་གྱི་རྒྱལ་མཚན་ལྟ་བུར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Prince, any noble son or daughter who hears the name of that thus-gone, worthy, perfect buddha will never turn back from unsurpassed and perfect awakening and will become like a victory banner for the world along with its gods.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.163.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་འདི་ནས་ཤར་ལྷོའི་ཕྱོགས་མཚམས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་གྲངས་མེད་པ་དེ་སྙེད་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་ཟླ་བ་སྣང་བ་ཞེས་བྱ་བ་ཞིག་ཡོད་དེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-29"/>“Prince, southeast of here, past countless billions of buddha realms, there is a realm called Moonlight.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.163.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལག་མཐིལ་ལྟར་མཉམ་པ་ཞེས་བྱ་བ་ནས་སྔ་མ་བཞིན་དུ་སྦྱར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>That realm is as flat as the palm of the hand and has all the other qualities described above.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.163.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་དེ་ལ་ཇི་སྙམ་དུ་སེམས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Prince, what do you think?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.163.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཅིའི་ཕྱིར་འཇིག་རྟེན་གྱི་ཁམས་ཟླ་བ་སྣང་བ་ཞེས་བྱ་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Why is that world called Moonlight?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.163.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་གྱི་ཁམས་དེ་ཐམས་ཅད་དེ་བཞིན་གཤེགས་པ་དེའི་འོད་ཀྱིས་སྣང་བར་བྱས་པས་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is because the rays of light from its thus-gone one illuminate that entire realm.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.163.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེའི་ཕྱིར་འཇིག་རྟེན་གྱི་ཁམས་དེ་ཟླ་བ་སྣང་བ་ཞེས་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>That is why that world is called Moonlight.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.163.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་མྱ་ངན་མེད་པའི་དཔལ་ཞེས་བྱ་བ་ད་ལྟར་བཞུགས་ཤིང་འཚོ་ལ་གཞེས་ཏེ། བྱང་ཆུབ་སེམས་དཔས་ཡོངས་སུ་བསྐོར་ཅིང་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>There the thus-gone, worthy, perfect buddha Aśokaśrī resides and lives surrounded by a gathering of bodhisattvas who venerate him.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.163.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔས་མདུན་གྱིས་བལྟས་པ་ལ་ཆོས་སྟོན་ཏོ་ཞེས་བྱ་བ་ནས་རྣམ་པར་ཤེས་པ་མེད་པར་མི་འགྱུར་རོ་ཞེས་བྱ་བའི་བར་དུ་སྔ་མ་བཞིན་དུ་སྦྱར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He teaches them the same Dharma mentioned previously, up until ‘consciousness.’</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.163.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་ཡང་རུང་། དེའི་མཚན་ཐོས་ན་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་<tei:ref folio="F.163.b"/>པའི་བྱང་ཆུབ་ལས་ཕྱིར་མི་ལྡོག་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Any noble son or daughter who hears his name will never turn back from unsurpassed and perfect awakening. </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.163.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་འདི་ནས་ལྷོ་ནུབ་ཀྱི་ཕྱོགས་མཚམས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་གྲངས་མེད་པ་དེ་སྙེད་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་ཏོག་དང་ལྡན་པ་ཞེས་བྱ་བ་ཞིག་ཡོད་དེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-30"/>“Prince, southwest of here, past countless billions of buddha realms, there is a realm called Decorated with Banners.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.163.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལག་མཐིལ་ལྟར་མཉམ་པར་གྱུར་པ་ཞེས་བྱ་བ་ནས་སྔ་མ་བཞིན་དུ་སྦྱར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>That realm is as flat as the palm of the hand and has all the other qualities described above.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.163.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རིན་པོ་ཆེའི་མཆོད་སྡོང་ཞེས་བྱ་བ་ད་ལྟར་བཞུགས་ཤིང་འཚོ་ལ་གཞེས་ཏེ། བྱང་ཆུབ་སེམས་དཔས་ཡོངས་སུ་བསྐོར་ཅིང་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>There the thus-gone, worthy, perfect buddha Ratnayūpa resides and lives surrounded by a gathering of bodhisattvas who venerate him.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.163.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔས་མདུན་གྱིས་བལྟས་པ་ལ་ཆོས་སྟོན་ཏོ་ཞེས་བྱ་བ་ནས་རྣམ་པར་ཤེས་པ་མེད་པར་མི་འགྱུར་རོ་ཞེས་བྱ་བའི་བར་དུ་སྔ་མ་བཞིན་དུ་སྦྱར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He teaches them the same Dharma mentioned previously, up until ‘consciousness.’</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.163.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་ཡང་རུང་། དེའི་མཚན་ཐོས་ན་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལས་ཕྱིར་མི་ལྡོག་པར་འགྱུར་ཞིང་འཇིག་རྟེན་ན་རིན་པོ་ཆེ་ལྟར་མངོན་པར་འཕགས་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Any noble son or daughter who hears his name will never turn back from unsurpassed and perfect awakening and will become as exalted as a jewel in the world.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.163.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་འདི་ནས་ནུབ་བྱང་གི་ཕྱོགས་མཚམས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་གྲངས་མེད་པ་དེ་སྙེད་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་སྒྲ་ལྡན་ཞེས་བྱ་བ་ཞིག་ཡོད་དེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-31"/>“Prince, northwest of here, past countless billions of buddha realms, there is a realm called Resounding.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.163.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལག་མཐིལ་ལྟར་མཉམ་པར་གྱུར་པ་ཞེས་བྱ་བ་ནས་སྔ་མ་བཞིན་དུ་སྦྱར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>That realm is as flat as the palm of the hand and has all the other qualities described above.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.163.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་དེ་ལ་ཇི་སྙམ་དུ་སེམས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Prince, what do you think?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.163.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཅིའི་ཕྱིར་འཇིག་རྟེན་གྱི་ཁམས་དེ་སྒྲ་དང་ལྡན་ཞེས་བྱ་ཞེ་ན་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Why is that world called Resounding?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.163.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་གྱི་ཁམས་དེ་སྒྲ་འདི་ལྟ་བུ་དག་དང་ལྡན་ཏེ། འདི་ལྟ་སྟེ། སངས་རྒྱས་ཀྱི་སྒྲ་དང་། ཆོས་ཀྱི་སྒྲ་དང་། དགེ་འདུན་གྱི་སྒྲ་དང་། སྟོང་པ་ཉིད་ཀྱི་སྒྲ་དང་། མཚན་མ་མེད་པའི་སྒྲ་དང་། སྨོན་པ་མེད་པའི་སྒྲ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is because the realm is endowed with the sounds of ‘Buddha,’ ‘Dharma,’ and ‘Saṅgha,’ as well as ‘emptiness,’ ‘signlessness,’ and ‘wishlessness.’</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.163.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྦྱིན་པ་དང་། ཚུལ་ཁྲིམས་དང་། བཟོད་པ་དང་། བརྩོན་འགྲུས་དང་། བསམ་གཏན་དང་། ཤེས་རབ་ཀྱི་སྒྲ་དང་། རྣམ་པར་གྲོལ་བའི་སྒྲ་དང་། རྣམ་པར་གྲོལ་བའི་ཡེ་ཤེས་གཟིགས་པའི་སྒྲ་རྣམས་དང་ལྡན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Furthermore, it is endowed with the sounds of ‘generosity,’ ‘discipline,’ ‘patience,’ ‘diligence,’ ‘concentration,’ ‘insight,’ ‘liberation,’ and ‘vision of the wisdom of liberation.’</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.163.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་འཇིག་རྟེན་གྱི་ཁམས་དེ་སྒྲ་དེ་ལྟ་བུ་དག་དང་ལྡན་པས་ན་དེའི་ཕྱིར་འཇིག་རྟེན་གྱི་ཁམས་དེ་སྒྲ་དང་ལྡན་ཞེས་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Prince, since that world is endowed with such sounds, it is called Resounding.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.164.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་མེ་ཏོག་དཔལ་ཞེས་བྱ་བ་ད་ལྟར་བཞུགས་ཤིང་འཚོ་ལ་གཞེས་ཏེ། བྱང་ཆུབ་<tei:ref folio="F.164.a"/>སེམས་དཔས་བསྐོར་ཅིང་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>There the thus-gone, worthy, perfect buddha Kusumaśrī resides and lives surrounded by a gathering of bodhisattvas who venerate him.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.164.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔས་མདུན་གྱིས་བལྟས་པ་ལ་ཆོས་སྟོན་ཏོ་ཞེས་བྱ་བ་ནས་རྣམ་པར་ཤེས་པ་མེད་པར་མི་འགྱུར་རོ་ཞེས་བྱ་བའི་བར་དུ་སྔ་མ་བཞིན་དུ་སྦྱར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He teaches them the same Dharma mentioned previously, up until ‘consciousness.’</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.164.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་ཡང་རུང་། དེའི་མཚན་ཐོས་ན་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལས་ཕྱིར་མི་ལྡོག་པར་འགྱུར་ཞིང་མེ་ཏོག་ལྟར་མི་དགེ་བའི་ཆོས་རྣམས་ཀྱིས་ཀྱང་གོས་པར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Any noble son or daughter who hears his name will never turn back from unsurpassed and perfect awakening and, like a flower, will be unstained by nonvirtuous phenomena.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.164.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་འདི་ནས་བྱང་ཤར་གྱི་ཕྱོགས་མཚམས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་གྲངས་མེད་པ་དེ་སྙེད་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་བདེ་ལྡན་ཞེས་བྱ་བ་ཞིག་ཡོད་དེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-32"/>“Prince, northeast of here, past countless billions of buddha realms, there is a realm called Happy .</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.164.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འབྱོར་པ་དང་། རྒྱས་པ་དང་། བདེ་བ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is affluent, thriving, and happy.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.164.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལོ་ལེགས་པ་དང་། སྐྱེ་བོ་དང་། མི་མང་པོས་གང་ཞིང་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It has good harvests and is inhabited by many people.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.164.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལག་མཐིལ་ལྟར་མཉམ་པར་གྱུར་པ་ཞེས་བྱ་བ་ནས་སྔ་མ་བཞིན་དུ་སྦྱར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is as flat as the palm of the hand and has all the other qualities described above.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.164.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་མངོན་པར་ཤེས་པ་ཆུང་ངུ་དང་། འབྲིང་དང་། ཆེན་པོས་རྣམ་པར་རོལ་པ་ཞེས་བྱ་བ་ད་ལྟར་བཞུགས་ཤིང་འཚོ་ལ་གཞེས་ཏེ། བྱང་ཆུབ་སེམས་དཔས་བསྐོར་ཅིང་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>There the thus-gone, worthy, perfect buddha Reveling in Lesser, Medium, and Higher Superknowledge resides and lives surrounded by a gathering of bodhisattvas who venerate him.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.164.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔས་མདུན་གྱིས་བལྟས་པ་ལ་ཆོས་སྟོན་ཏོ་ཞེས་བྱ་བ་ནས་རྣམ་པར་ཤེས་པ་མེད་པར་མི་འགྱུར་རོ་ཞེས་བྱ་བ་ནས་སྔ་མ་བཞིན་དུ་སྦྱར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He teaches them the same Dharma mentioned previously, up until ‘consciousness.’</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.164.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་ཡང་རུང་། དེའི་མཚན་ཐོས་ན་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལས་ཕྱིར་མི་ལྡོག་པར་འགྱུར་ཞིང་བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་དང་ཚུལ་ཐམས་ཅད་ལ་མཁས་ཤིང་ཕ་རོལ་ཏུ་ཕྱིན་པའི་ཤེས་པ་ཡང་ཡོངས་སུ་འཛིན་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Any noble son or daughter who hears his name will never turn back from unsurpassed and perfect awakening, will become skilled in all the actions and ways of bodhisattvas, and will uphold the knowledge of the perfections.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.164.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་འདི་ནས་འོག་གི་ཕྱོགས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་གྲངས་མེད་པ་དེ་སྙེད་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་ཡངས་པ་དང་ལྡན་པ་ཞེས་བྱ་བ་ཞིག་ཡོད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-33"/>“Prince, below here, past countless billions of buddha realms, there is a realm called Vast Expanse.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.164.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་དེ་ལ་ཇི་སྙམ་དུ་སེམས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Prince, what do you think?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.164.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཅིའི་ཕྱིར་འཇིག་རྟེན་གྱི་ཁམས་དེ་ཡངས་པ་དང་ལྡན་པ་ཞེས་བྱ་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Why is that world called Vast Expanse?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.164.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་གྱི་ཁམས་དེ་ལག་མཐིལ་ལྟར་མཉམ་པར་གྱུར་པ། རི་མེད་ཅིང་ཁོར་ཡུག་དང་། ཁོར་ཡུག་ཆེན་པོ་མེད་དེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is because it is as flat as the palm of the hand and it has no mountains, surrounding mountains, or great surrounding mountains.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.164.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཀྱི་ཞིང་དེ་ན་རི་ཞེས་བྱ་བའི་མིང་ཡང་<tei:ref folio="F.164.b"/>ཡེ་མེད་པས་ན་དེའི་ཕྱིར་འཇིག་རྟེན་གྱི་ཁམས་དེ་ཡངས་པ་དང་ལྡན་པ་ཞེས་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Since even the word mountain does not exist in that buddha realm, it is called Vast Expanse.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.164.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སྣང་བའི་དཔལ་ཞེས་བྱ་བ་ད་ལྟར་བཞུགས་ཤིང་འཚོ་ལ་གཞེས་ཏེ། བྱང་ཆུབ་སེམས་དཔས་བསྐོར་ཅིང་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>There the thus-gone, worthy, perfect buddha Prabhāśrī resides and lives surrounded by a gathering of bodhisattvas who venerate him.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.164.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔས་མདུན་གྱིས་བལྟས་པ་ལ་ཆོས་སྟོན་ཏོ་ཞེས་བྱ་བ་ནས་རྣམ་པར་ཤེས་པ་མེད་པར་མི་འགྱུར་རོ་ཞེས་བྱ་བའི་བར་དུ་སྔ་མ་བཞིན་དུ་སྦྱར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He teaches them the same Dharma mentioned previously, up until ‘consciousness.’</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.164.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་ཡང་རུང་། དེའི་མཚན་ཐོས་ན་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལས་ཕྱིར་མི་ལྡོག་པར་འགྱུར་ཞིང་ཉེ་བར་ལེན་པའི་ཉོན་མོངས་པ་ཐམས་ཅད་ཟད་པར་ཡང་རྗེས་སུ་འཛིན་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Any noble son or daughter who hears his name will never turn back from unsurpassed and perfect awakening and will be graced with the exhaustion of all their perpetuating afflictions.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.164.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་སངས་རྒྱས་ཀྱི་ཞིང་འདི་ནས་སྟེང་གི་ཕྱོགས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་གྲངས་མེད། དཔག་ཏུ་མེད། བསམ་གྱིས་མི་ཁྱབ། གཞལ་དུ་མེད་པ་དེ་སྙེད་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་ཟླ་བ་ཅན་ཞེས་བྱ་བ་ཞིག་ཡོད་དེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-34"/>“Prince, above here, past innumerable, unfathomable, inconceivable, and immeasurable billions of buddha realms, there is a realm called Moonlit.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.164.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་གྱི་ཁམས་ཟླ་བ་ཅན་ཞེས་བྱ་བ་དེ་སངས་རྒྱས་ཀྱི་ཞིང་དཔག་ཏུ་མེད་པ་ཇི་སྙེད་ཅིག་འདས་པ་ན་ཡོད་ཅེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>How many unfathomable buddha realms must one pass through to reach Moonlit?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.164.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་འདི་ལྟ་སྟེ། སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་འདི་སྲིད་པའི་རྩེ་མོའི་བར་དུ་བྱེ་མས་ཡོངས་སུ་གང་བར་གྱུར་ལ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Prince, it is like this. Suppose this trichiliocosm were completely filled with sand, all the way to its summits.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.164.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་མི་ལ་ལ་ཞིག་གིས་བྱེ་མ་དེ་ལས་འབྲུ་རེ་རེ་ནས་བླངས་ཤིང་སྟེང་གི་ཕྱོགས་ཀྱི་སངས་རྒྱས་ཀྱི་ཞིང་རེ་རེར་བྱེ་མ་འབྲུ་རེ་རེ་འཇོག་པར་བྱེད་པ་དེ་ལྟ་བུའི་ཚུལ་གྱིས་བྱེ་མ་དེ་ཐམས་ཅད་སྟེང་གི་ཕྱོགས་སུ་ཡོངས་སུ་ཟད་ཅིང་ཡོངས་སུ་གཏུགས་པར་གྱུར་ཀྱང་སངས་རྒྱས་ཀྱི་ཞིང་དེ་དག་གི་ཚད་དམ་མཐའ་རྟོགས་པར་མི་ནུས་པའི་སངས་རྒྱས་ཀྱི་ཞིང་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་དཔག་ཏུ་མེད་གྲངས་མེད་པ་དེ་སྙེད་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་ཟླ་བ་ཅན་ཞེས་བྱ་བ་དེ་ཡོད་དེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>If a person were to remove the sand, grain by grain, and place one grain of sand in each buddha realm above until every single grain of sand was placed in a buddha realm in that direction, one would still not have reached the extent and limit of those buddha realms. The realm Moonlit lies farther away than such unfathomable and innumerable billions of buddha realms.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.164.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་གྱི་ཁམས་དེ་ཡང་ལག་མཐིལ་ལྟར་མཉམ་པར་གྱུར་པ། རིན་པོ་ཆེ་སྣ་བདུན་གྱིས་ལེགས་པར་བརྒྱན་པ། གསེར་གྱི་ས་གཞིར་འདུག་ཅིང་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>That realm is as flat as the palm of the hand, is beautifully decorated with seven kinds of precious substances, and has a ground made of gold.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.164.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མིག་མངས་རིས་སུ་བྲིས་པ། རིན་པོ་ཆེའི་ཤིང་ལྗོན་པས་ལེགས་པར་བརྒྱན་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is laid out in a checkered pattern and ornamented with precious trees.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.165.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་དམྱལ་བ་དང་། དུད་འགྲོའི་སྐྱེ་གནས་དང་། ཡི་དགས་དང་། ལྷ་མ་ཡིན་གྱི་ཚོགས་<tei:ref folio="F.165.a"/>རྣམས་མེད་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>There are no hell beings, animals, hungry spirits, or asuras there, </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.165.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྩྭ་དང་། ཤིང་སྐམ་དང་། ཚེར་མ་དང་། རྡོ་དང་། གསེག་མ་དང་། གྱོ་མོ་དག་མེད་པ། ངམ་གྲོག་དང་། གཡང་ས་མེད་པ། མེ་ཏོག་གི་སིལ་མ་དག་བཀྲམ་པ་ཡིན་ཏེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>and it is free of grass, dried sticks, thorns, stones, pebbles, gravel, ravines, and precipices. Instead, the ground is covered in flower petals.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.165.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ནོར་དཔལ་ཞེས་བྱ་བ་ད་ལྟར་བཞུགས་ཤིང་འཚོ་ལ་གཞེས་ཏེ། བྱང་ཆུབ་སེམས་དཔས་བསྐོར་ཅིང་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-35"/>“There the thus-gone, worthy, perfect buddha Dhanaśrī resides and lives surrounded by a gathering of bodhisattvas who venerate him.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.165.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔས་མདུན་གྱིས་བལྟས་པ། རིག་པ་དང་ཞབས་སུ་ལྡན་པ། བདེ་བར་གཤེགས་པ། འཇིག་རྟེན་མཁྱེན་པ། སྐྱེས་བུ་འདུལ་བའི་ཁ་ལོ་སྒྱུར་བ་བླ་ན་མེད་པ། ལྷ་དང་མི་རྣམས་ཀྱི་སྟོན་པ། སངས་རྒྱས་བཅོམ་ལྡན་འདས་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He is learned and venerable, a blissful one, a knower of the world, a steersman who guides beings, an unexcelled one, a teacher of gods and humans, a blessed buddha.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.165.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐྱེས་བུ་ཆེན་པོའི་མཚན་སུམ་ཅུ་རྩ་གཉིས་ཀྱིས་བརྒྱན་པའི་སྐུ་གསེར་ལེགས་པར་བཙོས་ཤིང་ལེགས་པར་དུལ་བ་ལྟ་བུ་རིན་པོ་ཆེའི་རྒྱན་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>His body, which is adorned with the thirty-two marks of a great being, is like purified and refined gold adorned with precious ornaments.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.165.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལེགས་པར་བཀོད་པ་བཞིན་དུ་འཁོར་གྱི་ནང་ན་མཛེས་པར་བཞུགས་ཤིང་ཐོག་མར་དགེ་བ། བར་དུ་དགེ་བ། ཐ་མར་དགེ་བའི་ཆོས་སྟོན་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Sitting beautifully amidst the gathering, he teaches a Dharma that is virtuous in the beginning, virtuous in the middle, and virtuous in the end.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.165.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་སྐད་ཅེས་ཀྱང་སྟོན་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He teaches as follows:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.165.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་ལྟར་སའི་ཁམས་མེད་པར་མི་འགྱུར་རོ། །དེ་བཞིན་དུ་ཆུའི་ཁམས་དང་། མེའི་ཁམས་དང་། རླུང་གི་ཁམས་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>‘In this way the earth element will not become nonexistent, nor will the water element, the fire element, or the wind element.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.165.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐྱེ་དགུའི་བདག་པོ་ཚངས་པ་དང་། གཟུགས་དང་། ཚོར་བ་དང་། འདུ་ཤེས་དང་། འདུ་བྱེད་དང་། རྣམ་པར་ཤེས་པ་མེད་པར་མི་འགྱུར་རོ་ཞེས་སྟོན་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Likewise, Brahmā who is the lord of beings will not become nonexistent, and the same applies to form, feeling, perception, formation, and consciousness.’<tei:note xml:id="UT22084-059-007-150"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.165.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་ཡང་རུང་དེའི་མཚན་ཐོས་ན་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལས་ཕྱིར་མི་ལྡོག་པར་འགྱུར་ཞིང་ཆོས་རིན་པོ་ཆེ་བླ་ན་མེད་པ་ཡང་ཐོབ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Any noble son or daughter who hears his name will never turn back from unsurpassed and perfect awakening and will receive the precious and unsurpassed Dharma.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.165.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་དེ་ལྟར་ན་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་ཡང་རུང་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སྤྱོད་པ་དང་། ཡོན་ཏན་ཕུན་སུམ་ཚོགས་པ་དང་། ཡེ་ཤེས་ཕུན་སུམ་ཚོགས་པ་དང་། ཚུལ་ཁྲིམས་དང་། ཏིང་ངེ་འཛིན་དང་། ཤེས་རབ་དང་། རྣམ་པར་གྲོལ་བ་དང་། རྣམ་པར་གྲོལ་བའི་ཡེ་ཤེས་གཟིགས་པ་ཕུན་སུམ་ཚོགས་པ་དང་ལྡན་པ་དེ་དག་གི་མཚན་ཐོས་ན་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལས་ཕྱིར་མི་ལྡོག་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-36"/>“Prince, any noble son or daughter who hears the names of these thus-gone, worthy, perfect buddhas, who are endowed with perfect conduct, qualities, wisdom, discipline, absorption, insight, liberation, and the vision of the wisdom of liberation, will never turn back from unsurpassed and perfect awakening.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.165.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་སྔོན་བྱུང་བ་འདས་པའི་དུས་བསྐལ་པ་གྲངས་མེད་པ་བས་ཀྱང་<tei:ref folio="F.165.b"/>ཆེས་གྲངས་མེད་པ་ཡུན་རིང་པོ་ཚད་མེད་པ་འདས་པ་དེའི་ཚེ་རིན་ཆེན་འབྱུང་གནས་ཞེས་བྱ་བའི་བསྐལ་པ་ཞིག་བྱུང་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-37"/>“Prince, long ago in the past, eons beyond calculation and measure, there was an eon by the name of Ratnākara .</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.165.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེར་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རིག་པ་དང་ཞབས་སུ་ལྡན་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>In that eon appeared the thus-gone, worthy, perfect buddha Sāgaraśrī.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.165.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བདེ་བར་གཤེགས་པ། འཇིག་རྟེན་མཁྱེན་པ། སྐྱེས་བུ་གདུལ་བའི་ཁ་ལོ་སྒྱུར་བ། བླ་ན་མེད་པ། ལྷ་དང་མི་རྣམས་ཀྱི་སྟོན་པ། སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྒྱ་མཚོའི་དཔལ་ཞེས་བྱ་བ་ཞིག་འཇིག་རྟེན་དུ་བྱུང་སྟེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He was learned and venerable, a blissful one, a knower of the world, a steersman who guides beings, an unexcelled one, a teacher of gods and humans, a blessed buddha.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.165.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེར་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་བཅུ་པོ་འདི་དག་ཐམས་ཅད་ལྷན་ཅིག་ཏུ་འཐུན་པར་དགེ་བའི་རྩ་བ་བསྐྱེད་དེ། ཟས་དང་། སྐོམ་དང་། བཟའ་བ་དང་། བཅའ་བ་རྣམ་པ་སྣ་ཚོགས་དང་། མེ་ཏོག་དང་། སྤོས་དང་། མེ་ཏོག་ཕྲེང་བ་དང་། བྱུག་པ་དང་། གདུགས་དང་། རྒྱལ་མཚན་དང་། བ་དན་གྱི་རྣམ་པ་དཔག་ཏུ་མེད་གྲངས་མེད་པས་བཅོམ་ལྡན་འདས་དེ་ལ་མཆོད་པ་རྒྱ་ཆེན་པོ་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>At that time, these ten thus-gone, worthy, perfect buddhas came together to generate roots of virtue by making boundless and countless grand offerings of food and drink, flowers, incense, flower garlands, lotions, parasols, banners, and flags to that blessed one.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.165.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱས་ནས་ཐམས་ཅད་ཀྱིས་ལྷན་ཅིག་ཏུ་འཐུན་པར་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་སེམས་བསྐྱེད་དེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Thereby all of them together generated the mind set upon unsurpassed and perfect awakening.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.165.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐམས་ཅད་ཀྱིས་ཉི་མ་གཅིག་ཏུ་སྐད་ཅིག་ཐང་ཅིག་ཡུད་ཙམ་གཅིག་ལ་མི་སྐྱེ་བའི་ཆོས་ལ་བཟོད་པ་ཐོབ་པར་གྱུར་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Then, one day, at precisely the same moment, they all achieved acceptance that phenomena are unborn.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.165.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་དེ་དག་གིས་རིམ་གྱིས་བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་སྤྱད་ནས། བྱང་ཆུབ་ཀྱི་ཕྱོགས་དང་འཐུན་པའི་ཆོས་རྣམས་ཡོངས་སུ་རྫོགས་པར་བྱས་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Thereafter they gradually engaged in bodhisattva conduct and mastered the factors that are conducive for awakening.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.165.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐད་ཅིག་ཐང་ཅིག་ཡུད་ཙམ་གཅིག་ལ་རང་རང་གི་སངས་རྒྱས་ཀྱི་ཞིང་རྣམས་སུ་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Then, at precisely the same moment, they all attained unsurpassed and perfect awakening in each of their respective buddha realms.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.165.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐད་ཅིག་ཐང་ཅིག་ཡུད་ཙམ་གཅིག་ལ་དེ་དག་གིས་ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>At precisely the same moment, they all turned the wheel of Dharma.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.165.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐམས་ཅད་ཀྱི་ཚེའི་ཚད་ཀྱང་མཉམ་མོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They even enjoyed the same lifespan.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.165.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་དེ་དག་ཐམས་ཅད་ཀྱང་ཉི་མ་གཅིག་ཏུ་སྐད་ཅིག་ཐང་ཅིག་ཡུད་ཙམ་གཅིག་ལ་ཡོངས་སུ་མྱ་ངན་ལས་འདའ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Prince, these thus-gone, worthy, perfect buddhas will also one day enter into complete nirvāṇa at precisely the same moment.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.165.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལ་རྒྱལ་པོ་གཟུགས་ཅན་སྙིང་པོའི་སྲས་ཁྱེའུ་རིན་ཆེན་ཟླ་བས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Blessed One, the lifespan of those thus-gone, worthy, perfect buddhas is amazing!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.166.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་<tei:ref folio="F.166.a"/>བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་དེ་དག་གི་སྐུ་ཚེའི་ཚད་ནི་ངོ་མཚར་ལགས་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Blessed One, out of compassion for sentient beings, those thus-gone ones intentionally live such long lives.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.166.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དེ་དག་གིས་ནི་སེམས་ཅན་རྣམས་ལ་ཐུགས་བརྩེ་བའི་སླད་དུ་སྐུ་ཚེའི་ཚད་དེ་ཙམ་དུ་རིང་བ་གཞེས་ལགས་སོ། །བཅོམ་ལྡན་འདས་གཞན་ཡང་རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་གང་དེ་བཞིན་གཤེགས་པ་དེ་རྣམས་ཀྱི་སྐུ་ཚེའི་ཚད་འདི་ལ་དེ་བཞིན་དུ་འཛིན་ཅིང་ཡིད་ཆེས་ལ་སྤོང་བར་མི་བགྱིད། འདོར་བར་མི་བགྱིད་པ་དེ་ལ་བསོད་ནམས་ཇི་ཙམ་སྐྱེ་བར་འགྱུར་ལགས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Blessed One, how much merit will noble sons or daughters generate if they keep the lifespan of those thus-gone ones in mind and trust in it without disregarding it or ignoring it?”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.166.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-39"/>The Buddha replied,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.166.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་འདི་དང་། དེ་བཞིན་གཤེགས་པ་བཅུ་པོ་དེ་དག་གི་སངས་རྒྱས་ཀྱི་ཞིང་དེ་དག་དང་། སངས་རྒྱས་ཀྱི་ཞིང་བཅུ་པོ་རྣམས་ལྷའི་རིན་པོ་ཆེ་སྣ་བདུན་གྱིས་ཡོངས་སུ་བཀང་ནས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམས་ལ་ཉིན་གཅིག་བཞིན་དུ་སྦྱིན་པ་བྱིན་ཏེདེ་ལྟ་བུར་བསྐལ་པ་གྲངས་མེད་པར་སྦྱིན་པ་སྦྱིན་པར་བྱེད་ལ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Prince, one could fill up this entire trichiliocosm, along with the buddha realms of these ten thus-gone ones and the other buddha realms in the ten directions, with the seven precious substances of the gods and make daily offerings of them to the thus-gone, worthy, perfect buddhas, continuing this daily offering for countless eons.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.166.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་གིས་མཚན་འདི་རྣམས་དང་། སྐུ་ཚེའི་ཚད་འདི་རྣམས་ཐོས་ནས་དེ་བཞིན་དུ་འཛིན་ཅིང་ཡིད་ཆེས་ལ་སྤོང་བར་མི་བྱེད། སྨོད་པར་མི་བྱེད་དེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>On the other hand, a noble son or daughter who has heard about the names and lifespan of these buddhas may keep them faithfully in mind without disregarding or disrespecting them and instead trust and agree with them.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.166.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མོས་པར་བྱེད་ཅིང་འཐུན་པར་བྱེད་ན་བསོད་ནམས་ཀྱི་ཕུང་པོ་སྔ་མ་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>For that person the heap of merit accrued is far greater than that gathered by the former person.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.166.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེས་བསོད་ནམས་ཀྱི་ཕུང་པོ་དེའི་བརྒྱའི་ཆར་ཡང་མི་ཕོད། སྟོང་གི་ཆ་དང་། དཔེའི་བར་དུ་ཡང་མི་བཟོད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The former does not gather even a hundredth or a thousandth of that. It is, in fact, beyond the scope of illustration.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.166.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་ལྷ་རྣམས་ཀྱི་དབང་པོ་བརྒྱ་བྱིན་དང་། མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པ་དང་། རྒྱལ་པོ་ཆེན་པོ་བཞི་དང་། ལྷའི་བུ་དབང་ཕྱུག་དང་། དབང་ཕྱུག་ཆེན་པོ་དང་། དཔལ་ལྡན་ལེགས་དང་། དགའ་ལྡན་དང་། ལྷའི་བུ་ཡོངས་སུ་དགའ་ལྡན་གྱིས་འདི་ལྟར་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་དང་། དེ་བཞིན་གཤེགས་པ་བཅུ་པོ་དེ་རྣམས་ལ་མཆོད་པ་བྱ་བའི་ཕྱིར་དེ་བཞིན་གཤེགས་པ་ལ་ལྷའི་མེ་ཏོག་དང་། ཙན་དན་གྱི་ཕྱེ་མས་གཏོར། མངོན་པར་གཏོར། མངོན་པར་རབ་ཏུ་གཏོར་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-40"/>Then, in order to venerate this teaching and the ten thus-gone ones, Śakra king of the gods, Brahmā lord of the Enduring world, the Four Great Kings, and the divine sons Īśvara, Maheśvara, Glorious Fortune, Tuṣita, and Santuṣita scattered divine flowers and sandalwood powder upon the Thus-Gone One.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.166.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚིག་འདི་སྐད་ཅེས་ཀྱང་སྨྲས་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Then they spoke these words:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.166.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་གང་དག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་འཛིན་པ་དང་། <tei:ref folio="F.166.b"/>འཆང་བ་དང་། ཀློག་པ་དང་། རྗོད་པར་བགྱིད་པ་དེ་དག་ནི་ཕྱག་བགྱི་བའི་འོས་ལགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Blessed One, any noble son or daughter who retains, carries, reads, and recites this teaching is worthy of reverence.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.166.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཐ་ན་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་གང་དག་གིས་སུག་པ་ན་མཆིས་པ་དེ་དག་ནི་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལས་ཕྱིར་མི་ལྡོག་པར་འགྱུར་བ་ལགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Blessed One, merely holding this teaching in their hand, they will never turn back from unsurpassed and perfect awakening.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.166.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་གང་དག་གི་རྣ་ལམ་དུ་གྲགས་པར་འགྱུར་བ་དེ་དག་ནི་བདུད་སྡིག་ཅན་གྱི་དབང་དུ་མཆིས་པར་མི་འགྱུར་ལགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Blessed One, any noble son or daughter who hears this teaching will not fall under the sway of the evil Māra.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.166.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ལ་རྒྱལ་པོ་གཟུགས་ཅན་སྙིང་པོའི་སྲས་ཁྱེའུ་རིན་ཆེན་ཟླ་བས་ཚིགས་སུ་བཅད་པས་གསོལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-41"/>At that point Prince Ratna­candra, son of King Bimbisāra, addressed the following verses to the Blessed One:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.166.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕུང་པོ་མེད་པ་བཅོམ་ལྡན་འདས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-42"/>“Blessed One, you are beyond the aggregates!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.166.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཁྱོད་ཀྱིས་ལེགས་གསུངས་དཔག་ཏུ་མེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Your eloquent teachings are beyond measure.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.166.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བདག་དང་ལྷར་བཅས་འཇིག་རྟེན་རྣམས། །ཁྱོད་ཀྱིས་འདི་ལ་ཡི་རང་ངོ་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>I and the entire world, along with its gods, Rejoice in the teachings you have given.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.166.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་མགོན་པོ་འདས་པ་ན། །གང་དག་ད་དུང་མ་བྱོན་དང་། །ཕྱོགས་རྣམས་མ་ལུས་གང་བཞུགས་པའི། །སངས་རྒྱས་རྣམས་ལ་སྐྱབས་སུ་མཆིས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-43"/>“We take refuge in the world protectors Who have passed, who are yet to come, And in the buddhas who are present, Residing in all directions.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.166.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་རྣམས་ཀྱི་ཡུལ་གཅིག་པ། །ཆོས་དང་དགེ་འདུན་ཞི་བའི་མཆོག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-44"/>“Of common purpose with all the buddhas, The Dharma and Saṅgha are the utmost peace.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.166.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡོན་ཏན་ལེགས་པར་བསམ་མི་ཁྱབ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Their perfect qualities are inconceivable.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.166.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དགེ་འདུན་ལ་ཡང་སྐྱབས་སུ་མཆིས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>We take refuge in the Saṅgha too.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.166.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་འཇིགས་པ་མེད། །གང་དག་བཟོད་ལ་རབ་གནས་ཤིང་། །གང་དག་གཟུངས་ལ་གནས་པ་དང་། །གང་དག་མཚུངས་མེད་སྟོང་ཉིད་ཚུལ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-45"/>“The fearless bodhisattvas Are stable in patience, Grounded in recall, And maintain incomparable emptiness.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.166.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མཚན་ཉིད་ཀྱི་ནི་མདོ་སྡེ་དང་། །བྱང་ཆུབ་རྒྱུར་འགྱུར་སྡེ་སྣོད་དང་། །འཐུན་པར་འཇུག་པའི་མདོ་སྡེ་ལ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-46"/>“These bodhisattvas train well In the sūtras of characteristics, The scriptures that lead to awakening, And the sūtras that conform to both.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.166.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལེགས་བསླབས་བྱང་ཆུབ་སེམས་རྣམས་ལྟར། །ཐུབ་པ་བདག་ནི་བྱང་ཆུབ་ཀྱི། །སྤྱད་པ་སྤྱོད་ཅིང་སློབ་པར་འཚལ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-47"/>“Sage, like them, we too wish to train In the conduct of awakening.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.166.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རང་བྱུང་དེ་དག་ཇི་བཞིན་དུ། །ཞིང་གི་བཀོད་པ་རྣམ་དག་དང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>You have taught about those naturally arisen ones, The pure arrangement of their realms,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.166.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྤྱོད་དང་སྤྱོད་ཡུལ་ཏིང་འཛིན་དང་། །དེ་དག་གི་ནི་ཡོན་ཏན་དང་། །དྲང་སྲོང་མཆོག་རྣམས་སྐུ་ཚེའི་ཚད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-48"/>“And their practices, domains, and absorptions, As well as their qualities And the lifespan of these supreme sages.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.166.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གསུངས་པ་གང་ལགས་རྫོགས་པར་བགྱི། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Now I too will accomplish these qualities.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.166.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ལྷའི་བུ་དེ་དག་དང་། རིན་ཆེན་ཟླ་བ་གཞོན་ནུར་གྱུར་པ་ལ་ལེགས་སོ་ཞེས་བྱ་བ་བྱིན་ནས་ཚིགས་སུ་བཅད་པ་འདི་དག་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-49"/>Then the Blessed One commended the gods and Ratna­candra, and addressed them with the following verses:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.167.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་མགོན་པོ་དེ་རྣམས་ཀྱི། །མཚན་ནི་གང་ཞིག་<tei:ref folio="F.167.a"/>འཛིན་བྱེད་པ། །མ་འོངས་དུས་ན་དེ་དག་ཀུན། །རྐང་གཉིས་རྣམས་ཀྱི་མཆོག་ཏུ་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-50"/>“All who recall the names Of these protectors of the world Will, in future times, Become supreme among humans.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.167.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ང་ཡིས་ཇི་སྐད་གསུངས་པ་བཞིན། །དྲང་སྲོང་མཆོག་བཞུགས་དེ་དག་ལྟར། །དེ་དག་ཚེ་ཡང་བསྐལ་པ་ནི། །བྱེ་བ་བསམ་ཡས་སྙེད་དུ་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-51"/>“They too will live For inconceivably many millions of eons, Like the lifespan of these supreme sages, Which I have just described.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.167.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་ཞིག་སྐྱོབ་པ་དེ་དག་གི ། མཚན་འདི་དག་ནི་འཛིན་འདི་ལ། །མེ་དང་ཆོམ་རྐུན་དུག་རྣམས་དང་། །མཚོན་གྱིས་ཚུགས་པར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-52"/>“Those who recall the names Of these protectors Will be unharmed by fire, bandits, Poison, and weapons.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.167.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མཚན་འདི་དག་ནི་འཛིན་བྱེད་ན། །ཆུ་ཆེན་དག་གིས་དེ་མི་འཆི། །རྒྱལ་པོའི་གནོད་པས་མ་ཡིན་ཏེ། །དེ་ནི་ནམས་ཀྱང་ཆོས་མི་སྤོང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-53"/>“Whoever recalls the names of these buddhas Will never drown in rivers, Will never be subject to royal punishment, And will never forsake the Dharma.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.167.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མཚན་མོ་ཐུན་ཚོད་དང་པོ་དང་། །གུང་དང་ཐ་མའང་དེ་བཞིན་ཏེ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>In the first watch of the night And in the middle and last watches as well.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.167.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དུས་གསུམ་དག་ཏུ་མཚན་སྒྲོགས་དང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-54"/>“Recite these names at three times:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.167.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དྲང་སྲོང་མཆོག་ནི་དེ་དག་གི། །མཚན་རྣམས་སྔ་དྲོ་སྒྲོགས་བྱེད་ཅིང་། །ཉི་མའི་གུང་ལ་སྒྲོགས་བྱེད་དང་། །མཁས་པ་ནུབ་ཀར་སྒྲོགས་བྱེད་པ། །རྨི་ལམ་བཟང་པོ་མཐོང་བར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Wise ones who recite the names <tei:milestone xml:id="UT22084-059-007-55"/>“Of these supreme sages In the morning, at noon, And in the evening Will have good dreams.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.167.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མཚན་རྣམས་བཟུང་ནས་དེ་འོག་ཏུ། །བསྐལ་པ་བྱེ་བ་སྟོང་རྣམས་སུ། །སྔོན་ཆད་སྡིག་པ་ཅི་བསགས་པ། །མི་དགེ་ཐམས་ཅད་བཤགས་པར་བྱ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-56"/>“Next, having recalled these names, One must confess all the negative deeds One has committed Over the course of billions of eons.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.167.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ཡིས་ལུས་ངག་ཡིད་ཀྱི་ལས། །མི་དགེ་གང་དག་བྱས་གྱུར་ན། །མཚན་རྣམས་བཟུང་ནས་དེ་འོག་ཏུ། །ཉེས་བྱས་དེ་ཡང་བཤགས་པར་བྱ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-57"/>“Any negative deed committed By way of body, speech, and mind After one has recalled these names Must also be confessed.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.167.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡན་ལག་ལྔ་ཡིས་གཏུགས་ནས་ནི། །རྒྱལ་རྣམས་བྱང་ཆུབ་སྔོན་རོལ་དུ། །དུས་གསུམ་དགེ་བ་ཅི་བསགས་པ། །དེ་ཀུན་རྗེས་སུ་ཡི་རང་བྱ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-58"/>“Touching one’s five points to the ground, One should rejoice in the merit Of all the wholesome deeds accumulated By the victors prior to awakening.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.167.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་རྩ་ལག་རྣམས་ཀྱིས་ནི། །བྱང་ཆུབ་བརྙེས་ནས་ཆོས་གསུངས་དང་། །ལུས་ཅན་གང་དག་འཇིག་རྟེན་གྱི། །མགོན་པོ་རྣམས་ལ་མཆོད་བྱེད་པ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-60"/>“Having attained awakening, The kinsmen of the world taught the Dharma, And all beings made offerings To the protectors of the world.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.167.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ལ་རྒྱལ་བའི་སྲས་རྣམས་ཀྱིས། །ཉིན་མཚན་དུས་གསུམ་ཡི་རང་བྱ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-61"/>“The children of the victors should rejoice in them Three times during the day and night.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.167.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེས་ན་བདག་གཞན་དོན་བྱེད་པའི། །ཕ་རོལ་ཕྱིན་པ་རྫོགས་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>In this way the perfections that benefit self and others Shall be accomplished.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.167.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-62"/>When the Blessed One had spoken these words,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.167.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྒྱལ་པོ་གཟུགས་ཅན་སྙིང་པོའི་སྲས་ཁྱེའུ་རིན་ཆེན་ཟླ་བ་དང་། བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་དང་། དགེ་སློང་དེ་དག་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་བཅོམ་ལྡན་འདས་ཀྱིས་<tei:ref folio="F.167.b"/>གསུངས་པ་ལ་ཡི་རངས་ཏེ་མངོན་པར་བསྟོད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>the youth Ratna­candra, son of King Bimbisāra, along with all the bodhisattvas, monks, gods, humans, asuras, and gandharvas, rejoiced in the Buddha’s teaching and offered praise. </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.167.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཕགས་པ་རིན་ཆེན་ཟླ་བས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།། །།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>This completes the noble Great Vehicle sūtra “ The Questions of Ratna­candra .”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.167.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་བི་ཤུདྡྷ་སིང་ཧ་དང་། ལོཙྪ་བ་བནྡེ་དགེ་བ་དཔལ་གྱིས་བསྒྱུར། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-007-63"/>The Indian scholar Viśuddha­siṃha and the translator Venerable Gewa Pal translated this.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.167.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་པིདྱཱ་ཀ་ར་སིདྷ་དང་། ཞུ་ཆེན་གྱི་ལོཙྪ་བ་བནྡེ་དེ་བ་ཙན་དྲས་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Later, the Indian scholar Vidyākara­siṃha and the editor-translator monk Devacandra edited and finalized it.</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>
