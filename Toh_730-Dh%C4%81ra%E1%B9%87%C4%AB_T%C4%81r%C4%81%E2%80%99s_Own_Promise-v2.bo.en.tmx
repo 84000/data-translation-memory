@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="XML aligned text" eft:text-id="UT22084-094-007" eft:text-version="1.1.8 2021"/>
+<body>
+<tu>
+            <prop name="folio">F.222.b</prop>
+            <eft:flag type="alternateSource"/>
+	<tuv xml:lang="bo">
+                <seg>!ན་མོ་རཏྣ་ཏྲ་ཡཱ་ཡ། ན་མ་ཨཱརྱཱ་ཝ་ལོ་ཀི་ཏེ་ཤྭ་རཱ་ཡ། བོ་དྷི་སཏྭཱ་ཡ། མ་ཧཱ་སཏྭཱ་ཡ། མ་ཧཱ་ཀཱ་རུ་ཎི་ཀཱ་ཡ། ཏདྱ་ཐཱ། ཨོཾ་ཏཱ་རེ་ཏུཏྟ་རེ་ཏུ་རེ་སརྦ་དུཥྚ་པྲ་དུཥྚཾ་མ་མ་ཀྲྀ་ཏེ་ཛཾ་བྷ་ཡ་སྟཾ་བྷ་ཡ། མོ་ཧ་ཡ། བནྡྷ་ཡ། ཧཱུྃ་ཧཱུྃ་ཧཱུྃ། ཕཊ་ཕཊ་ཕཊ། སརྦ་དུཥྚ་སྟཾ་བྷ་ནི་ཏཱ་རེ་སྭཱ་ཧཱ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>tad yathā | oṁ tāre tārāyai hūṁ hūṁ hūṁ samaya­sthite bhara bhara sarvābharaṇa­vibhūṣite padme padme<tei:note xml:id="UT22084-094-007-22"/> mahā­padmāsana­sthite hasa hasa trailokyavarade sarva­deva­dānava­pūjite smarāhi bhagavati tāre smarāhi bhagavatas<tei:note xml:id="UT22084-094-007-23"/> tathāgatasya purataḥ samayaṃ dhara dhara mahā­sattvāvalokite maṇi­kanaka­vicitrābharaṇe | oṁ vilokāya (insert name)<tei:note xml:id="UT22084-094-007-24"/>bhagavati<tei:note xml:id="UT22084-094-007-25"/> tāre hrīṁ hrīṁ hrīṁ phaṭ svāhā |<tei:note xml:id="UT22084-094-007-26"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.222.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཕགས་མ་སྒྲོལ་མའི་གཟུངས་རྫོགས་སོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-007-30"/>This concludes the noble dhāraṇī “Tārā’s Own Promise.”</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>
