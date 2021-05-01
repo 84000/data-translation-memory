@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="XML aligned text" eft:text-id="UT22084-094-006" eft:text-version="1.1.4 2021"/>
+<body>
+<tu>
+            <prop name="folio">F.222.a</prop>
+	<tuv xml:lang="bo">
+                <seg>[V94]<tei:ref folio="F.222.a"/>དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-006-19"/>Homage to the Three Jewels!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.222.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ན་མོ་རཏྣ་ཏྲ་ཡཱ་ཡ། ན་མ་ཨཱརྱཱ་ཝ་ལོ་ཀི་ཏེ་ཤྭ་རཱ་ཡ། བོ་དྷི་སཏྭཱ་ཡ། མ་ཧཱ་སཏྭཱ་ཡ། མ་ཧཱ་ཀཱ་རུ་ཎི་ཀཱ་ཡ། ཏདྱ་ཐཱ། ཨོཾ་ཏཱ་རེ་ཏུཏྟ་རེ་ཏུ་རེ་སརྦ་དུཥྚ་པྲ་དུཥྚཾ་མ་མ་ཀྲྀ་ཏེ་ཛཾ་བྷ་ཡ་སྟཾ་བྷ་ཡ། མོ་ཧ་ཡ། བནྡྷ་ཡ། ཧཱུྃ་ཧཱུྃ་ཧཱུྃ། ཕཊ་ཕཊ་ཕཊ། སརྦ་དུཥྚ་སྟཾ་བྷ་ནི་ཏཱ་རེ་སྭཱ་ཧཱ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-006-22"/>namo ratna­trayāya | nama āryāvalokiteśvarāya bodhisattvāya mahā­sattvāya mahā­kāruṇikāya |<tei:note xml:id="UT22084-094-006-23"/> <tei:milestone xml:id="UT22084-094-006-24"/>tad yathā | oṁ tāre tuttāre<tei:note xml:id="UT22084-094-006-25"/> ture sarva­duṣṭa­praduṣṭān mama kṛte jambhaya stambhaya mohaya bandhaya hūṁ hūṁ hūṁ phaṭ phaṭ phaṭ sarva­duṣṭa­stambhani tāre svāhā |<tei:note xml:id="UT22084-094-006-26"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.222.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཕགས་མ་སྒྲོལ་མའི་གཟུངས་རྫོགས་སོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-006-27"/>This concludes “The Noble Dhāraṇī of Tārā.”</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>
