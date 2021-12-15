@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="XML aligned text" eft:text-id="UT22084-094-007" eft:text-version="1.1.8 2021"/>
+<body>
+<tu>
+            <prop name="folio">F.222.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཕགས་མ་སྒྲོལ་མ་རང་གིས་དམ་བཅས་བ་ཅེས་བྱ་བའི་གཟུངས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Noble Dhāraṇī Tārā’s Own Promise</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.222.b</prop>
+	<tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.222.b"/>འཕགས་མ་སྒྲོལ་མ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-007-17"/>Homage to Noble Tārā!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.222.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་སྒྲོལ་མ་རང་གིས་དམ་བཅས་པའི་གཟུངས་སྨྲས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-007-21"/>Tārā proclaimed The Dhāraṇī “Tārā’s Own Promise”:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.222.b</prop>
+            <eft:flag type="alternateSource"/>
+	<tuv xml:lang="bo">
+                <seg>!ཏདྱ་ཐཱ། ཨོཾ་ཏཱ་རེ་ཏཱ་རཱ་ཡཻ། ཧཱུྃ་ཧཱུྃ་ཧཱུྃ། ས་མ་ཡསྠི་ཏེ། བྷ་ར་བྷ་ར། སརྦཱ་བྷ་ར་ཎ། བི་བྷཱུ་ཥི་ཏེ། པདྨ་ནི་པདྨ། མ་ཧཱ་པདྨ། ཨཱ་ས་ན་སྠི་ཏེ། ཧ་ས་ཧ་ས། ཏྲཻ་ལོ་ཀྱ་བ་ར་དེ། སརྦ་དེ་བ་དཱ་ན་པ། བཱུ་ཛི་ཏེ་སྨ་དཱ་ཧི། བྷ་ག་བ་ཏི་ཏཱ་རེ། སྨ་རཱ་ཧཱི། བྷ་ག་བཱཾ་ཏ། ཏ་ཐཱ་ག་ཏ་སྱ། པུ་ར་ཏཿས་མ་ཡཾ། དྷ་ར་དྷ་ར། མ་ཧཱ་སཏྭ་ཨ་བ་ལོ་ཀི་ཏེ། མ་ཎི་ཀ་ནི་ཀ། བི་ཙི་ཏྲཱ་བྷ་ར་ཎེ། ཨོཾ་བི་ལོ་ཀཱ་ཡ། ཆེ་གེ་མོ། བྷ་ག་བ་ཏེ་ཏཱ་རེ། ཧྲཱིཾ་ཧྲཱིཾ་ཧྲཱིཾ་ཕཊ་སྲཱ་ཧཱ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>tad yathā | oṁ tāre tārāyai hūṁ hūṁ hūṁ samaya­sthite bhara bhara sarvābharaṇa­vibhūṣite padme padme<tei:note xml:id="UT22084-094-007-22"/> mahā­padmāsana­sthite hasa hasa trailokyavarade sarva­deva­dānava­pūjite smarāhi bhagavati tāre smarāhi bhagavatas<tei:note xml:id="UT22084-094-007-23"/> tathāgatasya purataḥ samayaṃ dhara dhara mahā­sattvāvalokite maṇi­kanaka­vicitrābharaṇe | oṁ vilokāya (insert name)<tei:note xml:id="UT22084-094-007-24"/>bhagavati<tei:note xml:id="UT22084-094-007-25"/> tāre hrīṁ hrīṁ hrīṁ phaṭ svāhā |<tei:note xml:id="UT22084-094-007-26"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.222.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཟུངས་སྔགས་འདི་ཡིད་ཀྱིས་དྲན་པ་ཙམ་གྱིས་འཇིགས་པ་ཐམས་ཅད་སེལ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-007-27"/>By merely recalling this dhāraṇī all dangers will be eliminated,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.222.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དངོས་གྲུབ་ཐམས་ཅད་ཐོབ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>all accomplishments will be attained,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.222.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་ཐམས་ཅད་དབང་དུ་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>and all sentient beings will be brought under control. </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.222.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དཀར་པོའི་ཚེས་བརྒྱད་དམ་བཅྭ་ལྔ་ལ་འཕགས་མ་སྒྲོལ་མ་ལ་མཆོད་པ་ཆེན་པོ་བྱས་ཏེ། སྒྲོལ་མ་མངོན་སུམ་དུ་མཐོང་གི་བར་དེ་ཙམ་དུ་བཟླས་པར་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>On the eighth or fifteenth day of the moon, make vast offerings to Noble Tārā and then recite this dhāraṇī until you perceive Tārā directly.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.222.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་འདོད་པ་དེ་སྦྱིན་ནོ། །མཆོག་ཐམས་ཅད་སྟེར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Whatever you desire will be given, and all boons will be granted.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.222.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མ་བྱིན་ན་བདག་གིས་མཚམས་མེད་པ་ལྔ་བྱས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>If this does not happen, it means that you had committed the five acts with immediate retribution.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.222.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞན་ཡང་ཕན་ཡོན་དཔག་ཏུ་མེད་པ་འབྱུང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Indeed, immeasurable benefits will come.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.222.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྡོ་རྗེ་མཆོག་གི་རྒྱུད་ལས་བཏུས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-007-29"/>This was extracted from The Supreme Vajra Tantra.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.222.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཕགས་མ་སྒྲོལ་མ་རང་གིས་དམ་བཅས་པའི་གཟུངས་རྫོགས་སོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-007-30"/>This concludes the noble dhāraṇī “Tārā’s Own Promise.”</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>
