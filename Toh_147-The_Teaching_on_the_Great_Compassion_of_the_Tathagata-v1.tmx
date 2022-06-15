@@ -12625,7 +12625,7 @@
 </tu>
 <tu>
             <prop name="folio">F.184.a</prop>
-            <eft:flag type="alternateSource"/>
+            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
 	<tuv xml:lang="bo">
                 <seg>!དེ་ནས་བཅོམ་ལྡན་འདས་ཙན་དན་ཁྱིམ་དེ་བཞིན་གཤེགས་པས་ཐུགས་རྗེ་ཆེན་པོ་ལ་ལྟ་བས་ཡོངས་སུ་སྐྱོ་བ་ཞེས་བྱ་བའི་ཏིང་ངེ་འཛིན་ལ་སྙོམས་པར་ཞུགས་ནས་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པ་བསྟན་ཏོ། །</seg>
             </tuv>

@@ -1,0 +1,1306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="XML aligned text" eft:text-id="UT22084-072-028" eft:text-version="1.0.7 2022"/>
+<body>
+<tu>
+            <prop name="folio">F.254.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དགའ་བོ་རབ་ཏུ་བྱུང་བའི་མདོ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Sūtra of Nanda’s Going Forth</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.254.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐམས་ཅད་མཁྱེན་པ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-028-33"/>Homage to the Omniscient One.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.254.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-028-35"/>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.254.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་སེར་སྐྱའི་གནས་ཀྱི་ནྱ་གྲོ་དྷའི་ཀུན་དགའི་ར་བ་ན་བཞུགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Blessed One was staying in Banyan Grove near Kapilavastu.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.254.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་སྔ་དྲོ་ཆོས་གོས་དང་ཤམ་ཐབས་མནབས་ཏེ། ལྷུང་བཟེད་བསྣམས་ནས་ཕྱི་བཞིན་འབྲང་བའི་དགེ་སྦྱོང་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་དང་། སེར་སྐྱའི་གནས་སུ་བསོད་སྙོམས་ལ་གཤེགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>One morning he put on his upper and lower robes, took his alms bowl, and went to Kapilavastu for alms, attended by the śramaṇa Venerable Ānanda.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.254.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་རིགས་ཀྱི་བུ་དགའ་བོའི་ཁྱིམ་ག་ལ་བ་དེར་གཤེགས་པ་དང་། རིགས་ཀྱི་བུ་དགའ་བོས་བཅོམ་ལྡན་འདས་རྒྱང་རིང་པོ་ནས་གཤེགས་པ་མཐོང་ངོ་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Blessed One approached the house of the noble son, Nanda. Nanda saw from afar that the Blessed One was coming.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.254.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མཐོང་ནས་ཀྱང་རིངས་པ་རིངས་པར་བཅོམ་ལྡན་འདས་ཀྱི་ཆེད་དུ་གདན་བཤམས་ནས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Having seen this, he quickly arranged a seat for him and said,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.254.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཚུར་གཤེགས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Do come inside, Blessed One!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.254.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་གཤེགས་པ་ལེགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Welcome, Blessed One!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.254.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་གདན་བཤམས་པ་ལ་བཞུགས་སུ་གསོལ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Please take a seat, Blessed One!”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.254.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་བཞུགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-028-36"/>The Blessed One took a seat.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.254.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་རིགས་ཀྱི་བུ་དགའ་བོས་བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་གཉིས་ལ་ཕྱག་འཚལ་ཏེ། བཅོམ་ལྡན་འདས་ཀྱི་སྤྱན་སྔར་འདུག་གོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Then Nanda, the noble son, prostrated at the Blessed One’s feet and sat down in front of him.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་རིགས་ཀྱི་བུ་དགའ་<tei:ref folio="F.255.a"/>བོ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-028-37"/>The Blessed One asked Nanda, the noble son, </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགའ་བོ་ཅིའི་ཕྱིར་རབ་ཏུ་མི་འབྱུང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Nanda, why do you not go forth?”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགའ་བོས་གསོལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Nanda responded,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་རབ་ཏུ་འབྱུང་བ་ཞེས་བྱ་བའི་ཚིག་གི་དོན་ཅི་ལགས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Blessed One, please explain what is meant by the words going forth.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-028-39"/>The Blessed One replied as follows:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྡིག་པ་ཐམས་ཅད་ཡོངས་སུ་སྤོང་བ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-028-40"/>“It is the complete avoidance of all sinful deeds.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འདོད་ཆགས་དང་། ཞེ་སྡང་དང་། གཏི་མུག་རབ་ཏུ་སེལ་བ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the perfect elimination of desire, anger, and ignorance.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཐབ་པ་དང་། ཐབ་མོ་དང་། མཚང་འདྲུ་བ་དང་། རྩོད་པ་དང་། འགྱེད་པ་དང་། སྒྱུ་དང་། གཡོའི་མུན་པས་བསྡུས་པའི་དྲི་མ་ཐམས་ཅད་འཁྲུ་བ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the cleansing of all defilements that gather in the darkness of fighting, battle, blaming, quarreling, disputation, deception, and dishonesty.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལོ་ཏོག་ཐམས་ཅད་ཀྱི་ས་གཞི་ལྟ་བུར་ཡོན་ཏན་ཐམས་ཅད་ཀྱི་གཞི་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the basis of all virtues, just as fertile soil is the basis of all grains.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རིན་པོ་ཆེ་ཐམས་ཅད་ཀྱི་འབྱུང་གནས་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the source of all precious things.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བདེ་བ་ཐམས་ཅད་ཀྱི་ཡིད་བཞིན་གྱི་ནོར་བུ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the wish-fulfilling gem of all happiness.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡོན་ཏན་ཐམས་ཅད་ཀྱི་གོ་འཕང་གི་གནས་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the exalted abode of all virtues.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་ཐམས་ཅད་དབུགས་འབྱིན་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what gives relief to all sentient beings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འབྱུང་པོ་ཐམས་ཅད་ཀྱི་ཡིད་བརྟན་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the confidence of all beings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྲོག་ཆགས་ཐམས་ཅད་ལ་མི་འཇིགས་པ་སྦྱིན་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what grants fearlessness to all living creatures.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་དབུལ་པོ་ཐམས་ཅད་ཀྱི་བུམ་པ་བཟང་པོ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the excellent vase for all beings who are poor.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐྱབས་མེད་པ་རྣམས་ཀྱི་དཔུང་གཉེན་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the defense for those who are defenseless.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཀུན་དུ་ཚོལ་བས་ཕོངས་པ་དང་སྡུག་བསྔལ་གྱིས་ཉམ་ཐག་པ་རྣམས་ཀྱི་བསྟི་ས་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the resting place for those exhausted by aimless longing and tormented by suffering.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཐམས་ཅད་ཀྱི་མ་འདྲེས་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the distinctive feature of all buddhas.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་ཐམས་ཅད་ཀྱིས་མཆོད་པར་བྱ་བ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the object of worship of all sentient beings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མཁས་པ་རྣམས་ཀྱིས་བསྔགས་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what the wise ones praise.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐར་པར་འགྲོ་བ་རྣམས་ཀྱི་ལམ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the path for those proceeding toward liberation.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་དག་པ་རྣམས་ཀྱི་བསྙེན་པར་བྱ་བ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what pure sentient beings revere.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྣོད་དུ་གྱུར་པ་རྣམས་ཀྱིས་བསྟེན་པར་བྱ་བ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what is adhered to by those sentient beings who are suitable vessels.<tei:note xml:id="UT22084-072-028-42"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ངན་སོང་གི་སྒོ་གཅོད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what closes the gate to rebirth in lower states of existence.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མཐོ་རིས་དང་ཐར་པའི་སྒོ་འབྱེད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what opens the gate to higher states of existence and liberation.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྷའི་འགྲོ་བ་རྣམས་ཀུན་དུ་འགེངས་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what fills up the realm of divine beings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྡུག་བསྔལ་ཐམས་ཅད་ཀུན་དུ་གཅོད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the dispeller of all sufferings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྲེད་པའི་འཆིང་བས་བཅིངས་པ་རྣམས་རྣམ་པར་གྲོལ་བར་བྱེད་པ་ཡིན་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the liberator of those bound by the fetters of craving.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགའ་བོ་དེ་ནི་རབ་ཏུ་བྱུང་བ་ཞེས་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Nanda, this is what we call going forth.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡང་དག་པའི་ལྟ་བའི་ཁྱིམ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-028-43"/>“It is the house of those with right view.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐར་པའི་ཡང་དག་པར་སྡོམ་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the true commitment to liberation.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མྱ་ངན་ལས་འདས་པ་ལ་བསྙེན་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what leads to nirvāṇa.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྒྱུན་ཉེ་བར་གཅོད་པ་ཡིན་<tei:ref folio="F.255.b"/>ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the complete termination of the continuum. </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཉོན་མོངས་པ་རྣམས་སྲེག་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what burns away the afflictions.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྲ་རྒྱས་རྣམས་འབྱིན་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what uproots the latent propensities.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྟ་བ་ངན་པའི་དྲ་བ་རྣམས་འཇིག་པར་བྱེད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what destroys the web of perverted views.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བདུད་ཀྱི་རྒྱལ་མཚན་སྙོལ་བ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what topples the victory banner of Māra.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཟོད་པ་སྨྲ་བ་སྒྲེང་བ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what raises the victory banner of the teacher of forbearance.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཁོར་བའི་འཁོར་ལོ་ལྡོག་པར་བྱེད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what reverses the wheel of saṃsāra.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་ཀྱི་འཁོར་ལོ་སྐོར་བར་བྱེད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what turns the wheel of Dharma.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ནུ་ཞོའི་རྒྱ་མཚོ་སྐེམས་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what dries up the ocean of milk.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རུས་པའི་རི་འཇིག་པར་བྱེད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what destroys the mountain of bones.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐྱེ་བ་དང་། རྒ་བ་དང་། ན་བ་དང་། འཆི་བའི་མཐའ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the end of birth, aging, illness, and death.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕུང་པོའི་ཁུར་འཇོག་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what unloads the burden of aggregates.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཉོན་མོངས་པའི་འདམ་དུ་བྱིང་བ་རྣམས་འབྱིན་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what extricates those mired in the swamp of afflictions.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཁྱིམ་གྱི་གཟེབ་ཏུ་བཅིངས་པ་རྣམས་རྣམ་པར་གྲོལ་བར་བྱེད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what liberates those in the cage of the household.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གནོད་པའི་ཚོར་བ་རྣམས་ཟད་པར་བྱེད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what dispels harmful feelings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐེ་ཚོམ་རྣམས་དང་ཉོན་མོངས་པའི་དྲི་མ་བརྟན་པོར་གྱུར་པ་རྣམས་གཅོད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what destroys doubts and the entrenched defilements of the afflictions.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྒ་ཤིས་འཇིགས་པ་རྣམས་དབུགས་འབྱིན་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what gives relief from the fears of aging and death.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྡུག་པ་དང་བྲལ་བ་ཟད་པར་བྱེད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what terminates suffering due to separation from what we love.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཁོར་བའི་སྡུག་བསྔལ་གྱིས་གཙེས་པ་རྣམས་ཀྱི་བདེ་བ་དང་མི་འཇིགས་པའི་འགྲམ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the riverbank of happiness and fearlessness for those tormented by the suffering of saṃsāra.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འདོད་པའི་ཁམས་ལས་རྒལ་བར་བྱེད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what helps us transcend the desire realm.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཟུགས་ཀྱི་ཁམས་ལས་ཡང་དག་པར་རྒལ་བར་བྱེད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what helps us completely transcend the form realm.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཟུགས་མེད་པའི་ཁམས་ལས་རྣམ་པར་རྒལ་བར་བྱེད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what helps us entirely transcend the formless realm.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དོན་དམ་པར་མྱ་ངན་ལས་འདས་པ་མཆོག་ཐོབ་པར་བྱེད་པ་ཡིན་ཏེ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Ultimately, it makes us attain<tei:note xml:id="UT22084-072-028-46"/> the supreme nirvāṇa.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དགའ་བོ་དེ་ནི་རབ་ཏུ་བྱུང་བ་ཞེས་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Nanda, this is what we call going forth.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་ཐམས་ཅད་ཀྱི་མིག་ལྟ་བུ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-028-47"/>“It is like the eye of all worlds.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཏི་མུག་གི་མུན་པའི་སྒྲོན་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the lamp in the darkness of ignorance.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྒྱུད་དག་པར་བྱེད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the purifier of the mental continuum.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཉོན་མོངས་པའི་ནད་ཐམས་ཅད་རབ་ཏུ་ཞི་བར་བྱེད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the pacifier of all the diseases linked to the afflictions.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལམ་སྟོར་བ་རྣམས་ལ་ལམ་ཀུན་དུ་སྟོན་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what reveals the path to those who have lost their way.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་ཀྱི་དེ་ཁོ་ན་སྟོན་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what shows the essential nature of all phenomena.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མདུད་པ་ཐམས་ཅད་རྣམ་པར་གྲོལ་བར་བྱེད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what liberates us from all bonds.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མ་རིག་པའི་མུན་པ་ཐམས་ཅད་སེལ་བར་བྱེད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what dispels all the darkness of ignorance.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མི་ཤེས་པའི་རབ་རིབ་ཀྱི་སྒྲིབ་པའི་མུན་པ་རྣམས་འདྲལ་བར་བྱེད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what dissolves the obscuring darkness of the visual defects of unknowing.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལེ་ལོ་ཅན་རྣམས་བརྩོན་འགྲུས་ལ་རྩོམ་པར་བྱེད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what encourages the lazy to make efforts.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.255.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚུལ་ཁྲིམས་ལ་ལྟུང་བ་རྣམས་སྐྱོ་བར་བྱེད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what disenchants those who violate ethical behavior. </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.a</prop>
+	<tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.256.a"/>ཚུལ་ཁྲིམས་ཕུན་སུམ་ཚོགས་པ་རྣམས་རབ་ཏུ་དགའ་བར་བྱེད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what delights those with perfect ethical behavior.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བརྩོན་འགྲུས་བརྩམས་པ་རྣམས་མཆོག་ཏུ་དགའ་བ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what supremely delights the diligent.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ནང་དུ་ཡང་དག་འཇོག་ལ་མངོན་པར་དགའ་བ་རྣམས་རབ་ཏུ་དགའ་བ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what delights those who take pleasure in seclusion.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྣལ་འབྱོར་སྤྱོད་པ་རྣམས་མཆོག་ཏུ་ཆོག་ཤེས་པར་བྱེད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what deeply satisfies meditators.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཉོན་མོངས་པའི་དགྲ་འཇོམས་པར་བྱེད་པ་རྣམས་ཀྱི་མཚོན་ཆ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the weapon for those engaged in subduing the enemy, the afflictions.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྱིར་མི་འོང་བ་རྣམས་མཆོག་ཏུ་རྒྱལ་བར་བྱེད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what grants victory to non-returners.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གནས་མེད་པ་རྣམས་ཀྱི་གནས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the abode for the homeless.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐྱོབ་པ་མེད་པ་རྣམས་ཀྱི་སྐྱོབ་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the protector for those without protection.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཇིགས་པས་འབྲེལ་པ་རྣམས་ཀྱི་མི་འཇིགས་པར་བྱེད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what grants fearlessness to those gripped by fear.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐྱབས་མེད་པ་རྣམས་ཀྱི་སྐྱབས་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the refuge for those without refuge.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྡུག་བསྔལ་རྣམས་ཀྱི་བདེ་བའི་ཡོ་བྱད་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the means of attaining happiness for suffering ones.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཁོར་བའི་འཆིང་བས་བཅིངས་པ་རྣམས་འགྲོལ་བར་བྱེད་པ་ཡིན་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what liberates those bound by the fetters of saṃsāra.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགའ་བོ་དེ་ནི་རབ་ཏུ་བྱུང་བ་ཞེས་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Nanda, this is what we call going forth.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྷ་དང་མི་རྣམས་ཀྱིས་བཀུར་སྟི་བྱས་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-028-48"/>“It is honored by gods and humans.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མིའི་དབང་པོ་རྣམས་ཀྱིས་མཆོད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is worshiped by kings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཐམས་ཅད་ཀྱིས་དགོངས་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what is intended by all buddhas.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཁྱིམ་གྱི་གནས་ཡོངས་སུ་གཏོང་བ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the complete renunciation of one’s dwelling place.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མྱ་ངན་ལས་འདས་པའི་ལམ་འདྲེན་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the guide on the path to nirvāṇa.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐྲའི་ཁུར་འདྲེག་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the shaving of the burden of hair.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གོས་ངུར་སྨྲིག་ནི་འདོད་ཆགས་དང་བྲལ་བའི་རྟགས་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the saffron robe, the sign of being free from desires.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རིགས་པ་ལ་བརྩོན་པ་བརྩོན་འགྲུས་ཀྱི་ཞིང་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the field of appropriate endeavor.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་ནི་དྲང་སྲོང་རྣམས་ཀྱི་རྒྱལ་མཚན་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is the victory banner of the sages.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.a</prop>
+            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+	<tuv xml:lang="bo">
+                <seg>!བདུད་སྡིག་ཏོ་ཅན་རྣམས་ཀྱི་གྲགས་པ་འཇོམས་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what vanquishes the arrogance<tei:note xml:id="UT22084-072-028-49"/> of evildoing demons.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྷ་དང་མི་རྣམས་རབ་ཏུ་དགའ་བར་བྱེད་པ་ཡིན་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is what fully delights gods and humans.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགའ་བོ་རབ་ཏུ་བྱུང་བ་ནི་དེ་ལྟ་བུ་ཡིན་ན་ཅིའི་ཕྱིར་རབ་ཏུ་མི་འབྱུང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Therefore, Nanda, if going forth is like this, why would you not go forth?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགའ་བོ་རབ་ཏུ་བྱུང་བ་ནི་འཁོར་ལོས་སྒྱུར་བའི་རྒྱལ་སྲིད་ཀྱི་བདེ་བ་བས་ཀྱང་ཆེས་ཁྱད་པར་དུ་འཕགས་པར་བདེ་བ་ཡིན་ན་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-028-50"/>“Nanda, the happiness of going forth is far superior even to the happiness of the dominion of a universal monarch.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགའ་བོ་གཞན་ཡང་དལ་བ་ཐོབ་པ་ནི་བསྐལ་པ་བྱེ་བ་བརྒྱར་ཡང་ཤིན་ཏུ་རྙེད་པར་དཀའ་བ་ཡིན་ཏེསངས་རྒྱས་འབྱུང་བ་ནི་དེ་བས་ཀྱང་ཆེས་རྙེད་པར་དཀའ་བ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>What’s more, Nanda, favorable circumstances are exceedingly difficult to find, even in one billion eons,<tei:note xml:id="UT22084-072-028-51"/> yet for a buddha to have come is far more difficult to find than even that.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དགའ་བོ་ཐར་པར་འདོད་པ་རྒྱལ་པོའི་དྲང་སྲོང་རྣམས་དང་། གཞན་ཡང་འཁོར་ལོས་སྒྱུར་བའི་རྒྱལ་པོ་རིན་པོ་ཆེ་སྣ་བདུན་དང་ལྡན་<tei:ref folio="F.256.b"/>པ་རྣམས་ཀྱང་བཙུན་མོའི་འཁོར་དང་བཅས་ཏེ་ས་བོར་ནས་རབ་ཏུ་བྱུང་ངོ་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Nanda, royal sages wishing for liberation, as well as universal monarchs endowed with the seven royal treasures, together with their retinues of queens, have abandoned their lands<tei:note xml:id="UT22084-072-028-52"/> and gone forth.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་བཞིན་དུ་ཁྱིམ་བདག་དང་། བྲམ་ཟེའི་ཚོགས་གཞན་རྣམས་ཀྱང་ཁྱིམ་རྣམས་བོར་ནས་རབ་ཏུ་བྱུང་ངོ་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Similarly, householders and congregations of brahmins have also abandoned their homes and gone forth.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ལ་རིགས་ཀྱི་བུ་དགའ་བོས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-028-53"/>Thereupon the noble son Nanda replied to the Blessed One,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཙུན་པ་བདག་ནི་ཁྱིམ་པར་མཆིས་ལ་སྦྱིན་པ་དག་སྩལ། བསོད་ནམས་དག་བགྱི་ཞིང་། བཅོམ་ལྡན་འདས་ཉན་ཐོས་ཀྱི་དགེ་འདུན་དང་བཅས་པ་ལ་ཡང་བསྙེན་བཀུར་བགྱི་ཞིང་། ཆོས་གོས་དང་། བསོད་སྙོམས་དང་། གཟིམས་ཆ་དང་། སྙུན་གྱི་གསོས་སྨན་དང་། ཡོ་བྱད་རྣམས་ཀྱང་བསྒྲུབ་པར་བགྱིའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“O Honorable One! I will remain a householder and give donations, make merit, and venerate the Blessed One and the community of śrāvakas. I will also supply them with monastic robes, alms, bedding, medicine for healing illnesses, and other necessities, too.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-028-54"/>The Blessed One replied as follows:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམས་ཀྱིས་ཁམས་གསུམ་པ་གང་དག་ཡིན་པའི་འཇིག་རྟེན་གང་བར་གྱུར་ལ། རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་དད་པ་ཅན་ལ་ལས་ལོ་བརྒྱར་འདི་ལྟ་སྟེ། ཆོས་གོས་དང་། བསོད་སྙོམས་དང་། མལ་སྟན་དང་། ནད་ཀྱི་གསོས་སྨན་དང་། ཡོ་བྱད་རྣམས་ཀྱིས་བསྙེན་བཀུར་བྱེད་ན་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“If for one hundred years faithful noble sons and noble daughters were to make offerings of monastic robes, alms, cushions, medicine for healing illnesses, and other necessities to as many thus-gone, worthy, complete, and perfect buddhas as would fill the whole universe and its three realms,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དགའ་བོ་དེ་ནི་རབ་ཏུ་བྱུང་བར་ངེས་པར་འབྱུང་བའི་སེམས་ཀྱི་བཅུ་དྲུག་གི་ཆར་ཡང་མི་ཕོད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Nanda, it would not compare to as much as a sixteenth fraction of the intention to go forth and renounce the world.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དགའ་བོ་ཁྱོད་ཀྱིས་རབ་ཏུ་བྱུང་། །དལ་བ་ཤིན་ཏུ་རྙེད་དཀའ་སྟེ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-028-55"/>“Nanda, it is very difficult for you to find Such favorable conditions for going forth.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དགའ་བོ་སྟོན་པ་མངོན་གྱུར་པ། །ང་ལ་མི་མཉེས་མ་བྱེད་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Nanda, the teacher has appeared before you; So, do not disappoint me!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དགའ་བོ་དཔེར་ན་ས་ཆེན་པོ་འདི་ཆུ་གཅིག་པུར་རྒྱ་མཚོར་གྱུར་ལ། དེ་ན་རུ་སྦལ་ཞར་བ་གཅིག་ཀྱང་ཡོད། དེ་ན་གཉའ་ཤིང་བུ་ག་གཅིག་པ་གཅིག་ཀྱང་རྒྱུ་ལ་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-028-56"/>“Suppose, Nanda, that this whole wide world comprised the waters of one great ocean in which there dwelled a single, blind turtle, and that there was also a single yoke with a hole, tossing about.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རུ་སྦལ་ཞར་བ་དེ་འདི་སྐད་དུ། གཉའ་ཤིང་གི་བུ་ག་དེར་མགྲིན་པ་ཆུད་པར་བྱའོ་སྙམ་དུ་སེམས་སྐྱེ་ཞིང་། གཉའ་ཤིང་བུ་ག་ཅན་དེ་ཡང་རླུང་གིས་བསྐྱོད་ནས་ཕྱོགས་ཕྱོགས་སུ་རྒྱུག་པར་བྱེད་པ་ན་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Considering this,<tei:note xml:id="UT22084-072-028-57"/> that blind turtle entertains the thought that it must put its neck through the hole of this yoke, but the yoke with its hole is buffeted by the wind and tossed about in all directions. In that case,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དགའ་བོ་བརྒྱ་ལ་རྐྱེན་ཞིག་གིས་རུ་སྦལ་ཞར་བ་དེའི་མགྲིན་པ་གཉའ་ཤིང་གི་བུ་ག་དེར་འཇུག་པར་འགྱུར་གྱི། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Nanda, what are the chances that the blind turtle’s neck would ever accidentally enter the hole of that yoke, even in a hundred years?<tei:note xml:id="UT22084-072-028-58"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དགའ་བོ་མི་ཉིད་ཐོབ་པ་ནི་མ་ཡིན་ནོ། །དལ་བ་ཕུན་སུམ་ཚོགས་པ་ཡང་དེ་བཞིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>In the same way, Nanda, this human birth may not be found, nor the excellence of a favorable circumstance.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.256.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དགའ་བོ་ཁྱོད་ཀྱིས་མི་ཉིད་ཤིན་ཏུ་རྙེད་པར་དཀའ་བ་དང་། དེ་བཞིན་དུ་དལ་བ་ཕུན་སུམ་ཚོགས་པ་ཡང་རྙེད་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-028-59"/>“Nanda, it is very difficult for you to find this human birth; and thus, if you have found perfect favorable conditions, </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.257.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགའ་བོ་ཁྱོད་<tei:ref folio="F.257.a"/>ཀྱིས་རབ་ཏུ་བྱུང་། །དལ་བ་ཤིན་ཏུ་རྙེད་དཀའ་རྙེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-028-60"/>“Nanda, you have found the very difficult to find Favorable conditions for going forth.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.257.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགའ་བོ་སྟོན་པ་མངོན་གྱུར་ན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Nanda, the teacher has appeared before you; So,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.257.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ང་ལ་མི་མཉེས་མ་བྱེད་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>do not disappoint me!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.257.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དཔེར་ན་འགའ་ཞིག་གིས་ཁབ་ཀྱི་མིག་གནམ་དུ་བསྟན་ཏེ་ཡུངས་ཀར་གྱི་འབྲུ་རྣམས་འཐོར་བར་བྱེད་ན་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-028-61"/>“Suppose, Nanda, someone tosses some white mustard seeds at the eye of an upright-standing needle.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.257.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགའ་བོ་བརྒྱ་ལ་རྐྱེན་ཞིག་གིས་དེར་ཡུངས་ཀར་གྱི་འབྲུ་གང་ཡིན་པ་གཅིག་ཆུད་པར་འགྱུར་གྱི། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>In that case, Nanda, what are the chances that any single white mustard seed would pass through the eye, even in a hundred years?<tei:note xml:id="UT22084-072-028-62"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.257.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགའ་བོ་མི་ཉིད་རྙེད་པ་ནི་མ་ཡིན་ནོ། །དལ་བ་ཕུན་སུམ་ཚོགས་པ་ཡང་དེ་བཞིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>In the same way, Nanda, this human birth may not be found, nor the excellence of a favorable circumstance.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.257.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགའ་བོ་མི་ཉིད་ཤིན་ཏུ་རྙེད་པར་དཀའ་བ་དང་། དེ་བཞིན་དུ་དལ་བ་ཕུན་སུམ་ཚོགས་པ་ཡང་རྙེད་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-028-63"/>“Nanda, it is very difficult to find this human birth; and thus, if you have found perfect favorable conditions,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.257.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགའ་བོ་ཁྱོད་ཀྱིས་རབ་ཏུ་བྱུང་། །དལ་བ་ཤིན་ཏུ་རྙེད་དཀའ་རྙེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-028-64"/>“Nanda, you have found the very difficult to find Favorable conditions for going forth.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.257.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགའ་བོ་སྟོན་པ་མངོན་གྱུར་པ། །ང་ལ་མི་མཉེས་མ་བྱེད་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Nanda, the teacher has appeared before you; So, do not disappoint me!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.257.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ཅིའི་ཕྱིར་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-028-65"/>“Why is that so?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.257.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བསྐལ་པ་བྱེ་བ་སྟོང་དང་ནི། །བརྒྱ་དང་ཁྲག་ཁྲིག་དག་ཏུ་ཡང་། །སངས་རྒྱས་སྒྲ་ནི་མི་ཐོས་ན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-028-66"/>“If the word buddha was not heard Even in ten billion eons, And even in ten trillion eons,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.257.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་མཐོང་བ་ག་ལ་ཞིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>How would it be possible to see a buddha?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.257.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཨུ་དུམ་བ་རའི་མེ་ཏོག་ནི། །ཤིང་ལས་ཤིན་ཏུ་རྙེད་དཀའ་ལྟར། །དེ་བཞིན་སངས་རྒྱས་རྙེད་དཀའ་སྟེ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-028-67"/>“As the uḍumbara flower Is extremely rare to find among trees, A buddha is similarly difficult to find.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.257.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཁྱེད་ཀྱིས་ང་ནི་རྙེད་གྱུར་ན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Yet, now you have found me!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.257.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགའ་བོ་ཁྱོད་ཀྱིས་རབ་ཏུ་བྱུང་། །དལ་བ་ཤིན་ཏུ་རྙེད་དཀའ་སྟེ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-028-68"/>“Nanda, it is very difficult for you to find Such favorable conditions for going forth.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.257.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགའ་བོ་སྟོན་པ་མངོན་གྱུར་པ། །ང་ལ་མི་མཉེས་མ་བྱེད་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Nanda, the teacher has appeared before you; So, do not disappoint me!”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.257.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་རིགས་ཀྱི་བུ་དགའ་བོ་སྐྲ་དང་ཁ་སྤུ་བྲེགས་ཏེ་གོས་ངུར་སྨྲིག་བགོས་ཏེ། རྒྱལ་བའི་བསྟན་པ་ལ་ཡང་དག་པར་དད་པ་ཁོ་ནས་ཁྱིམ་ནས་ཁྱིམ་མེད་པར་རབ་ཏུ་བྱུང་ངོ་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-028-69"/>Thereupon, Nanda, the noble son, shaved off his hair and beard, donned saffron robes, and, with deep faith in the teachings of the Victorious One, went forth from home into homelessness.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.257.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང་། ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་དང་། རིགས་ཀྱི་བུ་དགའ་བོ་བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-028-70"/>After the Blessed One had thus spoken, Venerable Ānanda and Nanda, the noble son, praised the speech of the Blessed One.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.257.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགའ་བོ་རབ་ཏུ་བྱུང་བའི་མདོ་རྫོགས་སོ།། །།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>{{milestone:{label:c.1,id:UT22084-072-028-71}}}Thus concludes The Sūtra of Nanda’s Going Forth.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.257.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྩངས་དེ་བེན་དྲ་ར་ཀྵི་ཏས་ཞུས་ཆེན་བགྱིས་པ།། །།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>This text was edited by Tsang Devendrarakṣita.<tei:note xml:id="UT22084-072-028-72"/>
+                </seg>
+            </tuv>
+</tu>
+</body>
+</tmx>

@@ -100,7 +100,7 @@
 </tu>
 <tu>
             <prop name="folio">INPUT_STARTING_FOLIO</prop>
-            <eft:flag type="alternateSource"/>
+            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
 	<tuv xml:lang="bo">
                 <seg>!ཕྱག་འཚལ་ཏུཏྟྭ་ར་ཧཱུྃ་ཡི་གེ། །འདོད་དང་ཕྱོགས་དང་ནམ་མཁའ་གང་མ། །</seg>
             </tuv>
@@ -238,7 +238,7 @@
 </tu>
 <tu>
             <prop name="folio">F.43.a</prop>
-            <eft:flag type="alternateSource"/>
+            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
 	<tuv xml:lang="bo">
                 <seg>!ཕྱག་འཚལ་ཟླ་བའི་རྩེ་མོས་དབུ་བརྒྱན། །བརྒྱན་པ་ཐམས་ཅད་ཤིན་ཏུ་འབར་མ། །</seg>
             </tuv>

@@ -394,7 +394,7 @@ Taking Refuge in the Three Jewels</seg>
 </tu>
 <tu>
             <prop name="folio">F.175.a</prop>
-            <eft:flag type="alternateSource"/>
+            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
 	<tuv xml:lang="bo">
                 <seg>!ཀུན་དགའ་བོ་ཁྱོད་ཀྱིས་འདི་ལྟར་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་སྒོ་མཐའ་ཡས་པས་བསྒྲུབ་པ་ཞེས་བྱ་བར་ཟུང་ཤིག །</seg>
             </tuv>

@@ -386,7 +386,7 @@
 </tu>
 <tu>
             <prop name="folio">F.158.a</prop>
-            <eft:flag type="alternateSource"/>
+            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
 	<tuv xml:lang="bo">
                 <seg>!ནི་ར་གད་ཙྪ་ཏ། ནིར་གད་ཙྪ་ཏ། ནི་ར་གད་ཙྪ་ཏ། ནི་ར་ར་གད་ཙྪ་ཏ། ནི་ར་གད་ཙྪ་ཏ། </seg>
             </tuv>

@@ -1114,7 +1114,7 @@
         </tu>
         <tu>
             <prop name="folio">F.243.b</prop>
-            <eft:flag type="alternateSource">Translation based on alternate Kangyur editions, see note.</eft:flag>
+            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource">Translation based on alternate Kangyur editions, see note.</flag>
             <tuv xml:lang="bo">
                 <seg>!འཇམ་དཔལ་སུས་གཉིས་སུ་མི་དམིགས་པའི་ཕྱིར་ཆོས་ཐམས་ཅད་གཉིས་སུ་མེད་པར་འགྱུར་བ་འདི་ནི་ཏིང་ངེ་འཛིན་གྱི་དབང་པོའོ། །</seg>
             </tuv>

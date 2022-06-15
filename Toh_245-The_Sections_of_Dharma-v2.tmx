@@ -1753,7 +1753,7 @@
         </tu>
         <tu>
             <prop name="folio">F.31.b</prop>
-            <eft:flag type="alternativeSource">Follows KY, K, C, and U, see note.</eft:flag>
+            <flag xmlns="http://read.84000.co/ns/1.0" type="alternativeSource">Follows KY, K, C, and U, see note.</flag>
             <tuv xml:lang="bo">
                 <seg>!ཁྱི་རོ་དེ་ལ་རིག་པར་བྱེད་དམ། སྐྱོད་པར་བྱེད་དམ། མངོན་པར་དགའ་བར་བྱེད་ན། </seg>
             </tuv>
