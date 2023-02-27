@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+    <header creationtool="linguae-dharmae/84000" creationtoolversion="2.16.12a" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" eft:text-id="UT22084-068-002" eft:text-version="v-1.0.7-2022" eft:source-ref="/db/apps/84000-data/uploads/linguae-dharmae/aligned/31-10-2022/complete/toh268-bo_aligned.txt" eft:seconds-to-revise="0.114"/>
+    <body>
+        <!--<tu id="UT22084-068-002-TU-1">
+            <tuv xml:lang="bo"><seg>༄༅༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་ཨ་ཙིན་ཏྱ་རཱ་ཛ་སཱུ་ཏྲ་ནཱ་མ་མ་ཧཱ་ཡཱ་ན་སཱུ་ཏྲ། བོད་སྐད་དུ།</seg></tuv>
+            <tuv xml:lang="en"><seg/></tuv>
+        </tu>-->
+        <tu id="UT22084-068-002-TU-1">
+            <prop name="location-id">translation</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>འཕགས་པ་བསམ་གྱིས་མི་ཁྱབ་པའི་རྒྱལ་པོའི་མདོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Noble Mahāyāna Sūtra The Sūtra of King of the Inconceivable</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-002-TU-2">
+            <prop name="location-id">UT22084-068-002-9</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Homage to all buddhas and bodhisattvas.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-002-TU-3">
+            <prop name="location-id">UT22084-068-002-9</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-002-TU-4">
+            <prop name="location-id">UT22084-068-002-9</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཡུལ་མ་ག་དྷཱ་ན་ཆོས་ཀྱི་དབྱེ་དགོན་པ་ན། བྱང་ཆུབ་ཀྱི་སྙིང་པོ་ན་སེང་གེའི་ཁྲི་རྡོ་རྗེ་དང་ནོར་བུ་རིན་པོ་ཆེས་སྤྲས་པའི་པད་མའི་སྙིང་པོའི་གདན་ལ་བཞུགས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One was dwelling at the seat of awakening, a secluded hermitage in the land of Magadha, where he was seated upon a lion throne in the center of a lotus, inlaid with vajras and precious jewels.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-002-TU-5">
+            <prop name="location-id">UT22084-068-002-9</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་ཆེན་པོའི་དགེ་འདུན་ཕྱོགས་བཅུའི་སངས་རྒྱས་ཀྱི་ཞིང་བརྗོད་དུ་མེད་པའི་ཡང་བརྗོད་དུ་མེད་པ་བྱེ་བ་ཁྲག་ཁྲིག་ཕྲག་འབུམ་གྱི་རྡུལ་ཕྲ་རབ་སྙེད་ཀྱི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་དང་ཐབས་ཅིག་ཏུ་བཞུགས་སོ། །དེ་ནས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བསམ་གྱིས་མི་ཁྱབ་པའི་རྒྱལ་པོ་ཞེས་བྱ་བས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>He was accompanied by a great bodhisattva assembly of as many bodhisattva great beings as there are atoms in the millions of billions of utterly indescribable buddhafields throughout the ten directions.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-002-TU-6">
+            <prop name="location-id">UT22084-068-002-11</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དེ་དག་ལ་སྨྲས་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The bodhisattva great being King of the Inconceivable addressed those bodhisattva great beings:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-002-TU-7">
+            <prop name="location-id">UT22084-068-002-11</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀྱེ་རྒྱལ་བའི་སྲས་དག་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཤཱཀྱ་ཐུབ་པའི་སངས་རྒྱས་ཀྱི་ཞིང་མི་མཇེད་ཀྱི་འཇིག་རྟེན་གྱི་ཁམས་འདིའི་བསྐལ་པ་གཅིག་གང་ཡིན་པ་དེ་ནི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཚེ་དཔག་མེད་ཀྱི་སངས་རྒྱས་ཀྱི་ཞིང་བདེ་བ་ཅན་གྱི་འཇིག་རྟེན་གྱི་ཁམས་ཀྱི་ཉིན་ཞག་གཅིག་གོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“O children of the Victorious One, a single eon in this Sahā world, the buddhafield of the blessed, thus-gone, worthy, and completely perfect Buddha Śākyamuni, is but a single day in the realm of Sukhāvatī, the buddhafield of the thus-gone, worthy, and completely perfect Buddha Amitāyus.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-002-TU-8">
+            <prop name="location-id">UT22084-068-002-13</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཀྱེ་རྒྱལ་བའི་སྲས་དག་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཚེ་དཔག་མེད་ཀྱི་སངས་རྒྱས་ཀྱི་ཞིང་བདེ་བ་ཅན་གྱི་འཇིག་རྟེན་གྱི་ཁམས་ཀྱི་བསྐལ་པ་གཅིག་གང་ཡིན་པ་དེ་ནི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྡོ་རྗེ་རབ་ཏུ་འཇོམས་པའི་སངས་རྒྱས་ཀྱི་ཞིང་གི་ཉིན་ཞག་གཅིག་གོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“O children of the Victorious One, a single eon in the realm of Sukhāvatī, the buddhafield of the thus-gone, worthy, and completely perfect Buddha Amitāyus, is but a single day in the buddhafield of the thus-gone, worthy, and completely perfect Buddha Vajrapramardin.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-002-TU-9">
+            <prop name="location-id">UT22084-068-002-14</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཀྱེ་རྒྱལ་བའི་སྲས་དག་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྡོ་རྗེ་རབ་ཏུ་འཇོམས་པའི་སངས་རྒྱས་ཀྱི་ཞིང་གི་བསྐལ་པ་གཅིག་གང་ཡིན་པ་དེ་ནི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་ཟེར་ཤིན་ཏུ་སྟུག་པོ་པད་མ་རབ་ཏུ་རྒྱས་པའི་སྐུའི་སངས་རྒྱས་ཀྱི་ཞིང་གི་ཉིན་ཞག་གཅིག་གོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“O children of the Victorious One, a single eon in the buddhafield of the thus-gone, worthy, and completely perfect Buddha Vajrapramardin is but a single day in the buddhafield of the thus-gone, worthy, and completely perfect Buddha Lotus Body Blooming from Dense Light Rays.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-002-TU-10">
+            <prop name="location-id">UT22084-068-002-15</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཀྱེ་རྒྱལ་བའི་སྲས་དག་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་ཟེར་ཤིན་ཏུ་སྟུག་པོ་པད་མ་རབ་ཏུ་རྒྱས་པའི་སྐུའི་སངས་རྒྱས་ཀྱི་ཞིང་གི་བསྐལ་པ་གཅིག་གང་ཡིན་པ་དེ་ནི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་སངས་རྒྱས་ཀྱི་ཞིང་གི་ཉིན་ཞག་གཅིག་གོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“O children of the Victorious One, a single eon in the buddhafield of the thus-gone, worthy, and completely perfect Buddha Lotus Body Blooming from Dense Light Rays is but a single day in the buddhafield of the thus-gone, worthy, and completely perfect Buddha Dharmadhvaja.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-002-TU-11">
+            <prop name="location-id">UT22084-068-002-16</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཀྱེ་རྒྱལ་བའི་སྲས་དག་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་སངས་རྒྱས་ཀྱི་ཞིང་གི་བསྐལ་པ་གཅིག་གང་ཡིན་པ་དེ་ནི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སེང་གེའི་སངས་རྒྱས་ཀྱི་ཞིང་གི་ཉིན་ཞག་གཅིག་གོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“O children of the Victorious One, an eon in the buddhafield of the thus-gone, worthy, and completely perfect Buddha Dharmadhvaja is but a single day in the buddhafield of the thus-gone, worthy, and completely perfect Buddha Siṃha.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-002-TU-12">
+            <prop name="location-id">UT22084-068-002-17</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཀྱེ་རྒྱལ་བའི་སྲས་དག་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སེང་གེའི་སངས་རྒྱས་ཀྱི་ཞིང་གི་བསྐལ་པ་གཅིག་གང་ཡིན་པ་དེ་ནི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམ་པར་སྣང་མཛད་ཀྱི་སངས་རྒྱས་ཀྱི་ཞིང་གི་ཉིན་ཞག་གཅིག་གོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“O children of the Victorious One, a single eon in the buddhafield of the thus-gone, worthy, and completely perfect Buddha Siṃha is but a single day in the buddhafield of the thus-gone, worthy, and completely perfect Buddha Vairocana.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-002-TU-13">
+            <prop name="location-id">UT22084-068-002-18</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཀྱེ་རྒྱལ་བའི་སྲས་དག་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམ་པར་སྣང་མཛད་ཀྱི་སངས་རྒྱས་ཀྱི་ཞིང་གི་བསྐལ་པ་གཅིག་གང་ཡིན་པ་དེ་ནི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཆོས་ཀྱི་འོད་ཟེར་མེ་ཏོག་རབ་ཏུ་རྒྱས་པའི་སྐུའི་སངས་རྒྱས་ཀྱི་ཞིང་གི་ཉིན་ཞག་གཅིག་གོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“O children of the Victorious One, a single eon in the buddhafield of the thus-gone, worthy, and completely perfect Buddha Vairocana is but a single day in the buddhafield of the thus-gone, worthy, and completely perfect Buddha Flower Body Blooming from the Light of the Dharma.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-002-TU-14">
+            <prop name="location-id">UT22084-068-002-20</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཀྱེ་རྒྱལ་བའི་སྲས་དག་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཆོས་ཀྱི་འོད་ཟེར་མེ་ཏོག་རབ་ཏུ་རྒྱས་པའི་སྐུའི་སངས་རྒྱས་ཀྱི་ཞིང་གི་བསྐལ་པ་གཅིག་གང་ཡིན་པ་དེ་ནི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཡེ་ཤེས་འོད་ཟེར་རྒྱལ་པོའི་སངས་རྒྱས་ཀྱི་ཞིང་གི་ཉིན་ཞག་གཅིག་གོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“O children of the Victorious One, a single eon in the buddhafield of the thus-gone, worthy, and completely perfect Buddha Flower Body Blooming from the Light of the Dharma is but a single day in the buddhafield of the thus-gone, worthy, and completely perfect Buddha King of Wisdom Light.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-002-TU-15">
+            <prop name="location-id">UT22084-068-002-21</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཀྱེ་རྒྱལ་བའི་སྲས་དག་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཡེ་ཤེས་འོད་ཟེར་རྒྱལ་པོའི་སངས་རྒྱས་ཀྱི་ཞིང་གི་བསྐལ་པ་གཅིག་གང་ཡིན་པ་དེ་ནི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཟླ་བའི་བློ་གྲོས་ཀྱི་སངས་རྒྱས་ཀྱི་ཞིང་གི་ཉིན་ཞག་གཅིག་གོ། །ཀྱེ་རྒྱལ་བའི་སྲས་དག་འདི་ལྟར་བསྐལ་པ་བགྲང་བའི་ཐབས་འདི་ལྟ་བུའི་ཚུལ་གྱིས་རྩིས་པའི་འཇིག་རྟེན་གྱི་ཁམས་སངས་རྒྱས་ཀྱི་ཞིང་བཅུའི་རྒྱ་མཚོའི་རྡུལ་ཕྲ་རབ་སྙེད་ཀྱི་སངས་རྒྱས་ཀྱི་ཞིང་འདས་པའི་ཐ་མ་འཇིག་རྟེན་གྱི་ཁམས་པད་མའི་དཔལ་ཞེས་བྱ་བ་ན། བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྒྱལ་བ་བཟང་པོའི་དཔལ་བཞུགས་པའི་སངས་རྒྱས་ཀྱི་ཞིང་གི་ཉིན་ཞག་གཅིག་གོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“O children of the Victorious One, a single eon in the buddhafield of the thus-gone, worthy, and completely perfect Buddha King of Wisdom Light is but a single day in the buddhafield of the thus-gone, worthy, and completely perfect Buddha Candrabuddhi. “O children of the Victorious One, continuing with this system of calculating eons, after a distance equal to the total atoms in ten oceans of buddhafield realms, we arrive at the equivalent of a single day in the realm of Padmaśrī, the buddhafield where the blessed, thus-gone, worthy, and completely perfect buddha, the victorious Bhadraśrī resides.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-002-TU-16">
+            <prop name="location-id">UT22084-068-002-23</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཀྱེ་རྒྱལ་བའི་སྲས་དག་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམས་ཀྱི་མཚན་འདི་དག་ནི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཀུན་ཏུ་བཟང་པོའི་སྤྱོད་པ་ཅན། དགེ་བའི་བཤེས་གཉེན་གྱིས་ཡོངས་སུ་ཟིན་པའི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་ཀྱིས་ཐོས་པར་འགྱུར་གྱི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“O children of the Victorious One, the names of these thus-gone, worthy, and completely perfect buddhas will be heard by bodhisattva great beings who uphold the conduct of the bodhisattva great being Samantabhadra and who are under the care of a spiritual teacher.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-002-TU-17">
+            <prop name="location-id">UT22084-068-002-23</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>གཞན་དག་གིས་ནི་ཐོས་པར་མི་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They will not, however, be heard by anyone else.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-002-TU-18">
+            <prop name="location-id">UT22084-068-002-24</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བསམ་གྱིས་མི་ཁྱབ་པའི་རྒྱལ་པོ་དང་། ཐམས་ཅད་དང་ལྡན་པའི་འཁོར་དེ་དག་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དེ་དག་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བསམ་གྱིས་མི་ཁྱབ་པའི་རྒྱལ་པོས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>After the Blessed One had spoken these words, the bodhisattva great being King of the Inconceivable, and the entire retinue of bodhisattva great beings and the whole world with its gods, humans, asuras, and gandharvas, all rejoiced  and praised the words of the Blessed One and the bodhisattva great being King of the Inconceivable.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-002-TU-19">
+            <prop name="unmatched">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཕགས་པ་བསམ་གྱིས་མི་ཁྱབ་པའི་རྒྱལ་པོའི་མདོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།། </seg>
+            </tuv>
+            
+        </tu>
+    <tu id="UT22084-068-002-TU-20">
+            <prop name="revision">v-1.0.5-2022</prop>
+            <prop name="location-id">UT22084-068-002-28</prop>
+            <tuv xml:lang="en">
+                <seg>This completes the noble Mahāyāna sūtra “ The Sūtra of King of the Inconceivable .”</seg>
+            </tuv>
+        </tu>
+        </body>
+</tmx>

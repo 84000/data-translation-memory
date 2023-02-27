@@ -2454,7 +2454,7 @@
     </tu>
     <tu>
       <prop name="folio">F.85.a</prop>
-      <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource">Translated on S, see note.</flag>
+      <prop name="alternative-source">Translated on S, see note.</prop>
       <tuv xml:lang="bo">
         <seg>!གོས་ཀྱི་སྦྱིན་པ་འདིས་ན་བདག །སེམས་ཅན་ཀུན་གྱི་ངོ་ཚ་ཤེས། །ཁྲེལ་ཡོད་པ་ནི་སྦྱོང་བ་དང་། །མདོག་ཀྱང་དག་པར་བྱེད་གྱུར་ཅིག །</seg>
       </tuv>
@@ -4055,7 +4055,7 @@
     </tu>
     <tu>
       <prop name="folio">F.90.a</prop>
-      <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource">Translated from other Kangyur editions, see note.</flag>
+      <prop name="alternative-source">Translated from other Kangyur editions, see note.</prop>
       <tuv xml:lang="bo">
         <seg>!ཆུང་མ་བུ་དང་བུ་མོ་གཏོང་བྱེད་པ། །དེ་ལ་བྱང་ཆུབ་ཟག་མེད་དགའ་བ་མེད། །</seg>
       </tuv>
@@ -5935,7 +5935,7 @@
     </tu>
     <tu>
       <prop name="folio">F.95.a</prop>
-      <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource">Translated from other Kangyur editions, see note.</flag>
+      <prop name="alternative-source">Translated from other Kangyur editions, see note.</prop>
       <tuv xml:lang="bo">
         <seg>!སྦྱིན་མཛད་ལེགས་སོ་གསང་མཛད་བདེ་གཤེགས་ཁྱོད་ལེགས་སོ། །</seg>
       </tuv>

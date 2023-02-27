@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+    <header creationtool="linguae-dharmae/84000" creationtoolversion="2.16.12a" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" eft:text-id="UT22084-072-020" eft:text-version="v-1.0.4-2021" eft:source-ref="/db/apps/84000-data/uploads/linguae-dharmae/aligned/31-10-2022/complete/toh320-bo_aligned.txt" eft:seconds-to-revise="0.093"/>
+    <body>
+        <!--<tu id="UT22084-072-020-TU-1">
+            <tuv xml:lang="bo"><seg>༄༅༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་ཏ་ཐཱ་ག་ཏ་པྲ་ཏི་བིམྦ་པྲ་ཏིཥྛ་ཨ་ནུ་ཤཾས་སམྦ་དནྟི་ནཱ་མ་དྷརྨ་པརྱཱ་ཡ། བོད་སྐད་དུ།</seg></tuv>
+            <tuv xml:lang="en"><seg/></tuv>
+        </tu>-->
+        <tu id="UT22084-072-020-TU-1">
+            <prop name="location-id">translation</prop>
+            <prop name="revision">v-1.0.4-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>འཕགས་པ་དེ་བཞིན་གཤེགས་པའི་གཟུགས་བརྙན་བཞག་པའི་ཕན་ཡོན་ཡང་དག་པར་བརྗོད་པ་ཞེས་བྱ་བའི་ཆོས་ཀྱི་རྣམ་གྲངས་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Noble Dharma Discourse Describing the Benefits of Producing Representations of the Thus-Gone One</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-020-TU-2">
+            <prop name="location-id">UT22084-072-020-17</prop>
+            <prop name="revision">v-1.0.4-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ཐམས་ཅད་མཁྱེན་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Homage to the Omniscient One.</seg>
+            </tuv>
+        </tu>
+        
+        <tu id="UT22084-072-020-TU-3">
+            <prop name="location-id">UT22084-072-020-18</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-020-TU-4">
+            <prop name="location-id">UT22084-072-020-18</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མཉན་ཡོད་ན་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན་བཞུགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One was residing in the Jeta Grove in Anāthapiṇḍada’s Park at Śrāvastī.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-020-TU-5">
+            <prop name="location-id">UT22084-072-020-18</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེའི་ཚེ་དགེ་སློང་རབ་ཏུ་མང་པོ་དག་ཅིག་རིམ་གྲོའི་གནས་སུ་ལྷགས་ཏེ་འདུག་ནས་བར་སྐབས་དེར་གཏམ་འདི་ལྟ་བུ་ཞིག་གླེངས་སོ། །ཁྱེད་ཅག་ལ་བྲམ་ཟེའམ། ཁྱིམ་བདག་དད་པ་ཅན་ཐོས་པ་ན་ང་། འཛིན་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>At that time a large number of monks had gathered in the assembly hall and started the following conversation: “Faithful brahmins or householders who remember what they are taught and have become increasingly learned may ask you how to practice virtue.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-020-TU-6">
+            <prop name="location-id">UT22084-072-020-18</prop>
+            <tuv xml:lang="bo">
+                <seg>ཐོས་པ་བསགས་པ། དགེ་བ་ཇི་ལྟར་བྱ་ཞེས་ཚོལ་བ། དེ་བཞིན་གཤེགས་པའི་གཟུགས་བརྙན་བགྱིད་པར་སྤྲོ་བ་སྐྱེད་པ་དག་སྣང་ལ་དེ་དག་གལ་ཏེ་བདག་ཅག་གི་དྲུང་དུ་ལྷགས་ནས་བཙུན་པ་དག་དེ་བཞིན་གཤེགས་པའི་གཟུགས་བརྙན་བགྱིད་པའི་གང་ཟག་སྦྱིན་པ་པོ་ལ་ཕན་ཡོན་ཇི་ཙམ་ཞིག་མཆིས་པར་རིག་པར་བགྱི་ཞེས་རྨེད་ན། དེ་བཞིན་གཤེགས་པའི་གཟུགས་བརྙན་བགྱིད་པ་ལ་ཕན་ཡོན་ཇི་ཙམ་ཞིག་ཡོད་པ་བདག་ཅག་གིས་མི་ཤེས་ཏེ། དེའི་ཚེ་དེ་དག་ལ་བདག་ཅག་གིས་ཇི་ལྟར་ཆོས་དང་འཐུན་པར་ལན་གདབ་པར་བྱ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>There may also be some who delight in producing representations of the Thus-Gone One, who will come before us and inquire, ‘Respected ones, may we know how much benefit there is for donors when they produce a representation of the Thus-Gone One?’ How can we then respond to them in accordance with the Dharma when we do not know how much benefit results from producing a representation of the Thus-Gone One?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-020-TU-7">
+            <prop name="location-id">UT22084-072-020-18</prop>
+            <tuv xml:lang="bo">
+                <seg>གང་དོན་འདི་དག་ཉིད་ནི་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཐམས་ཅད་མཁྱེན་པ། ཐམས་ཅད་གཟིགས་པ། ཐེ་ཚོམ་ཐམས་ཅད་གཅོད་པར་མཛད་པ། སྟོན་པ་དེ་ལ་བདག་ཅག་གིས་ཞུའོ། །འོན་ཏ་ང་བཅོམ་ལྡན་འདས་དེ་བདག་ཅག་ལ་ལུང་སྟོན་པར་མཛད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>We should ask the blessed, thus-gone, worthy, perfect Buddha—the omniscient, all-seeing teacher who eliminates all doubts—about this point.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-020-TU-8">
+            <prop name="location-id">UT22084-072-020-18</prop>
+            <tuv xml:lang="bo">
+                <seg>བདག་ཅག་གིས་དེ་བཞིན་བཟུང་ནས་བྲམ་ཟེ་དང་། ཁྱིམ་བདག་དད་པ་ཅན་རྣམས་ལ་རྒྱ་ཆེར་ཕྱེ་སྟེ་ལན་གདབ་པར་བྱའོ་ཞེས་བགྲོས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Once the Blessed One teaches us, we will comprehend it and can then explain it at length and respond to those faithful brahmins and householders.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-020-TU-9">
+            <prop name="location-id">UT22084-072-020-20</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་དགེ་སློང་རབ་ཏུ་མང་པོ་དག་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་དོང་སྟེ་ཕྱིན་ནས་བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ་ཕྱོགས་གཅིག་ཏུ་འཁོད་དོ། །ཕྱོགས་གཅིག་ཏུ་འཁོད་ནས་དགེ་སློང་རབ་ཏུ་མང་པོ་དག་གིས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then that large number of monks went to the place where the Blessed One was staying, prostrated themselves at the Blessed One’s feet, sat to one side,  and asked the Buddha the following:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-020-TU-10">
+            <prop name="location-id">UT22084-072-020-20</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཙུན་པ་བདག་ཅག་དགེ་སློང་རབ་ཏུ་མང་པོ་དག་རིམ་གྲོའི་གནས་དེར་ལྷགས་ཏེ་འདུས་པ་དང་། བར་དེར་བཀའ་མཆིད་འདི་ལྟ་བུ་ཞིག་གླེངས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Respected One, a large number of us monks just had the following conversation when we gathered in the assembly hall:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-020-TU-11">
+            <prop name="location-id">UT22084-072-020-20</prop>
+            <tuv xml:lang="bo">
+                <seg>ཁྱེད་ཅག་ལ་བྲམ་ཟེའམ། ཁྱིམ་བདག་དད་པ་ཅན་ཐོས་པ་འཛིན་པ། ཐོས་པ་བསགས་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>‘Faithful brahmins or householders who remember what they are taught and have become increasingly learned may ask us how to practice virtue.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-020-TU-12">
+            <prop name="location-id">UT22084-072-020-20</prop>
+            <tuv xml:lang="bo">
+                <seg>དགེ་བ་ཇི་ལྟར་བགྱི་ཞེས་ཚོལ་བ་དེ་བཞིན་གཤེགས་པའི་གཟུགས་བརྙན་བགྱི་བར་སྤྲོ་བ་སྐྱེས་པ་དག་གདའ་ལ། དེ་དག་གལ་ཏེ་བདག་ཅག་གི་དྲུང་དུ་མཆིས་ནས། བཙུན་པ་དག་དེ་བཞིན་གཤེགས་པའི་གཟུགས་བརྙན་བགྱིད་པའི་གང་ཟག་སྦྱིན་པ་པོ་ལ་ཕན་ཡོན་ཇི་ཙམ་ཞིག་མཆིས་པར་རིག་པར་བགྱི་ཞེས་རྨེད་ན། དེ་བཞིན་གཤེགས་པའི་གཟུགས་བརྙན་བགྱིད་པ་ལ་ཕན་ཡོན་ཇི་ཙམ་ཞིག་མཆིས་པ་བདག་ཅག་གིས་མ་འཚལ་ན། དེའི་ཚེ་དེ་དག་ལ་བདག་ཅག་གིས་ཇི་ལྟར་ཆོས་དང་འཐུན་པར་ལན་གདབ་པར་བགྱི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>There may also be some who delight in producing representations of the Thus-Gone One, who will come before us and inquire, “Respected ones, may we know how much benefit there is for donors when they commission a representation of the Thus-Gone One?” How can we then respond to them in accordance with the Dharma when we do not know how much benefit results from producing a representation of the Thus-Gone One?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-020-TU-13">
+            <prop name="location-id">UT22084-072-020-20</prop>
+            <tuv xml:lang="bo">
+                <seg>གང་དོན་དེ་དག་ཉིད་ནི་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཐམས་ཅད་མཁྱེན་པ། ཐམས་ཅད་གཟིགས་པ། ཐེ་ཚོམ་ཐམས་ཅད་གཅོད་པར་མཛད་པ། སྟོན་པ་དེ་ལ་བདག་ཅག་གིས་ཞུ་བར་བགྱིའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>We should ask the blessed, thus-gone, worthy, perfect Buddha—the omniscient, all-seeing teacher who eliminates all doubts—about this point.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-020-TU-14">
+            <prop name="location-id">UT22084-072-020-20</prop>
+            <tuv xml:lang="bo">
+                <seg>།འོན་ཏང་བཅོམ་ལྡན་འདས་དེ་བདག་ཅག་ལ་ལུང་སྟོན་པར་མཛད་དེ། བདག་ཅག་གིས་དེ་བཞིན་བཟུང་ནས་བྲམ་ཟེ་དང་། ཁྱིམ་བདག་དད་པ་ཅན་རྣམས་ལ་རྒྱ་ཆེར་ཕྱེ་སྟེ་ལན་གདབ་པར་བགྱིའོ་སྙམ་བགྱིད་དོ། །བཙུན་པ་བཅོམ་ལྡན་འདས་དོན་དེ་དག་ཉིད་བདག་ཅག་ཞུ་ཞིང་མཆིས་ན། བཙུན་པ་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པའི་གཟུགས་བརྙན་བགྱིད་པའི་གང་ཟག་སྦྱིན་པ་པོ་ལ་ཕན་ཡོན་ཇི་ཙམ་ཞིག་མཆིས་པར་རིག་པར་བགྱི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Once the Blessed One teaches us, we will comprehend it and can then explain it at length and respond to those faithful brahmins and householders.’ Respected Blessed One, since we have come to you asking about these matters, may we know how much benefit there is for donors when they produce a representation of the Thus-Gone One?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-020-TU-15">
+            <prop name="location-id">UT22084-072-020-21</prop>
+            <tuv xml:lang="bo">
+                <seg>བཀའ་སྩལ་པ། དགེ་སློང་དག་སྐྱེ་བོ་མང་པོ་ལ་ཕན་པ་དང་། སྐྱེ་བོ་མང་པོ་ལ་བདེ་བ་དང་སྙིང་བརྩེ་བ་དང་ལྷ་དང་མི་རྣམས་ལ་ཕན་པ་དང་བདེ་བའི་ཕྱིར་ཞུས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One replied, “Monks, you have asked this to bring benefit to many beings, to bring happiness to many beings and out of compassion for them, and to bring benefit and happiness to gods and humans.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-020-TU-16">
+            <prop name="location-id">UT22084-072-020-21</prop>
+            <tuv xml:lang="bo">
+                <seg>ཁྱེད་གང་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ལ་དོན་དེ་ཉིད་ཞུ་བར་སེམས་པ་ལེགས་སོ་ལེགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You have thought to ask for clarification from the thus-gone, worthy, perfect Buddha. Excellent! Excellent!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-020-TU-17">
+            <prop name="location-id">UT22084-072-020-21</prop>
+            <tuv xml:lang="bo">
+                <seg>།དགེ་སློང་དག་དེའི་ཕྱིར་ལེགས་པར་རབ་ཏུ་ཉོན་ལ་ཡིད་ལ་ཟུང་ཤིག་དང་བསྟན་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>For that reason, monks, listen to me very carefully, pay attention,  and I will teach you.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-020-TU-18">
+            <prop name="location-id">UT22084-072-020-22</prop>
+            <tuv xml:lang="bo">
+                <seg>།དགེ་སློང་དག་དེ་བཞིན་གཤེགས་པའི་གཟུགས་བརྙན་བྱེད་པའི་གང་ཟག་སྦྱིན་པ་པོ་ལ་ཕན་ཡོན་འདི་ལྔ་ཡོད་དེ། ལྔ་གང་ཞེ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Monks, a donor who produces a representation of the Thus-Gone One will enjoy the following five benefits:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-020-TU-19">
+            <prop name="location-id">UT22084-072-020-22</prop>
+            <tuv xml:lang="bo">
+                <seg>གཞལ་མེད་ཁང་ཆེན་པོར་གནས་པ་དང་། བོང་སྟེད་བཟང་པོར་གྲགས་པ་དང་། སྤྲོ་བ་མང་བ་དང་། ཚེ་རིང་བ་དང་། གྲགས་པ་དང་ལྡན་པ་དང་། བདེ་བ་མང་བ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“One will live in a great palace, be regarded as fortunate, be free of poverty, and have great joy, longevity, fame, and happiness.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-020-TU-20">
+            <prop name="location-id">UT22084-072-020-22</prop>
+            <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་འདི་ནི་དེ་བཞིན་གཤེགས་པའི་གཟུགས་བརྙན་བྱེད་པའི་གང་ཟག་སྦྱིན་པ་པོའི་ཕན་ཡོན་དང་པོ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Monks, this is the first benefit for a donor who produces representations of the Thus-Gone One.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-020-TU-21">
+            <prop name="location-id">UT22084-072-020-25</prop>
+            <tuv xml:lang="bo">
+                <seg>།གཞན་ཡང་ཕྱུག་པོ་དང་། ནོར་མང་བ་དང་། ལོངས་སྤྱོད་ཆེ་བ་དང་། ནོར་རྫས་དང་། ཡོ་བྱད་མང་བ་དང་། བདག་དབང་བ་བདག་གིར་བྱ་བ་མང་བ་དང་། ནོར་དང་། འབྲུ་དང་། དབྱིག་དང་། །གསེར་དང་། མཛོད་དང་། བང་བའི་ཚོགས་མང་བ་དང་། རྟ་དང་། གླང་པོ་ཆེ་དང་། བ་ལང་དང་། ལུག་དང་། བྲན་དང་། བྲན་མོ་དང་། ལས་བྱེད་པ་དང་། ཞོ་ཤས་འཚོ་བ་མང་བ་དང་། བློན་པོ་དང་། མཛའ་བཤེས་དང་། གཉེན་དང་། སྣག་གི་གཉེན་མཚམས་མང་པོར་འགྱུར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“One will also have riches, abundant wealth, prosperity, property, and many belongings. One will be self-sufficient and have many cherished possessions such as a great number of livestock, grain, jewels, gold, treasuries, and storerooms; many horses, elephants, oxen, sheep, male and female servants, employees, and laborers; and many ministers, friends, relatives, and kin.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-020-TU-22">
+            <prop name="location-id">UT22084-072-020-25</prop>
+            <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་འདི་ནི་དེ་བཞིན་གཤེགས་པའི་གཟུགས་བརྙན་བྱེད་པའི་གང་ཟག་སྦྱིན་པ་པོའི་ཕན་ཡོན་གཉིས་པ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Monks, this is the second benefit for a donor who produces representations of the Thus-Gone One.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-020-TU-23">
+            <prop name="location-id">UT22084-072-020-26</prop>
+            <tuv xml:lang="bo">
+                <seg>།དགེ་སློང་དག་གཞན་ཡང་གཟུགས་བཟང་པོ་དང་། བལྟ་ན་སྡུག་པ་དང་། མཛེས་པ་དང་། མདོག་གསེར་ལྟར་བཟང་བ་དང་། མགོ་གདུགས་ལྟར་ཟླུམ་པ་དང་། ལག་པ་རིང་བ་དང་། དཔྲལ་བ་དབྱེས་ཆེ་བ་དང་། སྨིན་མཚམས་བར་མ་ཆད་པ་དང་། ཡན་ལག་དང་ཉིང་ལག་ཐམས་ཅད་དང་ལྡན་པ་དང་རྒྱན་ཐམས་ཅད་ཀྱིས་བརྒྱན་པར་འགྱུར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Monks, one will also have a beautiful body, a pleasant appearance, elegance, a golden complexion, a head that is round like a parasol, long arms, a broad forehead, unbroken eyebrows, a perfect set of limbs and extremities, and be adorned with all sorts of ornaments.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-020-TU-24">
+            <prop name="location-id">UT22084-072-020-26</prop>
+            <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་འདི་དག་ནི་དེ་བཞིན་གཤེགས་པའི་གཟུགས་བརྙན་བྱེད་པའི་གང་ཟག་སྦྱིན་པ་པོའི་ཕན་ཡོན་གསུམ་པ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Monks, this is the third benefit for a donor who produces representations of the Thus-Gone One.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-020-TU-25">
+            <prop name="location-id">UT22084-072-020-28</prop>
+            <tuv xml:lang="bo">
+                <seg>།དགེ་སློང་དག་གཞན་ཡང་འཁོར་ལོས་སྒྱུར་བའི་རྒྱལ་པོ་འཁོར་བཟང་པོ་རིན་པོ་ཆེ་སྣ་བདུན་དང་ལྡན་པ་དང་། བུ་སྟོང་གིས་བསྐོར་བར་འགྱུར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Monks, one will also become a universal emperor who has a fine retinue, the seven royal treasures, and is surrounded by one thousand sons.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-020-TU-26">
+            <prop name="location-id">UT22084-072-020-28</prop>
+            <tuv xml:lang="bo">
+                <seg>དེའི་བུའམ། ཆུང་མའམ། བྲན་ནམ། ཉེ་བར་འཚོ་བ་གང་ཡིན་པ་དེ་དག་ཐམས་ཅད་དེ་ལ་གུས་པར་ཉན་པ་དང་། བཀའ་ཉན་པར་བྱེད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>All of one’s sons, wives, servants, and caretakers will listen respectfully and follow one’s commands.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-020-TU-27">
+            <prop name="location-id">UT22084-072-020-28</prop>
+            <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་འདི་ནི་དེ་བཞིན་གཤེགས་པའི་གཟུགས་བརྙན་བྱེད་པའི་གང་ཟག་སྦྱིན་པ་པོའི་ཕན་ཡོན་བཞི་པ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Monks, this is the fourth benefit for a donor  who produces representations of the Thus-Gone One.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-020-TU-28">
+            <prop name="location-id">UT22084-072-020-29</prop>
+            <tuv xml:lang="bo">
+                <seg>།དགེ་སློང་དག་གཞན་ཡང་དེ་ལུས་དང་བྲལ་ནས་བདེ་འགྲོ་མཐོ་རིས་ཀྱི་འཇིག་རྟེན་གྱི་ལྷ་རྣམས་ཀྱི་ནང་དུ་སྐྱེ་བར་འགྱུར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Moreover, monks, after passing away, one will take a favorable rebirth among the gods in the heavenly realms.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-020-TU-29">
+            <prop name="location-id">UT22084-072-020-29</prop>
+            <tuv xml:lang="bo">
+                <seg>དེར་སྐྱེས་ནས་ལྷའི་རྒྱལ་པོ་ཁྱད་པར་ཅན་ལྷ་དང་། ལྷའི་བུ་དང་། ལྷའི་བུ་མོ་རྣམས་ཀྱི་རྟེན་དུ་འགྱུར་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>After being born there, one will become an excellent king of the gods who will be venerated by the gods and goddesses.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-020-TU-30">
+            <prop name="location-id">UT22084-072-020-29</prop>
+            <tuv xml:lang="bo">
+                <seg>གནས་བཅུ་པོ་ལྷའི་ཚེ་དང་། ལྷའི་མདོག་དང་། ལྷའི་སྟོབས་དང་། ལྷའི་བདེ་བ་དང་། ལྷའི་དབང་ཕྱུག་ལ་དབང་བྱེད་པ་དང་། ལྷའི་གཟུགས་དང་། སྒྲ་དང་། དྲི་དང་། རོ་དང་། རེག་བྱ་རྣམས་ཀྱིས་དགའ་བར་བྱེད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>One will enjoy ten states: divine lifespan, divine complexion, divine power, divine happiness, divine lordship, and divine form, sound, smell, taste, and touch.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-020-TU-31">
+            <prop name="location-id">UT22084-072-020-29</prop>
+            <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་འདི་ནི་དེ་བཞིན་གཤེགས་པའི་གཟུགས་བརྙན་བྱེད་པའི་གང་ཟག་སྦྱིན་པ་པོའི་ཕན་ཡོན་ལྔ་པ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Monks, this is the fifth benefit for a donor who produces representations of the Thus-Gone One.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-020-TU-32">
+            <prop name="location-id">UT22084-072-020-31</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང་། དགེ་བ་སློང་དེ་དག་བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་ཡི་རངས་ཏེ་མངོན་པར་བསྟོད་དོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>When the Blessed One had said this, the monks rejoiced in the Blessed One’s words and praised him.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-020-TU-33">
+            <prop name="location-id">UT22084-072-020-32</prop>
+            <prop name="revision">v-1.0.4-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།།འཕགས་པ་དེ་བཞིན་གཤེགས་པའི་གཟུགས་བརྙན་བཞག་པའི་ཕན་ཡོན་ཡང་དག་པར་བསྟན་པ་ཞེས་བྱ་བའི་ཆོས་ཀྱི་རྣམ་གྲངས་རྫོགས་སོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thus concludes The Noble Dharma Discourse “Teaching the Benefits of Producing Representations of the Thus-Gone One.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-020-TU-34">
+            <prop name="location-id">UT22084-072-020-34</prop>
+            <tuv xml:lang="bo">
+                <seg>།།རྒྱ་གར་གྱི་མཁན་པོ་དྷ་རྨཱ་ཀ་ར་དང་། ལོ་ཙྪ་བ་བན་དེ་ཡེ་ཤེས་སྙིང་པོས་བསྒྱུར། བན་དེ་དཔལ་བརྩེགས་ཀྱིས་ཞུ་ཆེན་བགྱིས་ཏེ་གཏན་ལ་ཕབ་པ།། །། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>This work was translated by the Indian preceptor Dharmākara and the translator Bandé Yeshé Nyingpo.</seg>
+            </tuv>
+        </tu>
+    <tu id="UT22084-072-020-TU-35">
+            <prop name="revision">v-1.0.2-2021</prop>
+            <prop name="location-id">UT22084-072-020-34</prop>
+            <tuv xml:lang="en">
+                <seg>It was then revised and finalized by Bandé Paltsek.</seg>
+            </tuv>
+        </tu>
+        </body>
+</tmx>

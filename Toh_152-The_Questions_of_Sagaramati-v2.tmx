@@ -1715,7 +1715,7 @@ The Questions of Sāgaramat</seg>
 </tu>
 <tu>
             <prop name="folio">F.8.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!བདག་མེད་ཐེག་པར་གནས་<tei:ref folio="F.8.a"/>ནས་བྱང་ཆུབ་དམིགས་པ་མེད་ཅིང་དེ་མི་འདོར། །</seg>
             </tuv>
@@ -2235,7 +2235,7 @@ The Questions of Sāgaramat</seg>
 </tu>
 <tu>
             <prop name="folio">F.9.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!བློ་གྲོས་རྒྱ་མཚོ་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནི་དགེ་བའི་རྩ་བས་བསྟན་པ་ཡིན་ཏེ། </seg>
             </tuv>
@@ -2246,7 +2246,7 @@ The Questions of Sāgaramat</seg>
 </tu>
 <tu>
             <prop name="folio">F.9.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དགེ་བའི་བསམ་པ་དང་ལྡན་པ། ངེས་པའི་ཕུང་པོ་ལ་རབ་ཏུ་གནས་པ། ཚོགས་བསགས་པ། དབང་པོ་རྣོ་བ། དགེ་བའི་བཤེས་གཉེན་གྱིས་ཡོངས་སུ་ཟིན་པ། སངས་རྒྱས་ཀྱིས་བྱིན་གྱིས་བརླབས་པ། རྒྱུའི་སྟོབས་ཅན་ཡིན་ཏེ</seg>
             </tuv>
@@ -3809,7 +3809,7 @@ The Questions of Sāgaramat</seg>
 </tu>
 <tu>
             <prop name="folio">F.13.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རྫོགས་པའི་བྱང་ཆུབ་སེམས་སོགས་བྱ་ཕྱིར་བརྟན། །</seg>
             </tuv>
@@ -4117,7 +4117,7 @@ The Questions of Sāgaramat</seg>
 </tu>
 <tu>
             <prop name="folio">F.13.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེ་ལྟ་དེ་ལྟར་དེ་བསམ་རི་རབ་འདྲ། །</seg>
             </tuv>
@@ -4127,7 +4127,7 @@ The Questions of Sāgaramat</seg>
 </tu>
 <tu>
             <prop name="folio">F.13.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ནང་ནི་རབ་ཞི་སྲིད་པའི་ཉེས་པ་མཐོང་། །</seg>
             </tuv>
@@ -9044,7 +9044,7 @@ The Questions of Sāgaramat</seg>
 </tu>
 <tu>
             <prop name="folio">F.28.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེ་ཡི་ངག་ནི་ཕྱད་ཅིང་མཉམ་ལ་ཡང་དག་མིན། །</seg>
             </tuv>
@@ -9419,7 +9419,7 @@ The Questions of Sāgaramat</seg>
 </tu>
 <tu>
             <prop name="folio">F.28.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རྒྱལ་བའི་ཕྱག་རྒྱ་སྤྱངས་པ་ཐོབ་པར་གྱུར་ནས་ནི། །ཡོན་ཏན་འདི་འདྲ་དེ་ཀུན་བསམ་གྱིས་མི་ཁྱབ་འགྱུར། །</seg>
             </tuv>
@@ -16862,7 +16862,7 @@ The Questions of Sāgaramat</seg>
 </tu>
 <tu>
             <prop name="folio">F.47.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཚངས་པ་མཚན་མ་མེད་པའི་དོན་ནི་སངས་རྒྱས་ཀྱི་ཆོས་ཀྱི་ཆོས་ཀྱི་དོན་ནོ། །</seg>
             </tuv>

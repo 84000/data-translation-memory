@@ -110,7 +110,7 @@
 </tu>
 <tu>
             <prop name="folio">F.299.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཀྱེ་གཽ་ཏ་མ་ལས་ཀྱི་རྣམ་པར་སྨིན་པ་གང་གི་ཕྱིར་ན་སེམས་ཅན་སྣ་མང་པོར་འགྱུར། </seg>
             </tuv>
@@ -132,7 +132,7 @@
 </tu>
 <tu>
             <prop name="folio">F.299.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!མ་ན་བ་སེམས་ཅན་རྣམས་ནི་ཚེ་རབས་ཀྱི་ལས་ལས་གྱུར་ཏེ། སྦྱིན་པའི་རྣམས་ཀྱང་ལས། སྐྱེ་བའི་རྣམས་ཀྱང་ལས། སོ་སོར་རྒྱུ་བ་ཡང་ལས་ཏེ། མ་ན་བ་སེམས་ཅན་རྣམས་ནི་ལས་ཀྱིས་རྣམ་པར་བསྒྱུར་རོ། །</seg>
             </tuv>
@@ -395,7 +395,7 @@
 </tu>
 <tu>
             <prop name="folio">F.299.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ལས་ཀྱིས་ཡུལ་གཞན་དུ་སྐྱེ་བར་འགྱུར་བ་ཡང་ཡོད། </seg>
             </tuv>
@@ -460,7 +460,7 @@
 </tu>
 <tu>
             <prop name="folio">F.300.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!སེམས་ཅན་དམྱལ་བར་ཕྱིན་མ་ཐག་ཏུ་སྐྱེས་པ་ཡང་ཡོད། </seg>
             </tuv>
@@ -671,7 +671,7 @@
 </tu>
 <tu>
             <prop name="folio">F.300.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!སྲོག་གཅོད་པ། སྲོག་གཅོད་དུ་བཅུག་པ། སྲོག་གཅོད་པ་ལ་སྟོད་པ། སྲོག་གཅོད་པ་ལ་སྨོན་པ། མངལ་གནས་མེད་པར་བྱེད་པ། མངལ་གནས་མེད་པར་བྱེད་དུ་བཅུག་པ། དགྲ་བོ་ལ་གསད་པར་སེམས་པ། མི་མཛའ་བ་ཤི་ན་དགའ་བ། རྟེན་བཅས་ཤིང་སེམས་ཅན་གསད་པ། ཐབ་མོ་ལ་ལྟ་ཞིང་དད་པ་དང་བཅུ་སྟེ། ཆོས་འདི་བཅུས་ན་ཚེ་ཐུང་ཞིང་ནད་མང་བར་འགྱུར་རོ། །</seg>
             </tuv>
@@ -746,7 +746,7 @@
 </tu>
 <tu>
             <prop name="folio">F.301.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དབྱུག་པ་དང་ཐལ་མོ་ལ་སོགས་པས་བཙོགས་པ་དང་། བྱུག་པ་དང་། ཐལ་མོ་ལ་སོགས་པས་འཚོག་ཏུ་བཅུག་པ་དང་། དབྱུག་པ་དང་ཐལ་མོ་ལ་སོགས་པས་འཚོག་པ་ལ་སྟོད་པ་དང་། དབྱུག་པ་དང་ཐལ་མོ་ལ་སོགས་པས་འཚོག་པ་ལ་སྨོན་པ། ཕ་མ་རྣམས་ཀྱི་སེམས་ཉོན་མོངས་པ། མྱ་ངན་བསྲིང་བ་རྣམས་ཀྱི་སེམས་ཉོན་མོངས་པ། མི་མཛའ་བ་རྣམས་ན་ན་དགའ་བ། མི་<tei:ref folio="F.301.a"/>མཛའ་བ་རྣམས་ནད་མི་སོས་ན་དགའ་བ། སྨན་ལོག་པ་བྱིན་པ། ཟས་མི་ཞུ་བ་ཟ་བ་དང་བཅུ་སྟེ། </seg>
             </tuv>
@@ -793,7 +793,7 @@
 </tu>
 <tu>
             <prop name="folio">F.301.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དབྱུག་པ་དང་ཐལ་མོ་ལ་སོགས་པས་གཞན་མི་འཚོག་པ། དབྱུག་པ་དང་ཐལ་མོ་ལ་སོགས་པས་འཚོག་ཏུ་མི་གཞུག་པ། དབྱུག་པ་དང་ཐལ་མོ་ལ་སོགས་པས་འཚོག་པ་ལ་མི་སྟོད་པ། དབྱུག་པ་དང་ཐལ་མོ་ལ་སོགས་པས་འཚོག་པ་ལ་མི་སྨོན་པ། ཕ་མ་ལ་སོགས་པ་ན་བ་རྣམས་ལ་རིམ་གྲོ་བྱེད་པ། མྱ་ངན་བསྲིངས་པ་རྣམས་ན་བ་ལ་རིམ་གྲོ་བྱེད་པ། མི་མཛའ་བ་རྣམས་ན་ན་མི་དགའ་བ། མི་མཛའ་བ་རྣམས་ནད་སོས་ན་དགའ་བ། ནད་པ་ལ་སྨན་བྱིན་པ། ཟས་ཞུ་ནས་ཟ་བ་དང་བཅུ་སྟེ། </seg>
             </tuv>
@@ -841,7 +841,7 @@
 </tu>
 <tu>
             <prop name="folio">F.301.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཁྲོ་བ་གནོང་བཅབས་པ། ཅུང་ཟད་ལས་ཀྱང་འཁོན་དུ་འཛིན་པ། གཏུམ་པ་ཕ་མ་རྣམས་ལ་ངན་དུ་སྨྲ་བ། མྱ་ངན་བསྲིངས་པ་རྣམས་ལ་ངན་དུ་སྨྲ་བ། མྱ་ངན་བསྲིངས་པའི་སྤྱད་པ་ཀུན་ལ་ངན་དུ་བྱེད་པ། ཡང་དག་པར་གཤེགས་པའི་མཆོད་རྟེན་ལ་འོད་གཅོད་པ། གང་ཟག་མི་སྡུག་པ་རྣམས་ལ་དངན་ཅན་བྱེད་པ། ཅི་ལ་ཡང་མི་གཙང་བར་བྱེད་པ་འདི་དང་ཆོས་བཅུའོ། །</seg>
             </tuv>
@@ -864,7 +864,7 @@
 </tu>
 <tu>
             <prop name="folio">F.301.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཆོས་བཅུས་བཟང་པོར་འགྱུར་ཏེ། </seg>
             </tuv>
@@ -883,7 +883,7 @@
 </tu>
 <tu>
             <prop name="folio">F.301.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!མི་ཁྲོ་བ་གོས་བྱིན་པ། ཡང་དག་པར་གཤེགས་པའི་མཆོད་རྟེན་ལ་རྟག་ཏུ་ཕྱག་དར་བྱེད་པ། གཙུག་ལག་ཁང་ལ་བྱི་དོར་བྱེད་པ། ཕ་མ་ལ་སྙན་དུ་སྨྲ་བ། མྱ་ངན་ལས་བསྲིངས་པ་རྣམས་ལ་སྙན་དུ་སྨྲས་པ། གང་ཟག་མི་སྡུག་པ་རྣམས་ལ་དངན་ཅན་མི་བྱེད་པ། ཅི་ལ་ཡང་གཙང་བར་བྱེད་པ་སྟེ། ཆོས་འདི་དང་བཅུའོ། །</seg>
             </tuv>
@@ -960,7 +960,7 @@
 </tu>
 <tu>
             <prop name="folio">F.301.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!གཞན་གྱིས་ཐོབ་པ་ལ་ཕྲག་དོག་མི་བྱེད་པ། གཞན་གྱིས་ཐོབ་ན་དགའ་བ། གཞན་གྱིས་མ་ཐོབ་པ་ལ་མི་དགའ་བ། གཞན་སྐྱིད་པ་དང་། གྲགས་པ་དང་། ཚིགས་སུ་བཅད་ཅིང་སྒྲས་སྟོད་པ་མེད་པ་ལ་མི་དགའ་བ། གྲགས་པ་དང་ཚིགས་སུ་བཅད་ཅིང་སྒྲས་སྟོད་པ་ལ་དགའ་བ། བྱང་ཆུབ་ཀྱི་སེམས་སྐྱེ་བར་བྱེད་པ། ཡང་དག་པར་གཤེགས་པའི་མཆོད་རྟེན་དང་གནས་བྱེད་པ། དབང་ཆུང་ངུ་ལ་མི་དགེ་བའི་རྩ་བ་གཅོད་པར་བྱེད་པ། དབང་ཆེན་པོ་རྣམས་ལ་དགེ་བའི་རྩ་བ་སྐྱེད་པ་དང་བཅུའོ། །</seg>
             </tuv>
@@ -998,7 +998,7 @@
 </tu>
 <tu>
             <prop name="folio">F.301.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཕ་མ་ལ་ཕ་མར་མི་འཛིན་པ། དགེ་སྦྱོང་དུ་མི་ཤེས་པ། བྲམ་ཟེར་མི་ཤེས་པ། རིགས་ཀྱིས་བཙུན་པ་ལ་མི་བཀུར་བ། མཁན་པོ་དང་། བླ་མ་དང་། ཐར་པར་ཞུགས་པ་རྣམས་ལ་རིམ་གྲོ་དང་། བསྟི་སྟང་དུ་མི་བྱེད་པ་ནམས་ཀྱང་མགྲོན་མི་གཉེར་བ། ཕ་མ་ལ་སྲི་ཞུ་མི་བྱེད་པ། མཁན་པོ་དང་བླ་མ་དང་། ཐར་པར་ཞུགས་པ་རྣམས་ཁྱད་དུ་གསོད་ཅིང་སྲི་ཞུ་མི་བྱེད་པ། རིགས་ཆེན་པོ་ལས་སྐྱེས་པའི་གང་ཟག་རྣམས་སྤོང་བ། རིགས་ཆུང་ངུ་ལས་སྐྱེས་པའི་གང་ཟག་རྣམས་ལ་བཀུར་བ་འདི་དང་བཅུའོ། །</seg>
             </tuv>
@@ -1111,7 +1111,7 @@
 </tu>
 <tu>
             <prop name="folio">F.302.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!མ་བྱིན་པར་ལེན་པ་སྤོང་བ། མ་བྱིན་པར་ལེན་པ་སྤོང་བར་འཇུག་པ། མ་བྱིན་པར་ལེན་པ་སྤོང་བ་ལ་དགའ་བ། ཕ་མ་ལ་འཚོ་བ་སྦྱིན་པ། མཁན་པོ་དང་བླ་མ་ལྷག་མ་དང་གཞན་རྣམས་ལ་གཙུག་ལག་ཁང་དང་། གནས་དང་རིམ་པར་སྤྱོད་པ་དང་། ཆོས་གོས་དང་། མལ་སྟན་དང་། ན་བའི་གསོས་སྨན་དང་། གཡོག་དང་། འཚོ་བ་སྦྱིན་པ་གཞན་གྱིས་ཐོབ་པ་ལ་དགའ་བར་སེམས་པ། གཞན་གྱིས་དོན་ཐོབ་པར་ནན་ཏན་དུ་བསྒྲུབས་པ། གཞན་གྱིས་མ་ཐོབ་པ་ལ་མི་དགའ་བ། ཕྱོགས་བཅུ་ཐམས་ཅད་དུ་ལོ་ལེགས་པར་སྨོན་པ། སྦྱིན་པ་ལ་སོགས་པ་གཏོང་བའི་གང་ཟག་རྣམས་ལ་རབ་ཏུ་དགའ་བ་དང་བཅུའོ། །</seg>
             </tuv>
@@ -1150,7 +1150,7 @@
 </tu>
 <tu>
             <prop name="folio">F.302.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!གང་ཟག་སུ་ཡང་རུང་སྟེ། འདྲི་མི་ཤེས་པ། ཡང་དག་པའི་ཆོས་མ་ཡིན་པ་ཀུན་འཕེལ་བར་བྱེད་པ། ཡང་དག་པའི་ཆོས་སྤོང་བ། ཡང་དག་པའི་ཆོས་འཆད་པ་ལ་བསྟི་སྟང་དང་རི་མོར་མི་བྱེད་པ། མ་གཙིགས་པར་སྨྲ་བ་ལ་དགེ་བར་སྟོད་པ། ངན་པའི་གང་ཟག་རྣམས་ལ་འཁོར་ཞིང་སྙེན་པ། ཡང་དག་པ་ལ་མཁས་པ་རྣམས་སྤོང་བ། ལོག་པར་ལྟ་བ་ལ་ཚད་མར་འཛིན་ཅིང་བསྟོད་པ། ཡང་<tei:ref folio="F.302.b"/>དག་པར་ལྟ་བ་ལ་སྤོང་བ། ཤེས་རབ་དང་ལྡན་པའི་གང་ཟག་རྣམས་ལ་སྤོང་བ་དང་བཅུའོ། །</seg>
             </tuv>
@@ -1190,7 +1190,7 @@
 </tu>
 <tu>
             <prop name="folio">F.302.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!གང་ཟག་སུ་ཡང་རུང་སྟེ། རིམ་པར་འདྲི་ཤེས་པ། མི་མཁས་པའི་དགེ་སྦྱོང་དང་། བྲམ་ཟེ་དང་། ངན་པའི་གང་ཟག་རྣམས་ལ་མི་འཁོར་མི་སྙེན་ཅིང་རི་མོ་བསྟི་སྟང་མི་བྱེད་པ། མཁས་པའི་གང་ཟག་རྣམས་ལ་འཁོར་ཞིང་བསྙེན་ནས་རི་མོ་བསྟི་སྟང་བྱེད་པ། ཡང་དག་པའི་ཆོས་མ་ཡིན་པ་ཀུན་གཏོང་བ། ཡང་དག་པའི་ཆོས་འཕེལ་བར་བྱེད་པ། ཆོས་ཀྱི་སྣོད་གང་ཟག་རྣམས་མི་འཇིགས་པ་ལ་གོམས་པར་བྱེད་པ། ཡང་དག་པའི་ཚིག་སྙན་པར་སྨྲ་བ་ལ་དགེའོ་ཞེས་སྟོད་པ། ངན་པར་སྨྲ་བ་ལ་དགེའོ་ཞེས་མི་སྟོད་པ། ལོག་པར་ལྟ་བ་ལ་མི་སྨོན་པ། ཡང་དག་པར་ལྟ་བ་ལ་སྟོད་པ་དང་བཅུའོ། །</seg>
             </tuv>
@@ -1228,7 +1228,7 @@
 </tu>
 <tu>
             <prop name="folio">F.302.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ལུས་ཀྱིས་ངན་པ་ཆེར་སྤྱོད་པ། ངག་གིས་ངན་པ་ཆེར་སྤྱོད་པ། ཡིད་ཀྱིས་ངན་པ་ཆེར་སྤྱོད་པ། ཆད་པར་ལྟ་བ། རྟག་པར་ལྟ་བ། བྱ་བའི་མི་རིགས་པར་ལྟ་བ། ཕན་པ་མེད་པར་བྱེད་པ། མྱ་ངན་བསྲིངས་པ་ལ་ངན་དུ་སྨྲ་བ། འདོད་པས་ལོག་པར་སྤྱོད་དུ་བཅུག་པ་དང་བཅུའོ། །</seg>
             </tuv>
@@ -1266,7 +1266,7 @@
 </tu>
 <tu>
             <prop name="folio">F.302.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ལུས་ཀྱིས་ངན་པ་འབྲིང་དུ་སྤྱོད་པ། ངག་གིས་ངན་པ་འབྲིང་དུ་སྤྱོད་པ། ཡིད་ཀྱིས་ངན་པ་འབྲིང་དུ་སྤྱོད་པ། འདོད་པ་སྣ་ཚོགས་ཀུན་གཡོས་པའི་ལས་བྱས་པ། ཁྲོ་བ་སྣ་ཚོགས་ཀུན་གཡོས་པའི་ལས་བྱས་པ། གླེན་པ་སྣ་ཚོགས་ཀུན་གཡོས་པའི་ལས་བྱས་པ། མི་རིགས་པ་བྱིན་པ་བྱོལ་སོང་དུ་འགྱུར་བ་རྣམས་ལ་ཁྲོ་བ། བྱང་ཆུབ་སེམས་དཔའི་སྨོན་ལམ་གྱི་མཐུས་སེང་གེར་སྐྱེས་པ། བྲམ་ཟེ་ཁྱད་པར་བྱེད་པ། ཁ་ངན་པར་བྱས་པའི་ལན་གྱིས་སྤྲེའུར་སྐྱེས་པ་ལྟ་བུ་དང་བཅུའོ། །</seg>
             </tuv>
@@ -1296,7 +1296,7 @@
 </tu>
 <tu>
             <prop name="folio">F.303.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ལུས་ཀྱིས་ངན་པ་<tei:ref folio="F.303.a"/>ཆུང་ངུ་སྤྱོད་པ། ངག་གིས་ངན་པ་ཆུང་ངུ་སྤྱོད་པ། ཡིད་ཀྱིས་ངན་པ་ཆུང་ངུ་སྤྱོད་པ། ངན་པ་ལ་དད་པ། ཤིན་ཏུ་དད་པ། ལོག་པས་འཚོ་བ། སེར་སྣ་ལ་དད་ཅིང་མི་གཏོང་བ། སྦྱིན་པ་ལ་གེགས་བྱེད་པ། འདོད་པ་ལ་ཆགས་བཞིན་དུ་ཤི་བ། བྲུ་བ་ཚ་ཞིང་སྐོམ་བཞིན་དུ་ཤི་བ་དང་བཅུའོ། །</seg>
             </tuv>
@@ -1334,7 +1334,7 @@
 </tu>
 <tu>
             <prop name="folio">F.303.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཐམས་ཅད་ལའང་ལུས་ཀྱིས་ངན་པ་ཆུང་ཟད་སྤྱོད་པ། ཐམས་ཅད་ལའང་ངག་གིས་ངན་པ་ཆུང་ཟད་སྤྱོད་པ། ཐམས་ཅད་ལའང་ཡིད་ཀྱིས་ངན་པ་ཆུང་ཟད་སྤྱོད་པ། ངར་སེམས་པ། མི་མཚུངས་པའི་ང་། ཟླ་ལས་ལྷག་པའི་ང་། གོང་མ་ལས་ལྷག་པའི་ང་། གོང་མ་ལས་ཀྱང་གོང་མའི་ང་། བདག་ལ་མི་སྲིད་པའི་ང་། དགེ་བའི་རྩ་བ་བསྐྱེད་པ་ལ་ལོག་པར་སྨོན་པ་དང་བཅུ་སྟེ། </seg>
             </tuv>
@@ -1469,7 +1469,7 @@
 </tu>
 <tu>
             <prop name="folio">F.303.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དགེ་བ་བཅུའི་ཆོས་དང་། མི་གཡོ་བ་འཛིན་པ་བཞིའི་ཆོས་སྤྱད་ན་གཟུགས་མེད་པ་ན་སྤྱོད་པའི་ལྷར་སྐྱེ་བར་འགྱུར་ཏེ། </seg>
             </tuv>
@@ -1489,7 +1489,7 @@
 </tu>
 <tu>
             <prop name="folio">F.303.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!གཟུགས་ཐམས་ཅད་ལས་འདས་ཏེ། རིག་པའི་མིང་ཐམས་ཅད་བརྗོད་དུ་མེད་པ་ནས་<tei:ref folio="F.303.b"/>ཆོས་སྣ་ཚོགས་སྨྲ་བསམ་ལས་འདས་པར་ནམ་མཁའ་མཐའ་ཡས་པ་བསམས་ནས་ནམ་མཁའ་མཐའ་ཡས་སྐྱེ་མཆེད་སྟེངས་ཀྱི་མི་གཡོ་མི་འཛིན་པ་དང་། </seg>
             </tuv>
@@ -1578,7 +1578,7 @@
 </tu>
 <tu>
             <prop name="folio">F.303.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དགེ་བའི་རྩ་བ་ལས་བྱས་ལ་དེས་བདག་ཅིར་སྨོན་ལམ་བཏབ་པ་དང་། </seg>
             </tuv>
@@ -1598,7 +1598,7 @@
 </tu>
 <tu>
             <prop name="folio">F.303.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཇི་ལྟར་ལས་ཀྱིས་འགྱུར་བར་སྐྱེ་ཞེ་ན། </seg>
             </tuv>
@@ -1630,7 +1630,7 @@
 </tu>
 <tu>
             <prop name="folio">F.303.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!སངས་རྒྱས་ཀྱང་རུང་། ཆོས་ཀྱང་རུང་། དགེ་འདུན་ཀྱང་རུང་། ཚུལ་ཁྲིམས་ཐུབ་པའི་གང་ཟག་ཀྱང་རུང་སྟེ། དེ་ལ་ཤིན་ཏུ་དད་པར་བསམས་ནས་བྱིན་པས་ཡུལ་གཞན་དུ་སྨོན་ལམ་བཏབ་པ་དང་། </seg>
             </tuv>
@@ -1641,7 +1641,7 @@
 </tu>
 <tu>
             <prop name="folio">F.303.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ལས་གང་བྱས་ཀྱང་རུང་སྟེ། བཟང་པོ་དང་། ངན་པ་གར་འགྱུར་བ་ནི་འདི་ལྟ་སྟེ། དཔེར་ན་ཚོང་པ་བཞིན་ཏེ། ལས་དེ་ལྟ་བུས་ཡུལ་གཞན་དུ་སོང་ནས་རྣམ་པར་སྨིན་པར་འགྱུར་རོ། །</seg>
             </tuv>
@@ -1652,7 +1652,7 @@
 </tu>
 <tu>
             <prop name="folio">F.303.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཇི་ལྟར་ལས་ཀྱིས་མ་བསམས་པར་བྱས་པ་གང་ཞེ་ན། </seg>
             </tuv>
@@ -1710,7 +1710,7 @@
 </tu>
 <tu>
             <prop name="folio">F.304.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ལུས་ཀྱིས་མ་བྱས་པ་དང་། སེམས་རྒྱུས་ཤིང་ལས་འདི་བྱའོ་ཞེས་ཁར་སྨྲས་ལ་མ་བྱས་པ་དེ་ལྟ་བུའི་ལས་ནི་བསམས་ཏེ་མ་བྱས་པའོ། །</seg>
             </tuv>
@@ -1720,7 +1720,7 @@
 </tu>
 <tu>
             <prop name="folio">F.304.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཇི་ལྟར་ལས་བསམས་ཏེ་བྱས་པ་གང་ཞེ་ན། </seg>
             </tuv>
@@ -1741,7 +1741,7 @@
 </tu>
 <tu>
             <prop name="folio">F.304.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཇི་ལྟར་གང་ཟག་ལས་འདི་ལྟ་བུ་འདུས་པས་ན་སེམས་ཅན་ལས་དམྱལ་བར་སྐྱེས་ཏེ། སེམས་ཅན་དམྱལ་བའི་ཚེ་ཀུན་རྫོགས་ནས་སྐྱེ་བའི་ལམ་ཡིན་ཞེ་ན། </seg>
             </tuv>
@@ -1912,7 +1912,7 @@
 </tu>
 <tu>
             <prop name="folio">F.304.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ནོར་མང་པོ་དང་། སྤྱོད་པ་མང་པོ་དང་། མང་པོའི་ཇོ་བོར་འགྱུར་ཏེབློན་པོ་དང་། གྲོགས་པོ་དང་། གཉེན་དང་། རིགས་གཅིག་པ་མང་དུ་བདོག་པ་དང་། </seg>
             </tuv>
@@ -2256,7 +2256,7 @@
 </tu>
 <tu>
             <prop name="folio">F.305.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཉིད་ཀྱིས་ཀྱང་སྦྱིན་པ་མ་བྱིན་པ་ཡིན། </seg>
             </tuv>
@@ -2488,7 +2488,7 @@
 </tu>
 <tu>
             <prop name="folio">F.306.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!མ་རབས་ཀྱིས་བསོད་ནམས་བྱས་ནས་འཁོར་ལོ་སྐོར་བའི་རྒྱལ་པོར་གྱུར་པ་དེ་ལྟ་བུའི་གང་ཟག་ནི་ལུས་བདེ་ལ་སེམས་མི་བདེ་བའོ། །</seg>
             </tuv>
@@ -2518,7 +2518,7 @@
 </tu>
 <tu>
             <prop name="folio">F.306.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!འགུག་པ་ལྟ་བུ་དགྲ་བཅོམ་པའི་གང་ཟག་ནི་སེམས་བདེ་ལ་ལུས་མི་བདེ་ཞེས་བྱའོ། །</seg>
             </tuv>
@@ -2538,7 +2538,7 @@
 </tu>
 <tu>
             <prop name="folio">F.306.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!བསོད་ནམས་བྱས་པའི་དགྲ་བཅོམ་པ་སྟེ། ཁྲིམས་རྫོགས་པ་རྡོ་སྟོབས་ལྟ་བུའི་གང་ཟག་ནི་ལུས་དང་སེམས་གཉིས་ཀ་བདེ་བའོ། །</seg>
             </tuv>
@@ -2673,7 +2673,7 @@
 </tu>
 <tu>
             <prop name="folio">F.306.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཕྲ་མ་མང་དུ་བྱས་པའི་ལས་ཀྱི་འབྲས་བུ་ནི་ཡུལ་མཐོ་དམན་ཅན་དང་། ལྕང་ལྕོང་ཅན་དང་། མི་གཙང་བ་དང་། ན་རྐོང་དང་། རྡོ་བ་གྲམ་ཁྲོད་ཅན་གྱི་ཡུལ་དུ་སྐྱེའོ། །</seg>
             </tuv>
@@ -2730,7 +2730,7 @@
 </tu>
 <tu>
             <prop name="folio">F.306.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!བཅོམ་ལྡན་འདས་ཀྱིས་ཡང་བཀའ་སྩལ་པ། མན་པ་ངན་པ་རྣམ་པ་བཅུར་འགྱུར་བ་ཡང་གོ་ཞིང་ཤེས་པར་བྱོས་ཤིག །</seg>
             </tuv>
@@ -2798,7 +2798,7 @@
 </tu>
 <tu>
             <prop name="folio">F.306.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!མི་རིགས་པར་འགྲོ་བ་ཡིན། </seg>
             </tuv>
@@ -2818,7 +2818,7 @@
 </tu>
 <tu>
             <prop name="folio">F.306.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!སྡིག་པའི་གྲོགས་པོ་ཀུན་གྱི་ནད་ཀྱིས་ཟིན་པ་ཡིན། </seg>
             </tuv>
@@ -3041,7 +3041,7 @@
 </tu>
 <tu>
             <prop name="folio">F.307.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!མངོན་པར་སྣང་བཞིན་དུ་ནོར་ཟད་པ། མ་དད་པ་མང་པོ་འདུ་བ། འཐབ་མོ་དང་རྩོད་པ་རྣམས་སྐྱེ་བ། ཁྲེལ་ཞིང་ངོ་ཚས་མི་འཛེམ་པ། མི་སྙན་པར་གྲགས་པར་བྱེད་པ། ཤེས་རབ་ཉམས་པར་བྱེད་པ། སྐྱིད་པ་སྔན་ཅད་མ་བསགས་པ། ད་ཡང་མི་སོགས་པ། སྐྱིད་པའི་བསགས་པ་ཀུན་ཟད་ཅིང་མེད་པར་བྱས་པ། གསང་བ་རྣམས་སྨྲ་བ། ལས་སུ་བྱ་བ་རྣམས་ཤོར་བ། </seg>
             </tuv>
@@ -3088,7 +3088,7 @@
 </tu>
 <tu>
             <prop name="folio">F.307.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!མན་པ་བདེ་བར་གཤེགས་པའི་མཆོད་རྟེན་ལ་ཐལ་མོ་སྦྱར་ནས་གུས་པས་ཕྱག་བྱས་ནས་ལེགས་པ་བཅུ་ཐོབ་པར་འགྱུར་ཏེ། </seg>
             </tuv>
@@ -3277,7 +3277,7 @@
 </tu>
 <tu>
             <prop name="folio">F.307.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ལས་སེམས་ཤིང་བྱེད་པར་འགྱུར། </seg>
             </tuv>
@@ -3470,7 +3470,7 @@
 </tu>
 <tu>
             <prop name="folio">F.308.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ལུས་རྡུལ་མི་ཆགས་པ་ཡིན། </seg>
             </tuv>
@@ -3609,7 +3609,7 @@
 </tu>
 <tu>
             <prop name="folio">F.308.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཕྱོགས་བཅུར་ཁྲིམས་ཐུབ་པའི་གཟུགས་རྒྱས་པར་འགྲོ། </seg>
             </tuv>
@@ -3619,7 +3619,7 @@
 </tu>
 <tu>
             <prop name="folio">F.308.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཀུན་ཀྱང་དེ་ལས་འདུ་བར་འགྱུར། </seg>
             </tuv>
@@ -3630,7 +3630,7 @@
 </tu>
 <tu>
             <prop name="folio">F.308.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!འཇིག་རྟེན་གྱི་ནང་ན་རྙེད་པར་འགྱུར། </seg>
             </tuv>
@@ -3723,7 +3723,7 @@
 </tu>
 <tu>
             <prop name="folio">F.308.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!འཁོར་གྱི་རྣམས་གཏོང་ཞིང་ཉེ་བར་འགྱུར། </seg>
             </tuv>
@@ -4139,7 +4139,7 @@
 </tu>
 <tu>
             <prop name="folio">F.308.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དབང་ཆེ་ཞིང་འཁོར་མང་ལ་འཁོར་སྙིང་ཉེ་བར་འགྱུར། </seg>
             </tuv>
@@ -4187,7 +4187,7 @@
 </tu>
 <tu>
             <prop name="folio">F.309.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!བྱང་ཆུབ་སེམས་དཔའ་རྡོ་རྗེ་སྙིང་པོའི་ལུས་སུ་འགྱུར། </seg>
             </tuv>
@@ -4357,7 +4357,7 @@
 </tu>
 <tu>
             <prop name="folio">F.309.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!གཡོག་བྲན་དང་ལྡན་པར་འགྱུར། </seg>
             </tuv>
@@ -4395,7 +4395,7 @@
 </tu>
 <tu>
             <prop name="folio">F.309.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!སྣོད་སྤྱད་དང་ལྡན་པར་འགྱུར། </seg>
             </tuv>
@@ -4545,7 +4545,7 @@
 </tu>
 <tu>
             <prop name="folio">F.309.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!སྨྲ་བ་དང་ལྡན་པར་འགྱུར། </seg>
             </tuv>
@@ -4759,7 +4759,7 @@
 </tu>
 <tu>
             <prop name="folio">F.309.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཤིང་ཁྲོད་ན་གནས་པ་ལ་མི་དགའ་བ་ཡིན། </seg>
             </tuv>
@@ -4806,7 +4806,7 @@
 </tu>
 <tu>
             <prop name="folio">F.309.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ལྷ་དང་མི་ལ་དབེན་པ་ཡིན། </seg>
             </tuv>
@@ -4881,7 +4881,7 @@
 </tu>
 <tu>
             <prop name="folio">F.309.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!སེམས་མཉམ་པར་འགྱུར། </seg>
             </tuv>
@@ -5188,7 +5188,7 @@
 </tu>
 <tu>
             <prop name="folio">F.310.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དགེ་བའི་ཁྲིམས་ཚང་བའི་སེམས་སློངས་མོ་ལ་ཞུགས་པས་ཕྱོགས་གང་དུའང་མུན་པར་མི་འགྱུར་བ་ཡིན་ནོ། །</seg>
             </tuv>

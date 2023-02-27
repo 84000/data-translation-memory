@@ -6745,7 +6745,7 @@
         </tu>
         <tu>
             <prop name="folio">F.91.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource">Translated from the Stok Palace manuscript, see note.</flag>
+            <prop name="alternative-source">Translated from the Stok Palace manuscript, see note.</prop>
             <tuv xml:lang="bo">
                 <seg>!དགོན་པར་བགྱི་བ་ལྟ་བུ་ནི་འཇིག་རྟེན་གནས་པ་ལགས་སོ། །</seg>
             </tuv>

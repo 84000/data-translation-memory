@@ -2566,22 +2566,20 @@
 </tu>
 <tu>
             <prop name="folio">F.21.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="dubiousTranslation"/>
 	<tuv xml:lang="bo">
                 <seg>གསོལ་པ། བཅོམ་ལྡན་འདས་ཇི་ལྟར་ན་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ལ་མི་གདའ་བ་ཡང་ལགས། </seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>%The bodhisattvas asked, “Blessed One, how are bodhisattvas invisible?</seg>
+                <seg>The bodhisattvas asked, “Blessed One, how are bodhisattvas invisible?</seg>
             </tuv>
 </tu>
 <tu>
             <prop name="folio">F.21.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="dubiousTranslation"/>
 	<tuv xml:lang="bo">
                 <seg>ཇི་ལྟར་ན་ཐམས་ཅད་དུ་གདའ་བ་ཡང་ལགས། </seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>%How do they appear everywhere?</seg>
+                <seg>How do they appear everywhere?</seg>
             </tuv>
 </tu>
 <tu>
@@ -3857,7 +3855,7 @@
 </tu>
 <tu>
             <prop name="folio">F.23.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རིགས་ཀྱི་བུ་དག་དེ་ལྟ་བས་ན་རྨ་བྱུང་བར་ཡང་གྱིས་ཤིག །མ་རྨས་པར་ཡང་གྱིས་ཤིག །རྨ་བྱུང་བ་རྣམས་ནི་སོས་པར་ཡང་གྱིས་ཤིག །རྨ་མ་བྱུང་བ་རྣམས་ནི་རྨ་དབྱུང་ཤིག །</seg>
             </tuv>
@@ -4283,12 +4281,11 @@
 </tu>
 <tu>
             <prop name="folio">F.24.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="dubiousTranslation"/>
 	<tuv xml:lang="bo">
                 <seg>སྤྱིའུ་ཚུགས་ཀྱི་རྒྱུད་ཤེས་པར་བྱ་བ་ནི་འདུ་ཤེས་མེད་འདུ་ཤེས་མེད་མིན་སྐྱེ་མཆེད་ཀྱི་སྙོམས་པར་འཇུག་པ་ལས་ལོག་སྟེ་འདོད་པའི་ཁམས་སུ་སྣང་བར་བྱ་བ་སྟེ་དེ་ནི་ཚུལ་ལོ། །</seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>%‘Knowing the continuum that is reversed’ means reverting from the attainment of the stage of neither thought nor no thought and then appearing in the desire realm.</seg>
+                <seg>‘Knowing the continuum that is reversed’ means reverting from the attainment of the stage of neither thought nor no thought and then appearing in the desire realm.</seg>
             </tuv>
 </tu>
 <tu>
@@ -5093,7 +5090,7 @@
 </tu>
 <tu>
             <prop name="folio">F.26.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!བཀའ་སྩལ་པ། གྲོང་དང་། གྲོང་ཁྱེར་དང་། ཡུལ་འཁོར་དང་། ཕོ་བྲང་འཁོར་དག་ཏུ་ཕྱིན་པ་ན་གཟུགས་དང་། སྒྲ་དང་། དྲི་དང་། རོ་དང་། རེག་བྱ་རེག་པ་དག་སྣང་བར་འགྱུར་ཏེདེ་དག་ནི་བསམ་གཏན་གྱི་སྟོབས་ཀྱིས་མནན་པར་བྱའོ། །</seg>
             </tuv>

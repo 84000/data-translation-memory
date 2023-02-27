@@ -1753,7 +1753,7 @@
         </tu>
         <tu>
             <prop name="folio">F.31.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternativeSource">Follows KY, K, C, and U, see note.</flag>
+            <prop name="alternative-source">Follows KY, K, C, and U, see note.</prop>
             <tuv xml:lang="bo">
                 <seg>!ཁྱི་རོ་དེ་ལ་རིག་པར་བྱེད་དམ། སྐྱོད་པར་བྱེད་དམ། མངོན་པར་དགའ་བར་བྱེད་ན། </seg>
             </tuv>
@@ -2393,7 +2393,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-066-003-72"/>This concludes the Noble Great Vehicle Sūtra “ The Sections of Dharma .” Colophon</seg>
+                    <tei:milestone xml:id="UT22084-066-003-72"/>This concludes the Noble Great Vehicle Sūtra “ The Sections of Dharma .”</seg>
             </tuv>
         </tu>
         <tu>

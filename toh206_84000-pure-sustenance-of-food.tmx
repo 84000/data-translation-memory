@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+    <header creationtool="linguae-dharmae/84000" creationtoolversion="2.16.12a" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" eft:text-id="UT22084-062-006" eft:text-version="v-1.0.4-2022" eft:source-ref="/db/apps/84000-data/uploads/linguae-dharmae/aligned/31-10-2022/complete/toh206-bo_aligned.txt" eft:seconds-to-revise="0.102"/>
+    <body>
+        <!--<tu id="UT22084-062-006-TU-2">
+            <tuv xml:lang="bo"><seg>༄༅། །བོད་སྐད་དུ།</seg></tuv>
+            <tuv xml:lang="en"><seg></seg></tuv>
+        </tu>-->
+        <tu id="UT22084-062-006-TU-3">
+            <prop name="location-id">translation</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཟས་ཀྱི་འཚོ་བ་རྣམ་པར་དག་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Mahāyāna Sūtra Pure Sustenance of Food</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-4">
+            <prop name="location-id">UT22084-062-006-12</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Homage to all buddhas and bodhisattvas.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-5">
+            <prop name="location-id">UT22084-062-006-12</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-6">
+            <prop name="location-id">UT22084-062-006-12</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་འོད་མའི་ཚལ་ན་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་བརྒྱ་ཕྲག་ཕྱེད་དང་བཅུ་གསུམ་དང་། གཞན་ཡང་དགེ་སློང་ཕ་དང་། དགེ་སློང་མ་དང་། དགེ་བསྙེན་ཕ་དང་། དགེ་བསྙེན་མ་དང་། ལྷ་ཀླུ་སྡེ་བརྒྱད་དང་། བྱང་ཆུབ་སེམས་དཔའ་མང་པོ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་སོ། །དེ་ནས་མཽང་གལ་གྱི་བུ་ཆེན་པོ་འདུག་པ་ལས་ལངས་ཏེ། བཅོམ་ལྡན་འདས་ལ་ཕྱག་འཚལ་ཏེ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་བདག་སྔོན་གྲོང་ཁྱེར་དུ་བསོད་སྙོམས་ལ་མཆིས་པའི་ཤུལ་ལོགས་སུ་མི་གྲངས་ཁྲི་སྟོང་སྙེད་མཆིས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One was staying in the Bamboo Grove, accompanied by a great saṅgha of twelve hundred fifty monks, as well as other monks and nuns, laymen and laywomen, the eight classes of beings, and many bodhisattvas. The great Maudgalyāyana rose from his seat, bowed to the Blessed One, and said, “Blessed One, once when I went to town for alms, I noticed tens of thousands of people on the way.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-7">
+            <prop name="location-id">UT22084-062-006-12</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་གི་མགོ་བོ་ནི་རི་བཞིན་དུ་ཆེ། ཁོག་པ་ནི་རི་རབ་ལྷུན་པོ་ཙམ་འདྲ། མགྲིན་པ་ནི་ཁབ་བཞིན་དུ་ཕྲ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Their heads were as big as mountains and their bellies the size of Mount Sumeru, yet their throats were as thin as needles.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-8">
+            <prop name="location-id">UT22084-062-006-12</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཕན་ཚུན་བསྐྱོད་ཅིང་མཆི་བ་ན་ཤིང་རྟ་ལྔ་བརྒྱ་ཤིན་ཏུ་འཁྲོལ་བའི་སྒྲ་བྱུང་སྟེ། དེ་ཡང་མི་བཟད་པའི་གཞོབ་ཀྱི་དུད་པ་ཀུན་ནས་འཐུལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>When they moved back and forth, they emitted a sound like the rumbling of five hundred chariots and spewed intolerable acrid smoke everywhere.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-9">
+            <prop name="location-id">UT22084-062-006-12</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ཅིའི་དངོས་པོ་ལགས་པ་དང་། ཅི་ལས་གྱུར་པ་བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་དུ་གསོལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Who are they and where do they come from? Please tell us, Blessed One.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-10">
+            <prop name="location-id">UT22084-062-006-16</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། མཽད་གལ་གྱི་བུ་དེ་དག་ནི་འདྲེ་བཀྲེན་ལྟོགས་པ་ཡིན་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Maudgalyāyana,” replied the Blessed One, “those are starving spirits.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-11">
+            <prop name="location-id">UT22084-062-006-16</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>སྔོན་འདས་པའི་དུས་ན་མཆོད་སྡོང་བཤིག་པ་དང་། མཆོད་སྟོན་སྦྱར་བ་བཤིག་པས་དེ་ལྟ་བུའི་སྡིག་པ་རྣམ་པར་སྨིན་པ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>That is the ripening of past misdeeds such as ruining meals or the preparations for meals.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-12">
+            <prop name="location-id">UT22084-062-006-16</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཡང་གཅིག་ཏུ་ན་གཞན་གྱི་མཆོད་སྟོན་ཟོས་ནས་ཟ་གཅིག་པར་མ་བྱས་པའི་སྡིག་གི་རྣམ་པར་སྨིན་པ་དེ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It can also be the ripening of the misdeed of failing to eat only one meal per day because they consumed a meal offered to someone else.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-13">
+            <prop name="location-id">UT22084-062-006-18</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མཆོད་སྟོན་ལྷག་མ་ཟ་གཅིག་པར་མི་བྱེད་པ་ལ་མ་བྱིན་ཅིག །ཡོན་བདག་གིས་ལྷག་མ་རྣམས་དགེ་འདུན་ལ་སྦགས་པའི་གསོལ་བ་བྱོས་ལ་བཟོད་པར་གསོལ་ཅིག །སྦགས་པའི་ཟས་རྣམས་དགེ་འདུན་རྣམས་ཀྱིས་གནང་བ་བྱིན་ཅིག །གནང་བ་མ་བྱིན་ན་དགེ་འདུན་རྣམས་ཀྱང་ལྟུང་བར་འགྱུར་རོ། །དེ་ནས་མཽད་གལ་གྱི་བུས་གསོལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“The leftovers from meals are not to be given to those who fail to eat only one meal per day. The polluted leftovers of a patron are to be used for the saṅgha; it is polluted food but is to be tolerated. Polluted food made by the saṅgha must be given; otherwise, the saṅgha will incur a downfall.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-14">
+            <prop name="location-id">UT22084-062-006-18</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་ནི་ཡང་དག་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“The Blessed One is correct,” Maudgalyāyana remarked.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-15">
+            <prop name="location-id">UT22084-062-006-21</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཡོན་བདག་སུ་ཡང་རུང་སྟེ་ཆོས་བཞིན་དུ་བསྡུ་བའི་ཕྱིར་མཆོད་པའི་ཡོ་བྱད་འབྱོར་ཚོགས་ཏེ། ཟས་གཅིག་པར་བྱས་པ་རྣམས་ནི་ཟས་ཀྱི་འཚོ་བ་དང་ལྡན་པར་འགྱུར་རོ། །བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། ཟ་གཅིག་པར་མ་བྱས་པ་རྣམས་ནི་ཟས་དང་མི་ལྡན་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One continued, “Articles of offering collected in accordance with the Dharma, no matter who the patron may be, can serve as the sustenance for those who eat only a single meal. Those who fail to eat only one meal will lack for food.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-16">
+            <prop name="location-id">UT22084-062-006-21</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ལྟར་ན་ཉི་མ་གཅིག་ཟ་གཅིག་པ་ཐུབ་ན་ཉི་མ་དྲུག་ཁྲིར་བསོད་ནམས་དང་བཟའ་བ་རྣམ་པར་འཕེལ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Conversely, the ability to eat only one meal a day is the equivalent of sixty thousand days’ worth of merit, and it leads to an increase of foodstuffs.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-17">
+            <prop name="location-id">UT22084-062-006-21</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ལ་དེ་ལྟར་མ་བྱས་པ་རྣམས་ནི་ཉི་མ་ཁྲི་ཕྲག་དྲུག་ཅུར་འདྲེ་ལྟོགས་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Those unable to eat only a single meal will become starving spirits for six hundred thousand days.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-18">
+            <prop name="location-id">UT22084-062-006-21</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ཅིའི་ཕྱིར་ཞེ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>How does that happen?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-19">
+            <prop name="location-id">UT22084-062-006-21</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེའི་སྦྱིན་པ་ནི་ཤིན་ཏུ་ལྕི་བ་ཡིན་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It happens because the donations to them are weighty.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-20">
+            <prop name="location-id">UT22084-062-006-21</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>གཉིས་ན་ལྕགས་ཀྱི་ཐུ་ལུམ་ཟོས་ཀྱང་སླའི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It would be preferable to eat lumps of iron.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-21">
+            <prop name="location-id">UT22084-062-006-21</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཡོན་བདག་དད་པ་ཅན་གྱི་ཟས་ནི་ཤིན་ཏུ་བཞུ་བར་དཀའ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The food from faithful patrons will not be easy to digest;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-22">
+            <prop name="location-id">UT22084-062-006-21</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤིན་ཏུ་ཡུན་རིང་པོར་སྡུག་བསྔལ་བར་འགྱུར་ཏེ། ཚེ་རབས་ཁྲི་ཕྲག་བརྒྱར་འདྲེ་ལྟོགས་པའི་དངོས་པོར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>they will experience suffering for an extremely long time and become the entity known as a starving spirit for a million lifetimes. Exercise extreme caution with all meritorious food offerings.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-23">
+            <prop name="location-id">UT22084-062-006-23</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བསོད་ནམས་ཀྱི་ཟས་བྱའོ་ཅོག་ལ་ནན་ཏན་ཆེར་བྱོས་ཤིག །སྣམ་ཕྲག་གམ་ཕུ་རུང་གི་ནང་དུ་ཁྱེར་བར་བྱས་ན་ཚེ་རབས་ལྔ་བརྒྱར་དམྱལ་བར་ལྟུང་སྟེ། ལྕགས་ཀྱི་ཐུ་ལུམ་དམར་པོ་མཆན་ཁུང་གཡོན་པ་ནས་ཐལ་ཏེ་མཆན་ཁུང་གཡས་པར་ཐལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“If you stash leftovers in your breast pockets or in your sleeve, you will descend into the hells for five hundred lifetimes, and red-hot lumps of iron will tumble out of both your left and right armpits.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-24">
+            <prop name="location-id">UT22084-062-006-23</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ལྷག་མ་མི་བཀུར་བར་བྱོས་ཤིག །ཆུང་ངུ་ན་ཁྲེའི་འབྲུ་གཅིག་ཙམ་ཁྱེར་ན་ཡང་ལྕགས་ཀྱི་འཁོར་ལོ་ཙམ་དུ་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Do not stash leftovers! Even if you stash as little as a single grain of millet, you will at least end up in the hell of iron wheels.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-25">
+            <prop name="location-id">UT22084-062-006-24</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དགེ་བསྙེན་གྱིས་ཀྱང་རུང་སྟེ་བསོད་ནམས་ཀྱི་ཟས་སྦྱར་རོ་ཅོག་ལ་ཐོག་མ་ནས་མྱང་བའི་སྦགས་པར་མི་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Laypeople should also avoid polluting any of the meritorious food preparations by tasting them first.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-26">
+            <prop name="location-id">UT22084-062-006-24</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་མྱངས་པས་སྦྱར་བ་ཐམས་ཅད་ལྷག་མའི་སྦགས་པ་མི་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They should avoid polluting prepared food by tasting it.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-27">
+            <prop name="location-id">UT22084-062-006-24</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བྱས་པ་དོན་མེད་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Doing so will render it impotent;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-28">
+            <prop name="location-id">UT22084-062-006-24</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གཉིས་ན་མ་བྱས་ཀྱང་སླའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>it would have been better not to have made it at all.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-29">
+            <prop name="location-id">UT22084-062-006-24</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ཅིའི་ཕྱིར་ཞེ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Why is that?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-30">
+            <prop name="location-id">UT22084-062-006-24</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ལྷ་ཐམས་ཅད་མི་དགྱེས་པར་འགྱུར་རོ། །གཉེན་པོ་ཐམས་ཅད་མི་དགའ་བར་འགྱུར་རོ། །གང་ཞིག་མྱངས་པ་ཞིག་ཡོད་ན་ཚེ་རབས་ལྔ་ཁྲིར་འདྲེ་ལྟོགས་པར་འགྱུར་རོ། །སྡུག་བསྔལ་མི་བཟད་པ་སྣ་ཚོགས་ཀྱང་མྱོང་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It will displease all the gods and upset one’s companions. Anyone who tastes such food will become a starving spirit for fifty thousand lifetimes and experience various forms of unbearable suffering.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-31">
+            <prop name="location-id">UT22084-062-006-26</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་ཞིག་ཕྱིན་ཆད་བསོད་ནམས་འདོད་པས་ཚུལ་བཞིན་དུ་བསོད་ནམས་ཀྱི་ཟས་གཙང་སྦྲས་ཕྱེད་པ་དང་། ཤིན་ཏུ་གུས་པར་སྦྱར་ལ་ལག་པ་ཤིན་ཏུ་དག་པར་བཀྲུས་ནས་ཚོད་མ་ལ་སོགས་པ་དྲོད་བག་ཏུ་སྦྱར་རོ་ཅོག་ཤིན་ཏུ་བཀབ་པ་དང་། རིམ་གྲོ་བསྐྱེད་དེ་དེ་དག་ཀྱང་སྔར་མྱང་བར་མི་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Whoever seeks merit for the future should apportion the meritorious food offerings properly, hygienically, and respectfully. They should wash their hands thoroughly, cover all the warm dishes such as vegetables and the like, handle them carefully, and not taste them beforehand.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-32">
+            <prop name="location-id">UT22084-062-006-26</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བསོད་ནམས་སུ་གྱུར་ཅིང་ལྷ་ཐམས་ཅད་ཀྱང་དགའ་བར་འགྱུར་རོ། །གཉེན་པོ་ཐམས་ཅད་ཀྱང་དགའ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Doing so will be meritorious and please all the gods and gain the favor of all one’s companions.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-33">
+            <prop name="location-id">UT22084-062-006-26</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ལྷ་ལ་སོགས་པ་ཐམས་ཅད་ཀྱིས་སྲུང་ཞིང་བྱིན་གྱིས་རློབ་པར་འགྱུར་ཏེ་ཡང་དག་པར་སྨྲ་བ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>This will bring about the protection and blessings of all the gods. This is a statement of fact.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-34">
+            <prop name="location-id">UT22084-062-006-27</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བསོད་ནམས་རྣམ་པར་སྨིན་པ་ནི་བྲག་ཅ་དང་གཟུགས་བརྙན་བཞིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“The ripening of merit is like an echo or a reflection.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-35">
+            <prop name="location-id">UT22084-062-006-27</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ལྟར་འདྲེ་བཀྲེན་ལྟོགས་པ་ནི་ཐོག་མ་མི་ལས་གྱུར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It is in this way that starving spirits were initially humans.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-36">
+            <prop name="location-id">UT22084-062-006-27</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཐོག་མ་ལག་པ་མི་གཙང་བས་དགེ་འདུན་གྱི་ཁ་ཟས་གཙང་མ་ལ་རེག་པ་དང་། བདག་གི་ལག་པ་མི་གཙང་བས་དགེ་འདུན་གྱི་ཁ་ཟས་གཙང་མའི་ནང་དུ་བསྔོགས་སམ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>At an earlier time, they handled the saṅgha’s clean food with unclean hands, dug their unclean hands into the saṅgha’s clean food, or mixed unclean food into clean food and offered it to the saṅgha.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-37">
+            <prop name="location-id">UT22084-062-006-27</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཟས་གཙང་མའི་ནང་དུ་ཁ་ཟས་མི་གཙང་བ་བསྲེས་ཏེ་དགེ་འདུན་ལ་སྦྱིན་པ་བྱས་པས་ཚེ་རབས་ལྔ་བརྒྱར་འདྲེ་ལྟོགས་པར་ལྟུང་སྟེ། རྟག་ཏུ་མི་གཙང་བ་ཟ་ཞིང་སྣམ་ཕྱི་སར་མི་གཙང་བ་ཟ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Later, they fell to the state of a starving spirit for five hundred lifetimes, and they constantly consume filth and eat toilet waste.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-38">
+            <prop name="location-id">UT22084-062-006-27</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>སྣམ་ཕྱི་སའི་སྲུངས་མས་ལྕགས་ཀྱི་བེར་ཀས་གདེངས་ཏེ་འདྲེ་ལྟོགས་པ་དེ་རྣམས་ཕྱི་སའི་སར་མི་སྙན་པར་བྱེད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>When they consume toilet waste, the toilet protectors run them off with iron clubs and disparage the starving spirits as receptacles of filth.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-39">
+            <prop name="location-id">UT22084-062-006-27</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མིའི་རྣག་དང་། ཁྲག་དང་། མཆིལ་སྣབས་དང་། ངར་སྣབས་དང་། ཁྲུད་མ་མི་གཙང་བ་བཙོག་པ་ཟ་ཞིང་མི་གཙང་བ་སྲུང་ཞིང་བུད་མེད་བུ་བཙས་པའི་ཁྲག་མི་གཙང་བ་འཛག་པ་ཟ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They consume filth such as people’s pus, blood, mucus, snot, and dirty bathwater. They guard such filth and consume the unclean blood that drips from women after childbirth.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-40">
+            <prop name="location-id">UT22084-062-006-28</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་ཚེ་རབས་ཁྲི་ཕྲག་ལྔ་བརྒྱར་ཁྱི་དང་ཕག་པ་དང་། སྦུར་བ་ལ་སོགས་པའི་ལུས་སུ་གྱུར་ནས་རྟག་པར་མནམ་ཞིང་བཙོག་པ་དང་མི་གཙང་བ་ཟ་བར་འགྱུར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“After five hundred thousand years, they are reborn in the body of a dog, pig, insect, or something similar and continuously reek and consume feces and filth.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-41">
+            <prop name="location-id">UT22084-062-006-28</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ལྟ་བུའི་སྡུག་བསྔལ་བསྐལ་པ་གྲངས་ཁྲི་སྟོང་དུ་མྱོང་སྟེ་ཐར་པའི་དུས་མེད་དོ། །རྣམ་པར་ཐར་པར་དཀའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They experience this sort of suffering for ten million eons, without any escape. To fully free themselves from this state is extremely difficult.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-42">
+            <prop name="location-id">UT22084-062-006-28</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཤིན་ཏུ་མི་ཟད་པ་ཡང་བརྗོད་ཀྱིས་མི་ལང་ངོ་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Their utterly unbearable suffering is all but indescribable.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-43">
+            <prop name="location-id">UT22084-062-006-29</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གལ་ཏེ་ལག་པ་ཕོ་མཚན་ལ་རེག་གམ། ལག་པ་མོ་མཚན་ལ་རེག་གམ། ལག་པ་མི་གཙང་བས་དགེ་འདུན་གྱི་ཁ་ཟས་གཙང་མ་ལ་རེག་གམ། དགེ་འདུན་གྱི་ཁ་ཟས་ལ་མི་གཙང་བ་ནང་དུ་བཅུག་གམ། མི་གཙང་བའི་ཟས་དགེ་འདུན་ཟར་བཅུག་ན་དེ་ལྟ་བུའི་སྡིག་པ་རྣམ་པར་སྨིན་པ་ནི་ཐམས་ཅད་མིག་ནད་ཀྱི་རིམས་ཀྱིས་བཏབ་པ་དང་སྡིག་པར་མི་ཤེས་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“If you touch your penis or vagina and then touch the clean food of the saṅgha with your unclean hands, introduce filth into the food for the saṅgha, or allow the saṅgha to partake of unclean food, this sort of misdeed will ripen as infectious eye diseases that afflict everyone, a misdeed no one will be aware of.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-44">
+            <prop name="location-id">UT22084-062-006-29</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཕྱིན་ཆད་དགེ་འདུན་གྱི་ཁ་ཟས་གཙང་བར་བྱས་པ་དང་། ལག་པ་གཙང་མས་དགེ་འདུན་གྱི་ཁ་ཟས་ཀྱི་སྣོད་ལ་བཟུང་བ་དང་། ལག་པ་གཙང་མས་ཁྲེ་འབྲས་བཀྲུ་བ་དང་། ཁ་ཟས་གཙང་མ་སྦྱིན་པ་བྱས་པ་ནི་བསོད་ནམས་བསམ་གྱིས་མི་ཁྱབ་པ་ཐོབ་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Henceforth, handling the saṅgha’s food hygienically, using clean hands to carry the containers of the saṅgha’s food, washing millet with clean hands, and offering clean foods will lead to the attainment of inconceivable merit.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-45">
+            <prop name="location-id">UT22084-062-006-30</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཕྱིན་ཆད་འདི་ཡོངས་སུ་གྲགས་པ་དང་། མྱུར་བུའི་ཡིད་ཀྱིས་ཟུང་ཤིག</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Let this be well known and swiftly internalized.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-062-006-TU-46">
+          <prop name="location-id">UT22084-062-006-31</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>འཚོ་བ་རྣམ་པར་དག་པའི་མདོ་རྫོགས་སོ།​།</seg>
+            </tuv>
+          <tuv xml:lang="en">
+                <seg>This completes the “ Pure Sustenance Sūtra</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

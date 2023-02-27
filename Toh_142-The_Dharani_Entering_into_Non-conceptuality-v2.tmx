@@ -2,9 +2,9 @@
 <tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
 <header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="XML aligned text" eft:text-id="UT22084-057-001" eft:text-version="1.1.5 2020"/>
 <body>
-<tu>
+<tu id="UT22084-057-001-TU-1">
             <prop name="folio">F.1.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!འཕགས་པ་རྣམ་པར་མི་རྟོག་པར་འཇུག་པ་ཞེས་བྱ་བའི་གཟུངས། </seg>
             </tuv>
@@ -12,9 +12,9 @@
                 <seg>The Noble Dhāraṇī Entering Into Nonconceptuality</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-2">
             <prop name="folio">F.1.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
             </tuv>
@@ -23,9 +23,9 @@
                     <tei:milestone xml:id="UT22084-057-001-35"/>Homage to all buddhas and bodhisattvas!</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-3">
             <prop name="folio">F.1.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན། </seg>
             </tuv>
@@ -34,9 +34,9 @@
                     <tei:milestone xml:id="UT22084-057-001-36"/>Thus did I hear at one time.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-4">
             <prop name="folio">F.1.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!བཅོམ་ལྡན་འདས་རྒྱལ་པོའི་ཁབ་ན། ཁམས་གསུམ་པ་ཐམས་ཅད་ལས་ཁྱད་པར་དུ་འཕགས་པ་རྣམ་པར་མི་རྟོག་པའི་ཆོས་ཀྱི་དབྱིངས་ཀྱི་སྙིང་པོའི་ཁང་བཟངས་ན་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་། བྱང་ཆུབ་སེམས་དཔའི་ཚོགས་ཆེན་པོ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ</seg>
             </tuv>
@@ -44,9 +44,9 @@
                 <seg>The Blessed One, together with a great assembly of monks and bodhisattvas, was residing at Rājagṛha in the palace at the heart of the nonconceptual realm of phenomena, a place superior to everything within the three realms.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-5">
             <prop name="folio">F.2.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམ་པར་མི་རྟོག་པ་དང་། རྣམ་པར་མི་རྟོག་སྣང་བ་དང་། རྣམ་པར་མི་རྟོག་ཟླ་བ་དང་། རྣམ་པར་རྟོག་མེད་དཔའ་བོ་དང་། རྣམ་པར་རྟོག་མེད་ཆོས་སྟོན་མཁས་པ་དང་། རྣམ་པར་རྟོག་མེད་ངོ་བོ་ཉིད་དང་། རྣམ་པར་རྟོག་མེད་བློ་གྲོས་དང་། རྣམ་པར་རྟོག་མེད་ང་རོ་དང་། རྣམ་པར་རྟོག་མེད་ཁྱབ་བྱེད་དང་། རྣམ་པར་རྟོག་མེད་དབང་ཕྱུག་དང་། རྣམ་པར་རྟོག་མེད་དབང་ཕྱུག་<tei:ref folio="F.2.a"/>ཆེན་པོ་དང་། རྣམ་པར་རྟོག་མེད་བྱམས་པ་ཆེན་པོའི་དབང་ཕྱུག་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་དང་ཐབས་ཅིག་གོ། །</seg>
             </tuv>
@@ -54,9 +54,9 @@
                 <seg>Together with him were the bodhisattvas, the great beings, Avikalpa, Avikalpa­prabhāsa, Avikalpacandra, Nirvikalpavīra, Nirvikalpadharmanirdeśakuśala, Nirvikalpasvabhāva, Nirvikalpamati, Nirvikalpanāda, Nirvikalpaspharaṇa, Nirvikalpasvara,<tei:note xml:id="UT22084-057-001-37"/> Maheśvara,<tei:note xml:id="UT22084-057-001-38"/> Nirvikalpamahāmaitrīśvara, and the bodhisattva, the great being, Avalokiteśvara.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-6">
             <prop name="folio">F.2.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེ་ནས་བཅོམ་ལྡན་འདས་འཁོར་བརྒྱ་སྟོང་དུ་མས་ཡོངས་སུ་བསྐོར་ཏེ་མདུན་གྱིས་བལྟས་ནས། འདི་ལྟ་སྟེ། ཐེག་པ་ཆེན་པོ་ལ་ཆོས་རྣམས་ཀྱི་རྣམ་པར་མི་རྟོག་པ་ཉིད་ལས་བརྩམས་ཏེ་ཆོས་སྟོན་ཏོ། །</seg>
             </tuv>
@@ -65,9 +65,9 @@
                     <tei:milestone xml:id="UT22084-057-001-39"/>At that time, the Blessed One, surrounded and esteemed by an assembly of hundreds of thousands, taught the Dharma<tei:note xml:id="UT22084-057-001-40"/> concerning the nonconceptuality of phenomena.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-7">
             <prop name="folio">F.2.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཐམས་ཅད་དང་ལྡན་པའི་བྱང་ཆུབ་སེམས་དཔའི་འཁོར་ལ་ཀུན་ཏུ་གཟིགས་ནས། བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ལ་བཀའ་སྩལ་པ། </seg>
             </tuv>
@@ -76,9 +76,9 @@
                     <tei:milestone xml:id="UT22084-057-001-158"/>The Blessed One surveyed the entire assembly of bodhisattvas and addressed them,</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-8">
             <prop name="folio">F.2.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རིགས་ཀྱི་བུ་དག་ཁྱོད་ཀྱིས་རྣམ་པར་མི་རྟོག་པར་འཇུག་པ་ཞེས་བྱ་བའི་གཟུངས་ཟུང་ཤིག །</seg>
             </tuv>
@@ -86,9 +86,9 @@
                 <seg>“Noble sons, you should keep in mind The Dhāraṇī ‘Entering into Nonconceptuality’ .</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-9">
             <prop name="folio">F.2.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེ་བཟུང་ན་བྱང་ཆུབ་སེམས་དཔའ་མྱུར་བ་མྱུར་བར་སངས་རྒྱས་ཀྱི་ཆོས་རྣམས་བསྒྲུབ་ཅིང་རྟག་ཏུ་ཁྱད་པར་དུ་ཡང་འགྲོའོ། །</seg>
             </tuv>
@@ -96,9 +96,9 @@
                 <seg>Keeping it in mind, a bodhisattva, a great being, will swiftly perfect the qualities of a buddha and will make steady, excellent progress.”</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-10">
             <prop name="folio">F.2.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེ་ནས་འཁོར་དེ་ཉིད་ཀྱིས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམ་པར་མི་རྟོག་སྣང་བ་ཞེས་བྱ་བ་སྟན་ལས་ལངས་ཏེ། བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས་པུས་མོ་གཡས་པའི་ལྷ་ང་ས་ལ་བཙུགས་ཏེ། </seg>
             </tuv>
@@ -107,9 +107,9 @@
                     <tei:milestone xml:id="UT22084-057-001-42"/>The bodhisattva, the great being named Avikalpa­prabhāsa, rose from his seat in the assembly, draped his upper robe over his shoulder, and knelt with his right knee on the ground.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-11">
             <prop name="folio">F.2.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས། བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །</seg>
             </tuv>
@@ -117,9 +117,9 @@
                 <seg>He bowed toward the Blessed One with hands folded and addressed the Blessed One,</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-12">
             <prop name="folio">F.2.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!བཅོམ་ལྡན་འདས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོས་གང་ཐོས་ནས་འཛིན་པ་དང་། ཀློག་པ་དང་། ཚུལ་བཞིན་ཡིད་ལ་བགྱིད་པ་དང་། གཞན་དག་ལ་ཡང་རྒྱ་ཆེར་སྟོན་པར་འགྱུར་བར་རྣམ་པར་མི་རྟོག་པར་འཇུག་པའི་གཟུངས་བཤད་དུ་གསོལ། </seg>
             </tuv>
@@ -127,9 +127,9 @@
                 <seg>“Blessed One, please explain The Dhāraṇī ‘Entering into Nonconceptuality’ . Once they have heard it, bodhisattvas, great beings, will keep it in mind, recite it, contemplate it properly, and teach it extensively to others.”</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-13">
             <prop name="folio">F.2.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེ་སྐད་ཅེས་གསོལ་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། </seg>
             </tuv>
@@ -138,9 +138,9 @@
                     <tei:milestone xml:id="UT22084-057-001-43"/>Thus addressed, the Blessed One said,</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-14">
             <prop name="folio">F.2.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རིགས་ཀྱི་བུ་དག་དེའི་ཕྱིར་ལེགས་པར་ཉོན་ལ་རབ་ཏུ་ཡིད་ལ་ཟུང་ཤིག་དང་། ངས་རྣམ་པར་མི་རྟོག་པར་འཇུག་པའི་གཟུངས་བཤད་དོ། །</seg>
             </tuv>
@@ -148,9 +148,9 @@
                 <seg>“Then listen well, noble sons, and be attentive as I explain The Dhāraṇī ‘Entering into Nonconceptuality’ .”</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-15">
             <prop name="folio">F.2.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!བཅོམ་ལྡན་འདས་ལེགས་སོ་ཞེས་<tei:ref folio="F.2.b"/>གསོལ་ཏོ། །བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དེ་དག་བཅོམ་ལྡན་འདས་ཀྱི་ལྟར་ཉན་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་དེ་དག་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །</seg>
             </tuv>
@@ -158,9 +158,9 @@
                 <seg>“That is excellent, Blessed One!” replied the bodhisattvas, the great beings. They then listened to the Blessed One. <tei:milestone xml:id="UT22084-057-001-45"/>The Blessed One said to them,</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-16">
             <prop name="folio">F.2.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རིགས་ཀྱི་བུ་དེ་དག་ལ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམ་པར་མི་རྟོག་པའི་དབང་དུ་བྱ་བའི་ཆོས་ཐོས་ཏེ། རྣམ་པར་མི་རྟོག་པ་ལ་བསམ་པ་བཞག་ནས་རྣམ་པར་རྟོག་པའི་མཚན་མ་ཐམས་ཅད་ཡོངས་སུ་སྤོང་སྟེ། </seg>
             </tuv>
@@ -168,9 +168,9 @@
                 <seg>“Noble sons, those bodhisattvas, great beings, who hear teachings on the topic of nonconceptuality and then settle into nonconceptuality, will abandon all conceptual signs.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-17">
             <prop name="folio">F.2.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེ་ཐོག་མ་ཉིད་དུ་འདི་ལྟ་སྟེ། གཟུང་བའམ་འཛིན་པའང་རུང་རང་བཞིན་ལ་རྣམ་པར་རྟོག་པའི་མཚན་མ་ཐམས་ཅད་ཡོངས་སུ་སྤོང་ངོ་། །</seg>
             </tuv>
@@ -178,9 +178,9 @@
                 <seg>First, bodhisattvas abandon the fundamental conceptual signs, those of either subject or object.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-18">
             <prop name="folio">F.2.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེ་ལ་གང་ཟག་པ་དང་བཅས་པའི་དངོས་པོའི་མཚན་མ་དེ་ནི་རང་བཞིན་ལ་རྣམ་པར་རྟོག་པའི་མཚན་མའོ། །</seg>
             </tuv>
@@ -188,9 +188,9 @@
                 <seg>In this regard, the fundamental conceptual signs are those signs relating to a defiled entity.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-19">
             <prop name="folio">F.2.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཟག་པ་དང་བཅས་པའི་དངོས་པོ་ནི་ཉེ་བར་ལེན་པའི་ཕུང་པོ་ལྔ་པོ་རྣམས་ཏེ། འདི་ལྟ་སྟེ། གཟུགས་ཉེ་བར་ལེན་པའི་ཕུང་པོ་དང་། ཚོར་བ་ཉེ་བར་ལེན་པའི་ཕུང་པོ་དང་། འདུ་ཤེས་ཉེ་བར་ལེན་པའི་ཕུང་པོ་དང་། འདུ་བྱེད་ཉེ་བར་ལེན་པའི་ཕུང་པོ་དང་། རྣམ་པར་ཤེས་པ་ཉེ་བར་ལེན་པའི་ཕུང་པོའོ། །</seg>
             </tuv>
@@ -198,9 +198,9 @@
                 <seg>‘Defiled entity’ refers to the five aggregates as the bases for clinging: the aggregate of matter as a basis for clinging, the aggregate of sensation as a basis for clinging, the aggregate of perception as a basis for clinging, the aggregate of karmic dispositions as a basis for clinging, and the aggregate of consciousness as a basis for clinging.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-20">
             <prop name="folio">F.2.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཇི་ལྟར་རང་བཞིན་ལ་རྣམ་པར་རྟོག་པའི་མཚན་མ་དེ་དག་ཡོངས་སུ་སྤོང་ཞེ་ན། </seg>
             </tuv>
@@ -208,9 +208,9 @@
                 <seg>How do bodhisattvas abandon these fundamental conceptual signs?</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-21">
             <prop name="folio">F.2.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!སྣང་བར་འགྱུར་བའི་ཚུལ་གྱིས་མངོན་དུ་གྱུར་པ་དག་ཡིད་ལ་མི་བྱེད་པས་ཡོངས་སུ་སྤོང་ངོ་། །</seg>
             </tuv>
@@ -218,9 +218,9 @@
                 <seg>They abandon them by not directing their minds toward what is experientially evident.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-22">
             <prop name="folio">F.2.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེ་རང་བཞིན་ལ་རྣམ་པར་རྟོག་པའི་མཚན་མ་དེ་དག་རིམ་གྱིས་ཡོངས་སུ་སྤོང་བ་ན། དེ་མ་ཡིན་པ་གཞན་གཉེན་པོ་ལ་དཔྱོད་པ་རྣམ་པར་རྟོག་པའི་མཚན་མ་རྣམས་སྣང་བར་འགྱུར་བའི་ཚུལ་གྱིས་ཀུན་ཏུ་འབྱུང་ཞིང་མངོན་དུ་འགྱུར་ཏེ། </seg>
             </tuv>
@@ -229,9 +229,9 @@
                     <tei:milestone xml:id="UT22084-057-001-47"/>“Once bodhisattvas have progressively abandoned those conceptual signs, another set of conceptual signs based on an examination of antidotes arises and becomes experientially evident.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-23">
             <prop name="folio">F.2.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!འདི་ལྟ་སྟེ། སྦྱིན་པ་ལ་དཔྱོད་པ་རྣམ་པར་རྟོག་པའི་མཚན་མ་དང་། ཚུལ་ཁྲིམས་ལ་དཔྱོད་པ་རྣམ་པར་རྟོག་པའི་མཚན་མ་དང་། བཟོད་པ་ལ་དཔྱོད་པ་རྣམ་པར་རྟོག་པའི་མཚན་མ་དང་། བརྩོན་འགྲུས་ལ་དཔྱོད་པ་རྣམ་པར་རྟོག་པའི་མཚན་མ་དང་། བསམ་གཏན་ལ་དཔྱོད་པ་རྣམ་པར་རྟོག་པའི་མཚན་མ་དང་། ཤེས་རབ་ལ་དཔྱོད་པ་རྣམ་པར་རྟོག་པའི་མཚན་མ་སྟེ། </seg>
             </tuv>
@@ -239,9 +239,9 @@
                 <seg>This includes the conceptual signs that arise through examining generosity, examining discipline, examining patience, examining diligence, examining meditative concentration, and the conceptual signs based on examining insight.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-24">
             <prop name="folio">F.2.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!འདི་ལྟ་སྟེ། ངོ་བོ་ཉིད་ལ་དཔྱོད་པའམ། ཡོན་ཏན་ལ་དཔྱོད་པའམ། སྙིང་པོ་ལ་དཔྱོད་པའང་རུང་། དེས་དེ་དག་ཀྱང་ཡིད་ལ་མི་བྱེད་པས་ཡོངས་སུ་སྤོང་ངོ་། །</seg>
             </tuv>
@@ -249,9 +249,9 @@
                 <seg>Whether they are examined in terms of intrinsic natures, examined in terms of qualities, or examined in terms of essences, bodhisattvas also abandon conceptual signs based on examining antidotes by not directing their minds toward them.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-25">
             <prop name="folio">F.3.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེས་དེ་དག་ཡོངས་སུ་སྤོང་བ་ན་གཞན་དེ་ཁོ་ན་ལ་དཔྱོད་པའི་རྣམ་པར་རྟོག་པའི་མཚན་མ་རྣམས་སྣང་བར་འགྱུར་བའི་ཚུལ་གྱིས་ཀུན་ཏུ་འབྱུང་ཞིང་<tei:ref folio="F.3.a"/>མངོན་དུ་འགྱུར་ཏེ། </seg>
             </tuv>
@@ -260,9 +260,9 @@
                     <tei:milestone xml:id="UT22084-057-001-48"/>“Once bodhisattvas have abandoned those signs, another set of conceptual signs based on the examination of true reality arises and becomes experientially evident. </seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-26">
             <prop name="folio">F.3.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!འདི་ལྟ་སྟེ། སྟོང་པ་ཉིད་ལ་དཔྱོད་པ་རྣམ་པར་རྟོག་པའི་མཚན་མ་དང་། དེ་བཞིན་ཉིད་ལ་དཔྱོད་པ་རྣམ་པར་རྟོག་པའི་མཚན་མ་དང་། ཡང་དག་པའི་མཐའ་ལ་དཔྱོད་པའི་རྣམ་པར་རྟོག་པའི་མཚན་མ་དང་། མཚན་མ་མེད་པ་དང་། དོན་དམ་པ་དང་། ཆོས་ཀྱི་དབྱིངས་ལ་དཔྱོད་པ་རྣམ་པར་རྟོག་པའི་མཚན་མ་སྟེ། </seg>
             </tuv>
@@ -270,9 +270,9 @@
                 <seg>This includes conceptual signs based on examining emptiness, examining suchness, examining the absolute, examining the absence of signs, examining ultimate truth, and those based on examining the field of phenomena.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-27">
             <prop name="folio">F.3.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!འདི་ལྟ་སྟེ། རང་གི་མཚན་ཉིད་ལ་དཔྱོད་པའམ། ཡོན་ཏན་ལ་དཔྱོད་པའམ། སྙིང་པོ་ལ་དཔྱོད་པའང་རུང་། དེས་དེ་ཁོ་ན་ལ་དཔྱོད་པ་རྣམ་པར་རྟོག་པའི་མཚན་མ་དེ་དག་ཀྱང་ཡིད་ལ་མི་བྱེད་པས་ཡོངས་སུ་སྤོང་ངོ་། །</seg>
             </tuv>
@@ -280,9 +280,9 @@
                 <seg>Whether they are examined in terms of particular features, examined in terms of qualities, or examined in terms of essences, bodhisattvas also abandon the conceptual signs based on examining true reality by not directing their minds toward them.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-28">
             <prop name="folio">F.3.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེས་དེ་དག་ཡོངས་སུ་སྤོང་བ་ན་གཞན་ཐོབ་པ་ལ་དཔྱོད་པ་རྣམ་པར་རྟོག་པའི་མཚན་མ་རྣམས་སྣང་བར་འགྱུར་བའི་ཚུལ་གྱིས་ཀུན་ཏུ་འབྱུང་ཞིང་མངོན་དུ་འགྱུར་ཏེ། </seg>
             </tuv>
@@ -291,9 +291,9 @@
                     <tei:milestone xml:id="UT22084-057-001-49"/>“Once bodhisattvas have abandoned those signs, another set of conceptual signs based on examining the attainments arises and becomes experientially evident.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-29">
             <prop name="folio">F.3.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!འདི་ལྟ་སྟེ། ས་དང་པོ་ཐོབ་པ་ལ་དཔྱོད་པ་རྣམ་པར་རྟོག་པའི་མཚན་མ་ནས་ས་བཅུ་པའི་བར་དུ་འཐོབ་པ་ལ་དཔྱོད་པ་རྣམ་པར་རྟོག་པའི་མཚན་མ་དང་མི་སྐྱེ་བའི་ཆོས་ལ་བཟོད་པ་ཐོབ་པ་ལ་དཔྱོད་པ་རྣམ་པར་རྟོག་པའི་མཚན་མ་དང་། ལུང་བསྟན་པ་འཐོབ་པ་ལ་དཔྱོད་པ་རྣམ་པར་རྟོག་པའི་མཚན་མ་དང་། སངས་རྒྱས་ཀྱི་ཞིང་ཡོངས་སུ་དག་པ་འཐོབ་པ་ལ་དཔྱོད་པ་རྣམ་པར་རྟོག་པའི་མཚན་མ་དང་། སེམས་ཅན་ཡོངས་སུ་སྨིན་པར་བྱེད་པ་འཐོབ་པ་ལ་དཔྱོད་པ་རྣམ་པར་རྟོག་པའི་མཚན་མ་དང་། དབང་བསྐུར་བ་འཐོབ་པ་ལ་དཔྱོད་པ་རྣམ་པར་རྟོག་པའི་མཚན་མ་ནས། རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་འཐོབ་པའི་བར་ལ་དཔྱོད་པ་རྣམ་པར་རྟོག་པའི་མཚན་མ་སྟེ། </seg>
             </tuv>
@@ -301,9 +301,9 @@
                 <seg>This includes the conceptual signs based on examining the attainment of the first through tenth bodhisattva levels, conceptual signs based on examining the attainment of the acceptance that phenomena do not arise, conceptual signs based on examining the attainment of prophecy, conceptual signs based on examining the attainment of the ability to purify buddhafields, conceptual signs based on examining the attainment of the ability to ripen beings, and conceptual signs based on examining the attainment of initiation up to conceptual signs based on examining the attainment of omniscience.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-30">
             <prop name="folio">F.3.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!འདི་ལྟ་སྟེ། རང་གི་མཚན་ཉིད་ལ་དཔྱོད་པའམ། ཡོན་ཏན་ལ་དཔྱོད་པའམ། སྙིང་པོ་ལ་དཔྱོད་པའང་རུང་། དེས་འཐོབ་པ་ལ་དཔྱོད་པ་རྣམ་པར་རྟོག་པའི་མཚན་མ་དེ་དག་ཀྱང་ཡིད་ལ་མི་བྱེད་པས་ཡོངས་སུ་སྤོང་ངོ་། །</seg>
             </tuv>
@@ -311,9 +311,9 @@
                 <seg>Whether they are examined in terms of intrinsic natures, examined in terms of qualities, or examined in terms of essences, bodhisattvas also abandon the conceptual signs based on examining the attainments by not directing their minds toward them.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-31">
             <prop name="folio">F.3.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེ་ལྟར་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམ་པར་རྟོག་པའི་མཚན་མའི་རྣམ་པ་ཐམས་ཅད་ཡིད་ལ་མི་བྱེད་པས་ཡོངས་སུ་སྤོང་བ་ན། </seg>
             </tuv>
@@ -322,9 +322,9 @@
                     <tei:milestone xml:id="UT22084-057-001-50"/>“Once bodhisattvas, great beings, have thus abandoned every type of conceptual sign by not directing their minds toward them,</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-32">
             <prop name="folio">F.3.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེ་རྣམ་པར་མི་རྟོག་པའི་དབྱིངས་ལ་ཤིན་ཏུ་བརྩོན་པ་ཡིན་ཏེ། རེ་ཤིག་རྣམ་པར་མི་རྟོག་པའི་དབྱིངས་ལ་ནི་མ་རེག་མོད་ཀྱི། རྣམ་པར་མི་རྟོག་པའི་དབྱིངས་ལ་རེག་པར་འགྱུར་བའི་ཚུལ་བཞིན་གྱི་ཏིང་ངེ་འཛིན་ནི་ཡོད་དོ། །</seg>
             </tuv>
@@ -332,9 +332,9 @@
                 <seg>they are well oriented to the nonconceptual but have yet to experience the nonconceptual realm. They do, however, possess the well-grounded meditative absorption conducive to experiencing the nonconceptual realm. </seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-33">
             <prop name="folio">F.3.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེ་ཡང་དག་པར་<tei:ref folio="F.3.b"/>སྦྱོར་བ་དེ་དང་། བསྟེན་པས་རྗེས་སུ་འགྲོ། བསྒོམས་པས་རྗེས་སུ་འགྲོ། མང་དུ་བྱས་པས་རྗེས་སུ་འགྲོ། ཡང་དག་པར་ཡིད་ལ་བྱ་བས་རྗེས་སུ་འགྲོ་བ་ན། </seg>
             </tuv>
@@ -342,9 +342,9 @@
                 <seg>As a consequence of cultivating this genuine method, training in it repeatedly, and correctly orienting their minds,</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-34">
             <prop name="folio">F.3.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!མངོན་པར་འདུ་བྱ་བ་མེད་ཅིང་ལྷུན་གྱིས་གྲུབ་པ་རྣམ་པར་མི་རྟོག་པའི་དབྱིངས་ལ་རེག་སྟེ་རིམ་གྱིས་ཡོངས་སུ་སྦྱོང་ངོ་། །</seg>
             </tuv>
@@ -352,9 +352,9 @@
                 <seg>bodhisattvas will experience the nonconceptual realm without volition or effort, and gradually purify their experience.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-35">
             <prop name="folio">F.3.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཅིའི་ཕྱིར་རྣམ་པར་མི་རྟོག་པའི་དབྱིངས་ལ་རྣམ་པར་མི་རྟོག་པ་ཞེས་བྱ་ཞེ་ན། </seg>
             </tuv>
@@ -363,9 +363,9 @@
                     <tei:milestone xml:id="UT22084-057-001-51"/>“For what reason, noble sons,<tei:note xml:id="UT22084-057-001-52"/> is the nonconceptual realm called ‘nonconceptual’?</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-36">
             <prop name="folio">F.3.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དཔྱད་པའི་རྣམ་པར་བརྟག་པ་ཐམས་ཅད་ལས་ཤིན་ཏུ་འདས་པ་དང་། བསྟན་པ་དང་། དཔེར་རྣམ་པར་བརྟག་པ་ཐམས་ཅད་ལས་ཤིན་ཏུ་འདས་པ་དང་། དབང་པོར་རྣམ་པར་བརྟག་པ་ཐམས་ཅད་ལས་ཤིན་ཏུ་འདས་པ་དང་། ཡུལ་དུ་རྣམ་པར་བརྟག་པ་ཐམས་ཅད་ལས་ཤིན་ཏུ་འདས་པ་དང་། རྣམ་པར་རིག་པར་རྣམ་པར་བརྟག་པ་ཐམས་ཅད་ལས་ཤིན་ཏུ་འདས་པ་དང་། ཉོན་མོངས་པ་ཐམས་ཅད་དང་ཤེས་བྱའི་སྒྲིབ་པ་ཐམས་ཅད་ཀྱི་གནས་མེད་པའི་ཕྱིར་ཏེ། དེའི་ཕྱིར་རྣམ་པར་མི་རྟོག་པའི་དབྱིངས་ལ་རྣམ་པར་མི་རྟོག་པ་ཞེས་བྱའོ། །</seg>
             </tuv>
@@ -373,9 +373,9 @@
                 <seg>It completely transcends all conceptual analysis, completely transcends all imputations of instruction and illustration, completely transcends all conceptual signs,<tei:note xml:id="UT22084-057-001-53"/> completely transcends all imputation via the sense faculties, completely transcends imputation as sense objects, completely transcends imputation as cognitive representations, and is not based in the cognitive obscurations or in the obscurations of the afflictive and secondary afflictive emotions.<tei:note xml:id="UT22084-057-001-54"/> For this reason the nonconceptual realm is called ‘nonconceptual.’</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-37">
             <prop name="folio">F.3.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རྣམ་པར་མི་རྟོག་པ་དེ་ཡང་གང་ཞེ་ན། </seg>
             </tuv>
@@ -384,9 +384,9 @@
                     <tei:milestone xml:id="UT22084-057-001-55"/>“What, then, is the nonconceptual?</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-38">
             <prop name="folio">F.3.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རྣམ་པར་མི་རྟོག་པ་ནི་གཟུགས་མེད་པ། བསྟན་དུ་མེད་པ། རྟེན་མེད་པ། སྣང་བ་མེད་པ། རྣམ་པར་རིག་པ་མ་ཡིན་པ། གནས་མེད་པའོ། །</seg>
             </tuv>
@@ -394,9 +394,9 @@
                 <seg>The nonconceptual is immaterial, indemonstrable, unsupported, unmanifest, imperceptible, and without location.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-39">
             <prop name="folio">F.3.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམ་པར་མི་རྟོག་པའི་དབྱིངས་ལ་རབ་ཏུ་གནས་པས་ནི་ཤེས་བྱ་དང་ཁྱད་པར་མེད་པ་རྣམ་པར་མི་རྟོག་པའི་ཡེ་ཤེས་ཀྱིས་ཆོས་ཐམས་ཅད་ནམ་མཁའི་དཀྱིལ་དང་མཚུངས་པར་མཐོང་ངོ་། །</seg>
             </tuv>
@@ -404,9 +404,9 @@
                 <seg>Those bodhisattvas, great beings who are established in the nonconceptual realm see, with their nonconceptual knowing wisdom that is indistinguishable from what is known, that all phenomena are like the expanse of space.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-40">
             <prop name="folio">F.3.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རྣམ་པར་མི་རྟོག་པའི་རྗེས་ལས་ཐོབ་པའི་ཤེས་པས་ནི་ཆོས་ཐམས་ཅད་སྒྱུ་མ་དང་། སྨིག་རྒྱུ་དང་། རྨི་ལམ་དང་། མིག་ཡོར་དང་། བྲག་ཅ་དང་། གཟུགས་བརྙན་དང་། ཆུ་ཟླ་དང་། སྤྲུལ་པ་དང་མཚུངས་པར་མཐོང་ངོ་། །</seg>
             </tuv>
@@ -415,9 +415,9 @@
                 </seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-41">
             <prop name="folio">F.3.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!བདེ་བ་ཆེན་པོ་ལ་གནས་པ་ཤིན་ཏུ་རྒྱས་པ་ཡང་འཐོབ་བོ། །</seg>
             </tuv>
@@ -426,9 +426,9 @@
                 </seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-42">
             <prop name="folio">F.3.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!སེམས་ཕུན་སུམ་ཚོགས་པ་ཆེན་པོ་ཤིན་ཏུ་རྒྱས་པ་ཡང་འཐོབ་བོ། །</seg>
             </tuv>
@@ -436,9 +436,9 @@
                 <seg>They attain the full expression of the mind’s vast capacity.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-43">
             <prop name="folio">F.3.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཤེས་རབ་དང་ཡེ་ཤེས་ཆེ་ཞིང་ཤིན་ཏུ་རྒྱས་པ་ཡང་འཐོབ་བོ། །</seg>
             </tuv>
@@ -446,9 +446,9 @@
                 <seg>They attain the full expression of great insight and wisdom.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-44">
             <prop name="folio">F.3.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!བཤད་པ་ཆེན་པོ་ལ་དབང་བ་ཤིན་ཏུ་རྒྱས་པ་ཡང་འཐོབ་བོ། །</seg>
             </tuv>
@@ -457,9 +457,9 @@
                 </seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-45">
             <prop name="folio">F.4.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དུས་ཐམས་ཅད་དུ་སེམས་ཅན་ཐམས་ཅད་ཀྱི་དོན་གྱི་རྣམ་པ་ཐམས་ཅད་ཀྱང་བྱེད་ནུས་པར་འགྱུར་ཏེསངས་རྒྱས་ཀྱི་མཛད་པ་ལྷུན་གྱིས་གྲུབ་པ་ཡང་རྒྱུན་མི་གཅོད་<tei:ref folio="F.4.a"/>དོ། །</seg>
             </tuv>
@@ -467,9 +467,9 @@
                 <seg>In all circumstances they are able to bring every type of benefit to all beings, never ceasing in their effortless performance of awakened activity. </seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-46">
             <prop name="folio">F.4.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རིགས་ཀྱི་བུ་དག་འདི་ལྟ་སྟེ། དཔེར་ན་བྲག་གཅིག་ཏུ་མཁྲེགས་ཤིང་སྲ་བའི་འོག་ན་ཡིད་བཞིན་གྱི་ནོར་བུ་རིན་པོ་ཆེ་ཆེན་པོ་སྣ་ཚོགས་འོད་གསལ་བ་འདི་ལྟ་སྟེ། དངུལ་རིན་པོ་ཆེ་དང་། གསེར་རིན་པོ་ཆེ་དང་། རྡོའི་སྙིང་པོ་རིན་པོ་ཆེ་སྣ་ཚོགས་ཀྱི་རིན་པོ་ཆེ་ཐ་དད་པས་ཡོངས་སུ་གང་བའི་གཏེར་ཆེན་པོ་ཞིག་ཡོད་ལ། </seg>
             </tuv>
@@ -478,9 +478,9 @@
                     <tei:milestone xml:id="UT22084-057-001-59"/>“Noble sons, consider this analogy: Beneath a solid, hard sheet of rock there is a great trove of precious minerals, a variety of great wish-fulfilling jewels that shimmer with light, including precious silver, precious gold, and precious emerald.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-47">
             <prop name="folio">F.4.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེ་ནས་གཏེར་ཆེན་པོ་འདོད་པའི་མི་ལ་ལ་ཞིག་འོངས་པ་དེ་ལ་གཏེར་ཆེན་པོ་མངོན་པར་ཤེས་པའི་མིས་འདི་སྐད་དུ། ཀྱེ་སྐྱེས་བུ་བྲག་གཅིག་ཏུ་མཁྲེགས་ཤིང་སྲ་བ་དེའི་འོག་ན་རིན་པོ་ཆེ་འོད་གསལ་བས་ཡོངས་སུ་གང་བའི་རིན་པོ་ཆེའི་གཏེར་ཆེན་པོ་ཡོད་དེ</seg>
             </tuv>
@@ -488,9 +488,9 @@
                 <seg>Along comes a man seeking great treasure. Another man who is able to perceive the great treasure says to him, ‘Excuse me sir, beneath this solid, hard sheet of rock there is a great precious treasure filled with glimmering precious minerals. But</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-48">
             <prop name="folio">F.4.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེའི་འོག་ན་ཡིད་བཞིན་གྱི་ནོར་བུ་རིན་པོ་ཆེའི་གཏེར་ཡོད་ཀྱིས། ཁྱོད་ཀྱིས་ཐོག་མ་ཁོ་ནར་རྡོའི་རང་བཞིན་ཐམས་ཅད་རྐོས་ཤིག །</seg>
             </tuv>
@@ -498,9 +498,9 @@
                 <seg>beneath that there is a great<tei:note xml:id="UT22084-057-001-60"/> precious treasure, a wish-fulfilling jewel. First you must remove the bedrock.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-49">
             <prop name="folio">F.4.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེ་བརྐོས་པ་དང་དངུལ་དུ་སྣང་བའི་རྡོ་ཁྱོད་ལ་སྣང་བར་འགྱུར་རོ། །</seg>
             </tuv>
@@ -508,9 +508,9 @@
                 <seg>Once that is removed, you will discover rocks that appear to be silver, but</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-50">
             <prop name="folio">F.4.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེ་ལ་ཁྱོད་ཀྱིས་གཏེར་ཆེན་པོར་འདུ་ཤེས་མི་བྱའི། དེ་ཡོངས་སུ་ཤེས་པར་བྱོས་ཏེ་རྐོས་ཤིག །</seg>
             </tuv>
@@ -518,9 +518,9 @@
                 <seg>you should not consider this the great treasure. Recognizing this, continue digging.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-51">
             <prop name="folio">F.4.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེ་བརྐོས་པ་དང་གསེར་དུ་སྣང་བའི་རྡོ་སྣང་བར་འགྱུར་ཏེ</seg>
             </tuv>
@@ -528,9 +528,9 @@
                 <seg>As you dig, you will discover rocks that appear to be gold, but</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-52">
             <prop name="folio">F.4.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེ་ལ་ཡང་ཁྱོད་ཀྱིས་གཏེར་ཆེན་པོར་འདུ་ཤེས་མི་བྱའི། དེ་ཡང་ཡོངས་སུ་ཤེས་པར་བྱོས་ཏེ་རྐོས་ཤིག །</seg>
             </tuv>
@@ -538,9 +538,9 @@
                 <seg>again you should not consider this the great treasure. Recognizing this once again, dig.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-53">
             <prop name="folio">F.4.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེ་བརྐོས་པ་དང་རིན་པོ་ཆེ་སྣ་ཚོགས་སུ་སྣང་བའི་རྡོ་སྣང་བར་འགྱུར་ཏེ</seg>
             </tuv>
@@ -548,9 +548,9 @@
                 <seg>As you dig, you will discover rocks that appear to be various minerals, but</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-54">
             <prop name="folio">F.4.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེ་ལ་ཡང་ཁྱོད་ཀྱིས་གཏེར་ཆེན་པོར་འདུ་ཤེས་མི་བྱའི། དེ་ཡང་ཡོངས་སུ་ཤེས་པར་བྱོས་ཏེ་རྐོས་ཤིག །</seg>
             </tuv>
@@ -558,9 +558,9 @@
                 <seg>again you should not consider this to be the great treasure. Recognizing this once again, dig.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-55">
             <prop name="folio">F.4.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཀྱེ་སྐྱེས་བུ་ཁྱེད་ཀྱིས་དེ་ལྟར་བརྩོན་པར་བྱས་ན་བརྐོ་བའི་མངོན་པར་འདུ་བྱ་བ་མེད་ཅིང་འབད་མི་དགོས་པར་ཡིད་བཞིན་གྱི་ནོར་བུ་རིན་པོ་ཆེའི་གཏེར་ཆེན་པོ་མཐོང་བར་འགྱུར་རོ། །</seg>
             </tuv>
@@ -568,9 +568,9 @@
                 <seg>Sir, once you have toiled in unearthing these minerals, you will effortlessly and without any further exertion discover a great precious treasure, the wish-fulfilling jewel.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-56">
             <prop name="folio">F.4.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཡིད་བཞིན་གྱི་ནོར་བུ་རིན་པོ་ཆེའི་གཏེར་ཆེན་པོ་དེ་རྙེད་ན་ཁྱོད་ཕྱུག་ཅིང་ནོར་ཆེ་ལ་ལོངས་སྤྱོད་ཆེ་བར་འགྱུར་ཏེ། བདག་དང་གཞན་གྱི་དོན་ལ་མཐུ་ཡོད་པར་འགྱུར་རོ་ཞེས་སྨྲས་པ་ལྟར་</seg>
             </tuv>
@@ -578,9 +578,9 @@
                 <seg>Once you have found that great precious treasure, the wish-fulfilling jewel, you will become rich, affluent, prosperous, and fully able to benefit yourself and others.’</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-57">
             <prop name="folio">F.4.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རིགས་ཀྱི་བུ་དག་ཇི་ཙམ་དུ་དོན་འདི་ཤེས་པར་བྱ་བའི་ཕྱིར་འདི་དཔེར་བྱས་པ་སྟེ། </seg>
             </tuv>
@@ -589,9 +589,9 @@
                     <tei:milestone xml:id="UT22084-057-001-61"/>“Noble sons, this analogy is meant to provide some understanding of our topic.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-58">
             <prop name="folio">F.4.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!བྲག་གཅིག་ཏུ་མཁྲེགས་ཤིང་སྲ་བ་ཞེས་བྱ་བ་དེ་ནི་འདུ་བྱེད་ཀྱི་རྣམ་པ་ཀུན་ནས་ཉོན་མོངས་པ་དང་། གཉིས་ལ་སོ་སོར་ཉེ་བར་གནས་པའི་ཚིག་བླ་དགས་སོ། །</seg>
             </tuv>
@@ -599,9 +599,9 @@
                 <seg>The solid, hard sheet of rock represents the various karmic dispositions that reinforce duality and the afflictive emotions.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-59">
             <prop name="folio">F.4.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!འོག་ན་ཡིད་བཞིན་གྱི་ནོར་བུ་རིན་པོ་ཆེའི་གཏེར་ཆེན་པོ་ཞེས་བྱ་བ་དེ་ནི་རྣམ་པར་མི་རྟོག་པའི་དབྱིངས་ཀྱི་ཚིག་བླ་དགས་སོ། །</seg>
             </tuv>
@@ -609,9 +609,9 @@
                 <seg>The great treasure that lies beneath that rock, the precious wish-fulfilling jewel, represents the nonconceptual realm.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-60">
             <prop name="folio">F.4.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཡིད་བཞིན་གྱི་ནོར་བུ་རིན་པོ་ཆེའི་གཏེར་ཆེན་པོ་འདོད་<tei:ref folio="F.4.b"/>པའི་མི་ཞེས་བྱ་བ་དེ་ནི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོའི་ཚིག་བླ་དགས་སོ། །</seg>
             </tuv>
@@ -619,9 +619,9 @@
                 <seg>The person who seeks the great treasure, the precious wish-fulfilling jewel, represents the bodhisattva, the great being. </seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-61">
             <prop name="folio">F.4.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!གཏེར་ཆེན་པོ་མངོན་པར་ཤེས་པའི་མི་ཞེས་བྱ་བ་དེ་ནི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱི་ཚིག་བླ་དགས་སོ། །</seg>
             </tuv>
@@ -629,9 +629,9 @@
                 <seg>The person with knowledge of the great treasure is the Thus-Gone One, the Worthy One, the Perfect Buddha.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-62">
             <prop name="folio">F.4.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!བྲག་ཅེས་བྱ་བ་དེ་ནི་རང་བཞིན་ལ་རྣམ་པར་རྟོག་པའི་མཚན་མ་རྣམས་ཀྱི་ཚིག་བླ་དགས་སོ། །</seg>
             </tuv>
@@ -639,9 +639,9 @@
                 <seg>The bedrock represents the fundamental conceptual signs.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-63">
             <prop name="folio">F.4.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རྐོས་ཤིག་ཅེས་བྱ་བ་དེ་ནི་ཡིད་ལ་མི་བྱེད་ཅེས་བྱ་བའི་ཚིག་བླ་དགས་སོ། །</seg>
             </tuv>
@@ -649,9 +649,9 @@
                 <seg>The command to dig represents not directing the mind toward them.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-64">
             <prop name="folio">F.4.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དངུལ་དུ་སྣང་བའི་རྡོ་ཞེས་བྱ་བ་དེ་ནི་གཉེན་པོ་ལ་རྣམ་པར་རྟོག་པའི་མཚན་མ་རྣམས་ཀྱི་ཚིག་བླ་དགས་སོ། །</seg>
             </tuv>
@@ -660,9 +660,9 @@
                 </seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-65">
             <prop name="folio">F.4.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!གསེར་དུ་སྣང་བའི་རྡོ་ཞེས་བྱ་བ་དེ་ནི་སྟོང་པ་ཉིད་ལ་སོགས་པ་ལ་རྣམ་པར་རྟོག་པའི་མཚན་མ་རྣམས་ཀྱི་ཚིག་བླ་དགས་སོ། །</seg>
             </tuv>
@@ -670,9 +670,9 @@
                 <seg>The rock resembling gold represents the conceptual signs related to emptiness and so on.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-66">
             <prop name="folio">F.4.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རིན་པོ་ཆེ་སྣ་ཚོགས་སུ་སྣང་བའི་རྡོ་ཞེས་བྱ་བ་དེ་ནི་ཐོབ་པ་ལ་རྣམ་པར་རྟོག་པའི་མཚན་མ་རྣམས་ཀྱི་ཚིག་བླ་དགས་སོ། །</seg>
             </tuv>
@@ -680,9 +680,9 @@
                 <seg>The rock resembling various gemstones represents the conceptual signs related to the attainments.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-67">
             <prop name="folio">F.4.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཡིད་བཞིན་གྱི་ནོར་བུ་རིན་པོ་ཆེའི་གཏེར་ཆེན་པོ་རྙེད་ཅེས་བྱ་བ་དེ་ནི་རྣམ་པར་མི་རྟོག་པའི་དབྱིངས་ལ་རེག་པའི་ཚིག་བླ་དགས་སོ། །</seg>
             </tuv>
@@ -690,9 +690,9 @@
                 <seg>Finding the great treasure, the wish-fulfilling jewel, represents experiencing the nonconceptual realm.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-68">
             <prop name="folio">F.4.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རིགས་ཀྱི་བུ་དག་དེ་ལྟར་དཔེ་ཉེ་བར་བཀོད་པ་འདིས་རྣམ་པར་མི་རྟོག་པའི་དབྱིངས་སུ་འཇུག་པ་ཁོང་དུ་ཆུད་པར་བྱའོ། །</seg>
             </tuv>
@@ -701,9 +701,9 @@
                 </seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-69">
             <prop name="folio">F.4.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རིགས་ཀྱི་བུ་དག་འདི་ཇི་ལྟར་ན་ཡང་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམ་པར་རྟོག་པའི་མཚན་མ་ཇི་སྐད་བསྟན་པ་དེ་དག་ལ་ཉེ་བར་རྟོག་ཅིང་རྣམ་པར་མི་རྟོག་པའི་དབྱིངས་སུ་འཇུག་ཅེ་ན</seg>
             </tuv>
@@ -712,9 +712,9 @@
                     <tei:milestone xml:id="UT22084-057-001-64"/>“How then, noble sons, do bodhisattvas, great beings, reflect on the conceptual signs as they have been taught here and enter the nonconceptual realm?</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-70">
             <prop name="folio">F.4.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རིགས་ཀྱི་བུ་དག་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དེ་ལྟར་རྣམ་པར་མི་རྟོག་པའི་དབྱིངས་ལ་རབ་ཏུ་གནས་པ་ནི་གཟུངས་ཀྱི་རང་བཞིན་ལ་རྣམ་པར་རྟོག་པའི་མཚན་མ་མངོན་དུ་གྱུར་ནའདི་ལྟར་ཉེ་བར་རྟོག་སྟེ། </seg>
             </tuv>
@@ -722,9 +722,9 @@
                 <seg>Noble sons, when a fundamental conceptual sign related to the aggregate of matter<tei:note xml:id="UT22084-057-001-65"/> manifests, bodhisattvas, great beings who are established in the nonconceptual realm, should reflect in this way:</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-71">
             <prop name="folio">F.4.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!གང་བདག་གི་གཟུགས་ཞེས་སྤྱོད་ན་རྣམ་པར་རྟོག་པ་ལ་སྤྱོད་པའོ། །</seg>
             </tuv>
@@ -732,9 +732,9 @@
                 <seg>‘To think “this is my material form” is to entertain a conceptual thought;</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-72">
             <prop name="folio">F.4.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!གཞན་དག་གི་གཟུགས་ཞེས་སྤྱོད་ན་རྣམ་པར་རྟོག་པ་ལ་སྤྱོད་པའོ། །</seg>
             </tuv>
@@ -742,9 +742,9 @@
                 <seg>to think “this material form belongs to others” is to entertain a conceptual thought;</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-73">
             <prop name="folio">F.4.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!གཟུགས་འདི་ཡོད་དོ་ཞེས་སྤྱོད་ན་རྣམ་པར་རྟོག་པ་ལ་སྤྱོད་པའོ། །</seg>
             </tuv>
@@ -752,9 +752,9 @@
                 <seg>to think “this is matter” is to entertain a conceptual thought;</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-74">
             <prop name="folio">F.4.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!གཟུགས་སྐྱེའོ། །འགག་གོ། །ཀུན་ནས་ཉོན་མོངས་པའོ། །རྣམ་པར་བྱང་བའོ་ཞེས་སྤྱོད་ན་རྣམ་པར་རྟོག་པ་ལ་སྤྱོད་པའོ། །</seg>
             </tuv>
@@ -762,9 +762,9 @@
                 <seg>to think “matter arises,” “it ceases,” “it is polluted,” or “it is purified” is to entertain a conceptual thought;</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-75">
             <prop name="folio">F.4.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!གཟུགས་མེད་ཅེས་སྤྱོད་ན་རྣམ་པར་རྟོག་པ་ལ་སྤྱོད་པའོ། །</seg>
             </tuv>
@@ -772,9 +772,9 @@
                 <seg>to think “there is no matter” is to entertain a conceptual thought;</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-76">
             <prop name="folio">F.5.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!གཟུགས་ངོ་བོ་ཉིད་ཀྱིས་ཀྱང་མེད། རྒྱུར་ཡང་མེད། འབྲས་བུར་ཡང་མེད། ལས་སུ་ཡང་མེད། ལྡན་<tei:ref folio="F.5.a"/>པར་ཡང་མེད། འཇུག་པར་མེད་ཅེས་སྤྱོད་ན་རྣམ་པར་རྟོག་པ་ལ་སྤྱོད་པའོ། །</seg>
             </tuv>
@@ -782,9 +782,9 @@
                 <seg>to think “matter does not exist intrinsically,” “it does not exist causally,” “it does not exist as a result,” “it does not exist through action,” “it does not exist in relation to anything,” or “it is not a mode of being” is to entertain a conceptual thought;</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-77">
             <prop name="folio">F.5.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!གཟུགས་ནི་རྣམ་པར་རིག་པ་ཙམ་ཞེས་སྤྱོད་ན་རྣམ་པར་རྟོག་པ་ལ་སྤྱོད་པའོ། །</seg>
             </tuv>
@@ -792,9 +792,9 @@
                 <seg>to think “matter is mere cognitive representation” is to entertain a conceptual thought;</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-78">
             <prop name="folio">F.5.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཇི་ལྟར་གཟུགས་མེད་པ་དེ་བཞིན་དུ་གཟུགས་སུ་སྣང་བའི་རྣམ་པར་རིག་པ་ཡང་མེད་དོ་ཞེས་སྤྱོད་ན་རྣམ་པར་རྟོག་པ་ལ་སྤྱོད་པའོ་སྙམ་མོ། །</seg>
             </tuv>
@@ -802,9 +802,9 @@
                 <seg>to think “just as matter does not exist, so cognitive representation appearing as matter does not exist” is to entertain a conceptual thought.’</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-79">
             <prop name="folio">F.5.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རིགས་ཀྱི་བུ་དག་འདི་ལྟར་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་གཟུགས་ཀྱང་མི་དམིགས། </seg>
             </tuv>
@@ -813,9 +813,9 @@
                     <tei:milestone xml:id="UT22084-057-001-66"/>“Therefore, noble sons, the bodhisattvas, great beings, do not apprehend matter,</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-80">
             <prop name="folio">F.5.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!གཟུགས་སུ་སྣང་བའི་རྣམ་པར་རིག་པ་ཡང་མི་དམིགས་མོད་ཀྱི། </seg>
             </tuv>
@@ -823,9 +823,9 @@
                 <seg>nor do they apprehend cognitive representations appearing as matter.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-81">
             <prop name="folio">F.5.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རྣམ་པར་རིག་པ་ཐམས་ཅད་ཀྱི་ཐམས་ཅད་དུ་ཆུད་གཟོན་པ་ནི་མ་ཡིན་ནོ། །</seg>
             </tuv>
@@ -833,9 +833,9 @@
                 <seg>In no way do they bring cognitive representation to an end,</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-82">
             <prop name="folio">F.5.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རྣམ་པར་རིག་པ་མ་གཏོགས་པར་ཆོས་གང་ཡང་མི་དམིགས་ལ་</seg>
             </tuv>
@@ -843,9 +843,9 @@
                 <seg>nor do they apprehend any phenomenon as being distinct from cognitive representation.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-83">
             <prop name="folio">F.5.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རྣམ་པར་རིག་པ་དེ་ཡང་དངོས་པོ་མེད་པར་ཡང་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་། </seg>
             </tuv>
@@ -853,9 +853,9 @@
                 <seg>They do not consider that cognitive representation to be nonexistent,</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-84">
             <prop name="folio">F.5.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རྣམ་པར་རིག་པ་མ་གཏོགས་པར་དངོས་པོ་མེད་པར་ཡང་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་། </seg>
             </tuv>
@@ -863,9 +863,9 @@
                 <seg>nor do they consider nonexistence to be something distinct from cognitive representation.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-85">
             <prop name="folio">F.5.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!གཟུགས་སུ་སྣང་བའི་རྣམ་པར་རིག་པ་མེད་པ་དེ་དང་རྣམ་པར་རིག་པ་དེ་གཅིག་པར་ཡང་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་། ཐ་དད་པར་ཡང་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་། </seg>
             </tuv>
@@ -873,9 +873,9 @@
                 <seg>They do not consider the nonexistence of a cognitive representation appearing as matter to be the same as that cognitive representation, nor do they consider it to be different.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-86">
             <prop name="folio">F.5.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རྣམ་པར་རིག་པ་དངོས་པོ་མེད་པ་དེ་ལ་དངོས་པོར་ཡང་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་། དངོས་པོ་མེད་པར་ཡང་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་སྟེ། </seg>
             </tuv>
@@ -883,9 +883,9 @@
                 <seg>They do not consider a nonexistent cognitive representation to be existent, nor do they consider it to be nonexistent.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-87">
             <prop name="folio">F.5.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རིགས་ཀྱི་བུ་དག་རྣམ་པ་ཐམས་ཅད་པའི་རྣམ་པར་རྟོག་པ་ཐམས་ཅད་ཀྱིས་གང་རྣམ་པར་མ་བརྟགས་པ་དེ་རྣམ་པར་མི་རྟོག་པའི་དབྱིངས་སོ་ཞེས་ཀྱང་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་ངོ་། །</seg>
             </tuv>
@@ -893,9 +893,9 @@
                 <seg>Noble sons, those who do not conceptualize through any of these conceptual modes do not think, ‘this is the nonconceptual realm.’</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-88">
             <prop name="folio">F.5.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རིགས་ཀྱི་བུ་དག་འདི་ནི་རྣམ་པར་མི་རྟོག་པའི་དབྱིངས་སུ་འཇུག་པའི་ཚུལ་ཡིན་ཏེ། </seg>
             </tuv>
@@ -904,9 +904,9 @@
                     <tei:milestone xml:id="UT22084-057-001-67"/>“Noble sons, this is the way of entering the nonconceptual realm.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-89">
             <prop name="folio">F.5.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེ་ལྟར་ན་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམ་པར་མི་རྟོག་པའི་དབྱིངས་ལ་རབ་ཏུ་གནས་པ་ཡིན་ནོ། །</seg>
             </tuv>
@@ -914,9 +914,9 @@
                 <seg>In this way, bodhisattvas, great beings, become established in the nonconceptual realm.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-90">
             <prop name="folio">F.5.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེ་བཞིན་དུ་ཚོར་བ་དང་། འདུ་ཤེས་དང་། འདུ་བྱེད་རྣམས་དང་། རྣམ་པར་ཤེས་པ་དང་། དེ་བཞིན་དུ་སྦྱིན་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དང་། ཚུལ་ཁྲིམས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དང་། བཟོད་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དང་། བརྩོན་འགྲུས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དང་། བསམ་གཏན་གྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དང་། ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དང་། དེ་བཞིན་དུ་སྟོང་པ་ཉིད་ལ་སོགས་པ་ནས་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་ཀྱི་བར་དུ་སྦྱར་རོ། །</seg>
             </tuv>
@@ -924,9 +924,9 @@
                 <seg>The same should be applied to sensation, perception, karmic dispositions, and consciousness. The same should be applied to the perfection of generosity, the perfection of discipline, the perfection of patience, the perfection of diligence, the perfection of meditative concentration, and the perfection of insight. And the same should be applied to emptiness and so on, up to omniscience. </seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-91">
             <prop name="folio">F.5.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རིགས་ཀྱི་བུ་དག་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའ་<tei:ref folio="F.5.b"/>སེམས་དཔའ་ཆེན་པོ་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་ལ་སྤྱོད་པའི་རྣམ་པར་རྟོག་པ་མངོན་དུ་གྱུར་ན། འདི་ལྟར་ཉེ་བར་རྟོག་སྟེ། </seg>
             </tuv>
@@ -935,9 +935,9 @@
                     <tei:milestone xml:id="UT22084-057-001-68"/>“Noble sons, when conceptual signs<tei:note xml:id="UT22084-057-001-69"/> related to an examination<tei:note xml:id="UT22084-057-001-70"/> of omniscience manifest, bodhisattvas, great beings, should reflect as follows:</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-92">
             <prop name="folio">F.5.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!གང་བདག་གི་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་ཅེས་སྤྱོད་ན་དེ་རྣམ་པར་རྟོག་པ་ལ་སྤྱོད་པའོ། །</seg>
             </tuv>
@@ -945,9 +945,9 @@
                 <seg>‘To think “this is my omniscience” is to entertain a conceptual thought;</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-93">
             <prop name="folio">F.5.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!གཞན་དག་གི་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་ཅེས་སྤྱོད་ན་རྣམ་པར་རྟོག་པ་ལ་སྤྱོད་པའོ། །</seg>
             </tuv>
@@ -955,9 +955,9 @@
                 <seg>to think “this is the omniscience of others” is to entertain a conceptual thought;</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-94">
             <prop name="folio">F.5.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་ནི་འདིའོ་ཞེས་སྤྱོད་ན་རྣམ་པར་རྟོག་པ་ལ་སྤྱོད་པའོ། །</seg>
             </tuv>
@@ -965,9 +965,9 @@
                 <seg>to think “this is omniscience” is to entertain a conceptual thought;</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-95">
             <prop name="folio">F.5.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་འཐོབ་ཅེས་སྤྱོད་ན་རྣམ་པར་རྟོག་པ་ལ་སྤྱོད་པའོ། །</seg>
             </tuv>
@@ -975,9 +975,9 @@
                 <seg>to think “omniscience is attained” is to entertain a conceptual thought;</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-96">
             <prop name="folio">F.5.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་ནི་ཉོན་མོངས་པ་དང་། ཤེས་བྱའི་སྒྲིབ་པ་ཐམས་ཅད་སྦྱོང་བའོ་ཞེས་སྤྱོད་ན་རྣམ་པར་རྟོག་པ་ལ་སྤྱོད་པའོ། །</seg>
             </tuv>
@@ -985,9 +985,9 @@
                 <seg>to think “omniscience is meant to destroy all cognitive obscurations and the obscurations of the afflictive emotions” is to entertain a conceptual thought;</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-97">
             <prop name="folio">F.5.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་མེད་དོ་ཞེས་སྤྱོད་ན་རྣམ་པར་རྟོག་པ་ལ་སྤྱོད་པའོ། །</seg>
             </tuv>
@@ -995,9 +995,9 @@
                 <seg>to think “omniscience does not exist” is to entertain a conceptual thought;</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-98">
             <prop name="folio">F.5.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་ལ་ངོ་བོ་ཉིད་ཀྱིས་ཀྱང་མེད། རྒྱུར་ཡང་མེད། འབྲས་བུར་ཡང་མེད། ལས་སུ་ཡང་མེད། ལྡན་པར་ཡང་མེད། འཇུག་པར་ཡང་མེད་ཅེས་སྤྱོད་ན་རྣམ་པར་རྟོག་པ་ལ་སྤྱོད་པའོ། །</seg>
             </tuv>
@@ -1005,9 +1005,9 @@
                 <seg>to think “omniscience does not exist intrinsically,” “it does not exist causally,” “it does not exist as a result,” “it does not exist through action,” “it does not exist in relation to anything,” and “it is not a mode of being” is to entertain a conceptual thought;</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-99">
             <prop name="folio">F.5.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་རྣམ་པར་རིག་པ་ཙམ་མོ་ཞེས་སྤྱོད་ན་རྣམ་པར་རྟོག་པ་ལ་སྤྱོད་པའོ། །</seg>
             </tuv>
@@ -1015,9 +1015,9 @@
                 <seg>to think “omniscience is mere cognitive representation” is to entertain a conceptual thought;</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-100">
             <prop name="folio">F.5.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཇི་ལྟར་ན་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་མེད་པ་དེ་བཞིན་དུ་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་དུ་སྣང་བའི་རྣམ་པར་རིག་པ་ཡང་མེད་དོ་ཞེས་སྤྱོད་ན་རྣམ་པར་རྟོག་པ་ལ་སྤྱོད་པའོ་སྙམ་མོ། །</seg>
             </tuv>
@@ -1025,9 +1025,9 @@
                 <seg>to think “just as omniscience does not exist, so cognitive representation appearing as omniscience does not exist” is to entertain a conceptual thought.’</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-101">
             <prop name="folio">F.5.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རིགས་ཀྱི་བུ་དག་འདི་ལྟར་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཇི་ལྟར་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་མི་དམིགས་པ་དེ་བཞིན་དུ་དེར་སྣང་བའི་རྣམ་པར་རིག་པའང་མི་དམིགས་མོད་ཀྱི། </seg>
             </tuv>
@@ -1036,9 +1036,9 @@
                     <tei:milestone xml:id="UT22084-057-001-73"/>“Therefore, noble sons,<tei:note xml:id="UT22084-057-001-74"/> just as bodhisattvas, great beings, do not apprehend omniscience, they likewise do not apprehend cognitive representations appearing as omniscience.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-102">
             <prop name="folio">F.5.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རྣམ་པར་རིག་པ་ཐམས་ཅད་ཀྱི་ཐམས་ཅད་དུ་ཆུད་གཟོན་པ་ནི་མ་ཡིན་ནོ། །</seg>
             </tuv>
@@ -1046,9 +1046,9 @@
                 <seg>In no way do they bring cognitive representation to an end,</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-103">
             <prop name="folio">F.5.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རྣམ་པར་རིག་པ་མ་གཏོགས་པར་ཆོས་གང་ཡང་མི་དམིགས་ལ། </seg>
             </tuv>
@@ -1056,9 +1056,9 @@
                 <seg>nor do they apprehend any phenomenon as being distinct from cognitive representations.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-104">
             <prop name="folio">F.5.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རྣམ་པར་རིག་པ་དེ་ཡང་དངོས་པོ་མེད་པར་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་། </seg>
             </tuv>
@@ -1066,9 +1066,9 @@
                 <seg>They do not consider that cognitive representation to be nonexistent,</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-105">
             <prop name="folio">F.5.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རྣམ་པར་རིག་པ་མ་གཏོགས་པར་དངོས་པོ་མེད་པར་ཡང་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་། </seg>
             </tuv>
@@ -1076,9 +1076,9 @@
                 <seg>nor do they consider nonexistence to be something distinct from cognitive representation.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-106">
             <prop name="folio">F.6.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་དུ་སྣང་བའི་རྣམ་པར་རིག་པ་མེད་པ་དེ་དང་། རྣམ་པར་རིག་པ་དེ་གཅིག་པར་ཡང་ཡང་དག་<tei:ref folio="F.6.a"/>པར་རྗེས་སུ་མི་མཐོང་། ཐ་དད་པར་ཡང་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་། </seg>
             </tuv>
@@ -1086,9 +1086,9 @@
                 <seg>They do not consider the nonexistence of that cognitive representation to be identical to that cognitive representation, nor do they consider it to be different.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-107">
             <prop name="folio">F.6.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རྣམ་པར་རིག་པ་མེད་པ་དེ་ལ་དངོས་པོར་ཡང་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་ངོ་། །</seg>
             </tuv>
@@ -1096,9 +1096,9 @@
                 <seg>They do not consider the nonexistence of that cognitive representation to be existent,</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-108">
             <prop name="folio">F.6.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དངོས་པོ་མེད་པར་ཡང་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་སྟེ། </seg>
             </tuv>
@@ -1106,9 +1106,9 @@
                 <seg>nor do they consider it to be nonexistent.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-109">
             <prop name="folio">F.6.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རིགས་ཀྱི་བུ་དག་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པའི་རྣམ་པར་རྟོག་པ་ཐམས་ཅད་ཀྱིས་གང་རྣམ་པར་མ་བརྟགས་པ་དེ་རྣམ་པར་མི་རྟོག་པའི་ཆོས་ཀྱི་དབྱིངས་སོ་ཞེས་ཀྱང་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་ངོ་། །</seg>
             </tuv>
@@ -1116,9 +1116,9 @@
                 <seg>Noble sons, those who do not conceptualize through any of these conceptual modes<tei:note xml:id="UT22084-057-001-75"/> do not think, ‘this is the nonconceptual field of phenomena.’</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-110">
             <prop name="folio">F.6.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེ་ལྟར་འདི་ནི་རྣམ་པར་མི་རྟོག་པའི་དབྱིངས་ལ་འཇུག་པའི་ཚུལ་ཡིན་ཏེ། </seg>
             </tuv>
@@ -1127,9 +1127,9 @@
                     <tei:milestone xml:id="UT22084-057-001-76"/>“This is the way of entering the nonconceptual realm.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-111">
             <prop name="folio">F.6.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རིགས་ཀྱི་བུ་དག་དེ་ལྟར་ན་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམ་པར་མི་རྟོག་པའི་དབྱིངས་ལ་རབ་ཏུ་གནས་པ་ཡིན་ནོ། །</seg>
             </tuv>
@@ -1137,9 +1137,9 @@
                 <seg>Noble sons, this is how bodhisattvas, great beings, become established in the nonconceptual realm.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-112">
             <prop name="folio">F.6.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རིགས་ཀྱི་བུ་དག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་འཛིན་པ་དང་། ཡི་གེར་འདྲི་བ་དང་། འཆང་བ་དང་། ཀློག་པའི་བསོད་ནམས་ནི་རབ་ཏུ་མང་གི་ལུས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་ཡོངས་སུ་བཏང་བ་ནི་དེ་ལྟ་མ་ཡིན་ནོ། །འཇིག་རྟེན་གྱི་ཁམས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་ཡོངས་སུ་གང་བའི་སྦྱིན་པ་བྱིན་པ་དེ་ནི་དེ་ལྟ་མ་ཡིན་ནོ། །དེ་བཞིན་གཤེགས་པའི་གཟུགས་བརྙན་རིན་པོ་ཆེ་ལས་བྱས་ཏེ། འཇིག་རྟེན་གྱི་ཁམས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་ཡོངས་སུ་བཀང་བའི་བསོད་ནམས་ཀྱི་ཕུང་པོ་ནི་དེ་ལྟ་མ་ཡིན་ནོ། །</seg>
             </tuv>
@@ -1147,9 +1147,9 @@
                 <seg>“Noble sons, the merit from taking up this discourse on the Dharma, writing it down,<tei:note xml:id="UT22084-057-001-78"/> and reciting it is much greater than giving away one’s body as many times as there are grains of sand in the river Ganga, much greater than offering jewel-filled world systems as numerous as grains of sand in the river Ganga, and much greater than the heap of merit created by commissioning images of the thus-gone ones to fill world systems as numerous as grains of sand in the river Ganga.”</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-113">
             <prop name="folio">F.6.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེ་ནས་དེའི་ཚེ་བཅོམ་ལྡན་འདས་ཀྱིས་ཚིགས་སུ་བཅད་པ་འདི་དག་གསུངས་སོ། །</seg>
             </tuv>
@@ -1158,9 +1158,9 @@
                     <tei:milestone xml:id="UT22084-057-001-79"/>Then, on that occasion, the Blessed One spoke these verses:</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-114">
             <prop name="folio">F.6.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དམ་ཆོས་འདི་ལ་རྒྱལ་བའི་སྲས། །རྣམ་པར་མི་རྟོག་བསམས་གྱུར་ན། །རྣམ་རྟོག་བགྲོད་དཀའ་རྣམས་འདས་ཏེ། །རིམ་གྱིས་མི་རྟོག་ཐོབ་པར་འགྱུར། །</seg>
             </tuv>
@@ -1168,9 +1168,9 @@
                 <seg>“With this true doctrine the Victor’s heir, intent upon the nonconceptual, Transcends the quagmire of concepts and gradually reaches the end of thought.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-115">
             <prop name="folio">F.6.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེ་ལས་རབ་ཞི་མི་གཡོ་མཆོག །དབང་བྱེད་མཉམ་ལ་མི་མཉམ་པ། །རྣམ་པར་མི་རྟོག་བདེ་བ་ནི། །བྱང་ཆུབ་སེམས་དཔས་ཐོབ་པར་འགྱུར། །</seg>
             </tuv>
@@ -1179,9 +1179,9 @@
                 </seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-116">
             <prop name="folio">F.6.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། </seg>
             </tuv>
@@ -1190,9 +1190,9 @@
                     <tei:milestone xml:id="UT22084-057-001-82"/>When the Blessed One finished his discourse,</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-117">
             <prop name="folio">F.6.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམ་པར་མི་རྟོག་སྣང་བ་དང་། ཐམས་ཅད་དང་ལྡན་པའི་འཁོར་དེ་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།</seg>
             </tuv>
@@ -1200,9 +1200,9 @@
                 <seg>the bodhisattva, the great being Avikalpa­prabhāsa and the entire retinue together with the world of gods, humans, asuras, and gandharvas rejoiced as they praised the teachings of the Blessed One.</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-118">
             <prop name="folio">F.6.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!འཕགས་པ་རྣམ་པར་མི་རྟོག་པར་འཇུག་པ་ཞེས་བྱ་བའི་གཟུངས་རྫོགས་སོ།། །།</seg>
             </tuv>
@@ -1211,9 +1211,9 @@
                     <tei:milestone xml:id="UT22084-057-001-83"/>This completes The Noble Dhāraṇī “Entering into Nonconceptuality.”</seg>
             </tuv>
 </tu>
-<tu>
+<tu id="UT22084-057-001-TU-119">
             <prop name="folio">F.6.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རྒྱ་གར་གྱི་མཁན་པོ་<tei:ref folio="F.6.b"/>ཛི་ན་མི་ཏྲ་དང་། དཱ་ན་ཤཱི་ལ་དང་། ཞུ་ཆེན་གྱི་ལོཙྪ་བ་ཀ་བ་དཔལ་བརྩེགས་ཀྱིས་བསྒྱུར་ཏེ་གཏན་ལ་ཕབ་པ།།</seg>
             </tuv>

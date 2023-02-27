@@ -1006,7 +1006,7 @@
         </tu>
         <tu>
             <prop name="folio">F.146.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternativeSource">Translated from Sanskrit, see note.</flag>
+            <prop name="alternative-source">Translated from Sanskrit, see note.</prop>
             <tuv xml:lang="bo">
                 <seg>!ཁ་ཅིག་ནི་དགེ་སློང་གི་དགེ་འདུན་ལ་མཆོད་པ་དང་བཀུར་སྟི་བྱ་བའི་དགེ་བའི་རྩ་བ་ལ་སྤྲོ་བ་བསྐྱེད་པས་འདུལ། </seg>
             </tuv>
@@ -1757,7 +1757,7 @@
         </tu>
         <tu>
             <prop name="folio">F.149.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternativeSource">Translated from Sanskrit fragments, see note.</flag>
+            <prop name="alternative-source">Translated from Sanskrit fragments, see note.</prop>
             <tuv xml:lang="bo">
                 <seg>!རིམ་གྱིས་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཀྱི་བར་དུ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་བར་འགྱུར་ན</seg>
             </tuv>

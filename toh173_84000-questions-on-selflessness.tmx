@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+    <header creationtool="linguae-dharmae/84000" creationtoolversion="2.16.12a" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" eft:text-id="UT22084-060-002" eft:text-version="v-1.0.4-2022" eft:source-ref="/db/apps/84000-data/uploads/linguae-dharmae/aligned/31-10-2022/complete/toh173-bo_aligned.txt"/>
+    <body>
+        <!--<tu id="UT22084-060-002-TU-1">
+            <tuv xml:lang="bo"><seg>༄༅༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་ནཻ་ར་ཨཱཏྨ་པ་རི་པྲྀཙྪཱ་ནཱ་མ་མ་ཧཱ་ཡཱ་ན་སཱུ་ཏྲ། བོད་སྐད་དུ།</seg></tuv>
+            <tuv xml:lang="en"><seg/></tuv>
+        </tu>-->
+        <tu id="UT22084-060-002-TU-2">
+            <prop name="location-id">translation</prop>
+            <prop name="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>འཕགས་པ་བདག་མེད་པ་དྲིས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Noble Mahāyāna Sūtra Questions on Selflessness</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-3">
+            <prop name="location-id">UT22084-060-002-9</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Homage to all buddhas and bodhisattvas.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-4">
+            <prop name="location-id">UT22084-060-002-11</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་དམིགས་པའི་ལྟ་བ་ཅན་རྣམ་པར་རྟོག་པ་དང་བཅས་ཤིང་རྣམ་པར་དཔྱོད་པ་དང་བཅས་པའི་མུ་སྟེགས་པ་དེ་དག་རྣམས་ཐེག་པ་ཆེན་པོའི་ནང་དུ་སོང་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Now, the tīrthikas—those who hold views based on objects and who engage in concepts and analysis—went among the followers of the Mahāyāna.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-5">
+            <prop name="location-id">UT22084-060-002-11</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཞེ་ས་དང་བཅས་ཤིང་ཐལ་མོ་སྦྱར་ནས་བདག་མེད་པའི་དྲི་བ་དག་ཡོངས་སུ་དྲིས་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Respectfully, with joined palms, they asked these questions on selflessness:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-6">
+            <prop name="location-id">UT22084-060-002-11</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>རིགས་ཀྱི་བུ་ཐམས་ཅད་མཁྱེན་པས་ནི་ལུས་ལ་བདག་མེད་དོ་ཞེས་གསུངས་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Sons of noble family, the Omniscient One taught that there is no self in the body.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-7">
+            <prop name="location-id">UT22084-060-002-11</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>གལ་ཏེ་ལུས་ལ་ཡང་དག་པར་བདག་མེད་ན་ཇི་ལྟར་ན་དེ་ལས་རྩེ་བ་དང་། དགོད་པ་དང་། ངུ་བ་དང་། རོལ་བ་དང་། ཁྲོ་བ་དང་། ང་རྒྱལ་དང་། ཕྲག་དོག་དང་། ཕྲ་མ་ལ་སོགས་པ་ཀུན་ཏུ་འབྱུང་བར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>If there truly is no self in the body, then how do playfulness, laughter, crying, enjoyment, anger, pride, jealousy, calumny, and so forth come about?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-8">
+            <prop name="location-id">UT22084-060-002-11</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཅི་ལུས་ལ་ཡང་དག་པར་ན་བདག་ཡོད་དམ་མེད་པ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Is there truly a self in the body or not?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-9">
+            <prop name="location-id">UT22084-060-002-11</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བདག་ཅག་གི་ཐེ་ཚོམ་དེ་དག་ཁྱོད་ཀྱིས་བསལ་བའི་རིགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It would be proper for you to dispel our doubts.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-10">
+            <prop name="location-id">UT22084-060-002-13</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཐེག་པ་ཆེན་པོ་པ་རྣམས་ཀྱིས་སྨྲས་པ། གྲོགས་པོ་དག་ལུས་ལ་ནི་བདག་ཡང་དག་པར་ཡོད་དོ་ཞེའམ། མེད་དོ་ཞེས་གཉི་གར་ཡང་འདིར་བརྗོད་པར་མི་བྱ་སྟེ། ཡང་དག་པར་ཡོད་དོ་ཞེས་བརྗོད་པ་ན་མེད་དོ་ཞེས་བརྗོད་པ་ནི་ལོག་པར་སྨྲ་བའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The followers of the Mahāyāna replied, “Friends, it should not be said that there truly is or is not a self in the body, because to say in this case that there truly is or is not a self is mistaken speech.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-11">
+            <prop name="location-id">UT22084-060-002-13</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གལ་ཏེ་ཡོད་ན་ཇི་ལྟར་ན་དེ་སྐྲ་དང་། སེན་མོ་དང་། པགས་པ་དང་། མགོ་བོ་དང་། ཤ་དང་། རུས་པ་དང་། རྐང་དང་། ཚིལ་དང་། རྒྱུས་པ་དང་། མཆིན་པ་དང་། རྒྱུ་མ་དང་། མིད་པ་དང་། ལག་པ་དང་། རྐང་པ་དང་། ཡན་ལག་དང་། ཉིང་ལག་ལ་སོགས་པ་ལུས་ཐམས་ཅད་ཀྱི་ཕྱི་དང་ནང་དུ་བཅས་པ་ལ་རྣམ་པར་བརྟགས་ན་བདག་ཡང་དག་པར་མི་སྣང་ངོ་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Now, if there were a self, then why is it not perceptible at all, even after searching through the hair, nails, skin, head, flesh, bones, marrow, fat, ligaments, liver, intestines, throat, hands, feet, limbs, and other minor parts, both inside and outside the body?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-12">
+            <prop name="location-id">UT22084-060-002-16</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མུ་སྟེགས་པ་རྣམས་ཀྱིས་སྨྲས་པ། ལྷའི་མིག་དང་ལྡན་པ་འགའ་ཞིག་གིས་མཐོང་གིས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The tīrthikas said, “The self is only visible to those who have the divine eye.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-13">
+            <prop name="location-id">UT22084-060-002-16</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བདག་ཅག་རྣམས་ནི་ཤའི་མིག་ཅན་ཡིན་པས་བདག་ཡང་དག་པར་ཇི་ལྟར་མཐོང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>How could it be visible to us who only have eyes of flesh?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-14">
+            <prop name="location-id">UT22084-060-002-17</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཐེག་པ་ཆེན་པོ་པ་རྣམས་ཀྱིས་སྨྲས་པ། ལྷའི་མིག་དང་ལྡན་པ་རྣམས་ཀྱིས་ཀྱང་མི་མཐོང་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The followers of the Mahāyāna replied, “It is not seen even by those with the divine eye.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-15">
+            <prop name="location-id">UT22084-060-002-17</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>གང་ལ་ཁ་དོག་མེད་པ་དང་། གཟུགས་མེད་པ་དང་། དབྱིབས་མེད་པ་དེ་ཇི་ལྟར་མཐོང་བར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>For how can something that has no color, form, or shape be seen?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-16">
+            <prop name="location-id">UT22084-060-002-19</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>མུ་སྟེགས་པ་རྣམས་ཀྱིས་སྨྲས་པ། ཅི་མེད་པ་ཡིན་ནམ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The tīrthikas asked,  “Then is it nonexistent?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-17">
+            <prop name="location-id">UT22084-060-002-19</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཐེག་པ་ཆེན་པོ་པ་རྣམས་ཀྱིས་སྨྲས་པ། མེད་དོ་ཞེས་བརྗོད་པ་ན་ཡོད་དོ་ཞེས་བརྗོད་པ་ནི་ལོག་པར་སྨྲ་བའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The followers of the Mahāyāna said, “To say that it is nonexistent or to say that it is existent is mistaken speech.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-18">
+            <prop name="location-id">UT22084-060-002-19</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གལ་ཏེ་མེད་ན་ཇི་ལྟར་འདི་མངོན་སུམ་དུ་ཡོད་པར་རྩེ་བ་དང་། དགོད་པ་དང་། ངུ་བ་དང་། རོལ་བ་དང་། ཁྲོ་བ་དང་། ང་རྒྱལ་དང་། ཕྲག་དོག་དང་། ཕྲ་མ་ལ་སོགས་པ་ཀུན་ཏུ་འབྱུང་བར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>If it is nonexistent, then why do playfulness, laughter, crying, enjoyment, anger, pride, jealousy, calumny, and so forth arise so clearly?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-19">
+            <prop name="location-id">UT22084-060-002-19</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་བས་ན་མེད་དོ་ཞེས་བརྗོད་པར་ཡང་མི་རུང་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Therefore, it is not correct to say that it is nonexistent.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-20">
+            <prop name="location-id">UT22084-060-002-19</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཡོད་དམ་མེད་ཅེས་གང་འདི་ལྟར་བརྗོད་པར་མི་བྱ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>One should not say that it is existent or nonexistent.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-21">
+            <prop name="location-id">UT22084-060-002-19</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཉེས་པ་འདི་ཡོད་པས་ན་ཡོད་པའོ་ཞེའམ། མེད་པའོ་ཞེས་བརྗོད་པར་མི་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Since this would be a fault, one should not say that it exists or that it does not exist.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-22">
+            <prop name="location-id">UT22084-060-002-22</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མུ་སྟེགས་པ་རྣམས་ཀྱིས་སྨྲས་པ། འོ་ན་འདིར་གང་ཞིག་དམིགས་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The tīrthikas asked, “Then what is apprehended in this case?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-23">
+            <prop name="location-id">UT22084-060-002-22</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཐེག་པ་ཆེན་པོ་པ་རྣམས་ཀྱིས་སྨྲས་པ། དམིགས་པར་གྱུར་པ་ནི་ཅི་ཡང་མེད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The followers of the Mahāyāna said, “Nothing at all is apprehended.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-24">
+            <prop name="location-id">UT22084-060-002-23</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མུ་སྟེགས་པ་རྣམས་ཀྱིས་སྨྲས་པ། ཅི་ནམ་མཁའ་ལྟར་སྟོང་པ་ཉིད་ཡིན་ནམ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The tīrthikas asked, “Is it as empty as the sky?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-25">
+            <prop name="location-id">UT22084-060-002-23</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཐེག་པ་ཆེན་པོ་པ་རྣམས་ཀྱིས་སྨྲས་པ། གྲོགས་པོ་དག་དེ་དེ་བཞིན་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The followers of the Mahāyāna said, “Friends, it is exactly like that!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-26">
+            <prop name="location-id">UT22084-060-002-23</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ནམ་མཁའ་ལྟར་སྟོང་པ་ཉིད་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It is as empty as the sky.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-27">
+            <prop name="location-id">UT22084-060-002-24</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མུ་སྟེགས་པ་རྣམས་ཀྱིས་སྨྲས་པ། གལ་ཏེ་དེ་ལྟར་ཡིན་ན་རྩེ་བ་དང་། དགོད་པ་དང་། ངུ་བ་དང་། རོལ་པ་དང་། ཁྲོ་བ་དང་། ང་རྒྱལ་དང་། ཕྲག་དོག་དང་། ཕྲ་མ་ལ་སོགས་པ་ཇི་ལྟར་བལྟ་བར་བགྱི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The tīrthikas asked, “If that is so, then how should one view playfulness, laughter, crying, enjoyment, anger, pride, jealousy, calumny, and so forth?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-28">
+            <prop name="location-id">UT22084-060-002-25</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཐེག་པ་ཆེན་པོ་པ་རྣམས་ཀྱིས་སྨྲས་པ། སྒྱུ་མ་དང་། རྨི་ལམ་དང་། མིག་འཕྲུལ་དང་འདྲ་བ་ཉིད་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The followers of the Mahāyāna said, “They should be regarded as like an illusion, a dream, and a magical deception.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-29">
+            <prop name="location-id">UT22084-060-002-26</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མུ་སྟེགས་པ་རྣམས་ཀྱིས་སྨྲས་པ། སྒྱུ་མ་ནི་ཇི་ལྟ་བུ་ལགས། རྨི་ལམ་དང་། མིག་འཕྲུལ་ནི་ཇི་ལྟ་བུ་ལགས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The tīrthikas asked, “How are they like an illusion, a dream, and a magical deception?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-30">
+            <prop name="location-id">UT22084-060-002-26</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཐེག་པ་ཆེན་པོ་པ་རྣམས་ཀྱིས་སྨྲས་པ། སྒྱུ་མ་ནི་མཚོན་པ་ཙམ་མོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The followers of the Mahāyāna said, “An illusion is a mere analogy.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-31">
+            <prop name="location-id">UT22084-060-002-26</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྨི་ལམ་ནི་སོ་སོར་སྣང་བ་ཙམ་སྟེ། གཟུང་བར་བྱ་བ་མ་ཡིན་ཞིང་རང་བཞིན་གྱིས་སྟོང་པ། ཡོད་པ་མ་ཡིན་པའི་ངོ་བོ་ཉིད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>A dream is a mere appearance that is not graspable, empty by nature, and nonexistent in essence.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-32">
+            <prop name="location-id">UT22084-060-002-26</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མིག་འཕྲུལ་ནི་བཅོས་མ་ཙམ་དུ་དགོས་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>A magical deception is intentionally fabricated.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-33">
+            <prop name="location-id">UT22084-060-002-26</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གྲོགས་པོ་དག་དེ་དེ་བཞིན་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>This is the way things are, friends.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-34">
+            <prop name="location-id">UT22084-060-002-26</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དངོས་པོ་ཇི་སྙེད་པ་ཐམས་ཅད་ནི་སྒྱུ་མ་དང་། རྨི་ལམ་དང་། མིག་འཕྲུལ་དང་འདྲ་བར་ཤེས་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You should regard all these things as being like an illusion, a dream, and a magical deception.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-35">
+            <prop name="location-id">UT22084-060-002-27</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གཞན་ཡང་ཀུན་རྫོབ་དང་། དོན་དམ་པ་དག་བསྟན་པར་བྱ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Moreover, the distinction between the relative and the ultimate should be pointed out.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-36">
+            <prop name="location-id">UT22084-060-002-27</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ལ་ཀུན་རྫོབ་ཅེས་བྱ་བ་ནི་འདི་ནི་བདག་གོ། །འདི་ནི་གཞན་ནོ་ཞེས་བྱ་བ་དང་། སྲོག་དང་། སྐྱེས་བུ་དང་། གང་ཟག་དང་། བྱེད་པ་པོ་དང་། ཚོར་བ་པོ་དང་། ནོར་དང་། བུ་དང་། ཆུང་མ་དང་། མཛའ་བཤེས་དང་། ཉེ་དུ་ལ་སོགས་པར་རྟོག་པ་དེ་ནི་ཀུན་རྫོབ་ཅེས་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>In this regard, the relative consists in the conception ‘this is self, that is other.’ To conceptualize a soul, a person, an individual, an agent, an observer, wealth, children, wives, friends, relatives, and so forth is called the relative</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-37">
+            <prop name="location-id">UT22084-060-002-29</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་ལ་བདག་མེད་པ་དང་། གཞན་མེད་པ་དང་། སྲོག་མེད་པ་དང་། སྐྱེས་བུ་མེད་པ་དང་། གང་ཟག་མེད་པ་དང་། བྱེད་པ་པོ་མེད་པ་དང་། ཚོར་བ་པོ་མེད་པ་དང་། ནོར་མེད་པ་དང་། བུ་མེད་པ་དང་། ཆུང་མ་མེད་པ་དང་། མཛའ་བཤེས་མེད་པ་དང་། ཉེ་དུ་ལ་སོགས་པ་མེད་པ་དེ་ནི་དོན་དམ་པ་ཞེས་བྱའོ། །གང་ལ་རང་བཞིན་གྱིས་དངོས་པོ་ཐམས་ཅད་དུ་ཡོངས་སུ་བརྟགས་ཤིང་དགེ་བ་དང་། མི་དགེ་བའི་འབྲས་བུ་དང་། སྐྱེ་བ་དང་། འགག་པ་ནི་ཀུན་རྫོབ་བོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Where there is no self, no other, no soul, no person, no individual, no agent, no observer, no wealth, no children, no wives, no friends, no relatives, and so forth, this is called the ultimate . The relative consists in habitually labeling all things, in the results of virtuous and nonvirtuous deeds, and in birth and cessation.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-38">
+            <prop name="location-id">UT22084-060-002-31</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དགེ་བ་དང་མི་དགེ་བའི་འབྲས་བུ་མེད་པ་དང་། སྐྱེ་བ་མེད་པ་དང་། འགག་པ་མེད་པ་དེ་བཞིན་ཉིད་ཀྱི་ངོ་བོ་ཉིད་དེ་ལ་ནི་ཀུན་ནས་ཉོན་མོངས་པ་དང་། རྣམ་པར་བྱང་བ་མེད་དེ། དེ་ནི་དབུ་མའི་ཆོས་རྣམས་ཀྱི་སྒྲུབ་པ་ལྷུར་ལེན་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“The very essence of suchness, where there are no virtuous results, no nonvirtuous results, no birth, and no cessation, is beyond both pollution and purification. This is the middle way teaching to strive for in practice.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-39">
+            <prop name="location-id">UT22084-060-002-31</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ལ་འདི་སྐད་ཅེས་བྱ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>In this regard, it is said:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-40">
+            <prop name="location-id">UT22084-060-002-33</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀུན་རྫོབ་དང་ནི་དོན་དམ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Relative and ultimate</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-41">
+            <prop name="location-id">UT22084-060-002-33</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དབྱེ་བ་གཉིས་སུ་ཡང་དག་བཤད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Are explained as two categories:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-42">
+            <prop name="location-id">UT22084-060-002-33</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཀུན་རྫོབ་འཇིག་རྟེན་པ་ཡི་ཆོས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The relative comprises worldly phenomena;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-43">
+            <prop name="location-id">UT22084-060-002-33</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དོན་དམ་འཇིག་རྟེན་འདས་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The ultimate is beyond the worldly.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-44">
+            <prop name="location-id">UT22084-060-002-34</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཀུན་རྫོབ་ཆོས་ལ་ཞུགས་པ་ཡི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Engaging with relative phenomena,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-45">
+            <prop name="location-id">UT22084-060-002-34</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སེམས་ཅན་ཉོན་མོངས་དབང་དུ་འགྲོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Sentient beings are overpowered by emotional defilements.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-46">
+            <prop name="location-id">UT22084-060-002-34</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དོན་དམ་ཡོངས་སུ་མ་ཤེས་པས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Not knowing the ultimate at all,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-47">
+            <prop name="location-id">UT22084-060-002-34</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཁོར་བར་ཡུན་རིང་འཁོར་བར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They wander for a long time in saṃsāra. “The unwise form the concepts</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-48">
+            <prop name="location-id">UT22084-060-002-34</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཀུན་རྫོབ་འཇིག་རྟེན་ཆོས་རྣམས་ལ། །མི་མཁས་པ་དག་རྟོག་པར་བྱེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Of relative worldly phenomena.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-49">
+            <prop name="location-id">UT22084-060-002-34</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཀུན་ཏུ་རྟོག་པ་དེ་ཡིས་ནི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Due to such conceptualization,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-50">
+            <prop name="location-id">UT22084-060-002-34</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྡུག་བསྔལ་ཉམས་སུ་མྱོང་བར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They experience suffering.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-51">
+            <prop name="location-id">UT22084-060-002-37</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཇི་ལྟར་སོ་སོའི་སྐྱེ་བོ་ཡི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Ordinary individuals, due to their immaturity,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-52">
+            <prop name="location-id">UT22084-060-002-37</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བྱིས་པས་གྲོལ་ལམ་མི་ཤེས་པས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Do not know the path of liberation.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-53">
+            <prop name="location-id">UT22084-060-002-37</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མི་ཟད་པ་ཡི་སྡུག་བསྔལ་དག །མང་པོ་རྗེས་སུ་མྱོང་བར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They experience sundry forms Of unending suffering. “Oblivious to the ultimate,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-54">
+            <prop name="location-id">UT22084-060-002-37</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་དུ་སྲིད་པ་འགག་འགྱུར་བའི། །དོན་དམ་དག་ནི་མི་ཤེས་པས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Where worldly existence ceases,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-55">
+            <prop name="location-id">UT22084-060-002-37</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྐྱེ་བ་དང་ནི་འགག་འགྱུར་ཞིང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They are born and cease.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-56">
+            <prop name="location-id">UT22084-060-002-37</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྐྱེ་མེད་འགྲོ་དང་འོང་བར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Although birthless, they come and go.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-57">
+            <prop name="location-id">UT22084-060-002-41</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཇིག་རྟེན་ཆོས་ལ་གནས་པ་ཡི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Fools who dwell on worldly phenomena</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-58">
+            <prop name="location-id">UT22084-060-002-41</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བླུན་པོ་འཁོར་ལོ་བཞིན་དུ་འཁོར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Will rove around like a wheel.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-59">
+            <prop name="location-id">UT22084-060-002-41</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྡུག་བསྔལ་གནས་ཅན་འཁོར་བ་འདིར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>In saṃsāra, the place of suffering,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-60">
+            <prop name="location-id">UT22084-060-002-41</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཡང་དང་ཡང་དུ་འཁོར་བར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They will revolve again and again.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-61">
+            <prop name="location-id">UT22084-060-002-43</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཇི་ལྟར་ཉི་མ་ཟླ་བ་དག །སླར་ཡང་འོང་ཞིང་འགྲོ་བར་བྱེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Just as the sun and the moon Continue to come and go,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-62">
+            <prop name="location-id">UT22084-060-002-43</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་བཞིན་སྲིད་པར་འཕོ་བ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Likewise, these beings, transmigrating in the world,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-63">
+            <prop name="location-id">UT22084-060-002-43</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སླར་ཡང་འོང་ཞིང་འགྲོ་བར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Come and go, again and again.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-64">
+            <prop name="location-id">UT22084-060-002-44</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཁོར་བ་ཐམས་ཅད་མི་རྟག་ཅིང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“The whole of saṃsāra is impermanent and unstable,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-65">
+            <prop name="location-id">UT22084-060-002-44</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མི་བརྟན་སྐད་ཅིག་འཇིག་པ་ཉིད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Disintegrating at every moment.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-66">
+            <prop name="location-id">UT22084-060-002-44</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་བས་དོན་དམ་ཤེས་པ་ཡིས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>That is why, by knowing the ultimate,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-67">
+            <prop name="location-id">UT22084-060-002-44</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཀུན་རྫོབ་བདེན་པའི་གནས་སྤོང་ངོ་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>One abandons the state of relative reality.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-68">
+            <prop name="location-id">UT22084-060-002-47</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མཐོ་རིས་གནས་ནས་ལྷ་རྣམས་དང་། །དྲི་ཟ་ལྷ་མི་རྣམས་ཀྱང་ནི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Devas from the higher realms, As well as gandharvas, apsarases, and humans,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-69">
+            <prop name="location-id">UT22084-060-002-47</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཀུན་ལ་འཕོ་བ་ཡོད་གྱུར་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Are all subject to transmigration—</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-70">
+            <prop name="location-id">UT22084-060-002-47</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཀུན་ཀྱང་ཀུན་རྫོབ་འབྲས་བུ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>All this is the result of the relative.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-71">
+            <prop name="location-id">UT22084-060-002-49</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གྲུབ་དང་རིགས་འཛིན་གནོད་སྦྱིན་དང་། །དྲི་ཟ་དང་ནི་ལྟོ་འཕྱེ་རྣམས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Siddhas, vidyādharas, and yakṣas, Gandharvas and mahoragas,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-72">
+            <prop name="location-id">UT22084-060-002-49</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སླར་ཡང་དམྱལ་བར་འགྲོ་འགྱུར་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Go again and again to hell—</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-73">
+            <prop name="location-id">UT22084-060-002-49</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཀུན་ཀྱང་ཀུན་རྫོབ་འབྲས་བུ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>All this is the result of the relative. “Those with great perseverance who come to abide</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-74">
+            <prop name="location-id">UT22084-060-002-49</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་ཞིག་བརྩོན་དྲག་ལྷ་རྣམས་དང་། །ཡོན་ཏན་འབྱུང་གནས་ལ་གནས་གང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>In the abode of the devas due to good qualities</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-75">
+            <prop name="location-id">UT22084-060-002-49</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མཐོ་རིས་ལས་འཕོ་ལྟུང་གྱུར་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Must again pass away and fall from the higher realms—</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-76">
+            <prop name="location-id">UT22084-060-002-49</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཐམས་ཅད་ཀུན་རྫོབ་འབྲས་བུ་ཡིན། །བརྒྱ་བྱིན་འཁོར་ལོས་སྒྱུར་ཉིད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>All this is the result of the relative.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-77">
+            <prop name="location-id">UT22084-060-002-53</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་གིས་དམ་པའི་གནས་ཐོབ་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Whoever attains the supreme state Of Śakra or of a universal monarch</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-78">
+            <prop name="location-id">UT22084-060-002-53</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སླར་ཡང་བྱོལ་སོང་སྐྱེ་གནས་འཇུག །ཐམས་ཅད་ཀུན་རྫོབ་འབྲས་བུ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Will once again enter the birthplace of animals— All this is the result of the relative. “Abandoning the great bliss</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-79">
+            <prop name="location-id">UT22084-060-002-53</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་བས་མཐོ་རིས་ལྷ་རྣམས་ཀྱི། །བདེན་པ་བཟང་པོ་ཀུན་སྤོང་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Of the devas of the higher realms,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-80">
+            <prop name="location-id">UT22084-060-002-53</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བྱང་ཆུབ་སེམས་ནི་འོད་གསལ་བ། །རྣལ་འབྱོར་པས་ནི་རྟག་ཏུ་བསྒོམ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>A yogin should always meditate On the mind of awakening, which is luminosity.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-81">
+            <prop name="location-id">UT22084-060-002-56</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དངོས་པོ་མེད་ཅིང་དམིགས་སུ་མེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Essenceless, unapprehendable,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-82">
+            <prop name="location-id">UT22084-060-002-56</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཐམས་ཅད་སྟོང་པ་གནས་མེད་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Entirely empty, groundless,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-83">
+            <prop name="location-id">UT22084-060-002-56</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྤྲོས་པ་རྣམས་ལས་ཡང་དག་འདས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And beyond all conceptual elaboration—</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-84">
+            <prop name="location-id">UT22084-060-002-56</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བྱང་ཆུབ་སེམས་དཔའི་མཚན་ཉིད་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Such is the definition of the mind of awakening.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-85">
+            <prop name="location-id">UT22084-060-002-57</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྲ་བ་མ་ཡིན་འཇམ་པ་མིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Neither hard nor soft,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-86">
+            <prop name="location-id">UT22084-060-002-57</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲོ་བ་མ་ཡིན་གྲང་བ་མིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Neither warm nor cold,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-87">
+            <prop name="location-id">UT22084-060-002-57</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནི་རེག་མིན་གཟུང་བྱ་མིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Neither tangible nor graspable—</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-88">
+            <prop name="location-id">UT22084-060-002-57</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བྱང་ཆུབ་སེམས་ཀྱི་མཚན་ཉིད་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Such is the definition of the mind of awakening.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-89">
+            <prop name="location-id">UT22084-060-002-58</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རིང་པོ་མ་ཡིན་ཐུང་བ་མིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Neither long nor short,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-90">
+            <prop name="location-id">UT22084-060-002-58</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཟླུམ་པོ་མ་ཡིན་གྲུ་གསུམ་མིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Neither round nor triangular,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-91">
+            <prop name="location-id">UT22084-060-002-58</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཕྲ་བ་མ་ཡིན་སྦོམ་པའང་མིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Neither thin nor thick—</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-92">
+            <prop name="location-id">UT22084-060-002-58</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བྱང་ཆུབ་སེམས་ཀྱི་མཚན་ཉིད་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Such is the definition of the mind of awakening.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-93">
+            <prop name="location-id">UT22084-060-002-60</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྒོམ་པ་རྣམས་ལས་རྣམ་འདས་ཤིང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Beyond meditation,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-94">
+            <prop name="location-id">UT22084-060-002-60</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མུ་སྟེགས་རྣམས་ཀྱི་སྤྱོད་ཡུལ་མིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Out of range for tīrthikas,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-95">
+            <prop name="location-id">UT22084-060-002-60</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཤེས་རབ་ཕ་རོལ་ཕྱིན་སྦྱོར་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And having the perfection of insight as its practice</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-96">
+            <prop name="location-id">UT22084-060-002-60</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བྱང་ཆུབ་སེམས་ཀྱི་མཚན་ཉིད་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Such is the definition of the mind of awakening.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-97">
+            <prop name="location-id">UT22084-060-002-62</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དཔེ་མེད་བསྒོམ་དུ་མེད་པ་དང་། །མཐོང་མིན་གནས་ཀྱི་མཆོག་གྱུར་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Beyond analogy, it is nothing to meditate on. The supreme unseen abode,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-98">
+            <prop name="location-id">UT22084-060-002-62</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རང་བཞིན་གྱིས་ནི་རྣམ་དག་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Completely pure by nature—</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-99">
+            <prop name="location-id">UT22084-060-002-62</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བྱང་ཆུབ་སེམས་ཀྱི་མཚན་ཉིད་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Such is the definition of the mind of awakening.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-100">
+            <prop name="location-id">UT22084-060-002-63</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཐམས་ཅད་དབུ་བ་ལྟ་བུ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“All things are like foam,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-101">
+            <prop name="location-id">UT22084-060-002-63</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཆུ་བུར་ལྟ་བུར་སྙིང་པོ་མེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Essenceless like water bubbles,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-102">
+            <prop name="location-id">UT22084-060-002-63</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྟག་པ་མ་ཡིན་བདག་མེད་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Neither permanent nor having self.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-103">
+            <prop name="location-id">UT22084-060-002-63</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྒྱུ་མ་སྨིག་རྒྱུ་དག་དང་མཚུངས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They are similar to magical illusions and mirages.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-104">
+            <prop name="location-id">UT22084-060-002-64</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གོང་བུ་བཞིན་དུ་བསྡུས་གྱུར་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Like a vase that is made from a lump of clay,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-105">
+            <prop name="location-id">UT22084-060-002-64</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྤྲོས་པ་རྣམས་ཀྱིས་ཡོངས་སུ་གང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Beings are filled with conceptual elaborations‍—</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-106">
+            <prop name="location-id">UT22084-060-002-64</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདོད་ཆགས་ཞེ་སྡང་ལ་སོགས་ལྟར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Desire, anger, and so forth‍—</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-107">
+            <prop name="location-id">UT22084-060-002-64</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནི་སྒྱུ་མཚུངས་འབའ་ཞིག་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They are utterly illusion-like.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-108">
+            <prop name="location-id">UT22084-060-002-65</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཇི་ལྟར་ནང་ན་ཐིག་ལེ་ནི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Just as in the morning where there was a dew drop</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-109">
+            <prop name="location-id">UT22084-060-002-65</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྐད་ཅིག་དེ་ལ་མི་མཐོང་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>A moment later there is nothing to be seen,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-110">
+            <prop name="location-id">UT22084-060-002-65</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཤེས་རབ་ཕ་རོལ་ཕྱིན་མཐོང་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>So, too, when one sees the perfection of insight</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-111">
+            <prop name="location-id">UT22084-060-002-65</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་བཞིན་བློ་ནི་འདུས་མ་བྱས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The intellect gives way to the unconditioned.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-112">
+            <prop name="location-id">UT22084-060-002-68</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྟག་ཏུ་དགོད་ཅིང་རྩེ་བ་དང་། །སྨྲ་ཞིང་གླུ་དང་རོལ་མོ་དང་། །གཞི་ལ་སོགས་པའི་བདེ་བ་རྣམས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Continuous laughter and play, Talking, singing, music, The enjoyment of material things, and so forth</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-113">
+            <prop name="location-id">UT22084-060-002-68</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་དག་ཐམས་ཅད་རྨི་ལམ་མཚུངས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Are all similar to dreams.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-114">
+            <prop name="location-id">UT22084-060-002-69</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ལུས་ཅན་ཀུན་གྱིས་འདུས་བྱས་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Things constructed by beings</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-115">
+            <prop name="location-id">UT22084-060-002-69</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདི་ཀུན་རྨི་ལམ་དང་མཚུངས་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Are all similar to dreams.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-116">
+            <prop name="location-id">UT22084-060-002-69</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྨི་ལམ་སེམས་ཀྱི་ཀུན་རྟོག་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Dreams are imaginings of the mind.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-117">
+            <prop name="location-id">UT22084-060-002-69</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སེམས་ཀྱང་ནམ་མཁའ་ལྟ་བུ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Mind itself is like the sky.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-118">
+            <prop name="location-id">UT22084-060-002-70</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་ཞིག་ཚུལ་འདི་རྟག་སྒོམ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“One who constantly meditates</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-119">
+            <prop name="location-id">UT22084-060-002-70</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཤེས་རབ་ཕ་རོལ་ཕྱིན་པའི་ཚུལ། །གང་ཞིག་འདི་ནི་རྟག་སྒོམ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>On this way of the perfection of insight</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-120">
+            <prop name="location-id">UT22084-060-002-70</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དངོས་པོ་ཀུན་ལས་རྣམ་གྲོལ་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Becomes free of all entities</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-121">
+            <prop name="location-id">UT22084-060-002-70</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གོ་འཕང་མཆོག་ནི་ཐོབ་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And attains the supreme state. “Those who uphold, with meditation,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-122">
+            <prop name="location-id">UT22084-060-002-70</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བླ་ན་མེད་པའི་བྱང་ཆུབ་གང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The highest awakening</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-123">
+            <prop name="location-id">UT22084-060-002-70</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སངས་རྒྱས་ཀུན་གྱིས་རྣམ་བསྒོམ་པ། །བསྒོམས་དང་བཅས་པས་འཛིན་ན་ནི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Cultivated by all the buddhas</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-124">
+            <prop name="location-id">UT22084-060-002-70</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཐེག་ཆེན་འབྲས་བུ་འཐོབ་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Will gain the fruit of the Mahāyāna.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-125">
+            <prop name="location-id">UT22084-060-002-73</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཕགས་པ་བདག་མེད་པ་དྲིས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Here ends the noble Mahāyāna sūtra “Questions on Selflessness.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-060-002-TU-126">
+            <prop name="location-id">UT22084-060-002-74</prop>
+            <prop name="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།།རྒྱ་གར་གྱི་མཁན་པོ་ཀ་མ་ལ་གུབ་ཏ་དང་། ཞུ་ཆེན་གྱི་ལོ་ཙྪ་བ་དགེ་སློང་རིན་ཆེན་བཟང་པོས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།། </seg>
+            </tuv>
+          <tuv xml:lang="en">
+                <seg>Translated, edited, and finalized by the Indian preceptor Kamalagupta and the great Tibetan editor-translator Bhikṣu Rinchen Sangpo.</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

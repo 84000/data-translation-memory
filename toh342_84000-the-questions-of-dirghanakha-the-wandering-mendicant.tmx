@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+    <header creationtool="linguae-dharmae/84000" creationtoolversion="2.16.12a" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" eft:text-id="UT22084-074-003" eft:text-version="v-1.0.3-2022" eft:source-ref="/db/apps/84000-data/uploads/linguae-dharmae/aligned/31-10-2022/complete/toh342-bo_aligned.txt"/>
+    <body>
+        <!--<tu id="UT22084-074-003-TU-1">
+            <tuv xml:lang="bo"><seg>རྒྱ་གར་སྐད་དུ། དཱི་རྒྷན་ཁ་པ་རི་པྲཱ་ཛ་ཀ་པ་རི་པྲྀ་ཙྪཱ་ནཱ་མ་སཱུ་ཏྲ། བོད་སྐད་དུ།</seg></tuv>
+            <tuv xml:lang="en"><seg>The Noble Mahāyāna Sūtra The Questions of Dīrghanakha the Wandering Mendicant</seg></tuv>
+        </tu>-->
+        <tu id="UT22084-074-003-TU-2">
+            <prop name="location-id">translation</prop>
+            <prop name="revision">v-1.0.3-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀུན་ཏུ་རྒྱུ་བ་སེན་རིངས་ཀྱིས་ཞུས་པ་ཞེས་བྱ་བའི་མདོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Questions of Dīrghanakha the Wandering Mendicant</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-3">
+            <prop name="location-id">UT22084-074-003-32</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Homage to all buddhas and bodhisattvas!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-4">
+            <prop name="location-id">UT22084-074-003-33</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-5">
+            <prop name="location-id">UT22084-074-003-33</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་རྒྱལ་པོའི་ཁབ་ན། བྱ་རྒོད་ཀྱི་ཕུང་པོའི་རི་ལ། དགེ་སློང་སྟོང་ཉིས་བརྒྱ་ལྔ་བཅུའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One was dwelling in Rājagṛha on Vulture Peak Mountain together with a great monastic saṅgha of 1,250 monks.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-6">
+            <prop name="location-id">UT22084-074-003-36</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་འཁོར་བཞི་པོ་དག་ལ་ཆོས་སྟོན་ཏེ། ཚངས་པར་སྤྱོད་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then the Blessed One taught the Dharma to the fourfold saṅgha.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-7">
+            <prop name="location-id">UT22084-074-003-36</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཐོག་མར་དགེ་བ། བར་དུ་དགེ་བ། ཐ་མར་དགེ་བ། དོན་བཟང་པོ། ཚིག་འབྲུ་བཟང་པོ། མ་འདྲེས་པ། ཡོངས་སུ་རྫོགས་པ། ཡོངས་སུ་དག་པ། ཡོངས་སུ་བྱང་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>He taught the wholesome conduct that is virtuous in the beginning, virtuous in the middle, and virtuous in the end, and that is excellent in meaning, excellent in words, distinctive, perfect, completely pure, and completely refined.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-8">
+            <prop name="location-id">UT22084-074-003-38</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཡང་དག་པར་རབ་ཏུ་སྟོན་ཏོ། །དེའི་ཚེ་ཀུན་ཏུ་རྒྱུ་སེན་རིངས་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>At that time Dīrghanakha the wandering mendicant journeyed to where the Blessed One was.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-9">
+            <prop name="location-id">UT22084-074-003-38</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱི་སྤྱན་སྔར། ཁར་བ་ལ་ཨོམ་ཚུགས་བཅས་ཏེ་ཅང་མི་སྨྲ་བར་འདུག་ནས་བལྟས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Arriving in the presence of the Blessed One, he stood there resting on his staff, saying nothing at all.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-10">
+            <prop name="location-id">UT22084-074-003-38</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །ཀྱེ་གོའུ་ཏ་མ་འཇིག་རྟེན་ནི་ལས་བདག་གིར་བྱ་བ། ལས་ཀྱི་བགོ་སྐལ་ལ་སྤྱོད་པ། ལས་ཀྱི་འཆིང་བ་ཅན་ལས་བརྟན་པར་བྱའོ་ཞེས་དེ་སྐད་སྨྲས་པ་ནི་བདེན་ན། དགེ་སྦྱོང་གོའུ་ཏ་མས་སྔོན་ལས་ཅི་ཞིག་བྱས་ཤིང་བསགས་ན། དེས་དགེ་སྦྱོང་གོའུ་ཏ་མ་རྡོ་རྗེའི་ལུས་དང་ལྡན་པར་གྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>He then looked up and said to the Blessed One, “Hey, Gautama, you say that beings of the world take possession of actions, enjoy the legacy of actions, and are bound by the fetters of actions, and you say that these actions are reliable. If this is true, then (1) what previous actions has the renunciant Gautama performed and accumulated so that he has come to possess the vajra body?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-11">
+            <prop name="location-id">UT22084-074-003-41</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། བྲམ་ཟེ་ཆེན་པོ་འདི་ནི་ངས་ཚེ་རབས་སྔ་མའི་སྐྱེ་བར་སྲོག་གཅོད་པ་སྤངས་པའི་ལས་དེའི་འབྲས་བུ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One replied, “Great brahmin, this is the result of the action of abandoning killing in my previous succession of lives.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-12">
+            <prop name="location-id">UT22084-074-003-43</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དགེ་སྦྱོང་གོའུ་ཏ་མས་སྔོན་ལས་ཅི་ཞིག་བྱས་ཤིང་བསགས་ན། དེས་དགེ་སྦྱོང་གོའུ་ཏམ་སོར་མོ་རིང་ཞིང་སོར་མོའི་བར་དྲ་བས་འབྲེལ་པར་གྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“What previous actions did the renunciant Gautama perform and accumulate so that he came to have fingers that are long and webbed?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-13">
+            <prop name="location-id">UT22084-074-003-44</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། བྲམ་ཟེ་ཆེན་པོ་འདི་ནི་ངས་ཚེ་རབས་སྔ་མའི་སྐྱེ་བར་ལེན་པ་སྤངས་པའི་ལས་དེའི་འབྲས་བུ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One replied, “Great brahmin, this is the result of the action of abandoning taking what is not given in my previous succession of lives.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-14">
+            <prop name="location-id">UT22084-074-003-46</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དགེ་སྦྱོང་གོའུ་ཏ་མས་སྔོན་ལས་ཅི་ཞིག་བྱས་ཤིང་བསགས་ན། དེས་དགེ་སྦྱོང་གོའུ་ཏ་མ་དབང་པོ་ཡོངས་སུ་ཚང་ཞིང་ལུས་རབ་ཏུ་རྒྱས་པར་གྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“What previous actions did the renunciant Gautama perform  and accumulate so that he came to have complete faculties and a fully developed body?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-15">
+            <prop name="location-id">UT22084-074-003-47</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། བྲམ་ཟེ་ཆེན་པོ་འདི་ནི་ངས་ཚེ་རབས་སྔ་མའི་སྐྱེ་བར་འདོད་པ་ལ་ལོག་པར་གཡེམ་པ་སྤངས་པའི་ལས་དེའི་འབྲས་བུ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One replied, “Great brahmin, this is the result of the action of abandoning desire and sexual misconduct in my previous succession of lives.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-16">
+            <prop name="location-id">UT22084-074-003-48</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དགེ་སྦྱོང་གོའུ་ཏ་མས་སྔོན་ཅི་ཞིག་བྱས་ཤིང་བསགས་ན། དེས་དགེ་སྦྱོང་གོའུ་ཏ་མ་ལྕེས་གདོང་གི་དཀྱིལ་འཁོར་ཐམས་ཅད་ཁེབས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“What previous actions did the renunciant Gautama perform and accumulate so that he came to have a tongue that covers the entire circle of his face?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-17">
+            <prop name="location-id">UT22084-074-003-50</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། བྲམ་ཟེ་ཆེན་པོ་འདི་ནི་ངས་ཚེ་རབས་སྔ་མའི་སྐྱེ་བར་བརྫུན་དུ་སྨྲ་བ་སྤངས་པའི་ལས་དེའི་འབྲས་བུ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One replied, “Great brahmin, this is the result of the action of abandoning false speech in my previous succession of lives.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-18">
+            <prop name="location-id">UT22084-074-003-51</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དགེ་སྦྱོང་གོའུ་ཏ་མས་སྔོན་ལས་ཅི་ཞིག་བྱས་ཤིང་བསགས་ན། དེས་དགེ་སྦྱོང་གོའུ་ཏ་མ་སེང་གེའི་སྟབས་སུ་འགྲོ་བར་གྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“What previous actions did the renunciant Gautama perform and accumulate so that he came to have the gait of a lion?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-19">
+            <prop name="location-id">UT22084-074-003-53</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། བྲམ་ཟེ་ཆེན་པོ་འདི་ནི་ངས་ཚེ་རབས་སྔ་མའི་སྐྱེ་བར་འབྲུའི་ཆང་དང་། སྦྱར་བའི་ཆང་མྱོས་པ་བག་མེད་པའི་གནས་སྤངས་པའི་ལས་དེའི་འབྲས་བུ་ཡིན་ནོ། །དགེ་སྦྱོང་གོའུ་ཏ་མས་སྔོན་ལས་ཅི་ཞིག་བྱས་ཤིང་བསགས་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One replied, “Great brahmin, this is the result of the action of abandoning the state of heedlessness induced from being intoxicated with beer or other alcohol in my previous succession of lives.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-20">
+            <prop name="location-id">UT22084-074-003-55</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེས་དགེ་སྦྱོང་གོའུ་ཏ་མ་སོ་བཞི་བཅུ་དང་ལྡན་ཞིང་སོ་མཉམ་ལ་སོ་དཀར་བར་གྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“What previous actions did the renunciant Gautama perform and accumulate so that he came to possess forty even and white teeth?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-21">
+            <prop name="location-id">UT22084-074-003-58</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། བྲམ་ཟེ་ཆེན་པོ་འདི་ནི་ངས་ཚེ་རབས་སྔ་མའི་སྐྱེ་བར་དུས་མ་ཡིན་པའི་ཟས་སྤངས་པའི་ལས་དེའི་འབྲས་བུ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One replied, “Great brahmin, this is the result of the action of abandoning eating food at inappropriate times in my previous succession of lives.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-22">
+            <prop name="location-id">UT22084-074-003-59</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དགེ་སྦྱོང་གོའུ་ཏ་མས་སྔོན་ལས་ཅི་ཞིག་བྱས་ཤིང་བསགས་ན། དེས་དགེ་སྦྱོང་གོའུ་ཏ་མ་ཚུལ་ཁྲིམས་ཀྱི་སྤོས་ཀྱིས་ལུས་བྱུགས་པར་གྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“What previous actions did the renunciant Gautama perform and accumulate so that he manifested a body anointed with the fragrance of moral discipline?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-23">
+            <prop name="location-id">UT22084-074-003-61</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། བྲམ་ཟེ་ཆེན་པོ་འདི་ནི་ངས་ཚེ་རབས་སྔ་མའི་སྐྱེ་བར་ཕྲེང་བ་དང་། སྤོས་དང་། བྱུག་པ་དང་། ཁ་དོག་འཆང་བ་སྤངས་པའི་ལས་དེའི་འབྲས་བུ་ཡིན་ནོ། །དགེ་སྦྱོང་གོའུ་ཏ་མས་སྔོན་ལས་ཅི་ཞིག་བྱས་ཤིང་བསགས་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One replied, “Great brahmin, this is the result of the action of abandoning the wearing of garlands, perfumes, ointments, and cosmetics in my previous succession of lives.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-24">
+            <prop name="location-id">UT22084-074-003-62</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེས་དགེ་སྦྱོང་གོའུ་ཏ་མ་ལུས་མཚན་ཐམས་ཅད་ཀྱིས་བརྒྱན་པར་གྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“What previous actions did the renunciant Gautama perform and accumulate so that his body came to be adorned with all of the signs?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-25">
+            <prop name="location-id">UT22084-074-003-64</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། བྲམ་ཟེ་ཆེན་པོ་འདི་ནི་ངས་ཚེ་རབས་སྔ་མའི་སྐྱེ་བར་གླུ་དང་གར་དང་། རྒྱན་རྣམས་སྤངས་པས་ལས་དེའི་འབྲས་བུ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One  replied, “Great brahmin, this is the result of the action of abandoning song, dance, and jewelry in my previous succession of lives.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-26">
+            <prop name="location-id">UT22084-074-003-66</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དགེ་སྦྱོང་གོའུ་ཏ་མས་སྔོན་ལས་ཅི་ཞིག་བྱས་ཤིང་བསགས་ན། དེས་དགེ་སྦྱོང་གོའུ་ཏ་མ་སྟན་གསུམ་ལ་ཡོངས་སུ་སྤྱོད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“What previous actions did the renunciant Gautama perform and accumulate so that he enjoys the three seats?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-27">
+            <prop name="location-id">UT22084-074-003-68</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། བྲམ་ཟེ་ཆེན་པོ་འདི་ནི་ངས་ཚེ་རབས་སྔ་མའི་སྐྱེ་བར་ཁྲི་སྟན་མཐོན་པོ་དང་། ཁྲི་སྟན་ཆེན་པོ་སྤངས་པའི་ལས་དེའི་འབྲས་བུ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One replied, “Great brahmin, this is the result of the action of abandoning high thrones and large beds in my previous succession of lives.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-28">
+            <prop name="location-id">UT22084-074-003-69</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དགེ་སྦྱོང་གོའུ་ཏ་མས་སྔོན་ལས་ཅི་ཞིག་བྱས་ཤིང་བསགས་ན། དེས་དགེ་སྦྱོང་གོའུ་ཏ་མ་མགོའི་གཙུག་ཏོར་འཕགས་པར་གྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“What previous actions did the renunciant Gautama perform and accumulate so that he came to have the raised uṣṇīṣa on his head?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-29">
+            <prop name="location-id">UT22084-074-003-70</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། བྲམ་ཟེ་ཆེན་པོ་འདི་ནི་ངས་ཚེ་རབས་སྔ་མའི་སྐྱེ་བར། སངས་རྒྱས་དང་། ཆོས་དང་། དགེ་འདུན་དང་། ཕ་མ་དང་། སློབ་དཔོན་དང་། མཁན་པོ་དང་། བླ་མ་དང་། སྦྱིན་གནས་རྣམས་ལ་ཡན་ལག་ལྔ་ས་ལ་གཏུགས་ཏེ་མགོ་བོས་ཕྱག་འཚལ་ལོ། །མཆོད་པའི་ལས་དེའི་འབྲས་བུ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One replied, “Great brahmin, this is the result of the actions of placing my limbs and head upon the earth, prostrating, and making offerings to the Buddha, Dharma, Saṅgha, parents, preceptors, scholars, gurus, and those worthy of offering in my previous succession of lives.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-30">
+            <prop name="location-id">UT22084-074-003-74</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་ཀུན་ཏུ་རྒྱུ་སེན་རིངས་ཀྱིས་ཁར་བ་ས་ལ་བོར་ནས། བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>At this point, Dīrghanakha the wandering mendicant set his staff on the ground and bowed his head to the feet of the Blessed One.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-31">
+            <prop name="location-id">UT22084-074-003-74</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས། བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་བདག་ཇི་སྲིད་འཚོའི་བར་དུ་སངས་རྒྱས་ལ་སྐྱབས་སུ་མཆིའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Standing to the side of the Blessed One, he joined his palms together, bowed, and said, “Blessed One, for as long as I live, I go for refuge in the Buddha.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-32">
+            <prop name="location-id">UT22084-074-003-74</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཇི་སྲིད་འཚོའི་བར་དུ་ཆོས་ལ་སྐྱབས་སུ་མཆིའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>For as long as I live, I go for refuge in the Dharma.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-33">
+            <prop name="location-id">UT22084-074-003-74</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཇི་སྲིད་འཚོའི་བར་དུ་དགེ་འདུན་ལ་སྐྱབས་སུ་མཆིའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>For as long as I live, I go for refuge in the Saṅgha.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-34">
+            <prop name="location-id">UT22084-074-003-74</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཇི་སྲིད་འཚོའི་བར་དུ་ཡན་ལག་བརྒྱད་པའི་བསྙེན་གནས་ལ་ཉེ་བར་གནས་པར་བགྱིའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>For as long as I live, I will undertake abstinence relating to the eight poṣadha vows.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-35">
+            <prop name="location-id">UT22084-074-003-78</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྲོག་ཆགས་ཐམས་ཅད་གསོད་དང་གཞན་ནོར་རྐུ་དང་མི་ཚངས་སྤྱོད་པ་དང་། །ངག་གི་དབྱེ་བ་བརྫུན་དང་མྱོས་སྐྱེད་དུས་མིན་ཟ་བ་དང་། །ཕྲེང་བ་ཁ་དོག་གླུ་དང་གར་དང་རྩེ་འཇོ་མལ་སྟན་མཐོན་པོ་རྣམས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“From now on I will abandon (1) killing any living creatures, (2) stealing another’s wealth, (3) engaging in sex, (4) lying or using divisive speech, (5) becoming intoxicated, (6) eating food at the inappropriate time, (7) garlands, cosmetics, song, dance, and entertainment, and (8) high beds.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-36">
+            <prop name="location-id">UT22084-074-003-78</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེང་ནས་བདག་གིས་སྤངས་ཏེ་ཡོན་ཏན་བརྒྱད་ཀྱིས་དགྲ་བཅོམ་ཚུལ་དུ་བགྱི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>I will maintain these eight good qualities  in the manner of the arhats.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-37">
+            <prop name="location-id">UT22084-074-003-79</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་བཞིན་དུ་ལན་གཉིས་ལན་གསུམ་དུའོ། །བདག་གིས་གསོ་སྦྱོང་གི་ཚུལ་ཁྲིམས་ཀྱི་སྡོམ་པ་ཡང་དག་པར་འཛིན་པ་འདི་སེམས་ཀྱི་རྒྱན་དང་། སེམས་ཀྱི་ཡོ་བྱད་དང་། བྱང་ཆུབ་ཀྱི་ཚོགས་སུ་འགྱུར་བ་དང་། དོན་གྱི་དམ་པ་ཐམས་ཅད་མཁྱེན་པའི་ཡེ་ཤེས་དང་མྱ་ངན་ལས་འདས་པའི་བདེ་བ་བླ་ན་མེད་པ་ལ་གནས་པར་གྱུར་ཅིག །བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>In the same way, he repeated this vow a second and third time and said, “I will correctly maintain the vows of the discipline of the poṣadha. This will be the ornament of my mind, the instrument of my mind, and the accumulation of awakening. May I remain in the omniscient wisdom of the ultimate truth and the unsurpassable bliss of nirvāṇa.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-38">
+            <prop name="location-id">UT22084-074-003-79</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བྲམ་ཟེ་ཆེན་པོ་ཁྱོད་དེ་ལྟར་བྱེད་པ་ལེགས་སོ་ལེགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One said, “Great brahmin, you should do just that! Excellent! Excellent!”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-39">
+            <prop name="location-id">UT22084-074-003-82</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། དགེ་སློང་དེ་དག་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>When the Blessed One had thus spoken, those monks and the world with its gods, humans, demigods, and gandharvas rejoiced and praised the words of the Blessed One.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-074-003-TU-40">
+            <prop name="unmatched">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།།ཀུན་ཏུ་རྒྱུ་སེན་རིངས་ཀྱིས་ཞུས་པའི་མདོ་རྫོགས་སོ།། །།བཀའ་དང་པོར་གཏོགས་སོ།།</seg>
+            </tuv>
+            
+        </tu>
+    </body>
+</tmx>

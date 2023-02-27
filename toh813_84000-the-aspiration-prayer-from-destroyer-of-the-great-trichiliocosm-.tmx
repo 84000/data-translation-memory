@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+    <header creationtool="linguae-dharmae/84000" creationtoolversion="2.16.12a" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" eft:text-id="UT22084-096-062" eft:text-version="v-1.1.19-2021" eft:source-ref="/db/apps/84000-data/uploads/linguae-dharmae/aligned/31-10-2022/complete/toh813-bo_aligned.txt"/>
+    <body>
+        <!--<tu id="UT22084-096-062-TU-1">
+            <tuv xml:lang="bo"><seg>མ་ཧཱ་ཀཱ་རུ་ཎི་ཀཱ་ཡ། ཏདྱ་ཐཱ།</seg></tuv>
+            <tuv xml:lang="en"><seg/></tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-2">
+            <tuv xml:lang="bo"><seg>ཨོྃ་ཙཀྲ་བརྟི། ཙིནྟཱ་མ་ཎི་མ་ཧཱ་པདྨེ་རུ་རུ་ཏིཥྛ། ཛྭ་ལ་ཨཱ་ཀརྵ་ཡ་ཧཱུྃ་ཕཊ་སྭཱ་ཧཱ།</seg></tuv>
+            <tuv xml:lang="en"><seg>The Aspiration Prayer from “Destroyer of the Great Trichiliocosm”</seg></tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-3">
+            <tuv xml:lang="bo"><seg>རྩ་བའི་སྔགས་རྫོགས་སྷོ།། །།ཨོྃ་པདྨེ་ཙིནྟཱ་མ་ཎི་ཛྭ་ལ་ཧཱུྃ། སྙིང་པོའོ། །ཨོྃ་བྷ་ར་ཏ་པདྨེ་ཧཱུྃ། ཉེ་བའི་སྙིང་པོའོ། །ཨོྃ་མ་ཎི་བཛྲེ་ཎི་ཧཱུྃ། གསང་བའི་སྙིང་པོའོ། །སྔགས་སྙིང་བཞི་འབྱུང་བ་དང་། སྨོན་ལམ་དང་ཚིགས་སུ་བཅད་པ་དང་སྔགས་སུ་བཅས་པ་རྫོགས་སྷོ།།</seg></tuv>
+            <tuv xml:lang="en"><seg>The Aspiration Prayer from “Destroyer of the Great Trichiliocosm”</seg></tuv>
+        </tu>-->
+        <tu id="UT22084-096-062-TU-4">
+            <prop name="location-id">UT22084-096-062-34</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>༄༅། །དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Homage to the Three Jewels!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-5">
+            <prop name="location-id">UT22084-096-062-35</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཇིག་རྟེན་འདིའམ་གང་དག་འདས་པ་དང་། །མཐོ་རིས་དག་ན་རིན་ཆེན་མཆོག་ཡོད་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>In this world or beyond there is nothing— Not even a precious gem in the higher realms—</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-6">
+            <prop name="location-id">UT22084-096-062-35</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་བཞིན་གཤེགས་པ་ལྷ་ཡི་ལྷར་གྱུར་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>That equals the Thus-Gone One, the god of gods,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-7">
+            <prop name="location-id">UT22084-096-062-35</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།མི་ཡི་མཆོག་དང་འདིར་ནི་མཚུངས་པ་མེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The supreme among humans.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-8">
+            <prop name="location-id">UT22084-096-062-35</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་བས་འདི་ནི་རིན་ཆེན་མཆོག་ཏུ་གསུངས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thus, he is called the most precious gem.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-9">
+            <prop name="location-id">UT22084-096-062-35</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བདེན་པ་དེ་ཡིས་འདིར་ནི་དགེ་བར་ཤོག །ཟད་པ་ཆགས་བྲལ་བདུད་རྩི་འདུས་མ་བྱས། །ཤེས་པས་ཤཱཀྱ་ཐུབ་དེས་རབ་ཏུ་ཕྱེ། །བདུད་རྩི་ཞི་བ་འདུས་བྱས་མ་ཡིན་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>By this truth may there be well-being here!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-10">
+            <prop name="location-id">UT22084-096-062-36</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཆོས་དེ་དང་ནི་མཚུངས་པ་གང་ཡང་མེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>There is nothing at all comparable to the Dharma Of uncompounded, quiescent ambrosia— The uncompounded ambrosia of extinction and dispassion Discerned by the Sage of the Śākyas through his knowledge.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-11">
+            <prop name="location-id">UT22084-096-062-36</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་བས་འདི་ནི་རིན་ཆེན་མཆོག་ཏུ་གསུངས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thus, it is called the most precious gem.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-12">
+            <prop name="location-id">UT22084-096-062-36</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བདེན་པ་དེ་ཡིས་འདིར་ནི་དགེ་བར་ཤོག །མཆོག་ཏུ་གང་འདོད་ཚུལ་བཞིན་རབ་བསྟན་པ། །སྟོན་པའི་རྣལ་འབྱོར་བླ་མེད་རྟག་སྒྲུབ་པ། །རྡོ་རྗེ་ལྟ་བུའི་མིག་གཉིས་ལམ་མཐོང་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>By this truth may there be well-being here!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-13">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཏིང་འཛིན་དེ་དང་མཉམ་པ་ཡོད་མ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>There is nothing comparable to the absorption That perceives the vajra-like, nondual path— The manifestation, in due order, of what is most desired, The permanent accomplishment of the teacher’s absolute practice.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-14">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་བས་འདི་ནི་རིན་ཆེན་མཆོག་ཏུ་གསུངས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thus, it is called the most precious gem.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-15">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བདེན་པ་དེ་ཡིས་འདིར་ནི་དགེ་བར་ཤོག །གང་ཟག་ཆེན་པོ་བརྒྱད་པོ་རབ་བསྔགས་ཤིང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>By this truth may there be well-being here! The eight great kinds of person praised</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-16">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་ཟག་ཟུང་བཞིར་བརྗོད་པ་དེ་དག་ནི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And called the four pairs , Extolled as “venerable” by the Thus-Gone One,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-17">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་གང་ཟག་མཚུངས་མེད་པ། །བདེ་བར་གཤེགས་པས་སྦྱིན་པའི་གནས་ཞེས་གསུངས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The incomparable person, the Great Sage,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-18">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ལ་བྱིན་ན་འབྲས་བུ་ཆེར་འགྱུར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Yield great fruits when offered to,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-19">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཞིང་རབ་གཤིན་ལ་ས་བོན་བཏབ་པ་བཞིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Like seeds planted in a fertile field—</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-20">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདི་ནི་དགེ་འདུན་རིན་ཆེན་མཆོག་ཏུ་གསུངས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>This is called the most precious gem of the Saṅgha.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-21">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བདེན་པ་དེ་ཡིས་འདིར་ནི་དགེ་བར་ཤོག །གང་དག་བརྟན་པའི་ཡིད་ཀྱིས་རབ་བརྩོན་ཞིང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>By this truth may there be well-being here! Since those who strive with firm resolve</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-22">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།གཽ་ཏམ་ཡི་བསྟན་ལ་འཇུག་བྱེད་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And enter Gautama’s teaching</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-23">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་དག་ཐོབ་ནས་བདུད་རྩི་འཇུག་ཐོབ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Gain access to ambrosia,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-24">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།མུན་པ་བསལ་ནས་མྱ་ངན་འདས་ཐོབ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Remove darkness, and attain nirvāṇa,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-25">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་བས་དགེ་འདུན་རིན་ཆེན་མཆོག་ཏུ་གསུངས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They are called the most precious gem of the Saṅgha.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-26">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བདེན་པ་དེ་ཡིས་འདིར་ནི་དགེ་བར་ཤོག །ལྟ་བ་འདི་ལ་སྦྱར་མ་ཐག་ཏུ་ནི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>By this truth may there be well-being here! As soon as they connect with this vision,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-27">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཇིག་ཚོགས་ལྟ་དང་ཚུལ་ཁྲིམས་བརྟུལ་ཞུགས་དང་། །ཐེ་ཚོམ་དང་ནི་ཉོན་མོངས་གསུམ་པོ་དག །ཅིག་ཆར་སྤངས་ཏེ་འཕགས་པའི་བདེན་མཐོང་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Belief in the transitory collection, Ethical discipline in the form of extreme austerity, And doubt are simultaneously cast off, And they see the truths of the noble ones.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-28">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེས་ན་དགེ་འདུན་རིན་ཆེན་མཆོག་ཏུ་གསུངས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thus, they are called the most precious gem of the Saṅgha.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-29">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བདེན་པ་དེ་ཡིས་འདིར་ནི་དགེ་བར་ཤོག །ལུས་སམ་ངག་གམ་འོན་ཏེ་ཡིད་ཀྱིས་ཀྱང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>By this truth may there be well-being here! With body, speech, or mind</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-30">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྡིག་པ་རྣམ་གསུམ་ནམ་ཡང་མི་བྱེད་ཅིང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They never produce the threefold evil deeds,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-31">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།གློ་བུར་བྱས་ནའང་འཆབ་པར་མི་བྱེད་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And even when they suddenly do, they do not conceal them,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-32">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ལྟར་དེ་དག་ལྟ་བས་འཛིན་མི་བྱེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And in that way, their view is not tainted with grasping.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-33">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་བས་དགེ་འདུན་རིན་ཆེན་མཆོག་ཏུ་གསུངས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thus, they are called the most precious gem of the Saṅgha.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-34">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བདེན་པ་དེ་ཡིས་འདིར་ནི་དགེ་བར་ཤོག །ཅི་ལྟར་དབང་པོའི་སྡོང་པོ་སར་བཙུགས་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>By this truth may there be well-being here! Just as a threshold beam planted in the ground</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-35">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཕྱོགས་བཞིའི་རླུང་རྣམས་ཀྱིས་ནི་མི་གཡོ་ལྟར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Is unmoved by winds from the four directions, So are the members of the saṅgha of noble ones,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-36">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཕགས་པའི་ལམ་གྱི་དམ་པ་མཐོང་བ་ཡི། །གང་ཟག་འཕགས་པའི་དགེ་འདུན་དེ་བཞིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Who have insight into the highest path of the noble ones.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-37">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེས་ན་དགེ་འདུན་རིན་ཆེན་མཆོག་ཏུ་གསུངས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thus, they are called the most precious gem of the Saṅgha.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-38">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བདེན་པ་དེ་ཡིས་འདིར་ནི་དགེ་བར་ཤོག །ཤེས་རབ་ཟབ་མོས་ཤིན་ཏུ་བསྟན་པ་ཡི། །འཕགས་པའི་བདེན་པ་སུ་དག་རྣམ་སྒོམ་ཞིང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>By this truth may there be well-being here! Those who cultivate with profound wisdom The eloquently taught truths of the noble ones</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-39">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ལུས་ཀྱང་སྦྱིན་པར་ཡིད་ལ་བྱས་པ་ནི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And consider giving away even their own bodies</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-40">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་དག་འཇིགས་པ་བརྒྱད་དང་ཕྲད་མི་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Never encounter the eight perils.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-41">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེས་ན་དགེ་འདུན་རིན་ཆེན་མཆོག་ཏུ་གསུངས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thus, they are called the most precious gem of the Saṅgha.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-42">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བདེན་པ་དེ་ཡིས་འདིར་ནི་དགེ་བར་ཤོག །ཅི་ལྟར་མེ་ནི་རླུང་གིས་ར་བ་གཏོར་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>By this truth may there be well-being here! Just as a flame extinguished by the wind</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-43">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ལག་ཏུ་བླངས་ཏེ་བགྲང་དུ་མེད་པ་ཉིད། །དེ་ལྟར་ཀུན་དུ་སྦྱོར་བར་བ་བཏང་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Cannot be taken up and counted,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-44">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།སངས་རྒྱས་སྲས་རྣམས་བསྟན་དུ་མེད་པར་འགྲོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>So do the offspring of the buddhas Become indemonstrable Once they have discarded all fetters.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-45">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེས་ནི་དགེ་འདུན་རིན་ཆེན་མཆོག་ཏུ་གསུངས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thus, they are called the most precious gem of the Saṅgha.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-46">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བདེན་པ་དེ་ཡིས་འདིར་ནི་དགེ་བར་ཤོག །སེམས་ཅན་གང་དག་འགྲོ་དང་མི་འགྲོ་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>By this truth may there be well-being here! May all sentient beings, moving or still, be well here! And may they pay homage to the Buddha,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-47">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་དག་ཐམས་ཅད་འདིར་ནི་བདེར་གྱུར་ཅིག །སྟོན་མཆོག་ལྷ་དང་མིས་ནི་མཆོད་འོས་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The supreme teacher, venerated by gods and humans!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-48">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།སངས་རྒྱས་ཕྱག་འཚལ་དེང་འདིར་དགེ་བར་ཤོག །སེམས་ཅན་གང་དག་འགྲོ་དང་མི་འགྲོ་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>May there be well-being here today! May all sentient beings, moving or still, be well here!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-49">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་དག་ཐམས་ཅད་འདིར་ནི་བདེར་གྱུར་ཅིག །ཞི་བ་ཆགས་བྲལ་ལྷ་མིས་མཆོད་འོས་པ། །ཆོས་ལ་ཕྱག་འཚལ་དེང་འདིར་དགེ་བར་ཤོག །སེམས་ཅན་གང་དག་འགྲོ་དང་མི་འགྲོ་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>May they pay homage to the Dharma, The peaceful dispassion venerated by gods and humans! May there be well-being here today! May all sentient beings, moving or still, be well here! May they pay homage to the Saṅgha,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-50">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་དག་ཐམས་ཅད་འདིར་ནི་བདེར་གྱུར་ཅིག །ཚོགས་ཀྱི་དམ་པ་ལྷ་མིས་མཆོད་འོས་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The supreme assembly venerated by gods and humans!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-51">
+            <prop name="location-id">UT22084-096-062-37</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དགེ་འདུན་ཕྱག་འཚལ་དེང་འདིར་དགེ་བར་ཤོག །སེམས་ཅན་གང་དག་འགྲོ་དང་མི་འགྲོ་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>May there be well-being here today! May all sentient beings, moving or still, Be well here!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-52">
+            <prop name="location-id">translation</prop>
+            <prop name="revision">v-1.1.19-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་དག་ཐམས་ཅད་དེང་འདིར་བདེར་གྱུར་ཅིག །འབྱུང་པོ་གང་དག་འདིར་ནི་ལྷགས་གྱུར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>May whatever bhūtas are assembled here,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-53">
+            <prop name="location-id">UT22084-096-062-53</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ས་འམ་འོན་ཏེ་བར་སྣང་འཁོད་པ་དག །སྐྱེ་དགུ་རྣམས་ལ་རྟག་ཏུ་བྱམས་བྱེད་ཤོག །ཉིན་དང་མཚན་དུ་ཆོས་ཀྱང་སྤྱོད་པར་ཤོག །འདི་ན་རྒྱལ་བ་དགྲ་རྒྱལ་བདེན་གང་གིས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>All those who dwell upon the earth or in the sky, Act always lovingly toward all creatures And practice Dharma day and night! By the truth that the Victorious One, having vanquished his foes,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-54">
+            <prop name="location-id">UT22084-096-062-53</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཤིན་ཏུ་བདེན་པ་གསུང་ཞིང་བརྫུན་མེད་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Spoke truthfully, without falsehood, May there be well-being here, And may all be delivered from grave perils!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-55">
+            <prop name="location-id">UT22084-096-062-57</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བདེན་པ་དེ་ཡིས་འདིར་ནི་དགེ་བར་ཤོག །དེ་ཀུན་འཇིགས་པ་ཆེ་ལས་ཐར་གྱུར་ཅིག །སངས་རྒྱས་ཀུན་གྱི་གཟི་བརྗིད་དང་། །རང་རྒྱལ་དག་གི་གཟི་བརྗིད་དང་། །དགྲ་བཅོམ་དག་གི་མཐུ་དག་དང་། །གསང་སྔགས་འཛིན་པ་ཐམས་ཅད་དང་། །ཤ་རིའི་བུ་ཡི་ཤེས་རབ་དང་། །མཽད་གལ་བུ་ཡི་རྫུ་འཕྲུལ་དང་། །མ་འགགས་པ་ཡི་མིག་དང་ནི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>By the majesty of all the buddhas, The majesty of the pratyekabuddhas, The powers of the arhats, And all the secret mantra holders, By the wisdom of Śāriputra, The supernatural power of Maudgalyāyana, The vision of Aniruddha, And the ascetic practices of Kāśyapa;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-56">
+            <prop name="location-id">UT22084-096-062-60</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།འོད་སྲུང་སྦྱངས་པའི་ཡོན་ཏན་དང་། །ཀཽཎྜི་ནྱའི་སྔར་ཐོབ་དང་། །ཀུན་དགའ་བོ་ཡི་ཐོས་པ་དང་། །ཚངས་པ་ཡི་ནི་བྱམས་པ་དང་། །བརྒྱ་བྱིན་གྱི་ནི་དབང་རྣམས་དང་། །འཇིག་རྟེན་སྐྱོང་བའི་ཡུལ་རྣམས་དང་། །དབང་ཕྱུག་ཆེན་པོའི་སྟོབས་དག་དང་། །སྡེ་དཔོན་རྣམས་ཀྱི་མཐུ་དག་དང་། །འཕྲོག་མའི་གཟི་བརྗིད་རྫུ་འཕྲུལ་དང་། །དེ་དག་རྣམས་ཀྱི་མཐུ་དང་གཟིས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>By the previous attainments of Kauṇḍinya, The learning of Ānanda, The benevolence of Brahmā, And the supremacy of Śatakratu; By the territories of the guardians of the world, The power of Maheśvara, The might of the generals, And the supernatural splendor of Hārītī— Through their might and majesty,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-096-062-TU-57">
+            <prop name="location-id">UT22084-096-062-60</prop>
+            <prop name="revision">v-1.1.21-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བདག་གི་དུག་ནི་དུག་མེད་ཤོག །སྟོང་ཆེན་མོ་རབ་ཏུ་འཇོམས་པ་ལས་གསུངས་པའི་སྨོན་ལམ་རྫོགས་སྷོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>May poison be removed from me! This completes the aspiration prayer from the words spoken in “Destroyer of the Great Trichiliocosm.”</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

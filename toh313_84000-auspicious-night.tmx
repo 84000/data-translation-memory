@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+    <header creationtool="linguae-dharmae/84000" creationtoolversion="2.16.12a" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" eft:text-id="UT22084-072-013" eft:text-version="v-1.0.7-2022" eft:source-ref="/db/apps/84000-data/uploads/linguae-dharmae/aligned/31-10-2022/complete/toh313-bo_aligned.txt"/>
+    <body>
+        <!--<tu id="UT22084-072-013-TU-1">
+            <tuv xml:lang="bo"><seg>ལ་རྟག་ཏུ་བྱམས་བྱེད་ཤོག །ཉིན་དང་མཚན་དུ་ཆོས་ཀྱང་སྤྱོད་གྱུར་ཅིག །འཕགས་པ་ཡངས་པའི་གྲོང་ཁྱེར་དུ་འཇུག་པའི་མདོ་ཆེན་པོ་རྫོགས་སོ།། །༄༅༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་བྷ་དྲ་ཀ་རཱ་ཏྲཱི་ནཱ་མ་སཱུ་ཏྲ། བོད་སྐད་དུ།</seg></tuv>
+            <tuv xml:lang="en"><seg/></tuv>
+        </tu>-->
+        <tu id="UT22084-072-013-TU-2">
+            <prop name="location-id">translation</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>འཕགས་པ་མཚན་མོ་བཟང་པོ་ཞེས་བྱ་བའི་མདོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Noble Sūtra Auspicious Night Auspicious Night</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-3">
+            <prop name="location-id">UT22084-072-013-31</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Homage to all buddhas and bodhisattvas!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-4">
+            <prop name="location-id">UT22084-072-013-34</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-5">
+            <prop name="location-id">UT22084-072-013-34</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་རྒྱལ་པོའི་ཁབ་ན་འོད་མའི་ཚལ་བྱ་ཀ་ལན་ད་ཀ་གནས་པ་ན་བཞུགས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Bhagavān was staying in Rājagṛha’s Bamboo Grove, in the Habitat of Kalandaka Birds.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-6">
+            <prop name="location-id">UT22084-072-013-34</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེའི་ཚེ་དགེ་སློང་ཞིག་རྒྱལ་པོའི་ཁབ་ཀྱི་ཆུ་ཏ་པོ་ཏའི་འགྲམ་ན་འདུག་གོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>At that time, a certain monk was residing on the banks of Rājagṛha’s hot springs.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-7">
+            <prop name="location-id">UT22084-072-013-34</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་ལྷ་ཁ་དོག་མཆོག་དང་ལྡན་པ་ཞིག་ནམ་སྲོས་ནས་དགེ་སློང་དེ་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས་ཆུ་ཏ་པོ་ཏའི་འགྲམ་ཐམས་ཅད་སྣང་བ་རྒྱ་ཆེན་པོས་ཁྱབ་པར་སྣང་བར་བྱས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>When night had fallen, a deity with a brilliant golden complexion appeared before the monk and illuminated the entire bank of the hot springs with a vast radiance.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-8">
+            <prop name="location-id">UT22084-072-013-37</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དེ་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ། །དགེ་སློང་ཁྱོད་ཀྱིས་མཚན་མོ་བཟང་པོའི་མདོ་སྡེ་ཤེས་སམ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The deity asked, “Monk, do you know the teaching of Auspicious Night</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-9">
+            <prop name="location-id">UT22084-072-013-37</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེས་འདི་སྐད་ཅེས་སྨྲས་སོ། །ལྷ་བདག་གིས་ནི་མཚན་མོ་བཟང་པོའི་མདོ་སྡེ་མ་འཚལ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The monk replied, “Deva, I am ignorant of the teaching of Auspicious Night</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-10">
+            <prop name="location-id">UT22084-072-013-37</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ལྷ་ཁྱོད་ཀྱིས་མཚན་མོ་བཟང་པོའི་མདོ་སྡེ་མཁྱེན་ཏམ་མི་མཁྱེན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Now, are you, Deva, aware of the teaching of Auspicious Night , or are you unaware of it?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-11">
+            <prop name="location-id">UT22084-072-013-37</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེས་འདི་སྐད་ཅེས་སྨྲས་སོ། །དགེ་སློང་བདག་གིས་ཀྱང་མཚན་མོ་བཟང་པོའི་མདོ་སྡེ་མི་ཤེས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Monk, I too do not know the teaching of Auspicious Night</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-12">
+            <prop name="location-id">UT22084-072-013-40</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ལྷ་འོ་ན་མཚན་མོ་བཟང་པོའི་མདོ་སྡེ་འཚལ་བ་ད་ལྟར་སུ་མཆིས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>In turn, the monk asked, “Deva, who then exists who knows the teaching of Auspicious Night</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-13">
+            <prop name="location-id">UT22084-072-013-40</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེས་འདི་སྐད་ཅེས་སྨྲས་སོ། །རྒྱལ་པོའི་ཁབ་ཀྱི་འོད་མའི་ཚལ་བྱ་ཀ་ལན་ད་ཀ་གནས་པ་འདི་ན་བཅོམ་ལྡན་འདས་བཞུགས་ཀྱིས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The deity said, “The Bhagavān is staying nearby in Rājagṛha’s Bamboo Grove, in the Habitat of Kalandaka Birds.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-14">
+            <prop name="location-id">UT22084-072-013-40</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཁྱོད་བཅོམ་ལྡན་འདས་ཀྱི་ཐད་དུ་སོང་ལ་ཞུས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Go straight to the Bhagavān and ask him!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-15">
+            <prop name="location-id">UT22084-072-013-40</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་ཁྱོད་ལ་ཇི་ལྟར་ལུང་བསྟན་པ་དེ་བཞིན་དུ་ཟུང་ལ་བརྩོན་པར་གྱིས་ཤིག་ཅེས་སྨྲས་ནས། ལྷ་དེ་དེ་ཉིད་དུ་མི་སྣང་བར་གྱུར་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Retain the Bhagavān’s instruction exactly as it is given to you, and apply yourself to it!” He then disappeared suddenly.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-16">
+            <prop name="location-id">UT22084-072-013-42</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་དགེ་སློང་དེ་ནང་པར་ལངས་ནས་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The next morning, the monk went to the Bhagavān.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-17">
+            <prop name="location-id">UT22084-072-013-42</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ། ཕྱོགས་གཅིག་ཏུ་འདུག་གོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>On arriving, he bowed his head to the Bhagavān’s feet and remained to one side.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-18">
+            <prop name="location-id">UT22084-072-013-42</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཕྱོགས་གཅིག་ཏུ་འདུག་ནས་དགེ་སློང་དེས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཙུན་པ་མདང་དགུང་རྨོངས་ནས་བདག་གི་དེར་ལྷ་ཁ་དོག་མཆོག་དང་ལྡན་པ་ཞིག་བདག་ག་ལ་བ་དེར་མཆིས་ཏེ། ཆབ་ཏ་པོ་ཏའི་འགྲམ་ཐམས་ཅད་སྣང་བ་རྒྱ་ཆེན་པོས་ཁྱབ་པར་སྣང་བར་བགྱིས་ནས་བདག་ལ་འདི་སྐད་མཆིའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Sitting to the side of the Bhagavān, the monk asked the Bhagavān, “Venerable sir, last night, after dusk, a deity with a brilliant golden complexion  appeared before me and illuminated the entire bank of the hot springs with a vast radiance.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-19">
+            <prop name="location-id">UT22084-072-013-42</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དགེ་སློང་ཁྱོད་ཀྱིས་མཚན་མོ་བཟང་པོའི་མདོ་སྡེ་ཤེས་སམ། བདག་གིས་དེ་ལ་འདི་སྐད་ཅེས་བགྱིས་སོ། །ལྷ་བདག་གིས་ནི་མཚན་མོ་བཟང་པོའི་མདོ་སྡེ་མ་འཚལ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The deity said to me, ‘Monk, do you know the teaching of Auspicious Night ?’ I replied, ‘Deva, I am ignorant of the teaching of Auspicious Night</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-20">
+            <prop name="location-id">UT22084-072-013-42</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ལྷ་ཁྱོད་ཀྱིས་ལྟ་མཚན་མོ་བཟང་པོའི་མདོ་སྡེ་མཁྱེན་ཏམ་མི་མཁྱེན། དེ་འདི་སྐད་ཅེས་མཆིའོ། །དགེ་སློང་བདག་གིས་ཀྱང་མཚན་མོ་བཟང་པོའི་མདོ་སྡེ་མི་ཤེས་སོ། །ལྷ་འོ་ན་མཚན་མོ་བཟང་པོའི་མདོ་སྡེ་འཚལ་བ་ད་ལྟར་སུ་མཆིས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Now, are you, Deva, aware of the teaching of Auspicious Night , or are you unaware of it?’ ‘Monk, I too do not know the teaching of Auspicious Night ,’ the deity responded.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-21">
+            <prop name="location-id">UT22084-072-013-42</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་འདི་སྐད་ཅེས་མཆིའོ། །རྒྱལ་པོའི་ཁབ་ཀྱི་འོད་མའི་ཚལ་བྱ་ཀ་ལན་ད་ཀ་གནས་པ་ན་བཅོམ་ལྡན་འདས་བཞུགས་ཀྱིས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>‘Deva, who then exists who knows the teaching of Auspicious Night ?’ The deity then said, ‘The Bhagavān is staying in Rājagṛha’s Bamboo Grove, in the Habitat of Kalandaka Birds.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-22">
+            <prop name="location-id">UT22084-072-013-42</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཁྱོད་བཅོམ་ལྡན་འདས་ཀྱི་ཐད་དུ་སོང་ལ་ཞུས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Go straight to the Bhagavān and ask him!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-23">
+            <prop name="location-id">UT22084-072-013-42</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་ཁྱོད་ལ་ཇི་ལྟར་ལུང་བསྟན་པ་དེ་བཞིན་དུ་ཟུང་ལ་བརྩོན་པར་གྱིས་ཤིག་ཅེས་སྨྲས་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Retain the Bhagavān’s instruction exactly as it is given to you, and apply yourself to it!’ He then disappeared suddenly.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-24">
+            <prop name="location-id">UT22084-072-013-42</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ལྷ་དེ་དེ་ཉིད་དུ་མི་སྣང་བར་གྱུར་ཏོ། །བཙུན་པ་བཅོམ་ལྡན་འདས་དེའི་སླད་དུ་བདག་འདིའི་དོན་ཡོངས་སུ་ཞུའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Therefore, Venerable Bhagavān, I have come to ask you the meaning of this.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-25">
+            <prop name="location-id">UT22084-072-013-45</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། དགེ་སློང་ཁྱོད་ཀྱིས་ལྷ་དེ་ཤེས་སམ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Bhagavān asked, “Monk, do you know that deity?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-26">
+            <prop name="location-id">UT22084-072-013-45</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དེས་གསོལ་པ། བཙུན་པ་བདག་གིས་ལྷ་དེ་མ་འཚལ་ཏོ། །བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Sir, I do not know that deity,” the monk replied.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-27">
+            <prop name="location-id">UT22084-072-013-47</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ལྷའི་བུ་དེ་ནི་སུམ་ཅུ་རྩ་གསུམ་གྱི་ལྷ་རྣམས་ཀྱི་སྡེ་དཔོན་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“This deity is a general of the gods of the Heaven of the Thirty-Three.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-28">
+            <prop name="location-id">UT22084-072-013-47</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཙན་དན་ཞེས་བྱའོ། །དགེ་སློང་དེས་གསོལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>His name is Candana.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-29">
+            <prop name="location-id">UT22084-072-013-47</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཙུན་པ་བདག་མཚན་མོ་བཟང་པོའི་མདོ་སྡེ་ཐོས་པར་འཚལ་ལོ། །བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Sir, I wish to hear the teaching of Auspicious Night ,” the monk entreated.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-30">
+            <prop name="location-id">UT22084-072-013-51</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དགེ་སློང་ཁྱོད་དེའི་ཕྱིར་ལེགས་པར་རབ་ཏུ་ཉོན་ལ་ཡིད་ལ་ཟུང་ཤིག་དང་། ངས་ཁྱོད་ལ་བཤད་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Bhagavān replied, “Then, monk, listen well and carefully, and pay attention!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-31">
+            <prop name="location-id">UT22084-072-013-51</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དགེ་སློང་ཆོས་གསུམ་དང་ལྡན་ན་དགེ་སློང་མཚན་མོ་བཟང་པོའི་མདོ་སྡེ་ལ་གནས་པ་ཞེས་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>I will teach you. Monk, when monks are endowed with three special qualities, they are called those who abide by the teaching of Auspicious Night</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-32">
+            <prop name="location-id">UT22084-072-013-51</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གསུམ་གང་ཞེ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Which three?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-33">
+            <prop name="location-id">UT22084-072-013-51</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They are as follows:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-34">
+            <prop name="location-id">UT22084-072-013-51</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>འདས་པ་ལ་རྗེས་སུ་ཕྲད་པར་མི་བྱེད་པ་དང་། མ་འོངས་པ་ལ་རེ་བ་མེད་པ་དང་། ད་ལྟར་བྱུང་བའི་ཆོས་རྣམས་ཀྱིས་མི་འཕྲོགས་པར་གནས་པའི་ཆོས་ཅན་ཏེ། ཆོས་གསུམ་པོ་དེ་དག་དང་ལྡན་ན་དགེ་སློང་མཚན་མོ་བཟང་པོའི་མདོ་སྡེ་ལ་གནས་པ་ཞེས་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>By possessing the three special qualities of (1) not following after the past, (2) not hoping for the future, and (3) remaining uncaptivated by presently arisen states, a monk is known as someone who follows the teaching of Auspicious Night</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-35">
+            <prop name="location-id">UT22084-072-013-54</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>This is what the Bhagavān said.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-36">
+            <prop name="location-id">UT22084-072-013-54</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བདེ་བར་གཤེགས་པས་དེ་སྐད་གསུངས་ནས། སྟོན་པས་གཞན་ཡང་འདི་སྐད་གསུང་ངོ་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>After the Sugata had thus spoken, he furthermore stated the following:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-37">
+            <prop name="location-id">UT22084-072-013-55</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདས་ལ་རྗེས་སུ་ཕྲད་མི་བྱེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Do not follow after the past</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-38">
+            <prop name="location-id">UT22084-072-013-55</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མ་འོངས་པ་ལ་རེ་བ་མེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Or hope for the future!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-39">
+            <prop name="location-id">UT22084-072-013-55</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདས་པ་གང་ཡིན་དེ་འགགས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>What is past has ceased to exist;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-40">
+            <prop name="location-id">UT22084-072-013-55</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མ་འོངས་དེ་ནི་མ་ཕྱིན་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The future has not yet arrived. {1} “Having thoroughly examined</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-41">
+            <prop name="location-id">UT22084-072-013-55</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་དག་ད་ལྟར་བྱུང་བའི་ཆོས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Each presently arisen thing,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-42">
+            <prop name="location-id">UT22084-072-013-55</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་དང་དེ་ལ་རབ་བལྟས་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And knowing each, one understands,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-43">
+            <prop name="location-id">UT22084-072-013-55</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྣམ་པར་རྟོག་པས་མི་འཕྲོགས་པར། །དེ་དག་ཐམས་ཅད་ཁོང་དུ་ཆུད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Undeceived by false conceptions.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-44">
+            <prop name="location-id">UT22084-072-013-59</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སང་ཙམ་ཤི་ཡང་སུ་ཤེས་ཀྱིས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>‘Will I die tomorrow?’ Who knows?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-45">
+            <prop name="location-id">UT22084-072-013-59</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་རིང་ཉིད་དུ་བརྟུན་ཏེ་བྱ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Today the effort should be made.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-46">
+            <prop name="location-id">UT22084-072-013-59</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཆི་བདག་སྡེ་ཆེན་དེ་དང་ནི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The lord of death and his great army</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-47">
+            <prop name="location-id">UT22084-072-013-59</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བདག་ཏུ་བཤེས་པ་མ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Do not come to offer friendship.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-48">
+            <prop name="location-id">UT22084-072-013-63</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སེམས་ཅན་ཀུན་དང་སྲོག་ཆགས་ཀུན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“May all sentient beings and creatures</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-49">
+            <prop name="location-id">UT22084-072-013-63</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འབྱུང་པོ་ཀུན་དང་ཐམས་ཅད་ཀྱང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And the entirety of living things</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-50">
+            <prop name="location-id">UT22084-072-013-63</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བདེ་བ་འབའ་ཞིག་གྲུབ་གྱུར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Achieve perfect happiness,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-51">
+            <prop name="location-id">UT22084-072-013-63</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཐམས་ཅད་ཉོན་མོངས་མེད་པར་ཤོག །ཐམས་ཅད་བཟང་པོ་མཐོང་གྱུར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And be free from the afflictions! May all good things be seen,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-52">
+            <prop name="location-id">UT22084-072-013-63</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་ཡང་སྡིག་པར་མ་གྱུར་ཅིག །དེ་ལྟར་གནས་ཤིང་རབ་བརྩོན་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And may nothing evil at all occur! {4} “So that one maintains this and applies oneself</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-53">
+            <prop name="location-id">UT22084-072-013-63</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཉིན་མཚན་སྙོམ་ལས་མེད་པས་ན། །དེ་ཕྱིར་མཚན་མོ་བཟང་པོ་ཡི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Night and day, without idleness,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-54">
+            <prop name="location-id">UT22084-072-013-63</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མདོ་སྡེ་ཐུབ་པས་རྟག་ཏུ་གསུངས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The sage has unremittingly proclaimed The teaching of Auspicious Night</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-55">
+            <prop name="location-id">UT22084-072-013-69</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་སེམས་ཅན་ཐམས་ཅད་རྗེས་སུ་གཟུང་བའི་ཕྱིར་མཚན་མོ་བཟང་པོའི་མདོ་འདི་བཤད་ནས་འགྲོ་ལྡིང་བའི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་གསུངས་སོ། །ཏ་ཏྱ་ཐཱ། བི་ནི་བྷ་ར་དི། བི་རི་ནི། བི་ར་ནི། བུད་དྷ་མ་ཧར་ཏཱ་ན་དྷེ། མ་ཧི་ནི་མི་ན་ནི། ནི་ནི་ནི་ནི། ཏི་ཏི་ཏི་ཏི། བི་ར་ཏི། གཽ་རི། གན་དྷ་རི། ཙན་ཌ་ལི། མ་ཏང་གི། པུ་ཀ་སི། བྲནྷ་ནི། དྲ་མི་ཌི། དྲ་མི་ཌི། ཤཱ་བྷ་དི། ས་དཱ་ལམ་བྷེ། ཧི་ནཱ་མ་ཏྱ་མ་ཨུད་ཏ་ར་ནི། མ་ཧོ་ལ་ན། ད་ལ་བྷ་ནི། ད་ལཱ་བྷ་དྲེ། མ་ཧཱ་ད་ལཱ་ནི། ཙ་ལཱ་ནི། ཨཱ་བྷེ་ཙཀྲ་བྷ་ཀི། མ་ཧཱ་ཙ་ཀྲ་བྷ་ཀི། ཤ་བ་རི། ཤ་བ་རི། མ་ཧཱ་ཤ་བ་རི། བྷུ་ཙིད་གི་ནི། བྷུ་ཙི་རིང་གི་ནི། ནི་མི་ནི་མིང་གི་ནི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then the Bhagavān, for the safeguarding of all sentient beings, offered this teaching of Auspicious Night and taught the following Dravidian mantras:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-56">
+            <prop name="location-id">UT22084-072-013-71</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ནི་མིན་དྷ་རི་བྷུ་ཏཱ་ནི་སྭཱཧཱ། ཏ་ཏྱ་ཐཱ། ཨེ་ཏུ་ཏུ་ཏུ། ན་ཏུ་མི་རྣི། ཀེ་རྣི་ཨིང་ཀུ། སུད་ཏ་རི་ཙ་ལ་ལ། ན་ར་ཏ། ན་ར་མ་ལུ་ལུ། ག་ལུ་ལུ། ཨ་བ་ཏྲ་ནོ་ནེ། ཤོ་ཀ་ནི་ར། བྷ་ར་དྷ་ས་ལེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>tadyathā| bi nā bi ni| bi na pūraṇi| buddha-martaṇḍe| mānini mānini| ṇi ṇi ṇi ṇi| ṭi ṭi ṭi ṭi| vīrati| gauri| gāndhāri| caṇḍāli| mātaṃgi| pukkasi| brāhmaṇi| drāviḍi| drāmiḍi| śavari| sadālambha| hīna­madhyama­dhāriṇi| maholani| dalabhani| dalābhadre| mahādalini| calini| muṣṭe| cakravarti| mahācakravarti| śavari śavari| mahāśavari| bhu tsing gi| bhu tsi ring gi ni| ni mi ni ming gi ni| nimiṃdhari bhu ta ni svāhā</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-57">
+            <prop name="location-id">UT22084-072-013-72</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཏ་ར་ཀྲེ་ཏ་རེ་དྷཱ་ཏུ། ནོད་ཏུ། ཏ་ལ་ལཱ་ལུ། བ་ཏ་བྷ་ཏི། ཡ་བྷ་ཏི་ཡེ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>tadyathā| e ṭu ṭu ṭu ṭu| na ṭu mi rṇi| ki rṇi| eṁ ku| sid da ta ri| tsa la lu| rni rtu| nirma llu| gallu| a ba tra no ne| śe ku nir ba ra da sa le| ta ra ke| ta re| ta rod tu| nod tu| ti la  la lu| bhūtapataye| ba ta yi ye svāhā</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-58">
+            <prop name="location-id">UT22084-072-013-73</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཏ་ཏྱ་ཐཱ། ཨ་ར་ཀཱ་ཏེ། ན་ར་ཀཱ་ཏེ། བཾ་སུ་ཀ། བ་ཡཻ་ཡེ། ཀ་པོ་ཏ་ཀ་བ་ཡཻ་ཡེ་ཏ་བྷོ་ཏ་ནེ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>tadyathā| arakāte | narakāte| pāṃśuka| pāyiye| kapotaka pāyiye| tapodhane svāhā</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-59">
+            <prop name="location-id">UT22084-072-013-74</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དགེ་སློང་རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་གང་ལ་ལ་ཞིག་གིས་སེམས་ཅན་ཐམས་ཅད་རྗེས་སུ་གཟུང་བའི་ཕྱིར་མཚན་མོ་བཟང་པོའི་མདོ་སྡེ་འདིའི་དོན་དང་། ཚིག་དང་། ཚིགས་སུ་བཅད་པ་དང་། འགྲོ་ལྡིང་བའི་སྔགས་ཀྱི་གཞི་འཆང་ངམ། འཛིན་ཏམ། ཀློག་གམ། ཡིད་ལ་བྱེད་དམ། ཀུན་ཆུབ་པར་བྱེད་དམ། གཞན་དག་ལའང་རྒྱ་ཆེར་ཡང་དག་པར་སྟོན་ན། དེའི་ལུས་ལ་མེས་མི་ཚུགས་པར་འགྱུར། དུག་གིས་མི་ཚུགས་པ་ཡིན། རྒྱལ་པོའི་ཆད་པས་མ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Monk, when, with the intention of safeguarding all sentient beings, sons of good family or daughters of good family keep the meaning of Auspicious Night ’s teachings, together with its prose, its stanzas, and its Dravidian mantras, in their mind, or when they remember it, read it, concentrate on it, master it, or correctly teach it in detail to others, their body will be indestructible by fire, indestructible by poison, and unharmed by punishment inflicted by authorities or assault from thieves;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-60">
+            <prop name="location-id">UT22084-072-013-74</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>རྐུན་པོའི་ཆད་པས་མ་ཡིན་ཏེ། དུས་མ་ཡིན་པར་འཆི་བའི་དུས་བྱེད་པར་ཡང་མི་འགྱུར་ཞིང་ངེས་པར་མྱ་ངན་ལས་འདས་པར་ཉེ་བར་འགྲོ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>furthermore, they will not die prematurely and will certainly reach nirvāṇa.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-61">
+            <prop name="location-id">UT22084-072-013-80</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་དང་གང་དུ་སྐྱེས་པར་ཡང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“No matter where one is reborn,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-62">
+            <prop name="location-id">UT22084-072-013-80</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མཚན་མོ་བཟང་པོའི་མདོ་བཀླགས་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>When one has read the sūtra Auspicious Night</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-63">
+            <prop name="location-id">UT22084-072-013-80</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྐྱེ་བ་དྲན་དང་དགྲ་བཅོམ་དང་། །དབང་ཕྱུག་ཏུ་ཡང་ངེས་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>One is bound to remember one’s past lives, become an arhat, And even attain mastery.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-64">
+            <prop name="location-id">UT22084-072-013-82</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ལན་ཅིག་གིས་ནི་གནས་ཀུན་ཏུ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“With a single recitation, all beings in all circumstances,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-65">
+            <prop name="location-id">UT22084-072-013-82</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དུས་མིན་འཆི་དང་བར་མ་དོར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Be it untimely death or the intermediate state,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-66">
+            <prop name="location-id">UT22084-072-013-82</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བདག་གིས་བདག་ལ་མི་སྦྱོར་བར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Will be protected from and purged of</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-67">
+            <prop name="location-id">UT22084-072-013-82</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དུས་མིན་འཆི་དང་ཆོས་མ་ཡིན། །སེམས་ཅན་ཐམས་ཅད་སྲུང་ཞིང་སེལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Untimely death and non-Dharmic fates Without any effort of their own.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-68">
+            <prop name="location-id">UT22084-072-013-82</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ནད་དང་མྱ་ངན་འཇིགས་སྐྱེ་དང་། །རྨི་ལམ་མི་ཤིས་མྱ་ངན་དུ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>In the case of illness, pain, fearful births, Or the sorrow caused by inauspicious dreams,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-69">
+            <prop name="location-id">UT22084-072-013-82</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བརྗོད་ན་དཔལ་དུ་བྱེད་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Uttering it will bring good luck.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-70">
+            <prop name="location-id">UT22084-072-013-88</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་གིས་བྲིས་ཏེ་སྐྱེས་པ་དང་། །བུད་མེད་ལུས་ལ་བཏགས་ན་ནི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Whoever writes it down And fastens it to the body of a man or a woman</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-71">
+            <prop name="location-id">UT22084-072-013-88</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྐལ་པ་བཟང་དང་གཟི་བརྗིད་དང་། །དེ་ཡི་དཔལ་ཡང་སྐྱེ་བར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Will create good fortune, splendor, And prosperity for them. “The sūtra Auspicious Night Will rescue from premature death</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-72">
+            <prop name="location-id">UT22084-072-013-88</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ལུས་དང་ངག་དང་ཡིད་ཀྱིས་སུ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>All those who, with body, speech, and mind,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-73">
+            <prop name="location-id">UT22084-072-013-88</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མི་དགེ་ཅུང་ཟད་གང་བྱས་པ། །དེ་དག་ཐམས་ཅད་བཟང་པོའི་མདོས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Have committed minor evil deeds of any kind.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-74">
+            <prop name="location-id">UT22084-072-013-92</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དུས་མ་ཡིན་པར་འཆི་ལས་སྐྱོབ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Remembering the Auspicious protects</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-75">
+            <prop name="location-id">UT22084-072-013-92</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྒྱལ་པོ་ཆུ་དང་མེ་དང་གློག །ཆོམ་པོ་ནད་དང་དགྲ་དག་དང་། །གཡུལ་སྤྲོད་པ་དང་འཐབ་པར་ཡང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>From kings, water, fire and lightning, Bandits, illness, and foes, As well as in battle and fighting.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-76">
+            <prop name="location-id">UT22084-072-013-94</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཟང་པོ་དྲན་ན་སྐྱོབ་པར་བྱེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Uninterrupted recitation of the Auspicious incantations</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-77">
+            <prop name="location-id">UT22084-072-013-94</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རིག་པ་བཟང་པོ་འདི་དང་ནི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And the mantras,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-78">
+            <prop name="location-id">UT22084-072-013-94</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གསང་སྔགས་འདི་དག་རྟག་བརྗོད་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Especially silent recitation,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-79">
+            <prop name="location-id">UT22084-072-013-94</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མི་དག་མི་ཞུམ་དུས་ཀུན་ཏུ། །དེ་བས་འདི་ནི་ཡིད་ཀྱིས་བརྗོད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Makes people forever fearless.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-80">
+            <prop name="location-id">UT22084-072-013-97</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདས་པ་དང་། མ་བྱོན་པ་དང་། ད་ལྟར་བྱུང་བའི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམས་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Homage to the completely perfect buddhas, the tathāgatas, the arhats of the past, present, and future!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-81">
+            <prop name="location-id">UT22084-072-013-98</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཕྱག་འཚལ་ནས་རིག་སྔགས་འདི་དག་བརྗོད་པར་བྱ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Having thus paid homage,  one should recite the following incantations:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-82">
+            <prop name="location-id">UT22084-072-013-99</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>རིག་སྔགས་འདིས་བདག་འབྱོར་པར་གྱུར་ཅིག །ཏ་ཏྱ་ཐཱ། ནི་མི་ནི་མིན་དྷ་རེ། ཏེ་མི་ནི་མིན་དྷ་རེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Through this incantation, may I become prosperous!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-83">
+            <prop name="location-id">UT22084-072-013-100</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཏི་མི་ཏི་མིང་ག་ལི། ཏྲཻ་ལོ་ཀ་ཨ་བ་ལོ་ཀ་ནི། ཏྲི་ཤུ་ལ་དྷ་ར་ཎ། ཨ་ཀུ་ཕི་ནི། ཀྲི་མཱི་ཀྲི་ཏི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>tadyathā| nimi nimiṃdhare| timi timiṅgali| trailokya-avalokini|  triśūladharaṇi| a ku phi ni| kṛmīkṛti | ki li ki li| kud to kud to| kud to kud si| kurti ku pi ti</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-84">
+            <prop name="location-id">UT22084-072-013-101</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀི་ལི་ཀི་ལི། ཀུད་ཏོ་ཀུད་ཏོ། ཀུད་ཏོ་ཀུད་སི། ཀུརྟི་ཀུ་པི་ཏི། བདག་དང་སེམས་ཅན་ཐམས་ཅད་ལག་ན་རྡོ་རྗེ་དང་ལྷན་ཅིག་ཏུ་འཇིགས་པ་ཐམས་ཅད་དང་། ནད་ཐམས་ཅད་དང་། དུག་ཐམས་ཅད་དང་། རིམས་ཐམས་ཅད་དང་། གདོན་ཐམས་ཅད་དང་། གདུག་པས་ཟིན་པ་ཐམས་ཅད་དང་། ཆོམ་རྐུན་ཐམས་ཅད་དང་། མི་དང་། མི་མ་ཡིན་པ་ཐམས་ཅད་དང་། འཇིགས་པ་དང་། གནོད་པ་དང་། ནད་འགོ་བ་ཐམས་ཅད་དང་། འཐབ་པ་དང་། རྙོག་པ་དང་། སྡིག་པ་དང་། རྩོད་པ་དང་། འགྱེད་པ་དང་། མཚང་འདྲུ་བ་ཐམས་ཅད་དང་། ལུས་དང་། ངག་དང་། ཡིད་ཀྱིས་ངན་པར་སྤྱད་པ་ཐམས་ཅད་དང་། ཐམས་ཅད་དུ་འཇིགས་པ་ཐམས་ཅད་ལས་སྲུངས་ཤིག །སྲུངས་ཤིག །ཏ་ཏྱ་ཐཱ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“May I and all sentient beings, accompanied by Vajrapāṇi, be protected everywhere from all dangers, illnesses, poisons, fevers, evil spirits, bites from venomous creatures, thieves, all humans and nonhumans, all dangers, injuries, infectious disease, fighting, troubles, wrongdoing, discord, quarrels, and disputes, as well as from all evil deeds committed with body, speech, and mind, and from all fears!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-85">
+            <prop name="location-id">UT22084-072-013-101</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཧི་ལི་མི་ལི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Protect!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-86">
+            <prop name="location-id">UT22084-072-013-104</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཙི་ལི། ཨི་ལི། མི་ལི། པི་ཤ་ཙི་པཱ་རྞ་ཤ་བ་རི་ཙི་ལི་ཙི་ལི་སྭཱ་ཧཱ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>tadyathā| hi li mi li| tsi li| i li| mi li| piśācini parṇaśavari  tsi li tsi li svāhā</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-87">
+            <prop name="location-id">UT22084-072-013-105</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། དགེ་སློང་དེ་དག་དང་། ཐམས་ཅད་དང་ལྡན་པའི་འཁོར་དེ་དག་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། ནམ་མཁའ་ལྡིང་དང་། དྲི་ཟ་དང་། མིའམ་ཅི་དང་། ལྟོ་འཕྱེ་ཆེན་པོ་དང་། གནོད་སྦྱིན་ཆེན་པོ་དང་། སྲིན་པོ་དང་། ཡི་དགས་དང་། ཤ་ཟ་དང་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>When the Bhagavān had spoken these words, the monks and all the assemblies, together with the world and its deities, humans, asuras, garuḍas, gandharvas, kinnaras, mahoragas, great yakṣas, rākṣasas, pretas, and piśācas, delighted and rejoiced in the Bhagavān’s words.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-013-TU-88">
+            <prop name="location-id">UT22084-072-013-107</prop>
+            <prop name="revision">v-1.0.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>འཕགས་པ་མཚན་མོ་བཟང་པོ་ཞེས་བྱ་བའི་མདོ་རྫོགས་སོ།​།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>This completes the noble sūtra “Auspicious Night.”</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

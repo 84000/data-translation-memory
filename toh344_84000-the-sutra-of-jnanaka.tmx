@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+    <header creationtool="linguae-dharmae/84000" creationtoolversion="2.16.12a" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" eft:text-id="UT22084-075-002" eft:text-version="v-1.0.5-2022" eft:source-ref="/db/apps/84000-data/uploads/linguae-dharmae/aligned/31-10-2022/complete/toh344-bo_aligned.txt"/>
+    <body>
+        <!--<tu id="UT22084-075-002-TU-1">
+            <tuv xml:lang="bo"><seg>༄༅། །རྒྱ་གར་སྐད་དུ།</seg></tuv>
+            <tuv xml:lang="en"><seg/></tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-2">
+            <tuv xml:lang="bo"><seg>ཨཱརྱ་ཛྙཱ་ན་ཀ་སཱུ་ཏྲ་བུད་དྷ་ཨ་བ་དཱ་ན། བོད་སྐད་དུ།</seg></tuv>
+            <tuv xml:lang="en"><seg>The Noble Sūtra of Jñānaka</seg></tuv>
+        </tu>-->
+        <tu id="UT22084-075-002-TU-3">
+            <prop name="location-id">translation</prop>
+            <prop name="revision">v-1.0.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>འཕགས་པ་སངས་རྒྱས་ཀྱི་རྟོགས་པ་བརྗོད་པ་ཤེས་ལྡན་གྱི་མདོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>An Account of the Noble Deeds of the Buddha The Sūtra of Jñānaka</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-4">
+            <prop name="location-id">UT22084-075-002-13</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Homage to all buddhas and bodhisattvas.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-5">
+            <prop name="location-id">UT22084-075-002-13</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-6">
+            <prop name="location-id">UT22084-075-002-13</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཡུམ་གྱི་དོན་དུ་ལྷ་རྣམས་ཀྱི་གནས་སུམ་ཅུ་རྩ་གསུམ་ན་ཤིང་ཡོངས་འདུ་ས་བརྟོལ་གྱི་དྲུང་ན་ལ་བ་དཀར་པོ་ལྟ་བུའི་རྡོ་ལེབ་ལ་བཞུགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One was staying among the gods of the Heaven of the Thirty-Three for the benefit of his mother. He was seated in front of the Pāriyātra tree upon the Pāṇḍukambala rock.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-7">
+            <prop name="location-id">UT22084-075-002-13</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེར་ལྷའི་བུ་ཞིག་ལ་འཆི་བའི་སྔ་ལྟས་ངན་པ་ལྔ་བྱུང་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>There was a god there experiencing the five ominous signs of death:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-8">
+            <prop name="location-id">UT22084-075-002-13</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཕྲེང་རྒྱན་རྙིངས་པ་དང་། གོས་རྙིངས་པ་དང་། ལུས་དྲི་ང་བར་གྱུར་པ་དང་། མཆན་ཁུང་ནས་རྔུལ་འཛག་པ་དང་། རང་གི་སྟན་ལ་དགའ་བ་མེད་པར་གྱུར་ཏོ། །སྐྱེ་བ་ཡང་མཐོང་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>his garlands had withered, his clothes had started to deteriorate, his body had started to smell, sweat dripped from his armpits, and he felt unhappy on his seat.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-9">
+            <prop name="location-id">UT22084-075-002-13</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཡངས་པའི་ཕག་གི་མངལ་དུ་སྐྱེ་བར་མཐོང་ངོ་། །དེས་དེ་མཐོང་ནས་མྱ་ངན་གྱིས་ཐེབས། སྨྲེ་སྔགས་འདོན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>This god foresaw his rebirth in the womb of a pig in Vaiśālī, causing him to be overcome with misery and cry out in woe.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-10">
+            <prop name="location-id">UT22084-075-002-13</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བྲང་རྡུང་ཞིང་ངུ་ལ་ཤིན་ཏུ་མོང་མོང་པོར་གྱུར་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>He beat his chest as he wept uncontrollably.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-11">
+            <prop name="location-id">UT22084-075-002-16</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་ལྷའི་བུ་གཞན་ཞིག་ལྷའི་བུ་དེ་ག་ལ་བ་དེར་སོང་སྟེ། འདི་སྐད་ཅེས་སྨྲས་སོ། །ལྷའི་བུ་ཁྱོད་འཆི་བས་འཇིགས་སམ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Another god approached him and asked, “Deva, is it death that you fear?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-12">
+            <prop name="location-id">UT22084-075-002-16</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>སྨྲས་པ། ལྷའི་བུ་བདག་འཆི་བས་འཇིགས་སོ། །ལྷའི་བུ་དེ་ཅིའི་ཕྱིར་ཞེ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Indeed, fellow deva,” he responded, “it is death that I fear.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-13">
+            <prop name="location-id">UT22084-075-002-16</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བདག་ལྷ་རྣམས་ཀྱི་གནས་སུམ་ཅུ་རྩ་གསུམ་འདིར་ལྷའི་བཟའ་བ་ནི་ཟོས། ལྷའི་བཏུང་བ་ནི་འཐུངས། ལྷའི་བགོ་བ་ནི་བགོས་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Well, fellow deva, I have eaten divine foods, imbibed divine drinks, and worn divine garments here among the gods of the Heaven of the Thirty-Three.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-14">
+            <prop name="location-id">UT22084-075-002-16</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ནས་ཕྱིར་ཡངས་པའི་ཕག་གི་མངལ་དུ་སྐྱེ་བར་མཐོང་སྟེ། དེར་བདག་བཤང་བ་ཟ་ཞིང་མཚོན་གྱིས་འཆི་བར་འགྱུར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thus, as I behold my rebirth in the womb of a pig in Vaiśālī, I see that I will eat excrement and be killed by a blade.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-15">
+            <prop name="location-id">UT22084-075-002-16</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ལྷའི་བུ་དེ་ལྟ་བས་ན་བདག་འཆི་བས་འཇིགས་སོ། །སྨྲས་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>These are the reasons, fellow deva, that I fear death.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-16">
+            <prop name="location-id">UT22084-075-002-18</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ལྷའི་བུ་ཁྱོད་འཆི་བས་མ་འཇིགས་ཤིག །དེ་ཅིའི་ཕྱིར་ཞེ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Do not be afraid of death, my fellow deva!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-17">
+            <prop name="location-id">UT22084-075-002-18</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ལྷའི་བུ་འདི་ལྟར་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་ཡུམ་གྱི་དོན་དུ་སུམ་ཅུ་རྩ་གསུམ་གྱི་གནས་འདི་ན་ཤིང་ཡོངས་འདུ་ས་བརྟོལ་གྱི་དྲུང་ན་ལ་བ་དཀར་པོ་ལྟ་བུའི་རྡོ་ལེབ་ལ་བཞུགས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Well, fellow deva, the Blessed One—the thus-gone, worthy, perfect Buddha—is residing here in the Heaven of the Thirty-Three for the benefit of his mother. He is seated in front of the Pāriyātra tree upon the Pāṇḍukambala rock.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-18">
+            <prop name="location-id">UT22084-075-002-18</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཅི་སྟེ་ལྷའི་བུ་ཁྱོད་ཀྱིས་བཅོམ་ལྡན་འདས་དེ་ལ་ཕྱག་ཚོལ་དང་། བཅོམ་ལྡན་འདས་དེ་འདིར་གཤེགས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Deva, you should by all means pay homage to the Blessed One.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-19">
+            <prop name="location-id">UT22084-075-002-18</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེས་ཁྱོད་ངན་སོང་རྣམས་ལས་གྲོལ་བར་མཛད་དོ། །དེ་ཅིའི་ཕྱིར་ཞེ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>He will come here to save you from the lower realms.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-20">
+            <prop name="location-id">UT22084-075-002-18</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ལྷའི་བུ་སངས་རྒྱས་བཅོམ་ལྡན་འདས་ནི་ཐུགས་རྗེ་ཆེན་པོས་སེམས་ཅན་ཡོངས་སུ་མ་བཏང་བ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Fellow deva, the blessed Buddha has great compassion and never forsakes beings.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-21">
+            <prop name="location-id">UT22084-075-002-19</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་ལྷའི་བུ་དེ་སྟན་ལས་ལངས་ཏེ། བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས་པུས་མོ་གཡས་པའི་ལྷ་ང་ས་ལ་བཙུགས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The god then rose from his seat, draped his upper robe over one shoulder, and knelt on his right knee.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-22">
+            <prop name="location-id">UT22084-075-002-19</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས་ཆེད་དུ་བརྗོད་པ་འདི་ཆེད་དུ་ལན་གསུམ་བརྗོད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>With his palms joined, he bowed in the direction of the Blessed One and repeated this entreaty three times:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-23">
+            <prop name="location-id">UT22084-075-002-20</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Homage to the blessed Thus-Gone One!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-24">
+            <prop name="location-id">UT22084-075-002-20</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ། །བདག་ལ་ཐུགས་བརྩེ་བའི་སླད་དུ་བཅོམ་ལྡན་འདས་དེ་འདིར་གཤེགས་སུ་གསོལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Homage to the blessed Thus-Gone One!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-25">
+            <prop name="location-id">UT22084-075-002-20</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བདག་ངན་སོང་དུ་སྐྱེ་བ་རྣམས་ལས་གྲོལ་བར་མཛད་དུ་གསོལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Out of love for me, may the Blessed One please come here and save me from the lower realms!”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-26">
+            <prop name="location-id">UT22084-075-002-21</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ལྷའི་བུ་དེའི་ལྷག་པའི་བསམ་པ་ཐུགས་སུ་ཆུད་ནས། ལྷའི་བུ་དེ་ག་ལ་བ་དེར་གཤེགས་ཏེ་གདན་བཤམས་པ་དེ་ལ་བཞུགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Aware of the sincere intent of that god, the Blessed One went to him and sat upon a seat that had been prepared.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-27">
+            <prop name="location-id">UT22084-075-002-21</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཞུགས་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ལྷའི་བུ་དེ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །ལྷའི་བུ་ཁྱོད་འཆི་བས་འཇིགས་སམ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>After taking his seat, the Blessed One asked that god, “Deva, is it death that you fear?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-28">
+            <prop name="location-id">UT22084-075-002-22</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>གསོལ་པ། བཅོམ་ལྡན་འདས་བདག་འགུམ་པས་འཇིགས་ལགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Indeed, Blessed One,” the god responded, “I am afraid to die.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-29">
+            <prop name="location-id">UT22084-075-002-22</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ཅིའི་སླད་དུ་ཞེ་ན། ཡངས་པའི་ཕག་གི་མངལ་མི་སྡུག་པར་སྐྱེ་བར་མཐོང་ལགས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Because I foresaw my rebirth in the wretched womb of a pig in Vaiśālī.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-30">
+            <prop name="location-id">UT22084-075-002-22</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེར་བདག་སྐྱེས་ནས་བཤང་བ་འཚལ་ཞིང་མཚོན་གྱིས་འགུམ་པར་འགྱུར་ལགས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Once reborn there, I will eat excrement and be killed by a blade.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-31">
+            <prop name="location-id">UT22084-075-002-22</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་དེའི་སླད་དུ་བདག་འགུམ་པས་འཇིགས་ལགས་སོ། །དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ལྷའི་བུ་དེ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>That is why, Blessed One, I am afraid to die.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-32">
+            <prop name="location-id">UT22084-075-002-23</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ལྷའི་བུ་ཁྱོད་འཆི་བས་མ་འཇིགས་ཤིག །དེ་ཅིའི་ཕྱིར་ཞེ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One said, “Deva, do not be afraid of death!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-33">
+            <prop name="location-id">UT22084-075-002-23</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ལྷའི་བུ་སའི་ཁམས་དང་། ཆུའི་ཁམས་མི་འགྲོ་མི་འོང་གི་བདག་ཉིད་ཀྱི་ལས་ཀྱིས་འོང་ཞིང་འགྲོ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Well, deva, it is not the earth and water elements that transmigrate here and there, but rather your own actions.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-34">
+            <prop name="location-id">UT22084-075-002-23</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ལྷའི་བུ་ཁྱོད་ཚུར་ཤོག །སངས་རྒྱས་ལ་སྐྱབས་སུ་སོང་ཤིག །ཆོས་དང་དགེ་འདུན་ལ་སྐྱབས་སུ་སོང་ཤིག །དེ་ནས་ལྷའི་བུ་དེ་སྟན་ལས་ལངས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Come here, deva. Take refuge in the Buddha. Take refuge in the Dharma and in the Saṅgha.” The god then rose from his seat and addressed the Blessed One:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-35">
+            <prop name="location-id">UT22084-075-002-23</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་དེ་ལྟར་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Yes, Blessed One, I will.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-36">
+            <prop name="location-id">UT22084-075-002-23</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བདག་སངས་རྒྱས་ལ་སྐྱབས་སུ་མཆིའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>I take refuge in the Buddha!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-37">
+            <prop name="location-id">UT22084-075-002-23</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཆོས་དང་དགེ་འདུན་ལ་སྐྱབས་སུ་མཆིའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>I take refuge in the Dharma and in the Saṅgha!”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-38">
+            <prop name="location-id">UT22084-075-002-25</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ལྷའི་བུ་དེ་ལ་ཚིགས་སུ་བཅད་དེ་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One responded to the god with the following stanza:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-39">
+            <prop name="location-id">UT22084-075-002-25</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>གང་ཞིག་སངས་རྒྱས་ལ་ནི་སྐྱབས་སོང་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Those who have taken refuge in the Buddha</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-40">
+            <prop name="location-id">UT22084-075-002-25</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནི་ངན་འགྲོར་འདིར་ནི་མི་འགྲོ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Will be spared transmigrating to the lower realms.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-41">
+            <prop name="location-id">UT22084-075-002-25</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ལྷ་ཡི་བདག་ཉིད་དངོས་པོ་སྤངས་ནས་སུ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>As they relinquish their divine existence,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-42">
+            <prop name="location-id">UT22084-075-002-25</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མི་ཡི་བདག་ཉིད་དངོས་པོ་ལེན་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They will take up a human existence instead.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-43">
+            <prop name="location-id">UT22084-075-002-27</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ལྷའི་བུ་དེ་ལ་ཆོས་དང་ལྡན་པའི་གཏམ་ཡང་དག་པར་བསྟན། ཡང་དག་པར་འཛིན་དུ་བཅུག །ཡང་དག་པར་གཟེངས་བསྟོད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One then delivered a discourse on the Dharma to the god and ensured that the god retained it.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-44">
+            <prop name="location-id">UT22084-075-002-27</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཡང་དག་པར་དགའ་བར་མཛད་ནས་གདན་ལས་བཞེངས་ཏེ་བཞུད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Having inspired the god and filled him with delight, the Blessed One rose from his seat and departed.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-45">
+            <prop name="location-id">UT22084-075-002-28</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་བཞུད་ནས་རིང་པོ་མ་ལོན་པར་ལྷའི་བུ་དེ་འཆི་བའི་དུས་བྱས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Not long thereafter, the god passed away.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-46">
+            <prop name="location-id">UT22084-075-002-28</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དུས་བྱས་ནས་དེ་མ་ཐག་ཏུ་ཡངས་པ་དེར་ཚོང་དཔོན་ཞིག་གི་ཆུང་མ་དམ་པའི་མངལ་དུ་སྐྱེས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>He was immediately reborn in the womb of a noble merchant’s wife in Vaiśālī.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-47">
+            <prop name="location-id">UT22084-075-002-28</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ཟླ་བ་དགུ་འདས་ནས་ཁྱེའུ་གཟུགས་བཟང་བ། མཛེས་པ། བལྟ་ན་སྡུག་པ། ཁ་དོག་བཟང་པོ་རྒྱས་པ་མཆོག་དང་ལྡན་པ་ཞིག་བཙས་པར་གྱུར་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>After nine months had come to pass, an adorable child with a charming appearance and the most exquisite complexion was born.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-48">
+            <prop name="location-id">UT22084-075-002-28</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་བཙས་མ་ཐག་ཏུ་ཚིག་འདི་སྐད་ཅེས་སངས་རྒྱས་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The moment he was born he exclaimed, “Homage to the Buddha!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-49">
+            <prop name="location-id">UT22084-075-002-28</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཆོས་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Homage to the Dharma!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-50">
+            <prop name="location-id">UT22084-075-002-28</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དགེ་འདུན་ལ་ཕྱག་འཚལ་ལོ་ཞེས་བརྗོད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Homage to the Saṅgha!”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-51">
+            <prop name="location-id">UT22084-075-002-29</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་དེའི་ཚེ་ཕ་དང་མ་འདི་སྙམ་དུ་སེམས་ཏེ། ཁྱེའུ་འདི་ནི་སངས་རྒྱས་ཤེས། ཆོས་ཤེས་དགེ་འདུན་ཤེས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>At that moment, his parents thought, “This child knows of the Buddha, the Dharma, and the Saṅgha.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-52">
+            <prop name="location-id">UT22084-075-002-29</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>འདི་ནི་ཤེས་པ་དང་ལྡན་ནོ་སྙམ་དུ་འདུ་ཤེས་སྐྱེས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>He possesses knowledge.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-53">
+            <prop name="location-id">UT22084-075-002-31</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་ཁྱེའུ་ཤེས་ལྡན་གང་གི་ཚེ་ལོ་བརྒྱད་ལོན་པ་ལྟ་བུར་གྱུར་པ་དེའི་ཚེ་ལི་ཙྪ་བཱི་གཞོན་ནུ་རབ་ཏུ་མང་པོ་རྣམས་ཀྱིས་ལྷན་ཅིག་ཏུ་མདུན་དུ་བདར་ནས་སྐྱེད་མོས་ཚལ་གྱི་བཞི་མདོ་ནས་བྱུང་ངོ་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Once, when this child Jñānaka was around eight years old, he and a group of Licchavi youths, who were in his company, arrived at a crossroads in a park.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-54">
+            <prop name="location-id">UT22084-075-002-31</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེའི་ཚེ་བཅོམ་ལྡན་འདས་ཡངས་པའི་ཚལ་ཆེན་པོ་ན་ཁང་པ་བརྩེགས་པའི་ཁང་བཟངས་ན་བཞུགས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>At that time the Blessed One was staying at a mansion in the great grove of Vaiśālī.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-55">
+            <prop name="location-id">UT22084-075-002-31</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་སྔ་དྲོའི་དུས་ཀྱི་ཚེ་སྨད་གཡོགས་དང་ཆོས་གོས་གསོལ། ལྷུང་བཟེད་བསྣམས་ཏེ། ཡངས་པར་བསོད་སྙོམས་ལ་ཕྱིར་གཤེགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>At dawn, the Blessed One donned his lower garment, dressed in his robes, picked up his alms bowl, and went to Vaiśālī on an alms round.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-56">
+            <prop name="location-id">UT22084-075-002-31</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་མཛེས་པ་ནས་འོད་དང་ལྡན་པའི་བར་དུ་གྱུར་པ་ཁྱེའུ་ཤེས་ལྡན་གྱིས་མཐོང་ངོ་། །མཐོང་ནས་དེ་བཅོམ་ལྡན་འདས་ལ་སེམས་རབ་ཏུ་དགའ་བར་གྱུར་ཏོ། །སེམས་དགའ་ནས་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས། བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ། ལན་གསུམ་བསྐོར་བ་བྱས་ནས་ཕྱོགས་གཅིག་ཏུ་འདུག་གོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The child Jñānaka caught sight of the Blessed One, who was handsome, and so forth, up until shining. Filled with joy at seeing the Blessed One, he happily went before the Blessed One and bowed his head to his feet, circled him three times, and sat to one side.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-57">
+            <prop name="location-id">UT22084-075-002-31</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཕྱོགས་གཅིག་ཏུ་འདུག་ནས་ཁྱེའུ་ཤེས་ལྡན་གྱིས་བཅོམ་ལྡན་འདས་ལ་ཚིགས་སུ་བཅད་དེ་གསོལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Seated to one side, the child Jñānaka spoke to the Blessed One in verse:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-58">
+            <prop name="location-id">UT22084-075-002-32</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བདག་གིས་སྔོན་གྱི་ཚེ་དྲན་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“I have recollected a past life In which the Lord of the World</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-59">
+            <prop name="location-id">UT22084-075-002-32</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>སྡུག་བསྔལ་རྣམས་ལས་རབ་བཀྲོལ་ཞིང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Saved me from suffering</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-60">
+            <prop name="location-id">UT22084-075-002-32</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ངན་སོང་ལྟུང་བ་ལས་ནི་བདག །འཇིག་རྟེན་མགོན་གྱིས་གྲོལ་བར་མཛད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And delivered me from falling to the lower realms.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-61">
+            <prop name="location-id">UT22084-075-002-33</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མི་མཆོག་ཐུགས་ནི་བརྩེར་དགོངས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Foremost of humans, would you be so kind</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-62">
+            <prop name="location-id">UT22084-075-002-33</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བསོད་སྙོམས་འདི་ནི་བཞེས་པར་མཛོད། །བདག་གི་གདུགས་ཚོད་འདི་དག་ནི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>As to accept this gift of alms?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-63">
+            <prop name="location-id">UT22084-075-002-33</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གྲོལ་བར་མཛད་ནས་དེང་བཞེས་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Please accept this midday meal today For having saved me so. “Please think kindly as I invite you</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-64">
+            <prop name="location-id">UT22084-075-002-33</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སང་ནི་བདག་གི་ཕ་མ་ཡི། །སྡུམ་པར་འདྲེན་པས་བརྩེར་དགོངས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>To my parents’ home tomorrow.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-65">
+            <prop name="location-id">UT22084-075-002-33</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དགེ་སློང་ཀུན་དང་ཐབས་ཅིག་ཏུ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Together with all of your monks</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-66">
+            <prop name="location-id">UT22084-075-002-33</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གདུགས་ཚོད་དག་ནི་གསོལ་བར་མཛོད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Please come to partake of a midday meal.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-67">
+            <prop name="location-id">UT22084-075-002-35</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཅང་མི་གསུང་བར་གྱུར་པས་ཁྱེའུ་ཤེས་ལྡན་གྱིས་གསོལ་པ་གནང་ངོ་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One remained silent, signaling his acceptance of the child Jñānaka’s request.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-68">
+            <prop name="location-id">UT22084-075-002-35</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་ཁྱེའུ་ཤེས་ལྡན་བཅོམ་ལྡན་འདས་ཅང་མི་གསུང་བར་གནང་བར་རིག་ནས་ཕ་མ་ག་ལ་བ་དེར་སོང་སྟེ། ཕ་མ་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ། །ཡབ་ཡུམ་བདག་གིས་ནི་བཅོམ་ལྡན་འདས་ལ་བསོད་སྙོམས་ཕུལ་ལགས་ཏེ། སང་ཡང་གདུགས་ཚོད་ལ་སྤྱན་དྲངས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Aware that the Blessed One had accepted by not speaking, the child Jñānaka went before his parents and announced, “Dear father and mother, I offered alms to the Blessed One and have invited him tomorrow for a midday meal.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-69">
+            <prop name="location-id">UT22084-075-002-36</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་ཁྱེའུ་ཤེས་ལྡན་གྱི་ཕ་མ་མགུ་ཞིང་དགའ་ལ་ཡི་རངས་ཤིང་རབ་ཏུ་དགའ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The parents of the child Jñānaka were pleased and rejoiced, full of happiness and delight.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-70">
+            <prop name="location-id">UT22084-075-002-36</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དགའ་བ་དང་ཡིད་བདེ་བ་སྐྱེས་ནས་དེའི་མཚན་མོ་བཟའ་བ་དང་བཅའ་བ་རོ་དང་ལྡན་པ་ཞིམ་པ་མང་པོ་མངོན་པར་བཤམས་ནས་ཡངས་པའི་གྲོང་ཁྱེར་ཆེན་པོ་ཐམས་ཅད་ཕྱག་དར་བྱས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Filled with joy and elation, they arranged a spread of delicious foods and tasty delicacies that very night. They had the entire city of Vaiśālī swept clean and strung with silk tassels.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-71">
+            <prop name="location-id">UT22084-075-002-36</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དར་གྱི་ལྡ་ལྡི་བཏགས། པོག་ཕོར་ནས་སྤོས་ཀྱིས་བདུགས། སྤོས་ཆུས་ཆག་ཆག་བཏབ། མེ་ཏོག་གིས་མཛེས་པར་བཀྲམ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They lit incense in incense burners, sprinkled fragrant water, and elegantly scattered flowers.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-72">
+            <prop name="location-id">UT22084-075-002-36</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེའི་མཚན་མོ་འདས་ནས་དུས་ལ་བབ་པ་དང་། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ། བཙུན་པ་བཅོམ་ལྡན་འདས་གདུགས་ཚོད་ལ་བབ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>When the night had passed and the appropriate time had come, they went to the Blessed One and said, “Honorable One, Blessed One, it is time for the midday meal.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-73">
+            <prop name="location-id">UT22084-075-002-36</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>གདུགས་ཚོད་སྦྱར་ལགས་སོ་ཞེས་གསོལ་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The food is ready.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-74">
+            <prop name="location-id">UT22084-075-002-37</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་དེའི་སྔ་དྲོ་སྨད་གཡོགས་དང་ཆོས་གོས་གསོལ། ལྷུང་བཟེད་བསྣམས་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>At dawn, the Blessed One donned his lower garment, dressed in his robes, and picked up his alms bowl.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-75">
+            <prop name="location-id">UT22084-075-002-37</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དགེ་སློང་གི་ཚོགས་ཀྱིས་མདུན་དུ་བདར་ཅིང་། དགེ་སློང་གི་ཚོགས་ཀྱིས་ཡོངས་སུ་བསྐོར་ཏེ། ཤེས་ལྡན་གྱི་ཕ་མའི་ཁྱིམ་ག་ལ་བ་དེར་གཤེགས་ནས་གདན་བཤམས་པ་དེ་ལ་བཞུགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Escorted and encircled by an assembly of monks, he went to the home of Jñānaka’s parents where they sat upon seats that had been prepared for them.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-76">
+            <prop name="location-id">UT22084-075-002-37</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་ཁྱེའུ་ཤེས་ལྡན་བཅོམ་ལྡན་འདས་དགེ་སློང་གི་དགེ་འདུན་དང་གདན་ལ་བཞུགས་པར་རིག་ནས་རང་གི་ལག་གིས་བཟའ་བ་དང་། བཅའ་བ་རོ་དང་ལྡན་པ་ཞིམ་ཞིང་མང་བ་དག་ལེགས་པར་བྲིམས་ལེགས་པར་གསོལ་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Noticing that the Blessed One and the saṅgha of monks were seated, the child Jñānaka brought forth many delicious foods and tasty delicacies, offering them carefully with his own hands.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-77">
+            <prop name="location-id">UT22084-075-002-37</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་གདུགས་ཚོད་གསོལ་བར་རིག་ནས། སོ་སོ་སོ་སོ་ལ་རས་བཅོས་བུ་ཟུང་དང་། སོ་སོ་ལ་ལྷམ་ཟུང་དག་ཕུལ་ལོ། །བཅོམ་ལྡན་འདས་ལ་ཆོས་གོས་སར་པ་གསུམ་དང་། ཆགས་སར་པ་ཟུང་དག་གསོལ་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Seeing that the Blessed One had finished his midday meal, he presented a set of cotton robes and a pair of sandals to each member of the saṅgha, and three new robes and a pair of new shoes to the Blessed One.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-78">
+            <prop name="location-id">UT22084-075-002-37</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གསེར་གྱི་མེ་ཏོག་དང་། དངུལ་གྱི་མེ་ཏོག་རྣམས་ཀྱིས་གཏོར་ཏོ། །གང་མངོན་པར་གཏོར་བ་དེ་དག་གཏོར་མ་ཐག་ཏུ་སངས་རྒྱས་ཀྱི་མཐུས་བཅོམ་ལྡན་འདས་ཀྱི་སྤྱི་གཙུག་གི་ཐད་ཀར་ཁང་པ་བརྩེགས་པ་བཀྲ་བ། བལྟ་ན་སྡུག་པ། གྲུ་བཞི་པ། གནས་བཞི་དང་ལྡན་པ་ཞིག་འདུག་པར་གྱུར་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>He scattered gold and silver flowers that, through the power of the Buddha, immediately transformed above the Blessed One’s head into a glistening, elegant mansion with four corners and four rooms.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-79">
+            <prop name="location-id">UT22084-075-002-37</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཁང་པ་བརྩེགས་པ་དེར་དེ་བཞིན་གཤེགས་པའི་སྐུ་སྐྱིལ་མོ་ཀྲུང་བཅས་ཏེ་ཆོས་འཆད་ཅིང་བཞུགས་པ་དེས་མཐོང་ངོ་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Within this mansion, the child Jñānaka beheld the figure of the Thus-Gone One sitting cross-legged and teaching the Dharma.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-80">
+            <prop name="location-id">UT22084-075-002-38</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་ཁྱེའུ་ཤེས་ལྡན་གྱིས་བཅོམ་ལྡན་འདས་ཀྱི་གཟུགས་དང་། རྫུ་འཕྲུལ་དང་། ཆོ་འཕྲུལ་བསམ་གྱིས་མི་ཁྱབ་པ་དེ་འདྲ་བ་མཐོང་ནས་མགུ་ཞིང་དགའ་བ་ནས། ཡིད་བདེ་བ་སྐྱེས་པའི་བར་དུ་གྱུར་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>As he observed the Blessed One’s inconceivable form, miracles, and supernatural powers, the child Jñānaka was joyful, elated, and filled with happiness.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-81">
+            <prop name="location-id">UT22084-075-002-38</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་བདག་གི་དགེ་བའི་རྩ་བ་འདི་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་བསྔོ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>He said to the Blessed One, “Blessed One, I dedicate my roots of virtue to unsurpassed and completely perfect awakening.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-82">
+            <prop name="location-id">UT22084-075-002-38</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དགེ་བའི་རྩ་བ་དེས་ན་བདག་ད་ལྟར་གྱི་བཅོམ་ལྡན་འདས་བཞིན་དུ། སངས་རྒྱས་སུ་གྱུར་ཅིག །ཆོས་སྟོན་པར་ཡང་གྱུར་ཅིག །དགེ་འདུན་ཡོངས་སུ་སྐྱོང་བར་ཡང་གྱུར་ཅིག །དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཁྱེའུ་ཤེས་ལྡན་གྱི་ལྷག་པའི་བསམ་པ་ཐུགས་སུ་ཆུད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>May these roots of virtue lead me to awaken, teach the Dharma, and sustain the saṅgha just like the present Blessed One.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-83">
+            <prop name="location-id">UT22084-075-002-39</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>འཛུམ་པ་མཛད་ནས་སྤྱི་བོའི་གཙུག་གི་ནང་དུ་ནུབ་པའི་བར་དུ་མཛད་པ་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོས་མཐོང་སྟེ། དོན་མེད་པ་མི་མཛད་དོ་སྙམ་པའི་བར་དུའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Aware of the intent of the child Jñānaka, the Blessed One smiled, and so forth, up until the light dissolved into the crown of his head. The venerable Ānanda saw this and thought to himself, “There is nothing that the Blessed One does without purpose,” and so forth, up until “What is the reason?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-84">
+            <prop name="location-id">UT22084-075-002-39</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་ལ་ཚིགས་སུ་བཅད་དེ་སླར་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One then addressed the venerable Ānanda with these verses:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-85">
+            <prop name="location-id">UT22084-075-002-41</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་འདི་ལྟར་ཤེས་ལྡན་གྱིས་ནི་དེ་བཞིན་གཤེགས་པ་མཆོད་པས་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Ānanda, by making offerings to the Thus-Gone One like this,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-86">
+            <prop name="location-id">UT22084-075-002-41</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བསྐལ་པ་བྱེ་བ་དགུ་བཅུ་དག་ཏུ་ལོག་པར་ལྟུང་བར་མི་འགྱུར་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Jñānaka will not fall to lower states for nine hundred million eons.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-87">
+            <prop name="location-id">UT22084-075-002-41</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་དེ་མ་ཐག་ཏུ་རྣམ་པར་འདྲེན་པར་ཉེ་བར་སྐྱེ་འགྱུར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>He will, at that point, take rebirth and appear in the world as a guide,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-88">
+            <prop name="location-id">UT22084-075-002-41</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མཚན་ནི་མཁྱེན་གཙོ་རྒྱལ་པོ་ཞེས་བྱ་སངས་རྒྱས་འཇིག་རྟེན་འབྱུང་བར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>As a buddha by the name of King of Foremost Knowing.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-89">
+            <prop name="location-id">UT22084-075-002-42</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སངས་རྒྱས་ཀྱི་ནི་རྟོགས་པ་བརྗོད་པས་མཁས་རྣམས་ཡང་དག་དགའ་བྱེད་ཅིང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“This account of the noble deeds of the Buddha delights the learned</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-90">
+            <prop name="location-id">UT22084-075-002-42</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མི་ཡི་མཁས་པ་གང་གིས་ཐོས་ན་དགེ་བ་མང་པོ་བྱེད་འགྱུར་ཏེ། །རྒྱ་མཚོ་མཐས་གཏུགས་དཔག་མེད་ལྟ་བུའི་དེ་བཞིན་གཤེགས་པ་སངས་རྒྱས་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And engenders great virtue in the wise people who hear it.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-91">
+            <prop name="location-id">UT22084-075-002-42</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རབ་ཏུ་དང་བས་ཡོན་རྣམས་ཕུལ་བའི་འབྲས་བུ་ཆུང་བར་མི་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Not so trivial are the results of gifts offered with lucid faith To the thus-gone Buddha, who is limitless like the extent of the ocean.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-92">
+            <prop name="location-id">UT22084-075-002-43</prop>
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། ཁྱེའུ་ཤེས་ལྡན་དང་། དགེ་སློང་དེ་དག་དང་། ལྷ་དང་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>After the Blessed One had spoken these words, the child Jñānaka, the monks, and the world with its gods rejoiced and praised what the Blessed One had taught. </seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-93">
+            <prop name="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཕགས་པ་སངས་རྒྱས་ཀྱི་རྟོགས་པ་བརྗོད་པ་ཤེས་ལྡན་གྱི་མདོ་རྫོགས་སོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>This completes “ The Sūtra of Jñānaka: An Account of the Noble Deeds of the Buddha</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-002-TU-94">
+            <prop name="unmatched">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།།རྒྱ་གར་གྱི་མཁན་པོ་བིདྱཱ་ཀ་ར་སིང་ཧ་དང་། སརྦ་ཛྙཱ་དེ་བ་དང་། །ཞུ་ཆེན་གྱི་ལོ་ཙྪ་བ་བན་དེ་དཔལ་བརྩེགས་ཀྱིས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།།</seg>
+            </tuv>
+            
+        </tu>
+    </body>
+</tmx>

@@ -33,7 +33,7 @@
 </tu>
 <tu>
             <prop name="folio">INPUT_STARTING_FOLIO</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཏདྱ་ཐཱ། ཨོྃ་ཨ་མི་ཏེ། ཨ་མི་ཏོདྦྷ་བེ། ཨ་མི་ཏ་སཾ་བྷ་བེ། ཨ་མི་ཏ་བི་ཀྲཱནྟེ། ཨ་མི་ཏ་ག་མི་ནི། ག་ག་ན་ཀཱིརྟི་ཀ་རི། སརྦ་ཀླེ་ཤ་ཀྵ་ཡཾ་ཀ་རི་སྭཱ་ཧཱ། </seg>
             </tuv>
@@ -81,7 +81,7 @@
 </tu>
 <tu>
             <prop name="folio">INPUT_STARTING_FOLIO</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ལན་ཉི་ཤུ་རྩ་གཅིག་བཟླས་བརྗོད་བྱས་ན་ལྟུང་བ་བཞི་འབྱང་བར་འགྱུར་རོ། །</seg>
             </tuv>

@@ -933,7 +933,7 @@
 </tu>
 <tu>
             <prop name="folio">F.256.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!བདུད་སྡིག་ཏོ་ཅན་རྣམས་ཀྱི་གྲགས་པ་འཇོམས་པ་ཡིན་ནོ། །</seg>
             </tuv>

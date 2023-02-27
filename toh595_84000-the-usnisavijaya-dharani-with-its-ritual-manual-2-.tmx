@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+    <header creationtool="linguae-dharmae/84000" creationtoolversion="2.16.12a" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" eft:text-id="UT22084-090-039" eft:text-version="v-1.2.5-2022" eft:source-ref="/db/apps/84000-data/uploads/linguae-dharmae/aligned/31-10-2022/complete/toh595-bo_aligned.txt"/>
+    <body>
+        <!--<tu id="UT22084-090-039-TU-1">
+            <tuv xml:lang="bo"><seg>བྱས་ཏེ་ཡང་དག་པར་བཅངས་ལ་གཞན་ལ་ཡང་རྒྱ་ཆེར་གསལ་བར་བྱས་ན། དེ་སྐྱིད་པ་འཐོབ་ཅིང་སྟོབས་དང་ལྡན་པ་དང་། ནད་མེད་པ་དང་། ལོ་བརྒྱ་ཐུབ་པ་དང་། བློ་རྣོ་བ་དང་། སྐྱེ་བ་དྲན་པར་འགྱུར་རོ། །གང་གི་ཚེ་འཆི་བའི་དུས་བྱས་པ་དེའི་ཚེ། སྦྲུལ་ཤུན་པ་བརྗེས་པ་དང་འདྲ་བར་རང་གི་ལུས་བོར་ཏེ་བདེ་བ་ཅན་གྱི་འཇིག་རྟེན་གྱི་ཁམས་སུ་སྐྱེ་བར་འགྱུར་རོ། །དམྱལ་བའི་སྒྲ་རྣ་བུག་ཏུ་ཡང་ཐོས་པར་མི་འགྱུར་ན་འབྲས་བུ་སྨིན་པར་ལྟ་ཡང་ག་ལ་འགྱུར། གང་དང་གང་དུ་སྐྱེས་པ་དེ་དང་དེ་རུ་སྐྱེ་བ་དྲན་པར་འགྱུར་རོ། །བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང་། ཐམས་ཅད་དང་ལྡན་པའི་འཁོར་དེ་དག་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།།</seg></tuv>
+            <tuv xml:lang="en"><seg/></tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-2">
+            <tuv xml:lang="bo"><seg>།།དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་གཙུག་ཏོར་རྣམ་པར་རྒྱལ་བ་ཞེས་བྱ་བའི་གཟུངས་རྟོག་པ་དང་བཅས་པ་རྫོགས་སོ།། །།པཎྜིཏ་ཆོས་ཀྱི་སྡེ་དང་། ཁམས་པ་ལོཙྪ་བ་དགེ་སློང་བ་རིས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།། ༄༅༅། །རྒྱ་གར་སྐད་དུ། སརྦ་ཏ་ཐཱ་ག་ཏོཥྞཱིཥ་བི་ཛ་ཡ་ནཱ་མ་དྷཱ་ར་ཎཱི་ཀལྤ་ས་ཧི་ཏ། བོད་སྐད་དུ།</seg></tuv>
+            <tuv xml:lang="en"><seg>Crown Victory of All Tathāgatas The Uṣṇīṣavijayā Dhāraṇī with Its Ritual Manual</seg></tuv>
+        </tu>-->
+        <tu id="UT22084-090-039-TU-3">
+            <prop name="location-id">translation</prop>
+            <prop name="revision">v-1.2.5-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་གཙུག་ཏོར་རྣམ་པར་རྒྱལ་བ་ཞེས་བྱ་བའི་གཟུངས་རྟོག་པ་དང་བཅས་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Uṣṇīṣavijayā Dhāraṇī with Its Ritual Manual</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-4">
+            <prop name="location-id">UT22084-090-039-39</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Homage to all buddhas and bodhisattvas.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-5">
+            <prop name="location-id">UT22084-090-039-39</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-6">
+            <prop name="location-id">UT22084-090-039-39</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཚེ་དཔག་ཏུ་མེད་པ་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་བདེ་བ་ཅན་གྱི་ཆོས་ཡང་དག་པར་སྡུད་པའི་ཕུག་ཁང་བཟངས་མཆོག་ན་ཉེ་བར་བཞུགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The blessed, thus-gone, worthy, perfectly awakened Buddha Amitāyus was staying in the excellent secret palace, Dharma Proclamation, in Sukhāvatī.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-7">
+            <prop name="location-id">UT22084-090-039-39</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ལ་བཀའ་སྩལ་པ། རིགས་ཀྱི་བུ་སྡུག་བསྔལ་བ་ནད་ཀྱིས་ཡོངས་སུ་གཟིར་བའི་སེམས་ཅན་ཚེ་ཐུང་བ་ཡོད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>He said to the bodhisattva, the great being, Noble Avalokiteśvara, “Child of noble family, there are beings who suffer, are afflicted with diseases, and have short lifespans.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-8">
+            <prop name="location-id">UT22084-090-039-39</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་རྣམས་ཀྱི་ཕྱིར་འཁོར་གྱི་དཀྱིལ་འཁོར་ལ་ཉེ་བར་གཟིགས་ཏེ། ཀུན་དུ་གཟིགས་པའི་དཔལ་གྱི་མཚན་དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་གཙུག་ཏོར་རྣམ་པར་རྒྱལ་བ་ཞེས་བྱ་བའི་གཟུངས་འདི་བཅང་བ་དང་། བཀླག་པ་དང་། གཞན་ལ་རྒྱ་ཆེར་ཡང་དག་པར་སྟོན་པ་ནི་ཚེ་རིང་བ་སྒྲུབ་པར་བྱེད་པའི་ཆེད་དུའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>To help them, one should uphold and recite this dhāraṇī called the crown victory of all tathāgatas and teach it extensively to others for the sake of long life.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-9">
+            <prop name="location-id">UT22084-090-039-46</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་སྟན་ལས་ལངས་ཏེ་ཐལ་མོ་སྦྱར་བར་གྱུར་པས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་བསྟན་དུ་གསོལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then the bodhisattva, the great being, Avalokiteśvara arose from his seat, joined his palms, and said to the Blessed One, “Blessed One, please teach!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-10">
+            <prop name="location-id">UT22084-090-039-46</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་གཙུག་ཏོར་རྣམ་པར་རྒྱལ་བ་ཞེས་བྱ་བའི་གཟུངས་བདེ་བར་གཤེགས་པས་བསྟན་དུ་གསོལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Well-Gone One, please teach the dhāraṇī called the crown victory of all tathāgatas</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-11">
+            <prop name="location-id">UT22084-090-039-47</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཐམས་ཅད་དང་ལྡན་པའི་འཁོར་གྱི་དཀྱིལ་འཁོར་ལ་ཉེ་བར་གཟིགས་ཏེ། ཀུན་དུ་གཟིགས་པའི་དཔལ་ཞེས་བྱ་བའི་ཏིང་ངེ་འཛིན་ལ་སྙོམས་པར་ཞུགས་ནས། དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་གཙུག་ཏོར་རྣམ་པར་རྒྱལ་བ་ཞེས་བྱ་བའི་གཟུངས་འདི་བཀའ་སྩལ་པ། ཨོྃ་ན་མོ་བྷ་ག་ཝ་ཏེ་སརྦ་ཏྲཻ་ལོ་ཀྱ་པྲ་ཏི་བི་ཤིཥྚ་ཡ་བུདྡྷ་ཡ་ཏེ་ན་མཿ། ཏདྱ་ཐཱ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then the Blessed One looked upon the circle of his perfect retinue, entered the samādhi called the splendor beheld everywhere , and pronounced this dhāraṇī called the crown victory of all tathāgatas</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-12">
+            <prop name="location-id">UT22084-090-039-50</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཨོྃ་བྷྲཱུཾ་བྷྲཱུཾ་བྷྲཱུཾ། ཤོ་དྷ་ཡ་ཤོ་དྷ་ཡ། བི་ཤོ་དྷ་ཡ་བི་ཤོ་དྷ་ཡ། ཨ་ས་མ་ས་མནྟ་ཨ་བ་བྷཱ་ས་སྥ་ར་ཎ་ག་ཏི། ག་ག་ན་སྭ་བྷཱ་བ་བི་ཤུད་དྷེ། ཨུཥྞཱི་ཥ་བི་ཛ་ཡ་པ་རི་ཤུད་དྷེ། ཨ་བྷི་ཥིཉྩནྟུ་མཱཾ། སརྦ་ཏ་ཐཱ་ག་ཏཱཿསུ་ག་ཏ་བ་ར་བ་ཙ་ན། ཨ་མྲྀ་ཏ་ཨ་བྷི་ཥེ་ཀཻ་ར། མ་ཧཱ་མུ་དྲ་མནྟྲ་པ་དཻ། ཨཱ་ཧ་ར་ཨཱ་ཧ་ར། མ་མ་ཨཱ་ཡུཿསན་དྷཱ་ར་ཎི། ཤོ་དྷ་ཡ་ཤོ་དྷ་ཡ། བི་ཤོ་དྷ་ཡ་བི་ཤོ་དྷ་ཡ། ག་ག་ན་སྭ་བྷཱ་བ་བི་ཤུད་དྷེ། ཨུཥྞཱི་ཥ་བི་ཛ་ཡ་པ་རི་ཤུད་དྷེ། ས་ཧ་སྲ་ར་སྨི་སཉྩོ་དི་ཏེ། སརྦ་ཏ་ཐཱ་ག་ཏ་ཨ་བ་ལོ་ཀི་ནི། ཥ་ཊ་པཱ་ར་མི་ཏཱ་པ་རི་པཱུ་ར་ཎི། སརྦ་ཏ་ཐཱ་ག་ཏ་མཱ་ཏེ་ད་ཤ་བྷཱུ་མི་པྲ་ཏིཥྛི་ཏེ། སརྦ་ཏ་ཐཱ་ག་ཏ་ཧྲྀ་ད་ཡ། ཨ་དྷི་ཥྛ་ན་ཨ་དྷིཥྛི་ཏེ། མུ་དྲེ་མུ་དྲེ། མ་ཧཱ་མུ་དྲེ། བཛྲ་ཀཱ་ཡ་སཾ་ཧ་ཏ་ན། པ་རི་ཤུད་དྷེ། སརྦ་ཀརྨ་ཨཱ་ཝ་ར་ཎ་བི་ཤུད་དྷེ། པྲ་ཏི་ནི་བརྟ་ཡ། མ་མ་ཨཱ་ཡུར་བི་ཤུད་དྷེ། སརྦ་ཏ་ཐཱ་ག་ཏ་ས་མ་ཡ། ཨ་དྷིཥྛཱ་ན། ཨ་དྷིཥྛི་ཏེ། ཨོྃ་མུ་ནི་མུ་ནི། མ་ཧཱ་མུ་ནི། བི་མུ་ནི་བི་མུ་ནི། མ་ཧཱ་བི་མུ་ནི། མ་ཏི་མ་ཏི། མ་ཧཱ་མ་ཏི། མ་མ་ཏི། སུ་མ་ཏི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“oṁ namo bhagavate sarvatrailokyaprativiśiṣṭāya buddhāya te namaḥ | tadyathā | oṁ bhrūṁ bhrūṁ bhrūṁ | śodhaya śodhaya | viśodhaya viśodhaya | asamasamantāvabhāsaspharaṇagatigaganasvabhāvaviśuddhe | uṣṇīṣavijayapariśuddhe | abhiṣiñcantu māṃ sarvatathāgatāḥ sugatavaravacanāmṛtābhiṣekair mahāmudrāmantrapadaiḥ | āhara āhara mama āyuḥsandhāraṇi | śodhaya śodhaya | viśodhaya viśodhaya | gaganasvabhāvaviśuddhe | uṣṇīṣavijāyapariśuddhe | sahasraraśmisañcodite | sarvatathāgatāvalokini | ṣaṭpāramitāparipūraṇi | sarvatathāgatamāte  | daśabhūmipratiṣṭḥite | sarvatathāgatahṛdayādhiṣṭhānādhiṣṭḥite | mudre mudre mahāmudre | vajrakāyasaṃhatanapariśuddhe | sarvakarmāvaraṇaviśuddhe | pratinivartaya mamāyurviśuddhe | sarvatathāgatasamayādhiṣṭhānādhiṣṭhite | oṁ muni muni mahāmuni | vimuni vimuni mahāvimuni | mati mati mahāmati | mamati | sumati | tathatābhūtakoṭipariśuddhe | visphuṭabuddhiśuddhe |  he he | jaya jaya | vijaya vijaya | smara smara | sphara sphara | sphāraya sphāraya | sarvabuddhādhiṣṭhānādhiṣṭhite | śuddhe śuddhe | buddhe buddhe | vajre vajre mahāvajre | suvajre | vajragarbhe | jayagarbhe | vijayagarbhe | vajrajvālagarbhe | vajrodbhave | vajrasambhave | vajre | vajrini | vajram bhavatu mama śarīraṃ sarvasatvānāñ ca kāyapariśuddhir bhavatu | me sadā sarvagatipariśuddhiś</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-13">
+            <prop name="location-id">UT22084-090-039-50</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཏ་ཐཱ་ཏཱ། བྷཱུ་ཏ་ཀོ་ཊི། པ་རི་ཤུད་དྷེ། བི་སྥུ་ཊ། བུད་དྷེ་ཤུད་དྷེ། ཧེ་ཧེ། ཛ་ཡ་ཛ་ཡ། བི་ཛ་ཡ་བི་ཛ་ཡ། སྨ་ར་སྨ་ར། སྥ་ར་སྥ་ར། སྥཱ་ར་ཡ་སྥཱ་ར་ཡ། སརྦ་བུད་དྷ་ཨ་དྷིཥྛཱ་ན་ཨ་དྷིཥྛི་ཏེ། ཤུད་དྷེ་ཤུད་དྷེ། བུད་དྷེ་བུད་དྷེ། བཛྲེ་བཛྲེ། མ་ཧཱ་བཛྲེ། སུ་བཛྲེ། བཛྲེ་གརྦྷེ། ཛ་ཡ་གརྦྷེ། བི་ཛ་ཡ་གརྦྷེ། བཛྲ་ཛྭཱ་ལཱ་གརྦྷེ། བཛྲ་ཨུད་བྷུ་བེ། བཛྲ་སཾ་བྷ་བེ། བཛྲེ་བཛྲི་ནི། བཛྲམྦྷ་བ་ཏུ། མ་མ་ཤ་རཱི་རཾ་སརྦ་ས་ཏྭཱ་ནཱཉྩ་ཀཱ་ཡ་པ་རི་ཤུད་དྷི་ར་བྷ་བ་ཏུ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>ca  | sarvatathāgatāś</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-14">
+            <prop name="location-id">UT22084-090-039-50</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>མེ་ས་དཱ་སརྦ་ག་ཏི་པ་རི་ཤུད་དྷི་ཤྩ། སརྦ་ཏ་ཐཱ་ག་ཏཱ་ཤྩ་མཱཾ་ས་མཱ་ཤྭཱ་ས་ཡནྷུ། བུད་དྷྱ་བུད་དྷྱ། སིད་དྷྱ་སིད་དྷྱ། བོ་དྷ་ཡ་བོ་དྷ་ཡ། བི་བོ་དྷ་ཡ་བི་བོ་དྷ་ཡ། མོ་ཙ་ཡམ་ཙ་ཡ། བི་མོ་ཙ་ཡ་བི་མོ་ཙ་ཡ། ཤོ་དྷ་ཡ་ཤོ་དྷ་ཡ། བི་ཤོ་དྷ་ཡ་བི་ཤོ་དྷ་ཡ། ས་མནྟ་མོ་ཙ་ཡ་མོ་ཙ་ཡ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>ca māṃ samāśvāsayantu | budhya budhya | siddhya siddhya | bodhaya bodhaya | vibodhaya vibodhaya | mocaya mocaya | vimocaya vimocaya | śodhaya śodhaya | viśodhaya viśodhaya | samantamocaya mocaya | samantaraśmipariśuddhe | sarvatathāgatahṛdayādhiṣṭhānādhiṣṭhite | mudre mudre mahāmudre | mahāmudrāmantrapadaiḥ svāhā.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-15">
+            <prop name="location-id">UT22084-090-039-53</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ས་མནྟ་རསྨི་པ་རི་ཤུད་དྷེ། སརྦ་ཏ་ཐཱ་ག་ཏ་ཧྲྀ་ད་ཡ་ཨ་དྷིཥྛཱ་ན་ཨ་དྷིཥྛི་ཏེ། མུ་དྲེ་མུ་དྲེ། མ་ཧཱ་མུ་དྲེ་མ་ཧཱ་མུ་དྲཱ་མནྟྲ་པ་དཻཿསྭཱ་ཧཱ། རིགས་ཀྱི་བུ་དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་གཙུག་ཏོར་རྣམ་པར་རྒྱལ་བའི་གཟུངས་འདི་ནི་འཆི་བདག་ཆེན་པོའི་དབྱུག་པ་འཛིན་པ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Child of noble family, this dhāraṇī of the crown victory of all tathāgatas is the destroyer of the great cudgel of the Lord of Death, the purifier, the destroyer of evil deeds.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-16">
+            <prop name="location-id">UT22084-090-039-53</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དག་བྱེད་སྡིག་པ་འཇོམས་པར་བྱེད་པ་འདི་གྲོ་གའམ་གཞན་ཞིག་ལ་བྲིས་ཏེ། མཆོད་རྟེན་གྱི་ནང་དུ་བཞག་ལ། རབ་ཏུ་རྒྱ་ཆེ་བའི་མཆོད་པ་ཇི་ལྟར་འབྱོར་པས་མཆོད་དེ་བསྐོར་བ་སྟོང་ཕྲག་བརྒྱ་བྱས་ན་མཆོག་གི་ཚེ་དང་བློ་རྣོ་བ་སྦྱིན་པར་བྱེད་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>If one writes this dhāraṇī on birch bark or some other surface, places it in the center of a caitya, worships it extensively by offering whatever one has, and then circumambulates it one hundred thousand times, one will be granted an excellent lifespan and a sharp intellect.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-17">
+            <prop name="location-id">UT22084-090-039-53</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ལྟར་བྱས་པས་ཞག་བདུན་པའི་ཚེ་ནི་ལོ་བདུན་ཐུབ་བོ། །ལོ་བདུན་པའི་ཚེ་ལོ་བདུན་ཅུ་ཐུབ་བོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>When this is done, a lifespan of seven days will become seven years, and a lifespan of seven years will become seventy years.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-18">
+            <prop name="location-id">UT22084-090-039-53</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ལྟར་མཆོག་གི་ཚེ་འཐོབ་ཅིང་དྲན་པ་དང་ལྡན་པ་དང་། ནད་མེད་པ་དང་། སྐྱེ་བ་དྲན་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thus, one will obtain an excellent lifespan, a good memory, freedom from illness, and the ability to remember previous lives.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-19">
+            <prop name="location-id">UT22084-090-039-55</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མཆོད་རྟེན་ལ་བཞུགས་སུ་གསོལ་ནས་མགོ་ལ་བཅངས་ན་ནད་ཆེན་པོ་ལས་གྲོལ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“If someone installs this dhāraṇī in a caitya and binds a cloth on which the dhāraṇī is written around its summit they will be freed from grave illness.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-20">
+            <prop name="location-id">UT22084-090-039-56</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གོས་སམ་ཤིང་ཤུན་ལ་གི་ཝང་གིས་རང་གི་མིང་དང་བཅས་པའི་གཟུངས་བྲིས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Write the dhāraṇī together with one’s own name on a piece of cloth or bark using yellow pigment derived from cow bile and install it in a sandalwood caitya.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-21">
+            <prop name="location-id">UT22084-090-039-56</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཙནྡན་གྱི་རང་བཞིན་གྱི་མཆོད་རྟེན་ལ་བཞུགས་སུ་གསོལ་ཏེ་རང་གི་ཁྱིམ་དུ་བཞག་ལ་རྒྱ་ཆེ་བ་སྟོང་གི་མཆོད་པས་མཆོད་ཅིང་ཟླ་བ་རེ་རེ་ཞིང་བརྒྱ་ཕྲག་བརྒྱད་ཀྱི་བཟླས་པའི་མཆོག་མཆོད་པའི་ཆོ་ག་བྱས་ན་ནང་ལས་གྲོལ་ཞིང་ཆོ་ལོ་བརྒྱ་ཐུབ་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then place it at home and worship it with thousands of vast offerings. If one performs this offering rite each month while reciting the dhāraṇī eight hundred times, one will be free from illness and live for one hundred years.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-22">
+            <prop name="location-id">UT22084-090-039-56</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མེད་ན་འདམ་པའི་རིང་བཞིན་ལ་ཡང་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>If a sandalwood caitya is not available, follow the same procedure with a clay caitya.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-23">
+            <prop name="location-id">UT22084-090-039-57</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཡང་གོས་གཙང་མ་ལ་སྣ་ཚོགས་རྡོ་རྗེ་ལ་གནས་པའི་མཆོད་རྟེན་བྲིས་ལ་རྡོ་རྗེའི་ཕྲེང་བས་བསྐོར་བས་བརྒྱན་པ་དེའི་ནང་དུ་རང་གི་མིང་དང་གཟུངས་ཀྱི་ཚིག་འདི་གིའུ་ཝང་གིས་བྲིས་ལ་ཁམ་ཕོར་ཁ་སྦྱར་གྱི་ནང་དུ་བཞུགས་སུ་གསོལ་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“One can also draw on a clean piece of cloth a caitya that is resting on a crossed vajra and ornamented with an encircling vajra garland. Write one’s own name and the words of the dhāraṇī in the center of it with yellow pigment derived from cow bile.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-24">
+            <prop name="location-id">UT22084-090-039-57</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>རང་གི་ཁྱིམ་དུ་བཞག་སྟེ་མཆོད་པ་རྒྱ་ཆེན་པོ་མཆོད་པ་བྱས་ན་རྟག་ཏུ་བསྲུང་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>When this is installed inside an enclosed vessel made of two clay cups, placed in the home, and worshiped with extensive offerings, one will always be protected.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-25">
+            <prop name="location-id">UT22084-090-039-59</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གཞན་ཡང་ཆོག་ནི་ས་ལ་མ་ལྷུང་བའི་ལྕི་བས་མཎྜལ་གྲུ་བཞིར་བྱས་ལ་མེ་ཏོག་དཀར་པོ་བཀྲམ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“An additional rite is as follows: make a square maṇḍala with cow dung that has not fallen on the ground and scatter it with white flowers.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-26">
+            <prop name="location-id">UT22084-090-039-59</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>མཚམས་བཞིར་ཞུན་མར་གྱི་མར་མེ་བཞི་བཞག་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Place four butter lamps at the four corners.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-27">
+            <prop name="location-id">UT22084-090-039-59</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཨ་ག་རུ་དང་དུ་རུ་སྐའི་བདུག་པ་བྱས་ལ་དེ་བཞིན་དུ་དྲིའི་ཆུས་གང་བའི་སྣོད་མེ་ཏོག་དཀར་པོས་བརྒྱན་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Burn incense made of aloeswood and frankincense. Fill a vessel with perfumed water and adorn it with white flowers.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-28">
+            <prop name="location-id">UT22084-090-039-59</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>གཟུངས་ཀྱི་སྙིང་པོ་ཅན་གྱི་མཆོད་རྟེན་ནམ་སྐུ་གཟུགས་དབུས་སུ་བཞུགས་སུ་གསོལ་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Place in the center a caitya or statue with the dhāraṇī in its inner chamber.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-29">
+            <prop name="location-id">UT22084-090-039-59</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ལ་གཡོན་པའི་ལག་པས་རེག་སྟེ། གཡས་པའི་ལག་པ་ཕྲེང་བ་འཛིན་པས། ཉི་མ་རེ་རེ་ཞིང་ཉི་ཤུ་རྩ་གཅིག་རྩ་གཅིག་དུས་གསུམ་དུ་བཟླས་པ་བྱས་ལ་དེའི་ཆུ་ཁྱོར་བ་གསུམ་འཐུངས་ན་ནད་མེད་པ་དང་། ཚེ་རིང་བ་དང་། དགྲ་ཡོངས་སུ་ཉམས་པ་དང་། འཛིན་བློ་རྣོ་བ་དང་། དག་བཙུན་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Touch it with the left hand while holding a mālā in the right hand, and recite the dhāraṇī twenty-one times at the three times of the day. One who drinks three handfuls of that water will be free of illness and have a long life. Their enemies will fall away, and they will gain a sharp intellect and noble speech.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-30">
+            <prop name="location-id">UT22084-090-039-59</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྐྱེ་བ་ནས་སྐྱེ་བར་སྐྱེ་བར་སྐྱེ་བ་དྲན་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They will remember their previous births from one lifetime to the next.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-31">
+            <prop name="location-id">UT22084-090-039-59</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེའི་ཆུས་ཁང་པ་དང་། ཕྱུགས་ཀྱི་ར་བའམ། རྟའི་ར་བའམ། རྒྱལ་པོའི་ཁབ་ཏུ་གཏོར་ན་རྐུན་པོ་དང་། སྦྲུལ་དང་། གནོད་སྦྱིན་དང་། སྲིན་པོ་ལ་སོགས་པའི་འཇིགས་པ་མི་འབྱུང་ཞིང་ནད་ཀྱིས་ཡོངས་སུ་གདུངས་པར་མི་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>If that water is sprinkled around a house, a cattle barn or horse stable, or a royal residence, there will be no fear of thieves, snakes, yakṣas, or rākṣasas, and no one will suffer from illness.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-32">
+            <prop name="location-id">UT22084-090-039-59</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མགོ་ལ་གཏོར་ན་དེ་ནད་དེ་ལས་གྲོལ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>If the water is sprinkled over someone’s head, they will be freed from illness.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-33">
+            <prop name="location-id">UT22084-090-039-61</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ལྟར་ཚེ་དཔག་ཏུ་མེད་པའི་ཕན་ཡོན་ཆེན་པོའི་གཟུངས་འདི་གང་དང་གང་དུ་རབ་ཏུ་སྦྱར་ན་དེ་དང་དེ་རུ་ཞི་བ་ཆེན་པོར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“There is also the extremely beneficial dhāraṇī of limitless life , which brings great pacification wherever it is applied.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-34">
+            <prop name="location-id">UT22084-090-039-61</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སོ་ཤིང་ལ་ལན་ཉི་ཤུ་རྩ་གཅིག་ཡོངས་སུ་བཟླས་ཏེ་འཆོས་ན་ནད་མེད་པ་དང་། བློ་རྣོ་བ་དང་། ཚེ་རིང་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>If it is recited in full twenty-one times over a toothbrush, one will not have any pain when chewing, and one will have a sharp intellect and a long life.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-35">
+            <prop name="location-id">UT22084-090-039-61</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཆུ་ཁྱོར་བ་གསུམ་ལ་དུས་གསུམ་དུ་ལན་ཉི་ཤུ་རྩ་གཅིག་རྩ་གཅིག་ཡོངས་སུ་བཟླས་ཏེ་འཐུངས་ན་ནད་ཐམས་ཅད་ལས་ཡོངས་སུ་གྲོལ་ཞིང་ཡུན་རིང་དུ་འཚོ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>If it is recited over three handfuls of water twenty-one times at the three times of the day, whoever drinks that water will be completely freed from all illness and will live for a long time.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-36">
+            <prop name="location-id">UT22084-090-039-64</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གཞན་ཡང་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གིས་བཅོམ་ལྡན་འདས་ཚེ་དཔག་ཏུ་མེད་པ་ལ་བསྐོར་བ་བྱས་ནས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་རིགས་ཀྱི་བུ་འམ་རིགས་ཀྱི་བུ་མོས་མཆོད་རྟེན་གྱི་ལས་ཇི་ལྟར་བགྱི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then the bodhisattva great being Noble Avalokiteśvara circumambulated the Blessed One Amitāyus and said, “Blessed One, how should a son or daughter of noble family  perform the caitya ritual?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-37">
+            <prop name="location-id">UT22084-090-039-64</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>སྐུ་གཟུགས་ལ་སོགས་པ་བསྒྲུབ་པ་ཇི་ལྟར་བགྱི། འདིར་སྦྱིན་སྲེག་ཀྱང་ཇི་ལྟར་བགྱི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>How should they accomplish such tasks as making the statue and so forth, and how should they perform the fire offering?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-38">
+            <prop name="location-id">UT22084-090-039-65</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One replied:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-39">
+            <prop name="location-id">UT22084-090-039-65</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དྲི་བ་ལེགས་པར་སྨྲས་པ་ནི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“You have asked a good question.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-40">
+            <prop name="location-id">UT22084-090-039-65</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དཔའ་བོ་ཆེན་པོ་ལེགས་སོ་ལེགས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great hero, how excellent!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-41">
+            <prop name="location-id">UT22084-090-039-65</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སེམས་ཅན་ཀུན་ལ་ཕན་བརྩེའི་ཕྱིར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>For the love and sake of all beings,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-42">
+            <prop name="location-id">UT22084-090-039-65</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདིར་ནི་རྩེ་གཅིག་ཡིད་ཀྱིས་ཉོན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Listen with one-pointed attention!”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-43">
+            <prop name="location-id">UT22084-090-039-67</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ཀུན་དུ་འོད་དཔག་ཏུ་མེད་པའི་དཔལ་ཞེས་བྱ་བའི་ཏིང་ངེ་འཛིན་ལ་སྙོམས་པར་ཞུགས་ནས་དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་ཚེ་དཔག་ཏུ་མེད་པ་ཞེས་བྱ་བའི་གཟུངས་འདི་གསུངས་པ་ནི་འདི་ལྟ་སྟེ། ཨོྃ་ཨ་མྲྀ་ཏེ། ཨ་མྲྀ་ཏོད་བྷ་བེ། ཨ་མྲྀ་ཏ་བི་ཀྲཱནྟེ། ཨ་མྲྀ་ཏ་ག་ཏེ། ཨ་མྲྀ་ཏ་གཱ་མི་ནི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then the Blessed One entered into the samādhi called glorious limitless light rays in all directions and spoke this dhāraṇī called the limitless life of all tathāgatas</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-44">
+            <prop name="location-id">UT22084-090-039-69</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཨ་མྲྀ་ཏ་ཨཱ་ཡུརྡ་ཏེ། ག་ག་ན་ཀཱིརྟི་ཀ་རེ་སརྦ་ཀླེ་ཤ་ཀྵ་ཡཾ་ཀ་རཱི་ཡེ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“oṁ amṛte amṛtodbhave amṛtavikrānte amṛtagate amṛtagāmini amṛtāyurdatte gaganakīrtikare sarvakleśakṣayaṃ kariye svāhā</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-45">
+            <prop name="location-id">UT22084-090-039-74</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཞེས་བྱ་བའི་གཟུངས་འདི་མཆོད་རྟེན་བྱེད་པའི་འཇིམ་པ་བླང་བ་དང་། བྱུག་པ་ལ་སོགས་པ་དང་། གདུགས་གདགས་པའི་བར་ཇི་སྲིད་རྫོགས་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Recite this dhāraṇī as many times as possible while excavating the clay for building a caitya, while applying that clay, and all the way up until the canopy is raised.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-46">
+            <prop name="location-id">UT22084-090-039-75</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདིའི་ཆོ་ག་ནི། མཆོད་རྟེན་ཆོ་ག་མཆོག་གྱུར་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then he taught the rite:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-47">
+            <prop name="location-id">UT22084-090-039-75</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་ཡང་དག་བཤད་པར་བྱ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Now I will properly explain</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-48">
+            <prop name="location-id">UT22084-090-039-75</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གསེར་དང་། ཨིནྡྲ་ནཱི་ལ་དང་། དངུལ་དང་། པདྨ་རཱ་ག་ལ་སོགས་པའི་རང་བཞིན་མང་པོའི་རིན་པོ་ཆེས་སྤྲས་པ་སོར་བཅུ་གཉིས་ཀྱི་ཚད་པདྨའི་སྟེང་ན་བཞུགས་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The supreme caitya rite. “It should be twelve finger-widths in size, adorned with many ornaments made of gold, lapis, silver, and rubies, and placed upon a lotus.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-49">
+            <prop name="location-id">UT22084-090-039-75</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེའི་ལོགས་བཞིར་འཇིག་རྟེན་སྐྱོང་བ་བཞི་ལག་ན་རྒྱལ་མཚན་བསྣམས་པའོ། །མེ་ཏོག་དང་། བདུག་པ་དང་། དྲི་ལག་ན་བཟུང་བའི་གནས་གཙང་མའི་ལྷའི་བུ་རྣམས་དང་། ལྷ་རྣམས་ཀྱི་དབང་པོ་བརྒྱ་བྱིན་ལག་ན་གདུགས་ཐོགས་པ་དང་། གཡས་དང་གཡོན་གྱི་ལོགས་གཉིས་ན་སྤྱན་རས་གཟིགས་དང་། རྡོ་རྗེ་འཆང་གཉིས་རྔ་ཡབ་དཀར་པོ་ཕྱག་ན་བསྣམས་པ་གཉིས་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Draw the Four World-Protectors holding banners in the four directions, the gods of the pure abodes holding flowers, incense, and perfumes, Śakra, Lord of the Gods, holding the parasol, and Avalokiteśvara and Vajradhara holding white tail whisks on the right and the left sides.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-50">
+            <prop name="location-id">UT22084-090-039-75</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ལྟ་བུའི་ཆོ་གས་མཆོད་རྟེན་ལ་གཡས་བསྐོར་གྱི་སྦྱོར་བས་པདྨའི་འདབ་མ་ལ་བྲི་བར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Following proper procedure, draw these on the petals of the lotus, proceeding clockwise around the caitya.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-51">
+            <prop name="location-id">UT22084-090-039-75</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་གཙུག་ཏོར་རྣམ་པར་རྒྱལ་བ་ཞེས་བྱ་བའི་གཟུངས་བྲིས་ལ། དེའི་རིང་བསྲེལ་གྱི་སྙིང་པོ་ཅན་དུ་བྱས་ལ་དྲི་ཞིམ་པོ་དང་བསྲེས་པའི་ཆུ་གཏོར་ཞིང་དྲི་ཞིམ་པོའི་མེ་ཏོག་གིས་མཆོད་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Write down the dhāraṇī called the crown victory of all tathāgatas and install it in the caitya’s interior relic chamber. Then, sprinkle the caitya with scented water and worship it with delightfully scented flowers.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-52">
+            <prop name="location-id">UT22084-090-039-75</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>སྟོང་ཕྲག་གཅིག་གི་མཆོད་པ་ཆེན་པོ་བྱས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Perform a thousandfold offering.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-53">
+            <prop name="location-id">UT22084-090-039-75</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དཀར་པོའི་ཕྱོགས་ཀྱི་ཚེས་བརྒྱད་ཀྱི་ཉིན་ཞག་ལ་སྨྱུང་བར་གནས་ཤིང་། སེམས་ཅན་ཐམས་ཅད་ལ་ཕན་པའི་བློས་ཚེ་དང་བློ་སྟེར་བའི་ཡོན་བྱིན་ཏེ་སྟོང་ཕྲག་གཅིག་བཟླས་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Fast on the eighth day of the waxing moon,  and, with your mind set on the benefit of all beings, make offerings for the bestowal of long life and intelligence and recite the dhāraṇī one thousand times.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-54">
+            <prop name="location-id">UT22084-090-039-75</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཟླ་བ་རེ་རེ་ཞིང་བྱས་ན་ཟླ་བ་དྲུག་གིས་ཚེ་ལོ་སྟོང་ཐུབ་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>If this is done every month for six months, one will obtain a lifespan of a thousand years.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-55">
+            <prop name="location-id">UT22084-090-039-75</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྟག་ཏུ་ལོ་གཅིག་ཏུ་བྱས་ན་ཚེ་ལོ་འབུམ་ཐུབ་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>If it is done regularly for a year, one will obtain a lifespan of a hundred thousand years.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-56">
+            <prop name="location-id">UT22084-090-039-75</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྟག་ཏུ་བྱས་ན་ཚེ་ལོ་མི་ཟད་པ་ཐུབ་ཅིང་སྟོབས་དང་ལྡན་པ་དང་། གང་གིས་ཀྱང་མི་ཐུབ་ཅིང་ལྷ་དང་ལྷ་མ་ཡིན་དང་བཅས་མི་མཉམ་པའི་མཁའ་སྤྱོད་ཀྱི་གཙུག་ཏོར་མཆོག་ཏུ་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>If it is performed in perpetuity, one will obtain an inexhaustible lifespan, become powerful, be undefeatable by anyone, and obtain a supreme celestial uṣṇīṣa that is unequaled by even the gods and asuras. “Here is another rite.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-57">
+            <prop name="location-id">UT22084-090-039-75</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་གཞན་ཡང་ཆོ་ག་ནི་རབ་ཏུ་དགེ་བའི་གནས་སུ་ས་བླངས་ལ། དྲི་ཞིམ་པོས་བསྲེས་ལ་མཆོད་རྟེན་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Take some earth from a very holy place, mix it with delightful perfumes, and make a caitya.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-58">
+            <prop name="location-id">UT22084-090-039-75</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྟོང་ཕྲག་གཅིག་ནས་བརྩམས་ཏེ་ཇི་སྲིད་ལྔ་འམ་གཅིག་གི་བར་དུའོ། །ཉི་མ་རེ་རེ་ཞིང་མཆོད་རྟེན་དུ་གཏོགས་པ་གཙུག་ཏོར་རྣམ་པར་རྒྱལ་བ་ཡང་དག་པར་བཞུགས་སུ་གསོལ་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Start with one thousand, and make up to five thousand caityas. Every day install the crown victory dhāraṇī in all the caityas.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-59">
+            <prop name="location-id">UT22084-090-039-75</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཇི་སྐད་གསུངས་པའི་མཆོད་པ་རྒྱ་ཆེན་པོ་བྱས་ལ་སྟོང་ཕྲག་གཅིག་ནས་བརྩམས་ཏེ། ལན་བདུན་གྱི་བར་དུ་བཀླག་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Perform the extensive offering as instructed and read the dhāraṇī aloud starting with one thousand times and for as many as seven thousand recitations.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-60">
+            <prop name="location-id">UT22084-090-039-75</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཉི་མ་རེ་རེ་ཞིང་ཚེ་དང་བློ་སྟེར་བར་བྱེད་པའི་གཟུངས་ཀྱི་ཆེད་དུ་བྱས་ཏེ། སེམས་ཅན་ཐམས་ཅད་ལ་ཐུན་མོང་དུ་དགེ་བའི་རྩ་བ་སྦྱིན་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Perform this every day for the dhāraṇī that bestows long life and intelligence, and dedicate one’s own roots of virtue to the shared benefit of all beings.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-61">
+            <prop name="location-id">UT22084-090-039-75</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སེམས་ཅན་རྣམས་ལ་བཅིང་བ་དང་བརྡུང་བ་ལ་སོགས་པ་སྤང་བར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Give up such things as restraining and beating beings.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-62">
+            <prop name="location-id">UT22084-090-039-75</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཟླ་བ་གཞན་རེ་རེ་ལ་མཆོད་པ་ཉིས་འགྱུར་དུ་བྱས་ལ་བརྒྱད་བརྒྱའི་བཟླས་པ་བྱ་བ་ནི་རང་ངམ་རང་དང་འདྲ་བས་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>In each subsequent month make twice as many offerings and recite the dhāraṇī eight hundred times. This should be performed by oneself or by someone else in one’s stead.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-63">
+            <prop name="location-id">UT22084-090-039-83</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཆོ་ག་འདི་ཡིས་ནི་དུས་མ་ཡིན་པར་འཆི་བ་བརྒྱད་མེད་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“This ritual will allow one to avoid the eight types of untimely death.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-64">
+            <prop name="location-id">UT22084-090-039-83</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བློ་རྣོ་བ་དང་། ནད་མེད་པ་དང་། ཚེ་ལོ་བརྒྱ་ཐུབ་ཅིང་འགྲོ་བ་ཐམས་ཅད་ཀྱི་ཡིད་དུ་འོང་བ་དང་། སྐྱེ་བ་དྲན་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>One will have a sharp intellect, be free from illness, live for one hundred years, be delightful to all beings, and recollect past lives.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-65">
+            <prop name="location-id">UT22084-090-039-83</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་གི་ཚེ་འཆི་བའི་དུས་བྱས་པ་དེའི་ཚེ་སྦྲུལ་ཤུན་པ་བརྗེས་པ་དང་འདྲ་བར་རང་གི་ལུས་བོར་ཏེ། མཛེས་པའི་ལུས་བདེ་བ་ཅན་གྱི་འཇིག་རྟེན་གྱི་ཁམས་སུ་སྐྱེ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>When the time comes to die, one will leave one’s body behind just like a snake shedding its skin and be reborn into a beautiful body in the world of Sukhāvatī.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-66">
+            <prop name="location-id">UT22084-090-039-83</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཡང་དེ་ནི་དམྱལ་བ་དང་། བྱོལ་སོང་གི་སྐྱེ་གནས་དང་། གཤིན་རྗེའི་འཇིག་རྟེན་གྱི་ངན་འགྲོར་སྐྱེ་བར་མི་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>One will never be reborn into lower rebirths as a hell being, in the animal realm, or in the Realm of the Lord of Death.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-67">
+            <prop name="location-id">UT22084-090-039-83</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྣ་བའི་བུ་གར་དམྱལ་བའི་སྒྲ་ཡང་ཐོས་པར་མི་འགྱུར་ན་འབྲས་བུ་སྨིན་པར་ལྟ་ག་ལ་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>One will not even hear the word hell , so how could one experience the ripening of such a karmic result?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-68">
+            <prop name="location-id">UT22084-090-039-83</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>འདི་རྣམས་ཀྱི་གནས་སུ་འགྲོ་བ་མེད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>One will not go to those places.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-69">
+            <prop name="location-id">UT22084-090-039-84</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ཚེ་དཔག་ཏུ་མེད་པས་གཞན་ཡང་སྒྲུབ་པའི་ཐབས་བཀའ་སྩལ་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then the Blessed One Amitāyus taught the following sādhana:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-70">
+            <prop name="location-id">UT22084-090-039-84</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>གང་གིས་སེམས་ཅན་ཚེ་དཔག་ཏུ་མེད་པར་འགྱུར་བ་དང་ཉམ་ང་བའི་འཁོར་བ་ལས་གྲོལ་བར་བྱེད་པ་ནི་གཞོན་ནུ་མས་བཀལ་བའི་སྐུད་བ་ལ་ཚད་དང་ལྡན་པའི་མཛེས་པའི་རས་མཁས་པས་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“A skillful person who wishes beings to have limitless lifespans and to bring about their freedom from the pitiful state of saṃsāra should make a beautiful canvas that is the proper size out of threads that have been spun by a young maiden.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-71">
+            <prop name="location-id">UT22084-090-039-84</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་གཙུག་ཏོར་རྣམ་པར་རྒྱལ་བ་ཞེས་བྱ་བའི་གཟུངས་ཚོན་སྣམ་ལུས་པས་གཟུངས་ཀྱི་ཡི་གེ་ལས་སྤྲུལ་པའི་མཆོད་རྟེན་གྱི་ནང་དུ་བྲི་བར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then, using a variety of colors of pigment, one should write the crown victory dhāraṇī inside a caitya that has been emanated from the letters of the dhāraṇī.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-72">
+            <prop name="location-id">UT22084-090-039-86</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཚེ་དཔག་ཏུ་མེད་པ་འོད་ཟེར་སྟོང་གི་ཕྲེང་བ་ཅན། པདྨ་དང་ཟླ་བའི་གདན་ལ་བཞུགས་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Draw Amitāyus garlanded by thousands of light rays and seated upon a lotus and moon seat.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-73">
+            <prop name="location-id">UT22084-090-039-86</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>སྟོན་ཀའི་ཟླ་བ་ལྟ་བུའི་འོད་ཅན། རྒྱན་ཐམས་ཅད་ཀྱིས་བརྒྱན་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>He is luminous like the autumn moon and adorned with every ornament.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-74">
+            <prop name="location-id">UT22084-090-039-86</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཞལ་གསུམ་པ། སྤྱན་གསུམ་གསུམ་པ། ཕྱག་བརྒྱད་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>He has three faces, each with three eyes, and he has eight arms.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-75">
+            <prop name="location-id">UT22084-090-039-86</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>གཡས་པའི་ཞལ་ཞིབ་གསེར་གྱི་འོད་ཟེར་དང་ལྡན་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>His right face is peaceful and radiant with golden light.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-76">
+            <prop name="location-id">UT22084-090-039-86</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གཡོན་པ་ནི་མཆེ་བས་མ་མཆུ་མནན་པ་མི་བཟད་བ་ཨུཏྤལ་སྔོན་པོའི་འོད་ཟེར་གྱི་འོད་དང་ལྡན་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>His left face is fierce, with fangs biting down on his lower lip, and radiant with light the color of a blue utpala.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-77">
+            <prop name="location-id">UT22084-090-039-86</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དབུས་མ་ནི་སྒེག་པ་དང་བཅས་ཤིང་དཀར་བའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>His central face is charming and white.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-78">
+            <prop name="location-id">UT22084-090-039-86</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གཡས་པའི་ཕྱག་གིས་སྙིང་གར་སྣ་ཚོགས་རྡོ་རྗེའོ། །དེ་བཞིན་དུ་པདྨ་ལ་གནས་པའི་འོད་དཔག་ཏུ་མེད་པ་དང་། མདའ་དང་། མཆོག་སྦྱིན་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>His right hands hold a crossed vajra at his heart, Amitābha seated on a lotus, an arrow, and the gesture of supreme generosity.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-79">
+            <prop name="location-id">UT22084-090-039-86</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གཡོན་སྡིགས་མཛུབ་དང་བཅས་པའི་ཞགས་པ་དང་། དེ་བཞིན་དུ་གཞུ་དང་། མི་འཇིགས་པ་དང་། བུམ་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>His left hands hold a lasso with the threatening gesture, a bow, the gesture granting freedom from fear, and a vase.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-80">
+            <prop name="location-id">UT22084-090-039-86</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཡང་མགོ་བོར་མཆོད་རྟེན་ལ་གནས་པའི་ཨོྃ་དང་། མགྲིན་པར་ཨཱཿདང་། སྙིང་གར་ཧཱུྃ་ངོ་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>On his head is the syllable oṁ in a caitya, at his throat is the syllable āḥ , and at his heart the syllable huṁ</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-81">
+            <prop name="location-id">UT22084-090-039-86</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དཔྲལ་བར་ཏྲྃ་ངོ་། །ལྟེ་བའི་ཕྱོགས་སུ་ཧྲཱིའོ། །རྐང་པ་གཉིས་ལ་ཨཾ་ཨཿ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>At his forehead is hraṁ , at his navel hrīḥ , and at his two feet aṁ aḥ</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-82">
+            <prop name="location-id">UT22084-090-039-86</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཡི་གེ་འདི་རྣམས་བཀོད་ལ་རཀྵ་སྭཱ་ཧཱ་དང་བཅས་པ་འདིའི་ནང་དུ་རང་གི་མིང་དང་སྤེལ་བའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Arrange these syllables on his body and include the phrase rakṣa svāhā with one’s own name inside it.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-83">
+            <prop name="location-id">UT22084-090-039-87</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེའི་ལོགས་གཉིས་སུ་པདྨ་དང་རྡོ་རྗེ་འཆང་གཉིས་རྔ་ཡབ་དཀར་པོ་ཕྱག་ན་བསྣམས་པ་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“On either side of him are Padmapāṇi and Vajradhara holding white tail whisks.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-84">
+            <prop name="location-id">UT22084-090-039-87</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྟེང་དུ་བདུད་རྩིའི་ཆར་གྱི་རྒྱུན་འབེབས་བཞིན་པའི་གནས་གཙང་མའི་ལྷའི་བུ་གཉིས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Above, like a flow of nectar raining down, are a pair of gods from the pure abodes.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-85">
+            <prop name="location-id">UT22084-090-039-87</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ལོགས་བཞིར་ཁྲོ་བོ་མི་གཡོ་བ་དང་། འདོད་པའི་རྒྱལ་པོ་དང་། དབྱུག་པ་སྔོན་པོ་དང་། སྟོབས་པོ་ཆེ་ཞེས་བྱ་བ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>In the four directions are wrathful Acala, Kāmarāja, Nīladaṇḍa, and Mahābala.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-86">
+            <prop name="location-id">UT22084-090-039-87</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>རལ་གྲི་དང་ལྕགས་ཀྱུ་དང་། དབྱུག་པ་དང་། རྡོ་རྗེ་བསྣམས་པའོ། །གཡོན་པ་གདུག་པ་ཅན་འཇིགས་པའི་སྡིགས་མཛུབ་ཆེད་དུ་བྱེད་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They hold a sword, a hook, a club, and a vajra, respectively, and their left hands brandish the threatening gesture to frighten malevolent beings.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-87">
+            <prop name="location-id">UT22084-090-039-88</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ལྟར་འབད་པས་རྫོགས་པར་བྱས་ལ་རིང་བསྲེལ་དང་བཅས་པའི་མཆོད་རྟེན་ལ་སྨྱུང་བར་གནས་པས་མཆོད་པ་ཆེན་པོ་སྟོང་ཕྲག་གཅིག་གིས་མཆོད་པ་བྱས་ལ་འབུམ་ཕྲག་གཅིག་བཟླས་པ་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“When one has completed it with careful attention to those details, one should fast near a caitya that has relics and worship it with a thousandfold great offering while reciting the dhāraṇī one hundred thousand times.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-88">
+            <prop name="location-id">UT22084-090-039-88</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་དཀར་པོའི་ཕྱོགས་ཀྱི་ཚེས་གཅིག་ནས་བཟུང་སྟེ། ཇི་སྲིད་བཅྭ་ལྔའི་བར་དུ་སྟོང་སྟོང་བཟླས་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Recite the dhāraṇī one thousand times each day from the first to the fifteenth day of the waxing moon.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-89">
+            <prop name="location-id">UT22084-090-039-88</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་སྔ་བར་ནམ་ལངས་པ་དང་། བཅོམ་ལྡན་འདས་མ་ཞལ་མཐོང་བར་འགྱུར་རོ། །དེ་ནས་ཇི་ལྟར་དངོས་གྲུབ་འདོད་པ་སྟེར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then, in the early morning at dawn you will see the face of the Bhagavatī, and she will give you whatever accomplishments you desire.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-90">
+            <prop name="location-id">UT22084-090-039-89</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཡང་ན་ནི་ཐང་ཀ་དེ་དྲི་ཞིམ་པོ་དང་བསྲེས་པའི་ཆུས་བྱུགས་པའི་ཕྱོགས་གཅིག་ཏུ་ཡང་དག་པར་བཞུགས་སུ་གསོལ་ལ། མཆོད་པ་རྒྱ་ཆེན་པོ་བྱས་ཏེ་ཉི་མ་རེ་རེ་ཞིང་བརྒྱད་བརྒྱའི་བཟླས་པ་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“One can also install the painting in a location that has been anointed with delightfully scented water, perform extensive worship, and recite the dhāraṇī eight hundred times each day.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-91">
+            <prop name="location-id">UT22084-090-039-89</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཡང་ཟླ་བ་རེ་རེ་ལ་སྟོང་སྟོང་གི་མཆོད་པ་བྱས་ཤིང་སྟོང་སྟོང་གི་བཟླས་པ་བྱས་ན་ཚེ་དཔག་ཏུ་མེད་པ་དང་། སྟོབས་དཔག་ཏུ་མེད་པས་གཞན་གནོན་པ་དང་། ནམ་མཁའ་ལ་འགྲོ་བ་དང་། ནད་ཆེན་པོ་མེད་པར་བྱེད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Or, one can make a thousandfold offering and recite the dhāraṇī a thousand times. If one does this, one’s lifespan will be limitless and one will be able to suppress others with limitless power, be able to fly, and be free from great illness.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-92">
+            <prop name="location-id">UT22084-090-039-89</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སེམས་ཅན་ཐམས་ཅད་ཀྱིས་ཉི་མ་རེ་རེ་ཞིང་ཚིགས་བཅད་སྟོང་འཛིན་པའི་ཕྱིན་ཅི་མ་ལོག་པའི་ངག་ཏུ་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>This will make anyone able to memorize and perfectly recite one thousand verses each day.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-93">
+            <prop name="location-id">UT22084-090-039-90</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཡང་ན་ཁ་ཅིག་གིས་དེ་ལྟ་བུ་བྱེད་པར་མི་ནུས་ན་དེ་ཡིས་རང་གི་ཁྱིམ་དུ་དྲི་ཞིམ་པོ་དང་བསྲེས་པའི་སའི་ཆར་བཞུགས་སུ་གསོལ་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Or if someone is unable to do that, they should install it in their home in a place that has been anointed with scented water and make whatever offerings they have.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-94">
+            <prop name="location-id">UT22084-090-039-90</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་འབྱོར་པའི་མཆོད་པ་བྱས་ལ་ཟླ་བ་འོང་ངོ་ཅོག་གི་ཚེས་བརྒྱད་ལ་བརྒྱད་བརྒྱའི་བཟླས་པ་བྱ་ཞིང་། ཉི་མ་རེ་རེ་ལ་དུས་གསུམ་དུ་ཉི་ཤུ་རྩ་གཅིག་རྩ་གཅིག་བརྗོད་ན་བློ་རྣོ་བ་དང་། ཚེ་རིང་བ་དང་། ཤེས་རབ་དང་ལྡན་པ་དང་། ནད་མེད་པ་དང་། སྐྱིད་པ་དང་། ལོ་བརྒྱ་འཚོ་བ་དང་། སྐྱེ་བ་དྲན་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>In all the coming months they should recite the dhāraṇī eight hundred times on the eighth day of the month, and every day they should recite it twenty-one times at the three times of the day. If they do this, they will have a sharp intellect and a long life. They will be full of insight, free from illness, and happy. They will live for one hundred years and remember their past lives.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-95">
+            <prop name="location-id">UT22084-090-039-90</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཡང་ན་རང་གིས་མ་ནུས་ན་དེའི་ཚེ་རང་དང་འདྲ་བས་བྱས་ན་ཚེ་རིང་བ་དང་བློ་རྣོ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Or if one is unable to do this oneself and someone does it in one’s stead, then one will have a long life and a sharp intellect.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-96">
+            <prop name="location-id">UT22084-090-039-92</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་གཞན་ཡང་སྦྱིན་སྲེག་གི་ཆོ་ག་སེམས་ཅན་ཐམས་ཅད་ལ་ཕན་བའི་ཕྱིར་ཉེ་བར་བཤད་པར་བྱ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Now I will explain the fire offering rite for the benefit of all beings.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-97">
+            <prop name="location-id">UT22084-090-039-92</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཁྲུ་གང་གི་ཚད་ཀྱི་ཐབ་ཁུང་ཟླུམ་པོ་རྡོ་རྗེ་ཕྲེང་བས་བརྒྱན་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Build a round hearth one cubit in size and adorned with a garland of vajras.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-98">
+            <prop name="location-id">UT22084-090-039-92</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཙནྡན་དཀར་པོའམ་ས་དཀར་གྱིས་བྱུགས་ལ་མེ་ཏོག་དཀར་པོ་བཀྲམ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Smear it with white sandalwood or white earth and scatter white flowers on it.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-99">
+            <prop name="location-id">UT22084-090-039-92</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ལོགས་བཞིར་ཞུན་མར་གྱི་མར་མེ་བཞི་བཞག་ལ་བདུག་སྤོས་ལ་སོགས་པས་ཡང་དག་པར་མཆོད་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Place a butter lamp on each of its four sides, and worship it properly with incense and other offerings.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-100">
+            <prop name="location-id">UT22084-090-039-92</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཕྱོགས་བཞིར་མཚན་ཉིད་དང་ལྡན་པའི་བུམ་པ་རབ་ཏུ་མཛེས་པ་གོས་དཀར་པོས་གཡོགས་ལ་ཡལ་གས་ཁ་བརྒྱན་པ་བཞི་གཞག་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>In each of the four directions place a well-decorated and beautiful vase covered with white cloth with its openings adorned with boughs from a tree.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-101">
+            <prop name="location-id">UT22084-090-039-92</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འོ་མ་ཅན་གྱི་ཡམ་ཤིང་ལ་མེ་སྤར་ལ་མེ་ལྷ་བཀུག་ལ། དགང་བླུགས་གསུམ་བྱིན་ལ་བསང་གཏོར་བྱས་ཏེ་གཤེགས་སུ་གསོལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Start a fire with wood from a date palm, and summon Agni by asking him to approach as you give three full ladles in the fire and sprinkle it with cleansing water.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-102">
+            <prop name="location-id">UT22084-090-039-92</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་ཚེ་དཔག་ཏུ་མེད་པ་གསལ་པོར་ཐབ་ཁུང་གི་དབུས་སུ་བསམས་ལ། གཙུག་ཏོར་རྣམ་པར་རྒྱལ་བ་བཟླས་ཤིང་དགང་བླུགས་གསུམ་དབུལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Visualize Amitāyus clearly in the center of the hearth, recite the crown victory dhāraṇī, and offer three full ladles.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-103">
+            <prop name="location-id">UT22084-090-039-92</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཡང་ན། ཨོྃ་ཨ་མྲྀ་ཏ་ཨཱ་ཡུར་དཏྟེ་སྭཱ་ཧཱ། ཞེས་བྱ་བས་ཚེ་དང་བློ་རྣོ་བ་དང་བཅས་པས་བརྒྱད་བརྒྱ་དུས་གསུམ་དུ་སྦྱིན་སྲེག་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>One can also perform the fire offering while reciting the dhāraṇī together with the life-extending and intelligence-sharpening dhāraṇī oṁ amṛtāyurdatte svāhā eight hundred times at the three times of the day.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-104">
+            <prop name="location-id">UT22084-090-039-93</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གཙུག་ཏོར་རྣམ་པར་རྒྱལ་བ་ལན་བདུན་དུ་བཟླས་པ་བྱས་ན་ཚེ་རིང་བ་དང་། བློ་རྣོ་བ་དང་། སྐྱིད་པ་དང་། ནད་མེད་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“If one recites the crown victory dhāraṇī seven times one will have a long life, a sharp intellect, and happiness and be free from illness.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-105">
+            <prop name="location-id">UT22084-090-039-93</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཡང་ན་ཟླ་བ་རེ་རེའི་དཀར་པོའི་ཕྱོགས་ཀྱི་ཚེས་བརྒྱད་ལ་མཆོད་པ་རྒྱ་ཆེན་པོ་བྱས་ལ་དུས་གསུམ་དུ་ཚེ་ལོ་སྟོང་ཐུབ་པར་འདོད་པས་སྦྱིན་སྲེག་བྱས་ན་མཆོག་གི་ཚེ་རིང་བ་དང་། བློ་རྣོ་བ་སྦྱིན་པར་བྱེད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Someone who wishes to live for a thousand years can also make an extensive offering on the eighth day of the waxing moon and perform the homa at the three times of the day, and supreme long life and a sharp intellect will be bestowed upon them.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-106">
+            <prop name="location-id">UT22084-090-039-95</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སེམས་ཅན་རྣམས་ལ་སྨད་པར་མི་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“One should not disparage beings.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-107">
+            <prop name="location-id">UT22084-090-039-95</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཆོ་ག་འདིས་རང་གི་ལུས་ནད་ཀྱིས་གོས་པར་མི་འགྱུར་ཞིང་ལོ་བརྒྱ་ལྔ་བཅུ་འཚོ་བ་དང་། དགྲ་ལས་རྣམ་པར་རྒྱལ་བ་དང་། བློ་རྣོ་བར་འགྱུར་རོ། །དབྱངས་སྙན་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>With this rite, one’s body will not be afflicted by illness. One will live for five thousand years, be victorious over enemies, and have a sharp intellect and a sweet voice.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-108">
+            <prop name="location-id">UT22084-090-039-95</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གལ་ཏེ་རང་གིས་མ་ནུས་ན་དེའི་ཚེ་རང་དང་འདྲ་བས་བྱས་ན་ཞི་བ་ཆེན་པོར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“If one is unable to perform this oneself but someone performs it in one’s stead, one will obtain great peace.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-109">
+            <prop name="location-id">UT22084-090-039-97</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་གཞན་ཡང་སྒྲུབ་པར་འདོད་ན་གཙུག་ཏོར་གྱི་རྒྱལ་པོ་ཆེན་པོ་ཚེ་དང་བློ་རྣོ་བ་དང་བཅས་པས་འབུམ་ཕྲག་གཅིག་སྦྱིན་སྲེག་བྱས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“If one seeks some other accomplishment, one can recite the great crown victory dhāraṇī together with the life-extending and intelligence-sharpening dhāraṇī while performing the fire offering one hundred thousand times.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-110">
+            <prop name="location-id">UT22084-090-039-97</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དང་པོ་དང་མཐར་སྟོང་སྟོང་གིས་མཆོད་པ་བྱས་ལ་ཡང་འབུམ་ཕྲག་གཅིག་བཟླས་པ་བྱས་ན་ཚེ་ལོ་འབུམ་ཕྲག་གཅིག་ཐུབ་པར་འགྱུར་རོ། །བྱེ་བ་བྱས་ན་བྱེ་བ་ཐུབ་བོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>If one performs the thousandfold worship and recites the dhāraṇī one hundred thousand times at the beginning and end, one will live for a hundred thousand years. If one does this ten million times, one will live for ten million years.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-111">
+            <prop name="location-id">UT22084-090-039-97</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ལྟར་འདིའི་ཆོ་གའི་རིམ་པས་ཚེ་ལ་དཔག་ཏུ་མེད་པར་འགྱུར་ཞིང་ནམ་མཁའ་ལ་འགྲོ་བ་དང་། དཔའ་བ་དང་། དགྲ་ལས་རྒྱལ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Following the practice of this rite will enable one to live for countless years, to fly, to be heroic, and to be victorious over all enemies.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-112">
+            <prop name="location-id">UT22084-090-039-99</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དཔལ་འདོད་ན་འབུམ་ཕྲག་གཅིག་སྦྱིན་སྲེག་བྱས་ན་དཔལ་ཆེན་པོ་ཐོབ་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“If one seeks glory and performs a fire offering of one hundred thousand wood apples, one will obtain great glory.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-113">
+            <prop name="location-id">UT22084-090-039-99</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྒྱལ་པོ་འདོད་ན་པདྨ་འབུམ་ཕྲག་གཅིག་སྦྱིན་སྲེག་བྱས་ན་རྒྱལ་པོ་ཆེན་པོ་ཐོབ་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>If one seeks to be king and performs a fire offering of one hundred thousand lotuses, one will become a great king.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-114">
+            <prop name="location-id">UT22084-090-039-99</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བྱེ་བ་གཅིག་བྱས་ན་འཁོར་ལོས་སྒྱུར་བ་ཐོབ་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>If one performs that ten million times, one will become a universal monarch.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-115">
+            <prop name="location-id">UT22084-090-039-101</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཡང་ན་རལ་གྲི་ལ་སོགས་བ་སྒྲུབ་བར་འདོད་ན་རིང་བསྲེལ་དང་བཅས་པའི་མཆོད་རྟེན་གྱི་མདུན་དུ་ཐང་སྐུ་བཀྲམ་ལ་སྟོང་གིས་མཆོད་པ་ཆེན་པོས་མཆོད་ལ་བཟླས་པ་འབུམ་བྱས་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Or, if one wishes to obtain the sword siddhi and so forth, one should display the painting in front of a caitya that contains relics, perform the great thousandfold offering, and recite the dhāraṇī one hundred thousand times.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-116">
+            <prop name="location-id">UT22084-090-039-101</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཡང་ན་ལྕགས་ལྔའི་རང་བཞིན་གྱི་རལ་གྲི་ལ་བཟླས་པ་འབུམ་བྱས་ཏེ། ལག་པ་གཡས་པར་བཅངས་ན་ཡིད་ཀྱིས་འགྲོ་བ་དང་། འདོད་པའི་གཟུགས་འཛིན་པ་དང་། སྟོབས་ཆེ་ཞིང་གཞན་གནོན་པ་དང་། སེམས་ཅན་ཐམས་ཅད་ཀྱི་གཅིག་ཏུ་འདྲེན་པ་པོར་གྱུར་ནས་སྨན་པ་ཆེན་པོའི་མཆོག་ཚེ་དཔག་ཏུ་མེད་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>If one recites it one hundred thousand times over a sword made of the five metals and then holds the sword in one’s right hand, one will be able to travel to whatever place one thinks of,  take whatever form one desires, be extremely powerful, and subdue others. One will be the singular guide of all beings and then become the great, supreme physician with a limitless lifespan.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-117">
+            <prop name="location-id">UT22084-090-039-101</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ལྟར་རྡོ་རྗེ་དང་། འཁོར་ལོ་དང་། རྩེ་གསུམ་ལ་སོགས་པ་ཡང་བསྒྲུབ་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>One can also perform the same sādhana over a vajra, cakra, trident, and the like.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-118">
+            <prop name="location-id">UT22084-090-039-102</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ལྟར་ཕན་ཡོན་དཔག་ཏུ་མེད་པའི་གཟུངས་ཆེན་མོ་དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་སྙིང་པོར་གྱུར་པ་མཆོག་ཏུ་རྙེད་པར་དཀའ་བ་འདི་ཇི་ལྟ་ཇི་ལྟར་སྦྱར་བ་དེ་ལྟ་དེ་ལྟར་ལས་གྲུབ་པར་བྱེད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“This great dhāraṇī with limitless benefits that is the heart of all the tathāgatas and supremely difficult to encounter will bring about the accomplishment of any ritual action to which it is applied.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-119">
+            <prop name="location-id">UT22084-090-039-102</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་ཡང་དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་གཙུག་ཏོར་རྣམ་པར་རྒྱལ་བ་ཞེས་བྱ་བའི་གཟུངས་འདི་ཉི་མ་རེ་རེ་ལ་དུས་གསུམ་དུ་ལན་ཉི་ཤུ་རྩ་གཅིག་རྩ་གཅིག་བཟླས་པ་བྱ་ཞིང་མཆོད་རྟེན་ཆེན་པོ་བྱས་ཏེ་ཡང་དག་པར་བཅངས་ལ་གཞན་ལ་ཡང་རྒྱ་ཆེར་གསལ་བར་བྱས་ན་དེ་སྐྱིད་པ་འཐོབ་ཅིང་སྟོབས་དང་ལྡན་པ་དང་། ནད་མེད་པ་དང་། ལོ་བརྒྱ་ཐུབ་པ་དང་། བློ་རྣོ་བ་དང་། སྐྱེ་བ་དྲན་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Whoever recites this dhāraṇī called the crown victory of all tathāgatas twenty-one times at the three times of the day every day, makes a great caitya and hangs the dhāraṇī from it, and explains the dhāraṇī to others at length will be happy, powerful, and free from illness, live for a hundred years, have a sharp intellect, and remember their previous lives.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-120">
+            <prop name="location-id">UT22084-090-039-102</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་གི་ཚེ་འཆི་བའི་དུས་བྱེད་པ་དེའི་ཚེ་སྦྲུལ་ཤུན་པ་བརྗེས་པ་དང་འདྲ་བར་རང་གི་ལུས་བོར་ཏེ་བདེ་བ་ཅན་གྱི་འཇིག་རྟེན་གྱི་ཁམས་སུ་སྐྱེ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>When they die, they will leave their body behind just like a snake shedding its skin and be born into the world of Sukhāvatī.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-121">
+            <prop name="location-id">UT22084-090-039-102</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དམྱལ་བའི་སྒྲ་རྣ་བུག་ཏུ་ཡང་ཐོས་པར་མི་འགྱུར་ན་འབྲས་བུ་སྨིན་པར་ལྟ་ཡང་ག་ལ་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The word hell will never reach their ears, so how could they experience the ripening of such a karmic result?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-122">
+            <prop name="location-id">UT22084-090-039-102</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>གང་དང་གང་དུ་སྐྱེས་པ་དེ་དང་དེ་རུ་སྐྱེ་བ་དྲན་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They will always remember their previous lives from one lifetime to the next.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-123">
+            <prop name="location-id">UT22084-090-039-103</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང་། ཐམས་ཅད་དང་ལྡན་པའི་འཁོར་དེ་དག་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>When the Blessed One spoke these words, his entire retinue and the world and its gods, humans, asuras, and gandharvas rejoiced and praised what the Blessed One had said.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-039-TU-124">
+            <prop name="location-id">UT22084-090-039-104</prop>
+            <prop name="revision">v-1.2.9-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་གཙུག་ཏོར་རྣམ་པར་རྒྱལ་བ་ཞེས་བྱ་བའི་གཟུངས་རྟོག་པ་དང་བཅས་པ་རྫོགས་སོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>This concludes “ Crown Victory of All Tathāgatas: The Uṣṇīṣavijayā Dhāraṇī with Its Ritual Manual</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

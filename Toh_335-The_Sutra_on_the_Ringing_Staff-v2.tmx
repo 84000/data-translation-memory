@@ -458,7 +458,7 @@ The Ringing Staff</seg>
 </tu>
 <tu>
             <prop name="folio">F.272.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!གང་འཁར་གསིལ་འཛིན་པ་དག་སངས་རྒྱས་ཀྱི་ཆོས་ཀྱི་སྡེ་སྣོད་མངོན་པར་གྲུབ་པ་དང་། </seg>
             </tuv>
@@ -507,7 +507,7 @@ The Ringing Staff</seg>
 </tu>
 <tu>
             <prop name="folio">F.272.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཅིའི་སླད་དུ་ཡེ་ཤེས་ཀྱི་འཁར་བ་ཞེས་བགྱི་བ་ནས་དྲན་པ་ཉེ་བར་གཞག་པའི་དོན་གྱི་སྤྱོད་པ་ཞེས་བགྱི་བའི་བར་གྱི་དོན་གང་ལགས་པ་</seg>
             </tuv>
@@ -657,7 +657,7 @@ The Ringing Staff</seg>
 </tu>
 <tu>
             <prop name="folio">F.273.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!བྱང་ཆུབ་ཀྱི་ཕྱོགས་ཀྱི་ཆོས་སུམ་ཅུ་རྩ་བདུན་ཕུན་སུམ་ཚོགས་ཤིང་ཆོས་དེ་དག་གསལ་བར་རྣམ་པར་བྱེད་པ་དང་། </seg>
             </tuv>
@@ -677,7 +677,7 @@ The Ringing Staff</seg>
 </tu>
 <tu>
             <prop name="folio">F.273.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཆོས་དེ་དག་ལ་བདག་ཉིད་རྣམ་པར་རྩེན་པ་དང་། སྟོང་པ་ཉིད་དང་། མཚན་མ་མེད་པ་དང་། སྨོན་པ་མེད་པའི་རྣམ་པར་ཐར་པའི་སྒོར་འཇུག་པ་ལ་རང་དབང་དུ་གྱུར་ཅིང་</seg>
             </tuv>
@@ -873,7 +873,7 @@ The Ringing Staff</seg>
 </tu>
 <tu>
             <prop name="folio">F.273.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དག་པ་གཙང་བ་དང་། </seg>
             </tuv>
@@ -1002,7 +1002,7 @@ The Ringing Staff</seg>
 </tu>
 <tu>
             <prop name="folio">F.273.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཡང་དག་པའི་སྤོང་བ་བཞི་བསྟན་པར་བྱ་བ་དང་། </seg>
             </tuv>

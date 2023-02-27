@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+    <header creationtool="linguae-dharmae/84000" creationtoolversion="2.16.12a" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" eft:text-id="UT22084-034-009" eft:text-version="v-1.0.5-2022" eft:source-ref="/db/apps/84000-data/uploads/linguae-dharmae/aligned/31-10-2022/complete/toh21-bo_aligned.txt"/>
+    <body><!--
+        <tu id="UT22084-034-009-TU-2">
+            <prop name="location-id">translation</prop>
+            <tuv xml:lang="bo"><seg>༄༅༅། །རྒྱ་གར་སྐད་དུ། བྷ་ག་བ་ཏཱི་པྲཛྙཱ་པཱ་ར་མི་ཏཱ་ཧྲྀ་ད་ཡ། བོད་སྐད་དུ།</seg></tuv>
+            <tuv xml:lang="en"><seg>The Heart of the Perfection of Wisdom, the Blessed Mother</seg></tuv>
+        </tu>-->
+        <tu id="UT22084-034-009-TU-3">
+            <prop name="location-id">UT22084-034-009-105</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྙིང་པོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“The Heart of the Perfection of Wisdom, the Blessed Mother.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-034-009-TU-4">
+            <prop name="location-id">UT22084-034-009-59</prop>
+          <tuv xml:lang="bo">
+                <seg> བམ་པོ་གཅིག་གོ། །བཅོམ་ལྡན་འདས་མ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Homage to the Perfection of Wisdom, the Blessed Mother!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-034-009-TU-5">
+            <prop name="location-id">UT22084-034-009-59</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-034-009-TU-6">
+            <prop name="location-id">UT22084-034-009-59</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་རྒྱལ་པོའི་ཁབ་ན་བྱ་རྒོད་ཕུང་པོའི་རི་ལ། དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་། བྱང་ཆུབ་སེམས་དཔའི་དགེ་འདུན་ཆེན་པོ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One was residing on Vulture Peak Mountain at Rājagṛha together with a great saṅgha of monks and a great saṅgha of bodhisattvas.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-034-009-TU-7">
+            <prop name="location-id">UT22084-034-009-63</prop>
+            <tuv xml:lang="bo">
+                <seg>དེའི་ཚེ་བཅོམ་ལྡན་འདས་ཟབ་མོ་སྣང་བ་ཞེས་བྱ་བའི་ཆོས་ཀྱི་རྣམ་གྲངས་ཀྱི་ཏིང་ངེ་འཛིན་ལ་སྙོམས་པར་ཞུགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>At that time the Blessed One rested in an absorption on the categories of phenomena called illumination of the profound.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-034-009-TU-8">
+            <prop name="location-id">UT22084-034-009-65</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཡང་དེའི་ཚེ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཟབ་མོ་སྤྱོད་པ་ཉིད་ལ་རྣམ་པར་ལྟ་ཞིང་། ཕུང་པོ་ལྔ་པོ་དེ་དག་ལ་ཡང་རང་བཞིན་གྱིས་སྟོང་པར་རྣམ་པར་ལྟའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>At the same time, the bodhisattva great being, noble Avalokiteśvara, while practicing the profound perfection of wisdom, looked and saw that the five aggregates are also empty of an intrinsic nature.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-034-009-TU-9">
+            <prop name="location-id">UT22084-034-009-69</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་སངས་རྒྱས་ཀྱི་མཐུས། ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ། །རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་གང་ལ་ལ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཟབ་མོ་སྤྱོད་པ་སྤྱད་པར་འདོད་པ་དེས་ཇི་ལྟར་བསླབ་པར་བྱ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then, due to the Buddha’s power, venerable Śāriputra asked the bodhisattva great being, noble Avalokiteśvara, “How should sons of noble family or daughters of noble family train if they wish to engage in the practice of the profound perfection of wisdom?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-034-009-TU-10">
+            <prop name="location-id">UT22084-034-009-72</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་སྐད་ཅེས་སྨྲས་པ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གིས་ཚེ་དང་ལྡན་པ་ཤ་ར་དྭ་ཏིའི་བུ་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ། །ཤཱ་རིའི་བུ་རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་གང་ལ་ལ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཟབ་མོ་སྤྱོད་པ་སྤྱད་པར་འདོད་པ་དེས་འདི་ལྟར་རྣམ་པར་བལྟ་བར་བྱ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The bodhisattva great being, noble Avalokiteśvara, replied to venerable Śāradvatīputra, “Śāriputra, sons of noble family or daughters of noble family who wish to engage in the practice of the profound perfection of wisdom should see things in this way:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-034-009-TU-11">
+            <prop name="location-id">UT22084-034-009-72</prop>
+            <tuv xml:lang="bo">
+                <seg>ཕུང་པོ་ལྔ་པོ་དེ་དག་ཀྱང་རང་བཞིན་གྱིས་སྟོང་པར་རྣམ་པར་ཡང་དག་པར་རྗེས་སུ་བལྟའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>they should correctly observe the five aggregates to be empty of an intrinsic nature.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-034-009-TU-12">
+            <prop name="location-id">UT22084-034-009-75</prop>
+            <tuv xml:lang="bo">
+                <seg>།གཟུགས་སྟོང་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Form is empty. Emptiness is form.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-034-009-TU-13">
+            <prop name="location-id">UT22084-034-009-75</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྟོང་པ་ཉིད་གཟུགས་སོ། །གཟུགས་ལས་སྟོང་པ་ཉིད་གཞན་མ་ཡིན། སྟོང་པ་ཉིད་ལས་ཀྱང་གཟུགས་གཞན་མ་ཡིན་ནོ། །དེ་བཞིན་དུ་ཚོར་བ་དང་། འདུ་ཤེས་དང་། འདུ་བྱེད་དང་། རྣམ་པར་ཤེས་པ་རྣམས་སྟོང་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Emptiness is not other than form, and form is also not other than emptiness. In the same way, feeling, perception, formation, and consciousness are empty.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-034-009-TU-14">
+            <prop name="location-id">UT22084-034-009-79</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཤཱ་རིའི་བུ་དེ་ལྟ་བས་ན་ཆོས་ཐམས་ཅད་སྟོང་པ་ཉིད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Śāriputra, therefore, all phenomena are emptiness;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-034-009-TU-15">
+            <prop name="location-id">UT22084-034-009-79</prop>
+            <tuv xml:lang="bo">
+                <seg>མཚན་ཉིད་མེད་པ། མ་སྐྱེས་པ། མ་འགགས་པ། དྲི་མ་མེད་པ། དྲི་མ་དང་བྲལ་བ་མེད་པ། བྲི་བ་མེད་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>they are without characteristics, unborn, unceasing, without stains, without absence of stains, not deficient, and not complete.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-034-009-TU-16">
+            <prop name="location-id">UT22084-034-009-81</prop>
+            <tuv xml:lang="bo">
+                <seg>གང་བ་མེད་པའོ། །ཤཱ་རིའི་བུ་དེ་ལྟ་བས་ན་སྟོང་པ་ཉིད་ལ་གཟུགས་མེད། ཚོར་བ་མེད། འདུ་ཤེས་མེད། འདུ་བྱེད་རྣམས་མེད། རྣམ་པར་ཤེས་པ་མེད། མིག་མེད། རྣ་བ་མེད། སྣ་མེད། ལྕེ་མེད། ལུས་མེད། ཡིད་མེད། གཟུགས་མེད། སྒྲ་མེད། དྲི་མེད། རོ་མེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Śāriputra, therefore, in emptiness there is  no form, no feeling, no perception, no formations, no consciousness, no eye, no ear, no nose, no tongue, no body, no mind, no form, no sound, no smell, no taste, no texture, and no mental object.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-034-009-TU-17">
+            <prop name="location-id">UT22084-034-009-82</prop>
+            <tuv xml:lang="bo">
+                <seg>རེག་བྱ་མེད། ཆོས་མེད་དོ། །མིག་གི་ཁམས་མེད་པ་ནས་ཡིད་ཀྱི་ཁམས་མེད་ཡིད་ཀྱི་རྣམ་པར་ཤེས་པའི་ཁམས་ཀྱི་བར་དུ་ཡང་མེད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“There is no element of the eye,  up to no element of the mind, and further up to no element of the mind consciousness.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-034-009-TU-18">
+            <prop name="location-id">UT22084-034-009-84</prop>
+            <tuv xml:lang="bo">
+                <seg>།མ་རིག་པ་མེད། མ་རིག་པ་ཟད་པ་མེད་པ་ནས་རྒ་ཤི་མེད། རྒ་ཤི་ཟད་པའི་བར་དུ་ཡང་མེད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“There is no ignorance and no exhaustion of ignorance, up to no aging and death and no exhaustion of aging and death.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-034-009-TU-19">
+            <prop name="location-id">UT22084-034-009-85</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྡུག་བསྔལ་བ་དང་། ཀུན་འབྱུང་བ་དང་། འགོག་པ་དང་། ལམ་མེད། ཡེ་ཤེས་མེད། ཐོབ་པ་མེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“There is no suffering, no origin of suffering, no cessation of suffering, no path, no wisdom, no attainment, and no nonattainment.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-034-009-TU-20">
+            <prop name="location-id">UT22084-034-009-88</prop>
+            <tuv xml:lang="bo">
+                <seg>མ་ཐོབ་པ་ཡང་མེད་དོ། །ཤཱ་རིའི་བུ་དེ་ལྟ་བས་ན་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཐོབ་པ་མེད་པའི་ཕྱིར། ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་བརྟེན་ཅིང་གནས་ཏེ། སེམས་ལ་སྒྲིབ་པ་མེད་པས་སྐྲག་པ་མེད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Śāriputra, therefore, since bodhisattvas have no attainment, they rely upon and dwell in the perfection of wisdom. Because their minds have no veils, they have no fear.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-034-009-TU-21">
+            <prop name="location-id">UT22084-034-009-88</prop>
+            <tuv xml:lang="bo">
+                <seg>ཕྱིན་ཅི་ལོག་ལས་ཤིན་ཏུ་འདས་ནས་མྱ་ངན་ལས་འདས་པའི་མཐར་ཕྱིན་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Having utterly gone beyond error, they reach the culmination of nirvāṇa.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-034-009-TU-22">
+            <prop name="location-id">UT22084-034-009-91</prop>
+            <tuv xml:lang="bo">
+                <seg>།དུས་གསུམ་དུ་རྣམ་པར་བཞུགས་པའི་སངས་རྒྱས་ཐམས་ཅད་ཀྱང་། ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་བརྟེན་ནས། བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“All the buddhas who reside in the three times have likewise fully awakened to unsurpassed and perfect awakening by relying upon the perfection of wisdom.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-034-009-TU-23">
+            <prop name="location-id">UT22084-034-009-92</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ལྟ་བས་ན་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྔགས། རིག་པ་ཆེན་པོའི་སྔགས། བླ་ན་མེད་པའི་སྔགས། མི་མཉམ་པ་དང་མཉམ་པའི་སྔགས། སྡུག་བསྔལ་ཐམས་ཅད་རབ་ཏུ་ཞི་བར་བྱེད་པའི་སྔགས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Therefore, the mantra of the perfection of wisdom is the mantra of great knowledge, the unsurpassed mantra, the mantra that is equal to the unequaled, and the mantra that utterly pacifies all suffering.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-034-009-TU-24">
+            <prop name="location-id">UT22084-034-009-92</prop>
+            <tuv xml:lang="bo">
+                <seg>མི་རྫུན་པས་ན་བདེན་པར་ཤེས་པར་བྱ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Since it is not false, it should be known to be true.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-034-009-TU-25">
+            <prop name="location-id">UT22084-034-009-95</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྔགས་སྨྲས་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“The mantra of the perfection of wisdom is stated thus:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-034-009-TU-26">
+            <prop name="location-id">UT22084-034-009-95</prop>
+            <tuv xml:lang="bo">
+                <seg>ཏདྱ་ཐཱ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>tadyathā gate gate pāragate pārasaṃgate bodhi svāhā</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-034-009-TU-27">
+            <prop name="location-id">UT22084-034-009-100</prop>
+            <tuv xml:lang="bo">
+                <seg>ག་ཏེ་ག་ཏེ་པཱ་ར་ག་ཏེ། པཱ་ར་སཾ་ག་ཏེ། བོ་དྷི་སྭཱ་ཧཱ། ཤཱ་རིའི་བུ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོས་དེ་ལྟར་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཟབ་མོ་ལ་བསླབ་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Śāriputra, this is the way a bodhisattva great being should train in the profound perfection of wisdom.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-034-009-TU-28">
+            <prop name="location-id">UT22084-034-009-101</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ཏིང་ངེ་འཛིན་དེ་ལས་བཞེངས་ཏེ། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ལ་ལེགས་སོ་ཞེས་བྱ་བ་བྱིན་ནས། ལེགས་སོ་ལེགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then the Blessed One arose from that absorption and gave his approval to the bodhisattva great being, noble Avalokiteśvara, saying, “Excellent! Excellent!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-034-009-TU-29">
+            <prop name="location-id">UT22084-034-009-101</prop>
+            <tuv xml:lang="bo">
+                <seg>།རིགས་ཀྱི་བུ་དེ་དེ་བཞིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Son of noble family, it is like that.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-034-009-TU-30">
+            <prop name="location-id">UT22084-034-009-101</prop>
+            <tuv xml:lang="bo">
+                <seg>།རིགས་ཀྱི་བུ་དེ་དེ་བཞིན་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Son of noble family, it is like that.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-034-009-TU-31">
+            <prop name="location-id">UT22084-034-009-101</prop>
+            <tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་ཁྱོད་ཀྱིས་བསྟན་པ་དེ་བཞིན་དུ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཟབ་མོ་ལ་སྤྱད་པར་བྱ་སྟེ། དེ་བཞིན་གཤེགས་པ་རྣམས་ཀྱང་རྗེས་སུ་ཡི་རང་ངོ་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The profound perfection of wisdom should be practiced just as you have taught, and even the thus-gone ones will rejoice.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-034-009-TU-32">
+            <prop name="location-id">UT22084-034-009-103</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། ཚེ་དང་ལྡན་པ་ཤ་ར་དྭ་ཏིའི་བུ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་དང་། ཐམས་ཅད་དང་ལྡན་པའི་འཁོར་དེ་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>When the Blessed One had said this, venerable Śāradvatīputra, the bodhisattva great being, noble Avalokiteśvara,  and the entire assembly, as well as the world with its devas, humans, asuras, and gandharvas, rejoiced and praised what the Blessed One had said.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-034-009-TU-33">
+            <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་མ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྙིང་པོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>This completes The Great Vehicle Sūtra “The Heart of the Perfection of Wisdom, the Blessed Mother.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-034-009-TU-34">
+            <prop name="location-id">UT22084-034-009-106</prop>
+            <tuv xml:lang="bo">
+                <seg>།།རྒྱ་གར་གྱི་མཁན་པོ་བི་མ་ལ་མི་ཏྲ་དང་། ལོཙྪ་བ་དགེ་སློང་རིན་ཆེན་སྡེས་བསྒྱུར་ཅིང་། ཞུ་ཆེན་གྱི་ལོ་ཙྪ་བ་དགེ་བློ་དང་ནམ་མཁའ་ལ་སོགས་པས་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>This was translated by the Indian preceptor Vimalamitra and the translator monk Rinchen Dé, and then edited and finalized by the editor-translators Gelo, Namkha, and others.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-034-009-TU-35">
+            <tuv xml:lang="bo">
+                <seg>།།དཔལ་བསམ་ཡས་ལྷུན་གྱིས་གྲུབ་པའི་གཙུག་ལག་གི་དགེ་རྒྱས་བྱེ་མ་གླིང་གི་རྩིག་ངོས་ལ་བྲིས་པ་དང་ཞུ་དག་ལེགས་པར་བགྱིས་སོ།།</seg>
+            </tuv>
+          <tuv xml:lang="en">
+                <seg> It was then carefully proofed against the writing on the wall of the Gegye Jema Ling Temple at glorious Samye‍—the spontaneously accomplished temple.</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

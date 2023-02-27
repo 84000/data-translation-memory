@@ -220,7 +220,7 @@
 </tu>
 <tu>
             <prop name="folio">F.268.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཆོས་རྣམས་གྲངས་དང་བགྲང་བ་མ་མཆིས་ཤིང་། །ཞིང་དང་མཉམ་པར་དེ་དག་ཇི་ལྟར་འགྱུར། །</seg>
             </tuv>
@@ -13151,7 +13151,7 @@
 </tu>
 <tu>
             <prop name="folio">F.294.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེ་སུག་ལས་ཀྱི་སྒྲིབ་པ་དེས་བསྐལ་པ་བྱེ་བ་ཁྲག་ཁྲིག་བརྒྱ་ཕྲག་སྟོང་དུ་སེམས་ཅན་དམྱལ་བ་ཆེན་པོ་དག་ཏུ་སྡུག་བསྔལ་ཚ་ཞིང་རྩུབ་ལ་ཡིད་དུ་མི་འོང་བའི་ཚོར་བ་མི་བཟད་པ་མྱོང་བར་གྱུར་ཏོ། །</seg>
             </tuv>

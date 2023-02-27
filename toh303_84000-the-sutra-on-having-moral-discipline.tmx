@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+    <header creationtool="linguae-dharmae/84000" creationtoolversion="2.16.12a" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" eft:text-id="UT22084-072-003" eft:text-version="v-1.0.3-2021" eft:source-ref="/db/apps/84000-data/uploads/linguae-dharmae/aligned/31-10-2022/complete/toh303-bo_aligned.txt"/>
+    <body>
+        <!--<tu id="UT22084-072-003-TU-2">
+            <tuv xml:lang="bo"><seg> ༄༅། རྒྱ་གར་སྐད་དུ། ཤཱི་ལ་སཾ་ཡུཀ་ཏ་སཱུ་ཏྲ། བོད་སྐད་དུ།</seg></tuv>
+            <tuv xml:lang="en"><seg>The Sūtra on Having Moral Discipline</seg></tuv>
+        </tu>-->
+        <tu id="UT22084-072-003-TU-3">
+            <prop name="location-id">translation</prop>
+            <prop name="revision">v-1.0.3-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ཚུལ་ཁྲིམས་ཡང་དག་པར་ལྡན་པའི་མདོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Sūtra on Having Moral Discipline</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-4">
+            <prop name="location-id">UT22084-072-003-17</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ཐམས་ཅད་མཁྱེན་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Homage to the Omniscient One!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-5">
+            <prop name="location-id">UT22084-072-003-18</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-6">
+            <prop name="location-id">UT22084-072-003-18</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མཉན་དུ་ཡོད་པ་ན་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན། དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་བརྒྱ་ཕྲག་ཕྱེད་དང་བཅུ་གསུམ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One was dwelling in Anāthapiṇḍada’s park, Prince Jeta’s Grove in Śrāvastī, together with a great saṅgha of 1,250 monks.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-7">
+            <prop name="location-id">UT22084-072-003-19</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དེའི་ཚེ་བཅོམ་ལྡན་འདས་ཀྱིས་དགེ་སློང་རྣམས་ལ་བཀའ་སྩལ་པ། དགེ་སློང་དག་ཤེས་པ་ནི་འགྲིབ། སྲོག་ནི་ཆད། ཚེའི་འདུ་བྱེད་ནི་ངེས་པར་འཇོམས་པར་འགྱུར་ན། ཅིའི་ཕྱིར་བརྩོན་འགྲུས་དང་། བརྟུལ་བ་བརྟན་པོས་སྒྲུབ་པར་མི་བྱེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>At that time, the Blessed One said to the monks, “Monks, since your consciousness will fade, your life force will cease, and the formations of life are certain to be destroyed, should you not practice with diligence and steadfast determination?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-8">
+            <prop name="location-id">UT22084-072-003-21</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>མིའི་ལུས་ནི་ཤིན་ཏུ་རྙེད་པར་དཀའ་ན་དེ་ཐོབ་ནས་དེས་རྙེད་པའི་རྒྱལ་བའི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་བ་ཡང་རྙེད་ན་ཐར་པའི་དོན་དང་མི་འཐུན་པ་དག་གིས་བསླུས་ཏེ་སྡུག་བསྔལ་བར་གྱུར་ཏ་རེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“This human life is extremely difficult to find. Thus, having obtained it, and having used it to find the Victor’s teachings and to go forth in them, if you are deceived by those who are opposed to the meaning of liberation, it is sure that you will suffer.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-9">
+            <prop name="location-id">UT22084-072-003-22</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་སྲོག་དང་བྲལ་ཞིང་ཤི་བ་ནི་སླའི། །ཚུལ་ཁྲིམས་ཉམས་པ་ནི་དེ་ལྟ་མ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Monks, it is easy to be separated from the life force and succumb to death, but the degeneration of moral discipline is not the same.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-10">
+            <prop name="location-id">UT22084-072-003-22</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ཅིའི་ཕྱིར་ཞེ་ན། སྲོག་དང་བྲལ་བ་ནི་ཚེ་འདི་ཉིད་ཀྱི་སྐྱེ་བ་ཟད་པར་འགྱུར་གྱི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Why is that? When you are separated from the life force, that particular lifetime comes to an end.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-11">
+            <prop name="location-id">UT22084-072-003-22</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ཚུལ་ཁྲིམས་ཉམས་ཤིང་ཞིག་པ་ནི་སྐྱེ་བ་འབུམ་ཕྲག་བརྒྱའི་བར་དུ་རིགས་དང་བྲལ་ཞིང་བདེ་བ་སྤངས་ཏེ། རྣམ་པར་ལྟུང་བ་ཉམས་སུ་མྱོང་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>But with the degeneration and destruction of moral discipline, for ten million lives you will be separated from your kin, abandon well-being, and experience downfalls.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-12">
+            <prop name="location-id">UT22084-072-003-25</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ཕྱིར་སྟོན་པས་ཚུལ་ཁྲིམས་རབ་བསྔགས་བཤད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Therefore, the Teacher has praised moral discipline.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-13">
+            <prop name="location-id">UT22084-072-003-25</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཚུལ་ཁྲིམས་ལྡན་པས་སངས་རྒྱས་འབྱུང་དང་ཕྲད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>By having moral discipline one will encounter the presence of buddhas. “Having moral discipline is the best of all ornaments.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-14">
+            <prop name="location-id">UT22084-072-003-25</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཚུལ་ཁྲིམས་ལྡན་པ་རྒྱན་རྣམས་ཀུན་གྱི་མཆོག །ཚུལ་ཁྲིམས་འབྱོར་བ་དྲི་དང་བྱུག་པ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>To acquire moral discipline is to be anointed with fragrance.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-15">
+            <prop name="location-id">UT22084-072-003-25</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཚུལ་ཁྲིམས་ལྡན་པ་དགའ་བ་ཀུན་གྱི་གནས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Having moral discipline is the source of all joy.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-16">
+            <prop name="location-id">UT22084-072-003-25</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཚུལ་ཁྲིམས་ལྡན་པ་གདུང་བ་སེལ་བའི་ཆུ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Having moral discipline is the water that clears away distress.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-17">
+            <prop name="location-id">UT22084-072-003-29</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཚུལ་ཁྲིམས་ལྡན་པ་འཇིག་རྟེན་ཀུན་གྱིས་བསྟོད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Having moral discipline is praised by the whole world.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-18">
+            <prop name="location-id">UT22084-072-003-29</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཚུལ་ཁྲིམས་དག་གིས་འགྲོ་བ་དམ་པ་མནོས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Through pure moral discipline one will find the highest states of existence.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-19">
+            <prop name="location-id">UT22084-072-003-29</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཇི་ལྟར་སྦྲུལ་གདུག་ཀླུ་ཆེན་ནག་པོ་ཡང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Even beings like huge black poisonous nāga serpents, not to mention other kinds,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-20">
+            <prop name="location-id">UT22084-072-003-29</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཚུལ་ཁྲིམས་ཅན་ལ་གནོད་མེད་གཞན་ཅི་སྨོས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Will do no harm to one with moral discipline.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-21">
+            <prop name="location-id">UT22084-072-003-32</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཚུལ་ཁྲིམས་ལྡན་པའི་དགེ་སློང་འོད་དང་ལྡན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“The monk with moral discipline is radiant.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-22">
+            <prop name="location-id">UT22084-072-003-32</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཚུལ་ཁྲིམས་ལྡན་པ་གྲགས་འགྱུར་བདེ་བ་ཐོབ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Those with moral discipline become renowned and obtain happiness.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-23">
+            <prop name="location-id">UT22084-072-003-32</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཚུལ་ཁྲིམས་ལྡན་པ་མཐོ་རིས་འགྲོ་བའི་རྒྱུ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Having moral discipline is the cause for going to higher realms.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-24">
+            <prop name="location-id">UT22084-072-003-32</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཚུལ་ཁྲིམས་བསྲུངས་པས་མྱ་ངན་འདའ་ཐོབ་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Those who maintain moral discipline attain nirvāṇa.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-25">
+            <prop name="location-id">UT22084-072-003-36</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཇི་ལྟར་མིག་མེད་གཟུགས་མཐོང་མི་རུང་ལྟར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Just as without eyes one cannot see forms,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-26">
+            <prop name="location-id">UT22084-072-003-36</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་བཞིན་ཚུལ་ཁྲིམས་མེད་ན་ཆོས་མི་མཐོང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Without moral discipline one cannot see the Dharma.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-27">
+            <prop name="location-id">UT22084-072-003-36</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཇི་ལྟར་རྐང་མེད་ལམ་འཇུག་ག་ལ་ནུས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Just as without legs there is no way to embark on a path,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-28">
+            <prop name="location-id">UT22084-072-003-36</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་བཞིན་ཚུལ་ཁྲིམས་མེད་ན་ཐར་མི་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Without moral discipline there is no liberation.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-29">
+            <prop name="location-id">UT22084-072-003-38</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཇི་ལྟར་བུམ་པ་བཟང་པོ་རིན་ཆེན་སྣོད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“In the same way, just as a good vase is a vessel for riches,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-30">
+            <prop name="location-id">UT22084-072-003-38</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་བཞིན་ཚུལ་ཁྲིམས་ཆོས་རྣམས་སྐྱེད་པའི་གཞི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Moral discipline is the foundation for generating good qualities.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-31">
+            <prop name="location-id">UT22084-072-003-38</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཇི་ལྟར་བུམ་ཆག་རིན་ཆེན་སྣོད་མི་རུང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Just as a broken vase is not a suitable vessel for riches,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-32">
+            <prop name="location-id">UT22084-072-003-38</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་བཞིན་ཚུལ་ཁྲིམས་རལ་བས་ཆོས་ཀུན་གཏུགས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>If moral discipline is shattered, all good qualities are lost.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-33">
+            <prop name="location-id">UT22084-072-003-43</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དང་པོ་ཚུལ་ཁྲིམས་མེད་པར་གྱུར་པ་དེས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Do you think those who have lost moral discipline from the start</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-34">
+            <prop name="location-id">UT22084-072-003-43</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཕྱི་ནས་མྱ་ངན་འདས་པ་ཐོབ་སྙམ་འམ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Will obtain nirvāṇa later?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-35">
+            <prop name="location-id">UT22084-072-003-43</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྣ་དང་རྣ་རྡུམ་ལ་སོགས་གང་ཡིན་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>For those whose nose and ear are cut off, and so forth,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-36">
+            <prop name="location-id">UT22084-072-003-43</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ལ་མེ་ལོང་དག་ནི་དགོས་མི་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>There is no need for mirrors.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-37">
+            <prop name="location-id">UT22084-072-003-45</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྣ་བས་མ་ཐོས་མིག་སྔར་མ་མཐོང་བཞིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Neither hearing with the ears nor seeing with the eyes,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-38">
+            <prop name="location-id">UT22084-072-003-45</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བསྟན་སྲུང་མི་དེ་མཐོ་རིས་འགྲོ་བར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The person who guards the teachings will travel to the higher realms.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-39">
+            <prop name="location-id">UT22084-072-003-45</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཐོས་མང་ཐོས་ལྡན་ཐོས་སྲུང་མཐོ་རིས་ཉིད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Those who are well learned and have protected their learning also reach the higher realms.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-40">
+            <prop name="location-id">UT22084-072-003-48</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བུད་མེད་བསྟེན་དུ་ག་ལ་རུང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“How can it be appropriate to resort to women?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-41">
+            <prop name="location-id">UT22084-072-003-48</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྒྱལ་པོའི་ཕོ་བྲང་ག་ལ་དགའ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>How can one delight in the palace of a king?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-42">
+            <prop name="location-id">UT22084-072-003-48</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དབུ་བ་སྙིང་པོ་ག་ལ་ཡོད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>How can a bubble have an essence?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-43">
+            <prop name="location-id">UT22084-072-003-48</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ལོངས་སྤྱོད་རྟག་པ་ག་ལ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>How can enjoyments endure eternally?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-44">
+            <prop name="location-id">UT22084-072-003-49</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བུད་མེད་དག་ལ་རུང་བ་མེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“It is not appropriate to resort to women.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-45">
+            <prop name="location-id">UT22084-072-003-49</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྒྱལ་སྲིད་དག་ལ་དགའ་བ་མེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Kingdoms are joyless.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-46">
+            <prop name="location-id">UT22084-072-003-49</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དབུ་བ་དག་ལ་སྙིང་པོ་མེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Bubbles are without an essence.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-47">
+            <prop name="location-id">UT22084-072-003-49</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ལོངས་སྤྱོད་དག་ལ་རྟག་པ་མེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Enjoyments are impermanent.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-48">
+            <prop name="location-id">UT22084-072-003-50</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ལོངས་སྤྱོད་དག་ནི་འབབ་ཆུ་བཞིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Enjoyments are like swift-running water.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-49">
+            <prop name="location-id">UT22084-072-003-50</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།གྲུ་དེ་ཅི་འདྲ་ཁྱིམ་དེ་འདྲ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Like a boat, such is a household.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-50">
+            <prop name="location-id">UT22084-072-003-50</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།མེ་ཏོག་ཅི་འདྲ་གཟུགས་དེ་བཞིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Like a flower, such is a body.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-51">
+            <prop name="location-id">UT22084-072-003-50</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྲོག་ནི་ཆུ་བུར་འདྲ་བ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Life is like froth on water.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-52">
+            <prop name="location-id">UT22084-072-003-52</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། །དགེ་སློང་དེ་དག་ཡི་རངས་ཏེ། །བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>When the Blessed One had spoken, the monks rejoiced and praised the words of the Blessed One.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-072-003-TU-53">
+            <prop name="location-id">UT22084-072-003-53</prop>
+            <prop name="revision">v-1.0.5-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།།ཚུལ་ཁྲིམས་ཡང་དག་པར་ལྡན་པའི་མདོ་རྫོགས་སོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>This concludes “The Sūtra on Having Moral Discipline.”</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

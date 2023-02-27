@@ -931,7 +931,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.12.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!བཀྲི་བའི་དོན་གྱི་མདོ་སྡེ་ལ་ཤིན་ཏུ་མཁས་པ་དང་། ངེས་པའི་དོན་གྱི་མདོ་སྡེའི་ཚིག་གི་རྗེས་སུ་མི་འབྲང་བ་དང་། ཆོས་ཐམས་ཅད་ཀྱི་མཚན་ཉིད་ཀྱི་རྒྱུ་ལ་ཤིན་ཏུ་མཁས་པ་དང་། ཆོས་ཐམས་ཅད་ཀྱི་མཚན་མ་མེད་པའི་ཡེ་ཤེས་ལ་བདེ་བར་གནས་པ་སྟེ། </seg>
             </tuv>
@@ -1118,7 +1118,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.13.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!སྤྱོད་ལམ་གྱི་གནས་རྣམ་པར་དག་པའི་ཡེ་ཤེས་ཀྱི་སྟོབས་དང་། དྲན་པ་དང་ལྡན་པའི་རྣམ་པར་དག་པའི་ཡེ་ཤེས་ཀྱི་སྟོབས་དང་། སྦྱོར་བའི་རྣམ་པར་དག་པའི་ཡེ་ཤེས་ཀྱི་སྟོབས་དང་། སེམས་ལ་དམིགས་པའི་རྣམ་པར་དག་པའི་ཡེ་ཤེས་ཀྱི་སྟོབས་དང་། མཚན་ཉིད་ལ་དམིགས་པའི་རྣམ་པར་དག་པའི་ཡེ་ཤེས་ཀྱི་སྟོབས་དང་ལྔའོ། །</seg>
             </tuv>
@@ -2461,7 +2461,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.18.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རིགས་ཀྱི་བུ་དག་ངའི་སྐུ་ནི་ཆོས་ཀྱང་ཡིན། ཆོས་མ་ཡིན་པའང་ཡིན་ཏེ། </seg>
             </tuv>
@@ -2699,7 +2699,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.18.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!གང་ལོག་པར་མཐོང་བ་དེ་ནི་ཡང་དག་པ་མ་ཡིན་པ་མཐོང་བ་སྟེ་གང་ཟག་དེ་ནི་ཡང་དག་པ་ཉིད་མཐོང་བ་ཞེས་བྱའོ། །</seg>
             </tuv>
@@ -3854,7 +3854,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.21.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རི་དང་། ཆུ་དང་། ནགས་ཚལ་ལ་སོགས་པར་མཐོང་སྟེ། དེ་ལྟར་རྨི་ལམ་གྱིས་གཟུགས་ཀྱི་མཚན་མ་དེ་ལ་ངེས་པར་ཆད་པ་མེད་དེ་རྣམ་པར་བརྟགས་པའི་འདུ་ཤེས་ལས་གཟུགས་ཀྱི་ཕུང་པོའི་མཚན་མར་སྐྱེད་པ་ཡང་དེ་བཞིན་ཏེ། སྔོན་གྱི་ལས་ཀྱི་རྒྱུ་དང་རྐྱེན་ལས་སྐྱེས་ཏེ་ངེས་པའི་རང་བཞིན་ཅན་མ་ཡིན་ནོ། །</seg>
             </tuv>
@@ -4010,7 +4010,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.22.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེ་ལྟར་བྱང་ཆུབ་སེམས་དཔའ་དེའི་ཚེ་གཟུགས་མི་འགག་གཟུགས་འགགས་པའི་ཆོས་ཚོལ་ལོ། །</seg>
             </tuv>
@@ -4902,7 +4902,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.25.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!འདུ་ཤེས་ཀྱི་ཕུང་པོ་དགག་པར་རྣམ་པར་མི་རྟོག་པ་ནི་འདུ་ཤེས་ཀྱི་ཚོར་བ་ཐམས་ཅད་དགག་པའི་ཕྱིར་ཡང་དག་པ་ཇི་ལྟ་བ་བཞིན་ཤེས་ཤིང་མཐོང་བ་ལ་གནས་པའི་ཕྱིར་རོ། །</seg>
             </tuv>
@@ -4922,7 +4922,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.25.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!འདུ་ཤེས་ཀྱི་ལམ་ལ་མི་གནས་པ་འདུ་ཤེས་ཀྱི་ཕུང་པོ་ཡང་དག་པ་ཇི་ལྟ་བ་བཞིན་དུ་ཤེས་ཤིང་མཐོང་བ་ལ་གནས་པ་དང་། འདུ་ཤེས་ཀྱི་ཕུང་པོ་ལ་མི་ཆགས་པར་ཡང་དག་པ་ཇི་ལྟ་བ་བཞིན་དུ་འདུ་ཤེས་ཀྱི་ཕུང་པོ་ཐམས་ཅད་རྣམ་པར་འབྱེད་ཅིང་རྟོག་པ་དང་། ཡང་དག་པ་ཇི་ལྟ་བ་བཞིན་དུ་འདུ་ཤེས་ཀྱི་ཕུང་པོའི་ཀུན་འབྱུང་དང་། འགོག་པ་དང་། ཟད་པ་ཤེས་སོ། །</seg>
             </tuv>
@@ -6140,7 +6140,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.29.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རྣམ་པར་རྟོག་པའི་ཡང་དག་པ་མ་ཡིན་པའི་དངོས་པོའི་ཕྱིར། མཚན་ཉིད་གཅིག་པའི་ཕྱིར། ངེས་པའི་མཚན་ཉིད་གཅིག་པའི་ཕྱིར་སེམས་དེ་དང་། ཡིད་དེ་དང་། རྣམ་པར་ཤེས་པ་དེ་ཐོབ་ཅིང་ཆགས་པ་རྣམ་པར་འབྱེད་པ་ལ་མཁས་པ་ཐོབ་པར་འགྱུར་རོ། །</seg>
             </tuv>
@@ -6333,7 +6333,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.29.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཐོག་མ་ནས་སྐྱེས་པའི་མཚན་ཉིད་དུ་ཤེས་སོ། །</seg>
             </tuv>
@@ -6705,7 +6705,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.30.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!གང་ཟག་དེ་ཡང་དག་པ་ཇི་ལྟ་བ་བཞིན་དུ་རྣམ་པར་ཤེས་པའི་ཕུང་པོའི་ཀུན་འབྱུང་དང་འགོག་པའི་མཚན་ཉིད་རྟོགས་ནས་རྣམ་པར་ཤེས་པའི་ཕུང་པོ་འཇོག་པ་ལ་མཁས་པ་དང་། མཚན་མ་ཐམས་ཅད་ཡོངས་སུ་གཅོད་པ་ལ་མཁས་པར་གྱུར་ཏོ། །</seg>
             </tuv>
@@ -7150,7 +7150,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.32.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!འཇིག་རྟེན་འཛིན་གཟུགས་མེད་པའི་ཁམས་ཀྱི་ཉེ་བར་ལེན་པའི་ཕུང་པོ་སྐྱེ་ཞིང་འགོག་པའི་མཚན་ཉིད་ཤིན་ཏུ་ཕྲ་བ་ཡང་གཞུང་དེ་བཞིན་ཤེས་པར་བྱའོ། །</seg>
             </tuv>
@@ -7414,7 +7414,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.33.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!སངས་རྒྱས་བཅོམ་ལྡན་འདས་འཇིག་རྟེན་དུ་གཤེགས་ནས་སེམས་ཅན་གཟུགས་ལ་རྟེན་ཅིང་གནས་པ་གཞིག་པ་དང་། ཚོར་བ་དང་། འདུ་ཤེས་དང་། འདུ་བྱེད་དང་། རྣམ་པར་ཤེས་པ་ལ་རྟེན་ཅིང་གནས་པ་གཞིག་པ་དང་། བསྡུ་བའི་མཚན་ཉིད་གཅིག་གཞིག་པའི་ཕྱིར་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་ལྟར་རྣམ་པར་ཕྱེ་སྟེ་བསྟན་ཏོ། །</seg>
             </tuv>
@@ -7743,7 +7743,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.33.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!སྲིད་པ་ལ་གནས་ཤིང་ཆགས། </seg>
             </tuv>
@@ -8433,7 +8433,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.35.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!འཇིག་རྟེན་འཛིན་མ་འོངས་པའི་དུས་ལྔ་བརྒྱའི་ཐ་མ་ལ་དམ་པའི་ཆོས་རྣམ་པར་འཇིག་པའི་ཚེ་ངའི་ཆོས་ལ་རབ་ཏུ་བྱུང་བ་རྣམས་མང་དུ་ཕུང་པོ་ལྔ་ལ་མཚན་མ་སྐྱེད་པ་དང་། ཕུང་པོ་ལྔའི་མཚན་མ་ལ་ངེས་པར་གཅད་པ་དང་། ཕུང་པོ་ལྔ་ལ་རབ་ཏུ་ཆགས་ཏེ</seg>
             </tuv>
@@ -8462,7 +8462,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.35.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!འཇིག་རྟེན་འཛིན་གང་ཕུང་པོ་ལྔར་ལྟ་བ་དང་། ཕུང་པོ་ལྔ་ལ་ངེས་པའི་འཆད་པ་དང་། ཕུང་པོ་ལྔ་ལ་ཆགས་པར་བྱེད་པ་དེ་ནི་གཞན་དག་གི་ཆུ་ཕོར་གང་ཙམ་ཡང་ལེན་དུ་མི་དབང་བར་ངས་བཤད་དོ། །</seg>
             </tuv>
@@ -8965,7 +8965,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.37.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!འཇིག་རྟེན་འཛིན་བཅོམ་ལྡན་འདས་བློ་གྲོས་ཆེན་པོ་རིའི་རྒྱལ་པོ་དེས་རྒྱལ་བུ་དེ་གཉིས་ཀྱི་ལྷག་པའི་བསམ་པ་དང་སྨན་པ་མཁྱེན་<tei:ref folio="F.37.b"/>ནས་ཕུང་པོ་ལྔ་དང་། སྐྱེ་མཆེད་བཅུ་གཉིས་དང་། ཁམས་བཅྭ་བརྒྱད་བཤད་པའི་བྱང་ཆུབ་སེམས་དཔའི་ཐབས་ཞེས་བྱ་བའི་མདོ་རྒྱས་པར་བཤད་དོ། །</seg>
             </tuv>
@@ -9450,7 +9450,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.38.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!གཟུགས་ཀྱི་ཁམས་ལ་གཟུགས་ཀྱི་ཁམས་སུ་མེད་དེ། </seg>
             </tuv>
@@ -9759,7 +9759,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.39.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!མ་སྐྱེས་པའི་ཕྱིར་ཡང་དག་པ་མ་ཡིན་པ་བསྟན་པའི་ཕྱིར་རོ། །གཟུགས་ཀྱི་མཚན་མར་རྣམ་པར་རྟག་པའི་ཕྱིར། རྐྱེན་རྣམས་བསྟན་པའི་ཕྱིར་མིག་གི་རྣམ་པར་ཤེས་པའི་ཁམས་ཞེས་བཤད་དོ། །</seg>
             </tuv>
@@ -9789,7 +9789,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.39.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རྣམ་པར་ཤེས་པ་ལ་ངེས་པའི་མཚན་ཉིད་མེད་དེ་མིག་གི་དབང་པོ་རྣམ་པར་དག་པས་གཟུགས་ཀྱི་མཚན་ཉིད་ཤེས་ཏེ། </seg>
             </tuv>
@@ -10079,7 +10079,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.40.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཡིད་ཀྱི་ཁམས་ལས་གུད་ན་ཡིད་དང་ཡིད་ཀྱི་ཁམས་ཞེས་བྱ་བ་མེད། ཡིད་དུ་མི་ཤེས་ཀྱང་བླ་དགས་སུ་ཡིད་ཀྱི་ཁམས་ཞེས་བཏགས་སོ། །</seg>
             </tuv>
@@ -10208,7 +10208,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.41.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཆོས་ཀྱི་ཁམས་ལ་རང་བཞིན་ཉིད་དམིགས་<tei:ref folio="F.41.a"/>སུ་མེད་དེ། </seg>
             </tuv>
@@ -10245,12 +10245,11 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.41.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="dubiousTranslation"/>
 	<tuv xml:lang="bo">
                 <seg>སོ་སོའི་སྐྱེ་བོ་དག་ཁམས་མེད་པ་ལ་དགོད་པའི་ཕྱིར་ཆོས་ཀྱི་ཁམས་བཤད་དོ། །</seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>%The mental-object element is explained in order to establish ordinary beings with an understanding of the absence of elements.</seg>
+                <seg>The mental-object element is explained in order to establish ordinary beings with an understanding of the absence of elements.</seg>
             </tuv>
 </tu>
 <tu>
@@ -10318,7 +10317,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.41.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཆོས་ཀྱི་ཁམས་ནི་ནང་ན་མི་གནས། ཕྱི་རོལ་ན་མི་གནས། གཉི་གའི་བར་ན་མི་གནས་ཀྱང་སོ་སོའི་སྐྱེ་བོ་དག་དགེ་བ་དང་མི་དགེ་བའི་ཆོས་ཤེས་ཤིང་མཐོང་ངོ་། །ཆོས་ཀྱི་ཁམས་ཀྱིས་ཆོས་ཐམས་ཅད་ཤེས་པ་དང་མཐོང་བ་མེད་པར་བཤད་པ་ནི་</seg>
             </tuv>
@@ -10773,7 +10772,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.42.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!འཕགས་པ་རྣམས་ཀྱིས་ཡིད་ཀྱི་རྣམ་པར་ཤེས་པའི་ཁམས་ལ་ཡིད་ཀྱི་རྣམ་པར་ཤེས་པའི་ཁམས་ཀྱི་ནང་ན་གནས་པར་རམ། ཡིད་ཀྱི་རྣམ་པར་ཤེས་པའི་ཁམས་ཕྱི་རོལ་ན་གནས་པར་རམ། གཉི་གའི་བར་ན་གནས་པར་མི་གནས་སོ། །</seg>
             </tuv>
@@ -11238,12 +11237,11 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.43.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="dubiousTranslation"/>
 	<tuv xml:lang="bo">
                 <seg>ཁམས་ཀྱི་མཚན་ཉིད་དེ་དག་ཀྱང་ཡང་དག་པ་མ་ཡིན་པ་ལས་བྱུང་སྟེ། </seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>%All such elements emerge from space, but</seg>
+                <seg>All such elements emerge from space, but</seg>
             </tuv>
 </tu>
 <tu>
@@ -12129,7 +12127,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.46.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!འདི་ལྟ་སྟེ། སྐྱེ་མཆེད་རྣམས་ནི་ཡང་དག་པ་མ་ཡིན་པ། ཅིའང་མེད་པ། རྒྱུ་དང་རྐྱེན་ལ་རག་ལུས་པ། ཕྱིན་ཅི་ལོག་དང་ལྡན་པའི་འདུ་བྱེད་ལས་བྱུང་བའོ། །</seg>
             </tuv>
@@ -12148,12 +12146,11 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.46.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="dubiousTranslation"/>
 	<tuv xml:lang="bo">
                 <seg>མིག་གི་སྐྱེ་མཆེད་གཟུགས་ཀྱི་སྐྱེ་མཆེད་དུ་རྣམ་པར་མི་རྟོག །གཟུགས་ཀྱི་སྐྱེ་མཆེད་ཀྱང་མིག་གི་སྐྱེ་མཆེད་དུ་མི་ཤེས་རྣམ་པར་མི་རྟོག་སྟེ། </seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>%The eye sense source cannot be known or conceived in relation to the form sense source, nor can the form sense source be known or conceived in relation to the eye sense source;</seg>
+                <seg>The eye sense source cannot be known or conceived in relation to the form sense source, nor can the form sense source be known or conceived in relation to the eye sense source;</seg>
             </tuv>
 </tu>
 <tu>
@@ -12411,7 +12408,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.46.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཆོས་ཀྱི་སྐྱེ་མཆེད་ལ་རག་ལུས་པས་གཉིས་ཕྲད་པ་ལས་བྱ་བ་མེད་པར་འགྱུར་རོ། །</seg>
             </tuv>
@@ -12557,7 +12554,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.47.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཡིད་ཀྱི་སྐྱེ་མཆེད་དང་ཆོས་ཀྱི་སྐྱེ་མཆེད་ནི་ཡང་དག་པ་མ་ཡིན་པ། ཅི་ཡང་མེད་པ་དེ་ཁོ་ན་ཉིད་ཇི་བཞིན་དུ་དེ་བཞིན་གཤེགས་པས་ཐུགས་སུ་ཆུད་པས་སྐྱེ་མཆེད་ཅེས་གསུངས་སོ། །</seg>
             </tuv>
@@ -12595,12 +12592,12 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.47.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="dubiousTranslation"/>
 	<tuv xml:lang="bo">
                 <seg>གཞན་ཡང་ཡིད་ཀྱི་སྐྱེ་མཆེད་ནི་འདས་པ་ཡང་མ་ཡིན། མ་འོངས་པ་ཡང་མ་ཡིན། </seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>%<tei:milestone xml:id="UT22084-060-003-183"/>“Moreover, the mind sense source is not past, future, or present.</seg>
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-003-183"/>“Moreover, the mind sense source is not past, future, or present.</seg>
             </tuv>
 </tu>
 <tu>
@@ -13823,7 +13820,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.50.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!མིང་དང་གཟུགས་ཀྱི་རྐྱེན་གྱིས་དྲུག་གི་སྐྱེ་མཆེད་ཅེས་བྱ་བ་ནི། དྲུག་གི་སྐྱེ་མཆེད་ཀྱི་རྐྱེན་གྱིས་གཟུགས་སྐྱེ་ཞེས་བྱ་བར་མ་རུང་སྟེ། </seg>
             </tuv>
@@ -14027,7 +14024,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.51.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!སྲེད་པ་ལས་གུད་ན་ཡང་ཚོར་བ་ཡོད་པ་མ་ཡིན་ནོ། །</seg>
             </tuv>
@@ -14292,7 +14289,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.51.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ལེན་པས་སྲིད་པ་སྐྱེད་ནུས་པའི་ཕྱིར་ལེན་པའི་རྐྱེན་གྱིས་སྲིད་པ་ཞེས་བྱ་བ་མ་ཡིན་གྱི་</seg>
             </tuv>
@@ -14593,7 +14590,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.52.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!རྒ་ཤི་དང་། སློས་པའི་མྱ་ངན་དང་། སྨྲེ་སྔགས་འདོན་པ་དང་། སྡུག་བསྔལ་བ་སྐྱེ་བ་གནས་ཏེ་</seg>
             </tuv>
@@ -14748,7 +14745,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.53.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེ་ལྟར་རྟེན་ཅིང་འབྲེལ་ཏེ་བྱུང་བ་བཅུ་གཉིས་ཁོང་དུ་ཆུད་ཅིང་རྟོགས་པས་རྟེན་ཅིང་འབྲེལ་ཏེ་བྱུང་བ་བཅུ་གཉིས་ལ་བྱས་པའམ་བྱེད་པ་ཡོད་པར་མི་མཐོང་ངོ་། །</seg>
             </tuv>
@@ -14795,7 +14792,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.53.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!མ་རིག་པའི་དོན་གྱི་རྗེས་སུ་རྟེན་ཅིང་འབྲེལ་ཏེ་བྱུང་བ་བཅུ་གཉིས་རྟོགས་པས་ཆོས་བྱ་བ་མེད་ན་ཆོས་སུ་གདགས་པ་ཡང་མེད་དེ། </seg>
             </tuv>
@@ -15463,7 +15460,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.55.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེ་ལྟར་ཡང་དག་པ་ཇི་ལྟ་བ་བཞིན་དུ་ལུས་ལ་ལུས་ཀྱི་རྗེས་སུ་རྟོགས་ནས་ཡང་འདི་སྙམ་དུ་ལུས་འདི་ནི་བདག་མ་ཡིན། གཞན་མ་ཡིན། དབང་མེད་པ། འདིར་རང་ཉམས་བྱར་མེད་པ། བྱས་པའོ་སྙམ་དུ་སེམས་སོ། །</seg>
             </tuv>
@@ -15856,7 +15853,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.56.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!བྱང་ཆུབ་སེམས་དཔའ་འདས་པའི་ཚོར་བ་རྣམས་ལ་སྟོང་པ་ཉིད་དང་། བདག་མེད་པ། བདག་གི་བ་མེད། མི་རྟག་པ། མི་བརྟན་པ། སྙིང་པོ་མེད་པ། མི་འགྱུར་བ། མཚན་ཉིད་མེད་པར་བལྟའོ། །</seg>
             </tuv>
@@ -15876,7 +15873,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.56.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!མ་འོངས་པའི་ཚོར་བ་རྣམས་ལ་ཡང་སྟོང་པ་ཉིད་དང་། བདག་མེད་པ། བདག་གི་བ་མེད་པ། མི་རྟག་པ། མི་བརྟན་པ། སྙིང་པོ་མེད་པ། མི་འགྱུར་བ། མེད་པར་བལྟའོ། །</seg>
             </tuv>
@@ -15943,7 +15940,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.56.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེ་ལྟར་ཡོངས་སུ་རྟོག་པའི་ཚེ་ཚོར་བ་མང་པོའི་རྒྱུ་ལས་སེམས་གཅིག་ཏུ་གནས་ཏེ། </seg>
             </tuv>
@@ -15973,7 +15970,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.56.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!གཞན་ཡང་ཚོར་བའི་ནང་ན་ཚོར་བ་མི་མཐོང་སྟེ་འདི་སྙམ་དུ་ཚོར་བ་རྣམས་སྟོང་པ་ཉིད་དོ་སྙམ་དུ་སེམས་སོ། །</seg>
             </tuv>
@@ -16183,7 +16180,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.57.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!སྐད་ཅིག་སྐད་ཅིག་གིས་སྐྱེ་ཞིང་འགོག་པ་གཅིག་གིས་བསགས་པ་རྒྱུན་མི་འཆད་པས་སེམས་ཞེས་བྱ་སྟེ། </seg>
             </tuv>
@@ -16221,7 +16218,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.57.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!བློ་བུར་གྱི་ཉོན་མོངས་པས་ཀུན་ནས་ཉོན་མོངས་པ་རྣམ་པར་རྟོག་ཀྱང་སེམས་ཀྱིས་སེམས་མི་ཤེས་སེམས་མི་མཐོང་ངོ་། །</seg>
             </tuv>
@@ -16430,7 +16427,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.57.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!བྱང་ཆུབ་སེམས་དཔའ་རྣམས་བདག་གི་སེམས་རྣམ་པར་དག་པ་ཉིད་དུ་ཤེས་ཤིང་མཐོང་བས་སེམས་ཅན་དག་གི་སེམས་ཀྱང་རྣམ་པར་དག་པར་ཤེས་ཏེ་སྙམ་དུ་སེམས་སོ། །སེམས་དྲི་མ་ཡོད་པས་ན། སེམས་རྣམ་པར་དག་པས་ན་སེམས་ཅན་ཡང་རྣམ་པར་དག་པའོ་སྙམ་སེམས་ཤིང་ཡིད་ལ་བྱེད་པ་ན་སེམས་ལ་དྲི་མའི་མཚན་ཉིད་དམ། སེམས་ལ་རྣམ་པར་དག་པའི་མཚན་ཉིད་དུ་མི་དམིགས་ཏེ</seg>
             </tuv>
@@ -16486,7 +16483,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.58.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!འདི་ལྟ་སྟེ། ཆོས་ཐམས་ཅད་གང་ཟག་དབང་པོ་ཞེས་བྱ་བ་དང་ཆོས་ཀྱི་ངོ་བོ་ཉིད་ཅེས་བྱ་བ་ནི་ཆོས་ཐམས་ཅད་ལ་ཆོས་ཞེས་བྱ་བ་མེད་དེ། </seg>
             </tuv>
@@ -17022,7 +17019,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.59.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེས་ཆོས་ཐམས་ཅད་ཀྱི་མི་འགོག་པ་ཟད་པའི་མཚན་ཉིད་དང་རབ་ཏུ་ཞི་བའི་མཚན་ཉིད་ཀྱང་མཐོང་ངོ་། །</seg>
             </tuv>
@@ -17600,7 +17597,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.61.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཏིང་ངེ་འཛིན་ལས་དཀའ་བ་ཅུང་ཟད་ཀྱང་མེད་པར་འདོད་པ་བཞིན་དུ་གང་ཟག་དེས་དེ་ལྟར་ཏིང་ངེ་འཛིན་ཁྱད་པར་ཅན་དུ་གྱུར་པས་ན། ཏིང་ངེ་འཛིན་གྱི་དབང་པོ་ཐོབ་པ་དང་། ཏིང་ངེ་འཛིན་གྱི་དབང་པོ་སྦྱོར་བ་ཐོབ་པ་ཞེས་བྱའོ། །</seg>
             </tuv>
@@ -17856,7 +17853,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.61.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!གཞན་ཡང་འཇིག་རྟེན་འཛིན་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་སེམས་ཅན་རྣམས་ཀྱིས་དབང་པོ་ལ་ཤིན་ཏུ་མཁས་པའི་དབང་པོ་རྣམས་ཀྱི་ཁྱད་པར་སློབ་པ་ལ་ཡང་མཁས་པར་བྱེད་དོ། །</seg>
             </tuv>
@@ -18186,7 +18183,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.63.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!དེ་ལ་ཇི་ལྟར་ན་ཡང་དག་པར་ལྟ་བས་ཆོས་ཐམས་ཅད་རབ་ཏུ་ཞི་བ་དང་། རང་བཞིན་གྱིས་མི་སྐྱེ་མི་འགོག་ཅིང་མྱ་ངན་ལས་འདས་པ་དང་འཐུན་པ་གང་ཞེ་ན། </seg>
             </tuv>
@@ -18197,7 +18194,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.63.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!འདི་ལྟར་མི་རྟོག་པ་དང་། རྣམ་<tei:ref folio="F.63.b"/>པར་མི་རྟོག་པའི་ཆོས་ཐམས་ཅད་ལ་མི་རྟོག་རྣམ་པར་མི་རྟོག་མངོན་སུམ་དུ་བྱེད་པ་ཡང་མ་ཡིན། </seg>
             </tuv>
@@ -18646,7 +18643,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.65.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!ཇི་ཙམ་དུ་འཚོ་བའི་མཚན་མ་དང་། ཆོས་ཀྱི་མཚན་མ་དང་། ལེན་པའི་མཚན་མ་ནས་མྱ་ངན་ལས་འདའ་བའི་མཚན་མ་དང་སངས་རྒྱས་ཀྱི་མཚན་མའི་བར་དང་། རྣམ་པར་དག་པ་དང་སངས་རྒྱས་སུ་མཚན་མར་འཛིན་ཏེདེ་ལ་ཚོར་བ་རྣམ་པར་དག་པར་འཛིན་<tei:ref folio="F.65.a"/>ན་ལོག་པར་འཚོ་བ་ཞེས་བྱའོ། །</seg>
             </tuv>
@@ -20047,12 +20044,11 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.69.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="dubiousTranslation"/>
 	<tuv xml:lang="bo">
                 <seg>འདུས་བྱས་ཀྱི་ཆོས་ནི་མངོན་པར་འདུས་པ་སྟེ་ཚོར་བ་མེད། </seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>%Conditioned phenomena are compounded and without experiencer.</seg>
+                <seg>Conditioned phenomena are compounded and without experiencer.</seg>
             </tuv>
 </tu>
 <tu>
@@ -20075,7 +20071,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.69.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!འདུ་བྱེད་ཅིས་བྱ་བ་ནི་བགྲང་བའི་གྲངས་སུ་གཏོགས་ཤིང་མཚན་ཉིད་གཉིས་ཀྱི་རྐྱེན་གྱིས་ཤེས་པའི་ཕྱིར་འདུས་བྱས་ཀྱི་ཆོས་ཞེས་བཏགས་སོ། །</seg>
             </tuv>
@@ -20705,7 +20701,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.71.a</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!བསྐལ་པ་དེ་རེ་རེ་ན་ཡང་སྐྱེ་བ་ལྔ་བརྒྱ་ལེན་ཏེ་ཐ་མར་བཅོམ་ལྡན་འདས་འཛམ་བུ་ཆུ་ཀླུང་གི་གསེར་གྱི་རི་རབ་རིའི་རྒྱལ་པོ་ཡོངས་སུ་མྱ་ངན་ལས་འདས་སུ་ཉེ་བ་ན་བསྐལ་པ་ལྔ་པོའི་ཐ་མར་ཤིན་ཏུ་མང་དུ་ཐོས་པ་དང་། འདི་ལྟ་བུའི་ཡང་དག་པའི་མཚན་ཉིད་ཀྱི་ཆོས་ལ་སྦྱོར་བ་ཡང་ཐོབ་ཅིང་</seg>
             </tuv>
@@ -20962,7 +20958,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.72.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!འདི་ལྟ་སྟེ། ཆོས་ཐམས་ཅད་ཀྱི་རྐྱེན་ཚད་མེད་པ་ལ་རྟོག་པ་དང་། ཚད་མེད་པ་ཐམས་ཅད་ཀྱི་རྟོག་པ་ལ་སྦྱོར་བ་དང་ལྡན་<tei:ref folio="F.72.b"/>པའི་སྦྱོར་བ་ཚད་མེད་པ་ལ་རྟོག་པའོ། །</seg>
             </tuv>
@@ -22330,7 +22326,7 @@ The Inquiry of Lokadhara</seg>
 </tu>
 <tu>
             <prop name="folio">F.78.b</prop>
-            <flag xmlns="http://read.84000.co/ns/1.0" type="alternateSource"/>
+            <prop name="alternative-source"/>
 	<tuv xml:lang="bo">
                 <seg>!བྱང་ཆུབ་སེམས་དཔའ་རྣམས་འདི་སྙམ་དུ་བདག་གིས་མྱུར་དུ་ཡོན་ཏན་ཚད་མེད་དཔག་ཏུ་མེད་པ་ཐོབ་པར་འགྱུར་སྙམ་པ་དང་། སེམས་ཅན་རྣམས་དགེ་བའི་རྩ་བ་ཆེན་པོ་སྐྱེ་ཞིང་སངས་རྒྱས་ཀྱི་ཞིང་ཡང་དག་པའི་ཆོས་འཛིན་ཅིང་བསྲུང་བ་ཡིན་ནོ་སྙམ་པ་དང་། སངས་རྒྱས་ཐམས་ཅད་ཀྱི་ཆོས་ཀྱི་སྡེ་སྣོད་འཛིན་པ་ཡིན་ནོ་སྙམ་པ་དང་། སངས་རྒྱས་ཚད་མེད་པ་རྣམས་ཀྱིས་བསྟོད་ཅིང་བསྔགས་པར་འགྱུར་རོ་སྙམ་དུ་སེམས་པ་དང་བཞིའོ། །</seg>
             </tuv>
