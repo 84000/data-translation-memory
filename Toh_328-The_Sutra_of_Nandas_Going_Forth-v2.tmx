@@ -1289,7 +1289,8 @@
                 <seg>དགའ་བོ་རབ་ཏུ་བྱུང་བའི་མདོ་རྫོགས་སོ།། །།</seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>{{milestone:{label:c.1,id:UT22084-072-028-71}}}Thus concludes The Sūtra of Nanda’s Going Forth.</seg>
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-028-71"/>Thus concludes The Sūtra of Nanda’s Going Forth.</seg>
             </tuv>
 </tu>
 <tu>

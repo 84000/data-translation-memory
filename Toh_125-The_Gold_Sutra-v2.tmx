@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="XML aligned text" eft:text-id="UT22084-054-006" eft:text-version="1.1.4 2021"/>
+<body>
+<tu>
+            <prop name="folio">F.293.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཕགས་པ་གསེར་གྱི་མདོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Noble Great Vehicle Sūtra The Gold Sūtra</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.293.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-054-006-5"/>Homage to all the buddhas and bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.293.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-054-006-6"/>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.293.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན་བཞུགས་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Blessed One was dwelling in the Jetavana, in the Park of Anātha­piṇḍada.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.293.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེའི་ཚེ་བཅོམ་ལྡན་འདས་ལ་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>At that time the venerable Ānanda asked the Blessed One,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.293.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་བྱང་ཆུབ་ཀྱི་སེམས་ཅི་ལྟར་བལྟ་བར་བགྱི། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Blessed One, how should the mind of awakening be viewed?”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.293.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-054-006-7"/>The Blessed One replied,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.293.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་བྱང་ཆུབ་ཀྱི་སེམས་ནི་གསེར་དང་རང་བཞིན་འདྲ་བར་གནས་པར་བལྟ་བར་བགྱིའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Venerable Ānanda, the mind of awakening should be viewed as being in nature like gold.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.293.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གསེར་རང་བཞིན་གྱིས་རྣམ་པར་དག་པ་ལྟར་བྱང་ཆུབ་ཀྱི་སེམས་རང་བཞིན་གྱིས་རྣམ་པར་དག་པར་གནས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Just as gold is pure by nature, so the mind of awakening is pure by nature.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.293.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མགར་བས་གསེར་ལ་བཟོའི་བྱེ་བྲག་ཐ་དད་པར་བྱས་ཀྱང་གསེར་རང་བཞིན་མི་འགྱུར་བ་ལྟར། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Just as a smith shapes gold into a multiplicity of forms, yet the nature of the gold does not change,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.293.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་ཀྱི་སེམས་ལ་ཡོན་ཏན་ཁྱད་པར་སྣ་ཚོགས་པར་སྣང་ཡང་དོན་དམ་པར་བྱང་ཆུབ་ཀྱི་སེམས་ལས་མ་གཡོས་པས་རང་བཞིན་མི་འགྱུར་བའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>although the mind of awakening may appear to have a variety of unique attributes, ultimately these never waver from the mind of awakening. Therefore, its nature does not change.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.293.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཚིགས་སུ་བཅད་དེ་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-054-006-8"/>Then the Blessed One proclaimed the following verse:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.293.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་ཉིད་རྣམ་པར་དག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“The mind of awakening is pure.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.293.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བདག་དང་གཞན་གྱི་དོན་ལ་བརྩོན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Strive for the benefit of self and other.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.293.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དངོས་མེད་ངོ་བོ་ཉིད་དུ་སྒོམ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Meditate on the insubstantial essence.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.293.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཤེས་རབ་སྐྱེ་བའི་རྒྱུ་ལ་མོས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Be intent on what causes the birth of wisdom.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.293.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-054-006-9"/>The Blessed One spoke thus, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.293.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་དང་། ཐམས་ཅད་དང་ལྡན་པའི་འཁོར་དེ་དག་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ་བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Venerable Ānanda, the entire retinue, and the world together with its gods, humans, asuras, and gandharvas rejoiced and praised what the Blessed One had said.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop name="folio">F.293.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཕགས་པ་གསེར་གྱི་མདོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སྷོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-054-006-10"/>This completes the noble Great Vehicle sūtra “The Gold Sūtra.”</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>

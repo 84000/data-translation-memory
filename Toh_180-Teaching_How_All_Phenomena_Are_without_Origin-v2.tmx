@@ -13641,7 +13641,8 @@
                 <seg>ལོ་ཙྪ་བ་བན་དེ་རིན་ཆེན་འཚོས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།། །</seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>{{milestone:{label:c.1,id:UT22084-060-009-429}}}This was translated, edited, and finalized by the translator Bandé Rinchen Tso.</seg>
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-009-429"/>This was translated, edited, and finalized by the translator Bandé Rinchen Tso.</seg>
             </tuv>
 </tu>
 </body>
