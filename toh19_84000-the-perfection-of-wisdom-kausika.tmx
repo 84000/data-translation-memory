@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="XML aligned text" eft:text-id="UT22084-034-007" eft:text-version="1.0.5"/>
+<body>
+<tu>
+	<prop name="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg/>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F\.142\.a"/>ཨཱརྱ་ཀཽ་ཤི་ཀ་པྲཛྙཱ་པཱ་ར་མི་ཏཱ་ནཱ་མ། བོད་སྐད་དུ།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཀཽ་ཤི་ཀ་ཞེས་བྱ་བ།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Noble Perfection of Wisdom “Kauśika”
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-19</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-007-19"/>Homage to all the buddhas and bodhisattvas.
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-22</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-007-22"/>Thus did I hear at one time.
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-22</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་རྒྱལ་པོའི་ཁབ་ན་བྱ་རྒོད་ཀྱི་ཕུང་པོའི་རི་ལ་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་། བྱང་ཆུབ་སེམས་དཔའ་འབུམ་ཕྲག་དུ་མ་ཐམས་ཅད་ཀྱང་གཞོན་ནུར་གྱུར་པ་ཤ་སྟག་དང་ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Blessed One was residing at Vulture Peak in Rājagṛha together with a great saṅgha of monks and many hundreds of thousands of bodhisattvas, all of whom were youthful.
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-23</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ལྷའི་དབང་པོ་བརྒྱ་བྱིན་ལ་བཀའ་སྩལ་པ། ཀཽ་ཤི་ཀ་དེ་ལ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་དོན་ནི་འདི་ཡིན་ཏེ། ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ནི་གཉིས་སུ་བལྟ་བར་མི་བྱ།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-007-23"/>Then the Blessed One addressed Śakra, lord of the gods: “Kauśika, this is the meaning of the perfection of wisdom: Do not view the perfection of wisdom as being two.
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-23</prop>
+    <tuv xml:lang="bo">
+                <seg>གཉིས་མ་ཡིན་པར་ཡང་མ་ཡིན།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Nor is it not two.
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-23</prop>
+    <tuv xml:lang="bo">
+                <seg>མཚན་མར་མ་ཡིན། མཚན་མ་མ་ཡིན་པར་ཡང་མ་ཡིན་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is neither a mark nor not a mark.
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-23</prop>
+    <tuv xml:lang="bo">
+                <seg>བླང་བར་ཡང་མ་ཡིན། དོར་བར་ཡང་མ་ཡིན།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is neither something to adopt nor something to abandon.
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-23</prop>
+    <tuv xml:lang="bo">
+                <seg>བསྣན་པར་མ་ཡིན། བསྣན་པ་མེད་པར་ཡང་མ་ཡིན།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is neither increasing nor decreasing;
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-23</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་ནས་ཉོན་མོངས་པར་མ་<tei:ref folio="F\.142\.b"/>ཡིན། ཀུན་ནས་ཉོན་མོངས་པ་མ་ཡིན་པར་ཡང་མ་ཡིན།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>neither polluted nor not polluted;
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-23</prop>
+    <tuv xml:lang="bo">
+                <seg>རྣམ་པར་བྱང་བར་མ་ཡིན། རྣམ་པར་བྱང་བ་མ་ཡིན་པར་ཡང་མ་ཡིན།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>neither purified nor not purified;<tei:note xml:id="UT22084-034-007-24"/>
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-23</prop>
+    <tuv xml:lang="bo">
+                <seg>སྤང་བར་མ་ཡིན། སྤང་བ་མ་ཡིན་པར་ཡང་མ་ཡིན།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>neither abandoned nor not abandoned;
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-23</prop>
+    <tuv xml:lang="bo">
+                <seg>གནས་སུ་མ་ཡིན། གནས་སུ་མ་ཡིན་པར་ཡང་མ་ཡིན།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>neither remaining nor not remaining;
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-23</prop>
+    <tuv xml:lang="bo">
+                <seg>སྦྱོར་བར་མ་ཡིན། སྦྱོར་བ་མ་ཡིན་པར་ཡང་མ་ཡིན།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>neither to be applied nor not to be applied;<tei:note xml:id="UT22084-034-007-25"/>
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-23</prop>
+    <tuv xml:lang="bo">
+                <seg>འབྲེལ་པར་མ་ཡིན། འབྲེལ་བར་མ་ཡིན་པར་ཡང་མ་ཡིན།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>neither connected nor not connected;
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-23</prop>
+    <tuv xml:lang="bo">
+                <seg>རྐྱེན་དུ་མ་ཡིན། རྐྱེན་མ་ཡིན་པར་ཡང་མ་ཡིན།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>neither a condition nor not a condition;<tei:note xml:id="UT22084-034-007-26"/>
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-23</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་སུ་མ་ཡིན། ཆོས་མ་ཡིན་པར་ཡང་མ་ཡིན།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>neither a dharma nor not a dharma;<tei:note xml:id="UT22084-034-007-27"/>
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-23</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་ཉིད་མ་ཡིན། དེ་བཞིན་ཉིད་མ་ཡིན་པར་ཡང་མ་ཡིན།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>neither suchness nor not suchness;<tei:note xml:id="UT22084-034-007-28"/>
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-23</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡང་དག་པའི་མཐར་མ་ཡིན། ཡང་དག་པའི་མཐར་མ་ཡིན་པར་ཡང་མ་ཡིན་ནོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>and neither the limit of reality nor not the limit of reality.
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-29</prop>
+    <tuv xml:lang="bo">
+                <seg> ཀཽ་ཤི་ཀ་དེ་བཞིན་དུ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་དོན་ནི་འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-007-29"/>“Similarly, Kauśika, the meaning of the perfection of wisdom is as follows:
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-29</prop>
+    <tuv xml:lang="bo">
+                <seg> ཆོས་ཐམས་ཅད་མཉམ་པ་ཉིད་ཀྱི་ཕྱིར་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཉིད་མཉམ་མོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>As all phenomena are fundamentally sameness, the perfection of wisdom is itself sameness.
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-29</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་ཟབ་པའི་ཕྱིར་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཟབ་བོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>As all phenomena are profound, the perfection of wisdom is profound.<tei:note xml:id="UT22084-034-007-30"/>
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-29</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་དབེན་པའི་ཕྱིར་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དབེན་ནོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>As all phenomena are isolated, the perfection of wisdom is isolated.<tei:note xml:id="UT22084-034-007-31"/>
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-29</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་གཡོ་བ་མེད་པའི་ཕྱིར་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་གཡོ་བ་མེད་དོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>As all phenomena are immovable, the perfection of wisdom is immovable.
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-29</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་རློམ་སེམས་མེད་པའི་ཕྱིར་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རློམ་སེམས་མེད་དོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>As all phenomena are without thought, the perfection of wisdom is without thought.<tei:note xml:id="UT22084-034-007-32"/>
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-29</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་འཇིགས་པ་མེད་པའི་ཕྱིར་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འཇིགས་པ་མེད་དོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>As all phenomena are free of fear, the perfection of wisdom is free of fear.
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-29</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་བག་ཚ་བ་མེད་པའི་ཕྱིར་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བག་ཚ་བ་མེད་དོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>As all phenomena are free of anxiety, the perfection of wisdom is free of anxiety.<tei:note xml:id="UT22084-034-007-33"/>
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-29</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་རོ་གཅིག་པའི་ཕྱིར་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རོ་གཅིག་གོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>As all phenomena are of one taste, the perfection of wisdom is of one taste.
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-29</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་སྐྱེ་བ་མེད་པའི་ཕྱིར་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྐྱེ་བ་མེད་དོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>As all phenomena are unborn, the perfection of wisdom is unborn.
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-29</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་འགགས་པ་མེད་པའི་ཕྱིར་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འགགས་པ་མེད་དོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>As all phenomena are unceasing, the perfection of wisdom is unceasing.
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-29</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་ནམ་མཁའ་ལྟ་བུའི་ཕྱིར་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ནམ་མཁའ་ལྟ་བུའོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>As all phenomena are like space, the perfection of wisdom is like space.<tei:note xml:id="UT22084-034-007-34"/> “
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-35</prop>
+    <tuv xml:lang="bo">
+                <seg>གཟུགས་སུ་མེད་པའི་ཕྱིར་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མུ་མེད་དོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-007-35"/>As form is boundless, the perfection of wisdom is boundless.
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-35</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་དུ་ཚོར་བ་དང་། འདུ་ཤེས་དང་། འདུ་བྱེད་རྣམས་དང་། རྣམ་པར་ཤེས་པ་མུ་མེད་པའི་ཕྱིར་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མུ་མེད་དོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Similarly, as feelings, perceptions, mental formations, and consciousness are boundless, the perfection of wisdom is boundless.
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-35</prop>
+    <tuv xml:lang="bo">
+                <seg>སའི་ཁམས་མུ་མེད་པའི་ཕྱིར་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་<tei:ref folio="F\.143\.a"/>ཕྱིན་པ་མུ་མེད་དོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>As the earth element is boundless, the perfection of wisdom is boundless.
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-35</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་དུ་ཆུའི་ཁམས་དང་། མེའི་ཁམས་དང་། རླུང་གི་ཁམས་དང་། ནམ་མཁའི་ཁམས་དང་། རྣམ་པར་ཤེས་པའི་ཁམས་མུ་མེད་པའི་ཕྱིར་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མུ་མེད་དོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Similarly, as the water element, the fire element, the wind element, the space element, and the element of consciousness are boundless, the perfection of wisdom is boundless.
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-35</prop>
+    <tuv xml:lang="bo">
+                <seg>རི་རབ་མུ་མེད་པའི་ཕྱིར་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མུ་མེད་དོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>As Mount Sumeru is boundless, the perfection of wisdom is boundless.<tei:note xml:id="UT22084-034-007-36"/>
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-35</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱ་མཚོ་མུ་མེད་པའི་ཕྱིར་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མུ་མེད་དོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>As the ocean is boundless, the perfection of wisdom is boundless.<tei:note xml:id="UT22084-034-007-37"/>
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-38</prop>
+    <tuv xml:lang="bo">
+                <seg>རྡོ་རྗེ་མཉམ་པའི་ཕྱིར་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མཉམ་མོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-007-38"/>“As vajra<tei:note xml:id="UT22084-034-007-39"/> is the same, the perfection of wisdom is the same.
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-38</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་དབྱེར་མེད་པའི་ཕྱིར་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དབྱེར་མེད་དོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>As all phenomena are undifferentiated, the perfection of wisdom is undifferentiated.<tei:note xml:id="UT22084-034-007-40"/>
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-38</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་ཀྱི་ངོ་བོ་ཉིད་དམིགས་སུ་མེད་པའི་ཕྱིར་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་ངོ་བོ་ཉིད་དམིགས་སུ་མེད་དོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>As the essential nature of all phenomena is beyond apprehending, the essential nature of the perfection of wisdom is beyond apprehending.
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-38</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་བསལ་བ་མེད་པར་མཉམ་པའི་ཕྱིར་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བསལ་བ་མེད་པར་མཉམ་མོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>As all phenomena are the same in lacking anything to be dispelled, the perfection of wisdom is the same in lacking anything to be dispelled.<tei:note xml:id="UT22084-034-007-41"/>
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-38</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་བྱེད་པ་མེད་པའི་ཕྱིར་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བྱེད་པ་མེད་དོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>As all phenomena are without anything to undertake, the perfection of wisdom is without anything to undertake.<tei:note xml:id="UT22084-034-007-42"/>
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-38</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་བསམ་གྱིས་མི་ཁྱབ་པའི་ཕྱིར་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བསམ་གྱིས་མི་ཁྱབ་བོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>As all phenomena are inconceivable, the perfection of wisdom is inconceivable. “
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-43</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་དུ་སྦྱིན་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དང་། ཚུལ་ཁྲིམས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དང་། བཟོད་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དང་། བརྩོན་འགྲུས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དང་། བསམ་གཏན་གྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དང་། ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དང་། ཐབས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དང་། སྨོན་ལམ་གྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དང་། སྟོབས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དང་། ཡེ་ཤེས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འཁོར་གསུམ་ཡོངས་སུ་དག་པས་མུ་མེད་པའི་ཕྱིར་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མུ་མེད་དོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-007-43"/>Similarly, as the perfection of giving, the perfection of discipline, the perfection of patience, the perfection of effort, the perfection of concentration, the perfection of wisdom, the perfection of means, the perfection of aspiration, the perfection of power, and the perfection of gnosis<tei:note xml:id="UT22084-034-007-44"/> are purified of the three spheres and thus boundless, the perfection of wisdom is boundless.<tei:note xml:id="UT22084-034-007-46"/>
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-47</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཞེས་བྱ་བ་ནི་འདི་ལྟར་སྟོང་པ་ཉིད་བཅྭ་བརྒྱད་དེ།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-007-47"/>
+                    <tei:note xml:id="UT22084-034-007-48"/>“The so-called perfection of wisdom consists of eighteen kinds of emptiness.
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-47</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ། ནང་སྟོང་པ་ཉིད་དང་། ཕྱི་སྟོང་པ་ཉིད་དང་། ཕྱི་ནང་སྟོང་པ་ཉིད་དང་། སྟོང་པ་ཉིད་སྟོང་པ་ཉིད་དང་། ཆེན་པོ་སྟོང་པ་ཉིད་དང་། དོན་དམ་པ་སྟོང་པ་ཉིད་དང་། འདུས་བྱས་སྟོང་པ་ཉིད་དང་། འདུས་མ་བྱས་སྟོང་པ་ཉིད་དང་། མཐའ་ལས་འདས་པ་སྟོང་པ་ཉིད་དང་། ཐོག་མ་དང་ཐ་མ་མེད་པ་སྟོང་པ་ཉིད་དང་། དོར་བ་མེད་པ་སྟོང་པ་ཉིད་དང་། རང་བཞིན་སྟོང་པ་ཉིད་དང་། ཆོས་ཐམས་ཅད་སྟོང་པ་ཉིད་དང་། རང་གི་མཚན་ཉིད་སྟོང་པ་ཉིད་དང་། <tei:ref folio="F\.143\.b"/>མི་དམིགས་པ་སྟོང་པ་ཉིད་དང་། དངོས་པོ་མེད་པ་སྟོང་པ་ཉིད་དང་། ངོ་བོ་ཉིད་སྟོང་པ་ཉིད་དང་། དངོས་པོ་མེད་པའི་ངོ་བོ་ཉིད་སྟོང་པ་ཉིད་དེ།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They are internal emptiness, external emptiness, internal and external emptiness, emptiness of emptiness, great emptiness, ultimate emptiness, emptiness of conditioned phenomena, emptiness of unconditioned phenomena, emptiness transcending extremes,<tei:note xml:id="UT22084-034-007-49"/> emptiness without beginning or end,<tei:note xml:id="UT22084-034-007-50"/> emptiness of anything to be given up,<tei:note xml:id="UT22084-034-007-51"/> emptiness of nature, emptiness of all phenomena,<tei:note xml:id="UT22084-034-007-52"/> emptiness of self-characteristics,<tei:note xml:id="UT22084-034-007-53"/> emptiness of nonapprehension,<tei:note xml:id="UT22084-034-007-54"/> emptiness of nonexistence, emptiness of essential nature, and emptiness of the essential nature of nonexistence.<tei:note xml:id="UT22084-034-007-55"/>
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-56</prop>
+    <tuv xml:lang="bo">
+                <seg>མདོར་ན་སྟོང་པ་ཉིད་འདི་ནི་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཞེས་བྱའོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-007-56"/>“In short, such emptiness is called the perfection of wisdom.<tei:note xml:id="UT22084-034-007-57"/> 
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-58</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐར་མ་རབ་རིབ་མར་མེ་དང་།། སྒྱུ་མ་ཟིལ་པ་ཆུ་བུར་དང་།། རྨི་ལམ་གློག་དང་སྤྲིན་ལྟ་བུ།། འདུས་བྱས་དེ་ལྟར་བལྟ་བར་བྱ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-007-58"/>“Like a star, a cataract, a lamp, A magical illusion, a dew drop, a water bubble, A dream, a flash of lightning, and a cloud<tei:note xml:id="UT22084-034-007-59"/>— View conditioned things in this way.<tei:note xml:id="UT22084-034-007-60"/>
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-61</prop>
+    <tuv xml:lang="bo">
+                <seg>ན་མོ་བྷ་ག་བ་ཏྱཻ་ཨཱརྱ་པྲཛྙཱ་པཱ་ར་མི་ཏྭཱ་ཡཻ། ཨོཾ་དྷཱིཿཧྲཱིཿཤྲཱི་ཤྲུ་ཏི་སྨྲྀ་ཏི་མ་ཏི་ག་ཏི་བི་ཛ་ཡེ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-007-61"/>Oṁ namo bhagavatyai āryaprajñāpāramitāyai. Oṁ dhī hrī śrī śruti smṛti mati gati vijaye svāhā.<tei:note xml:id="UT22084-034-007-62"/>
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-63</prop>
+    <tuv xml:lang="bo">
+                <seg>འགག་པ་མེད་ཅིང་སྐྱེ་མེད་ལ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-007-63"/>“Neither ceasing nor born,
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-63</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆད་པ་མེད་ཅིང་རྟག་པ་མེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Neither annihilated nor eternal,
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-63</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐ་དད་དོན་མིན་དོན་གཅིག་མིན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Neither many nor one,
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-63</prop>
+    <tuv xml:lang="bo">
+                <seg>འོང་བ་མེད་ཅིང་འགྲོ་མེད་ལ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Neither coming nor going,
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-64</prop>
+    <tuv xml:lang="bo">
+                <seg>སྤྲོས་པ་ཞི་བས་ཞི་བ་ཡི། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-007-64"/>“Peaceful, because elaborations are pacified—
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-64</prop>
+    <tuv xml:lang="bo">
+                <seg>རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་སྟོན་པ། །རྫོགས་པའི་སངས་རྒྱས་གང་ཡིན་པ། །སྨྲ་མཆོག་དེ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>To the one who teaches this dependent origination, To the perfect Buddha, The best of speakers, I prostrate.”<tei:note xml:id="UT22084-034-007-67"/>
+                    <tei:note xml:id="UT22084-034-007-68"/>
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-69</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། ཚེ་དང་ལྡན་པ་ཤ་ར་དྭ་ཏིའི་བུ་དང་། ལྷའི་དབང་པོ་བརྒྱ་བྱིན་དང་། དགེ་སློང་དེ་དག་དང་། བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-007-69"/>The Blessed One having spoken thus, Venerable Śāradvatīputra,<tei:note xml:id="UT22084-034-007-70"/> Śakra, the lord of the gods, and the monks, bodhisattvas, and the world with its gods, humans, asuras, and gandharvas<tei:note xml:id="UT22084-034-007-71"/> rejoiced and praised what the Blessed One had said.<tei:note xml:id="UT22084-034-007-72"/>
+</seg>
+            </tuv>
+</tu>
+<tu>
+	<prop name="location-id">UT22084-034-007-73</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཀཽ་ཤི་ཀ་ཞེས་བྱ་བ་རྫོགས་སོ།། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-007-73"/>Thus concludes The Perfection of Wisdom “Kauśika”.
+</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>
