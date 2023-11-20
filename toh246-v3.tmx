@@ -1,0 +1,2890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+    <header creationtool="linguae-dharmae/84000" creationtoolversion="2.16.12a" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-066-004" eft:text-version="v-1.1.4-2021" eft:source-ref="/db/apps/84000-data/uploads/linguae-dharmae/aligned/31-10-2022/complete/toh246-bo_aligned.txt"/>
+    <body>
+        <!--<tu id="UT22084-066-004-TU-1">
+            <tuv xml:lang="bo"><seg>མཁན་པོ་པྲཛྙཱ་བར་མ་དང་། ཞུ་ཆེན་གྱི་ལོཙྪ་བ་བན་དེ་ཡེ་ཤེས་སྡེས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ། །༄༅༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་པ་ར་མཱརྠ་དྷརྨ་བི་ཛ་ཡ་ནཱ་མ་མ་ཧཱ་ཡཱ་ན་སཱུ་ཏྲ། བོད་སྐད་དུ།</seg></tuv>
+            <tuv xml:lang="en"><seg/></tuv>
+        </tu>-->
+        <tu id="UT22084-066-004-TU-2">
+            <prop type="location-id">translation</prop>
+            <prop type="revision">v-1.1.4-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>འཕགས་པ་དོན་དམ་པའི་ཆོས་ཀྱིས་རྣམ་པར་རྒྱལ་བ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Noble Mahāyāna Sūtra Victory of the Ultimate Dharma</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-3">
+            <prop type="location-id">UT22084-066-004-16</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Homage to all the buddhas and bodhisattvas!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-4">
+            <prop type="location-id">UT22084-066-004-18</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-5">
+            <prop type="location-id">UT22084-066-004-18</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་ནས་རིང་པོ་མ་ལོན་པར་ག་ཡཱའི་རི་ལ་དགེ་སློང་མངོན་པར་ཞུགས་པ་མངོན་པར་ཞུགས་པ་རྣམས་དང་། བྱང་ཆུབ་སེམས་དཔའ་བྱེ་བ་ཕྲག་དགུ་བཅུ་རྩ་དགུ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Soon after fully awakening, the Bhagavān was staying at Gayāśīrṣa Hill with an assembly of devoted monks and nine hundred ninety million bodhisattvas.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-6">
+            <prop type="location-id">UT22084-066-004-18</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ལྷ་བྱེ་བ་ཕྲག་ཉི་ཤུ་རྩ་བརྒྱད་དང་། དགེ་སློང་དང་། དགེ་སློང་མ་དང་། དགེ་བསྙེན་དང་། དགེ་བསྙེན་མ་བརྒྱད་ཁྲི་དྲུག་སྟོང་དང་། གྱད་དྲུག་ཁྲི་དང་། གཅེར་བུ་པ་བྱེ་བ་ཕྲག་བཅུ་གཉིས་དང་། དྲང་སྲོང་ཆེན་པོ་མངོན་པར་ཤེས་པ་ལྔ་དང་ལྡན་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>In the gathering were also two hundred eighty million gods and an assembly of eighty-six thousand monks, nuns, laymen, and laywomen. Also in attendance were sixty thousand strongmen, one hundred twenty million naked ascetics, and five hundred great seers endowed with the five types of superknowledge, who had bodies made excellent through the five fires.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-7">
+            <prop type="location-id">UT22084-066-004-18</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>གདུང་བ་ལྔས་ཡན་ལག་ཆོག་པ་ལྔ་བརྒྱ་ཡན་ལག་དཀར་བ། ཤ་མེད་ཅིང་རུས་མགོ་པགས་ཀྱིས་ཡོག་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Also in attendance were eighty-four thousand other seers who had pale limbs, who were emaciated, and whose skulls and bones were visible through their skin.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-8">
+            <prop type="location-id">UT22084-066-004-18</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ལྟོ་ཞར་ཞིང་སྐྲའི་ཁུར་ཁྱེར་བ། ལུས་རྒུ་བ། གཡང་བཞི་དང་ཤིང་ཤུན་གྱོན་པ། ལག་ན་རིལ་བ་ཐོགས་པ་བརྒྱད་ཁྲི་བཞི་སྟོང་དང་ཡང་ཐབས་ཅིག་གོ། །རྒལ་བར་འདུན་པ་རྣམས་དང་ཡང་ཐབས་ཅིག་གོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Their stomachs shrunken, hair matted on their heads, and bodies hunched, they wore animal skins and tree bark and carried begging bowls in their hands. Other seekers of liberation were also there.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-9">
+            <prop type="location-id">UT22084-066-004-22</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་རི་ནག་པོ་རྣམས་ཀྱི་ནང་ན་རིའི་རྒྱལ་པོ་རི་རབ་ལྟར་དྲང་སྲོང་རྣམས་ཀྱི་ནང་ན་ལྷམ་མེ། ལྷན་ནེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>In the midst of these seers, the Bhagavān was as radiant, clear, and brilliant as Mount Meru, the king of mountains, among dark mountains.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-10">
+            <prop type="location-id">UT22084-066-004-22</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ལྷང་ངེ་སྟེ། ལུག་རྣམས་ཀྱི་ནང་ན་གླང་པོ་ཆེའི་རྒྱལ་པོ་མཆེ་བ་དྲུག་པ་འདྲ་ལ། སྲིན་བུ་མེ་ཁྱེར་གྱི་དྲུང་ན་ཉི་ཟླ་དང་མཚུངས་ཤིང་། རྩྭ་ཀ་ཤིའི་མེ་ཏོག་གི་ནང་ན་མན་དཱ་ར་བའི་ཡལ་ག་དང་འདྲ་ལ། ནམ་མཁའ་ལྡིང་གི་རྒྱལ་པོ་བྱ་རོག་གིས་བསྐོར་བ་དང་འདྲ་བར་བཅོམ་ལྡན་འདས་དྲང་སྲོང་རྣམས་ཀྱི་ནང་ན་ཉིས་འགྱུར་དུ་མཛེས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Indeed, like the six-tusked king of elephants among sheep, like the sun or the moon next to fireflies, like a branch of coral tree flowers next to flowers of kāśa grass, and like the king of garuḍas surrounded by crows, the Bhagavān in the midst of these seers was twice as resplendent.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-11">
+            <prop type="location-id">UT22084-066-004-23</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་རིན་པོ་ཆེའི་གཏོང་བ་ཞེས་བྱ་བའི་ཏིང་ངེ་འཛིན་ལ་སྙོམས་པར་ཞུགས་ཏེ། རྫུ་འཕྲུལ་གྱི་ཆོ་འཕྲུལ་དཔག་ཏུ་མེད་པར་མཛད་ཅིང་གློ་གཡས་གཡོན་གཉིས་ནས་འོད་ཟེར་ཕྱུང་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then, the Bhagavān entered the meditative concentration called precious emission and performed inconceivable miracles. From both his right and left sides, he emitted rays of light.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-12">
+            <prop type="location-id">UT22084-066-004-23</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་བྱེ་བ་དཔག་ཏུ་མེད་པ་ཕྱུང་། བྱང་ཆུབ་སེམས་དཔའ་བྱེ་བ་དཔག་ཏུ་མེད་པ་དང་། བརྒྱ་བྱིན་དང་། ཚངས་པ་དང་། འཇིག་རྟེན་སྐྱོང་བ་དཔག་ཏུ་མེད་པ་ཕྱུང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then he emitted countless millions of tathāgatas,  in addition to countless millions of bodhisattvas and countless śakras, brahmās, and world guardians.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-13">
+            <prop type="location-id">UT22084-066-004-24</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དགྲ་བཅོམ་པ་བརྒྱ་སྟོང་དཔག་ཏུ་མེད་པ་ཕྱུང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>He also emitted countless hundreds of thousands of arhats;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-14">
+            <prop type="location-id">UT22084-066-004-24</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དང་། དགེ་སློང་མ་དང་། དགེ་བསྙེན་དང་། དགེ་བསྙེན་མ་བརྒྱ་སྟོང་དཔག་ཏུ་མེད་པ་ཕྱུང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>countless hundreds of thousands of monks, nuns, laymen and laywomen;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-15">
+            <prop type="location-id">UT22084-066-004-24</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>འཁོར་ལོས་སྒྱུར་བ་དང་། སྟོབས་ཀྱི་འཁོར་ལོས་སྒྱུར་བ་དང་། ཁམས་ཀྱི་རྒྱལ་པོ་དང་། རིག་སྔགས་འཆང་དཔག་ཏུ་མེད་པ་ཕྱུང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>countless universal monarchs, universal monarchs who rule by force, feudal lords, and vidyādharas;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-16">
+            <prop type="location-id">UT22084-066-004-24</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>རྒྱ་དང་། རི་བྲགས་པ་དང་། འགྲོ་ལྡིང་བ་དང་། ལྷོ་ཕྱོགས་པ་དང་། ནགས་ཁྲོད་པ་དཔག་ཏུ་མེད་པ་ཕྱུང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>countless Bharatas mountain dwellers, Drāviḍians, southerners, and forest dwellers.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-17">
+            <prop type="location-id">UT22084-066-004-24</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>རྒྱལ་རིགས་ཤིང་སཱ་ལ་ཆེན་པོ་ལྟ་བུ་དང་། བྲམ་ཟེ་དང་ཁྱིམ་བདག་ཤིང་སཱ་ལ་ཆེན་པོ་ལྟ་བུ་དང་། མི་གཟུགས་དང་། ཆ་བྱད་དང་། མདོག་དང་། སྨྲ་བའི་སྐད་སྣ་ཚོགས་པ་ཇི་སྙེད་པ་དང་། ལྷའི་རིས་ཇི་སྙེད་པ་དེ་དག་ཐམས་ཅད་དེ་བཞིན་གཤེགས་པའི་སྐུ་ལས་ཕྱུང་ངོ་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>He also emitted kṣatriyas like great śāla trees, brahmins, and householders like great śāla trees; all the other varieties of human form in their different costumes, classes, and languages; and all the different types of gods.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-18">
+            <prop type="location-id">UT22084-066-004-24</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་འཁོར་ཆེན་པོ་དེ་ཐེ་ཚོམ་དུ་གྱུར་ནས་ཕན་ཚུན་གདོང་དུ་ལྟའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thereupon, those in the great assembly looked at one another in bewilderment.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-19">
+            <prop type="location-id">UT22084-066-004-24</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བྱང་ཆུབ་སེམས་དཔའ་རྣམས་རབ་ཏུ་དགའ་སྟེ། རིན་པོ་ཆེའི་ཆར་འབེབས་པ་ནས་རྒྱན་ཐམས་ཅད་ཀྱི་བར་གྱི་ཆར་འབེབས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The bodhisattvas, however, rejoiced, and all types of precious things, from jewels to ornaments, rained down.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-20">
+            <prop type="location-id">UT22084-066-004-26</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་རིན་པོ་ཆེ་གཏོང་བའི་ཏིང་ངེ་འཛིན་ལས་བཞེངས་ཏེ། སེང་གེ་བསྒྱིངས་པས་ཕྱོགས་བཅུར་རྣམ་པར་གཟིགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then, the Bhagavān arose from the meditative concentration of precious emission and, poised like a lion, surveyed the ten directions.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-21">
+            <prop type="location-id">UT22084-066-004-26</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་ཕྱོགས་བཅུར་གཟིགས་མ་ཐག་ཏུ་དེ་ནས་ཕྱོགས་བཅུའི་སངས་རྒྱས་ཀྱི་ཞིང་དག་ནས་སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཇི་སྙེད་སངས་རྒྱས་ཀྱི་སྤྱན་ལ་སྣང་བ་དེ་དག་ཐམས་ཅད་ལག་མཐིལ་དུ་བཞག་པ་བཞིན་དུ་མི་མཇེད་ཀྱི་འཇིག་རྟེན་གྱི་ཁམས་སུ་ཀུན་ཏུ་སྣང་ངོ་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>As soon as the Bhagavān had gazed in the ten directions, all bhagavān buddhas in all the buddhafields of the ten directions—which previously had appeared only in the Buddha’s purview—now appeared clearly to the Sahā world system as if placed in the palm of one’s hand.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-22">
+            <prop type="location-id">UT22084-066-004-26</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱིས་ཀྱང་བཅོམ་ལྡན་འདས་ཤཱཀྱ་ཐུབ་པས་ཇི་ལྟར་ཕྱུང་བ་དེ་འདྲ་བའི་རྫུ་འཕྲུལ་གྱི་ཆོ་འཕྲུལ་ཕྱུང་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then, all these tathāgatas also emitted miracles of magical emanation just as the Bhagavān Śākyamuni had done.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-23">
+            <prop type="location-id">UT22084-066-004-26</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་རྣམས་ཀྱི་སྤྲུལ་པ་ཕྱུང་བ་ཇི་སྙེད་པ་དེ་དག་ཐམས་ཅད་ཀྱང་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་དོང་སྟེ་ཕྱིན་ནས་བཅོམ་ལྡན་འདས་ཀྱི་འཁོར་གྱི་ནང་དུ་འདུས་པར་གྱུར་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>All those emanations emitted by the tathāgatas then approached the Bhagavān and joined his assembly.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-24">
+            <prop type="location-id">UT22084-066-004-26</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བྱང་ཆུབ་སེམས་དཔའ་དཔག་ཏུ་མེད་པ་དག་ཀྱང་། དགེ་སློང་དང་། དགེ་སློང་མ་དང་། དགེ་བསྙེན་དང་། དགེ་བསྙེན་མ་གང་གཱའི་བྱེ་མ་སྙེད་དག་དང་ལྷན་ཅིག་ཏུ་དེ་བཞིན་གཤེགས་པ་ལ་མཆོད་པ་ཆེན་པོ་དཔེ་མེད་པ་ཐོགས་ཏེ་འདིར་ལྷགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Countless bodhisattvas, monks, nuns, laymen and laywomen, as numerous as the grains of sand in the Ganges River, came  bearing great, unparalleled offerings for the Tathāgata.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-25">
+            <prop type="location-id">UT22084-066-004-26</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་བཞིན་དུ་ལྷ་དང་། ཀླུ་དང་། གནོད་སྦྱིན་དང་། དྲི་ཟ་དང་། ལྷ་མ་ཡིན་དང་། ནམ་མཁའ་ལྡིང་དང་། མི་འམ་ཅི་དང་། ལྟོ་འཕྱེ་ཆེན་པོ་དང་། མི་དང་མི་མ་ཡིན་པ་དུ་མ་དེ་དག་ཀྱང་བཅོམ་ལྡན་འདས་ཀྱི་རྫུ་འཕྲུལ་གྱི་ཆོ་འཕྲུལ་དེ་མཐོང་ནས་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་དོང་ངོ་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Also, having seen the Bhagavān’s miraculous emanations, multitudes of gods, nāgas, yakṣas, gandharvas, asuras, garuḍas, kinnaras, mahoragas, humans, and nonhumans approached the Bhagavān.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-26">
+            <prop type="location-id">UT22084-066-004-27</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་གང་དག་ཕྱོགས་བཅུ་ནས་ལྷགས་པའི་བྱང་ཆུབ་སེམས་དཔས་དེ་དག་གིས་མཆོད་པ་བླ་ན་མེད་པས་བཅོམ་ལྡན་འདས་ལ་བསྙེན་བཀུར་བྱས་ཏེ། ཕ་རོལ་ཏུ་ཕྱིན་པ་དྲུག་གིས་ཡོངས་སུ་བསྒྲུབས་པའི་སྟན་དག་ལ་འཁོད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Those bodhisattvas who arrived from the ten directions then venerated the Bhagavān with unsurpassable offerings and sat on seats attained by way of the six perfections.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-27">
+            <prop type="location-id">UT22084-066-004-27</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།མི་དང་མི་མ་ཡིན་པའི་བར་དུ་ཡང་ཅི་རིགས་པའི་སྟན་དག་ལ་འཁོད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>All the beings present, from human to nonhuman, also sat on their appropriate seats.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-28">
+            <prop type="location-id">UT22084-066-004-27</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་དག་བཅོམ་ལྡན་འདས་ཀྱིས་སྤྲུལ་པ་ཕྱུང་བ་དེ་དག་ཀྱང་མནར་མེད་པ་ཡན་ཆད་འོག་མིན་གྱི་གནས་མན་ཆད་དུ་མངོན་པར་བྱུང་སྟེ་སླར་ཡང་ལོག་གོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>All those emanations emitted by the Bhagavān now went everywhere, from the lowest hell of Endless Torment up to the highest heaven, Below No Other, and returned once more.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-29">
+            <prop type="location-id">UT22084-066-004-27</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཕྱོགས་བཅུའི་སངས་རྒྱས་རྣམས་ཀྱི་སྤྲུལ་པ་ཕྱུང་བ་ཇི་སྙེད་པ་དེ་དག་ཐམས་ཅད་ནི་བཅོམ་ལྡན་འདས་ཤཱཀྱ་ཐུབ་པའི་སྤུའི་ཁུང་བུ་ཐམས་ཅད་དུ་ནུབ་བོ། །གང་དག་བཅོམ་ལྡན་འདས་ཀྱིས་སྤྲུལ་པ་ཕྱུང་བ་དེ་དག་ནི་སངས་རྒྱས་ཐམས་ཅད་ཀྱི་སྐུ་རྣམས་སུ་ནུབ་བོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>All the emanations emitted by the buddhas of the ten directions then dissolved into the hair follicles of the Bhagavān Śākyamuni. Similarly, all the emanations emitted by the Bhagavān dissolved into the bodies of all the buddhas of the ten directions.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-30">
+            <prop type="location-id">UT22084-066-004-28</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྒྱལ་བའི་ཕུང་པོ་ཞེས་བྱ་བ་སྟན་ལས་ལངས་ཏེ། བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས། པུས་མོ་གཡས་པའི་ལྷ་ང་ས་ལ་བཙུགས་ཏེ། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས་བཅོམ་ལྡན་འདས་ལ་ཚིགས་སུ་བཅད་པ་འདི་དག་གིས་མངོན་པར་བསྟོད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thereupon, a bodhisattva mahāsattva called Victorious Heap rose from his seat, placed his upper robe over one shoulder, knelt with his right knee on the ground, joined his palms and bowed toward the Bhagavān, and praised him with these verses:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-31">
+            <prop type="location-id">UT22084-066-004-30</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཀྱེ་མ་མི་རྣམས་ཀྱི་ནི་འདྲེན་པ་ཡིས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Ah, the guide of human beings Has swiftly shown all beings here</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-32">
+            <prop type="location-id">UT22084-066-004-30</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྔོན་ཆད་མ་བྱུང་མཛད་པ་སྣ་ཚོགས་འདི། །སྐྱེ་དགུ་ཀུན་ལ་མྱུར་དུ་ཀུན་བསྟན་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>A multitude of unprecedented deeds,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-33">
+            <prop type="location-id">UT22084-066-004-30</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ཡིས་བདུད་སྡེ་ཐམས་ཅད་མོག་མོག་བགྱིས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Which has overshadowed the māras.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-34">
+            <prop type="location-id">UT22084-066-004-31</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཕན་ཚུན་དག་ཏུ་ཚིག་ཏུ་སྨྲ་བགྱིད་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“This has made them remark to one another,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-35">
+            <prop type="location-id">UT22084-066-004-31</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཀྱེ་མའོ་ཤིན་ཏུ་ངོ་མཚར་ཆེ་ཞེས་མཆི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>‘Alas, this is so wondrous;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-36">
+            <prop type="location-id">UT22084-066-004-31</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བདག་ཅག་ཅི་ཞིག་ཕྱིར་ནི་འདིར་ལྷགས་ཀྱེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Why have we come here?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-37">
+            <prop type="location-id">UT22084-066-004-31</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བདག་ཅག་བཅོམ་མོ་བདག་ཅག་བཅོམ་ཞེས་མཆི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Alas, we have been defeated. Defeated!’</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-38">
+            <prop type="location-id">UT22084-066-004-32</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དཀའ་ཐུབ་ཅན་བདག་དཀའ་ཐུབ་ཅན་མིན་གྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“The ascetics have said, ‘We ascetics have become false ascetics,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-39">
+            <prop type="location-id">UT22084-066-004-32</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཉམ་ཆུང་ལུས་ལ་པགས་པ་ཙམ་ཞིག་ལས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Our weak bodies nothing but skin and bone.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-40">
+            <prop type="location-id">UT22084-066-004-32</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བདག་འཁོགས་བདག་སྐམས་བདེ་བ་རྣམས་ལས་ཉམས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Decrepit and withered, we have lost our happiness</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-41">
+            <prop type="location-id">UT22084-066-004-32</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བདག་ཅག་རྫུ་འཕྲུལ་ཐོབ་པར་གྱུར་མ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And not attained the power of magical emanation.’</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-42">
+            <prop type="location-id">UT22084-066-004-33</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཡི་གེ་མ་མཆིས་རྫུ་འཕྲུལ་གསུམ་རྣམས་ཀྱིས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Not by words but by the three miracles</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-43">
+            <prop type="location-id">UT22084-066-004-33</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བསྟན་པའི་དགྲ་རྣམས་མོག་མོག་གྱུར་པར་མཛད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Have the enemies of the teachings been overshadowed.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-44">
+            <prop type="location-id">UT22084-066-004-33</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བསྟན་པའི་འདྲེན་པ་ཁྱོད་ཀྱིས་དེ་རིང་ནི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Today, you, the guide of the teachings,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-45">
+            <prop type="location-id">UT22084-066-004-33</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།སངས་རྒྱས་སྲས་ལ་དུས་སྟོན་ཆེན་པོ་མཛད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Have created a great festival for the children of the buddhas.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-46">
+            <prop type="location-id">UT22084-066-004-35</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཁོར་འདི་ཐམས་ཅད་ཐེ་ཚོམ་འཚལ་བར་གྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“The entire assembly has resolved its doubts,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-47">
+            <prop type="location-id">UT22084-066-004-35</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དགའ་བ་སྐྱེས་ཤིང་སེམས་ཀྱང་རབ་དགའ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And, rejoicing, their minds have become very joyful.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-48">
+            <prop type="location-id">UT22084-066-004-35</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་ཞིག་གནས་ནས་ལྷ་ཚོགས་བདག་ཅག་ཀྱང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>We, the host of deities, who have come from our abodes,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-49">
+            <prop type="location-id">UT22084-066-004-35</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཇིག་རྟེན་མགོན་པོ་སངས་རྒྱས་གྱུར་ཅིག་མཆི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Also pray, ‘May we become buddhas, the protectors of the world!’</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-50">
+            <prop type="location-id">UT22084-066-004-36</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཇམ་དབྱངས་སངས་རྒྱས་མང་པོ་བསྙེན་བཀུར་བགྱིས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Mañjughoṣa has venerated many buddhas. I pray that Mañjughoṣa, who sits in the midst of the assembly,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-51">
+            <prop type="location-id">UT22084-066-004-36</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།སངས་རྒྱས་སྲས་པོ་མཐའ་ཡས་རྣམས་ཀྱིས་བསྐོར། །འཇམ་པའི་དབྱངས་ནི་འཁོར་གྱི་ནང་ན་མཆིས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Surrounded by infinite children of the buddhas,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-52">
+            <prop type="location-id">UT22084-066-004-36</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཆོ་འཕྲུལ་རྣམ་པར་ཕྱེ་སྟེ་བསྟན་དུ་གསོལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Will teach us and explain these miracles.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-53">
+            <prop type="location-id">UT22084-066-004-37</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདི་དག་ཆོས་ནི་གང་གི་ལྟས་ཤིག་ལགས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Of what were these things a sign?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-54">
+            <prop type="location-id">UT22084-066-004-37</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཐུབ་པ་ཆོས་ནི་གང་ཞིག་གསུང་བར་བཞེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>What Dharma was the sage intending to preach?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-55">
+            <prop type="location-id">UT22084-066-004-37</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཁོར་འདི་ཐམས་ཅད་འབོད་ཅིང་མཆིས་ལགས་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Since the entire assembly is crying forth,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-56">
+            <prop type="location-id">UT22084-066-004-37</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།སེམས་ཅན་ཐུགས་བརྩེའི་སླད་དུ་བདག་ལ་གསུངས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Out of your compassion for sentient beings, please teach us!”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-57">
+            <prop type="location-id">UT22084-066-004-38</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་སངས་རྒྱས་ཀྱི་བྱིན་གྱི་རླབས་ཀྱིས་འཁོར་དེའི་ནང་ནས་དྲང་སྲོང་ཆེན་པོ་མེ་སྒྲོན་ཞེས་བྱ་བ་གཅིག་གིས་བྱང་ཆུབ་སེམས་དཔའ་རྒྱལ་བའི་ཕུང་པོ་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then, from within that retinue and by the Buddha’s blessing, one of the great seers called Ulka said to the bodhisattva Victorious Heap, “Hey, young lord, keep quiet for a bit.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-58">
+            <prop type="location-id">UT22084-066-004-38</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཀྱེ་གཞོན་ནུ་རེ་ཤིག་ཁ་རོག་ཤིག་ཁོ་བོས་དྲི་བ་དྲི་བར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>I have a question to ask the Bhagavān.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-59">
+            <prop type="location-id">UT22084-066-004-38</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།གལ་ཏེ་ཁོ་བོའི་དྲི་བ་ཁོང་དུ་ཆུད་པར་བྱེད་ན་ནི་དེ་ཐམས་ཅད་མཁྱེན་པ་ཞེས་བྱ་བའི་མིང་དང་ཡང་འཐུན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>If he is able to decipher it, I will concede that he is worthy of the title Omniscient One</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-60">
+            <prop type="location-id">UT22084-066-004-38</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།འོན་ཏེ་སྲེད་མེད་ཀྱི་བུ་དང་། དབང་ཕྱུག་ཆེན་པོས་ཕྱུང་བའི་འགྲོ་ལྡིང་བ་རྣམས་ཀྱིས་སྤྲུལ་པ་བྱེད་དུ་བཅུག་ན་འདིར་ངོ་མཚར་ཡང་མི་ཆེ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>But given that Nārāyaṇa and Maheśvara have gotten magical birds to emanate various things, the amazing miracles that he has shown here are not that impressive.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-61">
+            <prop type="location-id">UT22084-066-004-38</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>སྐྱེས་བུ་ངན་པ་དང་། སྒྱུ་མ་མཁན་རྣམས་ཀྱིས་འདི་འགྲུབ་བོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Even rogues and conjurers are able to perform that trick!”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-62">
+            <prop type="location-id">UT22084-066-004-40</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་འཛུམ་པའི་ཞལ་གྱིས་དྲང་སྲོང་གི་ཚོགས་ལ་ཀུན་ཏུ་གཟིགས་ནས་དྲང་སྲོང་ཆེན་པོ་མེ་སྒྲོན་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །ཚེ་དང་ལྡན་པ་དྲང་སྲོང་ཆེན་པོ་ཅི་ནུས་ཀྱིས་དྲི་བ་དྲིས་ཤིག་དང་རྣམ་པར་སྦྱར་བར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thereupon, the Bhagavān, his smiling countenance observing the assembly of seers, said to the great seer Ulka, “O venerable Great Seer, ask all of your questions, and I shall resolve them!”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-63">
+            <prop type="location-id">UT22084-066-004-41</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ལ་དྲང་སྲོང་ཆེན་པོ་མེ་སྒྲོན་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །ཀྱེ་གཽ་ཏ་མ་སེམས་ཅན་གྱི་སྐྱེ་བ་གང་ནས་བྱུང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then, the great seer Ulka said to the Bhagavān, “O Gautama, what is the origin of sentient beings’ life?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-64">
+            <prop type="location-id">UT22084-066-004-41</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ཅིའི་སླད་དུ་བསྐལ་པས་སྲེག་པར་འགྱུར། སེམས་ཅན་རྣམས་གནས་གང་དུ་འདུ་བར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Why will the world be consumed by apocalyptic fire at the end of the eon? At that time, in what realm will sentient beings gather?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-65">
+            <prop type="location-id">UT22084-066-004-41</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ནང་ན་སེམས་ཅན་ཕྲ་བ་ཁྲུ་གང་ཙམ་མམ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Within that realm, what is the size of the subtle soul that resides there?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-66">
+            <prop type="location-id">UT22084-066-004-41</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>མཐོ་གང་ཙམ་མམ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Is it a cubit?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-67">
+            <prop type="location-id">UT22084-066-004-41</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>མཛུབ་མོ་ཙམ་མམ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Is it a finger span?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-68">
+            <prop type="location-id">UT22084-066-004-41</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>མཐེ་བོ་ཙམ་མམ། ནས་དང་། གྲོ་དང་། མོན་སྲན་སྡེའུ་དང་། མོན་སྲན་གྲེའུ་དང་། ཏིལ་དང་། ཡུངས་འབྲུ་ཙམ་མམ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Is it the size of a forefinger, a thumb, a grain of barley, a grain of wheat, a black gram, a sesame seed, or a mustard seed?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-69">
+            <prop type="location-id">UT22084-066-004-41</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>སེམས་ཅན་ཇི་ཙམ་ཞིག་ནང་ན་མཆིས་བཀའ་སྩོལ་ཅིག །དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དྲང་སྲོང་ཆེན་པོ་མེ་སྒྲོན་ལ་དྲང་སྲོང་ཆེན་པོ་ལེགས་སོ་ལེགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Please tell me how big this subtle soul within that realm is.” The Bhagavān responded to the great seer Ulka, “Excellent, Great Seer.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-70">
+            <prop type="location-id">UT22084-066-004-41</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཞེས་བྱ་བ་བྱིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Excellent.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-71">
+            <prop type="location-id">UT22084-066-004-41</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་ཚེ་བསྐལ་པ་དྲུག་ཅུ་པའི་དྲི་བ་དྲི་བ་འདི་ནི་འཐུན་པའོ། །དེ་ནས་དྲང་སྲོང་ཆེན་པོ་རྣམས་ངོ་མཚར་དུ་གྱུར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>These questions asked by this great seer—who is in fact sixty eons old—are felicitous.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-72">
+            <prop type="location-id">UT22084-066-004-44</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དྲང་སྲོང་ཆེན་པོ་མེ་སྒྲོན་གྱི་ཚེའི་ཚད་ནི་མ་བརྗོད་པར་བདག་ཅག་ལྷན་ཅིག་གནས་གནས་པ་རྣམས་ཀྱིས་ཀྱང་མ་ཤེས་ན་འདིས་ཇི་ལྟར་ཤེས་སྙམ་མོ། །བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Now the assembly of great seers became amazed, thinking, “How did he know the great seer Ulka’s age without being told? Even we who have lived with him for a long time did not know it!”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-73">
+            <prop type="location-id">UT22084-066-004-45</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དྲང་སྲོང་ཆེན་པོ་དེའི་ཕྱིར་ལེགས་པར་རབ་ཏུ་ཉོན་ལ་ཡིད་ལ་ཟུང་ཤིག་དང་བཤད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Bhagavān continued, “Great seers, listen to me carefully and pay attention, and I will explain.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-74">
+            <prop type="location-id">UT22084-066-004-45</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་གང་ང་ལ་སེམས་ཅན་གྱི་སྐྱེ་བ་གང་ནས་བྱུང་ཞེས་སྨྲས་པ་དེ་ནི་ཡི་གེས་བརྗོད་པ་མ་ཡིན་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, you asked me what is the origin of sentient beings’ life; about that, there is no verbal account.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-75">
+            <prop type="location-id">UT22084-066-004-45</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།སེམས་ཅན་ཞེས་བྱ་བ་ནི་མ་རིག་པའི་རྐྱེན་ནས་སྐྱེ་བ་དང་། རྒ་ཤིའི་བར་དུ་བྱུང་བའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>What we call a sentient being is one who is born from the condition of ignorance and who persists until old age and death.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-76">
+            <prop type="location-id">UT22084-066-004-45</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་ཡང་རྒྱུ་རྐྱེན་ལས་སེམས་ཅན་སྐྱེས་ཏེ་རྒྱུ་རྐྱེན་ནི་ཕ་མའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, alternatively, one can say that a sentient being is born from causes and conditions, and those causes and conditions are the parents.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-77">
+            <prop type="location-id">UT22084-066-004-45</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་ཡང་ཕ་མ་འགྲོགས་པ་ནི་དེའི་རྒྱུའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, the union of the parents is the cause.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-78">
+            <prop type="location-id">UT22084-066-004-45</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་གི་ཚེ་ཡོངས་སུ་རྟོག་པས་ཀུན་ནས་བསླང་བའི་ལས་ཀྱི་རླུང་རྣམས་ཀྱིས་བུད་མེད་ཀྱི་གྲོང་དུ་འཇུག་པ་དེ་ནི་རྐྱེན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And whenever there is entry into the body of a woman caused by the karmic winds, themselves impelled by concepts, that is the condition.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-79">
+            <prop type="location-id">UT22084-066-004-46</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་ཡང་སྡུག་བསྔལ་འཕགས་པའི་བདེན་པ་དང་། སྡུག་བསྔལ་ཀུན་འབྱུང་བ་དང་། སྡུག་བསྔལ་འགོག་པ་དང་། སྡུག་བསྔལ་འགོག་པར་འགྲོ་བའི་ལམ་འཕགས་པའི་བདེན་པ་ནི་སེམས་ཅན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, the truths of the noble ones—suffering, the origin of suffering, the cessation of suffering, and the path one travels to end suffering—are a sentient being.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-80">
+            <prop type="location-id">UT22084-066-004-46</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཉེ་བར་ལེན་པའི་ཕུང་པོ་ལྔ་དང་ཁམས་བཅྭ་བརྒྱད་ནི་སེམས་ཅན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The five appropriated aggregates and the eighteen constituent elements are a sentient being.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-81">
+            <prop type="location-id">UT22084-066-004-46</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་སེམས་ཅན་ཡང་གཞན་ལ་ལས་ཀྱང་གཞན་མ་ཡིན། ལས་ཀྱང་གཞན་ལ་སེམས་ཅན་ཡང་གཞན་མ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, a sentient being is nothing other than karma, and karma is nothing other than a sentient being.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-82">
+            <prop type="location-id">UT22084-066-004-46</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་སེམས་ཅན་ནི་འགྲིབ་པ་མ་ཡིན། འཕེལ་བ་མ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, a sentient being neither diminishes nor develops.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-83">
+            <prop type="location-id">UT22084-066-004-47</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོས་གསོལ་པ། ཀྱེ་གཽ་ཏ་མ་གལ་ཏེ་སེམས་ཅན་འགྲིབ་པ་མ་མཆིས། འཕེལ་བ་མ་མཆིས་ན། ཅིའི་སླད་དུ་སེམས་ཅན་ཁྱིའི་སྐྱེ་གནས་ནས་ཤི་འཕོས་ཏེ་དབང་སྒྱུར་དུ་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The great seer asked, “O Gautama, if a sentient being neither diminishes nor develops, how could sentient beings become sovereign after transmigrating from a previous rebirth, such as that of a dog?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-84">
+            <prop type="location-id">UT22084-066-004-48</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། དྲང་སྲོང་ཆེན་པོ་དེ་ནི་ཇི་སྐད་སྨྲས་པ་དེ་བཞིན་དུ་མ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Bhagavān replied, “Great Seer, it is not as you have said.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-85">
+            <prop type="location-id">UT22084-066-004-48</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།གལ་ཏེ་དབང་སྒྱུར་དབང་སྒྱུར་ཡིན་དུ་ཟིན་ན་ནི་དབང་མེད་པར་འཆི་བར་མི་རིགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>If sovereign persons were truly sovereign, it would not make sense for them to be powerless against death.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-86">
+            <prop type="location-id">UT22084-066-004-48</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་གང་རང་གི་ལུས་ཀྱི་གཙོ་བོ་མ་ཡིན་པ་དེ་ཇི་ལྟར་དབང་སྒྱུར་དུ་འགྱུར། དྲང་སྲོང་ཆེན་པོ་འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, how could those people who are not even the master of their own body be sovereign?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-87">
+            <prop type="location-id">UT22084-066-004-48</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དཔེར་ན་སྲིན་བུ་མེ་ཁྱེར་འདི་སྙམ་དུ་བདག་གིས་འཛམ་བུའི་གླིང་སྣང་བར་བྱའོ། །སྙམ་དུ་སེམས་པའི་རྐྱེན་གྱིས་སྲིན་བུ་མེ་ཁྱེར་གྱིས་འཛམ་བུའི་གླིང་སྣང་བར་བྱེད་དམ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, it would be like the case of a firefly thinking, ‘I shall illuminate Jambudvīpa myself.’ Could a firefly illuminate Jambudvīpa by virtue of that thought alone?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-88">
+            <prop type="location-id">UT22084-066-004-48</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>སེམས་མ་དུལ་བའི་དབང་སྒྱུར་ཡང་དག་པ་མ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Those who have not disciplined their mind are not genuine sovereigns.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-89">
+            <prop type="location-id">UT22084-066-004-49</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་ཡང་གལ་ཏེ་དབང་སྒྱུར་ཉོན་མོངས་པ་འབྲི་བར་གྱུར་ན་ནི་ཁྱི་ལ་ཉོན་མོངས་པ་ཤས་ཆེ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Also, Great Seer, if a sovereign person had fewer afflictions, then it follows that when that person was a dog, that person would have had many more afflictions.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-90">
+            <prop type="location-id">UT22084-066-004-49</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་གི་ཚེ་དབང་སྒྱུར་དང་ཉོན་མོངས་པ་དག་ཁྱི་ལ་ཡང་ཡོད་ཅིང་དབང་སྒྱུར་ལ་ཡང་ཡོད་པ་དེའི་ཚེ་སེམས་ཅན་འགྲིབ་པ་ཡང་མི་དམིགས། འཕེལ་བ་ཡང་མི་དམིགས་སོ། །དྲང་སྲོང་ཆེན་པོས་གསོལ་པ། གཽ་ཏ་མས་ཉོན་མོངས་པ་འགྲིབ་པར་མཛད་དམ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>But since both a dog and a sovereign person possess both sovereignty and afflictions, sentient beings cannot be seen as either diminishing or developing.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-91">
+            <prop type="location-id">UT22084-066-004-50</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། དྲང་སྲོང་ཆེན་པོ་ངས་ཕྱིན་ཅི་ལོག་དག་བཟློག་པ་ཡང་མེད། འགྲིབ་པར་བྱས་པ་ཡང་མེད་དོ། །དྲང་སྲོང་ཆེན་པོས་གསོལ་པ། གལ་ཏེ་དེ་ལྟར་ན་ཁྱོད་ཀྱང་དབང་སྒྱུར་མ་ལགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The great seer then asked, “Gautama, can afflictions be diminished?” The Bhagavān replied, “Great Seer, I have not overcome errors, nor have I diminished them.” The great seer retorted, “If that is true, then you too are not sovereign!”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-92">
+            <prop type="location-id">UT22084-066-004-51</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། དྲང་སྲོང་ཆེན་པོ་དེ་དེ་བཞིན་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Bhagavān replied, “Great Seer, that is the case.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-93">
+            <prop type="location-id">UT22084-066-004-51</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>མ་བྱུང་བའི་ཕྱིར་ང་ཡང་དབང་སྒྱུར་མ་ཡིན་ནོ། །དྲང་སྲོང་ཆེན་པོས་གསོལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Due to a lack of origination, I too am not sovereign.” The great seer then said, “Gautama, leave this topic aside for a moment.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-94">
+            <prop type="location-id">UT22084-066-004-51</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>གཽ་ཏ་མ་བཀའ་མཆིད་འདི་རེ་ཞིག་ཞོག །གཽ་ཏ་མའི་སྲས་ཀྱིས་ཕ་མ་འགྲོགས་པ་ལས་སེམས་ཅན་སྐྱེའོ་ཞེས་གསུངས་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>A child of Gautama said that sentient beings are born from the union of the parents.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-95">
+            <prop type="location-id">UT22084-066-004-51</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>སེམས་ཅན་མང་དུ་འགྲོགས་པ་ལ་སེམས་ཅན་སྐྱེ་བ་ཉུང་བར་གྱུར་པ་འདི་ཅི་ལྟ་བུ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Well, if this is so, then why are the births of sentient beings fewer than the many instances of union?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-96">
+            <prop type="location-id">UT22084-066-004-53</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། ཁྱོད་ལ་དཔེ་བསྟན་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Bhagavān said, “I shall demonstrate it to you with the following analogy.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-97">
+            <prop type="location-id">UT22084-066-004-53</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་འདི་ལྟ་སྟེ། དཔེར་ན་ས་བོན་གཅིག་ལས་ཤིང་སྐྱེ་བར་འགྱུར་ཏེ། འབྲས་བུ་གཅིག་ལས་ཀྱང་འབྲས་བུ་མཐའ་ཡས་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, it is like the case of a tree that grows from a single seed, or the case of limitless fruits growing from a single fruit with many seeds.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-98">
+            <prop type="location-id">UT22084-066-004-53</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ལ་རེས་འགའ་ནི་གཅིག་ས་བོན་གྱི་འོས་སུ་འགྱུར་གྱི་ལྷག་མ་ས་བོན་གྱི་འོས་སུ་མི་འགྱུར་བ་དེ་ཇི་ལྟ་བུ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>How is it that sometimes one seed grows whereas the other seeds do not?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-99">
+            <prop type="location-id">UT22084-066-004-54</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དྲང་སྲོང་ཆེན་པོས་གསོལ་པ། ཀྱེ་གཽ་ཏ་མ་རླུང་དང་ཉི་མས་ཤིང་ཏོག་རྣམས་མ་རུང་བར་བགྱིས་སོ། །བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། དྲང་སྲོང་ཆེན་པོ་དེ་དེ་བཞིན་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The great seer replied, “O Gautama, fruits are ruined by the wind and the sun.” The Bhagavān said, “Great Seer, that is the case.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-100">
+            <prop type="location-id">UT22084-066-004-54</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ལས་ཀྱི་རླུང་གིས་ཀྱང་སེམས་ཅན་གྱི་འབྲས་བུ་རྣམས་མ་རུང་བར་བྱས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The fruits of sentient beings are also ruined by karmic winds.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-101">
+            <prop type="location-id">UT22084-066-004-54</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་ཁ་ཅིག་ནི་མངལ་ན་གནས་པ་ཉིད་ཀྱི་ཚེ་སྲིན་བུ་རྣམས་ཀྱིས་ཟོས་སོ། །ཁ་ཅིག་ནི་ལས་ཀྱི་རླུང་རྣམས་ཀྱིས་ཕྱེ་མར་བྱས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, some are eaten by worms when they are just in the womb, and some are turned to dust by karmic winds.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-102">
+            <prop type="location-id">UT22084-066-004-54</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་ཤིང་གི་ཉེས་པ་ནི་ཉུང་ངོ་། །སེམས་ཅན་གྱི་ཉེས་པ་ནི་མང་ངོ་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, the faults of a tree are few, but the faults of sentient beings are many.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-103">
+            <prop type="location-id">UT22084-066-004-54</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་ཡང་སེམས་ཅན་གྱི་ཁམས་ནི་ཡོངས་སུ་རྟོག་པས་ཀུན་ནས་བསླང་བ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, the constituent elements of sentient beings are impelled by conceptions.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-104">
+            <prop type="location-id">UT22084-066-004-54</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དྲང་སྲོང་ཆེན་པོ་སེམས་ཅན་རྣམས་ཀྱི་སེམས་དང་སེམས་ལས་བྱུང་བ་འཇུག་པ་ཇི་སྙེད་པ་དེ་སྙེད་དུ་སྲིད་པ་ལ་དམིགས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, sentient beings are seen as existent insofar as their minds and mental factors are operating.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-105">
+            <prop type="location-id">UT22084-066-004-54</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དྲང་སྲོང་ཆེན་པོ་དེའི་ཕྱིར་སེམས་ཅན་གྱི་ཁམས་ནི་ཡོངས་སུ་རྟོག་པས་ཀུན་ནས་བསླང་བའོ་ཞེས་ང་སྨྲའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Therefore, Great Seer, I assert that the constituent elements of sentient beings are impelled by conceptions.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-106">
+            <prop type="location-id">UT22084-066-004-55</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོས་གསོལ་པ། ཀྱེ་གཽ་ཏ་མ་དེ་དེ་བཞིན་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The great seer said, “O Gautama, that is the case.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-107">
+            <prop type="location-id">UT22084-066-004-55</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ཞུ་བ་བརྗོད་པ་འདི་ནི་རྣམ་པར་དག་གོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The response you have given is faultless.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-108">
+            <prop type="location-id">UT22084-066-004-55</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཅིའི་སླད་དུ་བསྐལ་པས་སྲེག་པར་འགྱུར་བ་བཀའ་སྩོལ་ཅིག །བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Next, please explain why the world will be consumed by apocalyptic fire at the end of the eon.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-109">
+            <prop type="location-id">UT22084-066-004-56</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དྲང་སྲོང་ཆེན་པོ་ཆོས་ཀྱི་དབྱིངས་འདུས་མ་བྱས་པའི་ཕྱིར་བསྐལ་པས་སྲེག་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Bhagavān replied, “Great Seer, the world will be consumed by apocalyptic fire because the expanse of reality is unconditioned.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-110">
+            <prop type="location-id">UT22084-066-004-56</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་གལ་ཏེ་བསྐལ་པས་སྲེག་པར་མི་འགྱུར་ན་ཆོས་ཀྱི་དབྱིངས་གཉིས་སུ་འགྱུར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, if it were not consumed by apocalyptic fire, then the expanse of reality would be dual:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-111">
+            <prop type="location-id">UT22084-066-004-56</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ལ་ལ་མི་རྟག་ལ། ལ་ལ་རྟག་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>some things would be impermanent and others permanent.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-112">
+            <prop type="location-id">UT22084-066-004-56</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེའི་ཚེ་དེ་བཞིན་གཤེགས་པ་བདེན་པ་སྨྲ་བར་མི་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>If that were so, the Tathāgata would not be telling the truth.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-113">
+            <prop type="location-id">UT22084-066-004-56</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་གང་གི་ཕྱིར་འདི་ཐམས་ཅད་རྟག་པ་མ་ཡིན། བརྟན་པ་མ་ཡིན། དབུགས་ཕྱིན་པ་མ་ཡིན་པ་དེའི་ཚེ་དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་མཁྱེན་པ་ཞེས་བྱ་བ་དེའི་མིང་ཐོབ་བོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, since everything is impermanent and unstable and offers no respite, the Tathāgata attains the title Omniscient</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-114">
+            <prop type="location-id">UT22084-066-004-57</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོས་བྲམ་ཟེའི་ཁྱེའུ་ལ་སྨྲས་པ། འདི་ཐམས་ཅད་མཁྱེན་པར་མཚན་གསོལ་པ་ནི་འཐུན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The great seer said to a young brahmin, “He’s worthy of the title Omniscient</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-115">
+            <prop type="location-id">UT22084-066-004-57</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། དྲང་སྲོང་ཆེན་པོ་གལ་ཏེ་བསྐལ་པས་བསྲེགས་པར་མ་གྱུར་ན་འདི་ནི་དུས་བཟང་པོའོ། །འདི་ནི་དུས་ངན་པའོ་ཞེས་བྱ་བར་དུས་ཐ་དད་པ་མེད་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Bhagavān said, “Great Seer, if the world were not consumed by apocalyptic fire, saying ‘This is a fortunate period’ versus ‘This is an unfortunate period’ would be a meaningless distinction.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-116">
+            <prop type="location-id">UT22084-066-004-57</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་གལ་ཏེ་ཡང་བསྐལ་པས་བསྲེགས་པར་མ་གྱུར་ན་ལེགས་པར་བྱས་པ་དང་། ཉེས་པར་བྱས་པའི་ལས་རྣམས་ཀྱི་རྣམ་པར་སྨིན་པ་ཐ་དད་པ་མེད་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Also, Great Seer, if it were not consumed by apocalyptic fire, the karmic ripening of good and evil deeds would be indistinguishable.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-117">
+            <prop type="location-id">UT22084-066-004-57</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་ཡང་འདི་ལྟ་སྟེ། བསྐལ་པས་སྲེག་པ་འདི་ནི་དེ་བཞིན་གཤེགས་པ་རྣམས་ཀྱི་ཐབས་མཁས་པ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, moreover, the destruction of the world by apocalyptic fire is a skillful means of the tathāgatas.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-118">
+            <prop type="location-id">UT22084-066-004-57</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དྲང་སྲོང་ཆེན་པོ་སེམས་ཅན་ཇི་སྙེད་བསྐལ་པས་སྲེག་པར་འགྱུར་བ་ཐོས་ནས་དད་པར་འགྱུར་བའི་སེམས་ཅན་དེ་སྙེད་དེ་བཞིན་གཤེགས་པས་བསྡུ་བའི་དངོས་པོས་སྡུད་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, after learning about this destruction by apocalyptic fire, sentient beings gain faith and are attracted to the tathāgatas via their methods of gathering disciples.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-119">
+            <prop type="location-id">UT22084-066-004-59</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་འདི་ལྟ་སྟེ། དཔེར་ན་ཁ་ཆུ་ལྡག་པའི་སྦྲུལ་ནི་མིག་གིས་ཀྱང་རྡུབ། རྣ་བ་དང་། སྣ་དང་། ཁའི་སྒོ་ནས་ཀྱང་རྡུབ་བོ། །དྲང་སྲོང་ཆེན་པོ་དེ་བཞིན་གཤེགས་པ་ལ་ཡང་དེ་ལྟར་བལྟ་སྟེ། སྦྱིན་པས་ཀྱང་སྡུད། སྙན་པར་སྨྲ་བས་ཀྱང་སྡུད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Great Seer, for example, a saliva-licking snake is able to inhale through its eyes, as well as through its ears, nose, and mouth.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-120">
+            <prop type="location-id">UT22084-066-004-59</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དོན་སྤྱོད་པས་ཀྱང་སྡུད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, likewise, tathāgatas attract sentient beings through generosity, affectionate speech, beneficial actions, and consistency between their words and actions.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-121">
+            <prop type="location-id">UT22084-066-004-60</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དོན་འཐུན་པས་ཀྱང་སྡུད་དོ། །དྲང་སྲོང་ཆེན་པོ་འདི་ལྟ་སྟེ། དཔེར་ན་གསེར་ལ་གནོད་པར་བྱ་བའི་ཕྱིར་མེར་འཇུག་པ་མ་ཡིན་གྱིས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Great Seer, for example, one does not place gold in fire in order to destroy it.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-122">
+            <prop type="location-id">UT22084-066-004-60</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>གསེར་དུལ་མ་མ་ཡིན་པ་འདི་ཇི་ལྟར་ན་དུལ་མར་འགྱུར་སྙམ་ནས་དེའི་ཕྱིར་མེར་འཇུག་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Rather, one puts solid gold in the fire with the intention to produce gold dust.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-123">
+            <prop type="location-id">UT22084-066-004-60</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤིན་ཏུ་བསྲེགས་པའི་ཕྱིར་རིན་པོ་ཆེའི་འོས་སུ་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It is by exposing the gold to intense heat that it becomes more precious.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-124">
+            <prop type="location-id">UT22084-066-004-60</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།རིན་པོ་ཆེས་སྤྲས་པ་དེའི་རིན་ཐང་མེད་པར་འགྱུར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>That way, whatever it decorates becomes priceless.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-125">
+            <prop type="location-id">UT22084-066-004-60</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དྲང་སྲོང་ཆེན་པོ་དེའི་ཕྱིར་གསེར་བརྡུང་བ་དང་བསྲེག་པས་རྣམ་པར་སྦྱོང་ངོ་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, that is why gold is pounded and burnt.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-126">
+            <prop type="location-id">UT22084-066-004-60</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་དེ་བཞིན་དུ་སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཀྱང་རྒྱུ་མེད་པར་སྲེག་པའི་བསྐལ་པ་མི་འབྱིན་ཏེ། འདིར་སེམས་ཅན་གང་ལ་ཡང་གནོད་པར་མི་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, likewise, the bhagavān buddhas do not needlessly bring forth the apocalyptic fire, and no sentient being is harmed during the destruction.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-127">
+            <prop type="location-id">UT22084-066-004-62</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ལ་དྲང་སྲོང་ཆེན་པོ་མེ་སྒྲོན་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་བསྐལ་པས་སྲེག་པའི་མེ་ཕྱུང་ཡང་སེམས་ཅན་གང་ལ་ཡང་གནོད་པར་མི་འགྱུར་བ་ནི་ངོ་མཚར་ཏོ། །བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thereupon, the great seer Ulka said to the Bhagavān, “O Bhagavān, it is wonderful that no sentient being is harmed even though the world is consumed by apocalyptic fire at the end of the eon.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-128">
+            <prop type="location-id">UT22084-066-004-63</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དྲང་སྲོང་ཆེན་པོ་དེ་བཞིན་གཤེགས་པ་རྣམས་ནི་སེམས་ཅན་གང་ལ་ཡང་གནོད་པར་མི་མཛད་དོ། །དྲང་སྲོང་ཆེན་པོ་འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Bhagavān said, “Great Seer, tathāgatas do not harm any sentient being.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-129">
+            <prop type="location-id">UT22084-066-004-63</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དཔེར་ན་ཕྱོགས་བཅུ་རྣམས་སུ་ཆར་ཕྲ་མོའི་རྒྱུན་འབབ་པ་དེ་བས་ནི་དྲང་སྲོང་ཆེན་པོ་དེ་བཞིན་གཤེགས་པ་རྣམས་དང་། ས་བཅུ་ལ་གནས་པའི་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཉེ་བར་གནས་ཏེ། རང་གི་ལག་གིས་སེམས་ཅན་ཐར་པར་བྱེད་པ་ནི་ཆེས་མང་ངོ་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, the tathāgatas and bodhisattvas of the ten stages, who hold sentient beings near and dear and lead them hand in hand to liberation, are more numerous than droplets of light mist falling throughout the ten directions.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-130">
+            <prop type="location-id">UT22084-066-004-63</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་དེའི་ཚེ་སེམས་ཅན་དེ་དག་གིས་དེ་བཞིན་གཤེགས་པ་དང་། བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་གི་གཟུགས་ཀྱང་མཐོང་། ཁ་དོག་མཛེས་པ་ཡང་མཐོང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, at that time,  sentient beings will even see the bodies and radiant luster of those tathāgatas and bodhisattvas who liberate them from the terrors of the apocalyptic fire at the end of the eon.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-131">
+            <prop type="location-id">UT22084-066-004-64</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>བསྐལ་པས་བསྲེགས་པའི་འཇིགས་པ་ལས་བདག་ཉིད་སྒྲོལ་བ་ཡང་མཐོང་ནས་དགའ་བ་དང་། མཆོག་ཏུ་དགའ་བ་སྐྱེས་ཏེ་འདི་སྐད་ཅེས་བདག་ཅག་ཀྱང་འདི་ལྟར་སྒྲོལ་བ་པོར་གྱུར་ཅིག །བདག་ཅག་ཀྱང་འདི་ལྟར་གཟུགས་མཛེས་པར་གྱུར་ཅིག །བདག་ཅག་ཀྱང་འདི་ལྟར་ཁ་དོག་མཛེས་པར་གྱུར་ཅིག་ཅེས་འཛེར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“They will become contented and very joyful. So, they will sing, ‘May we also become liberators like them. May our bodies also become beautiful like theirs.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-132">
+            <prop type="location-id">UT22084-066-004-64</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ཁ་ཅིག་ནི་ཡིད་བྱུང་ནས་སེམས་རྣམ་པར་གྲོལ་ཏེ་རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ་མངོན་སུམ་དུ་བྱེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>May our luster also become radiant like theirs.’ Rueful, some of their minds will be freed, and they will attain the level of a stream enterer as a result.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-133">
+            <prop type="location-id">UT22084-066-004-65</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ཁ་ཅིག་ནི་ལན་ཅིག་ཕྱིར་འོང་བའི་འབྲས་བུ་དང་། ཕྱིར་མི་འོང་བའི་འབྲས་བུ་མངོན་སུམ་དུ་བྱེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Others will attain the level of a once-returner or the level of a non-returner.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-134">
+            <prop type="location-id">UT22084-066-004-65</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ཁ་ཅིག་ནི་དགྲ་བཅོམ་པ་ཉིད། ཁ་ཅིག་ནི་རང་བྱང་ཆུབ། ཁ་ཅིག་ནི་མི་སྐྱེ་བའི་ཆོས་ལ་བཟོད་པ་རབ་ཏུ་ཐོབ། ཁ་ཅིག་ནི་ཕྱིར་མི་ལྡོག་པའི་ས་གནོན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Still others will attain the level of an arhat, or the enlightenment of a solitary realizer, or the level of acceptance that phenomena are unborn, and some will reach the stage of nonregression.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-135">
+            <prop type="location-id">UT22084-066-004-65</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ཁ་ཅིག་ནི་རྒྱལ་ཆེན་བཞིའི་རིས་ཀྱི་ལྷ་རྣམས་ཀྱི་ནང་དུ་སྐྱེ། ཁ་ཅིག་ནི་སུམ་ཅུ་རྩ་གསུམ་དུ། ཁ་ཅིག་ནི་མཚེ་མར། ཁ་ཅིག་ནི་དགའ་ལྡན་དུ། ཁ་ཅིག་ནི་འཕྲུལ་དགར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Some will be born as gods in the realms of the Four Great Kings, or as gods in the Heaven of the Thirty-Three, or of the Yāma Heaven, or of the Joyous Heaven, or of Delightful Emanations, or of Controlling Others’ Emanations.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-136">
+            <prop type="location-id">UT22084-066-004-66</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ཁ་ཅིག་ནི་གཞན་འཕྲུལ་དབང་བྱེད་ཀྱི་ལྷ་རྣམས་ཀྱི་ནང་དུ་སྐྱེའོ། །དྲང་སྲོང་ཆེན་པོ་རྣམ་གྲངས་འདི་ལྟ་བུར་འོག་མིན་གྱི་བར་གྱི་ལྷ་རྣམས་ཀྱི་ནང་དུ་སྐྱེའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Great Seer, according to this Dharma teaching, some will be born as gods in all the heavens up to the highest heaven, Below No Other.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-137">
+            <prop type="location-id">UT22084-066-004-66</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་བཞིན་དུ་འཁོར་ལོས་སྒྱུར་བ་རྣམས་དང་། སྟོབས་ཀྱི་འཁོར་ལོས་སྒྱུར་བ་རྣམས་དང་ཁམས་ཀྱི་རྒྱལ་པོ་རྣམས་སུ་འགྱུར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Likewise, others will become universal monarchs, or universal monarchs who rule by force, or feudal lords.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-138">
+            <prop type="location-id">UT22084-066-004-66</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དྲང་སྲོང་ཆེན་པོ་རྒྱལ་རིགས་དང་། བྲམ་ཟེ་དང་། ཁྱིམ་བདག་རྣམས་ཀྱི་བར་དུ་ཡང་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, some will be born as kṣatriyas, as brahmins, as householders, or anywhere in between.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-139">
+            <prop type="location-id">UT22084-066-004-67</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་རྣམ་གྲངས་འདི་ལྟ་བུས་དེ་བཞིན་གཤེགས་པའི་གཟུགས་ཀྱི་སྐུ་མཐོང་ཞིང་བདག་ཉིད་ཀྱང་འཇིགས་པ་ཆེན་པོ་ལས་གྲོལ་བར་མཐོང་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Great Seer, these types of beings will see the form bodies of the tathāgatas. Seeing themselves liberated from great fear, they will realize and remember the kindness of the tathāgatas.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-140">
+            <prop type="location-id">UT22084-066-004-67</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་ལ་བྱས་པ་གཟོ་ཞིང་བྱས་པ་ཤེས་པར་འགྱུར་རོ། །དེ་བཞིན་གཤེགས་པ་ལ་ཆོས་ཉིད་ཐོས་ནས་བསླབ་པའི་གནས་རྣམས་ལ་བག་བྱེད་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Learning about the true nature of dharmas from the tathāgatas, they will become vigilant in the forms of training.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-141">
+            <prop type="location-id">UT22084-066-004-67</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཐབས་འདིས་ན་ངན་སོང་དུ་འགྲོ་བར་མི་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>By this means, they will not be reborn in unfortunate rebirths.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-142">
+            <prop type="location-id">UT22084-066-004-68</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་ཡང་ས་བཅུ་ལ་གནས་པའི་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཀྱི་མིག་ལ་སའི་ཁམས་ཇི་སྙེད་སྣང་བར་འགྱུར་བ་དེ་བས་ནི་སེམས་ཅན་གྱི་ཁམས་གང་འཁོར་བར་ཆགས་པའི་སྐྱོན་ཆགས་པར་ཤེས་ནས་ཕུང་པོ་མ་ལུས་པའི་མྱ་ངན་ལས་འདས་པའི་དབྱིངས་སུ་ཡོངས་སུ་མྱ་ངན་ལས་འདའ་བར་བྱེད་པ་ཆེས་མང་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Great Seer, there are as many realms of sentient beings who possess the faults of craving for saṃsāra as there are particles of the earth element that appear to the eyes of bodhisattvas on the tenth stage. Having realized this, sentient beings will frequently pass completely beyond sorrow into the sphere of liberation, beyond the sorrow of the psycho-physical aggregates.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-143">
+            <prop type="location-id">UT22084-066-004-68</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དྲང་སྲོང་ཆེན་པོ་དེའི་ཕྱིར་བསྐལ་པས་སྲེག་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, this is why the world will be consumed by apocalyptic fire.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-144">
+            <prop type="location-id">UT22084-066-004-69</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་དྲང་སྲོང་ཆེན་པོ་མེ་སྒྲོན་གྱིས་རང་གི་ཡིད་ཀྱིས་རྣམ་པར་དཔྱད་ནས་ཚིག་ཏུ་སྨྲས་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The great seer Ulka contemplated this and said eloquently, “Alas!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-145">
+            <prop type="location-id">UT22084-066-004-69</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀྱེ་མའོ་གང་བདག་དྲང་སྲོང་ཆེན་པོ་ཞེས་འབོད་པ་ཤཱཀྱའི་སྲས་འདིའི་ཆེ་བ་ཉིད་ནི་རྒྱ་ཆེ་བའོ། །བདག་གིས་འདི་ལ་བགམས་པས་ཀྱང་ཆོག་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>How can I be called Great Seer ? The magnificence of this son of the Śākya clan is extremely vast.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-146">
+            <prop type="location-id">UT22084-066-004-69</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>འདི་ནི་ཐམས་ཅད་མཁྱེན་པར་མངོན་གྱིས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>I have tested him enough, for he is manifestly omniscient.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-147">
+            <prop type="location-id">UT22084-066-004-69</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>བདག་གིས་ཀྱང་འདི་ལ་ཡང་དག་པའི་མིང་གིས་བོད་པར་བྱའོ་ཞེས་སྨྲས་སོ། །དེ་ནས་བཅོམ་ལྡན་འདས་ལ་དྲང་སྲོང་ཆེན་པོ་མེ་སྒྲོན་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །ཡོན་ཏན་གྱི་འབྱུང་གནས་སུ་གྱུར་ཅིང་མཁྱེན་པ་དཔག་ཏུ་མ་མཆིས་པས་ཐམས་ཅད་མཁྱེན་པ་ཞེས་མཚན་གསོལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>I too will call him by his proper title!” Then the great seer Ulka said to the Bhagavān, “You have earned the title Omniscient because you have become the source of all good qualities, and your exalted knowledge is infinite.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-148">
+            <prop type="location-id">UT22084-066-004-69</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>སེམས་ཅན་གནས་གང་དུ་འདུ་བར་འགྱུར་བ་བདག་ལ་བཀའ་སྩོལ་ཅིག །བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Please tell me in what realm sentient beings will congregate.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-149">
+            <prop type="location-id">UT22084-066-004-70</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དྲང་སྲོང་ཆེན་པོ་གནས་མེད་པ་ལ་སེམས་ཅན་འདུ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Bhagavān said, “Great Seer, sentient beings will congregate nowhere.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-150">
+            <prop type="location-id">UT22084-066-004-70</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།མཉམ་པ་ཉིད་ལ་སེམས་ཅན་འདུ་བར་འགྱུར་རོ། །དྲང་སྲོང་ཆེན་པོ་ཐེག་པ་གཅིག་གིས་འབྱུང་བ་ལ་སེམས་ཅན་འདུ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They will congregate in the state of equality. Great Seer, sentient beings will congregate in the state produced by the one vehicle.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-151">
+            <prop type="location-id">UT22084-066-004-70</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བྱང་ཆུབ་ཀྱི་སྙིང་པོ་ལ་སེམས་ཅན་འདུ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Sentient beings will congregate in the essence of enlightenment.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-152">
+            <prop type="location-id">UT22084-066-004-70</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་ཕུང་པོ་མ་ལུས་པའི་མྱ་ངན་ལས་འདས་པའི་དབྱིངས་སུ་སེམས་ཅན་འདུ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, sentient beings will congregate in the sphere of liberation from the sorrow of the psycho-physical aggregates.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-153">
+            <prop type="location-id">UT22084-066-004-70</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་འདི་ལྟ་སྟེ། དཔེར་ན་ཆུ་ཀླུང་ཆེན་པོ་ཐ་དད་པ་དང་། ཀླུང་ཕྲན་དང་། ཀླུང་ཆེན་པོ་དག་རྒྱ་མཚོ་ཆེན་པོར་བབ་ནས་རོ་གཅིག་ཏུ་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, for instance, various rivers, streams, and tributaries flow toward one vast ocean and thus become indistinguishable.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-154">
+            <prop type="location-id">UT22084-066-004-70</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་དེ་བཞིན་དུ་སེམས་ཅན་གྱི་ཁམས་ཇི་སྙེད་ཟག་པ་ཟད་པར་བྱེད་པ་དེ་དག་ཐམས་ཅད་རྣམ་པར་གྲོལ་བའི་ངང་དུ་གྱུར་པས་འདུ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, likewise, all the realms of sentient beings will be expunged of impurities, and their inhabitants will thereby congregate in the state of liberation.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-155">
+            <prop type="location-id">UT22084-066-004-72</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་འཁོར་བར་འདུ་བས་སེམས་ཅན་འདུ་བར་འགྱུར་བ་ནི་འདུ་བ་མ་ཡིན་པའོ་ཞེས་ང་སྨྲའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Great Seer, I would say that since sentient beings have congregated in saṃsāra, they have yet to really congregate.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-156">
+            <prop type="location-id">UT22084-066-004-72</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་འདི་ལྟ་སྟེ། དཔེར་ན་རླུང་གིས་བདས་ནས་ཕྱེ་མ་ལེབ་ཕྱི་ཕྱི་ཞྭ་ལ་འདུ་བར་འགྱུར་ཏེ། རླུང་མེད་ན་སོ་སོར་འགྱེས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, for instance, butterflies from all over, buffeted by the wind, cluster around a puddle. When there is no wind, they separate from one another.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-157">
+            <prop type="location-id">UT22084-066-004-72</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་དེ་བཞིན་དུ་སེམས་ཅན་དམྱལ་བར་འགྲོ་བར་འགྱུར་བས་ཕན་ཚུན་ལས་འབྲེལ་པའི་སེམས་ཅན་གྱི་ཁམས་དེ་དག་ཀྱང་དེར་འདུ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Like this, Great Seer, those sentient beings who are mutually connected through karma to go to hell will congregate there.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-158">
+            <prop type="location-id">UT22084-066-004-74</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་རྣམ་གྲངས་འདི་ལྟ་བུར་ཕན་ཚུན་ལས་ཀྱིས་འབྲེལ་བ་དག་ཡི་དགས་སུ་སྐྱེ་བར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Great Seer, in the same manner, those beings who are mutually connected through karma to be reborn as hungry ghosts or as animals will congregate there.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-159">
+            <prop type="location-id">UT22084-066-004-74</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དུད་འགྲོར་སྐྱེ་བར་འགྱུར་ཏེ། དེར་དེ་དག་འདུ་བར་འགྱུར་རོ། །དྲང་སྲོང་ཆེན་པོ་ལྷ་དང་མི་རྣམས་སུ་དེ་དག་འདུ་བར་འགྱུར་རོ། །དྲང་སྲོང་ཆེན་པོས་གསོལ་པ། ཐམས་ཅད་ཟིལ་གྱིས་གནོན་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, those beings who would be reborn as gods and humans will congregate there.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-160">
+            <prop type="location-id">UT22084-066-004-75</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ཐམས་ཅད་མཁྱེན་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The great seer said, “O Surpasser of All, Omniscient One!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-161">
+            <prop type="location-id">UT22084-066-004-75</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>མིར་སྐྱེས་པ་འདི་སེམས་ཅན་ཆེ་གེ་མོ་ཞེས་བགྱི་བ་ཞིག་དང་འདུས་པར་གྱུར་ཏོ། །དུད་འགྲོར་སྐྱེས་པ་འདི་ཞེས་བགྱི་བ་ནས་ཡི་དགས་སུ་སྐྱེས་པ་འདི་འདུས་པར་གྱུར་ཏོ་ཞེས་བགྱི་བའི་བར་དུ་ཇི་ལྟར་འཚལ་བར་བགྱི་བ་བཀའ་སྩོལ་ཅིག །བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Please explain how those formerly born as humans will later become other types of beings, be they animals, hungry ghosts, or anywhere in between.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-162">
+            <prop type="location-id">UT22084-066-004-76</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དྲང་སྲོང་ཆེན་པོ་སེམས་ཅན་གང་ཞིག་སེམས་ཅན་གང་དང་ལྷན་ཅིག་ཏུ་སེམས་ཅན་དམྱལ་བར་སྐྱེས་ནས་འདུས་པར་གྱུར་པ་དེས་དེ་མཐོང་ན་ཡིད་མི་བདེ་བར་འགྱུར། ཞེ་སྡང་བར་འགྱུར། དེས་དེ་མཐོང་ནས་གལ་ཏེ་ན་དེ་ཀླད་པ་ན་བར་ཡང་འགྱུར། བཤང་བ་དང་། གཅི་བ་འབྱུང་བར་ཡང་འགྱུར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Bhagavān replied, “Great Seer, when sentient beings see other sentient beings with whom they will be born and congregate in hell, they become sad, they get angry, their heads pound, and they even defecate and urinate upon themselves.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-163">
+            <prop type="location-id">UT22084-066-004-76</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དྲང་སྲོང་ཆེན་པོ་འདི་ནི་སེམས་ཅན་དམྱལ་བར་སྐྱེས་པ་རྣམས་ཀྱི་འདུ་བའི་མཚན་ཉིད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, this is characteristic of how those who will be born in hell are embodied.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-164">
+            <prop type="location-id">UT22084-066-004-76</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་ལ་ལ་དེ་ལྟར་གྱུར་པ་དེས་ཀྱང་བདག་དང་འདི་ལྷན་ཅིག་ཏུ་སེམས་ཅན་དམྱལ་བ་རྣམས་ན་གནས་གནས་པར་མངོན་ནོ་ཞེས་དེ་ལྟར་ཁོང་དུ་ཆུད་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Anyone in this situation will also come to understand, ‘Now this sentient being and I will abide together in hell.’ ”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-165">
+            <prop type="location-id">UT22084-066-004-77</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོས་གསོལ་པ། རིགས་གསལ་བར་མཛད་པ། ཐམས་ཅད་མཁྱེན་པ། དུད་འགྲོ་དང་ལྷན་ཅིག་གནས་གནས་པ་རྣམས་ཀྱི་མཚན་མར་འགྱུར་བ་ཇི་ལྟ་བུ་ལགས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The great seer then said, “O One Who Clarifies the Types of Beings, O Omniscient One, what are the features of those who will abide together in the animal realm?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-166">
+            <prop type="location-id">UT22084-066-004-78</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། མིར་སྐྱེས་པའི་སེམས་ཅན་རྣམས་གང་གི་ཚེ་ཕན་ཚུན་མཐོང་བ་ན་ཁོན་དུ་མདུད་པར་འཛིན་ཅིང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Bhagavān replied, “Whenever sentient beings who have been born in the human realm see one another, they hold bonds of enmity.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-167">
+            <prop type="location-id">UT22084-066-004-78</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>འདི་ལས་བདག་གིས་སྐྱོན་ཇི་ལྟར་རྙེད་སྙམ་དུ་སྐྱོན་ཚོལ་བ་འདི་ནི་དྲང་སྲོང་ཆེན་པོ་དུད་འགྲོར་སྐྱེས་པའི་སེམས་ཅན་རྣམས་ཀྱི་འདུ་བའི་མཚན་ཉིད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then, they seek out the faults of others, thinking, ‘How can I find their faults?’ Great Seer, this is characteristic of how those who will be born in the animal realm are embodied.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-168">
+            <prop type="location-id">UT22084-066-004-78</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>བདག་དང་འདི་ལྷན་ཅིག་ཏུ་དུད་འགྲོའི་ནང་ན་གནས་གནས་པར་མངོན་ནོ་ཞེས་དེ་ལྟར་ཤེས་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They will also come to understand, ‘Now this sentient being and I will abide together in the animal realm.’</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-169">
+            <prop type="location-id">UT22084-066-004-79</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་ཡི་དགས་སུ་སྐྱེས་པ་རྣམས་ནི་དྲི་ང་བ་འདོད་ཅིང་ཁ་ཟས་ལ་ཤིན་ཏུ་སྲེད་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Great Seer, those who will be born as hungry ghosts desire foul smells and excessively crave food.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-170">
+            <prop type="location-id">UT22084-066-004-79</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཕ་རོལ་ལ་སྦྱིན་པར་བསམས་ཀྱང་ཆགས་པ་སྐྱེ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Even if they want to give to others,  attachment arises.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-171">
+            <prop type="location-id">UT22084-066-004-79</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་དང་དེ་ཡི་དགས་སུ་སྐྱེས་ནས་ལྷན་ཅིག་འདུས་པར་གྱུར་པ་དེའི་དབང་ཕྱུག་མཐོང་ནས་ཕྲག་དོག་སྐྱེ་བར་འགྱུར། གཞན་གྱི་ནོར་ལ་འདོད་པར་འགྱུར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Those who will be born as hungry ghosts, having seen the wealth of another with whom they have congregated, become jealous and desirous of the possessions of others.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-172">
+            <prop type="location-id">UT22084-066-004-79</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>འདི་ནི་ཡི་དགས་སུ་སྐྱེས་པ་རྣམས་ཀྱི་འདུ་བའི་མཚན་ཉིད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>This is characteristic of how those who will be born as hungry ghosts are embodied.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-173">
+            <prop type="location-id">UT22084-066-004-79</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ལ་བདག་དང་འདི་ལྷན་ཅིག་ཏུ་ཡི་དགས་ཀྱི་ནང་ན་གནས་གནས་པར་མངོན་ནོ་ཞེས་དེ་ལྟར་ཤེས་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They will also come to understand, ‘Now this sentient being and I will abide together in the hungry ghost realm.’</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-174">
+            <prop type="location-id">UT22084-066-004-80</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་མིར་སྐྱེས་པ་གང་ལ་ལ་ཞིག་ཚེ་རབས་གཞན་དག་ནས་འདུས་པར་གྱུར་པ་ནི་དེས་དེ་མཐོང་ན་འདོད་ཆགས་ཀྱི་སེམས་སྐྱེ་བར་འགྱུར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Great Seer, those from other rebirths who become lustful when they see one another will congregate as humans.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-175">
+            <prop type="location-id">UT22084-066-004-80</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དྲང་སྲོང་ཆེན་པོ་འདི་ནི་མིར་སྐྱེས་པའི་སེམས་ཅན་རྣམས་ཀྱི་འདུ་བའི་མཚན་ཉིད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, this is characteristic of how those who will be born as human beings congregate.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-176">
+            <prop type="location-id">UT22084-066-004-80</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ལ་བདག་དང་འདི་མི་རྣམས་ཀྱི་ནང་ན་གནས་གནས་པར་མངོན་ནོ། །ཞེས་དེ་ལྟར་ཤེས་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They will also come to understand, ‘Now this sentient being and I will abide together as humans.’ ”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-177">
+            <prop type="location-id">UT22084-066-004-81</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོས་གསོལ་པ། བཅོམ་ལྡན་འདས་གང་དག་ལྷར་སྐྱེས་ཏེ་འདུས་པར་གྱུར་པ་ལས་མིར་སྐྱེས་པ་དེ་དག་གི་ཇི་ལྟ་བུ་ལགས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The great seer then said, “Bhagavān, what is the case for those beings who will be born in all those births between gods and humans?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-178">
+            <prop type="location-id">UT22084-066-004-82</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། དྲང་སྲོང་ཆེན་པོ་གང་དག་ལྷར་སྐྱེས་ཏེ། འདུས་པར་གྱུར་པ་དེ་དག་ནི། ཕན་ཚུན་མཐོང་ན་ལྟ་བ་ལ་འཇུག་པར་འགྱུར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Bhagavān replied, “Great Seer, when those who will be born and congregate as gods see one another, they become enamored.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-179">
+            <prop type="location-id">UT22084-066-004-82</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དེས་ན་བདག་དང་འདི་ལྷར་སྐྱེས་ཏེ་ལྷན་ཅིག་འདུས་པར་གྱུར་ཏོ་ཞེས་ཤེས་པར་བྱའོ། །དྲང་སྲོང་ཆེན་པོ་རྣམ་པ་དེ་ལྟ་བུ་དག་ཏུ་སེམས་ཅན་འདུ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Consequently, they perceive, ‘This sentient being and I will be born and congregate together as gods.’ Great Seer, sentient beings will congregate in this manner.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-180">
+            <prop type="location-id">UT22084-066-004-83</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་དྲང་སྲོང་ཆེན་པོ་མེ་སྒྲོན་དགའ་མགུ་སྟེ་ཡི་རངས་ནས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then the great seer Ulka became joyful and rejoiced.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-181">
+            <prop type="location-id">UT22084-066-004-83</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་གང་དག་ཐམས་ཅད་མཁྱེན་པ་ཉིད་དུ་སྨོན་པ་མི་བགྱིད་པའི་སེམས་ཅན་དེ་དག་ནི་བསླུས་པའོ་ཞེས་བདག་འཆད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>He said to the Bhagavān, “Bhagavān, I would say that those sentient beings who do not perform prayers to you, Omniscient One, are deceived.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-182">
+            <prop type="location-id">UT22084-066-004-84</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་ཡང་བཅོམ་ལྡན་འདས་ཀྱིས་དྲང་སྲོང་ཆེན་པོ་མེ་སྒྲོན་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །དྲང་སྲོང་ཆེན་པོ་གང་ན་སེམས་ཅན་ཞེས་བྱ་བ་ཕྲ་བ་ཇི་ཙམ་ཞིག་ཡོད་ཅེས་ང་ལ་དེ་སྐད་ཟེར་བ་ནི་དྲང་སྲོང་ཆེན་པོ་གང་སེམས་ཅན་དུ་དམིགས་པ་དེ་སེམས་ཅན་ཕྲ་མོར་རྣམ་པར་འབྱེད་དོ། །དྲང་སྲོང་ཆེན་པོ་འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then the Bhagavān said to the great seer Ulka, “Great Seer, when you asked me about how subtle a so-called sentient being is, this demonstrated that you conceive the referent of a sentient being to be the subtle soul of a sentient being.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-183">
+            <prop type="location-id">UT22084-066-004-84</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དཔེར་ན་ལ་ལ་ཞིག་གིས་དམུས་ལོང་ཞིག་ལ་འདི་སྐད་དུ། ཀྱེ་སྐྱེས་བུ་ཁ་དོག་དཀར་པོ་ཞེས་བྱ་བ་ཅི་འདྲ་ཞེས་སྨྲས་ན། དྲང་སྲོང་ཆེན་པོ་འདི་ཇི་སྙམ་དུ་སེམས། མ་མཐོང་བའི་ཕྱིར་ཁ་དོག་དཀར་པོ་འདི་འདྲའོ་ཞེས་དེ་སྨྲ་བར་ནུས་སམ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, consider, for instance, if someone were to ask a blind person, ‘What is the color white like?’ Since they cannot see, are they able to say what the color white is like?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-184">
+            <prop type="location-id">UT22084-066-004-85</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དྲང་སྲོང་ཆེན་པོས་གསོལ་པ། འབྲེལ་པ་ག་ལ་མཆིས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The great seer asked, “How is this relevant?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-185">
+            <prop type="location-id">UT22084-066-004-85</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། དྲང་སྲོང་ཆེན་པོ་དེ་བཞིན་དུ་ངས་ཀྱང་དམུས་ལོང་ལྟར་མ་མཐོང་བའི་ཕྱིར་སེམས་ཅན་ཞེས་བྱ་བ་ནི་ཕྲ་མོ་འདི་ལྟ་བུ་ཞིག་གོ་ཞེས་སེམས་ཅན་བརྗོད་པར་མི་ནུས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Bhagavān said, “Great Seer, similarly, I am like a blind person. Since I do not see it, I am not able to describe what is termed the subtle soul of sentient beings</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-186">
+            <prop type="location-id">UT22084-066-004-87</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་ཡང་མིག་ལ་སེམས་ཅན་ཞེས་བྱ་བ་མི་རྙེད་དེ། རྣ་བ་དང་། སྣ་དང་། ལྕེ་དང་། ལུས་དང་། ཡིད་ལ་སེམས་ཅན་ཞེས་བྱ་བ་མི་རྙེད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Also, Great Seer, so-called sentient beings are not found in the eye, or the ear, or the nose, or the tongue, or the body, and so-called sentient beings are not found in the mind.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-187">
+            <prop type="location-id">UT22084-066-004-87</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་ཉེ་བར་ལེན་པའི་ཕུང་པོ་ལྔ་པོ་དག་ལ་སེམས་ཅན་ཞེས་བྱ་བ་མི་རྙེད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, so-called sentient beings are not found in the five appropriated aggregates.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-188">
+            <prop type="location-id">UT22084-066-004-87</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་ཁམས་བཅྭ་བརྒྱད་དང་། རྟེན་ཅིང་འབྲེལ་པར་འབྱུང་བ་ཡན་ལག་བཅུ་གཉིས་པ་དང་། ནང་སྟོང་པ་ཉིད་ལ་སེམས་ཅན་ཞེས་བྱ་བ་མི་རྙེད། ཕྱི་སྟོང་པ་ཉིད་དང་། ཕྱི་ནང་སྟོང་པ་ཉིད་ལ་སེམས་ཅན་ཞེས་བྱ་བ་མི་རྙེད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, so-called sentient beings are found neither in the eighteen constituent elements, nor in the twelve links of dependent origination, nor in the emptiness of the internal, nor in the emptiness of the external, nor in the emptiness of both the internal and external.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-189">
+            <prop type="location-id">UT22084-066-004-88</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་མིག་ནི་ངན་པའོ། །འཇིག་པའོ། །སྐད་ཅིག་ཀྱང་མི་གནས་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Great Seer, the eye is wretched and perishable, and it does not endure even for a moment.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-190">
+            <prop type="location-id">UT22084-066-004-88</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་བཞིན་དུ་རྣ་བ་དང་། སྣ་དང་། ལྕེ་དང་། ལུས་དང་། ཡིད་ཀྱང་ངན་པའོ། །འཇིག་པའོ། །སྐད་ཅིག་ཀྱང་མི་གནས་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Likewise, the ear, the nose, the tongue, the body, and the mind are wretched and perishable, and they do not endure even for a moment.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-191">
+            <prop type="location-id">UT22084-066-004-88</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་ཉེ་བར་ལེན་པའི་ཕུང་པོ་ལྔ་ཡང་ངན་པའོ། །འཇིག་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, the five appropriated aggregates are also wretched and perishable;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-192">
+            <prop type="location-id">UT22084-066-004-88</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྐད་ཅིག་ཀྱང་མི་གནས་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>they do not endure even for a moment.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-193">
+            <prop type="location-id">UT22084-066-004-88</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་མི་གཙང་བའི་རྫས་སུམ་ཅུ་རྩ་དྲུག་ཀྱང་ངན་པའོ། །འཇིག་པའོ། །སྐད་ཅིག་ཀྱང་མི་གནས་པའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, the thirty-six impure substances are also wretched and perishable, and they do not endure even for a moment.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-194">
+            <prop type="location-id">UT22084-066-004-89</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།སེམས་ཅན་ཞེས་བྱ་བ་ཡང་མེད། གཟུགས་ཀྱང་མེད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Neither so-called sentient beings nor their bodies exist.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-195">
+            <prop type="location-id">UT22084-066-004-89</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དྲང་སྲོང་ཆེན་པོ་རྫས་འདུས་པ་ནི་སེམས་ཅན་ཞེས་བྱ་བའི་གྲངས་སུ་འགྲོའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, only a collection of substances is reckoned to be a so-called sentient being</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-196">
+            <prop type="location-id">UT22084-066-004-89</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཡོངས་སུ་རྟོག་པ་པ་གང་དག་རྫས་རྣམས་རྣམ་པར་འབྱེད་པ་དེ་དག་ནི། སྲོག་དང་། གསོ་བ་དང་། སྐྱེས་བུ་དང་། གང་ཟག་དང་། ཤེད་ལས་སྐྱེས་དང་། ཤེད་བུ་མི་དམིགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Those who conceptualize discriminate substances, but they do not actually apprehend a life principle, growth, a being, a person, a human, or humankind.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-197">
+            <prop type="location-id">UT22084-066-004-89</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་གལ་ཏེ་སེམས་ཅན་ཡོད་དུ་ཟིན་ན། དེ་བཞིན་གཤེགས་པ་འཕགས་པའི་བདེན་པ་བཞི་པོ་དག་གིས་ཤིན་ཏུ་ཆོས་སྟོན་པར་མི་འགྱུར་བ་ཞིག་ན་དྲང་སྲོང་ཆེན་པོ་གང་གི་ཕྱིར་སེམས་ཅན་མེད་པའི་ཕྱིར་དེ་བཞིན་གཤེགས་པ་ཉིད་འཐོབ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great Seer, if sentient beings were always already existent, the Tathāgata would not come to teach the Dharma via the four truths of the noble ones. Thus, Great Seer, since sentient beings do not exist, the state of a tathāgata can be attained.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-198">
+            <prop type="location-id">UT22084-066-004-89</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དེའི་ཕྱིར་ཇི་ལྟ་ཇི་ལྟར་ཡང་དག་པར་སྒྲུབ་པར་བྱེད་པ་དེ་ལྟ་དེ་ལྟར་ཡང་དག་པར་འགྲུབ་བོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Therefore, however much one practices, to the same degree will one succeed.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-199">
+            <prop type="location-id">UT22084-066-004-90</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ལ་དྲང་སྲོང་ཆེན་པོ་མེ་སྒྲོན་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་དེང་སླན་ཆད་དྲང་སྲོང་ཆེན་པོ་མེ་སྒྲོན་བདག་ཐམས་ཅད་མཁྱེན་པ་ཉིད་དུ་སྨོན་པར་བགྱིད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then the great seer Ulka said to the Bhagavān, “Bhagavān, from today henceforth, I, the great seer Ulka, will aspire to omniscience.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-200">
+            <prop type="location-id">UT22084-066-004-90</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་གལ་ཏེ་བདག་བསྐལ་པ་དཔག་ཏུ་མ་མཆིས་པར་སེམས་ཅན་དམྱལ་བའི་ཞུགས་ཀྱི་འོབས་སུ་གནས་པར་འགྱུར་བའམ། རི་རབ་འོག་མིན་གྱི་གནས་ཙམ་དུ་གྱུར་པ་མཐོན་པོའི་ཁ་དེ་ནས་བདག་གིས་བདག་འདོར་བར་འགྱུར་བའམ། གདུང་བ་ལྔ་བསྐལ་པས་བསྲེག་པ་ལྟ་བུར་འགྱུར་བའམ། ཉི་མ་བསྐལ་པར་གནས་པར་འགྱུར་བའམ། བསྐལ་པ་སུམ་ཅུའི་ཟླ་བ་གཅིག་ཏུ་སྨྱུང་བར་འགྱུར་བ་དེ་ལྟ་བུའི་དཀའ་བ་སྤྱད་པར་ནི་བཅོམ་ལྡན་འདས་བདག་སྤྲོ་སྟེ་འདུན་གྱི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Bhagavān, even if in order to gain omniscience I have to abide for limitless eons in the pits that lead to the hell realms, or jump off of Mount Meru, whose peak is so tall that it reaches the highest heaven, Below No Other, or I have to be burned by the eon of five torments, or roast under the sun for eons, or experience the pain of fasting for thirty eons in a single month, O Bhagavān, I would endure and even hope for such hardships.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-201">
+            <prop type="location-id">UT22084-066-004-90</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ཐམས་ཅད་མཁྱེན་པ་ཉིད་ཀྱི་སླད་དུ་ནི་བརྩོན་འགྲུས་ཉམས་པར་མི་བགྱིའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>For the sake of omniscience, I will not allow my effort to wane.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-202">
+            <prop type="location-id">UT22084-066-004-91</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་ཆེན་པོ་མངོན་པར་ཤེས་པ་ལྔ་དང་ལྡན་པ་ཇི་སྙེད་བཅོམ་ལྡན་འདས་ཀྱི་གན་དུ་ལྷགས་པ་དེ་དག་ཀྱང་སྟན་ལས་ལངས་ཏེ་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་བདག་ཅག་ཀྱང་དེང་སླད་ཆད་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་སྨོན་པར་བགྱིའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then all the great seers possessed of the five types of superknowledge who were assembled near the Bhagavān rose from their seats and said to the Bhagavān, “Bhagavān, we too, from today henceforth, will aspire for perfect, unsurpassable enlightenment.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-203">
+            <prop type="location-id">UT22084-066-004-91</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྔོ་ཅི་ཐོགས་ཀྱིས་བརྩོན་འགྲུས་བརྩམ་པར་བགྱིའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>We shall strive to the best of our ability.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-204">
+            <prop type="location-id">UT22084-066-004-92</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་རྣམས་ཀྱིས་ཚིག་དེ་དག་སྨྲས་མ་ཐག་ཏུ། བཅོམ་ལྡན་འདས་ཀྱི་སྨིན་མཚམས་ནས་འདུལ་བ་ཅན་ཞེས་བྱ་བའི་འོད་ཟེར་ཕྱུང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Immediately after the great seers had spoken those words, the Bhagavān emitted rays of light called tamers from the spot between his eyebrows.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-205">
+            <prop type="location-id">UT22084-066-004-92</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ཕྱོགས་བཅུའི་སངས་རྒྱས་ཐམས་ཅད་ཀྱིས་ཀྱང་སྨིན་མཚམས་ནས་འདུལ་བ་ཅན་ཞེས་བྱ་བའི་འོད་ཟེར་ཕྱུང་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>All the buddhas of the ten directions also emitted rays of light called tamers from the spots between their eyebrows.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-206">
+            <prop type="location-id">UT22084-066-004-93</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>འོད་ཟེར་དེ་དག་གི་མཐུས་ས་ཆེན་པོ་འདི་རྣམ་པ་དྲུག་ཏུ་གཡོས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Due to the power of those rays of light, the great earth shook in six ways:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-207">
+            <prop type="location-id">UT22084-066-004-93</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>རབ་ཏུ་གཡོས། འགུལ། རབ་ཏུ་འགུལ། ལྡེག་རབ་ཏུ་ལྡེག་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>it shook, it shook intensely, it quaked, it quaked intensely, it trembled, and it trembled intensely.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-208">
+            <prop type="location-id">UT22084-066-004-93</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤར་ཕྱོགས་མཐོ་ན་ལྷོ་ཕྱོགས་དམའ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>As the east rose, the south fell.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-209">
+            <prop type="location-id">UT22084-066-004-93</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ནུབ་ཕྱོགས་དམའ་ན་བྱང་ཕྱོགས་མཐོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>As the west fell, the north rose.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-210">
+            <prop type="location-id">UT22084-066-004-93</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤར་ཕྱོགས་དམའ་ན་ལྷོ་ཕྱོགས་མཐོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>As the east fell, the south rose.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-211">
+            <prop type="location-id">UT22084-066-004-93</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ནུབ་ཕྱོགས་མཐོ་ན་བྱང་ཕྱོགས་དམའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>As the west rose, the north fell.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-212">
+            <prop type="location-id">UT22084-066-004-94</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཕྱོགས་བཅུའི་སངས་རྒྱས་ཐམས་ཅད་ཀྱིས་ཀྱང་དེ་བཞིན་གཤེགས་པའི་སྟེང་དུ་མེ་ཏོག་གི་ཆར་ཕབ། རྔ་བོ་ཆེ་རྣམས་བརྡུངས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>All the buddhas of the ten directions also brought down a rainfall of flowers atop the Tathāgata. Drums were beaten.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-213">
+            <prop type="location-id">UT22084-066-004-94</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲི་ཟའི་བདག་པོ་ཡིད་དུ་འོང་བ་རྣམས་ཀྱིས་ཀྱང་ཡན་ལག་ལྔ་པའི་སིལ་སྙན་གྱིས་བཅོམ་ལྡན་འདས་ལ་མངོན་པར་བསྟོད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Charming gandharva lords hailed the Bhagavān with the five types of instruments.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-214">
+            <prop type="location-id">UT22084-066-004-94</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ལྷའི་བདུག་པ་དྲི་རབ་ཏུ་ཞིམ་པོ་དག་ཀྱང་རླུང་གིས་ངད་བསླང་སྟེ། དེ་བཞིན་གཤེགས་པའི་གན་དུ་ངད་ལྡང་བར་བྱེད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The aroma of sweet smelling, divine incense also filled and infused the air around the Tathāgata.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-215">
+            <prop type="location-id">UT22084-066-004-94</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བྱང་ཆུབ་སེམས་དཔའ་རྣམས་རབ་ཏུ་དགའ་སྟེ་མཆོག་ཏུ་བདེ་བའི་སེམས་ཀྱིས་དེ་བཞིན་གཤེགས་པའི་སྟེང་དུ་དོ་ཤལ་དང་། སེ་མོ་དོ་རྣམས་འཐོར་ཞིང་རིན་པོ་ཆེའི་ཆར་ཡང་འབེབས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The bodhisattvas rejoiced, and with supremely blissful minds they scattered necklets and necklaces and brought down a rainfall of precious substances atop the Tathāgata.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-216">
+            <prop type="location-id">UT22084-066-004-94</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>མེ་ཏོག་དང་། བདུག་པ་དང་། སྤོས་དང་། ཕྲེང་བ་དང་། བྱུག་པ་དང་། ཕྱེ་མ་དང་། གོས་དང་། གདུགས་དང་། རྒྱལ་མཚན་དང་། བ་དན་དག་གིས་ཀྱང་མཆོད་པར་བྱེད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They also made offerings with flowers, perfumes, incense, garlands, unguents, aromatic powders, garments, parasols, victory banners, and flags.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-217">
+            <prop type="location-id">UT22084-066-004-94</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ལྷའི་ཚོགས་རྣམས་ཀྱང་རབ་ཏུ་དགའ་ནས་མེ་ཏོག་མན་དཱ་ར་བ་དང་། མན་དཱ་ར་བ་ཆེན་པོའི་ཆར་འབེབས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The assemblies of gods also rejoiced and brought down a rainfall of coral tree and great coral tree blossoms.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-218">
+            <prop type="location-id">UT22084-066-004-94</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཐམས་ཅད་དང་ལྡན་པའི་འཁོར་དེ་ཡང་དགའ་མགུ་ཡི་རངས་ཏེ། ཇི་ལྟར་གྱོན་གྱོན་པའི་གོས་རྣམས་དེ་བཞིན་གཤེགས་པའི་སྐུ་ལ་གསོལ་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The entire retinue rejoiced and offered fitting garments to the body of the Tathāgata as well.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-219">
+            <prop type="location-id">UT22084-066-004-95</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་འདུལ་བ་ཅན་ཞེས་བྱ་བའི་འོད་ཟེར་དེས་འོག་མིན་གྱི་གནས་མན་ཆད། སེམས་ཅན་དམྱལ་བ་ཆེན་པོ་མནར་མེད་པ་ཡན་ཆད་སྣང་བར་བྱས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then, the rays of light called tamers manifested everywhere, from the highest heaven, Below No Other, to the lowest hell of Endless Torment.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-220">
+            <prop type="location-id">UT22084-066-004-95</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ཕྱོགས་བཅུའི་སངས་རྒྱས་ཐམས་ཅད་ལ་བསྐོར་བ་བྱས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They circled around all the buddhas of the ten directions.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-221">
+            <prop type="location-id">UT22084-066-004-95</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>སླར་ལོག་སྟེ་བཅོམ་ལྡན་འདས་ཀྱི་དབུའི་གཙུག་ཏུ་ནུབ་བོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Returning, they disappeared into the crown of the Bhagavān’s head.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-222">
+            <prop type="location-id">UT22084-066-004-95</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ལ་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then, Venerable Subhūti said to the Bhagavān:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-223">
+            <prop type="location-id">UT22084-066-004-96</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྒྱུ་མ་མཆིས་པར་ཤཱཀ་ཐུབ་དེ་རིང་འདིར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Not without cause would the Śākya sage</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-224">
+            <prop type="location-id">UT22084-066-004-96</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཕྱོགས་བཅུ་དག་ཏུ་འོད་ཟེར་མི་གཏོང་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Have emitted light rays in the ten directions,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-225">
+            <prop type="location-id">UT22084-066-004-96</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཁོར་འདི་ཐམས་ཅད་ཐེ་ཚོམ་གྱུར་ལགས་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>But he did so because the entire retinue had doubts.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-226">
+            <prop type="location-id">UT22084-066-004-96</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཐུབ་པས་རྒྱུ་དང་བྱེད་དེ་བདག་ལུང་སྟོན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>For this reason, the sage now foretells our future.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-227">
+            <prop type="location-id">UT22084-066-004-97</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།མི་ཡི་འདྲེན་པའི་རྣམ་པར་འཕྲུལ་མཐོང་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Seeing the emanation of the guide of humanity,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-228">
+            <prop type="location-id">UT22084-066-004-97</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དགའ་བར་གྱུར་ཅིང་སྤྲོ་བ་ཆེ་གྱུར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Becoming happy, greatly rejoicing,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-229">
+            <prop type="location-id">UT22084-066-004-97</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།རབ་ཏུ་དགའ་བས་ལེགས་པར་བསྟོད་བགྱིད་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And making praises with great joy,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-230">
+            <prop type="location-id">UT22084-066-004-97</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཁ་ཅིག་འདི་ན་བཅོམ་ལྡན་ལེགས་ཞེས་མཆི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>One proclaims, ‘The Bhagavān is excellent!’</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-231">
+            <prop type="location-id">UT22084-066-004-98</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བརྒྱ་བྱིན་ཚངས་པ་འཇིག་རྟེན་སྐྱོང་བ་རྣམས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Śakras, brahmās, the world guardians,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-232">
+            <prop type="location-id">UT22084-066-004-98</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ནམ་མཁའི་གནས་ནས་འབྱུང་པོའི་ཚོགས་ཀྱང་བསྟོད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And even spirits from the celestial abode make praises</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-233">
+            <prop type="location-id">UT22084-066-004-98</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།མཁའ་ལས་ལྷ་ཡི་མེ་ཏོག་ཆར་དུ་འབེབས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And bring down a rainfall of divine flowers from the sky.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-234">
+            <prop type="location-id">UT22084-066-004-98</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།མ་བརྡུངས་རྔ་ཆེན་དག་ནི་སྒྲ་ཡང་འབྱིན། །དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Even without being struck, the great drums sound forth.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-235">
+            <prop type="location-id">UT22084-066-004-99</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།རབ་འབྱོར་ཁྱོད་ཀྱིས་དྲང་སྲོང་ཆེན་པོ་མེ་སྒྲོན་མཐོང་ངམ། རབ་འབྱོར་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་མཐོང་ལགས་སོ། །བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རབ་འབྱོར་དྲང་སྲོང་ཆེན་པོ་མེ་སྒྲོན་འདི་མ་འོངས་པའི་དུས་ན་སངས་རྒྱས་སྟོང་འདས་པའི་འོག་ཏུ་བསྐལ་པ་བཟང་པོ་འདི་ཉིད་ལ་ཟླ་བ་ཅན་གྱི་འཇིག་རྟེན་གྱི་ཁམས་སུ་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམ་པར་གཟིགས་ཞེས་བྱ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thereupon, the Bhagavān asked Venerable Subhūti, “Do you see this great seer Ulka?” Subhūti replied, “Yes, Bhagavān, I see him.” The Bhagavān said, “Subhūti, in the future, after the one thousand buddhas of this fortunate eon have passed, this great seer Ulka will become the thus-gone, worthy , fully and perfectly enlightened Buddha Vipaśyin in the world system Moonlit.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-236">
+            <prop type="location-id">UT22084-066-004-99</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།རབ་འབྱོར་དེ་བཞིན་གཤེགས་པ་རྣམ་པར་གཟིགས་ཀྱི་མིང་ཡང་ཡིད་བཞིན་གྱི་ནོར་བུ་རྣམ་པར་དག་པའི་བྱ་བ་བྱེད་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Subhūti, the name alone of the Tathāgata Vipaśyin will fulfill the deeds of a pure wish-fulfilling jewel.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-237">
+            <prop type="location-id">UT22084-066-004-100</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།རབ་འབྱོར་དྲང་སྲོང་ཆེན་པོ་བརྒྱད་ཁྲི་བཞི་སྟོང་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ཐོས་མ་ཐག་ཏུ་ཕྱིར་མི་ལྡོག་པའི་ས་རྗེས་སུ་ཐོབ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Subhūti, eighty-four thousand great seers will subsequently achieve the stage of nonregression immediately upon hearing this Dharma teaching.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-238">
+            <prop type="location-id">UT22084-066-004-100</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>རབ་འབྱོར་དེ་དག་ཐམས་ཅད་ནི་དེ་བཞིན་གཤེགས་པ་བྱམས་པའི་གསུང་རབ་ལས་ས་བཅུ་ལ་གནས་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Subhūti, through the sacred words of the Tathāgata Maitreya, they will attain the tenth stage.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-239">
+            <prop type="location-id">UT22084-066-004-100</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བསྐལ་པ་སུམ་བརྒྱའི་འོག་ཏུ་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་བདག་བཀའ་བློ་བདེ་བ་ཞེས་བྱ་བར་འཇིག་རྟེན་དུ་འབྱུང་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>After three hundred eons, I, the thus-gone, worthy , fully and perfectly enlightened Buddha, will come into the world with the name Eloquent Speech.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-240">
+            <prop type="location-id">UT22084-066-004-100</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།རབ་འབྱོར་བྱང་ཆུབ་སེམས་དཔའ་ཚད་མེད་པ་དག་གིས་ཀྱང་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ཐོས་མ་ཐག་ཏུ་དཔའ་བར་འགྲོ་བའི་ཏིང་ངེ་འཛིན་ཐོབ་སྟེ། སྐད་དང་སྐད་མ་ཡིན་པར་ཤེས་པའི་ཏིང་ངེ་འཛིན་དང་། རྒྱལ་བ་དབང་བསྐུར་བའི་ཏིང་ངེ་འཛིན་དང་། སྒྱུ་མ་ལྟ་བུའི་ཏིང་ངེ་འཛིན་དང་། ཁམས་རྣམ་པར་འབྱེད་པའི་ཏིང་ངེ་འཛིན་དང་། བློ་གྲོས་རྒྱལ་པོའི་ཏིང་ངེ་འཛིན་དང་། རྒྱ་མཚོ་སྙིང་པོའི་ཏིང་ངེ་འཛིན་དང་། མཉེན་པའི་སའི་ཏིང་ངེ་འཛིན་དང་། བསམ་པའི་སྙིང་པོའི་ཏིང་ངེ་འཛིན་དང་། འོད་གསལ་བའི་ཏིང་ངེ་འཛིན་འཐོབ་བོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Subhūti, immediately upon hearing this Dharma teaching, immeasurable bodhisattvas will achieve the meditative concentration of going as a hero , and they will achieve the meditative concentrations called knowing as spoken and unspoken , the empowerment of victory , illusion-like , differentiation of realms , the king of intelligence , the essence of the ocean , the level of pliability , the essence of the mind , and the clear light</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-241">
+            <prop type="location-id">UT22084-066-004-101</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།རབ་འབྱོར་ལྷ་བྱེ་བ་ཕྲག་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་དག་གིས་མི་སྐྱེ་བའི་ཆོས་ལ་བཟོད་པ་ཐོབ་བོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Subhūti, gods numbering ten million times the grains of sand in the Ganges River will achieve the level of acceptance that phenomena are unborn.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-242">
+            <prop type="location-id">UT22084-066-004-101</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དགེ་སློང་དང་། དགེ་སློང་མ་དང་། དགེ་བསྙེན་དང་། དགེ་བསྙེན་མ་སྟོང་ཕྲག་ཚད་མེད་པ་དག་གིས་དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Immeasurable thousands of monks, nuns, laymen, and laywomen will actualize the state of an arhat.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-243">
+            <prop type="location-id">UT22084-066-004-101</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།རབ་འབྱོར་ལྷ་དང་། ཀླུ་དང་། གནོད་སྦྱིན་དང་། དྲི་ཟ་དང་། ལྷ་མ་ཡིན་དང་། ནམ་མཁའ་ལྡིང་དང་། མི་འམ་ཅི་དང་། ལྟོ་འཕྱེ་ཆེན་པོ་དང་། མི་དང་། མི་མ་ཡིན་པ་གང་གཱའི་བྱེ་མ་སྙེད་དག་གིས་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་སེམས་བསྐྱེད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Subhūti, gods, nāgas, yakṣas, gandharvas, asuras, garuḍas, kinnaras, mahoragas, humans, and nonhumans numerous as the grains of sand in the Ganges River will generate the wish for perfect, unsurpassable enlightenment.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-244">
+            <prop type="location-id">UT22084-066-004-101</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།རབ་འབྱོར་དེ་བཞིན་གཤེགས་པས་དོན་གྱི་དབང་དེ་མཐོང་ནས་འདུལ་བ་ཅན་ཞེས་བྱ་བའི་འོད་ཟེར་རྣམས་ཕྱུང་ངོ་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>O Subhūti, foreseeing the import of all this, the Tathāgata has emitted the lights called tamers</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-245">
+            <prop type="location-id">UT22084-066-004-102</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཉིད་ཀྱི་ལྗགས་ཀྱི་དབང་པོས་ཞལ་ཁེབས་པར་མཛད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then, the Bhagavān covered his face with his tongue.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-246">
+            <prop type="location-id">UT22084-066-004-102</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ལྗགས་ཀྱི་དབང་པོ་དེ་ལས་ཁ་དོག་དུ་མ། ཁ་དོག་ཐ་དད་པའི་འོད་ཟེར་འདི་ལྟ་སྟེ། སྔོན་པོ་དང་། སེར་པོ་དང་། དམར་པོ་དང་། དཀར་པོ་དང་། ལེ་བརྒན་དང་། ཤེལ་དང་། དངུལ་གྱི་ཁ་དོག་ལྟ་བུ་དག་བྱུང་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>From his tongue came light rays of many different colors, such as blue, yellow, red, white, violet, crystal, and silver.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-247">
+            <prop type="location-id">UT22084-066-004-102</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་འཇིག་རྟེན་གྱི་ཁམས་མཐའ་ཡས་མུ་མེད་པ་དག་ཏུ་མངོན་པར་བྱུང་ནས་སླར་ལོག་སྟེ། བཅོམ་ལྡན་འདས་ལ་ལན་གསུམ་བསྐོར་བ་བྱས་ནས་བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་གཉིས་སུ་ནུབ་བོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Going out toward endless and limitless world-systems, they came back and, circling the Bhagavān three times, disappeared into his two feet.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-248">
+            <prop type="location-id">UT22084-066-004-103</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བློ་གྲོས་མི་ཟད་པ་སྟན་ལས་ལངས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thereupon, the bodhisattva mahāsattva Akṣayamati rose from his seat.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-249">
+            <prop type="location-id">UT22084-066-004-103</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས་པུས་མོ་གཡས་པའི་ལྷ་ང་ས་ལ་བཙུགས་ཏེ་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Having placed his upper robe over one shoulder, he knelt on his right knee. He joined his palms in devotion and bowed before the Bhagavān.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-250">
+            <prop type="location-id">UT22084-066-004-103</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ནི་རྒྱུ་མ་མཆིས་པར་འཛུམ་པ་མི་མཛད་ན། བཅོམ་ལྡན་འདས་འཛུམ་པ་མཛད་པའི་རྒྱུ་གང་ལགས། རྐྱེན་གང་ལགས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>He then asked the Bhagavān, “If the bhagavān buddhas do not stick out their tongues causelessly, then what are the causes and what are the conditions under which you have just stuck out your tongue?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-251">
+            <prop type="location-id">UT22084-066-004-104</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་སྐད་ཅེས་གསོལ་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་བྱང་ཆུབ་སེམས་དཔའ་བློ་གྲོས་མི་ཟད་པ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །རིགས་ཀྱི་བུ་མ་དད་པ་རྣམས་ཀྱི་དོན་དུ་ལྗགས་འདི་ལྟ་བུ་ནི་བརྫུན་མི་གསུང་ངོ་སྙམ་དུ་བྱ་བའི་ཕྱིར་ལྗགས་ཀྱི་དབང་པོས་འཛུམ་པ་མཛད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Bhagavān replied to the bodhisattva Akṣayamati, “O noble son, for the sake of those with no faith, I extended my tongue so that they would think, ‘A tongue like that could not tell a lie.’ ”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-252">
+            <prop type="location-id">UT22084-066-004-105</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ལ་བྱང་ཆུབ་སེམས་དཔའ་བློ་གྲོས་མི་ཟད་པས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་གང་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལས་ཐ་ན་ཚིགས་སུ་བཅད་པ་གཅིག་ཙམ་ལུང་འབོགས་ན་རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་དེ་དག་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཇི་ཙམ་སྐྱེད་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then, the bodhisattva Akṣayamati asked the Bhagavān, “O Bhagavān, if anyone transmits at least one verse from this Dharma teaching, how much merit does that son or daughter of a noble family generate?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-253">
+            <prop type="location-id">UT22084-066-004-106</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རིགས་ཀྱི་བུ་ཕྱོགས་བཅུའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཀྱིས་སངས་རྒྱས་ཀྱི་སྤྱན་ལ་སྣང་བར་འགྱུར་བ་ཇི་སྙེད་པ་དེ་དག་ལ་ཡོངས་སུ་མྱ་ངན་ལས་མ་འདས་ཀྱི་བར་དུ་གང་ཞིག་གིས་བདེ་བར་སྦྱར་བ་ཐམས་ཅད་ཀྱིས་བསྙེན་བཀུར་བྱས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Bhagavān replied, “O noble son, suppose someone were to honor as many bhagavān buddhas as there are in the ten directions—as many as appear to the Buddha’s eye—with everything that pleases them, doing so until they had passed into final nirvāṇa.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-254">
+            <prop type="location-id">UT22084-066-004-106</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ཡོངས་སུ་མྱ་ངན་ལས་འདས་ནས་ཀྱང་རིན་པོ་ཆེ་སྣ་བདུན་གྱི་མཆོད་རྟེན་བྱེད་པ་དེ་བས་གང་ཞིག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལས་ཐ་ན་ཚིགས་སུ་བཅད་པ་གཅིག་ཙམ་ཡང་ལུང་འབོགས་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And suppose that even after those buddhas had passed into final nirvāṇa  that person were to make stūpas of the seven types of precious substances. Compared to that person, if someone were to transmit even a single verse of this Dharma teaching, that would generate far more merit.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-255">
+            <prop type="location-id">UT22084-066-004-107</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>འདིས་བསོད་ནམས་ཆེས་མང་དུ་སྐྱེད་དོ། །རིགས་ཀྱི་བུ་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་འཆད་པ་ན་གང་ཞིག་དད་པའི་སེམས་ཀྱིས་ལེགས་སོ། །ཞེས་བྱ་བ་སྦྱིན་པ་དེ་ལ། སངས་རྒྱས་ཐམས་ཅད་ཀྱིས་བསྟོད་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Noble son, when those with faith praise someone who teaches this Dharma teaching by saying ‘Excellent!’ they themselves will be lauded by all the buddhas.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-256">
+            <prop type="location-id">UT22084-066-004-107</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་གིས་འདི་ལ་རིམ་གྲོ་བྱས་པ་དེས་ང་ལ་རིམ་གྲོ་བྱས་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Whoever pays homage to one who teaches this Dharma teaching thereby pays homage to me.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-257">
+            <prop type="location-id">UT22084-066-004-108</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཐམས་ཅད་དང་ལྡན་པའི་འཁོར་དེ་ལ་རྣམ་པར་གཟིགས་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then, looking at the entire retinue, the Bhagavān said these words:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-258">
+            <prop type="location-id">UT22084-066-004-108</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །རིགས་ཀྱི་བུ་དག་ང་ནི་བདེན་པ་སྨྲ་བ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“O noble ones, I shall speak the truth.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-259">
+            <prop type="location-id">UT22084-066-004-108</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ས་ཕྱོགས་གང་ན་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་གྲགས་པའི་ས་ཕྱོགས་དེ་ལ། སངས་རྒྱས་ཐམས་ཅད་དགོངས་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Wherever this Dharma teaching is taught, all the buddhas will esteem that place.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-260">
+            <prop type="location-id">UT22084-066-004-108</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།རིགས་ཀྱི་བུ་དག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ནི་འཛམ་བུའི་གླིང་པའི་སེམས་ཅན་རྣམས་ཀྱི་སྨན་དུ་གྱུར་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Noble ones, this Dharma teaching will become the medicine of all sentient beings in Jambudvīpa.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-261">
+            <prop type="location-id">UT22084-066-004-108</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལན་གསུམ་བརྗོད་དམ། བརྗོད་དུ་བཅུག་ན། དེས་སྟོན་པ་ལ་ཆོས་ཀྱི་འཁོར་ལོ་རབ་ཏུ་བསྐོར་བར་བསྐུལ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>When one speaks this Dharma teaching three times or impels someone else to speak it, that person requests the Teacher to turn the wheel of Dharma.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-262">
+            <prop type="location-id">UT22084-066-004-108</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།རབ་འབྱོར་གང་ཞིག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ཡི་གེར་འདྲི་འམ། ཡི་གེར་འདྲིར་འཇུག་པ་དེ་བདེ་བ་དང་བཅས་ཤིང་། ཡིད་བདེ་བ་དང་བཅས་བཞིན་དུ། བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>O Subhūti, whoever writes this Dharma teaching or impels someone else to write it will become enlightened—attaining perfectly complete enlightenment, endowed with bodily and mental bliss.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-263">
+            <prop type="location-id">UT22084-066-004-108</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེས་སངས་རྒྱས་ཐམས་ཅད་ཀྱི་མཛོད་ཀྱང་བཟུང་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thereby, that person will possess the treasury of all buddhas.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-264">
+            <prop type="location-id">UT22084-066-004-109</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།རིགས་ཀྱི་བུ་དག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ནི་སེམས་ཅན་དམྱལ་བར་འགྲོ་བའི་སེམས་ཅན་རྣམས་ཀྱི་རྣ་ལམ་དུ་གྲག་པར་མི་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“O noble ones, this Dharma teaching is not heard by the ears of those going to hell.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-265">
+            <prop type="location-id">UT22084-066-004-109</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་དག་མིའི་སྐྱེ་གནས་ནས་ཤི་འཕོས་ཏེ། ཡོངས་སུ་དག་པའི་སངས་རྒྱས་ཀྱི་ཞིང་རྣམས་སུ་སྐྱེ་བ་དེ་དག་གི་རྣ་ལམ་དུ་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་གྲག་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>This Dharma teaching is heard by the ears of those who, having been born human, will be born in the field of perfectly pure buddhas after they pass on.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-266">
+            <prop type="location-id">UT22084-066-004-109</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།རབ་འབྱོར་གང་གིས་སངས་རྒྱས་སྟོང་ལ་དགེ་བའི་རྩ་བ་བསྐྱེད་པ་དེའི་རྣ་ལམ་དུ། ཆོས་ཀྱི་རྣམ་གྲངས་འདི་གྲག་པར་འགྱུར་རོ། །རབ་འབྱོར་རིགས་ཀྱི་བུའམ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Subhūti, this Dharma teaching is heard by the ears of those who have generated the roots of virtue connected to a thousand buddhas.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-267">
+            <prop type="location-id">UT22084-066-004-109</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>རིགས་ཀྱི་བུ་མོ་གང་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ཐོས་ནས་དད་དམ། འཆང་ངམ། ཀློག་གམ། ཀུན་ཆུབ་པར་བྱེད་དམ། གཞན་དག་ལ་ཡང་རྒྱ་ཆེར་ཡང་དག་པར་རབ་ཏུ་སྟོན་པར་འགྱུར་བ་དེའི་ལག་ཏུ་བྱང་ཆུབ་སོང་ངོ་ཞེས་བཤད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Subhūti, enlightenment is said to be held in the palm of the hand of a noble son or daughter  who—having heard this Dharma teaching—has faith in it, memorizes it, reads it aloud, fully understands it, or also correctly teaches it to others.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-268">
+            <prop type="location-id">UT22084-066-004-109</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེས་མིག་ལྔ་ཐོབ་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thereby, that person achieves the five eyes.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-269">
+            <prop type="location-id">UT22084-066-004-109</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དབང་པོ་མ་ཚང་བར་མི་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>That person’s sense faculties will not become impaired.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-270">
+            <prop type="location-id">UT22084-066-004-110</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དྲན་པ་བརྗེད་པ་མེད་པར་འཆི་བའི་དུས་བྱེད་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“That person will be mindful and will not lose memory at the time of death.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-271">
+            <prop type="location-id">UT22084-066-004-110</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཐམས་ཅད་སྒྲུབ་པའི་ཏིང་ངེ་འཛིན་ཐོབ་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>That person will obtain the meditative concentration of accomplishing all buddhas</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-272">
+            <prop type="location-id">UT22084-066-004-110</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>རྣམ་པར་སྣང་མཛད་རྣམ་པར་སྤྲུལ་པའི་ཏིང་ངེ་འཛིན་དང་། གཟུངས་ཀྱི་སྙིང་པོའི་ཏིང་ངེ་འཛིན་དང་། གཙུག་གི་ནོར་བུའི་ཕྱག་རྒྱའི་ཏིང་ངེ་འཛིན་དང་། དབང་བསྐུར་བའི་ཏིང་ངེ་འཛིན་དང་། སྤྱན་རས་གཟིགས་ཀྱི་ཕྱག་རྒྱའི་ཏིང་ངེ་འཛིན་རབ་ཏུ་ཐོབ་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>That person will obtain the meditative concentrations of emanations of Vairocana , the essence of magical formulas , the great seal of the crown jewel , the empowerment , and Avalokiteśvara’s great seal</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-273">
+            <prop type="location-id">UT22084-066-004-111</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ཡི་གེ་མེད་པའི་ཟ་མ་ཏོག་གི་གཟུངས་ཐོབ་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“That person will obtain the magical formula of the letterless basket of scripture</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-274">
+            <prop type="location-id">UT22084-066-004-111</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་ལ་རྣམ་པར་རྒྱལ་བ་ཐོབ་པའི་གཟུངས་དང་། ཐེ་ཙོམ་རྣམ་པར་སྦྱོང་བའི་གཟུངས་དང་། དོན་དམ་པའི་རྣམ་པར་ངེས་པའི་གཟུངས་ཐོབ་པར་འགྱུར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>That person will gain the magical formulas of obtaining victory over all dharmas , purifying all doubts , and ascertaining ultimate reality</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-275">
+            <prop type="location-id">UT22084-066-004-111</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ལ་སོགས་པ་གཟུངས་དང་ཏིང་ངེ་འཛིན་གྱི་སྒོ་བརྒྱ་སྟོང་མཐའ་ཡས་པ་ཐོབ་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>That person will gain access to limitless hundreds of thousands of magical formulas and meditative concentrations, including these.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-276">
+            <prop type="location-id">UT22084-066-004-111</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།མངོན་པར་ཤེས་པ་ལྔ་དང་ལྡན་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>That person becomes endowed with the five types of superknowledge.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-277">
+            <prop type="location-id">UT22084-066-004-111</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བསམས་བཞིན་དུ་འཆི་འཕོ་དང་སྐྱེ་བ་ཡོངས་སུ་འཛིན་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>That person can intentionally control birth and death.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-278">
+            <prop type="location-id">UT22084-066-004-112</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then, the Bhagavān said this to Mañjuśrī­kumāra­bhūta:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-279">
+            <prop type="location-id">UT22084-066-004-112</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་སངས་རྒྱས་མང་པོ་ལ་བསྙེན་བཀུར་བྱས་པ་ཁྱོད་ལ་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ཡོངས་སུ་གཏད་ཀྱིས་ཡང་དང་ཡང་རྒྱ་ཆེར་ཡང་དག་པར་རབ་ཏུ་ཤོད་ཅིག །འཇམ་དཔལ་ཁྱོད་ཀྱིས་དེ་བཞིན་གཤེགས་པ་ཇི་སྙེད་ཅིག་ལ་བསྟི་སྟང་བྱས་པ་དང་། བཙུན་པར་བྱས་པ་དང་། རིམ་གྲོར་བྱས་པ་དང་། མཆོད་པ་བྱས་པ་དེ་ཇི་སྙམ་དུ་སེམས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“O Mañjuśrī, who has paid homage to many buddhas, I will entrust you with this Dharma teaching. Give a correct explanation of it over and over again! Mañjuśrī, think about all the tathāgatas to whom you may show reverence, pay respects, worship, and make offerings.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-280">
+            <prop type="location-id">UT22084-066-004-112</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་དགེ་བའི་རྩ་བ་དེ་ལ་མཐའ་འམ་མུ་ཡོད་དམ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Mañjuśrī, is there a limit or end to the roots of virtue gained by those offerings?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-281">
+            <prop type="location-id">UT22084-066-004-112</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དགེ་བའི་རྩ་བ་དེ་དཔག་པར་ནུས་སམ། འཇམ་དཔལ་གྱིས་གསོལ་པ། བཅོམ་ལྡན་འདས་མ་ལགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Can you fathom those roots of virtue?” Mañjuśrī replied, “O Bhagavān, indeed not.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-282">
+            <prop type="location-id">UT22084-066-004-112</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བདེ་བར་གཤེགས་པ་མ་ལགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>O Sugata, indeed not.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-283">
+            <prop type="location-id">UT22084-066-004-113</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། འཇམ་དཔལ་གང་གིས་སྙིགས་མ་ལྔའི་དུས་ན་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་འཇིག་རྟེན་གྱི་ཁམས་མི་མཇེད་འདིར་རྒྱས་པར་བྱེད་པར་འགྱུར་བ་དེ་དག་དེ་ལས་དགེ་བའི་རྩ་བ་ཆེན་པོར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Bhagavān said, “O Mañjuśrī, the roots of virtue of those who disseminate this Dharma teaching in this realm of suffering during the time of the five degenerations will become even greater than this.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-284">
+            <prop type="location-id">UT22084-066-004-113</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཇམ་དཔལ་གལ་ཏེ་ཁྱོད་དེ་བཞིན་གཤེགས་པ་མང་པོ་དེ་སྙེད་ཅིག་ལ་ན་བཟའ་དང་། ཞལ་ཟས་དང་། གཟིམས་ཆ་དང་། སྙུན་གསོས་ཀྱི་སྨན་དང་། ཡོ་བྱད་རྣམས་ཀྱིས་བསྙེན་བཀུར་བྱེད་ཀྱི་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་སྟོན་པར་མི་བྱེད་ན། ཁྱོད་ད་དུང་དུ་ཡང་དེ་བཞིན་གཤེགས་པ་རྣམས་ལ་ཉེས་པ་དང་བཅས་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Mañjuśrī, even if you were to show reverence to all the tathāgatas by offering garments, foods, bedding, medicine that cures diseases, and goods, but were not to teach this Dharma teaching, your efforts toward the tathāgatas would still be deficient.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-285">
+            <prop type="location-id">UT22084-066-004-113</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཇམ་དཔལ་གལ་ཏེ་ཁྱོད་དེ་བཞིན་གཤེགས་པ་གཅིག་ལའང་ཕྱག་མི་བྱེད་ཀྱི། ཆོས་ཀྱི་རྣམ་གྲངས་འདི་རྒྱས་པར་བྱེད་ན་དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ལ་ཁྱོད་ཀྱིས་མཆོད་པའི་བར་དུ་བྱས་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Mañjuśrī, even if you do not prostrate to a single tathāgata but disseminate this Dharma teaching, you will have done the equivalent of making all those offerings to all the tathāgatas.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-286">
+            <prop type="location-id">UT22084-066-004-114</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་དང་། དྲང་སྲོང་ཆེན་པོ་མེ་སྒྲོན་དང་། དགེ་སློང་དེ་དག་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Bhagavān having spoken thus, Mañjuśrī­kumāra­bhūta, the great seer Ulka, and those monks, gods, humans, asuras, and gandharvas of the world were joyous.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-287">
+            <prop type="location-id">UT22084-066-004-114</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>All praised what the Bhagavān had said.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-288">
+            <prop type="location-id">UT22084-066-004-115</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།།འཕགས་པ་དོན་དམ་པའི་ཆོས་ཀྱི་རྣམ་པར་རྒྱལ་བ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>This concludes the noble Mahāyāna sūtra “Victory of the Ultimate Dharma.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-066-004-TU-289">
+            <prop type="location-id">UT22084-066-004-116</prop>
+            <prop type="revision">v-1.1.6-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།།རྒྱ་གར་གྱི་མཁན་པོ་ཛི་ན་མི་ཏྲ་དང་། དཱ་ན་ཤཱི་ལ་དང་། ཞུ་ཆེན་གྱི་ལོཙྪ་བ་བན་དེ་ཡེ་ཤེས་སྡེས་བསྒྱུར་ཅིང་ཞུས་ཏེ་སྐད་གསར་ཆད་ཀྱིས་བཅོས་ནས་གཏན་ལ་ཕབ་པ། །</seg>
+            </tuv>
+          <tuv xml:lang="en">
+                <seg>The Indian preceptors Jinamitra and Dānaśīla and the chief editor and translator Bandé Yeshé Dé translated and edited it and, having rendered it into the new lexicon, finalized it.</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

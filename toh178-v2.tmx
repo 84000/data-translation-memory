@@ -1,0 +1,1625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+    <header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-060-007" eft:text-version="v-1.1.1-2019"/>
+    <body>
+        <tu>
+            <prop type="folio">F.240.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འཕགས་པ་བྱང་ཆུབ་ཀྱི་ཕྱོགས་བསྟན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Noble Mahāyāna Sūtra The Teaching on the Aids to Enlightenment</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.240.b</prop>
+            <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-23"/>Homage to all buddhas and bodhisattvas!</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.240.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-24"/>Thus did I hear at one time.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.240.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་རྒྱལ་པོའི་ཁབ་ན་བྱ་རྒོད་ཀྱི་ཕུང་པོའི་རི་ལ་དགེ་སློང་ལྔ་བརྒྱ་ཙམ་གྱི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་། བྱམས་པ་དང་། འཇམ་དཔལ་ལ་སོགས་པ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་དང་ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Bhagavān was residing on Vulture Peak Mountain in Rājagṛha accompanied by a great bhikṣu saṅgha of five hundred bhikṣus, and by bodhisattva mahāsattvas such as Maitreya and Mañjuśrī.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.240.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-170"/>At that time, the Bhagavān said to Youthful Mañjuśrī,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་ཕྱིན་ཅི་ལོག་བཞི་པོ་དག་གིས་སེམས་ཕྱིན་ཅི་ལོག་ཏུ་གྱུར་པའི་སེམས་ཅན་རྣམས་འཕགས་པའི་བདེན་པ་བཞི་པོ་དག་<tei:ref folio="F.241.a"/>ཡང་དག་པ་ཇི་ལྟ་བ་བཞིན་དུ་མ་མཐོང་བའི་ཕྱིར་འདི་ལྟར་ཡང་དག་པ་མ་ཡིན་པའི་འཁོར་བ་ལས་མི་འདའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Mañjuśrī, having minds that are misguided by the four errors, sentient beings do not see the four truths of the noble ones as they really are, and therefore they do not transcend saṃsāra, which is actually unreal.”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང་། བཅོམ་ལྡན་འདས་ལ་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-26"/>When the Bhagavān had said this, Youthful Mañjuśrī requested the Bhagavān,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.a</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཇི་ལྟར་དམིགས་ན་སེམས་ཅན་རྣམས་འཁོར་བ་ལས་མི་འདའ་བ་བཤད་དུ་གསོལ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Bhagavān, please explain how sentient beings perceive things and therefore do not transcend saṃsāra.”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.a</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-171"/>The Bhagavān replied,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་སེམས་ཅན་རྣམས་བདག་དང་། བདག་གིར་ཁས་ལེན་པའི་ཕྱིར་འཁོར་བ་ལས་མི་འདའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Mañjuśrī, it is because they assume a self and something that belongs to a self that sentient beings do not transcend saṃsāra.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ཅིའི་ཕྱིར་ཞེ་ན། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Why is that so?</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་སུ་བདག་དང་གཞན་དུ་ཡང་དག་པར་རྗེས་སུ་མཐོང་བ་དེ་ལས་མངོན་པར་འདུ་བྱེད་པར་འགྱུར་བའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Mañjuśrī, it is because anyone who considers things in terms of self and other will bring about karma.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་བྱིས་པ་སོ་སོའི་སྐྱེ་བོ་ཐོས་པ་དང་མི་ལྡན་པ་ནི་ཆོས་ཐམས་ཅད་ཤིན་ཏུ་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པར་རབ་ཏུ་མི་ཤེས་ཏེ། བདག་དང་གཞན་དུ་དམིགས་སོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Mañjuśrī, unlearned and ignorant ordinary beings, not knowing that all phenomena have completely passed into nirvāṇa, perceive them in terms of self and other.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དམིགས་ནས་ལུས་དང་། ངག་དང་། ཡིད་ཀྱི་ལས་རྣམ་པ་གསུམ་མངོན་པར་འདུ་བྱེད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>With that perception, they bring about the three types of karma: corporeal, verbal, and mental.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་མེད་པ་ལ་སྒྲོ་བཏགས་ནས་བདག་འདོད་ཆགས་སོ། །བདག་ཞེ་སྡང་ངོ་། །བདག་གཏི་མུག་གོ་ཞེས་རྣམ་པར་རྟོག་གོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Reifying what does not exist, they think, ‘I am attached,’ ‘I am averse,’ ‘I am perplexed.’</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.a</prop>
+            <tuv xml:lang="bo">
+                <seg>གལ་ཏེ་དེ་དེ་བཞིན་གཤེགས་པའི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ན་དེ་འདི་སྙམ་དུ་སེམས་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-28"/>“If they go forth under the dispensation of the Tathāgata, they think to themselves,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.a</prop>
+            <tuv xml:lang="bo">
+                <seg>བདག་ནི་ཚུལ་ཁྲིམས་དང་ལྡན་པ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>‘I possess ethics,’</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.a</prop>
+            <tuv xml:lang="bo">
+                <seg>བདག་ནི་ཚངས་པར་སྤྱོད་པ་སྟེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>‘I practice the spiritual life,’</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.a</prop>
+            <tuv xml:lang="bo">
+                <seg>བདག་འཁོར་བ་ལས་འདའ་བར་བྱའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>‘I shall transcend saṃsāra,’</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.a</prop>
+            <tuv xml:lang="bo">
+                <seg>བདག་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པ་རྗེས་སུ་ཐོབ་པར་བྱའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>‘I shall attain complete nirvāṇa,’</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.a</prop>
+            <tuv xml:lang="bo">
+                <seg>བདག་སྡུག་བསྔལ་རྣམས་ལས་ཐར་བར་བྱའོ་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>‘I shall become liberated from suffering.’</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ཆོས་འདི་དག་ནི་དགེ་བ་དག་གོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>‘These phenomena are virtuous,’</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཆོས་འདི་དག་ནི་མི་དགེ་བ་དག་གོ་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>‘Those phenomena are nonvirtuous.’</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.a</prop>
+            <tuv xml:lang="bo">
+                <seg>སྙམ་དུ་རྟོག་གོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-201"/>“They think,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ཆོས་འདི་དག་ནི་སྤང་བར་བྱ་བ་དག་གོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>‘These phenomena are to be abandoned,’</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཆོས་འདི་དག་ནི་མངོན་དུ་བྱ་བ་དག་གོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>‘Those phenomena are to be brought about,’</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.a</prop>
+            <tuv xml:lang="bo">
+                <seg>སྡུག་བསྔལ་ནི་ཡོངས་སུ་ཤེས་པར་བྱ་བའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>‘Suffering is to be known,’</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀུན་འབྱུང་བ་ནི་སྤང་བར་བྱ་བའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>‘Its origin is to be abandoned,’</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འགོག་པ་ནི་མངོན་སུམ་དུ་བྱ་བའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>‘Its cessation is to be realized,’</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ལམ་ནི་བསྒོམ་པར་བྱ་བའོ་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>‘The path is to be cultivated.’</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.a</prop>
+            <tuv xml:lang="bo">
+                <seg>སྙམ་དུ་རྟོག་གོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-202"/>“They think,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་འདུ་བྱེད་རྣམས་ནི་མི་རྟག་པ། འདུ་བྱེད་རྣམས་ནི་སྡུག་བསྔལ་བ། འདུ་བྱེད་རྣམས་ནི་ཀུན་ཏུ་འབར་བ་སྟེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>‘Conditioned states are impermanent,’ ‘Conditioned states are miserable,’ ‘Conditioned states are burning,’</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འདུ་བྱེད་རྣམས་ལས་བདག་འབྲོས་པར་བྱའོ་སྙམ་དུ་རྟོག་གོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-203"/>“They think, ‘I shall escape from conditioned states.’</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེས་དེ་ལྟར་བརྟགས་པས་མཚན་མ་སྔོན་དུ་འགྲོ་བའི་ཡིད་འབྱུང་བ་དང་ལྡན་པ། <tei:ref folio="F.241.b"/>མཚན་མ་སྔོན་དུ་འགྲོ་བའི་འདུ་ཤེས་ཡིད་ལ་བྱེད་པ་དག་སྐྱེའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-31"/>“Through concepts of this kind, they acquire a disenchantment induced by phenomenal characteristics, and they bring to mind notions induced by phenomenal characteristics.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་འདི་སྙམ་དུ་སེམས་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>With such thoughts, they think to themselves,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.b</prop>
+            <tuv xml:lang="bo">
+                <seg>གང་ཆོས་འདི་དག་ཡོངས་སུ་ཤེས་པ་དེ་ནི་སྡུག་བསྔལ་ཡོངས་སུ་ཤེས་པའོ་སྙམ་མོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>‘One who knows those phenomena is someone who knows suffering.’</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་འདི་སྙམ་དུ་སེམས་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-33"/>“With that thought, they then think,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བདག་གིས་ཀུན་འབྱུང་བ་སྤང་བར་བྱའོ་སྙམ་ནས་དེ་ཆོས་ཐམས་ཅད་ཀྱིས་ཉེན་ཏེ་མ་རྟོགས་སོ། །སྐྲག་གོ། །དངང་ངོ་། །དངང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>‘I must abandon the origin.’ They are disturbed by all those phenomena, and do not understand them; they are afraid, terrified, and will be further terrified.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་འདི་སྙམ་དུ་སེམས་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>With such thoughts, they then think,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཆོས་དེ་དག་མངོན་དུ་བྱེད་པ་གང་ཡིན་པ་དང་། ཆོས་དེ་དག་གིས་ཉེན་པ་གང་ཡིན་པ་དེ་ནི། ཀུན་འབྱུང་བ་སྤོང་བའོ་སྙམ་མོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>‘The bringing about of these phenomena, and being disturbed by those phenomena—these things are the origin that is abandoned.’</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་འདི་སྙམ་དུ་སེམས་ཏེ། བདག་གིས་འགོག་པ་མངོན་སུམ་དུ་བྱའོ་སྙམ་ནས་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-172"/>“With that thought, they then think, ‘I must actualize cessation,’ and</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེས་ཆོས་དེ་དག་བརྟགས་ཏེ་འགོག་པ་ཡིན་པ་སྙམ་དུ་ཤེས་སོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>they think, having investigated those phenomena, that they understand what cessation is.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་འདི་སྙམ་དུ་སེམས་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>With those thoughts, they then think,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འདི་དག་ནི་འགོག་པ་མངོན་སུམ་དུ་བྱེད་པའོ་སྙམ་མོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>‘These are the things that actualize cessation.’</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་འདི་སྙམ་དུ་སེམས་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-35"/>“With that thought, they then think,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བདག་གིས་ལམ་བསྒོམ་པར་བྱའོ་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>‘I must cultivate the path.’</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་གཅིག་པུ་དབེན་པར་སོང་སྟེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They go alone to an isolated place, and,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཆོས་དེ་དག་ཡིད་ལ་བྱེད་པས་ཞི་གནས་འཐོབ་བོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>by holding those phenomena in mind, they attain tranquility.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ཡིད་འབྱུང་བ་ཡིད་ལ་བྱེད་པ་དེ་དང་ཞི་གནས་འཐོབ་པ་དེས་ཆོས་ཐམས་ཅད་དང་སེམས་འགྲས་སོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Holding that disenchantment in mind and having attained tranquility, they disapprove of all phenomena,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འབྲལ་ལོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>part from them,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ལྡོག་གོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>turn away from them,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ལོག་ནས་མངོན་པར་མི་དགའ་བའི་སེམས་བསྐྱེད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>and, having withdrawn from them, they produce a mind of dislike.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་འདི་སྙམ་དུ་སེམས་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-173"/>“They think,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བདག་ནི་སྡུག་བསྔལ་ཐམས་ཅད་ལས་ཐར་ཏེ། བདག་གིས་ཡང་གོང་དུ་བྱ་བ་ཅི་ཞིག་ཡོད་ཀྱིས་བདག་ནི་དགྲ་བཅོམ་པའོ་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>‘I am liberated from all suffering; what more is there for me to do? I am an arhat.’</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བདག་ཉིད་ཀྱིས་ཤེས་པ་ལས་དེ་འཆི་བའི་དུས་ཀྱི་ཚེ་སྐྱེ་བ་ཡང་དག་པར་རྗེས་སུ་མཐོང་ནས་དེ་སངས་རྒྱས་ཀྱི་བྱང་ཆུབ་ལ་དོགས་པ་དང་། ཡིད་གཉིས་དང་། ཐེ་ཙོམ་ཟའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Based on this presumption, when at the time of death they see their coming rebirth they become apprehensive, uncertain, and doubtful about the Buddha’s enlightenment.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ཐེ་ཙོམ་དུ་ལྟུང་བའི་སེམས་ཀྱིས་འཆི་བའི་དུས་བྱས་ནས་སེམས་ཅན་དམྱལ་བ་ཆེན་པོ་རྣམས་སུ་སྐྱེའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Having died with a mind mired in doubt, they are born in the great hells.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ཅིའི་ཕྱིར་ཞེ་ན། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-209"/>“Why is that so?</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ཆོས་ཐམས་ཅད་མ་སྐྱེས་པ་ལ་རྣམ་པར་བརྟགས་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It is because they conceive of all those phenomena, which are actually unproduced.”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ལ་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-37"/>Youthful Mañjuśrī then asked the Bhagavān,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་འཕགས་པའི་བདེན་པ་བཞི་པོ་དག་ཇི་ལྟར་བལྟ་བར་བགྱི། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Bhagavān, how should one view the four truths of the noble ones?”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བཀའ་སྩལ་པ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-174"/>The Bhagavān replied,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.241.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་སུས་འདུ་བྱེད་ཐམས་ཅད་སྐྱེ་བ་མེད་པར་མཐོང་བ་དེས་སྡུག་བསྔལ་ཡོངས་སུ་ཤེས་སོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Mañjuśrī, whoever sees all conditioned states as unproduced has understood suffering.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.a</prop>
+            <tuv xml:lang="bo">
+                <seg>སུས་ཆོས་ཐམས་ཅད་འབྱུང་བ་མེད་པར་<tei:ref folio="F.242.a"/>མཐོང་བ་དེས་ཀུན་འབྱུང་བ་སྤངས་སོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Whoever sees all phenomena as unarisen has abandoned its origin.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.a</prop>
+            <tuv xml:lang="bo">
+                <seg>སུས་ཆོས་ཐམས་ཅད་ཤིན་ཏུ་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པར་མཐོང་བ་དེས་འགོག་པ་མངོན་སུམ་དུ་བྱས་སོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Whoever sees all phenomena as having completely passed into nirvāṇa has realized cessation.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.a</prop>
+            <tuv xml:lang="bo">
+                <seg>སུས་ཆོས་ཐམས་ཅད་དངོས་པོ་མེད་པར་མཐོང་བ་དེས་ལམ་བསྒོམས་སོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Whoever sees all phenomena as having no existence has cultivated the path.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་སུས་འཕགས་པའི་བདེན་པ་བཞི་པོ་དག་འདི་ལྟ་བུར་མཐོང་བ་དེ་ཆོས་འདི་དག་ནི་དགེ་བ་དག་གོ། །ཆོས་འདི་དག་ནི་མི་དགེ་བ་དག་གོ། །ཆོས་འདི་དག་ནི་སྤང་བར་བྱ་བ་དག་གོ། །ཆོས་འདི་དག་ནི་མངོན་སུམ་དུ་བྱ་བ་དག་གོ། །སྡུག་བསྔལ་ནི་ཡོངས་སུ་ཤེས་པར་བྱ་བའོ། །ཀུན་འབྱུང་བ་ནི་སྤང་བར་བྱ་བའོ། །འགོག་པ་ནི་མངོན་སུམ་དུ་བྱ་བའོ། །ལམ་ནི་བསྒོམ་པར་བྱ་བའོ་སྙམ་དུ་མི་རྟོག་རྣམ་པར་མི་རྟོག་གོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-39"/>“Mañjuśrī, whoever sees the four truths of the noble ones in this way does not mentally construct and conceptualize, thinking, ‘These phenomena are virtuous,’ ‘Those phenomena are nonvirtuous,’ ‘These phenomena are to be abandoned,’ ‘Those phenomena are to be realized,’ ‘Suffering is to be known,’ ‘Its origin is to be abandoned,’ ‘Its cessation is to be realized,’ ‘The path is to be cultivated.’</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ཅིའི་ཕྱིར་ཞེ་ན། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-175"/>“Why is that so?</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.a</prop>
+            <tuv xml:lang="bo">
+                <seg>གང་ལ་བྱིས་པ་སོ་སོའི་སྐྱེ་བོ་དག་ཆགས་པ་དང་། ཞེ་སྡང་བ་དང་། གཏི་མུག་པའི་ཆོས་དེ་མ་སྐྱེས་པར་དེས་མཐོང་ཞིང་ཡང་དག་པ་མ་ཡིན་པ་ཀུན་བརྟགས་པ་དང་། རྣམ་པར་བསྒྲུབས་པར་མཐོང་བའི་ཕྱིར་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It is because they see those phenomena to which ignorant ordinary beings become attached, averse, and perplexed as unproduced, and because they see them as falsely imagined and fabricated.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཆོས་དེ་གང་ཡང་མི་ལེན་ཏོ། །མི་འདོར་རོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>So they do not adopt those phenomena at all, nor do they reject them.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ཁམས་གསུམ་པ་ལ་སེམས་མི་ཆགས་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-41"/>“Mentally unattached to the three realms,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཁམས་གསུམ་པ་ཐམས་ཅད་མ་སྐྱེས་པ་དང་། སྒྱུ་མ་ལྟ་བུ་དང་། རྨི་ལམ་ལྟ་བུ་དང་། བྲག་ཅ་ལྟ་བུ་དང་། མིག་ཡོར་ལྟ་བུར་མཐོང་ངོ་། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>they see all three realms as unproduced, like an illusion, a dream, an echo, and a visual aberration.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེས་ཆོས་ཐམས་ཅད་ཀྱི་རང་བཞིན་དེ་ལྟར་མཐོང་བས་སེམས་ཅན་ཐམས་ཅད་ལ་རྗེས་སུ་ཆགས་པ་དང་། ཁོང་ཁྲོ་བ་དང་བྲལ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-176"/>“By seeing the nature of all phenomena in that way, they will become free from attachment and aversion toward all sentient beings.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ཅིའི་ཕྱིར་ཞེ་ན། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-43"/>“Why is that so?</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེས་གང་ལ་རྗེས་སུ་ཆགས་པ་དང་། ཁོང་ཁྲོ་བར་འགྱུར་བའི་ཆོས་དེ་མི་དམིགས་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They do not perceive the phenomena toward which they would have attachment or aversion.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེས་ནམ་མཁའ་དང་མཚུངས་པའི་སེམས་ཀྱིས་སངས་རྒྱས་ཀྱང་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>With minds equal to space, they do not perceive even the Buddha,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཆོས་དང་། དགེ་འདུན་ཡང་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་ངོ་། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>nor do they perceive even the Dharma or the Saṅgha.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེས་ཆོས་ཐམས་ཅད་སྟོང་པར་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་སྟེ། ཆོས་གང་དག་ལའང་ཐེ་ཚོམ་མི་ཟའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They do not perceive all phenomena as empty, nor do they harbor doubt regarding any phenomenon.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཐེ་ཚོམ་མི་ཟ་བས་ཉེ་བར་ལེན་པར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Because they do not harbor doubt, they will not appropriate.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཉེ་བར་མི་ལེན་པས་ལེན་པ་མེད་པར་ཡོངས་སུ་མྱ་ངན་ལས་འདའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Because they do not appropriate, they will attain complete nirvāṇa without further appropriation.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་དགེ་སློང་རབ་འབྱོར་གྱིས་ཆོས་ཐམས་ཅད་རྣམ་པ་དེ་ལྟ་བུར་ཤེས་པས་དེ་<tei:ref folio="F.242.b"/>བཞིན་གཤེགས་པའི་ཞབས་ལ་ཕྱག་འཚལ་དུ་མི་འོང་ངོ་། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-44"/>“Mañjuśrī, bhikṣu Subhūti understands all phenomena in such a way, and therefore he does not come to prostrate at the feet of the Tathāgata. </seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ཅིའི་ཕྱིར་ཞེ་ན། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-177"/>“Why is that so?</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བདག་ཉིད་ཀྱང་མི་དམིགས་ན་དེ་བཞིན་གཤེགས་པ་དམིགས་པར་འགྱུར་བ་ལྟ་ཅི་སྨོས་ཏེ། དེ་ནི་གནས་མ་ཡིན་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It is because it would be impossible—if he does not perceive even himself, how would he perceive the Tathāgata?”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ལ་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-46"/>Then, Youthful Mañjuśrī asked the Bhagavān,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་དྲན་པ་ཉེ་བར་གཞག་པ་བཞི་པོ་དག་ཇི་ལྟར་བལྟ་བར་བགྱི། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Bhagavān, how should one view the four applications of mindfulness?”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-178"/>The Bhagavān replied,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་མ་འོངས་པའི་དུས་ན་དགེ་སློང་དག་མི་སྡུག་པའི་རྣམ་པར་ལུས་ལ་ལུས་ཀྱི་རྗེས་སུ་ལྟ་བའི་དྲན་པ་ཉེ་བར་གཞག་པ་སྟོན་པར་འགྱུར། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Mañjuśrī, in the future I will teach the bhikṣus the application of mindfulness that carefully considers the body in its ugly aspect.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.b</prop>
+            <tuv xml:lang="bo">
+                <seg>སྐྱེ་བ་དང་འགོག་པར་ཚོར་བ་རྣམས་ལ་ཚོར་བའི་རྗེས་སུ་ལྟ་བའི་དྲན་པ་ཉེ་བར་གཞག་པ་སྟོན་པར་འགྱུར། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>I will teach the application of mindfulness that carefully considers feelings as arising and ceasing.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.b</prop>
+            <tuv xml:lang="bo">
+                <seg>སེམས་ལ་སྐྱེ་བའི་ཆོས་དང་། འགག་པའི་ཆོས་སུ་བལྟའོ་སྙམ་དུ་དེ་ལྟར་སེམས་ལ་སེམས་ཀྱི་རྗེས་སུ་ལྟ་བའི་དྲན་པ་ཉེ་བར་གཞག་པ་སྟོན་པར་འགྱུར། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>I will teach the application of mindfulness that carefully considers the mind in this way: ‘Regard the mind as having the quality of arising and the quality of ceasing.’</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.b</prop>
+            <tuv xml:lang="bo">
+                <seg>གང་རིལ་པོར་འདུ་ཤེས་པར་མི་འགྱུར་བ་དེ་ལྟར་ཆོས་རྣམས་ལ་ཆོས་ཀྱི་རྗེས་སུ་ལྟ་བའི་དྲན་པ་ཉེ་བར་གཞག་པ་སྟོན་པར་འགྱུར་བ་དེ་དག་འབྱུང་ངོ་། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>I will teach the application of mindfulness that carefully considers phenomena in such a way that there will be no notion of them as wholes. These teachings will take place.”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལ་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-48"/>When the Bhagavān had said this, Youthful Mañjuśrī asked the Bhagavān,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་དྲན་པ་ཉེ་བར་གཞག་པ་བཞི་པོ་དག་ཇི་ལྟར་བལྟ་བར་བགྱི། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Bhagavān, how should one view the four applications of mindfulness?”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-179"/>The Bhagavān replied,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་དེ་བཞིན་གཤེགས་པའི་ལྡེམ་པོ་ངག་ཤེས་པར་དཀའ་ཡིས་ཐོང་ཤིག །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Mañjuśrī, regard<tei:note xml:id="UT22084-060-007-50"/> them in terms of the allusive speech of the Tathāgata, which is difficult to understand.”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་གྱིས་གསོལ་པ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>requested Mañjuśrī.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་དྲན་པ་ཉེ་བར་གཞག་པ་སྒོམ་པ་བཤད་དུ་གསོལ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-51"/>“Bhagavān, please explain how to cultivate the four applications of mindfulness,”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། འཇམ་དཔལ་ལུས་ནམ་མཁའ་དང་འདྲ་བར་མཐོང་བ་འདི་ནི་ལུས་ལ་ལུས་ཀྱི་རྗེས་སུ་ལྟ་བའི་དྲན་པ་ཉེ་བར་གཞག་པའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-180"/>“Mañjuśrī,” replied the Bhagavān, “regarding the body to be like space is the application of mindfulness that carefully considers the body.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་སུས་ཚོར་བ་ནང་ན་ཡང་མ་ཡིན། ཕྱི་རོལ་ན་ཡང་མ་ཡིན་ཞིང་གཉི་ག་མེད་པ་ལ་ཡང་མི་དམིགས་པ་འདི་ནི་ཚོར་བ་རྣམས་ལ་ཚོར་བའི་རྗེས་སུ་ལྟ་བའི་དྲན་པ་ཉེ་བར་གཞག་པའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-181"/>“Mañjuśrī, whoever does not perceive feelings—which, being neither inside, nor outside, are non-existent in both—is applying mindfulness that carefully considers feelings.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.242.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་སུས་སེམས་ལ་མིང་ཙམ་དུ་ཟད་པར་ཤེས་པ་འདི་ནི་སེམས་ལ་སེམས་ཀྱི་རྗེས་སུ་ལྟ་བའི་དྲན་པ་ཉེ་བར་གཞག་པའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-53"/>“Mañjuśrī, whoever understands mind to be no more than a mere name is applying mindfulness that carefully considers the mind. </seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.243.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་སུས་དགེ་<tei:ref folio="F.243.a"/>བ་དང་། མི་དགེ་བ་དང་ལུང་དུ་མ་བསྟན་པའི་ཆོས་མི་དམིགས་པ་འདི་ནི་ཆོས་རྣམས་ལ་ཆོས་ཀྱི་རྗེས་སུ་ལྟ་བའི་དྲན་པ་ཉེ་བར་གཞག་པ་སྟེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-182"/>“Mañjuśrī, whoever does not perceive virtuous, nonvirtuous, or neutral phenomena is applying mindfulness that carefully considers phenomena.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.243.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་དྲན་པ་ཉེ་བར་གཞག་པ་བཞི་པོ་དག་ནི་དེ་ལྟར་བལྟ་བར་བྱའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-183"/>“Mañjuśrī, this is how the four applications of mindfulness are to be viewed.”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.243.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་གྱིས་གསོལ་པ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-57"/>Mañjuśrī asked,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.243.a</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་འཕགས་པའི་ལམ་ཡན་ལག་བརྒྱད་པ་ཇི་ལྟར་བལྟ་བར་བགྱི། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Bhagavān, how should one view the eightfold path of the noble ones?”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.243.a</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-184"/>The Bhagavān replied,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.243.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་སུས་ཆོས་ཐམས་ཅད་མི་མཉམ་པ་མེད་ལ་གཉིས་སུ་མེད་ཅིང་། གཉིས་སུ་དབྱེར་མེད་པར་མཐོང་བ་འདི་ནི་ཡང་དག་པའི་ལྟ་བའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Mañjuśrī, whoever sees all phenomena as not unequal, nondual, and not dualistically distinguishable has right view.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.243.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་སུས་མི་མཐོང་བའི་ཚུལ་གྱིས་ཆོས་ཐམས་ཅད་མི་རྟོག་རྣམ་པར་མི་རྟོག །ཀུན་ཏུ་མི་རྟོག་པར་མཐོང་བ་འདི་ནི་ཡང་དག་པའི་རྟོག་པའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-185"/>“Mañjuśrī, whoever sees by way of not seeing—without conceptualizing, mentally constructing, or falsely imagining any phenomenon—has right intention.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.243.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་སུས་བརྗོད་པ་མཉམ་པ་ཉིད་ཤིན་ཏུ་བསྒོམས་པའི་ཕྱིར་ཆོས་ཐམས་ཅད་བརྗོད་དུ་མེད་པར་མཐོང་བ་འདི་ནི་ཡང་དག་པའི་ངག་གོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-60"/>“Mañjuśrī, whoever sees all phenomena as inexpressible due to having meditated on the sameness of all expressions has right speech.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.243.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་སུས་བྱེད་པ་པོ་མི་དམིགས་པའི་ཕྱིར་ཆོས་ཐམས་ཅད་བྱ་བ་མེད་པ་དང་བྱེད་པ་མེད་པར་མཐོང་བ་འདི་ནི་ཡང་དག་པའི་ལས་ཀྱི་མཐའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-186"/>“Mañjuśrī, whoever sees all phenomena as free from action and instrument due to not perceiving an agent has right action.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.243.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་སུས་འཚོ་བ་མཉམ་པ་ཉིད་དུ་གནས་པའི་ཕྱིར། ཆོས་ཐམས་ཅད་འཕེལ་བར་ཡང་མི་བྱེད། འགྲིབ་པར་ཡང་མི་བྱེད་པ་འདི་ནི་ཡང་དག་པའི་འཚོ་བའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-62"/>“Mañjuśrī, whoever does not act to increase or decrease any phenomenon due to abiding in the sameness of all livelihoods has right livelihood.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.243.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་སུས་རྩོམ་པ་མེད་པར་བརྟུལ་བའི་ཚུལ་གྱིས་ཆོས་ཐམས་ཅད་ཀུན་ནས་མི་སློང་བ་འདི་ནི་ཡང་དག་པའི་རྩོལ་བའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-187"/>“Mañjuśrī, whoever, by way of applying<tei:note xml:id="UT22084-060-007-64"/> themselves without exertion,<tei:note xml:id="UT22084-060-007-65"/> does not initiate anything has right effort.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.243.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་དྲན་པའི་ལས་དབེན་པའི་ཕྱིར་སུས་ཆོས་ཐམས་ཅད་དྲན་པར་མི་བྱེད་པ་འདི་ནི་ཡང་དག་པའི་དྲན་པའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-188"/>“Mañjuśrī, whoever is not mindful of any phenomenon due to being devoid of the act of mindfulness has right mindfulness.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.243.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་སུས་དམིགས་པ་མི་དམིགས་པའི་ཕྱིར་ཆོས་ཐམས་ཅད་རང་བཞིན་གྱིས་མཉམ་པར་བཞག་ཅིང་མ་འཁྲུགས་པར་མཐོང་བ་འདི་ནི་ཡང་དག་པའི་ཏིང་ངེ་འཛིན་ཏོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-67"/>“Mañjuśrī, whoever sees all phenomena as naturally meditatively concentrated and undisturbed due to not perceiving any object of perception has right meditative concentration.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.243.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་འཕགས་པའི་ལམ་ཡན་ལག་བརྒྱད་པ་ནི་དེ་ལྟར་བལྟ་བར་བྱའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-189"/>“Mañjuśrī, this is how the eightfold path of the noble ones is to be viewed.”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.243.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་གྱིས་གསོལ་པ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-69"/>Mañjuśrī asked,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.243.a</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་དབང་པོ་ལྔ་པོ་དག་ཇི་ལྟར་བལྟ་བར་བགྱི། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Bhagavān, how should one view the five faculties?”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.243.a</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-190"/>The Bhagavān replied,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.243.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་སུས་རང་བཞིན་གྱིས་མ་སྐྱེས་པའི་ཕྱིར་ཆོས་ཐམས་ཅད་མ་སྐྱེས་པར་མཐོང་བར་ཡིད་ཆེས་པ་འདི་ནི་དད་པའི་དབང་པོའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Mañjuśrī, whoever has the confidence to see all phenomena as unproduced by virtue of their being intrinsically unproduced has the faculty of faith.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.243.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་སུས་ཉེ་བའི་འདུ་<tei:ref folio="F.243.b"/>ཤེས་དང་རིང་བའི་འདུ་ཤེས་དང་བྲལ་བའི་ཕྱིར་ཆོས་ཐམས་ཅད་ལ་སེམས་མི་གཏོང་བ་འདི་ནི་བརྩོན་འགྲུས་ཀྱི་དབང་པོའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-191"/>“Mañjuśrī, whoever does not mentally let go of any phenomenon due to being free from notions of far or near has the faculty of effort. </seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.243.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་སུས་དམིགས་པ་དབེན་པའི་ཕྱིར་ཆོས་ཐམས་ཅད་ཡིད་ལ་མི་བྱེད་ཅིང་དྲན་པ་མི་འདོད་པ་འདི་ནི་དྲན་པའི་དབང་པོའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-72"/>“Mañjuśrī, whoever does not seek to bring to mind or to be mindful of any phenomenon due to being disengaged from objects of perception has the faculty of mindfulness.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.243.b</prop>
+            <prop type="alternative-source">Translation based on alternate Kangyur editions, see note.</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་སུས་གཉིས་སུ་མི་དམིགས་པའི་ཕྱིར་ཆོས་ཐམས་ཅད་གཉིས་སུ་མེད་པར་འགྱུར་བ་འདི་ནི་ཏིང་ངེ་འཛིན་གྱི་དབང་པོའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-192"/>“Mañjuśrī, whoever sees<tei:note xml:id="UT22084-060-007-74"/> all phenomena as nondual on account of not perceiving dualistically has the faculty of meditative concentration.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.243.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་སུས་སྐྱེ་བ་དང་བྲལ་བ་དང་། མི་ཤེས་པ་དང་བྲལ་བའི་ཕྱིར་ཆོས་ཐམས་ཅད་རང་བཞིན་གྱིས་སྟོང་པར་མཐོང་བ་འདི་ནི་ཤེས་རབ་ཀྱི་དབང་པོ་སྟེ་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-75"/>“Mañjuśrī, whoever sees all phenomena as intrinsically empty due to being devoid of being produced and being devoid of not being known has the faculty of wisdom.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.243.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་དབང་པོ་ལྔ་པོ་དག་ནི་དེ་ལྟར་བལྟ་བར་བྱའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-193"/>“Mañjuśrī, this is how the five faculties should be viewed.”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.243.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་གྱིས་གསོལ་པ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-77"/>Mañjuśrī asked,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.243.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་བྱང་ཆུབ་ཀྱི་ཡན་ལག་བདུན་པོ་དག་ཇི་ལྟར་བལྟ་བར་བགྱི། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Bhagavān, how should one view the seven branches of enlightenment?”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.243.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-194"/>The Bhagavān replied,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.243.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་སུས་དྲན་པ་མེད་ཅིང་ཡིད་ལ་བྱེད་པ་མེད་པའི་ཕྱིར་ཆོས་ཐམས་ཅད་དངོས་པོ་མེད་པར་མཐོང་བ་འདི་ནི་དྲན་པ་ཡང་དག་བྱང་ཆུབ་ཀྱི་ཡན་ལག་གོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Mañjuśrī, whoever sees all phenomena as devoid of existence because there is neither mindfulness nor attention has the branch of enlightenment of right mindfulness.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.243.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་སུས་དགེ་བ་དང་། མི་དགེ་བ་དང་། ལུང་དུ་མ་བསྟན་པ་ཡོངས་སུ་མི་འགྲུབ་པའི་ཕྱིར་ཆོས་ཐམས་ཅད་དབེན་ཞིང་མི་དམིགས་པ་འདི་ནི་ཆོས་རྣམ་པར་འབྱེད་པ་ཡང་དག་བྱང་ཆུབ་ཀྱི་ཡན་ལག་གོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-195"/>“Mañjuśrī, whoever is disengaged from and does not perceive any phenomenon by not creating virtuous, nonvirtuous, or neutral states has the branch of enlightenment of right discernment of phenomena.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.243.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་སུས་ཁམས་ཀྱི་འདུ་ཤེས་ཤིན་ཏུ་བཤིག་པའི་ཕྱིར་ཁམས་གསུམ་པ་མི་ལེན་མི་འདོར་བ་འདི་ནི་བརྩོན་འགྲུས་ཡང་དག་བྱང་ཆུབ་ཀྱི་ཡན་ལག་གོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-80"/>“Mañjuśrī, whoever neither adopts nor rejects the three realms due to having destroyed the notion of realms has the branch of enlightenment of right effort.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.243.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་སུས་དགའ་བ་དང་། མི་དགའ་བ་རྣམ་པར་བཤིག་པའི་ཕྱིར་འདུ་བྱེད་ཐམས་ཅད་ལ་དགའ་བ་མི་སྐྱེད་པ་འདི་ནི་དགའ་བ་ཡང་དག་བྱང་ཆུབ་ཀྱི་ཡན་ལག་གོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-196"/>“Mañjuśrī, whoever does not become joyous about any conditioned state due to having done away with joy and sorrow has the branch of enlightenment of right joy.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.243.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་སུས་དམིགས་པའི་དངོས་པོ་མི་དམིགས་པའི་ཕྱིར་ཆོས་ཐམས་ཅད་ལ་སེམས་ཤིན་ཏུ་སྦྱངས་པར་གྱུར་པ་འདི་ནི་ཤིན་ཏུ་སྦྱངས་པ་ཡང་དག་བྱང་ཆུབ་ཀྱི་ཡན་ལག་གོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-82"/>“Mañjuśrī, whoever is mentally supple with respect to all phenomena because of not perceiving objects of perception has the branch of enlightenment of right mental suppleness.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.243.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་སུས་ཆོས་ཐམས་ཅད་རྣམ་པར་གཞིག་པ་རྗེས་སུ་རྟོགས་པའི་ཕྱིར་སེམས་མི་དམིགས་པ་འདི་ནི་ཏིང་ངེ་འཛིན་ཡང་དག་བྱང་ཆུབ་ཀྱི་ཡན་ལག་གོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-197"/>“Mañjuśrī, whoever does not perceive mind because of realizing that all phenomena have come to an end has the branch of enlightenment of right meditative concentration.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་སུས་ཆོས་ཐམས་ཅད་ལ་གནས་པར་མི་བྱེད། རྟེན་པར་མི་བྱེད། ཆགས་པར་མི་བྱེད། འཆིང་བར་མི་བྱེད་ཅིང་དེ་<tei:ref folio="F.244.a"/>ཆོས་ཐམས་ཅད་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་བའི་བཏང་སྙོམས་ཅན་དུ་གྱུར་ཏེ། དགའ་བ་ཐོབ་པ་འདི་ནི་བཏང་སྙོམས་ཡང་དག་བྱང་ཆུབ་ཀྱི་ཡན་ལག་སྟེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-84"/>“Mañjuśrī, whoever does not rely on, depend on, or cleave to any phenomenon, and, acquiring the impartiality of not seeing any phenomenon, attains joy has the branch of enlightenment of right impartiality. </seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་བྱང་ཆུབ་ཀྱི་ཡན་ལག་བདུན་པོ་དག་ནི་དེ་ལྟར་བལྟ་བར་བྱའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-198"/>“Mañjuśrī, this is how the seven branches of enlightenment should be viewed.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་གང་ལ་ལས་འཕགས་པའི་བདེན་པ་བཞི་པོ་དག་དང་། དྲན་པ་ཉེ་བར་གཞག་པ་བཞི་པོ་དག་དང་། འཕགས་པའི་ལམ་ཡན་ལག་བརྒྱད་པ་དག་དང་། དབང་པོ་ལྔ་པོ་དག་དང་། བྱང་ཆུབ་ཀྱི་ཡན་ལག་བདུན་པོ་དག་དེ་ལྟ་བུར་མཐོང་བ་འདི་ནི་རྒལ་བའོ་ཞེས་ང་སྨྲ་སྟེ</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-86"/>“Mañjuśrī, I proclaim that those who see the four truths of the noble ones, the four applications of mindfulness, the eightfold path of the noble ones, the five faculties, and the seven branches of enlightenment in such a manner have crossed over.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཕ་རོལ་ཏུ་སོན་པའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg> they have gone to the other shore,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཐང་ལ་གནས་པའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>stand on dry land,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>བདེ་བ་ཐོབ་པའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>have reached happiness,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>མི་འཇིགས་པ་ཐོབ་པའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>have obtained fearlessness,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཁུར་བོར་བའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>have laid down their burden,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>རྡུལ་དང་བྲལ་བའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>are free from dust,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཅི་ཡང་མེད་པའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>have nothing whatsoever,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཉོན་མོངས་པ་མེད་པའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>are free of afflictions,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ལེན་པ་མེད་པའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>have no further appropriation,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དགྲ་བཅོམ་པའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>are arhats,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དགེ་སྦྱོང་ངོ་། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>are śramaṇas,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>བྲམ་ཟེའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>are brahmins,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>བཀྲུས་པའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>are cleansed,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>རིག་པའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>are knowers,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>རིང་དུ་སོང་བའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>are those who have gone afar,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>གཙང་མའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>are pure,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཀྱི་སྲས་སོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>are heirs of the Buddha,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱཀྱའི་སྲས་སོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>are Śākya heirs,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཚེར་མ་དཀྲུགས་པའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>have extracted the thorns,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འོབས་ལས་རྒལ་བའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>have crossed the pit,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤིན་ཏུ་བརྟན་པའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>are completely steady,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>རིམས་ནད་མེད་པའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>are free from fever,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དགེ་སློང་ངོ་། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>are bhikṣus,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འཕགས་པའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>are noble ones,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>རྒྱལ་མཚན་རྫོགས་པའོ་ཞེས་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>and are perfect banners.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>སྨྲའོ །_།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>I proclaim that</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་བཟོད་པ་དེ་ལྟ་བུ་དང་ལྡན་པ་ནི་ལྷ་དང་བཅས་པའི་འཇིག་རྟེན་གྱི་སྦྱིན་གནས་ཡིན་ཏེ་རྙེད་པ་དང་། བཀུར་སྟིའི་འོས་ཀྱང་ཡིན་ནོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-87"/>“Mañjuśrī, those with such forbearance are deserving of offerings from the world with its gods—they are worthy of gifts and reverence.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་དེ་ལྟ་བས་ན། དགེ་སློང་ཡུལ་འཁོར་གྱི་བསོད་སྙོམས་དོན་ཡོད་པར་ཡོངས་སུ་བཟའ་བར་འདོད་པ་དང་། བདུད་འདུལ་བར་འདོད་པ་དང་། འཁོར་བ་ལས་ཡང་དག་པར་འདའ་བར་འདོད་པ་དང་། མྱ་ངན་ལས་འདས་པ་ཐོབ་པར་འདོད་པ་དང་། སྡུག་བསྔལ་རྣམས་ལས་གྲོལ་བར་འདོད་པས་ཆོས་འདི་དག་ལ་བརྩོན་པར་བྱའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-199"/>“Therefore, Mañjuśrī, those bhikṣus who seek to partake of the country’s alms in a beneficial way, who seek to subdue Māra, who seek to transcend saṃsāra, who seek to attain nirvāṇa, and who seek to become liberated from suffering should work diligently on these Dharmas.”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བསྟན་པ་ན་ལྷའི་བུ་སུམ་ཁྲི་ཉིས་སྟོང་གིས་ཆོས་མངོན་པར་རྟོགས་པར་གྱུར་ནས་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-89"/>When this Dharma discourse was taught, thirty-two thousand gods realized the Dharma.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་གིས་བཅོམ་ལྡན་འདས་ལ་མན་དཱ་ར་བའི་མེ་ཏོག་གིས་གཏོར་ཏེ་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They sprinkled mandārava flowers upon the Bhagavān and</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཚིག་འདི་སྐད་ཅེས་སྨྲས་སོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>uttered these words:</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.a</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཆོས་བསྟན་པ་འདི་སུ་དག་གི་རྣ་ལམ་དུ་གྲག་པར་གྱུར་པ་དེ་དག་ནི། དེ་བཞིན་གཤེགས་པའི་བསྟན་པ་ལ་ལེགས་པར་རབ་ཏུ་བྱུང་བ་ལེགས་པར་འགྱུར་ན། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-200"/>“If those who just happen to hear this Dharma teaching by the Bhagavān will successfully go forth under the Tathāgata’s dispensation and do well, </seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.b</prop>
+            <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.244.b"/>གང་དག་ཐོས་ནས་མོས་པ་དང་། དད་པ་དང་། དེ་བཞིན་ཉིད་དུ་འཛིན་པར་འགྱུར་བ་དག་ལྟ་སྨོས་ཀྱང་ཅི་འཚལ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>what more needs to be said of those who, having listened to it, have confidence and faith in it, and uphold it accordingly?</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཆོས་བསྟན་པ་འདི་སུ་དག་གི་རྣ་ལམ་དུ་གྲག་པར་གྱུར་པ་དེ་དག་ནི། མངོན་པའི་ང་རྒྱལ་མ་མཆིས་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Indeed, those who happen to hear this Dharma teaching by the Bhagavān will not become conceited.”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-91"/>After the Bhagavān had spoken this teaching,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་དང་། ཉན་ཐོས་ཆེན་པོ་དེ་དག་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Youthful Mañjuśrī, the great śrāvakas, and the world with its gods, humans, demigods, and gandharvas rejoiced, and</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>they praised what the Bhagavān had said.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འཕགས་པ་བྱང་ཆུབ་ཀྱི་ཕྱོགས་བསྟན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།། །།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-92"/>This concludes the Noble Mahāyāna Sūtra, “ The Teaching on the Aids to Enlightenment .”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.244.b</prop>
+            <tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་ཛི་ན་མི་ཏྲ་དང་། ཛྙཱ་ན་སིདྡྷི་དང་། ཞུ་ཆེན་གྱི་ལོ་ཙྪ་བ་བན་དེ་ཡེ་ཤེས་སྡེས་བསྒྱུར་ཅིང་ཞུས་ཏེ། སྐད་གསར་ཆད་ཀྱིས་ཀྱང་བཅོས་ནས་གཏན་ལ་ཕབ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-060-007-93"/>This sūtra was translated, edited, and finalized, based on revisions done according to the language reform, by the Indian masters Jinamitra and Jñānasiddhi, and by the chief editor and translator, the venerable Yeshé Dé.<tei:note xml:id="UT22084-060-007-94"/>
+                </seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

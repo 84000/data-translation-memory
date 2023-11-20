@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-088-009" eft:text-version="v-1.1.9-2021"/>
+<body>
+<tu>
+            <prop type="folio">F.46.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཕགས་པ་སངས་རྒྱས་ཀྱི་སྙིང་པོ་ཞེས་བྱ་བའི་གཟུངས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Noble Dhāraṇī of the Buddha’s Essence</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.46.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-009-15"/>
+                    <tei:note xml:id="UT22084-088-009-53"/> Homage to all buddhas and bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.46.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-009-16"/>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.46.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་རྒྱ་མཚོའི་འགྲམ་གྱི་སྐྱེད་མོས་ཚལ་ན་སངས་རྒྱས་ཀྱི་སྤྱོད་ཡུལ་གྱི་ཤིང་ལྗོན་པ་ཀུན་ནས་སེང་གེའི་ཁྲི་ལ་བཞུགས་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Blessed One was seated upon a lion throne in a seashore grove surrounded on all sides by the forest that was the Buddha’s domain.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.47.a</prop>
+	<tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.47.a"/>ལྷའི་འཁོར་གྱིས་ཀུན་ནས་བསྐོར་ཅིང་མདུན་གྱིས་བལྟས་ཏེ་ཆོས་སྟོན་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>There, he taught the Dharma to a retinue of gods that had gathered around and paid their respects to him.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.47.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དབང་ཕྱུག་ཆེན་པོ་དཀའ་ཐུབ་བཟང་པོ་ལ་སོགས་པ་གནས་གཙང་མའི་རིས་ཀྱི་ལྷའི་བུ་རྣམས་ལ་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-009-44"/>The Blessed One addressed the gods of the Śuddhāvāsa realm such as Maheśvara, Suvrata,<tei:note xml:id="UT22084-088-009-17"/> and the rest, saying,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.47.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྷའི་བུ་དག་དེའི་ཕྱིར་ལེགས་པར་རབ་ཏུ་ཉོན་ལ་ཡིད་ལ་ཟུང་ཤིག་དང་བཤད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Gods, listen well, pay attention, and I will teach.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.47.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་ཕྱི་མའི་དུས་ན། འཁོར་བཞི་བསྡུ་བ་དང་། རྗེས་སུ་གཟུང་བ་དང་། ཀུན་ཏུ་རྗེས་སུ་གཟུང་བ་དང་། ཁྱད་པར་དུ་འགྲོ་བར་བྱ་བ་དང་། དོན་ཐམས་ཅད་དང་། ཆོས་ཐམས་ཅད་དང་ལྡན་པ་ཡོངས་སུ་རྫོགས་པར་བྱ་བ་དང་། ཐེག་པ་ཆེན་པོ་ལ་ཡང་དག་པར་ཞུགས་པ་རྣམས་རྣམ་པ་ཐམས་ཅད་དུ་ཁྱད་པར་ཐོབ་པར་བྱ་བའི་ཕྱིར་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Thus-Gone One, in order in future times to gather a fourfold retinue, look after them, care for them in all manner of ways, and cause them to advance, to bring those who possess all the teachings and their meanings to perfection, and to bring all who are properly established in the Great Vehicle to specific attainment in all its aspects,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.47.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཀྱི་སྙིང་པོ་ཞེས་བྱ་བའི་གཟུངས་ཀྱི་ཆོས་ཀྱི་རྣམ་གྲངས་སྟོན་ཏོ། །འཆང་ངོ་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>teaches and explains the dhāraṇī discourse called The Buddha’s Essence.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.47.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ཁྱེད་ཀྱི་ཟུང་ལ་ད་ལྟར་དང་ང་ཡོངས་སུ་མྱ་ངན་ལས་འདས་ནས་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>You should retain it and, both now [and in future times] after I have passed into parinirvāṇa,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.47.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྱི་མའི་དུས་ན་ཐེག་པ་ཆེན་པོ་ལ་ཡང་དག་པར་ཞུགས་པའི་འཁོར་རྣམ་པ་བཞི་རྣམས་ལ་སྟོན་ཅིག །ཤོད་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>[You should retain it and, both now and] in future times [after I have passed into parinirvāṇa,] teach and explain it to all members of the fourfold retinue who are properly established in the Great Vehicle.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.47.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡལ་བར་མི་དོར་བར་ངེས་པར་བསྟན་པར་བྱ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Never forsake it, and always teach it</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.47.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བསྒྲག་པར་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>and promote it.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.47.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཇི་ཙམ་དུ་ཕོངས་པར་གྱུར་པ་རྣམས་དང་། སྒྲིབ་པ་དང་ལྡན་པ་རྣམས་ལ་དེ་བཞིན་གཤེགས་པའི་གསུང་བསྐྱང་ཞིང་ངེས་པར་བསྟན་པར་བྱ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>As long as there are beings who are destitute and affected by the obscurations, you should preserve the teaching of the Thus-Gone One for them, teach it,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.47.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བསྒྲག་པར་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>and promote it.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.47.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་བཞིན་དུ་བགྱི་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-009-18"/>The gods replied, “Blessed One, we will do just that.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.47.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པའི་བཀའ་བཞིན་འདི་ནན་ཏན་གྱིས་ཡོངས་སུ་རྫོགས་པར་བགྱིའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>We will sincerely and perfectly carry out the Thus-Gone One’s command.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.47.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-009-41"/>The Blessed One addressed them, saying,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.47.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྷའི་བུ་དག་སངས་རྒྱས་ཀྱི་སྙིང་པོ་ཞེས་བྱ་བའི་ཆོས་ཀྱི་རྣམ་གྲངས་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Gods, this is the Dharma discourse called The Buddha’s Essence:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.47.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཏདྱ་ཐཱ། ཨ་མ་ལེ། ནིརྨ་ལེ། སརྦ་ཨཱ་ཀཱ་ར་ཨརྠ་པ་རི་བྲཱཔྟེ། ཨ་ས་མནྟ་སརྦ་ཀུ་ན་ཨཱ་ཀཱ་རེ་ཏྲྱ་དྷྭ། ཨ་སཾ་ག་ཨ་ནཱ་བྲྀ་ཏེ། ས་མནྟ་ད་ཤ་དི་ཤ །པ་རི་པཱུརྞ་ཛྙཱ་ནེ། སརྦ་ཨ་སཾ་ག་དརྴ་ན་བྲཱཔྟེ། སརྦ་དྷརྨ་མ་བི་ཤ་ཏ་པ་རི་པཱུརྞེ། སརྦ་ཨཱ་ཀཱ་ར། ཨ་སཾ་ག་ས་མ་ནྭི་ཏེ། ས་མནྟ་ཨ་པྲ་<tei:ref folio="F.47.b"/>ཏི་ཧ་ཏ་ཛེ་ཏྲྱ་དྷྭ་ད་ཤ་སུ། དི་ཀྵུ་པ་རི་བྲཱཔྟ་ཨརྠེ། ཤཱནྟ། པྲ་ཤཱནྟ། ཨུ་པ་ཤཱནྟ། ས་མ་ཤཱནྟ། བི་མོ་ཀྵ་ཨ་ནུ་བྲཱཔྟེ། སུ་པྲ་ཏི་བུདྡྷ་དྷརྨ་དྷཱ་ཏུ། ཨ་ཏྱནྟ་སུ་ནི་སྲི་ཏེ། སརྦ་ཨཱ་ཀཱ་ར་ནི་ས་ས་རཱ་ཎ། ཨ་ན་བ་ཤེ་ཥ་པཱ་རངྒ་ཏེ། བི་པྲ་མུཀྟ། ཨ་སཾ་ཡོ་ག །བི་པྲ་ཡོ་གསྠི་ཏེ་དྷརྨ་ཏེ། ག་ག་ན་ས་མ། པྲ་ཀྲྀ་ཏི་པ་རི་ཤུདྡྷ། ནིརྨ་ལེ། ཨ་ས་མནྟ། ཏྲྱདྷྭ་ཨ་ནུ་ག་ཏ། སུ་བྲཱཔྟེ་པཱུ་རྦནྟ། ཨ་པ་རནྟ། མ་དྷྱ་ཏྲྱ་དྷྭ་ས་མནྟ་ཨ་ནུ་བྲཱཔྟེ། ཨ་ན་བ་ཤེ་ཥ། པ་རི་ཛྙཱ་པྲ་ཧ་ན། བྷ་བ་ན། ས་ཀྵཱད་ཀྲི་ཡ་པ་ར་མ་པ་རངྒ་ཏེ། ཡ་ཐཱ་བཱ་དི་ཏ་ཐཱ་ཀཱ་རི། སརྦ་ཨཱ་ཀཱ་ར་སམ་པནྣེ། སརྦ་ཨཱ་ཀཱ་ར་མ་ཧཱ། མཻ་ཏྲི་མ་ཧཱ་ཀ་རུ་ཎཱ། སརྦ་ཨཱ་ཀཱ་རཱ་ས་མ་ས་གྲ་ཧ་ཨ་ནུ་བྲཱཔྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>tadyathā amale nirmale sarvākārārtha­pariprāpte asamanta­sarva­kunākāre tryadhvāsaṅgānāvṛte samanta­daśadiśa­paripūrṇa­jñāne sarvāsaṅga­darśana­prāpte sarva­dharmam aviśata­paripūrṇe sarvākāra­saṅga­samanvite samantāpra tihatateje tryadhva­daśasu dikṣu­pariprāptārthe śānta-prāśanta-upaśānta-samaśānta-vimokṣānuprāpte supratibuddha­dharma­dhātu atyantasunisrite sarvākāra­niḥsaraṇa anavaśeṣaparaṅgate vipra­mukta asaṁyoga viprayoga-sthite dharmate gagana­sama-prakṛti­pariśuddha-nirmale asamanta-tryadhvānugata-suprāpte pūrvānta-aparanta madhyatrya­dhvasamantānuprapte anavaśeṣa parijñā­prahana-bhavana-sakṣātkriya­paramaparaṅgate yathāvati tathākāri sarvākāra­saṁpanne sarvākāra­mahā maitri­mahā­karuṇā sarvākāra­samasagrahānuprāpte</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.47.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྷའི་བུ་དག་འདི་ནི་སངས་རྒྱས་ཀྱི་སྙིང་པོ་ཞེས་བྱ་བའི་གཟུངས་ཀྱི་ཆོས་ཀྱི་རྣམ་གྲངས་ཏེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-009-19"/>“Gods, this is the dhāraṇī discourse called The Buddha’s Essence.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.47.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐེག་པ་ཆེན་པོ་ལ་ཡང་དག་པར་ཞུགས་པའི་འཁོར་བཞི་པོ་ལས་རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་གང་ལ་ལ་ཞིག་གིས་ལུས་ལ་ཐོགས་སམ། ལེགས་པར་ཁ་ཏོན་དུ་བྱས་ཏེ་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>If noble sons or daughters from the fourfold community who are properly established in the Great Vehicle wear it on their bodies, recite it well, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.47.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཛིན་པ་དེས་དམན་པའི་སེམས་སུ་མི་བྱ་སྟེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>uphold it, they will never give rise to inferior mental states.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.47.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་ཇི་ལྟ་བ་བཞིན་དུ་དེ་དག་གི་སྤྱི་གཙུག་གི་སྟེང་གི་མཚམས་སུ་གནས་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Thus-Gone One will likewise remain with them, seated above the crowns of their heads.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.47.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཁ་ཅིག་ནི་ངེས་པར་སངས་རྒྱས་མཐོང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Some will certainly see the Buddha,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.47.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཁ་ཅིག་ནི་ཐོས་པར་འགྱུར། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>some will hear him teach,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.47.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཁ་ཅིག་ནི་ཆོས་སྟོན་པར་འགྱུར། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>some will become Dharma teachers, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.47.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཁ་ཅིག་ནི་གཟུངས་མི་བརྗེད་པར་འགྱུར། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>some will gain the dhāraṇī power of not forgetting.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.47.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སློབ་པ་ལམ་ལ་གནས་པ་རྣམས་ནི་ལམ་གྱི་རྒྱུན་མི་འཆད་ཅིང་ཆོས་སྟོན་པ་རྒྱུན་མི་འཆད་པར་འགྱུར། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Students who are on the path will never have that path interrupted, and they will have a continual stream of Dharma teachers.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.47.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཀུན་ཏུ་འཛིན་པ་མི་བརྗེད་པར་ཡང་འགྱུར། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They will understand everything, never forget it, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.47.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐྱེ་བ་གཅིག་གིས་ཐོགས་པ་གྲུབ་པར་འགྱུར། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>be only one birth away from awakening.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.47.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་དག་དང་ལྡན་ན་ཐོས་པ་རྒྱ་མཚོ་ཐམས་ཅད་ཀྱི་གཟུངས་ཐོབ་པར་འགྱུར། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>With those qualities, they will gain the power of retaining the entire ocean of knowledge.<tei:note xml:id="UT22084-088-009-20"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.47.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མི་སྐྱེ་བའི་ཆོས་ལ་བཟོད་པ་ཐོབ་པར་འགྱུར་བ་ནས་སངས་རྒྱས་ཀྱི་རྣམ་པར་ཐར་པ་སྒྲིབ་པ་མེད་པ་དང་། ཡོངས་སུ་རྫོགས་པའི་བར་དུ་རྗེས་སུ་ཐོབ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They will receive all the attainments, beginning with acceptance of the fact that phenomena do not arise up to becoming fully liberated, perfect buddhas who are free from obscurations.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.47.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཁྱེད་ཀྱིས་ཚེ་འདི་ལ་ངའི་བསྟན་པའི་དགོངས་པ་ཁོང་དུ་ཆུད་པར་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>You gods will understand the meaning of my teachings in this lifetime.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.48.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་དེ་དག་ལ་ཡང་ངེས་པར་<tei:ref folio="F.48.a"/>བསྟན་པར་བྱ་ཞིང་བསྒྲག་པར་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>You should teach it and promote it among the sons and daughters of the lineage. </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.48.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡལ་བར་མི་འདོར། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Do not cast it aside,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.48.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྱི་བཤོལ་མི་བྱ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>do not forsake it, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.48.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བརྗེད་པར་མི་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>do not forget it!”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.48.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་བཞིན་དུ་བསྒྲུབ་པར་བགྱིའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-009-21"/>The gods responded, “Blessed One, we shall do just as you have said.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.48.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་སངས་རྒྱས་ཀྱི་སྙིང་པོ་ཞེས་བགྱི་བའི་གཟུངས་ཀྱི་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་སླད་མའི་དུས་ན་འཁོར་བཞི་རྣམས་ལ་ཕྱི་བཤོལ་མ་མཆིས་པ་དང་། མི་བསྐྱུད་པར་བསྟན་པར་བགྱི། བཤད་པར་བགྱིའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>We will teach and explain the Blessed One’s dhāraṇī discourse called The Buddha’s Essenceto the fourfold assembly, without hesitation, in its entirety.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.48.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་དེ་དག་ལ་ཡང་ངེས་པར་བསྟན་པར་བགྱི་ཞིང་བསྒྲག་པར་བགྱིའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>We will teach it and promote it among noble sons and daughters.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.48.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ན་དེ་བཞིན་གཤེགས་པའི་བཀའ་ལུང་དང་མཐུན་པར་འགྱུར། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It will be just as the Thus-Gone One has said.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.48.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བདག་ཅག་གིས་དེ་བཞིན་གཤེགས་པའི་དམ་པའི་ཆོས་ཡོངས་སུ་བཟུང་བར་འགྱུར། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>We will fully comprehend the Thus-Gone One’s holy Dharma, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.48.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་དེ་དག་ལ་ཡང་དོན་ཆེན་པོ་དང་ཕན་པའི་དངོས་པོ་ཆེན་པོར་འགྱུར་ལགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>for the noble sons and daughters will be of great meaning and something of great benefit.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.48.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-009-42"/>The Blessed One replied,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.48.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྷའི་བུ་དག་དེའི་ཕྱིར་ཇི་སྐད་སྨྲས་པ་དེ་བཞིན་གྱིས་ཤིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“That is why you gods must do as I have said.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.48.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་ནི་ཁྱེད་ལ་རྗེས་སུ་བསྟན་པའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>This is the teaching that I give to you.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.48.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-009-22"/>After the Blessed One had spoken,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.48.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དབང་ཕྱུག་ཆེན་པོ་དཀའ་ཐུབ་བཟང་པོ་ལ་སོགས་པ་གནས་གཙང་མའི་རིས་གྱི་ལྷའི་བུ་རྣམས་དང་། ཐམས་ཅད་དང་ལྡན་པའི་འཁོར་དེ་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>the gods of the Śuddhāvāsa realm such as Maheśvara and Suvrata, along with the entire assembly, praised the Blessed One’s words.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.48.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཕགས་པ་སངས་རྒྱས་ཀྱི་སྙིང་པོ་ཞེས་བྱ་བའི་གཟུངས་རྫོགས་སོ།། །།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-009-23"/>This concludes “The Dhāraṇī of the Buddha’s Essence.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.48.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་ཛི་ན་མི་ཏྲ་དང་། དཱ་ན་ཤཱི་ལ་དང་། ཞུ་ཆེན་ལོ་ཙྪ་བ་བན་དེ་ཡེ་ཤེས་སྡེས་བསྒྱུར་ཅིང་ཞུས་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-009-24"/>This work was translated and edited by the Indian preceptors Jinamitra and Dānaśīla along with the great editor and translator Bandé Yeshé Dé.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.48.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐད་གསར་བཅད་ཀྱིས་ཀྱང་བཅོས་ནས་གཏན་ལ་ཕབ་པ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It was then corrected according to the new translation guidelines and then finalized.</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,3890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-044-004" eft:text-version="v-1.0.3-2021"/>
+<body>
+<tu>
+            <prop type="folio">F.95.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཕགས་པ་བུ་མོ་རྣམ་དག་དད་པས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Noble Mahāyāna Sūtra The Questions of the Girl Vimalaśraddhā</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.95.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-22"/>Homage to all the buddhas and bodhisattvas!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.95.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-23"/>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.95.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མཉན་ཡོད་ན་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་ལྔ་བརྒྱ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བརྒྱད་སྟོང་དང་ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Blessed One was residing at Jetavana, Anātha­piṇḍada’s park in Śrāvastī, together with a large assembly of five hundred bhikṣus and eight thousand bodhisattva mahāsattvas</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.95.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐམས་ཅད་ཀྱང་ཤེས་པར་བྱ་བ་རྣམས་རབ་ཏུ་ཤེས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>who were well versed in all fields of knowledge,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.95.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཟུངས་དང་ཐོགས་པ་མེད་པའི་སྤོབས་པ་ཐོབ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>had obtained retention and unimpeded eloquence,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.95.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཟོད་པ་རྣམས་ཕུན་སུམ་ཚོགས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>were fully accomplished in patience,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.95.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བདུད་ཀྱི་དཔུང་རབ་ཏུ་བཅོམ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>were completely victorious over the hordes of Māra,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.95.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་རྣམས་ཀྱིས་བརྙེས་པའི་ཆོས་རྣམས་རབ་ཏུ་ཐོབ་པ་ཤ་སྟག་ལ་འདི་ལྟ་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>and had obtained the Dharmas attained by the thus-gone ones.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.95.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་འཇིག་རྟེན་འཛིན་དང་། བྱང་ཆུབ་སེམས་དཔའ་ལམ་འཛིན་དང་། བྱང་ཆུབ་སེམས་དཔའ་ས་འཛིན་དང་། བྱང་ཆུབ་སེམས་དཔའ་ས་འཛིན་ཆེན་པོ་དང་། བྱང་ཆུབ་སེམས་དཔའ་མོས་པའི་བློ་གྲོས་དང་། བྱང་ཆུབ་སེམས་དཔའ་མོས་བྱེད་དང་། བྱང་ཆུབ་སེམས་དཔའ་གཟུགས་མཛེས་བཀོད་པ་དང་། བྱང་ཆུབ་སེམས་དཔའ་རིན་པོ་ཆེའི་ཏོག་དང་། བྱང་ཆུབ་སེམས་དཔའ་རིན་པོ་ཆེའི་རྒྱལ་མཚན་དང་། བྱང་ཆུབ་སེམས་དཔའ་རིན་ཆེན་སེམས་པ་དང་། བྱང་ཆུབ་སེམས་དཔའ་རིན་ཆེན་འབྱུང་གནས་དང་། བྱང་ཆུབ་སེམས་དཔའ་རིན་ཆེན་བློ་གྲོས་དང་། བྱང་ཆུབ་སེམས་དཔའ་རིན་ཆེན་ཡོན་ཏན་དང་། བྱང་ཆུབ་སེམས་དཔའ་རིན་ཆེན་འོད་དང་། གཞན་ཡང་བསྐལ་པ་བཟང་པོའི་བྱང་ཆུབ་སེམས་དཔའ་བྱམས་པ་ལ་སོགས་པ་གཙོ་བོར་གྱུར་པ་དང་ཐབས་ཅིག་གོ །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>There was the bodhisattva Lokadhara, the bodhisattva Mārgadhara, the bodhisattva Dharaṇīdhara, the bodhisattva Mahādharaṇīdhara, the bodhisattva Dhṛtimati, the bodhisattva Adhimuktika, the bodhisattva Surūpavyūha, the bodhisattva Ratnaketu, the bodhisattva Ratnadhvaja, the bodhisattva Ratnacinta, the bodhisattva Ratnākara, the bodhisattva Ratnamati, the bodhisattva Ratnaguṇa, and the bodhisattva Ratnaprabha, and there were also the bodhisattvas of this fortunate eon headed by Maitreya.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.95.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞན་ཡང་སེམས་པ་དཔེ་ཟླ་མེད་པའི་བྱང་ཆུབ་སེམས་དཔའ་འཇམ་དཔལ་ལ་སོགས་པ་གཙོ་<tei:ref folio="F.95.b"/>བོར་གྱུར་པ་དྲུག་ཅུ་པོ་དག་དང་ཡང་ཐབས་ཅིག་གོ །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>There was also a group of sixty bodhisattvas with incomparable motivation, headed by Mañjuśrī, </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.95.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞན་ཡང་སྐྱེས་བུ་ཆེན་པོ་བྱང་ཆུབ་སེམས་དཔའ་བཟང་སྐྱོང་ལ་སོགས་པ་གཙོ་བོར་གྱུར་པ་བཅུ་དྲུག་དང་ཡང་ཐབས་ཅིག་གོ །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>and a group of sixteen great men led by the bodhisattva Bhadrapāla.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.95.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞན་ཡང་དགའ་ལྡན་གྱི་རིས་ཀྱི་ལྷའི་བུ་ཉི་ཁྲི་འཁོར་དེ་ཉིད་དུ་འདུས་པར་གྱུར་པ་དག་དང་ཡང་ཐབས་ཅིག་གོ །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Also gathered there was an assembly of twenty thousand gods from the Tuṣita heaven.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.95.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེའི་ཚེ་བཅོམ་ལྡན་འདས་བཀོད་པ་ཆེན་པོའི་མཛོད་ཅེས་བྱ་བའི་སེང་གེའི་གདན་ལ་འཁོར་བརྒྱ་སྟོང་ཚད་མེད་པ་དག་གིས་ཡོངས་སུ་བསྐོར་ནས་བཞུགས་པས་ཉི་ཟླ་ལྟ་བུའི་འོད་ཟེར་གྱིས་ནི་ཀུན་དུ་སྣང་བར་མཛད། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-24"/>Then the Blessed One, who was sitting there on the lion throne called Treasury of Great Arrangements, surrounded by an immeasurable assembly of hundreds of thousands, shone forth everywhere with rays of light like those of the sun and the moon.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.95.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བརྒྱ་བྱིན་དང་ཚངས་པའི་རྒྱལ་པོ་ལྟར་གཟི་བྱིན་ནི་ཁྱད་པར་དུ་འཕགས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Like the kings of the gods, Śakra and Brahmā, his brilliance was outstanding.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.95.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རིའི་རྒྱལ་པོ་རི་རབ་ལྟ་བུར་ཤིན་ཏུ་མཐོ་ཞིང་ཕལ་ལས་ནི་མངོན་པར་འཕགས་པར་གྱུར། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Like Mount Meru, the king of mountains,<tei:note xml:id="UT22084-044-004-25"/> he was extremely tall and rose high above the common.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.95.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྒྲོན་མ་ཆེན་པོ་ལྟ་བུར་འོད་ཟེར་དག་ནི་རབ་ཏུ་འབར། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Like a great torch, the light that he radiated was utterly resplendent.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.95.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གླང་པོ་ཆེའི་རྒྱལ་པོ་ལྟར་ཕན་ཚུན་དུ་ནི་གཟིགས་པར་མཛད། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Like an elephant king, he beheld each one and everyone.<tei:note xml:id="UT22084-044-004-26"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.95.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སེང་གེའི་སྒྲ་སྒྲོགས་པ་ལྟར་བསྙེངས་པ་མི་མངའ་བར་ནི་ཆོས་སྟོན་པར་མཛད། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Like a lion roaring, he taught the Dharma fearlessly.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.95.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྷ་མ་ཡིན་གྱི་རྒྱལ་པོ་སྒྲ་གཅན་ཟིན་ལྟར་འཁོར་མང་པོ་རྣམས་ནི་ཟིལ་གྱིས་མནན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Like the king of the asuras, Rāhula, he eclipsed all those who surrounded him.<tei:note xml:id="UT22084-044-004-27"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.95.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མཚན་དང་དཔེ་བྱད་བཟང་པོ་དག་གིས་ནི་སྐུ་རབ་ཏུ་བརྒྱན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>His body was adorned with all the major and minor marks of a buddha.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.95.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཟི་བྱིན་དང་མཐུ་སྟོབས་དག་ནི་རབ་ཏུ་འབར་བར་གྱུར་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>His splendor and power blazed forth.<tei:note xml:id="UT22084-044-004-28"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.95.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་ཐམས་ཅད་ངེས་པའི་དོན་མཆོག་ལ་འགོད་ཅིང་ཁོང་དུ་ཆུད་པར་མཛད་པའི་ཕྱིར་ཚངས་པའི་སྒྲ་དབྱངས་ཀྱིས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་ཀུན་ཏུ་བསྒྲགས་ནས་འཁོར་མང་པོའི་དབུས་སུ་ཆོས་སྟོན་པར་མཛད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>In order to establish all sentient beings in the supreme definitive meaning and make them understand it,<tei:note xml:id="UT22084-044-004-29"/> he was teaching the Dharma in the midst of this large audience with a voice like Brahmā’s, which resounded in all the universes of the entire trichiliocosm.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.95.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་རྒྱལ་པོ་གསལ་རྒྱལ་གྱི་བུ་མོ་རྣམ་དག་དད་པ་ཞེས་བྱ་བ་གཞོན་ནུ་མ་བྱད་བཞིན་སྡུག་ཅིང་མཛེས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-30"/>Then King Prasenajit’s young daughter,<tei:note xml:id="UT22084-044-004-31"/> Vimalaśraddhā—a pretty and beautiful<tei:note xml:id="UT22084-044-004-32"/> girl</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.95.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་རྣམས་ཀྱིས་མཐོང་བར་མོས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>whom everyone liked to see,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.95.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྔོན་དགེ་བའི་རྩ་བ་བསྐྱེད་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>and who had produced roots of virtue in the past</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.95.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐེག་པ་ཆེན་པོ་བསྒོམས་པ་ཞིག་ཡོད་པ་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>and practiced in the Mahāyāna—</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.95.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་བུ་མོ་གཞོན་ནུ་མ་ལྔ་བརྒྱས་ཡོངས་སུ་བསྐོར་ཏེསོ་སོ་ནས་གསེར་གྱི་ཕྲེང་བ་ཐོགས་ནས་གྲོང་ཁྱེར་མཉན་ཡོད་ནས་བྱུང་སྟེ། རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་དུ་ཕྱིན་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་སྤྱི་བོས་གཏུགས་ཏེ་ཕྱག་བྱས་ནས། ལན་གསུམ་བསྐོར་བ་བྱས་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>came to Jetavana from the town of Śrāvastī, accompanied by five hundred girls, each of whom wore golden jewelry. Having prostrated herself, bowing her head to the feet of the Blessed One,<tei:note xml:id="UT22084-044-004-33"/> she circumambulated him three times.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱི་སྤྱན་སྔར་ཕྱོགས་གཅིག་ཏུ་འཁོད་ནས་ཚིགས་སུ་བཅད་དེ་མངོན་པར་བསྟོད་པ། <tei:ref folio="F.96.a"/>
+                </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Then, after sitting down to one side before the Blessed One, she praised him with these verses: </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡུན་རིང་བསོད་ནམས་རྣམ་དག་ཕྲིན་ལས་བསགས། །ཡོན་ཏན་རྒྱ་མཚོ་མཐའ་ཡས་ཡོངས་རྫོགས་ཤིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-34"/>“For long you accumulated meritorious and pure deeds, And completed an infinite ocean of qualities,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མང་པོ་དད་མོས་དགའ་བར་མཛད་པས་ན། །དེ་སླད་ཐུབ་མཆོག་ཁྱོད་ལ་བདག་ཕྱག་འཚལ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Causing many to rejoice with faith and devotion— For this, I pay homage to you, supreme sage.<tei:note xml:id="UT22084-044-004-35"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཟི་བྱིན་ལྷམ་མེ་ཡ་མཚན་རབ་སྟོན་ཅིང་། །རིན་ཆེན་འབྱུང་གནས་ཆོས་སྒོ་སྟོན་པར་མཛད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-36"/>“Displaying a wonderful, luminous resplendence,<tei:note xml:id="UT22084-044-004-37"/> Like a mine of jewels, you reveal the doorways to the Dharma,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐུ་ཡི་འོད་ཟེར་འདོམ་གང་རྟག་གསལ་བ། །བློ་ཆེན་བསིལ་བའི་རྫིང་ལ་བདག་ཕྱག་འཚལ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>As a full fathom of light always radiates from your body— For this, I pay homage to you, cool lake of great intelligence.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡོན་ཏན་ལྗོན་ཤིང་བསོད་ནམས་བས་མ་འཚལ། །མི་མཆོག་ཁྱོད་ལ་འཇིག་རྟེན་ཀུན་གྱིས་བསྔགས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-38"/>“Fruit tree of qualities, inconceivable in virtues, The entire world praises you, supreme among humans;<tei:note xml:id="UT22084-044-004-39"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྨོན་ལམ་ཆེན་པོ་ཚུལ་ཁྲིམས་ཡོངས་རྫོགས་པས། །དེ་སླད་མཆོད་འོས་གཙོ་ལ་བདག་ཕྱག་འཚལ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>You have perfected discipline and accomplished great aspirations— For this, I pay homage to you, foremost among those worthy of offerings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་མཆོག་རབ་གནས་རྟག་པར་ཞི་ཞིང་དབེན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-40"/>“You abide in the supreme Dharma, always calm and unattached.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་ཀུན་ལ་ཐུགས་སྙོམས་བུ་གཅིག་བཞིན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>You regard every being in the universe with equanimity, as if they were your only child.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མཁྱེན་པ་དག་གིས་སྤྱོད་རྣམས་རབ་མཁྱེན་པས། །འདྲེན་མཁན་བཞིན་དུ་མཉམ་པའི་ཤུལ་ཡང་སྟོན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Since with your dual knowledge you know all actions,<tei:note xml:id="UT22084-044-004-41"/> Like a skillful guide, you point out the smooth path.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རབ་བརྟན་བརྩོན་འགྲུས་ལྡན་པ་མཆིས་གྱུར་ན། །བྱམས་དང་ཐུགས་རྗེས་སེམས་ཅན་སྨན་མཛད་པས། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་གང་ལགས་པ། །དེ་བཞིན་གཤེགས་པས་བཀས་ནི་བཤད་དུ་གསོལ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-42"/>“The conduct of bodhisattvas— Those who, once they have acquired steadfast perseverance, Act to benefit all sentient beings with love and compassion— I request that the Thus-Gone One teach and explain.<tei:note xml:id="UT22084-044-004-43"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་རབ་བརྟན་སྟོབས་ནི་ཐོབ་གྱུར་ནས། །འཁོར་བར་གནས་ཀྱང་བདུད་དཔུང་ཕམ་བགྱིད་ལགས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-44"/>“How, having obtained steadfast strength, Do bodhisattvas defeat the hordes of Māra, yet remain within saṃsāra?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་མཉམ་པའི་ཆོས་ནི་ཐོབ་འགྱུར་ཞིང་། །ཇི་ལྟར་སེམས་ཅན་ཡོངས་སུ་སྨིན་བགྱིད་ལགས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>How, having obtained the Dharma of equanimity, Do they bring sentient beings to maturity?<tei:note xml:id="UT22084-044-004-45"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་བགྱིས་ན་ས་གཞི་ནམ་མཁའ་དང་། །རླུང་དང་ཆུ་མེ་ཇི་ལྟ་བཞིན་དུ་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-46"/>“How are they like the earth and the sky, Like the wind, like water, and like fire?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་ཡིད་ཆེས་ཐོབ་ནས་ཆོས་གནས་ཤིང་། །རི་རབ་སེང་གེའི་རྒྱལ་པོ་བཞིན་དུ་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>How, having obtained trust in it, do they abide in the Dharma, Becoming like Mount Meru or a lion king?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་བྱམས་སྡང་སེམས་ནི་ཡོངས་སྤངས་ནས། །སེམས་གཙང་དྲང་ལ་གཡོ་སྒྱུ་མ་མཆིས་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-47"/>“How, having abandoned a mind of love and hate, Do their minds become pure, honest, and nondeceptive?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་སྦྱིན་དང་ཚུལ་ཁྲིམས་བཟོད་པ་དང་། །བརྩོན་འགྲུས་བསམ་གཏན་རྣམ་གྲོལ་སྐྱེ་འགྱུར་ཞིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>How do they cultivate generosity, discipline, patience, Perseverance, concentration, and liberation?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཤེས་རབ་ཉོན་མོངས་མུན་པ་རབ་བཅོམ་ནས། །རྟག་པར་ཐབས་ཆེན་ལ་ནི་གནས་པ་དང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-48"/>“How do they vanquish the darkness of the afflictions with their insight, And how, constantly applying great means,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཏིང་འཛིན་གཟུངས་ལ་ཐོགས་པ་མ་མཆིས་ཤིང་། །ཚད་མེད་བཞི་དང་མངོན་ཤེས་ལྔ་ལ་གནས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Do they abide in unimpeded retention and concentration, The four immeasurables, and the five kinds of supernormal powers?<tei:note xml:id="UT22084-044-004-49"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་སངས་རྒྱས་སྤྱན་སྔར་གནས་གྱུར་ནས། །རྟག་པར་རྫུས་<tei:ref folio="F.96.b"/>ཏེ་སྐྱེ་ཞིང་ཚེ་རབས་དྲན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-50"/>“How, having come into the presence of the buddhas, Do they always take miraculous births, remembering their previous lives?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྦྱངས་པས་རྩོད་པ་མ་མཆིས་དགོན་གནས་ནས། །སེམས་ནི་རབ་བཏུལ་ཉོན་མོངས་ཞི་བགྱིད་དང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Practicing austerities,<tei:note xml:id="UT22084-044-004-51"/> they dwell in hermitages without strife, Taming their minds and pacifying the afflictions.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚུལ་ཁྲིམས་ལྡན་ཞིང་བྱང་ཆུབ་ལམ་བསྒོམས་དང་། །བདུད་རྩི་འགོག་ཐོབ་བདུད་དཔུང་འཇོམས་པ་དང་། །བདེ་སྩོལ་ཆོས་ཀྱི་འཁོར་ལོ་སྐོར་འགྱུར་བ། །དེ་འདྲའི་ཡང་དག་ལམ་ནི་བཀས་བཤད་གསོལ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-52"/>“Following discipline, they cultivate the path of awakening. And, having obtained the nectar of cessation, they defeat the armies of Māra, And turn the Wheel of Dharma that confers bliss— I beseech you to explain in words such a perfect path!”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་བུ་མོ་རྣམ་དག་དད་པ་ལ་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-53"/>Then the Blessed One replied to the girl Vimalaśraddhā,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བུ་མོ་བྱང་ཆུབ་སེམས་དཔའ་གང་སྟོབས་རྣམ་པ་བརྒྱད་དང་ལྡན་པར་གྱུར་ན་འཁོར་བ་ན་གནས་ཀྱང་རབ་ཏུ་བརྟན་པའི་དཔའ་བོར་འགྱུར་ཞིང་ཡོངས་སུ་ངལ་བ་མེད་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Girl, if bodhisattvas are endowed with eight strengths, although dwelling within saṃsāra, they have steadfast courage and are completely indefatigable.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བརྒྱད་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And what are these eight strengths?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དང་པོ་ནི་སེམས་ཀྱིས་འདུན་པའི་སྟོབས་ཏེ་གཡོ་སྒྱུ་མེད་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The first is the strength of mental motivation, because they are without deceit.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཉིས་པ་ནི་མོས་པའི་སྟོབས་ཏེ། སྡིག་པ་རྣམས་སྤོང་བར་བྱེད་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The second is the strength of determination, because they abandon all faults.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གསུམ་པ་ནི་སྦྱོར་བའི་སྟོབས་ཏེ། རྟག་ཏུ་དགེ་བ་བསྒྲུབ་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The third is the strength of application, because they continually practice virtue.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཞི་པ་ནི་མངོན་པར་ཡིད་ཆེས་པའི་སྟོབས་ཏེ། ལས་ཀྱི་རྣམ་པར་སྨིན་པ་དག་ལ་ཤིན་ཏུ་མངོན་པར་ཡིད་ཆེས་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The fourth is the strength of real trust, because they have strong trust in the maturation of karma.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྔ་པ་ནི་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་སྟོབས་ཏེ། ཐེག་པ་དམན་པ་ཡོངས་སུ་མི་ཚོལ་བའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The fifth is the strength of the mind set on awakening, because they do not seek out inferior vehicles.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དྲུག་པ་ནི་བྱམས་པ་ཆེན་པོའི་སྟོབས་ཏེ། སེམས་ཅན་ལ་གནོད་པ་མེད་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The sixth is the strength of great love, because they do not harm sentient beings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བདུན་པ་ནི་སྙིང་རྗེ་ཆེན་པོའི་སྟོབས་ཏེ་གནོད་པ་བྱས་པ་རྣམས་དང་དུ་ལེན་པར་བྱེད་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The seventh is the strength of great compassion, because they take all injury upon themselves.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བརྒྱད་པ་ནི་དགེ་བའི་བཤེས་གཉེན་གྱི་སྟོབས་ཏེ། དུས་དུས་སུ་སད་པར་བྱེད་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The eighth is the strength of a spiritual friend, because from time to time they need to be examined.<tei:note xml:id="UT22084-044-004-54"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བུ་མོ་འདི་ནི་སྟོབས་རྣམ་པ་བརྒྱད་ཅེས་བྱ་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Girl, these are called the eight kinds of strength.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་གང་སྟོབས་བརྒྱད་པོ་འདི་དག་དང་ལྡན་པར་གྱུར་ན་རབ་ཏུ་བསྟན་པའི་དཔའ་བོར་འགྱུར་བས་འཁོར་བ་ན་གནས་ཀྱང་མངོན་པར་ཞེན་ཅིང་ཆགས་པ་མེད་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>When bodhisattvas are endowed with these eight strengths,<tei:note xml:id="UT22084-044-004-55"/> they have steadfast courage, and although they dwell within saṃsāra, they have no clinging or attachment.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཡང་ཚིགས་སུ་བཅད་དེ་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-56"/>Then the Blessed One spoke again in verse:<tei:note xml:id="UT22084-044-004-57"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་འདུན་དཔའ་བོ་གང་ཡིན་པ། །གཡོ་སྒྱུ་དག་ནི་སྤོང་བྱེད་ཅིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Heroic ones with motivated minds Abandon any deceit, And,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྟག་པར་དྲང་པོར་སྤྱོད་པས་ན། །ཡང་དག་བྱང་ཆུབ་གཞོལ་བར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>always behaving in a straightforward manner, Apply themselves diligently to genuine awakening.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.96.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མོས་པའི་སྟོབས་ནི་གང་ཡིན་པ། །ཉེས་པ་མང་པོ་སྤོང་བྱེད་ཅིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-59"/>“One who has the strength of determination Abandons the various faults, And,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགེ་བ་འབའ་ཞིག་སྤྱོད་<tei:ref folio="F.97.a"/>པས་ན། །ཡང་དག་བརྩོན་ལ་གནས་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>practicing virtue exclusively, Maintains genuine diligence.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྦྱོར་བ་ཕུན་སུམ་ཚོགས་གྱུར་པ། །རྟག་ཏུ་ལེགས་པར་རབ་བསྟན་ནས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-60"/>“One who is endowed with application Is always excellently stable,<tei:note xml:id="UT22084-044-004-61"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བརྩོན་འགྲུས་བརྟན་པར་གྱུར་པས་ན། །སེམས་ཅན་རྣམས་ནི་བདེ་བར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And, having steadfast perseverance, Brings happiness to sentient beings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མངོན་པར་ཡིད་ཆེས་སྟོབས་དབང་གིས། །ལས་ཀྱི་རྣམ་སྨིན་རིག་པས་ན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-62"/>“Through the power of real trust, If one is aware of the full maturation of karma,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཡེ་ཤེས་ཡིད་ཆེས་ཤིང་། །འཇིག་རྟེན་ཡོངས་སུ་སྡུད་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>One has confidence in the Buddha’s wisdom And brings the entire universe under one’s care.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་སྟོབས་གང་ཡིན་དེས། །ཐེག་པ་དམན་པ་སྤོང་བྱེད་ཅིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-63"/>“One who has the strength of the mind set on awakening Abandons the inferior vehicles, And,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་གདུང་ནི་མི་གཅོད་པས། །ཆོས་ཉིད་ལ་ནི་གནས་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>not interrupting the lineage of the buddhas, Abides in the true nature of things.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱམས་ཆེན་སྟོབས་ཀྱི་དབང་གིས་ནི། །སེམས་ཅན་སྙོམས་པར་ལྟ་བྱེད་ཅིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-64"/>“Through the power of great loving-kindness, One looks with equality at all sentient beings And,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱམས་སྡང་དག་ནི་མེད་པས་ན། །ཞེ་སྡང་གནོད་སེམས་སྐྱེད་མི་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>being beyond love and hate, Does not give rise to anger or ill will.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྙིང་རྗེ་ཆེན་པོའི་སྟོབས་ཀྱིས་ནི། །སེམས་ཅན་དང་དུ་ལེན་བྱེད་ཅིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-65"/>“Through the strength of great compassion, One takes responsibility for sentient beings And,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཁོར་བ་དག་ལ་ཞེན་མེད་པས། །ཡོངས་སུ་སྐྱོ་ཞིང་ངལ་བ་མེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>not clinging to saṃsāra,<tei:note xml:id="UT22084-044-004-66"/> Does not feel disenchanted or weary.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགེ་བའི་བཤེས་གཉེན་སྟོབས་ཀྱིས་ནི། །རྟག་པར་ཕན་ཚུན་སད་བྱེད་ཅིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-67"/>“Through the strength of the spiritual friend, There is continuous examination of each other.<tei:note xml:id="UT22084-044-004-68"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ནི་བྱིང་བར་མི་འགྱུར་བས། །བྱང་ཆུབ་ལ་ནི་གནས་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>One will not lose heart, And so will abide in awakening.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དཔའ་བོ་གང་ཡིན་དེ་དག་གིས། །སྟོབས་བརྒྱད་འདི་དག་ཐོབ་གྱུར་ན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-69"/>“When those who are heroes Have obtained these eight strengths,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སྙིང་པོར་འདུག་ནས་ནི། །བདུད་དཔུང་མང་པོ་བཅོམ་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They will reside in the heart of awakening And defeat the many armies of Māra.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞན་ཡང་བུ་མོ་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་རྣམ་པ་བརྒྱད་དང་ལྡན་པར་གྱུར་ན་མཉམ་པ་ཉིད་ལ་རབ་ཏུ་གནས་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-70"/>“Furthermore, girl, when bodhisattvas are endowed with eight qualities,<tei:note xml:id="UT22084-044-004-71"/> they abide in sameness.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བརྒྱད་གང་ཞེ་ན་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>What are these eight qualities?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དང་པོ་ནི་སེམས་ཅན་ཐམས་ཅད་མཉམ་པར་གྱུར་པ་སྟེ་རང་བཞིན་གྱིས་བདག་མེད་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The first is the sameness of all sentient beings, because they are intrinsically without a self.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཉིས་པ་ནི་ཆོས་ཐམས་ཅད་མཉམ་པར་གྱུར་པ་སྟེ་ཆོས་རྣམས་རབ་ཏུ་དབེན་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The second is the sameness of all phenomena, because they are utterly void.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གསུམ་པ་ནི་ཞིང་ཐམས་ཅད་མཉམ་པར་གྱུར་པ་སྟེ། སྟོང་པ་ཉིད་ཀྱི་ཁམས་སུ་འཇུག་པར་འགྱུར་བའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The third is the sameness of all buddhafields, because they all occur within the sphere of emptiness.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཞི་པ་ནི་དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་མཉམ་པར་གྱུར་པ་སྟེ། སྙོམས་པ་ཉིད་དུ་སྟོན་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The fourth is the sameness of all thus-gone ones, because they all teach in equanimity.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྔ་པ་ནི་སྤྱོད་པ་ཐམས་ཅད་མཉམ་པར་གྱུར་པ་སྟེ། རྒྱུ་དང་རྐྱེན་ལ་རང་བཞིན་མེད་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The fifth is the sameness of all actions, because causes and conditions are without intrinsic nature.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དྲུག་པ་ནི་ཐེག་པ་ཐམས་ཅད་མཉམ་པར་གྱུར་པ་སྟེ། འདུས་མ་བྱས་སུ་མཚུངས་པའི་<tei:ref folio="F.97.b"/>ཕྱིར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The sixth is the sameness of all vehicles, because they are all similar in being noncomposite. </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བདུན་པ་ནི་སེམས་མཉམ་པར་གྱུར་པ་སྟེ། སེམས་སྒྱུ་མ་དང་མཚུངས་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The seventh is the sameness of minds, because mind is similar to an illusion.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བརྒྱད་པ་ནི་བདུད་རྣམས་མཉམ་པར་གྱུར་པ་སྟེ། ཉོན་མོངས་པའི་ཐོག་མ་མི་དམིགས་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The eighth is the sameness of all māras, because one cannot observe a beginning of the afflictions.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་ནི་ཆོས་རྣམ་པ་བརྒྱད་ཀྱིས་མཉམ་པ་ཉིད་ལ་རབ་ཏུ་གནས་པ་ཞེས་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>This is what is called abiding in sameness through the eight qualities.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཡང་ཚིགས་སུ་བཅད་དེ་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-72"/>Then the Blessed One spoke again in verse:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་རང་བཞིན་བདག་མེད་པས། །སྐད་ཅིག་ཙམ་ཡང་དམིགས་མི་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Because sentient beings are intrinsically without a self, They cannot be observed even for a moment.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མཉམ་པ་ཉིད་ལ་གང་གནས་པ། །དེ་ལྟ་བུར་ནི་བལྟ་བར་བྱ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>One who abides in sameness Should see in this way.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་རྣམས་ཐམས་ཅད་མཉམ་པས་ན། །རང་བཞིན་རྟག་པར་སྟོང་ཞིང་དབེན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-74"/>“Because all phenomena are the same, They are always intrinsically empty and void.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡི་གེས་ཐ་དད་ཕྱེ་བར་ཟད། །ཆོས་རྣམས་རང་བཞིན་བྱེ་བྲག་མེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Differentiated only through words, Phenomena are intrinsically without particularity.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྱོགས་བཅུའི་ཞིང་རྣམས་ཐམས་ཅད་ཀུན། །མུ་མཐའ་དག་ནི་མི་དམིགས་པས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-75"/>“As one cannot observe any boundaries Of all the buddhafields in the ten directions,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ཡི་རང་བཞིན་ནམ་མཁའ་འདྲ། །སངས་རྒྱས་ཞིང་ནི་རྟག་ཏུ་མཉམ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Their nature is similar to space— All the buddhafields are always the same.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དུས་གསུམ་དེ་བཞིན་གཤེགས་པ་ཀུན། །ཆོས་དབྱིངས་གནས་པར་མཉམ་པས་ན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-76"/>“As all thus-gone ones of the three times Are the same in their abiding in the expanse of reality,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡེ་ཤེས་མཐའ་ཡས་རྣམ་པར་གྲོལ། །སངས་རྒྱས་ཀུན་ཀྱང་དེ་བཞིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They are completely free through their unending wisdom— All buddhas are such.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་རང་བཞིན་རྒྱུ་རྐྱེན་རྣམས། །ཐམས་ཅད་ཀུན་ཀྱང་མཉམ་པ་དང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-77"/>“The causes and conditions of sentient beings In their nature are all the same.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ཡི་སྤྱོད་པ་རབ་ཤེས་པས། །ཅི་རིགས་པར་ནི་གོ་བར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>By knowing their actions, One understands them accordingly.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་ཇི་སྙེད་ཐ་དད་པ། །སྒྱུ་སྦྲུལ་ལྟ་བུར་རབ་ཏུ་རྟོགས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-78"/>“All the different sentient beings Are understood to be like an illusory display.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྱི་ནང་གཉིས་ཀ་ལེན་མེད་པས། །རང་བཞིན་རྟག་ཏུ་རྣམ་པར་དག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Not grasping at either the inner or the outer, Their nature is always pure.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐེག་པ་སྣ་ཚོགས་རབ་བཤད་ཀྱང་། །འདུས་མ་བྱས་སུ་རབ་ཏུ་མཉམ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-79"/>“Although various vehicles were taught, They are the same in being noncomposite.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འདྲེན་པས་ཐབས་ནི་རབ་མཁྱེན་པས། །རྣམ་པར་ཕྱེ་སྟེ་ཐེག་གསུམ་བཤད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>In full knowledge of means, the Guide Made distinctions by teaching three vehicles.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཉོན་མོངས་བདུད་ལ་རབ་གནས་ཀྱང་། །ཉོན་མོངས་དངོས་པོ་ཅི་ཡང་མེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-80"/>“Even when the māra of afflictions is at hand, The afflictions are not at all existing things.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྷ་དང་ཕུང་པོ་འཆི་བདག་བདུད། །སྤྱོད་ཡུལ་ཐམས་ཅད་སྟོང་པ་ཡིན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Similarly, the domains of the māra of the gods, The māra of the aggregates, and the māra of the Lord of Death are empty.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞན་ཡང་བུ་མོ་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་བརྒྱད་དང་ལྡན་ན་བྱམས་སྡང་རྣམས་ཡོངས་སུ་སྤོང་བར་བྱེད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-81"/>“Furthermore, girl, when bodhisattvas are endowed with eight qualities,<tei:note xml:id="UT22084-044-004-82"/> they abandon love and hate.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བརྒྱད་གང་ཞེ་ན་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>What are these eight qualities?<tei:note xml:id="UT22084-044-004-83"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱམས་པ་དང་ལྡན་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Being endowed with love;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྙིང་རྗེ་དང་ལྡན་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>being endowed with compassion;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.97.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྟག་པར་ཕན་འདོགས་པར་བྱེད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>always being willing to benefit others;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་པའི་ཆོས་ལ་མ་ཆགས་པ་དང་། <tei:ref folio="F.98.a"/>
+                </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>not being attached to worldly things;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རང་གི་ལུས་ལ་ཆགས་པ་མེད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>not being attached to one’s body;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྟག་ཏུ་ཏིང་ངེ་འཛིན་གྱི་སེམས་སྒོམ་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>always cultivating a concentrated mind;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལུས་དང་སྲོག་ཡོངས་སུ་གཏོང་བ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>giving away one’s body and life;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཉོན་མོངས་པ་རྣམས་ལ་སོ་སོར་རྟོག་པ་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>and discerning the afflictions.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་བརྒྱད་པོ་འདི་དག་མངོན་པར་སྒྲུབ་པར་ནུས་ན་བྱམས་སྡང་ཡོངས་སུ་སྤོང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>When bodhisattvas can accomplish these eight qualities, they will abandon love and hate.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཡང་ཚིགས་སུ་བཅད་དེ་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-84"/>Then the Blessed One spoke again in verse:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱམས་སེམས་གོ་ཆ་རབ་བགོས་ནས། །ཐམས་ཅད་ཀུན་ལ་སྙིང་བརྩེ་ཞིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Bearing the armor of a loving mind, One has affectionate concern for everyone, And,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མཉམ་པའི་སེམས་ལ་གང་གནས་པ། །བྱམས་སྡང་སེམས་ལ་སྐྱེ་མི་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>maintaining equality, Love and hate do not arise.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བློ་ལྡན་ཕན་འདོགས་སྤྱོད་པས་ན། །རྟག་པར་གཞན་ལ་བདེ་བ་གཏོང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-86"/>“Because wise people always act to be of benefit, They constantly give happiness to others;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྙེད་པ་ཐོབ་ཀྱང་རང་མི་མཐོང་། །བརྙས་ཤིང་སྨད་ཀྱང་འཁོན་འཛིན་མེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Although they acquire something, they do not see it as their own,<tei:note xml:id="UT22084-044-004-87"/> And they hold no resentment despite being blamed or disparaged.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རླུང་བརྒྱད་ཀྱིས་ནི་མི་བསྐྱོད་པས། །བྱམས་སྡང་དག་ནི་མི་སྐྱེ་ཞིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-88"/>“Since they are unshaken by the eight worldly concerns, Love and hate do not arise.<tei:note xml:id="UT22084-044-004-89"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བདག་གམ་གལ་ཏེ་གཞན་ཡང་རུང་། །བྱམས་སྡང་འདུ་ཤེས་ཡོངས་མི་སྐྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Whether it concerns themselves or others, Conceptions of love and hate do not arise.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འདུ་ཤེས་རྣམས་ནི་རབ་སྤངས་ནས། །སྤྱོད་ཡུལ་དག་ལ་ཞེན་པ་མེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-90"/>“Having abandoned all conceptions, Such people do not cling to any objects of experience.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྟག་པར་རང་གི་ལུས་རྟོགས་པས། །ལུས་སྲོག་དག་ལ་ཕོངས་པ་མེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Always understanding the nature of the body, They have no distress about their bodies or lives.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མཁས་རྣམས་སྡུག་བསྔལ་བདེ་བ་ཡིས། །གཡོས་པར་མི་འགྱུར་ནམ་མཁའ་བཞིན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-91"/>“Sagacious beings, like the sky, Are unmoved by joys and sorrows,<tei:note xml:id="UT22084-044-004-92"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཉོན་མོངས་ལེགས་པར་རྟོགས་བྱེད་ན། །བདག་དང་བདག་གི་གཉི་ག་སྤོང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And, properly understanding the afflictions, Avoid both me and mine.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྤྱོད་འཛིན་རྟག་པར་ས་འདྲ་བས། །བྱམས་སྡང་དག་ནི་ཡོངས་མི་སྐྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-93"/>“Being like the earth in always accepting all activity,<tei:note xml:id="UT22084-044-004-94"/> Love and hate do not arise.<tei:note xml:id="UT22084-044-004-95"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞན་ཡང་བུ་མོ་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་རྣམ་པ་བརྒྱད་དང་ལྡན་ན་འཁོར་བས་ཡོངས་སུ་ངལ་བར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-96"/>“Furthermore, girl, when bodhisattvas are endowed with eight qualities,<tei:note xml:id="UT22084-044-004-97"/> they do not become exhausted by saṃsāra.<tei:note xml:id="UT22084-044-004-98"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བརྒྱད་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>What are these eight qualities?<tei:note xml:id="UT22084-044-004-99"/> Bodhisattvas do not become exhausted by saṃsāra</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགེ་བའི་རྩ་བ་ཡངས་ཤིང་རྒྱ་ཆེ་བའི་ཕྱིར་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>because their roots of virtue are immensely vast;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་ལ་སོ་སོར་རྟོག་པར་བྱེད་པའི་ཕྱིར་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>because they discern sentient beings;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྟག་པར་དེ་བཞིན་གཤེགས་པ་རྣམས་མཐོང་ཞིང་མཆོད་པ་བྱེད་པའི་ཕྱིར་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>because they always see and make offerings to the thus-gone ones;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཀྱི་ཞིང་ཚད་མེད་པ་རྣམས་མཐོང་བའི་ཕྱིར་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>because they see innumerable buddhafields;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྟག་པར་སངས་རྒྱས་ཀྱི་མཁྱེན་པ་ཡོངས་སུ་གཉེར་བའི་ཕྱིར་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>because they always strive for the knowledge of a buddha;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཁོར་བ་རྨི་ལམ་ལྟ་བུར་རབ་ཏུ་རྟོགས་པའི་ཕྱིར་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>because they understand that saṃsāra is like a dream;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་ཁྱད་པར་ཅན་དག་ལ་ཞུམ་པ་མེད་པའི་ཕྱིར་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>because they are not intimidated by the excellent Dharma; and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྔོན་གྱི་མཐའ་དང་ཕྱི་མའི་མཐའ་དང་ཡང་དག་པའི་མཐའ་ལ་སོ་སོར་རྟོག་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>because they have distinct comprehension of the beginning, the end, and the real endpoint.” </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་<tei:ref folio="F.98.b"/>བཅོམ་ལྡན་འདས་ཀྱིས་ཡང་ཚིགས་སུ་བཅད་དེ་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-100"/>Then the Blessed One spoke again in verse:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྣལ་འབྱོར་ལམ་ནི་གང་སྒོམ་པ། །དགེ་སྦྱོང་སྐྱོན་འཕེན་དྲི་མ་མེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Meditators on the yogin’s path Eradicate their faults and become unstained,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བར་སྣང་ཟླ་བ་རྣམ་དག་བཞིན། །སྡུག་བསྔལ་སེམས་ཅན་སྒྲོལ་བར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Like the pure moon in the sky; They liberate sentient beings from their suffering.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡོན་ཏན་རྣམས་ནི་བསྡུ་བའི་ཕྱིར། །འཁོར་བས་ཡོངས་སུ་ངལ་མི་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Because they gather qualities, They do not become exhausted by saṃsāra.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་རང་བཞིན་རྟོག་བྱེད་ཅིང་། །རབ་བརྟེན་བརྩོན་འགྲུས་སྤྱོད་པར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-102"/>“They consider the nature of all sentient beings, And they act with steadfast perseverance.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཞིང་ནི་ཚད་མེད་དུ། །སངས་རྒྱས་རྣམས་ནི་གུས་མཆོད་པས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Devotedly making offerings To buddhas in immeasurable buddhafields,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ཕྱིར་སྟོབས་བཅུ་གང་ལྡན་པ། །འཁོར་བས་ཡོངས་སུ་ངལ་མི་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They thereby become endowed with the ten strengths, And they do not become exhausted by saṃsāra.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་ཚད་མེད་དཔག་མེད་དུ། །བསམ་གྱིས་མི་ཁྱབ་ཆོས་སྟོན་ཅིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-103"/>“Teaching the inconceivable Dharma, In innumerable, infinite worlds,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དཀོན་མཆོག་གསུམ་གྱི་གདུང་མི་གཅོད། །ཆོས་རྒྱལ་ཉིད་དུ་མངོན་འཚང་རྒྱ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They maintain uninterrupted the lineage of the Three Jewels And become fully awakened as Dharma Kings.<tei:note xml:id="UT22084-044-004-104"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚུལ་ཁྲིམས་དམ་པ་གང་སྲུང་བ། །འཁོར་བས་ངལ་བར་མི་འགྱུར་ཞིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Those who preserve excellent discipline Do not become exhausted by saṃsāra,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཁོར་བའི་རང་བཞིན་གང་ཡིན་པ། །རྨི་ལམ་སྤྲིན་དང་གློག་ལྟར་ཤེས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-105"/>“And they recognize that the nature of saṃsāra Is like a dream, a cloud, or a flash of lightning.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་ལས་གང་ཞིག་རྣམ་གྲོལ་བ། །འཁོར་བས་ཡོངས་སུ་ངལ་མི་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Those who find liberation through the Dharma Do not become exhausted by saṃsāra.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་ལ་ནི་རབ་གནས་ཤིང་། །དགའ་བའི་སེམས་ཀྱིས་རྟག་ཏུ་བདེ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-106"/>“Remaining in an awakened state, With their joyful minds,<tei:note xml:id="UT22084-044-004-107"/> they are always happy.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐབས་ཀྱིས་ཕ་རོལ་གང་ཕྱིན་པ། །འཁོར་བས་ཡོངས་སུ་ངལ་མི་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Those who have become accomplished through skillful means<tei:note xml:id="UT22084-044-004-108"/> Do not become exhausted by saṃsāra.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྟག་པར་དམ་ཆོས་སྒྲུབ་པ་ཡང་། །བར་སྣང་ཟླ་བཞིན་འཕེལ་བར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-109"/>“Constantly practicing the excellent Dharma, Their realization increases, like the waxing moon in the sky.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཡོན་ཏན་གང་མོས་པ། །འཁོར་བས་ཡོངས་སུ་ངལ་མི་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Those who aspire to the Buddha’s qualities<tei:note xml:id="UT22084-044-004-110"/> Do not become exhausted by saṃsāra.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཁོར་བ་མུ་མཐའ་མེད་གྱུར་ཀྱང་། །རྟག་པར་ཡང་དག་མཐའ་ལ་གནས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-111"/>“And, although saṃsāra is endless, They always dwell in the real endpoint.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡུད་ཙམ་ཤེས་རབ་རྗེས་འཐུན་པ། །འཁོར་བ་དག་གིས་ངལ་མི་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Those who are attuned to insight, even for just a moment, Do not become exhausted by saṃsāra.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞན་ཡང་བུ་མོ་ཆོས་བརྒྱད་དང་ལྡན་ན་སེམས་ཀྱི་ཁམས་མཉམ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-112"/>“Furthermore, girl, when it is endowed with eight qualities,<tei:note xml:id="UT22084-044-004-113"/> the mind’s constitution will be balanced.<tei:note xml:id="UT22084-044-004-361"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བརྒྱད་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>What are these eight qualities?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ས་དང་མཚུངས་པར་གྱུར་པའི་ཕྱིར་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The mind will be of balanced constitution because the mind has become similar to earth;<tei:note xml:id="UT22084-044-004-114"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཆུ་དང་མཚུངས་པར་གྱུར་པའི་ཕྱིར་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>because the mind has become similar to water;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་མེ་དང་མཚུངས་པར་གྱུར་པའི་ཕྱིར་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>because the mind has become similar to fire;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་རླུང་དང་མཚུངས་པར་གྱུར་པའི་ཕྱིར་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>because the mind has become similar to air;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ནམ་མཁའ་དང་མཚུངས་པར་གྱུར་པའི་ཕྱིར་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>because the mind has become similar to space;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.98.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཆོས་ཀྱི་དབྱིངས་དང་མཚུངས་པར་གྱུར་པའི་ཕྱིར་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>because the mind has become similar to the expanse of reality;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་<tei:ref folio="F.99.a"/>རྣམ་པར་གྲོལ་བ་དང་མཚུངས་པར་གྱུར་པའི་ཕྱིར་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>because the mind has become similar to liberation; and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་མྱ་ངན་ལས་འདས་པ་དང་མཚུངས་པར་གྱུར་པའི་ཕྱིར་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>because the mind has become similar to nirvāṇa.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་ནི་སེམས་ཀྱི་ཁམས་མཉམ་པ་ཉིད་རྣམ་པ་བརྒྱད་ཅེས་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>These are called the eight kinds of balanced constitution of the mind.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཡང་ཚིགས་སུ་བཅད་དེ་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-115"/>Then the Blessed One spoke again in verse:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ནི་ས་དང་མཚུངས་པས་ན། །ཐམས་ཅད་ཁུར་དུ་ཁྱེར་བར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Because the mind is similar to earth,<tei:note xml:id="UT22084-044-004-117"/> It can carry any load,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགེ་བ་དང་ནི་སྡིག་པ་འང་རུང་། །འཕེལ་བ་མེད་ཅིང་འགྲིབ་པ་མེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And, whether there is virtue or nonvirtue, It never increases or diminishes.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ནི་ཆུ་དང་མཚུངས་པས་ན། །དྲི་མ་མི་གཙང་འཁྲུ་བྱེད་ཅིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-118"/>“Because the mind is similar to water, It washes away all stains and impurities</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་རྣམས་ནི་གསོ་བ་དང་། །ཉོན་མོངས་གདུང་བ་སེལ་བར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And, nourishing all worlds, Dispels the distress of the afflictions.<tei:note xml:id="UT22084-044-004-119"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ནི་མེ་དང་མཚུངས་པས་ན། །ཉོན་མོངས་དག་ནི་སྲེག་བྱེད་ཅིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-120"/>“Because the mind is similar to fire, It burns away all the afflictions,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྒྲོན་མ་ཆེན་པོ་སྣང་བ་ཡིས། །གསལ་བར་མི་བྱེད་གང་ཡང་མེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And, like the light of a huge torch, There is nothing it does not illuminate.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ནི་རླུང་དང་མཚུངས་པས་ན། །གནས་པ་མེད་ཅིང་རྟེན་མེད་པར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-121"/>“Because the mind is similar to wind, It neither dwells anywhere nor depends on anything,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚུལ་ཁྲིམས་ཐོས་པའི་དྲི་ཡིས་ནི། །དུས་གསུམ་ཀུན་ཏུ་ཁྱབ་པར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And the fragrance of discipline and learning Pervades everywhere throughout the three times.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ནི་ནམ་མཁའ་མཚུངས་པས་ན། །ལྟ་བ་སྤོང་ཞིང་རྣམ་པར་དག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-122"/>“Because the mind is similar to space, It is free from views and completely pure,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐམས་ཅད་ཀུན་ཏུ་འཇུག་བྱེད་ཀྱང་། །བདུད་ཀྱི་རྗེས་སུ་འབྲང་མི་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And, although it interacts with everything, It does not follow after Māra.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ནི་ཆོས་དབྱིངས་མཚུངས་པས་ན། །བདེ་བ་ཉིད་དུ་རབ་གནས་ཤིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-123"/>“Because the mind is similar to the expanse of reality, It is established in the very essence of bliss And,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཕེལ་བ་མེད་ཅིང་འགྲིབ་མེད་པར། །རྟག་པར་མཉམ་པ་ཉིད་ལ་གནས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>without ever increasing or diminishing, Always dwells in equanimity.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཉན་ཐོས་དང་ནི་རང་རྒྱལ་གྱི། །རྣམ་པར་གྲོལ་བ་ཐོབ་གྱུར་ཀྱང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-124"/>“Even when liberation is attained By hearers and the solitary realizers,<tei:note xml:id="UT22084-044-004-125"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཆིང་བ་དག་ཀྱང་ཡོད་མིན་ལ། །གྲོལ་བ་དག་ཀྱང་ཡོད་པ་མིན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>There is neither bondage, Nor is there liberation.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཁོར་བ་དང་ནི་མྱ་ངན་འདས། །འོང་བ་མེད་ཅིང་འགྲོ་མེད་ཅེས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-126"/>“Saṃsāra and nirvāṇa Are said to be beyond coming and going,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རབ་དབེན་ཉེར་ཞིར་གནས་ནས་ནི། །དུས་གསུམ་ཀུན་ཏུ་འགྲོ་བར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>So, peacefully maintaining disengagement, One acts everywhere throughout the three times.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞན་ཡང་བུ་མོ་ཆོས་རྣམ་པ་བརྒྱད་དང་ལྡན་པའི་བྱང་ཆུབ་སེམས་དཔའ་ནི་བྱང་ཆུབ་ཀྱི་འབྱུང་གནས་སུ་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-127"/>“Furthermore, girl, when bodhisattvas are endowed with eight qualities, they become sources of awakening.<tei:note xml:id="UT22084-044-004-128"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བརྒྱད་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>What are these eight qualities?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དང་པོ་ནི་སྦྱིན་པ་འབྱུང་གནས་སུ་གྱུར་པ་ཡིན་ཏེ། ཅི་བདོག་པ་རྣམས་ཡོངས་སུ་གཏོང་བའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>First,<tei:note xml:id="UT22084-044-004-129"/> they have become sources of generosity, because they give away everything they own.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཉིས་པ་ནི་ཚུལ་ཁྲིམས་འབྱུང་གནས་སུ་གྱུར་པ་ཡིན་ཏེ། ཉམས་པ་མེད་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Second, they have become sources of discipline, because they are free of transgressions.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གསུམ་པ་ནི་བཟོད་<tei:ref folio="F.99.b"/>པ་འབྱུང་གནས་སུ་གྱུར་པ་ཡིན་ཏེ། ཞེ་སྡང་མེད་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Third, they have become sources of patience, because they are free of aggression.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཞི་པ་ནི་བརྩོན་འགྲུས་འབྱུང་གནས་སུ་གྱུར་པ་ཡིན་ཏེ། །ལེ་ལོ་མེད་ཅིང་ནུར་བ་མེད་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Fourth, they have become sources of perseverance, because they are free of laziness and doubt.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྔ་པ་ནི་བསམ་གཏན་འབྱུང་གནས་སུ་གྱུར་པ་ཡིན་ཏེ། ཐབས་ལ་མཁས་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Fifth, they have become sources of concentration, because they are skillful in means.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དྲུག་པ་ནི་ཤེས་རབ་འབྱུང་གནས་སུ་གྱུར་པ་ཡིན་ཏེ། ཚུལ་ཁྲིམས་སྲུང་ཞིང་མང་དུ་ཐོས་པ་དང་ལྡན་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Sixth, they have become sources of insight, because they maintain discipline and have vast learning.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བདུན་པ་ནི་ཚངས་པའི་གནས་པ་འབྱུང་གནས་སུ་གྱུར་པ་ཡིན་ཏེ། རྣམ་པར་གྲོལ་བས་ཉེ་བར་ཞི་བར་འགྱུར་བའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Seventh, they have become sources of the abodes of Brahmā, because they are fully at peace through complete liberation.<tei:note xml:id="UT22084-044-004-130"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བརྒྱད་པ་ནི་མངོན་པར་ཤེས་པ་འབྱུང་གནས་སུ་གྱུར་པ་ཡིན་ཏེ། རྟག་པར་མཉམ་པར་བཞག་པ་ལ་རབ་ཏུ་གནས་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Eighth, they have become sources of supernormal powers, because they constantly maintain concentration.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཡང་ཚིགས་སུ་བཅད་དེ་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-131"/>Then the Blessed One spoke again in verse:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྟག་པར་སྦྱིན་པ་གང་གཏོང་བ། །འདོད་ཆགས་གདུང་བ་སྤོང་བས་ན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Since those who constantly practice generosity Abandon the agony of desire,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འབྲས་བུ་རྣམ་སྨིན་མི་རེ་བར། །སངས་རྒྱས་བྱང་ཆུབ་སྔོ་བར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They do not seek the maturation of karmic fruit, And dedicate all their merit to the awakening of a buddha.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཁྲིམས་ལྡན་ཐེག་པ་ཆེ་བའི་ཕྱིར། །བཅད་ཅིང་གཏུབས་ཀྱང་ཁོང་ཁྲོ་མེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-133"/>“Because practitioners of the Great Vehicle have discipline, They are without anger, even when cut and torn apart.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྩེ་གཅིག་བདེ་ཆེན་གཉེར་བྱེད་ཅིང་། །བག་ཆགས་སྤངས་ནས་འགོག་མངོན་མེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Striving one-pointedly for great bliss, and abandoning all habitual patterns, They never meet any real obstacle.<tei:note xml:id="UT22084-044-004-134"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་བརྩོན་འགྲུས་ཅན། །བསྐལ་མང་སེམས་ཅན་ཆེད་དུ་ནི། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-135"/>“Bodhisattvas endowed with perseverance, For the sake of sentient beings and for many eons,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྡུག་བསྔལ་བཟོད་ཅིང་འཇིག་རྟེན་རྒྱུ། །བརྩོན་འགྲུས་སྟོབས་ནི་འཕེལ་བར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Bear suffering and wander through countless worlds, Increasing the strength of their perseverance.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བསམ་གཏན་དག་ནི་གང་སྒོམ་པ། །སྤྲོས་པ་རྣམས་ནི་སྤོང་བྱེད་ཅིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-136"/>“Those who cultivate concentration Abandon all kinds of elaboration, And,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བསམ་གཏན་ཕ་རོལ་ཕྱིན་གྱུར་ཀྱང་། །བསམ་གཏན་རྗེས་སུ་ཡོང་མི་སྐྱེ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>although they have perfected concentration, They do not get caught up in concentration.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཤེས་རབ་ཆེན་པོ་མཚུངས་མེད་པས། །མཐར་ལྟ་རྣམས་ནི་སྤོང་བྱེད་ཅིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-137"/>“Through incomparable great insight, They abandon extreme views And,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་སྟོང་དབེན་རིག་པས་ན། །གཏི་མུག་མུན་པ་མ་ལུས་སེལ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>with knowledge that the world is empty,<tei:note xml:id="UT22084-044-004-138"/> Dispel all the darkness of delusion.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཉེར་ཞི་ཚངས་གནས་གང་སྒོམ་པ། །ངན་སོང་རྣམས་ནི་སྤངས་པས་ན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-139"/>“Those who cultivate the peaceful abodes of Brahmā Abandon unfortunate destinies And,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྟག་པར་བརྒྱ་བྱིན་ཚངས་པར་འགྱུར། །དོན་གྱི་ཕན་པ་ནན་ཏན་སྒོམ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>always obtaining the states of Śakra and Brahmā, Meditate assiduously on the ultimate benefit.<tei:note xml:id="UT22084-044-004-140"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མངོན་ཤེས་སངས་རྒྱས་ཞིང་རྒྱུ་བ། །སངས་རྒྱས་བསྙེན་བཀུར་ཆོས་ཀྱང་ཉན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-141"/>“With supernormal powers, bodhisattvas travel through all buddhafields, Respectfully honoring the buddhas and listening to the Dharma</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.99.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རང་བཞིན་མོས་པ་རབ་ཤེས་པས། །ཆོས་བཤད་སེམས་ཅན་ཟློས་པར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And, knowing well the natures of aspirations of all, Teach the Dharma, repeating it to sentient beings.<tei:note xml:id="UT22084-044-004-142"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞན་ཡང་བུ་མོ་བྱང་ཆུབ་སེམས་དཔའ་ནི་ཆོས་བརྒྱད་དང་<tei:ref folio="F.100.a"/>ལྡན་པའི་ཕྱིར་གཟུངས་དང་། ཐོགས་པ་མེད་པའི་སྤོབས་པ་འཐོབ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-143"/>“Furthermore, girl, because bodhisattvas are endowed with eight qualities,<tei:note xml:id="UT22084-044-004-144"/>they obtain perfect retention and unimpeded eloquence.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བརྒྱད་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>What are these eight qualities?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་ལ་བླ་མར་བྱེད་པའི་ཕྱིར་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They revere the Dharma.<tei:note xml:id="UT22084-044-004-145"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མཁན་པོ་དང་། སློབ་དཔོན་ལ་རིམ་གྲོ་བྱེད་པའི་ཕྱིར་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They show respect for their preceptors and masters.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་ཡོངས་སུ་གཉེར་བ་ལ་སྐྱོ་བ་མེད་པའི་ཕྱིར་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They are never disheartened with seeking the Dharma.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཇི་སྐད་ཐོས་པ་བཞིན་དུ་ཡང་དག་པར་སྟོན་པར་བྱེད་པའི་ཕྱིར་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They teach it correctly, in the same way that they were taught.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་ལ་སེར་སྣ་མི་བྱེད་པའི་ཕྱིར་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They are not miserly with the Dharma.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞན་གྱི་ཉེས་པ་སྒྲོགས་པར་མི་བྱེད་པའི་ཕྱིར་དང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They do not make public the faults of others.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་སྨྲ་བ་དག་ལ་མཁན་པོ་བཞིན་དུ་གུས་པས་སྲི་ཞུ་བྱེད་པའི་ཕྱིར་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They devotedly pay respect to those who are expounding the Dharma, as if they were their own preceptors. And,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞན་གྱི་ཉེས་པ་མི་མཐོང་ཞིང་ཉེས་པ་སྤོང་བར་སྐུལ་བར་བྱེད་པའི་ཕྱིར་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>without being fixated on the faults of others, they exhort others to abandon their faults.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་ནི་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་བརྒྱད་དང་ལྡན་ན་གཟུངས་དང་། ཐོགས་པ་མེད་པའི་སྤོབས་པ་ཕུན་སུམ་ཚོགས་པ་འཐོབ་པར་འགྱུར་བ་ཞེས་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Because bodhisattvas are endowed with these eight qualities, they obtain perfect retention and unimpeded eloquence.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཡང་ཚིགས་སུ་བཅད་དེ་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-146"/>Then the Blessed One spoke again in verse:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྩེ་གཅིག་རྟག་ཏུ་ཆོས་གཉེར་བ། །མཁན་པོ་དགེ་བཤེས་རིམ་གྲོ་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Those who always one-pointedly seek the Dharma Show respect for their preceptors and spiritual friends.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྡིག་པའི་གྲོགས་པོ་སྤོང་བས་ན། །མི་ཟད་གཏེར་འཛིན་ཐོབ་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Since they abandon bad companions, They obtain an inexhaustible treasure.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མང་ཐོས་ཡོངས་སུ་སྐྱོ་མེད་པར། །རབ་བརྩོན་ཆོས་ནི་གཉེར་བར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-148"/>“Never being disheartened by learning, They zealously seek the Dharma.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཇི་སྐད་ཐོས་བཞིན་སྟོན་བྱེད་པས། །རྙེད་པ་དག་ལ་རེ་ཚོལ་མེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Because they teach it in the same way that they were taught,<tei:note xml:id="UT22084-044-004-149"/> They do not look for any gain.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྤོབས་པ་རྣམ་དག་གང་ཐོབ་པ། །འཁོར་མང་དགའ་བར་བྱེད་པས་ན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-150"/>“Since those who obtain perfect eloquence Gladden numerous assemblies,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་སྦྱིན་པ་ལ་རབ་མོས་ཤིང་། །སེར་སྣ་ཕྲག་དོག་སྤོང་བར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They are fully dedicated to giving the Dharma, And abandon miserliness and jealousy.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་སྤྱོད་མངོན་པར་ཞེན་མེད་ཅིང་། །གཟུངས་ནི་གང་ཞིག་ཐོབ་འགྱུར་བ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-151"/>“They practice the Dharma without attachment, And are ones who obtain retention.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཁྲིམས་སྲུང་རང་ལུས་ལྟ་བས་ན། །གཞན་གྱི་ཉེས་སྐྱོན་ཡོང་མི་ཚོལ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Because they preserve discipline by watching their own physical behavior, They never look for the faults of others.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱམས་དང་སྙིང་རྗེ་གནས་གྱུར་ཅིང་། །དུས་མིན་ཚིག་ནི་མི་སྨྲ་བས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-152"/>“They sustain their love and compassion,<tei:note xml:id="UT22084-044-004-153"/> And since they do not speak untimely words,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐོགས་མེད་སྤོབས་པ་ཐོབ་གྱུར་ནས། །སྤྲོ་ཚིག་ཕ་རོལ་ཕྱིན་པ་སྟོན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They obtain unimpeded eloquence, And show mastery of inspirational speech.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་ནི་ལེགས་པར་སྨྲ་བ་ལ། །མཁན་པོ་བཞིན་དུ་གུས་པར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-154"/>“Those who honor capable Dharma teachers, As if they were preceptors,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐྱོན་འཆབ་ཉེས་པ་སྤོང་སྐུལ་བས། །མི་ཟད་ཀུན་འཛིན་རྒྱ་མཚོ་འཐོབ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And exhort others to abandon their faults, while keeping them to themselves Obtain an ocean of inexhaustible treasures.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞན་ཡང་བུ་མོ་བྱང་ཆུབ་སེམས་དཔའ་ནི་ཆོས་རྣམ་པ་བརྒྱད་དང་ལྡན་པའི་ཕྱིར་སངས་རྒྱས་<tei:ref folio="F.100.b"/>རྣམས་ཀྱི་སྤྱན་སྔར་པད་མ་ལས་རྫུས་ཏེ་སྐྱེ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-155"/>“Furthermore, girl, because bodhisattvas are endowed with eight qualities,<tei:note xml:id="UT22084-044-004-156"/>they take miraculous rebirths from lotus buds in the presence of the buddhas.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བརྒྱད་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>What are these eight qualities?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྲོག་ལ་བབ་པར་གྱུར་ཀྱང་གཞན་གྱི་ཉེས་པ་མི་རྗོད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Not speaking of the faults of others, even at the risk of their own lives;<tei:note xml:id="UT22084-044-004-157"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་རྣམས་དཀོན་མཆོག་གསུམ་ལ་སྐྱབས་སུ་འགྲོ་བར་སྐུལ་བ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>exhorting sentient beings to take refuge in the Three Jewels;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐམས་ཅད་བྱང་ཆུབ་ཀྱི་སེམས་ལ་འགོད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>establishing everyone in the mind set on awakening;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚངས་པར་སྤྱོད་པ་ལ་གོས་པ་མེད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>having immaculate sublime conduct;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པའི་སྐུ་གཟུགས་དག་བྱས་ནས་པད་མོའི་གདན་ལ་འཇོག་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>making statues of the Thus-Gone One and putting them on lotus seats;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་མྱ་ངན་བྱེད་པ་དག་གི་མྱ་ངན་སེལ་བར་བྱེད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>dispelling the suffering of sentient beings entangled in sorrow;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཁེངས་ཤིང་ང་རྒྱལ་བྱེད་པ་དག་གི་མདུན་དུ་རྟག་པར་བདག་ཉིད་དམན་པར་བྱེད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>always humbling themselves in front of the arrogant and proud; and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞན་ལ་འཚེ་བར་མི་བྱེད་པ་གང་ཡིན་པའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>never causing any harm whatsoever to others.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཡང་ཚིགས་སུ་བཅད་དེ་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-158"/>Then the Blessed One spoke again in verse:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གལ་ཏེ་སྡུག་བསྔལ་གཟིར་གྱུར་ཀྱང་། །ནམ་ཡང་གཞན་གྱི་སྐྱོན་མི་སྨྲ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Those who, even if pain is inflicted, Never speak of the defects of others,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྟག་པར་དཀོན་མཆོག་གང་བསྔགས་པ། །སངས་རྒྱས་སྤྱན་སྔར་རྫུས་ཏེ་སྐྱེ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And always praise the Three Jewels, Will be miraculously born in the presence of the buddhas.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་ནི་བསྐྱེད་པ་དང་། །ཐམས་ཅད་མཁྱེན་པ་གཉེར་བསྐུལ་ནས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-160"/>“Those who cultivate the mind set on awakening And exhort others to strive for omniscience,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྟག་པར་ཚངས་པར་གང་སྤྱོད་པ། །སངས་རྒྱས་སྤྱན་སྔར་རྫུས་ཏེ་སྐྱེ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And who always maintain sublime conduct, Will be miraculously born in the presence of the buddhas.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གསེར་གྱིས་སངས་རྒྱས་གཟུགས་བརྒྱན་ཏེ། །རིན་ཆེན་པད་མའི་གདན་ལ་བཞག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-161"/>“Those who cover a buddha statue with gold And place it on a precious lotus seat,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་མྱ་ངན་གང་སེལ་བ། །སངས་རྒྱས་སྤྱན་སྔར་རྫུས་ཏེ་སྐྱེ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And who dispel the sorrow of beings, Will be miraculously born in the presence of the buddhas.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ང་རྒྱལ་བྱེད་པ་དེ་དག་ལ། །སློབ་མ་བཞིན་དུ་བདག་དམན་ཞིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-162"/>“Those who, in front of the arrogant, Humble themselves as if they were their disciples,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞན་ལ་གང་ཞིག་མི་འཚེ་བ། །སངས་རྒྱས་སྤྱན་སྔར་རྫུས་ཏེ་སྐྱེ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And who never harm others, Will be miraculously born in the presence of the buddhas.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞན་ཡང་བུ་མོ་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་རྣམ་པ་བརྒྱད་དང་ལྡན་པར་གྱུར་ན་སྦྱངས་པའི་ཡོན་ཏན་ཕུན་སུམ་ཚོགས་པར་འགྱུར་ཞིང་རྟག་པར་དགོན་པ་ན་གནས་པ་ལ་མོས་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-163"/>“Furthermore, girl, when bodhisattvas are endowed with eight qualities, they are consummate in ascetic virtue and always aspire to dwell in seclusion.<tei:note xml:id="UT22084-044-004-164"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བརྒྱད་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>What are these eight qualities?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འདོད་པ་ཆུང་བ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Having few wants;<tei:note xml:id="UT22084-044-004-165"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོག་ཤེས་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>being content;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དགེ་བའི་ཆོས་ཡོངས་སུ་རྫོགས་པར་གྱུར་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>being fully satisfied with the virtuous Dharma;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དགེ་བས་བདག་ཉིད་གསོ་བར་བྱེད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>nourishing themselves with virtue;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྟག་པར་འཕགས་པའི་རིགས་ཡོངས་སུ་འཛིན་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>always maintaining the tradition of the noble ones;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.100.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཁོར་བའི་ཉེས་དམིགས་མཐོང་བས་སེམས་ལ་རྟག་པར་སྐྱོ་བ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>always being disenchanted because of seeing the faults of saṃsāra;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྟག་པར་མི་རྟག་པ་དང་། སྡུག་བསྔལ་བ་དང་། <tei:ref folio="F.101.a"/>སྟོང་པ་དང་། བདག་མེད་པར་ལྟ་བ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>always contemplating impermanence, suffering, emptiness, and selflessness; and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དད་པ་ཤིན་ཏུ་བརྟན་ཞིང་གཞན་གྱི་དྲིང་ལ་མི་འཇོག་པ་གང་ཡིན་པའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>being steadfast in faith, and not following other teachings.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཡང་ཚིགས་སུ་བཅད་དེ་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-166"/>Then the Blessed One spoke again in verse:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འདོད་པ་ཆུང་ཞིང་ཆོག་ཤེས་པས། །ཆོས་དགའ་དགེ་མང་བདག་ཉིད་གསོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Since bodhisattvas have few wants and are content,<tei:note xml:id="UT22084-044-004-168"/> They delight in the Dharma and nourish themselves with many virtues.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྟག་པར་འཕགས་རིགས་སྒྲུབ་ལ་མོས། །འཁོར་བའི་སྐྱོན་མཐོང་སེམས་ལ་སྐྲག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Always aspiring to follow the manners of the noble ones, They see the defects of saṃsāra and dread it.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྦྱངས་པ་དག་ལ་རྟག་མོས་པས། །བསེ་རུ་གཅིག་ལྟར་གྲོགས་ཀྱང་མེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-169"/>“Since they are always dedicated to ascetic virtue, Like the solitary rhinoceros, they stay without companions.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འདུས་བྱས་སྡུག་བསྔལ་བདག་མེད་ཅེས། །བློ་ཡིས་རབ་དང་བརྩོན་འགྲུས་གནས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Contemplating that all compounded things are suffering and without self, They have minds of complete faith and full of energy.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་མཐོང་གཞན་གྱི་རྗེས་མི་འབྲང་། །རྟག་པར་དབེན་གནས་སངས་རྒྱས་བསྔགས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-170"/>“Having seen the Dharma and not following other teachings, But always dwelling in solitude and praising the Buddha,<tei:note xml:id="UT22084-044-004-171"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྦྱངས་པས་ཐག་བསྲིངས་གདུང་བ་མེད། །རྩོད་པ་ཉེས་དམིགས་མང་པོ་མེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>With ascetic virtue, they keep a distance and suffer no anguish, Being free from the many troubles of strife.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.a</prop>
+            <eft:flag type="alternateSource"/>
+	<tuv xml:lang="bo">
+                <seg>གཉེན་བཤེས་ཡོངས་སྤངས་བསྔགས་པ་རྗོད། །དེས་ན་དགོན་པར་གནས་ལ་མོས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-172"/>“Having abandoned relatives and friends and refused praise,<tei:note xml:id="UT22084-044-004-173"/> They are fully committed to dwelling in seclusion.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞན་ཡང་བུ་མོ་བྱང་ཆུབ་སེམས་དཔའི་ནི་ཆོས་རྣམ་པ་བརྒྱད་དང་ལྡན་པའི་ཕྱིར་བདུད་ཀྱི་དཔུང་རབ་ཏུ་ཕམ་པར་བྱེད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-174"/>“Furthermore, girl, because bodhisattvas are endowed with eight qualities,<tei:note xml:id="UT22084-044-004-175"/> they defeat the armies of Māra.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བརྒྱད་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>What are these eight qualities?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ངོ་བོ་ཉིད་སྟོང་པ་ཉིད་ལ་ཞུགས་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Penetrating emptiness as the very essence of things;<tei:note xml:id="UT22084-044-004-176"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མཚན་མ་མེད་པ་ལ་མངོན་པར་ཡིད་ཆེས་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>having a real trust in signlessness;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྨོན་པ་མེད་པ་ལ་མངོན་པར་ཡིད་ཆེས་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>having a real trust in wishlessness;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མངོན་པར་འདུ་བྱ་བ་མེད་པར་རབ་ཏུ་ཤེས་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>fully discerning the uncompounded;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ལ་ཐེ་ཚོམ་དང་སོམ་ཉི་མེད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>not being doubtful or skeptical about it;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐྱེ་བ་མེད་པར་རབ་ཏུ་བཟོད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>accepting<tei:note xml:id="UT22084-044-004-177"/> non-arising;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ངོ་བོ་ཉིད་མེད་པར་རབ་ཏུ་རྟོགས་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>understanding essencelessness; and,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐབས་ལ་མཁས་པས་ཆོས་ཐམས་ཅད་ལ་སོ་སོར་རྟོག་ཅིང་དེ་བཞིན་ཉིད་འཇིག་པར་མི་བྱེད་པ་གང་ཡིན་པའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>by being skillful in means, individually discriminating all phenomena, while knowing unending suchness.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཡང་ཚིགས་སུ་བཅད་དེ་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-178"/>Then the Blessed One spoke again in verse:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྟོང་དང་མཚན་མ་མེད་དང་སྨོན་མེད་པ། །རྣམ་ཐར་གསུམ་ཐོབ་བདུད་དཔུང་རབ་ཏུ་འཇོམས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Those who realize the three doors of complete liberation— Emptiness, signlessness, and wishlessness—defeat the armies of Māra.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འདུས་བྱས་འདུས་མིན་མཚན་ཉིད་གཉིས་སུ་མེད། །སྐྱེ་མེད་ཐོབ་པས་རྣམ་པར་གྲོལ་བར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>As there is no duality between the compounded and uncompounded, They realize non-arising<tei:note xml:id="UT22084-044-004-180"/> and are completely liberated.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་རྣམས་སྐྱེ་མེད་དེ་ལྟར་གང་བཟོད་པ། །དེ་དག་བདུད་དཔུང་རབ་ཏུ་ཕམ་པར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-182"/>“They will defeat the armies of Māra When they accept the non-arising of all phenomena thus:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐྱེ་བ་མེད་དང་འགག་མེད་འདི་དག་དང་། །ཕུང་པོ་ཁམས་ལ་བདག་<tei:ref folio="F.101.b"/>མེད་སྒྱུ་མ་འདྲ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>‘These are without arising and without cessation; The aggregates and the elements are without self and like illusions.’ </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་ལ་ངོ་བོ་ཉིད་མེད་རབ་ཏུ་རྟོགས། །དེ་བཞིན་ཉིད་ནི་མི་འཇིག་ཐབས་མཁས་པས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-183"/>“They recognize that phenomena have no essence, While, by being skillful in means, they do not do away with suchness.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་རྣམས་བདུད་ཀྱི་ལས་ཞེས་གང་འབྱེད་པ། །རྣམ་རྟོག་སྤངས་ནས་བདུད་ནི་ཕམ་པར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The discrimination of phenomena is known to be the work of Māra. Having abandoned discrimination, Māra is defeated.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐབས་དང་ཤེས་རབ་གཉིས་ཀ་རབ་སྤྱོད་ཅིང་། །ཡོད་དང་སྟོང་ལ་གནས་པ་མེད་པར་ནི། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-184"/>“Employing both insight and means, And not being fixed on existence or emptiness,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ལྟར་ཆོས་མཆོག་གང་ཞིག་སྒོམ་བྱེད་པ། །ཐབས་མཁས་གཟུགས་ལུས་མཛེས་པ་འཐོབ་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Those who thus meditate on the supreme Dharma, Being skillful in means, will obtain beautiful bodily forms.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞན་ཡང་བུ་མོ་བྱང་ཆུབ་སེམས་དཔའ་ནི། ཆོས་རྣམ་པ་བརྒྱད་དང་ལྡན་པའི་ཕྱིར་བྱང་ཆུབ་དང་ནམ་ཡང་འབྲལ་བར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-185"/>“Furthermore, girl, when bodhisattvas are endowed with eight qualities,<tei:note xml:id="UT22084-044-004-186"/> they will never be separated from awakening.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བརྒྱད་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>What are these eight qualities?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡང་དག་པའི་ལྟ་བས་ལོག་པར་ལྟ་བའི་སེམས་ཅན་ཡོངས་སུ་སྨིན་པར་བྱེད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>With right view, they ripen sentient beings who have wrong views.<tei:note xml:id="UT22084-044-004-187"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡང་དག་པའི་དྲན་པས་ལོག་པར་སེམས་པའི་སེམས་ཅན་ལ་སྙིང་བརྩེ་བར་བྱེད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>With right mindfulness, they act compassionately toward sentient beings who have wrong intention.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡང་དག་པའི་ངག་གིས་ལོག་པར་སྨྲ་བ་རྣམས་ལ་སྙིང་བརྩེ་བར་བྱེད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>With right speech, they act compassionately toward those who speak wrongly.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡང་དག་པའི་ལས་ཀྱི་མཐས་ལོག་པའི་ལས་ཅན་རྣམས་ཡོངས་སུ་སྡུད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>With right action, they draw in those engaged in wrongdoings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡང་དག་པའི་རྩོལ་བས་ལོག་པར་རྩོལ་བ་རྣམས་ཡོངས་སུ་ཟློག་པ་དང་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>With right effort, they stop those engaged in wrong pursuits.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡང་དག་པའི་འཚོ་བས་ལོག་པར་འཚོ་བའི་སེམས་ཅན་རྣམས་སྤོང་བར་མི་བྱེད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>With right livelihood, they do not abandon sentient beings engaged in wrong livelihoods.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡང་དག་པའི་རྟོག་པས་ལོག་པར་ཡིད་ལ་བྱེད་པ་སྤོང་བར་བྱེད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>With right thought, they make them abandon wrong thinking.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡང་དག་པའི་ཏིང་ངེ་འཛིན་གྱིས་ལོག་པའི་ཏིང་ངེ་འཛིན་ལ་གནས་པ་དག་བསླང་ནས་གོང་དུ་རྩོལ་དུ་གཞུག་པ་གང་ཡིན་པའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>With right absorption, they wake those who are stuck in wrong absorption, and make them strive higher.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཡང་ཚིགས་སུ་བཅད་དེ་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-188"/>Then the Blessed One spoke again in verse:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡང་དག་ལྟ་དང་གང་ལྡན་པ། །ལོག་ལྟ་དེ་དག་སྨིན་པར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Those who are endowed with right view Bring those with wrong views to maturity.<tei:note xml:id="UT22084-044-004-190"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྟག་པར་ཡང་དག་དྲན་སྒོམ་པ། །ལོག་སེམས་དག་ལ་བརྩེ་བར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Constantly cultivating right mindfulness, They act compassionately toward those with wrong intention.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྣམ་དག་ཡང་དག་དག་གིས་ནི། །ལོག་སྨྲ་རྣམས་ལ་བརྩེ་བར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-191"/>“Those who have right speech<tei:note xml:id="UT22084-044-004-192"/> Act compassionately toward those who speak wrongly.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡང་དག་ལས་མཐའ་གནས་པ་ཡིས། །ལོག་པའི་ལས་ཅན་སྡུད་པར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Being established in right action, They draw in those who act wrongly.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྟག་པར་ཡང་དག་རྩོལ་བསྒོམས་ནས། །ལོག་བརྩོན་དག་ནི་སྤོང་བར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-193"/>“Continuously cultivating right effort, They do not abandon those with wrong effort.<tei:note xml:id="UT22084-044-004-194"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.101.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡང་དག་འཚོ་བས་རྗེས་འཐུན་པས། །ལོག་འཚོ་གང་ཡིན་སྡུད་པར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Pursuing right livelihood, They draw in those engaged in wrong livelihoods.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བློ་ལྡན་ཡང་དག་རྟོག་པ་ཡིས། །ལོག་པར་<tei:ref folio="F.102.a"/>ཡིད་བྱེད་བརྩེ་བར་སེམས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-195"/>“The wise ones who have right thought Think compassionately toward those who think wrongly.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡང་དག་ཏིང་འཛིན་རྟག་གནས་ནས། །ལོག་པའི་ཏིང་འཛིན་སྡུད་པར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Always absorbed in right absorption, They draw in those caught up in wrong absorption.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བླ་མེད་ཡང་དག་ལམ་བརྒྱད་ཀྱིས། །ཆུ་བོ་དག་ལ་སྒྲོལ་བར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-196"/>“With this unsurpassed perfect eightfold path, They liberate those who are caught in the river of saṃsāra.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྒྱུན་ཕྱོགས་དེད་པ་ཟློག་བྱེད་པས། །དེ་ནི་བྱང་ཆུབ་ལམ་ཆེན་ཡིན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>By rescuing those who are carried away by the stream, They are on the great path to awakening.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཉན་ཐོས་དང་ནི་རང་རྒྱལ་རྣམས། །རྩྭ་ཡི་གཟིངས་བཞིན་བདག་ཉིད་ཟློས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-197"/>“Hearers and solitary realizers Transport only themselves, like on a raft made of grass.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་ཀུན་ཟློས་པས། །དཔེར་ན་གྲུ་ཆེན་འདྲེན་མཁན་འདྲ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>A bodhisattva leads everyone across, Like the captain of a great boat.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞན་ཡང་བུ་མོ་བྱང་ཆུབ་སེམས་དཔའ་ནི་ཆོས་རྣམ་པ་བརྒྱད་དང་ལྡན་པའི་ཕྱིར། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-198"/>“Furthermore, girl, because bodhisattvas are endowed with eight qualities,<tei:note xml:id="UT22084-044-004-199"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བདུད་རྩིའི་ལམ་མངོན་སུམ་དུ་བྱེད་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>they have direct experience of the deathless path.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བརྒྱད་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>What are these eight qualities?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྩོད་པ་མེད་པའི་ཆོས་ལ་གནས་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Abiding in the strifeless Dharma;<tei:note xml:id="UT22084-044-004-200"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐོགས་པའི་སེམས་ལེགས་པར་རབ་ཏུ་སྲུང་བར་བྱེད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>guarding themselves well against thoughts of hostility;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྟག་པར་དེ་ཁོ་ན་ཉིད་ཀྱི་དོན་ལ་ལྟ་བར་བྱེད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>constantly contemplating the meaning of suchness;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་ཀྱི་སེམས་ལ་རབ་ཏུ་གནས་ནསརྗེས་སུ་དྲན་པ་དྲུག་སྒོམ་པར་བྱེད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>sustaining the mind set on awakening, and meditating on the six recollections;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ནན་ཏན་བརྩོན་འགྲུས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྣམས་སྒོམ་པར་བྱེད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>meditating on the transcendental perfections with meticulous perseverance;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགེ་བའི་རྩ་བ་བསགས་ནས་སེམས་ཅན་ཡོངས་སུ་སྨིན་པར་བྱེད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>collecting roots of virtue, and ripening sentient beings;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྙིང་རྗེ་ཆེན་པོ་ལ་གནས་ནས་ཡང་དག་པའི་ཆོས་ཡོངས་སུ་སྡུད་པར་བྱེད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>sustaining great compassion, and drawing beings to the perfect Dharma; and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མི་སྐྱེ་བའི་ཆོས་ལ་བཟོད་པ་ཐོབ་ནསཕྱིར་མི་ལྡོག་པ་ལ་རབ་ཏུ་གནས་པ་གང་ཡིན་པའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>attaining the acceptance that phenomena do not arise, and remaining in the irreversible condition.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཡང་ཚིགས་སུ་བཅད་དེ་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-201"/>Then the Blessed One spoke again in verse:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྟག་པར་རྩོད་མེད་སྤྱོད་བསྒྲུབས་ནས། །དགེ་སྦྱོང་ཆེན་པོའི་ཆོས་ལ་གནས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Always achieving conduct that is without strife, They abide in the Dharma of the Great Ascetic.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཞེ་སྡང་ཉེས་པ་ཡོངས་སྤངས་ནས། །དགེ་བའི་རྩ་བ་སོགས་པར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Abandoning the shortcoming of hatred, They gather roots of virtue.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡང་དག་དོན་ལ་རབ་ལྟ་བས། །མི་ཟད་སྤོབས་རྣམས་འཐོབ་པར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-203"/>“By contemplating the right meaning, They obtain inexhaustible eloquence;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་ལ་རབ་གནས་ནས། །རྟག་པར་དྲན་བྱེད་རྗེས་སུ་དྲན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And, sustaining in the mind set on awakening, They always remember the six recollections.<tei:note xml:id="UT22084-044-004-204"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕ་རོལ་ཕྱིན་པ་ཐམས་ཅད་ལ། །རབ་བརྩོན་བསྒྲུབས་པས་ལོག་པ་མེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-205"/>“Accomplishing all the perfections With absolute perseverance, they become irreversible on the path,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐབས་མཁས་སྟོབས་རྣམས་ཐོབ་པས་ན། །དེས་ནི་སེམས་ཅན་སྒྲོལ་བར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And, since they obtain the powers of skill in means, They liberate sentient beings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་ཀྱི་མངའ་བདག་ནོར་གྱིས་ནི། །བརྩེ་སེམས་ཐམས་ཅད་ཀུན་སྡུད་པས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-206"/>“With riches as lords of Dharma, They draw everyone in with their loving minds,<tei:note xml:id="UT22084-044-004-207"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མྱུར་དུ་མི་སྐྱེ་བཟོད་ཐོབ་ནས། །བྱང་<tei:ref folio="F.102.b"/>ཆུབ་ལས་ནི་ལྡོག་མི་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Quickly attain acceptance of non-arising, And become irreversible from awakening.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གལ་ཏེ་དེ་ལྟར་སྤྱོད་ནུས་ན། །སངས་རྒྱས་ཆོས་ནི་ཐོབ་མི་དཀའ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-208"/>“If they are able to act in this way, It will not be difficult for them to obtain the Buddhadharma,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རིང་པོར་མི་ཐོགས་བདུད་བཏུལ་ནས། །བྱང་ཆུབ་མཆོག་ནི་ཐོབ་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And before long, they will tame the māras And attain supreme awakening.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བུ་མོ་དེས་ཆོས་དེ་ལྟ་བུ་ཐོས་ནས་དགའ་མགུ་རངས་པར་གྱུར་ནས་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-210"/>Then the girl Vimalaśraddhā, having thus heard the Dharma, greatly rejoiced, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>she asked the Blessed One,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཆོས་དུ་དང་ལྡན་པར་གྱུར་ན་བུད་མེད་ཀྱི་དངོས་པོ་ལས་ལྡོག་པར་འགྱུར་ལགས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Blessed One, how many qualities must one possess to avert female existence?”<tei:note xml:id="UT22084-044-004-211"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-212"/>The Blessed One answered,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བུ་མོ་ཆོས་བརྒྱད་དང་ལྡན་པར་གྱུར་ན་བུད་མེད་ཀྱི་དངོས་པོ་ལས་ལྡོག་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Girl, when a woman is endowed with eight qualities, she will avert female existence.<tei:note xml:id="UT22084-044-004-213"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བརྒྱད་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>What are these eight qualities?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྲག་དོག་མི་བྱེད་པ་དང་། སེར་སྣ་མི་བྱེད་པ་དང་། གཡོ་སྒྱུ་མེད་པ་དང་། ཁོང་ཁྲོ་བ་མེད་པ་དང་། བདེན་པར་སྨྲ་བ་དང་། ངག་རྩུབ་པོ་མི་སྨྲ་བ་དང་། འདོད་ཆགས་སྤངས་པ་དང་། ལོག་པར་ལྟ་བ་རྣམས་སྤངས་པ་གང་ཡིན་པ་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Not being jealous;<tei:note xml:id="UT22084-044-004-214"/> not being miserly; not being sly; not being angry; speaking the truth; not uttering harsh words; abandoning lust; and abandoning wrong views.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བུ་མོ་ཆོས་བརྒྱད་པོ་འདི་དག་མངོན་པར་བསྒྲུབས་ན། མྱུར་དུ་བུད་མེད་ཀྱི་དངོས་པོ་ལས་ལྡོག་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Girl, when one realizes these eight qualities, one will quickly avert female existence.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཡང་ཚིགས་སུ་བཅད་དེ་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-215"/>Then the Blessed One spoke again in verse:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞན་ལ་ཕྲག་དོག་མི་བྱེད་ཅིང་། །སེར་སྣ་སྤངས་ནས་ཆོས་མོས་དང་། །གཡོ་སྒྱུ་དག་ནི་མི་སྤྱོད་ཅིང་། །བུད་མེད་ལུས་ལ་སྐྱོ་བ་དང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“One who is weary of having a female body, Is not jealous of others, Abandons miserliness, and Is committed to the Dharma does not act deceitfully.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱམས་སེམས་ཞེ་སྡང་རབ་སྤངས་ནསརྟག་པར་བདེན་ཚིག་སྨྲ་བ་དང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-217"/>“Avoiding hatred, with a mind of loving-kindness, One always speaks words of truth.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འདོད་བསལ་ངག་རྩུབ་སྤངས་ནས་ནི། །ཡང་དག་ལྟ་ལ་གནས་པར་བྱ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Dispelling lust and avoiding harsh words, One should maintain right view.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་གིས་བུད་མེད་ལུས་སྐྱོ་ནས། །འདི་འདྲའི་ཆོས་ནི་སྒྲུབ་བྱེད་ན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-218"/>“When, weary of having a female body, One brings about such qualities,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མྱུར་དུ་བུད་མེད་དངོས་སྤངས་ནས། །སྐྱེས་པའི་ལུས་བཟང་ལེན་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>One will quickly avert female existence, And acquire the favorable body of a man.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞན་ཡང་བུ་མོ་ཆོས་བརྒྱད་དང་ལྡན་པར་གྱུར་ན། བུད་མེད་ཀྱི་དངོས་པོ་ལས་ལྡོག་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-219"/>“Furthermore, girl, when a woman is endowed with eight qualities, she will avert female existence.<tei:note xml:id="UT22084-044-004-220"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བརྒྱད་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>What are these eight qualities?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ལ་བླ་མར་བྱེད་ཅིང་། ཆོས་ལ་ཤིན་ཏུ་མོས་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Venerating the Buddha and being dedicated to the Dharma;<tei:note xml:id="UT22084-044-004-221"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.102.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚུལ་ཁྲིམས་དང་། བཟོད་པ་དང་། མང་དུ་ཐོས་པ་དང་ལྡན་པའི་དགེ་སྦྱོང་དང་བྲམ་ཟེ་དག་ལ་བསྙེན་བཀུར་དང་རིམ་གྲོར་བྱེད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>respectfully honoring and venerating ascetics and brahmins endowed with discipline, patience, and great learning;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐྱེས་པ་དང་། བུད་མེད་དང་། ཁྱིམ་གྱི་དངོས་པོ་དག་ལ་མངོན་པར་ཞེན་ཅིང་། ཆགས་པ་མེད་པ་དང་། <tei:ref folio="F.103.a"/>
+                </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>not being attached or clinging to any man, woman, or household matters;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བསླབ་པའི་དངོས་པོ་ཡང་དག་པར་བླངས་པ་རྣམས་འཇིག་པར་མི་བྱེད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>not breaking the training precepts<tei:note xml:id="UT22084-044-004-222"/> to which one has committed;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྲོག་ཆགས་རྣམས་ལ་ལོག་པའི་བསམ་པ་མི་སྐྱེད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>not bringing forth negative intentions toward any living being;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྷག་པའི་བསམ་པས་བུད་མེད་ཀྱི་དངོས་པོ་ལ་ཡོངས་སུ་སྐྱོ་བར་འགྱུར་བ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>with superior intent, being completely weary of female existence;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་ཀྱི་སེམས་ཀྱིས་སྐྱེས་བུ་ཆེན་པོའི་ཆོས་ལ་གནས་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>with the mind set on awakening, being set on the qualities of a great man;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་པའི་ཁྱིམ་གྱི་འཚོ་ཚིས་རྣམས་ལ་སྒྱུ་མ་ལྟ་བུ་དང་རྨི་ལམ་ལྟ་བུར་ལྟ་བ་གང་ཡིན་པའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>and viewing worldly household affairs as illusions or dreams.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཡང་ཚིགས་སུ་བཅད་དེ་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-223"/>Then the Blessed One spoke again in verse:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་རབ་གུས་ཆོས་ལ་མོས། །ཚུལ་ཁྲིམས་མང་ཐོས་བླ་མར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“When one is devoted to the Buddha and dedicated to the Dharma,<tei:note xml:id="UT22084-044-004-225"/> Venerates those with discipline and great learning,<tei:note xml:id="UT22084-044-004-226"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འདོད་ཆགས་སྲེད་སེམས་མི་སྐྱེད་ན། །བུད་མེད་དངོས་པོ་མྱུར་དུ་སྤོང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And does not bring forth thoughts of desire and craving, One will quickly avert female existence.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཁྲིམས་སྲུང་ངོ་ཚ་ཁྲེལ་ཡོད་ལྡན། །གཞན་ལ་མི་བདེན་བསམ་མི་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-227"/>“When one keeps discipline with modesty and bashfulness, Does not think wrongly of others,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་ལ་རབ་གནས་ནས། །ཐེག་པ་གཞན་ལ་མོས་མེད་ན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And maintains the mind set on awakening, One is not inclined to other vehicles,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེས་ནི་མྱུར་བ་ཁོ་ནར་ཡང་། །མི་གཙང་བུད་མེད་དངོས་པོ་སྤོང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-228"/>“Then very soon one will surely avert Impure existence as a woman.<tei:note xml:id="UT22084-044-004-229"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བསམ་པ་མཆོག་གིས་སེམས་སྐྱོ་ནས། །ཐམས་ཅད་སྒྱུ་མ་ལྟ་བུ་དང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>When, with supreme intent, one develops weariness, Seeing everything as an illusion,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་རྣམས་རང་བཞིན་གཡོ་མེད་དང་། །རྒྱུ་རྐྱེན་རང་བཞིན་སྟོང་དབེན་ཞེས། །ནན་ཏན་ཡང་དག་ཆོས་བསྒོམས་ན། །མྱུར་དུ་སྐྱེས་པའི་ལུས་འཐོབ་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-230"/>“And when one persistently meditates on the true Dharma That phenomena are intrinsically unmoving, And that causes and conditions are intrinsically empty and void, One will quickly obtain the body of a man.”<tei:note xml:id="UT22084-044-004-231"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བུ་མོ་རྣམ་དག་དད་པས་གསེར་གྱི་ཕྲེང་བ་ཐོགས་པ་དེ་དག་བཅོམ་ལྡན་འདས་ལ་མངོན་པར་གཏོར་བ་དང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-232"/>Then the girl Vimalaśraddhā tossed the golden necklaces she was wearing toward the Blessed One.<tei:note xml:id="UT22084-044-004-233"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྟེང་གི་བར་སྣང་ལ་གསེར་ཡང་དག་པའི་གཞལ་མེད་ཁང་། ཁང་པ་བརྩེགས་པ་དག་ཏུ་གྱུར་ནས་གཞལ་མེད་ཁང་དེ་དག་གི་ནང་ན་སྤྲུལ་པའི་དེ་བཞིན་གཤེགས་པ་གསེར་གྱི་གདན་ལ་བཞུགས་པ། ཤ་སྟག་མངོན་དུ་བྱུང་བར་གྱུར་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Rising into the sky, these jewels became perfectly golden celestial palaces and multi-storied mansions,<tei:note xml:id="UT22084-044-004-234"/> inside of which, seated on golden thrones, there appeared emanations of the Thus-Gone One.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བུ་མོ་ལྔ་བརྒྱ་པོ་དེ་དག་གིས་ཀྱང་སོ་སོ་ནས། ལུས་ཀྱི་རྒྱན་རྣམས་བཀྲོལ་ནས་བཅོམ་ལྡན་འདས་ལ་མངོན་པར་གཏོར་བ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Then each one of the five hundred girls likewise untied the jewelry they were wearing and tossed them toward the Blessed One.<tei:note xml:id="UT22084-044-004-235"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྟེང་གི་བར་སྣང་ལ་གསེར་གྱི་གཞལ་མེད་ཁང་དང་། རིན་པོ་ཆེའི་གུར་དང་། རིན་པོ་ཆེའི་གདུགས་དང་། བཀོད་པ་རྣམ་པ་སྣ་ཚོགས་སུ་གྱུར་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The jewelry also rose into the sky and became golden celestial palaces with jeweled pavilions, jeweled parasols, and all kinds of arrays of jewels.<tei:note xml:id="UT22084-044-004-236"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བུ་མོ་ལྔ་བརྒྱ་པོ་དེ་དག་གིས་དེ་ལྟ་བུའི་ཆོ་འཕྲུལ་ཆེན་པོ་མཐོང་བ་དང་། སྐད་<tei:ref folio="F.103.b"/>འཐུན་པར་ཚིགས་སུ་བཅད་དེ་སྨྲས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-237"/>Thereupon the five hundred girls, having seen this great miracle, uttered these verses in unison:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་མི་མཆོག་ཁྱད་པར་འཕགས་པས་ན། །ཐུགས་རྗེས་སེམས་ཅན་རྣམས་ལ་སྨན་པར་མཛད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-238"/>“The Blessed One, supreme and foremost among men, Through his compassion acts as healer<tei:note xml:id="UT22084-044-004-239"/> for all sentient beings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བདག་ཅག་དེང་ནི་བྱང་ཆུབ་སེམས་བསྐྱེད་ནས། །མོས་པ་རྗེས་འཐུན་རབ་ཏུ་དུལ་ལ་གནས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>We too now give rise to the mind set on awakening, And remain properly committed to this resolve.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདྲེན་པ་བདེ་བ་རབ་སྩོལ་བ། །བདག་ཅག་མི་མཆོག་ལ་ནི་མཆོད་པར་བགྱི། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-240"/>“Blessed One, guide, bestower of happiness, To you, supreme among men, we make offerings.<tei:note xml:id="UT22084-044-004-241"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་ཐོས་དབང་གིས་རྡུལ་རྣམས་རབ་སྤངས་ནས། །བདག་ཅག་ཐེ་ཚོམ་ནེམ་ནུར་ཡོངས་མ་མཆིས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>By force of hearing the Dharma, we have discarded all passions, And we no longer have any doubts or hesitation.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེས་ན་བུད་མེད་ཉོན་མོངས་མང་སྤངས་ནས། །ཉོན་མོངས་གཏན་བཅོམ་བདུད་ནི་ཕམ་པར་བགྱི། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-242"/>“Thus leaving behind the many afflictions of women, We will continually overcome the afflictions and defeat Māra,<tei:note xml:id="UT22084-044-004-243"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྱོགས་བཅུའི་སངས་རྒྱས་བྱེ་བ་ཚད་མེད་རྣམས། །བདག་ཅག་དགའ་བས་རྟག་ཏུ་མཆོད་པར་འཚལ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And we will joyously make continuous offerings To the countless buddhas in the ten directions.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྦྱིན་དང་ཚུལ་ཁྲིམས་བརྩོན་འགྲུས་རབ་གནས་ནས། །བཟོད་དང་བསམ་གཏན་སེམས་ནི་རབ་ཏུ་བགྱི། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-244"/>“Maintaining generosity, discipline, and perseverance, We will train our minds with patience and concentration.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐབས་དང་ཤེས་རབ་སེམས་ཅན་ཡོངས་བསྡུས་ནས། །བྱང་ཆུབ་མཆོག་ལམ་གང་ལགས་མངོན་དུ་བགྱི། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And, gathering all sentient beings<tei:note xml:id="UT22084-044-004-245"/> through insight and skillful means, We will realize all the aspects of the path of supreme awakening.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྷ་མིའི་འཁོར་ནི་ཚད་མེད་སྨན་བཏགས་ནས། །ཐམས་ཅད་ཐེག་ཆེན་སེམས་ནི་བསྐྱེད་པར་བསྐུལ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-246"/>“Conferring remedies to countless assemblies of gods and men,<tei:note xml:id="UT22084-044-004-247"/> We will exhort all to give rise to the spirit of the Great Vehicle;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བདག་ཅག་སེང་གེའི་སྒྲ་ནི་སྒྲོགས་པར་འགྱུར། །བདག་ཅག་ལྷ་མིའི་སྟོན་པ་བགྱིད་པར་མཆི། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>We will roar the lion’s roar,<tei:note xml:id="UT22084-044-004-248"/> And become the teachers of gods and men.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་འཛུམ་པ་མཛད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-249"/>At that moment the Blessed One smiled.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་རྣམས་ཀྱི་ཆོས་ཉིད་ནི་ནམ་འཛུམ་པ་མཛད་པ་ན་འོད་ཟེར་ཁ་དོག་རྣམ་པ་སྣ་ཚོགས་འདི་ལྟ་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is in the nature of the buddhas that when they smile, they emit light rays of various kinds of colors.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྔོན་པོ་དང་། སེར་པོ་དང་། དམར་པོ་དང་། དཀར་པོ་དང་། ལེ་བརྒན་དང་། དངུལ་དང་། ཤེལ་གྱི་ཁ་དོག་ལྟ་བུ་དག་དེ་བཞིན་གཤེགས་པའི་ཞལ་གྱི་སྒོ་ནས་བྱུང་སྟེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>There were blue, yellow, red, white, orange, violet, and crystalline rays that emanated from the Thus-Gone One’s mouth,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་གྱི་ཁམས་ཚད་མེད་དཔག་ཏུ་མེད་པ་དག་ནས། ཚངས་པའི་འཇིག་རྟེན་གྱི་བར་དུ་ཁྱབ་པར་སྣང་བར་བྱས་ནས། དེ་བཞིན་གཤེགས་པ་ལ་ལན་གསུམ་བསྐོར་བ་བྱས་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>which pervaded and illuminated countless and innumerable world systems up to their Brahmā’s realms, then returned and circled the Thus-Gone One three times, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པའི་དབུའི་གཙུག་ཏུ་ཐིམ་པར་གྱུར་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>finally dissolved into the Thus-Gone One’s crown protuberance.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་སྟན་ལས་ལངས་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-251"/>Then the venerable Ānanda arose from his seat and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>asked the Blessed One,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.103.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་རྒྱུ་རྐྱེན་གང་གི་སླད་དུ་འཛུམ་པ་འདི་ལྟ་བུ་བསྟན་པར་མཛད་ལགས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Blessed One, what is the reason that you display such a smile?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.104.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་<tei:ref folio="F.104.a"/>བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-252"/>The Blessed One answered,<tei:note xml:id="UT22084-044-004-253"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.104.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་ཁྱོད་ཀྱིས་བུ་མོ་རྣམ་དག་དད་པ་འདི་མཐོང་ངམ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Ānanda, do you see this girl Vimalaśraddhā?”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.104.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོས་གསོལ་པ། མཐོང་ལགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Yes, I see her,” Ānanda replied.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.104.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-254"/>The Blessed One continued,<tei:note xml:id="UT22084-044-004-255"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.104.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་བུ་མོ་རྣམ་དག་དད་པ་ལ་སོགས་པ་བུ་མོ་ལྔ་བརྒྱ་པོ་འདི་དག་ནི། འདི་ནས་ཚེ་ཟད་པ་དང་། བུད་མེད་ཀྱི་ལུས་སྤངས་ནས་དགའ་ལྡན་གྱི་ལྷའི་རིས་སུ་སྐྱེ་སྟེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Ānanda, when the present lives of this girl Vimalaśraddhā and the other five hundred girls are exhausted, they will abandon these female bodies and be reborn among the gods of Tuṣita.<tei:note xml:id="UT22084-044-004-256"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.104.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་བྱམས་པ་དང་། བསྐལ་པ་བཟང་པོའི་དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ལ་བཀུར་སྟི་དང་། རིམ་གྲོ་དང་། མཆོད་པ་བྱེད་པར་འགྱུར་བས་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>There they will respectfully honor, venerate, and make offerings to the Blessed One Maitreya and to all the other thus-gone ones of this fortunate eon.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.104.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བུ་མོ་རྣམ་དག་དད་པས་བསྐལ་པ་བྱེ་བ་ཁྲག་ཁྲིག་བརྒྱད་ཁྲི་བཞི་སྟོང་འདས་པའི་འོག་ཏུ་འཇིག་རྟེན་གྱི་ཁམས་གློག་གི་འོད་ཅེས་བྱ་བར་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་བར་འགྱུར་ཏེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>In this way, after eighty-four thousand trillion eons, this girl Vimalaśraddhā will obtain perfect and complete awakening<tei:note xml:id="UT22084-044-004-257"/> in a universe known as Vidyutprabha</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.104.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་འོད་ཟེར་གྱི་བཀོད་པ་ཞེས་བྱ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>and will be known as the Thus-Gone One Raśmivyūha.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.104.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བསྐལ་པའི་མིང་ནི་རྟག་པར་སྣང་བ་ཞེས་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The name of that eon will be Nityāvabhāsa.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.104.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་དེའི་སྐུ་ཚེའི་ཚད་ནི་དགའ་ལྡན་གྱི་ལྷ་བཞིན་དུ། ཚེ་ལོ་སྟོང་ཕྲག་བཅུ་གཉིས་ཐུབ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The life span of that thus-gone one will be the same as that of the gods of Tuṣita, that is, twelve thousand years.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.104.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་གྱི་ཁམས་དེ་ན་ཡང་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འབའ་ཞིག་གི་འཁོར་ཚད་མེད་དཔག་ཏུ་མེད་པ་དག་གིས་འཁོར་བྱེད་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>In that universe, he will be surrounded by limitless and immeasurable retinues exclusively<tei:note xml:id="UT22084-044-004-258"/> consisting of bodhisattva mahāsattvas.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.104.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བུ་མོ་ལྔ་བརྒྱ་པོ་འདི་དག་ཀྱང་འཁོར་དེ་དག་གི་ནང་ན་གཙོ་བོ་མཆོག་བྱེད་པར་འགྱུར་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>These five hundred girls will be at the head of those retinues,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.104.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་ད་ལྟར་ངའི་ཚེ་བྱང་ཆུབ་སེམས་དཔའ་འཇམ་དཔལ་ལ་སོགས་པ་དྲུག་ཅུ་པོ་འདི་དག་གཙོ་བོར་གྱུར་པ་བཞིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>in the same way as now, during my lifetime, these sixty bodhisattvas—Mañjuśrī and so on<tei:note xml:id="UT22084-044-004-259"/>—are at the head.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.104.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་བུད་མེད་གང་ལ་ལ་ཞིག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ཐོས་ནས་ཡོངས་སུ་འཛིན་པར་བྱེད། ཀློག་པར་བྱེད། ཁ་ཏོན་དུ་འདོན་པར་བྱེད་ན་བུད་མེད་ཀྱི་ལུས་འདི་དག་གཏུགས་ནས་ཕྱིས་ཡང་ལེན་པར་མི་འགྱུར་ཞིང་མྱུར་དུ་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-260"/>Ānanda, if any woman who, having listened to this Dharma discourse, retains it, reads it, or recites it aloud after having had a female body, she will not take such a rebirth again in the future, and will quickly obtain supreme, perfect, and complete awakening.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.104.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-261"/>After the Blessed One spoke thus,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.104.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བུ་མོ་རྣམ་དག་དད་པ་ལ་སོགས་པ་བུ་མོ་ལྔ་བརྒྱ་པོ་དེ་དག་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དུ་བཅས་པའི་འཇིག་རྟེན་ཐམས་ཅད་བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་རབ་ཏུ་དགའ་<tei:ref folio="F.104.b"/>ནས་མངོན་པར་བསྟོད་དོ།། །།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>the girl Vimalaśraddhā and the other five hundred girls, as well as the entire world with its gods, men, and asuras, rejoiced in the words of the Blessed One and praised them greatly. </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.104.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཕགས་པ་དཀོན་མཆོག་བརྩེགས་པ་ཆེན་པོའི་ཆོས་ཀྱི་རྣམ་གྲངས་ལེའུ་སྟོང་ཕྲག་བརྒྱ་པ་ལས་བུ་མོ་རྣམ་དག་དད་པས་ཞུས་པའི་ལེའུ་སྟེ་བཞི་བཅུ་པ་རྫོགས་སོ།​།།​།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-004-262"/>This completes the fortieth chapter, called The Questions of the Girl Vimalaśraddhā, from the one hundred thousand chapters of Dharma discourses in The Noble Great Heap of Jewels.<tei:note xml:id="UT22084-044-004-263"/>
+                </seg>
+            </tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+    <header creationtool="linguae-dharmae/84000" creationtoolversion="2.16.12a" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-075-003" eft:text-version="v-1.0.10-2022" eft:source-ref="/db/apps/84000-data/uploads/linguae-dharmae/aligned/31-10-2022/complete/toh345-bo_aligned.txt"/>
+    <body>
+      <!--  <tu id="UT22084-075-003-TU-1">
+            <tuv xml:lang="bo"><seg>དགེ་སློང་དེ་དག་དང་། ལྷ་དང་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ། །འཕགས་པ་སངས་རྒྱས་ཀྱི་རྟོགས་པ་བརྗོད་པ་ཤེས་ལྡན་གྱི་མདོ་རྫོགས་སོ།། །།རྒྱ་གར་གྱི་མཁན་པོ་བིདྱཱ་ཀ་ར་སིང་ཧ་དང་། སརྦ་ཛྙཱ་དེ་བ་དང་། །ཞུ་ཆེན་གྱི་ལོ་ཙྪ་བ་བན་དེ་དཔལ་བརྩེགས་ཀྱིས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།།</seg></tuv>
+            <tuv xml:lang="en"><seg/></tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-2">
+            <tuv xml:lang="bo"><seg>༄༅། །རྒྱ་གར་སྐད་དུ། སཱུ་ཀ་རི་ཀ་ཨ་བ་དཱ་ན་ནཱ་མ་སཱུ་ཏྲ།</seg></tuv>
+            <tuv xml:lang="en"><seg>The Sūtra</seg></tuv>
+        </tu>-->
+        <!--<tu id="UT22084-075-003-TU-3">
+            <tuv xml:lang="bo"><seg>བོད་སྐད་དུ།</seg></tuv>
+            <tuv xml:lang="en"><seg>The Magnificent Account About a Sow</seg></tuv>
+        </tu>-->
+        <tu id="UT22084-075-003-TU-4">
+            <prop type="location-id">translation</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཕག་མོའི་རྟོགས་པ་བརྗོད་པ་ཞེས་བྱ་བའི་མདོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Magnificent Account About a Sow</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-5">
+            <prop type="location-id">UT22084-075-003-44</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Homage to the Three Jewels!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-6">
+            <prop type="location-id">UT22084-075-003-44</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-7">
+            <prop type="location-id">UT22084-075-003-44</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མཉན་ཡོད་ན་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན་བཞུགས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One was dwelling at Śrāvastī in Jetavana, in Anāthapiṇḍada’s Park.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-8">
+            <prop type="location-id">UT22084-075-003-48</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དགེ་སློང་རྣམས་ལ་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One then addressed the monks:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-9">
+            <prop type="location-id">UT22084-075-003-48</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་ལྷའི་བུའི་འཆི་འཕོའི་ཆོས་ཀྱི་སྔ་ལྟས་རྣམ་པ་ལྔ་འབྱུང་བར་འགྱུར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Monks, there are five portents that appear to a god who is due to pass away.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-10">
+            <prop type="location-id">UT22084-075-003-48</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ལྔ་གང་ཞེ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>What are those five?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-11">
+            <prop type="location-id">UT22084-075-003-48</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>གོས་རྣམས་སྔོན་དྲི་མ་མི་ཆགས་པ་ལས་དྲི་མ་ཆགས་པ་དང་། མེ་ཏོག་ཕྲེང་རྣམས་སྔོན་མི་རྙིངས་པ་ལས་རྙིངས་པ་དང་། མཆན་ཁུང་གཉིས་ནས་རྔུལ་འབྱུང་བ་དང་། ལུས་ལས་དྲི་མི་ཞིམ་པ་འབྱུང་བ་དང་། ལྷའི་བུའི་འཆི་འཕོའི་ཆོས་ནི་རང་གི་སྟན་ལ་དགའ་བ་མི་འཐོབ་པའོ། །དགེ་སློང་དག་དེ་ནས་ལྷའི་བུ་ཞིག་འཆི་འཕོའི་ཆོས་ཀྱིས་ས་ལ་འགྲེ་ལྡོག་སྟེ་བྲང་རྡུང་ཞིང་ངུ་ལ། སྙིང་རྗེ་རྗེ་སྐད་དུ་སྨྲེ་སྔགས་འདོན་ཏེ། ཀྱི་ཧུད་དལ་གྱིས་འབབ་པ། ཀྱི་ཧུད་རྫིང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>His previously untarnished clothes become tarnished, his previously unwithered flower garlands become withered, sweat appears from both armpits, a foul odor emerges from his body, and a god who is due to pass away finds no satisfaction in his seat. “Now, monks, a certain god who was due to pass away was writhing about on the ground, beating his chest, as he cried and wailed pitifully, ‘Ah Mandākinī River!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-12">
+            <prop type="location-id">UT22084-075-003-48</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀྱི་ཧུད་རྫིང་བུ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ah lake! Ah pool!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-13">
+            <prop type="location-id">UT22084-075-003-48</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀྱི་ཧུད་ཤིང་རྟ་སྣ་ཚོགས་ཅན་གྱི་ཚལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ah Caitraratha Grove!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-14">
+            <prop type="location-id">UT22084-075-003-48</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀྱི་ཧུད་རྩུབ་འགྱུར་གྱི་ཚལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ah Pāruṣyaka Grove!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-15">
+            <prop type="location-id">UT22084-075-003-48</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀྱི་ཧུད་དགའ་བའི་ཚལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ah Nandana Grove!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-16">
+            <prop type="location-id">UT22084-075-003-48</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀྱི་ཧུད་འདྲེས་པའི་ཚལ། ཀྱི་ཧུད་ཡོངས་འདུ། ཀྱི་ཧུད་སྡུག་པ། ཀྱི་ཧུད་ཨར་མོ་ནིག་ལྟ་བུའི་རྡོ་ལེབ། ཀྱི་ཧུད་ལྷའི་འདུན་ས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ah Miśrakā Grove! Ah Pāriyātraka! Ah lovely one! Ah Pāṇḍukambala Rock! Ah assembly hall of the gods! Ah Sudarśana!’</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-17">
+            <prop type="location-id">UT22084-075-003-58</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀྱི་ཧུད་བལྟ་ན་སྡུག་པ་ཞེས་སྙིང་རྗེ་རྗེ་སྐད་དུ་སྨྲེ་སྔགས་འདོན་ཏོ། །ལྷའི་དབང་པོ་བརྒྱ་བྱིན་གྱིས་ལྷའི་བུ་དེ་ཤིན་ཏུ་ས་ལ་འགྲེ་ལྡོག་ཅིང་སྙིང་རྗེ་རྗེ་སྐད་དུ་སྨྲེ་སྔགས་འདོན་པ་མཐོང་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Śakra, lord of the gods, saw that god violently writhing about on the ground and wailing pitifully.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-18">
+            <prop type="location-id">UT22084-075-003-58</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>མཐོང་ནས་ཀྱང་ལྷའི་བུ་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས་ལྷའི་བུ་དེ་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ། །གྲོགས་པོ་ཁྱོད་ཅིའི་ཕྱིར་ཤིན་ཏུ་ས་ལ་འགྲེ་ལྡོག་ཅིང་སྙིང་རྗེ་རྗེ་སྐད་དུ་སྨྲེ་སྔགས་འདོན་ཏེ། ཀྱི་ཧུད་དལ་གྱིས་འབབ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Seeing this, he then approached the god and asked him, ‘My friend, why are you violently writhing about on the ground and wailing pitifully,  “Ah Mandākinī River!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-19">
+            <prop type="location-id">UT22084-075-003-58</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀྱི་ཧུད་རྫིང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ah lake!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-20">
+            <prop type="location-id">UT22084-075-003-58</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀྱི་ཧུད་རྫིང་བུ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ah pool!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-21">
+            <prop type="location-id">UT22084-075-003-58</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀྱི་ཧུད་ཤིང་རྟ་སྣ་ཚོགས་ཅན་གྱི་ཚལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ah Caitraratha Grove!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-22">
+            <prop type="location-id">UT22084-075-003-58</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀྱི་ཧུད་རྩུབ་འགྱུར་གྱི་ཚལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ah Pāruṣyaka Grove!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-23">
+            <prop type="location-id">UT22084-075-003-58</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀྱི་ཧུད་དགའ་བའི་ཚལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ah Nandana Grove!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-24">
+            <prop type="location-id">UT22084-075-003-58</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀྱི་ཧུད་འདྲེས་པའི་ཚལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ah Miśrakā Grove!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-25">
+            <prop type="location-id">UT22084-075-003-58</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀྱི་ཧུད་ཡོངས་འདུ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ah Pāriyātraka!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-26">
+            <prop type="location-id">UT22084-075-003-58</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀྱི་ཧུད་སྡུག་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ah lovely one!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-27">
+            <prop type="location-id">UT22084-075-003-58</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀྱི་ཧུད་ཨར་མོ་ནིག་ལྟ་བུའི་རྡོ་ལེབ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ah Pāṇḍukambala Rock!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-28">
+            <prop type="location-id">UT22084-075-003-58</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀྱི་ཧུད་ལྷའི་འདུན་ས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ah assembly hall of the gods! Ah Sudarśana!”?’</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-29">
+            <prop type="location-id">UT22084-075-003-60</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀྱི་ཧུད་བལྟ་ན་སྡུག་པ་ཞེས་སྙིང་རྗེ་རྗེ་སྐད་དུ་སྨྲེ་སྔགས་འདོན་པར་བྱེད། དེ་སྐད་ཅེས་སྨྲས་པ་དང་། ལྷའི་དབང་པོ་བརྒྱ་བྱིན་ལ་ལྷའི་བུ་དེས་འདི་སྐད་ཅེས་སྨྲས་སོ། །ཀཽ་ཤི་ཀ་བདག་ནི་འདིར་ལྷའི་བདེ་བ་དང་བྲལ་ཏེ་ཞག་བདུན་ན་འདི་ནས་རྒྱལ་པོའི་ཁབ་ཀྱི་གྲོང་ཁྱེར་ཆེན་པོར་ཕག་མོའི་མངལ་དུ་སྐྱེ་བར་འགྱུར་ཏེ། བདག་ནི་དེར་ལོ་མང་པོ་ཞིག་ཏུ་ཕྱི་ས་དང་གཅིན་འཚལ་བར་འགྱུར་བས་དེའི་སླད་དུ་བདག་དེ་སྐད་མཆིའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“At this, the god said to Śakra, lord of the gods, ‘Kauśika, I will be bereft of heavenly bliss, as seven days from now I will be reborn in the womb of a sow in the city of Rājagṛha. I will then have to feed on excrement and urine for many years. That is why I am like this.’</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-30">
+            <prop type="location-id">UT22084-075-003-64</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གྲོགས་པོ་ཚུར་ཤོག །ཁྱོད་རྐང་གཉིས་རྣམས་ཀྱི་མཆོག་སངས་རྒྱས་ལ་སྐྱབས་སུ་སོང་ཤིག །འདོད་ཆགས་དང་བྲལ་བ་རྣམས་ཀྱི་མཆོག་ཆོས་ལ་སྐྱབས་སུ་སོང་ཤིག །ཚོགས་རྣམས་ཀྱི་མཆོག་དགེ་འདུན་ལ་སྐྱབས་སུ་སོང་ཤིག །དེས་འདི་སྐད་ཅེས་སྨྲས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Śakra, lord of the gods, out of compassion then said to that god, ‘Come, my friend.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-31">
+            <prop type="location-id">UT22084-075-003-64</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གྲོགས་པོ་བདག་ནི་རྐང་གཉིས་རྣམས་ཀྱི་མཆོག་སངས་རྒྱས་ལ་སྐྱབས་སུ་མཆིའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Take refuge in the Buddha, the most excellent of human beings.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-32">
+            <prop type="location-id">UT22084-075-003-64</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདོད་ཆགས་དང་བྲལ་བ་རྣམས་ཀྱི་མཆོག་ཆོས་ལ་སྐྱབས་སུ་མཆིའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Take refuge in the Dharma, the most excellent of dispassions.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-33">
+            <prop type="location-id">UT22084-075-003-64</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཚོགས་རྣམས་ཀྱི་མཆོག་དགེ་འདུན་ལ་སྐྱབས་སུ་མཆིའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Take refuge in the Saṅgha, the most excellent of communities.’ “The god said, ‘Friend, I take refuge in the Buddha, the most excellent of human beings. I take refuge in the Dharma, the most excellent of dispassions. I take refuge in the Saṅgha, the most excellent of communities.’</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-34">
+            <prop type="location-id">UT22084-075-003-69</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་ལྷའི་བུ་དེས་སྐྱབས་གསུམ་བཟུང་སྟེ་འཆི་འཕོའི་དུས་བྱས་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Having embraced the Three Refuges, the god then passed away, his time spent, and he was reborn among the Tuṣita gods.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-35">
+            <prop type="location-id">UT22084-075-003-71</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དགའ་ལྡན་གྱི་ལྷའི་རིས་སུ་སྐྱེས་སོ། །དེ་ནས་ལྷའི་དབང་པོ་བརྒྱ་བྱིན་གྱིས་ལྷའི་བུ་དེ་བལྟས་པ་ཅི་ལྷའི་བུ་དེ་ཕག་མོའི་མངལ་དུ་སྐྱེས་སམ་མ་སྐྱེས་ཞེས་བལྟས་ན་ཡང་མ་སྐྱེས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Then Śakra, lord of the gods, looked whether the god had been reborn in the womb of a sow, but he had not been reborn there.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-36">
+            <prop type="location-id">UT22084-075-003-71</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>སེམས་ཅན་དམྱལ་བ་དང་། དུད་འགྲོའི་སྐྱེ་གནས་སུ་སྐྱེས་སམ་མ་སྐྱེས་ཞེས་བལྟས་ན་ཡང་མ་སྐྱེས་ཏེ། ལྷ་རྣམས་ནི་ཆོས་ཉིད་ཀྱིས་འོག་མ་ལ་ཤེས་པ་དང་མཐོང་བ་འཇུག་གི་གོང་མ་ལ་ནི་མ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>He looked whether the god had been reborn among hell beings or among animals, but he had not been reborn there either. For it is in the nature of things that gods can know and see what is below them, but not what is above them.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-37">
+            <prop type="location-id">UT22084-075-003-74</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་ལྷའི་དབང་པོ་བརྒྱ་བྱིན་ཐེ་ཙོམ་སྐྱེས་ནས་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས་བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ་ཕྱོགས་གཅིག་ཏུ་འདུག་གོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Puzzled, Śakra, lord of the gods, then went to the Blessed One. Having approached him, he prostrated at the Blessed One’s feet and sat down to one side.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-38">
+            <prop type="location-id">UT22084-075-003-74</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཕྱོགས་གཅིག་ཏུ་འདུག་ནས་ཀྱང་ལྷའི་དབང་པོ་བརྒྱ་བྱིན་གྱིས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Once seated, Śakra, lord of the gods, said to the Blessed One:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-39">
+            <prop type="location-id">UT22084-075-003-76</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་བདག་གིས་འདི་ན་ལྷའི་བུ་ཞིག་འཆི་འཕོའི་ཆོས་བྱུང་ནས་དོགས་ལ་འགྲེ་ལྡོག་ཅིང་སྙིང་རྗེ་རྗེ་སྐད་དུ་སྨྲེ་སྔགས་འདོན་ཏེ། ཀྱི་ཧུད་དལ་གྱིས་འབབ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>‘Lord, I saw a certain god who was due to pass away, and he was writhing about in fear and wailing pitifully, “Ah Mandākinī River!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-40">
+            <prop type="location-id">UT22084-075-003-76</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀྱི་ཧུད་རྫིང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ah lake!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-41">
+            <prop type="location-id">UT22084-075-003-76</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀྱི་ཧུད་རྫིང་བུ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ah pool!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-42">
+            <prop type="location-id">UT22084-075-003-76</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀྱི་ཧུད་ཤིང་རྟ་སྣ་ཚོགས་ཅན་གྱི་ཚལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ah Caitraratha Grove!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-43">
+            <prop type="location-id">UT22084-075-003-76</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀྱི་ཧུད་རྩུབ་འགྱུར་གྱི་ཚལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ah Pāruṣyaka Grove!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-44">
+            <prop type="location-id">UT22084-075-003-76</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀྱི་ཧུད་དགའ་བའི་ཚལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ah Nandana Grove!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-45">
+            <prop type="location-id">UT22084-075-003-76</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀྱི་ཧུད་འདྲེས་པའི་ཚལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ah Miśrakā Grove!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-46">
+            <prop type="location-id">UT22084-075-003-76</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀྱི་ཧུད་ཡོངས་འདུ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ah Pāriyātraka!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-47">
+            <prop type="location-id">UT22084-075-003-76</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀྱི་ཧུད་སྡུག་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ah lovely one!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-48">
+            <prop type="location-id">UT22084-075-003-76</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀྱི་ཧུད་ཨར་མོ་ནིག་ལྟ་བུའི་རྡོ་ལེབ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ah Pāṇḍukambala Rock!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-49">
+            <prop type="location-id">UT22084-075-003-76</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀྱི་ཧུད་ལྷའི་འདུན་ས། ཀྱི་ཧུད་བལྟ་ན་སྡུག་པ་ཞེས་སྙིང་རྗེ་རྗེ་སྐད་དུ་སྨྲེ་སྔགས་འདོན་པ་མཐོང་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ah assembly hall of the gods!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-50">
+            <prop type="location-id">UT22084-075-003-76</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བདག་དེར་མཆིས་ནས་འདི་སྐད་ཅེས་བགྱིས་སོ། །གྲོགས་པོ་ཁྱོད་ཅིའི་ཕྱིར་བྲང་རྡུང་ཞིང་ངུ་ལ་མྱ་ངན་བྱེད་དེ། ངུ་ཞིང་སྨྲེ་སྔགས་འདོན། དེས་སྨྲས་པ། བདག་ནི་འདིར་ལྷའི་བདེ་བ་དང་བྲལ་ཏེ་ཞག་བདུན་ན་འདི་ནས་རྒྱལ་པོའི་ཁབ་ཀྱི་གྲོང་ཁྱེར་ཆེན་པོར་ཕག་མོའི་མངལ་དུ་སྐྱེ་བར་འགྱུར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ah Sudarśana!” I went to him and said, “My friend, why are you beating your chest and crying, lamenting, and wailing?” He said, “ I will be bereft of heavenly bliss, as seven days from now I will be born in the womb of a sow in the city of Rājagṛha.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-51">
+            <prop type="location-id">UT22084-075-003-76</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བདག་ནི་དེར་ལོ་མང་པོ་ཞིག་ཏུ་ཕྱི་ས་དང་གཅིན་འཚལ་བར་འགྱུར་བས་དེའི་སླད་དུ་བདག་དེ་སྐད་མཆིའོ། །གྲོགས་པོ་ཚུར་ཤོག །ཁྱོད་རྐང་གཉིས་རྣམས་ཀྱི་མཆོག་སངས་རྒྱས་ལ་སྐྱབས་སུ་སོང་ཤིག །འདོད་ཆགས་དང་བྲལ་བ་རྣམས་ཀྱི་མཆོག་ཆོས་ལ་སྐྱབས་སུ་སོང་ཤིག །ཚོགས་རྣམས་ཀྱི་མཆོག་དགེ་འདུན་ལ་སྐྱབས་སུ་སོང་ཤིག །དེ་ནས་ལྷའི་བུ་དེ་དུད་འགྲོའི་སྐྱེ་གནས་ཀྱིས་འཇིགས་ཤིང་སྐྲག །འཆི་བས་འཇིགས་ཤིང་སྐྲག་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>I will then have to feed on excrement and urine for many years.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-52">
+            <prop type="location-id">UT22084-075-003-76</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་འདི་སྐད་ཅེས་མཆིའོ། །གྲོགས་པོ་བདག་ནི་འདི་ལྟར་རྐང་གཉིས་རྣམས་ཀྱི་མཆོག་སངས་རྒྱས་ལ་སྐྱབས་སུ་མཆིའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>That is why I am like this.” I said to him, “Come, my friend. Take refuge in the Buddha, the most excellent of human beings.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-53">
+            <prop type="location-id">UT22084-075-003-76</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདོད་ཆགས་དང་བྲལ་བ་རྣམས་ཀྱི་མཆོག་ཆོས་ལ་སྐྱབས་སུ་མཆིའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Take refuge in the Dharma, the most excellent of dispassions. Take refuge in the Saṅgha, the most excellent of communities.” Terrified of being born in the womb of an animal and terrified of dying, that god then said, “Friend, I take refuge in the Buddha, the most excellent of human beings.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-54">
+            <prop type="location-id">UT22084-075-003-76</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཚོགས་རྣམས་ཀྱི་མཆོག་དགེ་འདུན་ལ་སྐྱབས་སུ་མཆིའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>I take refuge in the Dharma, the most excellent of dispassions.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-55">
+            <prop type="location-id">UT22084-075-003-76</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་ལྷའི་བུ་དེས་སྐྱབས་གསུམ་བཟུང་ནས་འཆི་འཕོའི་དུས་བགྱིས་པ་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>I take refuge in the Saṅgha, the most excellent of communities.” Having embraced the Three Refuges, that god then passed away, his time spent.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-56">
+            <prop type="location-id">UT22084-075-003-76</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་གང་དུ་སྐྱེས་ལགས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Lord, where was he reborn?’</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-57">
+            <prop type="location-id">UT22084-075-003-84</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། ཀཽ་ཤི་ཀ་ལྷའི་བུ་དེ་ནི་དགའ་ལྡན་ལྷའི་རིས་དེར་སྐྱེས་ཏེ། ལྷའི་འདོད་པ་ཐམས་ཅད་ཀྱང་ཕུན་སུམ་ཚོགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“The Blessed One replied, ‘Kauśika, that god was reborn among the Tuṣita gods, and all his heavenly desires are fulfilled.’</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-58">
+            <prop type="location-id">UT22084-075-003-86</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་ལྷའི་དབང་པོ་བརྒྱ་བྱིན་ཚིམ་ཞིང་མགུ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Then Śakra, lord of the gods, was glad and content.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-59">
+            <prop type="location-id">UT22084-075-003-86</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>རབ་ཏུ་དགའ་ནས་དགའ་བ་དང་ཡིད་བདེ་བ་སྐྱེས་ཏེ། དབང་པོ་ཚིམ་ནས་དེའི་ཚེ་ཚིགས་སུ་བཅད་དེ་གསོལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Being delighted, joy and happiness arose, and Indra, glad at heart, on that occasion spoke these verses:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-60">
+            <prop type="location-id">UT22084-075-003-87</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>གང་དག་སངས་རྒྱས་སྐྱབས་མཆི་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>‘Those who take refuge in the Buddha</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-61">
+            <prop type="location-id">UT22084-075-003-87</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་དག་ངན་འགྲོར་མི་མཆི་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Do not go to an unfortunate state.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-62">
+            <prop type="location-id">UT22084-075-003-87</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མི་ཡི་ལུས་རྣམས་སྤངས་ནས་སུ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Leaving behind the human body,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-63">
+            <prop type="location-id">UT22084-075-003-87</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་དག་ལྷ་ལུས་ཐོབ་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They obtain a divine body.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-64">
+            <prop type="location-id">UT22084-075-003-89</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་དག་ཆོས་ལ་སྐྱབས་མཆི་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“ ‘Those who take refuge in the Dharma</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-65">
+            <prop type="location-id">UT22084-075-003-89</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་དག་ངན་འགྲོར་མི་མཆི་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Do not go to an unfortunate state.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-66">
+            <prop type="location-id">UT22084-075-003-89</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མི་ཡི་ལུས་རྣམས་སྤངས་ནས་སུ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Leaving behind the human body,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-67">
+            <prop type="location-id">UT22084-075-003-89</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་དག་ལྷ་ལུས་ཐོབ་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They obtain a divine body.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-68">
+            <prop type="location-id">UT22084-075-003-90</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་དག་དགེ་འདུན་སྐྱབས་མཆི་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“ ‘Those who take refuge in the Saṅgha</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-69">
+            <prop type="location-id">UT22084-075-003-90</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་དག་ངན་འགྲོར་མི་མཆི་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Do not go to an unfortunate state.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-70">
+            <prop type="location-id">UT22084-075-003-90</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མི་ཡི་ལུས་རྣམས་སྤངས་ནས་སུ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Leaving behind the human body,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-71">
+            <prop type="location-id">UT22084-075-003-90</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་དག་ལྷ་ལུས་ཐོབ་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They obtain a divine body. “ ‘There is great gain for those people Who have taken refuge in the Buddha, Who call to mind the Buddha</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-72">
+            <prop type="location-id">UT22084-075-003-90</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་དག་ཉིན་མཚན་རྟག་པར་ཡང་། །སངས་རྒྱས་རྗེས་སུ་དྲན་པ་དང་། །གང་དག་སངས་རྒྱས་སྐྱབས་མཆིས་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>At all times, day and night.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-73">
+            <prop type="location-id">UT22084-075-003-92</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མི་དེ་དག་གི་རྙེད་པ་ཆེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“ ‘There is great gain for those people Who have taken refuge in the Dharma, Who call to mind the Dharma</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-74">
+            <prop type="location-id">UT22084-075-003-92</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་དག་ཉིན་མཚན་རྟག་པར་ཡང་། །ཆོས་ནི་རྗེས་སུ་དྲན་པ་དང་། །གང་དག་ཆོས་ལ་སྐྱབས་མཆིས་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>At all times, day and night.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-75">
+            <prop type="location-id">UT22084-075-003-93</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མི་དེ་དག་གི་རྙེད་པ་ཆེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“ ‘There is great gain for those people Who have taken refuge in the Saṅgha, Who call to mind the Saṅgha</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-76">
+            <prop type="location-id">UT22084-075-003-93</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་དག་ཉིན་མཚན་རྟག་པར་ཡང་། །དགེ་འདུན་རྗེས་སུ་དྲན་པ་དང་། །གང་དག་དགེ་འདུན་སྐྱབས་མཆིས་པ། །མི་དེ་དག་གི་རྙེད་པ་ཆེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>At all times, day and night.’</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-77">
+            <prop type="location-id">UT22084-075-003-95</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ལྷའི་དབང་པོ་བརྒྱ་བྱིན་གྱི་རྗེས་སུ་འཐུན་པར་བརྗོད་པའི་ཚིགས་སུ་བཅད་པ་བཀའ་སྩལ་པ། ཀཽ་ཤི་ཀ་དེ་དེ་བཞིན་ཏེ། དེ་དེ་བཞིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Thereupon, in approval of Śakra, lord of the gods, the Blessed One spoke the verses, ‘So it is, Kauśika, so it is:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-78">
+            <prop type="location-id">UT22084-075-003-97</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་དག་སངས་རྒྱས་སྐྱབས་དོང་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>‘Those who take refuge in the Buddha</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-79">
+            <prop type="location-id">UT22084-075-003-97</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་དག་ངན་འགྲོར་མི་འགྲོ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Do not go to an unfortunate state.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-80">
+            <prop type="location-id">UT22084-075-003-97</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མི་ཡི་ལུས་རྣམས་སྤངས་ནས་སུ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Leaving behind the human body,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-81">
+            <prop type="location-id">UT22084-075-003-97</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་དག་ལྷ་ལུས་ཐོབ་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They obtain a divine body.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-82">
+            <prop type="location-id">UT22084-075-003-98</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་དག་ཆོས་ལ་སྐྱབས་དོང་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“ ‘Those who take refuge in the Dharma</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-83">
+            <prop type="location-id">UT22084-075-003-98</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་དག་ངན་འགྲོར་མི་འགྲོ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Do not go to an unfortunate state.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-84">
+            <prop type="location-id">UT22084-075-003-98</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མི་ཡི་ལུས་རྣམས་སྤངས་ནས་སུ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Leaving behind the human body,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-85">
+            <prop type="location-id">UT22084-075-003-98</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་དག་ལྷ་ལུས་ཐོབ་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They obtain a divine body.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-86">
+            <prop type="location-id">UT22084-075-003-99</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་དག་དགེ་འདུན་སྐྱབས་དོང་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“ ‘Those who take refuge in the Saṅgha</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-87">
+            <prop type="location-id">UT22084-075-003-99</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་དག་ངན་འགྲོར་མི་འགྲོ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Do not go to an unfortunate state.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-88">
+            <prop type="location-id">UT22084-075-003-99</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མི་ཡི་ལུས་རྣམས་སྤངས་ནས་སུ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Leaving behind the human body,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-89">
+            <prop type="location-id">UT22084-075-003-99</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་དག་ལྷ་ལུས་ཐོབ་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They obtain a divine body.’</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-90">
+            <prop type="location-id">UT22084-075-003-101</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་ལྷའི་དབང་པོ་བརྒྱ་བྱིན་བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་དགའ་ནས་བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ། བཅོམ་ལྡན་འདས་ལ་ལག་པ་ཐལ་མོ་སྦྱར་ནས་ལན་གསུམ་བསྐོར་བ་བྱས་ཏེ། དེ་ཉིད་དུ་མི་སྣང་བར་གྱུར་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Then, rejoicing in what the Blessed One had spoken, Śakra, lord of the gods, prostrated at the Blessed One’s feet, circumambulated the Blessed One three times with folded hands, and disappeared right there.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-91">
+            <prop type="location-id">UT22084-075-003-102</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས་དགེ་སློང་དེ་དག་ཡི་རངས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>This is what the Blessed One said.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-92">
+            <prop type="location-id">UT22084-075-003-102</prop>
+            <prop type="revision">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Elated, the monks rejoiced at what the Blessed One had spoken.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-93">
+            <prop type="unmatched">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཕག་མོའི་རྟོགས་པ་བརྗོད་པའི་མདོ་རྫོགས་སོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>This concludes the sūtra called “The Magnificent Account About a Sow.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-075-003-TU-94">
+            <prop type="unmatched">v-1.0.12-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།།རྒྱ་གར་གྱི་མཁན་པོ་ཛི་ན་མི་ཏྲ་དང་། ཞུ་ཆེན་གྱི་ལོཙྪ་བ་བན་དེ་ཡེ་ཤེས་སྡེས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།། །།སརྦ་ཤུ་བྷཾ་བྷ་བནྟུ།།</seg>
+            </tuv>
+          <tuv xml:lang="en">
+                <seg>Translated, edited, and finalized by the Indian preceptor Jinamitra and the chief editor and translator, Venerable Yeshé Dé.</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

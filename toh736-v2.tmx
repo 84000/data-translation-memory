@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+	<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-094-013" eft:text-version="v-1.1.2-2020"/>
+<body>
+<tu>
+            <prop type="folio">F.228.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཕགས་མ་རི་ཁྲོད་ལོ་མ་གྱོན་མ་ཞེས་བྱ་བའི་གཟུངས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Noble Dhāraṇī of Parṇaśavarī</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.228.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཕགས་མ་རི་ཁྲོད་ལོ་མ་གྱོན་མ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-013-18"/>Homage to the noble Parṇaśavarī.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.228.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-013-67"/>Homage to the Three Jewels.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.228.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་དཔག་ཏུ་མེད་པ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Homage to the thus-gone, worthy, perfect buddha, the blessed Amitābha.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.228.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ཐུགས་རྗེ་ཆེན་པོ་དང་ལྡན་པ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Homage to the bodhisattva great being, the deeply compassionate and noble Avalokiteśvara.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.228.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་མཐུ་ཆེན་པོ་ཐོབ་པ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Homage to the bodhisattva great being Mahāsthāmaprāpta.<tei:note xml:id="UT22084-094-013-20"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.228.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མ་མིའུ་ཐུང་ཤ་ཟ་མོ་རི་ཁྲོད་ལོ་མ་གྱོན་མ་དགྲ་སྟ་དང་ཞགས་པ་འཛིན་མ་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-013-19"/>Homage to you, blessed Parṇaśavarī, dwarfish piśācī who wields an axe and a noose.<tei:note xml:id="UT22084-094-013-22"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.228.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཇིགས་པ་གང་དག་ཅི་བྱུང་བ་དེ་དག་ཐམས་ཅད་དང་ཡམས་ཀྱི་ནད་གང་ཅི་འབྱུང་ཡང་རུང་བ་དང་། འཆི་བྱེད་གང་དག་ཅི་ཡང་རུང་བ་དང་། འཆི་བྱེད་ཆེན་པོ་གང་དག་ཅི་ཡང་རུང་བ་དང་། གནོད་པ་གང་དག་ཅི་ཡང་རུང་བ་དང་། འཁྲུག་པ་གང་དག་ཅི་ཡང་རུང་བ་དང་། ཁོང་དུ་གནོད་པ་གང་དག་ཅི་ཡང་རུང་བ་དང་། གང་དག་ཅི་བྱུང་པ་དེ་དག་ཐམས་ཅད་ནི་བྱིས་པ་ཁོ་ན་ལ་འབྱུང་གི་མཁས་པ་ལ་ནི་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-013-23"/>Whatever fears may arise, every plague, pestilence, and pandemic, all calamities and conflicts, and all personal anxieties<tei:note xml:id="UT22084-094-013-24"/> affect only the foolish, not the wise.<tei:note xml:id="UT22084-094-013-25"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.228.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བདེན་པ་དང་བདེན་པའི་ཚིག་དང་། བདེན་པའི་ངག་གིས་སོང་ཤིག །དེངས་ཤིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-013-68"/>May truth, words of truth, and true speech send them away and dispel them!<tei:note xml:id="UT22084-094-013-27"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.228.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མཁས་པས་བྱིན་གྱིས་བརླབས་པའི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་གིས་བདག་དང་སེམས་ཅན་ཐམས་ཅད་ལ་བསྲུང་བར་མཛོད་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May these words of mantra empowered by the wise guard me and all beings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.228.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡོངས་སུ་བསྐྱབ་པར་མཛོད་ཅིག །ཡོངས་སུ་གཟུང་བར་མཛོད་ཅིག །ཡོངས་སུ་བསྐྱང་བར་མཛོད་ཅིག །ཞི་བ་དང་བདེ་ལེགས་སུ་མཛོད་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May they protect us, keep us secure, defend us, and bring us peace and good fortune.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.228.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆད་པ་སྤང་བར་མཛོད་ཅིག །མཚོན་ཆ་སྤང་པར་མཛོད་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May they protect us from punishment and weapons.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.228.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རི་སྲིད་དུག་གཞོམ་པའི་བར་དུ་མཛོད་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May they neutralize all poisons.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.228.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མེའི་གནོད་པ་སྤང་བར་མཛོད་ཅིག །ཆུའི་གནོད་པ་སྤང་བར་མཛོད་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May they protect from the dangers of fire and the dangers of water.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.228.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་སྟེམས་གཅད་པར་མཛོད་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May they cut down kākhordas.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.228.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མཚམས་བཅིང་བར་མཛོད་ཅིག །ས་གཞི་བཅིང་བར་མཛོད་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May they establish the protective boundary and bind the earth.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.229.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཏདྱ་ཐཱ། ཨ་མྲྀ་ཏེ་ཨ་མྲྀ་ཏེ། ཨ་མྲྀ་ཏ་ཨུད་བྷ་བེ། <tei:ref folio="F.229.a"/>ཨ་མྲྀ་ཏ་སཾ་བྷ་བེ། ཨཱ་ཤྭ་སྟེ། ཨཱ་ཤྭ་སྟཾ་གེ །མཱ་མ་ར་མཱ་མ་ར། མཱ་ས་ར་མཱ་ས་ར་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-013-28"/>The dhāraṇī is: amṛte amṛte amṛtodbhave amṛta­sambhave āśvaste āśvastāṅge mā mara mā mara mā sara mā sara.<tei:note xml:id="UT22084-094-013-29"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.229.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཞི་བར་མཛོད། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Grant peace!<tei:note xml:id="UT22084-094-013-30"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.229.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ནད་ཐམས་ཅད་ཉེ་བར་མཛོད། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Pacify every illness!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.229.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དུས་མ་ཡིན་པར་འཆི་བ་ཐམས་ཅད་ཉེ་བར་ཞི་བར་མཛོད། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Bring an end to all kinds of untimely death!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.229.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཟའ་དང་རྒྱུ་སྐར་གྱི་ཉེས་པ་ཐམས་ཅད་ཉེ་བར་ཞི་བར་མཛོད། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Pacify all evil influences from the planets and stars!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.229.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མཆེ་བའི་དུག་ཐམས་ཅད་ཉེ་བར་ཞི་བར་མཛོད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Pacify all venom!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.229.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མ་རི་ཁྲོད་ལོ་མ་ཅན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>O Blessed Parṇaśavarī!<tei:note xml:id="UT22084-094-013-31"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.229.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཏུནྣ་ཏུནྣ། བི་ཏུནྣ་བི་ཏུནྣ། ཏུ་ཎ་ཏུ་ཎ། ཏུ་མུ་ལེ་སྭཱ་ཧཱ། ཨོཾ་གཽ་རེ། གན་དྷཱ་རི། ཙཎྜཱ་ལི། མཱ་ཏཾ་གི །པུཀྐ་སི་སྭཱ་ཧཱ། ཨོཾ་ཨཾ་ཀུ་རེ། མཱཾ་ཀུ་རེ། ཀུ་ར་རེ། པརྞྞ་ཤ་བ་རི་སྭཱ་ཧཱ། ན་མཿསརྦ་ཤ་བ་རཱི་ཎཱཾ། མ་ཧཱ་ཤ་བ་རཱི་ཎཱཾ། བྷ་ག་བ་ཏི་པི་ཤཱ་ཙེ། པརྞྞ་ཤ་བ་རི་པི་ཤཱ་ཙི་སྭཱ་ཧཱ། ཨོཾ་པི་ཤཱ་ཙི་པརྞྞ་ཤ་བ་རི་ཧྲཱིཿཛཿཧཱུཾ་ཕཊ་པི་ཤཱ་ཙི་སྭཱ་ཧཱ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>tunna tunna vitunna vitunna tuṇa tuṇa tumule svāhā. oṃ gauri gāndhāri caṇḍāli mātaṅgi pukkasi svāhā. oṃ aṅkure māṅkure kurare parṇa­śavari svāhā. namas sarva­śavarīṇām mahā­śavarīṇām<tei:note xml:id="UT22084-094-013-32"/> bhagavati piśāci parṇa­śavari piśāci svāhā. oṃ piśāci parṇaśavari hrīḥ jaḥ hūṃ phaṭ piśāci svāhā.<tei:note xml:id="UT22084-094-013-33"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.229.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཕགས་མ་རི་ཁྲོད་མ་ལོ་མ་གྱོན་མའི་གཟུངས་རྫོགས་སོ།། །།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-013-34"/>“The Noble Dhāraṇī of Parṇaśavarī” is complete.<tei:note xml:id="UT22084-094-013-35"/>
+                </seg>
+            </tuv>
+</tu>
+</body>
+</tmx>

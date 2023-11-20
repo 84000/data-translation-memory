@@ -1,0 +1,1368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-044-001" eft:text-version="v-1.0.6-2023"/>
+<body>
+<tu id="UT22084-044-001-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.27.a"/>༄༅༅། །འཕགས་པ་དཀོན་མཆོག་བརྩེགས་པ་ཆེན་པོའི་ཆོས་ཀྱི་རྣམ་གྲངས་ལེའུ་སྟོང་ཕྲག་བརྒྱ་པ་ལས་ལེའུ་སུམ་ཅུ་རྩ་བདུན་པ་སྟེ་འཕགས་པ་སེང་གེས་ཞུས་པ། ཤོ་ལོ་ཀ་དྲུག་ཅུ། རྒྱ་གར་སྐད་དུ། ཨཱརྱ་སིང་ཧ་པ་རི་པྲྀཙྪཱ་ནཱ་མ་མ་ཧཱ་ཡཱ་ན་སཱུ་ཏྲ། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་སེང་གེས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Noble Great Vehicle Sūtra Siṃha’s Questions</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-3">
+    <prop type="location-id">UT22084-044-001-26</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-26"/>Homage to all buddhas and bodhisattvas!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-4">
+    <prop type="location-id">UT22084-044-001-26</prop>
+    <tuv xml:lang="bo">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-5">
+    <prop type="location-id">UT22084-044-001-26</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་རྒྱལ་པོའི་ཁབ་ན་བྱ་རྒོད་ཀྱི་ཕུང་པོའི་རི་ལ་དགེ་སློང་སྟོང་ཉིས་བརྒྱ་ལྔ་བཅུའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ། བྱང་ཆུབ་སེམས་དཔའི་དགེ་འདུན་ཆེན་པོ་དང་ཡང་ཐབས་ཅིག་གོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One was dwelling in Rājagṛha on Vulture Peak, together with a great saṅgha of 1,250 monks and a great saṅgha of bodhisattvas.<tei:note xml:id="UT22084-044-001-28"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-6">
+    <prop type="location-id">UT22084-044-001-29</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཐམས་ཅད་མཁྱེན་ཅིང་ཐམས་ཅད་གཟིགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-29"/>Knowing all and seeing all,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-7">
+    <prop type="location-id">UT22084-044-001-29</prop>
+    <tuv xml:lang="bo">
+                <seg>།རྒྱལ་བ་གང་ཟག་མཚུངས་པ་མེད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Victorious One is a peerless being.<tei:note xml:id="UT22084-044-001-30"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-8">
+    <prop type="location-id">UT22084-044-001-29</prop>
+    <tuv xml:lang="bo">
+                <seg>།རྒྱལ་པོ་མ་སྐྱེས་དགྲ་ཡི་བུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The son<tei:note xml:id="UT22084-044-001-31"/> of King Ajātaśatru</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-9">
+    <prop type="location-id">UT22084-044-001-33</prop>
+    <tuv xml:lang="bo">
+                <seg>།སེང་གེ་ཞེས་ནི་གྲགས་པ་ཞིག །ཚོང་དཔོན་བུ་ཕོ་ལྔ་བརྒྱ་ཡིས། །མདུན་དུ་བདར་ཏེ་ལྷན་<tei:ref folio="F.27.b"/>ཅིག་ཏུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Was known as Siṃha.<tei:note xml:id="UT22084-044-001-32"/> {1}<tei:milestone xml:id="UT22084-044-001-33"/> Accompanied and attended By five hundred wealthy noblemen,<tei:note xml:id="UT22084-044-001-34"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-10">
+    <prop type="location-id">UT22084-044-001-33</prop>
+    <tuv xml:lang="bo">
+                <seg>།རྒྱལ་པོའི་ཁབ་ནས་དེ་བྱུང་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He departed from Rājagṛha</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-11">
+    <prop type="location-id">UT22084-044-001-36</prop>
+    <tuv xml:lang="bo">
+                <seg>།རྒྱལ་པོའི་འབྱོར་པ་ཆེན་པོ་ཡིས། །གསེར་ལས་བྱས་པའི་གདུགས་ཐོགས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With great royal grandeur.<tei:note xml:id="UT22084-044-001-35"/> {2}<tei:milestone xml:id="UT22084-044-001-36"/> Carrying golden parasols,<tei:note xml:id="UT22084-044-001-37"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-12">
+    <prop type="location-id">UT22084-044-001-36</prop>
+    <tuv xml:lang="bo">
+                <seg>།རྫོགས་སངས་རྒྱས་ཀྱི་གན་སོང་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They went before the perfect Buddha.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-13">
+    <prop type="location-id">UT22084-044-001-36</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Bowing their heads to the feet of the Buddha,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-14">
+    <prop type="location-id">UT22084-044-001-38</prop>
+    <tuv xml:lang="bo">
+                <seg>།ལྔ་བརྒྱ་པོ་ཡིས་གདུགས་དེ་དག །ཚང་བར་ཐུབ་པ་ཆེ་ལ་ཕུལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They offered the five hundred parasols. {3}<tei:milestone xml:id="UT22084-044-001-38"/> Offering these to the Great Sage,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-15">
+    <prop type="location-id">UT22084-044-001-38</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀུན་ཀྱང་བྱང་ཆུབ་དོན་དུ་ཞུགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>All of them set out for awakening.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-16">
+    <prop type="location-id">UT22084-044-001-38</prop>
+    <tuv xml:lang="bo">
+                <seg>།རྫོགས་སངས་རྒྱས་ཀྱི་མཐུ་ཡིས་ནི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>By the power of the perfect Buddha,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-17">
+    <prop type="location-id">UT22084-044-001-38</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་དག་མི་འཇིགས་སྐྱེས་གྱུར་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They became fearless.<tei:note xml:id="UT22084-044-001-39"/> {4}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-18">
+    <prop type="location-id">UT22084-044-001-40</prop>
+    <tuv xml:lang="bo">
+                <seg>།སེང་གེས་ཐལ་མོ་སྦྱར་བྱས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-40"/>Siṃha joined his palms in reverence</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-19">
+    <prop type="location-id">UT22084-044-001-40</prop>
+    <tuv xml:lang="bo">
+                <seg>།རྫོགས་སངས་རྒྱས་ལ་ཞུས་པ་ནི། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་གང་། །དེ་ནི་འདྲེན་པས་བདག་ལ་གསུངས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And asked the perfect Buddha, “Will the Guide<tei:note xml:id="UT22084-044-001-41"/> please explain to me The conduct of bodhisattvas? {5}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-20">
+    <prop type="location-id">UT22084-044-001-42</prop>
+    <tuv xml:lang="bo">
+                <seg>།གང་གིས་མཛེས་པར་འགྱུར་བ་ལགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-42"/>“How does one become beautiful?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-21">
+    <prop type="location-id">UT22084-044-001-42</prop>
+    <tuv xml:lang="bo">
+                <seg>།གང་གིས་རྫུས་ཏེ་སྐྱེ་བར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How does one take miraculous birth?<tei:note xml:id="UT22084-044-001-43"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-22">
+    <prop type="location-id">UT22084-044-001-42</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྐྱེ་བ་དྲན་པར་ཇི་ལྟར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How does one remember previous births?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-23">
+    <prop type="location-id">UT22084-044-001-42</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཐུབ་པ་ཆེན་པོས་ལུང་བསྟན་གསོལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Great Sage, please give your instruction.” {6}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-24">
+    <prop type="location-id">UT22084-044-001-44</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་དག་ལྷག་བསམ་ཡེ་ཤེས་ཀྱིས། །མཁྱེན་ནས་སངས་རྒྱས་ལུང་བསྟན་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-44"/>Knowing their pure intentions with his wisdom, The Buddha gave his instruction:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-25">
+    <prop type="location-id">UT22084-044-001-44</prop>
+    <tuv xml:lang="bo">
+                <seg>།བྱང་ཆུབ་སེམས་དཔའ་སྤྱོད་གང་ཞེས། །ཁྱོད་ཀྱི་དྲིས་པ་དེ་བསྟན་ཏོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>“I will give a teaching on what you have asked: The conduct of bodhisattvas.<tei:note xml:id="UT22084-044-001-46"/> {7}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-26">
+    <prop type="location-id">UT22084-044-001-47</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཟོད་པ་ཡིས་ནི་མཛེས་པར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-47"/>“One becomes beautiful through patience.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-27">
+    <prop type="location-id">UT22084-044-001-47</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཚངས་པར་སྤྱད་པས་རྫུས་ཏེ་སྐྱེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One takes miraculous birth by pure conduct.<tei:note xml:id="UT22084-044-001-48"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-28">
+    <prop type="location-id">UT22084-044-001-47</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཆོས་ཀྱི་སྦྱིན་པས་སྐྱེ་བ་དྲན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One recalls past lives by giving the Dharma.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-29">
+    <prop type="location-id">UT22084-044-001-50</prop>
+    <tuv xml:lang="bo">
+                <seg>།གཞོན་ནུ་དེ་ལྟར་ཤེས་པར་གྱིས། །གང་གིས་སུམ་ཅུ་རྩ་གཉིས་མཚན། །དཔེ་བྱད་བཟང་པོ་བརྒྱད་ཅུ་དང་། །གསེར་མདོག་འདྲ་བའི་ལུས་འགྱུར་ཞིང་། །དེ་མཐོང་སེམས་ཅན་དགའ་བར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Youth, know it to be thus!”<tei:note xml:id="UT22084-044-001-49"/> {8}<tei:milestone xml:id="UT22084-044-001-50"/> “How does one manifest The thirty-two marks, the eighty excellent signs, And a body radiant like gold<tei:note xml:id="UT22084-044-001-51"/> That delights beings upon seeing?” {9}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-30">
+    <prop type="location-id">UT22084-044-001-52</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྦྱིན་པ་ཀུན་གྱིས་མཚན་དུ་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-52"/>“The marks manifest through complete generosity.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-31">
+    <prop type="location-id">UT22084-044-001-52</prop>
+    <tuv xml:lang="bo">
+                <seg>།བྱམས་པས་དེ་བཞིན་དཔེ་བྱད་བཟང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Likewise, the excellent signs come to be through love.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-32">
+    <prop type="location-id">UT22084-044-001-52</prop>
+    <tuv xml:lang="bo">
+                <seg>།སེམས་ཅན་ཀུན་ལ་སེམས་མཉམ་པས། །རྒྱལ་བ་གསེར་གྱི་མདོག་འདྲར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The golden radiance of the victorious ones Manifests by having an attitude of equality toward all beings.”<tei:note xml:id="UT22084-044-001-53"/> {10}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-33">
+    <prop type="location-id">UT22084-044-001-54</prop>
+    <tuv xml:lang="bo">
+                <seg>།གཟུངས་ནི་གང་གིས་ཐོབ་པར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-54"/>“How is retention attained?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-34">
+    <prop type="location-id">UT22084-044-001-54</prop>
+    <tuv xml:lang="bo">
+                <seg>།གང་གིས་ཏིང་འཛིན་སྐྱེ་འགྱུར་ལགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How does absorption arise?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-35">
+    <prop type="location-id">UT22084-044-001-54</prop>
+    <tuv xml:lang="bo">
+                <seg>།གཟུང་བའི་ཚིག་ཏུ་གང་གིས་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How do statements become acceptable?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-36">
+    <prop type="location-id">UT22084-044-001-54</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཐུབ་པ་ཆེན་པོས་ལུང་བསྟན་གསོལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Great Sage, please give your teaching!”<tei:note xml:id="UT22084-044-001-55"/> {11}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-37">
+    <prop type="location-id">UT22084-044-001-56</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཆོས་ལ་བཟོད་པས་གཟུངས་རྣམས་འཐོབ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-56"/>“Retention is attained through receptivity to the Dharma.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-38">
+    <prop type="location-id">UT22084-044-001-56</prop>
+    <tuv xml:lang="bo">
+                <seg>།སེམས་བསྒོམས་པས་ནི་ཏིང་འཛིན་སྐྱེ། །ཀྱལ་བའི་ཚིག་རྣམས་སྤང་བྱས་ན། །གཟུང་བར་འོས་པའི་ཚིག་ཏུ་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Absorption arises by training the mind. Statements become acceptable When one abandons senseless talk.”<tei:note xml:id="UT22084-044-001-57"/> {12}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-39">
+    <prop type="location-id">UT22084-044-001-58</prop>
+    <tuv xml:lang="bo">
+                <seg>།དྲན་དང་ལྡན་པར་ཇི་ལྟར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-58"/>“How does one become mindful?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-40">
+    <prop type="location-id">UT22084-044-001-58</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཐུབ་པ་ཇི་ལྟར་བློ་གྲོས་ལྡན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>O Sage,<tei:note xml:id="UT22084-044-001-59"/> how does one become intelligent?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-41">
+    <prop type="location-id">UT22084-044-001-58</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཇི་ལྟར་ཆོས་སྤྱོད་འགྱུར་<tei:ref folio="F.28.a"/>བ་ལགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How does one come to act according to the Dharma?<tei:note xml:id="UT22084-044-001-60"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-42">
+    <prop type="location-id">UT22084-044-001-58</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྐྱེས་བུ་དམ་པ་མཁས་ཅིས་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>O Holy Being,<tei:note xml:id="UT22084-044-001-61"/> how does one become wise?”<tei:note xml:id="UT22084-044-001-62"/> {13}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-43">
+    <prop type="location-id">UT22084-044-001-63</prop>
+    <tuv xml:lang="bo">
+                <seg>།གཡོ་མེད་པས་ནི་དྲན་ལྡན་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-63"/>“One comes to possess mindfulness by being undeceiving.<tei:note xml:id="UT22084-044-001-64"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-44">
+    <prop type="location-id">UT22084-044-001-63</prop>
+    <tuv xml:lang="bo">
+                <seg>།དོན་ལ་སེམས་པས་བློ་གྲོས་ལྡན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One becomes intelligent by contemplating meaning.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-45">
+    <prop type="location-id">UT22084-044-001-63</prop>
+    <tuv xml:lang="bo">
+                <seg>།གུས་དང་བཅས་པས་ཆོས་སྤྱོད་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One comes to act according to the Dharma<tei:note xml:id="UT22084-044-001-65"/> by having reverence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-46">
+    <prop type="location-id">UT22084-044-001-63</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཆོས་ཀྱི་མཚན་ཉིད་རྟོགས་པས་མཁས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One becomes wise by knowing the characteristics of phenomena.”<tei:note xml:id="UT22084-044-001-66"/> {14}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-47">
+    <prop type="location-id">UT22084-044-001-67</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་མགོན་པོའི་སྤྱན་སྔར་ནི། །ལས་གང་གིས་ནི་སྐྱེ་བར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-67"/>“By what action is a bodhisattva<tei:note xml:id="UT22084-044-001-68"/> born In the presence of the guardians of the world?<tei:note xml:id="UT22084-044-001-69"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-48">
+    <prop type="location-id">UT22084-044-001-67</prop>
+    <tuv xml:lang="bo">
+                <seg>།འཇིག་རྟེན་མགོན་གྱི་མངོན་སུམ་དུ། །ཞུ་བ་ཞུ་བར་ཇི་ལྟར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How do they come to ask questions Directly<tei:note xml:id="UT22084-044-001-70"/> before the guardians of the world?”<tei:note xml:id="UT22084-044-001-71"/> {15}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-49">
+    <prop type="location-id">UT22084-044-001-72</prop>
+    <tuv xml:lang="bo">
+                <seg>།གང་ཞིག་ཆོས་ཀྱི་སྦྱིན་པ་ལ། །ནམ་ཡང་བར་ཆད་མི་བྱེད་པ། །དེ་ནི་དེས་ན་མྱུར་རབ་ཏུ། །འཇིག་རྟེན་མགོན་དང་ཕྲད་པར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-72"/>“The one who never obstructs The giving of Dharma Will with great swiftness<tei:note xml:id="UT22084-044-001-73"/> Come to meet the guardians of the world.”<tei:note xml:id="UT22084-044-001-74"/> {16}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-50">
+    <prop type="location-id">UT22084-044-001-75</prop>
+    <tuv xml:lang="bo">
+                <seg>།གང་གིས་མི་ཁོམ་སྤོང་བར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-75"/>“How does one relinquish rebirth in inopportune states?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-51">
+    <prop type="location-id">UT22084-044-001-75</prop>
+    <tuv xml:lang="bo">
+                <seg>།གང་གིས་བཟང་འགྲོར་མཆི་འགྱུར་ལགས། །སྐྱེ་བ་ཀུན་ཏུ་སྐྱེ་བ་ན། །བག་མཆིས་པར་ནི་ཇི་ལྟར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How does one go forth to favorable states? How does one become heedful Wherever one takes birth throughout all of one’s lives?” {17}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-52">
+    <prop type="location-id">UT22084-044-001-76</prop>
+    <tuv xml:lang="bo">
+                <seg>།དད་པས་མི་ཁོམ་སྤོང་བར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-76"/>“Inopportune births are relinquished through faith.<tei:note xml:id="UT22084-044-001-77"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-53">
+    <prop type="location-id">UT22084-044-001-76</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཚུལ་ཁྲིམས་ཀྱིས་ནི་བཟང་འགྲོར་འགྲོ། །སྟོང་པ་ཉིད་ནི་བསྒོམ་བྱས་ན། །རྟག་ཏུ་བག་དང་ལྡན་པར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One goes forth to favorable states through moral discipline. One becomes always heedful By becoming familiar with emptiness.”<tei:note xml:id="UT22084-044-001-78"/> {18}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-54">
+    <prop type="location-id">UT22084-044-001-79</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཐུབ་པ་བྱང་ཆུབ་སེམས་དཔའ་རྣམས། །ཇི་ལྟར་ལས་རྣམས་དག་པར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-79"/>“O Sage,<tei:note xml:id="UT22084-044-001-80"/> how do bodhisattvas<tei:note xml:id="UT22084-044-001-81"/> Purify their karma?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-55">
+    <prop type="location-id">UT22084-044-001-79</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཇི་ལྟར་བདུད་ཀྱི་སྙིས་མི་ཐོགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How do they dodge the snares of Māra?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-56">
+    <prop type="location-id">UT22084-044-001-79</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཇི་ལྟར་ཆོས་ཀྱིས་ཕོངས་འགྱུར་སྤོང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How do they avoid becoming bereft of Dharma?”<tei:note xml:id="UT22084-044-001-82"/> {19}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-57">
+    <prop type="location-id">UT22084-044-001-83</prop>
+    <tuv xml:lang="bo">
+                <seg>རྣམ་པར་གྲོལ་བས་ལས་རྣམས་འདག །བརྩོན་འགྲུས་ཀྱིས་ནི་བདུད་འདུལ་འགྱུར། །ཅི་སྨྲས་དེ་བཞིན་བྱེད་པས་ནི། །ཆོས་ཀྱིས་ཕོངས་པ་སྤོང་བར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-83"/>“Karma is purified through firm resolution.<tei:note xml:id="UT22084-044-001-84"/> Māra is subdued through perseverance. They avoid becoming bereft of the Dharma<tei:note xml:id="UT22084-044-001-85"/> By acting according to their words.” {20}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-58">
+    <prop type="location-id">UT22084-044-001-86</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀ་ལ་པིང་ཀའི་སྒྲ་སྙན་དང་། །ཚངས་པའི་དབྱངས་འདྲར་ཇི་ལྟར་འགྱུར། །ཐུབ་པ་མོས་པ་སྣ་ཚོགས་ཀྱི། །སེམས་ཅན་རྣམས་ནི་གང་གིས་དགའ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-86"/>“How does one’s voice become like the pleasing song Of the kalaviṅka bird and like the voice of Brahmā? O Sage,<tei:note xml:id="UT22084-044-001-87"/> how does one please beings With their diverse inclinations?”<tei:note xml:id="UT22084-044-001-88"/> {21}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-59">
+    <prop type="location-id">UT22084-044-001-89</prop>
+    <tuv xml:lang="bo">
+                <seg>།བདེན་པར་སྨྲས་པས་ཚངས་པའི་དབྱངས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-89"/>“The voice of Brahmā is obtained by speaking truthfully.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-60">
+    <prop type="location-id">UT22084-044-001-89</prop>
+    <tuv xml:lang="bo">
+                <seg>།ངག་རྩུབ་སྤངས་པས་སྒྲ་སྙན་འགྱུར། །ཀྱལ་བའི་ཚིག་དང་ཕྲ་མ་རྣམས། །སྤངས་པས་སེམས་ཅན་དགའ་བར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The voice becomes pleasing by abandoning harsh words.<tei:note xml:id="UT22084-044-001-90"/> One pleases beings<tei:note xml:id="UT22084-044-001-91"/> By relinquishing senseless talk and slander.”<tei:note xml:id="UT22084-044-001-92"/> {22}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-61">
+    <prop type="location-id">UT22084-044-001-93</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཇི་ལྟར་ཚེ་རིང་འགྱུར་བ་ལགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-93"/>“How does one come to have a long life?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-62">
+    <prop type="location-id">UT22084-044-001-93</prop>
+    <tuv xml:lang="bo">
+                <seg>།བྲོ་ནད་ཉུང་བར་ཇི་ལྟར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How does one come to have fewer illnesses?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-63">
+    <prop type="location-id">UT22084-044-001-93</prop>
+    <tuv xml:lang="bo">
+                <seg>།རྣམ་པར་འདྲེན་པ་གང་གིས་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How, O Supreme Guide,<tei:note xml:id="UT22084-044-001-94"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-64">
+    <prop type="location-id">UT22084-044-001-93</prop>
+    <tuv xml:lang="bo">
+                <seg>།གཡོག་འཁོར་རྣམས་ནི་མི་ཕྱེད་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Does a retinue<tei:note xml:id="UT22084-044-001-95"/> come to be undivided?” {23}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-65">
+    <prop type="location-id">UT22084-044-001-96</prop>
+    <tuv xml:lang="bo">
+                <seg>།གསོད་པ་མི་བྱེད་ཚེ་རིང་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-96"/>“One comes to have a long life by not killing.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-66">
+    <prop type="location-id">UT22084-044-001-96</prop>
+    <tuv xml:lang="bo">
+                <seg>།མི་འཚེ་བས་ནི་ནད་ཉུང་འགྱུར། །མི་འཐུན་པ་དག་བསྡུམས་བྱས་ན། །གཡོག་འཁོར་རྣམས་ནི་མི་ཕྱེད་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One will have fewer illnesses by causing no harm.<tei:note xml:id="UT22084-044-001-97"/> A retinue comes to be undivided When one reconciles disputes.” {24}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-67">
+    <prop type="location-id">UT22084-044-001-98</prop>
+    <tuv xml:lang="bo">
+                <seg>།དོན་རྣམས་ཇི་ལྟར་འགྲུབ་འགྱུར་<tei:ref folio="F.28.b"/>ལགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-98"/>“How does one obtain wealth?<tei:note xml:id="UT22084-044-001-99"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-68">
+    <prop type="location-id">UT22084-044-001-98</prop>
+    <tuv xml:lang="bo">
+                <seg>།གང་གིས་ལོངས་སྤྱོད་མི་ཉམས་འགྱུར། གང་དང་གང་དུ་སྐྱེ་བ་དེར། །དབང་ཆེན་གྲགས་པར་ཇི་ལྟར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How do possessions cease to diminish? How does one become distinguished Wherever one is born?” {25}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-69">
+    <prop type="location-id">UT22084-044-001-100</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཆགས་པ་མེད་པས་དོན་རྣམས་འགྲུབ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-100"/>“Wealth is obtained through nonattachment.<tei:note xml:id="UT22084-044-001-101"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-70">
+    <prop type="location-id">UT22084-044-001-100</prop>
+    <tuv xml:lang="bo">
+                <seg>།སེར་སྣ་མེད་པས་ལོངས་སྤྱོད་འཕེལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Possessions increase by being without stinginess.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-71">
+    <prop type="location-id">UT22084-044-001-100</prop>
+    <tuv xml:lang="bo">
+                <seg>།གང་དང་གང་དུ་སྐྱེ་བ་དེར། །ཕྲག་དོག་མེད་པས་དབང་ཆེར་གྲགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One will be distinguished wherever one is born By being without jealousy.”<tei:note xml:id="UT22084-044-001-102"/> {26}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-72">
+    <prop type="location-id">UT22084-044-001-103</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཇི་ལྟར་ལྷ་ཡི་མིག་འཐོབ་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-103"/>“How does one obtain divine sight?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-73">
+    <prop type="location-id">UT22084-044-001-103</prop>
+    <tuv xml:lang="bo">
+                <seg>།ལྷ་ཡི་རྣ་བ་ཇི་ལྟར་འཐོབ། །སེམས་ཅན་འཆི་འཕོ་སྐྱེ་བ་དག །འདྲེན་པ་གང་གིས་འཚལ་བར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How does one obtain divine hearing? And how, O Guide, does one know The dying, transmigration, and rebirth of beings?”<tei:note xml:id="UT22084-044-001-104"/> {27}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-74">
+    <prop type="location-id">UT22084-044-001-105</prop>
+    <tuv xml:lang="bo">
+                <seg>།མར་མེ་བྱིན་པས་མིག་འཐོབ་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-105"/>“Divine sight is obtained by giving lamps.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-75">
+    <prop type="location-id">UT22084-044-001-105</prop>
+    <tuv xml:lang="bo">
+                <seg>།རོལ་མོའི་སྒྲ་ཡིས་རྣ་བ་འདག །འཆི་འཕོ་སྐྱེ་ཤེས་ཡེ་ཤེས་ཀྱིས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The ear is purified<tei:note xml:id="UT22084-044-001-106"/> by giving music. The dying, transmigration, and rebirth of beings are known through wisdom.<tei:note xml:id="UT22084-044-001-107"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-76">
+    <prop type="location-id">UT22084-044-001-105</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་དག་དེ་ལྟར་འགྲུབ་པར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thus do these accomplishments arise.” {28}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-77">
+    <prop type="location-id">UT22084-044-001-108</prop>
+    <tuv xml:lang="bo">
+                <seg>།འདྲེན་པ་བྱང་ཆུབ་སེམས་དཔའ་ཡི། །ཟག་པ་གང་གིས་བས་པར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-108"/>“O Guide, how do the defilements of bodhisattvas<tei:note xml:id="UT22084-044-001-109"/> Come to be exhausted?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-78">
+    <prop type="location-id">UT22084-044-001-108</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཚེ་རབས་སྔ་དྲན་ཅིས་འགྱུར་ལགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How do they recollect previous lives?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-79">
+    <prop type="location-id">UT22084-044-001-108</prop>
+    <tuv xml:lang="bo">
+                <seg>།རྫུ་འཕྲུལ་ཅི་ཡིས་འཐོབ་པར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How do they obtain miraculous powers?”<tei:note xml:id="UT22084-044-001-110"/> {29}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-80">
+    <prop type="location-id">UT22084-044-001-111</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཞོན་པ་བྱིན་པས་རྫུ་འཕྲུལ་འཐོབ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-111"/>“The miraculous powers are obtained by offering vehicles.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-81">
+    <prop type="location-id">UT22084-044-001-111</prop>
+    <tuv xml:lang="bo">
+                <seg>།དྲན་པ་བསྒོམས་པས་རྗེས་སུ་དྲན། །མཐའ་གཉིས་རབ་ཏུ་སྤང་བྱས་ན། །ཟག་པ་ཟད་པར་རེག་པར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The recollections are gained by cultivating<tei:note xml:id="UT22084-044-001-112"/> mindfulness. They reach the cessation of defilements By fully abandoning the two extremes.” {30}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-82">
+    <prop type="location-id">UT22084-044-001-113</prop>
+    <tuv xml:lang="bo">
+                <seg>།གང་གིས་ཞིང་ནི་ཕུན་སུམ་ཚོགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-113"/>“How is the buddhafield perfected?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-83">
+    <prop type="location-id">UT22084-044-001-113</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཅིས་ནི་དགེ་འདུན་ཕུན་སུམ་ཚོགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How is its saṅgha perfected?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-84">
+    <prop type="location-id">UT22084-044-001-113</prop>
+    <tuv xml:lang="bo">
+                <seg>།གང་གིས་ཕུན་སུམ་ཚོགས་འོད་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How does its light shine perfectly</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-85">
+    <prop type="location-id">UT22084-044-001-113</prop>
+    <tuv xml:lang="bo">
+                <seg>།གང་གིས་ཕྱོགས་བཅུར་ལྷང་ངེར་གདའ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Such that the ten directions are illuminated?”<tei:note xml:id="UT22084-044-001-114"/> {31}<tei:note xml:id="UT22084-044-001-115"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-86">
+    <prop type="location-id">UT22084-044-001-116</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྨོན་ལམ་གྱིས་ནི་ཕུན་སུམ་ཞིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-116"/>“The buddhafield is perfected through aspiration.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-87">
+    <prop type="location-id">UT22084-044-001-116</prop>
+    <tuv xml:lang="bo">
+                <seg>།བསྡུ་བས་དགེ་འདུན་ཕུན་སུམ་ཚོགས། །འདིར་ནི་རིན་ཆེན་གདུགས་ཕུལ་བས། །ཕྱོགས་བཅུར་ལྷང་ངེར་སྣང་བར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The saṅgha is perfected by magnetizing disciples.<tei:note xml:id="UT22084-044-001-117"/> The ten directions are illuminated brightly By offering jeweled canopies.” {32}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-88">
+    <prop type="location-id">UT22084-044-001-118</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་རྣམས་ཐམས་ཅད་བསྡུ་བ་ནི། །ཆོས་གང་གིས་ནི་ཐོབ་པར་འགྱུར། །གང་དང་གང་དུ་སྐྱེས་པ་དེར། །བྱང་ཆུབ་སེམས་དཔའ་དགའ་བ་འཐོབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-118"/>“By what quality<tei:note xml:id="UT22084-044-001-119"/> does one attain The embodiment<tei:note xml:id="UT22084-044-001-120"/> of all qualities, So that a bodhisattva<tei:note xml:id="UT22084-044-001-121"/> will be dear to beings Wherever they are born?”<tei:note xml:id="UT22084-044-001-122"/> {33}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-89">
+    <prop type="location-id">UT22084-044-001-123</prop>
+    <tuv xml:lang="bo">
+                <seg>སེམས་ཅན་ཐམས་ཅད་ཐར་བྱའི་ཕྱིར། །བྱང་ཆུབ་དོན་དུ་སེམས་བཏུད་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-123"/>“By surrendering the mind to the purpose of awakening In order to liberate all beings,<tei:note xml:id="UT22084-044-001-124"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-90">
+    <prop type="location-id">UT22084-044-001-123</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེས་ནི་ཆོས་རྣམས་བསྡུ་བ་འཐོབ། །དེར་ནི་དགའ་བའང་འཐོབ་པར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They attain the embodiment of all qualities And will thus be held dear.” {34}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-91">
+    <prop type="location-id">UT22084-044-001-125</prop>
+    <tuv xml:lang="bo">
+                <seg>།བསླབ་པ་ཅི་འདྲ་བསླབས་པ་དང་། །སེམས་ནི་ཅི་འདྲ་བསྒོམས་པ་ཡིས། །ཐུབ་པ་ཆེན་པོ་ཁྱོད་འདྲ་བའི། །སྟོན་པ་ཐམས་ཅད་མཁྱེན་པར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-125"/>“In what instruction should one train, And how should one cultivate the mind, To become an omniscient teacher Like you, Great Sage?” {35}<tei:note xml:id="UT22084-044-001-126"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-92">
+    <prop type="location-id">UT22084-044-001-127</prop>
+    <tuv xml:lang="bo">
+                <seg>།སེམས་ཅན་མ་ལུས་ཐམས་ཅད་ལ། །མཉམ་པའི་སེམས་ཉིད་བསླབས་པ་དང་། །མཉམ་པར་སེམས་ནི་བསྒོམས་པས་ན། །ཐམས་ཅད་ཟིལ་གནོན་རྒྱལ་བར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-127"/>“If one trains in being impartial To all beings without exception, And if the mind is cultivated in that impartiality, One will become an all-surpassing victorious one.” {36}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-93">
+    <prop type="location-id">UT22084-044-001-128</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྐྱེ་བ་ཀུན་ཏུ་བྱང་ཆུབ་སེམས། །རྨི་ལམ་ན་ཡང་སེམས་དེ་ནི། །<tei:ref folio="F.29.a"/>འདོར་མི་འགྱུར་ན་མ་ཉལ་ཚེ། །སྨོས་ཅི་འཚལ་བར་གང་གིས་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-128"/>“Throughout all one’s lives, How will the mind of awakening Never be abandoned even in a dream, Let alone while awake?”<tei:note xml:id="UT22084-044-001-129"/> {37}<tei:note xml:id="UT22084-044-001-130"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-94">
+    <prop type="location-id">UT22084-044-001-131</prop>
+    <tuv xml:lang="bo">
+                <seg>།གྲོང་དང་གྲོང་ཁྱེར་རྣམས་སུའམ། །གང་དུ་གནས་པའི་ཡུལ་རྣམས་སུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-131"/>“In whatever region one dwells, Whether a village or a city,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-95">
+    <prop type="location-id">UT22084-044-001-131</prop>
+    <tuv xml:lang="bo">
+                <seg>།བྱང་ཆུབ་ལ་ནི་ཡང་དག་འཛུད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>By correctly guiding others toward awakening,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-96">
+    <prop type="location-id">UT22084-044-001-131</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེས་ན་སེམས་འདོར་མི་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The mind of awakening is not abandoned.” {38}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-97">
+    <prop type="location-id">UT22084-044-001-132</prop>
+    <tuv xml:lang="bo">
+                <seg>།གང་དང་གང་དུ་སྐྱེ་བར་ཡང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-132"/>“Wherever one is born,<tei:note xml:id="UT22084-044-001-133"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-98">
+    <prop type="location-id">UT22084-044-001-132</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཇི་ལྟར་སྟོབས་ནི་ཆེ་འགྱུར་ཞིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How can one acquire great strength</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-99">
+    <prop type="location-id">UT22084-044-001-132</prop>
+    <tuv xml:lang="bo">
+                <seg>།རྟག་ཏུ་མཐུ་ཡིས་འཕགས་པ་དང་། །བདུད་རྣམས་བྱེ་བས་མི་ཚུགས་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And always be elevated with power So that even ten million māras can do no harm?”<tei:note xml:id="UT22084-044-001-134"/> {39}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-100">
+    <prop type="location-id">UT22084-044-001-135</prop>
+    <tuv xml:lang="bo">
+                <seg>།འདིར་ནི་སྙིང་པོ་ལྔ་བྱིན་ཞིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-135"/>“In this life, if one offers the five essences<tei:note xml:id="UT22084-044-001-136"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-101">
+    <prop type="location-id">UT22084-044-001-135</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྐྲག་ལ་མི་འཇིགས་བྱིན་ན་ནི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And gives courage to those who are afraid,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-102">
+    <prop type="location-id">UT22084-044-001-135</prop>
+    <tuv xml:lang="bo">
+                <seg>།གང་དང་གང་དུ་སྐྱེ་བར་ཡང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then wherever one is born<tei:note xml:id="UT22084-044-001-137"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-103">
+    <prop type="location-id">UT22084-044-001-135</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེས་ནི་སྟོབས་ནི་ཆེ་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One will also have great strength,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-104">
+    <prop type="location-id">UT22084-044-001-135</prop>
+    <tuv xml:lang="bo">
+                <seg>།རྟག་ཏུ་མཐུ་ཡིས་འཕགས་པ་དང་། །བདུད་རྣམས་བྱེ་བས་མི་ཚུགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Always be elevated with power, And be unharmed even by ten million māras.”<tei:note xml:id="UT22084-044-001-138"/> {40}<tei:note xml:id="UT22084-044-001-139"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-105">
+    <prop type="location-id">UT22084-044-001-140</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་དེ། །འཇིག་རྟེན་མགོན་གྱིས་མངོན་སུམ་དུ། །ལུང་བསྟན་པ་འདི་ཐོས་ནས་སུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-140"/>Having heard this teaching On the conduct of bodhisattvas<tei:note xml:id="UT22084-044-001-141"/> Directly from the Guardian of the World,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-106">
+    <prop type="location-id">UT22084-044-001-140</prop>
+    <tuv xml:lang="bo">
+                <seg>།སེང་གེ་ཡིད་ནི་དགའ་བར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Siṃha<tei:note xml:id="UT22084-044-001-142"/> was overjoyed.<tei:note xml:id="UT22084-044-001-143"/> {41}<tei:note xml:id="UT22084-044-001-144"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-107">
+    <prop type="location-id">UT22084-044-001-145</prop>
+    <tuv xml:lang="bo">
+                <seg>།སེང་གེ་གྲོགས་དང་ལྷན་ཅིག་ཏུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-145"/>He and his companions</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-108">
+    <prop type="location-id">UT22084-044-001-145</prop>
+    <tuv xml:lang="bo">
+                <seg>།འདི་སྐད་ཀྱི་ནི་ཚིག་སྨྲས་ཏེ། །སྤྱོད་པ་བསྟན་པ་འདི་ལ་ནི། །བདག་ཅག་རྗེས་སུ་བསླབ་པར་བགྱི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Spoke the following words:<tei:note xml:id="UT22084-044-001-146"/> “We will train In this teaching on conduct.”<tei:note xml:id="UT22084-044-001-147"/> {42}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-109">
+    <prop type="location-id">UT22084-044-001-148</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ནས་སངས་རྒྱས་འཛུམ་མཛད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-148"/>Then the Buddha smiled,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-110">
+    <prop type="location-id">UT22084-044-001-148</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྟོང་གསུམ་པོ་ཡང་གཡོས་གྱུར་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And the trichiliocosm quaked.<tei:note xml:id="UT22084-044-001-149"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-111">
+    <prop type="location-id">UT22084-044-001-148</prop>
+    <tuv xml:lang="bo">
+                <seg>།མ་ཕམ་པས་ནི་སངས་རྒྱས་ལ། །ཅི་ཞིག་སླད་དུ་འཛུམ་མཛད་པ། །ཐུབ་ཆེན་ལུང་བསྟན་གསོལ་ཞེས་ཞུས། །དེ་སྐད་ཞུ་བ་ཞུས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Ajita then asked the Buddha The following question: “Why did you smile? Great Sage,<tei:note xml:id="UT22084-044-001-150"/> please explain this!”<tei:note xml:id="UT22084-044-001-151"/> {43}<tei:note xml:id="UT22084-044-001-152"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-112">
+    <prop type="location-id">UT22084-044-001-153</prop>
+    <tuv xml:lang="bo">
+                <seg>།མ་ཕམ་པ་ལ་སངས་རྒྱས་ཀྱིས། །འདི་སྐད་ཅེས་ནི་བཀའ་སྩལ་ཏོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-153"/>And so to Ajita The Buddha replied,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-113">
+    <prop type="location-id">UT22084-044-001-153</prop>
+    <tuv xml:lang="bo">
+                <seg>།གང་གི་ཕྱིར་ནི་འཛུམ་མཛད་པ། །མ་ཕམ་ང་ལས་འདིར་ཉོན་ཅིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>“Ajita, please listen to the reason That I smiled.<tei:note xml:id="UT22084-044-001-154"/> {44}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-114">
+    <prop type="location-id">UT22084-044-001-155</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་བྱེ་བ་བརྒྱད་ཅུ་དང་། །གཞན་ཡང་ཁྲག་ཁྲིག་ཕྲག་བཅུ་ལ། །བྱང་ཆུབ་དོན་དུ་འདུས་ནས་ནི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-155"/>“Previously,<tei:note xml:id="UT22084-044-001-156"/> these boys<tei:note xml:id="UT22084-044-001-157"/> assembled before Eight hundred million buddhas and a quadrillion more.<tei:note xml:id="UT22084-044-001-158"/> For the purpose of awakening,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-115">
+    <prop type="location-id">UT22084-044-001-155</prop>
+    <tuv xml:lang="bo">
+                <seg>།མི་ཡི་འདྲེན་པ་རྣམས་ལ་མཆོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They made offerings to those guides of humans.<tei:note xml:id="UT22084-044-001-159"/> {45}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-116">
+    <prop type="location-id">UT22084-044-001-160</prop>
+    <tuv xml:lang="bo">
+                <seg>རྫོགས་པའི་སངས་རྒྱས་རྐང་གཉིས་མཆོག །མར་མེ་མཛད་པ་ཚུན་ཆད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-160"/>“Since the time of<tei:note xml:id="UT22084-044-001-161"/> Dīpaṅkara—The perfect buddha,<tei:note xml:id="UT22084-044-001-162"/> supreme among people<tei:note xml:id="UT22084-044-001-163"/>—</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-117">
+    <prop type="location-id">UT22084-044-001-160</prop>
+    <tuv xml:lang="bo">
+                <seg>།བྲམ་ཟེའི་ཁྱེའུ་འདི་དག་རྣམས། །ང་ཡིས་ཡོངས་སུ་སྨིན་པར་བྱས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I have been ripening These brahmin boys.<tei:note xml:id="UT22084-044-001-164"/> {46}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-118">
+    <prop type="location-id">UT22084-044-001-165</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྣང་བ་ཆེ་ཞེས་བྱ་བ་ཡི། །བསྐལ་པ་མཛེས་པ་འབྱུང་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-165"/>“When the splendid<tei:note xml:id="UT22084-044-001-166"/> eon called Great Illumination<tei:note xml:id="UT22084-044-001-167"/> arises,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-119">
+    <prop type="location-id">UT22084-044-001-165</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་དག་བསྐལ་པ་གཅིག་དེ་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In that single eon</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-120">
+    <prop type="location-id">UT22084-044-001-170</prop>
+    <tuv xml:lang="bo">
+                <seg>།རྣམ་པར་འདྲེན་པར་འགྱུར་བ་སྟེ། །ཡེ་ཤེས་ཏོག་གི་རྒྱལ་མཚན་ཞེས། །འཇིག་རྟེན་འདྲེན་པ་རྣམས་སུ་འགྱུར། །འོད་དཔག་མེད་ཀྱི་བཀོད་པ་ལྟར། །དེ་དག་གི་ཡང་དེ་འདྲར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will all become guides.<tei:note xml:id="UT22084-044-001-168"/> {47}<tei:note xml:id="UT22084-044-001-169"/>
+                    <tei:milestone xml:id="UT22084-044-001-170"/> “They will become guides for the world Named Jñānaketudhvaja,<tei:note xml:id="UT22084-044-001-171"/> And their array will be Just like that of Amitābha. {48}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-121">
+    <prop type="location-id">UT22084-044-001-172</prop>
+    <tuv xml:lang="bo">
+                <seg>།བྱམས་པ་ནས་ནི་བཟུང་ནས་སུ། །བསྐལ་པ་སུམ་བརྒྱ་ཚང་བར་ནི། །དེ་ཡི་བར་དུ་དུས་<tei:ref folio="F.29.b"/>ཀུན་ཏུ། །རྟག་ཏུ་སངས་རྒྱས་ཕྲད་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-172"/>“From the time of Maitreya Through three hundred full eons, They will always Meet with buddhas.<tei:note xml:id="UT22084-044-001-173"/> {49}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-122">
+    <prop type="location-id">UT22084-044-001-174</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་དག་བྱང་ཆུབ་ཐོབ་པ་ཡི། །མིང་ནི་གང་སུས་ཐོས་པ་རྣམས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-174"/>“Moreover, whoever hears but the name Under which they attain awakening</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-123">
+    <prop type="location-id">UT22084-044-001-174</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་དག་ཐམས་ཅད་འཇིག་རྟེན་དུ། །ཀུན་མཁྱེན་གང་ཟག་མཚུངས་མེད་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Shall, without exception, become incomparable And omniscient beings in the world.<tei:note xml:id="UT22084-044-001-175"/> {50}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-124">
+    <prop type="location-id">UT22084-044-001-176</prop>
+    <tuv xml:lang="bo">
+                <seg>།གང་ཞིག་ལུང་བསྟན་འདི་ཐོས་ནས། །མོས་པ་སྐྱེད་པར་བྱེད་པ་ནི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-176"/>“Whoever, on hearing this prophecy,<tei:note xml:id="UT22084-044-001-177"/> Becomes inspired</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-125">
+    <prop type="location-id">UT22084-044-001-176</prop>
+    <tuv xml:lang="bo">
+                <seg>།འཇིག་རྟེན་གསུམ་པོ་འདི་དག་ན། །དེ་དང་མཚུངས་པའི་བསོད་ནམས་མེད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Will have merit unparalleled Throughout these three worlds. {51}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-126">
+    <prop type="location-id">UT22084-044-001-178</prop>
+    <tuv xml:lang="bo">
+                <seg>།གང་གིས་བསྐལ་པ་དྲུག་སྟོང་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-178"/>“Consider someone who for six thousand eons</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-127">
+    <prop type="location-id">UT22084-044-001-178</prop>
+    <tuv xml:lang="bo">
+                <seg>།སངས་རྒྱས་ཞིང་རྣམས་ཐམས་ཅད་དུ། །རིན་ཆེན་རྣམས་ཀྱིས་བཀང་བྱས་ནས། །བྱང་ཆུབ་ཕྱིར་འདིར་བྱིན་པ་བས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Filled up all the buddhafields<tei:note xml:id="UT22084-044-001-179"/> With jewels and offered them For the purpose of awakening.<tei:note xml:id="UT22084-044-001-180"/> {52}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-128">
+    <prop type="location-id">UT22084-044-001-181</prop>
+    <tuv xml:lang="bo">
+                <seg>།གང་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི། །ཐོས་ནས་བྱང་ཆུབ་ཕྱིར་འཇུག་ན། །སྔར་སྨོས་པ་ཡི་བསོད་ནམས་ཀྱིས། །གྲངས་དང་ཆར་ཡང་མི་ཕོད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-181"/>“The tally of that person’s merit Could never match or compare to Hearing this Dharma presentation<tei:note xml:id="UT22084-044-001-182"/> And setting out for the sake of awakening.”<tei:note xml:id="UT22084-044-001-183"/> {53}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-129">
+    <prop type="location-id">UT22084-044-001-184</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་འདི་བཤད་པའི་ཚེ་ན་ནི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-184"/>When this Dharma had been expounded,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-130">
+    <prop type="location-id">UT22084-044-001-184</prop>
+    <tuv xml:lang="bo">
+                <seg>།འཇིག་རྟེན་མགོན་པོའི་མཐུ་ཡིས་ནི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>By the power of the Protector of the World,<tei:note xml:id="UT22084-044-001-185"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-131">
+    <prop type="location-id">UT22084-044-001-184</prop>
+    <tuv xml:lang="bo">
+                <seg>།ལྷ་རྣམས་མེ་ཏོག་ཆར་པ་འབེབས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The gods brought down a rain of flowers,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-132">
+    <prop type="location-id">UT22084-044-001-184</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྟོང་གསུམ་པོ་ཡང་གཡོས་པར་གྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And the trichiliocosm quaked. {54}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-133">
+    <prop type="location-id">UT22084-044-001-186</prop>
+    <tuv xml:lang="bo">
+                <seg>།སེང་གེ་གྲོགས་དང་བཅས་པ་ཡིས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-186"/>Siṃha, along with his companions,<tei:note xml:id="UT22084-044-001-187"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-134">
+    <prop type="location-id">UT22084-044-001-186</prop>
+    <tuv xml:lang="bo">
+                <seg>།མངོན་པར་ཤེས་པ་ལྔ་ཐོབ་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Obtained the five superknowledges and,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-135">
+    <prop type="location-id">UT22084-044-001-186</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཉིན་བདུན་བར་དུ་མཆོད་བྱས་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Having made offerings for one week,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-136">
+    <prop type="location-id">UT22084-044-001-186</prop>
+    <tuv xml:lang="bo">
+                <seg>།བསྟན་པ་ལ་ནི་རབ་ཏུ་བྱུང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Took ordination in the teaching.<tei:note xml:id="UT22084-044-001-188"/> {55}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-137">
+    <prop type="location-id">UT22084-044-001-189</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་དག་ཀུན་གྱིས་ཏིང་འཛིན་འཐོབ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-189"/>All of them obtained absorption</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-138">
+    <prop type="location-id">UT22084-044-001-189</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཟད་མི་ཤེས་པའི་གཟུངས་ཀྱང་ཐོབ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And inexhaustible<tei:note xml:id="UT22084-044-001-190"/> retention.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-139">
+    <prop type="location-id">UT22084-044-001-189</prop>
+    <tuv xml:lang="bo">
+                <seg>།སེམས་ཅན་རྣམས་ཀྱི་དོན་བྱེད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Wishing to accomplish<tei:note xml:id="UT22084-044-001-191"/> the welfare of beings,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-140">
+    <prop type="location-id">UT22084-044-001-189</prop>
+    <tuv xml:lang="bo">
+                <seg>།སངས་རྒྱས་ཆོས་ལ་འཛུད་པར་བྱེད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They brought them to<tei:note xml:id="UT22084-044-001-192"/> the Dharma of the buddhas.<tei:note xml:id="UT22084-044-001-193"/> {56}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-141">
+    <prop type="location-id">UT22084-044-001-194</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བསྟན་པ་ན་སེམས་ཅན་བྱེ་བ་ཕྲག་བརྒྱད་ཅུ་བྱང་ཆུབ་མཆོག་ལ་ཞུགས་སོ། །བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། སེང་གེ་གྲོགས་དང་བཅས་པ་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-194"/>When this Dharma presentation was taught, eight hundred million beings set out for supreme awakening.<tei:note xml:id="UT22084-044-001-195"/> When the Blessed One had spoken, Siṃha, along with his companions and the world with its gods, humans, asuras, and gandharvas, rejoiced and praised the words of the Blessed One.<tei:note xml:id="UT22084-044-001-196"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-044-001-TU-142">
+    <prop type="location-id">UT22084-044-001-197</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་དཀོན་མཆོག་བརྩེགས་པ་ཆེན་པོའི་ཆོས་ཀྱི་རྣམ་གྲངས་ལེའུ་སྟོང་ཕྲག་བརྒྱ་པ་ལས། སེང་གེས་ཞུས་པའི་ལེའུ་ཞེས་བྱ་སྟེ་སུམ་ཅུ་རྩ་བདུན་པ་རྫོགས་སོ།། །།རྒྱ་གར་གྱི་མཁན་པོ་དཱ་ན་ཤཱི་ལ་དང་། མུ་ནི་བར་མ་དང་། ཞུ་ཆེན་གྱི་ལོཙྪ་བ་བན་དེ་ཡེ་ཤེས་སྡེས་བསྒྱུར་ཅིང་ཞུས་ཏེ་སྐད་གསར་བཅད་ཀྱིས་ཀྱང་བཅོས་ནས་གཏན་ལ་ཕབ་པ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-044-001-197"/>This concludes the thirty-seventh chapter, “Siṃha’s Questions,” from the eleven hundred chapters of the Dharma presentation of The Noble Great Heap of Jewels. <tei:milestone xml:id="UT22084-044-001-198"/>The Indian preceptors Dānaśīla and Munivarman and the chief editor-translator Bandé Yeshé Dé translated, edited, and finalized this according to the new lexical register.</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>

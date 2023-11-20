@@ -1,0 +1,1457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+    <header creationtool="linguae-dharmae/84000" creationtoolversion="2.16.12a" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-059-008" eft:text-version="v-1.2.12-2021" eft:source-ref="/db/apps/84000-data/uploads/linguae-dharmae/aligned/31-10-2022/complete/toh165-bo_aligned.txt" eft:seconds-to-revise="0.481"/>
+    <body>
+        <!--<tu id="UT22084-059-008-TU-3">
+          <tuv xml:lang="bo"><seg>༄༅༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་ཀྴེ་མང་ཀ་ར་པ་རི་པྲྀཙྪཱ་ནཱ་མ་མ་ཧཱ་ཡཱ་ན་སཱུ་ཏྲ། བོད་སྐད་དུ། </seg></tuv>
+            <tuv xml:lang="en"><seg>The Question of Kṣemaṅkara</seg></tuv>
+        </tu>-\->-->
+        <tu id="UT22084-059-008-TU-1">
+            <prop type="location-id">translation</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>འཕགས་པ་བདེ་བྱེད་ཀྱིས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Noble Great Vehicle Sūtra The Question of Kṣemaṅkara</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-2">
+            <prop type="location-id">UT22084-059-008-13</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Homage to all buddhas and bodhisattvas!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-3">
+            <prop type="location-id">UT22084-059-008-14</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-4">
+            <prop type="location-id">UT22084-059-008-14</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཤཱཀྱའི་ཡུལ་སེར་སྐྱའི་གནས་ན། ཤཱཀྱ་རྣམས་ཀྱི་ཤིང་ནྱ་གྲོ་དྷའི་ཀུན་དགའ་ར་བ་ན་དགེ་སློང་ལྔ་བརྒྱའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One was staying in the Nyagrodha Park of the Śākyas, near Kapilavastu in the Śākya country, together with a great saṅgha of five hundred monks.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-5">
+            <prop type="location-id">UT22084-059-008-14</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེའི་ཚེ་ཤཱཀྱའི་བུ་བདེ་བྱེད་ཅེས་བྱ་བ་སེར་སྐྱའི་གནས་ཀྱི་གྲོང་ཁྱེར་ཆེན་པོ་ནས་བྱུང་སྟེ། ཤིང་ནྱ་གྲོ་དྷའི་ཀུན་དགའ་ར་བ་ག་ལ་བ་དང་། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>At that time a Śākya youth named Kṣemaṅkara set out from the city of Kapilavastu for Nyagrodha Park, where the Blessed One was staying.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-6">
+            <prop type="location-id">UT22084-059-008-14</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ནས་ཕྱོགས་གཅིག་ཏུ་འདུག་གོ། །དེ་ནས་ཤཱཀྱའི་བུ་བདེ་བྱེད་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>As soon as he arrived there, he touched his head to the feet of the Blessed One and sat down to one side.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-7">
+            <prop type="location-id">UT22084-059-008-98</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་དུ་དང་ལྡན་ན་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལས་ཕྱིར་མི་ལྡོག་པར་འགྱུར། ཚེགས་ཆུང་ངུས་ཀྱང་སྐྱེས་བུ་ཆེན་པོའི་མཚན་སུམ་ཅུ་རྩ་གཉིས་མངོན་པར་སྒྲུབ་པར་བགྱིད། སངས་རྒྱས་ཀྱི་ཞིང་ནས་སངས་རྒྱས་ཀྱི་ཞིང་དུ་མཆི་བར་བགྱིད། རྨོངས་པ་མ་མཆིས་པར་འགུམ་པའི་དུས་བགྱིད་པར་འགྱུར། སྐྱེས་ནས་ཀྱང་མངོན་པར་ཤེས་པ་ལྔ་དང་ལྡན་པར་འགྱུར། མི་ཁོམ་པ་ཐམས་ཅད་རྣམ་པར་སྤངས་ཤིང་ཁོམ་པ་འབྱོར་པ་ཐོབ་པར་འགྱུར། གཟུངས་ཀྱང་ཐོབ་པར་འགྱུར། སྤོབས་པ་ཐོགས་པ་མ་མཆིས་པ་དང་ཡང་ལྡན་པར་འགྱུར། ཕྱིར་མི་ལྡོག་པའི་ཆོས་དང་ལྡན་ཞིང་སྟོང་པ་ཉིད་ལ་ལྷག་པར་མོས་པར་ཡང་འགྱུར། རྟག་ཏུ་རབ་ཏུ་འབྱུང་བ་ལ་མངོན་པར་དགའ་བར་འགྱུར། ཁྱིམ་ན་གནས་ཀྱང་རྟག་ཏུ་ཚངས་པར་སྤྱོད་པ་ལ་མངོན་པར་དགའ་བར་འགྱུར་ལགས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>With folded palms the Śākya youth Kṣemaṅkara bowed down to the Blessed One and asked him, “Blessed One, what attributes should bodhisattvas possess in order to progress irreversibly toward unsurpassed and perfect awakening, so that even with just a little effort they will obtain the thirty-two marks of a great being, proceed from buddha realm to buddha realm, pass away free from delusion, possess the five types of superknowledge as soon as they are born, discard all unfree states, obtain leisure and advantages, gain retention, possess unobstructed eloquence,  possess the quality of not regressing, gain interest in emptiness, always delight in going forth, and always delight in pure conduct, even when staying in a household?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-8">
+            <prop type="location-id">UT22084-059-008-16</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་སྐད་ཅེས་གསོལ་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་ཤཱཀྱའི་བུ་གཞོན་ནུ་བདེ་བྱེད་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །རིགས་ཀྱི་བུ་ཁྱོད་དེ་བཞིན་གཤེགས་པ་ལ་དོན་འདི་ཡོངས་སུ་ཞུ་བར་སེམས་པ་ནི་རིགས་ཀྱི་བུ་ཁྱོད་སྐྱེ་བོ་མང་པོ་ལ་ཕན་པ་དང་། སྐྱེ་བོ་མང་པོ་ལ་བདེ་བ་དང་། འཇིག་རྟེན་ལ་སྙིང་བརྩེ་བ་དང་། སྐྱེ་བོ་ཕལ་པོ་ཆེའི་དོན་དང་། ལྷ་དང་མི་རྣམས་ལ་ཕན་པ་དང་བདེ་བའི་ཕྱིར་ཞུགས་པ་ཡིན་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>In answer to this question, the Blessed One replied to the young Śākya Kṣemaṅkara, “Noble son, you have asked the Thus-Gone One about this topic for the sake of benefiting and bringing happiness to a multitude of beings, out of love for the world, for the welfare of numerous people, and in order to benefit and bring happiness to gods and humans.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-9">
+            <prop type="location-id">UT22084-059-008-16</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ལེགས་སོ་ལེགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Excellent, excellent!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-10">
+            <prop type="location-id">UT22084-059-008-16</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེའི་ཕྱིར་རིགས་ཀྱི་བུ་ཁྱོད་ལེགས་པར་རབ་ཏུ་ཉོན་ལ་ཡིད་ལ་ཟུང་ཤིག་དང་ངས་ཁྱོད་ལ་བཤད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Therefore, noble son, listen carefully and keep the following in mind, as I shall now explain.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-11">
+            <prop type="location-id">UT22084-059-008-96</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བྱང་ཆུབ་སེམས་དཔའ་ཆོས་བཞི་དང་ལྡན་ན་ཇི་སྐད་སྨོས་པའི་ཡོན་ཏན་དེ་དག་རྗེས་སུ་འཐོབ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Bodhisattvas who possess four attributes will attain the qualities you have described.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-12">
+            <prop type="location-id">UT22084-059-008-96</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>བཞི་གང་ཞེ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>What are those four attributes?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-13">
+            <prop type="location-id">UT22084-059-008-96</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>རིགས་ཀྱི་བུ་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའ་བཟོད་པའི་སྟོབས་དང་ལྡན་ཞིང་བཟོད་པ་ལ་གནས་པ་དེ་ཕ་རོལ་གཤེ་ཡང་སླར་མི་གཤེ་བ་དང་། བརྡེགས་ཀྱང་སླར་མི་རྡེག་པ་དང་། མཚང་བྲུས་ཀྱང་སླར་མཚང་མི་འདྲུ་བ་དང་། ཁྲོས་ཀྱང་སླར་མི་ཁྲོ་བ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Noble son, they are as follows: bodhisattvas who possess the strength of patience and practice patience (1) do not retaliate though others revile them, (2) do not strike back though others beat them, (3) do not quarrel though others quarrel with them, and (4) do not get angry though others are hostile to them.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-14">
+            <prop type="location-id">UT22084-059-008-96</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>རིགས་ཀྱི་བུ་ཆོས་བཞི་པོ་དེ་དག་དང་ལྡན་པའི་བྱང་ཆུབ་སེམས་དཔའ་ནི་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལས་ཕྱིར་མི་ལྡོག་ཅིང་ཇི་སྐད་སྨྲས་པའི་ཡོན་ཏན་ཕུན་སུམ་ཚོགས་པ་ཡང་རྗེས་སུ་འཐོབ་པར་འགྱུར་རོ། །བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Noble son, bodhisattvas who possess those four attributes will progress irreversibly toward unsurpassed and perfect awakening and will obtain the perfect qualities you have described.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-15">
+            <prop type="location-id">UT22084-059-008-17</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>བདེ་བར་གཤེགས་པས་དེ་སྐད་གསུངས་ནས་དེ་བཞིན་དུ་སྟོན་པས་གཞན་ཡང་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>When the Blissful One had said this, the Teacher also spoke these words:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-16">
+            <prop type="location-id">UT22084-059-008-17</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཀུན་ཏུ་སྤྱོས་ཀྱང་གཤེ་བར་མི་བྱེད་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Although blamed, do not reciprocate.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-17">
+            <prop type="location-id">UT22084-059-008-17</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།གནོད་བྱས་གཞན་ལ་དེ་ནི་གནོད་མི་བྱེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Having been harmed, do not harm others.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-18">
+            <prop type="location-id">UT22084-059-008-17</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནི་མི་ལུས་སྤང་བ་བྱས་ནས་ཀྱང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Even if it means giving up their human bodies,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-19">
+            <prop type="location-id">UT22084-059-008-17</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བྱང་ཆུབ་སེམས་དཔའ་ཡོན་ཏན་དེ་དག་འཐོབ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Bodhisattvas will attain these qualities.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-20">
+            <prop type="location-id">UT22084-059-008-19</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྡིག་པའི་ཚིག་རྣམས་རྟག་ཏུ་སྲུང་བྱེད་ཅིང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Always guard against evil words,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-21">
+            <prop type="location-id">UT22084-059-008-19</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྡིག་པའི་སེམས་ཀྱི་དབང་དུ་མི་འགྲོ་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And do not be controlled by a negative mind.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-22">
+            <prop type="location-id">UT22084-059-008-19</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྡིག་ལས་ལོག་སྟེ་འབྲས་བུ་དེ་ཐོབ་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Eliminate misdeeds, and you will gain such results</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-23">
+            <prop type="location-id">UT22084-059-008-19</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཡེ་ཤེས་མཆོག་ཉིད་མྱུར་དུ་ཐོབ་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And quickly achieve supreme wisdom.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-24">
+            <prop type="location-id">UT22084-059-008-20</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྐྱེ་བོ་གང་དག་འཚོག་རུང་དགའ་བྱེད་ཅིང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Some people take pleasure in striking others,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-25">
+            <prop type="location-id">UT22084-059-008-20</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཁྲོ་གཏུམ་གནོད་པར་སེམས་པའི་སེམས་ལྡན་རྣམས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And have a ruthless and malicious attitude.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-26">
+            <prop type="location-id">UT22084-059-008-20</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།སངས་རྒྱས་ཡེ་ཤེས་ཡོངས་སུ་སྤངས་ནས་སུ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Having forsaken the wisdom of the buddhas,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-27">
+            <prop type="location-id">UT22084-059-008-20</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།མི་མཁས་དེ་དག་སྡུག་བསྔལ་མི་བཟད་ལྡན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Such unwise people will be burdened with unbearable suffering.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-28">
+            <prop type="location-id">UT22084-059-008-22</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ལྟ་བས་ན་གཞན་ལ་མི་འཚོག་ཅིང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Therefore, do not beat others,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-29">
+            <prop type="location-id">UT22084-059-008-22</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྒྱུ་དང་མི་རྒྱུ་རྣམས་ལ་དབྱུག་པ་སྤངས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And abstain from striking anything, animate or inanimate.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-30">
+            <prop type="location-id">UT22084-059-008-22</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།སེམས་ཅན་ཀུན་ལ་ཕན་ཞིང་སྙིང་བརྩེར་ལྡན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Benefiting all beings with love and affection,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-31">
+            <prop type="location-id">UT22084-059-008-22</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེས་འདིར་ཡེ་ཤེས་དམ་པ་མྱུར་དུ་འཐོབ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You will quickly attain supreme wisdom.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-32">
+            <prop type="location-id">UT22084-059-008-23</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྐྱེ་བོ་རྨོངས་པ་ཁྲོས་པས་ཟིལ་ནོན་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Deluded beings overwhelmed by anger</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-33">
+            <prop type="location-id">UT22084-059-008-23</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཇིག་རྟེན་མཁས་པའི་བསྟན་ལས་དེ་རིང་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Are far from the teaching of those who are wise in this world.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-34">
+            <prop type="location-id">UT22084-059-008-23</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནི་ལོག་ལྟ་རྣམས་ཀྱིས་ངན་འཛིན་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Because of wrong views, they are bent on negative ways.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-35">
+            <prop type="location-id">UT22084-059-008-23</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ལྟ་བས་ན་མཁས་མིས་དཀྲུག་མི་བྱ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Therefore, wise people should not disturb them.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-36">
+            <prop type="location-id">UT22084-059-008-24</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བྱང་ཆུབ་སེམས་དཔའ་གང་འདིར་མི་ཁྲོ་ཞིང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Bodhisattvas should not get angry,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-37">
+            <prop type="location-id">UT22084-059-008-24</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བདེན་པ་རྗེས་སྲུང་གཞན་ལ་མི་གནོད་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>But guard the truth without harming others.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-38">
+            <prop type="location-id">UT22084-059-008-24</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྤྱད་པ་དཀོན་པ་འདི་དག་རྫོགས་བྱས་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Perfecting these rare actions,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-39">
+            <prop type="location-id">UT22084-059-008-24</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།སུམ་ཅུ་རྩ་གཉིས་མཚན་མཛེས་ཕུན་སུམ་ཚོགས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They will possess all the exquisite thirty-two marks.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-40">
+            <prop type="location-id">UT22084-059-008-25</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།མི་མཁས་རྟག་ཏུ་ཕུང་ཞིང་སྡང་སེམས་ལྡན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“The unwise always have a destructive and hostile attitude;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-41">
+            <prop type="location-id">UT22084-059-008-25</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཕ་མ་ལ་ཡང་འདི་ན་གུས་མི་བྱེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They do not even respect their own parents.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-42">
+            <prop type="location-id">UT22084-059-008-25</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཀུན་ནས་ཉོན་མོངས་རྩ་བ་རབ་གནས་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They are enmeshed in the roots of affliction,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-43">
+            <prop type="location-id">UT22084-059-008-25</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྐྱེས་བུ་ཐ་མའི་ཉེས་པ་འདི་རྣམས་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Which are the flaws of the lowest type of person.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-44">
+            <prop type="location-id">UT22084-059-008-28</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་བས་རྟག་ཏུ་བཟོད་པ་ཁོ་ན་བསྟེན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Therefore, always rely wholly on patience,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-45">
+            <prop type="location-id">UT22084-059-008-28</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དགེ་སློང་ཆོས་སྨྲ་བ་ལ་བསྟེན་པར་བྱ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Attend to monks who teach the Dharma,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-46">
+            <prop type="location-id">UT22084-059-008-28</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དགེ་བའི་བཤེས་གཉེན་ཡོངས་སུ་མི་གཏོང་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And never forsake spiritual friends.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-47">
+            <prop type="location-id">UT22084-059-008-28</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ལ་བྱང་ཆུབ་མཆོག་ནི་དཀའ་བ་མེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then supreme awakening will be easy.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-48">
+            <prop type="location-id">UT22084-059-008-29</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།རིགས་ཀྱི་བུ་གཞན་ཡང་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་བཞི་དང་ལྡན་ན་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལས་ཕྱིར་མི་ལྡོག་ཅིང་ཇི་སྐད་སྨོས་པའི་ཡོན་ཏན་ཕུན་སུམ་ཚོགས་པ་ཡང་རྗེས་སུ་འཐོབ་བོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Noble son, bodhisattvas who possess four additional attributes will progress irreversibly toward unsurpassed and perfect awakening, and they will achieve the perfect qualities you have described.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-49">
+            <prop type="location-id">UT22084-059-008-29</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཞི་གང་ཞེ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>What are those four attributes?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-50">
+            <prop type="location-id">UT22084-059-008-29</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>རིགས་ཀྱི་བུ་འདི་ལ་ཆོས་དོན་དུ་གཉེར་བ་དང་། ཆོས་འདོད་པ་དང་། ཆོས་ཀྱི་ཀུན་དགའ་ལ་དགའ་ཞིང་མོས་པ་དང་། ཆོས་འཛིན་པ་དང་། ཆོས་སྟོན་པ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Noble son, they are (1) pursuing the Dharma, yearning for the Dharma, and rejoicing, delighting in, and being inspired by the Dharma, as well as holding the Dharma and teaching the Dharma;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-51">
+            <prop type="location-id">UT22084-059-008-29</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>བུད་མེད་ཡོངས་སུ་སྤོང་ཞིང་བུད་མེད་ལ་སྟེན་པར་མི་བྱེད་པ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>renouncing women and not indulging in women;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-52">
+            <prop type="location-id">UT22084-059-008-29</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>སྦྱིན་པའི་བདག་པོ་དང་། ཀུན་བགེད་པའི་ངང་ཚུལ་ཅན་དང་། ཀུན་བགེད་པ་ལ་དགའ་བ་དང་། རྨུགས་པ་དང་། གཉིད་ཡོངས་སུ་སྤོང་བ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>rejoicing in benefactors, in their giving nature, and in their giving, as well as renouncing dullness and sleep;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-53">
+            <prop type="location-id">UT22084-059-008-29</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>སྟོང་པ་ཉིད་ལ་མོས་པ་དང་། སྟོང་པ་ཉིད་ལ་གནས་པ་ཡིན་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>and (4) feeling inspired by emptiness and abiding in emptiness.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-54">
+            <prop type="location-id">UT22084-059-008-29</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>རིགས་ཀྱི་བུ་ཆོས་བཞི་པོ་དེ་དག་དང་ལྡན་པའི་བྱང་ཆུབ་སེམས་དཔའ་ནི་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལས་ཕྱིར་མི་ལྡོག་ཅིང་ཇི་སྐད་སྨོས་པའི་ཡོན་ཏན་དེ་དག་ཀྱང་འཐོབ་པར་འགྱུར་རོ། །བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Noble son, bodhisattvas who possess those four attributes will progress irreversibly toward unsurpassed and perfect awakening and they will achieve the qualities you have described.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-55">
+            <prop type="location-id">UT22084-059-008-31</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>བདེ་བར་གཤེགས་པས་དེ་སྐད་གསུངས་ནས་དེ་བཞིན་དུ་སྟོན་པས་གཞན་ཡང་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>When the Blissful One had said this, the Teacher also spoke these words:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-56">
+            <prop type="location-id">UT22084-059-008-31</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།སེམས་ཅན་གང་དག་ཆོས་ནི་འདོད་པ་དང་། །ཆོས་ཀྱི་དོན་དུ་བརྩོན་འགྲུས་བསྐྱེད་པ་དཀོན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Beings who yearn for the Dharma And generate effort for the sake of the Dharma are rare.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-57">
+            <prop type="location-id">UT22084-059-008-31</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་དག་ཆོས་ཀྱི་འཁོར་ལོ་སྐོར་བྱེད་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Anyone who makes the wheel of Dharma turn</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-58">
+            <prop type="location-id">UT22084-059-008-31</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་དག་ཡེ་ཤེས་དམ་པ་ཐོབ་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Will attain supreme wisdom.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-59">
+            <prop type="location-id">UT22084-059-008-33</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།གཞན་ལས་ཐོས་ནས་ཡང་དག་འཛིན་བྱེད་ཅིང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Hearing it from others they will genuinely retain it,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-60">
+            <prop type="location-id">UT22084-059-008-33</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཕ་རོལ་དོན་དུ་གཉེར་ལ་ཆོས་སྟོན་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And then teach the Dharma to others who are interested.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-61">
+            <prop type="location-id">UT22084-059-008-33</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཤེས་ལྡན་དེ་དག་འཁོར་དུ་ཞུམ་པ་མེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Such wise ones will not lose courage in a gathering.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-62">
+            <prop type="location-id">UT22084-059-008-33</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བླ་མེད་བྱང་ཆུབ་མཆོག་ལ་རེག་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They will reach unsurpassed and supreme awakening.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-63">
+            <prop type="location-id">UT22084-059-008-34</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ལོག་པར་ལྟུང་རྒྱུ་བུད་མེད་རྣམ་པར་སྤངས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Rejecting women, the cause of downfalls,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-64">
+            <prop type="location-id">UT22084-059-008-34</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྒྱལ་སྲས་རྟག་ཏུ་ཚངས་པར་སྤྱོད་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>A son of the victors will always practice pure conduct.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-65">
+            <prop type="location-id">UT22084-059-008-34</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཚངས་པར་སྤྱོད་ལ་བརྟན་པར་དེ་གནས་ཤིང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Stable in the practice of pure conduct,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-66">
+            <prop type="location-id">UT22084-059-008-34</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཁོར་ལོ་བླ་མེད་དམ་པ་སྐོར་བར་བྱེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>He will turn the unsurpassed, sacred wheel.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-67">
+            <prop type="location-id">UT22084-059-008-35</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བུད་མེད་རྣམས་ལ་མཚན་མ་འགའ་ཡོད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Those who delight in the features of women</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-68">
+            <prop type="location-id">UT22084-059-008-35</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདི་ལྟར་སྡུག་བསྔལ་ཉམ་ཐག་སྐེམ་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Will become miserable, poor, and feeble.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-69">
+            <prop type="location-id">UT22084-059-008-35</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་དག་བསྟེན་ན་ཞི་བ་མེད་པ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Indulging in them will not bring peace,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-70">
+            <prop type="location-id">UT22084-059-008-35</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་བས་ཡོངས་སུ་སྤོངས་ལ་བྱང་ཆུབ་སྤྱོད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>So forsake them and engage in bodhisattva conduct.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-71">
+            <prop type="location-id">UT22084-059-008-37</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་ཤཱཀྱའི་བུ་བདེ་བྱེད་བསྟན་པ་འདི་ཐོས་ནས་ཚིམ་ཞིང་མགུ་ལ་ཡི་རངས་ཤིང་རབ་ཏུ་དགའ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Upon hearing these teachings, the Śākya youth Kṣemaṅkara felt satisfied, delighted, and thrilled.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-72">
+            <prop type="location-id">UT22084-059-008-37</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དགའ་བ་དང་ཡིད་བདེ་བ་སྐྱེས་ནས་རང་གི་ལུས་ལས་རྒྱན་བཀྲོལ་ཏེ། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་གཏོར་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Feeling joyful and happy, he unfastened the ornaments on his body and scattered them before the Blessed One.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-73">
+            <prop type="location-id">UT22084-059-008-37</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱི་མཐུས་རྒྱན་དེ་དག་བཅོམ་ལྡན་འདས་ཀྱི་དབུའི་དྲང་ཐད་ཀྱི་སྟེང་གི་བར་སྣང་ལ་རིན་པོ་ཆེའི་ཁང་པ་བརྩེགས་པ་ཞིག་ཏུ་འདུག་པར་གྱུར་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Through the Blessed One’s power these ornaments now transformed into a mansion made of precious substances, hovering directly above the Blessed One’s crown.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-74">
+            <prop type="location-id">UT22084-059-008-37</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>རིན་པོ་ཆེའི་ཁང་པ་བརྩེགས་པ་དེ་ནས་མི་རྒྱན་ཐམས་ཅད་ཀྱིས་བརྒྱན་པ་ལྔ་བརྒྱ་བྱུང་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>From that mansion emanated five hundred people decorated with all manner of ornaments, who scattered their own ornaments in the direction of the Blessed One.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-75">
+            <prop type="location-id">UT22084-059-008-37</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལ་རྒྱན་རྣམས་འཐོར་ཞིང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་ཡང་སེམས་བསྐྱེད་ནས་ཚིག་འདི་སྐད་ཅེས་བཅོམ་ལྡན་འདས་བདག་ཅག་གི་དགེ་བའི་རྩ་བ་འདི་སེམས་ཅན་ཐམས་ཅད་དང་ཐུན་མོང་དུ་བགྱིས་ཏེ། བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་ཡོངས་སུ་བསྔོ་བར་བགྱིའོ་ཞེས་འཛེར་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>In addition, they aroused the mind set on unsurpassed and perfect awakening and said, “Blessed One, we are sharing our roots of virtue with all beings, and we dedicate them toward unsurpassed and perfect awakening.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-76">
+            <prop type="location-id">UT22084-059-008-38</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་ཤཱཀྱའི་བུ་བདེ་བྱེད་ཀྱིས་ཀྱང་སྤྲུལ་པའི་མི་དེ་དག་མཐོང་ངོ་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Śākya youth Kṣemaṅkara also perceived these emanated people.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-77">
+            <prop type="location-id">UT22084-059-008-38</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།མཐོང་ནས་ཀྱང་ལུས་ཀྱི་སྤུ་ཟིང་ཞེས་བྱེད་པར་གྱུར་ཏེ། བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་མི་འདི་རྣམས་གང་ནས་མཆིས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Seeing them, the hairs on his body stood on end, so he asked the Blessed One, “Blessed One, where are these people from?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-78">
+            <prop type="location-id">UT22084-059-008-38</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤར་ཕྱོགས་སམ། ལྷོ་ཕྱོགས་སམ། ནུབ་ཕྱོགས་སམ། བྱང་ཕྱོགས་སམ། འོག་གམ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Are they from the east, from the south, from the west, from the north, from below, or from above?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-79">
+            <prop type="location-id">UT22084-059-008-38</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>སྟེང་གི་ཕྱོགས་སམ། འོན་ཏེ་ཕྱོགས་མཚམས་གང་ནས་མཆིས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>From which cardinal or intermediate direction did they come?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-80">
+            <prop type="location-id">UT22084-059-008-39</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རིགས་ཀྱི་བུ་མི་འདི་རྣམས་ནི་ཤར་ཕྱོགས་ནས་མ་འོངས་ལྷོ་དང་། ནུབ་དང་། བྱང་ཕྱོགས་དང་། འོག་དང་སྟེང་གི་ཕྱོགས་དང་། ཕྱོགས་མཚམས་གང་ནས་ཀྱང་མ་འོངས་ཏེ། འདི་རྣམས་ནི་ལྷ་མ་ཡིན། ཀླུ་མ་ཡིན། གནོད་སྦྱིན་མ་ཡིན། དྲི་ཟ་མ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Noble son,” replied the Blessed One, “these people are from neither the east, south, west, or north;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-81">
+            <prop type="location-id">UT22084-059-008-39</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ལྷ་མ་ཡིན་མ་ཡིན། ནམ་མཁའ་ལྡིང་མ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>nor from below or above;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-82">
+            <prop type="location-id">UT22084-059-008-39</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>མིའམ་ཅི་མ་ཡིན། ལྟོ་འཕྱེ་ཆེན་པོ་མ་ཡིན། མི་མ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>nor are they from any cardinal or intermediate direction.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-83">
+            <prop type="location-id">UT22084-059-008-39</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>མི་མ་ཡིན་པ་མ་ཡིན་ནོ། །སའི་ཁམས་ལ་མི་རྟེན། ཆུའི་ཁམས་ལ་མི་རྟེན། མེའི་ཁམས་ལ་མི་རྟེན། རླུང་གི་ཁམས་ལ་མི་རྟེན། ནམ་མཁའི་ཁམས་ལ་མི་རྟེན་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They are not gods, they are not nāgas, they are not yakṣas, they are not gandharvas, they are not demigods, they are not garuḍas, they are not kinnaras, they are not mahoragas, they are not humans, and they are not non-humans—they do not abide in the earth element, they do not abide in the water element, they do not abide in the fire element, they do not abide in the wind element, and they do not abide in the space element.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-84">
+            <prop type="location-id">UT22084-059-008-39</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདི་དག་ལ་ནི་གཟུགས་མེད། ཚོར་བ་མེད། འདུ་ཤེས་དང་། འདུ་བྱེད་རྣམས་དང་། སེམས་མེད། ཡིད་མེད། རྣམ་པར་ཤེས་པ་མེད། ལས་མེད། ལས་ཀྱི་རྣམ་པར་སྨིན་པ་མེད། འཇིག་རྟེན་འདི་མེད། འཇིག་རྟེན་ཕ་རོལ་མེད། འོང་བ་མེད། འགྲོ་བ་མེད། གནས་པ་མེད། འཆི་འཕོ་མེད། སྐྱེ་བ་མེད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They have no form, no feeling, no perception, no formation, no thinking, no mind, no consciousness, no karma, no ripening of karma, no present world, no other world, no coming, no going, no dwelling, no death, and no birth.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-85">
+            <prop type="location-id">UT22084-059-008-39</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།འོན་ཀྱང་རིགས་ཀྱི་བུ་འདི་དག་ནི་སྤྲུལ་པ་ཞེས་བྱ་བ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>However, noble son, they are known as magical emanations.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-86">
+            <prop type="location-id">UT22084-059-008-39</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདི་དག་ནི་གཞི་མེད་པ་ཞེས་བྱ་བ་ཡིན་ནོ། །འདི་དག་ནི་སྲོག་མེད་པ་ཞེས་བྱ་བ་ཡིན་ནོ། །འདི་དག་ནི་སྐྱེས་བུ་མེད་པ་ཞེས་བྱ་བ་ཡིན་ནོ། །འདི་དག་ནི་གང་ཟག་མེད་པ་ཞེས་བྱ་བ་ཡིན་ནོ། །འདི་དག་ནི་མཚན་ཉིད་མེད་པ་ཞེས་བྱ་བ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They are called groundless, they are called lifeless, they are called beingless, they are called personless, they are called characteristicless, they are called void, they are called empty, and they are called essenceless.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-87">
+            <prop type="location-id">UT22084-059-008-40</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདི་དག་ནི་དབེན་པ་ཞེས་བྱ་བ་ཡིན་ནོ། །འདི་དག་ནི་སྟོང་པ་ཞེས་བྱ་བ་ཡིན་ནོ། །འདི་དག་ནི་ངོ་བོ་ཉིད་མེད་པ་ཞེས་བྱ་བ་ཡིན་ནོ། །བདེ་བྱེད་རིགས་ཀྱི་བུ་དང་རིགས་ཀྱི་བུ་མོ་གང་དག་དེ་ལྟར་ཆོས་ཐམས་ཅད་སྤྲུལ་པ་ལྟ་བུར་འདོད་པ་དང་། བཟོད་པ་དང་། ཁོང་དུ་ཆུད་པ་དང་། མངོན་པར་དད་པ་དང་། ཡིད་ཆེས་པ་དང་། གཞན་གྱི་དྲིང་མི་འཇོག་པར་འགྱུར་བའི་རིགས་ཀྱི་བུ་དང་རིགས་ཀྱི་བུ་མོ་དེ་དག་ནི་བདེ་བྱེད་ངའི་བུ་ཞེས་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Kṣemaṅkara, those noble sons and daughters who hold all phenomena to be like magical creations—who accept, understand, and have faith and confidence in them as such, and who are not led astray by others—such noble sons and daughters, Kṣemaṅkara, are called my children.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-88">
+            <prop type="location-id">UT22084-059-008-40</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ངའི་རྗེས་སུ་སྐྱེས་པ་ཞེས་བྱའོ། །སྣང་བ་འཛིན་པ་ཞེས་བྱའོ། །འོད་བྱེད་པ་ཞེས་བྱའོ། །མུན་པ་བསལ་བ་ཞེས་བྱའོ། །ཉོན་མོངས་པ་སྤངས་པ་ཞེས་བྱའོ། །སྟོན་པ་ཞེས་བྱའོ། །བསོད་ནམས་ཀྱི་ཞིང་ཞེས་བྱའོ། །ཡོན་ཏན་གྱི་གནས་ཞེས་བྱའོ། །དགེ་སྦྱོང་ཞེས་བྱའོ། །བྲམ་ཟེ་ཞེས་བྱའོ། །ཚོར་བ་པོ་ཞེས་བྱའོ། །གླང་པོ་ཞེས་བྱའོ། །མི་སྐྱེ་བའི་ཆོས་ལ་བཟོད་པ་དང་ལྡན་པ་ཞེས་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They are known as my descendants, they are known to possess illumination, they are known to be illuminating, they are known to clear away darkness, they are known to abandon afflictions.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-89">
+            <prop type="location-id">UT22084-059-008-40</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བྱང་ཆུབ་སེམས་དཔའ་ཞེས་བྱའོ། །སེམས་དཔའ་ཆེན་པོ་ཞེས་བྱའོ། །ཕྱིར་མི་ལྡོག་པའི་ཆོས་དང་ལྡན་པ་ཞེས་བྱའོ། །བྱང་ཆུབ་སེམས་དཔའི་ཆོས་དང་ལྡན་པ་ཞེས་བྱའོ། །ལུང་བསྟན་པ་ཞེས་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They are known as teachers, they are known as fields of merit, they are known as worthy of veneration, they are known as mendicants, they are known as brahmins, they are known as learned, they are known as elephants, they are known as those who accept that phenomena are unborn,  they are known as bodhisattvas, they are known as great beings, they are known as having the quality of non-regressing, they are known as having the qualities of bodhisattvas, and they are known as having been prophesied.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-90">
+            <prop type="location-id">UT22084-059-008-42</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།རིགས་ཀྱི་བུ་གང་སུ་ཡང་རུང་བ་དག་དེ་ལྟར་ཆོས་ཐམས་ཅད་སྤྲུལ་པ་ལྟ་བུར་མི་འདོད། མི་བཟོད། མི་འཇུག །མི་མོས། མི་དད། ཐོས་ནས་ཀྱང་དངང་ཞིང་སྐྲག་ལ་དངང་བར་འགྱུར་བ་དང་། སླར་ཟློག་པ་དང་། ཕྱིར་གཤེ་བའི་རིགས་ཀྱི་བུ་དེ་དག་ནི་དགེ་སྦྱོང་མ་ཡིན་པ་ཞེས་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“However, noble children who do not agree that all phenomena are like magical creations, and who do not accept this, do not engage with it, have no faith in it, and lack trust in it—who feel frightened and scared upon hearing about it and start to panic, turn away from it, and challenge it—such noble children are known as not being mendicants.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-91">
+            <prop type="location-id">UT22084-059-008-42</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བྲམ་ཟེ་མ་ཡིན་པ་ཞེས་བྱའོ། །མུ་སྟེགས་ཅན་ཞེས་བྱའོ། །དམིགས་པ་ཅན་ཞེས་བྱའོ། །དཀྲུགས་མ་པ་ཞེས་བྱའོ། །སྡིག་པའི་གྲོགས་པོ་ཞེས་བྱའོ། །ཡོངས་སུ་སྤང་བར་བྱ་བ་ཞེས་བྱའོ། །བྱང་ཆུབ་སེམས་དཔའ་ངན་གཡོ་ཅན་ཞེས་བྱའོ། །བྱང་ཆུབ་སེམས་དཔའ་འཆལ་པ་ཞེས་བྱའོ། །བྱང་ཆུབ་སེམས་དཔའ་ལྟར་བཅོས་པ་ཞེས་བྱའོ། །བྱང་ཆུབ་སེམས་དཔའ་སྲེ་ད་ལྟ་བུ་ཞེས་བྱའོ། །བྱང་ཆུབ་སེམས་དཔའ་སུན་འབྱིན་པ་ཞེས་བྱའོ། །བྱང་ཆུབ་སེམས་དཔའ་གཏུམ་པ་ཞེས་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They are known as not being brahmins, they are known as non-Buddhists, they are known as those who apprehend things, they are known as depraved, they are known as unwholesome companions, they are known as people to avoid, they are known as deceitful bodhisattvas, they are known as immoral bodhisattvas, they are known as fake bodhisattvas, they are known as worthless bodhisattvas, they are known as corrupted bodhisattvas, and they are known as savage bodhisattvas.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-92">
+            <prop type="location-id">UT22084-059-008-43</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བདུད་སྡིག་ཅན་སྡུག་བསྔལ་ཞིང་ཡིད་མི་བདེ་ནས་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བཤད་པས་སེམས་ཅན་ཇི་སྙེད་ཅིག་གི་དོན་མཛད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>At this point the evil Māra, feeling frustrated and unhappy, went to the location where the Blessed One was staying and asked, “Blessed One, by delivering this Dharma teaching, how many beings’ welfare are you accomplishing?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-93">
+            <prop type="location-id">UT22084-059-008-43</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། སྡིག་ཅན་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བཤད་པས་འདོད་པ་ན་སྤྱོད་པ་དང་། གཟུགས་ན་སྤྱོད་པའི་ལྷའི་བུ་བརྒྱད་ཁྲི་བཞི་སྟོང་གིས་མི་སྐྱེ་བའི་ཆོས་ལ་བཟོད་པ་ཐོབ་བོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Evil one,” replied the Blessed One, “through the delivery of this Dharma teaching, eighty-four thousand deities in the realms of desire and form will attain the acceptance that phenomena are unborn.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-94">
+            <prop type="location-id">UT22084-059-008-43</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དགེ་སློང་ལྔ་བརྒྱ་ལེན་པ་མེད་པར་ཟག་པ་རྣམས་ལས་སེམས་རྣམ་པར་གྲོལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The minds of five hundred monks will become free of defilements with no further appropriation.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-95">
+            <prop type="location-id">UT22084-059-008-43</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དགེ་སློང་མ་བདུན་ཅུ་རྩ་ལྔས་ཀྱང་མི་སྐྱེ་བའི་ཆོས་ལ་བཟོད་པ་ཐོབ་བོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Seventy-five nuns will also attain the acceptance that phenomena are unborn.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-96">
+            <prop type="location-id">UT22084-059-008-43</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བྱང་ཆུབ་སེམས་དཔའ་བདེ་བྱེད་དང་། དགེ་བསྙེན་ལྔ་བརྒྱ་གཞན་དག་ཀྱང་མི་སྐྱེ་བའི་ཆོས་ལ་བཟོད་པ་ཐོབ་བོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The bodhisattva Kṣemaṅkara and five hundred other laymen will also attain the acceptance that phenomena are unborn.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-97">
+            <prop type="location-id">UT22084-059-008-43</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དགེ་བསྙེན་མ་ཉི་ཤུ་རྩ་ལྔ་ཡང་ཆོས་རྣམས་ལ་ཆོས་ཀྱི་མིག་རྡུལ་མེད་ཅིང་དྲི་མ་དང་བྲལ་བ་རྣམ་པར་དག་སྟེ། དེ་དག་ཐམས་ཅད་ཀྱང་མི་སྐྱེ་བའི་ཆོས་ལ་བཟོད་པ་དང་ལྡན་པར་གྱུར་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Twenty-five female lay practitioners will purify the eye of Dharma, making it free from dust and dirt with regard to all phenomena, and all of them will attain the acceptance that phenomena are unborn.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-98">
+            <prop type="location-id">UT22084-059-008-43</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་དག་ཐམས་ཅད་ཀྱང་འདི་ནས་ཤི་འཕོས་ནས། དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་དཔག་མེད་ཀྱི་སངས་རྒྱས་ཀྱི་ཞིང་འཇིག་རྟེན་གྱི་ཁམས་བདེ་བ་ཅན་དུ་སྐྱེ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>When passing away, all of them will be reborn in Sukhāvatī, the buddha realm of the thus-gone, worthy, perfect buddha Amitābha.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-99">
+            <prop type="location-id">UT22084-059-008-43</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེར་སྐྱེས་ནས་ཐམས་ཅད་ལྷན་ཅིག་འཐུན་པར་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དཔག་ཏུ་མེད་པ་རྣམས་ཀྱིས་སངས་རྒྱས་ཀྱི་བྱང་ཆུབ་འཛིན་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Once born there, they will all jointly uphold the awakening of the buddhahood of infinite blessed buddhas.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-100">
+            <prop type="location-id">UT22084-059-008-43</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>བརྗོད་པར་འགྱུར། སྟོན་པར་འགྱུར། ཡང་དག་པར་རབ་ཏུ་སྟོན་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They will express it, teach it, and authentically expound it.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-101">
+            <prop type="location-id">UT22084-059-008-43</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་དག་ཕྱིས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་ཀྱི་བསྐལ་པ་འདས་ནས། བསྐལ་པ་བཟང་པོ་ཞེས་བྱ་བ་འདི་ཉིད་ལ་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་འདིར་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>In the future, after as many eons as there are grains of sand in the Ganges River, during the so-called Good Eon of this trichiliocosm, they will fully awaken to unsurpassed and perfect buddhahood.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-102">
+            <prop type="location-id">UT22084-059-008-46</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བདུད་སྡིག་ཅན་སྡུག་བསྔལ་ཞིང་ཡིད་མི་བདེ་ལ་འགྱོད་ཅིང་མཆི་མས་བརྣངས་ལ་ངུ་བཞིན་དུ་གྱུར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The evil Māra felt frustrated and unhappy. With regret, he began to weep.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-103">
+            <prop type="location-id">UT22084-059-008-46</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ཉིད་ནས་ཕྱིར་འགྲོ་ཞིང་ཚིག་འདི་སྐད་དུ། བཅོམ་ལྡན་འདས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་སླན་ཅད་མི་བཤད་དུ་གསོལ་ཞེས་སྨྲས་སོ། །བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>As he was leaving, he said, “Blessed One, please do not deliver this Dharma teaching again!”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-104">
+            <prop type="location-id">UT22084-059-008-46</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>སྡིག་ཅན་ཁྱོད་དེ་སྐད་མ་སྨྲ་ཤིག །དེ་ཅིའི་ཕྱིར་ཞེ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Evil one, you should not speak like that!” replied the Blessed One. “And why not?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-105">
+            <prop type="location-id">UT22084-059-008-46</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཐམས་ཅད་ཀྱི། ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་བ་འདི་ནི་ཐོགས་པ་མེད་པ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Because the turning of the Dharma wheel of all the blessed buddhas is unimpeded.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-106">
+            <prop type="location-id">UT22084-059-008-48</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ལ་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་ཆོས་ཀྱི་རྣམ་གྲངས་འདིའི་མིང་ཅི་ལགས། འདི་ཇི་ལྟར་གཟུང་བར་བགྱི། བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then venerable Ānanda asked the Blessed One, “Blessed One, what is this Dharma teaching called, and how should it be identified?”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-107">
+            <prop type="location-id">UT22084-059-008-48</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་དེའི་ཕྱིར་ཁྱོད་ཀྱིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བྱང་ཆུབ་སེམས་དཔའ་ངེས་པར་འབྱུང་བ་ཞེས་བྱ་བར་ཟུང་ཤིག །བདེ་བྱེད་ཀྱིས་ཞུས་པ་ཞེས་བྱ་བར་ཡང་ཟུང་ཤིག །ཀུན་དགའ་བོ་ངས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ཁྱོད་ལ་གཏད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One responded, “Ānanda, you may call this Dharma discourse The Bodhisattva’s Renunciation , or you should call it The Question of Kṣemaṅkara . Ānanda, I entrust you with this Dharma discourse.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-108">
+            <prop type="location-id">UT22084-059-008-48</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>གཟུང་བ་དང་། བཀླག་པ་དང་། བཤད་པ་དང་། གཞན་དག་ལ་རྒྱ་ཆེར་ཡང་དག་པར་རབ་ཏུ་བསྟན་པར་བྱ་བའི་ཕྱིར་ཡོངས་སུ་གཏད་དོ། །དེ་ཅིའི་ཕྱིར་ཞེ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>I entrust it to you in order that you retain it, read it aloud, explain it, and accurately teach it to others in great detail.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-109">
+            <prop type="location-id">UT22084-059-008-48</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་ཐེག་པ་ཆེན་པོ་ལ་ཡང་དག་པར་ཞུགས་པ་གང་གིས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མ་གཏོགས་པར་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལྔ་པོ་དག་ལ་བསྐལ་པ་བཅུར་སྤྱད་པ་བས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ānanda, noble sons and noble daughters who have genuinely entered the Great Vehicle  might practice the five perfections without the perfection of insight for ten eons.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-110">
+            <prop type="location-id">UT22084-059-008-48</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་གང་ཞིག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་འཛིན་པ་དང་། འཆང་བ་དང་། ཀློག་པ་དང་། ཀུན་ཆུབ་པར་བྱེད་པ་དང་། གཞན་དག་ལ་ཡང་རྒྱ་ཆེར་ཡང་དག་པར་རབ་ཏུ་སྟོན་པ་དང་། ཐ་ན་གླེགས་བམ་དུ་བྱས་ཏེ་འཆང་བ་དེ་ནི་དེ་བསོད་ནམས་ཆེས་མང་དུ་སྐྱེད་པའི་ཕྱིར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Yet those noble sons and noble daughters who retain this Dharma discourse, hold it, read it aloud, understand it, accurately teach it to others in detail, or even make it into a book and carry it, will create much more merit.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-111">
+            <prop type="location-id">UT22084-059-008-50</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་ཚེ་ཚིགས་སུ་བཅད་པ་འདི་དག་བཀའ་སྩལ་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then the Blessed One spoke these verses: “Whoever practices generosity for ten eons</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-112">
+            <prop type="location-id">UT22084-059-008-50</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་ཞིག་ཚུལ་འདི་མ་ཐོས་པར། །བསྐལ་པ་བཅུར་ནི་སྦྱིན་བྱིན་ཡང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Without having heard about this way of so doing</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-113">
+            <prop type="location-id">UT22084-059-008-50</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བླ་ན་མེད་པའི་སྦྱིན་པ་ཞེས། །དེ་ནི་བསྔགས་པར་མི་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Will not be praised As having unsurpassed generosity. “Those who observe mundane discipline</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-114">
+            <prop type="location-id">UT22084-059-008-50</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་ཞིག་བསྐལ་པ་བཅུ་རྣམས་སུ། །འཇིག་རྟེན་པ་ཡི་ཚུལ་ཁྲིམས་སྲུང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Even for tens of eons</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-115">
+            <prop type="location-id">UT22084-059-008-50</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནི་དམིགས་ལ་གནས་པས་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Will continue to dwell on observations—</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-116">
+            <prop type="location-id">UT22084-059-008-50</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཚུལ་ཁྲིམས་དེ་ནི་དག་མི་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Such discipline will not be pure. “Those who retain this profound discourse,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-117">
+            <prop type="location-id">UT22084-059-008-50</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་ཞིག་སངས་རྒྱས་ཀྱིས་བསྔགས་པའི། །མདོ་སྡེ་ཟབ་མོ་འདི་འཛིན་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Which is praised by the buddhas,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-118">
+            <prop type="location-id">UT22084-059-008-50</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཚུལ་ཁྲིམས་དེ་ནི་བླ་ན་མེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Will have unsurpassed discipline</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-119">
+            <prop type="location-id">UT22084-059-008-50</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།སངས་རྒྱས་ཀུན་གྱིས་བསྔགས་པ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And will themselves be praised by all the buddhas.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-120">
+            <prop type="location-id">UT22084-059-008-54</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་འདིར་བསྐལ་པ་བཅུ་རྣམས་སུ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Though people may advocate patience for tens of eons,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-121">
+            <prop type="location-id">UT22084-059-008-54</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཟོད་པ་སྨྲ་བའི་མིར་གྱུར་ལ། །གཤེ་བར་བྱེད་པའི་སྲོག་ཆགས་རྣམས། །ཀུན་ལ་བཟོད་པར་བྱེད་གྱུར་ཀྱང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And practice patience toward all who revile them,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-122">
+            <prop type="location-id">UT22084-059-008-54</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདི་ནི་ཚུལ་འདི་མ་ཐོས་ན། །བཟོད་པ་དེ་ནི་བསྔགས་མ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>That patience will not be praiseworthy Unless they have heard about this way of doing it.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-123">
+            <prop type="location-id">UT22084-059-008-55</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་ཞིག་མདོ་སྡེ་འདི་འཛིན་ཅིང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Those who retain this discourse,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-124">
+            <prop type="location-id">UT22084-059-008-55</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།གཞན་དག་ལ་ཡང་རབ་སྟོན་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And correctly teach it to others,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-125">
+            <prop type="location-id">UT22084-059-008-55</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཟོད་པ་དེ་ནི་བླ་ན་མེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Will have unsurpassed patience</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-126">
+            <prop type="location-id">UT22084-059-008-55</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།སངས་རྒྱས་ཀུན་གྱིས་བསྔགས་པ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And be praised by all the buddhas.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-127">
+            <prop type="location-id">UT22084-059-008-56</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་ཞིག་ཚུལ་འདི་མ་ཐོས་པར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Those who have not heard about this way of so doing May never transgress the rules,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-128">
+            <prop type="location-id">UT22084-059-008-56</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བསྐལ་པ་དག་ནི་བཅུ་རྣམས་སུ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Even for tens of eons,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-129">
+            <prop type="location-id">UT22084-059-008-56</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཆག་པ་དག་ལས་མི་འདའ་ཡང་། །བརྩོན་འགྲུས་དེ་ནི་བསྔགས་མ་ཡིན། །གང་ཞིག་སངས་རྒྱས་ཀྱིས་བཤད་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Yet such effort will not be praiseworthy.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-130">
+            <prop type="location-id">UT22084-059-008-57</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།མདོ་སྡེ་ཟབ་མོ་འདི་འཛིན་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“For those who retain this profound discourse, Explained by the Buddha,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-131">
+            <prop type="location-id">UT22084-059-008-57</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བརྩོན་འགྲུས་དེ་ནི་བླ་ན་མེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Their effort will be unsurpassed</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-132">
+            <prop type="location-id">UT22084-059-008-57</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།སངས་རྒྱས་ཀུན་གྱིས་བསྔགས་པ་ཡི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And they will be praised by all the buddhas. “Those who practice concentration</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-133">
+            <prop type="location-id">UT22084-059-008-57</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་ཞིག་བསྐལ་པ་བཅུ་རྣམས་སུ། །བསམ་གཏན་ལྡན་པའི་མིར་གྱུར་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>For tens of eons</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-134">
+            <prop type="location-id">UT22084-059-008-57</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བསམ་གཏན་རོ་ལ་དེ་གནས་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>May abide in the taste of concentration,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-135">
+            <prop type="location-id">UT22084-059-008-57</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བསམ་གཏན་པ་ཞེས་དེ་མི་བརྗོད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>But will not be known as adepts at concentration.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-136">
+            <prop type="location-id">UT22084-059-008-59</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ནང་དང་ཕྱི་རོལ་རྣམས་ལ་ཡང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Yet those who do not conceive —whether inwardly or outwardly—</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-137">
+            <prop type="location-id">UT22084-059-008-59</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྡུལ་ཙམ་ཆོས་ཀྱང་མི་རྟོགས་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Of any phenomena at all</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-138">
+            <prop type="location-id">UT22084-059-008-59</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བསམ་གཏན་དེ་ནི་བླ་ན་མེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Have unsurpassed concentration,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-139">
+            <prop type="location-id">UT22084-059-008-59</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནི་བསམ་གཏན་པ་ཞེས་བྱ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And are called adepts at concentration.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-140">
+            <prop type="location-id">UT22084-059-008-61</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ལྟར་སྦྱིན་དང་ཚུལ་ཁྲིམས་དང་། །བཟོད་པ་དང་ནི་བརྩོན་འགྲུས་དང་། །བསམ་གཏན་ཤེས་རབ་མཉམ་ཉིད་ཀྱིས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“In this way, through the sameness Of generosity, discipline, patience, diligence, Concentration, and insight,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-141">
+            <prop type="location-id">UT22084-059-008-61</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནི་བྱང་ཆུབ་མྱུར་འཐོབ་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Awakening will be quickly attained.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-142">
+            <prop type="location-id">UT22084-059-008-62</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་དང་། ཤཱཀྱའི་བུ་བདེ་བྱེད་དང་། ཐམས་ཅད་དང་ལྡན་པའི་འཁོར་དེ་དག་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ་བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>When the Blessed One had spoken, venerable Ānanda, the Śākya youth Kṣemaṅkara, the entire retinue, and the world including its gods, humans, demigods, and gandharvas rejoiced and praised what the Blessed One had said.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-143">
+            <prop type="location-id">UT22084-059-008-63</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཕགས་པ་བདེ་བྱེད་ཀྱིས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>This concludes the noble Great Vehicle sūtra “ The Question of Kṣemaṅkara</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-059-008-TU-144">
+            <prop type="location-id">UT22084-059-008-64</prop>
+            <prop type="revision">v-1.2.12-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།།རྒྱ་གར་གྱི་མཁན་པོ་པྲཛྙཱ་བརྨ་དང་། ཞུ་ཆེན་གྱི་ལོཙྪ་བ་བནྡེ་ཡེ་ཤེས་སྡེ་ལ་སོགས་པས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།།</seg>
+            </tuv>
+          <tuv xml:lang="en">
+                <seg>This was translated, edited, and finalized by the Indian preceptor Prajñāvarman, and the translator and chief editor Bandé Yeshé Dé, and others.</seg>
+            </tuv>
+        </tu>
+    <tu id="UT22084-059-008-TU-145">
+            <prop type="revision">v-1.2.10-2021</prop>
+            <prop type="location-id">UT22084-059-008-48</prop>
+            <tuv xml:lang="en">
+                <seg>Why? milestone:UT</seg>
+            </tuv>
+        </tu>
+        </body>
+</tmx>

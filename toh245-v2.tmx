@@ -1,0 +1,2410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+    <header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-066-003" eft:text-version="v-1.1.1-2019"/>
+    <body>
+        <tu>
+            <prop type="folio">F.27.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ཆོས་ཀྱི་ཕུང་པོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Noble Great Vehicle Sūtra The Sections of Dharma</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.27.b</prop>
+            <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-24"/>Homage to all buddhas and bodhisattvas!</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.27.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-24"/>Thus did I hear at one time.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.27.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་སེར་སྐྱའི་གནས་ན་ཤིང་ནྱ་གྲོ་དྷའི་ཀུན་དགའ་ར་བ་ན། དགེ་སློང་ལྔ་བརྒྱ་ཐམ་པའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One was dwelling in Nyagrodha Park, in Kapilavastu, together with a great saṅgha of five hundred monks.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.27.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ནས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་དང་། ཚེ་དང་ལྡན་པ་མཽད་གལ་གྱི་བུ་ཆེན་པོ་དང་། ཚེ་དང་ལྡན་པ་འོད་སྲུང་ཆེན་པོ་དང་། ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་དང་། ཚེ་དང་ལྡན་པ་སྒྲ་གཅན་ཟིན་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>At one point venerable Śāriputra, venerable Mahāmaudgalyāyana, venerable Mahākāśyapa, venerable Ānanda, and venerable Rāhula all went to see the Blessed One;</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.27.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ་ཕྱོགས་གཅིག་ཏུ་འདུག་གོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>they prostrated to him, placing their heads at his feet, and then sat to one side.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཕྱོགས་གཅིག་ཏུ་འདུག་ནས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་<tei:ref folio="F.28.a"/>ཅེས་གསོལ་ཏོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Sitting there, venerable Śāriputra asked the Blessed One,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.a</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཆོས་ཀྱི་ཕུང་པོ་ཆོས་ཀྱི་ཕུང་པོ་ཞེས་བགྱི་ན། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Blessed One, you have spoken of ‘sections of the Dharma.’</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པས་ཆོས་ཀྱི་ཕུང་པོའི་ཚད་ཇི་ཙམ་གྱིས་ཆོས་ཀྱི་ཕུང་པོ་ཞེས་བཀའ་སྩལ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>But what is the extent of those sections of the Dharma to which the Thus-Gone One refers using that expression?</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཆོས་ཀྱི་ཕུང་པོ་ནི་ཇི་ཙམ་ཞིག །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>How many such sections are there?</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཆོས་ཀྱི་ཕུང་པོ་ནི་གང་ལགས། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>What are the sections of the Dharma?”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.a</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-26"/>The Blessed One replied to venerable Śāriputra,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་དེ་བཞིན་གཤེགས་པས་ཆོས་ཀྱི་ཕུང་པོ་ནི་བརྒྱད་ཁྲི་བཞི་སྟོང་དུ་གསུངས་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Śāriputra, the Thus-Gone One has taught that there are eighty-four thousand sections of the Dharma.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་དེ་ལ་ཆོས་ཐམས་ཅད་སྐྱེ་བ་མེད་པ་འདི་ནི་ཆོས་ཀྱི་ཕུང་པོའི་རྗེས་སུ་འཇུག་པ་དང་པོ་ཡིན་ནོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, in this regard, the birthlessness of all phenomena is the primary sense of a section of the Dharma.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་ཆོས་འགའ་ཞིག་ལ་ཆོས་ཞེའམ། ཆོས་གང་ཡང་སྐྱེ་བའམ། འགག་པ་ཞེས་ང་མི་སྨྲའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, I do not claim that there is something called phenomena , or that anything whatsoever is born or ceases.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ཅིའི་ཕྱིར་ཞེ་ན། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Why is that?</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་ཆོས་ཐམས་ཅད་ནི་སྐྱེ་བ་མེད་པའི་ཆོས་ཅན་དང་། འགག་པ་མེད་པའི་ཆོས་ཅན་ཡིན་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, it is because all phenomena are characterized as being unborn and unceasing.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་འདི་ལྟ་སྟེ་དཔེར་ན་མ་ནིང་ནི་སྐྱེས་པའམ་བུད་མེད་ཅེས་བྱ་བའི་མིང་མི་འཐོབ་ཅིང་སྐྱེས་པའམ་བུད་མེད་ཅེས་བརྗོད་པར་བྱ་བ་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>For example, Śāriputra, paṇḍakas<tei:note xml:id="UT22084-066-003-27"/> are not called men or women, and should indeed not be said to be men or women.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ཅིའི་ཕྱིར་ཞེ་ན། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Why is that?</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་དེ་ནི་སྐྱེས་པའམ་བུད་མེད་དུ་གདགས་སུ་མེད་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, it is because they cannot be designated as men or women.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་དེ་བཞིན་དུ་ཆོས་ཐམས་ཅད་དེ་བཞིན་གཤེགས་པས་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Likewise, Śāriputra, the Thus-Gone One has attained unsurpassed awakening with respect to all phenomena,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེའི་ཕྱིར་ཆོས་ཀྱིས་ཆོས་རབ་ཏུ་ཤེས་སོ་ཞེས་བརྗོད་པར་མི་བྱའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>but one cannot say that he therefore knows phenomena on account of phenomena.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་འདི་ལྟ་སྟེ་དཔེར་ན་ཟ་མའམ་མ་ནིང་ནི་འདོད་པའི་འདོད་ཆགས་སྤངས་པ་ཡང་མ་ཡིན་ལ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-28"/>“As an analogy, Śāriputra, neither paṇḍakas nor ṣaṇḍhas<tei:note xml:id="UT22084-066-003-29"/> have abandoned passion, but</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འདོད་པ་ལ་སྟེན་པ་ཡང་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>they cannot act on that passion.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་དེ་དག་གིས་བུད་མེད་སྡུག་གུ་མཐོང་ནས་འདོད་ཆགས་ཀྱི་སེམས་སྐྱེས་པས་ཟ་མའམ་མ་ནིང་རྣམས་ལས་ཕལ་ཆེར་བྱིན་པ་ནད་ཀྱིས་བཏབ་པར་འགྱུར། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, when they see a beautiful woman, and desire is aroused, most paṇḍakas and ṣaṇḍhas suffer pain in their ducts.<tei:note xml:id="UT22084-066-003-30"/>
+                </seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.a</prop>
+            <tuv xml:lang="bo">
+                <seg>བྱིན་པ་འཛག་པར་འགྱུར། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Their ducts drip,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.a</prop>
+            <tuv xml:lang="bo">
+                <seg>བྱིན་པ་ཁར་བ་ལྟ་བུར་འགྱུར། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>their ducts become like metal,<tei:note xml:id="UT22084-066-003-132"/>
+                </seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.a</prop>
+            <tuv xml:lang="bo">
+                <seg>བཞིན་དམར་པོར་འགྱུར་རོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>and their faces become red.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་འདི་ཇི་སྙམ་དུ་སེམས། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, why do you think this is?</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཟ་མའམ་མ་ནིང་གང་ཡིན་པ་དེ་ས་ལ་མ་འགྱེལ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>These paṇḍakas and ṣaṇḍhas have not fainted to the floor;</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེའི་ལུས་ལ་མཚོན་གྱིས་མ་བཏབ་པར་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>their bodies have not been struck by weapons.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཅིའི་ཕྱིར་དེ་དག་བྱིན་པ་ན་བར་འགྱུར་སྙམ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Why do you think their ducts are so painful?”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.a</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལ་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-31"/>Venerable Śāriputra replied to the Blessed One’s question,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་<tei:ref folio="F.28.b"/>ལྡན་འདས་ཟ་མའམ་མ་ནིང་ནི་བཙུན་མོའི་འཁོར་སྲུང་བ་ལགས་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Blessed One, paṇḍakas and ṣaṇḍhas are the guards of ladies’ quarters.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་བུད་མེད་སྡུག་གུ་མཐོང་ནས་འདོད་ཆགས་ཀྱི་སེམས་སྐྱེ་ལགས་སོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>When they see beautiful women, they give rise to desire.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་འདོད་ཆགས་ཀྱི་སེམས་ཀྱིས་ཉོན་མོངས་པ་ཁོལ་བར་འགྱུར་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Their desirous minds make them boil with affliction and,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཉོན་མོངས་པ་ཁོལ་བ་དེ་དག་གི་ལུས་ཁུ་ཆུས་རྒྱས་པར་གྱུར་པས་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>boiling with affliction, their bodies become engorged with semen.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་འདོད་ཆགས་ཀྱི་གདུང་བས་གདུངས་པ་ན་བྱིན་པ་ཤིན་ཏུ་གས་པར་འགྱུར་ལགས་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>When they are thus tormented by the pangs of lust, their ducts burst and</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་དེ་དག་གི་ལུས་མ་རུངས་པར་འགྱུར་ལགས་སོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>their bodies become ruined.”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-32"/>Then the Blessed One said to venerable Śāriputra,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་ཟ་མའམ་མ་ནིང་ལས་གང་དག་བདེ་འགྲོ་མཐོ་རིས་ཀྱི་འཇིག་རྟེན་དུ་སྐྱེ་བ་ནི་ཉུང་སྟེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Śāriputra, few among paṇḍakas or ṣaṇḍhas take rebirth in the world of the happy destinies of the higher realms.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཕལ་ཆེར་སེམས་ཅན་དམྱལ་བར་འགྲོ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Most of them are reborn as hell beings.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་དགེ་སྦྱོང་ཤཱཀྱའི་བུ་རྣམས་ལས་གང་དག་འདོད་ཆགས་ཀྱིས་འཕྲོགས་པར་མི་འགྱུར་བའི་ཁྱད་པར་ལ་ལྟོས། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, observe the contrast with the sons<tei:note xml:id="UT22084-066-003-133"/> of the Śākya ascetic, none of whom get carried away by desire.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ཅིའི་ཕྱིར་ཞེ་ན། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Why is that?</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འདོད་པ་རྣམས་ནི་དངོས་པོ་མེད་པར་ཤེས། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They know that the sense pleasures are without substance.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འདོད་པ་རྣམས་ནི་མི་གཙང་བར་ཤེས་ནས་དེ་དག་འདོད་པ་རྣམས་ཀྱིས་སྐྱོ་ཞིང་ཡིད་བྱུང་ལ་མངོན་པར་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Knowing that the sense pleasures are impure, they are weary and disenchanted with them.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.b</prop>
+            <tuv xml:lang="bo">
+                <seg>མི་དགའ་ནས་ཚངས་པར་སྤྱད་པ་སྤྱོད་དེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>With this deep dislike, they observe celibacy, and</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བཞིན་དང་འཕྲལ་བའི་མདངས་གསལ་བ་ཡིན་ནོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>their complexions are bright.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་སྐྱེས་བུ་ངན་པ་རྣམས་ཀྱིས་ནི་སྐྱོ་བའམ་ཡིད་འབྱུང་བར་མི་ནུས་སོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-33"/>“Śāriputra, evil men are unable to feel weary or disenchanted.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ཅིའི་ཕྱིར་ཞེ་ན། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Why is that?</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་འདི་ལྟར་སྐྱེས་བུ་ངན་པ་དེ་དག་ནི་འདོད་པ་ལ་ཀུན་ཏུ་རྟོག་པ་རྣམས་ཀྱིས་ཀུན་ཏུ་རྟོག་པ་རྣམས་དང་ལྡན་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, it is because evil men, thinking so much about objects of desire as they do, are full of thoughts.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་སྐྱེས་བུ་ངན་པ་རྣམས་ཀྱི་ཀུན་ཏུ་རྟོག་པ་རྣམས་གང་ཞེ་ན། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, what are the thoughts of evil men?</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.b</prop>
+            <tuv xml:lang="bo">
+                <seg>གང་དག་མེད་པ་ལ་རྟོག་པར་བྱེད་པ་སྟེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They think of things that are non-existent.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.b</prop>
+            <tuv xml:lang="bo">
+                <seg>མི་གཙང་བ་ལ་གཙང་བར་རྟོག་པར་བྱེད། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They think of the impure as pure.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འདུ་ཤེས་མེད་པ་ལ་འདུ་ཤེས་སུ་རྟོག་པར་བྱེད། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They think of lack of perception as perception.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བུད་མེད་ལ་བུད་མེད་དུ་རྟོག་པར་བྱེད། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They think of women as women.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འདོད་ཆགས་དང་བཅས་པ་ལ་འདོད་ཆགས་དང་བཅས་པར་རྟོག་པར་བྱེད་པ་སྟེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They think of being desirous as being desirous.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་དེ་ལྟ་བུ་དེ་དག་ནི་སྐྱེས་བུ་ངན་པ་རྣམས་ཀྱི་ཀུན་ཏུ་རྟོག་པ་རྣམས་ཡིན་ནོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>These, Śāriputra, are the thoughts of evil men.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་དེ་དག་ནི་ཟ་མ་དང་མ་ནིང་འདོད་པས་ཟིན་པ་རྣམས་ཀྱི་ལས་རྣམས་ཡིན་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, these are the actions of paṇḍakas and ṣaṇḍhas who are gripped by desire;</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.28.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་སྐྱེས་བུ་དམ་པའི་ལས་རྣམས་ནི་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>they are not the actions of holy beings.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་མ་ནིང་གང་ལ་ལ་ཞིག་སྐྱེས་བུ་ངན་པ་རྣམས་ཀྱི་ཀུན་ཏུ་རྟོག་པ་དེ་ལྟ་བུ་དག་<tei:ref folio="F.29.a"/>ལ་ཀུན་ཏུ་རྟོག་པར་བྱེད་པ་ནི་བདག་གིས་རེག་གོ་ཞེས་ཉམས་སུ་མྱོང་བར་བྱེད་དེབུ་ག་དགུའི་སྒོ་དང་ལྡན་པ་འདི་མི་གཙང་བ་འཛག་པ་འདི་ལ་གཙང་བར་འདུ་ཤེས་སྐྱེད་པར་བྱེད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, those paṇḍakas who thus entertain evil men’s conceptions have the experience, ‘I am touching that,’ and thus perceive the body with its nine orifices—this impure, leaking thing—as clean.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འདི་དག་ཐམས་ཅད་ནི་བྱ་བ་མ་ཡིན་པ་སྟེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>All these things should not be done.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་ནི་སྐྱེས་བུ་དམ་པའི་ལས་རྣམས་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They are not the actions of holy beings.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་དགེ་སྦྱོང་ངམ། བྲམ་ཟེ་གང་ལ་ལ་དག་འདོད་པའི་ཉེས་དམིགས་ཡང་དག་པ་ཇི་ལྟ་བ་བཞིན་དུ་མི་ཤེས་པ་དེ་དག་ནི་བུད་མེད་ལ་ཀུན་ཏུ་རྟོག་ཅིང་མིག་ལ་མཚན་མར་འཛིན་པར་བྱེད་དེ</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-34"/>“Śāriputra, those ascetics and brahmins who do not recognize the flaws of the sense pleasures for what they really are fantasize about women and cling to certain features of their eyes,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.a</prop>
+            <tuv xml:lang="bo">
+                <seg>བཻ་དཱུརྱ་ལྟ་བུའི་འདུ་ཤེས་སུ་བྱེད་ལ་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>perceiving them to be like beryl.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཆུའི་དབུ་བ་བཞིན་དུ་འདུ་ཤེས་སུ་ནི་མི་བྱེད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They do not see them as bubbles of water.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་འདི་ལྟ་སྟེ་དཔེར་ན་བོང་མོ་འབྲངས་པ་དང་། ཕག་མོ་འབྲངས་པ་ནི་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, compare this to the example of a jenny or a sow that has just given birth.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འབྲངས་པས་ལུས་སྟོངས་པར་འགྱུར་ཞིང་ལུས་ལས་ཤ་མ་མི་གཙང་བ་བཙོག་པ་བལྟ་བར་བྱ་བ་མ་ཡིན་པ་འབྱུང་ངོ་། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Her body is emptied by giving birth and a filthy, excrement-like placenta, unbearable to look at, emerges from her body.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་མིག་ཀྱང་དེ་དང་འདྲ་བར་བརྗོད་དེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, eyes, too, ought to be described like that.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ་དཔེར་ན་བོང་མོའི་ཤ་མའམ། ཕག་མོའམ། ཁྱི་མོའི་ཤ་མ་དང་འདྲ་བར་མིག་ཀྱང་དེ་བཞིན་འདུག་སྟེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The eyes resemble the placenta of a jenny, a sow, or a bitch.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.a</prop>
+            <tuv xml:lang="bo">
+                <seg>མིག་གི་འབྲས་བུའི་ནང་དེ་ནི་ཆུའི་ཆུ་བུར་ལྟ་བུར་འདུག་གོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The interior of the eyeball is like a water bubble.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་མི་གཙང་བ་འབྱུང་ཞིང་དེ་ལྟར་མི་འཐུན་པ་སྟེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>That is why filth emerges from it, and it is therefore disagreeable.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.a</prop>
+            <tuv xml:lang="bo">
+                <seg>རྣག་དང་ཁྲག་རབ་ཏུ་འཛག་ཅིང་མི་གཙང་བ་རབ་ཏུ་འཛག་གོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Pus and blood ooze from it—it exudes filth.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་མི་གཙང་བ་རྣག་དང་ཁྲག་རབ་ཏུ་འཛག་ཅིང་ཆུའི་སྙིང་པོ་འཛག་པའི་ལུས་ལ་ཆགས་པ་གང་ཡིན་པ་དེ་ལྟ་བུ་ནི་མིག་ཅེས་བརྗོད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, the bodily formation that leaks filth, pus, and blood, and that leaks essential fluids, that thing is called the eye.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་འདི་ལ་རྒྱུ་གང་གིས་མིག་ཅེས་བྱ་བ་དེའི་རྒྱུ་ནི་གང་རྐྱེན་ནི་གང་ཞེ་ན། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-35"/>“Śāriputra, what is the reason for speaking of the eyes? What are the causes and conditions for their being called eyes ?</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ནི་ལུས་ཀྱི་གཙོ་བོ་ཡིན་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They are the leaders of the body.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.a</prop>
+            <tuv xml:lang="bo">
+                <seg>གཟུགས་ལ་བལྟ་བས་ཐོག་མ་དང་། དབུས་དང་། མཐར་ངོམས་པ་མེད་ལ་ལུས་ཀྱིས་མི་དགེ་བ་རྒྱ་མཚོ་སྙེད་བྱེད་དེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Looking at form, one is never satisfied—whether at first, in the middle, or in the end—and therefore one physically engages in an ocean of non-virtuous deeds.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.a</prop>
+            <tuv xml:lang="bo">
+                <seg>རྒྱུ་དེས་ན་མིག་ཅེས་བྱའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Because of that we speak of eyes.<tei:note xml:id="UT22084-066-003-36"/>
+                </seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་འདི་ལ་གང་གིས་ན་དེ་མིག་ཅེས་བྱ་བའི་རྒྱུ་ནི་གང་རྐྱེན་ནི་གང་ཞེ་ན། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Why is that, Śāriputra? What are the causes and conditions for speaking of eyes?</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.a</prop>
+            <tuv xml:lang="bo">
+                <seg>མི་འཐུན་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It is because they are disagreeable.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་མིག་གི་མི་འཐུན་པ་དེ་གང་ཞེ་ན། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, why are the eyes disagreeable?</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.a</prop>
+            <tuv xml:lang="bo">
+                <seg>གང་གཟུགས་མེད་པ་ལ་གཟུགས་སུ་འདུ་ཤེས་པ་དང་། ཚོར་བ་མེད་པ་ལ་ཚོར་བར་འདུ་ཤེས་པ་དང་། འདུ་ཤེས་མེད་པ་དང་། འདུ་བྱེད་རྣམས་མེད་པ་དང་། རྣམ་པར་ཤེས་པ་མེད་པ་ལ་རྣམ་པར་ཤེས་པར་འདུ་ཤེས་པའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They see the absence of form as form, the absence of sensation as sensation, the absence of perception as perception, the absence of formation as formation, and the absence of consciousness as consciousness.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཡང་འདི་ལ་རྒྱུ་གང་གིས་དེ་མིག་ཅེས་བྱ་བའི་རྒྱུ་ནི་གང་རྐྱེན་ནི་གང་ཞེ་ན། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Again, what is the reason for this? That is, what are the causes and conditions for speaking of eyes?</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.b</prop>
+            <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.29.b"/>འདིས་དགེ་བ་སྤྱོད་པ་ཉམས་པར་བྱེད་དེ་རྒྱུ་དེས་ན་མིག་ཅེས་བྱའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They cause one’s virtuous conduct to degenerate, and therefore we speak of eyes.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འདིས་དགེ་སློང་གི་དངོས་པོ་ལས་ཉམས་པར་བྱེད་པས་ན་མིག་ཅེས་བྱའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They cause monkhood to degenerate, and therefore we speak of eyes.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་མིག་ནི་མི་རྟག་པ། མི་བརྟན་པ། ཐེར་ཟུག་མ་ཡིན་པ་སྟེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, eyes are impermanent, unstable, and do not endure.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.b</prop>
+            <tuv xml:lang="bo">
+                <seg>རྒྱུ་དེས་ན་མིག་ཅེས་བྱ་བར་ཤེས་པར་བྱའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>That is why they should be known as eyes.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་དགེ་སློང་མཁས་པ། མང་དུ་ཐོས་པ། ཞུམ་པ་མེད་པ་རྣམས་ཀྱིས་ནི་མིག་བུད་མེད་མ་ཡིན། སྐྱེས་པ་མ་ཡིན། སེམས་ཅན་མ་ཡིན། སྲོག་མ་ཡིན། གསོ་བ་མ་ཡིན། གང་ཟག་མ་ཡིན་པ་དང་། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-37"/>“Śāriputra, skilled, well-learned, and dauntless monks relate to the eyes in this way: eyes are not a woman, not a man, not a sentient being, not a life principle, not a living being, and not a person.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་དེ་བཞིན་དུ་སྦྱར་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Likewise, Śāriputra, this applies</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.b</prop>
+            <tuv xml:lang="bo">
+                <seg>རྣ་བ་དང་། སྣ་དང་། ལྕེ་དང་། ལུས་དང་། ཡིད་ནི་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>to the ears, nose, tongue, body, and mind.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བུད་མེད་མ་ཡིན། སྐྱེས་པ་མ་ཡིན། སེམས་ཅན་མ་ཡིན། སྲོག་མ་ཡིན། གསོ་བ་མ་ཡིན། གང་ཟག་མ་ཡིན་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They are also not a woman, not a man, not a sentient being, not a life principle, not a living being, and not a person.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་ནི་ཕུང་པོ་ལྔ་ལ་ཕྱིན་ཅི་ལོག་པ་ལས་བྱུང་བའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>These all arise from being mistaken about the five aggregates.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་དགེ་སྦྱོང་ངམ། བྲམ་ཟེ་གང་དག་ཁ་ཅིག་འདོད་པ་རྣམས་ཀྱི་ཉེས་དམིགས་ཡང་དག་པ་ཇི་ལྟ་བ་དེ་བཞིན་དུ་རབ་ཏུ་མི་ཤེས་པ་དེ་དག་ནི་འདོད་ཆགས་ཀྱི་ཡོངས་སུ་གདུང་བས་གདུང་བར་འགྱུར་ལ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-38"/>“Śāriputra, those ascetics and brahmins who do not correctly know the shortcomings of the sense pleasures are tormented by lust.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཁ་དོག་ངན་ཅིང་སྐྱ་སྐྱ་བོར་འགྱུར་རོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Their complexions become poor and pale.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་འདི་ལྟ་སྟེ་དཔེར་ན་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, consider this analogy:</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤིང་ལྗོན་པ་ཆེན་པོའི་ལོ་མའམ། ལྗོན་པའི་འབྲས་བུ་སྨིན་པ་འབྲུལ་བའི་ཚེ་སྐྱ་བོར་འགྱུར་རོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>When the leaves or the ripe fruits of a big tree fall off, they lose their luster.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་དེ་བཞིན་དུ་དགེ་སློང་ངམ། དགེ་སློང་མའམ། དགེ་བསྙེན་ནམ། དགེ་བསྙེན་མ་གང་དག་ཁ་ཅིག་འདོད་པ་རྣམས་ཀྱི་ཉེས་དམིགས་ཡང་དག་པ་ཇི་ལྟ་བ་བཞིན་དུ་རབ་ཏུ་མི་ཤེས་པ་དེ་དག་ནི་འདོད་ཆགས་ཀྱི་ཡོངས་སུ་གདུང་བས་གདུངས་པར་འགྱུར། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>In the same way, Śāriputra, those among monks and nuns, and male and female lay devotees, who do not correctly know the shortcomings of the sense pleasures are tormented by lust.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཁ་དོག་ངན་པར་འགྱུར། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Their complexions become poor,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བསམ་པ་མི་གསལ་བར་འགྱུར། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>their thoughts become unclear,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཁ་དོག་ངན་ཅིང་བལྟ་ན་མི་སྡུག་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>and their poor complexions become unpleasant to look at.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་དགེ་སློང་གང་དག་གསར་བུ་དར་ལ་བབ་པ་གཞོན་ནུ་རབ་ཏུ་བྱུང་ནས་རིང་པོ་མ་ལོན་པ་དེ་དག་ནི་འདོད་པ་རྣམས་དངོས་པོ་མེད་དོ་ཞེས་འདོད་པ་རྣམས་ཡང་དག་པ་ཇི་ལྟ་བ་བཞིན་དུ་རབ་ཏུ་ཤེས་སོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-39"/>“Śāriputra, young monks who are ordained in the prime of their lives will soon correctly know the sense pleasures, understanding that the sense pleasures lack substance.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འདོད་པའི་རྟོག་པ་སྐྱེས་ན་ཡང་མྱུར་བ་ཉིད་དུ་རབ་ཏུ་ཞི་བར་བྱེད་དེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Even if they have thoughts of desire, they quickly pacify them,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་མི་དགེ་བ་ཡིན་པར་ཤེས་པར་ཡང་བྱེད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>recognizing them as being non-virtuous.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་དེ་ལྟར་ན་དགེ་སློང་དག་གིས་འདོད་པ་རྣམས་ཀྱི་ཉེས་དམིགས་མཐོང་ནས་འདོད་པ་དེ་དག་ལས་ཡིད་འབྱུང་བར་བྱེད་འདོད་ཆགས་དང་བྲལ་བར་བྱེད་དེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, that being the case, once monks have seen the shortcomings of the sense pleasures, they are disenchanted and free from desire.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.29.b</prop>
+            <tuv xml:lang="bo">
+                <seg>མངོན་པར་དགའ་ནས་ཚངས་པར་སྤྱད་པ་སྤྱོད་དེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They then truly rejoice and practice pure conduct.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.a</prop>
+            <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.30.a"/>བཞིན་དང་འཕྲལ་བའི་མདངས་གསལ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Their complexions become radiant.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་འདི་ལྟ་སྟེ་དཔེར་ན་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-40"/>“Śāriputra, consider this analogy:</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.a</prop>
+            <tuv xml:lang="bo">
+                <seg>མི་ཞིག་གི་ལུས་ལ་ནད་ཀྱིས་ཐེབས་ལ་རྣག་སྨིན་ནས་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>When pus develops in the body of a sick person,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེའི་ཡན་ལག་དང་ཉིང་ལག་ཐམས་ཅད་ལ་རྨའི་ཁ་བརྒྱད་ཁྲི་བཞི་སྟོང་ཡོད་ལ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>eighty-four thousand sores open up on all of that person’s limbs<tei:note xml:id="UT22084-066-003-41"/> and</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.a</prop>
+            <tuv xml:lang="bo">
+                <seg>རྨའི་ཁ་རེ་རེ་ལ་ཡང་སྲིན་བུའི་ཚོགས་བརྒྱད་ཁྲི་བཞི་སྟོང་ཡོད་དེ</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>each open sore also harbors eighty-four thousand swarms of parasites.<tei:note xml:id="UT22084-066-003-42"/>
+                </seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་མཆུ་རྣོ་ཞིང་མཆུ་ཁ་གཉིས་ན་ཡོད་ལ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>These parasites have both beaks and mouths.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཁ་ཟས་ཡོངས་སུ་ཟོས་པ་རྣམས་ཀྱིས་ཚིམ་པར་མི་འགྱུར་ཞིང་། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>No matter how much they eat, they are never satiated.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་མ་དག་མ་སྤུངས་པའི་དྲུང་དུ་འདུག་ནཇི་ཙམ་ན་སྲོག་ཆགས་དེ་དག་མེས་གདུངས་པར་གྱུར་པ་དང་། དེ་ལ་ཕྱིར་ཞིང་ཟ་བར་བྱེད། ཡོངས་སུ་ཟ་བར་བྱེད་ན། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>If that person sits near a heap of embers,<tei:note xml:id="UT22084-066-003-43"/> the more those creatures are tormented by burning, the more they eat.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་འདི་ཇི་སྙམ་དུ་སེམས། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Now, what do you think about that, Śāriputra?</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.a</prop>
+            <tuv xml:lang="bo">
+                <seg>མི་དེ་སྲོག་ཆགས་དེ་དག་གིས་ཟོས་པ་ཡིན་ནམ། འོན་ཏེ་མ་ཟོས། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>As they consume that person, will those creatures eat the person up, or not?”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-44"/>Venerable Śāriputra replied to the Blessed One,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.a</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་བདག་ནི་འདི་ཐོས་པ་ཉིད་ཀྱིས་ལུས་ཀྱི་སྤུ་ཟིང་ཞེས་བགྱིད་པར་གྱུར་ན། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Blessed One, if even to hear this makes my hair stand on end,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.a</prop>
+            <tuv xml:lang="bo">
+                <seg>མི་དེའི་མི་འཐུན་པ་ལྟ་སྨོས་ཀྱང་ཅི་འཚལ་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>it goes without saying how unpleasant it must be for that person.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.a</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མི་དེ་ནི་སྲོག་ཆགས་ཀྱི་རིགས་དེ་དག་གིས་འཚལ་བ་ལགས་ཀྱི་མ་འཚལ་བ་ནི་མ་ལགས་སོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Blessed One, that person will certainly be eaten up by those varieties of creatures—nothing will be left uneaten.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་སྲོག་ཆགས་བརྒྱད་ཁྲི་བཞི་སྟོང་པོ་དེ་དག་གིས་ལུས་གཡའ་བར་བགྱིད་ཅིང་འདི་ལྟར་ཞི་བར་མི་བགྱིད་ལ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Those eighty-four thousand creatures make the body itch and, in that way, give that person no peace.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.a</prop>
+            <tuv xml:lang="bo">
+                <seg>བདེ་བ་ཐོབ་པར་ཡང་མི་བགྱིད་པ་ལགས་སོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They bring that person no happiness.”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་འདི་ཇི་སྙམ་དུ་སེམས། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-45"/>“Śāriputra, what do you think?</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.a</prop>
+            <tuv xml:lang="bo">
+                <seg>མི་དེའི་ལུས་ལ་རྣག་དང་ཁྲག་འཛག་ཅིང་དེ་ལྟ་བུར་གྱུར་པ་དེ་སྨད་པར་བྱ་བ་ཡིན་ནམ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>That person’s body leaks pus and blood—should that state of affairs be despised?”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.a</prop>
+            <tuv xml:lang="bo">
+                <seg>གསོལ་པ། སྨད་པར་བགྱི་བ་ལགས། མི་འཐུན་པ་ལགས། བལྟ་བར་མི་འོས་པ་ལགས་སོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“It is indeed something to despise, it is indeed disagreeable, it is indeed not something worthy of being looked upon.”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་དེ་བཞིན་དུ་དགེ་སློང་མཁས་པ་དག་ནི་འདི་ལ་སོ་སོ་ཡང་དག་པར་སློབ་སྟེ</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-45"/>“Similarly, Śāriputra, skilled monks train correctly by contemplating as follows:</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.a</prop>
+            <tuv xml:lang="bo">
+                <seg>བུད་མེད་ནི་འདི་ལྟར་བཙོག་པ། འདི་ལྟར་དྲི་ང་བ། འདི་ལྟར་མི་འཐུན་པ། འདི་ལྟར་བལྟ་བར་མི་འོས་པའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>‘The Blessed One has said that women are filthy, foul-smelling, disagreeable, and not worthy of being looked upon.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཉོན་མོངས་པ་ཁོལ་བའི་བུད་མེད་དེ་དག་དང་བསྟེན་པར་བྱ་བ་མ་ཡིན་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Women, boiling with afflictive emotions, should not be kept company with.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འདོད་པ་རྣམས་ནི་དྲི་ང་བའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Desires too are foul-smelling, [disagreeable, and not worthy of being looked upon.’]</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འདོད་པ་རྣམས་ནི་མི་འཐུན་པའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Desires too are [foul-smelling,] disagreeable, [and not worthy of being looked upon.’]</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འདོད་པ་རྣམས་ནི་བལྟ་བར་མི་འོས་པའོ་ཞེས་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Desires too are [foul-smelling, disagreeable, and] not worthy of being looked upon.’</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་སྐྱེས་པའི་ལུས་ལ་ཡོད་པ་ལྟ་བུ་མ་ཡིན་<tei:ref folio="F.30.b"/>པ། བུད་མེད་ལ་ཆེས་ལྷག་པ་སྲིན་བུའི་ཚོགས་ལྔ་ཡོད་དེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-48"/>“Śāriputra, women’s bodies harbor an additional five groups of parasites that are different from those on men’s bodies.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་སྲིན་བུའི་ཚོགས་ལྔ་པོ་དེ་དག་ནི་བུད་མེད་ཀྱི་གཅི་བའི་ལམ་ན་གནས་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, these five groups of parasites live in their urinary tracts.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.b</prop>
+            <tuv xml:lang="bo">
+                <seg>སྲིན་བུའི་ཚོགས་རེ་རེ་ལ་སྲིན་བུ་བརྒྱད་ཅུ་བརྒྱད་ཅུ་ཡོད་ལ། མཆུ་རྣོ་ཞིང་མཆུ་ཁ་གཉིས་ན་ཡོད་དེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Each group of parasites has its own respective eighty parasites that have both beaks and mouths.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་རྟག་ཏུ་རྒྱུན་མི་འཆད་པར་བུད་མེད་ཀྱི་ལུས་ལ་ཟའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>These parasites constantly eat away at women’s bodies.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེས་ན་ཉོན་མོངས་པ་དག་གིས་བུད་མེད་ལོག་པར་གཡེམ་སྤྱོ་སྟེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>That is why women, incited by the afflictions,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འདོད་པ་ཡོངས་སུ་སྤྱོད་པ་དག་གིས་ངོམས་མི་མྱོང་ངོ་། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>engage in sexual misconduct, and yet, when they engage in their passions, they find no satisfaction.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་དེ་ལྟར་ན་འདོད་པ་རྣམས་ནི་ཉེས་དམིགས་ཡིན་པར་མཐོང་ན་དེ་དག་འདོད་པ་རྣམས་ལས་ཡིད་འབྱུང་བར་འགྱུར། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-49"/>“Therefore, Śāriputra, if one sees the sense pleasures as being ridden with faults, one will be disenchanted</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འདོད་ཆགས་དང་བྲལ་བར་འགྱུར་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>and free from desire.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.b</prop>
+            <tuv xml:lang="bo">
+                <seg>མངོན་པར་དགའ་ནས་ཚངས་པར་སྤྱད་པ་སྤྱོད་ཅིང་བཞིན་དང་འཕྲལ་བའི་མདངས་གསལ་བ་ཡིན་ནོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>One will then engage in pure conduct with delight, and one’s complexion will glow.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་འདི་ནི་འདོད་པའི་ཕུང་པོ་ལས་བརྩམས་ནས་ཆོས་བསྟན་པ་ཡིན་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, this is the Dharma teaching that begins with a section on the sense pleasures.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་འདོད་པ་ཡོངས་སུ་སྤྱོད་པ་དག་ལས་ཡིད་འབྱུང་བར་བྱའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, one should be disenchanted with indulgence in passion.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་ཀུན་ནས་ཉོན་མོངས་པ་གང་ཞེ་ན། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-50"/>“Now Śāriputra, what is defilement?</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་ཀུན་ནས་ཉོན་མོངས་པ་ནི་རང་གིས་བྱས་པའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, defilement is one’s own doing.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་རྣམ་པར་བྱང་བ་དང་རྣམ་པར་ཞི་བ་གང་ཞེ་ན། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, what are purification and pacification?</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་རྣམ་པར་བྱང་བ་དང་རྣམ་པར་ཞི་བ་ནི་རང་གིས་བྱས་པའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, purification and pacification are also one’s own doing.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་ཀུན་ནས་ཉོན་མོངས་པ་ནི་གང་། རང་གིས་བྱས་པ་ནི་གང་ཞེ་ན། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, what is defilement and what is one’s own doing?</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཆོས་སུ་འདུ་ཤེས་པ་ལ་མངོན་པར་ཞེན་པ་གང་ཡིན་པའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They are the obsession with perceiving things as phenomena.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཆོས་སུ་འདུ་ཤེས་པ་ལ་མངོན་པར་ཞེན་པ་གང་ཞེ་ན། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>What is the obsession with perceiving things as phenomena?</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ། སྐྱེ་བར་འདུ་ཤེས་པ་དང་། འགག་པར་འདུ་ཤེས་པ་དང་། བདག་ཡོད་པ་དང་། བདག་མེད་པར་བདག་ཏུ་འདུ་ཤེས་པ་ལ་མངོན་པར་ཞེན་པ་ཡོད་དེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It is to be obsessed with perceiving things as being born and as ceasing, and perceiving things as having a self, as not having a self, or as being the self.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ནི་དེ་བཞིན་གཤེགས་པས་ཆོས་ཀྱི་ཕུང་པོ་ཞེས་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>This is the section of Dharma spoken by the Blessed One.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་བྱིས་པ་སོ་སོའི་སྐྱེ་བོ་རྣམས་ནི་ལོང་བ་ཡིན་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-51"/>“Śāriputra, childish, ordinary beings are blind and thus</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.b</prop>
+            <tuv xml:lang="bo">
+                <seg>གཟུགས་ཀྱི་ཕུང་པོའོ་ཞེས་རློམ་སེམས་སུ་བྱེད། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>conceptualize the form aggregate.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཚོར་བ་དང་། འདུ་ཤེས་དང་། འདུ་བྱེད་རྣམས་དང་། རྣམ་པར་ཤེས་པའི་ཕུང་པོའོ་ཞེས་རློམ་སེམས་སུ་བྱེད་དེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They also conceptualize the aggregates of sensation, perception, formation, and consciousness. But</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.b</prop>
+            <tuv xml:lang="bo">
+                <seg>རློམ་སེམས་སུ་བྱེད་ན་འཆིང་ངོ་། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>conceptualizing is bondage.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.b</prop>
+            <tuv xml:lang="bo">
+                <seg>རློམ་སེམས་སུ་མི་བྱེད་ན་གྲོལ་ལོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Not to form concepts is to be liberated.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.30.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་རློམ་སེམས་སུ་བྱེད་པ་གང་ཡིན་པ་དེ་ནི་གཟུགས་ཀྱི་ཕུང་པོར་འགྱུར་རོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, whoever conceptualizes will take on the form aggregate.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་བཅུ་པོ་འདི་དག་ནི་ཚུལ་ཁྲིམས་འཆལ་པའི་<tei:ref folio="F.31.a"/>འཆལ་པའི་ཚུལ་ཁྲིམས་ཀྱི་ཉེས་པ་ཡིན་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-52"/>“Śāriputra, there are ten misfortunes that befall someone whose discipline has lapsed.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.a</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅུ་གང་ཞེ་ན། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>What are the ten?</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཚུལ་ཁྲིམས་འཆལ་པ་ནི་འཆི་བའི་དུས་ཀྱི་ཚེ་གདུང་བར་འགྱུར་བ་དང་། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Lapsed discipline will torment one at the time of death.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དགེ་སློང་ཚུལ་ཁྲིམས་ཉམས་པ་འགྱོད་པར་འགྱུར་བ་དང་། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>A monk whose discipline has lapsed will feel regret.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.a</prop>
+            <tuv xml:lang="bo">
+                <seg>མནར་མེད་པར་འགྲོའོ་ཞེས་འཁོར་གྱི་ནང་ན་འདུག་ན་སྐྲག་པ་དང་། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Saying, ‘I am going to go to the hell of unrelenting torment!’ the monk will be afraid to stay among the assembly.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.a</prop>
+            <tuv xml:lang="bo">
+                <seg>བདག་ཉིད་ཚུལ་ཁྲིམས་ལ་སྐུར་པ་འདེབས་པ་དང་། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The monk will think, ‘I am disparaging the discipline!</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.a</prop>
+            <tuv xml:lang="bo">
+                <seg>བདག་ནི་སངས་རྒྱས་རྣམས་ཀྱིས་ཡོངས་སུ་སྤངས་པ་དང་། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The buddhas have forsaken me,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.a</prop>
+            <tuv xml:lang="bo">
+                <seg>བདག་ནི་ཉན་ཐོས་རྣམས་ཀྱིས་ཡོངས་སུ་སྤངས་པ་དང་། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>the hearers have forsaken me,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.a</prop>
+            <tuv xml:lang="bo">
+                <seg>བདག་ནི་ལྷ་རྣམས་ཀྱིས་ཡོངས་སུ་སྤངས་པའོ་སྙམ་པ་དང་། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>the gods have forsaken me!’</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འཆི་བའི་ཚེ་འཇིགས་པ་དང་བཅས་པ་དང་། ངན་འགྲོར་འགྲོ་བ་དང་། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>He will be fearful at death, go to the lower realms,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.a</prop>
+            <tuv xml:lang="bo">
+                <seg>མིའི་ལུས་ཐོབ་པར་དཀའ་བའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>and a human body will be difficult to obtain.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་དེ་དག་ནི་དགེ་སློང་ཚུལ་ཁྲིམས་འཆལ་པའི་འཆལ་པའི་ཚུལ་ཁྲིམས་ཀྱི་ཉེས་པ་སྟེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, these are the misfortunes of a monk whose discipline has lapsed—</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཚུལ་ཁྲིམས་འཆལ་པ་ནི་འཆི་བའི་དུས་ཀྱི་ཚེ་གདུང་བ་འབྱུང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>one whose discipline has lapsed will suffer torment at the time of death.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་དེ་ལྟ་བས་ན་འདོད་པ་རྣམས་ལ་ཉེས་དམིགས་ཀྱི་འདུ་ཤེས་བསྐྱེད་པར་བྱའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-53"/>“Śāriputra, since that is the case, you should come to perceive sense pleasures as ridden with faults.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་འདི་ལ་དགེ་སློང་དགོན་པ་ན་གནས་པའམ། ཤིང་དྲུང་ན་གནས་པའམ། ཁང་སྟོང་ན་གནས་པའམ། བླ་གབ་མེད་པ་ན་གནས་པ་ནི་འདོད་པ་རྣམས་ནི་དྲི་ང་བའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, that means that whether a monk dwells in the forest, at the base of a tree, in an abandoned building, or out in the open, [he should train himself by thinking,] ‘The sense pleasures are foul-smelling.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འདོད་པ་རྣམས་ནི་མི་འཐུན་པའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The sense pleasures are disagreeable.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འདོད་པ་རྣམས་ནི་རྨའི་ཁ་ལྟ་བུའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The sense pleasures are like an open wound.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འདོད་པ་རྣམས་ནི་བལྟ་བར་མི་འོས་པའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The sense pleasures are not worthy of being looked upon.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འདོད་པ་རྣམས་ནི་སྨད་པར་བྱ་བའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The sense pleasures are despicable.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.a</prop>
+            <tuv xml:lang="bo">
+                <seg>འདོད་པ་རྣམས་ནི་བཤང་བས་ཡོངས་སུ་གང་བའི་རོ་ལྟ་བུའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The sense pleasures are like a corpse filled to the brim with excrement!’</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཞེས་དེ་ལྟར་སོ་སོར་ཡང་དག་པར་སློབ་བོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>he should train himself by thinking,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་ནི་བྱིས་པ་འཕྱར་བའི་སྤྱོད་ཡུལ་ཡིན་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The sense pleasures are objects of excitement for the childish.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་བུད་མེད་ལ་སྟེན་པ་དང་བསྙེན་པས་ཆོག་གོ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, enough of enjoying women sexually and pleasing them!</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་བུད་མེད་ཀྱི་ལུས་ཕྱི་ས་དང་མཆིལ་མས་ཡོངས་སུ་གང་བ་དེ་ལ་སུ་ཞིག་དགའ་སྟེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-54"/>“Śāriputra, a woman’s body is completely filled with feces and spittle—who would enjoy that?</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་དེ་དག་ནི་འཇིག་རྟེན་གྱི་ཁྱི་རོ་རུལ་པ་དང་འདྲ་བར་སྨད་པར་བྱ་བ་ཡིན་ནོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, their bodies are to be despised just like the rotten corpse of an ordinary dog.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་འདི་ལྟ་སྟེ་དཔེར་ན། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Indeed, Śāriputra, as an analogy</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཁྱི་རོ་མི་གཙང་བ་རུལ་བ། དྲི་ང་བ། མདོག་མི་སྡུག་ཅིང་སྔོ་ལ་པགས་པ་མུགས་པ། སྲོག་ཆགས་ཀྱིས་ཡོངས་སུ་གང་བ་ཞིག་ལམ་ཀ་ན་སྣང་ལ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>consider a filthy, rotten, and foul-smelling corpse of a dog with repulsive, dark bluish-green skin, completely full of maggots, lying on a roadside.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེའི་སྟེང་ན་ཆར་པ་ཡང་བབ་ཅིང་དེ་རླུང་གིས་ཀྱང་ཀུན་ནས་བཏབ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Rain falls on the corpse and the wind tosses it about.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེར་མི་རྣམས་ཀྱང་ཀུན་ནས་འཁོར་བར་གྱུར་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then some people arrive there, circling around the corpse, and</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་གིས་དྲི་དེ་ཚོར་ན། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>catch a whiff of its smell.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་འདི་ཇི་སྙམ་དུ་སེམས། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>When that happens, Śāriputra, what do you think?</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.b</prop>
+            <tuv xml:lang="bo">
+                <seg>མི་<tei:ref folio="F.31.b"/>དེ་དག་དྲི་མི་ཞིམ་པ་དེ་སྣོམ་པར་བྱེད་དམ། འོན་ཏེ་མི་སྣོམ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Will they sniff at its stench or not?”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །དེ་སྐད་ཅེས་གསོལ་པ་དང་། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“O Blessed One, certainly not!” exclaimed Śāriputra.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-56"/>The Blessed One then asked venerable Śāriputra,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་འདི་ཇི་སྙམ་དུ་སེམས། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“So what do you think, Śāriputra?</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.b</prop>
+            <prop type="alternative-source">Follows KY, K, C, and U, see note.</prop>
+            <tuv xml:lang="bo">
+                <seg>ཁྱི་རོ་དེ་ལ་རིག་པར་བྱེད་དམ། སྐྱོད་པར་བྱེད་དམ། མངོན་པར་དགའ་བར་བྱེད་ན། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>If someone touched<tei:note xml:id="UT22084-066-003-57"/> the corpse of that dog, if he shook it, if he enjoyed himself with it,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་སྐྱེ་བོ་མང་པོས་བསྔགས་པར་བྱ་བ་ཡིན་ནམ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>would he be praised by many people?”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལ་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>replied venerable Śāriputra.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་སྐད་ཅེས་གསོལ་པ་དང་། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Such a person would be difficult even to look at— how could he ever be praised?”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-56"/>The Blessed One then said to venerable Śāriputra,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་ཁྱི་རོ་དེ་ལ་འཁྱུད་པར་བྱེད་པའམ། སྐྱོད་པར་བྱེད་པའམ། མངོན་པར་དགའ་བའི་མི་དེ་ལ་ནི་དེ་བཞིན་གཤེགས་པ་བསྔགས་པ་མཛད་ཀྱི། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Śāriputra, the thus-gone ones might praise the person who embraces, shakes, and enjoys himself with that dog’s corpse.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.b</prop>
+            <tuv xml:lang="bo">
+                <seg>གང་ཞིག་བུད་མེད་ཡུལ་གྱི་བཟང་མོ་ན་ཚོད་ལོ་བཅུ་དྲུག་ལོན་པའམ། ལྷག་པ་ལྟ་བུ། གཟུགས་བཟང་བ། མཛེས་པ་བལྟ་ན་སྡུག་པ། ནུ་མ་རྒྱས་པས་མཛེས་པ། རྒྱན་གྱིས་བརྒྱན་པ། ཤིན་ཏུ་གཞོན་པ། རེག་ན་བདེ་བ། ནད་དང་བྲལ་བ་དེ་ལ་ཐ་ན་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>a woman, even if she is the beauty of the land, sixteen years old, an excellent woman, with a beautiful form, who is lovely to behold, with delightful full breasts, adorned with jewelry, youthful, pleasant to touch, and free of disease.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.b</prop>
+            <tuv xml:lang="bo">
+                <seg>རྐང་པའི་མཐེ་བོས་རེག་པར་བྱེད་པའི་མི་དེ་ལ་ནི་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>even with just his toe, touches</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པས་བསྔགས་པར་མི་མཛད་དེ</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>However, they would not praise a person who,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་ཡུལ་གྱི་བཟང་མོ་དེ་ལ་ཐ་ན་རྐང་པའི་མཐེ་བོས་རེག་པར་བྱེད་པའི་མི་གང་ཟག་དེ་ལྟ་བུ་དེ་ནི་ཤིན་ཏུ་སྨད་པར་བྱ་བ་ཡིན་ཏེ། ཁྱི་རོ་དེ་ལ་འཁྱུད་པར་བྱེད་པའམ། སྐྱོད་པར་བྱེད་པའམ། མངོན་པར་དགའ་བར་བྱེད་པ་ནི་དེ་ལྟ་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, a person who touches such a beauty of the land with even just his toe is despicable, unlike the one who embraces, shakes, and enjoys himself with that dog’s corpse.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་འདི་ཇི་སྙམ་དུ་སེམས། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, what do you think about this?</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཁྱི་རོ་ལ་འཁྱུད་པའམ། རེག་པས་སེམས་ཅན་དམྱལ་བར་འགྲོ་བར་འགྱུར་རམ། གསོལ་པ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>By embracing or touching a dog’s corpse, will sentient beings end up being born in the hell realms?”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་སོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“No, Blessed One, they will not.”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བཀའ་སྩལ་པ། ཤཱ་རིའི་བུ་འདི་ལྟར་དགེ་སློང་གིས་འདོད་པ་རྣམས་ལ་ཉེས་དམིགས་ཀྱི་འདུ་ཤེས་བསྐྱེད་པར་བྱའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-61"/>“Śāriputra, monks must develop the perception of the faults of the sense pleasures in the following way.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.31.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་ཇི་ལྟར་ན་དགེ་སློང་གིས་ལུས་ལ་ཉེས་དམིགས་ཀྱི་འདུ་ཤེས་བསྐྱེད་པར་བྱ་ཞེ་ན། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, how should monks develop the perception of the faults of the body?</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་ལུས་འདི་ནི་གནོད་པ་མང་བའོ། <tei:ref folio="F.32.a"/>འཁྲུག་པ་མང་བའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, this body is very harmful and troublesome.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་བུད་མེད་ཀྱི་ལུས་ལ་ནི་སྐྱེས་པའི་ལུས་ལ་ཡོད་པ་ལྟ་བུ་མ་ཡིན་པ་ཆེས་ལྷག་པ་སྲིན་བུའི་ཚོགས་ཉི་ཤུ་རྩ་ལྔ་ཡོད་དེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, women’s bodies have twenty-five more groups of parasites that are not like the ones present in men’s bodies.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་བུད་མེད་ཀྱི་མགོ་ཀླད་པའི་ནང་ན་སྲིན་བུའི་ཚོགས་འཕྲོག་བྱེད་ཅེས་བྱ་བ་དག་ཡོད་དེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, there are masses of parasites in women’s brains.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་བུད་མེད་ཀྱི་ཀླད་པ་ལ་ཟ་བར་བྱེད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Known as the robbers , they eat the brains of women.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་བུད་མེད་ཀྱི་སྣའི་ནང་ན་སྲིན་བུའི་ཚོགས་ཁ་རྫོགས་ཞེས་བྱ་བ་དག་ཡོད་དེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, there are masses of parasites in women’s noses.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་བུད་མེད་ཀྱི་ཁ་སྤུ་ལ་ཟ་སྟེ། དེས་ན་བུད་མེད་ལ་ཁ་སྤུ་མི་སྐྱེའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Known as the mouth terminators , they eat women’s moustaches, thus preventing them from growing.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་བུད་མེད་ཀྱི་རྣ་ཁུང་ན་སྲིན་བུའི་ཚོགས་ཟ་བར་བྱེད་པ་ཞེས་བྱ་བ་དག་ཡོད་དེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, there are masses of parasites in women’s ears. Known as the eaters,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་བུད་མེད་ཀྱི་རྣ་བ་ལ་ཟ་ཞིང་བུད་མེད་ཀྱི་རྣ་བ་འབིགས་པར་བྱེད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>they eat and pierce the ears of women.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་བུད་མེད་ཀྱི་མགྲིན་པའི་མཚམས་དང་མགོ་བོའི་མཚམས་ལ་སྲིན་བུའི་ཚོགས་ཞེན་བྱེད་ཅེས་བྱ་བ་དག་ཡོད་དེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-62"/>“Śāriputra, there are masses of parasites on the sides of women’s necks and heads. Known as the yearners,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་བུད་མེད་ཀྱི་རྣ་བ་ཟ་ཞིང་བུད་མེད་ཀྱི་རྣ་བ་འབིགས་པར་བྱེད་ལ་མིག་ཀྱང་རྣོ་བར་བྱེད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>they eat and pierce the ears of women and make their eyes sharp.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་སྐྱེས་པའི་རྣ་བ་ལ་མི་འབིགས་ཀྱི་བུད་མེད་ཀྱི་རྣ་བ་ལ་འབིགས་སོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, they don’t prick the ears of men but only those of women.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་བུད་མེད་ལ་སྲིན་བུའི་ཚོགས་ཨ་བ་རེ་བན་ཞེས་བྱ་བ་དག་ཡོད་དེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, there are masses of parasites on women’s bodies. Known as the obstructors,<tei:note xml:id="UT22084-066-003-63"/>
+                </seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་རྟག་ཏུ་རྒྱུན་མི་འཆད་པར་བུད་མེད་ཀྱི་ཁ་ལ་ཟ་སྟེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>they incessantly eat women’s mouths.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེས་ན་བུད་མེད་ཀྱི་མགུལ་དམའ་བ་ཡིན་ཏེ། སྐྱེས་པ་ལ་ནི་དེ་ལྟ་བུ་མེད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>That is why the throats of women are flat, unlike those of men.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.a</prop>
+            <tuv xml:lang="bo">
+                <seg>བཟའ་བ་དང་བཅའ་བ་ཁར་བཅུག་མ་ཐག་ཏུ་ཐོག་མར་དེ་དག་ཟ་བར་བྱེད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>As soon as women put food or drink in their mouths, the parasites are the first to eat.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་ཉལ་ཉིལ་བུད་མེད་ཀྱི་ནུ་མའི་ནང་དུ་འཇོག་སྟེ། དེས་ན་བུད་མེད་ནུ་མ་འཕྱང་བ་ཡིན་ནོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They then deposit their waste inside women’s breasts, making their breasts hang down.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.a</prop>
+            <tuv xml:lang="bo">
+                <seg>གང་གི་ཚེ་བུད་མེད་སྦྲུམ་པར་གྱུར་པ་དེའི་ཚེ་སྲིན་བུ་དེ་དག་ཀྱང་སྦྲུམ་པར་གྱུར་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Whenever women become pregnant, the parasites also become pregnant.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེས་ན་བུད་མེད་ཀྱི་ནུ་ཞོ་མང་བ་ཡིན་ནོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>That is why there is so much milk in women’s breasts.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་བུད་མེད་ཀྱི་ལུས་ཀྱི་ནང་མངལ་གྱི་གནས་གང་ན་མངལ་ཡོད་པའི་ཕྱོགས་དེ་ན་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-64"/>“Śāriputra, inside the part of women’s bodies where the womb lies,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.a</prop>
+            <tuv xml:lang="bo">
+                <seg>སྲིན་བུ་ཟད་པར་བྱེད་པ་དཔའ་བ་ཞེས་བྱ་བ་དག་ཡོད་དེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>there are destructive parasites known as the mighty exterminators .</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་སྲིན་བུ་རབ་ཏུ་ལྡག་བྱེད་ཅེས་བྱ་བ་དག་བསད་ནས་ཟའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They kill and eat the parasites known as the lickers .</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.a</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་སྲིན་བུ་རབ་ཏུ་ལྡག་བྱེད་དེ་དག་མ་རྙེད་ན་དེ་དག་ཀྱང་འཆིའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>If they cannot find any of the parasites known as the lickers, they too will die.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.a</prop>
+            <tuv xml:lang="bo">
+                <seg>སྲིན་བུའི་ཚོགས་དེ་གཉིས་ཀ་ཤི་སྟེ་མེད་པ་དང་། ཕ་མ་འདུས་པ་ལས་མངལ་ཆགས་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Pregnancy comes about from the death, and thus the absence, of those two types of parasites, in addition to the union of mother and father.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.a</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་བུད་མེད་ཀྱི་ལུས་ལ་ལུས་ཀྱི་ནང་སྐྱེ་གནས་ཀྱི་སྒོ་ན་སྲིན་བུའི་ཚོགས་བཞི་ཡོད་དེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, in the birth canal inside women’s bodies, there are four hosts of parasites</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ། མཆུ་མཆོག་<tei:ref folio="F.32.b"/>ཅེས་བྱ་བ་དང་། གོང་བུ་སྦེད་ཅེས་བྱ་བ་དང་། རླུང་འབྱིན་ཅེས་བྱ་བ་དང་། འདོད་ལེན་ཅེས་བྱ་བ་སྟེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>that are known as the great lips, the lump concealers , the wind expellers , and the desire catchers .</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་རྟག་ཏུ་རྒྱུན་མི་འཆད་པར་བུད་མེད་ཀྱི་ལུས་ལ་ཟ་སྟེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They incessantly eat at the bodies of women.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེས་ན་བུད་མེད་ཉོན་མོངས་པ་རྣམས་ཀྱིས་ཤིན་ཏུ་འབར་བར་བྱས་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Because of this, women are completely ablaze with afflictions,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འདོད་པ་ཡོངས་སུ་སྤྱད་པས་མི་ངོམས་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>yet are never satisfied by indulging in their desires.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ལྟ་བས་ན་དེ་བཞིན་གཤེགས་པས་བུད་མེད་ཀྱི་སྐྱོན་ཆེས་ལྷག་པ་དེ་དག་མཁྱེན་ནས་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Consequently, knowing that women have such great faults, the Thus-Gone One</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བསླབ་པའི་གཞི་ལྷག་པ་དང་བཅའ་བར་མཛད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>added additional rules to the fundamental precepts.<tei:note xml:id="UT22084-066-003-65"/>
+                </seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་ཆོས་ཀྱི་ཕུང་པོའི་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ཡང་དང་ཡང་དུ་འཁོར་བཞི་པོ་དག་ལ་སྟོན་ཅིག །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-66"/>“Śāriputra, you should teach this Dharma discourse on the sections of Dharma over and over again to the four assemblies.<tei:note xml:id="UT22084-066-003-67"/>
+                </seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ཅིའི་ཕྱིར་ཞེ་ན། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Why?</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འདོད་པ་རྣམས་ནི་སྨད་པར་བྱ་བ་ཡིན་པར་ཤེས་པར་འགྱུར། ལུས་ནི་སྨད་པར་བྱ་བ་ཡིན་པར་ཤེས་པར་འགྱུར་བའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>So that they will come to know that the body and the sense pleasures are to be despised.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་དེ་ལྟར་ལུས་འདི་བཅོས་མ་ཡིན་པར་ཤེས་ནས་བྱིས་པ་སོ་སོའི་སྐྱེ་བོ་ཐོས་པ་དང་མི་ལྡན་པ་མ་གཏོགས་པར་སུ་ཞིག་འདོད་པ་རྣམས་ལ་སྟེན་པར་བྱེད་དེ་དེ་ ནི་གནས་མེད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, knowing this body to be a fabrication, apart from immature, ordinary beings with no education, no one would continue clinging to the sense pleasures—it would be impossible.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་དེ་ལྟ་བས་ན་ལུས་འདི་ལ་མངོན་པར་དགའ་བར་མི་བྱ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāriputra, that being the case, you should not be fond of this body.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ལྷག་པར་ཆགས་པར་མི་བྱའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>In particular, do not be attached to it.”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ཏེ་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thus spoke the Blessed One.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བདེ་བར་གཤེགས་པས་དེ་སྐད་གསུངས་ནས་དེ་བཞིན་དུ་སྟོན་པས་གཞན་ཡང་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-68"/>After the Blissful One had uttered those words, the Teacher continued, saying the following:</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ལུས་ནི་མི་གཙང་ལས་བྱུང་སྟེ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“These bodies that arise from filth</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.b</prop>
+            <tuv xml:lang="bo">
+                <seg>རྟག་ཏུ་སྲོག་ཆགས་རྣམས་ཀྱང་གནས། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Are always home to many creatures.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.b</prop>
+            <tuv xml:lang="bo">
+                <seg>གཅིན་དང་རྟུག་པས་རབ་གང་ན། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Filled to the brim with urine and excrement,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ལ་བྱིས་པ་རབ་ཏུ་ཆགས། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It is to these that immature beings cling.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དགེ་སློང་ཕ་དང་དགེ་སློང་མ། །དགེ་བསྙེན་ཕ་དང་དགེ་བསྙེན་མ། །འདི་ཐོས་ནས་ནི་འདོད་ཆགས་འབྲལ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-70"/>“Monks and nuns, Laymen and laywomen, Upon hearing this, let go of their desire.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འདོད་ཆགས་བྲལ་ནས་རྣམ་པར་གྲོལ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Free from desire, they are liberated.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཆོས་དང་ལྡན་པ་རྣམས་ལ་ནི། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-71"/>“To practitioners of the Dharma</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཉེས་པ་འདི་དག་ངས་མ་བསྟན། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>I did not teach these faults.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.b</prop>
+            <tuv xml:lang="bo">
+                <seg>གང་དག་འདོད་ལ་ལོངས་སྤྱོད་པ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It is to whomever indulges in desires</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.b</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་ལ་ནི་སྐྱོན་རྣམས་བཤད། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>That I explained these faults.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.b</prop>
+            <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཀྱིས་ནི་བསྟན་པ་བཞིན། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-72"/>“Just as the Buddha has taught,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བུད་མེད་མཐོང་ན་སུ་རྟོག་སྟེ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Once those who fantasize upon seeing women</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཡང་དག་བསྐུལ་བ་ཤེས་ནས་སུ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Understand this genuine encouragement, Those wise ones will no longer have such thoughts.”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.b</prop>
+            <tuv xml:lang="bo">
+                <seg>མཁས་པ་དེ་དག་རྟོག་མི་བྱེད། །བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-72"/>After the Blessed One had spoken these words,</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.b</prop>
+            <tuv xml:lang="bo">
+                <seg>ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དུ་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>venerable Śāriputra, together with the whole world and its gods, humans, and demigods, rejoiced and</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.b</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>praised the teaching of the Blessed One.</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.32.b</prop>
+            <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ཆོས་ཀྱི་ཕུང་པོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།། །།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-72"/>This concludes the Noble Great Vehicle Sūtra “ The Sections of Dharma .”</seg>
+            </tuv>
+        </tu>
+        <tu>
+            <prop type="folio">F.33.a</prop>
+            <tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་<tei:ref folio="F.33.a"/>མཁན་པོ་པྲཛྙཱ་བར་མ་དང་། ཞུ་ཆེན་གྱི་ལོཙྪ་བ་བན་དེ་ཡེ་ཤེས་སྡེས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-003-72"/>The Indian scholar Prajñāvarman and the chief editor-translator, venerable Yeshé Dé, translated, edited, and finalized this work.</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

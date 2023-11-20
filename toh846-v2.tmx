@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-100-001" eft:text-version="v-1.1.7-2020"/>
+<body>
+<tu>
+            <prop type="folio">F.1.b</prop>
+	<tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.1.b"/>༄༅༅། །སྤྱན་འདྲེན་རྒྱུད་གསུམ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Threefold Invocation Ritual</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.1.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བླ་མའི་བླ་མ་བླ་མེད་དཀོན་མཆོག་གསུམ། །ཆེ་བའི་ཆེ་མཆོག་དབང་མཆོག་དམ་པ་ལ། །གུས་པས་ཕྱག་འཚལ་དང་བས་སྐྱབས་སུ་མཆི། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-001-10"/>I take refuge with sincere devotion and reverence In the highest guru, the unsurpassed Three Jewels, And the greatest of them all, the sublime supreme lord.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.1.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གནམ་སའི་མངའ་བདག་སྐྱེ་དགུའི་ལོངས་སྤྱོད་གཞི། །བསྟན་པ་དམ་པ་ཆོས་ཀྱི་མགོན་མཛད་པ། །ཚངས་པ་བརྒྱ་བྱིན་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-001-11"/>Brahmā and Śakra—lords of heaven and earth, Source of all beings’ wealth, and protectors Of the Dharma, the supreme teaching;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.1.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྒྱལ་ཆེན་ཡུལ་འཁོར་སྲུང་། །འཕགས་སྐྱེས་མིག་མི་བཟང་དང་ལུས་ངན་བོ། །འཇིག་རྟེན་སྐྱོང་བ་དབང་པོ་མེ་ལྷ་དང་། །གཤིན་རྗེ་བདེན་བྲལ་ཆུ་ལྷ་རླུང་གི་ལྷ། །རྣམ་ཐོས་བུ་དང་དབང་བདག་ས་ཡི་ལྷ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>great kings Dhṛtarāṣṭra, <tei:milestone xml:id="UT22084-100-001-12"/>Virūḍhaka, Noble Virūpākṣa, and Kubera; World protectors Indra, Agni, Yama, Nairṛta, Varuṇa, Vāyu, <tei:milestone xml:id="UT22084-100-001-13"/>Vaiśravaṇa, Īśāna, and Pṛthivīdevatā;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.1.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཉི་ཟླ་གཟའ་སྐར་ཕྱོགས་ཀྱི་གླང་པོ་རྣམས། །བློན་པོ་སྡེ་དཔོན་ལྷ་མོ་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Sun, Moon, grahas, nakṣatras, the elephants of the quarters, And the general, minister, and queen;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.1.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྱོགས་མཚམས་སྲུང་། །བཙུན་མོ་སྲས་བཅས་སོ་སོའི་འཁོར་ཀུན་དང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>the guardians of the directions, <tei:milestone xml:id="UT22084-100-001-14"/>Each with their full retinue of queens and princes;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.1.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྷ་ཡི་སྡེ་དཔོན་ཆེན་པོར་མཚན་གྲགས་པ། །ཁྱབ་འཇུག་ཚོགས་བདག་ནནྟི་ཀརྟི་ཀ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Renowned great commanders of the gods Such as Viṣṇu, Gaṇapati, Nandi, and Kārttikeya;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.1.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ནག་པོ་ཆེན་པོ་སྟོབས་ཆེན་སྟོབས་པོ་ཆེ། །གནོད་འཛིན་པདྨ་པདྨ་ཆེན་པོ་དང་། །དུང་དང་དུང་ཆེན་གང་པོ་ཤིན་ཏུ་གང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-001-15"/>Great and powerful Mahākāla, Mahābala, Jambhala, Padma, and Mahāpadma, Śaṅkha and Mahāśaṅkha, Pūrṇa and Supūrṇa,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མགྲིན་བཟང་<tei:ref folio="F.2.a"/>གང་བ་བཟང་པོ་ནོར་བུ་བཟང་། །བུམ་རྣ་དྲིལ་རྣ་རྣ་གསུམ་རྣ་བོ་ཆེ། །ཡང་དག་ཤེས་དང་ཡང་དག་རྒྱལ་བ་དང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-001-16"/>Sugrīva, Pūrṇabhadra, Maṇibhadra, Kumbhakarṇa, Ghaṇṭākarṇa, Trikarṇa, Mahākarṇa, Sañjñeya and Sañjaya,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྒྱལ་བའི་ཁྱུ་མཆོག་འབྲོག་གནས་གངས་ལ་གནས། །བདེ་རི་ལྔས་རྩེན་ལྔ་ལེན་ཚིགས་ལྔ་སེར། །མགྲིན་བཅུ་རྣམ་འཇིགས་འབྲུག་སྒྲ་ནམ་མཁའི་དབྱངས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-001-17"/>Jinarṣabha, Āṭavaka, Haimavata, Sātāgiri, Pāñcika, Pāñcāla­gaṇḍa, Pāñcālaka, Daśagrīva, Vibhīṣaṇa, Meghanāda, Gagana­ghoṣa,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.a</prop>
+            <prop type="alternative-source"/>
+	<tuv xml:lang="bo">
+                <seg>སྟོང་གསུམ་རྒྱ་མཚོ་དགའ་བོ་བསྙེན་དགའ་བོ། །མ་དྲོས་གཟི་ཅན་ནོར་རྒྱས་གདོན་ལ་འཇེབས། །དྲང་སྲོང་རིག་འཛིན་ཆར་སྤྲིན་ལོ་ཏོག་ལྷ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-001-18"/>Triśirṣaka,<tei:note xml:id="UT22084-100-001-19"/> Sāgara, Nanda, Upananda, Anavatapta, Manasvin, Vāsuki, and the hosts of grahas;<tei:note xml:id="UT22084-100-001-20"/> Rṣis, vidyādharas, gods of the rains and harvest,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལམ་ལྷ་ཉིན་མཚན་དུས་མཚམས་ཚེས་གྲངས་ཡུད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-001-21"/>Gods of the road, of the day, the night, conjunctions, lunar phases, and moments;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཧ་ནུ་མན་ཏ་ལ་སོགས་མཐུ་ཆེན་དང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Powerful beings such as Hanuman and the like;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.a</prop>
+            <prop type="alternative-source"/>
+	<tuv xml:lang="bo">
+                <seg>ཚིག་དབང་ལྷ་མོ་སྒྲ་དབྱངས་དབྱངས་ཅན་དང་། །བེའུ་འདྲ་དཔལ་གྱི་ལྷ་མོ་འོད་ཟེར་ཅན། །དཀར་ཤམ་བརྗོད་སྐྱོབ་གང་གཱ་ཡ་མུ་ན། །སྲས་འཕན་དུང་ཅན་རི་མཁར་ནག་མོ་དང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Vāgīśvarī, Svaraghoṣā, and Sarasvatī; <tei:milestone xml:id="UT22084-100-001-22"/>Vatsavatī, Śrīmati,<tei:note xml:id="UT22084-100-001-23"/> Mārīcī, Gaurī, Guardian of Speech, Gangā, Yamunā, Hārītī, Śaṅkhinī, Pārvatī, Durgā, and Kālī;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མ་བདུན་སྲིང་མོ་བདུན་དང་སྲིང་མོ་བཞི། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-001-24"/>The seven mothers, the seven sisters, and the four sisters;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ནག་མོ་ཆེན་མོ་རལ་པ་གཅིག་ལ་སོགས། །ལྷ་མོ་ཆེན་མོ་གནོད་སྦྱིན་ཆེན་མོ་དང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Great goddesses and great yakṣiṇīs Such as Mahākālī and Ekajaṭī and so forth;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྲིན་མོ་ཆེན་མོ་ཤ་ཟ་ཆེན་མོ་དང་། །གཞོན་ནུའི་སྐུ་འཚོ་རྫུ་འཕྲུལ་དབང་གིས་འཕགས། །སླག་ཆེན་བརྗིད་པ་ལྷ་དམག་གཡུལ་དུ་བསྟོད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-001-25"/>Great rākṣasīs and great piśācīs Revered for their youthful forms, nurturing, and magical powers, Awesome in their great hides and praised in battle by the army of the gods;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྨད་གྲགས་ཆེན་པོའི་དགེ་བསྙེན་ཆེན་པོ་དང་། །ལྷ་སྲས་གཞོན་ནུ་ཀླུ་སྲས་གཞོན་ནུ་དང་། །རིག་འཛིན་གཞོན་ནུ་དྲང་སྲོང་གཞོན་ནུ་དང་། །བི་ཀྵུས་བསྟེན་པའི་གཞོན་ནུ་ལྔ་བརྒྱ་སྤུན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-001-26"/>Marvelous, renowned great lay practitioners, Young gods and nāgas, Young vidyādharas and ṛṣis, <tei:milestone xml:id="UT22084-100-001-27"/>And their five hundred kinsmen, all of them venerated by monks;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གནོད་སྦྱིན་གཞོན་ནུ་ཏི་ར་ཀ་ལ་སོགས། །གཟི་བརྗིད་ཆེན་པོའི་གཞོན་སྡེ་ཐམས་ཅད་དང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>This entire group of resplendent youthful ones Including the young yakṣa Tiraka and the like;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐྱེ་དགུའི་བདག་པོ་ལ་སོགས་ལྷ་དང་ཀླུ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-001-28"/>Gods and nāgas who are lords of all beings;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གནོད་སྦྱིན་དྲི་ཟ་ལྟོ་འཕྱེ་ལྷ་མ་ཡིན། །གསེར་འདབ་གྲུལ་བུམ་སྲིན་པོ་མིའམ་ཅི། །འབྱུང་པོ་ཤ་ཟ་ཡུལ་བདག་འདྲེ་ལ་སོགས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Yakṣas, gandharvas, uragas, asuras, Garuḍas, kumbhāṇḍas, rākṣasas, kinnaras, <tei:milestone xml:id="UT22084-100-001-29"/>Bhūtas, piśācas, local deities, and evil spirits;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཅང་ཤེས་སྙིང་རྗེའི་ལམ་དུ་ཞུགས་དགུ་དང་། །རིག་པའི་ལྕགས་ཀྱུས་ཟིན་པ་ཀུན་<tei:ref folio="F.2.b"/>གསོན་ཅིག། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>All you wise ones who have entered the path of compassion, All you who are held by the hook of the vidyāmantra , listen to me. </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་གི་མིང་ལའང་བཀྲ་ཤིས་དཔལ་འབར་བ། །ཡི་གེ་གཉིས་འབྲེལ་དཀོན་མཆོག་གསུམ་གྱི་མཚན། །སྐྱེས་བུ་གང་ཞིག་ཉན་ཏམ་འདོན་པ་ཡང་། །གཞའ་གསང་ཡུན་གྱི་ཆུ་སྲིད་འཐོབ་འགྱུར་ན། །ཡོན་ཏན་ཕུན་སུམ་དཔག་ཡས་དཀོན་མཆོག་ལ། །བསྙེན་བཀུར་མཉེས་བྱེད་བཀའ་ལ་གུས་པ་དང་། །ཆོས་ཐོས་ཉམས་སུ་ལེན་པ་ཅི་ཞིག་སྨོས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-001-30"/>May (insert name), a person blazing with good fortune Who has heard and recited the names Of the Three Jewels with their vowels and consonants <tei:milestone xml:id="UT22084-100-001-31"/>Have a prosperous and long reign,<tei:note xml:id="UT22084-100-001-32"/> Serve and venerate the Three Jewels, which possess immeasurable Benefits and good qualities, have faith in the scriptures, <tei:milestone xml:id="UT22084-100-001-33"/>And, of course, study and practice the Dharma.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་བས་གསུང་རབ་དཔག་བསམ་རྒྱས་པ་ཡི། །ལྷ་ཡི་ལོངས་སྤྱོད་ཚལ་དུ་ཀུན་གཤེགས་ཏེ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Upon death, may (insert name) depart for the divine pleasure groves With their vast bounty of scriptures.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་རྗེ་ཉི་མ་ཐམས་ཅད་མཁྱེན་པའི་བཀའ། །བདུད་སྡེ་ལྟ་མིན་གཡུལ་ལས་རྒྱལ་བྱེད་པ། །རིན་ཆེན་འོད་མཆོག་ལྷ་དབང་གཙུག་གི་རྒྱན། །བག་ཡོད་དད་པའི་སྤྱི་བོས་བླང་བར་མཛོད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-001-34"/>This one who is conscientious and devoted is crowned With the teachings of the sun-like omniscient Dharma lord, The supreme radiant jewel that crowns the king of the gods Who brings victory in battle over the asuras and hosts of Māra.<tei:note xml:id="UT22084-100-001-35"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཀྱེ་རྒྱལ་བའི་སྲས་ཁྱོད་ཚུར་ཤོག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-001-36"/>Approach,<tei:note xml:id="UT22084-100-001-37"/> children of the Victors!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.b</prop>
+            <prop type="alternative-source"/>
+	<tuv xml:lang="bo">
+                <seg>བདག་དང་སེམས་ཅན་ཀུན་ཀྱང་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པར་བགྱིས་ལ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Knowing that<tei:note xml:id="UT22084-100-001-170"/> we and all beings are already beyond suffering and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་མ་རྒལ་བས་མ་འཇིགས་པར་བསོད་ནམས་དང་ཡེ་ཤེས་ཀྱི་ཚོགས་བཙལ་བས་མི་ངོམས་པ་ལ་སེམས་ཞོག་ཤིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>thus not fearing that sentient beings will fail to transcend it, may we still insatiably cultivate the accumulations of merit and wisdom.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མངོན་པར་འདུ་བྱེད་པའི་རང་བཞིན་གྱི་མཚན་ཉིད་ཀྱང་མ་གཏང་ཤིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May we know that things are intrinsically conditioned, yet not dismiss their characteristics.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཀྱི་གཟུགས་ཀྱི་སྐུ་ཡང་མ་དོར་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May we not reject the form body of a buddha</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འདོད་ཆགས་དང་བྲལ་བའང་ཐོབ་པར་གྱིས་ཤིག ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May we [not reject the form body of a buddha,] yet attain freedom from all attachment.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་ལ་ཆགས་པ་མེད་པའི་ཐམས་ཅད་མཁྱེན་པའི་ཡེ་ཤེས་ཀྱང་བཙལ་བར་གྱིས་ཤིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May we be free from attachment to all phenomena, yet seek the wisdom that knows everything.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་ལ་གཞན་གྱི་དྲིང་འཇོག་པ་མེད་པར་སངས་རྒྱས་ཀྱི་ཞིང་ཡང་ཡོངས་སུ་སྦྱང་བར་གྱིས་ཤིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May we completely purify all phenomena as buddha realms without depending on others,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཞིང་གི་མཚན་ཉིད་ནམ་མཁའ་ལྟ་བུར་ཡང་ཤེས་པར་གྱིས་ཤིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May we [completely purify all phenomena as buddha realms without depending on others,] yet understand the space-like characteristic of buddha realms.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་ཡོངས་སུ་སྨིན་པར་བྱ་བས་མ་སྐྱོ་ཤིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May we never weary of bringing beings to maturity,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བདག་མེད་པའི་མཚན་ཉིད་ཀྱང་མ་སྤོང་ཤིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May we [never weary of bringing beings to maturity,] yet never abandon the characteristics of lacking self-identity.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མངོན་པར་ཤེས་པ་ལ་ཡང་རྣམ་པར་འཕྲུལ་པར་གྱིས་ཤིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May we magically display supernatural powers,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་ཀྱི་དབྱིངས་ལས་ཀྱང་མ་གཡོ་ཤིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May we [magically display supernatural powers], yet never waver from the sphere of reality.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་ཏུ་སེམས་བསྐྱེད་པ་ཡང་མ་གཏང་ཤིག ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May we not stop setting our mind on enlightenment,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐམས་ཅད་མཁྱེན་པའི་ཡེ་ཤེས་ལ་ཡང་འབྱུང་བར་གྱིས་ཤིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May we [not stop setting our mind on enlightenment,] yet may omniscient wisdom arise in us.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་བས་སེམས་ཅན་ཐམས་ཅད་ཚིམ་པར་གྱིས་ཤིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May we satisfy all beings by turning the wheel of the Dharma,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.2.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་ཉིད་བརྗོད་དུ་མེད་པ་ལས་ཀྱང་འདའ་བར་མ་བྱེད་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May we [satisfy all beings by turning the wheel of the Dharma,] yet not pass beyond the inexpressible nature of reality.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.3.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པའི་རྣམ་པར་འཕྲུལ་པ་དང་བྱིན་གྱི་བརླབས་ཀྱང་ཡོངས་<tei:ref folio="F.3.a"/>སུ་སྟོན་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May we demonstrate the magical emanations and blessings of a tathāgata,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.3.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའི་ལུས་ཀྱང་མ་དོར་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May we [demonstrate the magical emanations and blessings of a tathāgata], without nevertheless discarding the body of a bodhisattva, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.3.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐྱེ་བའི་སྐྱེ་མཆེད་ཐམས་ཅད་དུ་ཡང་སྣང་བར་གྱིས་ཤིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>yet in all the perceptions of beings may we appear and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.3.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡོངས་སུ་མྱ་ངན་ལས་འདའ་བ་ཆེན་པོ་ཡང་ཡོངས་སུ་སྟོན་ཅིག་ཅེས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>[yet in all the perceptions of beings] may we [appear and] then display the great parinirvāṇa.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.3.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཀྱེ་རྒྱལ་བའི་སྲས་འདི་དག་ནི་ལྟ་བའི་ཆོས་ཟུང་དང་སྣེལ་ཞིར་སྒྲུབ་པ་མངོན་པར་བསྒྲུབ་པ་རྣམས་ཉེ་བར་སྒྲུབ་པ་འདི་དག་ནི་སངས་རྒྱས་ཀྱི་ཕྲིན་ལས་ཡང་དག་ཕུལ་གྱི་ཆོས་བཅུ་པ་ཞེས་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Children of the Victors, uphold these aspects of the teachings and practice these obverse and direct ways of engaging in practice.<tei:note xml:id="UT22084-100-001-38"/> These ten teachings are the most excellent activity of a buddha.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.3.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཀྱེ་རྒྱལ་བའི་སྲས་འདི་དག་ནི་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཀྱི་སངས་རྒྱས་ཀྱི་ཕྲིན་ལས་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Children of the Victor, these are the awakened activity of a bodhisattva.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.3.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་རྣམས་རང་བྱུང་གི་ཕྲིན་ལས་གཞན་གྱི་དྲིང་འཇོག་པ་མེད་པར་བླ་ན་མེད་པའི་བྱང་ཆུབ་འཐོབ་པར་འགྱུར་བ་དག་གོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The spontaneous activity of the bodhisattvas is independent of others and is the perfect attainment of unsurpassed awakening.<tei:note xml:id="UT22084-100-001-39"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.3.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྷ་ཡི་རྒྱལ་པོ་དབང་ཆེན་མཆོག་སྦྱིན་གཙོ། །དཔའ་བོ་འཇིགས་མེད་འཇིག་རྟེན་ཀུན་ལ་གྲགས། །ཤེས་རབ་འོད་གསལ་ཟླ་བ་ཉ་བའི་ཞལ། །སྐྱེས་མཆོག་སྨོན་ལམ་ཕྲིན་ལས་གཅིག་པའི་མཆེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-001-40"/>King of the gods, great sovereign, boon-granting lord, Fearless hero famous throughout the world Whose face is radiant with insight like the full moon— The aspiration and activity of a great being is your sole companion.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.3.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚངས་པ་བརྒྱ་བྱིན་འཇིག་རྟེན་སྐྱོང་ལ་སོགས། །རྡོ་རྗེ་ཏིང་འཛིན་རི་རབ་སྲུབ་ཤིང་དང་། །སྙིང་རྗེ་བརྩོན་འགྲུས་ཀླུ་ཡི་སྲུབ་ཐག་གིས། །ཤེས་རབ་ཆེན་པོའི་རྒྱ་མཚོ་བསྲུབས་པའི་བཅུད། །དམ་ཆོས་བདུད་རྩིའི་མགྲོན་དུ་གཤེགས་ཀུན་ལ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-001-41"/>Brahmā, Śakra, and the other world protectors Used the vajra-like samādhi, Mt. Sumeru, as the churning stick And, along with compassion and effort, the nāga rope, Churned forth an elixir, the holy Dharma, From the ocean of great insight that spread everywhere like a feast of amṛta.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.3.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་བསྒྲགས་བསོད་ནམས་དབྱིག་ཀྱང་སྤྱིར་འབུལ་གྱིས། །སྲིན་དམག་ལྷ་མིན་གཡུལ་ལས་རྒྱལ་བ་དང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-001-42"/>With this jewel of merit, the renowned Dharma, as the crown jewel, You were victorious in battle over the armies of rākṣasas and the asuras.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.3.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྷ་ཡི་རྒྱལ་སྲིད་དབུ་རྨོག་བཙན་པར་བསྔོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>I dedicate this to the mighty helmet of the kingdom of the gods.<tei:note xml:id="UT22084-100-001-43"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.3.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཟི་བྱིན་གཡོག་འཁོར་ལོངས་སྤྱོད་འཕེལ་བ་དང་། །མཐུ་རྩལ་གོ་འཕང་ཁྱད་པར་ཐོབ་པར་བསྔོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>I dedicate this so that our radiance, retinues, and wealth may increase And in particular so that we may attain powerful and strong standings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.3.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྫུ་འཕྲུལ་མངོན་ཤེས་ཕ་རོལ་ཕྱིན་ལ་སོགས། །རྣམ་པར་ཐར་པའི་སྒོ་ཀུན་རྫོགས་པ་དང་། །དགེ་བའི་ཕྲིན་ལས་དགོངས་དགུ་གྲུབ་པར་བསྔོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-001-44"/>I dedicate this so that we may perfect all the means of liberation Such as the magical powers, supernatural cognitions, and perfections And accomplish all our virtuous actions and intentions.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.3.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དམ་ཆོས་བདུད་རྩིའི་བདེ་བས་ལུས་ཁྱབ་སྟེ། །སྡུག་བསྔལ་གནོད་པའི་རྒྱུད་ལས་གྲོལ་བར་བསྔོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>I dedicate this so that our bodies may be pervaded by the bliss of the Dharma nectar, Liberating us from minds that are plagued by suffering.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.3.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགེ་བའི་བཤེས་གཉེན་བཀའ་དྲིན་བྱམས་པའི་གཉེན། །བདག་ཅག་ཉོན་མོངས་མཚོན་གྱིས་རྨས་པ་རྣམས། །ཐུགས་རྗེའི་བྱིན་གྱི་བརླབས་ཀྱིས་བསྐྱང་བ་དང་། །གང་གིས་གང་ལ་སྤྱི་བོས་མཐུ་སྐྱེད་ཅིང་། །དེ་བཞིན་གཤེགས་པའི་བསྟན་པ་བསྲུང་བར་གསོལ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-001-45"/>Spiritual teachers, kind and loving friends, We are wounded by the blade of the afflictions. Please sustain us with your compassionate blessing And ensure that whomever is granted the crown is powerful And protects the teachings of the Tathāgata.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.3.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མ་འོས་འཁྲུལ་པའི་ནོངས་པ་མཆིས་སོ་འཚལ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-001-46"/>We are faulted beings who are confused and act inappropriately—please forgive us!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.3.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དུས་རིག་<tei:ref folio="F.3.b"/>རྒྱུད་མཁྱེན་ཀུན་ལ་བཟོད་པར་གསོལ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Those who know the time, vidyāmantra, and ritual, please be patient with us. </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.3.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྷ་ཚོགས་ཆོས་ཀྱི་སྦྱིན་པའི་བཀྲ་ཤིས་ཀྱིས། །ཕུན་སུམ་ཚོགས་འཛིན་དམ་ཆོས་རྒྱས་པར་སྨོན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>We pray that the good fortune of this Dharma offering to the hosts of gods Shall ensure prosperity and cause the supreme Dharma to flourish.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.3.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྒྱུད་གསུམ་པ་རྫོགས་སོ།། །།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>This concludes “The Threefold [Invocation] Ritual.”<tei:note xml:id="UT22084-100-001-161"/>
+                </seg>
+            </tuv>
+</tu>
+</body>
+</tmx>

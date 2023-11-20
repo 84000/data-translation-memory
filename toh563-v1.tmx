@@ -1,0 +1,2127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0">
+    <header creationtool="84000-translation-memory" creationtoolversion="1.0.0.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-090-007" eft:text-version="v-1.4.1-2020"/>
+    <body>
+        <tu id="UT22084-090-007-TU-1">
+            <prop type="folio">F.150.b</prop>
+            <prop type="position">1</prop>
+            <tuv xml:lang="bo">
+                <seg>དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Homage to the Three Jewels!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-2">
+            <prop type="folio">F.150.b</prop>
+            <prop type="position">29</prop>
+            <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Homage to the Buddha!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-3">
+            <prop type="folio">F.150.b</prop>
+            <prop type="position">51</prop>
+            <tuv xml:lang="bo">
+                <seg>ཆོས་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Homage to the Dharma!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-4">
+            <prop type="folio">F.150.b</prop>
+            <prop type="position">73</prop>
+            <tuv xml:lang="bo">
+                <seg>དགེ་འདུན་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Homage to the Saṅgha!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-24">
+            <prop type="folio">F.150.b</prop>
+            <prop type="position">95</prop>
+            <tuv xml:lang="bo">
+                <seg>ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་བདུན་ཉན་ཐོས་དང་བཅས་པ་ཡང་དག་པར་སོང་བ་ཡང་དག་པར་ཞུགས་པ་རྣམས་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Homage to the seven perfectly and completely awakened buddhas, along with their śrāvakas—those who have perfectly gone, and those who have perfectly entered!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-5">
+            <prop type="folio">F.150.b</prop>
+            <prop type="position">253</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་རྣམས་ལ་ཕྱག་འཚལ་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Following this homage:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-6">
+            <prop type="folio">F.150.b</prop>
+            <prop type="position">276</prop>
+            <tuv xml:lang="bo">
+                <seg>རིག་སྔགས་འདི་ནི་དོན་དུ་བསྒྲུབ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>May these incantations be practiced for a purpose!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-7">
+            <prop type="folio">F.150.b</prop>
+            <prop type="position">327</prop>
+            <tuv xml:lang="bo">
+                <seg>རིག་སྔགས་འདི་དག་གྲུབ་གྱུར་ཅིག །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>May these incantations be accomplished!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-8">
+            <prop type="folio">F.150.b</prop>
+            <prop type="position">367</prop>
+            <tuv xml:lang="bo">
+                <seg>གང་ཕྱིར་དོན་དུ་བསྒྲུབས་པ་ཡི། །དོན་དེ་ཡང་ནི་གྲུབ་པར་ཤོག །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>May their purpose—the goal for which they are practiced— Be accomplished!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-9">
+            <prop type="folio">F.150.b</prop>
+            <prop type="position">441</prop>
+            <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thus have I heard at one time.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-10">
+            <prop type="folio">F.150.b</prop>
+            <prop type="position">472</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མཉན་ཡོད་ན་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན་བཞུགས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One was dwelling in the Jetavana, Anāthapiṇḍada’s grove in Śrāvastī.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-11">
+            <prop type="folio">F.150.b</prop>
+            <prop type="position">553</prop>
+            <tuv xml:lang="bo">
+                <seg>དེའི་ཚེ་མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པ་ཚངས་རིས་ཀྱི་ལྷ་རྣམས་དང་བཅས་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>At that time, Brahmā, master of the Sahā world, with the gods of the Brahmā realm;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-12">
+            <prop type="folio">F.150.b</prop>
+            <prop type="position">636</prop>
+            <tuv xml:lang="bo">
+                <seg>ལྷའི་དབང་པོ་བརྒྱ་བྱིན་སུམ་ཅུ་རྩ་གསུམ་པའི་ལྷ་རྣམས་དང་བཅས་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śakra, lord of the gods, with the gods of the Heaven of the Thirty-Three;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-13">
+            <prop type="folio">F.150.b</prop>
+            <prop type="position">710</prop>
+            <tuv xml:lang="bo">
+                <seg>རྒྱལ་པོ་ཆེན་པོ་བཞི་རྒྱལ་ཆེན་བཞིའི་རིས་ཀྱི་ལྷ་རྣམས་དང་བཅས་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>the four great kings, with the gods of their realm;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-14">
+            <prop type="folio">F.150.b</prop>
+            <prop type="position">762</prop>
+            <tuv xml:lang="bo">
+                <seg>གནོད་སྦྱིན་གྱི་སྡེ་དཔོན་ཆེན་པོ་ཉི་ཤུ་རྩ་བརྒྱད་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>the twenty-eight great yakṣa generals;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-15">
+            <prop type="folio">F.150.b</prop>
+            <prop type="position">805</prop>
+            <tuv xml:lang="bo">
+                <seg>འཕྲོག་མ་བུ་དང་བཅས་པ་གཡོག་འཁོར་དང་བཅས་པ་རྣམས་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Hārītī with her children and retinue of servants</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-16">
+            <prop type="folio">F.150.b</prop>
+            <prop type="position">854</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་དོང་སྟེ་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>went before the Blessed One,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-17">
+            <prop type="folio">F.150.b</prop>
+            <prop type="position">883</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>bowed their heads at his feet,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-18">
+            <prop type="folio">F.150.b</prop>
+            <prop type="position">918</prop>
+            <tuv xml:lang="bo">
+                <seg>ཕྱོགས་གཅིག་ཏུ་འཁོད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>stood to one side.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-19">
+            <prop type="folio">F.150.b</prop>
+            <prop type="position">953</prop>
+            <tuv xml:lang="bo">
+                <seg>མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པས་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Brahmā, master of the Sahā world, bowed toward the Blessed One with palms joined,</seg>
+            </tuv>
+        </tu>
+        
+        <tu id="UT22084-090-007-TU-20">
+            <prop type="folio">F.150.b</prop>
+            <prop type="position">1039</prop>
+            <tuv xml:lang="bo">
+                <seg>འདི་སྐད་ཅེས་གསོལ་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>said,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-23">
+            <prop type="folio">F.150.b</prop>
+            <prop type="position">1046</prop>
+            <tuv xml:lang="bo">
+                <seg>བཙུན་པ་བཅོམ་ལྡན་འདས་བདག་ནི་སྟོང་གི་འཇིག་རྟེན་གྱི་ཁམས་རྣམས་སུ་དབང་ཕྱུག་ལ་དབང་བགྱིད་པ་ལགས་ཏེ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Venerable Blessed One, I rule as lord over the realms of the chiliocosm.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-25">
+            <prop type="folio">F.151.a</prop>
+            <prop type="position">110</prop>
+            <tuv xml:lang="bo">
+                <seg>བཙུན་པ་བཅོམ་ལྡན་འདས་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Venerable Blessed One,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-42">
+            <prop type="folio">F.151.a</prop>
+            <prop type="position">133</prop>
+            <tuv xml:lang="bo">
+                <seg>བདག་ནི་སྟོང་གི་འཇིག་རྟེན་གྱི་ཁམས་རྣམས་སུ་དབང་ཕྱུག་ལ་དབང་བགྱིད་པ་ལགས་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>I rule as lord over the realms of the chiliocosm.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-26">
+            <prop type="folio">F.151.a</prop>
+            <prop type="position">206</prop>
+            <tuv xml:lang="bo">
+                <seg>བདག་ནི་འཚལ་ན་སྟོང་གི་འཇིག་རྟེན་གྱི་ཁམས་རྣམས་སུ་བསྲུང་བ་དང་ཡོངས་སུ་སྐྱོབ་པར་བགྱིད། ཡོངས་སུ་བཟུང་བ་དང་། ཞི་བ་དང་བདེ་ལེགས་སུ་འགྱུར་བར་བགྱིད་ལགས་སོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>when needed I guard, protect, look after, and bring peace and well-being to the realms in the chiliocosm.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-44">
+            <prop type="folio">F.151.a</prop>
+            <prop type="position">220</prop>
+            <tuv xml:lang="bo">
+                <seg>སྟོང་གི་འཇིག་རྟེན་གྱི་ཁམས་རྣམས་སུ་བསྲུང་བར་བགྱིད། ཡོངས་སུ་སྐྱོབ་པར་བགྱིད། ཡོངས་སུ་བཟུང་བ་དང་། ཞི་བ་དང་བདེ་ལེགས་སུ་འགྱུར་བར་བགྱིད་ལགས་སོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>guard, protect, look after, and bring peace and well-being to the realms in the chiliocosm.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-27">
+            <prop type="folio">F.151.a</prop>
+            <prop type="position">312</prop>
+            <tuv xml:lang="bo">
+                <seg>བཙུན་པ་བདེ་བར་གཤེགས་པ་ཆོས་ཀྱི་མངའ་བདག་བཅོམ་ལྡན་འདས་ནི་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Venerable Bliss-Gone Dharma Sovereign, Blessed One, you</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-21">
+            <prop type="folio">F.151.a</prop>
+            <prop type="position">368</prop>
+            <tuv xml:lang="bo">
+                <seg>སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་རྣམས་སུ་དབང་ཕྱུག་ལ་མངའ་མཛད་པ་ལགས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>rule as lord over the realms of the great trichiliocosm.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-22">
+            <prop type="folio">F.151.a</prop>
+            <prop type="position">425</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱང་བཞེད་ན་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Blessed One, when you see fit you, too,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-29">
+            <prop type="folio">F.151.a</prop>
+            <prop type="position">465</prop>
+            <tuv xml:lang="bo">
+                <seg>སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་རྣམས་སུ་བསྲུང་བ་དང་། ཡོངས་སུ་སྐྱོབ་པ་དང་། ཡོངས་སུ་བཟུང་བ་དང་། ཞི་བ་དང་བདེ་ལེགས་སུ་འགྱུར་བར་མཛད་པ་ལགས་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>guard, protect, look after, and bring peace and well-being to the realms of the great trichiliocosm.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-28">
+            <prop type="folio">F.151.a</prop>
+            <prop type="position">593</prop>
+            <tuv xml:lang="bo">
+                <seg>སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་རྣམས་སུ་བསྲུང་བ་དང་། ཡོངས་སུ་བསྐྱབ་པ་དང་། ཡོངས་སུ་གཟུང་བ་དང་། ཞི་བ་དང་བདེ་ལེགས་སུ་འགྱུར་བར་མཛད་དུ་གསོལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>I request you to guard, protect, look after, and bring peace and well-being to the realms of the trichiliocosm!”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-30">
+            <prop type="folio">F.151.a</prop>
+            <prop type="position">706</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པ་ལ་ཅང་མི་གསུང་བར་གནང་ངོ་། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One acquiesced by remaining silent.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-31">
+            <prop type="folio">F.151.a</prop>
+            <prop type="position">754</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ནས་མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པས་བཅོམ་ལྡན་འདས་ཀྱིས་ཅང་མི་གསུང་བས་གནང་བར་རིག་ནས་གནས་དེ་ཉིད་དུ་མི་སྣང་བར་གྱུར་ཏོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Brahmā, master of the Sahā world, understood that the Buddha had acquiesced by his silence, and at that moment he vanished.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-32">
+            <prop type="folio">F.151.a</prop>
+            <prop type="position">878</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དགེ་སློང་རྣམས་ལ་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Subsequently, the Blessed One said to the monks,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-39">
+            <prop type="folio">F.151.a</prop>
+            <prop type="position">927</prop>
+            <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་མདང་སུམ་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Monks, last night</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-40">
+            <prop type="folio">F.151.a</prop>
+            <prop type="position">946</prop>
+            <tuv xml:lang="bo">
+                <seg>ང་ག་ལ་བ་དེར་ལྷགས་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>I was approached</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-34">
+            <prop type="folio">F.151.a</prop>
+            <prop type="position">966</prop>
+            <tuv xml:lang="bo">
+                <seg>མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པ་ཚངས་རིས་ཀྱི་ལྷ་རྣམས་དང་བཅས་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Brahmā, master of the Sahā world, along with the gods of the Brahmā realm;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-35">
+            <prop type="folio">F.151.a</prop>
+            <prop type="position">1041</prop>
+            <tuv xml:lang="bo">
+                <seg>ལྷའི་དབང་པོ་བརྒྱ་བྱིན་སུམ་ཅུ་རྩ་གསུམ་པའི་ལྷ་རྣམས་དང་བཅས་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śakra, lord of the gods, with the gods of the Heaven of the Thirty-Three;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-36">
+            <prop type="folio">F.151.a</prop>
+            <prop type="position">1115</prop>
+            <tuv xml:lang="bo">
+                <seg>རྒྱལ་པོ་ཆེན་པོ་བཞི་རྒྱལ་ཆེན་བཞིའི་རིས་ཀྱི་ལྷ་རྣམས་དང་བཅས་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>the four great kings, with the gods of the realm of the four great kings;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-37">
+            <prop type="folio">F.151.a</prop>
+            <prop type="position">1193</prop>
+            <tuv xml:lang="bo">
+                <seg>གནོད་སྦྱིན་གྱི་སྡེ་དཔོན་ཆེན་པོ་ཉི་ཤུ་རྩ་བརྒྱད་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>the twenty-eight great yakṣa generals;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-38">
+            <prop type="folio">F.151.a</prop>
+            <prop type="position">1236</prop>
+            <tuv xml:lang="bo">
+                <seg>འཕྲོག་མ་བུ་དང་བཅས་གཡོག་འཁོར་དང་བཅས་པ་རྣམས་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Hārītī with her children and retinue of servants</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-33">
+            <prop type="folio">F.151.a</prop>
+            <prop type="position">1296</prop>
+            <tuv xml:lang="bo">
+                <seg>མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པས་ང་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Brahmā, master of the Sahā world, said to me,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-41">
+            <prop type="folio">F.151.a</prop>
+            <prop type="position">1343</prop>
+            <tuv xml:lang="bo">
+                <seg>བཙུན་པ་བཅོམ་ལྡན་འདས་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>‘Venerable Blessed One,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-43">
+            <prop type="folio">F.151.a</prop>
+            <prop type="position">1440</prop>
+            <tuv xml:lang="bo">
+                <seg>བདག་ནི་འཚལ་ན་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>when needed, I</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-48">
+            <prop type="folio">F.151.b</prop>
+            <prop type="position">160</prop>
+            <tuv xml:lang="bo">
+                <seg>བསྲུང་བ་དང་། ཡོངས་སུ་བསྐྱབ་པ་དང་། ཡོངས་སུ་གཟུང་བ་དང་། ཞི་བ་དང་བདེ་ལེགས་སུ་འགྱུར་བར་མཛད་ལགས་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>guard, protect, look after, and bring peace and well-being</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-45">
+            <prop type="folio">F.151.b</prop>
+            <prop type="position">252</prop>
+            <tuv xml:lang="bo">
+                <seg>བཙུན་པ་བདེ་བར་གཤེགས་པ་ཆོས་ཀྱི་མངའ་བདག་བཅོམ་ལྡན་འདས་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Venerable Bliss-Gone Dharma Sovereign, Blessed One,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-49">
+            <prop type="folio">F.151.b</prop>
+            <prop type="position">308</prop>
+            <tuv xml:lang="bo">
+                <seg>སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་རྣམས་སུ་དབང་ཕྱུག་ལ་མངའ་མཛད་པ་ལགས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>rule as lord over the realms of the great trichiliocosm.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-46">
+            <prop type="folio">F.151.b</prop>
+            <prop type="position">365</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱང་བཞེད་ན་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Blessed One, when you see fit, you also</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-47">
+            <prop type="folio">F.151.b</prop>
+            <prop type="position">464</prop>
+            <tuv xml:lang="bo">
+                <seg>སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་རྣམས་སུ་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>to the realms of the great trichiliocosm.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-50">
+            <prop type="folio">F.151.b</prop>
+            <prop type="position">510</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་རྣམས་སུ་བསྲུང་བ་དང་། ཡོངས་སུ་བསྐྱབ་པ་དང་། ཡོངས་སུ་གཟུང་བ་དང་། ཞི་བ་དང་བདེ་ལེགས་སུ་འགྱུར་བར་མཛད་དུ་གསོལ་ཞེས་གསོལ་ཏོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Venerable Blessed One, I request you to guard, protect, look after, and bring peace and well-being to the realms of the trichiliocosm!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-51">
+            <prop type="folio">F.151.b</prop>
+            <prop type="position">646</prop>
+            <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་ངས་ཀྱང་མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པ་ལ་ཅང་མི་གསུང་བས་གནང་ངོ་། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Monks, I acquiesced by not responding to Brahmā, master of the Sahā world.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-52">
+            <prop type="folio">F.151.b</prop>
+            <prop type="position">722</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ནས་མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པས་ངས་ཅང་མི་གསུང་བར་གནང་བར་རིག་ནས་དེ་ཉིད་དུ་མི་སྣང་བར་གྱུར་ཏོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then Brahmā, master of the Sahā world, knowing that I had acquiesced by remaining silent, disappeared at that moment.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-53">
+            <prop type="folio">F.151.b</prop>
+            <prop type="position">840</prop>
+            <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་རིག་སྔགས་ཀྱི་རྒྱལ་མོ་གསང་སྔགས་ཆེན་པོ་རྗེས་སུ་འཛིན་པ་འདི་ནི་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Monks, this queen of incantations, Great Upholder of the Secret Mantra,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-54">
+            <prop type="folio">F.151.b</prop>
+            <prop type="position">911</prop>
+            <tuv xml:lang="bo">
+                <seg>འདས་པའི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམས་ཀྱིས་ཀྱང་གསུངས་སོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>was taught by the perfectly and completely awakened thus-gone arhats of the past.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-55">
+            <prop type="folio">F.151.b</prop>
+            <prop type="position">993</prop>
+            <tuv xml:lang="bo">
+                <seg>མ་འོངས་པའི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམས་ཀྱིས་ཀྱང་གསུང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It will be taught by the perfectly and completely awakened thus-gone arhats in the future.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-56">
+            <prop type="folio">F.151.b</prop>
+            <prop type="position">1084</prop>
+            <tuv xml:lang="bo">
+                <seg>ད་ལྟར་བྱུང་བ་ན་ཡང་འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And likewise, right now in the present,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-57">
+            <prop type="folio">F.151.b</prop>
+            <prop type="position">1124</prop>
+            <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཀྱི་བྱང་ཆུབ་འདི་ཉིད་ལ་ཕན་པར་བྱ་བའི་ཕྱིར་ད་ལྟར་ང་ཉིད་ཀྱིས་བཤད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>I will also teach it as an aid for the awakening of buddhahood.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-58">
+            <prop type="folio">F.151.b</prop>
+            <prop type="position">1189</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་ལ་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then the Blessed One said to venerable Ānanda,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-59">
+            <prop type="folio">F.151.b</prop>
+            <prop type="position">1237</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་ཁྱོད་ཀྱིས་རིག་སྔགས་ཀྱི་རྒྱལ་མོ་གསང་སྔགས་ཆེན་པོ་རྗེས་སུ་འཛིན་པ་འདི་ཟུང་ཤིག །ཆོངས་ཤིག །ལྷོགས་ཤིག །ཤོད་ཅིག །ཀུན་ཆུབ་པར་གྱིས་ཤིག །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ānanda, you are to receive, hold, recite, preach, and master this queen of incantations, Great Upholder of the Secret Mantra!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-60">
+            <prop type="folio">F.151.b</prop>
+            <prop type="position">1361</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་རིག་སྔགས་ཀྱི་རྒྱལ་མོ་གསང་སྔགས་ཆེན་པོ་རྗེས་སུ་འཛིན་པ་འདི་ནི་འཁོར་བཞི་པོ་རྣམས་ཀྱི་དོན་དང་ཕན་པ་དང་བདེ་བ་དང་བདེ་བར་གནས་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ānanda, this queen of incantations, Great Upholder of the Secret Mantra, will bring welfare, benefit, happiness, and comfort to the four assemblies.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-61">
+            <prop type="folio">F.152.a</prop>
+            <prop type="position">188</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་ཡུན་རིང་པོ་ནས་སྤྱད་པའི་གསང་སྔགས་སྟོབས་དང་། མཐུ་རྩལ་དང་ལྡན་པ་འདི་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ānanda, this strong and powerful secret mantra, which has been practiced for a long time,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-69">
+            <prop type="folio">F.152.a</prop>
+            <prop type="position">188</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་ཡུན་རིང་པོ་ནས་སྤྱད་པའི་གསང་སྔགས་ཀྱི་སྟོབས་དང་། མཐུ་རྩལ་དང་ལྡན་པ་འདི་དག་ནི་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ānanda, this strong and powerful secret mantra, which has been practiced for a long time,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-62">
+            <prop type="folio">F.152.a</prop>
+            <prop type="position">278</prop>
+            <tuv xml:lang="bo">
+                <seg>འདས་པའི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམས་ཀྱིས་ཀྱང་གསུངས་སོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>was taught by the perfectly and completely awakened thus-gone arhats of the past.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-70">
+            <prop type="folio">F.152.a</prop>
+            <prop type="position">278</prop>
+            <tuv xml:lang="bo">
+                <seg>འདས་པའི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམས་ཀྱིས་ཀྱང་གསུངས་སོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>was taught by the perfectly and completely awakened thus-gone arhats of the past.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-63">
+            <prop type="folio">F.152.a</prop>
+            <prop type="position">360</prop>
+            <tuv xml:lang="bo">
+                <seg>མ་འོངས་པའི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམས་ཀྱིས་ཀྱང་གསུང་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It will be taught by the perfectly and completely awakened thus-gone arhats in the future.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-71">
+            <prop type="folio">F.152.a</prop>
+            <prop type="position">360</prop>
+            <tuv xml:lang="bo">
+                <seg>མ་འོངས་པའི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱིས་ཀྱང་གསུང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It will be taught by the perfectly and completely awakened thus-gone arhats in the future.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-65">
+            <prop type="folio">F.152.a</prop>
+            <prop type="position">451</prop>
+            <tuv xml:lang="bo">
+                <seg>ད་ལྟར་བྱུང་བ་ན་ཡང་འདི་ལྟ་སྟེ་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And such is also the case at present, as</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-64">
+            <prop type="folio">F.152.a</prop>
+            <prop type="position">492</prop>
+            <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཀྱི་བྱང་ཆུབ་འདི་ཉིད་ལ་ཕན་པར་བྱ་བའི་ཕྱིར་ད་ལྟར་ང་ཉིད་ཀྱིས་བཤད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>I now teach it to aid in the awakening of buddhahood.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-66">
+            <prop type="folio">F.152.a</prop>
+            <prop type="position">546</prop>
+            <tuv xml:lang="bo">
+                <seg>ངས་རིག་སྔགས་ཀྱི་རྒྱལ་མོ་གསང་སྔགས་ཆེན་པོ་རྗེས་སུ་འཛིན་པ་འདིས་མིང་འདི་ཞེས་བྱ་བ་ལ་བསྲུང་བར་བྱའོ། །མཚམས་བཅད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>With this queen of incantations, Great Upholder of the Secret Mantra, I will protect and form a boundary around the person named such-and-such.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-67">
+            <prop type="folio">F.152.a</prop>
+            <prop type="position">688</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤར་ཕྱོགས་སུ་རྒྱང་གྲགས་གཅིག་ཚུན་ཆད་མཚམས་བཅད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>I will form a boundary one league to the east.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-68">
+            <prop type="folio">F.152.a</prop>
+            <prop type="position">735</prop>
+            <tuv xml:lang="bo">
+                <seg>ཕྱོགས་དང་ཕྱོགས་མཚམས་ཐམས་ཅད་ཀྱི་བར་དུ་ཡང་རྒྱང་གྲགས་གཅིག་ཚུན་ཆད་མཚམས་བཅད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>I will form a boundary one league in all the cardinal and intermediate directions.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-72">
+            <prop type="folio">F.152.a</prop>
+            <prop type="position">1525</prop>
+            <tuv xml:lang="bo">
+                <seg>ད་ལྟར་བྱུང་བ་ན་ཡང་ངས་བཤད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And such is also the case at present, for I too teach it.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-73">
+            <prop type="folio">F.152.a</prop>
+            <prop type="position">1583</prop>
+            <tuv xml:lang="bo">
+                <seg>མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པས་ཀྱང་བཤད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Brahmā, lord of the Sahā world, teaches it.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-74">
+            <prop type="folio">F.152.a</prop>
+            <prop type="position">1627</prop>
+            <tuv xml:lang="bo">
+                <seg>ལྷའི་དབང་པོ་བརྒྱ་བྱིན་གྱིས་ཀྱང་བཤད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śakra, lord of the gods, also teaches it.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-75">
+            <prop type="folio">F.152.a</prop>
+            <prop type="position">1669</prop>
+            <tuv xml:lang="bo">
+                <seg>རྒྱལ་པོ་ཆེན་པོ་བཞིས་ཀྱང་བཤད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The four great kings also teach it.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-76">
+            <prop type="folio">F.152.a</prop>
+            <prop type="position">1705</prop>
+            <tuv xml:lang="bo">
+                <seg>གནོད་སྦྱིན་གྱི་སྡེ་དཔོན་ཆེན་པོ་ཉི་ཤུ་རྩ་བརྒྱད་ཀྱིས་ཀྱང་བཤད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The twenty-eight great yakṣa generals also teach it.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-77">
+            <prop type="folio">F.152.b</prop>
+            <prop type="position">498</prop>
+            <tuv xml:lang="bo">
+                <seg>འཕྲོག་མ་བུ་དང་བཅས་གཡོག་འཁོར་དང་བཅས་པས་ཀྱང་བཤད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And Hārītī, with her children and retinue of servants, also teaches it.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-78">
+            <prop type="folio">F.152.b</prop>
+            <prop type="position">570</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་དགེ་སློང་ངམ། དགེ་སློང་མའམ། དགེ་བསྙེན་ནམ། དགེ་བསྙེན་མ་གང་ལ་ལ་ཞིག</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Ānanda, any monk, nun, layman, or laywoman</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-81">
+            <prop type="folio">F.152.b</prop>
+            <prop type="position">618</prop>
+            <tuv xml:lang="bo">
+                <seg>རིག་སྔགས་ཀྱི་རྒྱལ་མོ་གསང་སྔགས་རྗེས་སུ་འཛིན་པ་འདི་བཟུང་ནས</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>receives this queen of incantations, Great Upholder of the Secret Mantra, and</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-80">
+            <prop type="folio">F.152.b</prop>
+            <prop type="position">694</prop>
+            <tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་བསྟན་པ་དང་། ཇི་ལྟར་ཀུན་ཆུབ་པར་བྱས་པ་དེ་བཞིན་དུ་ཤེས་སམ། མཐོང་ངམ། ལས་སུ་བྱེད་པ་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>understands, sees, or performs it, precisely as it has been taught and mastered,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-79">
+            <prop type="folio">F.152.b</prop>
+            <prop type="position">775</prop>
+            <tuv xml:lang="bo">
+                <seg>ཇི་སྲིད་འཚོའི་བར་དུ་བསྲུང་བ་དང་། ཡོངས་སུ་བསྐྱབ་པ་དང་། ཡོངས་སུ་གཟུང་བ་དང་། ཞི་བ་དང་བདེ་ལེགས་སུ་འགྱུར་བ་བྱས་པར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>will be guarded, protected, looked after, and brought peace and well-being for as long as he or she shall live.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-88">
+            <prop type="folio">F.152.b</prop>
+            <prop type="position">887</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཀྱི་བཀས་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Ānanda, by the command of the perfectly and completely awakened thus-gone arhats of the past, future, and present,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-89">
+            <prop type="folio">F.152.b</prop>
+            <prop type="position">1003</prop>
+            <tuv xml:lang="bo">
+                <seg>རིག་སྔགས་ཀྱི་རྒྱལ་མོ་གསང་སྔགས་རྗེས་སུ་འཛིན་པ་འདིས་མིང་འདི་ཞེས་བྱ་བ་ལ་བསྲུང་བར་བྱའོ། །ཡོངས་སུ་བསྐྱབ་པ་དང་། ཡོངས་སུ་གཟུང་བར་བྱའོ། །ཡོངས་སུ་ཞི་བ་དང་བདེ་ལེགས་སུ་འགྱུར་བར་བྱའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>this queen of incantations, Great Upholder of the Secret Mantra, shall guard, protect, look after, and bring peace and well-being to the person named such-and-such.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-83">
+            <prop type="folio">F.152.b</prop>
+            <prop type="position">1166</prop>
+            <tuv xml:lang="bo">
+                <seg>མཚམས་བཅད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It will form a boundary.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-82">
+            <prop type="folio">F.152.b</prop>
+            <prop type="position">1191</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤར་ཕྱོགས་སུ་རྒྱང་གྲགས་གཅིག་ཚུན་ཆད་མཚམས་བཅད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It will form a boundary one league to the east.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-84">
+            <prop type="folio">F.152.b</prop>
+            <prop type="position">1239</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་དུ་ནུབ་ཕྱོགས་སུ་རྒྱང་གྲགས་གཅིག་ཚུན་ཆད་མཚམས་བཅད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Likewise, it will form a boundary one league to the west.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-85">
+            <prop type="folio">F.152.b</prop>
+            <prop type="position">1297</prop>
+            <tuv xml:lang="bo">
+                <seg>ལྷོ་ཕྱོགས་སུ་རྒྱང་གྲགས་གཅིག་ཚུན་ཆད་མཚམས་བཅད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It will form a boundary one league to the south.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-86">
+            <prop type="folio">F.152.b</prop>
+            <prop type="position">1346</prop>
+            <tuv xml:lang="bo">
+                <seg>བྱང་ཕྱོགས་སུ་རྒྱང་གྲགས་གཅིག་ཚུན་ཆད་མཚམས་བཅད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It will form a boundary one league to the north.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-87">
+            <prop type="folio">F.152.b</prop>
+            <prop type="position">1395</prop>
+            <tuv xml:lang="bo">
+                <seg>ཕྱོགས་དང་ཕྱོགས་མཚམས་ཐམས་ཅད་དུ་རྒྱང་གྲགས་གཅིག་ཚུན་ཆད་མཚམས་བཅད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It will form a boundary one league in all the cardinal and intermediate directions.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-90">
+            <prop type="folio">F.152.b</prop>
+            <prop type="position">1479</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་རྒྱལ་པོ་ཆེན་པོ་བཞིའི་ལམ་དང་ལམ་མ་ཡིན་པ་ན་གནས་པ་བཞི་ཡོད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Ānanda, there are four who dwell on and off the path of the four great kings.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-91">
+            <prop type="folio">F.152.b</prop>
+            <prop type="position">1558</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་གང་ཞེ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Who are they?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-92">
+            <prop type="folio">F.152.b</prop>
+            <prop type="position">1572</prop>
+            <tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ་བཀྲ་ཤིས་ལྡན་དང་། ཀུན་བཤེས་དང་། གང་པོ་དང་དགའ་བའི་དཔལ་རྣམས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They are Auspicious, Friend to All, Complete, and Glory of Joy.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-93">
+            <prop type="folio">F.152.b</prop>
+            <prop type="position">1636</prop>
+            <tuv xml:lang="bo">
+                <seg>གང་དེ་དག་གི་མིང་ཤེས་པ་དང་། རུས་ཤེས་པ་དེ་ལ་ནི་རྒྱལ་པོ་ཆེན་པོའི་འཇིགས་པ་མི་འབྱུང་ངོ་། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Whoever knows their names and families will not be in danger of the great kings,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-94">
+            <prop type="folio">F.152.b</prop>
+            <prop type="position">1717</prop>
+            <tuv xml:lang="bo">
+                <seg>ཆོམ་རྐུན་གྱི་འཇིགས་པ་དང་། མེའི་འཇིགས་པ་དང་། ཆུའི་འཇིགས་པ་དང་། མིའི་འཇིགས་པ་དང་། མི་མ་ཡིན་པའི་འཇིགས་པ་མི་འབྱུང་ངོ་། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>nor will he be in danger of robbers, fire, water, humans, or non-humans.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-95">
+            <prop type="folio">F.152.b</prop>
+            <prop type="position">1790</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་ལག་ན་རྡོ་རྗེའི་ཕུ་བོ་ལག་མྱུར་ཞེས་བྱ་བ་གྲོང་ཁྱེར་ཁོར་ཡུག་ཅེས་བྱ་བ་ན་གནས་པ་ཡོད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Ānanda, Vajrapāṇi’s older brother called Swift Hand resides in the city known as Cakravālapur.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-96">
+            <prop type="folio">F.152.b</prop>
+            <prop type="position">1886</prop>
+            <tuv xml:lang="bo">
+                <seg>གང་དེའི་མིང་ཤེས་པ་དང་། རུས་ཤེས་པ་དེ་ལ་ནི་དེས་སྲུང་བར་བྱེད། ཡོངས་སུ་སྐྱོབ་པར་བྱེད། ཡོངས་སུ་འཛིན་པར་བྱེད། ཆད་པ་ཟློག་པར་བྱེད་ཞི་བ་དང་བདེ་ལེགས་སུ་འགྱུར་བར་བྱེད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Whoever knows his name and family will be guarded, protected, looked after, pardoned, and brought peace and well-being by him.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-97">
+            <prop type="folio">F.153.a</prop>
+            <prop type="position">224</prop>
+            <tuv xml:lang="bo">
+                <seg>མིང་འདི་ཞེས་བྱ་བའི་ཕྱིར་ལག་ན་རྡོ་རྗེའི་ཕུ་བོ་ལག་མྱུར་ལ་གསོལ་ལོ། །གསོལ་བ་འདེབས་སོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>On behalf of the person named such-and-such, I beseech and supplicate Vajrapāṇi’s older brother Swift Hand!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-98">
+            <prop type="folio">F.153.a</prop>
+            <prop type="position">332</prop>
+            <tuv xml:lang="bo">
+                <seg>འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཀྱི་བཀས་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>By the command of the blessed buddhas of the past, future, and present,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-101">
+            <prop type="folio">F.153.a</prop>
+            <prop type="position">408</prop>
+            <tuv xml:lang="bo">
+                <seg>གནོད་སྦྱིན་ནམ། སྲིན་པོའམ། ཡི་དགས་སམ། ཤ་ཟའམ། གྲུལ་བུམ་མམ། སྲུལ་པོའམ། ལུས་སྲུལ་པོ་རྣམས་ཀྱིས་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>yakṣas, rākṣasas, pretas, piśācas, kumbhāṇḍas, pūtanas, and kaṭapūtanas</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-102">
+            <prop type="folio">F.153.a</prop>
+            <prop type="position">480</prop>
+            <tuv xml:lang="bo">
+                <seg>གང་མིང་འདི་ཞེས་བྱ་བ་ལ་སྐབས་ཚོལ་བ་དང་། གླགས་ལྟ་བའི</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>who seek an occasion and look for an opportunity to harm the person named such-and-such</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-100">
+            <prop type="folio">F.153.a</prop>
+            <prop type="position">568</prop>
+            <tuv xml:lang="bo">
+                <seg>བདག་ལ་གླགས་རྙེད་པར་མ་གྱུར་ཅིག</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>will not find any such opportunity,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-99">
+            <prop type="folio">F.153.a</prop>
+            <prop type="position">604</prop>
+            <tuv xml:lang="bo">
+                <seg>བདག་ལ་ཀླན་ཀ་རྙེད་པར་མ་གྱུར་ཅིག</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>nor will they be able to quarrel with him!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-103">
+            <prop type="folio">F.153.a</prop>
+            <prop type="position">647</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་སྲིན་མོ་ཆེན་མོ་བཅུ་བཞི་ཡོད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Ānanda, there are fourteen great rākṣasīs.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-104">
+            <prop type="folio">F.153.a</prop>
+            <prop type="position">691</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་ནི་བྱང་ཆུབ་སེམས་དཔའ་ཡུམ་གྱི་ལྷུམས་ན་བཞུགས་པ་ན་ཡང་བསྲུང་བསྲུང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They protected the Bodhisattva while he was in his mother’s womb.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-105">
+            <prop type="folio">F.153.a</prop>
+            <prop type="position">757</prop>
+            <tuv xml:lang="bo">
+                <seg>བལྟམས་པའི་ཚེ་ན་ཡང་བསྲུང་བསྲུང་། བལྟམས་ཟིན་པའི་འོག་ཏུ་ཡང་བསྲུང་བསྲུང་། སྐུ་འཁྲུངས་པ་ན་ཡང་བསྲུང་བསྲུང་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They also protected him during his birth, as a newborn, and while he was being reared.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-106">
+            <prop type="folio">F.153.a</prop>
+            <prop type="position">844</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅུ་བཞི་གང་ཞེ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Who are they?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-111">
+            <prop type="folio">F.153.a</prop>
+            <prop type="position">844</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་གང་ཞེ་ན་འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Who are they? They are</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-107">
+            <prop type="folio">F.153.a</prop>
+            <prop type="position">858</prop>
+            <tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ་སྟོབས་ལྡན་དང་། དྲི་མེད་དང་། སྒྲ་ཆེན་དང་། རབ་མཉེན་དང་། འཇིགས་བྱེད་མ་དང་། འཛམ་བུའི་མགྲིན་དང་། མཆོག་ལེན་དང་། བླ་མ་དང་། གྲགས་ལྡན་མ་དང་། རྨད་གྲགས་དང་། འཐབ་དགའ་དང་། རྩེ་མོ་དགའ་དང་། ས་འཛིན་དང་། འཐབ་འཇུག་རྣམས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They are Powerful, Stainless, Tumult, Supple, Terrifying Lady, Voice of Jambū, Supreme Seizer, Master, Renowned Female, Amazing Renown, Conflict Lover, Playful Lady, Earth Supporter, and Conflict Engager.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-108">
+            <prop type="folio">F.153.a</prop>
+            <prop type="position">1063</prop>
+            <tuv xml:lang="bo">
+                <seg>གང་དེ་དག་གི་མིང་ཤེས་པ་དང་། རུས་ཤེས་པ་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Whoever knows their names and families</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-113">
+            <prop type="folio">F.153.a</prop>
+            <prop type="position">1063</prop>
+            <tuv xml:lang="bo">
+                <seg>གང་དེ་དག་གི་མིང་ཤེས་པ་དང་རུས་ཤེས་པ་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Whoever knows their names and families</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-109">
+            <prop type="folio">F.153.a</prop>
+            <prop type="position">1102</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་གིས་སྲུང་བར་བྱེད། ཡོངས་སུ་སྐྱོབ་པ་དང་། ཡོངས་སུ་འཛིན་པར་བྱེད། ཞི་བ་དང་བདེ་ལེགས་སུ་འགྱུར་བར་བྱེད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>will be guarded, protected, looked after, and brought peace and well-being by them!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-114">
+            <prop type="folio">F.153.a</prop>
+            <prop type="position">1102</prop>
+            <tuv xml:lang="bo">
+                <seg>་དེ་དག་གིས་སྲུང་བར་བྱེད་དོ། །ཡོངས་སུ་སྐྱོབ་པ་དང་། ཡོངས་སུ་འཛིན་པ་དང་། ཞི་བ་དང་བདེ་ལེགས་སུ་འགྱུར་བ་དང་ཆད་པ་ཟློག་པར་བྱེད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>will be guarded, protected, looked after, and brought peace and well-being by them!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-110">
+            <prop type="folio">F.153.a</prop>
+            <prop type="position">1186</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་སྲིན་མོ་བརྒྱད་ཡོད་དེ། དེ་དག་ནི་སྐྱེས་པ་དང་བུད་མེད་གཉིད་ལོག་ཀྱང་རུང་། མ་ལོག་ཀྱང་རུང་སྟེ། གཟི་བྱིན་འཕྲོག་པར་བྱེད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Ānanda, there are eight rākṣasīs who steal the vitality of men or women regardless of whether they are asleep or not.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-112">
+            <prop type="folio">F.153.a</prop>
+            <prop type="position">1328</prop>
+            <tuv xml:lang="bo">
+                <seg>རྭ་དང་། ཐུབ་མེད་དང་། ངན་སློབ་དང་། ཕྲ་མ་ཅན་དང་། བྲན་མོ་དམར་མོ་དང་། རབ་ཆེན་དང་། མིག་བཟང་དང་། བརྒྱད་པ་སྟེ་འཇིགས་བྱེད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Horn, Unassailable, Instigator of Evil, Slanderous, Red Female Servant, Greatest, Excellent Eyes, and Terrifying.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-115">
+            <prop type="folio">F.153.a</prop>
+            <prop type="position">1565</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་སྲིན་མོ་བདུན་ཡོད་དེ། དེ་དག་ནི་ཁྲག་གི་དྲི་ཚོར་ན་དཔག་ཚད་བརྒྱར་ཡང་རྒྱུག་གོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Ānanda, there are seven rākṣasīs who travel as far as one hundred miles when they smell the scent of blood.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-116">
+            <prop type="folio">F.153.a</prop>
+            <prop type="position">1697</prop>
+            <tuv xml:lang="bo">
+                <seg>གཟི་བརྗིད་མཆོག་དང་། དགའ་བརྩེགས་དང་། སྣ་ཚོགས་སྦྱིན་སྤོང་དང་། བྲན་མོ་དཀར་མོ་བཟང་དང་། འཇུག་འདོད་དང་། གྲོང་ཁྱེར་ཁོར་ཡུག་དང་། བདུན་པ་སྟེ་རི་བསྲུང་ངོ་། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Excellent Splendor, Layered Joy, Giver of Various Things, Excellent White Female Servant, Desiring Engagement, Surrounding City, and Mountain Protector.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-123">
+            <prop type="folio">F.153.b</prop>
+            <prop type="position">110</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་ཀྱང་གང་ཞེ་ན་འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Who are they? They are</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-117">
+            <prop type="folio">F.153.b</prop>
+            <prop type="position">286</prop>
+            <tuv xml:lang="bo">
+                <seg>གང་དེ་དག་གི་མིང་ཤེས་པ་དང་། རུས་ཤེས་པ་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Whoever knows their names and families</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-118">
+            <prop type="folio">F.153.b</prop>
+            <prop type="position">325</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་གིས་སྲུང་བར་བྱེད་དོ། །ཡོངས་སུ་སྐྱོབ་པ་དང་། ཡོངས་སུ་འཛིན་པ་དང་། ཞི་བ་དང་བདེ་ལེགས་སུ་འགྱུར་བ་དང་། ཆད་པ་ཟློག་པར་བྱེད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>will be guarded, protected, looked after, brought peace and well-being, and granted pardon!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-119">
+            <prop type="folio">F.153.b</prop>
+            <prop type="position">417</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་སྲིན་མོ་ནག་མོ་ཆེན་མོ་ཞེས་བྱ་བ་བུ་སྟོང་ཡོད་པ་རྒྱ་མཚོའི་འགྲམ་ན་གནས་པ་མཚན་གཅིག་གིས་དཔག་ཚད་བརྒྱད་ཁྲིར་ཕྱིན་པ་ཞིག་ཡོད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Ānanda, there is a rākṣasī called Mahākālī with one thousand sons who lives at the seashore and travels 80,000 miles in a single night.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-120">
+            <prop type="folio">F.153.b</prop>
+            <prop type="position">554</prop>
+            <tuv xml:lang="bo">
+                <seg>གང་དེའི་མིང་ཤེས་པ་དང་རུས་ཤེས་པ་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Whoever knows her name and family</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-121">
+            <prop type="folio">F.153.b</prop>
+            <prop type="position">588</prop>
+            <tuv xml:lang="bo">
+                <seg>དེས་སྲུང་བར་བྱེད། ཡོངས་སུ་སྐྱོབ་པ་དང་། ཡོངས་སུ་འཛིན་པ་དང་། ཞི་བ་དང་བདེ་ལེགས་སུ་འགྱུར་བ་དང་། ཆད་པ་ཟློག་པར་བྱེད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>will be guarded, protected, looked after, brought peace and well-being, and granted pardon by her!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-122">
+            <prop type="folio">F.153.b</prop>
+            <prop type="position">687</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་སྲིན་མོ་ལྔ་གནོད་སྦྱིན་འབུམ་ཕྲག་བདུན་ཅུ་རྩ་བདུན་དང་ལྷན་ཅིག་ཏུ་འཛམ་བུའི་གླིང་གི་མི་རྣམས་སྲུང་ཞིང་སྐྱོབ་པར་བྱེད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Ānanda, there are five rākṣasīs who, along with 7,700,000 yakṣas, guard and protect the humans in the Jambu continent.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-124">
+            <prop type="folio">F.153.b</prop>
+            <prop type="position">830</prop>
+            <tuv xml:lang="bo">
+                <seg>རྟག་ཏུ་མྱོས་དང་། རྗེས་སུ་མྱོས་དང་། སྟོབས་ཀྱིས་རྒྱགས་དང་། འོད་མའི་སྦུབས་དང་། ལྔ་པ་སྟེ་འབྱོར་ལྡན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Always Insane, Further Insane, Bloated with Power, Bamboo Stick, and Wealthy.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-125">
+            <prop type="folio">F.153.b</prop>
+            <prop type="position">947</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་གིས་སྲུང་བར་བྱེད། ཡོངས་སུ་སྐྱོབ་པ་དང་། ཡོངས་སུ་འཛིན་པ་དང་། ཞི་བ་དང་བདེ་ལེགས་སུ་འགྱུར་བ་དང་། ཆད་པ་ཟློག་པར་བྱེད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>will be guarded, protected, looked after, brought peace and well-being, and granted pardon by them!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-126">
+            <prop type="folio">F.153.b</prop>
+            <prop type="position">1047</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་བས་ན་བདག་གིས་མིང་འདི་ཞེས་བྱ་བའི་ཕྱིར་སྲིན་མོ་ལྔ་གནོད་སྦྱིན་འབུམ་ཕྲག་བདུན་ཅུ་རྩ་བདུན་དང་བཅས་པ་དེ་དག་ལ་གསོལ་ལོ། །གསོལ་བ་འདེབས་སོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Therefore, on behalf of the person named such-and-such, I beseech and supplicate those five rākṣasīs, along with the 7,700,000 yakṣas!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-127">
+            <prop type="folio">F.153.b</prop>
+            <prop type="position">1183</prop>
+            <tuv xml:lang="bo">
+                <seg>འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཀྱི་བཀས་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>By the command of the blessed buddhas of the past, future, and present,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-128">
+            <prop type="folio">F.153.b</prop>
+            <prop type="position">1255</prop>
+            <tuv xml:lang="bo">
+                <seg>མིང་འདི་ཞེས་བྱ་བ་ལ་བསྲུང་བ་གྱིས་ཤིག །ཡོངས་སུ་བསྐྱབ་པ་དང་། ཡོངས་སུ་གཟུང་བ་དང་། ཞི་བ་དང་བདེ་ལེགས་སུ་འགྱུར་བ་དང་། ཆད་པ་བཟློག་པར་གྱིས་ཤིག</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>may the person named such-and-such be guarded, protected, looked after, brought peace and well-being, and granted pardon!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-130">
+            <prop type="folio">F.154.a</prop>
+            <prop type="position">18</prop>
+            <tuv xml:lang="bo">
+                <seg>་ལྷ་དང་བཅས་པའི་འཇིག་རྟེན་དང་། བདུད་དང་བཅས་པ་དང་། ཚངས་པ་དང་བཅས་པ་དང་། དགེ་སྦྱོང་དང་བྲམ་ཟེར་བཅས་པའི་སྐྱེ་དགུ་དང་། ལྷ་དང་། མིར་བཅས་པ་དང་། མི་འམ་ཅི་དང་། ལྟོ་འཕྱེ་ཆེན་པོ་དང་བཅས་པའི་འཇིག་རྟེན་ན་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>in the worlds of gods, demons, Brahmā, mendicants, priests, humans, kiṃnaras, and mahoragas</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-138">
+            <prop type="folio">F.154.a</prop>
+            <prop type="position">137</prop>
+            <tuv xml:lang="bo">
+                <seg>མིའམ། མི་མ་ཡིན་པའམ། གནོད་སྦྱིན་ནམ། སྲིན་པོའམ། ལྷ་མ་ཡིན་ནམ། དྲི་ཟའམ། ཀླུའམ། ནམ་མཁའ་ལྡིང་ངམ། གསང་བ་པའམ། ཡི་དགས་སམ། ཤ་ཟའམ། རོ་ལངས་སམ། བྱད་སྟེམས་སམ། གཤེད་བྱེད་དམ། སྲུལ་པོའམ། ལུས་སྲུལ་པོའམ། སྨྱོ་བྱེད་དང་། བརྗེད་བྱེད་གླགས་ལྟ་བ་དང་། ཀླན་ཀ་ཚོལ་བ་རྣམས་ཀྱིས་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>human, non-human, yakṣa, rākṣasa, asura, gandharva, nāga, garuḍa, guhyaka, preta, piśāca, vetāla, kākhorda, kṛtya, pūtana, kaṭapūtana, unmāda, or apasmāra— who, seeking an opportunity to hurt and looking for conflict,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-129">
+            <prop type="folio">F.154.a</prop>
+            <prop type="position">377</prop>
+            <tuv xml:lang="bo">
+                <seg>གང་ལ་བསྲུང་བར་བྱས་པ་དང་། སྦ་བ་བྱས་པ་དང་། ཡོངས་སུ་བསྐྱབ་པ་བྱས་པ་དང་། ཡོངས་སུ་གཟུང་བ་བྱས་པ་དང་། ཞི་བ་དང་བདེ་ལེགས་སུ་འགྱུར་བ་དང་། ཆད་པ་བཟློག་པར་བྱས་པ་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>a person guarded, shielded, protected, looked after, brought peace and well-being, and granted pardon</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-131">
+            <prop type="folio">F.154.a</prop>
+            <prop type="position">544</prop>
+            <tuv xml:lang="bo">
+                <seg>ལས་ཀྱི་རྣམ་པར་སྨིན་པ་ནི་མ་གཏོགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>unless, that is, the ripening of their karma precludes it.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-133">
+            <prop type="folio">F.154.a</prop>
+            <prop type="position">603</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་བས་ན་ངས་འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཀྱི་བཀས་རིག་སྔགས་ཀྱི་རྒྱལ་མོ་གསང་སྔགས་རྗེས་སུ་འཛིན་པ་འདིས་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Therefore, by the command of the blessed buddhas of the past, future, and present, I will use this queen of incantations, Great Upholder of the Secret Mantra,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-132">
+            <prop type="folio">F.154.a</prop>
+            <prop type="position">801</prop>
+            <tuv xml:lang="bo">
+                <seg>མིའམ། མི་མ་ཡིན་པའམ། གནོད་སྦྱིན་ནམ། སྲིན་པོའམ། ཤ་ཟའམ། ལྷ་མ་ཡིན་ནམ། དྲི་ཟའམ། ཀླུའམ། ནམ་མཁའ་ལྡིང་ངམ། གསང་བ་པའམ། ཡི་དགས་སམ། ཤ་ཟའམ། རོ་ལངས་སམ། བྱད་སྟེམས་སམ། གཤེད་བྱེད་དམ། སྲུལ་པོའམ། ལུས་སྲུལ་པོའམ། སྨྱོ་བྱེད་དམ། བརྗེད་བྱེད་རྣམས་ལས་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>from humans, non-humans, yakṣas, rākṣasas, piśācas, asuras, gandharvas, nāgas, garuḍas, guhyakas, pretas, vetālas, kākhordas, kṛtyas, pūtanas, kaṭapūtanas, unmadas, and apasmāras.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-134">
+            <prop type="folio">F.154.a</prop>
+            <prop type="position">981</prop>
+            <tuv xml:lang="bo">
+                <seg>མིང་འདི་ཞེས་བྱ་བ་ལ་བསྲུང་བར་བྱའོ། །ཡོངས་སུ་བསྐྱབ་པ་དང་། ཡོངས་སུ་གཟུང་བ་དང་། སྦ་བ་དང་། ཞི་བ་དང་བདེ་ལེགས་སུ་འགྱུར་བ་དང་། ཆད་པ་བཟློག་པར་བྱའོ། །དུག་མེད་པར་བྱའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>He will be protected, shielded, brought peace and well-being, granted pardon, and purged of poison.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-135">
+            <prop type="folio">F.154.a</prop>
+            <prop type="position">1081</prop>
+            <tuv xml:lang="bo">
+                <seg>རིག་སྔགས་ཀྱི་རྒྱལ་མོ་གསང་སྔགས་ཆེན་པོ་རྗེས་སུ་འཛིན་པ་འདིས་སྡང་བར་སེམས་པ་ཐམས་ཅད་དང་། གནོད་པར་སེམས་པ་ཐམས་ཅད་དང་། མི་ཕན་པར་སེམས་པ་ཐམས་ཅད་དང་། རབ་ཏུ་སྡང་བར་སེམས་པ་ཐམས་ཅད་དང་། བདུད་ཐམས་ཅད་དང་། གསེབ་ལམ་བསྲུང་བ་ཐམས་ཅད་དང་། ལ་གཅན་བསྲུང་བ་ཐམས་ཅད་དང་། ཤོ་གམ་གྱི་གནས་བསྲུང་བ་དེ་དག་ཐམས་ཅད་མྱོས་པར་བྱའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“This queen of incantations, Great Upholder of the Secret Mantra, will intoxicate all those with hostile intentions, ill will, animosity, and rage, as well as all demons, trail guards, fort guards, and customs guards.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-136">
+            <prop type="folio">F.154.b</prop>
+            <prop type="position">217</prop>
+            <tuv xml:lang="bo">
+                <seg>རྣམ་པར་མྱོས་པར་བྱའོ། །རེངས་པ་དང་། རྨུགས་པ་དང་། ལག་པ་གཟུང་བ་དང་། རྐང་པ་གཟུང་བ་དང་། སེམས་གཟུང་བ་དང་། ལྕེ་གཟུང་བར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It will intoxicate them, cause paralysis and stupefaction, and seize their hands, feet, minds, and tongues.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-137">
+            <prop type="folio">F.154.b</prop>
+            <prop type="position">325</prop>
+            <tuv xml:lang="bo">
+                <seg>རིག་སྔགས་ཀྱི་རྒྱལ་མོ་གསང་སྔགས་ཆེན་པོ་རྗེས་སུ་འཛིན་པ་འདིས་ནི་གང་དང་གང་དུ་ཡང་ཐར་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Through this queen of incantations, Great Upholder of the Secret Mantra, the person will escape on each and every occasion.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-139">
+            <prop type="folio">F.154.b</prop>
+            <prop type="position">447</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀྱེ་མ་བྲམ་ཟེ་མྱ་ངན་འདས། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Oh wonder! Brahmin! You transcended anguish,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-140">
+            <prop type="folio">F.154.b</prop>
+            <prop type="position">493</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་དག་ན་སྲིད་ལས་རྒལ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Crossed over existence within the world,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-141">
+            <prop type="folio">F.154.b</prop>
+            <prop type="position">534</prop>
+            <tuv xml:lang="bo">
+                <seg>ཁོན་དང་འཇིགས་པ་ཀུན་འདས་པ། །རིང་མོ་ཞིག་ནས་གཟོད་མཐོང་ངོ་། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And finally, after so long, Saw the transcendence of all resentment and fear!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-142">
+            <prop type="folio">F.154.b</prop>
+            <prop type="position">612</prop>
+            <tuv xml:lang="bo">
+                <seg>བཟོད་པ་དཀའ་ཐུབ་མཆོག་སྟེ་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Patience is the supreme austerity;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-143">
+            <prop type="folio">F.154.b</prop>
+            <prop type="position">648</prop>
+            <tuv xml:lang="bo">
+                <seg>བཟོད་པ་ནི། །མྱ་ངན་འདས་པ་མཆོག་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Patience is the supreme nirvāṇa</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-144">
+            <prop type="folio">F.154.b</prop>
+            <prop type="position">680</prop>
+            <tuv xml:lang="bo">
+                <seg>ཅེས་སངས་རྒྱས་གསུང་། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>so proclaims the Buddha.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-145">
+            <prop type="folio">F.154.b</prop>
+            <prop type="position">705</prop>
+            <tuv xml:lang="bo">
+                <seg>རབ་ཏུ་བྱུང་བ་གཞན་ལ་གནོད་པ་ནི། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>As for the ordained who harm others,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-146">
+            <prop type="folio">F.154.b</prop>
+            <prop type="position">742</prop>
+            <tuv xml:lang="bo">
+                <seg>གཞན་ལ་འཚེ་བ་དགེ་སྦྱོང་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>One who is violent toward others is not a proper renunciant.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-150">
+            <prop type="folio">F.154.b</prop>
+            <prop type="position">803</prop>
+            <tuv xml:lang="bo">
+                <seg>ཡང་ན་མིག་དང་ལྡན་པ་དག །མཐུ་རྩལ་དག་ཀྱང་ཡོད་པ་བཞིན། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“On the other hand, just as those with eyesight Also have capabilities,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-149">
+            <prop type="folio">F.154.b</prop>
+            <prop type="position">875</prop>
+            <tuv xml:lang="bo">
+                <seg>མཁས་པས་འཚོ་བའི་འཇིག་རྟེན་འདིར། །སྡིག་པ་དག་ནི་ཡོངས་སུ་སྤང་། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The wise, in this world of the living, Avoid misdeeds.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-147">
+            <prop type="folio">F.154.b</prop>
+            <prop type="position">930</prop>
+            <tuv xml:lang="bo">
+                <seg>ད་ལྟར་བྱུང་དང་འདས་པ་དང་། །མ་བྱོན་སངས་རྒྱས་གང་ཡིན་པ། །ཐམས་ཅད་ལ་ཡང་བདག་ཕྱག་འཚལ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“To all the buddhas Of present, future, and past I pay homage!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-148">
+            <prop type="folio">F.154.b</prop>
+            <prop type="position">993</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་ཀུན་ལ་སྐྱབས་སུ་མཆི། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>To all of them I go for refuge!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-155">
+            <prop type="folio">F.154.b</prop>
+            <prop type="position">1025</prop>
+            <tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་དགྲ་བཅོམ་བདེ་གཤེགས་ལ། །ཟླ་བ་སྐྱབས་སུ་མཆི་ལགས་ཀྱིས། །སངས་རྒྱས་འཇིག་རྟེན་ཐུགས་བརྩེ་རྣམས། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Since in the world it is the bliss-gone arhats To whom the moon goes for refuge, Buddhas, with compassion for the world,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-151">
+            <prop type="folio">F.154.b</prop>
+            <prop type="position">1147</prop>
+            <tuv xml:lang="bo">
+                <seg>ཟླ་བ་ཐར་མཛོད་སྒྲ་གཅན་ལས། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Free the moon from Rāhu!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-152">
+            <prop type="folio">F.154.b</prop>
+            <prop type="position">1172</prop>
+            <tuv xml:lang="bo">
+                <seg>སྒྲ་གཅན་ཟླ་བ་མུན་སེལ་བ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“ ‘Rāhu! The moon dispels darkness.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-153">
+            <prop type="folio">F.154.b</prop>
+            <prop type="position">1208</prop>
+            <tuv xml:lang="bo">
+                <seg>ནམ་མཁའ་དག་ལ་འོད་བྱེད་ཅིང་། །ལྷམ་མེར་འདུག་པ་དཀར་བ་དང་། །རྣམ་པར་དག་པའི་འོད་ལྡན་པ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Illuminating the sky, It shines with white And pristine light.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-154">
+            <prop type="folio">F.154.b</prop>
+            <prop type="position">1271</prop>
+            <tuv xml:lang="bo">
+                <seg>བར་སྣང་དག་ལ་མ་བཟུང་བར། །སྐྱེ་དགུའི་སྒྲོན་དེ་མྱུར་དུ་ཐོང་། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Instead of seizing it in the sky, Instantly release the lantern of creatures!’</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-156">
+            <prop type="folio">F.154.b</prop>
+            <prop type="position">1350</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ནས་རིངས་བཞིན་སྒྲ་གཅན་དེ། །ལུས་ཀྱང་རྔུལ་ཞིང་སྐྲག་གྱུར་ལ། །ནད་པ་བཞིན་དུ་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Then, suddenly, Rāhu, with his body trembling and in a sweat Like a sick person,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-157">
+            <prop type="folio">F.154.b</prop>
+            <prop type="position">1432</prop>
+            <tuv xml:lang="bo">
+                <seg>བརྟད་པ་ཡིས། །ཟླ་བ་རྣམ་པར་གཏོང་བར་བྱེད། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Abruptly released the moon.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-158">
+            <prop type="folio">F.154.b</prop>
+            <prop type="position">1460</prop>
+            <tuv xml:lang="bo">
+                <seg>ཅི་ཡི་ཕྱིར་ན་སྒྲ་གཅན་ཁྱོད། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“ ‘Rāhu, why did you,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-159">
+            <prop type="folio">F.154.b</prop>
+            <prop type="position">1482</prop>
+            <tuv xml:lang="bo">
+                <seg>ལུས་ཀྱང་རྔུལ་ཞིང་སྐྲག་གྱུར་ལ། །ནད་པ་བཞིན་དུ་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Trembling and in a sweat Like a sick person,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-160">
+            <prop type="folio">F.154.b</prop>
+            <prop type="position">1527</prop>
+            <tuv xml:lang="bo">
+                <seg>བརྟད་པ་ཡིས། །རིངས་པར་ཟླ་བ་གཏོང་བར་བྱེད། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Suddenly release the moon?’</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-161">
+            <prop type="folio">F.154.b</prop>
+            <prop type="position">1557</prop>
+            <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཚིགས་བཅད་འདི་བརྗོད་པས། །གལ་ཏེ་ཟླ་བ་མ་བཏང་ན། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>‘If, upon uttering these verses of the Buddha, The moon were not released,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-162">
+            <prop type="folio">F.154.b</prop>
+            <prop type="position">1632</prop>
+            <tuv xml:lang="bo">
+                <seg>བདག་གི་མགོ་བོ་ཚལ་བདུན་འགས། །གསོན་ཡང་བདེ་བར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>My head would crack into seven pieces, And even while alive, I would be unhappy.’</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-164">
+            <prop type="folio">F.154.b</prop>
+            <prop type="position">1714</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀྱེ་མ་བདེན་པར་གཟིགས་པ་ཡི། །སངས་རྒྱས་རྣམས་ཀྱི་འབྱུང་བ་རྨད། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Oh wonder! Amazing is the emergence of buddhas Who see the truth!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-163">
+            <prop type="folio">F.154.b</prop>
+            <prop type="position">1781</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་གིས་ནི་ཚིགས་སུ་བཅད། །བརྗོད་ན་སྒྲ་གཅན་ཟླ་བ་གཏོང་། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>If one recites these verses, Rāhu will release the moon.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-165">
+            <prop type="folio">F.155.a</prop>
+            <prop type="position">1</prop>
+            <tuv xml:lang="bo">
+                <seg>བདེན་པ་དང་བདེན་པའི་ཚིག་གང་གིས་འཇིག་རྟེན་དུ་སེམས་ཅན་བརྗེད་ངས་པ་མེད་པའི་ཆོས་ཅན་བྱུང་བ་ནི་དེ་བཞིན་གཤེགས་པའོ་ཞེས་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“By such truth and true words, as follows: one who is unforgettable to beings appearing in the world is a ‘thus-gone one;’</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-166">
+            <prop type="folio">F.155.a</prop>
+            <prop type="position">124</prop>
+            <tuv xml:lang="bo">
+                <seg>ཡང་དག་པར་སྨྲ་བས་སྨྲ་བ་ནི་དུས་སུ་ཡང་དག་པར་སྨྲ་བས་སྨྲ་བ་ཡིན་ནོ་ཞེས་བྱ་བ་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>that he speaks by speaking truly means he speaks by speaking truly at the appropriate time.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-167">
+            <prop type="folio">F.155.a</prop>
+            <prop type="position">216</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་གཞན་ཡང་ཚངས་པར་སྤྱོད་པ་ལ་ཕན་པའི་ཕྱིར་དེ་བཞིན་གཤེགས་པས་ཚིགས་སུ་བཅད་པ་གསུངས་པ་གང་ཡིན་པ་དེ་དག</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Furthermore, Ānanda, those verses were spoken by the Thus-Gone One to assist in the observation of pure conduct.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-168">
+            <prop type="folio">F.155.a</prop>
+            <prop type="position">329</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་གཞན་ཡང་ཚིག་དེ་དག་གིས་བྱ་བ་གང་བྱེད་པའི་དོན་དང་། ཕན་པ་དང་བདེ་བ་ཡང་འདིས་བྱེད་པར་འགྱུར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And what is more, Ānanda, the following words will secure the purpose, as well as further assist and ease, whatever function those verses are set to perform:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-169">
+            <prop type="folio">F.155.a</prop>
+            <prop type="position">665</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་ས་བོན་གྱི་རྩ་བ་བཅུ་དང་ས་བོན་གྱི་རྩ་བའི་ཚིག་བཅུ་དེ་བཞིན་གཤེགས་པས་གསུངས་པ་ཡོད་དོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Ānanda, the ten roots of seeds and the ten root words of seeds have been spoken by the Thus-Gone One.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-170">
+            <prop type="folio">F.155.a</prop>
+            <prop type="position">768</prop>
+            <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་ཚིག་དེ་དག་དེ་བཞིན་གཤེགས་པས་གསུང་བར་འགྱུར་བ་དང་། སྟོན་པར་འགྱུར་བ་ཡང་ཡོད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ānanda, these words will be spoken by Thus-Gone Ones, and will be taught by them;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-171">
+            <prop type="folio">F.155.a</prop>
+            <prop type="position">850</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་དག་བསྟན་པ་འདི་ལ་ཞུགས་པའི་མི་རྣམས་ཀྱི་ཁར་བརྗོད་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>so if people who dwell in their teaching utter them,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-172">
+            <prop type="folio">F.155.a</prop>
+            <prop type="position">903</prop>
+            <tuv xml:lang="bo">
+                <seg>གནོད་སྦྱིན་དང་སྲིན་པོ་རྣམས་ཀྱང་བྲན་བཞིན་དུ་ལས་བྱེད་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>yakṣas and rākṣasas will perform activities for them like slaves.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-173">
+            <prop type="folio">F.155.a</prop>
+            <prop type="position">969</prop>
+            <tuv xml:lang="bo">
+                <seg>བདེན་པ་དང་བདེན་པའི་ཚིག་གང་གིས་ཕྱིར་མི་ལྡོག་པའི་སའི་ཚིག་བདེན་པ་རྣམས་ལ་འཇིག་རྟེན་གྱི་ཚིག་གི་མཆོག་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“By such truth and true words, as follows: true words at the irreversible level are called the ‘words that are supreme in the world.’</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-174">
+            <prop type="folio">F.155.a</prop>
+            <prop type="position">1103</prop>
+            <tuv xml:lang="bo">
+                <seg>དགེ་སྦྱོང་རྣམས་ཀྱི་ནང་ན་དགེ་སྦྱོང་སྐྱིད་དེ་བ་ཞེས་བྱ་བ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Those who, of all renunciants, are ‘the most joyful renunciants,’</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-175">
+            <prop type="folio">F.155.a</prop>
+            <prop type="position">1170</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ནི་འཇིགས་པ་མི་མངའ་བ་བག་ཚ་བ་མི་མངའ་བ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>he perfectly and completely awakened, thus-gone arhats, who have neither fear nor terror,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-176">
+            <prop type="folio">F.155.a</prop>
+            <prop type="position">1260</prop>
+            <tuv xml:lang="bo">
+                <seg>མི་སྐྲག་མི་འབྲོས་ལ་འཇིགས་པ་མེད་ཅིང་འཇིགས་པ་དང་། འཇིགས་པར་བྱེད་པ་སྤངས་པ་སྐྱི་བུང་ཞེས་བྱེད་པ་མེད་པའོ་ཞེས་ཡང་དག་པར་སྨྲ་བས་སྨྲ་བ་ནི་དུས་སུ་ཡང་དག་པར་སྨྲ་བས་སྨྲ་བ་ཡིན་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>who, neither cowering nor fleeing, lack fear, and who, having abandoned fear and its impetus, are called ‘free of anything that causes one to cry out in hair-raising panic’—these are what is meant by ‘those who speak by speaking truly, those who speak by speaking truly at the appropriate time.’</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-178">
+            <prop type="folio">F.155.a</prop>
+            <prop type="position">1645</prop>
+            <tuv xml:lang="bo">
+                <seg>བདེན་པ་དང་བདེན་པའི་ཚིག་གང་གིས་ཚུལ་ཁྲིམས་དང་། བརྟུལ་ཞུགས་དང་། དཀའ་ཐུབ་དང་། ཚངས་པར་སྤྱོད་པ་ལ་གནས་པ་གང་ཅི་ཡང་རུང་བ་དེ་དག་གི་ནང་ན་ནི། འཕགས་པ་དགྱེས་པའི་ཚུལ་ཁྲིམས་མཆོག་ཅེས་བྱ་སྟེ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“By such truth and true words, as follows: of all those who observe ethical discipline, controlled conduct, austerities, or pure conduct, those who are known as ‘supreme in the discipline that pleases the noble ones’</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-177">
+            <prop type="folio">F.155.a</prop>
+            <prop type="position">1862</prop>
+            <tuv xml:lang="bo">
+                <seg>བདེན་པ་དང་བདེན་པའི་ཚིག་དེས་མིང་འདི་ཞེས་བྱ་བ་ལ་བདེ་ལེགས་སུ་གྱུར་ཅིག །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>by their truth and their true words, may the person named such-and-such have well-being!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-179">
+            <prop type="folio">F.155.b</prop>
+            <prop type="position">1</prop>
+            <tuv xml:lang="bo">
+                <seg>གནས་བརྟན་རྒྱལ་པོའི་བུ་ཐུ་བོ་དང་འདྲ་བར་རབ་ཏུ་བྱུང་ནས་རིང་དུ་ལོན་པ་ཚངས་པར་སྤྱོད་པ་མངོན་པར་སྤྱད་པ་རྣམས་ཀྱི་མཆོག་འདི་ལྟ་སྟེ་དགེ་སློང་ཀུན་ཤེས་ཀཽཎྜི་ནྱ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Of the elders, Ājñāta­kauṇḍinya, like the eldest of a king’s sons, foremost among those practicing pure conduct, for a long time has passed since his ordination;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-180">
+            <prop type="folio">F.155.b</prop>
+            <prop type="position">164</prop>
+            <tuv xml:lang="bo">
+                <seg>འདོད་པ་ཉུང་བ་དང་སྦྱངས་པའི་ཡོན་ཏན་ལ་གནས་པ་དང་། ཆོག་ཤེས་པ་རྣམས་ཀྱི་མཆོག་འོད་སྲུང་ཆེན་པོ་དང་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Mahākāśyapa, supreme among those with few desires who adhere to the qualities from training and have contentment;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-181">
+            <prop type="folio">F.155.b</prop>
+            <prop type="position">278</prop>
+            <tuv xml:lang="bo">
+                <seg>ཤེས་རབ་ཆེ་བ་དང་སྤོབས་པ་ཆེ་བ་རྣམས་ཀྱི་མཆོག་ཤ་ར་དྭ་ཏིའི་བུ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Śāradvatīputra, supreme among those with great wisdom and eloquence;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-182">
+            <prop type="folio">F.155.b</prop>
+            <prop type="position">347</prop>
+            <tuv xml:lang="bo">
+                <seg>རྫུ་འཕྲུལ་ཆེ་བ་དང་མཐུ་ཆེ་བ་རྣམས་ཀྱི་མཆོག་མཽད་གལ་གྱི་བུ་ཆེན་པོ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Mahā­maudgalyāyana, supreme among those with great miraculous powers and great magical abilities;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-183">
+            <prop type="folio">F.155.b</prop>
+            <prop type="position">445</prop>
+            <tuv xml:lang="bo">
+                <seg>ལྷའི་མིག་དང་ལྡན་པ་རྣམས་ཀྱི་མཆོག་མ་འགགས་པ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Aniruddha, supreme among those with the divine eye;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-184">
+            <prop type="folio">F.155.b</prop>
+            <prop type="position">497</prop>
+            <tuv xml:lang="bo">
+                <seg>མང་དུ་ཐོས་པ་རྣམས་ཀྱི་མཆོག་ཀུན་དགའ་བོ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ānanda, supreme among the learned;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-185">
+            <prop type="folio">F.155.b</prop>
+            <prop type="position">532</prop>
+            <tuv xml:lang="bo">
+                <seg>འདུལ་བ་འཛིན་པ་རྣམས་ཀྱི་མཆོག་ཉེ་བར་འཁོར་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Upālī, supreme among holders of discipline;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-186">
+            <prop type="folio">F.155.b</prop>
+            <prop type="position">576</prop>
+            <tuv xml:lang="bo">
+                <seg>ཆོས་སྨྲ་བ་རྣམས་ཀྱི་མཆོག་བྱམས་མའི་བུ་གང་པོ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Pūrṇa­maitrāyaṇī­putra, supreme among Dharma preachers;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-187">
+            <prop type="folio">F.155.b</prop>
+            <prop type="position">632</prop>
+            <tuv xml:lang="bo">
+                <seg>བསླབ་པ་ལ་གུས་པ་རྣམས་ཀྱི་མཆོག་སྒྲ་གཅན་ཟིན་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Rāhula, supreme among those with respect for the trainings;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-188">
+            <prop type="folio">F.155.b</prop>
+            <prop type="position">692</prop>
+            <tuv xml:lang="bo">
+                <seg>མལ་ཆ་དང་། སྟན་བསྒོ་བ་རྣམས་ཀྱི་མཆོག་གྱད་བུ་ནོར་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Vasumallaputra, supreme among those who distribute bedding and cushions;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-189">
+            <prop type="folio">F.155.b</prop>
+            <prop type="position">765</prop>
+            <tuv xml:lang="bo">
+                <seg>སེང་གེའི་སྒྲ་སྒྲོགས་པ་རྣམས་ཀྱི་མཆོག་བྷ་ར་དྭ་ཛ་བསོད་སྙོམས་ལེན་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Piṇḍola Bhāradvāja, supreme among those who proclaim the lion’s roar;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-190">
+            <prop type="folio">F.155.b</prop>
+            <prop type="position">835</prop>
+            <tuv xml:lang="bo">
+                <seg>ཁྱིམ་པ་དད་པ་བསྐྱེད་པ་རྣམས་ཀྱི་མཆོག་ནག་པོ་འཆར་ཀ་དང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Kālodāyin, supreme among those who inspire householders;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-191">
+            <prop type="folio">F.155.b</prop>
+            <prop type="position">896</prop>
+            <tuv xml:lang="bo">
+                <seg>ལྷ་དང་མིས་མཆོད་པ་རྣམས་ཀྱི་མཆོག་ལེགས་མཐོང་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Sudarśana, supreme among those who are venerated by gods and men</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-192">
+            <prop type="folio">F.155.b</prop>
+            <prop type="position">960</prop>
+            <tuv xml:lang="bo">
+                <seg>གི་བདེན་པ་དང་བདེན་པའི་ཚིག་དེས་མིང་འདི་ཞེས་བྱ་བ་ལ་བསྲུང་བར་བྱའོ། །ཡོངས་སུ་བསྐྱབ་པ་དང་། ཡོངས་སུ་གཟུང་བ་དང་། ཞི་བ་དང་བདེ་ལེགས་སུ་འགྱུར་བ་དང་ཆད་པ་བཟློག་པར་བྱའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>—by the truth and true words of these elders, may the person named such-and-such be guarded, protected, looked after, brought peace and well-being, and granted pardon.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-193">
+            <prop type="folio">F.155.b</prop>
+            <prop type="position">1128</prop>
+            <tuv xml:lang="bo">
+                <seg>རྒྱལ་པོའམ། བློན་པོའམ། ཆོམ་རྐུན་ནམ། མེའམ། ཆུའམ། དགྲའམ། མི་མཛའ་བའམ། ལམ་དུ་འགྲོ་བའམ། ལམ་གོལ་བར་འགྲོ་བའམ། གཉིད་ལོག་པའམ། ར་རོ་བའམ་བག་མེད་པ་ལ་བསྲུང་བར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>He shall be protected from kings, ministers, robbers, fire, water, enemies, and adversaries, and when traveling, lost, asleep, drunk, or careless!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-196">
+            <prop type="folio">F.155.b</prop>
+            <prop type="position">1275</prop>
+            <tuv xml:lang="bo">
+                <seg>བདེན་པ་དང་བདེན་པའི་ཚིག་གང་གིས་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“By such truth and true words, as follows:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-194">
+            <prop type="folio">F.155.b</prop>
+            <prop type="position">1318</prop>
+            <tuv xml:lang="bo">
+                <seg>སེམས་ཅན་རྐང་པ་མེད་པའམ། རྐང་གཉིས་པའམ། རྐང་བཞི་པའམ། རྐང་མངས་སམ། གཟུགས་ཅན་ནམ། གཟུགས་ཅན་མ་ཡིན་པའམ། འདུ་ཤེས་ཅན་ནམ། འདུ་ཤེས་ཅན་མ་ཡིན་པའམ། འདུ་ཤེས་མེད་འདུ་ཤེས་མེད་མིན་གྱི་སེམས་ཅན་ཇི་སྙེད་ཡོད་པ་དེ་དག་གི་ནང་ན་ནི་དེ་བཞིན་གཤེགས་པ་མཆོག་ཅེས་བྱ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>among all possible beings—those without feet, with two feet, with four feet, or with many feet; those with form or without form; those with perception, without perception, or neither with nor without perception—the Thus-Gone One is called ‘supreme.’</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-195">
+            <prop type="folio">F.155.b</prop>
+            <prop type="position">1568</prop>
+            <tuv xml:lang="bo">
+                <seg>བདེན་པ་དང་བདེན་པའི་ཚིག་དེས་མིང་འདི་ཞེས་བྱ་བ་ལ་བསྲུང་བར་བྱའོ། །ཡོངས་སུ་བསྐྱབ་པ་དང་། ཡོངས་སུ་གཟུང་བ་དང་། ཞི་བ་དང་བདེ་ལེགས་སུ་འགྱུར་བ་དང་། ཆད་པ་བཟློག་པར་བྱའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>By his truth and his true words, may the person person named such-and-such be guarded, protected, looked after, brought peace and well-being, and granted pardon!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-197">
+            <prop type="folio">F.155.b</prop>
+            <prop type="position">1773</prop>
+            <tuv xml:lang="bo">
+                <seg>འདུས་བྱས་སམ། འདུས་མ་བྱས་ཀྱི་ཆོས་གང་ཇི་སྙེད་ཡོད་པ་དེ་དག་གི་ནང་ན་ནི་འདོད་ཆགས་དང་བྲལ་བ་མཆོག་ཅེས་བྱ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>in the entire range of conditioned and unconditioned phenomena, freedom from attachment is called ‘supreme.’</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-198">
+            <prop type="folio">F.156.a</prop>
+            <prop type="position">153</prop>
+            <tuv xml:lang="bo">
+                <seg>བདེན་པ་དང་བདེན་པའི་ཚིག་དེས་མིང་འདི་ཞེས་བྱ་བ་ལ་བསྲུང་བར་བྱའོ། །ཡོངས་སུ་བསྐྱབ་པ་དང་། ཡོངས་སུ་གཟུང་བ་དང་། ཞི་བ་དང་བདེ་ལེགས་སུ་འགྱུར་བ་དང་ཆད་པ་བཟློག་པར་བྱའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>By that truth and those true words, may the person person named such-and-such be guarded, protected, embraced, brought peace and well-being, and granted pardon.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-199">
+            <prop type="folio">F.156.a</prop>
+            <prop type="position">314</prop>
+            <tuv xml:lang="bo">
+                <seg>བདེན་པ་དང་བདེན་པའི་ཚིག་གང་གིས་ཚོགས་སམ། འདུས་པའམ། མང་པོའམ། འཁོར་ཇི་སྙེད་ཅིག་ཡོད་པ་དེ་དག་གི་ནང་ན་ནི་དེ་བཞིན་གཤེགས་པའི་ཉན་ཐོས་ཀྱི་དགེ་འདུན་མཆོག་ཅེས་བྱ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“By such truth and true words, as follows: of all kinds of assemblies, gatherings, multitudes, and retinues, the saṅgha of the Thus-Gone One’s śrāvakas is called ‘supreme.’</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-200">
+            <prop type="folio">F.156.a</prop>
+            <prop type="position">487</prop>
+            <tuv xml:lang="bo">
+                <seg>བདེན་པ་དང་བདེན་པའི་ཚིག་དེས་རྒྱལ་ཁམས་སམ། ཡུལ་འཁོར་རམ། གྲོང་ངམ། གྲོང་རྡལ་ལམ། གྲོང་ཁྱེར་རམ། ཁྱིམ་མམ། གནས་སམ། ཞིང་ངམ། ནད་པ་འདི་ལ་བསྲུང་བར་བྱའོ། །ཡོངས་སུ་བསྐྱབ་པ་དང་། ཡོངས་སུ་གཟུང་བ་དང་། ཞི་བ་དང་བདེ་ལེགས་སུ་འགྱུར་བ་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>By their truth and their true words, may countries, regions, cities, towns, villages, houses, abodes, fields, and this sick patient be guarded, protected, looked after, and brought peace and well-being.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-201">
+            <prop type="folio">F.156.a</prop>
+            <prop type="position">690</prop>
+            <tuv xml:lang="bo">
+                <seg>མཚམས་གཅད་པར་བྱའོ། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Boundaries will be formed</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-202">
+            <prop type="folio">F.156.a</prop>
+            <prop type="position">729</prop>
+            <tuv xml:lang="bo">
+                <seg>འབྱུང་པོ་ཐམས་ཅད་བཟློག་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>All bhūtas will be turned back.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-203">
+            <prop type="folio">F.156.a</prop>
+            <prop type="position">761</prop>
+            <tuv xml:lang="bo">
+                <seg>གཟི་བྱིན་འཕྲོག་པ་རྣམས་བཟློག་པར་བྱའོ། །།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Those who steal vitality will be turned back.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-211">
+            <prop type="folio">F.156.a</prop>
+            <prop type="position">807</prop>
+            <tuv xml:lang="bo">
+                <seg>བདེན་པ་དང་བདེན་པའི་ཚིག་གང་གིས་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ངས་འདོད་ཆགས་དང་། ཞེ་སྡང་དང་གཏི་མུག་ཟད་པར་བྱ་བ</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“By such truth and true words, as follows: in order that I—a blessed, perfectly and completely awakened, thus-gone arhat—may end this person’s desire, anger, and ignorance,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-212">
+            <prop type="folio">F.156.a</prop>
+            <prop type="position">980</prop>
+            <tuv xml:lang="bo">
+                <seg>ཆོས་ཀྱི་ཕུང་པོ་བརྒྱད་ཁྲི་བཞི་སྟོང་བསྟན་པ་དང་། བཤད་པ་དང་བརྗོད་པའི་བདེན་པ་དང་། བདེན་པའི་ཚིག་དེས་མིང་འདི་ཞེས་བྱ་བའི་ནད་བཞི་བརྒྱ་རྩ་བཞི་ཟད་པར་གྱུར་ཅིག་</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>by the truth and true words of the teaching, explanation, and enunciation of the 84,000 sections of teachings, may the 404 sicknesses of the person named such-and-such come to an end!</seg>
+            </tuv>
+        </tu>
+    <tu id="UT22084-090-007-TU-210">
+            <prop type="folio">F.156.a</prop>
+            <prop type="position">1164</prop>
+            <tuv xml:lang="bo">
+                <seg>མེད་པར་གྱུར་ཅིག །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>May they be eliminated!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-209">
+            <prop type="folio">F.156.a</prop>
+            <prop type="position">1188</prop>
+            <tuv xml:lang="bo">
+                <seg>ཞི་བར་གྱུར་ཅིག</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>May they cease!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-208">
+            <prop type="folio">F.156.a</prop>
+            <prop type="position">1204</prop>
+            <tuv xml:lang="bo">
+                <seg>རབ་ཏུ་ཞི་བར་གྱུར་ཅིག །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>May they cease completely!”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-206">
+            <prop type="folio">F.156.a</prop>
+            <prop type="position">1232</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>When the Blessed One had spoken,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-207">
+            <prop type="folio">F.156.a</prop>
+            <prop type="position">1265</prop>
+            <tuv xml:lang="bo">
+                <seg>ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་དང་། མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པ་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>the world, including venerable Ānanda, Brahmā, master of the Sahā world, and all gods, humans, asuras, and gandharvas rejoiced and praised what the Blessed One had said.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-205">
+            <prop type="folio">F.156.a</prop>
+            <prop type="position">1435</prop>
+            <tuv xml:lang="bo">
+                <seg>གསང་སྔགས་ཆེན་པོ་རྗེས་སུ་འཛིན་པའི་མདོ་རྫོགས་སོ།། །</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>This completes “The Sūtra of Great Upholder of the Secret Mantra.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-090-007-TU-204">
+            <prop type="folio">F.156.a</prop>
+            <prop type="position">1498</prop>
+            <tuv xml:lang="bo">
+                <seg>པཎྜི་ཏ་ཤཱི་ལེནྡྲ་བོ་དྷི་དང་། ཛྙཱ་ན་སིདྡྷི་དང་། ཤཱཀྱ་པྲ་བྷ་བ་དང་། ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ་བནྡེ་ཡེ་ཤེས་སྡེས་བསྒྱུར་ཅིང་ཞུས་ཏེ། སྐད་གསར་ཆད་ཀྱིས་ཀྱང་བཅོས་ཏེ་གཏན་ལ་ཕབ་པ།། །།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>This was translated and edited by the Indian scholars Śīlendrabodhi, Jñānasiddhi, and Śākyaprabha, along with the translator-editor Bandé Yeshé Dé, who then revised it according to the new lexicon and finalized it.</seg>
+            </tuv>
+        </tu>
+        </body>
+</tmx>

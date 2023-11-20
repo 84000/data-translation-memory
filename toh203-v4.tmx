@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-062-003" eft:text-version="v-1.0.5-2023"/>
+<body>
+<tu id="UT22084-062-003-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.78.a"/>༄༅༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་དྷརྨ་མུ་དྲཱ་ནཱ་མ་མ་ཧཱ་ཡཱ་ན་སཱུ་ཏྲ། །བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ཆོས་ཀྱི་ཕྱག་རྒྱ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Noble Great Vehicle Sūtra The Seal of Dharma</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-3">
+    <prop type="location-id">UT22084-062-003-13</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-003-13"/>Homage to all buddhas and bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-4">
+    <prop type="location-id">UT22084-062-003-83</prop>
+    <tuv xml:lang="bo">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-003-83"/>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-5">
+    <prop type="location-id">UT22084-062-003-83</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མཉན་ཡོད་ན་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ། མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན་དགེ་སློང་ལྔ་སྟོང་ཐམས་པའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རབ་ཏུ་མང་པོ་དག་དང་ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One was dwelling in Śrāvastī in the Jeta Grove, Anāthapiṇḍada’s park, together with a great monastic assembly of five thousand monks and many bodhisattva great beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-6">
+    <prop type="location-id">UT22084-062-003-83</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་བཅོམ་ལྡན་འདས་ཀྱི་མཐུས་སྟན་ལས་ལངས་ཏེ། བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས། པུས་མོ་གཡས་པའི་ལྷ་ང་ས་ལ་བཙུགས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>By the power of the Blessed One, Venerable Śāriputra rose from his seat, draped his shawl over one shoulder, and knelt on his right knee.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-7">
+    <prop type="location-id">UT22084-062-003-83</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས།བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་རབ་ཏུ་བྱུང་བ་རབ་ཏུ་བྱུང་བ་ཞེས་བགྱི་ན། བཅོམ་ལྡན་འདས་ཇི་ཙམ་གྱིས་ན་ལེགས་པར་གསུངས་པའི་ཆོས་<tei:ref folio="F.78.b"/>འདུལ་བ་ལ་དགེ་སློང་རབ་ཏུ་བྱུང་བ་འཕགས་པ་འཇིག་རྟེན་ལས་འདས་པའི་རྫོགས་པར་བསྙེན་པས་རྫོགས་པར་བསྙེན་པ་ལགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Joining his palms, he bowed to the Blessed One and asked, “Blessed One, when we speak of ‘going forth,’ Blessed One, to what extent is a monk who has gone forth in the well-proclaimed Dharma and Vinaya  fully ordained after taking the noble and supramundane ordination?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-8">
+    <prop type="location-id">UT22084-062-003-16</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། ཤཱ་རིའི་བུ་སོ་སོའི་སྐྱེ་བོའི་ཆོས་རྣམས་ལས་ཀྱང་མ་འདས་ལ། ཟག་པ་མེད་པའི་ཆོས་རྣམས་ཀྱང་མ་ཐོབ་པ་དེ་ཙམ་གྱིས་ན་དགེ་སློང་ལེགས་པར་གསུངས་པའི་ཆོས་འདུལ་བ་ལ་རབ་ཏུ་བྱུང་བ་འཕགས་པ་འཇིག་རྟེན་ལས་འདས་པའི་རྫོགས་པར་བསྙེན་པས་རྫོགས་པར་བསྙེན་པ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-003-16"/>“Śāriputra,” the Blessed One replied, “a monk who has gone forth in the well-proclaimed Dharma and Vinaya is fully ordained after taking the noble and supramundane ordination to the extent that he does not transcend the qualities of ordinary beings and does not attain the uncontaminated qualities.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-9">
+    <prop type="location-id">UT22084-062-003-16</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་རབ་ཏུ་བྱུང་བ་གང་དག་ཡིན་པ་དེ་དག་ནི་ཡང་དག་པར་རབ་ཏུ་བྱུང་བ་ཡིན་གྱིས་དེ་ལྟ་མ་ཡིན་པར་རབ་ཏུ་བྱུང་བ་གང་དག་ཡིན་པ་དེ་དག་ནི་ལོག་པར་རབ་ཏུ་བྱུང་བ་ཡིན་ནོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Those who go forth in this way are genuinely going forth, whereas those who do not go forth in this way are incorrectly going forth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-10">
+    <prop type="location-id">UT22084-062-003-16</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཤཱ་རིའི་བུ་དགེ་སློང་དེ་ལྟ་བུས་ནི་དད་པས་བྱིན་པ་ལོངས་སྤྱད་པར་འོས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Śāriputra, such monks are worthy of receiving donations that are offered faithfully.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-11">
+    <prop type="location-id">UT22084-062-003-16</prop>
+    <tuv xml:lang="bo">
+                <seg>གོས་དང་། ཟས་དང་། མལ་ཆ་དང་། སྟན་དང་། ན་བའི་གསོས་སྨན་དང་། སྨན་ཟོང་རྣམས་ལོངས་སྤྱད་པར་འོས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are also worthy of receiving clothing, food, bedding, seats, medicines, and healing substances.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-12">
+    <prop type="location-id">UT22084-062-003-17</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཤཱ་རིའི་བུ་གཞན་ཡང་བརྩོན་པ་མི་གཏོང་བའི་དགེ་སློང་གང་ཡིན་པ་དེ་ནི་གཟུགས་གཏོང་བར་མི་བྱེད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-003-17"/>“Śāriputra, monks who do not abandon exertion will also not abandon form.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-13">
+    <prop type="location-id">UT22084-062-003-17</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚོར་བ་དང་། འདུ་ཤེས་དང་། འདུ་བྱེད་རྣམས་དང་། རྣམ་པར་ཤེས་པ་གཏོང་བར་མི་བྱེད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will also not abandon feeling, perception, formation, or consciousness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-14">
+    <prop type="location-id">UT22084-062-003-17</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཙམ་གྱིས་ན་དགེ་སློང་ལེགས་པར་གསུངས་པའི་ཆོས་འདུལ་བ་ལ་རབ་ཏུ་བྱུང་བ་འཕགས་པ་འཇིག་རྟེན་ལས་འདས་པའི་རྫོགས་པར་བསྙེན་པས་རྫོགས་པར་བསྙེན་པ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That is why a monk who has gone forth in the well-proclaimed Dharma and Vinaya is fully ordained after taking the noble and supramundane ordination.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-15">
+    <prop type="location-id">UT22084-062-003-17</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་རབ་ཏུ་བྱུང་བ་གང་དག་ཡིན་པ་དེ་དག་ནི་ཡང་དག་པར་རབ་ཏུ་བྱུང་བ་ཡིན་གྱི། དེ་ལྟ་མ་ཡིན་པར་རབ་ཏུ་བྱུང་བ་གང་དག་ཡིན་པ་དེ་དག་ནི་ལོག་པར་རབ་ཏུ་བྱུང་བ་ཡིན་ནོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Those who go forth in this way are genuinely going forth, whereas those who do not go forth in this way are incorrectly going forth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-16">
+    <prop type="location-id">UT22084-062-003-17</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཤཱ་རིའི་བུ་དགེ་སློང་དེ་ལྟ་བུས་ནི་དད་པས་བྱིན་པ་ལོངས་སྤྱད་པར་འོས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Śāriputra, such monks are worthy of receiving donations that are offered faithfully.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-17">
+    <prop type="location-id">UT22084-062-003-17</prop>
+    <tuv xml:lang="bo">
+                <seg>གོས་དང་། ཟས་དང་། མལ་ཆ་དང་། སྟན་དང་། ན་བའི་གསོས་དང་། སྨན་ཟོང་རྣམས་ལོངས་སྤྱད་པར་འོས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are also worthy of receiving clothing, food, bedding, seats, medicines, and healing substances.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-18">
+    <prop type="location-id">UT22084-062-003-18</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ནས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ།།ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ། བཅོམ་ལྡན་འདས་ཀྱིས་ཅི་ལ་དགོངས་ཏེ། སོ་སོའི་སྐྱེ་བོའི་ཆོས་རྣམས་ལས་ཀྱང་མ་འདས་ལ། ཟག་པ་མེད་པའི་ཆོས་རྣམས་ཀྱང་མ་ཐོབ་པ་དེ་ཙམ་གྱིས་ན། དགེ་སློང་ལེགས་པར་གསུངས་པའི་ཆོས་འདུལ་བ་ལ་རབ་ཏུ་བྱུང་བ་འཕགས་པ་<tei:ref folio="F.79.a"/>འཇིག་རྟེན་ལས་འདས་པའི་རྫོགས་པར་བསྙེན་པས་རྫོགས་པར་བསྙེན་པ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-003-18"/>At that point Venerable Subhūti inquired of Venerable Śāriputra, “Venerable Śāriputra, what did the Blessed One have in mind when he said, ‘Śāriputra, a monk who has gone forth in the well-proclaimed Dharma and Vinaya is fully ordained after taking the noble and supramundane ordination to the extent that he does not transcend the qualities of ordinary beings and does not attain the uncontaminated qualities.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-19">
+    <prop type="location-id">UT22084-062-003-18</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་རབ་ཏུ་བྱུང་བ་གང་དག་ཡིན་པ་དེ་དག་ནི་ཡང་དག་པར་རབ་ཏུ་བྱུང་བ་ཡིན་གྱི། དེ་ལྟ་མ་ཡིན་པར་རབ་ཏུ་བྱུང་བ་གང་དག་ཡིན་པ་དེ་དག་ནི་ལོག་པར་རབ་ཏུ་བྱུང་བ་ཡིན་ནོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Those who go forth in this way are genuinely going forth, whereas those who do not go forth in this way are incorrectly going forth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-20">
+    <prop type="location-id">UT22084-062-003-18</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཤཱ་རིའི་བུ་དགེ་སློང་དེ་ལྟ་བུས་ནི་དད་པས་བྱིན་པ་ལོངས་སྤྱད་པར་འོས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Śāriputra, such monks are worthy of receiving donations that are offered faithfully.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-21">
+    <prop type="location-id">UT22084-062-003-18</prop>
+    <tuv xml:lang="bo">
+                <seg>གོས་དང་། ཟས་དང་། མལ་ཆ་དང་། སྟན་དང་། ན་བའི་གསོས་སྨན་དང་། སྨན་ཟོང་རྣམས་ལོངས་སྤྱད་པར་འོས་སོ་ཞེས་དེ་སྐད་བཀའ་སྩལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are also worthy of receiving clothing, food, bedding, seats, medicines, and healing substances’?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-22">
+    <prop type="location-id">UT22084-062-003-19</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུས་སྨྲས་པ། ཚེ་དང་ལྡན་པ་རབ་འབྱོར་སོ་སོའི་སྐྱེ་བོའི་ཆོས་རྣམས་ནི་སྒྱུ་མ་ལྟ་བུ་སྟེ། དེ་དག་ནི་འདའ་བར་བྱ་བར་མི་ནུས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-003-19"/>“Venerable Subhūti,” Śāriputra replied, “the qualities of ordinary beings are illusory and cannot be transcended.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-23">
+    <prop type="location-id">UT22084-062-003-19</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཚེ་དང་ལྡན་པ་རབ་འབྱོར་སོ་སོའི་སྐྱེ་བོའི་ཆོས་རྣམས་ནི་ཡོངས་སུ་མ་གྲུབ་པ་སྟེ། དེ་དག་ནི་འདའ་བར་བྱ་བར་སླ་བ་མ་ཡིན་ནོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Venerable Subhūti, the qualities of ordinary beings are neither created nor easily transcended.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-24">
+    <prop type="location-id">UT22084-062-003-19</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཚེ་དང་ལྡན་པ་རབ་འབྱོར་སེམས་ཅན་གྱི་ཁམས་ནི་ནང་ན་ཡང་མི་དམིགས། ཕྱི་རོལ་ན་ཡང་མི་དམིགས། གཉི་ག་མེད་པར་ཡང་མི་དམིགས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Venerable Subhūti, the realm of sentient beings is not apprehended within, it is not apprehended without, and it is also not apprehended anywhere else.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-25">
+    <prop type="location-id">UT22084-062-003-19</prop>
+    <tuv xml:lang="bo">
+                <seg>སེམས་ཅན་གྱི་ཁམས་ཀྱི་རང་བཞིན་གང་ཡིན་པ་དང་། སོ་སོའི་སྐྱེ་བོའི་ཆོས་རྣམས་ཀྱི་རང་བཞིན་གང་ཡིན་པ་དེ་དག་ནི་འདའ་བར་བྱ་བར་སླ་བ་མ་ཡིན་ནོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The nature of the realm of sentient beings and the nature of all qualities of ordinary beings are not easily transcended.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-26">
+    <prop type="location-id">UT22084-062-003-20</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཚེ་དང་ལྡན་པ་རབ་འབྱོར་བཅོམ་ལྡན་འདས་ཀྱིས་འདི་སྐད་དུ་སོ་སོའི་སྐྱེ་བོའི་ཆོས་རྣམས་ལས་ཀྱང་མ་འདས་ལ་ཟག་པ་མེད་པའི་ཆོས་རྣམས་ཀྱང་མ་ཐོབ་པ་དེ་ཙམ་གྱིས་ན་དགེ་སློང་ལེགས་པར་གསུངས་པའི་ཆོས་འདུལ་བ་ལ་རབ་ཏུ་བྱུང་བ་འཕགས་པའི་འཇིག་རྟེན་ལས་འདས་པའི་རྫོགས་པར་བསྙེན་པས་རྫོགས་པར་བསྙེན་པ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-003-20"/>“Venerable Subhūti, the Blessed One has said, ‘A monk who has gone forth in the well-proclaimed Dharma and Vinaya is fully ordained after taking the noble and supramundane ordination to the extent that he does not transcend the qualities of ordinary beings and does not attain the uncontaminated qualities.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-27">
+    <prop type="location-id">UT22084-062-003-20</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་རབ་ཏུ་བྱུང་བ་གང་དག་ཡིན་པ་དེ་དག་ནི་ཡང་དག་པར་རབ་ཏུ་བྱུང་བ་ཡིན་གྱི། དེ་ལྟ་མ་ཡིན་པར་རབ་ཏུ་བྱུང་བ་གང་དག་ཡིན་པ་དེ་དག་ནི་ལོག་པར་རབ་ཏུ་བྱུང་བ་ཡིན་ནོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Those who go forth in this way are genuinely going forth, whereas those who do not go forth in this way are incorrectly going forth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-28">
+    <prop type="location-id">UT22084-062-003-20</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཤཱ་རིའི་བུ་དགེ་སློང་དེ་ལྟ་བུས་ནི་དད་པས་བྱིན་པ་ལོངས་སྤྱད་པར་འོས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Śāriputra, such monks are worthy of receiving donations that are offered faithfully.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-29">
+    <prop type="location-id">UT22084-062-003-20</prop>
+    <tuv xml:lang="bo">
+                <seg>གོས་དང་། ཟས་དང་། མལ་ཆ་དང་། སྟན་དང་། ན་བའི་གསོས་དང་། སྨན་ཟོང་རྣམས་ལོངས་སྤྱད་པར་འོས་སོ་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are also worthy of receiving clothing, food, bedding, seats, medicines, and healing substances.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-30">
+    <prop type="location-id">UT22084-062-003-21</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞེས་གང་གསུངས་པ་དེ་ཡང་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གང་དག་གི་རྟེན་ཏམ།གནས་མེད་པ་དེ་དག་ནི་ཇི་ལྟར་ཐོབ་པར་རུང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-003-21"/>“Venerable Subhūti, regarding that statement, how could something that has no basis or foundation possibly be attained?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-31">
+    <prop type="location-id">UT22084-062-003-21</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གལ་ཏེ་ཟག་པ་མེད་པའི་<tei:ref folio="F.79.b"/>ཆོས་རྣམས་ཐོབ་ཏུ་རུང་ན་ནི་དམིགས་པ་ལས་དགྲ་བཅོམ་པ་འབྱུང་བར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Venerable Subhūti, if the uncontaminated qualities were possible to attain, then the state of the worthy ones would arise based on apprehension.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-32">
+    <prop type="location-id">UT22084-062-003-21</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམས་ཀྱི་ཆོས་ཉིད་ནི་ལྟོས་པ་མེད་པ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The nature of the thus-gone ones, the worthy ones, the perfect buddhas, is without basis.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-33">
+    <prop type="location-id">UT22084-062-003-22</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚེ་དང་ལྡན་པ་རབ་འབྱོར་བཅོམ་ལྡན་འདས་ཀྱིས་དེ་ལ་དགོངས་ནས་འདི་སྐད་དུ་སོ་སོའི་སྐྱེ་བོའི་ཆོས་རྣམས་ལས་ཀྱང་མ་འདས་ལ་ཟག་པ་མེད་པའི་ཆོས་རྣམས་ཀྱང་མ་ཐོབ་པ་དེ་ཙམ་གྱིས་ན་དགེ་སློང་ལེགས་པར་གསུངས་པའི་ཆོས་འདུལ་བ་ལ་རབ་ཏུ་བྱུང་བ་འཕགས་པ་འཇིག་རྟེན་ལས་འདས་པའི་རྫོགས་པར་བསྙེན་པས་རྫོགས་པར་བསྙེན་པ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-003-22"/>“Venerable Subhūti, this is what the Blessed One had in mind when he said, ‘A monk who has gone forth in the well-proclaimed Dharma and Vinaya is fully ordained after taking the noble and supramundane ordination to the extent that he does not transcend the qualities of ordinary beings and does not attain the uncontaminated qualities.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-34">
+    <prop type="location-id">UT22084-062-003-22</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་རབ་ཏུ་བྱུང་བ་གང་དག་ཡིན་པ་དེ་དག་ནི་ཡང་དག་པར་རབ་ཏུ་བྱུང་བ་ཡིན་གྱི། དེ་ལྟར་མ་ཡིན་པར་རབ་ཏུ་བྱུང་བ་གང་ཡིན་པ་དེ་དག་ནི་ལོག་པར་རབ་ཏུ་བྱུང་བ་ཡིན་ནོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Those who go forth in this way are genuinely going forth, whereas those who do not go forth in this way are incorrectly going forth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-35">
+    <prop type="location-id">UT22084-062-003-22</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཤཱ་རིའི་བུ་དགེ་སློང་དེ་ལྟ་བུས་ནི་དད་པས་བྱིན་པ་ལ་ལོངས་སྤྱད་པར་འོས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Śāriputra, such monks are worthy of receiving donations that are offered faithfully.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-36">
+    <prop type="location-id">UT22084-062-003-22</prop>
+    <tuv xml:lang="bo">
+                <seg>གོས་དང་། ཟས་དང་། མལ་ཆ་དང་། སྟན་དང་། ན་བའི་གསོས་སྨན་དང་། སྨན་ཟོང་རྣམས་ལོངས་སྤྱད་པར་འོས་སོ་ཞེས་བཀའ་སྩལ་ཏོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are also worthy of receiving clothing, food, bedding, seats, medicines, and healing substances.’ ”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-37">
+    <prop type="location-id">UT22084-062-003-23</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ནས་ཚེ་དང་ལྡན་པ་རབ་འབྱོར་གྱིས་ཡང་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ། །ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་བཅོམ་ལྡན་འདས་ཀྱིས་ཅི་ལས་དགོངས་ཏེ་བརྩོན་པ་མི་གཏོང་བའི་དགེ་སློང་གང་ཡིན་པ་དེ་ནི་གཟུགས་གཏོང་བར་མི་བྱེད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-003-23"/>Venerable Subhūti asked, “Venerable Śāriputra, what did the Blessed One have in mind when he said, ‘Monks who do not abandon exertion will also not abandon form.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-38">
+    <prop type="location-id">UT22084-062-003-23</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚོར་བ་དང་། འདུ་ཤེས་དང་། འདུ་བྱེད་རྣམས་དང་། རྣམ་པར་ཤེས་པ་གཏོང་བར་མི་བྱེད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will also not abandon feelings, perceptions, formations, or consciousness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-39">
+    <prop type="location-id">UT22084-062-003-23</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཙམ་གྱིས་ན་དགེ་སློང་ལེགས་པར་གསུངས་པའི་ཆོས་འདུལ་བ་ལ་རབ་ཏུ་བྱུང་བ་འཕགས་པ་འཇིག་རྟེན་ལས་འདས་པའི་རྫོགས་པར་བསྙེན་པས་རྫོགས་པར་བསྙེན་པ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That is why a monk who has gone forth in the well-proclaimed Dharma and Vinaya is fully ordained after taking the noble and supramundane ordination.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-40">
+    <prop type="location-id">UT22084-062-003-23</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་རབ་ཏུ་བྱུང་བ་གང་དག་ཡིན་པ་དེ་དག་ནི་ཡང་དག་པར་རབ་ཏུ་བྱུང་བ་ཡིན་གྱི། དེ་ལྟ་མ་ཡིན་པར་རབ་ཏུ་བྱུང་བ་གང་དག་ཡིན་པ་དེ་དག་ནི་ལོག་པར་རབ་ཏུ་བྱུང་བ་ཡིན་ནོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Those who go forth in this way are genuinely going forth, whereas those who do not go forth in this way are incorrectly going forth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-41">
+    <prop type="location-id">UT22084-062-003-23</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཤཱ་རིའི་བུ་དགེ་སློང་དེ་ལྟ་བུས་ནི་དད་པས་བྱིན་པ་ལོངས་སྤྱད་པར་འོས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Śāriputra, such monks are worthy of receiving donations that are offered faithfully.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-42">
+    <prop type="location-id">UT22084-062-003-23</prop>
+    <tuv xml:lang="bo">
+                <seg>གོས་དང་། ཟས་དང་། མལ་ཆ་དང་། སྟན་དང་། ན་བའི་གསོས་སྨན་དང་། སྨན་ཟོང་རྣམས་ལོངས་སྤྱད་པར་འོས་སོ་ཞེས་དེ་སྐད་བཀའ་སྩལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are also worthy of receiving clothing, food, bedding, seats, medicines, and healing substances’?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-43">
+    <prop type="location-id">UT22084-062-003-24</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུས་སྨྲས་པ། ཚེ་དང་ལྡན་པ་རབ་འབྱོར་བཅོམ་ལྡན་འདས་<tei:ref folio="F.80.a"/>ཀྱིས་ཆོས་ཉིད་ལས་དགོངས་ནས་འདི་སྐད་དུ། བརྩོན་པ་མི་གཏོང་བའི་དགེ་སློང་གང་ཡིན་པ་དེ་ནི་གཟུགས་གཏོང་བར་མི་བྱེད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-003-24"/>Śāriputra replied, “Venerable Subhūti, the Blessed One had the nature of reality in mind when he said, ‘Monks who do not abandon exertion will also not abandon form.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-44">
+    <prop type="location-id">UT22084-062-003-24</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚོར་བ་དང་། འདུ་ཤེས་དང་། འདུ་བྱེད་རྣམས་དང་། རྣམ་པར་ཤེས་པ་གཏོང་བར་མི་བྱེད་ཅེས་བཀའ་སྩལ་ཏོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will also not abandon feelings, perceptions, formations, or consciousness.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-45">
+    <prop type="location-id">UT22084-062-003-25</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཚེ་དང་ལྡན་པ་རབ་འབྱོར། ཆོས་ཀྱི་དབྱིངས་ནི་ནང་ན་ཡང་མི་དམིགས། ཕྱི་རོལ་ན་ཡང་མི་དམིགས། གཉི་ག་མེད་པར་ཡང་མི་དམིགས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-003-25"/>“Venerable Subhūti, the realm of phenomena is not apprehended internally, it is not apprehended externally, and it is also not apprehended anywhere else.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-46">
+    <prop type="location-id">UT22084-062-003-25</prop>
+    <tuv xml:lang="bo">
+                <seg>།ནང་གདགས་པ་ནི་གདགས་སུ་མེད་པ་དང་སྐྱེ་བ་མེད་པའི་གདགས་པའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What is imputed as ‘internal’ is without anything to impute and is an imputation of what is unborn.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-47">
+    <prop type="location-id">UT22084-062-003-25</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ལྟར་ན་སེམས་ཅན་གྱི་ཁམས་མཉམ་པ་ཉིད་ཀྱིས་ཆོས་ཀྱི་དབྱིངས་མཉམ་པ་ཉིད་དོ། །ཆོས་ཀྱི་དབྱིངས་མཉམ་པ་ཉིད་ཀྱིས་སེམས་ཅན་གྱི་ཁམས་མཉམ་པ་ཉིད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In view of that, the realm of phenomena is sameness because the realm of sentient beings is sameness, and the realm of sentient beings is sameness because the realm of phenomena is sameness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-48">
+    <prop type="location-id">UT22084-062-003-25</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ལྟར་ན་སེམས་ཅན་གྱི་ཁམས་དང་ཆོས་ཀྱི་དབྱིངས་འདི་ནི་གཉིས་སུ་མེད་དེ་གཉིས་སུ་བྱར་མེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, the realm of sentient beings and the realm of phenomena are indivisible and undivided.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-49">
+    <prop type="location-id">UT22084-062-003-25</prop>
+    <tuv xml:lang="bo">
+                <seg>།གང་ལ་གཉིས་སུ་མེད་པ་དེ་གཉིས་སུ་བྱར་མེད་པ་དེ་ལ་ནི་གསལ་བ་ཡང་མེད། གཞག་པ་ཡང་མེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That which is indivisible and undivided is also without anything to remove<tei:note xml:id="UT22084-062-003-26"/> or add.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-50">
+    <prop type="location-id">UT22084-062-003-25</prop>
+    <tuv xml:lang="bo">
+                <seg>།གང་ལ་གསལ་བ་ཡང་མེད།གཞག་པ་ཡང་མེད་པ་དེ་ནི་འདས་པའམ་འཐོབ་པར་བྱར་མི་ནུས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That which is without anything to add or remove<tei:note xml:id="UT22084-062-003-27"/> is not something to transcend or attain.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-51">
+    <prop type="location-id">UT22084-062-003-28</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚེ་དང་ལྡན་པ་རབ་འབྱོར། བཅོམ་ལྡན་འདས་ཀྱིས་དེ་ལ་དགོངས་ནས་འདི་སྐད་དུ་བརྩོན་པ་མི་གཏོང་བའི་དགེ་སློང་གང་ཡིན་པ་དེ་ནི་གཟུགས་གཏོང་བར་མི་བྱེད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-003-28"/>“Venerable Subhūti, the Blessed One had this in mind when he said, ‘Monks who do not abandon exertion will also not abandon form.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-52">
+    <prop type="location-id">UT22084-062-003-28</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚོར་བ་དང་། འདུ་ཤེས་དང་། འདུ་བྱེད་རྣམས་དང་། རྣམ་པར་ཤེས་པ་གཏོང་བར་མི་བྱེད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will also not abandon feelings, perceptions, formations, or consciousness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-53">
+    <prop type="location-id">UT22084-062-003-28</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཙམ་གྱིས་ན་དགེ་སློང་ལེགས་པར་གསུངས་པའི་ཆོས་འདུལ་བ་ལ་རབ་ཏུ་བྱུང་བ་འཕགས་པ་འཇིག་རྟེན་ལས་འདས་པའི་རྫོགས་པར་བསྙེན་པས་རྫོགས་པར་བསྙེན་པ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That is why a monk who has gone forth in the well-proclaimed Dharma and Vinaya is fully ordained after taking the noble and supramundane ordination.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-54">
+    <prop type="location-id">UT22084-062-003-28</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་རབ་ཏུ་བྱུང་བ་གང་དག་ཡིན་པ་དེ་དག་ནི་ཡང་དག་པར་རབ་ཏུ་བྱུང་བ་ཡིན་གྱི། དེ་ལྟ་མ་ཡིན་པར་རབ་ཏུ་བྱུང་བ་གང་དག་ཡིན་པ་དེ་དག་ནི་ལོག་པར་རབ་ཏུ་བྱུང་བ་ཡིན་ནོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Those who go forth in this way are genuinely going forth, whereas those who do not go forth in this way are incorrectly going forth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-55">
+    <prop type="location-id">UT22084-062-003-28</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཤཱ་རིའི་བུ་དགེ་སློང་དེ་ལྟ་བུས་ནི་དད་པས་བྱིན་པ་ལོངས་སྤྱད་པར་འོས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Śāriputra, such monks are worthy of receiving donations that are offered faithfully.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-56">
+    <prop type="location-id">UT22084-062-003-28</prop>
+    <tuv xml:lang="bo">
+                <seg>གོས་དང་། ཟས་དང་། མལ་ཆ་དང་། སྟན་དང་། ན་བའི་གསོས་སྨན་དང་། སྨན་ཟོང་རྣམས་ལོངས་སྤྱད་པར་འོས་སོ་ཞེས་བཀའ་སྩལ་ཏོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are also worthy of receiving clothing, food, bedding, seats, medicines, and healing substances.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-57">
+    <prop type="location-id">UT22084-062-003-29</prop>
+    <tuv xml:lang="bo">
+                <seg>།དོགས་པ་མེད་པའི་དགེ་སློང་ནི་དོགས་པ་ཁས་མི་ལེན་ཏོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-003-29"/>“Monks who have no qualms do not raise qualms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-58">
+    <prop type="location-id">UT22084-062-003-29</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཡི་གེ་མེད་ཅིང་ཡི་གེ་ལས་འདས་པའི་<tei:ref folio="F.80.b"/>དགེ་སློང་གང་ཡིན་པ་དེ་ནི་བགྲང་བ་ལས་བསྟན་པར་མི་ནུས་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Monks who lack verbal expression and have transcended verbal expression are unable to make presentations based on deliberations.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-59">
+    <prop type="location-id">UT22084-062-003-29</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལ་ནི་འོང་བ་ཡང་མེད། འགྲོ་བ་ཡང་མེད། འགྲེང་བ་ཡང་མེད། འདུག་པ་ཡང་མེད། ཉལ་བ་ཡང་མེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>For such monks there is no coming, going, standing, sitting, and lying down.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-60">
+    <prop type="location-id">UT22084-062-003-29</prop>
+    <tuv xml:lang="bo">
+                <seg>།རྟོག་པ་ཅན་མ་ཡིན་པའི་དགེ་སློང་ནི་བརྟགས་པ་ལ་ལོངས་སྤྱོད་པའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Monks who are not skilled logicians delight in examination.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-61">
+    <prop type="location-id">UT22084-062-003-29</prop>
+    <tuv xml:lang="bo">
+                <seg>།རྟོག་པ་ཅན་གྱི་དགེ་སློང་ནི་མ་བརྟགས་པ་ལ་ལོངས་སྤྱོད་པ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Monks who are skilled logicians delight in nonexamination.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-62">
+    <prop type="location-id">UT22084-062-003-29</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚེ་དང་ལྡན་པ་རབ་འབྱོར། བཅོམ་ལྡན་འདས་ཀྱིས་དེ་ལ་དགོངས་ནས་དེ་ཙམ་གྱིས་ན་དགེ་སློང་ལེགས་པར་གསུངས་པའི་ཆོས་འདུལ་བ་ལ་རབ་ཏུ་བྱུང་བ་འཕགས་པ་འཇིག་རྟེན་ལས་འདས་པའི་རྫོགས་པར་བསྙེན་པས་རྫོགས་པར་བསྙེན་པ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Venerable Subhūti, that is what the Blessed One had in mind when he said, ‘That is why a monk who has gone forth in the well-proclaimed Dharma and Vinaya is fully ordained after taking the noble and supramundane ordination.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-63">
+    <prop type="location-id">UT22084-062-003-29</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་རབ་ཏུ་བྱུང་བ་གང་དག་ཡིན་པ་དེ་དག་ནི་ཡང་དག་པར་རབ་ཏུ་བྱུང་བ་ཡིན་གྱི། དེ་ལྟ་མ་ཡིན་པར་རབ་ཏུ་བྱུང་བ་གང་དག་ཡིན་པ་དེ་དག་ནི་ལོག་པར་རབ་ཏུ་བྱུང་བ་ཡིན་ནོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Those who go forth in this way are genuinely going forth, whereas those who do not go forth in this way are incorrectly going forth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-64">
+    <prop type="location-id">UT22084-062-003-29</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཤཱ་རིའི་བུ་དགེ་སློང་དེ་ལྟ་བུས་ནི་དད་པས་བྱིན་པ་ལོངས་སྤྱད་པར་འོས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Śāriputra, such monks are worthy of receiving donations that are offered faithfully.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-65">
+    <prop type="location-id">UT22084-062-003-29</prop>
+    <tuv xml:lang="bo">
+                <seg>གོས་དང་། ཟས་དང་། མལ་ཆ་དང་། སྟན་དང་། ན་བའི་གསོས་སྨན་དང་། སྨན་ཟོང་རྣམས་ལོངས་སྤྱད་པར་འོས་སོ་ཞེས་བཀའ་སྩལ་ཏོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are also worthy of receiving clothing, food, bedding, seats, medicines, and healing substances.’ ”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-66">
+    <prop type="location-id">UT22084-062-003-30</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ལ་ལེགས་སོ་ཞེས་བྱ་བ་བྱིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-003-30"/>At that time, the Blessed One expressed his approval to Venerable Śāriputra:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-67">
+    <prop type="location-id">UT22084-062-003-30</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་ལེགས་སོ་ལེགས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>“Excellent, Śāriputra, excellent!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-68">
+    <prop type="location-id">UT22084-062-003-30</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཁྱོད་ཀྱིས་ཇི་སྐད་བསྟན་པ་བཞིན་དུ་ངས་དེ་ལས་དགོངས་ནས་བསྟན་པ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The way that you have presented this is exactly what I intended and taught.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-69">
+    <prop type="location-id">UT22084-062-003-30</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ནི་ལེགས་པར་གསུངས་པའི་ཆོས་འདུལ་བ་ལ་རབ་ཏུ་བྱུང་བ་ཡིན་ནོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This is what going forth means according to the well-spoken Dharma and Vinaya.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-70">
+    <prop type="location-id">UT22084-062-003-30</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཤཱ་རིའི་བུ་ཕྱག་རྒྱ་འདིས་མངོན་པའི་ང་རྒྱལ་ཅན་བརྟག་པར་འདོད་པས་ནི་ཕྱག་རྒྱ་དེའི་མདུན་དུ་བརྗོད་པར་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Śāriputra, one who wishes to challenge proud beings using this seal should explain this seal in their presence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-71">
+    <prop type="location-id">UT22084-062-003-30</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཤཱ་རིའི་བུ་ཤིན་ཏུ་བརྟགས་པ་ནི་ཕྱག་རྒྱ་འདིས་ནི་མངོན་པའི་ང་རྒྱལ་ཅན་མང་པོ་བརྟག་པར་ནུས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Śāriputra, one who truly understands it can use this seal to challenge multitudes of proud beings.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-72">
+    <prop type="location-id">UT22084-062-003-31</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བསྟན་པ་ན་དགེ་སློང་བདུན་བརྒྱ་ལེན་པ་མེད་པར་ཟག་པ་རྣམས་ལས་སེམས་རྣམ་པར་གྲོལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-003-31"/>When this Dharma teaching was taught, the minds of seven hundred monks were freed from contaminants without further appropriation.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-73">
+    <prop type="location-id">UT22084-062-003-31</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྲིད་པ་ཐ་མ་པའི་དགེ་སློང་བརྒྱ་ནི་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལ་མ་ཞུགས་ཤིང་མ་རྟོགས་ལ་མ་མོས་ནས་སྟན་ལས་ལངས་ཏེ་དོང་ངོ་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>However, one hundred monks who had reached their final existence<tei:note xml:id="UT22084-062-003-32"/> did not adopt, understand, or appreciate this Dharma teaching, so they rose from their seats and left.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-74">
+    <prop type="location-id">UT22084-062-003-31</prop>
+    <tuv xml:lang="bo">
+                <seg>།དགེ་སློང་ལྔ་ནི་སྤོང་བ་བྱས་ཤིང་བཟློག་པ་བྱས་ནས་རང་གི་ལུས་དང་བཅས་ཏེ་སེམས་ཅན་དམྱལ་བ་ཆེན་པོར་ལྷུང་ངོ་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Five monks even rejected the teaching and turned their backs on it, so they fell into the great hells in their current embodiments.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-75">
+    <prop type="location-id">UT22084-062-003-33</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། ཤཱ་རིའི་བུ་ངས་ཀྱེ་མ་ཆོས་འདི་ནི་འཇིག་རྟེན་ཐམས་ཅད་དང་མི་འཐུན་ནོ་སྙམ་སྟེ།<tei:ref folio="F.81.a"/>དེ་ལ་དགོངས་ནས་དེ་སྐད་བསྟན་མོད་ཀྱི་འོན་ཀྱང་གང་དང་ཡང་མི་འཐུན་པ་མེད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-003-33"/>“Śāriputra,” the Blessed One said, “I have taught this Dharma knowing well that, unfortunately, the entire world will find it disagreeable. I knew this but taught it anyway, as there is nothing disagreeable about it at all.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-76">
+    <prop type="location-id">UT22084-062-003-33</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་དཔེར་ན་མི་ལ་ལ་ཞིག་གཉིད་ཀྱིས་ལོག་པའི་རྨི་ལམ་དུ་སྐྱེ་བོ་ཕལ་པོ་ཆེའི་མདུན་དུ་ཁྱེད་ལ་ངས་ཆོས་བཤད་པར་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>To give an analogy, Śāriputra, a person may fall asleep and dream that I am teaching the Dharma to you in front of a crowd of people.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-77">
+    <prop type="location-id">UT22084-062-003-33</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཆོས་དེ་ཡང་འཇིག་རྟེན་ཐམས་ཅད་དང་མི་འཐུན་ནོ་ཞེས་ཚིག་ཏུ་སྨྲ་ན། ཤཱ་རིའི་བུ་འདི་ཇི་སྙམ་དུ་སེམས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That person might object to this, saying, ‘That Dharma is disagreeable to the entire world!’ But what do you think, Śāriputra?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-78">
+    <prop type="location-id">UT22084-062-003-33</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་དེ་དང་མི་འཐུན་པ་གང་དག་ཡིན་པའི་མི་དེ་དག་ཡོད་པ་ཡིན་ནམ། གསོལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In that case would those people who disagree with this Dharma truly exist?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-79">
+    <prop type="location-id">UT22084-062-003-33</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་དེ་ནི་མ་མཆིས་ལགས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Śāriputra replied, “No, Blessed One, they would not.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-80">
+    <prop type="location-id">UT22084-062-003-35</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། ཤཱ་རིའི་བུ་དེ་བཞིན་དུ་ང་ཡང་ཀྱེ་མ་ཆོས་འདི་ནི་འཇིག་རྟེན་ཐམས་ཅད་དང་མི་འཐུན་ནོ་ཞེས་དེ་སྐད་དུ་ཡང་སྟོན་ལ་དེ་འཇིག་རྟེན་དེ་ཡང་ཡང་དག་པར་མ་མཐོང་ངོ་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-003-35"/>The Blessed One said, “Śāriputra, likewise, even though I also admit that this Dharma is disagreeable to the entire world, I teach it this way because that very world itself is not seen correctly.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-81">
+    <prop type="location-id">UT22084-062-003-35</prop>
+    <tuv xml:lang="bo">
+                <seg>།འཇིག་རྟེན་མེད་པ་ལ་ནི་ཆོས་ཀྱང་བགྲང་དུ་མེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>As the world does not exist, the Dharma is incalculable.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-82">
+    <prop type="location-id">UT22084-062-003-35</prop>
+    <tuv xml:lang="bo">
+                <seg>།འཇིག་རྟེན་གདགས་པ་ཡང་མེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Even the designation of the world is also nonexistent.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-83">
+    <prop type="location-id">UT22084-062-003-35</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཤཱ་རིའི་བུ་འཇིག་རྟེན་ཐམས་ཅད་དང་མི་འཐུན་པ་ཞེས་བྱ་བ་ནི་ཆོས་རྣམས་མ་འདྲེས་ཤིང་ཆོས་རྣམས་འདྲེ་བ་མེད་པ་ལ་བྱ་བར་གསུངས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Śāriputra, the expression disagreeable to the entire world refers to the fact that phenomena are unadulterated and unmixed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-84">
+    <prop type="location-id">UT22084-062-003-37</prop>
+    <tuv xml:lang="bo">
+                <seg>།གསོལ་པ། བཅོམ་ལྡན་འདས་མ་འདྲེས་པ་ཞེས་བགྱི་བའི་ཚིག་གི་དོན་གང་ལགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-003-37"/>Śāriputra asked, “Blessed One, what does the word unadulterated mean?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-85">
+    <prop type="location-id">UT22084-062-003-37</prop>
+    <tuv xml:lang="bo">
+                <seg>བཀའ་སྩལ་པ། ཤཱ་རིའི་བུ་མ་འདྲེས་པ་ཞེས་བྱ་བ་ནི་ཆོས་རྣམས་རོ་གཅིག་པར་གདགས་པ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One replied, “Śāriputra, unadulterated refers to the fact that phenomena have the same taste.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-86">
+    <prop type="location-id">UT22084-062-003-37</prop>
+    <tuv xml:lang="bo">
+                <seg>གཅིག་པུ་ཁོ་ན་ཡང་མ་ཡིན། ཐ་དད་པ་ཁོ་ན་ཡང་མ་ཡིན་ནོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are neither exclusively the same nor exclusively different.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-87">
+    <prop type="location-id">UT22084-062-003-37</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཤཱ་རིའི་བུ་མ་འདྲེས་པ་ཞེས་བྱ་བ་དེ་ནི་སྟོང་པ་ཉིད་ཀྱི་ཚིག་བླ་དགས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Śāriputra, unadulterated is a synonym for emptiness.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-88">
+    <prop type="location-id">UT22084-062-003-39</prop>
+    <tuv xml:lang="bo">
+                <seg>།གསོལ་པ། བཅོམ་ལྡན་འདས་སྟོང་པ་ཉིད་ཅེས་བགྱི་བའི་ཚིག་གི་དོན་གང་ལགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-003-39"/>Śāriputra asked, “Blessed One, what does the word emptiness mean?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-89">
+    <prop type="location-id">UT22084-062-003-39</prop>
+    <tuv xml:lang="bo">
+                <seg>བཀའ་སྩལ་པ། ཤཱ་རིའི་བུ་སྟོང་པ་ཉིད་ཅེས་བྱ་བ་ནི་གདགས་སུ་མེད་པའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One replied, “Śāriputra, emptiness means absence of designation.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-90">
+    <prop type="location-id">UT22084-062-003-39</prop>
+    <tuv xml:lang="bo">
+                <seg>།གང་གདགས་སུ་མེད་པ་དེ་ནི་གདགས་པར་མི་ནུས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That which is beyond designation is not amenable to designation.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-91">
+    <prop type="location-id">UT22084-062-003-39</prop>
+    <tuv xml:lang="bo">
+                <seg>།གང་གདགས་པར་མི་ནུས་པ་དེ་ནི་འཇིག་རྟེན་པ་ཡང་མ་ཡིན།འཇིག་རྟེན་ལས་འདས་པ་ཡང་མ་ཡིན་ནོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That which is not amenable to designation is neither mundane nor supramundane.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-92">
+    <prop type="location-id">UT22084-062-003-39</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཤཱ་རིའི་བུ་གང་འཇིག་རྟེན་པ་ཡང་མ་ཡིན། འཇིག་རྟེན་ལས་འདས་པ་ཡང་མ་ཡིན་པ་དེ་ནི་སྟོང་པ་ཉིད་ཅེས་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Śāriputra, that which is neither mundane nor supramundane is called emptiness.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-93">
+    <prop type="location-id">UT22084-062-003-41</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་དང་། དགེ་སློང་གི་དགེ་འདུན་ཐམས་ཅད་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དེ་དག་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་<tei:ref folio="F.81.b"/>བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-003-41"/>When the Blessed One had said this, Venerable Śāriputra, the entire assembly of monks, the bodhisattva great beings, and the world with its gods, humans, asuras, and gandharvas rejoiced and praised what the Blessed One had said.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-94">
+    <prop type="location-id">UT22084-062-003-42</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ཆོས་ཀྱི་ཕྱག་རྒྱ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-003-42"/>This concludes the noble Great Vehicle sūtra “The Seal of Dharma.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-062-003-TU-95">
+    <prop type="location-id">UT22084-062-003-43</prop>
+    <tuv xml:lang="bo">
+                <seg>།།ལོཙྪ་བ་བན་དེ་ཀླུའི་དབང་པོ་དང་། ལྷའི་ཟླ་བས་བསྒྱུར་ཅིང་གཏན་ལ་ཕབ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-062-003-43"/>This was translated and finalized by the translators Bandé Lui Wangpo and Lhai Dawa.</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>

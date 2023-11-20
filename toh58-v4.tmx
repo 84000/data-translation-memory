@@ -1,0 +1,2959 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-041-003" eft:text-version="v-1.1.9-2023"/>
+<body>
+<tu id="UT22084-041-003-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.237.a"/>འཕགས་པ་དཀོན་མཆོག་བརྩེགས་པ་ཆེན་པོའི་ཆོས་ཀྱི་རྣམ་གྲངས་ལེའུ་སྟོང་ཕྲག་བརྒྱ་པ་ལས། ལེའུ་བཅུ་བཞི་པ་སྟེ། ཚེ་དང་ལྡན་པ་དགའ་བོ་ལ་མངལ་དུ་འཇུག་པ་བསྟན་པ། བམ་པོ་གཅིག་པ། རྒྱ་གར་སྐད་དུ། ཨཱརྱཱ་ཡུཥྨཾ་ནནྡཾ་གརྦྷཱ་བ་ཀྲཱནྟི་ནིར་དེ་ཤ། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ཚེ་དང་ལྡན་པ་དགའ་བོ་ལ་མངལ་དུ་འཇུག་པ་བསྟན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Noble Great Vehicle Sūtra The Teaching to Venerable Nanda on Entry into the Womb</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-3">
+    <prop type="location-id">UT22084-041-003-31</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-31"/>Homage to all the buddhas and bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-4">
+    <prop type="location-id">UT22084-041-003-32</prop>
+    <tuv xml:lang="bo">
+                <seg>།འདི་སྐད་བདག་གི་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-32"/>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-5">
+    <prop type="location-id">UT22084-041-003-32</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མཉན་ཡོད་ན་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན་བཞུགས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Bhagavān was staying at the Jetavana pleasure grove of Anāthapiṇḍada in Śrāvastī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-6">
+    <prop type="location-id">UT22084-041-003-32</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་དེའི་ཚེ་ཚེ་དང་ལྡན་པ་དགའ་བོ་ཕྱི་དྲོའི་དུས་ཀྱི་ཚེ་ནང་དུ་ཡང་དག་འཇོག་ལས་ལངས་ཏེ། དགེ་སློང་ལྔ་བརྒྱ་དང་ལྷན་ཅིག་ཏུ་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Now at that time, Venerable Nanda arose from his afternoon meditation and went to where the Buddha was seated together with five hundred monks.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-7">
+    <prop type="location-id">UT22084-041-003-32</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐལ་མོ་སྦྱར་ནས་གུས་པས་བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་ཕྱག་བྱས་ནས་ཕྱོགས་གཅིག་ཏུ་འཁོད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Having paid respect with palms joined and having worshiped at the Bhagavān’s feet, Nanda sat to one side.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-8">
+    <prop type="location-id">UT22084-041-003-32</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་དགའ་བོ་དང་། དགེ་སློང་རྣམས་ལ་བཀའ་སྩལ་པ། ང་ལ་ཆོས་ཀྱི་རྣམ་གྲངས་ཐོག་མར་དགེ་བ། བར་དུ་དགེ་བ། ཐ་མར་དགེ་བ། དོན་བཟང་པོ། གཅིག་པུ་མ་འདྲེས་པ། ཡོངས་སུ་རྫོགས་པ། ཡོངས་སུ་དག་པ། ཡོངས་སུ་དཀར་བ། ཚངས་པར་སྤྱོད་པའི་ཆོས་འདི་ལྟ་སྟེ། མངལ་དུ་འཇུག་པ་ཞེས་བྱ་བའི་ཆོས་ཀྱི་རྣམ་གྲངས་ཡོད་ཀྱིས་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then the Bhagavān spoke to Venerable Nanda and the monks: “I have a teaching that is virtuous at the beginning, virtuous in the middle, virtuous at the end, excellent in meaning, unadulterated, perfect, pure, pristine, and conducive to being chaste, namely, the Dharma teaching called Entry into the Womb.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-9">
+    <prop type="location-id">UT22084-041-003-32</prop>
+    <tuv xml:lang="bo">
+                <seg>ལེགས་པར་ཉོན་ལ་ཡིད་ལ་ཟུང་ཤིག་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Listen well and remember it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-10">
+    <prop type="location-id">UT22084-041-003-32</prop>
+    <tuv xml:lang="bo">
+                <seg>ངས་ཁྱོད་ལ་རྣམ་པར་ཕྱེ་སྟེ་བསྟན་པར་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I will explain it and teach it to you.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-11">
+    <prop type="location-id">UT22084-041-003-33</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ལ་ཚེ་དང་ལྡན་པ་དགའ་བོས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་བཞིན་དུ་ཐོས་པར་འཚལ་ལོ་ཞེས་གསོལ་པ་དང་། དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་དགའ་བོ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །དགའ་བོ་སེམས་ཅན་རྣམས་ནི་མངལ་དུ་འཇུག་པར་འདོད་པའི་ཚེ་རྒྱུ་དང་རྐྱེན་ཕུན་སུམ་ཚོགས་པར་གྱུར་ན་ནི་ལུས་ལེན་པར་འགྱུར་གྱི། གལ་ཏེ་ཕུན་སུམ་ཚོགས་པར་མི་གྱུར་ན་ནི་ལུས་ལེན་པར་མི་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-33"/>Venerable Nanda replied to the Bhagavān, saying, “I wish to hear what the Bhagavān says,” after which the Bhagavān addressed Venerable Nanda as follows:<tei:milestone xml:id="UT22084-041-003-34"/> “Nanda, when sentient beings wish to enter a womb, if the causes and conditions are complete, they will receive bodies; but if the causes and conditions are not complete, they will not receive bodies. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-12">
+    <prop type="location-id">UT22084-041-003-35</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ལ་རྐྱེན་དང་མི་ལྡན་པ་ཞེས་བྱ་བ་གང་ཞེ་ན། འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-35"/>What does lacking conditions mean here?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-13">
+    <prop type="location-id">UT22084-041-003-35</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕ་དང་མ་གཉི་ག་ཡང་ཆགས་པའི་སེམས་བྱུང་བར་གྱུར། བར་མ་དོའི་ཕུང་པོ་ཡང་མངོན་དུ་གྱུར་ཅིང་སྐྱེ་བའི་གནས་ཡོངས་སུ་ཚོལ་བར་བྱེད་ཀྱང་ཕ་མ་དེ་དག་<tei:ref folio="F.237.b"/>གི་འདུ་འཕྲོད་སྔ་ཕྱིར་གྱུར་ཅིང་དུས་གཅིག་ཏུ་བྱུང་བར་མ་གྱུར་ཏམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It means that the mother and father both have a lustful thought; the antarābhava <tei:note xml:id="UT22084-041-003-36"/>appears and desires the particular place of birth, but the coming together of the father and mother does not occur at the same time as that, whether early or late.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-14">
+    <prop type="location-id">UT22084-041-003-35</prop>
+    <tuv xml:lang="bo">
+                <seg>སོ་སོའི་ལུས་ལ་ནད་རྣམས་ལྡན་པར་གྱུར་ན་ཡང་མངལ་དུ་འཇུག་པར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Or if the parents have various physical illnesses, there will not be entry into the womb.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-15">
+    <prop type="location-id">UT22084-041-003-35</prop>
+    <tuv xml:lang="bo">
+                <seg>གལ་ཏེ་མའི་མངལ་རླུང་དང་། མཁྲིས་པ་དང་། བད་ཀན་དང་། ཁྲག་གིས་ཉེ་བར་ནོན་པར་གྱུར་ཏམ། མཚམས་ཤས་གང་བའམ། སྨན་གྱིས་གང་བའམ། དབུས་ནས་འདྲ་བའམ། གྲོག་མའི་རྐེད་པ་འདྲ་བའམ། རྔ་མོའི་ཁ་འདྲ་བའམ། ཤིང་རྟའི་ཚིགས་པ་བཞིན་སོགས་ཀར་འདུག་པའམ། ཤིང་རྟའི་སྲོག་ཤིང་ལྟ་བུར་འདུག་པའམ། ཤིང་རྟའི་ལྟེ་བའི་ཁ་ལྟ་བུར་འདུག་པ་འམ། ཤིང་ལོ་ལྟ་བུར་གྱུར་པ་འམ། སྦ་ལྟ་བུར་གྱ་གྱུར་འཁྱིལ་པར་གྱུར་ཏམ། མངལ་གྱི་ནང་ནས་ཀྱི་གྲམ་སྐྱེས་པ་ལྟ་བུར་གྱུར་ཏམ། ཁུ་ཆུ་དང་ཁྲག་མང་དུ་འཛག་ཅིང་སྐད་ཅིག་ཙམ་དུ་ཡང་འདུག་ཏུ་མི་བཏུབ་པར་གྱུར་ཏམ། ཐུར་དུ་འཛག་པར་གྱུར་ཏམ། མངལ་གྱི་ལམ་རྩུབ་པར་གྱུར་ཏམ། སྟེང་དུ་ཡངས་པའམ། འོག་ཏུ་ཡངས་པའམ། ཡོ་བའམ། ཟབ་པ་མ་ཡིན་པའམ། རྡོལ་ནས་ཟགས་པའམ། མཐོ་བ་འམ། དམའ་བའམ། ཐུང་ཞིང་དོག་པའམ། ནད་སྣ་ཚོགས་དང་བཅས་པར་གྱུར་ན་ཡང་མངལ་དུ་འཇུག་པར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If the mother’s womb is overwhelmed by wind, bile, phlegm, or blood; if its space is filled with flesh; if it is filled with medicine; if its center is like barley; if it is like an ant’s waist; if it is like a camel’s mouth; if it is triangular like the hitch of a cart; if it is like the axle of a cart; if it is like the opening of the hub of a cart; if it is like a leaf; if it is crookedly twisted like cane wood; if the inside of the womb seems as though barley awn has grown there; if semen and blood leak out in large amounts and do not stay there for even an instant; if they leak downward; if the path of the womb is rough; if it is wide at the top; if it is wide at the bottom; if it is crooked or not deep enough; if it bursts open and leaks; if it is high or low, or short and narrow; or if the mother has various illnesses, there will not be entry into the womb.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-16">
+    <prop type="location-id">UT22084-041-003-35</prop>
+    <tuv xml:lang="bo">
+                <seg>གལ་ཏེ་ཕ་མ་ཆོ་རིགས་བཙུན་ཞིང་བསོད་ནམས་ཆེན་པོ་དང་ལྡན་པར་གྱུར་ལ་བར་མ་དོའི་ཕུང་པོའི་བསོད་ནམས་ཆུང་བའམ། བར་མ་དོའི་སྲིད་པ་ཆོ་རིགས་བཙུན་ཞིང་བསོད་ནམས་ཆེན་པོ་དང་ལྡན་པར་གྱུར་ལ་ཕ་མ་བསོད་ནམས་ཆུང་བར་གྱུར་ཏམ། གཉི་ག་བསོད་ནམས་དང་ལྡན་ཡང་ཕན་ཚུན་ཕྲད་པར་གྱུར་པའི་ལས་བསགས་པར་མ་གྱུར་ན་ཡང་མངལ་དུ་འཇུག་པར་མི་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If the parents’ lineage is noble and they have great merit, while the antarābhava has little merit; or if the antarābhava’s lineage is noble and it has great merit, while the parents have little merit; or if both the parents and the antarābhava have merit but have not accumulated the karma to come together, there will not be entry into the womb. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-17">
+    <prop type="location-id">UT22084-041-003-38</prop>
+    <tuv xml:lang="bo">
+                <seg>།འདི་ལྟར་བར་མ་དོའི་ཕུང་པོ་དེ་མངལ་དུ་འཇུག་པར་འགྱུར་བ་ན། ཐོག་མ་ཁོ་ནར་ཕྱིན་ཅི་ལོག་གི་སེམས་རྣམ་པ་གཉིས་འབྱུང་བར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-38"/>This being so, when the antarābhava is about to enter the womb, at first two erroneous thoughts will arise.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-18">
+    <prop type="location-id">UT22084-041-003-38</prop>
+    <tuv xml:lang="bo">
+                <seg>གཉིས་གང་ཞེ་ན། འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What are the two?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-19">
+    <prop type="location-id">UT22084-041-003-38</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕ་མ་གཉིས་ཕྲད་པར་གྱུར་པའི་ཚེ་གལ་ཏེ་ཕོར་འགྱུར་བ་ཞིག་ཡིན་ན་ནི་མ་ལ་ནི་ཆགས་པ་སྐྱེ་བར་འགྱུར་ལ། ཕ་ལ་ནི་ཞེ་སྡང་སྐྱེ་བར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When the two parents come together, if the new being will be male, the antarābhava experiences desire for the mother and experiences hatred of the father.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-20">
+    <prop type="location-id">UT22084-041-003-38</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕའི་ཁུ་བ་བྱུང་བ་ན་འདི་ནི་བདག་གི་ཡིན་ནོ་སྙམ་དུ་སེམས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And when the father’s fluid is discharged, the antarābhava thinks, ‘This is my fluid.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-21">
+    <prop type="location-id">UT22084-041-003-38</prop>
+    <tuv xml:lang="bo">
+                <seg>།གལ་ཏེ་མོར་འགྱུར་བ་ཞིག་ཡིན་ནི་ཕ་ལ་ནི་ཆགས་པ་སྐྱེ་བར་འགྱུར་ལ། མ་ལ་ནི་ཞེ་སྡང་སྐྱེ་བར་འགྱུར་ཏེ་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If the new being will be female, the antarābhava experiences desire for the father and experiences hatred of the mother.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-22">
+    <prop type="location-id">UT22084-041-003-38</prop>
+    <tuv xml:lang="bo">
+                <seg>མའི་<tei:ref folio="F.238.a"/>ཁུ་བ་བྱུང་བ་ན་འདི་ནི་བདག་གི་ཡིན་ནོ་སྙམ་དུ་སེམས་པས་གལ་ཏེ་འདི་ལྟ་བུའི་ཞེ་སྡང་དང་ཆགས་པའི་སེམས་སྐྱེས་པར་མ་གྱུར་ན། མངལ་དུ་འཇུག་པར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And when the mother’s fluid is discharged, the antarābhava thinks, ‘This is my fluid.’ But if such thoughts of desire and hatred do not arise, there will not be entry into the womb. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-23">
+    <prop type="location-id">UT22084-041-003-39</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞན་ཡང་དགའ་བོ་ཇི་ལྟར་མའི་མངལ་དུ་འཇུག་པར་འགྱུར་ཞེ་ན། འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-39"/>Furthermore, Nanda, how will there be entry into the mother’s womb?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-24">
+    <prop type="location-id">UT22084-041-003-39</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕ་མ་ཡང་ཆགས་པའི་སེམས་སྐྱེས་པར་གྱུར། དུས་ཀྱི་ཟླ་མཚན་ཡང་རྗེས་སུ་འཐུན་པར་གྱུར། བར་མ་དོའི་ཕུང་པོ་ཡང་མངོན་དུ་གྱུར་ལ། གོང་མ་ལྟ་བུའི་སྐྱོན་མང་པོ་ཡང་མེད་ཅིང་ལས་ཀྱི་རྐྱེན་དང་ལྡན་པར་གྱུར་ན་མངལ་དུ་འཇུག་པར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If the parents’ thoughts of desire arise, the mother’s fertile period is in order, the antarābhava is present, the many previously mentioned problems are absent, and the karmic conditions are complete, there will be entry into the womb.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-25">
+    <prop type="location-id">UT22084-041-003-39</prop>
+    <tuv xml:lang="bo">
+                <seg>།འདི་ལྟར་བར་མ་དོའི་ཕུང་པོ་དེ་མངལ་དུ་འཇུག་པར་འདོད་པ་ན་དེ་ཡང་རྣམ་པ་གཉིས་སུ་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There are two types of antarābhava who wish to enter the womb.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-26">
+    <prop type="location-id">UT22084-041-003-39</prop>
+    <tuv xml:lang="bo">
+                <seg>གཉིས་གང་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What are the two?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-27">
+    <prop type="location-id">UT22084-041-003-39</prop>
+    <tuv xml:lang="bo">
+                <seg>བསོད་ནམས་དང་མི་ལྡན་པ་དང་། བསོད་ནམས་ཆེན་པོ་དང་ལྡན་པ་གང་ཡིན་པའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One lacking merit and one having great merit.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-28">
+    <prop type="location-id">UT22084-041-003-39</prop>
+    <tuv xml:lang="bo">
+                <seg>།བསོད་ནམས་དང་མི་ལྡན་པ་གང་ཡིན་པ་དེ་ནི་རྣམ་པར་རྟོག་པའི་སེམས་བྱུང་ནས་ཡུལ་མཐོང་བར་གྱུར་པ་ན་འདི་སྙམ་དུ་སེམས་ཏེ། དེང་བདག་ནི་རླུང་དང་། གྲང་བ་དང་། ནམ་རྨུགས་པ་དང་། ཆར་འབབ་པ་དང་། སྐྱེ་བོ་མང་པོའི་ཅ་ཅོ་དང་། མང་པོའི་མཐུ་སྟོབས་ཀྱི་གནོད་པ་བྱེད་པ་དང་ཕྲད་པར་གྱུར་ཏོ་ཞེས་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>As for the one lacking merit, an idea arises, and when the antarābhava sees the place where it is headed, it thinks in this way: ‘Now I have encountered wind and cold and darkness and rain, the noise of many people, and many powerful harm-doers.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-29">
+    <prop type="location-id">UT22084-041-003-39</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇིགས་ཤིང་སྐྲག་པ་སྐྱེས་ནས་དེང་བདག་རྩྭའི་ཁྱིམ་དང་། ལོ་མའི་ཁྱིམ་དང་། རྩིག་དྲུང་དབེན་པར་འཇུག་པར་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Terrified and panic stricken, it thinks, ‘Now I will enter a grass hut,’ or ‘I will enter a leaf hut,’ or ‘I will enter a hidden place at the bottom of a wall.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-30">
+    <prop type="location-id">UT22084-041-003-39</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཡང་ན་རི་དང་། ནགས་སྟུག་པོ་དང་། བྲག་ཕུག་དག་ཏུ་འཇུག་པར་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Or it thinks, ‘I will enter a mountain or a thick forest,’ or ‘I will enter a cave.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-31">
+    <prop type="location-id">UT22084-041-003-39</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྙམ་དུ་སེམས་ཏེ་གཞན་ཡང་འདུ་ཤེས་རྣམ་པ་སྣ་ཚོགས་བསྐྱེད་ནས་ཇི་ལྟར་མཐོང་བ་བཞིན་དུ་མའི་མངལ་དུ་འཇུག་པར་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Having given rise to various other notions, in accordance with what it has seen, it will enter its mother’s womb.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-32">
+    <prop type="location-id">UT22084-041-003-40</prop>
+    <tuv xml:lang="bo">
+                <seg>།གང་བསོད་ནམས་ཆེན་པོ་དང་ལྡན་པ་དེ་ཡང་འདི་སྙམ་དུ་དེང་བདག་ནི་རླུང་དང་། གྲང་བ་དང་། ནམ་རྨུགས་པ་དང་། ཆར་འབབ་པ་དང་། སྐྱེ་བོ་མང་པོའི་ཅ་ཅོ་དང་། མང་པོའི་མཐུ་སྟོབས་ཀྱིས་གནོད་པར་བྱེད་པ་དང་ཕྲད་པར་གྱུར་ཏོ་ཞེས་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-40"/>As for the one with great merit, it too thinks in this way: ‘Now I have encountered wind and cold and darkness and rain, the noise of many people, and many powerful harm-doers.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-33">
+    <prop type="location-id">UT22084-041-003-40</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇིགས་ཤིང་སྐྲག་པ་སྐྱེས་ནས་ཁང་པ་བརྩེགས་མའི་སྟེང་དུ་འཛེག་པའམ། ཡང་ཐོག་མཐོན་པོའི་སྟེང་དུ་འཛེག་པའམ། གཞལ་མེད་ཁང་གི་ནང་དུ་འཇུག་པའམ། ཁྲི་ལ་འདུག་པར་བྱའོ་སྙམ་དུ་སེམས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Terrified and panic stricken, it thinks, ‘I will ascend to the top of a multistoried mansion,’ or ‘I will ascend to the top of a high roof,’ or it thinks, ‘I will enter a celestial palace,’ or ‘I will sit on the throne.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-34">
+    <prop type="location-id">UT22084-041-003-40</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞན་ཡང་འདུ་ཤེས་རྣམ་པ་སྣ་ཚོགས་བསྐྱེད་ནས་ཇི་ལྟར་མཐོང་བ་བཞིན་དུ་མའི་མངལ་དུ་འཇུག་པར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Having given rise to various other notions, in accordance with what it has seen, it will enter its mother’s womb.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-35">
+    <prop type="location-id">UT22084-041-003-41</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། དགའ་བོ་འདི་ལྟར་བར་མ་དོའི་ཕུང་པོ་དེ་ཐོག་མ་ཁོ་ནར་མངལ་དུ་ཞུགས་པ་གང་ཡིན་པ་དེ་ནི་མེར་མེར་པོ་ཞེས་<tei:ref folio="F.238.b"/>བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-41"/>The Bhagavān continued, “Nanda, in this way, the antarābhava, when it first enters the womb, is called the kalala.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-36">
+    <prop type="location-id">UT22084-041-003-41</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕ་མའི་མི་གཙང་བ་དང་། འདས་པའི་ལས་ལ་བརྟེན་ནས་ལུས་ལེན་པར་བྱེད་ཀྱང་འདི་ལྟར་ལས་དེ་དང་། ཕ་མའི་རྐྱེན་རྣམས་ཀྱིས་སོ་སོ་ནས་རང་སྐྱེད་པར་མི་བྱེད་ཀྱི། འདུས་པའི་མཐུ་སྟོབས་ཀྱིས་ལུས་ལེན་པར་བྱེད་པས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Although a being obtains a body relying on the impurity of the father and mother and past karma, the body is not produced by that karma and the conditions of the father and mother individually; rather, it is obtained due to the power of their coming together. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-37">
+    <prop type="location-id">UT22084-041-003-42</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ་དཔེར་ན། སྣོད་ཀྱི་ནང་དུ་ཞོས་བཀང་ནས་སྐྱེས་བུའི་རྩོལ་བ་དང་། ཐག་པ་ལ་སོགས་པ་ལ་བརྟེན་ཏེ་མར་འབྱུང་བ་ཡང་རྐྱེན་རྣམས་ལས་དམིགས་པར་མི་འགྱུར་མོད་ཀྱི་འོན་ཀྱང་འདུས་པའི་མཐུ་ལས་མར་འབྱུང་བར་འགྱུར་བ་དེ་བཞིན་དུ་མེར་མེར་པོའི་ལུས་ཀྱང་དེ་བཞིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-42"/>Just as curdled milk filling a pot becomes butter due to the conditions of human effort, a rope, and so forth, but the butter is not observed within those conditions, the butter only coming to be due to the power of a combination of these things, the same is true of the body of the kalala.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-38">
+    <prop type="location-id">UT22084-041-003-42</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟར་རྒྱུ་དང་རྐྱེན་གྱི་མཐུས་མངལ་དུ་ལུས་མངོན་པར་འགྲུབ་པར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Its body is produced in the womb due to the power of causes and conditions. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-39">
+    <prop type="location-id">UT22084-041-003-43</prop>
+    <tuv xml:lang="bo">
+                <seg>།དགའ་བོ་འདི་ལྟ་སྟེ་དཔེར་ན་རྩྭ་སྔོན་པོ་དང་། བ་ལང་གི་ལྕི་བ་དང་། རྒྱ་ཤུག་དང་ཞོ་ལ་བརྟེན་ནས་སོ་སོ་ནས་སྲིན་བུ་སྐྱེ་བར་འགྱུར་བ་རེ་རེའི་ནང་དུ་སྲིན་བུ་མི་དམིགས་ཀྱང་རྒྱུ་དང་རྐྱེན་གྱི་སྟོབས་ཀྱིས་སྲིན་བུ་སྐྱེ་བར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-43"/>Nanda, as an analogy, when worms arise variously relying on green grass or cow dung or jujubes or curdled milk, worms are not observed within each of these individually. Rather, the worms arise due to the power of causes and conditions.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-40">
+    <prop type="location-id">UT22084-041-003-43</prop>
+    <tuv xml:lang="bo">
+                <seg>སྲིན་བུ་དེ་དག་སྐྱེས་པ་ན་སོ་སོ་ནས་རྟེན་ཇི་ལྟ་བ་བཞིན་དུ་ཁ་དོག་སྔོན་པོ་དང་། སེར་པོ་དང་། དམར་པོ་དང་། དཀར་པོར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When worms arise, they become green, or yellow, or red, or white in color, according to what they respectively rely on.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-41">
+    <prop type="location-id">UT22084-041-003-43</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་བཞིན་དུ་ཕ་མའི་མི་གཙང་བ་ལས་ལུས་འདི་སྐྱེ་བ་ཡང་རྐྱེན་རྣམས་ཀྱི་ནང་དུ་བཙལ་ན་དམིགས་པར་མི་འགྱུར་མོད་ཀྱི། འོན་ཀྱང་རྐྱེན་འདུས་པའི་མཐུ་དང་མ་ཕྲད་པར་ཡང་ལུས་ཡང་དག་པར་ལེན་པར་ཡང་མི་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Similarly, when this body arises due to the impurities of the father and mother, if one searches for it within the conditions, it will not be observed; but if the power of the coming together of the conditions is not obtained, a body will not be properly obtained. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-42">
+    <prop type="location-id">UT22084-041-003-45</prop>
+    <tuv xml:lang="bo">
+                <seg>།ལུས་འདི་སྐྱེས་ན་ཕ་མའི་འབྱུང་བ་ཆེན་པོ་བཞི་དང་ངོ་བོ་ཉིད་ཐ་མི་དད་པར་གྱུར་ཏེ། འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-45"/>When this body arises, its nature is not different from the four great elements of the father and mother.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-43">
+    <prop type="location-id">UT22084-041-003-45</prop>
+    <tuv xml:lang="bo">
+                <seg>སའི་ཁམས་ཀྱིས་ནི་སྲ་བའི་བྱ་བ་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That is, the earth element acts for firmness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-44">
+    <prop type="location-id">UT22084-041-003-45</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཆུའི་ཁམས་ཀྱིས་ནི་གཤེར་བའི་བྱ་བ་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The water element acts for moisture.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-45">
+    <prop type="location-id">UT22084-041-003-45</prop>
+    <tuv xml:lang="bo">
+                <seg>།མེའི་ཁམས་ཀྱིས་ནི་དྲོ་བའི་བྱ་བ་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The fire element acts for heat.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-46">
+    <prop type="location-id">UT22084-041-003-45</prop>
+    <tuv xml:lang="bo">
+                <seg>།རླུང་གི་ཁམས་ཀྱིས་ནི་ཡང་ཞིང་གཡོ་བའི་བྱ་བ་བྱེད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The wind element acts for lightness and movement.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-47">
+    <prop type="location-id">UT22084-041-003-45</prop>
+    <tuv xml:lang="bo">
+                <seg>མེར་མེར་པོའི་ལུས་དེ་དག་གལ་ཏེ་སའི་ཁམས་འབའ་ཞིག་དང་ལྡན་ལ་ཆུའི་ཁམས་མེད་པར་གྱུར་ན་ནི་འདི་ལྟ་སྟེ། དཔེར་ན་ཕྱེ་དང་ཐལ་བ་སྐམ་པོ་བཅངས་པ་བཞིན་དུ་འདུར་མི་བཏུབ་པར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If those kalala bodies had only the earth element but did not have the water element, they would be unable to cohere, just as dry flour or ashes are unable to be grasped.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-48">
+    <prop type="location-id">UT22084-041-003-45</prop>
+    <tuv xml:lang="bo">
+                <seg>།གལ་ཏེ་ཆུའི་ཁམས་འབའ་ཞིག་དང་ལྡན་ལ་སའི་ཁམས་མེད་པར་གྱུར་ན་ནི་འདི་ལྟ་སྟེ། དཔེར་ན་འབྲུ་མར་རམ་ཆུའི་རང་བཞིན་ནི་སྣུམ་ཞིང་གཤེར་བས་སྲ་བ་མེད་པ་བཞིན་དུ་བོ་ཞིང་གྱེས་པར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If they had only the water element but did not have the earth element, they would spill out and disperse, just as oil and water have no firmness, since their nature is slippery and moist.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-49">
+    <prop type="location-id">UT22084-041-003-45</prop>
+    <tuv xml:lang="bo">
+                <seg>།གལ་ཏེ་ས་དང་ཆུའི་ཁམས་འབའ་ཞིག་དང་ལྡན་ལ་མེའི་ཁམས་མེད་པར་གྱུར་ན་ནི་འདི་ལྟ་སྟེ་དཔེར་ན། དབྱར་ཚ་བའི་དུས་སུ་ཤའི་གོང་བུ་གྲིབ་མ་ལ་བཞག་པ་ཉི་མའི་འོད་ཀྱིས་མ་ཕོག་པ་བཞིན་དུ་རུལ་ཞིང་<tei:ref folio="F.239.a"/>མྱགས་པར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If they had only the earth and water elements but did not have the fire element, they would become rotten and putrid, just like a piece of meat that is put in the shade during the summer heat and is not struck by the sun’s rays.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-50">
+    <prop type="location-id">UT22084-041-003-45</prop>
+    <tuv xml:lang="bo">
+                <seg>།གལ་ཏེ་ས་དང་ཆུ་དང་མེའི་ཁམས་དང་ལྡན་ལ་རླུང་གི་ཁམས་མེད་པར་གྱུར་ན་ནི་འཕེལ་བར་མི་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If they had only the earth, water, and fire elements but no wind element, they would not grow.<tei:note xml:id="UT22084-041-003-46"/> “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-51">
+    <prop type="location-id">UT22084-041-003-47</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ་དཔེར་ན་ཁུར་བ་མཁན་ནམ། དེའི་སློབ་མ་མཁས་པས་ཁུར་བ་བཙོས་ནས་དབུགས་ཀྱིས་བུས་ཏེ་ཅི་དང་ཅི་བྱ་བ་རྣམས་མངོན་པར་འདུས་བྱས་ནས་དེ་དག་ནང་ཁོང་སྟོང་དུ་བྱེད་པ་གལ་ཏེ་རླུང་གི་སྟོབས་མེད་པར་གྱུར་ན་མངོན་པར་འགྲུབ་པར་མི་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-47"/>As an analogy, a confectioner or his skilled apprentice fries pastries, blows with his breath, and, doing whatever needs to be done, makes their interiors hollow. If there is no force of wind, they will not be finished.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-52">
+    <prop type="location-id">UT22084-041-003-47</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་བཞིན་དུ་འབྱུང་བ་ཆེན་པོ་བཞི་པོ་དེ་དག་ཀྱང་ཕན་ཚུན་གཅིག་ལ་གཅིག་བརྟེན་ཅིང་ཡོངས་སུ་བཟུང་ནས་རྣམ་པར་གཞག་པ་ཡིན་པས་དེའི་ཕྱིར་མེར་མེར་པོའི་ལུས་ཕ་མའི་འབྱུང་བ་ཆེན་པོ་བཞི་དང་། ལས་ཀྱི་རླུང་གི་རྒྱུས་སྐྱེ་བར་འགྱུར་བ་དང་དེ་བཞིན་དུ་རྐྱེན་མང་པོ་རྣམས་ཀྱི་ནང་ན་དམིགས་པར་མི་འགྱུར་ཡང་འདུས་པའི་སྟོབས་ཀྱིས་ལུས་ཡང་དག་པར་ལེན་པར་འགྱུར་བར་རིག་པར་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Similarly, since the four great elements are established together, depending on and holding together one another, the body of the kalala will be born due to the four great elements of the father and mother and the wind of karma. In the same way, it should be understood that the body of the kalala is not observed in the many individual conditions but is properly obtained due to the power of a combination of conditions. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-53">
+    <prop type="location-id">UT22084-041-003-48</prop>
+    <tuv xml:lang="bo">
+                <seg>།གཞན་ཡང་དགའ་བོ་འདི་ལྟ་སྟེ། དཔེར་ན། ས་བོན་སར་པ་ཡོངས་སུ་གཙང་ལ་ལེགས་པར་སྦས་པ། སྲིན་བུས་མ་ཟོས་པ་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-48"/>Furthermore, Nanda, as an analogy, a pure new seed is well hidden, and it is not eaten by insects.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-54">
+    <prop type="location-id">UT22084-041-003-48</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་རུལ་ཅིང་མ་ཚིག་པ་དང་། མ་གས་པ་དང་། བུ་ག་མེད་པ་ཞིག་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Not rotting, it is not burned or cracked, and it does not have any holes.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-55">
+    <prop type="location-id">UT22084-041-003-48</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་ལ་ལ་ཞིག་གིས་ཞིང་བཟང་ཞིང་གཤིན་པ་བཙལ་ཏེ་ས་བོན་བཏབ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Someone finds a good field, namely, a fertile field, and plants the seed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-56">
+    <prop type="location-id">UT22084-041-003-48</prop>
+    <tuv xml:lang="bo">
+                <seg>ཅི་ཉིན་ཞག་གཅིག་གིས་མྱུ་གུ་དང་སྡོང་བུ་དང་། ཡལ་ག་དང་། ལོ་མ་གྲིབ་མ་དང་བཅས་པ་དང་། མེ་ཏོག་དང་། འབྲས་བུ་རྒྱས་ཤིང་ཕུན་སུམ་ཚོགས་པར་འགྱུར་རམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In one day, do a sprout, stalk, branch, leaf with its shade, flower, and fruit grow and become complete?” “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-57">
+    <prop type="location-id">UT22084-041-003-48</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་དེ་ནི་དེ་ལྟར་མི་འགྱུར་ལགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Bhagavān, that is not the case.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-58">
+    <prop type="location-id">UT22084-041-003-50</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། དགའ་བོ་མེར་མེར་པོའི་ལུས་ཀྱང་དེ་བཞིན་དུ་རྒྱུ་དང་རྐྱེན་ལས་རིམ་གྱིས་སྐྱེ་བར་འགྱུར་གྱི། དུས་གཅིག་ཏུ་དབང་པོ་རྣམས་ཕུན་སུམ་ཚོགས་པར་མི་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-50"/>The Bhagavān continued, “Nanda, the body of the kalala similarly grows gradually due to causes and conditions; the sense faculties are not complete all at once.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-59">
+    <prop type="location-id">UT22084-041-003-50</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟ་བས་ན་ཕ་མ་ལས་བྱུང་བར་གྱུར་པའི་ལུས་འདི་རྐྱེན་རྣམས་ཀྱི་ནང་ན་བཙལ་ན་ཡང་དམིགས་པར་མི་འགྱུར་མོད་ཀྱི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, if one searches for this body that arises from the father and mother among these conditions, it will not be found.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-60">
+    <prop type="location-id">UT22084-041-003-50</prop>
+    <tuv xml:lang="bo">
+                <seg>འོན་ཀྱང་ཚོགས་པའི་སྟོབས་ཀྱིས་སྐྱེ་བ་ལེན་པར་འགྱུར་བར་རིག་པར་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>However, one should know that rebirth will occur due to the force of the combination of causes and conditions. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-61">
+    <prop type="location-id">UT22084-041-003-51</prop>
+    <tuv xml:lang="bo">
+                <seg>།གཞན་ཡང་དགའ་བོ་འདི་ལྟ་སྟེ། དཔེར་ན་སྐྱེས་བུ་མིག་དང་ལྡན་པས་མེ་ཤེལ་གྱི་ནོར་བུ་བླངས་ནས་ཉི་མ་ལ་བཞག་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-51"/>Furthermore, Nanda, as an analogy, a clear-eyed person takes a fire-crystal jewel and places it in the sun.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-62">
+    <prop type="location-id">UT22084-041-003-51</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྕི་བ་སྐམ་པོ་ནོར་བུ་དང་མི་རིང་བར་བསྟེན་པ་ལས་མེ་བྱུང་བར་འགྱུར་བ་ལྕི་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Since some dried dung is placed not far from the jewel, a fire will start.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-63">
+    <prop type="location-id">UT22084-041-003-51</prop>
+    <tuv xml:lang="bo">
+                <seg>ཉི་མའི་འོད་སོ་སོ་ནས་མེ་འབྱིན་པར་མི་ནུས་ཀྱང་ཕན་ཚུན་མི་འབྲལ་བས་རྒྱུ་དང་རྐྱེན་གྱི་སྟོབས་ཀྱིས་མེ་འབྱུང་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The dried dung and the rays of the sun separately cannot start a fire, but the force of causes and conditions not separated from one another starts the fire.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-64">
+    <prop type="location-id">UT22084-041-003-51</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཕ་མ་ལས་བྱུང་བའི་ལུས་ཀྱང་དེ་<tei:ref folio="F.239.b"/>བཞིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The body that arises from the father and mother is also like this.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-65">
+    <prop type="location-id">UT22084-041-003-51</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟར་མེར་མེར་པོའི་ལུས་གང་ཡིན་པ་དེ་ནི་གཟུགས་ཞེས་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Accordingly, the body of the kalala is called rūpa.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-66">
+    <prop type="location-id">UT22084-041-003-51</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚོར་བ་དང་། འདུ་ཤེས་དང་། འདུ་བྱེད་དང་། རྣམ་པར་ཤེས་པ་གང་ཡིན་པ་དེ་ནི་མིང་ཞེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Vedanā, saṃjñā, saṃskāra, and vijñāna are called nāma. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-67">
+    <prop type="location-id">UT22084-041-003-52</prop>
+    <tuv xml:lang="bo">
+                <seg>མིང་དང་གཟུགས་ཀྱི་ཕུང་པོ་ལྔ་པོས་སྐད་ཅིག་མ་གཅིག་ལ་ལུས་བླངས་ནས་སྡུག་བསྔལ་མྱོང་བར་བྱེད་པ་ལ་ཡང་ངས་བསྔགས་བརྗོད་པར་མི་བྱེད་ན་ཡུན་རིང་པོར་སྲིད་པ་རྣམས་སུ་འཁོར་བར་གྱུར་པ་ལྟ་སྨོས་ཀྱང་ཅི་དགོས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-52"/>The moment the five skandhas of nāma and rūpa are reborn, suffering is experienced. If I do not praise this moment, how could I even consider praising a circling among existences over a long period of time?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-68">
+    <prop type="location-id">UT22084-041-003-52</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ། དཔེར་ན་མི་གཙང་བ་ནི་ཉུང་ཡང་མནམ་ན་མང་པོ་ལྟ་སྨོས་ཀྱང་ཅི་དགོས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If even a little filth stinks, how much more so a lot of filth?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-69">
+    <prop type="location-id">UT22084-041-003-52</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟ་བས་ན་མེར་མེར་པོའི་ལུས་ཉེ་བར་ལེན་པའི་ཕུང་པོ་ལྔ་པོ་དག་ལ་སུ་ཞིག་སྲེད་ཅིང་ཆགས་པར་བྱེད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, who would desire and be attached to the five upādānaskandhas of the body of the kalala? “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-70">
+    <prop type="location-id">UT22084-041-003-53</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞན་ཡང་དགའ་བོ་འདི་ལྟར་ལུས་དེ་མའི་མངལ་ན་གནས་པ་ཡང་ཞག་བདུན་ཕྲག་སུམ་ཅུ་རྩ་བརྒྱད་ལོན་ནས་གདོད་འབྱུང་བར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-53"/>Furthermore, Nanda, this body spends thirty-eight weeks in the mother’s womb before it emerges.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-71">
+    <prop type="location-id">UT22084-041-003-53</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞག་བདུན་ཕྲག་དང་པོ་ལ་མའི་མངལ་ན་གནས་པ་གང་ཡིན་པ་དེ་ནི་མེར་མེར་པོ་ཞེས་བྱ་སྟེ་ལུས་ཀྱི་མཚན་མ་དང་པོར་སྣང་བ་ཡིན་པས་འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the first week, the being in the womb is called kalala. The features of its body begin to appear for the first time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-72">
+    <prop type="location-id">UT22084-041-003-53</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔེར་ན། ཞོ་མ་ཆགས་པ་དང་འདྲ་བས་ཞག་བདུན་གྱི་བར་དུ་ནང་དུ་བཙོས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Resembling uncongealed yogurt, it is cooked inside for seven days.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-73">
+    <prop type="location-id">UT22084-041-003-53</prop>
+    <tuv xml:lang="bo">
+                <seg>རབ་ཏུ་བཙོས་ནས་འབྱུང་བ་ཆེན་པོ་བཞི་མཐར་གྱིས་མངོན་པར་གྲུབ་པར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>After it is well cooked, the four great elements form gradually. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-74">
+    <prop type="location-id">UT22084-041-003-54</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་གཉིས་པ་ལ་མའི་མངལ་དུ་གནས་པའི་ཚེ་ལས་ཀྱི་རླུང་མངོན་པར་གྲུབ་པ་གང་ཡིན་པ་དེ་ནི་ཀུན་སྡུད་ཅེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-54"/>While the being in the mother’s womb is in the second week, a karmic wind, all-uniting, comes into existence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-75">
+    <prop type="location-id">UT22084-041-003-54</prop>
+    <tuv xml:lang="bo">
+                <seg>རླུང་ཤིན་ཏུ་ཕྲ་མའི་དེས་མའི་རྩིབ་ལོགས་གཡོན་པ་དང་། གཡས་པ་བུས་ཏེ་མེར་མེར་པོའི་ལུས་ཀྱི་མཚན་མ་རིམ་གྱིས་སྣང་བར་བྱེད་པས་དེའི་དབྱིབས་ཞོ་སྐ་བའམ། མར་འཁྱགས་པ་འདྲ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This very subtle wind blows on the left and right sides of the mother’s torso and gradually causes features of the body of the kalala to appear, its form like thick curds or coagulated butter.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-76">
+    <prop type="location-id">UT22084-041-003-54</prop>
+    <tuv xml:lang="bo">
+                <seg>མངལ་གྱི་ནང་དུ་བཙོས། རབ་ཏུ་བཙོས་པས་ནུར་ནུར་པོའི་ལུས་སུ་གྱུར་ནས་འདི་ལྟར་འབྱུང་བ་ཆེན་པོ་བཞི་པོ་དག་མཐར་གྱིས་མངོན་པར་གྲུབ་པར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It cooks inside the womb, and when it is well cooked, it becomes the body of the arbuda. Thus, the four great elements form gradually. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-77">
+    <prop type="location-id">UT22084-041-003-55</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་གསུམ་པ་ལ་མའི་མངལ་དུ་གནས་པའི་ཚེ་ཡང་ལས་ཀྱི་རླུང་མངོན་པར་གྲུབ་པ་གང་ཡིན་པ་དེ་ནི་མཛོད་ཀ་ཞེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-55"/>While the being in the mother’s womb is in the third week, again a karmic wind, treasury opening,<tei:note xml:id="UT22084-041-003-56"/> comes into existence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-78">
+    <prop type="location-id">UT22084-041-003-55</prop>
+    <tuv xml:lang="bo">
+                <seg>རླུང་དེའི་སྟོབས་ཀྱིས་ནུར་ནུར་པོ་གང་ཡིན་པ་དེ་མཐར་གྱིས་མཁྲེགས་ཤིང་ལྟར་ལྟར་པོར་བྱེད་པས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Due to the force of this wind, the arbuda gradually hardens and becomes a peśī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-79">
+    <prop type="location-id">UT22084-041-003-55</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་དབྱིབས་ནི་སྨན་རྡུང་བའི་གཏུན་བུ་འདྲ་ལ་ཐུང་ཞིང་ཆུང་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Its form is short and small, like a pestle for grinding medicine.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-80">
+    <prop type="location-id">UT22084-041-003-55</prop>
+    <tuv xml:lang="bo">
+                <seg>མངལ་གྱི་ནང་དུ་བཙོས། རབ་ཏུ་བཙོས་པས་འདི་ལྟར་འབྱུང་བ་ཆེན་པོ་བཞི་པོ་འདི་དག་མཐར་གྱིས་འཕེལ་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It cooks inside the womb, and when it is well cooked, the four great elements in this way grow gradually. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-81">
+    <prop type="location-id">UT22084-041-003-57</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་བཞི་པ་ལ་མའི་མངལ་ན་གནས་པའི་ཚེ་ཡང་ལས་ཀྱི་རླུང་མངོན་པར་གྲུབ་པ་གང་ཡིན་པ་དེ་ནི་ནང་རབ་ཏུ་འབྱེད་པ་ཞེས་བྱ་སྟེ་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-57"/>While the being in the mother’s womb is in the fourth week, again a karmic wind, internal differentiation,<tei:note xml:id="UT22084-041-003-58"/> comes into existence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-82">
+    <prop type="location-id">UT22084-041-003-57</prop>
+    <tuv xml:lang="bo">
+                <seg>རླུང་དེའི་སྟོབས་<tei:ref folio="F.240.a"/>ཀྱིས་ལྟར་ལྟར་པོ་གང་ཡིན་པ་དེ་ནི་མཁྲང་བར་བྱེད་པས། དེའི་དབྱིབས་ནི་མཆི་གུ་འདྲ་བ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Due to the force of this wind, the peśī becomes solid, its form like a grinding stone.<tei:note xml:id="UT22084-041-003-59"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-83">
+    <prop type="location-id">UT22084-041-003-57</prop>
+    <tuv xml:lang="bo">
+                <seg>ནང་དུ་བཙོས་རབ་ཏུ་བཙོས་པས་འབྱུང་བ་ཆེན་པོ་བཞི་པོ་མཐར་གྱིས་འཕེལ་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It cooks inside the womb, and when it is well cooked, the four great elements gradually grow. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-84">
+    <prop type="location-id">UT22084-041-003-60</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་ལྔ་པ་ལ་མའི་མངལ་ན་གནས་པའི་ཚེ་ཡང་ལས་ཀྱི་རླུང་མངོན་པར་གྲུབ་པ་གང་ཡིན་པ་དེ་ནི་ཡང་དག་པར་སྡུད་པ་ཞེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-60"/>While the being in the mother’s womb is in the fifth week, again a karmic wind, gathering together, comes into existence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-85">
+    <prop type="location-id">UT22084-041-003-60</prop>
+    <tuv xml:lang="bo">
+                <seg>རླུང་དེའི་སྟོབས་ཀྱི་མཁྲང་འགྱུར་གང་ཡིན་པ་དེ་རྐ་ལག་འགྱུར་བ་སྒྱུར་བར་བྱེད་པས་གོར་གོར་པོ་གང་ཡིན་པ་དེ་རྣམ་པར་ཕྱེ་ནས་བརླ་གཉིས་དང་། དཔུང་པ་གཉིས་དང་། མགོ་བོའི་མཚན་མ་མངོན་དུ་འབྱུང་བར་བྱེད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The force of this wind, by making the hardened embryo begin to develop legs and arms, divides the ghana<tei:note xml:id="UT22084-041-003-61"/> and gives rise to signs of the two thighs, two shoulders, and head.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-86">
+    <prop type="location-id">UT22084-041-003-60</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ། དཔེར་ན་དབྱར་གྱི་དུས་སུ་ཆར་འབབ་པའི་ཚེ་ལྗོན་ཤིང་རྣམས་ཡལ་ག་དང་། འདབ་མ་སྐྱེད་པར་བྱེད་པ་དེ་བཞིན་དུ་ལས་ཀྱི་རླུང་གི་སྟོབས་ཀྱིས་ཀྱང་ལུས་ཀྱི་མཚན་མ་རྣམས་སྣང་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Just as when rain falls in the rainy season of summer and produces branches and leaves on trees, in the same way, the force of karmic wind causes the signs of the body to appear. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-87">
+    <prop type="location-id">UT22084-041-003-62</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་དྲུག་པ་ལ་མའི་མངལ་དུ་གནས་པའི་ཚེ་ཡང་ལས་ཀྱི་རླུང་མངོན་པར་གྲུབ་པ་གང་ཡིན་པ་དེ་ནི་ཟས་ཞེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-62"/>While the being in the mother’s womb is in the sixth week, again a karmic wind, food, comes into existence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-88">
+    <prop type="location-id">UT22084-041-003-62</prop>
+    <tuv xml:lang="bo">
+                <seg>རླུང་དེའི་སྟོབས་ཀྱིས་མཚན་མེ་བཞི་འབྱུང་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The force of this wind gives rise to four signs.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-89">
+    <prop type="location-id">UT22084-041-003-62</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཞི་གང་ཞེ་ན། འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What are the four?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-90">
+    <prop type="location-id">UT22084-041-003-62</prop>
+    <tuv xml:lang="bo">
+                <seg>ལག་ངར་གཉིས་དང་། རྗེ་ངར་གཉིས་གང་ཡིན་པ་དེ་ནི་མཚན་མ་རྣམ་པ་བཞི་ཞེས་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The four types of signs are the signs of the two forearms and the two shanks. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-91">
+    <prop type="location-id">UT22084-041-003-63</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་བདུན་པ་ལ་མའི་མངལ་ན་གནས་པའི་ཚེ་ཡང་ལས་ཀྱི་རླུང་མངོན་པར་གྲུབ་པ་གང་ཡིན་པ་དེ་ནི་འཁྱིལ་བར་བྱེད་པ་ཞེས་བྱ་སྟེ་རླུང་དེའི་སྟོབས་ཀྱིས་མཚན་མ་རྣམ་པ་བཞི་འབྱུང་བར་བྱེད་དེ། འདི་ལྟ་སྟེ། ལག་མཐིལ་གཉིས་དང་། རྐང་མཐིལ་གཉིས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-63"/>While the being in the mother’s womb is in the seventh week, again a karmic wind, twister, comes into existence. The force of this wind gives rise to four types of signs, namely, the signs of the two palms of the hands and two soles of the feet.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-92">
+    <prop type="location-id">UT22084-041-003-63</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་མཚན་མ་ནི་ཤིན་ཏུ་མཉེན་པས་དབུ་བ་འདུས་པ་དང་འདྲའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These signs are very soft, like a mass of bubbles. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-93">
+    <prop type="location-id">UT22084-041-003-64</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་བརྒྱད་པ་ལ་མའི་མངལ་དུ་གནས་པའི་ཚེ་ཡང་ལས་ཀྱི་རླུང་མངོན་པར་གྲུབ་པ་གང་ཡིན་པ་དེ་ནི་ཟློག་ཅིང་སྒྱུར་བར་བྱེད་པ་ཞེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-64"/>While the being in the mother’s womb is in the eighth week, again a karmic wind, reversing and turning, comes into existence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-94">
+    <prop type="location-id">UT22084-041-003-64</prop>
+    <tuv xml:lang="bo">
+                <seg>རླུང་དེའི་སྟོབས་ཀྱིས་མཚན་མ་ཉི་ཤུ་འབྱུང་བར་བྱེད་དེ། འདི་ལྟ་སྟེ། ལག་པ་དང་། རྐང་པའི་སོར་མོའི་མཚན་མ་ཉི་ཤུ་འབྱུང་བར་བྱེད་པ་གང་ཡིན་པའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The force of this wind gives rise to twenty signs, namely, the signs of the twenty digits of the hands and feet.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-95">
+    <prop type="location-id">UT22084-041-003-64</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ནི་འདི་ལྟ་སྟེ་དཔེར་ན་དབྱར་ཆར་འབབ་པའི་ཚེ་ལྗོན་ཤིང་རྣམས་ཀྱི་ཡལ་ག་དང་། འདབ་མ་མཐར་གྱིས་སྐྱེ་ཞིང་འཕེལ་བར་བྱེད་པ་དེ་བཞིན་དུ་ལས་ཀྱི་རླུང་གི་སྟོབས་ཀྱིས་ཀྱང་མཚན་མ་རྣམས་མངོན་དུ་སྣང་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>As for this, just as rain falling in the rainy season of summer makes the branches and leaves on the trees gradually grow and increase, in the same way, the force of karmic wind causes the signs of the body to appear. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-96">
+    <prop type="location-id">UT22084-041-003-65</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་དགུ་པ་ལ་མའི་མངལ་ན་གནས་པའི་ཚེ་ཡང་ལས་ཀྱི་རླུང་མངོན་པར་གྲུབ་པ་གང་ཡིན་པ་དེ་ནི་རྣམ་པར་འབྱེད་པ་ཞེས་<tei:ref folio="F.240.b"/>བྱ་སྟེ་རླུང་དེའི་སྟོབས་ཀྱིས་མཚན་མ་རྣམ་པ་དགུ་འབྱུང་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-65"/>While the being in the mother’s womb is in the ninth week, again a karmic wind, separating, comes into existence. The force of this wind gives rise to nine types of signs.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-97">
+    <prop type="location-id">UT22084-041-003-65</prop>
+    <tuv xml:lang="bo">
+                <seg>།དགུ་གང་ཞེ་ན། འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What are the nine?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-98">
+    <prop type="location-id">UT22084-041-003-65</prop>
+    <tuv xml:lang="bo">
+                <seg>མིག་གཉིས་དང་། རྣ་བ་གཉིས་དང་། སྣ་གཉིས་དང་། ཁ་དང་། བཤང་བ་དང་། གཅི་བའི་གནས་གང་ཡིན་པ་དེ་དག་མཚན་མ་རྣམ་པ་དགུ་ཞེས་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The signs of the two eyes, the two ears, the two nostrils, the mouth, and the places of excrement and urine are the nine types of signs. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-99">
+    <prop type="location-id">UT22084-041-003-66</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་བཅུ་པ་ལ་མའི་མངལ་ན་གནས་པའི་ཚེ་ཡང་ལས་ཀྱི་རླུང་མངོན་པར་གྲུབ་པ་གང་ཡིན་པ་དེ་ནི་སྲ་བར་བྱེད་པ་ཞེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-66"/>While the being in the mother’s womb is in the tenth week, again a karmic wind, making firm, comes into existence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-100">
+    <prop type="location-id">UT22084-041-003-66</prop>
+    <tuv xml:lang="bo">
+                <seg>རླུང་དེའི་སྟོབས་ཀྱིས་སྲ་ཞིང་བརྟན་པར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The force of this wind makes the being in the womb firm and stable.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-101">
+    <prop type="location-id">UT22084-041-003-66</prop>
+    <tuv xml:lang="bo">
+                <seg>།གཞན་ཡང་དེའི་ཚེ་ཀུན་ནས་སྒོ་ཞེས་བྱ་བའི་རླུང་འབྱུང་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Also at that time, a wind called universal door arises.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-102">
+    <prop type="location-id">UT22084-041-003-66</prop>
+    <tuv xml:lang="bo">
+                <seg>དེས་མངལ་ན་གནས་པའི་ལུས་བུས་པས་ལུས་ཀུན་ཏུ་རྒྱས་ཤིང་གང་བར་བྱེད་དེ། འདི་ལྟ་སྟེ་དཔེར་ན་རྐྱལ་བ་གང་བ་ཇི་ལྟ་བ་བཞིན་ནོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>By blowing on the body of the being in the womb, it causes the body to expand and fill, like a full leather bag. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-103">
+    <prop type="location-id">UT22084-041-003-67</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་བཅུ་གཅིག་པ་ལ་མའི་མངལ་ན་གནས་པའི་ཚེ་ཡང་ལས་ཀྱི་རླུང་མངོན་པར་གྲུབ་པ་གང་ཡིན་པ་དེ་ནི་རྡོ་རྗེ་ཞེས་བྱ་སྟེ་རླུང་དེའི་སྟོབས་ཀྱིས་མངལ་ན་གནས་པ་དེ་སྟེང་དང་འོག་གི་ཕྱོགས་སུ་འགྲོ་ཞིང་ལུས་ཀྱི་བུ་ག་རྣམས་འབྱིན་པར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-67"/>While the being in the mother’s womb is in the eleventh week, again a karmic wind, adamantine, comes into existence. The force of this wind, moving up and down in the being in the womb, causes holes to come forth in the body.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-104">
+    <prop type="location-id">UT22084-041-003-67</prop>
+    <tuv xml:lang="bo">
+                <seg>།གཞན་ཡང་རླུང་དེའི་སྟོབས་ཀྱིས་མ་དེ་རེས་འགའ་དགའ་བ་དང་། མི་དགའ་བར་ཡང་བྱེད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The force of this wind makes the mother sometimes happy, sometimes unhappy.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-105">
+    <prop type="location-id">UT22084-041-003-67</prop>
+    <tuv xml:lang="bo">
+                <seg>འགྲོ་བ་དང་། འགྲེང་བ་དང་། འདུག་པ་དང་། ཉལ་བ་ན་ཡང་དེའི་རང་བཞིན་འགྱུར་ཞིང་རྐང་ལག་སྐྱོད་པར་ཡང་བྱེད་པས་མངལ་ན་གནས་པའི་བུ་ག་རྣམས་མཐར་གྱིས་སྐྱེ་ཞིང་འཕེལ་བར་ཡང་བྱེད་ལ་དེའི་ཁ་ནས་ཁྲག་ནག་པོ་ཡང་འབྱུང་བར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Her nature changes when she walks, stands, sits, and sleeps; she moves her legs and arms, and the holes in the being in the womb gradually grow and increase; and black blood comes out of its mouth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-106">
+    <prop type="location-id">UT22084-041-003-67</prop>
+    <tuv xml:lang="bo">
+                <seg>སྣ་ནས་ཀྱང་ཆུ་མི་གཙང་བ་འབྱུང་བར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Filthy water also comes out of its nose.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-107">
+    <prop type="location-id">UT22084-041-003-67</prop>
+    <tuv xml:lang="bo">
+                <seg>རླུང་དེས་དབང་པོ་རྣམས་བཟློག་ནས་དེ་ནས་ཞི་བར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The wind turns away from the faculties and then is pacified. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-108">
+    <prop type="location-id">UT22084-041-003-68</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་བཅུ་གཉིས་པ་ལ་མའི་མངལ་ན་གནས་པའི་ཚེ་ཡང་ལས་ཀྱི་རླུང་མངོན་པར་གྲུབ་པ་གང་ཡིན་པ་དེ་ནི་ཡོན་པོའི་སྒོ་ཞེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-68"/>While the being in the mother’s womb is in the twelfth week, again a karmic wind, crooked opening, comes into existence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-109">
+    <prop type="location-id">UT22084-041-003-68</prop>
+    <tuv xml:lang="bo">
+                <seg>རླུང་དེའི་སྟོབས་ཀྱིས་རྩིབ་ལོགས་གཡས་གཡོན་གྱི་ནང་གྲོལ་གྱི་རྒྱུ་མ་ཆེ་ཆུང་རྣམས་སྐྱེད་པར་བྱེད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The force of this wind produces the large and small intestines within the left and right sides of the body.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-110">
+    <prop type="location-id">UT22084-041-003-68</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནི་འདི་ལྟ་སྟེ། དཔེར་ན་པད་མའི་རྩ་བ་ཤད་ཤད་པོ་འམ། སྐུད་པ་གྲིམས་པས་ལ་བཞག་པ་ལྟ་བུར་ལན་བཅྭ་བརྒྱད་འཁོར་བར་ལུས་ལ་བརྟེན་ཏེ་གནས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They wind around eighteen times and adhere to the body in the same way that very fine lotus roots or taut strings are attached to the earth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-111">
+    <prop type="location-id">UT22084-041-003-68</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེའི་ཚེ་གཞན་ཡང་སྤུ་བརྒྱུས་པ་ཞེས་བྱ་བའི་རླུང་འབྱུང་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Also at that time, a wind called fastened hair arises.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-112">
+    <prop type="location-id">UT22084-041-003-68</prop>
+    <tuv xml:lang="bo">
+                <seg>རླུང་དེའི་དབང་གིས་ཚིགས་ཀྱི་ཡན་ལག་སུམ་བརྒྱ་ཉི་ཤུ་དང་། གནད་བརྒྱ་རྩ་གཅིག་ལུས་ལ་གནས་པར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Due to the force of this wind, one hundred twenty joints and one hundred one vital points are established in the body. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-113">
+    <prop type="location-id">UT22084-041-003-69</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་བཅུ་གསུམ་པ་ལ་མའི་མངལ་ན་གནས་པའི་ཚེ་ཡང་ལས་ཀྱི་རླུང་མངོན་པར་གྲུབ་པ་གང་ཡིན་པ་དེ་ནི་བཀྲེས་ཤིང་སྐོམ་པར་<tei:ref folio="F.241.a"/>བྱེད་པ་ཞེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-69"/>While the being in the mother’s womb is in the thirteenth week, again a karmic wind, making hungry and thirsty, comes into existence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-114">
+    <prop type="location-id">UT22084-041-003-69</prop>
+    <tuv xml:lang="bo">
+                <seg>རླུང་དེའི་སྟོབས་ཀྱིས་མངལ་གྱི་ལུས་དེ་ཉམ་ཆུང་ཞིང་བཀྲེས་པ་དང་། སྐོམ་པའི་འདུ་ཤེས་སྐྱེད་པར་བྱེད་པས་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The force of this wind weakens the body of the fetus and causes sensations of hunger and thirst to arise.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-115">
+    <prop type="location-id">UT22084-041-003-69</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་མས་ཟོས་ཤིང་འཐུངས་པའི་རོ་ཇི་སྙེད་པ་དག་ལུས་ཀྱི་གནད་དང་། ལྟེ་བའི་དཀྱིལ་འཁོར་ཡོངས་སུ་འཛིན་ཅིང་ཕན་འདོགས་པར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It causes the fetus to receive, through the navel and vital points of its body, all the nutritional essence of what its mother eats and drinks, and to benefit from it.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-116">
+    <prop type="location-id">UT22084-041-003-70</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ནས་དེའི་ཚེ་བཅོམ་ལྡན་འདས་ཀྱིས་ཚིགས་སུ་བཅད་དེ་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-70"/>Then the Bhagavān spoke in verse:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-117">
+    <prop type="location-id">UT22084-041-003-71</prop>
+    <tuv xml:lang="bo">
+                <seg>བུ་ནི་མ་མངལ་གནས་པ་ན། །མངལ་གནས་དེ་ལ་ཕན་འདོགས་པས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-71"/>“As for the child, when it is living in its mother’s womb, The mother benefits the fetus.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-118">
+    <prop type="location-id">UT22084-041-003-71</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེས་ན་ལུས་སྲོག་རབ་གནས་ཤིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, its body and life are well established.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-119">
+    <prop type="location-id">UT22084-041-003-71</prop>
+    <tuv xml:lang="bo">
+                <seg>།རིམ་གྱིས་སྐྱེ་དང་འཕེལ་བར་བྱེད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Gradually, it grows and increases.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-120">
+    <prop type="location-id">UT22084-041-003-71</prop>
+    <tuv xml:lang="bo">
+                <seg>།མས་ནི་ཟོས་ཤིང་འཐུངས་པ་དག །མངལ་ན་གནས་ན་ཕན་འདོགས་པས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What the mother eats and drinks Benefits the fetus.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-121">
+    <prop type="location-id">UT22084-041-003-71</prop>
+    <tuv xml:lang="bo">
+                <seg>།རིམ་གྱིས་སྐྱེ་ཚད་ང་འཕེལ་བར་བྱེད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Gradually, it grows and increases.”<tei:note xml:id="UT22084-041-003-72"/> “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-122">
+    <prop type="location-id">UT22084-041-003-73</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་བཅུ་བཞི་པ་ལ་མའི་མངལ་ན་གནས་པའི་ཚེ་ཡང་ལས་ཀྱི་རླུང་མངོན་པར་གྲུབ་པ་གང་ཡིན་པ་དེ་ནི་སྐུད་པའི་སྒོ་ཞེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-73"/>While the being in the mother’s womb is in the fourteenth week, again a karmic wind, thread opening, comes into existence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-123">
+    <prop type="location-id">UT22084-041-003-73</prop>
+    <tuv xml:lang="bo">
+                <seg>རླུང་དེའི་སྟོབས་ཀྱིས་རྩ་རྒྱུད་དགུ་བརྒྱ་བསྐྱེད་ནས་ལུས་ཀྱི་མདུན་དང་། རྒྱབ་དང་། གཡས་གཡོན་སྣོལ་མར་གཡོགས་པར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The force of this wind produces nine hundred ligaments and pulls together and covers the front and back and left and right sides of the body. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-124">
+    <prop type="location-id">UT22084-041-003-74</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་བཅོ་ལྔ་པ་ལ་མའི་མངལ་ན་གནས་པའི་ཚེ་ཡང་ལས་ཀྱི་རླུང་མངོན་པར་གྲུབ་པ་གང་ཡིན་པ་དེ་ནི་པད་མ་ཞེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-74"/>While the being in the mother’s womb is in the fifteenth week, again a karmic wind, lotus, comes into existence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-125">
+    <prop type="location-id">UT22084-041-003-74</prop>
+    <tuv xml:lang="bo">
+                <seg>རླུང་དེའི་སྟོབས་ཀྱིས་རྩར་རྒྱུ་བ་ཉི་ཤུ་བསྐྱེད་ནས་བཟའ་བ་དང་། བཏུང་བའི་རོ་གང་ཡིན་པ་རྩ་འདིར་ཞུགས་ནས་ལུས་ལ་ཕན་འདོགས་པར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The force of this wind produces twenty channels, and when the nutritional essence from food and drink enters these channels, it benefits the body.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-126">
+    <prop type="location-id">UT22084-041-003-74</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཉི་ཤུ་གང་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What are the twenty?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-127">
+    <prop type="location-id">UT22084-041-003-74</prop>
+    <tuv xml:lang="bo">
+                <seg>ལུས་ཀྱི་མདུན་དང་རྒྱབ་དང་། གཡས་གཡོན་རེ་རེ་ལ་ཡང་རྩ་ལྔ་ལྔ་ཡོད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The front and back and right and left sides of the body have five channels each.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-128">
+    <prop type="location-id">UT22084-041-003-74</prop>
+    <tuv xml:lang="bo">
+                <seg>རྩ་འདི་དག་རེ་རེ་ལ་ཡང་རྩ་ཕྲ་མོའི་ཡན་ལག་བཞི་བཅུ་བཞི་བཅུ་ཡོད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These channels also have forty small branch channels each.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-129">
+    <prop type="location-id">UT22084-041-003-74</prop>
+    <tuv xml:lang="bo">
+                <seg>།རྩ་དེ་དག་རེ་རེ་ལ་ཡང་ཡན་ལག་བརྒྱ་བརྒྱ་ཡོད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Those channels have another one hundred branch channels each.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-130">
+    <prop type="location-id">UT22084-041-003-74</prop>
+    <tuv xml:lang="bo">
+                <seg>།ལུས་ཀྱི་མདུན་ན་ཡོད་པ་ཉི་ཁྲི་ནི་ས་ག་ཞེས་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The front of the body has twenty thousand channels called companion.<tei:note xml:id="UT22084-041-003-75"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-131">
+    <prop type="location-id">UT22084-041-003-74</prop>
+    <tuv xml:lang="bo">
+                <seg>།ལུས་ཀྱི་རྒྱབ་ན་ཡོད་པ་ཉི་ཁྲི་ནི་སྟོབས་ཞེས་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The back of the body has twenty thousand channels called strength.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-132">
+    <prop type="location-id">UT22084-041-003-74</prop>
+    <tuv xml:lang="bo">
+                <seg>།ལུས་ཀྱི་གཡོན་ཕྱོགས་ན་ཡོད་པ་ཉི་ཁྲི་ནི་བརྟན་པ་ཞེས་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The left side of the body has twenty thousand channels called firmness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-133">
+    <prop type="location-id">UT22084-041-003-74</prop>
+    <tuv xml:lang="bo">
+                <seg>།ལུས་ཀྱི་གཡས་ཕྱོགས་ན་ཡོད་པ་ཉི་ཁྲི་ནི་མཐུ་དང་ལྡན་པ་ཞེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The right side of the body has twenty thousand channels called powerful.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-134">
+    <prop type="location-id">UT22084-041-003-74</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་ན་རྩའི་ཡན་ལག་ཆེ་ཕྲ་བརྒྱད་ཁྲི་ལུས་དེ་ལ་སྐྱེ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, eighty thousand large and small branch channels are produced in the body.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-135">
+    <prop type="location-id">UT22084-041-003-74</prop>
+    <tuv xml:lang="bo">
+                <seg>རྩ་དེ་དག་ཀྱང་ཁ་དོག་རྣམ་པ་སྣ་ཚོགས་དང་ལྡན་ཏེ། འདི་ལྟ་སྟེ། སྔོན་པོ་དང་། སེར་པོ་དང་། དམར་པོ་དང་། དཀར་པོ་དང་། མར་དང་། ཞོ་དང་། འབྲུ་མར་གྱི་ཁ་དོག་གོ །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These channels also have various colors, namely, blue, yellow, red, and white, along with the colors of butter, yogurt, and oil.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-136">
+    <prop type="location-id">UT22084-041-003-74</prop>
+    <tuv xml:lang="bo">
+                <seg>རྩ་བརྒྱད་ཁྲི་བོ་དེ་དག་རེ་རེ་ལ་ཡང་རྩ་བ་རེ་རེ་ཡོད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Furthermore, the eighty thousand each have roots.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-137">
+    <prop type="location-id">UT22084-041-003-74</prop>
+    <tuv xml:lang="bo">
+                <seg>རྩ་བ་རེ་རེ་ལ་ཡང་བུ་ག་སྣ་ཚོགས་ཡོད་དེ། བུ་ག་གཅིག་དང་། བུ་ག་གཉིས་ནས་བུ་ག་བདུན་གྱི་བར་དང་ལྡན་ཏེ། རེ་རེ་ཡང་སྤུའི་<tei:ref folio="F.241.b"/>བུ་ག་དང་ཕན་ཚུན་འབྲེལ་ཏེ་དེ་ནི་དཔེར་ན། པད་མའི་རྩ་བ་ལ་བུ་ག་མང་པོ་ཡོད་པ་ཇི་ལྟ་བ་བཞིན་ནོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Each root has various openings, from one or two openings up to seven openings, and each is connected to the pore of a bodily hair, just as a lotus root has many openings. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-138">
+    <prop type="location-id">UT22084-041-003-76</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་བཅུ་དྲུག་པ་ལ་མའི་མངལ་ན་གནས་པའི་ཚེ་ཡང་ལས་ཀྱི་རླུང་མངོན་པར་གྲུབ་པ་གང་ཡིན་པ་དེ་ནི་བདུད་རྩི་ཞེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-76"/>While the being in the mother’s womb is in the sixteenth week, again a karmic wind, nectar, comes into existence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-139">
+    <prop type="location-id">UT22084-041-003-76</prop>
+    <tuv xml:lang="bo">
+                <seg>རླུང་དེའི་སྟོབས་ཀྱིས་དེའི་མིག་དང་། རྣ་བ་དང་། སྣ་དང་། ཁའི་སྒོ་དང་། མིད་པ་དང་། སྙིང་གི་སྙིང་པོའི་ཁོ་ར་ཁོར་ཡུག་གི་བུ་ག་དགུ་པོ་དེ་དག་རྣམ་པར་ཕྱེ་ནས་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The force of this wind opens the nine orifices of its eyes, ears, nose, mouth, throat, and the area around the heart in its chest.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-140">
+    <prop type="location-id">UT22084-041-003-76</prop>
+    <tuv xml:lang="bo">
+                <seg>དབུགས་ཕྱི་ནང་དུ་རྒྱུ་བ་སྟེང་དང་འོག་ཏུ་རྒྱུ་ཞིང་ཐོགས་པ་མེད་པ་དང་། བཟའ་བ་དང་། བཏུང་བ་ཟོས་ཤིང་འཐུངས་པ་གང་ཡིན་པ་དེ་དག་ཀྱང་། ལུས་ལ་ཕན་འདོགས་ཤིང་བསགས་པའི་གནས་ཡོད་པ་དང་། ལེགས་པར་ཞུགས་ནས་འོག་གི་ཕྱོགས་སུ་འབྱུང་བར་བྱེད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It makes the breath move in and out and up and down without obstruction, and it makes whatever food and drink is eaten and drunk benefit the body, properly enter the place where it accumulates, and come out below.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-141">
+    <prop type="location-id">UT22084-041-003-76</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ། དཔེར་ན་རྫ་མཁན་ནམ། དེའི་སློབ་མ་མཁས་པས་འཇིམ་པ་ལེགས་པར་སྦྱར་ཏེ་འཁོར་ལོའི་སྟེང་དུ་བཞག་ནས་འོག་དང་སྟེང་དུ་བསྒྱུར་ཞིང་སྣོད་ཀྱི་རྣམ་པ་མངོན་པར་འདུས་བྱས་ནས་མངོན་པར་གྲུབ་པ་དེ་བཞིན་དུ་འདི་ཡང་རླུང་གི་སྟོབས་དང་། དགེ་བ་དང་མི་དགེ་བའི་ལས་ཀྱིས་མིག་དང་། རྣ་བ་ལ་སོགས་པ་རིམ་གྱིས་ཡོངས་སུ་རྫོགས་པར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Just as a potter or a potter’s skilled apprentice, having carefully prepared the clay, places it atop a wheel and, turning it up and down, succeeds in rendering it into the form of a pot, this too is the same: the forces of the wind and good and bad karma gradually complete the eyes and ears and so forth. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-142">
+    <prop type="location-id">UT22084-041-003-77</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་བཅུ་བདུན་པ་ལ་མའི་མངལ་ན་གནས་པའི་ཚེ་ཡང་ལས་ཀྱི་རླུང་མངོན་པར་གྲུབ་པ་གང་ཡིན་པ་དེ་ནི་འབྲི་གདོང་ཞེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-77"/>While the being in the mother’s womb is in the seventeenth week, again a karmic wind, yak face, comes into existence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-143">
+    <prop type="location-id">UT22084-041-003-77</prop>
+    <tuv xml:lang="bo">
+                <seg>རླུང་དེའི་སྟོབས་ཀྱིས་དེའི་མིག་གཉིས་ཀུན་ཏུ་དང་བ་དང་། རྣ་བ་དང་། སྣའི་དབང་པོ་ལ་སོགས་པ་ཡང་རིམ་གྱིས་ཡོངས་སུ་སྨིན་པར་བྱེད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The force of this wind clarifies its two eyes and causes the ear and nose faculties, and so forth, gradually to become fully mature.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-144">
+    <prop type="location-id">UT22084-041-003-77</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ། དཔེར་ན་མེ་ལོང་གི་དཀྱིལ་འཁོར་རྡུལ་གྱིས་ཡོག་པ་སའི་ཕྱེ་མ་དང་། འབྲུ་མར་དང་། ཐལ་བ་བླངས་ཏེ་བྱི་དོར་བྱས་ན་ཡོངས་སུ་གསལ་བར་འགྱུར་བ་དེ་བཞིན་དུ་ལས་ཀྱི་རླུང་གི་སྟོབས་ཀྱིས་མིག་ལ་སོགས་པ་བུས་ནས་མིག་ལ་སོགས་པ་ཀུན་ཏུ་དང་བར་བྱེད་པ་ཡང་དེ་བཞིན་དུ་རིག་པར་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Just as one takes fine dirt, oil, or ashes and wipes a mirror that is covered with dust, and it becomes clear, it should be known that, in the same way, the force of this karmic wind blows on the eyes and so forth and makes them completely clear. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-145">
+    <prop type="location-id">UT22084-041-003-78</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་བཅྭ་བརྒྱད་པ་ལ་མའི་མངལ་ན་གནས་པའི་ཚེ་ཡང་ལས་ཀྱི་རླུང་མངོན་པར་གྲུབ་པ་གང་ཡིན་པ་དེ་ནི་བརྟན་པར་འགྱུར་བ་ཞེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-78"/>While the being in the mother’s womb is in the eighteenth week, again a karmic wind, becoming firm, comes into existence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-146">
+    <prop type="location-id">UT22084-041-003-78</prop>
+    <tuv xml:lang="bo">
+                <seg>རླུང་དེའི་སྟོབས་ཀྱིས་དེའི་དབང་པོ་རྣམས་མཐར་གྱིས་ཡོངས་སུ་སྨིན་ཅིང་གསལ་བ་དང་། ཡོངས་སུ་དག་པར་བྱེད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The force of this wind causes its faculties gradually to become fully mature, clear, and purified.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-147">
+    <prop type="location-id">UT22084-041-003-78</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ་དཔེར་ན། ཉི་མ་དང་ཟླ་བའི་དཀྱིལ་འཁོར་སྤྲིན་དང་། ཁུག་རྣ་རྣམས་ཀྱིས་བསྒྲིབས་ཤིང་ཁེབས་པར་འགྱུར་བ་གློ་བུར་དུ་རླུང་དྲག་པོ་ལངས་ཏེ་བུས་ནས་<tei:ref folio="F.242.a"/>ཕྱོགས་བཞིར་གཏོར་བར་གྱུར་ན་ཉི་མ་དང་ཟླ་བའི་དཀྱིལ་འཁོར་ཤིན་ཏུ་གསལ་བར་གྱུར་པ་དེ་བཞིན་དུ་འདི་ལྟར་ལས་ཀྱི་རླུང་གི་དབང་གིས་དབང་པོ་རྣམས་བུས་པས་ཆེས་ཤིན་ཏུ་གསལ་ཞིང་ཡོངས་སུ་དག་པར་བྱེད་པ་ཡང་དེ་བཞིན་དུ་རིག་པར་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Just as when the orbs of the sun and moon are covered, obscured by clouds and mist, and suddenly a harsh wind arises and blows on them, scattering them in the four directions and making the orbs of the sun and moon totally clear, it should be known that, in the same way, the force of this karmic wind, by blowing on the faculties, makes them totally clear and purified. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-148">
+    <prop type="location-id">UT22084-041-003-79</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་བཅུ་དགུ་པ་ལ་མའི་མངལ་ན་གནས་པའི་ཚེ་ཡང་ལས་ཀྱི་རླུང་གི་སྟོབས་ཀྱིས་མིག་དང་། རྣ་བ་དང་། སྣ་དང་། ལྕེའི་དབང་པོ་བཞི་པོ་དག་ཡོངས་སུ་སྨིན་པར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-79"/>While the being in the mother’s womb is in the nineteenth week, the force of a karmic wind<tei:note xml:id="UT22084-041-003-80"/> again makes the four faculties, namely, the eyes, ears, nose, and tongue, fully mature.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-149">
+    <prop type="location-id">UT22084-041-003-79</prop>
+    <tuv xml:lang="bo">
+                <seg>།དང་པོ་མངལ་དུ་འཇུག་པའི་ཚེ་ནི་དབང་པོ་གསུམ་དང་ལྡན་ཏེ། ལུས་ཀྱི་དབང་པོ་དང་། སྲོག་གི་དབང་པོ་དང་། ཡིད་ཀྱི་དབང་པོ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>At the time when the being first entered the womb, it possessed three faculties, namely, the body faculty, the life faculty, and the mind faculty.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-150">
+    <prop type="location-id">UT22084-041-003-79</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་དབང་པོ་རྣམས་ཡོངས་སུ་རྫོགས་པར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thus, the faculties are now completed. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-151">
+    <prop type="location-id">UT22084-041-003-81</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་ཉི་ཤུ་པ་ལ་མའི་མངལ་ན་གནས་པའི་ཚེ་ཡང་ལས་ཀྱི་རླུང་མངོན་པར་གྲུབ་པ་གང་ཡིན་པ་དེ་ནི་ཤིན་ཏུ་སྲ་བ་ཞེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-81"/>While the being in the mother’s womb is in the twentieth week, again a karmic wind, very solid, comes into existence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-152">
+    <prop type="location-id">UT22084-041-003-81</prop>
+    <tuv xml:lang="bo">
+                <seg>རླུང་དེའི་སྟོབས་ཀྱིས་དེའི་ལུས་ལས་རུས་པ་སྣ་ཚོགས་སྐྱེད་པར་བྱེད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The force of this wind makes various bones arise in its body.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-153">
+    <prop type="location-id">UT22084-041-003-81</prop>
+    <tuv xml:lang="bo">
+                <seg>རྐང་པ་གཡོན་པ་ལ་བརྟེན་ཏེ་རུས་པ་ཉི་ཤུ་སྐྱེད་དོ། །རྐང་པ་གཡས་པ་ལ་བརྟེན་ཏེ་རུས་པ་ཉི་ཤུ་སྐྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It produces twenty bones in the left leg, and it produces twenty bones in the right leg.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-154">
+    <prop type="location-id">UT22084-041-003-81</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞན་ཡང་རྐང་པའི་རྟིང་པའི་རུས་པ་བཞི་དང་། རྗེ་ངར་གྱི་རུས་པ་གཉིས་དང་། ལྷ་ངའི་རུས་པ་གཉིས་དང་། བརླའི་རུས་པ་གཉིས་དང་། རྐེད་པ་དང་། དཔྱིའི་རུས་པ་གསུམ་གསུམ་དང་། སྒལ་ཚིགས་ཀྱི་རུས་པ་བཅྭ་བརྒྱད་དང་། རྩིབ་མའི་རུས་པ་ཉི་ཤུ་རྩ་བཞི་དང་། བྲང་གི་རུས་པ་སུམ་ཅུ་དང་། ལག་པ་གཡས་གཡོན་རེ་རེ་ལ་རུས་པ་ཉི་ཤུ་ཉི་ཤུ་ཚ་དང་། ལག་ངར་གྱི་རུས་པ་བཞི་དང་། དཔུང་པའི་རུས་པ་གཉིས་དང་། འགྲམ་པའི་རུས་པ་གཉིས་དང་། མགོ་བོའི་རུས་པ་བཞི་དང་། སོའི་རྩ་བའི་རུས་པ་སུམ་ཅུ་རྩ་གཉིས་ཀྱང་སྐྱེད་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Furthermore, it produces four heel bones, two calf bones, two kneecaps, two thigh bones, three bones each of the waist and hips,<tei:note xml:id="UT22084-041-003-82"/> eighteen bones of the spine, twenty-four ribs, thirty chest bones,<tei:note xml:id="UT22084-041-003-83"/> twenty bones of each hand, four forearm bones, two shoulder bones, two jawbones, four bones of the head, and thirty-two tooth-root bones.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-155">
+    <prop type="location-id">UT22084-041-003-81</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ། དཔེར་ན་གཟུགས་མཁན་ནམ། གཟུགས་མཁན་གྱི་སློབ་མ་མཁས་པས་སྔར་ཤིང་སྲ་བ་བླངས་ཏེ་ཕྱིས་སྲད་བུས་བཅིངས་ནས་གཟུགས་རྣམས་བྱས་པ་ལ་འཇིམ་པ་མ་བསྐུས་མོད་ཀྱི། འོན་ཀྱང་དེའི་ཚེ་རུས་པའི་མཚན་ཉིད་ཅེས་བརྗོད་པ་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>To give an analogy, a sculptor or a sculptor’s skilled apprentice, having first taken some hard wood and then bound it with cord, makes shapes; and even though at that time he has not yet applied clay, nevertheless, it is called a skeleton sign.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-156">
+    <prop type="location-id">UT22084-041-003-81</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་དུ་ལས་ཀྱི་རླུང་གི་སྟོབས་ཀྱིས་རུས་པ་རྣམས་བསྐྱེད་པའི་དུས་ཀྱི་ཚེ་ཡང་དེ་བཞིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The time when the force of the karmic wind produces bones is like this.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-157">
+    <prop type="location-id">UT22084-041-003-81</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟ་བས་ན་ཞག་བདུན་པོ་དེ་དག་ཏུ་རུས་པ་ཕྲ་མོ་མ་གཏོགས་པ་རུས་པ་ཆེན་པོ་བསྐྱེད་པའི་གྲངས་ནི་ཉིས་བརྒྱ་ཡོད་པར་རིག་པར་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, one should know that in those seven days, leaving out the small bones, the large bones number two hundred.<tei:note xml:id="UT22084-041-003-84"/> “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-158">
+    <prop type="location-id">UT22084-041-003-85</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་ཉི་ཤུ་གཅིག་པ་ལ་མའི་མངལ་ན་གནས་པའི་ཚེ་ཡང་ལས་<tei:ref folio="F.242.b"/>ཀྱིས་རླུང་མངོན་པར་གྲུབ་པ་གང་ཡིན་པ་དེ་ནི་ཡང་དག་སྐྱེད་པ་ཞེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-85"/>While the being in the mother’s womb is in the twenty-first week, again a karmic wind, proper production, comes into existence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-159">
+    <prop type="location-id">UT22084-041-003-85</prop>
+    <tuv xml:lang="bo">
+                <seg>རླུང་དེའི་སྟོབས་ཀྱིས་མངལ་ན་གནས་པ་དེའི་ལུས་ཀྱི་ཤ་སྐྱེད་པར་བྱེད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The force of this wind produces the flesh of the body of the being in the womb.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-160">
+    <prop type="location-id">UT22084-041-003-85</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ། དཔེར་ན་ཞལ་ཞལ་མཁན་ནམ། ཞལ་ཞལ་མཁན་གྱི་སློབ་མས་འཇིམ་པ་ལེགས་པར་སྦྱངས་ནས་རྩིག་པ་རྣམས་ལ་ཞལ་ཞལ་བྱེད་པ་དེ་བཞིན་དུ་ལས་ཀྱི་རླུང་གི་དབང་གིས་དེའི་ལུས་ཀྱི་ཤ་སྐྱེད་པ་ཡང་དེ་བཞིན་དུ་རིག་པར་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One should know that, just as a plasterer or a plasterer’s apprentice, having cleansed clay, plasters walls, in the same way, the force of this karmic wind produces the flesh of its body. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-161">
+    <prop type="location-id">UT22084-041-003-86</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་ཉི་ཤུ་གཉིས་པ་ལ་མའི་མངལ་ན་གནས་པའི་ཚེ་ཡང་ལས་ཀྱི་རླུང་མངོན་པར་གྲུབ་པ་གང་ཡིན་པ་དེ་ནི་ཀུན་ཏུ་རྒྱལ་བ་ཞེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-86"/>While the being in the mother’s womb is in the twenty-second week, again a karmic wind, completely victorious, comes into existence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-162">
+    <prop type="location-id">UT22084-041-003-86</prop>
+    <tuv xml:lang="bo">
+                <seg>རླུང་དེའི་སྟོབས་ཀྱིས་དེའི་ལུས་ཀྱི་ཁྲག་སྐྱེད་པར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The force of this wind produces the blood of its body. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-163">
+    <prop type="location-id">UT22084-041-003-87</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་ཉི་ཤུ་གསུམ་པ་ལ་མའི་མངལ་ན་གནས་པའི་ཚེ་ཡང་ལས་ཀྱི་རླུང་མངོན་པར་གྲུབ་པ་གང་ཡིན་པ་དེ་ནི་ཡོངས་སུ་དག་པར་འཛིན་པ་ཞེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-87"/>While the being in the mother’s womb is in the twenty-third week, again a karmic wind, hold cleanly, comes into existence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-164">
+    <prop type="location-id">UT22084-041-003-87</prop>
+    <tuv xml:lang="bo">
+                <seg>རླུང་དེའི་སྟོབས་ཀྱིས་ལུས་ཀྱི་པགས་པ་སྐྱེད་པར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The force of this wind produces the skin of its body. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-165">
+    <prop type="location-id">UT22084-041-003-88</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་ཉི་ཤུ་བཞི་པ་ལ་མའི་མངལ་ན་གནས་པའི་ཚེ་ཡང་ལས་ཀྱི་རླུང་མངོན་པར་གྲུབ་པ་གང་ཡིན་པ་དེ་ནི་སྤྲིན་འཛིན་ཅེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-88"/>While the being in the mother’s womb is in the twenty-fourth week, again a karmic wind, holding clouds, comes into existence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-166">
+    <prop type="location-id">UT22084-041-003-88</prop>
+    <tuv xml:lang="bo">
+                <seg>རླུང་དེའི་སྟོབས་ཀྱིས་དེའི་ལུས་ཀྱི་ལག་པ་རྐྱོང་ཞིང་མདོག་དང་ལྡན་པར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The force of this wind stretches out the skin<tei:note xml:id="UT22084-041-003-89"/> of its body and gives it color. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-167">
+    <prop type="location-id">UT22084-041-003-90</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་ཉི་ཤུ་ལྔ་པ་ལ་མའི་མངལ་ན་གནས་པའི་ཚེ་ཡང་ལས་ཀྱི་རླུང་མངོན་པར་གྲུབ་པ་གང་ཡིན་པ་དེ་ནི་གྲོང་ཁྱེར་འཛིན་ཅེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-90"/>While the being in the mother’s womb is in the twenty-fifth week, again a karmic wind, holding the city, comes into existence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-168">
+    <prop type="location-id">UT22084-041-003-90</prop>
+    <tuv xml:lang="bo">
+                <seg>རླུང་དེའི་སྟོབས་ཀྱིས་མངལ་ན་གནས་པ་དེའི་ལུས་ལ་ཤ་དང་ཁྲག་འཕེལ་ཞིང་རིམ་གྱིས་རབ་ཏུ་དང་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The force of this wind makes the flesh and blood of the body of the being in the womb increase and gradually purifies it.<tei:note xml:id="UT22084-041-003-91"/> “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-169">
+    <prop type="location-id">UT22084-041-003-92</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་ཉི་ཤུ་དྲུག་པ་ལ་མའི་མངལ་ན་གནས་པའི་ཚེ་ཡང་ལས་ཀྱི་རླུང་མངོན་པར་གྲུབ་པ་གང་ཡིན་པ་དེ་ནི་སྐྱེ་བ་མངོན་པར་གྲུབ་ཅེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-92"/>While the being in the mother’s womb is in the twenty-sixth week, again a karmic wind, completion of birth, comes into existence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-170">
+    <prop type="location-id">UT22084-041-003-92</prop>
+    <tuv xml:lang="bo">
+                <seg>རླུང་དེའི་སྟོབས་ཀྱིས་དེའི་སྐྲ་དང་། སྤུ་དང་། སེན་མོ་རྣམས་བསྐྱེད་ནས་ཐམས་ཅད་རྩ་རྒྱུས་རྣམས་དང་འབྲེལ་པར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The force of this wind produces its hair, bodily hair, and nails, and connects them each individually to the channels. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-171">
+    <prop type="location-id">UT22084-041-003-93</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་ཉི་ཤུ་བདུན་པ་ལ་མའི་མངལ་ན་གནས་པའི་ཚེ་ཡང་ལས་ཀྱི་རླུང་མངོན་པར་གྲུབ་པ་གང་ཡིན་པ་དེ་ནི་སྨན་ཡོན་ཆེན་པོ་ཞེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-93"/>While the being in the mother’s womb is in the twenty-seventh week, again a karmic wind, crooked medicine, comes into existence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-172">
+    <prop type="location-id">UT22084-041-003-93</prop>
+    <tuv xml:lang="bo">
+                <seg>རླུང་དེའི་སྟོབས་ཀྱིས་དེའི་ལུས་ཀྱི་མཚན་མ་རྣམས་མཐར་གྱིས་མངོན་པར་གྲུབ་པ་ཞེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is said that, due to the force of this wind, the characteristics of its body gradually come into existence. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-173">
+    <prop type="location-id">UT22084-041-003-94</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་ཚེ་རབས་སྔ་མ་ལ་སྡིག་པ་མི་དགེ་བའི་ལས་རྣམས་མངོན་པར་འདུས་བྱས་ཤིང་ཡོ་བྱད་རྣམས་ལ་སེར་སྣས་ཕངས་ཤིང་སྦྱིན་པ་གཏོང་བར་མི་བྱེད་པ་དང་། ཕ་མ་དང་། མཁན་པོ་དང་། བླ་མའི་གནས་རྣམས་ཀྱིས་རྗེས་སུ་བསྟན་པ་ཉན་པར་མི་བྱེད་པ་ཞིག་ཡིན་ན་ནི་<tei:ref folio="F.243.a"/>ལས་དེའི་དབང་གིས་ཡིད་དུ་མི་འོང་བའི་ལུས་རྣམ་པ་སྣ་ཚོགས་འཐོབ་པར་འགྱུར་བས་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-94"/>If, in a former life, it engaged in bad and nonvirtuous actions—for example, not being charitable due to being stingy with and greedy for goods, and not listening to the teachings of spiritual masters, such as parents, teachers, and gurus —due to the force of those actions, it will obtain an undesirable body of one sort or another.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-174">
+    <prop type="location-id">UT22084-041-003-94</prop>
+    <tuv xml:lang="bo">
+                <seg>གལ་ཏེ་ལུས་རིང་ཞིང་སྦོམ་པ་དང་། ཚོ་ཞིང་དཀར་བ་དང་། མཉེན་པ་གང་ཡིན་པ་དེས་མཛེས་པར་གྱུར་ན་ནི་ལུས་ཐུང་ཞིང་ཕྲ་བ་དང་། རིད་ཅིང་གནག་པ་དང་། རྩུབ་པ་དག་འཐོབ་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If long and heavy, fleshy and white, and supple bodies are considered attractive, it will obtain a body that is short and thin, skinny and black, and hard.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-175">
+    <prop type="location-id">UT22084-041-003-94</prop>
+    <tuv xml:lang="bo">
+                <seg>གལ་ཏེ་ལུས་ཐུང་ཞིང་ཕྲ་བ་དང་། རིད་ཅིང་གནག་པ་དང་། རྩུབ་པ་གང་ཡིན་པ་དེས་མཛེས་པར་གྱུར་ན་ནི་ལུས་རིང་ཞིང་སྦོམ་པ་དང་། ཚོ་ཞིང་དཀར་བ་དང་། ཤིན་ཏུ་མཉེན་པ་དག་འཐོབ་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If short and thin, skinny and black, and hard bodies are considered attractive, it will obtain a body that is long and heavy, fleshy and white, and very supple.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-176">
+    <prop type="location-id">UT22084-041-003-94</prop>
+    <tuv xml:lang="bo">
+                <seg>གལ་ཏེ་ལུས་ཀྱི་ཡན་ལག་མཐོ་བ་དང་། དམའ་བ་དང་། མང་བ་དང་། ཉུང་བ་དང་། ཐགས་བཟང་བ་དང་། ཐགས་ངན་པས་མཛེས་པར་གྱུར་ན་ནི་མཐོ་བ་དང་། དམའ་བ་དང་། ཐགས་བཟང་བ་དང་། ཐགས་ངན་པ་དང་མི་ལྡན་པའི་ལུས་ཡང་དག་པར་ལེན་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If bodily parts are considered attractive because they are high, low, many, few, dense, or thin, it will not obtain a body that has high, low, many, few, dense, or thin bodily parts.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-177">
+    <prop type="location-id">UT22084-041-003-94</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞན་ཡང་འོན་པ་དང་། ལོང་བ་དང་། ལྐུགས་པ་དང་། རྐང་ལག་འཕྱེ་ཞིང་འགྲོ་བ་དང་། དབང་པོ་རྣམས་མ་ཚང་བ་དང་། ཚིག་སྨྲས་པ་གཞན་གྱིས་མཉན་པར་མི་འདོད་པ་དང་། ལུས་མི་སྡུག་ཅིང་ཡི་དགས་དང་འདྲ་བ་ཡང་དག་པར་ལེན་པར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Moreover, it will be deaf, blind, or dumb, move by crawling on its hands and feet, have impaired faculties, or have speech that others do not wish to listen to; or it will obtain an ugly body, like a preta.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-178">
+    <prop type="location-id">UT22084-041-003-94</prop>
+    <tuv xml:lang="bo">
+                <seg>སྡིག་པ་མི་དགེ་བའི་ལས་ཀྱི་དབང་གིས་ཡིད་དུ་མི་འོང་བའི་ལུས་རྣམ་པ་སྣ་ཚོགས་ལེན་པར་འགྱུར་བས་ཕ་མ་དང་། གཉེན་བཤེས་རྣམས་ཀྱིས་ཀྱང་མཐོང་བར་མི་འདོད་ན་གཞན་ལྟ་སྨོས་ཀྱང་ཅི་དགོས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Since it obtains an undesirable body of one sort or another due to its bad and nonvirtuous actions, not even its relatives and friends, to say nothing of other people, wish to see it. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-179">
+    <prop type="location-id">UT22084-041-003-95</prop>
+    <tuv xml:lang="bo">
+                <seg>གལ་ཏེ་ཚེ་རབས་སྔ་མ་ལ་དགེ་བ་བཅུའི་ལས་མངོན་པར་འདུས་བྱས་ཤིང་སྦྱིན་པ་ལེགས་པར་བཏང་བ་དང་། སེར་སྣ་དང་། གཡོ་སྒྱུའི་བསམ་པ་མེད་པ་དང་། ཕ་མ་དང་། མཁན་པོ་དང་། བླ་མའི་གནས་རྣམས་ཀྱིས་རྗེས་སུ་བསྟན་པ་དག་ལ་མངོན་པར་ཡིད་ཆེས་ཤིང་ཡང་དག་པར་བླངས་པ་ཞིག་ཡིན་ན་ནི་རྒྱུ་དང་རྐྱེན་དེས་གལ་ཏེ་མིའི་ལུས་ཐོབ་པར་གྱུར་ན་ཡང་གོང་དུ་བསྟན་པ་ལྟ་བུའི་སྡིག་པ་མི་དགེ་བའི་ལས་ལས་མངོན་པར་གྲུབ་པའི་ལུས་ལེན་པར་མི་འགྱུར་ཞིང་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-95"/>If, in a former life, it engaged in the ten virtuous actions—for example, being charitable and not being greedy or deceitful, and adopting with great conviction the teachings of spiritual masters, such as parents, teachers, and gurus—due to those causes and conditions, if it obtains a human body, it will not obtain a body that has come into existence as a result of the bad and nonvirtuous actions explained above.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-180">
+    <prop type="location-id">UT22084-041-003-95</prop>
+    <tuv xml:lang="bo">
+                <seg>གྱ་ནོམ་པ་རྣམ་པ་སྣ་ཚོགས་དང་ལྡན་པའི་ལུས་ཐོབ་པར་འགྱུར་བས་བྱང་བཞིན་མཛེས་པ་དང་། མཚན་རྣམས་དང་ལྡན་ཞིང་ཚིག་སྨྲས་པ་རྣམས་མང་པོ་ཀུན་གྱིས་མཉན་པར་འདོད་པའི་འོས་སུ་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Instead, by obtaining a body endowed with various types of auspiciousness, and having good qualities and an attractive countenance, it will be worthy of everyone’s wish to listen to whatever it says.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-181">
+    <prop type="location-id">UT22084-041-003-95</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟ་བས་ན་དགེ་བའི་ལས་ཀྱི་དབང་གིས་ཁྱད་པར་དུ་འཕགས་པའི་འབྲས་བུ་རྣམ་པར་སྨིན་པ་དེ་ལྟ་བུ་ཐོབ་པར་འགྱུར་བར་རིག་པར་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It should thus be understood that, due to the force of virtuous actions, the being in the womb will obtain the most excellent result. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-182">
+    <prop type="location-id">UT22084-041-003-96</prop>
+    <tuv xml:lang="bo">
+                <seg>།དགའ་བོ་དེ་ལྟ་བུའི་ལུས་དེ་ཡང་གལ་ཏེ་ཕོ་<tei:ref folio="F.243.b"/>ཡིན་ནི་མའི་མངལ་ན་གཡས་ཕྱོགས་སུ་ཙོག་པུར་འདུག་ལ། ལག་པ་གཉིས་ཀྱིས་གདོང་གཡོགས་ནས་མའི་སྒལ་ཚིགས་ལོགས་སུ་བལྟས་ཏེ་འདུག་གོ །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-96"/>Nanda, the body of this sort,<tei:note xml:id="UT22084-041-003-97"/> if it is male, squats on the right side of the mother’s womb and, covering its face with both hands, faces the mother’s spine.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-183">
+    <prop type="location-id">UT22084-041-003-96</prop>
+    <tuv xml:lang="bo">
+                <seg>གལ་ཏེ་མོ་ཡིན་ནི་རྩིབ་ལོགས་གཡོན་ཕྱོགས་ན་ཙོག་པུར་འདུག་ལ་ལག་པ་གཉིས་ཀྱིས་གདོང་གཡོགས་ནས་མའི་ལྟོ་བ་ལ་ཁ་བལྟས་ནས་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If it is female, it squats on the left side of the mother’s ribs and, covering its face with both hands, faces the mother’s belly.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-184">
+    <prop type="location-id">UT22084-041-003-96</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་ཞུ་བའི་གནས་ཀྱི་ནི་འོག །ཞུ་བའི་གནས་ཀྱི་ནི་སྟེང་ན་ནང་དུ་བཙོས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It cooks beneath the stomach and above the intestines.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-185">
+    <prop type="location-id">UT22084-041-003-96</prop>
+    <tuv xml:lang="bo">
+                <seg>རབ་ཏུ་བཙོས་ཤིང་གནས་ལྔ་ཀུན་ཏུ་བཅིངས་པས། འདི་ལྟ་སྟེ། དཔེར་ན་རྩྭའི་རྐྱལ་བའི་ནང་ན་འདུག་པ་དང་འདྲའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Boiling, it is bound in five places, as if it were in a straw<tei:note xml:id="UT22084-041-003-98"/> bag.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-186">
+    <prop type="location-id">UT22084-041-003-96</prop>
+    <tuv xml:lang="bo">
+                <seg>གལ་ཏེ་དེའི་མས་ཤིན་ཏུ་མང་དུ་ཟོས་སམ། ཤིན་ཏུ་ཉུང་ངུ་ཟོས་སམ། གལ་ཏེ་ཟས་ཤིན་ཏུ་མངར་བ་འམ། ཤིན་ཏུ་རྩུབ་པའམ། ཤིན་ཏུ་བསྐ་བའམ། ཤིན་ཏུ་སྣུམ་པའམ། ཤིན་ཏུ་ལན་ཚྭ་བྲོ་བའམ། ཤིན་ཏུ་ཁ་བའམ། ཤིན་ཏུ་སྐྱུར་བའམ། ཤིན་ཏུ་གྲང་བའམ། ཤིན་ཏུ་ཚ་བ་དག་ཟོས་པར་གྱུར་ཏམ། གཞན་ཡང་འདོད་ཆགས་སྤྱད་པར་གྱུར་ཏམ། དྲག་ཏུ་སོང་བའམ་མཆོངས་པ་བྱས་སམ། ཡུན་རིང་དུ་ཉལ་ལམ། ཡུན་རིང་དུ་འདུག་པར་གྱུར་ན་ཡང་། མངལ་ན་གནས་པ་དེ་སྡུག་བསྔལ་མྱོང་བར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If its mother eats too much or eats too little, or if she eats food that is too sweet, or too dry, or too astringent, or too oily, or too salty, or too bitter, or too sour, or too cold, or too hot, or, furthermore, if she engages in sexual activities, or moves violently, or jumps, or sleeps too long, or sits too long, the being in the womb will experience suffering.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-187">
+    <prop type="location-id">UT22084-041-003-96</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟ་བས་ན་མའི་མངལ་ན་གནས་པའི་ཚེ་སྡུག་བསྔལ་མང་པོ་དེ་ལྟ་བུ་དག་གིས་རབ་ཏུ་གཟིར་བར་རིག་པར་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore it should be understood that, at the time of living in the mother’s womb, the fetus is tormented by many types of suffering such as those.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-188">
+    <prop type="location-id">UT22084-041-003-96</prop>
+    <tuv xml:lang="bo">
+                <seg>།ངས་མིར་གྱུར་པའི་སྡུག་བསྔལ་མདོ་ཙམ་དུ་བསྟན་པ་ཡང་དེ་འདྲ་ན་སེམས་ཅན་དམྱལ་བ་རྣམས་ཀྱི་སྡུག་བསྔལ་དཔེར་བྱ་དཀའ་བལྟ་སྨོས་ཀྱང་ཅི་དགོས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If the suffering of one who becomes human that I have briefly explained is like that, what need is there to mention the suffering of beings born in hell, which is difficult to compare to anything?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-189">
+    <prop type="location-id">UT22084-041-003-96</prop>
+    <tuv xml:lang="bo">
+                <seg>མཁས་པ་སུ་ཞིག་འཁོར་བའི་རྒྱ་མཚོར་ལུས་འདི་ལྟ་བུ་ལ་རབ་ཏུ་མོས་པར་བྱེད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What wise person would yearn for such a body in the ocean of saṃsāra? “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-190">
+    <prop type="location-id">UT22084-041-003-99</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞག་བདུན་ཕྲག་ཉི་ཤུ་བརྒྱད་པ་ལ་མའི་མངལ་ན་གནས་པའི་ཚེ་ཕྱིན་ཅི་ལོག་གི་འདུ་ཤེས་རྣམ་པ་བརྒྱད་འབྱུང་བར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-99"/>While the being in the mother’s womb is in the twenty-eighth week, eight mistaken perceptions will arise.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-191">
+    <prop type="location-id">UT22084-041-003-99</prop>
+    <tuv xml:lang="bo">
+                <seg>བརྒྱད་གང་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What are the eight?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-192">
+    <prop type="location-id">UT22084-041-003-99</prop>
+    <tuv xml:lang="bo">
+                <seg/>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are these eight perceptions:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-193">
+    <prop type="location-id">UT22084-041-003-99</prop>
+    <tuv xml:lang="bo">
+                <seg>བཞོན་པའི་འདུ་ཤེས་དང་། ཁང་བུ་བརྩེགས་པའི་འདུ་ཤེས་དང་། ཁྲི་སྟན་གྱི་འདུ་ཤེས་དང་། ཆུ་མིག་གི་འདུ་ཤེས་དང་། རྫིང་གི་འདུ་ཤེས་དང་། ཆུ་བོའི་འདུ་ཤེས་དང་། ཀུན་དགའ་ར་བའི་འདུ་ཤེས་དང་། སྐྱེད་མོས་ཚལ་གྱི་འདུ་ཤེས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>the perception of a vehicle, the perception of a penthouse, the perception of a couch, the perception of a spring, the perception of a pond, the perception of a river, the perception of a pleasure garden, and the perception of a grove.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-194">
+    <prop type="location-id">UT22084-041-003-99</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ནི་འདུ་ཤེས་རྣམ་པ་བརྒྱད་ཅེས་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These are the eight perceptions. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-195">
+    <prop type="location-id">UT22084-041-003-100</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་ཉི་ཤུ་དགུ་པ་ལ་མའི་མངལ་ན་གནས་པའི་ཚེ་ཡང་ལས་ཀྱི་རླུང་མངོན་པར་གྲུབ་པ་གང་ཡིན་པ་དེ་ནི་མེ་ཏོག་ཕྲེང་བ་ཞེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-100"/>While the being in the mother’s womb is in the twenty-ninth week, again a karmic wind, flower garland, comes into existence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-196">
+    <prop type="location-id">UT22084-041-003-100</prop>
+    <tuv xml:lang="bo">
+                <seg>རླུང་དེའི་སྟོབས་ཀྱིས་མངལ་ན་གནས་པ་དེའི་ལུས་ཀྱི་པགས་པའི་མདོག་ཀུན་ཏུ་བཟང་ཞིང་<tei:ref folio="F.244.a"/>མཚན་མ་རྣམས་རབ་ཏུ་གསལ་བར་བྱེད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The force of this wind makes the complexion of the being in the womb excellent and makes its features very clear.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-197">
+    <prop type="location-id">UT22084-041-003-100</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐ མས་ཅད་ཀྱང་འདས་པའི་དུས་སུ་ལས་རྣམས་མངོན་པར་འདུས་བྱས་པའི་བྱེ་བྲག་མི་མཚུངས་པས་རྣམ་པ་ཇི་ལྟ་བ་བཞིན་དུ་ཁ་དོག་རྣམ་པ་སྣ་ཚོགས་དང་ལྡན་པར་འགྱུར་བས་ཁ་ཅིག་ནི་ཁ་དོག་དཀར་པོར་འགྱུར། ཁ་ཅིག་ནི་ཁ་དོག་ནག་པོར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Because all beings have engaged in different types of action in the past, they will accordingly have various types of complexion.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-198">
+    <prop type="location-id">UT22084-041-003-100</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁ་ཅིག་ནི་ཁ་དོག་དཀར་བ་ཡང་མ་ཡིན། གནག་པ་ཡང་མ་ཡིན་པར་འགྱུར། ཁ་ཅིག་ནི་ཁ་དོག་སྔོན་པོར་འགྱུར། ཁ་ཅིག་ནི་ཁ་དོག་རྩུབ་ཅིང་སྐམ་པར་འགྱུར། ཁ་ཅིག་ནི་ཁ་དོག་སྣུམ་པར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Some will be white, some will be black, some will be neither white nor black, some will be blue, some will be rough and dry, and some will be smooth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-199">
+    <prop type="location-id">UT22084-041-003-100</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟ་བུའི་ཁ་དོག་གི་མཚན་ཉིད་དང་ལྡན་པར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will have complexion characteristics of these sorts. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-200">
+    <prop type="location-id">UT22084-041-003-101</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་སུམ་ཅུ་པ་ལ་མའི་མངལ་ན་གནས་པའི་ཚེ་ཡང་ལས་ཀྱི་རླུང་མངོན་པར་གྲུབ་པ་གང་ཡིན་པ་དེ་ནི་ལྕགས་ཀྱི་སྒོ་ཞེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-101"/>While the being in the mother’s womb is in the thirtieth week, again a karmic wind, iron aperture, comes into existence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-201">
+    <prop type="location-id">UT22084-041-003-101</prop>
+    <tuv xml:lang="bo">
+                <seg>རླུང་དེའི་སྟོབས་ཀྱིས་དེའི་སྐྲ་དང་། སྤུ་དང་། སེན་མོ་རྣམས་རབ་ཏུ་སྐྱེད་པ་དང་། ཁ་དོག་དཀར་ནག་རྣམས་རབ་ཏུ་གསལ་བར་བྱེད་དེ་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The force of this wind increases the hair, bodily hair, and nails, and it clarifies white and black complexions.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-202">
+    <prop type="location-id">UT22084-041-003-101</prop>
+    <tuv xml:lang="bo">
+                <seg>ལས་ཀྱི་རྐྱེན་གྱིས་མཚན་མ་འདི་དང་འདི་དག་འབྱུང་བར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These features will appear due to karmic conditions. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-203">
+    <prop type="location-id">UT22084-041-003-102</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་སུམ་ཅུ་གཅིག་པ་ནས་ཞག་བདུན་ཕྲག་སུམ་ཅུ་ལྔ་པའི་བར་དུ་མའི་མངལ་ན་གནས་པའི་ཚེ་ནི་ལུས་ཀྱི་མཚན་མ་རྣམས་ཆེར་སྐྱེ་བར་འགྱུར་བས་མཐར་གྱིས་ལུས་ཀྱི་ཡན་ལག་ཕུན་སུམ་ཚོགས་ཤིང་ཡངས་པར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-102"/>While the being in the mother’s womb is in the thirty-first week through the thirty-fifth week, the features of the body will grow, and the parts of the body will gradually become enlarged and complete. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-204">
+    <prop type="location-id">UT22084-041-003-103</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་སུམ་ཅུ་དྲུག་པ་ལ་མའི་མངལ་ན་གནས་པའི་ཚེ་ནི་དེ་འབྱུང་བའི་བསམ་པ་སྐྱེ་བས་མངོན་པར་མི་དགའ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-103"/>While the being in the mother’s womb is in the thirty-sixth week, it gives rise to a thought of emerging from the womb and becomes very unhappy. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-205">
+    <prop type="location-id">UT22084-041-003-104</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་སུམ་ཅུ་བདུན་པ་ལ་མའི་མངལ་ན་གནས་པའི་ཚེ་ནི་ཕྱིན་ཅི་ལོག་ཏུ་མ་གྱུར་པའི་འདུ་ཤེས་རྣམ་པ་ལྔ་འབྱུང་བར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-104"/>While the being in the mother’s womb is in the thirty-seventh week, five unmistaken perceptions will arise.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-206">
+    <prop type="location-id">UT22084-041-003-104</prop>
+    <tuv xml:lang="bo">
+                <seg>།ལྔ་གང་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What are the five?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-207">
+    <prop type="location-id">UT22084-041-003-104</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་གཙང་བའི་འདུ་ཤེས་དང་། དྲི་མི་ཞིམ་པའི་འདུ་ཤེས་དང་། བཙོན་རའི་འདུ་ཤེས་དང་། མུན་ནག་གི་འདུ་ཤེས་དང་། ཡོངས་སུ་སྐྱོ་ནས་ཕྱིར་འབྱུང་བའི་འདུ་ཤེས་སྐྱེ་བ་གང་ཡིན་པ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are a perception of dirtiness, the perception of a foul smell, the perception of a prison, the perception of darkness, and the perception of emerging due to great weariness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-208">
+    <prop type="location-id">UT22084-041-003-104</prop>
+    <tuv xml:lang="bo">
+                <seg>མངལ་ན་གནས་པ་དེ་ཡོངས་སུ་སྐྱོ་བའི་བསམ་པ་དེ་ལྟ་བུ་དག་སྐྱེ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The being in the womb gives rise to these sorts of thoughts of great weariness. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-209">
+    <prop type="location-id">UT22084-041-003-105</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་སུམ་ཅུ་བརྒྱད་པ་ལ་མའི་མངལ་ན་གནས་པའི་ཚེ་ཡང་ལས་ཀྱི་རླུང་མངོན་པར་གྲུབ་པ་གང་ཡིན་པ་དེ་ནི་ཐོགས་པའི་རྐྱེན་ཅེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-105"/>While the being in the mother’s womb is in the thirty-eighth week, again a karmic wind, seized conditions,<tei:note xml:id="UT22084-041-003-106"/> comes into existence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-210">
+    <prop type="location-id">UT22084-041-003-105</prop>
+    <tuv xml:lang="bo">
+                <seg>རླུང་དེའི་སྟོབས་ཀྱིས་དེ་རབ་ཏུ་སྒྱུར་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The force of this wind makes it turn over.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-211">
+    <prop type="location-id">UT22084-041-003-105</prop>
+    <tuv xml:lang="bo">
+                <seg>།གཞན་ཡང་ཁ་ཐུར་དུ་ལྟ་བ་ཞེས་བྱ་བའི་རླུང་འབྱུང་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Furthermore, a wind called facing down arises.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-212">
+    <prop type="location-id">UT22084-041-003-105</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་མགོ་ཐུར་དུ་ལྟ་ཞིང་ལག་པ་གཉིས་བརྐྱང་སྟེ། མཐར་གྱིས་འབྱུང་བར་འདོད་པར་འགྱུར་རོ། །<tei:ref folio="F.244.b"/>
+                </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The being in the womb, upside down, extends its two arms and gradually wishes to emerge from the womb.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-213">
+    <prop type="location-id">UT22084-041-003-105</prop>
+    <tuv xml:lang="bo">
+                <seg>མངལ་ན་གནས་པ་དེ་གལ་ཏེ་ཚེ་རབས་སྔ་མ་ལ་མངལ་དུ་འཆི་བར་འགྱུར་བའི་ལས་བསགས་པ་ཞིག་ཡིན་ན་ནི་དེའི་ལག་པ་དང་རྐང་པ་སྣོལ་མར་གྱུར་ནས་སྒྱུར་མི་ནུས་པས་སྡིག་པ་མི་དགེ་བའི་ལས་ཀྱི་རྐྱེན་གྱིས་མའི་མངལ་ཉིད་དུ་འཆི་བའི་དུས་བྱེད་པར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If the being in the womb accumulated karma in previous lives that would result in its dying in the womb, it will be unable to turn over because its arms and legs become intertwined, and it will die in its mother’s womb on account of its sinful, nonvirtuous karma.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-214">
+    <prop type="location-id">UT22084-041-003-105</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་མ་ཡང་དེའི་ཚེ་སྡུག་བསྔལ་ཆེན་པོ་མྱོང་བའམ། ཡང་ན་འཆི་བའི་དུས་བྱེད་པར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And at that time, the mother, too, will experience great suffering or die.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-215">
+    <prop type="location-id">UT22084-041-003-105</prop>
+    <tuv xml:lang="bo">
+                <seg>།གལ་ཏེ་ཚེ་རབས་སྔ་མ་ལ་དགེ་བའི་ལས་རྣམས་མངོན་པར་འདུས་བྱས་ཤིང་ཚེ་རིང་པོར་འགྱུར་བའི་རྒྱུ་བསགས་པ་ཞིག་ཡིན་ན་ནི་བཙས་སུ་ཉེ་བའི་ཚེ་མ་དང་། བུ་གཉི་ག་རབ་ཏུ་བདེ་ཞིང་སྡིག་པ་མི་དགེ་བའི་ལས་ཀྱི་སྡུག་བསྔལ་གོང་མ་ལྟ་བུ་མེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If, in previous lives, it engaged in virtuous actions and accumulated the causes that would result in a long life, when birth is imminent, both mother and child will be very happy and will not have such suffering that results from sinful, nonvirtuous karma.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-216">
+    <prop type="location-id">UT22084-041-003-105</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞག་བདུན་ཕྲག་སུམ་ཅུ་རྩ་བརྒྱད་འདས་ནས་མངལ་ནས་འབྱུང་བར་འདོད་པའི་ཚེ། སྡུག་བསྔལ་སྣ་ཚོགས་མྱོང་ནས་གདོད་འབྱུང་བར་འགྱུར་བ་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When thirty-eight weeks have passed and the being in the womb desires to emerge, it will experience various sufferings when it first emerges.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-217">
+    <prop type="location-id">UT22084-041-003-105</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཕྱིར་ལུས་འདི་ལྟ་བུ་ལེན་པ་འདི་ནི་ཡང་དག་པར་སྡུག་བསྔལ་ཆེན་པོ་ཡིན་པར་རིག་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, it should be understood that receiving this body is great suffering. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-218">
+    <prop type="location-id">UT22084-041-003-107</prop>
+    <tuv xml:lang="bo">
+                <seg>དང་པོ་མངལ་ནས་འབྱུང་བའི་ཚེ་ཁྱེའུ་འུ་འམ། བུ་མོ་ཡང་རུང་སྟེ། ས་ལ་ལྷུང་མ་ཐག་ཏུ་ལག་པས་བཟུང་ངམ། གོས་ཀྱིས་བླངས་སམ། ཁྲི་ལ་བཞག་གམ། ཁང་པའི་ནང་དུ་བཞག་གམ། ས་ལ་བཞག་གམ། བླ་གབ་མེད་པར་བཞག་གམ། ཉི་མ་ལ་བཞག་གམ། དགུན་ནམ། དབྱར་གྱི་དུས་སུ་གྲང་བ་དང་། ཚ་བའི་རླུང་གིས་བཙས་མ་ཐག་པའི་ལུས་དེ་ལ་རེག་པར་གྱུར་ན་ཡང་སྡུག་བསྔལ་ཆེན་པོ་མྱོང་བར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-107"/>When the infant first emerges from the womb—whether it is a son or a daughter, as soon as it falls to the ground, whether it is taken in the hands, or received in a cloth, or placed on a couch, or placed in a house, or placed on the ground, or placed in the open, or placed in the sun, in winter or summer—when the newborn body is touched by a cold or hot wind, it will experience great suffering.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-219">
+    <prop type="location-id">UT22084-041-003-107</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ། དཔེར་ན་བ་ལང་གསོན་པོར་བཤུས་པ་རྩིག་པ་ལ་རེག་གམ། བླ་གབ་མེད་པའི་ཐང་ལ་ལྷུང་བར་གྱུར་ན་སྲོག་ཆགས་དག་གིས་ཟ་བར་འགྱུར་བའམ། གཞན་ཡང་འདི་ལྟ་སྟེ། དཔེར་ན་མི་ཞིག་ལ་སྦྲང་བུ་མཆུ་རིངས་རྣམས་ཀྱིས་ཟ་བ་ལ་ཡང་ལྕག་གིས་གཞུས་པ་དེ་བཞིན་དུ་དང་པོ་མངལ་ནས་བྱུང་བའི་ཚེ་ཆུ་དྲོན་པོ་དག་གིས་ལུས་བཀྲུས་པས་རེག་པའི་སྡུག་བསྔལ་མྱོང་བ་ཡང་དེ་དང་འདྲའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The pain experienced by the infant due to being washed with hot water when it first emerges from the womb is just like that of an ox, skinned alive, that brushes against a wall or, falling on the bare ground, is eaten by insects. Alternatively, it is like that of a man who is eaten by mosquitoes or is beaten with a whip.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-220">
+    <prop type="location-id">UT22084-041-003-107</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཙས་ནས་མཐར་གྱིས་ཆེར་འགྱུར་བ་དང་། མའི་ལུས་ལས་ཁྲག་དང་འདྲེས་པའི་ནུ་ཞོ་བྱུང་ནས་གསོ་བར་བྱེད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>After being born, the infant gradually grows larger and is nourished by milk mixed with blood that comes from the mother’s body.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-221">
+    <prop type="location-id">UT22084-041-003-107</prop>
+    <tuv xml:lang="bo">
+                <seg>ངས་སྔར་མདོ་སྡེ་གཞན་དག་ལས་རྒྱ་ཆེར་བསྟན་པ་ཡིན་ནོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I have previously taught this at length in other sūtras.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-222">
+    <prop type="location-id">UT22084-041-003-107</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ལྟ་བས་ན་ལུས་འདི་ནི་མི་གཙང་བ་དང་། སྡུག་བསྔལ་མང་པོ་ལས་མངོན་པར་གྲུབ་པ་ཡིན་པས་མཁས་པ་སུ་ཞིག་འཁོར་བ་ན་འདི་འདྲ་བའི་ལུས་ལ་རྗེས་སུ་ཆགས་པར་བྱེད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thus, since this body is filthy and is formed from much suffering, what wise person would desire this sort of body in saṃsāra? “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-223">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞན་ཡང་དགའ་བོ་<tei:ref folio="F.245.a"/>དང་པོ་མངལ་ནས་བྱུང་ནས་ཞག་བདུན་ལོན་པ་དང་། སྲོག་ཆགས་སྲིན་བུའི་རིགས་སྟོང་ཕྲག་བརྒྱད་ཅུ་ལུས་ལས་སྐྱེས་ནས་དེ་ལས་ཟ་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-108"/>Furthermore, Nanda, a week after the infant emerges from the womb, eighty thousand types of worm arise in the body and feed on it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-224">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐྲ་ལ་ཟ་བ་ཞེས་བྱ་བའི་སྲིན་བུའི་རིགས་གཉིས་ཡོད་དེ་སྐྲ་ལ་གནས་ནས་སྐྲ་ལ་ཟ་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There are two types of worm called hair eater that live in and feed on the hair.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-225">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྲིན་བུའི་རིགས་གཉིས་ནི་མིག་ལ་གནས་ནས་མིག་ལ་ཟ་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Two types of worm live in and feed on the eyes.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-226">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྲིན་བུའི་རིགས་པ་ཧ་ན་དང་། རྐན་ལྡན་དང་། ནད་སློང་དང་། ཡོངས་སུ་རྫོགས་པ་ཞེས་བྱ་བ་བཞི་ཡོད་དེ་ཀླད་པ་ལ་གནས་ནས་ཀླད་པ་ལ་ཟ་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There are four types of worm, saddle horse,<tei:note xml:id="UT22084-041-003-109"/>having a palate,<tei:note xml:id="UT22084-041-003-110"/>provoking illness, and completion, that live in and feed on the brains.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-227">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྲིན་བུའི་རིགས་སཱ་ལུ་ནག་པོའི་ལོ་མ་ཞེས་བྱ་བ་གཅིག་ཡོད་དེ་རྣ་བ་ལ་གནས་ནས་རྣ་བ་ལ་ཟ་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There is a type of worm, black rice, that lives in and feeds on the ears.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-228">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྲིན་བུའི་རིགས་མཛོད་སྒོ་ཞེས་བྱ་བ་གཅིག་ཡོད་དེ་སྣ་ལ་གནས་ནས་སྣ་ལ་ཟ་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There is a type of worm, treasury opening, that lives in and feeds on the nose.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-229">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྲིན་བུའི་རིགས་འཕེན་པ་དང་། ཀུན་ཏུ་འཕེན་པ་ཞེས་བྱ་བ་གཉིས་ཡོད་དེ་མཆུ་ལ་གནས་ནས་མཆུ་ལ་ཟ་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There are two types of worm, throwing and throwing everywhere, that live in and feed on the lips.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-230">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྲིན་བུའི་རིགས་ཁབ་མཆུ་ཞེས་བྱ་བ་གཅིག་ཡོད་དེ་ལྕེ་ལ་གནས་ནས་ལྕེ་ལ་ཟ་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There is a type of worm, needle lips,<tei:note xml:id="UT22084-041-003-111"/> that lives in and feeds on the tongue.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-231">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྲིན་བུའི་རིགས་ཁ་རྣོ་ཞེས་བྱ་བ་གཅིག་ཡོད་དེ་ལྕེའི་དྲུང་ན་གནས་ནས་ལྕེའི་དྲུང་ལ་ཟ་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There is a type of worm, sharp mouth, that lives in and feeds on the root of the tongue.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-232">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྲིན་བུའི་རིགས་ལག་རྫོགས་ཞེས་བྱ་བ་གཅིག་ཡོད་དེ་རྐན་ལ་གནས་ནས་རྐན་ལ་ཟ་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There is a type of worm, perfect arm, that lives in and feeds on the palate.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-233">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྲིན་བུའི་རིགས་ལག་པ་དྲ་བ་ཅན་དང་། ཕྱེད་སྒྱུར་ཞེས་བྱ་བ་གཉིས་ཡོད་དེ་ལག་མཐིལ་ལ་གནས་ནས་ལག་མཐིལ་ལ་ཟ་བར་བྱེད་དོ། །སྲིན་བུའི་རིགས་དཔུང་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There are two types of worm, webbed hand<tei:note xml:id="UT22084-041-003-112"/> and half bent, that live in and feed on the palms of the hands.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-234">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>ཉེ་བའི་དཔུང་པ་ཞེས་བྱ་བ་གཉིས་ཡོད་དེ་དཔུང་པ་ལ་གནས་ནས་དཔུང་པ་ལ་ཟ་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There are two types of worm, upper arm and lower arm, that live in and feed on the arms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-235">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྲིན་བུའི་རིགས་ལྕགས་ཅན་དང་ཉེ་བའི་ལྕགས་ཅན་ཞེས་བྱ་བ་གཉིས་ཡོད་དེ་མིད་པ་ལ་གནས་ནས་མིད་པ་ལ་ཟ་བར་བྱེད་དོ། །སྲིན་བུའི་རིགས་རྡོ་རྗེ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There are two types of worm, having iron and having near-iron, that live in and feed on the throat.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-236">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>རྡོ་རྗེ་ཆེན་པོ་ཞེས་བྱ་བ་གཉིས་ཡོད་དེ་སྙིང་ལ་གནས་ནས་སྙིང་ལ་ཟ་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There are two types of worm, thunderbolt and great thunderbolt, that live in and feed on the heart.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-237">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྲིན་བུའི་རིགས་དམན་པ་དང་། དམན་པའི་ཁ་ཞེས་བྱ་བ་གཉིས་ཡོད་དེ་ཤ་ལ་གནས་ནས་ཤ་ལ་ཟ་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There are two types of worm, weak and weak mouth, that live in and feed on the flesh.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-238">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྲིན་བུའི་རིགས་ཁ་དོག་ལྡན་དང་། གྲགས་ལྡན་ཞེས་བྱ་བ་གཉིས་ཡོད་དེ་ཁྲག་ལ་གནས་ནས་ཁྲག་ལ་འཐུང་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There are two types of worm, colorful and renowned, that live in and drink the blood.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-239">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྲིན་བུའི་རིགས་དཔའ་བོ་དང་། དྲི་གཏོང་ཞེས་བྱ་བ་གཉིས་ཡོད་དེ་ཆུ་བ་ལ་གནས་ནས་ཆུ་བ་ལ་ཟ་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There are two types of worm, hero and fragrance face, that live in and feed on the ligaments.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-240">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྲིན་བུའི་རིགས་མི་མཐོ་བ་དང་། ཁས་སྤུབ་ཅེས་བྱ་བ་གཉིས་ཡོད་དེ་རྒྱབ་ཀྱི་རྒལ་ཚིགས་ལ་གནས་ནས་རྒྱབ་ཀྱི་རྒལ་ཚིགས་ལ་ཟ་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There are two types of worm, low and upside down, that live in and feed on the spine.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-241">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྲིན་བུའི་རིགས་ཚིལ་གྱི་<tei:ref folio="F.245.b"/>ཁ་དོག་ཅེས་བྱ་བ་གཅིག་ཡོད་དེ་ཚིལ་ལ་གནས་ནས་ཚིལ་ལ་ཟ་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There is a type of worm, fat color, that lives in and feeds on the fat.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-242">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྲིན་བུའི་རིགས་མཁྲིས་པའི་ཁ་དོག་ཅེས་བྱ་བ་གཅིག་ཡོད་དེ་མཁྲིས་པ་ལ་གནས་ནས་མཁྲིས་པ་ལ་ཟ་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There is a type of worm, bile color, that lives in and feeds on the bile.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-243">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྲིན་བུའི་རིགས་མུ་ཏིག་ཅེས་བྱ་བ་གཅིག་ཡོད་དེ་མཆིན་པ་ལ་གནས་ནས་མཆིན་པ་ལ་ཟ་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There is a type of worm, pearl, that lives in and feeds on the liver.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-244">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྲིན་བུའི་རིགས་འདམ་བུ་ཞེས་བྱ་བ་གཅིག་ཡོད་དེ་མཚེར་པ་ལ་གནས་ནས་མཚེར་པ་ལ་ཟ་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There is a type of worm, reed, that lives in and feeds on the spleen.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-245">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྲིན་བུའི་རིགས་ལྔ་བརྒྱ་ཡོད་དེ་རིགས་བརྒྱ་ནི་ཟླ་བ་ཞེས་བྱའོ། །རིགས་བརྒྱ་ནི་ཟླ་བའི་ཁ་ཞེས་བྱའོ། །རིགས་བརྒྱ་ནི་བསིལ་བྱེད་ཅེས་བྱའོ། །རིགས་བརྒྱ་ནི་བསིལ་བྱེད་གཏོང་ཞེས་བྱའོ། །རིགས་བརྒྱ་ནི་ཡངས་པ་ཞེས་བྱ་སྟེ། རྩིབ་ལོགས་གཡོན་པ་ལ་གནས་ནས་རྩིབ་ལོགས་གཡོན་པ་ལ་ཟ་བར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There are five hundred types of worm that live in and feed on the left side: one hundred types called moon; one hundred types called moon face; one hundred types called moonlight; one hundred types called moonlight face; and one hundred types called vast.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-246">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞན་ཡང་སྲིན་བུའི་རིགས་ལྔ་བརྒྱ་ཡོད་པ་ཡང་མིང་གོང་མ་དང་འཐུན་ཏེ། རྩིབ་ལོགས་གཡས་པ་ལ་གནས་ནས་རྩིབ་ལོགས་གཡས་པ་ལ་ཟ་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Furthermore, there are another five hundred types of worm, with names agreeing with those above, that live in and feed on the right side.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-247">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྲིན་བུའི་རིགས་ཅུང་ཟད་འབིགས་པ་དང་། ཆེར་འབིགས་པ་དང་། རུས་པ་འབིགས་པ་དང་། རུས་པའི་གདོང་ཞེས་བྱ་བ་བཞི་ཡོད་དེ་རུས་པ་ལ་གནས་ནས་རུས་པ་ལ་ཟ་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There are four types of worm, slightly piercing, greatly piercing, bone piercing, and bone face, that live in and feed on the bones.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-248">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྲིན་བུའི་རིགས་ཆེར་དཀར་བ་དང་། ཅུང་ཟད་དཀར་བ་དང་། སྣུམ་པའི་སྟོབས་དང་། སྟག་ལམ་ཞེས་བྱ་བ་བཞི་ཡོད་དེ་རྩ་རྒྱུས་ལ་གནས་ནས་རྩ་རྒྱུས་ལ་ཟ་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There are four types of worm, greatly white, slightly white, smell power, and tiger path, that live in and feed on the tendons.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-249">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྲིན་བུའི་རིགས་མོས་པའི་ཡིད་དང་། སེང་གེའི་སྟོབས་དང་། རི་བོང་ལྟོ་དང་། འདོད་པ་ལ་མངོན་པར་ཞེན་པ་ཞེས་བྱ་བ་བཞི་ཡོད་དེ་མ་ཞུ་བའི་གནས་ལ་གནས་ནས་མ་ཞུ་བའི་གནས་ལ་ཟ་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There are four types of worm, determined mind, lion power, rabbit belly, and clinging to desire, that live in and feed on the stomach.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-250">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྲིན་བུའི་རིགས་དཔའ་བོ་དང་། དཔའ་བོའི་བདག་པོ་ཞེས་བྱ་བ་གཉིས་ཡོད་དེ་ཞུ་བའི་གནས་ལ་གནས་ནས་ཞུ་བའི་གནས་ལ་ཟ་བར་བྱེད་དོ། །སྲིན་བུའི་རིགས་མུ་ཁ་དང་། དྲ་བ་ཁ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There are two types of worm, hero and lord of heroes, that live in and feed on the intestines.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-251">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕུང་པོའི་ཁ་དང་། བྱེའུ་ཁ་ཞེས་བྱ་བ་བཞི་ཡོད་དེ་གཅི་བའི་ལམ་ལ་གནས་ནས་གཅི་བའི་ལམ་ལ་ཟ་བར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There are four types of worm, mouth,<tei:note xml:id="UT22084-041-003-113"/>net mouth, mass mouth, and little bird mouth, that live in and feed on the urethra.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-252">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>སྲིན་བུའི་རིགས་བྱེད་པ་དང་། བྱེད་པ་ཆེན་པོ་དང་། ཕྱི་མ་དང་། པོ་ཏ་ར་ཀ་ཞེས་བྱ་བ་བཞི་ཡོད་དེ་བཤང་བའི་ལམ་ལ་གནས་ནས་བཤང་བའི་ལམ་ལ་ཟ་བར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There are four types of worm, action, big action, dust, and small bundle,<tei:note xml:id="UT22084-041-003-114"/> that live in and feed on the anus.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-253">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>སྲིན་བུའི་རིགས་གདོང་གནག་དང་། འཇིགས་སུ་རུང་བའི་གདོང་ཞེས་བྱ་བ་གཉིས་ཡོད་དེ་བརླ་ལ་གནས་ནས་བརླ་ལ་ཟ་བར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There are two types of worm, black face and scary face, that live in and feed on the thighs.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-254">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>སྲིན་བུའི་རིགས་མཛེ་ཅན་དང་། མཛེ་ཅན་ཆུང་ངུ་ཞེས་བྱ་བ་གཉིས་ཡོད་དེ་པུས་མོ་<tei:ref folio="F.246.a"/>ལ་གནས་ནས་པུས་མོ་ལ་ཟ་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There are two types of worm, leprous and slightly leprous, that live in and feed on the knees.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-255">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྲིན་བུའི་རིགས་མྱོས་པའི་རྩ་བ་ཞེས་བྱ་བ་གཅིག་ཡོད་དེ་བྱིན་པ་ལ་གནས་ནས་བྱིན་པ་ལ་ཟ་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There is a type of worm, root of madness, that lives in and feeds on the lower legs.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-256">
+    <prop type="location-id">UT22084-041-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྲིན་བུའི་རིགས་མགོ་ནག་ཅེས་བྱ་བ་གཅིག་ཡོད་དེ་རྐང་པ་ལ་གནས་ནས་རྐང་པ་ལ་ཟ་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There is a type of worm, black head, that lives in and feeds on the feet. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-257">
+    <prop type="location-id">UT22084-041-003-115</prop>
+    <tuv xml:lang="bo">
+                <seg>།དགའ་བོ་ངས་དེང་ཁྱོད་ལ་སྲིན་བུའི་རིགས་སྟོང་ཕྲག་བརྒྱད་ཅུ་ལུས་འདི་ལ་གནས་ནས་ཉིན་མཚན་དུ་ཟ་བར་བྱེད་པས་ཉམས་སྟོབས་ཆུང་ཞིང་མདོག་ངན་པར་བྱེད་པ་དང་། ནད་ཀྱི་སྡུག་བསྔལ་རྣམ་པ་སྣ་ཚོགས་ལུས་འདི་ལ་འདུས་ནས་གཞན་ཡང་དེའི་སེམས་གདུང་བ་དང་། རབ་ཏུ་གདུང་བ་དང་། ཡོངས་སུ་གདུང་བར་བྱེད་པས་སྨན་པ། མཁས་པ་ཡོད་ཀྱང་། དེ་ལ་རྨོངས་ནས་སྨན་གང་གིས་ནད་འདི་དག་གསོ་བར་ནུས་པ་ཤེས་པར་མི་འགྱུར་བ་མདོར་བསྟན་པ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-115"/>Nanda, I have now instructed you briefly about the eighty thousand types of worm that inhabit this body, feeding on it day and night and making it physically weak and badly complexioned, along with the various types of suffering from illnesses, which gather in this body and also torment, strongly torment, and completely torment a person’s mind—so that even if there were a skillful doctor, he would be confused, not knowing how to treat these illnesses with any medicine.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-258">
+    <prop type="location-id">UT22084-041-003-115</prop>
+    <tuv xml:lang="bo">
+                <seg>མཁས་པ་སུ་ཞིག་འཁོར་བའི་རྒྱ་མཚོར་འདི་འདྲ་བའི་ལུས་ལ་རྗེས་སུ་ཆགས་པར་བྱེད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What wise person would desire this sort of body in the ocean of saṃsāra? “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-259">
+    <prop type="location-id">UT22084-041-003-116</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞན་ཡང་དགའ་བོ་དང་པོ་བཙས་ནས་ཆེར་སྐྱེ་བར་འགྱུར་བའི་བར་དུ་གོས་དང་ཟས་ཀྱིས་གསོས་ནས། ལུས་འདི་མངོན་པར་གྲུབ་པར་གྱུར་ཀྱང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-116"/>Furthermore, Nanda, from the time it is born until it is fully grown, this body is sustained by clothing and food, and it becomes fully developed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-260">
+    <prop type="location-id">UT22084-041-003-116</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཚེའི་ཚད་ལོ་བརྒྱ་ཐུབ་པ་ཡང་ཡོད་དེ་དེ་བས་ཐུང་བ་ཡང་ཡོད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Its lifespan can be one hundred years, or it can be shorter than that.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-261">
+    <prop type="location-id">UT22084-041-003-116</prop>
+    <tuv xml:lang="bo">
+                <seg>།ལོ་བརྒྱ་པོ་དེ་ཡང་དུས་སུམ་བརྒྱར་འགྱུར་རོ། །འདི་ལྟ་སྟེ། དཔྱིད་དང་། དབྱར་དང་། དགུན་གྱི་དུས་གང་ཡིན་པའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Those one hundred years will add up to three hundred seasons, namely spring, summer, and winter.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-262">
+    <prop type="location-id">UT22084-041-003-116</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ལས་དཔྱིད་གང་ཡིན་པ་དེ་ནི་ཚེ་བའི་དུས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Spring is the hot season.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-263">
+    <prop type="location-id">UT22084-041-003-116</prop>
+    <tuv xml:lang="bo">
+                <seg>།དབྱར་གང་ཡིན་པ་དེ་ནི་ཆར་འབབ་པའི་དུས་སོ། །དགུན་གང་ཡིན་པ་དེ་ནི་གྲང་བའི་དུས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Summer is the rainy season. Winter is the cold season.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-264">
+    <prop type="location-id">UT22084-041-003-116</prop>
+    <tuv xml:lang="bo">
+                <seg>།དུས་གསུམ་པོ་དེ་དག་རེ་རེ་ལ་ཡང་ཟླ་བ་བཞི་བཞི་ཡོད་པས་ལོ་གཅིག་ལ་ནི་ཟླ་བ་བཅུ་གཉིས་ཡོད་པར་འགྱུར་ལ་ལོ་བརྒྱ་ལ་ནི་ཟླ་བ་སྟོང་ཉིས་བརྒྱ་ཡོད་པར་འགྱུར་བས་ཟླ་བ་ཡར་གྱི་ངོ་དཀར་པོ་དང་། ཟླ་བ་མར་གྱི་ངོ་ནག་པོས་ཕྱེ་ན་ནི་ཉིས་སྟོང་བཞི་བརྒྱར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The three seasons have four months each, so there are twelve months in one year, and twelve hundred months in one hundred years; and if we differentiate the white face of the waxing moon and the dark face of the waning moon, there are twenty-four hundred fortnights.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-265">
+    <prop type="location-id">UT22084-041-003-116</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལ་ཉིན་མཚན་ནི་སྟོང་ཕྲག་སུམ་ཅུ་རྩ་དྲུག་ཡོད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, there are thirty-six thousand days. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-266">
+    <prop type="location-id">UT22084-041-003-117</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཉིན་གཅིག་ལ་ལན་གཉིས་སུ་ཟ་བས་ཟས་ནི་ལན་སྟོང་ཕྲག་བདུན་ཅུ་རྩ་གཉིས་ཟ་བར་འགྱུར་ཏེ། རེས་འགའ་མི་ཟ་བ་ཡང་གྲངས་དེར་འདུས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-117"/>In one day, a person eats twice; so, as for food, he will eat seventy-two thousand times, and occasional missed meals are included in that number.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-267">
+    <prop type="location-id">UT22084-041-003-117</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནི་འདི་ལྟ་སྟེ། ན་བ་དང་། ར་རོ་བ་དང་། ཆེད་དུ་ཟས་བཅད་པ་དང་། གཉིད་ལོག་པ་དང་། རྩེད་མོ་རྩེས་པ་དང་། ལས་གཞན་གྱིས་བྲེལ་བ་དང་། མའི་ནུ་ཞོ་འཐུངས་པའི་རྒྱུ་དང་། རྐྱེན་གྱིས་མ་ཟོས་པ་གང་ཡིན་པ་དེ་ནི་མ་ཟོས་པ་ཞེས་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>As for those missed meals, they are missed due to causes and conditions including illness, drunkenness, intentional fasting, sleeping, playing around, being engaged in other matters, and drinking mother’s milk.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-268">
+    <prop type="location-id">UT22084-041-003-117</prop>
+    <tuv xml:lang="bo">
+                <seg>།འདི་ལྟ་བུའི་ལུས་འདི་ལོ་བརྒྱ་ཐུབ་པར་གྱུར་ཀྱང་མཐར་<tei:ref folio="F.246.b"/>འཇིག་པར་འགྱུར་བས་མཁས་པ་སུ་ཞིག་འཁོར་བའི་རྒྱ་མཚོ་འདིར་དེ་ལ་རྗེས་སུ་ཆགས་པར་བྱེད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Since this sort of body, even if it can live for a hundred years, will finally be destroyed, what wise person would desire this sort of body in this ocean of saṃsāra? “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-269">
+    <prop type="location-id">UT22084-041-003-118</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞན་ཡང་དགའ་བོ་ལུས་འདི་ཡང་དག་པ་བླངས་པ་ལ་སྡུག་བསྔལ་རྣམ་པ་གཉིས་ཡོད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-118"/>Furthermore, Nanda, there are two types of suffering with regard to taking this body.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-270">
+    <prop type="location-id">UT22084-041-003-118</prop>
+    <tuv xml:lang="bo">
+                <seg>གཉིས་གང་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What are the two?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-271">
+    <prop type="location-id">UT22084-041-003-118</prop>
+    <tuv xml:lang="bo">
+                <seg>ནད་མང་པོ་རྣམས་ལུས་ལ་འདུས་པ་གང་ཡིན་པ་དེ་ནི་ནང་གི་སྡུག་བསྔལ་ཞེས་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The many illnesses that are contained in the body are called internal suffering.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-272">
+    <prop type="location-id">UT22084-041-003-118</prop>
+    <tuv xml:lang="bo">
+                <seg>།མི་དང་མི་མ་ཡིན་པས་རྣམ་པར་འཚེ་བ་གང་ཡིན་པ་དེ་ནི་ཕྱི་རོལ་གྱི་སྡུག་བསྔལ་ཞེས་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Harm caused by humans and nonhumans is called external suffering. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-273">
+    <prop type="location-id">UT22084-041-003-119</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ལ་ནད་མང་པོ་ལུས་ལ་འདུས་པ་ཞེས་བྱ་བ་ཇི་ལྟ་བུ་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-119"/>With respect to this, which conditions are called the many illnesses that are contained in the body?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-274">
+    <prop type="location-id">UT22084-041-003-119</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ། མིག་དང་། རྣ་བ་དང་། སྣ་དང་། ལྕེ་དང་། ལྐོག་མ་དང་། སོ་དང་། བྲང་དང་། ལྟོ་བ་དང་། ལག་པ་དང་། རྐང་པ་རྣམས་ན་བར་གྱུར་པ་དང་། གཞན་ཡང་རླུང་ན་བ་དང་། མཆིལ་སྣ་བས་དང་། སྨྱོས་པ་དང་། ཁོང་རྡེ་དང་། དབུགས་མི་བདེ་བ་དང་། གློ་བ་ན་བ་དང་། གཅི་བའི་ལམ་རྩུབ་པ་དང་། གཡན་པ་དང་། མཛེ་དང་། འབྲས་དང་། ཐོར་བུ་དང་། ཤུ་བ་དང་། འབྲུམ་བུ་དང་། རྐང་བམ་དང་། གཞན་ཡང་ནད་རྣམ་པ་སྣ་ཚོགས་ལུས་ལ་འདུས་པ་གང་ཡིན་པའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Namely, maladies of the eye, ear, nose, tongue, throat, teeth, chest, belly, arms, and legs, as well as wind illness, mucous illness, insanity, consumption,<tei:note xml:id="UT22084-041-003-120"/> shortness of breath, lung disease, roughness of the urethra, itching, leprosy, swellings, thorbu,<tei:note xml:id="UT22084-041-003-121"/> abscesses, pustules, and elephantiasis, and various other types of illness are contained in the body. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-275">
+    <prop type="location-id">UT22084-041-003-123</prop>
+    <tuv xml:lang="bo">
+                <seg>།གཞན་ཡང་མཁྲིས་པའི་ནད་བརྒྱ་རྩ་གཅིག་དང་། རླུང་ནད་བརྒྱ་རྩ་གཅིག་དང་། བད་ཀན་གྱི་ནད་བརྒྱ་རྩ་གཅིག་དང་། རླུང་དང་མཁྲིས་པ་དང་། བད་ཀན་འདུས་པ་ལས་བྱུང་བའི་ནད་བརྒྱ་རྩ་གཅིག་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-123"/>Furthermore, the above diseases can be divided into 101 bile diseases, 101 wind diseases, 101 phlegm diseases, and 101 diseases that arise from a combination of wind, bile, and phlegm.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-276">
+    <prop type="location-id">UT22084-041-003-123</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་ནད་བཞི་བརྒྱ་རྩ་བཞི་དག་གིས་ལུས་ཉོན་མོངས་པ་གང་ཡིན་པ་དེ་ནི་ནང་གི་སྡུག་བསྔལ་ཞེས་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thus, the 404 diseases that afflict the body are called internal suffering. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-277">
+    <prop type="location-id">UT22084-041-003-124</prop>
+    <tuv xml:lang="bo">
+                <seg>།གཞན་ཡང་ཕྱི་རོལ་གྱི་སྡུག་བསྔལ་གྱིས་ལུས་འདི་ལ་གནོད་པར་བྱེད་པ་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-124"/>Furthermore, external suffering damages the body.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-278">
+    <prop type="location-id">UT22084-041-003-124</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ། བཙོན་ར་དམ་པོར་བཅུག་པ་དང་། ལྕག་གིས་གཞུས་པ་དང་། བཙོན་རར་བཅུག་པ་དང་། བཅིངས་པའི་སྡུག་བསྔལ་གང་ཡིན་པ་དང་། གཞན་ཡང་རྣ་བ་བཅད་པ་དང་། སྣ་བཅད་པ་དང་། ལག་པ་དང་། རྐང་པ་གཏུབས་པ་དང་། མགོ་བཅད་པ་དང་། ལྷ་རྣམས་ཀྱིས་མ་བསྲུངས་པས་མི་མ་ཡིན་པའི་གདོན་མ་རུངས་པ་རྣམས་དང་། གནོད་སྦྱིན་དང་། སྲིན་པོ་རྣམས་ཀྱིས་གླགས་རྙེད་པར་འགྱུར་བ་གང་ཡིན་པ་དང་། གཞན་ཡང་སྦྲང་བུ་མཆུ་རིངས་དང་། ཤ་སྦྲང་ལ་སོགས་པའི་སྲིན་བུ་གདུག་པ་རྣམས་ཀྱིས་ཟོས་པ་དང་། གྲང་བ་དང་། ཚ་བ་དང་། བཀྲེས་པ་དང་། སྐོམ་པ་དང་། རླུང་དང་། ཆར་པ་ཉེ་བར་གནས་པར་གྱུར་པའི་སྡུག་བསྔལ་རྣམ་པ་སྣ་ཚོགས་ཀྱིས་ལུས་ཉོན་མོངས་པར་བྱེད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Namely, the body is afflicted by various types of suffering, for example, being thrown into a narrow prison, being beaten with whips, being fettered, and being bound; having an ear cut off or the nose cut off, having an arm or a leg severed, or being beheaded; or, unprotected by the gods, being harmed by hateful, inhuman demonic beings, or yakṣas, or rākṣasas; or being devoured by vicious insects such as bees, mosquitoes, and biting flies; or encountering cold, heat, hunger, thirst, wind, or rain.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-279">
+    <prop type="location-id">UT22084-041-003-124</prop>
+    <tuv xml:lang="bo">
+                <seg>མིར་གྱུར་པ་<tei:ref folio="F.247.a"/>རྣམས་ཀྱི་སྡུག་བསྔལ་ཡང་དེ་དང་འདྲ་ན་ངན་འགྲོ་རྣམས་ཀྱི་སྡུག་བསྔལ་ལྟ་སྨོས་ཀྱང་ཅི་དགོས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If the suffering of humans is like this, how much more so must be the suffering of lower beings?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-280">
+    <prop type="location-id">UT22084-041-003-124</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནི་ཤིན་ཏུ་བརྗོད་པར་དཀའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is very difficult to express. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-281">
+    <prop type="location-id">UT22084-041-003-125</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ལྟ་བས་ན་འདི་དག་ཐམས་ཅད་ཀྱང་འདས་པའི་དུས་སུ་སྡིག་པ་མི་དགེ་བའི་ལས་མངོན་པར་འདུས་བྱས་པའི་དབང་གིས་འདི་ལྟ་བུའི་རྣམ་པར་སྨིན་པ་མྱོང་བར་རིག་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-125"/>Therefore, it should be known that all these sorts of karmic retribution are experienced due to the force of having engaged in sinful, nonvirtuous actions in a previous life.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-282">
+    <prop type="location-id">UT22084-041-003-125</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་གིས་མཚོན་ཆ་དག་གིས་གནོད་པ་བྱས་པ་ཡོངས་སུ་བསྲུང་བའི་ཕྱིར། གྲོང་ཁྱེར་བརྩིགས་ཏེ་འོབས་ཀྱིས་བསྐོར་ནས་ལུས་འདི་ཡོངས་སུ་བསྲུངས་ཀྱང་། རླུང་དང་། ཆར་པ་དང་། སྦྲང་བུ་མཆུ་རིངས་དང་། ཤ་སྦྲང་ལ་སོགས་པ་ཁང་ཁྱིམ་དག་ཏུ་འོངས་ནས་གནོད་པ་བྱེད་པར་འགྱུར་ལ། ནད་བཞི་བརྒྱ་རྩ་བཞེས་ཀྱང་ནང་དང་། ཕྱི་རོལ་ཉོན་མོངས་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If someone—for the sake of protection from harm by weapons—builds a citadel, surrounds it with a moat, and tries to protect this body, nevertheless, wind, rain, bees, mosquitoes, biting flies, and so forth will come to his house and harm him, and the 404 diseases will cause internal and external afflictions.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-283">
+    <prop type="location-id">UT22084-041-003-125</prop>
+    <tuv xml:lang="bo">
+                <seg>བཟའ་བ་དང་། བཏུང་བ་དང་། མལ་ཆ་དང་། ན་བའི་གསོས་སྨན་དང་། ཞིང་དང་། ཀུན་དགའ་ར་བ་དང་། ཁང་ཁྱིམ་དང་། གསེར་དང་། དངུལ་ལ་སོགས་པ་རིན་པོ་ཆེ་སྣ་བདུན་དང་། བྲན་ཕོ་དང་། བྲན་མོ་དང་། ཤིང་རྟ་དང་བཞོན་པ་དང་། འཚོ་བའི་ཡོ་བྱད་རྣམས་ཡོངས་སུ་ཚོལ་བ་ན་གལ་ཏེ་ཡིད་དང་འཐུན་པར་མ་གྱུར་ན་ཡང་སྡུག་བསྔལ་སྐྱེད་པར་བྱེད་ལ་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one seeks life’s necessities—such as food, drink, bedding, medicines for illness, fields, pleasure gardens, houses, the seven great precious things such as gold and silver, male slaves, female slaves, and carriages and horses—and if these do not suit one’s fancy, they cause suffering.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-284">
+    <prop type="location-id">UT22084-041-003-125</prop>
+    <tuv xml:lang="bo">
+                <seg>གལ་ཏེ་ལོངས་སྤྱོད་ཐོབ་པར་གྱུར་ན་ཡང་སེར་སྣས་ཕངས་ཤིང་རྟག་ཏུ་སྲུང་བ་དང་། གལ་ཏེ་སྟོར་ཅིང་ཆུད་ཟོས་པར་གྱུར་ན་ཡང་སྡུག་བསྔལ་ཆེན་པོ་སྐྱེད་པར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And if one obtains wealth and possessions, one is thrifty due to stinginess and always protects them; and if one loses them by wasting them, great suffering is produced. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-285">
+    <prop type="location-id">UT22084-041-003-126</prop>
+    <tuv xml:lang="bo">
+                <seg>།དགའ་བོ་མདོར་ན་ཉེ་བར་ལེན་པའི་ཕུང་པོ་ལྔའི་ལུས་འདི་ནི་འགྲོ་བ་དང་། སྡོད་པ་དང་། འདུག་པ་དང་། ཉལ་བའི་སྤྱོད་ལམ་ཐམས་ཅད་སྡུག་བསྔལ་མ་ཡིན་པ་གང་ཡང་མེད་པས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-126"/>Nanda, in brief, as for this body consisting of the five upādānaskandhas, there are no activities of moving, standing, sitting, or lying down that are not suffering.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-286">
+    <prop type="location-id">UT22084-041-003-126</prop>
+    <tuv xml:lang="bo">
+                <seg>གལ་ཏེ་ཡུན་རིང་དུ་འགྲོ་ཞིང་སྐད་ཅིག་ཙམ་དུ་ཡང་ངལ་བ་སོར་མེད་པར་གྱུར་ན་ཡང་སྡུག་བསྔལ་འབྱུང་བར་འགྱུར་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one walks for a long time without even a moment’s rest, suffering will arise.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-287">
+    <prop type="location-id">UT22084-041-003-126</prop>
+    <tuv xml:lang="bo">
+                <seg>སྡོད་པ་དང་། འདུག་པ་དང་། ཉལ་བ་དེ་དག་སོ་སོ་ནས་ཡུན་རིང་དུ་གྱུར་ན་ཡང་ཐམས་ཅད་སྡུག་བསྔལ་བར་འགྱུར་བས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Standing, sitting, and lying down, if done for a long time, will all be suffering.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-288">
+    <prop type="location-id">UT22084-041-003-126</prop>
+    <tuv xml:lang="bo">
+                <seg>གལ་ཏེ་ཡུན་རིང་དུ་སོང་སོང་བ་ལས་སྐད་ཅིག་ཙམ་འདུག་ཏུ་ཡོད་པར་གྱུར་ན། བདེ་བའི་འདུ་ཤེས་སྐྱེད་པར་བྱེད་ཀྱང་དེ་ཡང་དག་པར་བདེ་བར་བྱེད་པ་མ་ཡིན་ནོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If, after walking for a long time, there is a moment’s rest, even though a notion of pleasure is produced, this is not really pleasure.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-289">
+    <prop type="location-id">UT22084-041-003-126</prop>
+    <tuv xml:lang="bo">
+                <seg>།གལ་ཏེ་ཡུན་རིང་དུ་འགྲེང་བ་ལས་སྐད་ཅིག་ཙམ་འདུག་པ་དང་། གལ་ཏེ་ཡུན་རིང་དུ་འདུག་པ་ལས་སྐད་ཅིག་ཙམ་ཉལ་བར་གྱུར་པ་ལ་ཡང་དག་པ་མ་ཡིན་པས་བདེ་བའི་འདུ་ཤེས་སྐྱེད་པར་བྱེད་ཀྱང་དེ་ཡང་དག་པར་བདེ་བ་མ་ཡིན་པས་དེའི་ཕྱིར་<tei:ref folio="F.247.b"/>ཉེ་བར་ལེན་པའི་ཕུང་པོ་ལྔའི་ལུས་འདི་ནི་ཐམས་ཅད་སྡུག་བསྔལ་ཡིན་པར་རིག་པར་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If, after standing for a long time, one sits for a moment, or if, after sitting for a long time, one lies down for a moment, a false notion of pleasure is produced; however, since this is not really pleasure, this body consisting of the five upādānaskandhas should therefore be known to be wholly suffering. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-290">
+    <prop type="location-id">UT22084-041-003-127</prop>
+    <tuv xml:lang="bo">
+                <seg>།གང་ལ་ལ་ཞིག་གིས་བདག་གི་དོན་དང་། གཞན་གྱི་དོན་དང་། བདག་དང་གཞན་གྱི་དོན་གྱི་ཕྱིར་དེ་ལྟ་བུའི་སྡུག་བསྔལ་རྣམས་ལ་ཡོངས་སུ་སྐྱོ་བར་བྱས་ནས་ཁྱིམ་ནས་ཁྱིམ་མེད་པར་རབ་ཏུ་བྱུང་སྟེ། ཡང་དག་པར་སློབ་པར་བྱེད་ན་མྱ་ངན་འདས་པའི་རྣམ་པར་གྲོལ་བའི་ཆོས་ལས་ཡོངས་སུ་ཉམས་པར་མི་འགྱུར་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-127"/>People who—for their own sake, for the sake of another, or for the sake of both self and other—become weary with such suffering and leave home to go forth into homelessness, if they train correctly, will not fall short of the reality of the liberation of nirvāṇa.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-291">
+    <prop type="location-id">UT22084-041-003-127</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་ལ་ལ་ཞིག་གོས་དང་། མལ་ཆ་དང་། ན་བའི་གསོས་སྨན་དང་། ཡོ་བྱད་རྣམས་ཀྱིས་དེ་ལ་རིམ་གྲོ་བྱེད་པ་དེ་དག་ཀྱང་རྣམ་པར་སྨིན་པ་ཆེན་པོའི་མཐུ་དང་། གྲགས་པ་ཐོབ་པར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And people who serve them by giving clothes, bedding, medicines for illness, and requisites for living will also obtain, as karmic ripening, great power and renown.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-292">
+    <prop type="location-id">UT22084-041-003-128</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། དགའ་བོ་འདི་ཇི་སྙམ་དུ་སེམས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-128"/>The Bhagavān said, “Nanda, what do you think of this?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-293">
+    <prop type="location-id">UT22084-041-003-128</prop>
+    <tuv xml:lang="bo">
+                <seg>གཟུགས་གང་ཡིན་པ་དེ་ཅི་རྟག་པ་ཞིག་ཡིན་ནམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Is rūpa permanent?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-294">
+    <prop type="location-id">UT22084-041-003-128</prop>
+    <tuv xml:lang="bo">
+                <seg>འོན་ཏེ་མི་རྟག་པ་ཞིག་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Or is it impermanent?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-295">
+    <prop type="location-id">UT22084-041-003-128</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལ་ཚེ་དང་ལྡན་པ་དགའ་བོས་གསོལ་པ། བཅོམ་ལྡན་འདས་གཟུགས་དེ་ནི་མི་རྟག་པ་ལགས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Venerable Nanda replied to the Bhagavān, “Bhagavān, rūpa is impermanent.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-296">
+    <prop type="location-id">UT22084-041-003-130</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། གལ་ཏེ་མི་རྟག་པ་ཡིན་ན་དེ་སྡུག་བསྔལ་བ་ཞིག་ཡིན་ནམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-130"/>The Bhagavān said, “If it is impermanent, is it suffering?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-297">
+    <prop type="location-id">UT22084-041-003-130</prop>
+    <tuv xml:lang="bo">
+                <seg>འོན་ཏེ་སྡུག་བསྔལ་མེད་པ་ཞིག་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Or is it not suffering?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-298">
+    <prop type="location-id">UT22084-041-003-130</prop>
+    <tuv xml:lang="bo">
+                <seg>དགའ་བོས་གསོལ་པ། གཟུགས་གང་ལགས་པ་དེ་ནི་སྡུག་བསྔལ་བ་ལགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Nanda replied, “Rūpa is suffering.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-299">
+    <prop type="location-id">UT22084-041-003-132</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། གང་མི་རྟག་ཅིང་སྡུག་བསྔལ་བ་དེ་ནི་རྣམ་པར་འཇིག་པའི་ཆོས་ཅན་འཕགས་པ་ཉན་ཐོས་མང་དུ་ཐོས་པ་དང་ལྡན་པ་གང་དེ་ལྟ་བུའི་བསྟན་པ་ཐོས་པར་གྱུར་ན་ཡང་ལུས་འདི་ནི་འདི་ལྟ་བུའི་གཟུགས་ཅན་ནོ་ཞེས་འཛིན་ཅིང་དེ་ལ་བདག་དང་བདག་གིར་འཛིན་པར་བྱེད་དམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-132"/>The Bhagavān said, “If what is impermanent and suffering is subject to destruction, and if very learned noble śrāvakas hear this sort of teaching, would they, understanding that the body consists of these sorts of rūpa, hold on to the notions of I and mine?” “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-300">
+    <prop type="location-id">UT22084-041-003-133</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-133"/>Bhagavān, indeed not.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-301">
+    <prop type="location-id">UT22084-041-003-133</prop>
+    <tuv xml:lang="bo">
+                <seg>གཟུགས་ལ་བདག་ཅེས་བགྱི་བ་ཡང་མ་མཆིས་ལ་བདག་གི་ཞེས་བགྱི་བ་ཡང་མ་མཆིས་ལགས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In rūpa, there is no such thing as I; there is no such thing as mine.” “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-302">
+    <prop type="location-id">UT22084-041-003-134</prop>
+    <tuv xml:lang="bo">
+                <seg>།གཞན་ཡང་དགའ་བོ་འདི་ཇི་སྙམ་དུ་སེམས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-134"/>Furthermore, Nanda, what do you think of this?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-303">
+    <prop type="location-id">UT22084-041-003-134</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚོར་བ་དང་། འདུ་ཤེས་དང་། འདུ་བྱེད་དང་། རྣམ་པར་ཤེས་པ་གང་ཡིན་པ་དེ་དག་ཅི་རྟག་པ་ཞིག་ཡིན་ནམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Are vedanā, saṃjñā, saṃskāra, and vijñāna permanent?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-304">
+    <prop type="location-id">UT22084-041-003-134</prop>
+    <tuv xml:lang="bo">
+                <seg>འོན་ཏེ་མི་རྟག་པ་ཞིག་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Or are they impermanent?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-305">
+    <prop type="location-id">UT22084-041-003-134</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལ་ཚེ་དང་ལྡན་པ་དགའ་བོས་གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་དག་ཐམས་ཅད་ནི་མི་རྟག་པ་ལགས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Venerable Nanda replied to the Bhagavān, “Bhagavān, they are all impermanent.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-306">
+    <prop type="location-id">UT22084-041-003-136</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། གལ་ཏེ་མི་རྟག་པ་ཡིན་ན་ཅི་སྡུག་བསྔལ་བ་ཞིག་ཡིན་ནམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-136"/>The Bhagavān said, “If they are impermanent, are they suffering?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-307">
+    <prop type="location-id">UT22084-041-003-136</prop>
+    <tuv xml:lang="bo">
+                <seg>འོན་ཏེ་སྡུག་བསྔལ་མེད་པ་ཞིག་<tei:ref folio="F.248.a"/>ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Or are they not suffering?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-308">
+    <prop type="location-id">UT22084-041-003-136</prop>
+    <tuv xml:lang="bo">
+                <seg>དགའ་བོས་གསོལ་པ། འདི་ལྟར་ཕུང་པོ་བཞི་པོ་དེ་དག་ནི་སྡུག་བསྔལ་བ་ཞེས་བགྱི་བ་ལགས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Venerable Nanda replied, “Those four skandhas of this sort are called suffering.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-309">
+    <prop type="location-id">UT22084-041-003-138</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། གང་མི་རྟག་ཅིང་སྡུག་བསྔལ་བ་དེ་ནི་རྣམ་པར་འཇིག་པའི་ཆོས་ཅན་ཡིན་ན་འཕགས་པའི་ཉན་ཐོས་མང་དུ་ཐོས་པ་དང་ལྡན་པ་གང་དེ་ལྟ་བུའི་བསྟན་པ་ཐོས་པར་གྱུར་ན་ཡང་ལུས་འདི་ཕུང་པོ་བཞི་པོ་དག་ལ་བདག་དང་བདག་གིར་འཛིན་པར་བྱེད་དམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-138"/>The Bhagavān said, “If what is impermanent and suffering is subject to destruction, and if very learned noble śrāvakas hear this sort of teaching, would they hold on to the notion that these four skandhas in this body are I and mine?” “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-310">
+    <prop type="location-id">UT22084-041-003-139</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་དེ་ནི་མ་ལགས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-139"/>Bhagavān, indeed not.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-311">
+    <prop type="location-id">UT22084-041-003-139</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕུང་པོ་བཞི་པོ་དག་ལ་ཡང་དག་པར་བདག་ཅེས་བགྱི་བ་ཡང་མ་མཆིས་ལ་བདག་གི་ཞེས་བགྱི་བ་ཡང་མ་མཆིས་ལགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the four skandhas, there is no such thing as I; there is no such thing as mine.” “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-312">
+    <prop type="location-id">UT22084-041-003-140</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞན་ཡང་དགའ་བོ་འདི་ལྟར་བདག་ཅེས་བྱ་བ་དེ་ནི་འདས་པ་དང་། ད་ལྟར་བྱུང་བ་དང་། མ་འོངས་པ་དང་། ནང་དང་། ཕྱི་རོལ་ན་ཡང་ཡོད་པ་མ་ཡིན་ལ་རགས་པ་དང་། ཕྲ་བ་དང་། བཟང་པོ་དང་། ངན་པ་དང་། ཉེ་བ་དང་། རིང་བ་ཡང་མ་ཡིན་པས་ཆོས་དེ་དག་ཐམས་ཅད་ནི་བདག་དང་། བདག་གི་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-140"/>Furthermore, Nanda, since that sort of I does not exist in the past, present, or future, or internally or externally, and is not coarse or fine, or good or bad, or close or far, none of those things is I or mine.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-313">
+    <prop type="location-id">UT22084-041-003-140</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟ་བས་ན་དགའ་བོ་འདི་ལྟར་ཡང་དག་པར་ཤེས་པས་ཆོས་རྣམས་ལ་བདག་མེད་པར་སོ་སོར་བརྟག་པར་རིག་པར་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, Nanda, in this way, too, analyzing with correct knowledge, one should know that things lack a self.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-314">
+    <prop type="location-id">UT22084-041-003-140</prop>
+    <tuv xml:lang="bo">
+                <seg>།འཕགས་པའི་ཉན་ཐོས་མང་དུ་ཐོས་པ་དང་ལྡན་པ་གང་དེ་ལྟར་སོ་སོར་བརྟགས་ནས་ཡོངས་སུ་སྐྱོ་བ་སྐྱེད་པར་བྱེད་ན་རྣམ་པར་གྲོལ་ཞིང་མཐར་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པ་ཐོབ་པར་གྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Any very learned noble śrāvaka, having analyzed in this way, when he generates weariness,<tei:note xml:id="UT22084-041-003-141"/> will be liberated and will obtain final, complete nirvāṇa.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-315">
+    <prop type="location-id">UT22084-041-003-140</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་ཡང་དག་པར་བསླབས་ནས་ཆོས་འདི་མངོན་དུ་གྱུར་པའི་ཚེ་སྐྱེ་བའི་ཆུ་ནི་ཟད་ཅིང་ཚངས་པར་སྤྱོད་པ་ཡང་དག་པར་སྤྱད་པས་བྱ་བ་བྱས་ནས་ཡང་སྲིད་པ་ཕྱི་མ་ལེན་པར་མི་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When he has thus trained correctly and actualized this Dharma,<tei:note xml:id="UT22084-041-003-142"/> he will have exhausted everything pertaining to birth; and having practiced the celibate life and having done what was to be done, he will not take up a subsequent birth.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-316">
+    <prop type="location-id">UT22084-041-003-143</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བཀའ་སྩལ་པ་ན། ཚེ་དང་ལྡན་པ་དགའ་བོ་ནི་རྡུལ་སྤངས་ཤིང་དྲི་མ་དང་བྲལ་བས་ཆོས་ཀྱི་མིག་རྣམ་པར་དག་པ་ཐོབ་པར་གྱུར་ཏོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-143"/>After the Bhagavān spoke this Dharma discourse, Nanda, freed from dust and defilement, obtained the pure Dharma eye.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-317">
+    <prop type="location-id">UT22084-041-003-143</prop>
+    <tuv xml:lang="bo">
+                <seg>།དགེ་སློང་ལྔ་བརྒྱ་པོ་དེ་དག་ནི་ཆོས་རྣམས་ལ་ལེན་པ་མེད་པར་ཟག་པ་ཟད་ནས་སེམས་རྣམ་པར་གྲོལ་བར་གྱུར་ཏོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The five hundred monks, detached from phenomena, their defilements extinguished, had their minds liberated.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-318">
+    <prop type="location-id">UT22084-041-003-143</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། འཁོར་མང་པོ་རྣམས་ཀྱིས་བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>After the Bhagavān spoke, the many in attendance praised what the Bhagavān had said.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-041-003-TU-319">
+    <prop type="location-id">UT22084-041-003-144</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་དཀོན་མཆོག་བརྩེགས་པ་ཆེན་པོའི་ཆོས་ཀྱི་རྣམ་གྲངས་ལེའུ་སྟོང་ཕྲག་བརྒྱ་པ་ལས། ཚེ་དང་ལྡན་པ་དགའ་བོ་ལ་མངལ་དུ་འཇུག་པ་བསྟན་པའི་ལེའུ་སྟེ། ལེའུ་བཅུ་བཞི་པ་རྫོགས་སོ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-041-003-144"/>This concludes The Teaching to Venerable Nanda on Entry into the Womb, the fourteenth of the one hundred thousand sections of the Dharma discourse known as The Noble Great Heap of Jewels.</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>

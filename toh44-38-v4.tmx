@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-036-009" eft:text-version="v-1.0.5-2023"/>
+<body>
+<tu id="UT22084-036-009-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.394.b"/>དེ་ནས་ཡང་བྱང་ཆུབ་སེམས་དཔའ་སེམས་ཀྱི་རྒྱལ་པོས་ཡང་བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་ལ་སྨྲས་པ། ཀྱེ་རྒྱལ་བའི་སྲས་དག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Chapter on the Dwellings of Bodhisattvas<tei:milestone xml:id="UT22084-036-009-15"/> Then the bodhisattva King of Mind spoke again to those bodhisattvas, “O children of the Victorious One!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤར་ཕྱོགས་ལོགས་ན་སྔན་ཅད་བྱང་ཆུབ་སེམས་དཔའ་བཞུགས་བཞུགས་པའི་རི་དྲང་སྲོང་འབྱུང་བ་ཞེས་བྱ་བ་ཡོད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the east, there is a mountain called Appearance of a Sage, where bodhisattvas in the past have resided.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-3">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ལ་བྱང་ཆུབ་སེམས་དཔའ་རྡོ་རྗེ་དཔལ་ཞེས་བྱ་བ། བྱང་ཆུབ་སེམས་དཔའི་འཁོར་སུམ་བརྒྱ་དང་ལྡན་པ་ཆོས་སྟོན་ཏོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In this dwelling place a bodhisattva called Vajraśrī teaches Dharma surrounded by a retinue of three hundred bodhisattvas. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-4">
+    <prop type="location-id">UT22084-036-009-16</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀྱེ་རྒྱལ་བའི་སྲས་དག་ལྷོ་ཕྱོགས་ལོགས་ན་སྔོན་བྱང་ཆུབ་སེམས་དཔའ་བཞུགས་བཞུགས་པའི་རི་དཔལ་གྱི་ཕུང་པོ་ཞེས་བྱ་བ་<tei:ref folio="F.395.a"/>ཡོད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-036-009-16"/>O children of the Victorious One! In the south, there is a mountain called Heap of Glory, where bodhisattvas in the past have resided.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-5">
+    <prop type="location-id">UT22084-036-009-16</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལ་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་ཀྱི་བློ་གྲོས་ཞེས་བྱ་བ་བྱང་ཆུབ་སེམས་དཔའི་འཁོར་ལྔ་བརྒྱ་དང་ལྡན་པ་ཆོས་སྟོན་ཏོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In this dwelling place a bodhisattva called Dharmamati teaches Dharma surrounded by a retinue of five hundred bodhisattvas. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-6">
+    <prop type="location-id">UT22084-036-009-17</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀྱེ་རྒྱལ་བའི་སྲས་དག་ནུབ་ཕྱོགས་ལོགས་ན་སྔོན་བྱང་ཆུབ་སེམས་དཔའ་བཞུགས་བཞུགས་པའི་རི་རྡོ་རྗེའི་འོད་འཕྲོ་བ་ཅན་ཞེས་བྱ་བ་ཡོད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-036-009-17"/>O children of the Victorious One! In the west, there is a mountain called Possessed of Vajra Radiance, where bodhisattvas in the past have resided.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-7">
+    <prop type="location-id">UT22084-036-009-17</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལ་བྱང་ཆུབ་སེམས་དཔའ་སེང་གེའི་འགྲོས་སུ་འགྲོ་བ་ཞེས་བྱ་བ། བྱང་ཆུབ་སེམས་དཔའི་འཁོར་སུམ་བརྒྱ་དང་ལྡན་པ་ཆོས་སྟོན་ཏོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In this dwelling place a bodhisattva called Walks with the Gait of a Lion teaches Dharma surrounded by a retinue of three hundred bodhisattvas. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-8">
+    <prop type="location-id">UT22084-036-009-18</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀྱེ་རྒྱལ་བའི་སྲས་དག་བྱང་ཕྱོགས་ལོགས་ན། སྔོན་བྱང་ཆུབ་སེམས་དཔའ་བཞུགས་བཞུགས་པའི་རི་སྤོས་ཀྱི་ཕུང་པོ་ཞེས་བྱ་བ་ཡོད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-036-009-18"/>O children of the Victorious One! In the north, there is a mountain called Heap of Incense, where bodhisattvas in the past have resided.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-9">
+    <prop type="location-id">UT22084-036-009-18</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལ་བྱང་ཆུབ་སེམས་དཔའ་སྤོས་ཀྱི་གླང་པོ་ཞེས་བྱ་བ། བྱང་ཆུབ་སེམས་དཔའི་འཁོར་སྟོང་ཕྲག་གསུམ་དང་ལྡན་པ་ཆོས་སྟོན་ཏོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In this dwelling place a bodhisattva called Gandhahastin teaches Dharma surrounded by a retinue of three thousand bodhisattvas. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-10">
+    <prop type="location-id">UT22084-036-009-19</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀྱེ་རྒྱལ་བའི་སྲས་དག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-036-009-19"/>O children of the Victorious One!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-11">
+    <prop type="location-id">UT22084-036-009-19</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤར་ཕྱོགས་ལོགས་ན་སྔོན་བྱང་ཆུབ་སེམས་དཔའ་བཞུགས་བཞུགས་པའི་རི་སྤང་རི་ཞེས་བྱ་བ་ཡོད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the east, there is a mountain called Mountain of Meadows,<tei:note xml:id="UT22084-036-009-20"/> where bodhisattvas in the past have resided.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-12">
+    <prop type="location-id">UT22084-036-009-19</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ལ་བྱང་ཆུབ་སེམས་དཔའ་འཇམ་དཔལ་ཞེས་བྱ་བ། བྱང་ཆུབ་སེམས་དཔའི་འཁོར་སྟོང་ཕྲག་བཅུ་དང་ལྡན་པ་ཆོས་སྟོན་ཏོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In this dwelling place a bodhisattva called Mañjuśrī teaches Dharma surrounded by a retinue of ten thousand bodhisattvas. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-13">
+    <prop type="location-id">UT22084-036-009-21</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀྱེ་རྒྱལ་བའི་སྲས་དག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-036-009-21"/>O children of the Victorious One!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-14">
+    <prop type="location-id">UT22084-036-009-21</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་དང་ཤར་གྱི་ཕྱོགས་མཚམས་ལོགས་ན། སྔོན་བྱང་ཆུབ་སེམས་དཔའ་བཞུགས་བཞུགས་པའི་རི་རྒྱ་མཚོ་ཆེན་པོ་བཞིའི་གནས་རྡོ་རྗེའི་རི་ཞེས་བྱ་བ་ཡོད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the northeastern direction, there is a mountain called Vajra Mountain, Site of Four Great Oceans, where bodhisattvas in the past have resided.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-15">
+    <prop type="location-id">UT22084-036-009-21</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལ་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་ཀྱིས་འཕགས་པ་ཞེས་བྱ་བ། བྱང་ཆུབ་སེམས་དཔའི་འཁོར་བརྒྱ་ཕྲག་བཅུ་གཉིས་དང་ལྡན་པ་ཆོས་སྟོན་ཏོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In this dwelling place a bodhisattva called Dharmodgata teaches Dharma surrounded by a retinue of twelve hundred bodhisattvas. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-16">
+    <prop type="location-id">UT22084-036-009-22</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀྱེ་རྒྱལ་བའི་སྲས་དག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-036-009-22"/>O children of the Victorious One!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-17">
+    <prop type="location-id">UT22084-036-009-22</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤར་དང་ལྷོའི་ཕྱོགས་མཚམས་ལོགས་ན་སྔོན་བྱང་ཆུབ་སེམས་དཔའ་བཞུགས་བཞུགས་པའི་རི་མཆོད་རྟེན་ཞེས་བྱ་བ་ཡོད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the southeastern direction, there is a mountain called Stūpa, where bodhisattvas in the past have resided.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-18">
+    <prop type="location-id">UT22084-036-009-22</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ལ་བྱང་ཆུབ་སེམས་དཔའ་ལྷའི་ཕུང་པོ་ཞེས་བྱ་བ་བྱང་ཆུབ་སེམས་དཔའི་འཁོར་སྟོང་དང་ལྡན་པ་ཆོས་སྟོན་ཏོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In this dwelling place a bodhisattva called Divine Aggregates teaches Dharma surrounded by a retinue of one thousand bodhisattvas. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-19">
+    <prop type="location-id">UT22084-036-009-23</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀྱེ་རྒྱལ་བའི་<tei:ref folio="F.395.b"/>སྲས་ངག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-036-009-23"/>O children of the Victorious One!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-20">
+    <prop type="location-id">UT22084-036-009-23</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷོ་དང་ནུབ་ཀྱི་ཕྱོགས་མཚམས་ལོགས་ན། སྔོན་བྱང་ཆུབ་སེམས་དཔའ་བཞུགས་བཞུགས་པའི་རི་སྐར་མའི་འོད་ཅེས་བྱ་བ་ཡོད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the southwestern direction, there is a mountain called Jyotiṣprabha, where bodhisattvas in the past have resided.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-21">
+    <prop type="location-id">UT22084-036-009-23</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལ་བྱང་ཆུབ་སེམས་དཔའ་བཟང་པོའི་དཔལ་ཞེས་བྱ་བ། བྱང་ཆུབ་སེམས་དཔའི་འཁོར་སྟོང་ཕྲག་གསུམ་དང་ལྡན་པ་ཆོས་སྟོན་ཏོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In this dwelling place a bodhisattva called Bhadraśrī teaches Dharma surrounded by a retinue of three thousand bodhisattvas. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-22">
+    <prop type="location-id">UT22084-036-009-24</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀྱེ་རྒྱལ་བའི་སྲས་དག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-036-009-24"/>O children of the Victorious One!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-23">
+    <prop type="location-id">UT22084-036-009-24</prop>
+    <tuv xml:lang="bo">
+                <seg>ནུབ་དང་བྱང་གི་ཕྱོགས་མཚམས་ལོགས་ན། སྔོན་བྱང་ཆུབ་སེམས་དཔའ་བཞུགས་བཞུགས་པའི་རི་སྤོས་ཀྱི་ངད་ཅན་ཞེས་བྱ་བ་ཡོད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the northwestern direction, there is a mountain called Gandhamādana, where bodhisattvas in the past have resided.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-24">
+    <prop type="location-id">UT22084-036-009-24</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལ་བྱང་ཆུབ་སེམས་དཔའ་སྤོས་ཀྱི་འོད་ཟེར་རབ་ཏུ་འགྱེད་པ་ཞེས་བྱ་བ་བྱང་ཆུབ་སེམས་དཔའི་འཁོར་སྟོང་ཕྲག་ལྔ་དང་ལྡན་པ་ཆོས་སྟོན་ཏོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In this dwelling place a bodhisattva called Radiating Luminous Incense teaches Dharma surrounded by a retinue of five thousand bodhisattvas. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-25">
+    <prop type="location-id">UT22084-036-009-25</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀྱེ་རྒྱལ་བའི་སྲས་དག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-036-009-25"/>O children of the Victorious One!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-26">
+    <prop type="location-id">UT22084-036-009-25</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱ་མཚོ་ཆེན་པོའི་ནང་ན་སྔོན་བྱང་ཆུབ་སེམས་དཔའ་བཞུགས་བཞུགས་པའི་གནས་ཕུག་བཟང་པོ་ཞེས་བྱ་བ་ཡོད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the great ocean, there is a place called Good Cave, where bodhisattvas in the past have resided. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-27">
+    <prop type="location-id">UT22084-036-009-26</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀྱེ་རྒྱལ་བའི་སྲས་དག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-036-009-26"/>O children of the Victorious One!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-28">
+    <prop type="location-id">UT22084-036-009-26</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡུལ་ཤིན་ཏུ་ཡངས་པའི་ལྷོ་ཕྱོགས་ལོགས་ན། སྔོན་བྱང་ཆུབ་སེམས་དཔའ་བཞུགས་བཞུགས་པའི་གནས་རྩ་བ་ཤིན་ཏུ་བརྟན་པ་ཞེས་བྱ་བ་ཡོད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>To the south of Vaiśālī, there is a place called Stable Roots, where bodhisattvas in the past have resided. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-29">
+    <prop type="location-id">UT22084-036-009-27</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཡུལ་པ་ཏ་ལའི་བུ་ཞེས་བྱ་བ་ན། སྔོན་བྱང་ཆུབ་སེམས་དཔའ་བཞུགས་བཞུགས་པའི་དགེ་འདུན་གྱི་ཀུན་དགའ་ར་བ་གསེར་གྱི་གླིང་ཞེས་བྱ་བ་ཡོད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-036-009-27"/>In a land called Pāṭaliputra, there is a place called Golden Park of the Saṅgha, where bodhisattvas in the past have resided. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-30">
+    <prop type="location-id">UT22084-036-009-28</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཡུལ་མ་དུར་ན་སྔོན་བྱང་ཆུབ་སེམས་དཔའ་བཞུགས་བཞུགས་པའི་གནས་ཚིམ་པར་བྱེད་པའི་ཕུག་ཅེས་བྱ་བ་ཡོད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-036-009-28"/>In a land called Mathurā,<tei:note xml:id="UT22084-036-009-29"/> there is a place called Satisfying Cave, where bodhisattvas in the past have resided. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-31">
+    <prop type="location-id">UT22084-036-009-30</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཡུལ་རིལ་བ་གཏོང་བ་ཞེས་བྱ་བ་ན། སྔོན་བྱང་ཆུབ་སེམས་དཔའ་བཞུགས་བཞུགས་པའི་གནས་ཆོས་ཀྱི་སྟན་ཞེས་བྱ་བ་ཡོད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-036-009-30"/>In a land called Relinquishing the Vase, there is a place called Dharma Seat, where bodhisattvas in the past have resided. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-32">
+    <prop type="location-id">UT22084-036-009-31</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཡུལ་དགེ་བའི་ཕུལ་དུ་ཕྱིན་པ་ཞེས་བྱ་བ་ན། སྔོན་བྱང་ཆུབ་སེམས་དཔའ་བཞུགས་བཞུགས་པའི་གནས་བཏང་བཟུང་གི་ཕུག་ཅེས་བྱ་བ་ཡོད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-036-009-31"/>In a land called Perfect Virtue, there is a place called Mucilinda Cave, where bodhisattvas in the past have resided. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-33">
+    <prop type="location-id">UT22084-036-009-32</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཡུལ་བེའུར་ཞེས་བྱ་བ་ན་སྔོན་བྱང་ཆུབ་སེམས་དཔའ་བཞུགས་བཞུགས་པའི་གནས་ཐུ་བ་ཞེས་བྱ་བ་ཀླུས་བཙུགས་པ་ཡོད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-036-009-32"/>In a land called Vatsa, there is a place, established by nāgas, called Añcala, where bodhisattvas in the past have resided. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-34">
+    <prop type="location-id">UT22084-036-009-33</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཡུལ་ཀམ་པོ་ཙ་ན་སྔོན་<tei:ref folio="F.396.a"/>བྱང་ཆུབ་སེམས་དཔའ་བཞུགས་བཞུགས་པའི་གནས། བྱམས་པས་འཕགས་པ་ཞེས་བྱ་བ་ཡོད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-036-009-33"/>In a land called Kamboja, there is a place called Exalted by Love, where bodhisattvas in the past have resided. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-35">
+    <prop type="location-id">UT22084-036-009-34</prop>
+    <tuv xml:lang="bo">
+                <seg>།རྒྱ་བའི་གནས་ན། སྔོན་བྱང་ཆུབ་སེམས་དཔའ་བཞུགས་བཞུགས་པའི། གནས་མཐུ་བོ་ཆེའི་ཕུག་པ་ཅེས་བྱ་བ་ཡོད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-036-009-34"/>In a land called China, there is a place called Nārāyaṇa Cave, where bodhisattvas in the past have resided. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-36">
+    <prop type="location-id">UT22084-036-009-35</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཡུལ་ཁ་ཤ་ན་སྔོན་བྱང་ཆུབ་སེམས་དཔའ་བཞུགས་བཞུགས་པའི་གནས། བ་ལང་གི་མགོ་བོ་ཞེས་བྱ་བ་ཡོད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-036-009-35"/>In a land called Khaśa, there is a mountain called Gośṛṇga, where bodhisattvas in the past have resided. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-37">
+    <prop type="location-id">UT22084-036-009-36</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཁ་ཆེའི་ཡུལ་ན་སྔོན་བྱང་ཆུབ་སེམས་དཔའ་བཞུགས་བཞུགས་པའི། གནས་ཤིན་ཏུ་སྟོན་པ་ཞེས་བྱ་བ་ཡོད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-036-009-36"/>In a land called Kashmir, there is a place called Sudarśaka, where bodhisattvas in the past have resided. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-38">
+    <prop type="location-id">UT22084-036-009-37</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཡུལ་དགའ་བ་འཕེལ་བ་ཞེས་བྱ་བ་ན། སྔོན་བྱང་ཆུབ་སེམས་དཔའ་བཞུགས་བཞུགས་པའི་གནས། གནས་བརྟན་གྱི་ཕུག་ཅེས་བྱ་བ་ཡོད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-036-009-37"/>In a land called Increasing Joy, there is a place called Sthavira Cave, where bodhisattvas in the past have resided. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-39">
+    <prop type="location-id">UT22084-036-009-38</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཡུལ་ཆུ་འཛིན་ཅེས་བྱ་བ་ན་སྔོན་བྱང་ཆུབ་སེམས་དཔའ་བཞུགས་བཞུགས་པའི། གནས་ཁྱོར་པོ་སྟོན་པ་ཞེས་བྱ་བ་ཡོད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-036-009-38"/>In a land called Jalandhar, there is a place called Teaching with Hands Folded, where bodhisattvas in the past have resided. “</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-40">
+    <prop type="location-id">UT22084-036-009-39</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཡུལ་ས་འཛིན་གྱི་དཀྱིལ་འཁོར་ན། སྔོན་བྱང་ཆུབ་སེམས་དཔའ་བཞུགས་བཞུགས་པའི་གནས། བརྒྱགས་ཀྱི་ཕུག་ཅེས་བྱ་བ་ཡོད་དོ། །ཤིན་ཏུ་རྒྱས་པ་ཆེན་པོའི་མདོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-036-009-39"/>In the vicinity of the land called Gandhara, there is a place called Cave of Provisions, where bodhisattvas in the past have resided.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-036-009-TU-41">
+    <prop type="location-id">UT22084-036-009-40</prop>
+    <tuv xml:lang="bo">
+                <seg>།སངས་རྒྱས་ཕལ་པོ་ཆེ་ཞེས་བྱ་བ་ལས། བྱང་ཆུབ་སེམས་དཔའི་གནས་ཀྱི་ལེའུ་ཞེས་བྱ་བ་སྟེ། སུམ་ཅུ་བརྒྱད་པའོ།། །། །། །། །། །། །། །། །། །། །། །། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-036-009-40"/>This concludes “The Dwellings of Bodhisattvas,” the thirty-eighth chapter of the extensive sūtra, “The Ornaments of the Buddhas.”</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>

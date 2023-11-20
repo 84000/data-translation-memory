@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+    <header creationtool="linguae-dharmae/84000" creationtoolversion="2.16.12a" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-095-005" eft:text-version="v-1.0.7-2022" eft:source-ref="/db/apps/84000-data/uploads/linguae-dharmae/aligned/31-10-2022/complete/toh750-bo_aligned.txt"/>
+    <body>
+       <!-- <tu id="UT22084-095-005-TU-1">
+            <tuv xml:lang="bo"><seg>བཟླས་བརྗོད་བགྱིད་པ་དང་། སྒྲུབ་པའི་ཚེ་མཆོད་པ་བགྱིས་ལ་མིང་བརྒྱད་པ་བཀླག་པར་བགྱིའོ། །བཀླགས་ནས་བདག་བསྟོད་པར་འགྱུར་ཏེ། དགའ་ནས་དངོས་གྲུབ་སྩལ་བར་འཚལ་ལོ། །བགེགས་ཀྱང་འབྱུང་བར་མི་འགྱུར་ལ། ལྷ་རྣམས་ཀྱང་དགའ་ནས་མྱུར་དུ་དངོས་གྲུབ་སྩོལ་བར་བགྱིད་དོ། །ཉལ་བའི་ཚེ་བཀླགས་ན་རྨི་ལམ་ངན་པ་མཐོང་བར་མི་འགྱུར། སྐུ་གདུང་དང་ལྡན་པའི་མཆོད་རྟེན་གྱི་དྲུང་དུ་ལན་འབུམ་དུ་བཟླས་བརྗོད་བགྱིས་ན་སྡིག་པ་ཐམས་ཅད་ལས་གྲོལ་བར་འགྱུར་རོ། །མཚམས་མེད་པ་ལྔ་བགྱིད་པ་ཡང་བསྐལ་པ་བཟང་པོར་བྱང་ཆུབ་སེམས་དཔར་འགྱུར་རོ་ཞེས་བདག་མཆིའོ། །ཡང་ལན་འབུམ་བཟླས་བརྗོད་བགྱིས་ན་སློབ་དཔོན་དུ་འགྱུར་རོ། །ལག་ན་རྡོ་རྗེའི་མཚན་བརྒྱད་པ་གསང་སྔགས་དང་བཅས་པ་རྫོགས་སོ།།</seg></tuv>
+            <tuv xml:lang="en"><seg/></tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-2">
+            <tuv xml:lang="bo"><seg>༄༅༅།</seg></tuv>
+            <tuv xml:lang="en"><seg>The Dhāraṇī</seg></tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-3">
+            <tuv xml:lang="bo"><seg>།རྒྱ་གར་སྐད་དུ། བཛྲ་བི་དཱ་ར་ཎཱ་ནཱ་མ་དྷཱ་ར་ཎཱི། བོད་སྐད་དུ།</seg></tuv>
+            <tuv xml:lang="en"><seg>Vajra Conqueror</seg></tuv>
+        </tu>-->
+        <tu id="UT22084-095-005-TU-4">
+            <prop type="location-id">translation</prop>
+            <prop type="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>རྡོ་རྗེས་རྣམ་པར་འཇོམས་པ་ཞེས་བྱ་བའི་གཟུངས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Dhāraṇī Vajra Conqueror</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-5">
+            <prop type="location-id">UT22084-095-005-14</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Homage to all buddhas and bodhisattvas!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-6">
+            <prop type="location-id">UT22084-095-005-15</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-7">
+            <prop type="location-id">UT22084-095-005-15</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་རྡོ་རྗེ་ལ་བཞུགས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One was abiding in the vajra</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-8">
+            <prop type="location-id">UT22084-095-005-15</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཀྱི་མཐུས་ལག་ན་རྡོ་རྗེས་ལུས་ཐམས་ཅད་རྡོ་རྗེར་བྱིན་གྱིས་བརླབས་ནས་རྡོ་རྗེའི་ཏིང་ངེ་འཛིན་ལ་སྙོམས་པར་ཞུགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Through the power of the Buddha, Vajrapāṇi consecrated his entire body as vajra and entered the vajra absorption.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-9">
+            <prop type="location-id">UT22084-095-005-15</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་ལག་ན་རྡོ་རྗེ་སངས་རྒྱས་ཀྱི་མཐུ་དང་། སངས་རྒྱས་ཀྱི་བྱིན་གྱིས་བརླབས་དང་། བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ཀྱིས་བྱིན་གྱིས་བརླབས་ཀྱིས་རྡོ་རྗེ་ཁྲོ་བོ་ལས་བྱུང་བ་རྡོ་རྗེ་སྙིང་པོས་རབ་ཏུ་སྨྲས་ཏེ། མི་ཐུབ་པ། མི་ཆོད་པ། མི་ཤིགས་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then, through the power of the Buddha, the blessings of all buddhas, and the blessings of all bodhisattvas, Vajrapāṇi proclaimed the vajra essence that emanated from vajra wrath.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-10">
+            <prop type="location-id">UT22084-095-005-15</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བདེན་པ། སྲ་བ། བརྟན་པ། ཐམས་ཅད་དུ་ཐོགས་པ་མེད་པ། ཐམས་ཅད་དུ་མ་ཕམ་པ། སེམས་ཅན་ཐམས་ཅད་སྐྲག་པར་བྱེད་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It is invulnerable, indivisible, indestructible, true, durable, stable, completely indestructible, and completely invincible.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-11">
+            <prop type="location-id">UT22084-095-005-15</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>སེམས་ཅན་ཐམས་ཅད་འཇིལ་བར་བྱེད་པ། རིག་སྔགས་ཐམས་ཅད་གཅོད་པར་བྱེད་པ། རིག་སྔགས་ཐམས་ཅད་གནོན་པར་བྱེད་པ། ལས་ཐམས་ཅད་འཇོམས་པར་བྱེད་པ། གཞན་གྱི་ལས་ཐམས་ཅད་འཇིག་པར་བྱེད་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It routs all beings, expels all beings, interrupts all spells, subdues all spells, counters all activities, and routs all actions.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-12">
+            <prop type="location-id">UT22084-095-005-15</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>གདོན་ཐམས་ཅད་རླག་པར་བྱེད་པ། གདོན་ཐམས་ཅད་ལས་ཐར་བར་བྱེད་པ། འབྱུང་པོ་ཐམས་ཅད་འགུགས་པར་བྱེད་པ། འབྱུང་པོ་ཐམས་ཅད་ཚར་གཅོད་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It destroys all grahas, liberates all grahas, summons all bhūtas, and annihilates all bhūtas.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-13">
+            <prop type="location-id">UT22084-095-005-15</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>རིག་སྔགས་ཀྱི་ལས་ཐམས་ཅད་བྱེད་དུ་འཇུག་པ། མ་གྲུབ་པ་རྣམས་གྲུབ་པར་བྱེད་པ། གྲུབ་པ་རྣམས་ཆུད་མི་ཟ་བར་བྱེད་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It enacts the activities of all spells, accomplishes what has not been accomplished, and preserves what has been accomplished.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-14">
+            <prop type="location-id">UT22084-095-005-15</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>འདོད་པ་ཐམས་ཅད་རབ་ཏུ་སྦྱིན་པ། སེམས་ཅན་ཐམས་ཅད་བསྲུང་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It fulfills all desires and protects all beings.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-15">
+            <prop type="location-id">UT22084-095-005-15</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཞི་བ། རྒྱས་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It pacifies and enriches.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-16">
+            <prop type="location-id">UT22084-095-005-15</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>སེམས་ཅན་ཐམས་ཅད་རེངས་པར་བྱེད་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It paralyzes all beings and stupefies all beings.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-17">
+            <prop type="location-id">UT22084-095-005-15</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>རྨུགས་པར་བྱེད་པའི་གསང་སྔགས་ཀྱི་མཐུ་ཆེན་པོ་འདི་སངས་རྒྱས་ཀྱི་མཐུས་ལག་ན་རྡོ་རྗེས་རབ་ཏུ་སྨྲས་སོ། །ན་མོ་རཏྣ་ཏྲ་ཡཱ་ཡ། ན་མཤྩཎྜ་བཛྲ་པཱ་ཎ་ཡེ། མ་ཧཱ་ཡཀྵ་སེ་ནཱ་པ་ཏ་ཡེ། ཏ་དྱ་ཐཱ། ཨོྃ་ཏྲུ་ཊ་ཏྲུ་ཊ། །ཏྲོ་ཊ་ཡ་ཏྲོ་ཊ་ཡ། སྥུ་ཊ་སྥུ་ཊ། སྥོ་ཊ་ཡ་སྥོ་ཊ་ཡ། གྷཱུརྞྞ་གྷཱུརྞྞ། གྷཱུརྞྞ་པ་ཡ་གྷཱུརྞྞ་པ་ཡ། སརྦ་སཏྭཱ་ནི། བོ་དྷ་ཡ་བོ་དྷ་ཡ། སཾ་བོ་དྷ་ཡ་སཾ་བོ་དྷ་ཡ། བྷྲ་མ་བྷྲ་མ། སཾ་བྷྲཱ་མ་ཡ་སཾ་བྷྲཱ་མ་ཡ། སརྦ་བྷཱུ་ཏཱ་ནི། ཀུ་ཊ་ཀུ་ཊ། སཾ་ཀུ་ཊ་ཡ་སཾ་ཀུ་ཊ་ཡ། སརྦ་ཤ་ཏྲཱུན། གྷ་ཊ་གྷ་ཊ། །སཾ་གྷ་ཊ་ཡ་སཾ་གྷ་ཊ་ཡ། སརྦ་བིདྱཱ་བཛྲ་བཛྲ། སྥོ་ཊ་ཡ་བཛྲ་བཛྲ། ཀ་ཊ་བཛྲ་བཛྲ། མ་ཊ་བཛྲ་བཛྲ། མ་ཐ་བཛྲ་བཛྲ། ཨཊྚ་ཧཱ་ས་ནཱི་ལ་བཛྲ། སུ་བཛྲཱ་ཡ་སྭཱ་ཧཱ། ཧེ་ཕུལླུ། ནི་རུ་ཕུལླུ། ནི་གྲྀཧྞ་ཀུལླུ། མི་ལི་ཙུལླུ། ཀུ་རུ་ཀུལླུ། བཛྲ་བི་ཛ་ཡཱ་ཡ་སྭཱ་ཧཱ། ཀཱི་ལི་ཀཱི་ལཱ་ཡ་སྭཱ་ཧཱ། ཀ་ཊ་ཀ་ཊ། མ་ཊ་མ་ཊ། ར་ཊ་ར་ཊ། མོ་ཊ་ན་པྲ་མོ་ཊ་ནཱ་ཡ་སྭཱ་ཧཱ། ཙ་ར་ནི་ཙ་ར། ཧ་ར་ཧ་ར། ས་ར་ས་ར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Through the power of the Buddha, Vajrapāṇi proclaimed this exceedingly powerful mantra:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-18">
+            <prop type="location-id">UT22084-095-005-17</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>མཱ་ར་ཡ། བཛྲ་བི་དཱ་རཱ་ཡ་སྭཱ་ཧཱ། ཙྪིནྡ་ཙྪིནྡ། བྷིནྡ་བྷིནྡ། མ་ཧཱ་ཀཱི་ལི་ཀཱི་ལཱ་ཡ་སྭཱ་ཧཱ། བནྡྷ་བནྡྷ། ཀྲོ་དྷ་ཀྲོ་དྷ། ཀཱི་ལི་ཀཱི་ལཱ་ཡ་སྭཱ་ཧཱ། ཙུ་རུ་ཙུ་རུ་ཙཎྜ་ལ་ཀཱི་ལི་ཀཱི་ལཱ་ཡ་སྭཱ་ཧཱ། ཏྲཱ་ས་ཡ་ཏྲཱ་ས་ཡ། བཛྲ་ཀཱི་ལི་ཀཱི་ལཱ་ཡ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>namo ratna­trayāya | namaś</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-19">
+            <prop type="location-id">UT22084-095-005-17</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ཧ་ར་ཧ་ར་བཛྲ་དྷ་རཱ་ཡ་སྭཱ་ཧཱ། པྲ་ཧ་ར་པྲ་ཧ་ར། བཛྲ་པྲ་བྷཉྫ་ནཱ་ཡ་སྭཱ་ཧཱ། མ་ཏི་སྠི་ར་བཛྲ། ཤྲུ་ཏི་སྠི་ར་བཛྲ། པྲ་ཏི་སྠི་ར་བཛྲ། མ་ཧཱ་བཛྲ། ཨ་པྲ་ཏི་ཧ་ཏ་བཛྲ། ཨ་མོ་གྷ་བཛྲ། ཨེ་ཧི་བཛྲ། ཤཱི་གྷཾབཛྲཱ་ཡ་སྭཱ་ཧཱ། དྷ་ར་དྷ་ར། དྷི་རི་དྷི་རི། དྷུ་རུ་དྷུ་རུ། སརྦ་བཛྲ་ཀུ་ལ་མཱ་བརྟ་ཡ་སྭཱ་ཧཱ། ཨ་མུ་ཀཾ་མཱ་ར་ཡ་ཕཊ། ན་མསྶམནྟ་བཛྲཱ་ནཱྃ། སརྦ་བ་ལྃ་ཨཱ་བརྟྟ་ཡ། མ་ཧཱ་བ་ལེ། ཀ་ཊ་བེ། ཏ་ཏ་ལེ། ཨ་ཙ་ལེ། མཎྜལ་མཱ་ཡེ། ཨ་ཏི་བཛྲ། མ་ཧཱ་བ་ལེ། བེ་ག་ར་ཎ། ཨ་ཛི་ཏེ། ཛྭ་ལ་ཛྭ་ལ། ཏི་ཊི་ཏི་ཊི། ཏིངྒ་ལེ། ད་ཧ་ད་ཧ། ཏེ་ཛོ་བ་ཏི། ཏི་ལི་ཏི་ལི། བནྡྷ་བནྡྷ། མ་ཧཱ་བ་ལེ། བཛྲཱཾཀུ་ཤ་ཛྭ་ལ་ཡ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>caṇḍa­vajra­pāṇaye | mahā­yakṣa­senāpataye | tadyathā | oṁ truṭa truṭa  | troṭaya troṭaya | sphuṭa sphuṭa  | sphoṭaya sphoṭaya | ghūrṇa ghūrṇa  | ghūrṇa­paya ghūrṇa­paya  | sarva­satvāni | bodhaya bodhaya  | saṃ­bodhaya saṃ­bodhaya |   bhrama bhrama | saṃbhramaya saṃ­bhramaya  | sarva­bhūtāni kuṭa kuṭa | saṃkuṭaya saṃ­kuṭaya | sarva­śatrūn ghaṭa ghaṭa | saṃgha­ṭaya saṃgha­ṭaya | sarva­vidyā vajra vajra | sphoṭaya vajra vajra | kaṭa vajra vajra | maṭa vajra vajra | matha vajra vajra | aṭṭahāsanīla vajra  | suvajrāya svāhā | he phullu  | niruphullu | nigṛhṇa kullu | mili cullu  | kuru­kullu  | vajra­vijayāya svāhā | kīli kīlāya svāhā  | kaṭa kaṭa | maṭa maṭa | raṭa raṭa | moṭana pramoṭanāya svāhā | caranicara  | hara hara | sara sara māraya | vajra­vīdārāya svāhā | chinda chinda | bhinda bhinda | mahā­kīli­kīlāya svāhā | bandha bandha | krodha krodha | kīli­kīlāya svāhā | curu curu caṇḍala­kīli kīlāya svāhā | trāsaya trāsaya  | vajrakīli kīlāya | hara hara vajra­dharāya svāhā | prahara prahara | vajra­prabhañjanāya svāhā | matisthira vajra | śrutisthira vajra | pratisthira vajra | mahā­vajra | apratihata vajra | amogha vajra | ehi vajra  | śīghraṁ vajrāya svāhā | dhara dhara dhiri dhiri dhuru dhuru sarva­vajra­kulamāvartāya svāhā | amukam māraya phaṭ  | namas samanta­vajrānām  | sarva­balam āvartaya | mahābale | kaṭabale | tatale  | acale | maṇḍalamāye  | ativajra | mahābale | vegaraṇa  | ajite | jvala jvala | ti ṭi ti ṭi | piṅgale | daha daha  | tejovati | tili tili  | bandha bandha  | mahā­bale | vajrāṃkuśajvālaya svāhā |</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-20">
+            <prop type="location-id">UT22084-095-005-62</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ན་མོ་རཏྣ་ཏྲ་ཡཱ་ཡ། ན་མཤྩཎྜ་བཛྲ་པཱ་ཎ་ཡེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>namo ratna­trayāya | namaś</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-21">
+            <prop type="location-id">UT22084-095-005-62</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>མ་ཧཱ་ཡཀྵ་སེ་ནཱ་པ་ཏ་ཡེ། ཏ་དྱ་ཐ། ཨོྃ་ཧ་ར་ཧ་ར་བཛྲ། མ་ཐ་མ་ཐ་བཛྲ། དྷུ་ན་དྷུ་ན་བཛྲ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>caṇḍa­vajra­pāṇaye | mahā­yakṣa­senāpataye | tadyathā | oṁ hara hara vajra | matha matha vajra  | dhuna dhuna vajra  | daha daha vajra | paca paca vajra  | dhara dhara vajra  | dhāraya dhāraya vajra  | dāruṇa dāruṇa vajra  | chinda chinda vajra  | bhinda bhinda vajra  | hūṁ phaṭ ||</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-22">
+            <prop type="location-id">UT22084-095-005-75</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ད་ཧ་ད་ཧ་བཛྲ། པ་ཙ་པ་ཙ་བཛྲ། དྷ་ར་དྷ་ར་བཛྲ། དྷཱ་ར་ཡ་དྷཱ་ར་ཡ་བཛྲ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>namaś</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-23">
+            <prop type="location-id">UT22084-095-005-75</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དཱ་རུ་ཎ་དཱ་རུ་ཎ་བཛྲ། ཙྪིནྡ་ཙྪིནྡ་བཛྲ། བྷིནྡ་བྷིནྡ་བཛྲ་ཧཱུྃ་ཕཊ། ན་མཤྩཎྜ་བཛྲ་ཀྲོ་དྷཱ་ཡ། ཧུ་ལུ་ཧུ་ལུ། ཏིཥྛ་ཏིཥྛ། བནྡྷ་བནྡྷ། ཧ་ན་ཧ་ན། ཨ་མྲྀ་ཏེ་ཧཱུྃ་ཕཊ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>caṇḍa­vajra­krodhāya  | hulu hulu  | tiṣṭha tiṣṭha | bandha bandha | hana hana  | amṛte hūṁ phaṭ ||</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-24">
+            <prop type="location-id">UT22084-095-005-82</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>སྡིག་པ་ཐམས་ཅད་བྱང་བྱས་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Purifying all negativity</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-25">
+            <prop type="location-id">UT22084-095-005-82</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྡུག་བསྔལ་ཐམས་ཅད་མེད་པར་བྱེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And annihilating all suffering,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-26">
+            <prop type="location-id">UT22084-095-005-82</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྒྱུད་དོ་ཅོག་གི་རྩ་བ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>This, the root of all tantras,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-27">
+            <prop type="location-id">UT22084-095-005-82</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དཔལ་ཀུན་གྱིས་ནི་ལེགས་པར་བརྒྱན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Is well adorned by every kind of splendor. “All beings with declining faculties, Those whose longevity is diminished or weakened, Those in poverty or beset with desire, Those whom the deities have abandoned, “Those who are at odds with their families, Oppressed servants and slaves, Parties in disagreement with each other,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-28">
+            <prop type="location-id">UT22084-095-005-82</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སེམས་ཅན་དབང་པོ་ཉམས་པ་དང་། །ཚེ་ཟད་པ་དང་ཚེ་ཉམས་དང་། །ཕུན་སུམ་ཚོགས་མིན་གང་ཆགས་དང་། །ལྷ་རྣམས་རྒྱབ་ཀྱིས་ཕྱོགས་པ་དང་། །མཛའ་སྡུག་སྐྱེ་བོ་སྡང་བ་དང་། །བྲན་བཟའ་ལ་སོགས་གཙེས་པ་དང་། །ཕན་ཚུན་མཐུན་པ་མ་ཡིན་དང་། །ནོར་འགྲིབས་པས་ནི་གནོད་པ་དང་། །མྱ་ངན་ངལ་ལས་གནོད་པ་དང་། །འཇིགས་པ་དང་ནི་ཕོངས་པ་དང་། །གཟའ་དང་རྒྱུ་སྐར་བྱད་སྟེམས་དང་། །མི་བཟད་གདོན་གྱིས་ཉེན་པ་དང་། །མྱ་ངན་ངལ་ལས་བྱུང་བ་ཡི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Those harmed by loss of wealth, “Those who are pained by weariness and grief, Fearful and destitute people, Those harmed by planets, constellations, curses, And unbearable grahas,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-29">
+            <prop type="location-id">UT22084-095-005-87</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྨི་ལམ་སྡིག་པ་མཐོང་ན་ཡང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“And even those who have nightmares Born from their weariness and grief—</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-30">
+            <prop type="location-id">UT22084-095-005-87</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེས་ནི་རབ་བཀྲུས་གཙང་མ་ཡིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>This will cleanse them completely;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-31">
+            <prop type="location-id">UT22084-095-005-87</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མདོ་སྡེ་དམ་པ་མཉན་པར་བྱ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>All should listen to this sacred discourse.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-32">
+            <prop type="location-id">UT22084-095-005-88</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་དག་ཡིད་དགེ་སེམས་དང་ཞིང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Those whose minds are virtuous and pure</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-33">
+            <prop type="location-id">UT22084-095-005-88</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གཙང་མའི་གོས་ཀྱིས་རབ་བརྒྱན་ཏེ། །ཟབ་མོ་སངས་རྒྱས་སྤྱོད་ཡུལ་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And who are dressed in clean clothes</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-34">
+            <prop type="location-id">UT22084-095-005-88</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མདོ་སྡེ་འདི་ནི་ཉན་བྱེད་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Should listen to this discourse— The profound domain of the buddhas.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-35">
+            <prop type="location-id">UT22084-095-005-89</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མདོ་སྡེ་འདི་ཡི་གཟི་བརྗིད་ཀྱིས། །སྲོག་ཆགས་དག་ནི་ཐམས་ཅད་ཀྱི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Then, through the splendor of this discourse,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-36">
+            <prop type="location-id">UT22084-095-005-89</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མི་བཟད་པ་ཡི་ནད་རྣམས་ཀྱང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Even the most unbearable diseases</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-37">
+            <prop type="location-id">UT22084-095-005-89</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་དག་ཐམས་ཅད་ཞི་བར་བལྟ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Of all living beings Will be quelled.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-38">
+            <prop type="location-id">UT22084-095-005-90</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཚེ་དང་བསོད་ནམས་འཕེལ་བར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Beings’ lifespans and merit will increase,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-39">
+            <prop type="location-id">UT22084-095-005-90</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྡིག་པ་ཀུན་ལས་རྣམ་པར་གྲོལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And they will be liberated from all negativity. Gather jewels, mustard seeds, doob grass,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-40">
+            <prop type="location-id">UT22084-095-005-90</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ནོར་བུ་ཡུངས་ཀར་དཱུར་བ་དང་། །རིན་ཆེན་རྨ་མེད་ཙནྡན་བཅས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Gems, flawless sandalwood,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-41">
+            <prop type="location-id">UT22084-095-005-91</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཤེལ་དང་རྡོ་རྗེ་མེ་ཏོག་དང་། །ཆུ་ཡིས་གསེར་རམ་ཡང་ན་ནི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Crystals, diamonds, and flowers, And use water to fill a vase of proper material,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-42">
+            <prop type="location-id">UT22084-095-005-91</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དངུལ་གྱི་བུམ་པ་དག་ཀྱང་རུང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Such as gold or silver,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-43">
+            <prop type="location-id">UT22084-095-005-91</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གཙང་མའི་གོས་ཀྱིས་དཀྲི་ཞིང་དགང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And wrap it in clean cloth. “After reciting the vajra conqueror</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-44">
+            <prop type="location-id">UT22084-095-005-91</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ལན་གྲངས་ཉི་ཤུ་རྩ་གཅིག་གམ། །ཡང་ན་ལན་གྲངས་བརྒྱ་རྩ་བརྒྱད། །རྡོ་རྗེ་རྣམ་འཇོམས་བཟླས་ནས་ནི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Twenty-one or one hundred and eight times,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-45">
+            <prop type="location-id">UT22084-095-005-91</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྒྱལ་པོ་རྟག་ཏུ་ཁྲུས་གྱིས་ཤིག །རྡོ་རྗེས་རྣམ་པར་འཇོམས་པ་ཞེས་བྱ་བའི་གཟུངས་རྫོགས་སོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>A king should, in this way, Always perform ablutions. This concludes the dhāraṇī “ Vajra Conqueror</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-095-005-TU-46">
+            <prop type="location-id">UT22084-095-005-94</prop>
+            <prop type="revision">v-1.0.11-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།།རྒྱ་གར་གྱི་མཁན་པོ་ཛི་ན་མི་ཏྲ་དང་། དཱ་ན་ཤཱི་ལ་དང་། བོད་ཀྱི་ལོ་ཙྪ་བ་བནྡེ་ཡེ་ཤེས་སྡེས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>This text was translated, edited, and finalized by the Indian preceptors Jinamitra and Dānaśīla, along with the Tibetan translator Bandé Yeshé Dé.</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

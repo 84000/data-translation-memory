@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+	<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-094-008" eft:text-version="v-1.1.3-2020"/>
+<body>
+<tu>
+            <prop type="folio">F.222.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཕགས་མ་སྒྲོལ་མ་འཇིགས་པ་བརྒྱད་ལས་སྐྱོབ་པའི་མདོ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Noble Sūtra Tārā Who Protects from the Eight Dangers</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-008-25"/>Homage to the Three Jewels.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྗེ་བཙུན་མ་སྒྲོལ་མ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Homage to the venerable lady Tārā.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཤཱཀྱ་ཐུབ་པ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Homage to the Blessed Śākyamuni.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-008-26"/>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་རི་རབ་ཀྱི་སྟེང་ལྷའི་གནས་ན་བཞུགས་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Blessed One was dwelling in the realm of gods atop Mount Meru.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ཉིད་དུ་འཁོར་རྣམས་ཀྱི་ནང་ནས་ལྷ་མོ་སྒྲོལ་མས་འདི་སྐད་ཅེས་སྨྲས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>At that time, the goddess Tārā, who was in the assembly, spoke the following words:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མཐོ་རིས་རིན་ཆེན་ལྟ་བུ་འདི་ཐོབ་ནས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-008-27"/>“Now that you have reached this jewel-like higher realm,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལས་དང་ལས་ཀྱི་འབྲས་བུ་ཤེས་པར་བྱོས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>You should understand actions and their results:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཟང་པོ་སྟེན་ཅིང་ངན་པ་སྤང་བར་གྱིས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Adhere to the good and abandon the bad,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་དག་སྡིག་པའི་ལས་རྣམས་སྤྱོད་བྱེད་པ། །འཇིག་<tei:ref folio="F.223.a"/>རྟེན་ཕ་རོལ་ཐུར་དུ་འབབ་འགྱུར་ཏེ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>For those who engage in evil actions Will plunge downward when they pass from this world.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དུད་འགྲོ་གླེན་ལྐུགས་གཅིག་ལ་གཅིག་ཟ་དང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-008-28"/>“Animals, dull and mute, devour one another.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གྱེན་ཐུར་འབབ་འཛེག་གཡང་ས་ངལ་བའི་ལམ། །འཇིགས་ཤིང་དངངས་སྐྲག་ཤིན་ཏུ་སྐྱི་གཡའ་བ། །ཟོན་དང་བཅས་པའི་སྡུག་བསྔལ་བསམ་མི་ཁྱབ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They climb and descend, up and down, on an abysmal path of toil. Terrified and afraid, they tremble in panic, As their dreadful suffering defies imagination.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡི་དགས་ལྟོགས་ཤིང་སྐོམ་དང་ལུས་མི་འཚམ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-008-29"/>“ Pretas suffer from hunger and thirst, their bodies deformed.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཟའ་བཏུང་སྣང་ཡང་གཞན་གྱིས་བསྲུངས་པ་དང་། །ཁ་ཅིག་ཟོས་ཀྱང་མེ་དང་མཚོན་དུ་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>If food and drink should appear, it is guarded by others, And even if they consume a little, it turns into fire and swords.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྟོགས་ཤིང་སྐོམ་པའི་སྡུག་བསྔལ་བསམ་མི་ཁྱབ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Their suffering from hunger and thirst defies imagination.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དམྱལ་བར་སྐྱེས་པའི་སེམས་ཅན་དེ་དག་ནི། །རང་དབང་མེད་པར་གཤིན་རྗེ་གདུག་པས་ཁྲིད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-008-30"/>“Those beings who are born in the hell realms Are powerlessly led by Yama’s henchmen.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བསྲེགས་ཤིང་བཙོས་ཏི་མཚོན་གྱིས་རབ་ཏུ་འཐུབ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Burned and boiled, they are sliced asunder by swords;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བསྲན་གླགས་མེད་པའི་སྡུག་བསྔལ་ཚ་དང་གྲང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Their suffering from heat and cold is unbearable.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེས་ན་ཚེ་འདིར་སྡིག་པའི་ལས་བྱེད་པ། །རང་གིས་རང་ལ་མངན་ནི་ཆེར་བྱས་ཡིན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-008-31"/>“Thus, those who commit evil deeds in this life Are committing a great injury to themselves.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བསྐལ་པ་མང་པོར་སྡུག་བསྔལ་དྲག་པོས་གདུངས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They will be tormented by intense suffering for many eons,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐར་པའི་དུས་མེད་བསྲན་པའི་གླགས་ཀྱང་མེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>With no chance to escape and no means of enduring it.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དྲན་པ་གསལ་བས་ལས་ཀྱི་འབྲས་བུར་ཤེས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-008-32"/>“Keep this clearly in mind, and understand the results of actions.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྡུག་བསྔལ་མ་བཟོད་སྨྲེ་སྔགས་རང་ལ་རྨོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Otherwise you will sow your own unbearable suffering and lament.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐད་ངན་དྲག་པོའི་ཀུ་སྒྲས་གཞན་ཡང་སྐྲག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Even others will be frightened by the terrible din of your agonized screams,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ལ་སོགས་ཏེ་སྡུག་བསྔལ་བསམ་མི་ཁྱབ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>For these kinds of sufferings are beyond imagination!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་དག་ཉེས་དམིགས་རབ་ཏུ་ཤེས་གྱིས་ལ། །ངན་སོང་གསུམ་གྱི་རྒྱུ་རྣམས་རབ་ཏུ་སྤངས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-008-33"/>“Whoever understands such grave faults Will abandon the causes of the three lower realms.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྡིག་པའི་རྣམ་པ་ཕྲ་རགས་གང་ལ་ཡང་། །ལུས་ངག་ཡིད་ཀྱི་སྒོ་ནས་སྤྱད་ཏ་རེ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Wherever evil manifests, subtle or coarse, Act swiftly by way of body, speech, and mind.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རང་ཡང་བདེ་ལ་འགྲོ་རྣམས་ཡོངས་ལ་ཕན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-008-34"/>“You will then be happy and offer help to all beings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆགས་སྡང་རྨོངས་སྤངས་སྙིང་རྗེའི་རྩ་བ་བརྟན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>You will give up attachment, aversion, and ignorance and strengthen the root of compassion.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྒོ་གསུམ་དང་བས་འབད་དེ་དགེ་བ་སྤྱད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>You will practice virtue, striving avidly with body, speech, and mind, And</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཤིན་ཏུ་ཟབ་པའི་སྙིང་པོ་འདི་ལ་འབད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>endeavor in this most profound quintessence.<tei:note xml:id="UT22084-094-008-35"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མེ་ཏོག་སད་ཀྱིས་ཁྱེར་བའི་འབྲས་བུ་ལ། །སོ་ནམ་བྱས་ཀྱང་མྱུ་གུ་མི་སྐྱེ་ལྟར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-008-36"/>“The fruit of a flower overcome by frost, Although cultivated, will produce no sprouts. Likewise,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྡོམ་ཉམས་ཐེ་ཚོམ་ཟོས་པའི་གང་ཟག་གིས། །ཤིན་ཏུ་ཟབ་པའི་རིག་སྔགས་བསྒྲུབ་གྱུར་ཀྱང་། །བྱིན་བརླབས་འབྱུང་ངོ་སྙམ་ཡང་འབྱུང་མི་སྲིད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>those who transgress their vows and entertain doubts May practice the most profound of vidyāmantras, Thinking, ‘Blessings will come,’ but this is impossible—</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྩོལ་བ་དེ་དག་ངལ་བ་དོན་མེད་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Their efforts amount to meaningless hardship.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རིག་སྔགས་དེ་ཡང་སྐྱེ་བོའི་ཚིག་དང་མཚུངས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-008-38"/>“Their vidyāmantra becomes like the prattle of common folk, And</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཏིང་འཛིན་རྣམས་ཀྱང་བྱིས་པའི་བསམ་པ་འདྲ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>their absorption resembles the musings of a child.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐྱོན་མེད་སྐྱེས་བུས་རིག་སྔགས་དེ་བསྒྲུབས་ན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>But if people without fault practice vidyāmantras, </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་<tei:ref folio="F.223.b"/>འདོད་པ་བཞིན་དུ་མྱུར་དུ་འགྲུབ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They shall swiftly accomplish whatever they desire.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དཔེར་ན་ནྱ་གྲོ་དྷ་ཡི་ས་བོན་ནི། །ཤིན་ཏུ་ཕྲ་ཡང་ཆུ་ལུད་ལེགས་བྲན་ན། །དགུང་ཟླ་བདུན་ན་དཔག་ཚད་ཙམ་དུ་སྐྱེ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-008-39"/>“Minute though it is, the seed of the banyan tree Well moistened with water and manure In seven months can grow as much as a league.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བེམས་པོ་ཕྱི་ཡི་འགྱུར་ཡང་དེ་འདྲ་ན། །རིག་པས་རིག་པ་བསྒྲུབ་པ་ལྟ་ཅི་སྨོས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>If there can be so much change in outer matter, What need to speak of accomplishing knowledge with knowledge?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འོད་གསལ་ནང་གི་འགྱུར་ལ་དཔག་ཏུ་མེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The inner change of luminosity is beyond all measure.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚོང་དཔོན་ལམ་ལ་མཁས་པ་དག་ལ་བརྟེན། །གྲུ་ཚགས་ལེགས་པས་རྒྱ་མཚོར་ཞུགས་གྱུར་ན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-008-40"/>“If one relies on a merchant who knows the way And sets out to sea in an excellent ship,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རིན་ཆེན་འདོད་པ་བཞིན་དུ་རྙེད་གྱུར་ནས། །རང་གི་གནས་སུ་ལེགས་པར་ཕྱིན་པ་ཡིན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>One will find whatever riches are desired And sail smoothly back to one’s home.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱམས་དང་སྙིང་རྗེ་དགའ་དང་བཏང་སྙོམས་རྟེན། །བྱང་ཆུབ་སེམས་ལྡན་དགེ་བ་སྦྱང་གྱུར་ན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-008-41"/>“If one relies on love, compassion, joy, and equanimity And practices virtue endowed with the mind of awakening,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡང་དག་རྫོགས་ཀྱི་ལམ་ལ་ཞུགས་འགྱུར་ཏེ། །ངེས་པར་མཁྱེན་ཉིད་ས་ལ་འགྲོ་བར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>One will set out on a truly perfect path And be sure to reach the land of wisdom.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མདའ་ཉིད་སྐྱེས་བུའི་འཐེབ་ནས་ཤོར་གྱུར་ན། །མི་འཕང་སྙམ་ཡང་ཤིན་ཏུ་འཕངས་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-008-43"/>“When an arrow is released from a person’s fingers, It has certainly been shot, even if one thinks otherwise.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་ཉིད་དོན་ཀུན་ཆུབ་པའི་གང་ཟག་ནི། །མི་ཕྱིན་སྙམ་ཡང་ཕ་རོལ་ཕྱིན་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>When a person fully comprehends the meaning of reality, The other shore has been reached, even if one thinks otherwise.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱ་ཆའི་རྣམ་པ་རང་བཞིན་རྫོགས་གྱུར་ནས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-008-44"/>“Once the aspects of conduct are naturally perfected,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་འབྲས་བུ་འཐོབ་པར་ཐེ་ཙོམ་མེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The fruit of buddhahood will undoubtedly be attained.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་ཉིད་རྣམ་པར་དག་པ་དེ་རྟོགས་ན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>When the pristine nature of reality is realized,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བདག་མེད་སྲོག་མེད་སྲོག་ཀྱང་གཅད་དུ་མེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>There is no self, no life force, and also no termination of life force.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལས་མེད་དེ་ཡི་རྣམ་པར་སྨིན་པ་མེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>There is no action and no ripening of action.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མཐའ་རྣམས་རབ་སྤངས་སྐྱེས་བུ་རྣམ་པར་གྲོལ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The extremes are abandoned, and one is liberated.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་དོན་རྟོགས་ཕྱིར་བདག་གིས་བཤད་པ་ཡི། །སྙིང་པོ་འདི་ལ་གུས་པས་བཟླས་གྱུར་ན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-008-45"/>“In order for you to realize that goal, Devotedly recite this quintessence as I proclaim it. If you do,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བསྐལ་པ་གྲངས་མེད་གསུམ་གྱི་སྡིག་ཀྱང་འཛད། །ངན་སོང་གསུམ་དང་འཁོར་བའི་སྡུག་བསྔལ་ཀུན། །རབ་ཏུ་སྦྱོང་ཞིང་སྒྲིབ་པ་རྣམས་ཀྱང་འདག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>the evil deeds of three incalculable eons will be eradicated, The three lower realms and all the suffering of saṃsāra will be purified, And the obscurations will be cleared away.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དོན་དང་ལྡན་པའི་སྙིང་པོ་འདི་ལྟ་སྟེ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The meaningful quintessence is as follows:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཨོཾ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་མོ། ལྷ་མོ་ཁྱོད་ཀྱིས་བསྐྱབ་ཏུ་གསོལ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-008-47"/>oṁ , bodhisattva great lady, goddess, please protect us!<tei:note xml:id="UT22084-094-008-48"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.b</prop>
+            <prop type="alternative-source"/>
+	<tuv xml:lang="bo">
+                <seg>ཨོཾ་ན་མོ་ཨཱརྱ་ཨ་བ་ལོ་ཀི་ཏེ་ཤྭ་རཱ་ཡ། བོ་དྷི་སཏྭཱ་ཡ། མ་ཧཱ་སཏྭཱ་ཡ། མ་ཧཱ་ཀཱ་རུ་ཎི་ཀཱ་ཡ། ཏདྱ་ཐཱ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>oṁ nama āryāvalokiteśvarāya bodhi­sattvāya mahā­sattvāya mahā­kāruṇikāya |<tei:note xml:id="UT22084-094-008-49"/> tadyathā |<tei:note xml:id="UT22084-094-008-50"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.223.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཨོཾ་ཏཱ་རེ་ཏུཏྟཱ་རེ་ཏུ་རེ་སརྦ་དུཥྚཱ་ན། པྲ་དུཥྚཱ་ན་མ་མ་ཀྲྀ་ཏེ། ཛམྦྷ་ཡ། སྟམྦྷ་ཡ། མོ་ཧ་ཡ། བན་དྷ་ཡ། ཧཱུྃ་ཧཱུྃ་ཧཱུྃ། ཕཊ་ཕཊ་ཕཊ་སྭཱ་ཧཱ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>oṁ tāre tuttāre ture sarva­duṣṭān praduṣṭān mama kṛte jambhaya stambhaya mohaya bandhaya hūṁ hūṁ hūṁ phaṭ phaṭ phaṭ svāhā |<tei:note xml:id="UT22084-094-008-51"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.224.a</prop>
+            <prop type="alternative-source"/>
+	<tuv xml:lang="bo">
+                <seg>མ་མ་ཨཱརྱཱ་བ་ལོ་བྷ་ཡཱ་ན་རཱ། བོ་དྷི་སཏྭཱ། མ་ཧཱ་སཏྭཱ་ནི། ཨདྷི་ཥྛཱི་ཏེ་མ་མ་སརྦ་ཀརྨ་ཨཱ་བ་ར་ཎ་སྭ་བྷཱ་བ། ཤུད་དྷེ་<tei:ref folio="F.224.a"/>བི་ཤུ་ད་དྷེ། ཤོ་དྷ་ཡ་བི་ཤོ་དྷ་ཡ་ཧཱུྃ་ཕཊ་སྭཱ་ཧཱ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>nama āryāvalobhayā narā bodhisattvā mahā­sattvāni adhiṣṭhānādhiṣṭhite mama sarva­karmāvaraṇa svabhāva­śuddhe viśuddhe śodhaya viśodhaya hūṁ phaṭ svāhā |<tei:note xml:id="UT22084-094-008-52"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.224.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་སངས་རྒྱས་ཉིད་ཀྱིས་སུ། །ལྷ་མོ་ཉིད་ལ་རབ་ཏུ་བསྟོད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-008-53"/>Then the gods praised the goddess Who was herself the embodiment of buddhahood:<tei:note xml:id="UT22084-094-008-54"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.224.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐུགས་རྗེ་ཤིན་ཏུ་ཆེ་བས་འགྲོ་བའི་དོན་མཛད་མ། །མཚན་དང་དཔེ་བྱད་རྫོགས་ཤིང་རིན་ཆེན་རྒྱན་གྱིས་སྤྲས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-008-111"/>“Lady who acts with immense compassion for the good of beings— You have all the major and minor marks and are bedecked with precious substances.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.224.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཤིན་ཏུ་མཛེས་ཚུལ་འཛུམ་ཞིང་བཞད་པའི་བཞིན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Your smile is ravishing, your countenance is joyful, And</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.224.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྤྱན་གྱི་སྐྱེ་མཆེད་ཟར་མའི་པདྨ་འདྲ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>your eyes are like flax blossoms.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.224.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྙན་གྱི་སྐྱེ་མཆེད་ཨུག་ཅོས་བྱེ་བ་འདྲ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-008-57"/>“Your ears are like blossoming trumpet flowers.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.224.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཤངས་ཀྱི་སྐྱེ་མཆེད་ཨུཏྤལ་བུམ་བུ་འདྲ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Your nose is like a lotus bud.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.224.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཞལ་གྱི་མཆེད་ཧ་ལོ་རྒྱས་པ་འདྲ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Your mouth is like a mallow in full bloom.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.224.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྣ་ཚོགས་སྐུ་མངའ་ན་ཆུང་མཚན་ལྡན་སྐུ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>You have a sparkling body and the figure of a young maiden.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.224.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་ཀྱི་སྒྲ་སྒྲོགས་ཀ་ལ་པིང་ཀའི་གསུང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-008-60"/>“Your speech is like a kalaviṅka bird, proclaiming the Dharma.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.224.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་ཀུན་ལ་བྱམས་མགོན་ཐུགས་རྗེའི་ཐུགས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Your compassionate mind guards all beings with love.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.224.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཁོར་བའི་སྐྱོན་གྱིས་མ་གོས་པདྨ་གཡོན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Your left hand holds a lotus, for you are unstained by saṃsāra’s flaws.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.224.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་དོན་རྣམས་མཛད་ཕྱིར་སྐྱབས་སྦྱིན་གཡས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Your right hand grants protection to all beings to fulfill their aims.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.224.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐབས་དང་ཤེས་རབ་ཉི་ཟླའི་གདན་ལ་བཞུགས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-008-61"/>“You are seated on the sun and moon of method and wisdom.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.224.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྗེ་བཙུན་སྒྲོལ་མ་ལ་ནི་སྐྱབས་སུ་མཆི། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Venerable lady Tārā, we take refuge in you!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.224.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཁོར་བའི་གཡང་ས་ཆེ་ལས་བདག་སྐྱོབས་ཤིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Protect us from the great abyss of saṃsāra!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.224.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འགྲོ་དྲུག་རང་ཁའི་གནས་སུ་འཁོར་ར་རེ། །ཐུགས་རྗེ་ཆེན་མོའི་ཞགས་པས་བདག་ཟུང་ཤིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-008-62"/>“As we circle within the six transmigrations, May you secure us with your noose of great compassion.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.224.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ངན་སོང་གསུམ་གྱི་གནས་སུ་ཤོར་ར་རེ། །འཁྱམས་མེད་པ་ཡི་ལམ་དུ་བདག་ཆུག་ཤིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>As we go astray into the three lower realms, May you place us on a path free from straying.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.224.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལོག་པར་ལྟ་བའི་རིགས་སུ་སྐྱེས་ས་རེ། །བླ་མ་བྱང་སེམས་མངའ་དང་བདག་སྤྲོད་ཅིག །བཤེས་གཉེན་ངན་པ་དག་དང་ཕྲད་ཏ་རེའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-008-63"/>“As we are born into families with wrong views, Please introduce us to teachers who possess the mind of awakening, Lest we encounter unwholesome teachers.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.224.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སེང་གེ་གླང་ཆེན་མེ་དང་སྦྲུལ། །མི་རྒོད་ཆུ་དང་རིམས་རྣམས་དང་། །ཤ་ཟས་འཇིགས་པ་བརྒྱད་པོ་ལས། །སྐྱོབ་མཛད་ཁྱེད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-008-64"/>“You protect from the eight dangers— Lions, elephants, fire, snakes, Robbers, waters, infectious diseases, and demons. We pay homage to you!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.224.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་འདི་དང་གཞན་དག་ཏུ། །འཇིགས་པ་བརྒྱད་ལས་བསྐྱབ་ཏུ་གསོལ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>In this world and in others as well, Protect us from these eight dangers!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.224.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕ་རོལ་འབྲས་བུ་མ་ཐོབ་བར་དག་ཏུ། །སྦྱིན་དང་ཚུལ་ཁྲིམས་བཟོད་པ་བརྩོན་འགྲུས་དང་། །བསམ་གཏན་ཤེས་རབ་ཐབས་དང་སྨོན་ལམ་དང་། །སྟོབས་དང་དེ་བཞིན་ཡེ་ཤེས་ཕ་རོལ་ཕྱིན། །བཅུ་པོ་དེ་དང་མི་འབྲལ་འགྲོགས་པར་ཤོག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-008-65"/>“Until we have reached our goal, the other shore, May we make the ten perfections of generosity, moral conduct, Patience, diligence, concentration, insight, Method, aspiration, strength, and wisdom Our inseparable allies!”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.224.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་ལ་ལས་ཆོས་འདི་བྲི་བ་དང་། བཀླག་པ་དང་། ཁ་ཏོན་དང་། ཀུན་ཆུབ་པ་དང་། ཚུལ་བཞིན་དུ་ཡིད་ལ་བྱ་བ་དང་། གཞན་དག་ལ་ཡང་རྒྱ་ཆེར་བསྟན་པར་<tei:ref folio="F.224.b"/>བྱའོ་ཞེས་བཀའ་སྩལ་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-008-67"/>The Blessed One then declared, “Sons and daughters of noble family should write down this teaching, read it, recite it, understand it, contemplate it correctly, and explain it extensively to others.” </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.224.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐམས་ཅད་དང་ལྡན་པའི་འཁོར་རྣམས་ཡི་རངས་ཏེ་མངོན་པར་བསྟོད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>At this point, the whole assembly rejoiced and offered praise.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.224.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྗེ་བཙུན་མ་སྒྲོལ་མ་འཇིགས་པ་བརྒྱད་ལས་སྐྱོབ་པའི་མདོ་རྫོགས་སོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-008-69"/>This completes the sūtra “Venerable Lady Tārā Who Protects from the Eight Dangers.”<tei:note xml:id="UT22084-094-008-70"/>
+                </seg>
+            </tuv>
+</tu>
+</body>
+</tmx>

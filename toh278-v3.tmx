@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+    <header creationtool="linguae-dharmae/84000" creationtoolversion="2.16.12a" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-068-012" eft:text-version="v-1.0.2-2022" eft:source-ref="/db/apps/84000-data/uploads/linguae-dharmae/aligned/31-10-2022/complete/toh278-bo_aligned.txt"/>
+    <body>
+        <!--<tu id="UT22084-068-012-TU-3">
+            <tuv xml:lang="bo"><seg>༄༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་མཾ་ག་ལ་ཨཥྚ་ཀཾ་ནཱ་མ་མ་ཧཱ་ཡཱ་ན་སཱུ་ཏྲ། བོད་སྐད་དུ།</seg></tuv>
+            <tuv xml:lang="en"><seg></seg></tuv>
+        </tu>-->
+        <tu id="UT22084-068-012-TU-4">
+            <prop type="location-id">translation</prop>
+            <prop type="revision">v-1.0.2-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Noble Mahāyāna Sūtra The Eight Auspicious Ones</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-5">
+            <prop type="location-id">UT22084-068-012-24</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Homage to all buddhas and bodhisattvas.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-6">
+            <prop type="location-id">UT22084-068-012-24</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-7">
+            <prop type="location-id">UT22084-068-012-24</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཡངས་པ་ན་ཨ་མྲ་སྲུང་བའི་ཚལ་ན་བཞུགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One was dwelling in Vaiśālī at  Āmrapālī’s grove.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-8">
+            <prop type="location-id">UT22084-068-012-24</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་ལིཙྪ་བཱིའི་བུ་རྩལ་རབ་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>A Licchavi youth, Superior Skill, went to where the Blessed One was.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-9">
+            <prop type="location-id">UT22084-068-012-24</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ། བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Upon arriving, he bowed his head at the Blessed One’s feet and addressed the Blessed One with these words:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-10">
+            <prop type="location-id">UT22084-068-012-27</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་གང་ལ་ལ་སྔོན་གྱི་སྨོན་ལམ་ཕུན་སུམ་ཚོགས་པ་དག་བཞུགས་པ་བཅོམ་ལྡན་འདས་གང་དག་ཐོས་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“There are some blessed, thus-gone, worthy, perfect buddhas presently dwelling in fulfillment of their former aspirations. If I hear about those blessed ones, I will venerate them on the crown of my head.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-11">
+            <prop type="location-id">UT22084-068-012-27</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>བདག་གིས་སྤྱི་བོས་བཀུར་ཞིང་གང་དག་བདག་གིས་སྤྱི་བོས་བཀུར་བས་མིའམ་མི་མ་ལགས་པ་ལས་འཇིགས་པའམ། གཙེ་བ་འབྱུང་བར་མི་འགྱུར་བ་དང་། བཅོམ་ལྡན་འདས་བདག་རྒྱལ་པོའི་ཕོ་བྲང་དུ་མཆིས་ཏེ། སྨྲ་བརྗོད་པ་ན་ཅི་ནས་གང་གིས་ཀྱང་སྨྲ་བ་ལ་ཟློག་པ་མི་བགྱིད་ཅིང་ཟིལ་གྱིས་མི་ནོན་པ་དང་། མཚན་དེ་དག་ཉིད་བདག་འཛིན་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>By venerating them on the crown of my head, I will not be threatened or harmed by human or nonhuman beings, Blessed One, and when I speak at a royal palace, whatever I say will not be repudiated or overruled under any circumstance.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-12">
+            <prop type="location-id">UT22084-068-012-27</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>གཉིད་ཀྱིས་ལོག་ན་ཡང་སྡིག་པའི་རྨི་ལམ་རྨི་བར་མི་འགྱུར་བ་དང་། བདག་མཚོན་ཆ་གཟས་པའི་གཡུལ་གྱི་ནང་དུ་ཞུགས་ན་ཡང་ལུས་ལ་མཚོན་ཆ་རྣམས་ཕོག་པར་མི་འགྱུར་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>If I remember their names, I will not even dream bad dreams while sleeping, and if I enter into a battle where swords are drawn, those swords will not strike me, and I will be delivered from it safely.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-13">
+            <prop type="location-id">UT22084-068-012-27</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ལས་བདེ་བར་ཐར་བར་ཡང་འགྱུར་བ་དེ་དག་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱིས་ཡོངས་སུ་བསྟན་དུ་གསོལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>I request the blessed, thus-gone, worthy, perfect Buddha to reveal their names.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-14">
+            <prop type="location-id">UT22084-068-012-28</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་སྐད་ཅེས་གསོལ་ནས། བཅོམ་ལྡན་འདས་ཀྱིས་ལིཙྪ་བཱིའི་བུ་རྩལ་རབ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །རྩལ་རབ་ཤར་ཕྱོགས་ན་འཇིག་རྟེན་གྱི་ཁམས་གྲགས་ལྡན་ཞེས་བྱ་བ་ཡོད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Thus requested, the Blessed One said to the Licchavi youth Superior Skill, “Superior Skill, to the east there is a world system called Famous.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-15">
+            <prop type="location-id">UT22084-068-012-28</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སྒྲོན་མའི་རྒྱལ་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The thus-gone, worthy, perfect buddha named Pradīparāja resides there.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-16">
+            <prop type="location-id">UT22084-068-012-29</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྩལ་རབ་ཤར་ཕྱོགས་ན་འཇིག་རྟེན་གྱི་ཁམས་སྐྱོ་བ་མེད་པ་ཞེས་བྱ་བ་ཡོད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Superior Skill, to the east there is a world system called Free from Sorrow.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-17">
+            <prop type="location-id">UT22084-068-012-29</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྩལ་བརྟན་དོན་གྲུབ་དགོངས་པ་ཞེས་བྱ་བ་བཞུགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The thus-gone, worthy, perfect buddha named Intent on Accomplishing Aims through Steadfast Skill resides there.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-18">
+            <prop type="location-id">UT22084-068-012-31</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྩལ་རབ་ཤར་ཕྱོགས་ན་འཇིག་རྟེན་གྱི་ཁམས་བདེ་ལྡན་ཞེས་བྱ་བ་ཡོད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Superior Skill, to the east there is a world system called Blissful.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-19">
+            <prop type="location-id">UT22084-068-012-31</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀུན་ལ་དགོངས་པ་རྒྱ་ཆེར་གྲགས་པ་ཅན་ཞེས་བྱ་བ་བཞུགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The thus-gone, worthy, perfect buddha named Greatly Renowned for Considering All resides there.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-20">
+            <prop type="location-id">UT22084-068-012-32</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྩལ་རབ་ཤར་ཕྱོགས་ན་འཇིག་རྟེན་གྱི་ཁམས་བགེགས་མེད་པ་ཞེས་བྱ་བ་ཡོད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Superior Skill, to the east  there is a world system called Free from Obstacles.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-21">
+            <prop type="location-id">UT22084-068-012-32</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་བྱམས་པའི་རྒྱན་གྱི་དཔལ་ཞེས་བྱ་བ་བཞུགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The thus-gone, worthy, perfect buddha named Glorious Ornament of Loving-Kindness resides there.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-22">
+            <prop type="location-id">UT22084-068-012-33</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྩལ་རབ་ཤར་ཕྱོགས་ན་འཇིག་རྟེན་གྱི་ཁམས་ཆད་པ་སྤངས་པ་ཞེས་བྱ་བ་ཡོད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Superior Skill, to the east there is a world system called Nihilism Relinquished.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-23">
+            <prop type="location-id">UT22084-068-012-33</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་དགེ་བར་གྲགས་པ་དཔལ་དམ་པ་ཞེས་བྱ་བ་བཞུགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The thus-gone, worthy, perfect buddha named Excellent Glory Renowned for Virtue resides there.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-24">
+            <prop type="location-id">UT22084-068-012-35</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྩལ་རབ་ཤར་ཕྱོགས་ན་འཇིག་རྟེན་གྱི་ཁམས་སྣ་ཚོགས་ལྡན་ཞེས་བྱ་བ་ཡོད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Superior Skill, to the east there is a world system called Variegated.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-25">
+            <prop type="location-id">UT22084-068-012-35</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ལྷུན་པོ་ལྟར་འཕགས་པ་རྩལ་རབ་གྲགས་པའི་དཔལ་ཞེས་བྱ་བ་བཞུགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The thus-gone, worthy, perfect buddha named Glory of Being Renowned for Superior Skill That Is Noble like Mount Meru resides there.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-26">
+            <prop type="location-id">UT22084-068-012-36</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྩལ་རབ་ཤར་ཕྱོགས་ན་འཇིག་རྟེན་གྱི་ཁམས་དཔལ་འབར་བ་ཞེས་བྱ་བ་ཡོད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Superior Skill, to the east there is a world system called Blazing Glory.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-27">
+            <prop type="location-id">UT22084-068-012-36</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སེམས་ཅན་ཐམས་ཅད་ལ་དགོངས་པ་གྲགས་པའི་དཔལ་ཞེས་བྱ་བ་བཞུགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The thus-gone, worthy, perfect buddha named Glory of Being Renowned for Considering Everyone resides there.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-28">
+            <prop type="location-id">UT22084-068-012-37</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྩལ་རབ་ཤར་ཕྱོགས་ན་འཇིག་རྟེན་གྱི་ཁམས་རྡོ་རྗེ་གྲགས་པ་དགའ་བ་ཅན་ཞེས་བྱ་བ་ཡོད་དེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Superior Skill, to the east there is a world system called Joyful Renowned Diamond.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-29">
+            <prop type="location-id">UT22084-068-012-37</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཡིད་ཚིམ་པར་མཛད་པ་རྩལ་རབ་གྲགས་པའི་དཔལ་ཞེས་བྱ་བ་བཞུགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The thus-gone, worthy, perfect buddha named Glory of Being Renowned for Superior Skill That Brings Satisfaction resides there.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-30">
+            <prop type="location-id">UT22084-068-012-38</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྩལ་རབ་སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཀྱི་མཚན་འདི་དག་ལེགས་པར་རབ་ཏུ་གཟུང་བར་བྱའོ། །ཀུན་ཆུབ་པར་བྱའོ། །བཅང་བར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Superior Skill, you should remember these blessed buddhas’ names very well, fully comprehend them, and uphold them.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-31">
+            <prop type="location-id">UT22084-068-012-38</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྩལ་རབ་སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཐམས་ཅད་ནི་ཡོན་ཏན་བསམ་གྱིས་མི་ཁྱབ་པ་དང་ལྡན་མོད་ཀྱི། འོན་ཀྱང་རྩལ་རབ་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འདི་དག་གི་ས་ངས་རྒྱས་ཀྱི་ཞིང་ནི་ཡོངས་སུ་དག་པ་སྟེ། སྙིགས་མ་རྣམས་དང་བྲལ་བ་ཡིན་ནོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Superior Skill, while all blessed buddhas are indeed endowed with inconceivable good qualities, the buddha realms of these thus-gone, worthy, perfect buddhas, Superior Skill, are thoroughly pure and free from the degenerations.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-32">
+            <prop type="location-id">UT22084-068-012-39</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྩལ་རབ་ཁྱོད་ཀྱིས་གང་གི་ཚེ་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འདི་དག་གི་མཚན་རྣམས་བླངས་ནས་འཛིན་ན་དེས་ཡོན་ཏན་གྱི་ཁྱད་པར་དེ་དག་དང་གཞན་དག་ཏུ་ཡང་འགྱུར་ཏེ། སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཀྱི་མཚན་འདི་དག་ནི་སྔོན་གྱི་སྨོན་ལམ་གྱི་ཡོན་ཏན་དང་ལྡན་པ་ཡིན་པའི་ཕྱིར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Superior Skill, when you receive and remember these thus-gone, worthy, perfect buddhas’ names, you will thereby develop their particular good qualities and others, because these names of blessed buddhas embody the qualities of their former aspirations.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-33">
+            <prop type="location-id">UT22084-068-012-39</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ནུབ་མོ་སྲོད་ལ་ཉལ་ན་ཡང་ཁྱོད་ཀྱིས་མཚན་འདི་དག་བསམ་པར་བྱའོ། །ལྡང་བ་ན་ཡང་བསམ་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You should contemplate these names whenever you lie down at dusk or at night, and you should contemplate them whenever you get up.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-34">
+            <prop type="location-id">UT22084-068-012-39</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཇིག་རྟེན་གྱི་བྱ་བ་གང་ཅི་ཡང་རུང་བ་དག་རྩོམ་པ་དག་ན་ཡང་ཐམས་ཅད་ལ་མཚན་འདི་དག་བསམས་ནས་དེའི་འོག་ཏུ་བརྩམས་ན་དེར་ཡང་ཁྱེད་ལ་འཕེལ་བ་ཉིད་དུ་འགྱུར་གྱི་འགྲིབ་པར་ནི་མ་ཡིན་པར་ཤེས་པར་བྱ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>If you contemplate these names whenever you begin any kind of worldly activity, you should know that such activities will only be for your gain and not for your loss.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-35">
+            <prop type="location-id">UT22084-068-012-39</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>འདིས་ཁྱོད་གནས་པར་གྱིས་ཤིག །དེ་ནས་ལིཙྪ་བཱིའི་བུ་རྩལ་རབ་ཀྱིས་བསྟན་པ་འདི་ཐོས་ནས་ཚིམ་ཞིང་མགུ་ལ་ཡི་རངས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You should abide by this.” Having heard this teaching, the Licchavi youth Superior Skill was satisfied and pleased, and he rejoiced.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-36">
+            <prop type="location-id">UT22084-068-012-39</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>རབ་ཏུ་དགའ་ནས་དགའ་བ་དང་། ཡིད་བདེ་བ་སྐྱེས་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Rejoicing, he felt delighted and happy and proclaimed these thus-gone ones’ names.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-37">
+            <prop type="location-id">UT22084-068-012-39</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་རྣམས་ཀྱི་མཚན་འདི་དག་ཡོངས་སུ་རྗོད་ཅིང་རིན་པོ་ཆེ་སྣ་བདུན་གྱི་མེ་ཏོག་བརྒྱད་སྟོང་གིས་བཅོམ་ལྡན་འདས་ལ་མངོན་པར་གཏོར་ཏེ་བསྐོར་བ་ཡང་བྱས་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>He scattered eight thousand flowers made of the seven precious substances over the Blessed One and circumambulated him.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-38">
+            <prop type="location-id">UT22084-068-012-39</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པའི་མཚན་ཡོངས་སུ་བརྗོད་པ་བཀྲ་ཤིས་བརྒྱད་པའི་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བཟུང་སྟེ་བཅོམ་ལྡན་འདས་ཀྱི་ཐད་ནས་སོང་ངོ་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Remembering this Dharma discourse on the eight auspicious ones proclaiming thus-gone ones’ names, he left the Blessed One’s presence.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-39">
+            <prop type="location-id">UT22084-068-012-41</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་ལྷ་རྣམས་ཀྱི་དབང་པོ་བརྒྱ་བྱིན་འཁོར་དེ་ཉིད་དུ་འདུས་པར་གྱུར་ནས་འདུག་པ་དེས་བཅོམ་ལྡན་འདས་ལ་ཕྱག་འཚལ་ནས། བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་བདག་གིས་ཀྱང་དེ་བཞིན་གཤེགས་པའི་མཚན་ཡོངས་སུ་བརྗོད་པ་བཀྲ་ཤིས་བརྒྱད་པའི་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ཉམས་སུ་བླངས་ལགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then because Śakra, lord of the gods, had joined that assembly and was present, he paid homage to the Blessed One and said to him, “Blessed One, I too have taken up the practice of this Dharma discourse on the eight auspicious ones proclaiming thus-gone ones’ names.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-40">
+            <prop type="location-id">UT22084-068-012-42</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། ཀཽ་ཤི་ཀ་དེའི་ཕྱིར་ཁྱོད་ཀྱིས་ལྷ་དང་། ལྷ་མ་ཡིན་གཡུལ་འགྱེད་པ་ན་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ཡོངས་སུ་བརྗོད་པར་བྱའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Blessed One replied, “Thus, Kauśika, when you engage in battles between the gods and asuras, you should proclaim this Dharma discourse.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-41">
+            <prop type="location-id">UT22084-068-012-42</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཡོངས་སུ་བརྗོད་པ་ན་ལྷའི་དབང་པོ་ཁྱོད་རྒྱལ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>If you proclaim it, lord of the gods, you will be victorious.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-42">
+            <prop type="location-id">UT22084-068-012-43</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ཅིའི་ཕྱིར་ཞེ་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Why is that so?</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-43">
+            <prop type="location-id">UT22084-068-012-43</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པའི་མཚན་ཡོངས་སུ་བརྗོད་པ་གང་ཡིན་པ་འདི་ནི། བདེ་ཞིང་འཇིགས་པ་མེད་པར་ཡོངས་སུ་བརྗོད་པ་ཡིན་པའི་ཕྱིར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Because whoever proclaims these thus-gone ones’ names is proclaimed to be blissful and fearless.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-44">
+            <prop type="location-id">UT22084-068-012-43</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མཚན་ཡོངས་སུ་བརྗོད་པ་གང་ཡིན་པ་འདི་ནི་ཀུན་ནས་ལྡང་བ་མེད་པར་ཡོངས་སུ་བརྗོད་པ་ཡིན་པའི་ཕྱིར་རོ། །དེ་བཞིན་གཤེགས་པའི་མཚན་ཡོངས་སུ་བརྗོད་པ་གང་ཡིན་པ་འདི་ནི་ཡང་དག་པའི་མཚན་ཡོངས་སུ་བརྗོད་པ་ཡིན་པའི་ཕྱིར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Because whoever proclaims these names is proclaimed to be not overwhelmed. Because whoever proclaims these thus-gone ones’ names proclaims the names of reality.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-45">
+            <prop type="location-id">UT22084-068-012-43</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་བཞིན་གཤེགས་པའི་མཚན་ཡོངས་སུ་བརྗོད་པ་གང་ཡིན་པ་འདི་ནི་གཡུལ་ཐམས་ཅད་ལས་ཡང་དག་པར་འདས་པར་ཡོངས་སུ་བརྗོད་པ་ཡིན་པའི་ཕྱིར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Because whoever proclaims these thus-gone ones’ names is proclaimed to completely transcend all battles.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-46">
+            <prop type="location-id">UT22084-068-012-43</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་བཞིན་གཤེགས་པའི་མཚན་ཡོངས་སུ་བརྗོད་པ་གང་ཡིན་པ་འདི་ནི་ཟིལ་གྱིས་མི་ནོན་པར་ཡོངས་སུ་བརྗོད་པ་དང་། ཞི་བར་ཡོངས་སུ་བརྗོད་པ་དང་། ཡོངས་སུ་གདུང་བ་མེད་པར་ཡོངས་སུ་བརྗོད་པ་དང་། འཇིགས་པ་མེད་པར་ཡོངས་སུ་བརྗོད་པ་ཡིན་པའི་ཕྱིར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Because whoever proclaims these thus-gone ones’ names is proclaimed to be invincible, proclaimed to be peaceful, proclaimed to be free from torment, and proclaimed to be fearless.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-47">
+            <prop type="location-id">UT22084-068-012-46</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་ལྷ་རྣམས་ཀྱི་དབང་པོ་བརྒྱ་བྱིན་གྱིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལ་མཆོད་པའི་ཕྱིར། བཅོམ་ལྡན་འདས་ལ་ལྷའི་མེ་ཏོག་མན་དཱ་ར་བ་དག་གིས་མངོན་པར་གཏོར་ནས། བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then, to venerate this Dharma discourse, Śakra, lord of the gods, scattered divine mandārava flowers over the Blessed One, bowed his head to the Blessed One’s feet, and circumambulated him three times.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-48">
+            <prop type="location-id">UT22084-068-012-46</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ལན་གསུམ་བསྐོར་བ་བྱས་ནས་ཡིད་དགའ་བ་དང་། སེམས་དགེ་བ་དང་། སེམས་སྒྲིབ་པ་མེད་པ་དང་། སེམས་ཀུན་ནས་ལྡང་བ་མེད་པ་དང་། དེ་བཞིན་གཤེགས་པའི་མཚན་ཡོངས་སུ་བརྗོད་པའི་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ཡིད་ལ་བྱེད་བཞིན་དུ་སླད་ཀྱིས་ཀྱང་བདག་གིས་བཅོམ་ལྡན་འདས་ཀྱི་ཞལ་མཐོང་བར་གྱུར་ཅིག་ཅེས་ཚིག་ཏུ་སྨྲས་ནས། སུམ་ཅུ་རྩ་གསུམ་གྱི་ལྷ་རྣམས་དང་ལྷན་ཅིག་ཏུ་བཅོམ་ལྡན་འདས་ཀྱི་ཐད་ནས་དོང་ངོ་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>With a joyful mind, a virtuous mind, an unobscured mind, and a mind free from fixation, he bore in mind this Dharma discourse proclaiming thus-gone ones’ names and said, “May I see the Blessed One’s face again in the future!” Then together with the gods of the Heaven of the Thirty-Three, he departed from the Blessed One’s presence.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-49">
+            <prop type="location-id">UT22084-068-012-47</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། ལིཙྪ་བཱིའི་བུ་རྩལ་རབ་དང་། ལྷ་རྣམས་ཀྱི་དབང་པོ་བརྒྱ་བྱིན་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>When the Blessed One had spoken these words, the Licchavi youth Superior Skill, Śakra, lord of the gods, and the world together with its gods, humans, asuras, and gandharvas rejoiced and praised what the Blessed One had said.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-50">
+            <prop type="location-id">UT22084-068-012-48</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>This concludes the noble Mahāyāna sūtra “ The Eightfold Auspiciousness.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-068-012-TU-51">
+            <prop type="location-id">UT22084-068-012-49</prop>
+            <prop type="revision">v-1.0.4-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།།རྒྱ་གར་གྱི་མཁན་པོ་སུ་རེནྡྲ་བོ་དྷི་དང་། ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ་བན་དེ་ཡེ་ཤེས་སྡེས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།། །།</seg>
+            </tuv>
+          <tuv xml:lang="en">
+                <seg>Translated, edited, and finalized by the Indian preceptor Surendrabodhi and the chief editor-translator Bandé Yeshé Dé.</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

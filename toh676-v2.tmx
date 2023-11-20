@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-091-074" eft:text-version="v-1.0.5-2021"/>
+<body>
+<tu>
+            <prop type="folio">F.220.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཕགས་པ་ཚེ་དང་ཡེ་ཤེས་དཔག་ཏུ་མེད་པའི་སྙིང་པོ་ཞེས་བྱ་བའི་གཟུངས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Noble Dhāraṇī Essence of Immeasurable Longevity and Wisdom</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.220.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-074-22"/>Homage to all buddhas and bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.220.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-074-23"/>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.220.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་གང་གཱ་ཏས་བསྐོར་བའི་རྫིང་བུའི་འགྲམ་ན། དགེ་སློང་ལྔ་བརྒྱའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་། བྱང་ཆུབ་སེམས་དཔའི་དགེ་འདུན་ཆེན་པོ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Blessed One was seated at the bank of a pool by the Ganges river<tei:note xml:id="UT22084-091-074-24"/> with a great monastic saṅgha of five hundred monks and a great saṅgha of bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.220.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དགེ་སློང་རྣམས་ལ་བཀའ་སྩལ་ནས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Blessed One addressed the monks,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགེ་སློང་དེ་དག་བཅོམ་ལྡན་འདས་ཀྱི་ལྟར་ཉན་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་དེ་དག་ལ་<tei:ref folio="F.221.a"/>འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>the monks gave the Blessed One their full attention, and the Blessed One said to them:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་ནས་ནུབ་ཀྱི་ཕྱོགས་རོལ་ན། །བདེ་བ་ཅན་གྱི་འཇིག་རྟེན་ཁམས། །དེ་ན་རྫོགས་པའི་སངས་རྒྱས་བཞུགས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-074-25"/>“A perfect buddha, Lives to the west of here In the realm of Sukhāvatī.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་ཚེ་དཔག་མེད། །སུ་ཞིག་དེ་ཡི་མཚན་བརྗོད་ན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Thus-Gone Aparimitāyus, <tei:milestone xml:id="UT22084-091-074-26"/>“Those who recite his name</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནི་དེ་རུ་སྐྱེ་བར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Will be reborn there.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཆི་བའི་དུས་སུ་སྟོན་པ་ནི། །དགེ་སློང་དགེ་འདུན་བཅས་ཏེ་མཐོང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>At the moment of death they will see The teacher with his monastic saṅgha.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ན་བུད་མེད་ཡོད་མ་ཡིན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-074-27"/>“There are no women there,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མངལ་ན་གནས་པ་ཡོད་མ་ཡིན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And no gestation in a womb.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རིན་ཆེན་རྣམས་ཀྱི་པདྨོ་ལས། །རྫུ་འཕྲུལ་ཆེན་པོ་འབྱུང་བར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Beings with great magical power Are born there from lotuses made of jewels.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཟས་དང་གོས་དང་སྨན་རྣམས་དང་། །ཆོས་གོས་མལ་ཆ་ལྷུང་བཟེད་རྣམས། །སེམས་ཀྱིས་བསམ་མ་ཐག་ཏུ་ནི། །དེ་དག་མོད་ལས་འབྱུང་བར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-074-28"/>“As soon as one thinks about Food, clothing, medicines, Robes, bedding, and alms bowls They instantly appear.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྱོགས་བཅུར་བཞུགས་པའི་སངས་རྒྱས་རྣམས། །བདེ་བ་ཅན་གྱི་བསྔགས་པ་བརྗོད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-074-29"/>“The buddhas dwelling in all ten directions Sing the praises of Sukhāvatī.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ལྟར་སངས་རྒྱས་བསམ་མི་ཁྱབ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Since the Buddha is inconceivable,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཆོས་ཀྱང་བསམ་མི་ཁྱབ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Buddha’s Dharma is inconceivable,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཕགས་པའི་དགེ་འདུན་བསམ་མི་ཁྱབ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-074-30"/>“And the Noble Saṅgha is inconceivable too.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བསམ་མི་ཁྱབ་ལ་དད་བྱས་ན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>When one has generated faith in the inconceivable,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྣམ་པར་སྨིན་པ་བསམ་མི་ཁྱབ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The ripened result is inconceivable—</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྣམ་དག་ཞིང་དུ་སྐྱེ་བར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>One is reborn in a pure realm.<tei:note xml:id="UT22084-091-074-31"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཚེ་དཔག་མེད་ཀྱི་ཕོ་བྲང་འཁོར་དང་བཅས་པ་ཞེས་བྱ་བ་རྒྱར་དཔག་ཚད་ཁྲི་ཡོད་པ་ཞིག་ཡོད་དེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-074-32"/>“Monks, the Thus-Gone, worthy, perfect Buddha Aparimitāyus’ palace, called Having a Retinue, is ten thousand leagues wide.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྒྱལ་རིགས་སུ་སྐྱེས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He was born into a kṣatriya family.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཚེ་དཔག་མེད་ཀྱི་ཡབ་ནི་འཁོར་ལོས་སྒྱུར་བའི་རྒྱལ་པོ་བཟང་པོའི་མཆོག་ཅེས་བྱ་བར་གྱུར་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Monks, the Thus-Gone, worthy, perfect Buddha Aparimitāyus’ father was a universal ruler named Most Gracious, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེའི་ཡུམ་ནི་གཟི་བརྗིད་ཅན་ཞེས་བྱ་བར་གྱུར་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>his mother was named Splendorous.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེའི་བཙུན་མོ་རྒྱལ་རིགས་བཟང་སྐྱོང་མ་ཞེས་བྱ་བར་གྱུར་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>His kṣatriya queen was named Gracious Protector.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དེ་བཞིན་གཤེགས་པ་ཚེ་དཔག་མེད་ཀྱི་སྲས་ནི་ཟླ་བའི་འོད་ཅེས་བྱ་བར་གྱུར་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Monks, the Thus-Gone Aparimitāyus’ son was named Moonlight, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རིམ་གྲོ་བ་ནི་སྙན་པ་དྲི་མ་མེད་ཅེས་བྱ་བར་གྱུར་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>his attendant’s name was Stainless Renown.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དེ་བཞིན་གཤེགས་པ་ཚེ་དཔག་མེད་ཀྱི་ཤེས་རབ་ཅན་གྱི་མཆོག་ཏུ་གྱུར་པ་ནི་བཟང་པོའི་ཏོག་ཅེས་བྱ་བར་གྱུར་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Monks, the Thus-Gone Aparimitāyus’ disciple foremost in insight was called Pinnacle of Grace, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྫུ་འཕྲུལ་དང་ལྡན་པའི་མཆོག་དང་། །བརྩོན་འགྲུས་ཆེན་པོ་དང་ལྡན་པའི་མཆོག་ནི་བཀོད་པ་ཆེན་པོ་ཞེས་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>his disciple foremost in miraculous powers and foremost in great endeavor was named Great Array.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དེ་བཞིན་གཤེགས་པ་ཚེ་དཔག་མེད་ཀྱི་བདུད་ནི་མཆོད་པའི་རྒྱལ་པོ་ཞེས་བྱ་བར་གྱུར་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-074-33"/>“Monks, the Thus-Gone Aparimitāyus’ Māra was called King of Offerings, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྷས་བྱིན་གྱི་མིང་ནི་དང་བ་ཞེས་བྱ་བར་གྱུར་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>the name of his Devadatta was Gracious Gift.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དེ་བཞིན་གཤེགས་པ་ཚེ་<tei:ref folio="F.221.b"/>དཔག་མེད་ཀྱི་ཉན་ཐོས་འདུས་པ་ཆེན་པོ་ནི་ཉན་ཐོས་ཆེན་པོ་དྲུག་ཁྲི་ཡོད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Monks, the Thus-Gone Aparimitāyus’ great gathering of hearers contains sixty thousand great hearers.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་སེམས་ཅན་ཐམས་ཅད་ཀྱིས་ལེགས་པར་བསམས་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-074-34"/>“Monks, all the beings who think well of him</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་ཚེ་དཔག་མེད་ཀྱི་མཚན་ལེགས་པར་བཟུང་ལ། ཞག་བཅུར་སངས་རྒྱས་རྗེས་སུ་དྲན་པ་ཡིད་ལ་མ་ཡེངས་པར་སྒོམ་ཞིང་འཇིག་རྟེན་གྱི་ཁམས་བདེ་བ་ཅན་ན་བཞུགས་པའི་དེ་བཞིན་གཤེགས་པ་ཚེ་དཔག་མེད་རྒྱུན་དུ་ཡིད་ལ་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>should bear in mind the name of the Thus-Gone Aparimitāyus, practice for ten days with an undistracted mind that recollects the Buddha, and continually think of the Thus-Gone Aparimitāyus who dwells in the realm of Sukhāvatī.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དཔལ་འཆི་མེད་རྔ་སྒྲའི་རྒྱལ་པོ་ཞེས་བྱ་བའི་གཟུངས་འདི་ཡང་རྟག་ཏུ་བཟླས་བརྗོད་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-074-35"/>“They should also continually recite the dhāraṇī of Śrī Amṛta­dundubhi­svara­rāja.<tei:note xml:id="UT22084-091-074-36"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཉིན་ལན་གསུམ་མཚན་ལན་གསུམ་ཡན་ལག་ལྔས་ཕྱག་བྱས་ལ་སེམས་ཅན་ཐམས་ཅད་ཀྱིས་དེ་བཞིན་གཤེགས་པ་ཚེ་དཔག་མེད་བསམས་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>If all beings, three times a day and three times a night, prostrate with the five points of the body to the Thus-Gone Aparimitāyus while thinking of him,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཞག་བཅུ་འདས་པའི་དུས་སུ་དེ་བཞིན་གཤེགས་པ་ཚེ་དཔག་མེད་མཐོང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>after ten days they will have a vision of the Thus-Gone Aparimitāyus and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྱོགས་བཅུ་ན་བཞུགས་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཐམས་ཅད་ཀྱང་མཐོང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>[after ten days] they will have [a vision of the Thus-Gone Aparimitāyus and] a vision of all the blessed buddhas dwelling in the ten directions.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དགེ་བའི་རྩ་བ་ཐམས་ཅད་ཀྱང་འཇིག་རྟེན་གྱི་ཁམས་བདེ་བ་ཅན་དུ་ཡོངས་སུ་བསྔོས་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>If they dedicate all their roots of virtue to rebirth in the realm of Sukhāvatī,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་འཆི་བའི་དུས་ཀྱི་ཚེ་དེ་བཞིན་གཤེགས་པ་ཚེ་དཔག་མེད་མདུན་ན་བཞུགས་པར་འགྱུར། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>when they die the Thus-Gone Aparimitāyus will be present before them, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་ཚེ་དཔག་མེད་དེའི་སངས་རྒྱས་ཀྱི་ཞིང་དུ་སྐྱེ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>they will be reborn in the buddha field of the Thus-Gone Aparimitāyus.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་འཆི་མེད་རྔ་སྒྲའི་རྒྱལ་པོ་ཞེས་བྱ་བའི་གཟུངས་དེ་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-074-37"/>“Monks, this is the dhāraṇī called Amṛta­dundubhi­svara­rāja:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.221.b</prop>
+            <prop type="alternative-source"/>
+	<tuv xml:lang="bo">
+                <seg>ཏདྱ་ཐཱ། ཤ་བ་ལེ། ཨ་བ་ལེ། ས་མ་ཛ་ལེ། ནིརྡེ་ཤེ། ནིར་ཛཱ་ཏེ། ནི་རུ་ཀྟེ། ནིར་མུ་ཁེ། ཛྭ་ལ་བ་རི་ཙྪེ་ད་ནི། སུ་ཁ་བ་ཏི་ནིརྡེ་ཤེ། ཨ་མྲྀ་ཏེ། ཨཱ་ཡུར་གརྦྷ་ནི་ར་ཧཱ་ནི། ཨ་མྲྀ་ཏེ། ཨཱ་ཡུཿཔྲ་སཱ་དྷ་ནི། ནིར་བུད་དྷི། ཨཱ་ཀཱ་ཤ་ནི་རྫཱཏེ། ཨཱ་ཀཱ་ཤ་ནི་རྡེ་ཤེ། ཨཱ་ཀཱ་ཤ་ནིར་ཀུ་ཤ་ཡེ། ཨཱ་ཀཱ་ཤ་ནིར་དརྴ་ནེ། ཨཱ་ཀཱ་ཤ་ཨ་དྷི་ཥྛཱནེ། སུ་ཁ་བ་ཏི་ཨ་དྷིཥྵཱ་ནེ། རཱུ་པ་ནི་རྡེ་ཤེ། ཙ་ཏྭཱ་རི་དྷརྨ་པྲ་སཱ་དྷ་ནེ། ཙ་ཏྭཱ་རི་ཨཱརྱ་སཏྱ་པྲ་སཱ་དྷ་ནེ། ཙ་ཏྭཱ་ནི་མཱ་རྒ་བྷ་བ་ན་པྲ་སཱ་དྷ་ནེ། བ་ལ་བཱིརྱ་པྲ་སཱ་དྷ་ནེ། དྷརྨཱ་ཙྪེ་ད་ནེ། ཀུ་ཤ་ལེ། ཀུ་ཤ་ལ་ནི་རྡེ་ཤེ། ཀུ་ཤ་ལ་པྲ་ཏིཥྛཱ་ནེ། བུད་དྷ་ཀུ་ཤ་ལེ། བི་ཤུད་དྷ་པྲ་བྷཱ་ས། དྷརྨ་ཀ་ར་ཎེ། ནི་རྫ་ཏེ། ནི་ར་བུད་དྷེ། བི་མ་ལེ། བི་ར་ཛེ། རཱ་ཛ་སེ། ར་སཱ་གྲེ། ར་སཱ་གྲ་བ་ལ། ར་སཱ་གྲ། ཨ་དྷིཥྛི་ཏེ། ཀུ་ལེ་པྲ་ཏི་ཀུ་ལེ། བི་ཀུ་ལེ། དནྟེ་སུ་དནྟ་ཙིཏྟེ། སུ་པྲ་ཤཱནྟ་ཙིཏྟེ། སུ་པྲ་ཏིཥྛི་ཏེ། སུ་ལེ་སུ་མུ་ཁཱི། དྷརྨེ་ཙ་དྷརྨེ། བ་ལེ་ཙ་བ་ལེ། ཨ་ནུ་ཤ་ཨ་བ་ལེ། བུད་དྷ་ཨཱ་ཀཱ་ཤ་གུ་ཎེ། བུད་དྷ་ཨཱ་ཀཱ་ཤ་ནི་ར་གུ་ཎེ། ཨ་མྲྀ་ཏ་དུན་དུ་བྷིཿསྭ་རེ་སྭཱ་ཧཱ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>tadyathā śavale avale sañjale nirdeśe nirjāte nirukte nirmukhe jvala­paricchedani sukhavati­nirdeśe amṛte āyurgarbha<tei:note xml:id="UT22084-091-074-38"/>nirhāni amṛte ayuḥ­prasādhane nirbuddhi ākāśa­nirdeśe ākāśa­nirjāte<tei:note xml:id="UT22084-091-074-39"/> ākāśa­nirkuśale ākāśa­nirdarśane ākāśādhiṣṭhāne sukhavati ādhiṣṭhāne rūpa­nirdeśe catvāri­dharma­prasādhane catvāri ārya­satya­prasādhane catvāri­mārga­bhavana­prasādhane<tei:note xml:id="UT22084-091-074-40"/> bala<tei:note xml:id="UT22084-091-074-41"/>vīrya­prasādhane dharmācchedane kuśale kuśala­nirdeśe kuśala­pratiṣṭhāne buddhākuśale viśuddha­prabhā<tei:note xml:id="UT22084-091-074-42"/>sa dharma­karaṇenirjati nirbuddhe vimale viraje rājase rasāgre rasāgrabale rasāgrādhiṣṭhite kule pratikule vikule dānte sudānta<tei:note xml:id="UT22084-091-074-43"/>citte supraśānta­citte supratiṣṭhite sule sumukhī­dharme ca dharme bale ca bale anuśābale buddhākāśa­guṇe buddhākāśa­nirguṇe amṛta­dundubhiḥ­svare svāhā</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དད་པའི་རིགས་<tei:ref folio="F.222.a"/>ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་གང་ལ་ལ་འཆི་མེད་རྔ་སྒྲའི་རྒྱལ་པོ་ཞེས་བྱ་བའི་གཟུངས་འདི་སྐད་བསྟན་པ་དེ་བཞིན་དུ་ཁ་ཏོན་བྱེད་པ་དེས། གོས་གཙང་མ་བགོས་ཏེ་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-074-44"/>“Monks, faithful sons or daughters of good family who recite this Amṛta­dundubhi­svara­rāja dhāraṇī as it has been taught should dress in clean clothes and,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ས་ཕྱོགས་གཙང་ཞིང་དྲི་མ་མེད་པར། དེ་བཞིན་གཤེགས་པ་ཚེ་དཔག་མེད་ལ་མེ་ཏོག་དང་སྤོས་ཀྱིས་མཆོད་པར་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>in a place that is pure and unspoiled, make offerings of flowers and perfumes to the Thus-Gone Aparimitāyus.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་ཀྱི་སྙིང་པོ་པདྨའི་གནས་དང་། བྱང་ཆུབ་ཀྱི་ཤིང་ཕུན་སུམ་ཚོགས་པ་ཡང་ཡིད་ལ་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They should imagine the lotus seat at the seat of awakening and the perfect Bodhi tree.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ལ་ཡང་འདོད་པ་བསྐྱེད་པར་བྱས་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They should arouse longing to be there, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འདོད་པ་དང་དད་པ་བྱས་ན་དེ་བཞིན་གཤེགས་པ་ཚེ་དཔག་མེད་དེའི་སངས་རྒྱས་ཀྱི་ཞིང་དུ་སྐྱེ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>if they have such longing and faith they will be reborn in the buddha field of the Thus-Gone Aparimitāyus.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དེ་བཞིན་གཤེགས་པ་ཚེ་དཔག་མེད་ཀྱི་ཤིང་གི་རྒྱལ་པོ་ནི་རིན་པོ་ཆེའི་པདྨ་རྣམ་པར་སྣང་བ་ཞེས་བྱ་བ་ཤིང་དེ་མེ་ཏོག་དང་འབྲས་བུ་ཕུན་སུམ་ཚོགས་པའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-074-45"/>“Monks, the Thus-Gone Aparimitāyus’ king of trees is the tree called Radiating Jeweled Lotus, and it is covered in flowers and fruit.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.a</prop>
+	<tuv xml:lang="bo">
+                <seg>པདྨའི་གདན་ནི་དག་ཅིང་གསལ་ལ་བཟང་ཞིང་བཀྲ་བའི་འོད་ཟེར་ཅན་ཞེས་བྱ་བ་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The lotus seat, which is pure, bright, and fine, is called Brilliant Light Ray.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རིན་པོ་ཆེ་དུ་མས་བསྐོར་བ་ལ་དེ་བཞིན་གཤེགས་པ་ཚེ་དཔག་མེད་བཞུགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Thus-Gone Aparimitāyus is seated there surrounded by many precious jewels.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཡས་ན་ནི་བྱང་ཆུབ་སེམས་དཔའ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The bodhisattva Avalokiteśvara is to his right,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཡོན་ན་ནི་བྱང་ཆུབ་སེམས་དཔའ་མཐུ་ཆེན་ཐོབ་པ་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>the bodhisattva Mahāsthāmaprāpta is to his left, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའི་ཚོགས་གྲངས་མེད་པས་བསྐོར་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>they are all surrounded by an incalculable gathering of bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དད་པའི་རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་གང་ལ་ལ་མོས་པ་དང་། དད་པ་དང་། གུས་པ་མང་བ་དེ་དེར་སྐྱེ་བར་འགྱུར་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Faithful sons or daughters of good family who have great devotion, faith, and reverence will be reborn there.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གསེར་གྱི་ས་གཞི་ཆེན་པོ་ལ་རིན་པོ་ཆེ་སྣ་བདུན་གྱི་པདྨ་ཆེན་པོ་དག་ལ་རྫུས་ཏེ་སྐྱེ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They will take miraculous birth on great lotuses made of the seven precious jewels situated on the great golden ground.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དགེ་སློང་ཕའམ། དགེ་སློང་མའམ། དགེ་བསྙེན་ཕའམ། དགེ་བསྙེན་མ་གང་ལ་ལ་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་ཚེ་དཔག་མེད་དེའི་མཚན་ཡང་དག་པར་འཛིན་པ་དེ་ལ་མེའི་འཇིགས་པ་མི་འབྱུང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-074-46"/>“Monks, any monk, nun, male lay practitioner, or female lay practitioner who bears in mind the name of the Thus-Gone Aparimitāyus will never have to face any dangers from fire,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆུའི་འཇིགས་པ་མི་འབྱུང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>[“Monks, any monk, nun, male lay practitioner, or female lay practitioner who bears in mind the name of the Thus-Gone Aparimitāyus] will never have to face any [dangers from fire,] dangers from water,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དུག་གི་འཇིགས་པ་མི་འབྱུང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>[“Monks, any monk, nun, male lay practitioner, or female lay practitioner who bears in mind the name of the Thus-Gone Aparimitāyus] will never have to face any [dangers from fire, dangers from water,] dangers from poison,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མཚོན་ཆའི་འཇིགས་པ་མི་འབྱུང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>[“Monks, any monk, nun, male lay practitioner, or female lay practitioner who bears in mind the name of the Thus-Gone Aparimitāyus] will never have to face any [dangers from fire, dangers from water, dangers from poison,] dangers from weapons,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གནོད་སྦྱིན་གྱི་འཇིགས་པ་མི་འབྱུང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>[“Monks, any monk, nun, male lay practitioner, or female lay practitioner who bears in mind the name of the Thus-Gone Aparimitāyus] will never have to face any [dangers from fire, dangers from water, dangers from poison, dangers from weapons,] dangers from yakṣas, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྲིན་པོའི་འཇིགས་པ་མི་འབྱུང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>[“Monks, any monk, nun, male lay practitioner, or female lay practitioner who bears in mind the name of the Thus-Gone Aparimitāyus] will never have to face any [dangers from fire, dangers from water, dangers from poison, dangers from weapons, dangers from yakṣas, and] dangers from rākṣasas,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྔོན་གྱི་ལས་ཀྱི་རྣམ་པར་སྨིན་པ་ནི་གང་ལ་ཡང་མ་གཏོགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>except for those that arise due to the ripening of previous actions.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-074-47"/>When the Blessed One had spoken these words,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགེ་སློང་དེ་དག་དང་། ཐམས་ཅད་དང་ལྡན་པའི་འཁོར་དེ་དག་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>the monks, the entire retinue, and the world with its gods, humans, asuras, and gandharvas rejoiced and praised what the Blessed One had said. </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཕགས་པ་<tei:ref folio="F.222.b"/>ཚེ་དང་ཡེ་ཤེས་དཔག་ཏུ་མེད་པའི་སྙིང་པོ་ཞེས་བྱ་བའི་གཟུངས་རྫོགས་སོ།། །།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-074-48"/>This concludes the noble dhāraṇī “Essence of Immeasurable Longevity and Wisdom.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.222.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་བུ་ཎྱ་སཾ་བྷ་ཝ་དང་། ལོཙྪ་བ་པ་ཚབ་ཉི་མ་གྲགས་ཀྱིས་བསྒྱུར་བའོ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-074-49"/>Translated by the Indian preceptor Puṇya­sambhava and the translator Patsap Nyima Drak.</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>

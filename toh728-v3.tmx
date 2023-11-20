@@ -1,0 +1,2130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+    <header creationtool="linguae-dharmae/84000" creationtoolversion="2.16.12a" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-094-005" eft:text-version="v-1.0.10-2022" eft:source-ref="/db/apps/84000-data/uploads/linguae-dharmae/aligned/31-10-2022/complete/toh728-bo_aligned.txt" eft:seconds-to-revise="0.659"/>
+    <body>
+        <!--<tu id="UT22084-094-005-TU-1">
+            <tuv xml:lang="bo"><seg>འཇིགས་པ་འཁྲུགས་པ་ལས། །མཚན་ནི་འདི་རྣམས་དྲན་པ་ཡིས། །འཇིགས་པ་ཀུན་ལས་གྲོལ་བར་བྱེད། །དུས་མིན་འཆི་ལས་གྲོལ་བྱེད་པ། །སྐྱེས་བུ་སྙན་པ་ཐོབ་པར་འགྱུར། །མིར་ནི་སྐྱེ་བ་དོན་དང་བཅས། །དེ་གཅིག་པུ་ཡི་ཕན་ཡོན་གྱིས། །གང་ཞིག་འདིར་ནི་སྔར་ལངས་ནས། །སྐྱེས་བུ་གང་ཞིག་སྒྲོགས་བྱེད་པ། །དེ་ནི་དུས་རིང་ཚེ་དང་ལྡན། །མི་ཡི་དཔལ་ནི་དགའ་འགྱུར་ཏེ། །ལྷ་དང་ཀླུ་དང་གནོད་སྦྱིན་དང་། །དྲི་ཟ་དང་ནི་ལུས་སྲུལ་པོ། །འབྱུང་པོ་གཤེད་བྱེད་སྲིན་པོ་དང་། །མ་མོ་རྩུབ་པའི་སེམས་ལྡན་པ། །གནོད་སྦྱིན་མོ་དང་ཡི་དགས་བྱེད། །སྨྱོ་བྱེད་དང་ནི་གནོད་བྱེད་རྣམས། །གྲིབ་གནོན་དང་ནི་བརྗེད་བྱེད་དང་། །ཤ་ཟ་ལ་ནི་སོགས་པ་རྣམས། །རོ་ལངས་སྣ་ཚོགས་ལ་སོགས་དང་། །སྐུལ་བྱེད་མ་དང་སེམས་སྡང་རྣམས། །གྲིབ་མ་ལ་ཡང་འགོམ་མི་བྱེད། །ཇི་ལྟར་སླར་ནི་མཆོད་པར་འགྱུར། །སྡང་བའི་སེམས་ཅན་འཆིང་བར་བྱེད། །ནད་ལ་སོགས་པས་ཐེབས་མི་འགྱུར། །ཕྱུག་ཅིང་ལོངས་སྤྱོད་ཡོན་ཏན་ལྡན། །བུ་དང་ཚ་བོ་འཕེལ་བར་འགྱུར། །རིགས་དང་ལྡན་ཞིང་མཐོང་དགར་འགྱུར། །གཟི་བརྗིད་ལྡན་ཞིང་ཚིག་གསལ་བ། །བློ་ལྡན་སྐྱེ་བ་དྲན་པར་འགྱུར། །བསྟན་བཅོས་ཐམས་ཅད་རིག་པར་འགྱུར། །དགེ་བའི་བཤེས་གཉེན་ཡང་དག་ལྡན། །བྱང་ཆུབ་སེམས་ཀྱིས་ཡང་དག་བརྒྱན། །གང་དང་གང་དུ་སྐྱེས་པ་དེར། །རྟག་ཏུ་སངས་རྒྱས་ཀྱིས་མི་སྤོང་།</seg></tuv>
+            <tuv xml:lang="en"><seg/></tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-2">
+            <tuv xml:lang="bo"><seg>།རྗེ་བཙུན་མ་འཕགས་མ་སྒྲོལ་མའི་མཚན་བརྒྱ་རྩ་བརྒྱད་པ། འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གིས་གསུངས་པ་རྫོགས་སོ།། ༄༅། །རྒྱ་གར་སྐད་དུ། ཏཱ་ར་དེ་བཱི་ནཱ་མ་ཨཥྚ་ཤ་ཏ་ཀ་ན། བོད་སྐད་དུ།</seg></tuv>
+            <tuv xml:lang="en"><seg>The Hundred and Eight Names of the Goddess Tārā</seg></tuv>
+        </tu>-->
+        <tu id="UT22084-094-005-TU-1">
+            <prop type="location-id">translation</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ལྷ་མོ་སྒྲོལ་མའི་མཚན་བརྒྱ་རྩ་བརྒྱད་པ་ཞེས་བྱ་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The Hundred and Eight Names of the Goddess Tārā</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-2">
+            <prop type="location-id">UT22084-094-005-11</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>ལྷ་མོ་ཆེན་མོ་སྒྲོལ་མ་རྣམ་པར་རྒྱལ་བའི་ནོར་བུ་རྣམ་པ་སྣ་ཚོགས་ཀྱི་དོ་ཤལ་དང་། ན་བཟའ་དང་། ཤམ་ཐབས་ཀྱི་གཤལ་ཀས་འཇིག་རྟེན་གྱི་ཁམས་ཆེན་པོའི་བླ་རེ་བྱས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Homage to the great goddess Tārā, the completely victorious jewel, who, with her exquisite necklace, garments, and lower robes, is a canopy for the great worldly realm.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-3">
+            <prop type="location-id">UT22084-094-005-11</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་ལྷ་མོ་སྒྲོལ་མས་དེའི་ཚེ་སྔོན་མ་མཐོང་མ་ཐོས་པའི་གཟུངས་ཀྱི་མཆོག་བརྗོད་པ། ཨོཾ་ཏྲཻ་ལོ་ཀྱ་བི་ཛ་ཡ། ཨ་ཙིཏྟ་ཛཱ་ཡ། ཨ་ནི་ར་ཙི་ཛ་ཏཱ་ཡ། སུ་ཛཱ་ཡ། བི་ཛཱ་ཡ། མ་ཧཱ་ཛཱ་ཡ། བི་ཛཱ་ཡ། ཛ་ཡ་ཛ་ཡ། ཧེ་ཧེ། སྨ་ར་སྨ་ར། བ་ར་བ་ར། བར་ད། མ་ཧཱ་དེ་བི། བི་ལ་ས། བི་ལ་ས། བི་ལ་ས། བ་ཛ་ཨ་མོ་ཏ་ཀ་རི་བི་ཛ་ཡ་དེ་བི། ཧཱི་ཧཱི། ཀི་ནི་ཀི་ནི་པི་ལམ་བ་སེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>At that time, the goddess Tārā uttered this supreme dhāraṇī, which had never been seen or heard before:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-4">
+            <prop type="location-id">UT22084-094-005-13</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>སྨ་ར་སྨ་ར། མ་ཧཱ་པྲ་ཛྙཱ་ཨ་ནི་བ་ཏ། བཛྲ་མ་མ་ཧཱ་ཀཱ་རུ་ཎི་ཀ །བྷ་གི་ནི་ཧྲཱུཾ་ཧྲཱུཾ། སྥུཊ་སྥུཊ། སྥོ་ཊ་སྥོ་ཊ། ཨཱ་བེ་ཤ་ཡ། ཨཱ་བེ་ཤ་ཡ། དྷུ་ན་དྷུ་ན། བི་དྷུ་ན་བི་དྷུ་ན། ཀཾ་པ་ཀཾ་པ། ཀཾ་པ་ཡ། སུ་ར་བྷི་གནྡྷ། ཨ་ཏི་སི་ཏ། མུ་ཁེ་ཧ་ལ་ད་བ་ལ། སཾ་ག་རཱ་ཛ་ན། བི་མ་བི་གི །བི་ནཱ་ཤ་ཡ། བི་ནཱ་ཤ་ཡ། ཧེ་བྷ་ག་བ་ཏི། སནྟྲ་ས་ཡ། བི་གྷ་ནཱ་ན། པ་རི་བ་ལཱ་ཡ། ཨ་སྨཱ་ཀཾ་ཨ་སྨཱ་ཀཾ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>oṁ trailokyavijaya | acittajaya | aniracijataya | sujaya | vijaya | mahājaya | vijaya  | jaya jaya | he he | smara smara | vara vara varada | mahādevi | vilasa | vilasa | vilasa | vaja amotakari vijayadevi | hī hī | kiṇi kiṇi vilambase | smara smara | mahāprajñā anipata | vajramahākāruṇika  | bhagini hruṃ hruṃ | sphuṭa sphuṭa | sphoṭa sphoṭa | āveśaya āveśaya | dhuna dhuna | vidhuna vidhuna | kampa kampa | kampaya | surabhigandha | atisita | mukhe haladavala | saṃgarājana | vimavigi | vināśaya vināśaya | he bhagavati | santrāsaya vighanān | parivalāya asmākaṃ asmākaṃ | mādani mādani | saṃbodhaya | saṃmohaya | hara hara | hiri hiri | huru huru | vitakara | varaja | haṃ haṃ | trotāya | haṃ haṃ | santratāya | santroya | manta manta | marda marda | cara cara | saṃcara saṃcara | vega vega vegavati | namo namo namaḥ svāhā |</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-5">
+            <prop type="location-id">UT22084-094-005-19</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>མཱ་ད་ནི་མཱ་ད་ནི། སཾ་བོ་དྷ་ཡ། སཾ་མོ་ཧ་ཡ། ཧ་ར་ཧ་ར། ཧི་རི་ཧི་རི། ཧུ་རུ་ཧུ་རུ། བི་ཏ་ཀ་ར། བ་ར་ཛ། ཧཾ་ཧཾ། ཏྲོ་ཏཱ་ཡ། ཧཾ་ཧཾ། སནྟྲ་ཏཱ་ཡ། སནྟྲོ་ཡ། མནྟ་མནྟ། མཪྡ་མཪྡ། ཙ་ར་ཙ་ར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Upon hearing this great mantra,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-6">
+            <prop type="location-id">UT22084-094-005-19</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>སཾ་ཙ་ར་སཾ་ཙ་ར། བེ་ག་བེ་ག་བེ་ག་བ་ཏི། ན་མོ་ན་མོ་ན་མཿསྭཱ་ཧཱ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Supremely renowned in the three realms,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-7">
+            <prop type="location-id">UT22084-094-005-19</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>དེ་ནས་ལྷ་དང་ལྷ་མིན་ཚོགས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The assemblies of gods and asuras, Together with the hordes of rākṣasas,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-8">
+            <prop type="unmatched">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྲིན་པོ་གནོད་སྦྱིན་མིའམ་ཅི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Yakṣas, kinnaras, mahoragas,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-9">
+            <prop type="location-id">UT22084-094-005-19</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ལྟོ་འཕྱེ་ཆེན་པོའི་ཚོགས་རྣམས་དང་། །འབྱུང་པོ་དྲི་ཟ་ལོག་འདྲེན་རྣམས། །འཇིག་རྟེན་གསུམ་དུ་གྲགས་པའི་མཆོག །གསང་སྔགས་ཆེན་པོ་འདི་ཐོས་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Bhūtas, gandharvas, and vināyakas,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-10">
+            <prop type="location-id">UT22084-094-005-19</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྐྲག་ཅིང་མགོ་བོ་སྨད་གྱུར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Grew afraid and hung their heads low.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-11">
+            <prop type="location-id">UT22084-094-005-19</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ལག་པ་ཆེན་པོ་ཡོངས་བསྐྱོད་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>With their mighty arms trembling, they said: “Homage to you, Tārā, the broad-eyed one, Who turns away the speech of Kāmadeva,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-12">
+            <prop type="location-id">UT22084-094-005-19</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གང་གིས་འདི་ནས་ས་གསུམ་འདི། །མཐའ་དག་ཁྱབ་པར་བྱས་པའི་ཕྱིར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>So that your names may fill the three realms!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-13">
+            <prop type="location-id">UT22084-094-005-22</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདོད་པའི་ལྷ་ཡི་ངག་བཟློག་པ། །སྒྲོལ་མ་སྤྱན་ཡངས་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Proclaimer of Avalokiteśvara’s lineage,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-14">
+            <prop type="unmatched">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྤྱན་རས་གཟིགས་ཀྱི་རིགས་སྨོས་པ། །ཆེ་བ་ཉིད་ཀྱི་གྲགས་པ་འོད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Light renowned for its greatness, oh broad-eyed one,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-15">
+            <prop type="location-id">UT22084-094-005-22</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྤྱན་ཡངས་ཁྱོད་ནི་སེམས་ཅན་རྣམས། །ཕན་བཞེད་སླད་དུ་འབྱུང་བ་ལགས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You came into being to help sentient beings!”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-16">
+            <prop type="location-id">UT22084-094-005-23</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་དབང་ཕྱུག་ལ་སོགས་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then, all the gods and asuras,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-17">
+            <prop type="location-id">UT22084-094-005-23</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ལྷ་དང་ལྷ་མིན་འདུས་ཀུན་དང་། །རིག་སྔགས་འཆང་གི་བདག་པོ་དང་། །དེ་བཞིན་རིག་སྔགས་འཆང་བ་རྣམས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Such as Śiva and the others, gathered together. The lords among vidyādharas And the vidyādharas themselves</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-18">
+            <prop type="location-id">UT22084-094-005-23</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བླ་གོས་ཕྲག་པ་གཅིག་གཟར་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Draped their upper garments across their shoulders,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-19">
+            <prop type="location-id">UT22084-094-005-23</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བསྐོར་བ་མཆོག་ནི་བྱས་ནས་ཀྱང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Performed excellent circumambulations, and,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-20">
+            <prop type="location-id">UT22084-094-005-23</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།པུས་མོའི་ལྷ་ང་ས་སྟེང་དུ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Bending their knees to the ground,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-21">
+            <prop type="location-id">UT22084-094-005-23</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཙུགས་ནས་ཚིག་ནི་འདི་སྐད་སྨྲས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Spoke the following words:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-22">
+            <prop type="location-id">UT22084-094-005-24</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྒྲོལ་མ་འོད་འབར་དེ་ལ་ནི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“O Tārā, goddess of blazing light, To you we pay homage!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-23">
+            <prop type="location-id">UT22084-094-005-24</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཕྱག་འཚལ་ཕྱག་འཚལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Homage! Homage to you!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-24">
+            <prop type="location-id">UT22084-094-005-24</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མིང་བརྒྱ་རྩ་བརྒྱད་དམ་པ་ཡི། །དཔེ་མེད་མིང་ནི་བརྗོད་པར་བགྱི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Your hundred and eight peerless and pristine names We will now recite:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-25">
+            <prop type="location-id">UT22084-094-005-25</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཀྲ་ཤིས་རྣམ་རྒྱལ་དཔལ་བཟང་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Glorious, exalted one, ever victorious and propitious,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-26">
+            <prop type="location-id">UT22084-094-005-25</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྐྱེ་དགུའི་དབང་ཕྱུག་མངོན་ཤེས་མྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Your extrasensory powers are as swift as Prajāpati’s.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-27">
+            <prop type="location-id">UT22084-094-005-25</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དབང་ཕྱུག་རབ་དགའ་འཇིགས་ལ་དྲག །རྒོད་བག་མེད་ཅིང་དྲེགས་པ་མེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Your fierceness instills fear in the Lord of Love, Yet you are free of carelessness and conceit.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-28">
+            <prop type="location-id">UT22084-094-005-27</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།པདྨའི་སྤྱན་དང་པདྨའི་ཞལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Your eyes, face, and navel</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-29">
+            <prop type="location-id">UT22084-094-005-27</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།པདྨའི་ལྟེ་བ་རབ་གཙང་སྦྱིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Are lotus-like and exude purity.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-30">
+            <prop type="location-id">UT22084-094-005-27</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྤྱན་བཟང་སྤྱན་ནི་ཡངས་པ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Your broad, beautiful eyes glow blue</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-31">
+            <prop type="location-id">UT22084-094-005-27</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྔོ་བ་ཨུཏྤལ་སྔོན་པོའི་འོད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Like the blue of the utpala flower.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-32">
+            <prop type="location-id">UT22084-094-005-29</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྐྱོབ་པ་སྐྱབས་འོས་བདེ་བ་སྦྱིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“You protect all those worthy of care,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-33">
+            <prop type="location-id">UT22084-094-005-29</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་བཞིན་སྟོབས་སྦྱིན་གཟུགས་སྦྱིན་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Granting them happiness, strength, and beauty.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-34">
+            <prop type="location-id">UT22084-094-005-29</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མགོན་པོ་མགོན་མཛད་དྲག་མོ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Protector and fierce guardian,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-35">
+            <prop type="location-id">UT22084-094-005-29</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དཀོན་མཆོག་གསུམ་པོ་རྒྱལ་མཛད་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You enact the deeds of the Three Jewels.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-36">
+            <prop type="location-id">UT22084-094-005-30</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྒྲོས་དམར་སེན་མོ་དམར་བ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Your lips and fingernails shine red.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-37">
+            <prop type="location-id">UT22084-094-005-30</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྤྱན་རྩ་དམར་པོས་གཟིགས་པར་མཛད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>With bloodshot eyes you gaze.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-38">
+            <prop type="location-id">UT22084-094-005-30</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དགའ་མཛད་དགའ་སྟོབས་པདྨ་ལགས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Joyful, lotus-like force of joy,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-39">
+            <prop type="location-id">UT22084-094-005-30</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།པདྨའི་མདོག་ཅན་པད་མདོག་དགྱེས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You are the color of the lotus, in whose hues you delight! “With your extraordinary strength and frightful attire</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-40">
+            <prop type="location-id">UT22084-094-005-30</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཇིག་རྟེན་གསུམ་འདུལ་ཞི་བ་སྟེ། །འཇིགས་པའི་ཆ་ལུགས་སྟོབས་མོ་ཆེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You tame and pacify the three worlds.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-41">
+            <prop type="location-id">UT22084-094-005-30</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདུལ་དུ་འཆུག་མ་འདུལ་མཛད་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Subduer who acts to tame beings,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-42">
+            <prop type="location-id">UT22084-094-005-30</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བསྟོད་ལྡན་མི་མཆོག་དམ་པ་ལགས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Noble one, you are praised as supreme among all.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-43">
+            <prop type="unmatched">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རབ་གསལ་འདུལ་བ་རྡོ་རྗེ་ཅན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Holder of the vajra of resplendent clarity which tames beings,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-44">
+            <prop type="location-id">UT22084-094-005-33</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྣམ་པར་རྒྱལ་བ་འོད་གསལ་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Utterly victorious clear light,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-45">
+            <prop type="location-id">UT22084-094-005-33</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བྱང་ཆུབ་རྡུལ་མེད་དྲི་མ་མེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You are awake, beyond taint or stain,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-46">
+            <prop type="location-id">UT22084-094-005-33</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཟླ་བ་ལྷ་མཆོག་རྣམས་ཀྱི་རྗེད། །སྲེད་བྱ་དང་ནི་སྲེད་བྱའི་བར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And you are honored by Candra and the outstanding gods.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-47">
+            <prop type="location-id">UT22084-094-005-35</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྒྱུ་ཞིང་གཤེགས་ལ་འོད་ཟེར་མཛེས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Your beautiful beams of light Pervade all objects of desire.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-48">
+            <prop type="location-id">UT22084-094-005-35</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཆུ་ལྷ་གཡུལ་འགྱེད་འགྱིང་བག་ཅན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Majestic in your battle with Varuṇa,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-49">
+            <prop type="location-id">UT22084-094-005-35</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྐྱེས་མཆོག་རང་བཞིན་ཡིད་འཕྲོས་རྒྱས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Supreme one, your mind is naturally expansive and pervasive.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-50">
+            <prop type="location-id">UT22084-094-005-37</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གཙུག་ཕུད་གསུམ་པོ་ལྟོ་ཚིལ་གསུམ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“With your triple crown ornament, three belly folds, and three eyes</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-51">
+            <prop type="location-id">UT22084-094-005-37</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྤྱན་གསུམ་དྲི་མ་གསུམ་སེལ་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You clear away the three defilements.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-52">
+            <prop type="location-id">UT22084-094-005-37</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྲིད་པ་སེལ་མཛད་ཁོང་དགེ་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Dispeller of phenomenal existence, lady of deep virtue,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-53">
+            <prop type="location-id">UT22084-094-005-37</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཚིག་ལྡན་མར་ཡང་དེ་བཞིན་གྲགས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You are also renowned for your eloquence.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-54">
+            <prop type="location-id">UT22084-094-005-39</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྒྱལ་བ་སྦྱིན་པ་བསོད་ནམས་སྦྱིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“You grant victory and merit</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-55">
+            <prop type="location-id">UT22084-094-005-39</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྡིག་པ་འཇོམས་མ་འཇིགས་པ་མེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And fearlessly vanquish evil.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-56">
+            <prop type="location-id">UT22084-094-005-39</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ནོར་སྦྱིན་མདོག་སྦྱིན་ཞི་བ་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Lady of peace who grants wealth and luster,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-57">
+            <prop type="location-id">UT22084-094-005-39</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གཟུགས་བཟང་ཕྱལ་བཟང་ནུ་མ་བཟང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Your form, belly, and bosom are most elegant!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-58">
+            <prop type="location-id">UT22084-094-005-40</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྒྱུ་འཕྲུལ་སྒྱུ་འཕྲུལ་ལྡན་ཞིང་འདུལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Lady of illusion who tames the field of illusory displays,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-59">
+            <prop type="location-id">UT22084-094-005-40</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དུལ་བ་བསྲུང་པ་རྡུལ་སེལ་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You uphold discipline and dispel all impurity.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-60">
+            <prop type="location-id">UT22084-094-005-40</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཕྲེང་བ་ཐོགས་མ་རྒྱགས་མཛད་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Holding a garland, you bring elation,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-61">
+            <prop type="location-id">UT22084-094-005-40</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྒྱགས་པ་སྦྱིན་མ་དྲེགས་སྤོང་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Grant exhilaration, and remove all conceit.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-62">
+            <prop type="location-id">UT22084-094-005-43</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲག་མོ་ལགས་ཏེ་གཟི་བསྐྱེད་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Wrathful lady who inspires splendor,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-63">
+            <prop type="location-id">UT22084-094-005-43</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དཀར་མོ་ཞི་མཛད་བདེ་བ་མོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>White lady of bliss who brings peace,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-64">
+            <prop type="location-id">UT22084-094-005-43</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྐྱེ་དགུའི་བདག་མོ་ཚངས་པར་ལྡན། །ཚངས་སྦྱིན་དབང་ཕྱུག་དམ་པ་ལགས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Sovereign lady of all living beings, noble and mighty goddess, You hold and bestow sacred knowledge.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-65">
+            <prop type="location-id">UT22084-094-005-45</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཟླ་བའི་འོད་ཅན་ཟླ་བའི་ཞལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Your moon-like face glows with moonlight,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-66">
+            <prop type="location-id">UT22084-094-005-45</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཟླ་བའི་གཟི་ནི་འཕྲོག་པར་མཛད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Stealing away the moon’s own effulgence.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-67">
+            <prop type="location-id">UT22084-094-005-45</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཉི་མའི་གཟི་འཕྲོག་དགྱེས་པ་མོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Lady who delights in robbing the radiance of the sun,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-68">
+            <prop type="location-id">UT22084-094-005-45</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཡིད་འོང་བཟང་ཞིང་ཞི་བ་མོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You are beautiful, exalted, and wholly at peace!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-69">
+            <prop type="unmatched">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བདེ་བ་བདེ་ལྡན་མུ་དང་སྟེགས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Blissful stepping stone to happiness,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-70">
+            <prop type="location-id">UT22084-094-005-46</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཀྲ་ཤིས་བགེགས་རྣམས་སེལ་མཛད་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You remove all that stands in the way of good fortune.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-71">
+            <prop type="location-id">UT22084-094-005-46</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ནོར་སྤེལ་བསོད་ནམས་རྣམ་པར་རྒྱལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You make wealth increase and merit ever-victorious.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-72">
+            <prop type="location-id">UT22084-094-005-46</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཛམ་བུའི་ཆུ་བོ་གསེར་དངུལ་འོད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You gleam like gold and silver from the Jambu River.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-73">
+            <prop type="location-id">UT22084-094-005-48</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཇིགས་པ་སེལ་བ་འཇིགས་མེད་སྦྱིན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Dispeller of fears and bestower of fearlessness, You are Tārā;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-74">
+            <prop type="location-id">UT22084-094-005-48</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྒྲོལ་མ་ལགས་ཏེ་ཟླ་བའི་ཞལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>your face is like the moon.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-75">
+            <prop type="location-id">UT22084-094-005-48</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སེམས་ཅན་ཀུན་ལ་མེད་མི་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You never stray far from any sentient being.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-76">
+            <prop type="location-id">UT22084-094-005-48</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མཆོད་གནས་ཕྱག་གནས་དགའ་མཛད་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You bring joy and are worthy of worship and homage.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-77">
+            <prop type="location-id">UT22084-094-005-49</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཆ་ལུགས་སྔོ་བ་ཆ་ལུགས་བཟང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Your exalted garments glimmer with blue hues;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-78">
+            <prop type="location-id">UT22084-094-005-49</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྒྱན་དམར་རྒྱན་དུ་ཐོགས་པ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You are beautifully adorned with red ornaments;</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-79">
+            <prop type="location-id">UT22084-094-005-49</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ན་བཟའ་གསེར་མནབས་གང་ག་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And, like Gaṅgā, you dress in yellow clothing.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-80">
+            <prop type="location-id">UT22084-094-005-49</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དཀར་མོ་འབར་བ་རྣམ་པར་གཟིགས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Blazing white lady, you are all-seeing!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-81">
+            <prop type="location-id">UT22084-094-005-50</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གིའུ་ཝང་གི་ཐིག་ལེ་སྤོས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Fragrant as a ball of bezoar,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-82">
+            <prop type="location-id">UT22084-094-005-50</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཁོར་ལྡན་རྡོ་རྗེ་ཆུ་ལྷ་ཉིད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You are the adamantine Varuṇa and retinue.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-83">
+            <prop type="location-id">UT22084-094-005-50</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དཀྱིལ་འཁོར་མཆོག་མངའ་འཇིགས་མཛད་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Fearsome lady, queen of the supreme maṇḍala,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-84">
+            <prop type="location-id">UT22084-094-005-50</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཚེམས་དཀར་བཞད་ཅིང་ཚེམས་དཀར་འཛུམ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>With your white teeth you laugh and smile.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-85">
+            <prop type="location-id">UT22084-094-005-51</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དཔུང་རྒྱན་སྙན་ཆ་གདུབ་འཁོར་ཐོགས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“You wear armlets, earrings, and bracelets</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-86">
+            <prop type="location-id">UT22084-094-005-51</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དོ་ཤལ་འབར་བའི་ཆུན་པོ་ཅན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And are wreathed in glimmering crystal necklaces.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-87">
+            <prop type="location-id">UT22084-094-005-51</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འོག་པག་བཟང་ལྡན་ཞལ་བཟང་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Lady with a face of beauty, wearing a superb sash,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-88">
+            <prop type="location-id">UT22084-094-005-51</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གྲོགས་ནི་ནིམ་པའི་ལོ་མ་ཐོགས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You are accompanied by the one who holds a sprig of neem leaves.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-89">
+            <prop type="location-id">UT22084-094-005-53</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ནོར་བུའི་ཅོད་པན་ནོར་བུ་འཆང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“You wear a jeweled diadem, hold a jewel,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-90">
+            <prop type="location-id">UT22084-094-005-53</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ནོར་བུའི་རྒྱན་རྣམས་རྒྱན་དུ་ཐོགས། །ནོར་བུའི་འོད་ཟེར་སྣང་བ་ཅན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And are adorned with jeweled ornaments.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-91">
+            <prop type="location-id">UT22084-094-005-53</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ནོར་བུའི་དཀྱིལ་འཁོར་རྒྱན་མངའ་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You are adorned with a band of beautiful gems,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-92">
+            <prop type="location-id">UT22084-094-005-53</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འབར་བའི་མདོག་མངའ་རྡོ་རྗེ་ཅན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And sparkle like precious stones. “Vajra lady, you radiate with blazing colors,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-93">
+            <prop type="location-id">UT22084-094-005-53</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྐྱེས་པ་བུད་མེད་སད་པར་མཛད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Awakening men and women both.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-94">
+            <prop type="location-id">UT22084-094-005-53</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཞི་བ་དབྱིག་ཐོགས་མཆེ་བ་ཅན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Fanged one who wields the rod of peace,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-95">
+            <prop type="location-id">UT22084-094-005-53</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཚངས་པའི་ཤུགས་ཅན་རླུང་དང་ལྡན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You are as strong as Brahmā and as swift as the wind.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-96">
+            <prop type="location-id">UT22084-094-005-57</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བུད་མེད་ལགས་ཏེ་མཁའ་ལས་གཤེགས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“You are the woman who descends from the sky</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-97">
+            <prop type="location-id">UT22084-094-005-57</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ལྷ་མོ་མཆོག་གི་འོད་འཕྲོག་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And shines with the light of a supreme goddess.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-98">
+            <prop type="location-id">UT22084-094-005-57</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འོད་དང་ལྡན་པ་འདོད་པས་འདུལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Luminous one who conquers through desire,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-99">
+            <prop type="location-id">UT22084-094-005-57</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདོད་པའི་ཁྲོ་བོ་རབ་འཇོམས་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You have vanquished the torment of desire.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-100">
+            <prop type="location-id">UT22084-094-005-59</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲག་པོ་ཐོར་ཚུགས་གཙུག་པུད་ཅན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Wrathful one with a topknot and diadem, victorious one,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-101">
+            <prop type="unmatched">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཚངས་པ་ཚངས་པའི་གསུང་ལྡན་རྒྱལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You are Brahmā himself and have speech the likes of Brahmā.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-102">
+            <prop type="location-id">UT22084-094-005-59</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བིང་ཀའི་སྐད་འདྲ་ཕེག་བཟང་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Your beautiful voice rings like the call of the kalaviṅka.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-103">
+            <prop type="location-id">UT22084-094-005-59</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཇིག་རྟེན་དབང་ཕྱུག་རིགས་མཆོག་སྐྱེས། །དབྱིག་པའི་ཤིང་ལོ་རྡོ་རྗེ་ཐོགས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Sovereign of the world, you are born within the supreme family!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-104">
+            <prop type="location-id">UT22084-094-005-61</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲག་མོ་རིན་ཆེན་འོད་ཀྱིས་བརྒྱན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Fierce lady adorned with the resplendence of jewels And holding a staff with adamantine leaves,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-105">
+            <prop type="location-id">UT22084-094-005-61</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གཤེགས་ན་སྙན་ཆ་དྲི་མེད་གཡོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Your immaculate earrings sway as you move.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-106">
+            <prop type="location-id">UT22084-094-005-61</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གཤིན་རྗེ་བ་ཡི་ཡིད་ལ་འཇུག །རིག་སྔགས་འཆང་མ་གཟུགས་འཆང་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Such is how you dawn in the minds of those in Yama’s realm. “You are the one taking the form of a vidyādharī.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-107">
+            <prop type="location-id">UT22084-094-005-61</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྟོབས་ལྔ་སྟོབས་དང་ལྡན་པར་མཛད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You are endowed with five strengths and bestow strength.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-108">
+            <prop type="location-id">UT22084-094-005-61</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྟོབས་དང་སྟོབས་མེད་མངའ་བ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Wielding strength as well as absence of strength,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-109">
+            <prop type="location-id">UT22084-094-005-61</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཤེས་རབ་མཚོན་གྱིས་གཅོད་པར་མཛད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You cut with the blade of wisdom.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-110">
+            <prop type="location-id">UT22084-094-005-65</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྒྱུ་རྩལ་ལགས་ཏེ་སྒྱུ་རྩལ་ལྡན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“You are crafty and full of art,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-111">
+            <prop type="location-id">UT22084-094-005-65</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་བཞིན་བརྗོད་དང་སྨྲ་བ་ལགས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And your voice resounds mightily, Like a bouquet of campaka flowers</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-112">
+            <prop type="location-id">UT22084-094-005-65</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྟེང་ནས་ཁྱམས་དང་ཁྱམས་བཟང་ཚུལ། །ཙམ་པ་ཀ་ཡི་ཆུན་པོས་གསལ། །སེར་མོ་ཙན་པ་ལེགས་པའི་རྟེན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Brightens a courtyard or hall from above.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-113">
+            <prop type="location-id">UT22084-094-005-67</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲག་མོ་ཕྱག་ན་ཆུན་པོ་ཐོགས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Wrathful one, you hold a bouquet in your hand And are an excellent support for yellow-clad monastics.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-114">
+            <prop type="location-id">UT22084-094-005-67</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྐལ་བ་བཟང་མོ་གཤལ་ཀ་ཅན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Fortunate one, you are decked in ornaments</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-115">
+            <prop type="location-id">UT22084-094-005-67</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་བཞིན་ཤིན་ཏུ་ཤས་ཆེར་དགྱེས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And experience great delight. “Vajra fury who brings joy,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-116">
+            <prop type="location-id">UT22084-094-005-67</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རིགས་མཚན་ཤིན་ཏུ་སྟོབས་དང་ལྡན། །རྡོ་རྗེ་ཁྲོ་བོ་དགའ་མཛད་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You are endowed with the signs and great strength of your lineage.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-117">
+            <prop type="location-id">UT22084-094-005-67</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བདེ་ལྡན་བློ་ལྡན་རྡོ་རྗེའི་ཐབས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>With your bliss, intelligence, and adamantine means,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-118">
+            <prop type="location-id">UT22084-094-005-67</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བློ་མཛད་ཤེས་རབ་སྐྱེད་པར་མཛད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You bestow understanding and increase wisdom.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-119">
+            <prop type="location-id">UT22084-094-005-72</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ལྷ་མོ་ལམ་མེ་ཅོད་པན་ཅན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Goddess of the resplendent diadem,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-120">
+            <prop type="location-id">UT22084-094-005-72</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ལྷ་རྣམས་ཀུན་ལས་ཚུལ་ལྷག་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Your manner is greater than all the gods.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-121">
+            <prop type="location-id">UT22084-094-005-72</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྲེད་མེད་བུ་མོ་སྡིག་པ་སེལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>As Nārāyaṇī, you dispel negativity,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-122">
+            <prop type="location-id">UT22084-094-005-72</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཀྲ་ཤིས་ངོ་ཚ་ཤེས་དང་དགྱེས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And you delight in auspiciousness and modesty.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-123">
+            <prop type="location-id">UT22084-094-005-73</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རབ་ཏུ་དགའ་མ་འགྲོགས་ན་དགའ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Lady of gladness, you delight all who associate with you</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-124">
+            <prop type="location-id">UT22084-094-005-73</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྤྱོད་ཚུལ་དགའ་ལ་དགའ་དང་ལྡན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And you delight in those who delight in wholesome conduct.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-125">
+            <prop type="location-id">UT22084-094-005-73</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དགའ་མ་དགའ་བར་མཛད་པ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Delightful lady who exudes delight,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-126">
+            <prop type="location-id">UT22084-094-005-73</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཆོས་རྣམས་ཀུན་གྱི་ལེགས་པའི་རྟེན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You are an excellent support for all qualities.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-127">
+            <prop type="location-id">UT22084-094-005-75</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སངས་རྒྱས་སྤྲུལ་པ་སྦྲུལ་མཛད་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Lady who emanates buddha emanations,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-128">
+            <prop type="location-id">UT22084-094-005-75</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ང་རྒྱལ་སེལ་བར་མཛད་པ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And who works to dispel pride,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-129">
+            <prop type="location-id">UT22084-094-005-75</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ལས་དང་ཉོན་མོངས་རབ་འཇོམས་ཤིང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You destroy karma and afflictions,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-130">
+            <prop type="location-id">UT22084-094-005-75</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདོད་པའི་སྡེ་རྣམས་རབ་འཇོམས་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And conquer all forms of desire.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-131">
+            <prop type="location-id">UT22084-094-005-76</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཤེས་པ་བཅུ་མངའ་སངས་རྒྱས་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“You are a buddha with the ten knowledges,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-132">
+            <prop type="location-id">UT22084-094-005-76</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཕ་རོལ་ཕྱིན་པ་བཅུ་ལ་གནས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And you uphold the ten perfections.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-133">
+            <prop type="location-id">UT22084-094-005-76</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ས་བཅུ་དག་ལ་མངའ་བརྙེས་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You have reached the ten grounds,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-134">
+            <prop type="location-id">UT22084-094-005-76</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྟོབས་རྣམས་བཅུ་བོས་ཆེར་གསལ་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And shine bright with the light of the ten strengths.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-135">
+            <prop type="location-id">UT22084-094-005-77</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྡོ་རྗེ་ཅོད་པན་རྡོ་རྗེ་འཆང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“You wear a vajra diadem and wield a vajra.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-136">
+            <prop type="location-id">UT22084-094-005-77</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྡོ་རྗེ་ཕྲ་མོ་ལྷ་མིན་སེལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>With your subtle vajra you clear away asuras.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-137">
+            <prop type="location-id">UT22084-094-005-77</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དུས་ཀྱི་རྡོ་རྗེ་རབ་ཏུ་རྒྱགས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>With the vajra of time you bring elation,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-138">
+            <prop type="location-id">UT22084-094-005-77</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྡོ་རྗེ་ལྕགས་ཀྱུ་བདེ་དང་དཔལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And you wield the vajra hook of bliss and glory.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-139">
+            <prop type="location-id">UT22084-094-005-79</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྡོ་རྗེ་ཞགས་པ་ཞགས་བ་བཟང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Charming lady who holds a vajra in her hand</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-140">
+            <prop type="unmatched">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྒེག་མོ་རྡོ་རྗེ་ཕྱག་ན་བསྣམས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And wields a vajra lasso and excellent lasso,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-141">
+            <prop type="location-id">UT22084-094-005-79</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཡིད་འོང་ཡིད་ལ་ཚིམ་པར་མཛད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You are captivating; you bring satisfaction to the mind,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-142">
+            <prop type="location-id">UT22084-094-005-79</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཕ་རོལ་བགེགས་རྣམས་སེལ་མཛད་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And you dispel all opponents and obstacle makers.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-143">
+            <prop type="location-id">UT22084-094-005-80</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཚིམ་མཛད་ཤས་ཆེར་བདེ་བ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“You bring about contentment and great happiness,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-144">
+            <prop type="location-id">UT22084-094-005-80</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རོལ་ཅིང་གར་ཐབས་སྟོན་པར་མཛད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And reveal the way of play and dance.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-145">
+            <prop type="location-id">UT22084-094-005-80</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཆོས་ཅན་ཧ་ལ་ཧ་ལའི་འོད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Rich in Dharma, you have the radiance of halāhala.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-146">
+            <prop type="location-id">UT22084-094-005-80</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཆོས་སྦྱིན་རྣམ་པར་གཟིགས་པ་ལགས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Giver of the Dharma, your gaze is vast.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-147">
+            <prop type="location-id">UT22084-094-005-81</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཁྱོད་ནི་རྡོ་རྗེ་འཕྲོ་བ་དང་། །བདུད་རྩི་རྡོ་རྗེར་བརྗོད་པ་སྟེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“You are a vajra emanation, And are said to be vajra nectar.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-148">
+            <prop type="location-id">UT22084-094-005-81</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྡོ་རྗེ་འབར་བ་སྟོབས་མོ་ཆེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Great goddess, powerful with a blazing vajra,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-149">
+            <prop type="location-id">UT22084-094-005-81</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ལྷ་མོ་ཆེན་མོ་ཁྱོད་ཕྱག་འཚལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>To you we pay homage!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-150">
+            <prop type="location-id">UT22084-094-005-82</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བདག་ཅག་རྣམས་ཀྱིས་བསྟོད་པ་ཡིས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“With this praise of ours,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-151">
+            <prop type="location-id">UT22084-094-005-82</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མཚན་བརྒྱ་རྩ་བརྒྱད་མཆོག་འདི་བརྗོད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>We recite your hundred and eight sublime names.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-152">
+            <prop type="location-id">UT22084-094-005-82</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཀྱེ་ཀྱེ་བཅོམ་ལྡན་མཆོག་ཉིད་ནི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Amazing! The supreme Blessed One herself</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-153">
+            <prop type="location-id">UT22084-094-005-82</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྨྲ་བ་རྣམས་ཀྱི་མཆོག་ལགས་གསུང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Has spoken the most sublime of utterances.” Then, the magnificent goddess Tārā,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-154">
+            <prop type="location-id">UT22084-094-005-82</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་ཟླ་བའི་འོད་འདྲ་ཞིང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Who is like the light of the moon</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-155">
+            <prop type="location-id">UT22084-094-005-82</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འབར་ལ་འཕྲོ་བར་ལྡན་པ་ཡི། །ལྷ་མོ་སྒྲོལ་མ་བརྗིད་བག་ཅན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And blazes with radiance,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-156">
+            <prop type="location-id">UT22084-094-005-82</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཛུམ་བཞིན་དུ་ནི་རབ་སྨྲས་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Revealed a smile and spoke:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-157">
+            <prop type="location-id">UT22084-094-005-86</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དབང་ཕྱུག་ཆེན་པོ་ལ་སོགས་ཀུན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Maheśvara and the rest of you,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-158">
+            <prop type="location-id">UT22084-094-005-86</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ང་ཡི་ཚིག་ནི་མཉན་པར་གྱིས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Listen now to my words.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-159">
+            <prop type="location-id">UT22084-094-005-86</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཐམས་ཅད་རྟག་ཏུ་མཐུན་པར་ནི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Always be agreeable with everyone</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-160">
+            <prop type="location-id">UT22084-094-005-86</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྟོབས་བཅུ་དག་ལ་བརྩོན་པར་གྱིས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>As you strive to attain the ten strengths.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-161">
+            <prop type="location-id">UT22084-094-005-86</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་བཞིན་གཤེགས་པའི་ཚུལ་ཆེན་ཡང་། །དུས་ཀུན་ཏུ་ནི་བསྲུང་བར་གྱིས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>At all times, protect the great way Of the thus-gone ones.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-162">
+            <prop type="location-id">UT22084-094-005-86</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཞི་བའི་ལམ་ལ་དམིགས་པས་ནི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Keeping your minds on the path of peace,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-163">
+            <prop type="location-id">UT22084-094-005-86</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཁོར་བའི་རྒྱ་མཚོ་མི་བཟད་ཅིང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You must cross over the unbearable ocean of cyclic existence,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-164">
+            <prop type="location-id">UT22084-094-005-86</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཇིགས་པ་ཆེན་པོའི་གཞིར་གྱུར་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Which is the source of great terrors</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-165">
+            <prop type="location-id">UT22084-094-005-86</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྒལ་དཀའ་ཁྱེད་ཀྱིས་རྒལ་བར་གྱིས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And is so difficult to ford.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-166">
+            <prop type="location-id">UT22084-094-005-86</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།མྱ་ངན་འདས་པའི་གྲོང་ཁྱེར་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Setting your mind upon the city of nirvāṇa,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-167">
+            <prop type="location-id">UT22084-094-005-86</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དམིགས་ནས་བརྩོན་ཏེ་འཇུག་པར་གྱིས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You must strive for it and enter it.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-168">
+            <prop type="location-id">UT22084-094-005-87</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་ཉི་འོད་འབར་བ་ཡི། །ཕྲེང་བ་ལྟ་བུ་མཛེས་པའི་ཞལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Then Tārā, whose face is as beautiful</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-169">
+            <prop type="location-id">UT22084-094-005-87</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་བཞིན་གཤེགས་པའི་འབྲུག་གི་སྒྲ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>As a garland of the sun’s blazing rays,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-170">
+            <prop type="location-id">UT22084-094-005-87</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདྲ་བའི་ཚིག་ནི་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Spoke the following words Like the rumbling thunder of the Thus-Gone One: “O wonder!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-171">
+            <prop type="location-id">UT22084-094-005-87</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཀྱེ་མ་རིག་སྔགས་སྒྲོལ་མའི་མཆོག །མུན་པ་སེལ་བར་བྱེད་པ་དང་། །མཐུ་སྟོབས་རྒྱ་ཆེན་སྐྱེད་བྱེད་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>This excellent vidyāmantra of Tārā Clears away all darkness, Creates immense power and strength,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-172">
+            <prop type="location-id">UT22084-094-005-87</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྒྲིབ་པ་ཐམས་ཅད་གཅོད་བྱེད་པ། །ཚོགས་རྣམས་སྐྱེད་པའི་གཟི་བརྗིད་ཀྱིས། །དག་པར་བྱས་པ་མ་ཡིན་པས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And cuts through all obscurations.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-173">
+            <prop type="location-id">UT22084-094-005-89</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཤས་ཆེར་དགའ་བར་བྱེད་པ་ཡི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“This dhāraṇī, which brings so much joy,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-174">
+            <prop type="location-id">UT22084-094-005-89</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གཟུངས་འདི་ཐོས་པར་མི་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Will not be heard by the masses</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-175">
+            <prop type="location-id">UT22084-094-005-89</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྔོན་ཆད་སངས་རྒྱས་བརྩོན་བྱས་པའི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Who have not purified themselves</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-176">
+            <prop type="location-id">UT22084-094-005-89</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བརྟན་པོ་གཟི་བརྗིད་དག་རྣམས་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>By cultivating inner confidence.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-177">
+            <prop type="location-id">UT22084-094-005-90</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དམ་ཚིག་ཆེན་པོ་རིག་སྔགས་ཀྱི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“This great samaya, the samaya of this vidyāmantra,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-178">
+            <prop type="location-id">UT22084-094-005-90</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དམ་ཚིག་འདི་ནི་འབྱུང་བར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Will arise for those Who have developed stable confidence, From their prior efforts toward buddhahood. “Whoever upholds this sublime, indestructible dhāraṇī-mantra,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-179">
+            <prop type="location-id">UT22084-094-005-90</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཉོན་མོངས་མཐའ་དག་རབ་འཇོམས་ཤིང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Which quells all afflictions,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-180">
+            <prop type="location-id">UT22084-094-005-90</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྡིག་པ་ཐམས་ཅད་སེལ་བྱེད་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Eliminates all negativity,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-181">
+            <prop type="location-id">UT22084-094-005-90</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སེམས་ཅན་ཐམས་ཅད་རབ་འབྱེད་པའི། །གཟུངས་སྔགས་རྡོ་རྗེ་མཆོག་འཛིན་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And nurtures all beings—</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-182">
+            <prop type="location-id">UT22084-094-005-90</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སུ་ཞིག་མཉམ་པར་བཞག་པ་ཡིས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Whoever, in meditative equipoise,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-183">
+            <prop type="location-id">UT22084-094-005-90</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཉན་ཏམ་འཆང་ངམ་ཀློག་བྱེད་ན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Hears it, reads it, or keeps it in mind— Will accomplish all their aims</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-184">
+            <prop type="location-id">UT22084-094-005-90</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རང་བྱུང་གིས་ནི་གསུངས་པ་བཞིན། །དེ་ཡི་དོན་ཀུན་གྲུབ་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>As was stated by the Self-Arisen One.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-185">
+            <prop type="location-id">UT22084-094-005-93</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཉོན་མོངས་ཀུན་ལས་རྣམ་གྲོལ་ཞིང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“They will be liberated from all affliction,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-186">
+            <prop type="location-id">UT22084-094-005-93</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སེམས་ཅན་ཀུན་ལས་ལྷག་པའི་མཆོག །འཇིག་རྟེན་དག་ཏུ་ཆོས་ཤེས་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Become the most excellent of sentient beings,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-187">
+            <prop type="location-id">UT22084-094-005-93</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཛུད་པའི་དེ་བཞིན་གཤེགས་དང་མཚུངས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And will be equal to the thus-gone ones Who are immersed in knowledge of every world’s phenomena.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-188">
+            <prop type="location-id">UT22084-094-005-94</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སུ་ཞིག་མིང་བརྒྱ་རྩ་བརྒྱད་འདི། །འདོན་ཞིང་སྒྲོལ་མ་ཟླ་བའི་ཞལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Whoever chants these hundred and eight names</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-189">
+            <prop type="location-id">UT22084-094-005-94</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་བཞིན་སྟོད་བྱེད་དེ་དག་ནི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And praises Tārā’s moon-like face in this way</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-190">
+            <prop type="location-id">UT22084-094-005-94</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སངས་རྒྱས་ཉིད་ཀྱང་ཐོབ་པར་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Will reach buddhahood itself.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-191">
+            <prop type="location-id">UT22084-094-005-94</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ཡི་དོན་ཀྱང་གྲུབ་འགྱུར་ཞིང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>They will accomplish all their aims</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-192">
+            <prop type="location-id">UT22084-094-005-94</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྒྱལ་པོ་རྣམས་དང་སྟོབས་ཆེན་མི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And gain control over kings, powerful people,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-193">
+            <prop type="location-id">UT22084-094-005-94</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གཞན་ཡང་སེམས་ཅན་བགྲང་བ་གང་། །ཐམས་ཅད་དེ་ཡི་དབང་དུ་འགྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And any number of other beings.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-194">
+            <prop type="location-id">UT22084-094-005-95</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ལྷ་མོ་སྒྲོལ་མ་ཞལ་བཟང་བའི། །མིང་བརྒྱ་རྩ་བརྒྱད་གྲགས་པ་འདི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“This praise, known as The Hundred and Eight Names of the Goddess Tārā with a Lovely Face</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-195">
+            <prop type="location-id">UT22084-094-005-95</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཇིག་རྟེན་དག་ན་རྒྱགས་པ་དང་། །ཉོན་མོངས་མི་རིགས་ཀུན་སེལ་བའོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Fills the many worlds</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-196">
+            <prop type="location-id">UT22084-094-005-95</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བདུད་རིས་གྱེན་དུ་གཡོས་པའི་རི་བོ་འཁྲུག་བྱེད་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And dispels all afflictions and everything untoward!</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-197">
+            <prop type="location-id">UT22084-094-005-96</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་བཞིན་གཤེགས་པའི་རི་བོ་མཆོག་དང་འདྲ་བའི་སྐུ་མངའ་བ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“Her body, which is like the supreme mountain of thus-gone ones, Shakes the mountain ascended by the clans of māras.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-198">
+            <prop type="location-id">UT22084-094-005-96</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འོད་གསལ་ལྷ་དང་མི་རྣམས་ལེགས་པར་སད་པར་མཛད་པ་པོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>She is the light that fully awakens gods and humans.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-199">
+            <prop type="location-id">UT22084-094-005-97</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རྒྱལ་སྲས་ཐུ་བོ་རྣམས་ཀྱིས་ཁྱབ་པར་སྟོབས་ཀྱིས་བརྟེན་པ་ཡིས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>“This eminent one is renowned for her profound dedication</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-200">
+            <prop type="location-id">UT22084-094-005-97</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གསུང་རབ་རྟག་ཏུ་ཚོགས་ཆེན་བརྡ་སྤྲོད་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>To the great collection of well-spoken teachings</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-201">
+            <prop type="location-id">UT22084-094-005-97</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དོན་ཆེན་གྲགས་ཤིང་ཕན་ཕྱིར་ཞུགས་པ་གང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Ceaselessly transmitted by the most eminent of the Victor’s heirs Through their stability in the unique powers.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-202">
+            <prop type="location-id">UT22084-094-005-97</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རབ་དེས་ཆོས་དེ་དང་ནི་སྡུད་བྱེད་དང་། །དེ་བཞིན་ཁྱད་པར་སེམས་པའི་རིམས་སེལ་བས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Appearing for the benefit of all, she condenses this Dharma, And thus expertly soothes the fevers of the mind.”</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-203">
+            <prop type="location-id">UT22084-094-005-99</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཟོད་མེད་ཉོན་མོངས་སེལ་བ་དང་། །ཞི་བའི་ཡིད་ནི་སྐྱེད་པའི་ཚིག །རྒྱལ་བའི་མཆོག་གིས་བཀའ་སྩལ་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>After these words that dispel unbearable afflictions, And which produce a tranquil mind, Were spoken by the supreme Victor,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-204">
+            <prop type="location-id">UT22084-094-005-99</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།གཞེས་པར་གྱུར་ཏེ་མི་གསུང་བཞུགས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Tārā remained still and did not speak further.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-205">
+            <prop type="location-id">UT22084-094-005-100</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནས་སྒྲོལ་མཆོག་ལྷ་མོས་གཙོར་གྱུར་དགའ་བར་བྱེད་ཅིང་ཡིད་འཕྲོག་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Astonished and enraptured by the sublime goddess Tārā,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-206">
+            <prop type="location-id">UT22084-094-005-100</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།དགའ་བ་རྒྱ་ཆེན་སྐྱེད་ཅིང་ཚེ་དང་བདེ་སྦྱིན་བསྟན་པའི་ཚིག་ཐོས་པས། །ལྷ་ཚོགས་ལྷ་མིན་ཚོགས་བཅས་མཐའ་དག་དགའ་བས་རྒྱས་ཤིང་རྨད་བྱུང་ནས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The entire assembly of devas and asuras was filled with joy and wonder Upon hearing these instructive words that evoke deep joy and grant happiness and long life.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-207">
+            <prop type="location-id">UT22084-094-005-100</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།རབ་ཏུ་དགའ་ཞིང་སྤྱི་བོས་ཐལ་མོ་སྦྱར་ཏེ་སྨྲ་བ་ཞི་བར་གྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Overjoyed, they joined their hands above their heads as their speech was stilled.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-208">
+            <prop type="location-id">UT22084-094-005-101</prop>
+            <prop type="revision">v-1.0.10-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྒྲོལ་མའི་མཆོག་ཅེས་བྱ་བའི་གཟུངས་ཏེ་ལྷ་མོ་སྒྲོལ་མའི་མཚན་བརྒྱ་རྩ་བརྒྱད་པ་རྫོགས་སོ།། </seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>This completes the dhāraṇī named “ Supreme Tārā, the Hundred and Eight Names of the Goddess Tārā</seg>
+            </tuv>
+        </tu>
+    <tu id="UT22084-094-005-TU-209">
+            <prop type="revision">v-1.0.6-2022</prop>
+            <prop type="location-id">UT22084-094-005-19</prop>
+            <tuv xml:lang="en">
+                <seg>Yakṣas, kinnaras, mahoragas,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-210">
+            <prop type="revision">v-1.0.6-2022</prop>
+            <prop type="location-id">UT22084-094-005-22</prop>
+            <tuv xml:lang="en">
+                <seg>Light renowned for its greatness, O broad-eyed one,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-211">
+            <prop type="revision">v-1.0.6-2022</prop>
+            <prop type="location-id">UT22084-094-005-33</prop>
+            <tuv xml:lang="en">
+                <seg>“Holder of the vajra of resplendent clarity that tames beings,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-212">
+            <prop type="revision">v-1.0.6-2022</prop>
+            <prop type="location-id">UT22084-094-005-46</prop>
+            <tuv xml:lang="en">
+                <seg>“Blissful steppingstone to happiness,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-213">
+            <prop type="revision">v-1.0.6-2022</prop>
+            <prop type="location-id">UT22084-094-005-59</prop>
+            <tuv xml:lang="en">
+                <seg>You are Brahmā and have the speech of Brahmā.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-005-TU-214">
+            <prop type="revision">v-1.0.6-2022</prop>
+            <prop type="location-id">UT22084-094-005-79</prop>
+            <tuv xml:lang="en">
+                <seg>And wields a vajra lasso, an excellent lasso,</seg>
+            </tuv>
+        </tu>
+        </body>
+</tmx>

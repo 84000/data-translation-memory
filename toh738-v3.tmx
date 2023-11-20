@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+    <header creationtool="linguae-dharmae/84000" creationtoolversion="2.16.12a" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-094-015" eft:text-version="v-1.0.0-2021" eft:source-ref="/db/apps/84000-data/uploads/linguae-dharmae/aligned/31-10-2022/complete/toh738-bo_aligned.txt" eft:seconds-to-revise="0.089"/>
+    <body>
+        <!--<tu id="UT22084-094-015-TU-1">
+            <tuv xml:lang="bo"><seg>ཡོངས་སུ་གཟུང་དུ་གསོལ། ཡོངས་སུ་བསྐྱང་དུ་གསོལ། ཞི་བ་དང་བདེ་ལེགས་སུ་འགྱུར་བར་མཛད་དུ་གསོལ། ཆད་པ་སྤོང་བར་མཛད་དུ་གསོལ། མཚོན་ཆ་སྤོང་བར་མཛད་དུ་གསོལ། མཚམས་གཅད་པར་མཛད་དུ་གསོལ། ས་བཅིང་བར་མཛད་དུ་གསོལ། ཀུ་རུ་ཀུ་རུ་པཾ། མཀྵི། བི་དྷི་བི་དྷི་བི་དྷི། མཱརྒ་སཾ་པྲ་སྭ་ཏེ། ཨ་མྲྀ་ཏ་ཏེ་ཛ་བ་ཏི། གནོད་པ་ཐམས་ཅད་ལས་བདག་ལ་རྟག་པར་བསྲུང་དུ་གསོལ། །བསྲུང་དུ་གསོལ། མུ་ལུ་མུ་ལུ་མུ་ལུ། ཁུ་ཁུ་མེ། གྷོ་རི་གྷོ་རི། བ་ལེ་བ་ལེ། ཏ་ར་ཏ་ར། མུ་ཡ་མུ་ཡ། མུཉྩ་ནི། ཁ་ཁ་རེ། དྷུ་ཧཱུྃ་ཧཱུྃ་ནི། དྷུ་ཧཱུྃ་ནི། བདག་འཐབ་པ་དང་། འཐབ་མོ་དང་། རྩོད་པ་དང་། འགྱེད་པ་ཐམས་ཅད་ལས་བསྲུང་དུ་གསོལ། བསྲུང་དུ་གསོལ། ཛ་ཡཾ་ཀུ་རུ་ཀུ་རུ། ཕུ་རུ་ཕུ་རུ་སྭཱ་ཧཱ། ཨ་མ་ལེ་སྭཱ་ཧཱ། ཨ་མྲྀ་ཏེ་སྭཱ་ཧཱ།</seg></tuv>
+            <tuv xml:lang="en"><seg/></tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-2">
+            <tuv xml:lang="bo"><seg>འཕགས་པ་ཕྱིར་ཟློག་པ་སྟོབས་ཅན་ཞེས་བྱ་བའི་གཟུངས་རྫོགས་སོ།།</seg></tuv>
+            <tuv xml:lang="en"><seg>In Praise of the Glorious Goddess Sarasvatī</seg></tuv>
+        </tu>-->
+        <tu id="UT22084-094-015-TU-3">
+            <prop type="location-id">translation</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>༄༅། །དཔལ་ལྷ་མོ་སྒྲ་དབྱངས་ལ་བསྟོད་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>In Praise of the Glorious Goddess Sarasvatī</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-4">
+            <prop type="location-id">UT22084-094-015-14</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>ལམ་གང་གིས་ན་སངས་རྒྱས་འབྱུང་བ་དང་། །རྒྱལ་བ་སྲས་བཅས་ཆོས་ཀྱི་བླ་མར་གྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>In the path that leads to awakening, The victors and their heirs, masters of the Dharma,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-5">
+            <prop type="location-id">UT22084-094-015-14</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།མཁྱེན་པའི་རིམ་པར་ས་རྣམས་བཀོད་པ་ཡི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And the multitudes of wisdom maṇḍalas</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-6">
+            <prop type="location-id">UT22084-094-015-14</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཤེས་རབ་དཀྱིལ་འཁོར་མང་ལ་སྐྱབས་སུ་མཆི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Arranged in successive levels of knowing—in these we seek refuge.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-7">
+            <prop type="location-id">UT22084-094-015-15</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཕྱག་འཚལ་དཔལ་ལྡན་ལྷ་མོ་དབྱངས་ཅན་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Homage to you, glorious goddess Sarasvatī.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-8">
+            <prop type="location-id">UT22084-094-015-15</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཇིག་རྟེན་ཁམས་འདིར་སྨྲ་ལ་དབང་བརྙེས་ཤེས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Your mastery over speech is renowned throughout the world</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-9">
+            <prop type="location-id">UT22084-094-015-15</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དྲང་སྲོང་རིག་གསུམ་རིག་པའི་ཕ་རོལ་གཤེགས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And you have transcended the three knowledges of the sages.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-10">
+            <prop type="location-id">UT22084-094-015-15</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ནི་སྤྱོད་པ་རྒྱ་ཆེན་རྣམས་ལས་བྱུང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>All of this is the result of your vast conduct.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-11">
+            <prop type="location-id">UT22084-094-015-17</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།སེམས་ཅན་དོན་ཕྱིར་ཕྲིན་ལས་ཆེན་པོའི་ཁུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You take up the burden of immense activities</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-12">
+            <prop type="location-id">UT22084-094-015-17</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྤྲོ་བར་དཀའ་བ་ཀུན་ཀྱང་ཁྱོད་ཀྱིས་མཛད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And joyfully endure every hardship for the benefit of beings.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-13">
+            <prop type="location-id">UT22084-094-015-17</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ས་དང་ཕ་རོལ་ཕྱིན་པ་བཅུ་སྤྱད་པས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Coursing through the levels and the ten perfections,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-14">
+            <prop type="location-id">UT22084-094-015-17</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དགེ་བའི་ཚོགས་བརྟན་ཡིད་བཞིན་ལུས་སུ་བསྒྱུར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And standing steadfast in stores of virtue, you take whatever form is needed.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-15">
+            <prop type="location-id">UT22084-094-015-18</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཞལ་གྱི་དཀྱིལ་འཁོར་ཟླ་བ་དྲི་མེད་རྒྱས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Your rounded face is the flawless moon in full.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-16">
+            <prop type="location-id">UT22084-094-015-18</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཐུགས་རྗེའི་སྤྱན་གསལ་འགྲོ་བའི་མིག་འབྱེད་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Your lustrous eyes of compassion open the eyes of others</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-17">
+            <prop type="location-id">UT22084-094-015-18</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དུས་རིང་འཇིག་རྟེན་ཀུན་ལ་བདེ་བར་གཟིགས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>As you gaze at length upon every last universe, effortlessly.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-18">
+            <prop type="location-id">UT22084-094-015-18</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དེ་ལ་ལྷ་དབང་ཚངས་ཚོགས་ཤིན་ཏུ་འདུད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It is before you that the likes of Devendra and Brahmā bow down.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-19">
+            <prop type="location-id">UT22084-094-015-21</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བྱམས་ཤིང་བཟོད་ལྡན་སྙིང་རྗེ་སྐྱེད་པའི་མ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Compassionate mother, replete with love and patience,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-20">
+            <prop type="location-id">UT22084-094-015-21</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ལྷ་མོ་མཆོག་སྟེ་འགྲོ་ཀུན་སྐྱོང་བར་དགྱེས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>It is your delight, noble goddess, to nurture every single being.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-21">
+            <prop type="location-id">UT22084-094-015-21</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཐོར་ཚུགས་རི་བོ་རྩེ་འདྲ་སྤོབས་པ་འཕགས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Your eloquence is lofty and your top-knot rivals mountain peaks.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-22">
+            <prop type="location-id">UT22084-094-015-21</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཤེས་རབ་ཟབ་ཅིང་ཤེས་པའི་རྟེན་བྱེད་ཀྱང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Your wisdom runs deep as you act in support of knowledge.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-23">
+            <prop type="location-id">UT22084-094-015-23</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།རིག་པའི་གནས་ལ་མངའ་བརྙེས་ཚིག་གི་བདག །འཇིག་རྟེན་ན་ཡང་ལྷ་ཡི་ལྷར་གྱུར་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Wielding mastery over fields of knowledge, you are the patroness of words. As you are the god of all gods in the universe,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-24">
+            <prop type="location-id">UT22084-094-015-23</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྡུག་བསྔལ་བསལ་བར་རབ་བརྩོན་གཉེན་མཆོག་པས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>And a supreme companion who endeavors to dispel our suffering,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-25">
+            <prop type="location-id">UT22084-094-015-23</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།མུ་སུ་རྟོག་གེ་པ་རྣམས་ཀུན་ཀྱང་འདུད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Even extremist scholars bow down before you.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-26">
+            <prop type="location-id">UT22084-094-015-24</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཡན་ལག་རྣམ་པར་འབྱེས་ཤིང་གསུང་སྙན་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Your limbs are well proportioned, and your voice is ever sweet.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-27">
+            <prop type="location-id">UT22084-094-015-24</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཡོན་ཏན་དྲི་མེད་བསོད་ནམས་འབར་བར་བསྒྱིངས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Poised with majesty, you glow with flawless qualities and merit.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-28">
+            <prop type="location-id">UT22084-094-015-24</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།རིག་པ་མཆོག་གི་དངོས་གྲུབ་སྦྱིན་མཛད་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>As it is you who grants the accomplishments of the highest knowledge,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-29">
+            <prop type="location-id">UT22084-094-015-24</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བློ་མྱུར་ཚིག་འཆང་སྤོབས་པའི་མཆོག་སྩོལ་ཅིག །སེམས་ཅན་ཀུན་ལ་རྟག་ཏུ་ཕན་སེམས་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Grant us swift intellect, retention of words, and eloquence most supreme! With the welfare of every being always in your heart,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-30">
+            <prop type="location-id">UT22084-094-015-24</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།མི་སླུ་མཆོག་ཁྱོད་རྣམ་གྲོལ་ས་ལ་བཞུགས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Eminent and unfailing goddess, you dwell in liberation.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-31">
+            <prop type="location-id">UT22084-094-015-24</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཐུགས་དམ་བརྟན་བཅས་བསྐུལ་པ་རྣམས་ལ་ཡང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Firm in your promises, you consider with grace Those who call upon you, and you fulfill their every wish.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-32">
+            <prop type="location-id">UT22084-094-015-26</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དཔལ་གྱིས་དགོངས་ཤིང་དོན་ཀུན་ཉེ་བར་སྐོངས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>As the master of sound, you capture in words</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-33">
+            <prop type="location-id">UT22084-094-015-26</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།འདི་ལྟར་འཇིག་རྟེན་དག་ན་སྣང་བ་ཀུན། །སྒྲ་འཇོམས་ཁྱད་པར་ཚིག་གིས་དོན་མཚོན་ཏེ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Everything that appears in the universe.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-34">
+            <prop type="location-id">UT22084-094-015-26</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཕན་ཚུན་ཤེས་ཤིང་ཡང་དག་བརྡ་སྤྲོད་པའང་།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You are understood by all and skilled in expression.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-35">
+            <prop type="location-id">UT22084-094-015-26</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དབྱངས་ཅན་ཁྱོད་ཀྱི་མཐུ་སྟེ་བསམ་མི་ཁྱབ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>O Sarasvatī, your capabilities are inconceivable.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-36">
+            <prop type="location-id">UT22084-094-015-27</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།གཟུངས་དང་ཆོས་ཀྱི་སྟོབས་ལ་དབང་བརྙེས་པ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Wielding mastery over the might of dhāraṇī and Dharma,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-37">
+            <prop type="location-id">UT22084-094-015-27</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།དམ་ཚིག་བདེན་གྲུབ་དྲང་སྲོང་ཤེས་ཉེན་ཅན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You, a capable ṛṣi, have genuinely mastered the samaya.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-38">
+            <prop type="location-id">UT22084-094-015-27</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ལུས་སེམས་ངག་རྣམས་བྱིན་གྱིས་རློབ་པ་དང་། །ཡིད་འོང་སྒྲས་ཀྱང་འཇིག་རྟེན་ཚིམ་པར་བྱེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Bestowing your blessing on our bodies, minds, and speech, You work to satisfy the world with your ever-pleasing voice.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-39">
+            <prop type="location-id">UT22084-094-015-28</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བྱང་ཆུབ་མཆོག་གི་སྤྱོད་ཕྱིར་སུ་དག་མོས།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>You are admired by all for your conduct of supreme awakening.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-40">
+            <prop type="location-id">UT22084-094-015-28</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བདག་དང་གཞན་དོན་ཕུན་སུམ་ཚོགས་འགྱུར་བའི།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Blessed Lady, please continue always to grant the supreme purpose</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-41">
+            <prop type="location-id">UT22084-094-015-28</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ལུས་དང་ངག་ཡིད་རྣམ་དག་མཆོག་འདོད་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>To those who desire the boon of pure body, speech, and mind</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-42">
+            <prop type="location-id">UT22084-094-015-28</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་མས་རྟག་ཏུ་དོན་མཆོག་སྩོལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>With which to bring about the perfect benefit of beings. Help us to be brave as we strive along the path to awakening.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-43">
+            <prop type="location-id">UT22084-094-015-28</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།བདག་ནི་དཔའ་ཞིང་བྱང་ཆུབ་ལམ་བརྩོན་དང་། །ལྕེ་ཡི་དབང་པོ་དག་ཅིང་ཚིག་བཙུན་ལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Let our tongues be quick and our words be righteous.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-44">
+            <prop type="location-id">UT22084-094-015-28</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།རིག་པའི་གཏེར་ལྡན་སྨྲ་ལ་ཐོགས་མེད་དང་། །བདེ་གཤེགས་སྤོབས་པ་ཉེ་བར་སྒྲུབ་ཏུ་གསོལ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Endow us with treasuries of knowledge and speech unobstructed. Allow us to achieve the full eloquence of all the well-gone ones.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-45">
+            <prop type="location-id">UT22084-094-015-30</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།རིག་པའི་ཡུམ་གྱི་རང་བཞིན་རྟོག་ལས་དབེན།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Mother of knowledge, your nature is devoid of conceptuality.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-46">
+            <prop type="location-id">UT22084-094-015-30</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།སྙན་པའི་རྒྱལ་མཚན་དགའ་བའི་ཤུགས་ཀྱིས་བསྐྱོད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>The flag of your reputation flutters in the winds of joy.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-47">
+            <prop type="location-id">UT22084-094-015-30</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།མཁའ་ལ་སྣ་ཚོགས་རྣམ་པར་བྲི་འདོད་ལྟར།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Like wanting to draw a picture in the sky,</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-48">
+            <prop type="location-id">UT22084-094-015-30</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།མཚན་ཉིད་རྟོགས་དཀའ་ཡོན་ཏན་གཏིང་མཐའ་མེད།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Your attributes are hard to comprehend, your qualities are boundless.</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-49">
+            <prop type="location-id">UT22084-094-015-31</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>།ན་མོ་བྷ་ག་བ་ཏེ། བྲཧྨ་ནི། ན་མཿསྭ་ར་སྭ་ཏྱཻ་དེ་བི་སིདྡྷྱནྟུ་མནྟྲ་པཱ་དཾ་བྲཧྨཱ་ནུ་མནྟྲ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>namo bhagavate brahmaṇe | namaḥ sarasvatyai devi siddhyantu mantrapādam brahmānumantra svāhā</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-094-015-TU-50">
+            <prop type="location-id">UT22084-094-015-33</prop>
+            <prop type="revision">v-1.0.0-2021</prop>
+            <tuv xml:lang="bo">
+                <seg>དཔལ་ལྷ་མོ་སྒྲ་དབྱངས་ལ་བསྟོད་པ་རྫོགས་སོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>This concludes “ In Praise of the Glorious Goddess Sarasvatī</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

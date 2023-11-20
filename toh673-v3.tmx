@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+    <header creationtool="linguae-dharmae/84000" creationtoolversion="2.16.12a" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-091-071" eft:text-version="v-1.0.3-2022" eft:source-ref="/db/apps/84000-data/uploads/linguae-dharmae/aligned/31-10-2022/complete/toh673a-bo_aligned.txt"/>
+    <body>
+        <tu id="UT22084-091-071-TU-3">
+            <prop type="location-id">UT22084-091-071-19</prop>
+            <prop type="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཨོཾ་བཛྲ་ཨཱ་ཡུ་ཤེ་ཧཱུྃ་ཨ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>Oṁ vajra-āyuṣe hūṃ a</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-091-071-TU-4">
+            <prop type="location-id">UT22084-091-071-19</prop>
+            <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ཚེ་དཔག་མེད་ཀྱི་སྙིང་པོ་འདི་རྟག་ཏུ་བཟླས་སམ། སྔགས་ཆབ་ཀྱིས་དབང་བསྐུར་ན་ཚེ་ནུར་བར་འགྱུར་རོ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>If someone continually repeats this essence of Ārya Aparimitāyus, or is empowered with water blessed by its mantra, their lifespan will be lengthened:</seg>
+            </tuv>
+        </tu>
+        <tu id="UT22084-091-071-TU-5">
+            <prop type="location-id">UT22084-091-071-22</prop>
+            <prop type="revision">v-1.0.6-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།ཨོཾ་པུ་ཎྱེ་པུ་ནྱེ་མ་ཧཱ་པུ་ནྱེ། ཨ་པ་རི་མི་ཏྭ་ཨཱ་ཡུར་པུ་ནྱ་ཛྙཱ་ན་སྃ་བྷ་རོ་པ་ཙི་ཏེ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+            <tuv xml:lang="en">
+                <seg>oṁ puṇye puṇye mahāpuṇye aparimitāyuḥ-puṇya -jñāna-saṃbharopacite svāhā.</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

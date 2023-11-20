@@ -1,0 +1,4652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-057-010" eft:text-version="v-1.1.9-2021"/>
+<body>
+<tu>
+            <prop type="folio">F.331.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཕགས་པ་སྤོབས་པའི་བློ་གྲོས་ཀྱིས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Noble Great Vehicle Sūtra The Questions of Pratibhānamati</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.331.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-144"/>Homage to all buddhas and bodhisattvas!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.331.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-12"/>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.331.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མཉན་དུ་ཡོད་པ་ན་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Blessed One was residing in Jeta Grove, Anāthapiṇḍada’s park at Śrāvastī.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.331.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དགེ་སློང་སྟོང་ཉིས་བརྒྱ་ལྔ་བཅུའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་། བྱང་ཆུབ་སེམས་དཔའ་ཁྲི་དང་ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He was there together with a great saṅgha of 1,250 monks as well as 10,000 bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.331.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་འཁོར་མང་པོས་ཡོངས་སུ་བསྐོར་ཅིང་མདུན་གྱིས་བལྟས་ནས་ཆོས་སྟོན་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Surrounded and revered by an immense retinue, the Blessed One taught the Dharma.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེའི་ཚེ་ཚོང་དཔོན་སྤོབས་པའི་བློ་གྲོས་ཞེས་བྱ་བ་ཞིག་ཚོང་དཔོན་གྱི་བུ་ལྔ་བརྒྱ་ཙམ་སོ་སོའི་གཡོག་འཁོར་ལྔ་བརྒྱ་ལྔ་བརྒྱས་ཡོངས་སུ་བསྐོར་ཅིང་མདུན་དུ་བདར་<tei:ref folio="F.332.a"/>བ་དང་ལྷན་ཅིག་ཏུ་མཉན་དུ་ཡོད་པའི་གྲོང་ཁྱེར་ནས་བྱུང་སྟེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-13"/>At that time, the merchant Pratibhānamati left the city of Śrāvastī, surrounded and venerated by a group of five hundred merchant’s sons, each of whom was also accompanied by an entourage of five hundred servants.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ག་ལ་བ་དང་། བཅོམ་ལྡན་འདས་ག་ལ་དེ་ལོགས་སུ་སོང་སྟེ་ཕྱིན་ནས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>As they arrived at Jeta Grove in Anāthapiṇḍada’s park where the Blessed One was residing,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ། བཅོམ་ལྡན་འདས་ལ་ལན་གསུམ་བསྐོར་བ་བྱས་ནས་གཡོག་འཁོར་དང་བཅས་ཏེ་ཕྱོགས་གཅིག་ཏུ་འདུག་གོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Pratibhānamati bowed his head at the Blessed One’s feet, circumambulated him three times, and sat down together with his entourage.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་སངས་རྒྱས་ཀྱི་མཐུས་ཚོང་དཔོན་སྤོབས་པའི་བློ་གྲོས་སྟན་ལས་ལངས་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-14"/>At this point, through the power of the Buddha, the merchant Pratibhānamati stood up,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས་པུས་མོ་གཡས་པའི་ལྷ་ང་ས་ལ་བཙུགས་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>draped his shawl over one shoulder, and knelt on his right knee.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>With palms together he bowed toward the Blessed One and said,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ནི་བླ་མའི་མཆོག །ཁམས་གསུམ་པའི་དམ་པ། བྱང་ཆུབ་ཀྱི་བསོད་ནམས་ཀྱི་ལྷག་པའི་གཞི། སེམས་ཅན་ཐམས་ཅད་ངེས་པར་སྒྲོལ་བར་མཛད་པ། ཀུན་དུ་ཁྱབ་པའི་ཐབས་ལ་མཁས་པའི་ཕྱོགས་ཐུག་པ་མ་མཆིས་པ་ངེས་པར་ཐོབ་པར་མཛད་པ་ལགས་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Blessed One, you are the supreme teacher, the most eminent in the three realms, the exalted ground for the merit of awakening, the one who liberates all beings, and the one who brings about the attainment of unbounded skill in all-pervasive methods.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མ་མཆིས་པའི་དུས་སྙིགས་མའི་རྙོག་པ་ལྔ་དང་ལྡན་པ་ལ་དུག་གསུམ་འབར་ཞིང་རབ་ཏུ་འབར་ལ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Thus, Blessed One, in times to come, during the degenerate age when the five polluting degenerations manifest, the three poisons will burn and blaze forth.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཅིག་ལ་གཅིག་གདུང་བར་བགྱིད་པའི་སེམས་ཅན་རྣམས་ཀྱི་ནང་ན་གང་ཉེས་པར་བསམ་པ་སེམས་པའི་དུས་ན་གཙོ་བོ་མ་མཆིས་ཤིང་དེ་གང་གི་ཡང་མ་ལགས་པ་དང་། རྒྱལ་པོ་དང་། བློན་པོ་ཆེན་པོ་རྣམས་ཡུལ་ལ་སྲེད་པས་ཟིལ་གྱིས་ནོན་ཏེ་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Then, among those beings who inflict misery on one another there will be people with evil intentions. At that time, there will be no leader, nor anyone of this kind, and kings and high ministers will be overcome by craving for objects,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕན་ཚུན་མི་འཐུན་ཞིང་གཅིག་ལ་གཅིག་གཡུལ་འགྱེད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>leading them to quarrel and wage war against each other.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་དག་གཅིག་ལ་གཅིག་གཡུལ་འགྱེད་པ་ན་གཞན་དག་གི་དམག་གི་དཔུང་གི་ཚོགས་དང་། དེ་ལས་གཞན་པ་ཡུལ་གྱི་མི་ལུས་ཆབ་འཚལ་བ་རྣམས་ཀྱི་མིང་ཡང་མི་གདའ་བ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>When they wage war against each other, their armies of soldiers as well as the remaining civilian population will be ravaged so that not even their names will remain.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཀྱི་བསོད་ནམས་ཀྱི་མཐུས་སངས་རྒྱས་ཀྱི་སློབ་མ་གང་ཟག་བཞི་པོ་མང་པོ་དེ་དག་ཀྱང་བསྟན་པ་འདི་ལ་འཇུག་ཅིང་རབ་ཏུ་བྱུང་བའི་ཚུལ་འཐོབ་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-15"/>“Through the power of the Buddha’s merit, many among the four types of the Buddha’s disciples will enter the teachings and take on the guise of monks.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་དག་ཀྱང་ཕྱི་རོལ་གྱི་གོས་ངུར་སྨྲིག་ཙམ་དང་། ཁོང་པའི་ནང་གི་འདུན་པ་དང་། ཞེ་སྡང་དང་། ཤིན་ཏུ་མ་གུས་ཤིང་ཕན་ཚུན་མི་འཐུན་ལ་གཅིག་ལ་གཅིག་སྐུར་པ་འདེབས་པར་བགྱིད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Yet even these people will only outwardly be cloaked in saffron robes, while inwardly they will be angry, disrespectful, disharmonious, and slanderous toward one another.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐྱོན་སྒྲོགས་པར་བགྱིད་པ་དང་། ཡོན་ཏན་ངེས་པར་སྦེད་པར་བགྱིད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They will advertise the faults of others and downplay their positive qualities.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ང་རྒྱལ་དང་། <tei:ref folio="F.332.b"/>རྒྱགས་པ་དང་། དྲེགས་པས་ནོན་ཅིང་ངར་འཛིན་པ་དང་། ང་ཡིར་འཛིན་པར་བགྱིད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They will be overcome by pride, conceit, and haughtiness, and will cling to the belief in me and mine.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་དག་ཤི་འཕོས་ན་ཡང་ངན་སོང་གསུམ་དུ་སྐྱེ་ཞིང་ཡུད་ཙམ་ཞིག་རྙེད་པའི་དཔལ་ཡང་མ་འཚལ་བ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>When they pass on, they will be born into the lower realms, and they will not find even a moment of fortune.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚེ་རབས་གཞན་དག་ཏུ་བསྐལ་པ་མང་པོར་སྡུག་བསྔལ་གྱི་ཚོར་བ་མི་བཟད་པ། རྩུབ་པ། ཚ་བ། ཡིད་དུ་མི་མཆི་བ་དག་འབྱུང་བར་འགྱུར་བ་ཡང་མཐོང་ལགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>In their future lives they will again encounter many eons of the terrible experiences of suffering and of harshness, heat, and displeasure.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་དེའི་སླད་དུ་སེམས་ཅན་འདི་དག་ཡོངས་སུ་སྨིན་པར་བགྱི་བ་དང་། ངན་འགྲོའི་ལམ་ལས་རྣམ་པར་བཟློག་ནས་བསོད་ནམས་ཀྱིས་གཞལ་མེད་ཁང་ཐོབ་པར་བགྱི་བའི་ཆོས་རྣམས་གང་ལགས། དེ་སྐད་ཅེས་གསོལ་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-16"/>“On account of that, Blessed One, what are the teachings that will ripen them, turn them back from the paths leading to the lower realms, and enable them to attain the celestial palace due to their merit?”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་ཚོང་དཔོན་སྤོབས་པའི་བློ་གྲོས་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-17"/>The Blessed One answered Pratibhānamati,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྤོབས་པའི་བློ་གྲོས་དེ་ལྟར་ཁྱོད་སེང་གེའི་སྒྲ་བསྒྲགས་པས་དེ་བཞིན་གཤེགས་པ་ལ་ཞུ་ཞིང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Pratibhānamati, with this lion’s roar, you have asked the Thus-Gone One a question.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ལྟར་སེམས་ཅན་ཐམས་ཅད་དེ་བཞིན་གཤེགས་པ་ལ་ཆོས་ཞུ་བར་སྤྲོ་བ་སྐྱེད་པ་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>This sort of request for the Dharma of the Thus-Gone One stirs delight in all beings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལེགས་སོ་ལེགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Excellent, excellent!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྤོབས་པའི་བློ་གྲོས་སེམས་ཅན་རྣམས་གང་ཐོབ་ནས་ལེགས་པར་རབ་ཏུ་དཔལ་དང་ལྡན་པར་འགྱུར་ཞིང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Pratibhānamati, what attainment would make beings truly splendorous,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ནག་པོའི་ཕྱོགས་སྒྲུབ་པ་སྤངས་ནས་དཀར་པོའི་ཕྱོགས་ལ་ཞུགས་ཤིང་། དོན་ཐམས་ཅད་འགྲུབ་པར་འགྱུར་བའི་ཆོས་དེ་དག་ཁྱོད་ཞུས་ཤིག་ཞུས་ནས་ཀྱང་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>cause them to abandon the dark side, make them join the good side, and accomplish all aims? You should ask about such a teaching. Having done so,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐེ་ཚོམ་མེད་པར་ཉོན་ཅིག་དང་བཤད་པར་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>you must then listen without doubt and I shall explain.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ལ་སྤོབས་པའི་བློ་གྲོས་ཀྱིས་ཞུས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-18"/>Pratibhānamati then inquired of the Blessed One,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལས་གང་དག་གིས་ནི་ལྷ་རྣམས་ཀྱི་རིས་སུ་སྐྱེ་བར་འགྱུར། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Blessed One, through what deeds is one reborn among the class of gods?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་དག་གིས་ནི་མི་རྣམས་ཀྱི་རིས་སུ་སྐྱེ་བར་འགྱུར། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Through what actions is one reborn among the class of humans?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་དག་གིས་ནི་སེམས་ཅན་དམྱལ་བ་རྣམས་སུ་སྐྱེ་བར་འགྱུར། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Through what actions is one reborn among hell beings?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་དག་གིས་ནི་དུད་འགྲོ་རྣམས་སུ་སྐྱེ་བར་འགྱུར། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Through what actions is one reborn among the animals?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་དག་གིས་ནི་ཡི་དགས་རྣམས་སུ་སྐྱེ་བར་འགྱུར། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Through what actions is one reborn among the hungry spirits?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་དག་གིས་ནི་རིགས་མཐོན་པོ་རྣམས་སུ་སྐྱེ་བར་འགྱུར། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Through what actions is one reborn among the high castes?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་དག་གིས་ནི་བྲན་དང་བྲན་མོ་རྣམས་སུ་སྐྱེ་བར་འགྱུར། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Through what actions is one reborn in servitude?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.332.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལས་གང་དག་གིས་ནི་མི་རྣམས་ཀྱི་ནང་དུ་སེམས་ཅན་སྐྱེས་པ་རྣམས་སྐལ་བ་བཟང་པོར་འགྱུར་ཞིང་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Blessed One, through what actions does one become a fortunate being among humans—</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཁྱིམ་ཁོལ་དང་ལྡན་པ་དང་། ཁ་དྲི་བདའ་བ་དང་། ཁ་དོག་དང་ལྡན་པ་དང་། <tei:ref folio="F.333.a"/>
+                </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>someone who has servants, pleasant breath, a nice complexion, </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མཐོང་ན་དགའ་བ་དང་། གནོད་པ་མ་མཆིས་པ་དང་། ལུས་དང་སེམས་ཤིན་ཏུ་ཐ་མལ་དུ་གནས་པ་དང་། སྐྱེ་བོ་མང་པོས་བསྔགས་པ་རྣམས་སུ་འགྱུར། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>who is a joy to behold, who faces no harm, who is contented in body and mind, and praised by many people?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལས་གང་དག་གིས་ནི་སེམས་ཅན་རྣམས་མིའི་དམ་པ་ཐོབ་ནས་རྟག་ཏུ་སྐུར་པ་འདེབས་པ་ཐོབ་པར་འགྱུར་ཞིང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Having already attained the excellent human state among beings, through what actions does one meet with constant slander,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐྱེ་བོ་མང་པོ་མི་དགའ་བ་དང་། མདོག་མི་སྡུག་པ་དང་། ཁ་དྲི་མི་བདའ་བ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>face the enmity of many beings, have an ugly appearance and bad breath,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གནོད་པ་མང་བ་དང་། སེམས་མི་དགའ་བ་དང་། ལུས་ཤིན་ཏུ་སྦྱངས་པ་མ་ལགས་པ་དང་། ཉེས་བྱས་ཀྱི་ལས་ཐམས་ཅད་བགྱིད་པར་འགྱུར། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>face all sorts of adversity, have a joyless mind and an unhealthy body, and indulge in all kinds of negative actions?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལས་གང་དག་གིས་ནི་ལེགས་པར་གསུངས་པའི་ཆོས་འདུལ་བ་འདི་ལ་རབ་ཏུ་བྱུང་བ་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-19"/>“Blessed One, through what actions will those who have taken ordination in this well-spoken Dharma-Vinaya,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགེ་སྦྱོང་དང་རིགས་ཀྱི་བུ་དང་། རིགས་ཀྱི་བུ་མོ་ཉེ་བར་ཞི་བ་གཙོ་བོར་འཛིན་པ་རྣམས་གང་དང་གང་དུ་སྐྱེ་བའི་སྐྱེ་བ་ཐམས་ཅད་དུ་རྒྱུན་དུ་སངས་རྒྱས་དང་། ཆོས་དང་། དགེ་འདུན་དཀོན་མཆོག་རྣམས་དང་མི་འབྲལ་བར་འགྱུར་ཞིང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>as a mendicant or a noble son or daughter who values peace, never part from the Jewels of Buddha, Dharma, and Saṅgha throughout their lifetimes and wherever they may be?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་མཐོང་ནས་ཀྱང་དེ་དག་ལས་ཆོས་ཐོས་ནས་ཡིད་དགའ་ཞིང་ཅི་བསམས་པ་བཞིན་དུ་དོན་ཡང་གྲུབ་པར་འགྱུར། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Through what actions will they behold the blessed buddhas, receive the Dharma from them, delight in it, and accomplish the aims they have set their minds on?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བདག་གིས་ཞུ་བ་བཅུ་པོ་དེ་དག་ཞུས་པ་ལགས་ན་འབྱུང་པོ་གྲངས་མ་མཆིས་པ་ཐམས་ཅད་ལ་སྨན་པའི་སླད་དུ་བཅོམ་ལྡན་འདས་གསོལ་བ་མ་བཏབ་པར་དགེ་བའི་བཤེས་གཉེན་མཛད་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-20"/>“Given these ten questions of mine, please, Blessed One, spiritual teacher who acts without being requested,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐུགས་རྗེ་ཆེན་པོ་དང་ལྡན་པ། དབང་དང་ལྡན་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>who is endowed with great compassion and power,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་ལ་ལྐོག་ཏུ་མ་གྱུར་པའི་སྤྱན་དང་ལྡན་པས་རྣམ་པར་ཕྱེ་སྟེ་རྒྱས་པར་ལན་སྩལ་དུ་གསོལ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>and who discerns all phenomena with unclouded eyes, answer them extensively as a remedy for the innumerable malignant forces.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་སྤོབས་པའི་བློ་གྲོས་ལ་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-21"/>The Blessed One replied,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྤོབས་པའི་བློ་གྲོས་ཁྱོད་ཀྱིས་ཇི་ལྟ་བུ་ཞུ་བ་ཞུས་པ་རྣམས་རྒྱས་པར་རྣམ་པར་ཕྱེ་སྟེ་བཤད་ཀྱིས་ཉོན་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Pratibhānamati, I will extensively address and answer your questions, just as you have asked them. Listen well!”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚོང་དཔོན་སྤོབས་པའི་བློ་གྲོས་ཀྱིས་བཅོམ་ལྡན་འདས་དེ་བཞིན་འཚལ་ལོ་ཞེས་གསོལ་ནས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-22"/>The merchant Pratibhānamati responded, “Blessed One, I shall do that,” and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱི་ལྟར་ཉན་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>he listened as the Blessed One had instructed.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-23"/>The Blessed One said,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྤོབས་པའི་བློ་གྲོས་སེམས་ཅན་ལས་ལྔ་དང་ལྡན་པ་རྣམས་ཀྱིས་ནི་ལྷ་ཉིད་ཐོབ་པར་འགྱུར་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Pratibhānamati, beings who engage in the following five actions attain rebirth as gods.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྔ་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>What are these five?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དང་པོ་བྱམས་པ་དང་ལྡན་པའི་སེམས་ཀྱིས་གནོད་པ་མེད་པར་སེམས་ཅན་རྣམས་ཡོངས་སུ་སྐྱོང་བར་བྱེད་ཅིང་བཟོད་པ་དང་ལྡན་པ་རྣམས་ཡིན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(1) First, with loving minds they do no harm to beings but instead protect them and are patient.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞན་གྱིས་ནོར་འཕྲོག་པར་མི་བྱེད་ཅིང་བཀྲེན་པའི་སེམས་དང་ལྡན་པ་མ་ཡིན་པས་ཡོངས་སུ་གཏོང་བར་བྱེད་པ་ཡིན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(2) They give generously since they are not stingy and do not steal the possessions of others. </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.b</prop>
+	<tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.333.b"/>གཞན་གྱི་ཆུང་མ་ལ་སྤྱོད་པ་རྣམས་ཀྱང་ཡོངས་སུ་དག་པ་མ་ཡིན་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(3) They guard all the bases of training given that those who enjoy themselves with the wives of others are impure.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བསླབ་པའི་གཞི་རྣམས་ཀྱང་སྲུང་བར་བྱེད་པ་ཡིན། གསོ་སྦྱོང་ལ་བརྩོན་ཞིང་བདེན་པར་སྨྲ་བ་ཡིན་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(4) They naturally maintain diligence in the purification ceremony and speak the truth.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རང་བཞིན་དུ་འདུག་ཅིང་རང་གི་སྐྱོན་ཚད་མེད་པ་སྤོང་བར་བྱེད་ལ་མྱོས་པར་འགྱུར་བའི་བཏུང་བ་སྤངས་པ་ཡིན་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(5) In order to give up their own limitless faults, they forsake intoxicating beverages.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལས་ལྔ་པོ་དེ་དག་དང་ལྡན་པ་རྣམས་ལྷའི་ལུས་ཐོབ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Beings who engage in these five actions attain divine bodies.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་ཚེ་ཚིགས་སུ་བཅད་པ་འདི་དག་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-24"/>Then the Blessed One expressed this in verse:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྲོག་ཆགས་གསོད་ལས་ལྡོག་པ་བྱས་པས་ལྷ་དང་མི་དང་ལྷ་མིན་རྣམས། །འཇིག་རྟེན་དུ་ནི་མི་ཐུབ་ལུས་ཅན་ཚེ་རིང་ནད་མེད་འགྱུར་བ་ཡིན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-25"/>“Turning away from killing living beings, no god, human, or asura In the world can conquer them; their bodies are long-lived and healthy.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འོད་ཀྱི་དཀྱིལ་འཁོར་དག་པའི་ལུས་ཅན་ཤེས་ལྡན་དྲི་མེད་རྫོགས་པའི་ལུས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They have pure bodies haloed with light—bodies that are glorious, stainless, and perfect.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྷ་ནང་རབ་མཆོག་དེ་ཡི་ལོངས་སྤྱོད་སྣ་ཚོགས་དཔལ་ཅན་རྟག་ཏུ་འབྱུང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The myriad splendid sense pleasures of the highest gods are always at their disposal.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བོར་མ་ཐག་ཏུ་ལྷ་ནང་རྟག་ཏུ་ལྷ་ཡི་དབང་ཕྱུག་རྣམས་སུ་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-26"/>“As soon they discard this body, they will always become the lord of the gods among gods.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བསམ་མེད་བསལ་བ་འཕྲོ་བ་རྣམ་ལོག་རིན་ཆེན་ལོངས་སྤྱོད་རྣམས་དང་ལྡན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Dispersing, distributing, and renouncing inconceivable wealth, they will find gems and opulence.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྟག་ཏུ་དགའ་ཞིང་རབ་ཏུ་ཡིད་དགའ་དཔལ་ལྡན་གཞལ་མེད་ཁང་གནས་ཤིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They will always be happy and delighted, dwelling in splendid celestial mansions.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྩེ་ཞིང་དགའ་བའི་དཔག་བསམ་ཤིང་གི་ཡུལ་ན་མེ་ཏོག་གཏོར་ལུས་ལྡན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Their bodies will be like flowers sprinkled in the pleasant and fine realm of the wish-fulfilling tree.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མཁས་ཤིང་འདོད་པ་མི་ཕན་ཡོངས་སྤངས་དྲི་མཆོག་དག་པའི་ལུས་དང་ལྡན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-27"/>“They are knowledgeable, without harmful desires, and have bodies with the finest fragrance.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚེ་རབས་ཀུན་དུ་དཔེ་མེད་གསེར་མཆོག་ལུས་དང་ལྡན་ཞིང་རབ་ཏུ་མཛེས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Throughout all their lives, their bodies are tremendously beautiful like the finest gold.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྟག་ཏུ་ལྷ་ཡི་ནང་དུ་སྐལ་བ་བཟང་ཐོབ་ལུས་ལས་འོད་འབྱུང་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Constantly among the gods, they acquire great fortune and light streams from their bodies.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྷ་མོ་སྣ་ཚོགས་ཚོགས་ཀྱིས་བསྐོར་ཅིང་འདོད་པའི་དཔལ་ལ་སྤྱོད་པར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They are surrounded by a host of sundry goddesses and frolic in the glories of passion.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྔོན་ཆད་ཆོ་ག་བཞིན་དུ་ངག་སྐྱོན་བཞི་སྤངས་ཁ་ནི་དྲི་ཞིམ་ལྡན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-28"/>“They have abandoned the four verbal faults and their mouths have a lovely fragrance in accordance with previous rites.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གསལ་ཞིང་ཐོགས་མེད་མི་འཇིགས་ཚིག་མཆོག་ལྷ་རྣམས་འདིར་ནི་ངེས་པར་འབྱུང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>These gods utter supreme words that are clear, unimpeded, and fearless.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡང་དག་ལན་འདེབས་རྣམ་བསྒྲགས་སྙན་ཅིང་སྐྱེ་བོས་ཤིན་ཏུ་ཚིག་གཟུང་འོས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Their accurate responses are praised and eloquent and others find them most agreeable.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.b</prop>
+	<tuv xml:lang="bo">
+                <seg>པི་བང་རོལ་མོ་སྒྲ་འབྱོར་སྤྲིན་སྒྲ་སྐད་སྙན་ཕོ་བྲང་འཁོར་སྐད་ལྡན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Their palaces resound with the melodious and thunderous sound of strings and percussion.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མ་རྨོངས་སེམས་ཀྱིས་མྱོས་འགྱུར་མ་ལེགས་རྗོད་བྱེད་སྤངས་པས་ལྷར་འགྱུར་ཞིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-29"/>“With unimpaired minds, they abandoned confused and ignoble utterances and thus became gods.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གྲངས་མེད་དགེ་བའི་ལྷ་ཡིས་མཆོད་པ་ལྷ་ཡི་གནས་ན་གནས་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Innumerable gods of virtue worship them and they now live in divine abodes.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བློ་དང་ལྡན་ཞིང་ལུས་བརྟན་ཡིད་བཟང་བག་ཡོད་ཀུན་དང་ལྡན་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Intelligent, with stalwart bodies, excellent minds, and possessing all forms of conscientiousness,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.333.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་དག་རྟག་ཏུ་བདེ་འགྱུར་དབང་རྣམས་དེ་དག་ཕན་པ་རྗོད་པར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>These beings who are always happy and powerful make beneficial speeches.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གལ་ཏེ་ཚེ་ཟད་ལྷ་ཡི་ཡུལ་ནས་ལྷུང་བའི་ལྷ་རྣམས་དེ་ཚེ་སྨད། །སྡིག་མེད་<tei:ref folio="F.334.a"/>ལོ་བརྒྱ་ཉི་ཤུ་ལོན་ན་ལྷ་ཡི་གནས་སུ་འགྲོ་བར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-30"/>“When their life ends, should these gods plunge from the divine abodes to a lower state, They will remain free from misdeeds, and after one hundred twenty years return to the divine abodes. </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བསོད་ནམས་ལྔ་མངོན་གྱུར་པས་དེ་ནི་དམ་པ་དཔལ་ལྡན་ལུས་འོད་ཅན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Exhibiting the five merits, their sublime and splendid bodies shine.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྷ་རྣམས་ལམ་སེལ་བྱེད་ཅིང་ལྷ་རྣམས་བྱེ་བས་མཆོད་དེ་བརྟན་པར་འགྲོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They act as beacons of the gods and millions of gods resolutely worship them.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཡང་སྤོབས་པའི་བློ་གྲོས་ལ་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-31"/>Then the Blessed One said,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྤོབས་པའི་བློ་གྲོས་སེམས་ཅན་ལས་ལྔ་དང་ལྡན་པ་རྣམས་མི་རྣམས་ཀྱི་ནང་དུ་སྐྱེ་བར་འགྱུར་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Pratibhānamati, beings who engage in the following five actions are reborn among humans.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྔ་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>What are these five?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དང་པོ་བྱས་པ་གཟོ་བས་སྦྱིན་པ་དང་། བཀྲེན་པ་དང་། དབུལ་པོ་དང་། སྡུག་བསྔལ་བ་ལ་ཀུན་བགེད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(1) First, they give with gratitude and provide for the poor, the destitute, and the miserable.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགེ་བ་བཅུའི་ལས་ཀྱི་ལམ་མ་ཉམས་པར་སྟེན་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(2) They follow the path of the ten virtues without fail.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་ཐམས་ཅད་ལ་ཞེ་འགྲས་པ་མེད་པའི་བཟོད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(3) They are patient, harboring no hostility toward anyone.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བརྩོན་འགྲུས་ཀྱིས་སེམས་ཅན་ལེ་ལོ་ཅན་རྣམས་དགེ་བའི་ཆོས་ལ་སྤྲོ་བར་བྱེད་ཅིང་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(4) They diligently inspire lazy beings to the virtuous Dharma.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ངེས་པའི་སེམས་ཀྱིས་གུས་པ་དང་བཅས་ལ་འཐུན་པར་འཛིན་པ་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(5) With a determined mind, they maintain harmony.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྤོབས་པའི་བློ་གྲོས་སེམས་ཅན་ལས་ལྔ་པོ་དེ་དག་དང་ལྡན་པ་རྣམས་མི་ཉིད་འཐོབ་པར་འགྱུར་ཞིང་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Pratibhānamati, beings who engage in these five actions attain human lives and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལོངས་སྤྱོད་ཀྱང་ཆེན་པོར་འགྱུར་བ་དང་། ཚེ་རིང་བ་དང་། མཛེས་པ་དང་། གཟི་བརྗིད་དང་ལྡན་པ་དང་། འཇིག་རྟེན་གྱི་རྗེ་དཔོན་དུ་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>grow very wealthy, long lived, beautiful, and majestic, and become lords of the world.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་ཚེ་ཚིགས་སུ་བཅད་པ་འདི་དག་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-32"/>Then the Blessed One expressed this in verse:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྦྱིན་པ་བྱིན་པས་མི་ཡི་རྒྱལ་པོ་དམ་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-33"/>“Through generosity they will become great kings among humans,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྟག་ཏུ་ལོངས་སྤྱོད་འབྱོར་དང་ལྡན་པར་རབ་ཏུ་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And constantly increase their pleasure and affluence.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལུས་ངན་པོ་དང་མཚུངས་པར་སྦྱིན་དང་སྤྱོད་པར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They engage in conduct and generosity equal to Kubera himself.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རིགས་དང་དམ་པ་ཐོབ་པས་རྟག་ཏུ་དགའ་བར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>With such status and excellence, they will always be delighted.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚུལ་ཁྲིམས་མ་ཉམས་དེ་ནི་དཀོན་མཆོག་མཆོད་པར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-34"/>“Their discipline unimpaired, they worship the Three Jewels.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཉེས་བྱས་ཡོངས་སུ་སྤངས་པས་ཤིན་ཏུ་ངེས་པ་སྟེ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Because they abandon all evil action, their resolve is firm.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚེ་རིང་དམ་པ་ཐོབ་པས་འཆི་འཕོ་མེད་པ་ཡིན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They will attain the greatness of longevity and thus be free from death’s passing.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བདེ་བ་ཐོབ་པས་སྐྱོན་མེད་རབ་ཏུ་དགའ་བར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Because they will attain happiness, they become faultless and joyful.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེས་པའི་མི་ནི་ཕ་རོལ་སེམས་འཁྲུགས་མ་བྱས་ཤིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-35"/>“Being gentle people, they do not upset others’ minds.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞན་དག་རྣམས་ཀྱིས་གནོད་བྱས་ཕྱིར་ནི་གནོད་མི་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Likewise, though nasty words are lobbed at them,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་བཞིན་ཚིག་ངན་བརྗོད་ཀྱང་གཤེ་བར་མི་བྱེད་པས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-36"/>They do not criticize in return,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགེ་བ་མཆོག་གི་ཚུལ་ཐོབ་ནས་ནི་མཛེས་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And so they will attain the way of supreme virtue and become beautiful.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བརྩོན་འགྲུས་བཟང་ལ་ལྷག་པའི་བསམ་པས་སེམས་དཀར་ཞིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-37"/>“Because their intention toward excellent discipline is sublime, their minds are clean.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྟོབས་དང་གཟི་བརྗིད་ཆེན་པོ་དགེ་བ་རྣམས་དང་ལྡན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They are replete with great strength and splendor and possess virtues.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དམག་དཔོན་ཉིད་ཀྱི་དམ་པ་ཐོབ་པར་གྱུར་པས་ན། །ལོངས་<tei:ref folio="F.334.b"/>སྤྱོད་འབྱོར་པའི་སྤྱོད་ཡུལ་ལྡན་པས་ལྷ་དེར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Because they attain the excellence of military leadership, They shall have dominion over wealth and enjoyment and become like gods. </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མི་འཕྲོག་སེམས་ལྡན་མཁས་ཤིང་ཤིན་ཏུ་འཐུན་པ་སྟེ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-38"/>“They do not covet and are intelligent, knowledgeable, and agreeable.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱས་པ་གཟོ་ཞིང་ལས་ལ་འདོད་པར་རབ་ཏུ་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They are grateful and keen to work.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དཀོན་མཆོག་གསུམ་དང་མ་ལ་སོགས་ལ་མཆོད་མཛངས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They are courageous in venerating the Jewels, their mothers, and so on,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ནམ་ཡང་ཀུན་ལ་ཐེ་ཙོམ་བྱེད་པར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And so they never have doubt in any situation.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མི་གང་ཁྱད་པར་འཕགས་པ་དགེ་བ་ལྔ་པོ་རྣམས། །བྱེད་པ་དེ་ནི་ས་ཡི་བདག་པོར་རབ་ཏུ་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-39"/>“Whoever performs these extraordinary virtues Will become the lords of the land.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྟོབས་ལ་སོགས་དང་གཟུགས་དང་ལོངས་སྤྱོད་མི་ཟད་ལྡན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They shall attain unfailing strength, health, wealth, and other qualities.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གྲགས་ལྡན་ཤིན་ཏུ་གཙོ་བོ་རྣམས་ཀྱིས་རིམ་གྲོ་བྱས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Renowned, they will be respected by important people.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཡང་སྤོབས་པའི་བློ་གྲོས་ལ་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-40"/>Then the Blessed One said,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྤོབས་པའི་བློ་གྲོས་སེམས་ཅན་ལས་ལྔ་དང་ལྡན་པ་རྣམས་ནི་སེམས་ཅན་དམྱལ་བ་རྣམས་སུ་སྐྱེ་བར་འགྱུར་ཞིང་སྐྱེས་ནས་ཀྱང་དེ་དག་ཏུ་བསྐལ་པ་བྱེ་བ་མང་པོར་གནས་པར་འགྱུར་ཏེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Pratibhānamati, beings who engage in the following five actions are reborn among hell beings, where they remain for millions of eons.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྔ་གང་ཞེ་ན། འདི་ལྟ་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>What are these five?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་། ཆོས་དང་། དགེ་འདུན་དཀོན་མཆོག་ལ་དད་པར་མི་བྱེད་ལ་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(1) They have no faith in the Jewels of the Buddha, Dharma, and Saṅgha.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཀུན་དུ་བསྔགས་པ་མ་ཡིན་བརྗོད་པས་སྐུར་པ་འདེབས་པར་བྱེད་ཅིང་འཕགས་པའི་ལམ་ལ་བརྙས་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They disparage them through unflattering speech and belittle the path of noble beings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པའི་མཆོད་རྟེན་འཇིག་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(2) They destroy the stūpas of the thus-gone ones.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བར་གྱི་དུས་ན་ཡང་དགེ་སློང་དང་། དགེ་སློང་མ་དང་། དགེ་བསྙེན་དང་། དགེ་བསྙེན་མ་གང་ཟག་བཞི་པོ་མང་པོར་མི་གུས་པ་འཐུན་པར་མི་འཛིན་པ། འཇིག་རྟེན་གྱི་སྨྲ་བ་ལྷུར་ལེན་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(3) In the intermediate times as well, they are extremely disrespectful and disharmonious with monks, nuns, laymen, and laywomen, but love having worldly conversations.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དཀོན་མཆོག་གསུམ་གྱི་དཀོར་འཕྲོག་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(4) They steal donations made to the Three Jewels.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཅིག་ལ་གཅིག་ཉེས་རྩོམ་གྱིས། གཅིག་ལ་གཅིག་སྐུར་པ་འདེབས་པའི་ཚིག་གིས་རྒྱལ་པོ་དང་། རྗེ་དཔོན་དང་། བློན་པོ་དང་། ཕ་དང་། བུ་རྣམས་གཅིག་ལ་གཅིག་མི་འཐུན་པས་མི་གུས་པ་རྣམས་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(5) Through their disparaging words that enrage others, they are disrespectful and create discord between kings, leaders, ministers, fathers, and sons.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མ་འོངས་པའི་དུས་ན་དགེ་སློང་རྣམས་དེ་བཞིན་གཤེགས་པའི་བསྟན་པ་ལ་ཞུགས་ཏེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-41"/>“In the future, those monks who enter into the teachings of the thus-gone ones,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སྟོན་པ་ལ་བརྟེན་ནས་ཁྱིམ་ནས་ཁྱིམ་མེད་པར་རབ་ཏུ་བྱུང་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>who follow the teacher—the thus-gone, worthy, perfect Buddha—and go forth from the home into homelessness,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བདག་ཉིད་དགེ་སློང་ཡིན་པར་ཁས་འཆེ་ཞིང་དགེ་བའི་ཆོས་ཡང་དག་པར་སྒྲུབ་པ་ལ་མི་གནས་ལ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>will pass themselves off as monks yet not maintain the genuine practice of the virtuous Dharma.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མཁན་པོ་དང་། སློབ་དཔོན་རྣམས་མགུ་བར་མི་བྱེད་ཅིང་བཀའ་བློ་མི་བདེ་ལ་འཐུན་པར་མི་འཛིན་ཅིང་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They will not maintain harmony but will displease their preceptors and instructors and speak harshly.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡང་དག་པར་རྗེས་སུ་བསྟན་ཀྱང་རྗེས་སུ་བསྟན་པ་ལ་སྒྲུབ་པར་མི་བྱེད་ཅིང་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Even though they have been taught correctly, they will not practice those teachings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.334.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཀྱི་བྱང་ཆུབ་སྤོང་བར་བྱེད་ལ་བདག་ལ་སྟོད་པར་བྱེད། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They will spurn the awakening of the buddhas, praise themselves,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞན་<tei:ref folio="F.335.a"/>ལ་སྨོད་པར་བྱེད་ཅིང་ང་རྒྱལ་དང་། རྒྱགས་པ་དང་། དྲེགས་པའི་ཤས་ཆེ་ལ་བླ་མ་རྣམས་ལ་བརྙས་པར་བྱེད། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>and slander others. For the most part, they will be proud, conceited, and haughty, and will denigrate spiritual teachers.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྙེད་པ་དང་བཀུར་སྟི་ལ་ལྷག་པར་ཞེན་ཅིང་སྐུར་པ་འདེབས་པར་བྱེད་པ་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They will yearn for praise and respect but disparage others.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྤོབས་པའི་བློ་གྲོས་སེམས་ཅན་ལས་ལྔ་པོ་དེ་དག་དང་ལྡན་པ་རྣམས་ནི་སེམས་ཅན་དམྱལ་བ་རྣམས་སུ་སྐྱེ་བར་འགྱུར་ཞིང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-42"/>“Pratibhānamati, beings who engage in those five actions will be reborn among the hell beings</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐྱེས་ནས་ཀྱང་ཇི་སྲིད་དུ་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་འདིར་འཇིག་པ་མ་བྱུང་བ་དེ་སྲིད་དུ་གནས་པར་འགྱུར་ཞིང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>where they will remain until the trichiliocosm is destroyed.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཇིག་པ་བྱུང་ནས་ཀྱང་འཇིག་རྟེན་གྱི་ཁམས་གཞན་ན་སེམས་ཅན་དམྱལ་བ་གང་དག་ཡོད་པ་དེ་དག་ཏུ་འཕེན་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Even when it is destroyed, they will be propelled into other world-systems in which there are hells.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་གི་ཚེ་དེར་ཡང་འཇིག་པ་བྱུང་བར་གྱུར་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>When those world-systems are also destroyed,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེའི་ཚེ་འཇིག་རྟེན་གྱི་ཁམས་གཞན་ན་སེམས་ཅན་དམྱལ་བ་གང་དག་ཡོད་པ་དེ་དག་ཏུ་འཕེན་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>they will be further propelled into still other world-systems in which there are hells.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་བཞིན་དུ་སྦྱར་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And so, on and on,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཀུན་དུ་འཇིག་རྟེན་གྱི་ཁམས་གྲངས་མེད་པ་དག་ན་སེམས་ཅན་དམྱལ་བ་གང་དག་ཡོད་པ་དེ་དག་ཏུ་འཁྱམ་ཞིང་སྡུག་བསྔལ་ཉམས་སུ་མྱོང་ལ་འབྱུང་བའི་མཐའ་མེད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>they will wander amidst all the countless world-systems of hells, and their experience of suffering will find no end.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་ཚེ་ཚིགས་སུ་བཅད་པ་འདི་དག་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-43"/>Then the Blessed One expressed this in verse:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྨོངས་པས་ཐོག་མ་མེད་ནས་འཇིགས་པའི་སྡུག་བསྔལ་བྱིང་གྱུར་པའི། །འཇིག་རྟེན་སངས་རྒྱས་ཡོན་ཏན་རྒྱ་མཚོ་ཁས་ལེན་མི་བྱེད་དེ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-44"/>“Deluded beings are oblivious to the terrible suffering in the world since beginningless time. And do not acknowledge the oceanic qualities of the Buddha.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནི་ཀུན་རིག་མ་ཡིན་རྣལ་འབྱོར་རྒྱལ་པོ་མ་ཡིན་ཞེས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Declaring, ‘He is neither omniscient nor the king of practitioners,’</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བདག་ཉིད་ཆུད་གཟན་སྐྱེ་བོ་གཞན་རྣམས་ལ་ཡང་སླུ་བར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They waste their own lives and deceive other beings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བདེ་བར་གཤེགས་པའི་མཆོད་རྟེན་འབྱོར་པ་སྡུག་པའི་མཆོག་བྱས་ན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-45"/>“They say, ‘If you make a reliquary of the blissful ones, supreme in its materials and beauty,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནི་དགེ་བ་ཆུང་འགྱུར་འཇིག་པར་བྱེད་པའི་ཆར་འགྱུར་ཞེས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It will be of little virtue and bring down a rain of destruction.’</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མི་དགེ་འདི་ནི་མངོན་སུམ་དགེ་བ་མདུན་ན་ཡོད་བཞིན་དུ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>This non-virtue, on the face of it, may seem virtuous;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འོན་ཀྱང་སྡིག་པ་རྣམ་པ་སྣ་ཚོགས་ཀུན་ཏུ་སྤྱོད་པར་བྱེད། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>But actually it brings about all manner of evil.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བར་མ་རྩོད་པའི་དུས་འདིར་བཞི་པོ་བཀྲེས་པས་ཉམ་ཐག་པ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-46"/>“In this intermediate period of strife, the four types of beings are weakened by hunger.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕན་ཚུན་འཁོན་དུ་འཛིན་པས་དཀྲུགས་ཤིང་བླ་མ་སྨོད་པར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Because of their mutual animosity they fight and belittle spiritual masters.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཁོར་དུ་འདུས་པ་འདུལ་བའི་དགའ་བ་འདི་ནི་རྣམ་བཤིག་པས། །མི་བཟད་རོ་མེད་ལོག་པར་ལྟུང་བའི་སར་ནི་འགྲོ་བར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They destroy the enthusiasm of the community of moral discipline, Thus leading them to the terrifying and unpleasant lower realms.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྒྱལ་པོ་ཕ་དང་སྲིང་མོ་སྤུན་དང་གཞོན་ནུ་བུ་མོ་རྣམས། །བྱམས་པའི་ཡིད་ནི་ལོག་གྱུར་ལོངས་སྤྱོད་རྣམས་ལ་བརྐམ་ཆགས་ཏེ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-47"/>“Kings, fathers, daughters, relatives, and young women Lose their caring minds and become envious of possessions.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱིས་པ་བུ་ལྟར་ཐམས་ཅད་གཅིག་ལ་གཅིག་ནི་བཞད་གད་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They laugh at one another like immature children,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལོག་ལྟུང་དམ་པ་རྣམ་པར་འབྱིང་བར་<tei:ref folio="F.335.b"/>མྱུར་དུ་འགྲོ་བར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And hasten to the mire of the fathomless lower realms. </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མ་འོངས་དུས་འདིར་གང་དག་ཤིན་ཏུ་སྡིག་ཅན་སེམས་ཅན་རྣམས། །འཐུན་པར་མི་འཛིན་དགེ་སྦྱོང་ཁ་དོག་འཛིན་པ་གཟུགས་མི་སྡུག། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-48"/>“In future times those who are wantonly evil will not get along. Faking the appearance of mendicants, they will have repugnant forms.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ངན་པའི་བདག་ཉིད་ལྡན་པ་སྡིག་པ་ཁྲག་ཁྲིག་བྱེད་འགྱུར་བ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They will be of vile character and perform millions of evil deeds.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་དག་ཤི་འཕོས་ནས་ནི་སྡིག་པ་རྩོད་པའི་མཆོག་གིས་གནོན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>When they die and transmigrate, they will be dragged down by their intense evil deeds and quarreling.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མི་ཡིས་བསྐལ་པ་བརྒྱ་ཕྲག་མང་པོར་སྡིག་པ་ལྔ་པོ་དག །བསྒྲུབས་ཤིང་བྱས་པ་དག་ནི་བཤགས་པར་ནུས་པ་མ་ཡིན་ཏེ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-49"/>“The five evil deeds perpetrated by people Cannot be confessed for hundreds of eons.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་དུ་སངས་རྒྱས་ཁྲག་ཁྲིག་གིས་ཀྱང་བསྐྱབ་པར་མི་སྤྱོད་པའི། །མེ་རི་དྲག་པོ་མནར་མེད་པ་ཡི་མེར་ནི་སྲེག་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Such people are burned in a terrible mountain of fire in the hell of ceaseless torment— A place where even millions of buddhas can offer no protection.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཡང་སྤོབས་པའི་བློ་གྲོས་ལ་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-50"/>Then the Blessed One said,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྤོབས་པའི་བློ་གྲོས་སེམས་ཅན་ལས་ལྔ་དང་ལྡན་པ་རྣམས་ནི་དུད་འགྲོ་རྣམས་སུ་སྐྱེ་བར་འགྱུར་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Pratibhānamati, beings who engage in the following five actions are reborn among animals.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྔ་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>What are these five?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དང་པོ་འཆལ་པའི་ཚུལ་ཁྲིམས་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(1) The first is corrupt discipline.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོམ་རྐུན་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(2) robbery and theft,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞན་གྱི་བུ་ལོན་བླངས་ནས་གནོད་སེམས་སུ་བྱེད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(3) taking loans from others and then conspiring against them,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྲོག་གཅོད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(4) murder, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མ་དད་པས་དམ་པའི་ཆོས་མ་ཡིན་པ་ཉན་པར་དགའ་ཞིང་དམ་པའི་ཆོས་མ་ཡིན་པ་ཉན་པ་ལ་དགའ་བས་ལོག་པས་འཚོ་བ་ཐམས་ཅད་ལ་དགའ་བ་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(5) lacking faith, which makes one delight in studying something other than the sublime Dharma and relish perverted ways of life because of finding such studies enjoyable.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྤོབས་པའི་བློ་གྲོས་སེམས་ཅན་ལས་ལྔ་པོ་དེ་དག་དང་ལྡན་པ་རྣམས་ནི་དུད་འགྲོ་རྣམས་སུ་སྐྱེ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Pratibhānamati, beings who engage in these five actions are reborn as animals.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་ཚེ་ཚིགས་སུ་བཅད་པ་འདི་དག་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-51"/>Then the Blessed One expressed this in verse:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྟག་ཏུ་གཞན་གྱི་ནོར་འཕྲོག་པ་ལ་དགའ་བའི་མི་རྣམས་ནི། །བུ་ལོན་བྱིན་པ་རྣམ་པར་བླངས་ནས་མི་གཞན་གསོད་པར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-52"/>“People who always delight in stealing from others Take out loans and then murder the lender.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྲོག་གཅོད་པ་ལ་དགའ་བའི་རི་དགས་འཆི་བདག་རྒྱལ་པོ་རྣམས། །རྒྱ་ལ་སོགས་པས་བཟུང་ནས་སེམས་ཅན་རྣམས་ལ་གསོད་པར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Beasts, lords of death who love killing, Catch such beings in traps and then slaughter them.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དད་པ་ལ་སོགས་དམན་པའི་བློ་གྲོས་དཀར་པོའི་འདུ་ཤེས་ཅན། །ནག་པོ་དཔག་ཏུ་མེད་པ་བདག་ཅག་སྤྱོད་པར་མི་ཤེས་པ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-53"/>“Their minds, weak in faith and the rest, Cannot see the limitless evil deeds they do, thinking it all to be virtuous.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྨོངས་པ་རྣམས་ནི་དམ་ཆོས་དཀོན་མཆོག་གཏམ་ལ་དགའ་མི་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Deluded, they do not enjoy discussions on the sublime Jewel of the Dharma.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་ཞུགས་པའི་ཆོས་ལ་འདིར་ནི་རྗེས་སུ་འགྲོ་བར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Instead they follow worldly teachings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་གངས་རི་ལས་འདིར་ཁ་བ་བབ་དང་རབ་བབ་པ། ཆུ་ནི་ཆུ་ཡི་ཤུགས་ཀྱིས་འཕྲལ་དུ་ས་འོག་འགྲོ་བ་བཞིན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-54"/>“Just as snow tumbles down from a mountain, And water naturally seeps straight underground,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྷ་མིའི་གྲོང་དུ་སྡིག་པའི་ཕུང་པོ་མང་དུ་བྱས་པས་ན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>In the same way they amass many evil deeds in the realms of gods and humans,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.335.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྨོངས་པ་རྣམས་ནི་དེ་བཞིན་དུད་འགྲོ་རྣམས་སུ་མྱུར་དུ་འགྲོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And so these fools go swiftly to the animals.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྟ་དྲེའུ་རྔ་<tei:ref folio="F.336.a"/>བོང་གླང་ཆེན་བ་ལང་མ་ཧེ་སེང་གེ་དང་། །ཝ་དང་སྦྲུལ་དང་ཕག་དང་ཁྱི་ལ་སོགས་པར་གྱུར་ནས་སུ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-55"/>“Born as horses, mules, camels, elephants, Oxen, cattle, lions, foxes, snakes, pigs, or dogs,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྩྭ་ཟ་བ་དང་ཤ་དང་བདུད་རྩི་ལོ་མའི་ཟས་ཟ་ཞིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They eat grass, flesh, and foliage,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་དག་རྟག་ཏུ་གཞན་གྱི་ཁུར་ཁྱེར་བྱེད་ཅིང་དུབ་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And constantly carry the burdens of others until exhaustion.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཀྲེས་པས་ཟིལ་གྱིས་ནོན་པས་གཅིག་ལ་གཅིག་ཟ་ལྷུར་བྱེད་པ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-56"/>“Driven by hunger, they eagerly prey on one another.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བསྐལ་པ་ཁྲག་ཁྲིག་རྣམས་སུའང་ནམ་ཡང་ཐར་བར་མི་འགྱུར་ཞིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Even after millions of eons, they will never be freed from this state.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་རྒྱ་མཚོ་གཅིག་ན་རུ་སྦལ་མིག་ནི་གཅིག་ཡོད་པས། །གཉའ་ཤིང་བུ་གར་མགྲིན་པ་བཏད་པར་ནུས་པ་མ་ཡིན་པ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Just as a one-eyed turtle living in the ocean Could not stick its neck through a floating yoke,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་བཞིན་ལྷ་དང་མི་དང་དབང་ཕྱུག་ཆེ་ཉིད་བདེ་བླག་ཏུ། །ལོག་པར་ལྷུང་བ་བརྒྱ་ཡིས་ཐོབ་པར་ནུས་པ་མ་ཡིན་ཏེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-57"/>“Because of their hundreds of downfalls They will not easily obtain the states of gods, humans, or great lords.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་འོད་ཟེར་དམ་པའི་ཚོགས་ཅན་དཔག་ཏུ་མེད་པ་དང་། །བྱང་ཆུབ་སེམས་དཔའ་ཁྱུ་མཆོག་འོད་ཀྱིས་དེ་དག་འབྱིན་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They will be delivered by a sublime and limitless matrix of the Buddha’s light rays And the light of the mighty bodhisattvas.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཡང་སྤོབས་པའི་བློ་གྲོས་ལ་བཀའ་སྩལ་པ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-58"/>Then the Blessed One said, “Pratibhānamati,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྤོབས་པའི་བློ་གྲོས་སེམས་ཅན་ལས་ལྔ་དང་ལྡན་པ་རྣམས་ནི་ཡི་དགས་ཀྱི་འཇིག་རྟེན་དུ་སྐྱེ་བར་འགྱུར་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>beings who engage in the following five actions are reborn as hungry spirits.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྔ་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>What are these five?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དང་པོ་བཀྲེན་ཞིང་ཆགས་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(1) The first is being stingy and craving.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མུན་པ་མུན་ནག་ཆེན་པོའི་བཤེས་གཉེན་དང་། སོགས་པ་ལྷུར་བྱེད་པའི་ཕྱིར་བདག་ཉིད་ཀྱང་ལོངས་སྤྱོད་པར་མི་བྱེད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(2) Next, because they esteem extremely ignorant spiritual teachers and their ilk, they block their own happiness.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་མ་ཡིན་པ་དང་ལྡན་པའི་ཕྱིར་ཕྲག་དོག་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(3) Because they are inclined to unwholesome ways, they are jealous.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སེར་སྣ་ལྷུར་བྱེད་པས་སྤུན་དང་། སྲིང་མོ་དང་། བུ་དང་། ཆུང་མ་དང་། བྲན་དང་། ལས་བྱེད་པ་དང་། ཞོ་ཤས་འཚོ་བ་དང་། མཛའ་བཤེས་དང་། བློན་པོ་དང་། ཉེ་དུ་དང་། འབྲེལ་པ་དང་། སྦྱིན་གནས་དང་། དགེ་སྦྱོང་དང་། བྲམ་ཟེ་དང་། བཀྲེན་པ་ཐམས་ཅད་ལ་རབ་ཏུ་སྦྱིན་པར་མི་བྱེད་ཅིང་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(4) Because they are excessively stingy, they are in no way generous towards brothers, sisters, children, wives, servants, laborers, wageworkers, friends, government officials, kinfolk, relatives, the venerable, mendicants, priests, and the poor.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕ་མ་དག་ལ་ཡང་རབ་ཏུ་སྦྱིན་པར་མི་བྱེད་པ་དང་། ངེས་པར་བསྐྱང་བར་འོས་པ་དག་མི་སྐྱོང་ལ་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They cannot even give anything to their own mothers and fathers, nor do they care for those who are in need of care.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བསྙེན་བཀུར་མི་བྱེད་ཅིང་བླ་མ་ལ་མི་གུས་ལ་གཅེས་པར་མི་བྱེད་པ་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(5) They are also not respectful, nor do they venerate spiritual teachers or regard them as precious.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྤོབས་པའི་བློ་གྲོས་སེམས་ཅན་ལས་ལྔ་པོ་དེ་དག་དང་ལྡན་པ་རྣམས་ནི་ཡི་དགས་རྣམས་སུ་སྐྱེ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Pratibhānamati, beings who engage in these five actions are reborn as hungry spirits.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་ཚེ་ཚིགས་སུ་བཅད་པ་འདི་དག་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-59"/>Then the Blessed One expressed this in verse:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཀྲེན་པའི་ཉེས་པས་བཅོམ་པ་ནོར་གཏོང་མི་ཕོད་པ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-60"/>“Defeated by the adversity of privation, they are unable to give away their wealth.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་དག་གཞན་དག་ལས་ནི་བླང་བར་འདོད་པར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They only wish to take from others.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མཛོད་རྣམས་ཀྱི་ནི་སྒོ་འཕར་དམ་དུ་བསྡམས་པ་རྣམས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They are keepers of a treasury whose doors are tightly shut.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འདིར་ནི་བསྐྱང་འོས་རྩ་ལག་མཆོག་རྣམས་གསོ་མི་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Thinking it ought to be guarded, they do not care for even their closest kin.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞན་ནོར་ཆུད་གཟོན་པ་ཡིས་<tei:ref folio="F.336.b"/>རྟག་ཏུ་སྐྲག་པ་རྣམས། །བླ་མ་ལ་ཡང་དེ་དག་རབ་རྩུབ་བྱམས་ཅན་མིན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-61"/>“These squanderers of others’ wealth always live in anxiety. Even to spiritual teachers they are rude and have no love.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་དག་བདག་གི་ཆུང་མ་ལ་སོགས་གཡོག་ཚོགས་ལ། །དབྱིག་སྦྱིན་མི་བྱེད་ཤིན་ཏུ་སྙིང་བརྩེ་ཤེས་མེད་ཅིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>To their own wives and servants they give nothing precious, Nor do they understand how to show love and affection.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དཀར་པོ་དག་ལས་ལོག་པ་དེ་དག་འདི་ནས་ཤི་འཕོས་ནས། །ཡུན་རིང་མཆོག་ཏུ་ལུས་འབར་སྡུག་བསྔལ་ཡི་དགས་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-62"/>“They turn away from what is good, and when they pass on They become suffering spirits whose bodies burn over and over.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་དག་ལོ་བརྒྱ་རྣམས་སུ་རྨི་ལམ་རྨིས་པར་ཡང་། །གོས་དང་ཟས་དང་བཏུང་བའང་ནམ་ཡང་རྨི་མི་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Though they dream for hundreds of years, They never even dream of clothing, food, and drink.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཁབ་འདྲའི་ཁ་དང་རི་ཆེན་ལྟ་བུའི་ལྟོ་ཅན་རྣམས། །ཉམ་ཐག་ཤར་དང་ནུབ་ཀྱི་རྒྱ་མཚོར་རྒྱུག་པར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-63"/>“Their throats are like needles and their stomachs like huge mountains. Desperately they scramble from the eastern to the western ocean.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཁ་ནས་མེ་འབར་ལུས་ངན་ཕྱོགས་དང་ལྷོ་ཕྱོགས་གཞན། །སྐམས་པར་མཐོང་ནས་རིན་ཆེན་མེ་ནང་ལྷུང་བར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>With mouths ablaze they run to Kauverī and to the south. Seeing everything dried up they fall into a blazing fire.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཤིན་རྗེའི་ཕོ་ཉ་དཔུང་མགོ་ལས་གྲུབ་རབ་སྟུག་ཅིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-64"/>“The henchmen of the Lord of Death grab them by the shoulders,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྲ་ལྡན་རྣམས་ཀྱིས་མནན་ནས་ཟངས་ཞུན་བཟོད་དཀའ་རབ། །མི་འདྲ་རོ་བྲོ་མེད་པ་དེ་དག་རྣམས་ལ་ལྡུད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Pile them together, and crush them with boulders. Then they are given molten copper to drink, which is incredibly difficult to bear.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྨོངས་རྣམས་ཡན་ལག་བརྒྱད་ལྡན་ཆུ་བཞིན་འཐུང་བར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Ignorant, they are made to drink disgusting substances as if they were water with eight qualities.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ནང་གྲོལ་ལུས་ཀྱི་ཁོག་པ་བསྲེགས་པ་བསལ་བའི་རླུང་གིས་སུ། །སྐྱེས་པའི་བདག་ཉིད་རྣམས་ལ་སྟོབས་ཆེན་ཡང་ལྡུད་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-65"/>“After their entrails have been burned from their body cavities by the evacuating wind, The powerful ones force these beings to drink again.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་ཤི་འཕོས་མི་ཡི་འཇིག་རྟེན་འདིར་སྐྱེས་རྣམས། །རིགས་དང་ལོངས་སྤྱོད་ལུས་གཡོག་རྣམས་ཀྱིས་དམན་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>When these beings die and are reborn in the human world, They will be inferior in their caste, wealth, health, and servants.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཡང་སྤོབས་པའི་བློ་གྲོས་ལ་བཀའ་སྩལ་པ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-66"/>Then the Blessed One said,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྤོབས་པའི་བློ་གྲོས་སེམས་ཅན་ལས་ལྔ་དང་ལྡན་པ་རྣམས་ནི་རིགས་མཐོན་པོ་རྣམས་སུ་འགྱུར་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Pratibhānamati, beings who engage in the following five actions are reborn among the higher castes.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྔ་གང་ཞེ་ན། འདི་ལྟ་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>What are these five? They are</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཟང་ཟིང་དང་། ཆོས་ཀྱི་སྦྱིན་པ་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(1) giving material goods and Dharma,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དག་གིས་འཇིག་རྟེན་ཐམས་ཅད་ལ་གནོད་སེམས་མེད་པར་གྱུར་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(2) not having hostility towards anyone,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དཀོན་མཆོག་གསུམ་དང་། ཕ་མ་ལ་གུས་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(3) being respectful of the Three Jewels and one’s parents,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྷན་ཅིག་སྐྱེས་པའི་བཟོད་པ་དང་། དེས་པ་དང་། ཤིན་ཏུ་གྱ་ནོམ་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(4) being naturally patient, gentle, and exalted, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཀྱི་གསུང་རྣམ་པ་སྣ་ཚོགས་ཀློག་པ་དང་། ཁ་ཏོན་བྱ་བ་ལ་བརྩོན་པ་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(5) studying the diversity of the Buddha’s teachings and being diligent in their recitation.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྤོབས་པའི་བློ་གྲོས་སེམས་ཅན་ལས་ལྔ་པོ་དེ་དག་དང་ལྡན་པ་རྣམས་ནི། རིགས་མཐོན་པོ་རྣམས་སུ་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Pratibhānamati, beings who engage in those five actions are reborn among the higher castes.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.336.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་ཚེ་ཚིགས་སུ་བཅད་པ་འདི་དག་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-67"/>Then the Blessed One expressed this in verse:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བསམ་བྱས་གང་དག་བསོད་ནམས་ཚོགས་པ་སྐལ་བཟང་སྦྱིན་པའི་ཆོ་<tei:ref folio="F.337.a"/>ག་བཞིན། །ཀུན་དུ་སེམས་ཅན་མང་ལ་ཀུན་བགེད་དེ་དག་རྟག་ཏུ་ནད་མེད་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-68"/>“Those who are inspired by the rituals for accumulating merit and fortune, And who ensure that many beings never grow ill,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚེ་དང་ཁ་དོག་སྟོབས་ལྡན་ལུས་ཅན་འཇིག་རྟེན་མཆོག་ཏུ་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Will enjoy long life, a fine complexion, great strength, and become foremost in the world.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མཚུངས་དང་རྒྱ་ཆེན་ཁྱད་པར་ཅན་གྱིས་མཛེས་མཛོད་རིན་ཆེན་རི་དབང་བཞིན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Their beauty will be vast and special, like a jewel mine or the lord of mountains.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འདུལ་བ་ཉམས་དགའི་དཀོན་མཆོག་མཚུངས་མེད་ཕ་མ་རྣམས་ལ་བསྙེན་བཀུར་བས། །ཤིན་ཏུ་རྒྱ་ཆེན་གཙོ་མཆོག་ཁྱིམ་དུ་སྐྱེས་པ་གྲངས་མེད་སྐྱེ་བོས་མཆོད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-69"/>“They venerate the incomparable jewel of delighting in discipline and their parents. Thus they are born into large and preeminent households and worshipped by innumerable beings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཤིན་ཏུ་ནུས་ཀྱང་ཡིད་འཁྲུག་རྣམ་སྤངས་ཀུན་དུ་གཟུགས་ཀྱིས་འཕགས་པ་རྣམས། །འཇིག་རྟེན་རྣམས་ཀྱི་མིག་ཏུ་སྡུག་པ་སྐལ་བཟང་རིགས་ནི་མཐོན་པོར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They are highly capable, their minds free of agitation and their forms noblest of all. They are appealing to the eyes of the entire world, have great fortune, and are of high caste.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་ཟག་བརྟན་ཞིང་ཀུན་བཟོད་ཤིན་ཏུ་ཡིད་བཟང་དཀར་དང་འཐུན་རྣམས་དང་། །མི་རྣམས་གང་དག་ཤེས་རབ་དག་མཆོག་སངས་རྒྱས་གསུང་ལ་ཁ་ཏོན་བརྩོན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-70"/>“They are reliable and perfect people, their minds aligned with what is good and virtuous. Such wise and supreme people are diligent in reciting the Buddha’s words.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་དག་འབྱོར་པ་ཐོབ་ནས་རིགས་མཆོག་སྐྱེས་པ་ཀུན་དུ་ཀུན་མཆོག་མཛེས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Affluent and well born, they are the most beautiful beings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་དག་དགེ་བས་རྒྱས་པས་ལུས་ཆེན་རྒྱ་མཚོ་ཆེན་པོ་བཞིན་དུ་སྤ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Formed by virtue, their great bodies are beautified like the ocean.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཡང་སྤོབས་པའི་བློ་གྲོས་ལ་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-71"/>Then the Blessed One said,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྤོབས་པའི་བློ་གྲོས་སེམས་ཅན་ལས་ལྔ་དང་ལྡན་པ་རྣམས་ནི་བྲན་དང་བྲན་མོ་ཉིད་འཐོབ་པར་འགྱུར་ཏེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Pratibhānamati, beings who engage in the following five actions become male and female servants.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྔ་གང་ཞེ་ན། འདི་ལྟ་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>What are these five? They are</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕ་མ་རྣམས་ལ་མི་གུས་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(1) being disrespectful toward one’s parents,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གྱ་ནོམ་པའི་སེམས་མ་ཡིན་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(2) having an indecent mind,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཟློག་པ་མེད་ཅིང་ཅི་དགར་སྡིག་པ་སྤྱོད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(3) being incorrigible and engaging in evil deeds as one pleases,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞན་གྱི་ནོར་འཕྲོག་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(4) stealing the wealth of others, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བུ་ལོན་ཕྲོགས་ནས་བདག་སྦེད་པ་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(5) absconding with the loans one has taken and going into hiding.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྤོབས་པའི་བློ་གྲོས་སེམས་ཅན་ལས་ལྔ་པོ་དེ་དག་དང་ལྡན་པ་རྣམས་ནི་བྲན་དང་བྲན་མོ་ཉིད་འཐོབ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Pratibhānamati, beings who engage in these five actions become male and female servants.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་ཚེ་ཚིགས་སུ་བཅད་པ་འདི་དག་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-72"/>Then the Blessed One expressed this in verse:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བསོད་ནམས་རྒྱ་ཆེན་འབྱོར་པ་གངས་འོད་ལྟ་བུའི་ཁྱིམ་དུ་སྐྱེ་ཐོབ་ནས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-73"/>“They take birth in a household whose vast merit and wealth shines like snow.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བླུན་པོ་གང་དག་རྒྱགས་ཁེངས་དྲེགས་པས་དཀྲུགས་ཤིང་གུས་པར་མི་བྱེད་ལ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Yet these fools are full of themselves and conceited, and so they squabble and are disrespectful.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕ་མ་རྣམས་ལ་རྨད་བྱུང་སྦྱིན་གནས་འདྲ་བར་འདུ་ཤེས་མི་བྱེད་པ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They do not conceive of their parents as being admirable objects of generosity.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་དག་ཉེས་པས་གཞན་དུ་འཇིག་རྟེན་དབང་གྱུར་དམན་ཞིང་གཡོན་ཅན་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Due to these negative actions, later they will have little worldly influence and be roguish.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དཀོན་མཆོག་མཚུངས་མེད་རྣམས་ལ་མ་གུས་ལྷུར་བྱེད་མ་རུངས་བརླང་ཚིག་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-74"/>“They do not venerate the peerless Three Jewels but are excessively vicious and rude.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་དག་བྱམས་དང་དེ་བཞིན་སྙིང་རྗེ་མ་ལུས་དགེ་བ་ཆུད་གཟན་པ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They squander all the virtues of love and compassion.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་དག་གྲངས་མེད་སྐྱེ་བར་འཛིན་མེད་གཞན་འཇོམས་ངོ་ཚ་མི་ཤེས་<tei:ref folio="F.337.b"/>ཤིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They will be powerless and dominated for innumerable lives and know no shame .</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མི་ཡི་ཡུལ་དུ་བྲན་ཉིད་སྤངས་ནས་སྐད་ཅིག་གིས་ནི་དམའ་བར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Once free of servitude in the human realm, they will instantly descend.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཟུགས་དང་དབང་ཕྱུག་རིགས་མཆོག་བློ་བྲལ་དམན་ལ་མོས་པའི་གླེན་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-75"/>“Bereft of beauty, authority, high caste, and intellect, they are fools inclined to negativity.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དཀོན་མཆོག་རྣམས་མ་མཆོད་པས་ང་རྒྱལ་མེད་ཅིང་ཞན་ལ་མདངས་ངན་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Not venerating the Three Jewels, they will be insecure, weak, and ugly.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དཔལ་ཀུན་མེད་ཅིང་ཏིང་འཛིན་བྲལ་བ་ལས་རྣམས་ཀྱིས་ནི་བསྡིགས་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Through deeds lacking dignity and contemplation, they turn evil.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་དག་འཇིག་རྟེན་ཀུན་དགའ་དགའ་སྟོན་ཆེ་སོགས་མེད་ཅིང་ཚེགས་ཀྱིས་འཚོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They will have no worldly joy, nothing to celebrate, and live troubled lives.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཡང་སྤོབས་པའི་བློ་གྲོས་ལ་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-76"/>Then the Blessed One said,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྤོབས་པའི་བློ་གྲོས་སེམས་ཅན་ལས་ལྔ་དང་ལྡན་པ་རྣམས་ནི་སྐལ་བ་བཟང་པོར་འགྱུར་ཞིང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Pratibhānamati, beings who engage in the following five actions become supremely fortunate,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཁྱིམ་ཁོལ་དང་། ཁ་དྲི་ཞིམ་པ་དང་། གནོད་པ་མེད་པ་དང་། ལུས་དང་། སེམས་ཤིན་ཏུ་སྦྱངས་པ་དང་། བལྟ་ན་སྡུག་པ་དང་། སྐྱེ་བོ་མང་པོས་བསྔགས་པ་རྣམས་སུ་འགྱུར་ཏེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>have servants and fragrant breath, are unthreatened, pliant in body and mind, beautiful to behold, and praised by many beings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྔ་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>What are these five?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འདུ་ཤེས་ཇི་ལྟ་བ་བཞིན་དུ་ཡང་དག་པ་དང་། མ་ཚང་བ་མེད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(1) perceiving accurately, genuinely, and completely;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྒྲོ་བཏགས་པ་མེད་པའི་ཚིག་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(2) speaking without exaggeration;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཉན་ཐོས་དང་། རང་སངས་རྒྱས་དང་། ཐེག་པ་ཆེན་པོ་དང་། ཐེག་པ་རྣམ་པ་གསུམ་པོ་ཐམས་ཅད་ཀྱི་ཚིག་གི་རང་བཞིན་ལ་མི་བཟོད་པ་མེད་ཅིང་མི་སྨོད་ལ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(3) not lacking patience towards the nature of the language used in the three vehicles of hearers, solitary buddhas, and bodhisattvas,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མི་སྤོང་ཞིང་དེ་ཐམས་ཅད་གཟུང་བ་དང་། བཤད་པ་དང་། བཀླག་པ་དང་། ཁ་ཏོན་ལ་སོགས་པ་བྱེད་པ་དང་། ངག་གི་སྐྱོན་བཞི་པོ་ཚད་མེད་པ་རྣམ་པར་སྤང་ཞིང་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>nor denigrating nor abandoning it but instead retaining, teaching, reading, and reciting it, abandoning the limitless instances of the four faults of speech, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཕགས་པའི་ལས་ལ་སྐུར་པ་མི་འདེབས་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>not belittling the path of noble beings;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་ལོག་པར་སྒྲུབ་པ་ལ་གནས་པ་རྣམས་ལ་སྙིང་བརྩེ་ཞིང་ཡོངས་སུ་བསྐྱང་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(4) loving and nurturing those beings who persist in counterproductive actions,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐྱོན་དེ་ལས་བཟློག་ཅིང་དགེ་བ་ལ་དགོད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>turning them away from faults, and establishing them in virtue; and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞན་གྱི་སྐྱོན་མཐོང་བའི་བརྗོད་པ་ཡལ་བར་འཇོག་པ་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(5) not wishing to expose the faults one sees in others.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྤོབས་པའི་བློ་གྲོས་སེམས་ཅན་ལས་ལྔ་པོ་དེ་དག་དང་ལྡན་པ་རྣམས་ནི་མི་རྣམས་ཀྱི་ནང་དུ་སྐྱེས་ནས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Pratibhānamati, when beings who engage in these five actions are reborn among humans,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐལ་བ་བཟང་པོར་འགྱུར་ཞིང་ཁྱིམ་ཁོལ་དང་ལྡན་པ་དང་། ཁ་དྲི་ཞིམ་པ་དང་། ཡིད་གཞུངས་པ་དང་། འཐུན་བ་དང་། སྐྱེ་བོ་མང་པོ་དགའ་བ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>they possess great fortune, acquire servants, fragrant breath, and mental vigor, are agreeable, and delight many beings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མྱ་ངན་མེད་པ་དང་། སེམས་ཐ་མལ་དུ་གནས་པ་དང་། ཁྲོ་བ་མེད་པ་དང་། གནོད་པ་མེད་པ་དང་། ཁ་དོག་དང་ལྡན་པ་དང་། གྲགས་པ་དང་ལྡན་པ་རྣམས་སུ་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They are without anguish, and their minds are at ease. They are free of anger and do not encounter harm. They obtain a beautiful appearance and are honored.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.337.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་ཚེ་ཚིགས་སུ་བཅད་པ་འདི་དག་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-77"/>Then the Blessed One expressed this in verse:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་སོགས་ལ་ཤིན་<tei:ref folio="F.338.a"/>ཏུ་ཤས་ཆེར་གུས་འབད་ཕ་མ་རྣམས་མཆོད་པས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-78"/>“They are deeply respectful of the buddhas and venerate their parents. </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྟག་ཏུ་ངག་སྐྱོན་ཀུན་བྲལ་འཇིག་རྟེན་དག་ཏུ་རྨད་དུ་བྱུང་བར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Thus, ever free from the faults of speech, they are indeed wondrous beings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚིག་གི་ཡོན་ཏན་གཟུང་འོས་རྔ་སྒྲར་བཅས་ཤིང་ཚེ་རབས་ཀུན་དུ་ཕན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The qualities of their speech—pleasant, resonant, and beneficial throughout all lifetimes—</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཨུད་པལ་དྲི་དང་མཛེས་པའི་རླུང་ལྡན་ཁ་ཡིས་ཕྱོགས་སུ་སྙན་པ་གྲགས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Resound sweetly from their mouths in all directions upon breath as fragrant as a blue lotus.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་དག་བདག་བྱམས་གཞན་མཚུངས་མི་ཕན་སྐྱོན་བརྗོད་སྡིག་པ་ངན་པ་ལས། །ཕྲལ་ནས་དགེ་བ་ཀུན་ལ་སེམས་ཅན་རྣམས་ནི་སྦྱོར་དུ་འཇུག་བྱེད་པ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-79"/>“Loving themselves and others equally, they motivate beings in all forms of virtue. And by distancing themselves from what is evil, immoral, slanderous, and harmful,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་དག་འཇིག་རྟེན་ཐོབ་ནས་སྐལ་བ་བཟང་པོ་ཀུན་དུ་ཐམས་ཅད་དགའ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Upon attaining the world they will have every joy throughout the fortunate eon.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཤིན་ཏུ་ཡིད་འོང་རིན་ཆེན་ཡུལ་ཅན་བདེ་གནས་སྡིག་ལས་ལོག་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They will possess extraordinary riches, live well, and turn away from evil deeds.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དམ་པའི་ཆོས་ནི་གཟུང་དང་བསྟན་བརྩོན་དེ་སེམས་བྱེད་ཅིང་དེས་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-80"/>“Recollecting the sublime Dharma, they persevere in the teachings and cultivate gentle minds.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འདིར་ནི་སེམས་ཅན་ཀུན་ལ་ཕ་མ་འདྲ་བར་བྱམས་པའི་སེམས་ལྡན་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>In this life, their love considers all beings to be like their own parents.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འདས་པའི་དུས་སུ་ལུས་ཅན་ཀུན་ནི་ངེད་ཀྱི་རྩ་ལག་ཚོགས་གྱུར་ཅེས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They think, ‘All beings were once my own family.’</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ལྟ་ཟླ་བ་ལྟ་བུའི་སེམས་སྦྱངས་དེ་དག་ལ་ནི་ཕན་པར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>With minds as bright as the moon they benefit them in the present.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འགྲན་དྲེགས་ཁྱད་གསོད་ལ་སོགས་རྣམ་པ་སྣ་ཚོགས་ཕན་ཚུན་སུན་འབྱིན་པའི། །སྡིག་པ་ཡོངས་སུ་སྤངས་ནས་དག་པའི་ཡིད་ཅན་སྐྱོན་རྣམས་ཀུན་སྦས་ནས། །སེམས་ཅན་ལྷག་པའི་བསམ་པ་དགེ་བས་སྙན་ཚོགས་ཕན་ཚུན་རྗོད་པར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-81"/>“Forsaking evil deeds, such as competitiveness, haughtiness, and contempt, And with pure minds, these virtuous, well-intentioned beings Speak well of one another while being discrete about the shortcomings of others.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མྱུར་དུ་ལྷ་ཡི་དབང་ཕྱུག་མཚུངས་མེད་ཐོབ་ནས་སངས་རྒྱས་དགེ་བར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They swiftly become incomparable lords of the gods and go on to be virtuous buddhas.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཡང་སྤོབས་པའི་བློ་གྲོས་ལ་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-82"/>Then the Blessed One said,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྤོབས་པའི་བློ་གྲོས་སེམས་ཅན་ལས་ལྔ་དང་ལྡན་པ་རྣམས་ནི་མིའི་དམ་པ་ཐོབ་ནས་རྟག་ཏུ་སྐུར་པ་འདེབས་པ་ཐོབ་པར་འགྱུར་ཞིང་སྐྱེ་བོ་མང་པོ་མི་དགའ་བ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Pratibhānamati, beings who engage in the following five actions attain sublime human lives, and yet they also receive constant denigration, are disliked by many beings,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཁ་དྲི་མི་ཞིམ་པ་དང་། སེམས་མི་དགའ་བ་དང་། གནོད་པ་མང་བ་དང་། ལུས་ཤིན་ཏུ་སྦྱངས་པ་མ་ཡིན་པར་འགྱུར་ཏེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>have bad breath and unhappy minds, are often threatened, and have very unfit bodies.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྔ་གང་ཞེ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>What are these five?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བརྫུན་དུ་སྨྲ་བ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(1) lying,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བརྫུན་དུ་སྨྲ་བས་རྟག་ཏུ་གཞན་སླུ་བའི་སེམས་ལྷུར་ལེན་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(2) being always bent on deceiving others through lying,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་ཀྱི་འབེལ་བའི་གཏམ་ཆེན་པོ་ལ་འདུས་པ་ན་ཆོས་ཀྱི་གཏམ་དེ་ལ་རྣམ་པར་སྨོད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(3) criticizing the discourses one hears when assembled to hear great Dharma talks,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚངས་པ་མཚུངས་པར་སྤྱོད་པ་རྣམས་མཐོང་ན་དེ་དག་ལ་བརྙས་ཤིང་ཁྱད་དུ་གསོད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(4) abusing and denigrating those whose practice pure conduct, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དམའ་བའི་སེམས་སུ་བྱེད་པ་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(5) cultivating a base mind.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྤོབས་པའི་བློ་གྲོས་སེམས་ཅན་ལས་ལྔ་པོ་དེ་དག་དང་ལྡན་པ་རྣམས་ནི་<tei:ref folio="F.338.b"/>མིའི་དམ་པ་ཐོབ་ནས་རྟག་ཏུ་སྐུར་པ་འདེབས་པ་ཐོབ་པར་འགྱུར་ཞིང་སྐྱེ་བོ་མང་པོ་མི་དགའ་བ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Pratibhānamati, beings who are endowed with those five actions may attain the preeminence of a human life but they receive constant denigration, are disliked by many beings,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མདོག་མི་སྡུག་པ་དང་། ཁ་དྲི་མི་ཞིམ་པ་དང་། སེམས་མི་དགའ་བ་དང་། གནོད་པ་མང་བ་དང་། ལུས་ཤིན་ཏུ་སྦྱངས་པ་མ་ཡིན་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>are ugly, have bad breath and unhappy minds, are often threatened, and have bodies that are unhealthy.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་ཚེ་ཚིགས་སུ་བཅད་པ་འདི་དག་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-83"/>Then the Blessed One expressed this in verse:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཡིད་རྣམས་ཀྱིས་གཞན་སེམས་དྲག་ཏུ་འཁྲུག་དང་སྡིག་པ་རྣམས་བྱས་པས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-84"/>“Their minds viciously upset the minds of others and they commit evil deeds.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལོག་པའི་ངག་དང་གཞན་ལ་གནོད་པར་དགའ་བ་ཐ་མ་རྣམས་སེམས་དང་། །ལུས་ཀྱིས་སྡུག་བསྔལ་གཞལ་མེད་རྫོགས་པ་བར་མེད་ཉམས་སུ་མྱོང་བར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They delight in perverse speech and in harming others. These inferior beings will experience intense and unrelenting suffering in mind and body.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྕགས་ཀྱི་ལྕགས་ཀྱུ་ཆེན་པོ་རྣོན་པོ་རྣམས་ཀྱིས་ཉམ་ཐག་ལྕེ་འབྱིན་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The tongues of these poor beings will be pierced by sharp iron hooks.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཤིན་རྗེའི་དབང་ཕྱུག་གནས་སུའང་མི་རྣམས་ཤིན་ཏུ་ཟངས་བསྐོལ་ལྡུད་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-85"/>“In the abode of the Lord of Death these people will be force-fed drinks of boiling molten copper.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དམྱལ་བར་མི་བདེན་ཚིག་ཅན་སྐྱེས་པ་དེ་དག་དགའ་བར་ཡོང་མི་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>In hell, these beings given to false speech will experience no joy.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་ཚེ་འདིར་ནི་ཚིག་བཟང་བྲལ་བ་རོ་ལྟར་ཁ་དྲི་མི་ཞིམ་ཞིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Once there, they will hear no loving words and their breath will stink like a corpse.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་མིག་ཏུ་ཡིད་འོང་བལྟ་ན་སྡུག་པ་མ་ཡིན་རྣམས་སུ་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>All that normally appears pleasant will turn ugly.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྒྱལ་པོའི་ཕོ་བྲང་འཁོར་དུ་མི་སྙན་སྐུར་འདེབས་རྩོད་པའི་སྐྱོན་མང་ཞིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-86"/>“Infamous at the royal court, they have many flaws of being derogatory and quarrelsome.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་དག་རྟག་ཏུ་སྐྱོན་གནས་མི་ནི་ས་ཡ་མང་པོས་གླེང་བར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Many millions of people gossip about them being consistent in these flaws.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་བརྫུན་སྨྲ་རྣམས་ཀྱིས་ཐ་མལ་སེམས་དང་ལུས་བདེ་མ་ཡིན་ཕྱིར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Such beings have base minds and will have unhealthy bodies due to their lies.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྔར་བཤད་ཉེས་འགྲོ་དེ་ཡི་འབྲས་བུ་སྡུག་བསྔལ་མང་པོ་སྤྱོད་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Thus, as I said before, the result of this flawed trajectory will be manifold suffering.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མི་ཉིད་སྤངས་ནས་དབང་མེད་མི་རྣམས་བདེ་བ་ཀུན་ལ་སླུ་བྱེད་པའི། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-87"/>“Forsaken by humanity, they are powerless and bereft of all happiness.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་དམྱལ་བའི་འཇིག་རྟེན་འགྲོ་འགྱུར་དེ་ནས་ཤི་འཕོས་གྱུར་ནས་ནི། །འགྲོ་བ་ལྔ་པོའི་འཁོར་བའི་འཁོར་ལོ་རྩུབ་པར་དུད་འགྲོ་རྣམས་སུ་སྐྱེ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Such beings first go to the hells, and later, when they die and transmigrate, They are born as animals among the five types of beings on the harsh wheel of cyclic existence.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ལྟར་ལུས་ཅན་འཁྱམ་པ་རྣམས་ཀྱི་སྡུག་བསྔལ་ཟད་པར་འགྱུར་བ་མེད། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The suffering of these wandering beings will be truly inexhaustible.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཡང་སྤོབས་པའི་བློ་གྲོས་ལ་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-88"/>Then the Blessed One said,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.338.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྤོབས་པའི་བློ་གྲོས་དགེ་སྦྱོང་དང་། རིགས་ཀྱི་བུ་དང་། རིགས་ཀྱི་བུ་མོ་ཉེ་བར་ཞི་བ་གཙོ་བོར་འཛིན་པའི་སེམས་ཅན་ཆོས་ལྔ་དང་ལྡན་པ་རྣམས་ནི་གང་དང་གང་དུ་སྐྱེ་བའི་སྐྱེ་བ་དེ་དང་དེ་ཐམས་ཅད་དུ་རྟག་པར་སངས་རྒྱས་དང་། ཆོས་དང་། དགེ་འདུན་དང་ཕྲད་པ་ཐོབ་པར་འགྱུར་ཞིང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Pratibhānamati, mendicants and noble sons and daughters—beings who make peace their primary concern—possess five qualities that ensure that they will always encounter the Buddha, the Dharma, and the Saṅgha, regardless of where they are born.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་མཐོང་ནས་ཀྱང་དེ་དག་ལས་ཆོས་ཀྱང་ཐོས་ནས་ཡིད་<tei:ref folio="F.339.a"/>དགའ་ཞིང་ཅི་བསམས་པ་བཞིན་དུ་བྱང་ཆུབ་རྣམས་ཐོབ་པར་འགྱུར་ལ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They will behold the blessed buddhas, hear the Dharma from them, and be delighted. </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཅི་འདོད་པ་བཞིན་དུ་ཕུན་སུམ་ཚོགས་པ་རྣམས་ཀྱང་ཐོབ་པར་འགྱུར་ཏེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They will attain awakening just as intended and gain abundance just as desired.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྔ་གང་ཞེ་ན། འདི་ལྟ་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>What are these five qualities?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བདག་ཉིད་དཀོན་མཆོག་གསུམ་ལ་སྐྱབས་སུ་སོང་ནས་གཞན་དག་ཀྱང་གསུམ་ལ་སྐྱབས་སུ་འགྲོ་བ་སྒྲུབ་པ་ལ་རྣམ་པར་འཇོག་པར་བྱེད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(1) Having themselves gone for refuge in the Three Jewels, they establish others in the practice of going for refuge.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྣམ་པ་ཐམས་ཅད་ཀུན་ཏུ་རྫོགས་ཤིང་རྒྱས་ལ་རྒྱ་ཆེན་པོ་ལེགས་པར་བྱས་པའི་དེ་བཞིན་གཤེགས་པའི་སྐུ་གཟུགས་བྱེད་དུ་འཇུག་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(2) They skillfully create images of the thus-gone ones that are complete and detailed in all respects.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མཁན་པོ་དང་སློབ་དཔོན་ཤེས་ཤིང་གུས་པ་དང་བཅས་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(3) They recognize preceptors and teachers and are respectful towards them.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཀའ་བློ་བདེ་བ་དང་འཐུན་པར་འཛིན་པར་སྒྲུབ་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(4) They easily follow instructions and practice them accordingly.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཀུན་དུ་ཐོགས་པ་མེད་པའི་འོད་ཟེར་རྣམས་ཀྱིས་སེམས་ཅན་ཐམས་ཅད་བདག་དང་འདྲ་ཞིང་བུ་གཅིག་པའི་བྱིས་པ་དང་འདྲ་བར་མཐོང་བ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>(5) With pervasive and unimpeded light rays, they behold all beings as being like themselves or like their only child.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་བརྩམས་པའི་མདོ་སྒྲུབ་པ་དང་། བཀླག་པ་དང་། ཁ་ཏོན་དང་། ལུང་མནོད་པ་དང་། བཤད་པ་རྣམས་ཡིད་ལ་བྱེད་པ་ཡངས་ཤིང་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>These are beings who practice, read, recite, transmit, and explain the discourses exactly as they were set forth.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྣམ་པ་སྣ་ཚོགས་པ་དག་གིས་བར་ཆད་མེད་པར་བསྒོམ་པ་ལ་མངོན་པར་ཞེན་ཅིང་སྒྲུབ་པར་བྱེད་པ་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Their contemplation is extensive. Being utterly free from obstacles, they are enthusiastic in their practice and gain accomplishment.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྤོབས་པའི་བློ་གྲོས་དགེ་སྦྱོང་དང་། རིགས་ཀྱི་བུ་དང་། རིགས་ཀྱི་བུ་མོ་ཉེ་བར་ཞི་བ་གཙོ་བོར་འཛིན་པའི་སེམས་ཅན་ཆོས་ལྔ་པོ་དེ་དག་དང་ལྡན་པ་རྣམས་ནི་གང་དང་གང་དུ་སྐྱེས་པའི་སྐྱེ་བ་དེ་དང་དེ་ཐམས་ཅད་དུ་བར་ཆད་མེད་པར་སངས་རྒྱས་དང་། ཆོས་དང་། དགེ་འདུན་དཀོན་མཆོག་རྣམས་དང་མི་འབྲལ་བར་འགྱུར་ཞིང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Pratibhānamati, mendicants and noble sons and daughters—beings who make peace their primary concern—who possess those five qualities, do not encounter obstacles and are never disconnected from the Jewels of Buddha, Dharma, and Saṅgha, regardless of where they are born.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་མཐོང་ནས་ཀྱང་། དེ་དག་ལས་ཆོས་ཀྱང་ཐོས་ནསཡིད་དགའ་ཞིང་ཅི་བསམས་པ་བཞིན་དུ་བྱང་ཆུབ་རྣམས་ཐོབ་པར་འགྱུར་ལ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They behold the blessed buddhas, hear their Dharma teachings, and are delighted.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཅི་འདོད་པ་བཞིན་དུ་ཕུན་སུམ་ཚོགས་པ་རྣམས་ཀྱང་ཐོབ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They attain awakening just as they intend and gain abundance just as they wish.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་ཚེ་ཚིགས་སུ་བཅད་པ་འདི་དག་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-89"/>Then the Blessed One expressed this in verse:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་དག་སངས་རྒྱས་ཡོན་ཏན་མཆོག་གི་ཆོས་ལ་གནས། །དེ་དག་ཉིད་ཀྱིས་སེམས་ཅན་ཐམས་ཅད་འདུལ་བར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-90"/>“Those who are stable in the supreme Dharma—the quality of the Buddha— Are able to tame all beings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་སྐུ་གཟུགས་གཟུགས་ལེགས་རྣམས་ནི་བྱེད་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They make fine representations of the Buddha’s body.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མཁས་པ་རྣམས་ནི་སློབ་དཔོན་ཚིག་ལ་མཆོད་པར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>These learned ones venerate the words of their masters.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་དག་ཕྱོགས་བཅུ་རྣམས་ཀྱི་འཇིག་རྟེན་མ་ལུས་ལ། །བདག་དང་བུ་གཅིག་བྱིས་པ་<tei:ref folio="F.339.b"/>རྣམས་དང་འདྲར་མཐོང་བ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-91"/>“They consider everyone in every world, in all directions, To be like themselves or their only child. </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་དག་སྲིད་པ་ཀུན་དུ་མྱ་ངན་མེད་ངེས་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They are unequivocally free from the suffering of cyclic existence.<tei:note xml:id="UT22084-057-010-92"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཤིན་ཏུ་རྣམ་དག་ཐུགས་མངའ་སངས་རྒྱས་རྣམས་ཀྱང་མཐོང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Their awakened minds are extremely pure and they behold the buddhas.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་དག་ཤེས་རབ་རིན་ཆེན་ཆེན་པོ་འབྱོར་མཛད་རྣམས། །ཉིན་དང་མཚན་དུ་དགེ་བ་ཀུན་དུ་སྤྱོད་པར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-93"/>“They who bring about the wealth of great jewel-like wisdom Practice virtue day and night.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འདིར་ནི་རྨད་དུ་བྱུང་བའི་འོད་དང་ལྡན་པ་རྣམས། །འཇིག་རྟེན་མུན་པ་ཆེ་ལ་སྣང་བ་མཆོག་བྱེད་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>These beings who are endowed with miraculous light Bring the brightest light to the deepest darkness of the world.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཀུན་དུ་ཆོས་རྣམས་ཐམས་ཅད་རབ་ཏུ་རྣམ་ཕྱེ་ནས། །སངས་རྒྱས་ལམ་ལས་མཆོག་ནི་གཞན་མེད་པར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-94"/>“Perceiving every single phenomenon, They are certain that there is nothing higher than the path to buddhahood.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ངེས་པར་བྱས་ནས་ལྷ་དང་བཅས་པའི་འཇིག་རྟེན་གྱི། །མཐར་ཐུག་འགྲོ་བར་འགྱུར་བའི་རྒྱུ་ནི་ཤེས་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They understand that this is the cause for reaching The ultimate limit of the world, including its gods.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་ཚོང་དཔོན་སྤོབས་པའི་བློ་གྲོས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ཐོས་ནས་ཚིམ་ཞིང་མགུ་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-95"/>As he heard this Dharma teaching, the merchant Pratibhānamati was satisfied and content.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡི་རངས་ནས་རབ་ཏུ་དགའ་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He rejoiced and was truly delighted.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དགའ་བ་དང་། ཡིད་བདེ་བ་སྐྱེས་ནས་མི་སྐྱེ་བའི་ཆོས་ལ་བཟོད་པ་ཐོབ་ནས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Joyful and happy, he gained the acceptance that phenomena are unborn.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚོང་དཔོན་གྱི་བུ་ལྔ་བརྒྱ་ཙམ་པོ་དང་། སོ་སོའི་གཡོག་འཁོར་ལྔ་བརྒྱ་ཙམ་པོ་དེ་དག་ནི་ཆོས་རྣམས་ལ་ཆོས་ཀྱི་མིག་རྡུལ་མེད་ཅིང་དྲི་མ་དང་བྲལ་བ་ཐོབ་བོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The five hundred merchant children and each of their entourage of five hundred attained the unclouded and stainless Dharma eye that perceives all phenomena.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱི་འཁོར་གྱི་དཀྱིལ་འཁོར་དུ་ལྷ་དང་། ཀླུ་དང་། གནོད་སྦྱིན་དང་། དྲི་ཟ་དང་། ལྷ་མ་ཡིན་དང་། ནམ་མཁའ་ལྡིང་དང་། མི་འམ་ཅི་དང་། ལྟོ་འཕྱེ་ཆེན་པོ་དང་། མི་དང་། མི་མ་ཡིན་པ་ཇི་སྙེད་འདུས་པར་གྱུར་པ་དེ་དག་ཐམས་ཅད་ཀྱིས་ནི་ཅི་བསམས་པ་བཞིན་གྱི་ཐེག་པ་རྣམས་ལ་སེམས་བསྐྱེད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-96"/>All the gods, nāgas, yakṣas, gandharvas, asuras, garuḍas, kinnaras, mahoragas, humans, and non-humans assembled in the retinue of the Blessed One developed a motivation for one of the vehicles in accord with their inclinations.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཅི་འདོད་པ་བཞིན་དུ་ཕུན་སུམ་ཚོགས་པ་ཡང་ཐོབ་ཅིང་། མེ་ཏོག་དང་། སྤོས་དང་། ཕྲེང་བ་དང་། གོས་དང་། རྒྱན་ལ་སོགས་པ་དཔག་ཏུ་མེད་པ་རྣམས་ཀྱིས་བཅོམ་ལྡན་འདས་ལ་གཏོར་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They abundantly gained whatever they wished for and scattered incalculable masses of flowers, incense, garlands, clothing, and jewelry toward the Blessed One.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་ཚོང་དཔོན་སྤོབས་པའི་བློ་གྲོས་སྟན་ལས་ལངས་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-97"/>Then, the merchant Pratibhānamati stood up,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས་པུས་མོ་གཡས་པའི་ལྷ་ང་ས་ལ་བཙུགས་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>draped his shawl over one shoulder, and knelt on his right knee.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>With palms together he bowed toward the Blessed One and said,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཁམས་གསུམ་པའི་བླ་མས་ཆོས་ལྔ་པོ་འདི་དག་ལེགས་པར་གསུངས་པ་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-98"/>“Blessed One, the masters of the three realms teach these five qualities.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.339.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལེགས་སོ་ལེགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Excellent. Excellent.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་ལྔ་པོ་དེ་དག་ཐོས་ནས་འཁོར་འདི་ཡིད་བཞིན་དུ་ཐམས་ཅད་རྫོགས་པར་དོན་གྲུབ་པར་གྱུར་<tei:ref folio="F.340.a"/>ལགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Hearing about these five qualities, this retinue has understood the meaning, just as is intended. </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མ་འོངས་པའི་སེམས་ཅན་རྣམས་ཀྱང་འདི་ཉིད་ཐོས་ནས་ནག་པོའི་ཕྱོགས་སྤངས་ཏེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>When beings in future times hear of this teaching, they will abandon non-virtue, do what is virtuous,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དཀར་པོའི་ཕྱོགས་ལ་ཞུགས་ཤིང་བརྟུལ་ཞུགས་འགྲུབ་པར་འགྱུར་ལགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>and take up religious practice.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་དགེ་སློང་གི་དགེ་འདུན་དང་ཐབས་ཅིག་ཏུ་སང་བདག་གི་སྡུམ་པར་སྤྱན་འདྲེན་ན་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-99"/>“Blessed One, please come together with your saṅgha of monks to my home.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བདག་ཅག་ལ་ཐུགས་བརྩེ་བའི་སླད་དུ་ཁྱོད་ཀྱིས་དེ་ལྟར་གནང་བར་མཛད་དུ་གསོལ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Please accept this invitation out of compassion for us.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་ཚོང་དཔོན་སྤོབས་པའི་བློ་གྲོས་ལ་ཐུགས་བརྩེ་བའི་སླད་དུ་གནང་བར་མཛད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-100"/>The Blessed One agreed out of compassion for the merchant Pratibhānamati.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་ཚོང་དཔོན་སྤོབས་པའི་བློ་གྲོས་བཅོམ་ལྡན་འདས་ཀྱིས་གནང་བར་རིག་ནས་ཚིམ་ཞིང་མགུ་སྟེ་ཡི་རངས་ནས་རབ་ཏུ་དགའ་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Knowing that the Blessed One had accepted his invitation, Pratibhānamati was satisfied and content.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགའ་བ་དང་ཡིད་བདེ་བ་སྐྱེས་ནས་བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He rejoiced and was truly delighted.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལ་ལན་གསུམ་བསྐོར་བ་བྱས་ནས་གཡོག་འཁོར་དང་བཅས་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Happy and joyful, he bowed his head to the feet of the Blessed One, circumambulated him three times, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱི་ཐད་ནས་སོང་ངོ་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>departed together with his retinue.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་རང་གི་ཁྱིམ་དུ་སོང་ནས་ཕ་མ་གཉིས་ཀྱི་རྐང་པ་ལ་ཕྱག་བྱས་ཏེ་ཐལ་མོ་སྦུག་སྦུག་པོར་སྦྱར་ནས་འདི་སྐད་ཅེས་སྨྲས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-101"/>When he arrived home, he bowed to the feet of his parents and told them with joined palms,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡབ་ཡུམ་འདི་ལྟར་གང་འཇིག་རྟེན་ན་ཤིན་ཏུ་དཀོན་མཆོག་གཤེགས་པ་བླ་ན་མེད་པ་ཆོས་ཀྱི་རྒྱལ་པོ་ཁམས་གསུམ་པ་ཐམས་ཅད་ལས་འདས་པ་བཅོམ་ལྡན་འདས་དགེ་སློང་གི་དགེ་འདུན་དང་ཐབས་ཅིག་ཏུ་སང་བདག་གིས་གདུགས་ཚོད་ལ་སྤྱན་དྲངས་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Father, Mother, I have something to tell you. I have invited he who is rare and supreme in the world, the unsurpassed being, the king of Dharma, he who has transcended the three realms, the Blessed One himself, to come and take his midday meal here with his congregation of monks.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེས་ཀྱང་བདག་ཅག་ལ་ཐུགས་བརྩེ་བའི་སླད་དུ་གནང་ལགས་ཀྱིས་མཁྱེན་པར་མཛོད་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Out of compassion for us, he has accepted!”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་སྤོབས་པའི་བློ་གྲོས་ཀྱི་ཕ་མ་དག་ཡིད་དགའ་སྟེ་འདི་སྐད་ཅེས་སྨྲས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-102"/>Pratibhānamati’s father and mother were delighted and praised him,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བུ་ལེགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Son, that is excellent!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཁྱོད་ཀྱིས་ལེགས་པར་བྱས་སོ་ཞེས་མངོན་པར་བསྟོད་དེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>You have done well!”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་མཆོད་པའི་ལས་ལ་སྤྲོ་བར་གྱུར་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They were excited to venerate the Thus-Gone One.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་སྤོབས་པའི་བློ་གྲོས་ཀྱིས་རང་གི་ཆུང་མ་པད་མ་གཡོག་འཁོར་དང་བཅས་པ་ལ་བསྒོ་བ། བཟང་མོ་ཁྱོད་ཀྱིས་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འཁོར་དང་བཅས་པའི་དོན་དུ་བཟའ་བ་དང་བཏུང་བ་རོ་བརྒྱ་དང་ལྡན་པ་མང་བ་དང་བསོད་པར་སྦྱོར་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-103"/>Pratibhānamati then instructed his wife Padma and her servants, “My dear, please prepare fine food and drink with many hundreds of flavors for the blessed, thus-gone, worthy, perfect Buddha and his retinue.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྦྱར་ནས་ཀྱང་ཁྱིམ་ཐམས་ཅད་ཆག་ཆག་གདབ་པ་དང་། ཕྱག་དར་བྱ་བ་དང་། བླ་རེ་བྲེ་བ་དང་། དར་གྱི་ལྡ་ལྡི་གདགས་པ་དང་། མེ་ཏོག་ཆལ་པར་དགྲམ་<tei:ref folio="F.340.b"/>པ་དང་། བདུག་སྤོས་དྲི་ཞིམ་པོས་བདུག་པར་བྱེད་དུ་བཅུག་ལ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Once the food has been prepared, scatter water, sweep the house, set up the canopies, hang the silken tassels, scatter flower petals, and perfume the environment with fragrant incense.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་དགེ་སློང་གི་དགེ་འདུན་དང་ཐབས་ཅིག་པའི་གདན་ཅི་འོས་སུ་ཐིང་སྟེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Lay out seats befitting the Thus-Gone One and his congregation of monks.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མཆོད་ཡོན་དང་ཞབས་ལ་དབུལ་བ་སྤྱན་སྔར་བཞག་པས་བཅོམ་ལྡན་འདས་དམ་པ་དེ་ལ་སྡོད་ཅིག་ཅེས་བསྒོ་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Once he has been received and the offerings laid before him at his feet, you should invite the sublime Blessed One to take his seat.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྤོབས་པའི་བློ་གྲོས་མཛའ་བཤེས་དང་། བློན་པོ་དང་། ཉེ་དུ་དང་། རྒན་རབས་ལ་སོགས་པ་དང་ལྷན་ཅིག་འགྲོགས་ཤིང་ཇི་སྐད་སྨྲས་པ་ཐམས་ཅད་བྱས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-104"/>Pratibhānamati came together with friends, dignitaries, kin, and elders, and they all did exactly as he said.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་དེའི་མཚན་མོ་འདས་ནས་དགེ་སློང་གི་དགེ་འདུན་དང་ཐབས་ཅིག་ཏུ་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་སྐྱེད་མོས་ཚལ་ཆེན་པོ་ནས་བྱུང་ནས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The next morning the Blessed One left Jeta Grove in Anāthapiṇḍada’s park and traveled together with the saṅgha of monks to Śrāvastī</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་རྣམས་ལ་ཐུགས་བརྩེ་བས་དེ་བཞིན་གཤེགས་པའི་རྫུ་འཕྲུལ་གྱི་དཔལ་རྣམ་པར་འཕྲུལ་པ་ཡང་དག་པར་བསྟན་པའི་རོལ་པས་ཆོ་འཕྲུལ་དང་བཅས་པས་མཉན་དུ་ཡོད་པའི་གྲོང་ཁྱེར་ཆེན་པོར་གཤེགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>out of kindness for beings. They did so accompanied by miraculous displays manifested by the Thus-Gone One’s splendid magical powers.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཤེགས་ནས་ཀྱང་རིམ་གྱིས་སྤོབས་པའི་བློ་གྲོས་ཀྱི་ཁྱིམ་ག་ལ་བ་དེ་ལོགས་སུ་བཞུད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Gradually they made their way to Pratibhānamati’s home.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་སྤོབས་པའི་བློ་གྲོས་གཡོག་འཁོར་དང་བཅས་པས་བཅོམ་ལྡན་འདས་བསུ་ནས་མཆོད་ཡོན་དང་ཞབས་ལ་འབུལ་བས་བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ནས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-105"/>Pratibhānamati and his entourage greeted the Blessed One, received him as a guest, made offerings at his feet, and bowed their heads to his feet.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཞབས་འབྲིང་བ་དང་བཅས་པར་ཁྱིམ་གྱི་ནང་དུ་གཤེགས་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He then entered the home along with his entourage.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ནི་ཅི་འོས་པའི་གདན་མཆོག་ལ་བཞུགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Blessed One sat on an excellent cushion, which befitted him,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དགེ་སློང་གི་དགེ་འདུན་ནི་ཅི་འོས་པ་ལ་འཁོད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>and the congregation of monks took their appropriate seats.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་སྤོབས་པའི་བློ་གྲོས་ཀྱི་ཕ་མ་དང་། སླས་དང་། མཛའ་བཤེས་དང་། བློན་པོ་དང་། ཉེ་དུ་དང་། རྒན་རབས་རྣམས་ནི་ཡིད་དགའ་ཞིང་འདུད་ལ། བླ་མ་ལ་གུས་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Pratibhānamati’s parents, close friends, friends, dignitaries, relatives, and elders were delighted and bowed down;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཅེས་པར་བྱེད་པ་ཆེན་པོས་བཅོམ་ལྡན་འདས་དགེ་སློང་གི་དགེ་འདུན་དང་ཐབས་ཅིག་པ་ལ་འདྲིམ་པར་རྩོམ་མོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>they paid respect to the master and with great affection began to serve the Blessed One and the assembly of monks.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྤོབས་པའི་བློ་གྲོས་ནི་མེ་ཏོག་དང་། སྤོས་ཆུར་བཅས་པས་བཀང་བའི་རིལ་བ་ཐོགས་ནས་སྟོན་པའི་སྤྱན་སྔར་འདུག་པར་གྱུར་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Pratibhānamati, holding a bowl filled with flowers and scented water, sat in front of the Teacher.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡང་དེའི་ཚེ་སྡུག་བསྔལ་བའི་གྲོགས་པོ་གཉིས་ཤིག་སྤོབས་པའི་བློ་གྲོས་ཀྱི་ཁྱིམ་དུ་ཕྱིན་པར་གྱུར་ནས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-106"/>At that time, two friends in anguish came to Pratibhānamati’s home.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་གཉིས་ལས་གཅིག་ནི་དགེ་འདུན་གྱི་ནང་དུ་ཞུགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>One of them sat among the saṅgha.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.340.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེའི་ཚེ་དགེ་སློང་ཐམས་ཅད་ལ་བཟའ་བ་དང་། བཏུང་བ་འབྱོར་ཚོགས་ཞེས་མ་སྨྲས་ལ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>However, as he did not ask all the monks whether he could partake of their food and drink and,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་<tei:ref folio="F.341.a"/>འདས་ཀྱིས་ཀྱང་རྗེས་སུ་ཐུགས་རང་བ་མ་གསུངས་པས། དེ་གང་གིས་ཀྱང་ཅི་ཡང་མ་བྱིན་ནས</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>moreover, the Blessed One had not offered the meal prayer, nobody gave him anything.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ཁྲོས་ཏེ་ཕྱིར་བྱུང་ནས་འདི་སྙམ་དུ་ཀྱེ་མ་སྡུག་བསྔལ་བ་བདག་ལ་གང་གིས་ཅི་ཡང་མ་བྱིན་པ་ནི། དགེ་སྦྱོང་བདག་ཉིད་ངན་པ་རྣམས་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He became enraged and left, thinking, “Ah, nobody has given anything at all to me, the victim. These are terrible mendicants.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཉེ་བར་ཞི་བ་མ་ཡིན་ཞིང་། སྙིང་རྗེ་མེད་ལ་བྱམས་པའི་སེམས་དང་ལྡན་པ་མ་ཡིན་པ་དག་གོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Their minds are not peaceful, they have no compassion, and neither do they have loving minds.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་དེ་དག་ལ་བྱིན་ཡང་འབྲས་བུ་མེད་པ་དེ་ལྟ་བུ་དག་ལ་སྦྱིན་པར་བྱེད་པ་ནི་སྦྱིན་བདག་བླུན་པོ་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Giving to them is fruitless. Only foolish sponsors would give to that sort.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གལ་ཏེ་བདག་རྒྱལ་པོར་གྱུར་ན་ཐམས་ཅད་ཀྱི་མགོ་ལྕགས་ཀྱི་འཁོར་ལོས་གཅད་དོ་སྙམ་དུ་སེམས་པར་གྱུར་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>If I were king, I would slice off all their heads with an iron disc.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་དེའི་འོག་ཏུ་དགེ་སློང་ཐམས་ཅད་ལ་བཟའ་བ་དང་། བཅའ་བ་དག་འབྱོར་ཚོགས་ཞེས་བྱས་ཤིང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-107"/>The other fellow, however, inquired whether the monks had abundant food and drink, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་ཀྱང་རྗེས་སུ་ཐུགས་རང་བར་མཛད་པ་དང་། ཅིག་ཤོས་འོངས་པར་གྱུར་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>he approached after the Buddha had offered the meal prayer.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེས་ནི་བཟའ་བ་དང་། བཏུང་བ་མང་བ་དང་། བསོད་པ་ཐོབ་ནས་དེ་ཡི་རངས་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He then received a satisfying abundance of food and drink, and was deeply contented.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྱིར་བྱུང་ནས་འདི་སྙམ་དུ་ཀྱེ་མ་སྡུག་བསྔལ་བ། བདག་ལ་གང་དག་གིས་བཟའ་བ་དང་། བཏུང་བ་མང་བ་དང་། བསོད་པ་བྱིན་པ་ནི་དགེ་སྦྱོང་བདག་ཉིད་ཆེན་པོ་རྣམས་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He went outside and thought, “Ah! These great mendicants who have given me, a sufferer,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྙིང་བརྩེ་བར་བྱེད་ལ་སེམས་ཉེ་བར་ཞི་བ་ཡིན་ཞིང་། བྱམས་པའི་བདག་ཉིད་ཅན་དག་གོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>a satisfying abundance of food and drink are compassionate. They have peaceful minds and loving characters.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འདིས་ནི་བདག་ཞག་བདུན་དུ་ཚིམ་པར་འགྱུར་བར་བྱས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>This will satisfy me for a full week.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་འདི་དག་ལ་བྱིན་ན་འབྲས་བུ་ཆེ་བ་སྦྱིན་གནས་ཆེན་པོ་འདི་ལྟ་བུ་དག་ལ་སྦྱིན་པར་བྱེད་པ་ནི་སྦྱིན་བདག་ཆེན་པོ་མཁས་པ་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is a wise and fine patron who gives to such excellent objects of generosity. Such generosity bears great fruit.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལེགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Excellent!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གལ་ཏེ་བདག་རྒྱལ་པོར་གྱུར་ན་སངས་རྒྱས་ལ་སོགས་པ་དགེ་སློང་གི་དགེ་འདུན་ལ་ཞག་བདུན་དུ་བསྙེན་བཀུར་ཐམས་ཅད་ཀྱིས་རིམ་གྲོ་བྱེད་པར་གྱུར་ཅིག་སྙམ་དུ་སེམས་པར་གྱུར་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>If I were king, I would honor the saṅgha of monks, including the Buddha, through all means of service for seven days. May it be so!”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་གདུགས་ཚོད་གསོལ་ནས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-108"/>Then the Blessed One was served the midday meal.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བསྩང་སྡེར་གྱུ་སྟེ་ཕྱག་བཅབས་ནས། ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་ལ་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He cleaned his bowl, washed his hands, and then spoke to Venerable Ānanda,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་དེང་ཕྱིན་ཆད་བཟའ་བ་དང་། བཏུང་བ་མ་བླངས་པ་ཉིད་དུ་རྗེས་སུ་ཡི་རང་བརྗོད་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Ānanda, henceforth speak well of those who do not take food and drink.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་སྤོབས་པའི་བློ་གྲོས་གཡོག་འཁོར་དང་བཅས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱི་སྤྱན་སྔར་འདུག་གོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Pratibhānamati and his entourage sat in front of the Blessed One,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་ལ་ཡང་དག་པར་དགའ་བ་དང་། ཡང་དག་པར་<tei:ref folio="F.341.b"/>གཟེངས་བསྟོད་པ་དང་། ཡང་དག་པར་འཛིན་དུ་གཞུག་པ་སྔོན་དུ་མཛད་པའི་ཆོས་ཀྱི་གཏམ་སེམས་ཅན་མང་པོའི་དགེ་བའི་རྩ་བ་རྣམ་པ་སྣ་ཚོགས་བསྐྱེད་པར་མཛད་དེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>who gave them a delightful, praiseworthy, applicable, and lucid Dharma talk that produced roots of virtue in a multitude of beings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གདན་ལས་བཞེངས་ནས་བཞུད་དེ། རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་དུ་གཤེགས་ནས་དེ་ན་བཞུགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Then he rose from his seat and went back to Jeta Grove.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་སྡུག་བསྔལ་བ་དེ་གཉིས་འཁོར་འཁོར་འཁྱམ་འཁྱམ་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-109"/>Then, those two anguished men wandered about and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡུལ་གཞན་ཞིག་ཏུ་སོང་ནས་ཕ་ཟད་ཚུ་ཟད་ཙམ་གྱི་ཕྱོགས་སུ་ཉལ་བར་གྱུར་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>thus ended up taking rest in different parts of the land.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེར་བསོད་ནམས་ཀྱི་ལས་ཅན་དེ་ལ་སྟེང་གི་ནམ་མཁའ་ལ་གྲིབ་མའི་དོན་དུ་སྤྲིན་གྱི་བླ་རེ་གློག་དང་རླུང་འབྱུང་བ་དང་བཅས་པ་རབ་ཏུ་གནས་པར་གྱུར་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>As they laid down, a canopy of clouds filled with lightning and wind hovered in the sky above the meritorious one, thus shading him.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེའི་ཚེ་ཡུལ་དེ་ན་རྒྱལ་པོ་གང་ཡིན་པ་དེ་འཆི་བའི་དུས་བྱས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>At that time, the king of that country passed away.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ན་གང་རྒྱལ་སྲིད་ལ་དབང་བསྐུར་བར་བྱ་བའི་རྒྱལ་པོའི་མཚན་དང་ལྡན་པ་ཡང་གཞན་མེད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Since there was no one else in the region who had sufficient royal qualities to be entrusted with the country,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ན་ཚོང་དཔོན་དང་། གྲོང་མི་དང་། ཡུལ་མི་དང་། བློན་པོ་ཆེན་པོ་དང་། བློན་པོ་དང་། སྒོ་བ་དང་། འཁོར་ན་འཁོད་པ་རྣམས་ནི། མཚན་མཁན་དང་། ལྟས་མཁན་དང་། སྐར་མ་དང་། གཟའ་སྤྱོད་པ་ལ་མཁས་པ་ལ་རྒྱལ་པོར་འགྱུར་བ་སུ་ཡོད་ཅེས་བརྩོན་པར་གྱུར་ཅིང་འདྲིའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>the citizens, including the merchants, townspeople, village folk, high ministers, ministers, guards, and retainers diligently inquired among diviners, soothsayers, and those skilled in the movements of the stars and planets as to who should become their king.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེས་སྨྲས་པ། སྐྱེས་བུ་དབུལ་པོ་མཚན་དང་ལྡན་པ་ཞིག་ཡོད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The reply was, “There is a poor man who is qualified.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནི་རྒྱལ་པོར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He should become king.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་དེ་དག་རྒྱན་ཐམས་ཅད་ཀྱིས་བརྒྱན་པ་རྒྱལ་པོ་ལ་འོས་པ་རིན་ཐང་ཆེ་བའི་ཁྲི་སྟན་བཟང་པོ་གསེར་གྱི་རྐང་རྟེན་དང་བཅས་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-110"/>So they set out from the royal capital bearing a marvelous throne of incredible value—extensively ornamented and suitable for a king—along with a golden footstool.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡུ་བ་ནོར་བུ་ལས་བྱས་པའི་གདུགས་དཀར་པོ་དང་། ཡུ་བ་གསེར་ལས་བྱས་ཤིང་ནོར་བུ་དང་ལྡན་པའི་རྔ་མའི་བསིལ་ཡབ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They carried white parasols with jeweled handles, fans with golden handles and jeweled tails, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྤོས་ཆུས་བཀང་བའི་བུམ་པ་དུ་མ་དང་། མེ་ཏོག་དང་། རྒྱན་ཕྲེང་དང་། གོས་དང་། དབུ་རྒྱན་དང་། ཐོད་དང་བཅས་པ་ལ་སོགས་པའི་རྒྱན་དང་། སྤོས་ཀྱི་ཕུར་མ་དང་། སློ་མ་དག་ཐོགས་ཏེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>many vases filled with perfumed water, as well as baskets of flowers, garlands of jewels, raiment, crowns, headwear and other such ornamentation, and fragrant powders.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སིལ་སྙན་དང་། ཕེག་རྡོག་པ་དང་། གླུ་དབྱངས་དང་བཅས་པ་དག་དང་། རྒྱལ་པོའི་ཕོ་བྲང་འཁོར་ནས་བྱུང་སྟེ། ཀུན་ནས་དེ་ཀུན་ཏུ་བཙལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Accompanied by cymbals, drums, and singing, they searched everywhere for that impoverished man.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.341.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྟས་མཁན་དེས་སྤྲིན་གྱི་ཚོགས་ཀྱིས་བཀབ་པའི་ཕྱོགས་དེ་མཐོང་སྟེ། མཐོང་ནས་ཀྱང་དེ་དག་ལ་སྨྲས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-111"/>The diviner saw a region shrouded by a bank of clouds and said to them,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གྲོགས་པོ་དག་ཁྱེད་ཅག་གིས་སྤྲིན་སྔོན་པོའི་དཀྱིལ་འཁོར་གྱིས་ཁེབས་པ་དགའ་ཞིང་གསལ་བའི་ཕྱོགས་དེ་མཐོང་<tei:ref folio="F.342.a"/>ངམ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Friends, do you see that pleasant and clear region covered by a dark circle of clouds?”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་དག་གིས་སྨྲས་པ། གྲོགས་པོ་མཐོང་ངོ་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They responded, “Friend, we see it!”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེས་སྨྲས་པ། དེ་ན་རྒྱལ་པོའི་མཚན་དང་ལྡན་པའི་སྐྱེས་བུ་དེ་འདུག་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The diviner said, “That is where the person with the royal attributes rests.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེའི་བསོད་ནམས་ཀྱི་ལས་ཀྱིས་གྲིབ་མའི་དོན་ཏུ་སྤྲིན་དེ་དག་འདུས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>His meritorious karma has caused those clouds to gather to shade him.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་དེ་དག་དེར་དོང་ནས། སིལ་སྙན་དང་། གླུ་དབྱངས་ཀྱི་སྒྲས་སྦྲན་ཏེ་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>So they traveled to that spot, announcing themselves with cymbals and song.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཏུད་ནས་དེ་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They bowed down and requested,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དབང་བསྐུར་བ་བཞེས་ལ་རྒྱལ་པོར་གྱུར་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Accept the coronation and become our king!”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེས་སྨྲས་པ། ཁོ་བོ་ལྟ་བུ་རྒྱལ་པོའི་འོས་ག་ལ་ཡིན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The poor man objected, “How could it be that someone like me is fit to be king?”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་དག་གིས་སྨྲས་པ། བསོད་ནམས་ཀྱི་ལས་ཅན་ཁྱོད། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>But they responded, “Because you are someone with merit.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་སྐད་མ་ཟེར་བར་གདོན་མི་ཟ་བར་རྒྱལ་པོ་བྱ་དགོས་སོ། །སྨྲས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Do not say such things. It is undeniable that you must be king!”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་བཞིན་དུ་གྱུར་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>At that point he agreed.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་དེ་དག་གིས་མལ་གྱི་རྐང་རྟེན་ལ་རྐང་པ་བཞག་པ་དེ་སྟན་བཟང་པོ་ལ་འདུག་ཏུ་བཅུག་ནས། བཀྲ་ཤིས་ཐམས་ཅད་ཀྱིས་རྒྱས་པར་བྱེད་ཅིང་དབང་བསྐུར་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-112"/>They bade him sit down upon the marvelous seat and put his feet on the footrest. With all manner of auspiciousness, they raised him aloft and performed his coronation.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དབུ་རྒྱན་དར་ཐོད་ཅན་ལ་སོགས་པའི་རྒྱན་རྣམས་ཀྱིས་བརྒྱན་ནས། ཤིང་རྟའི་མགོ་ལོགས་སུ་གདུགས་ཆེན་པོ་བསྒྲེང་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They adorned him with a crown attired with a silk sash and other ornaments, hung a giant parasol over the front of the chariot, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཙུགས་ཤིང་ཡུ་བ་གསེར་ལས་བྱས་པ། ནོར་བུ་ཅན་གྱི་རྔ་མའི་བསིལ་ཡབ་དག་གིས་གཡོབ་ཅིང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>cooled him with a golden-handled fan with a jeweled tail.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལྷ་རྒྱལ་བར་གྱུར་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-113"/>“Long live the king!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྒྱལ་བར་གྱུར་ཅིག་ཅེས་ཀུན་ནས་མངོན་པར་བསྟོད་དེ། རྒྱལ་པོའི་ཕོ་བྲང་འཁོར་དུ་ཁྲིད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May he be victorious!” Praises rang out from all sides as they led him to the royal capital.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་རྒྱལ་པོའི་ཤིང་རྟ་དེ་བསྒྱུར་བའི་འཁོར་ལོས་བཀྲེན་པ་ཅིག་ཤོས་གཉིད་ལོག་པའི་མགོ་ཆད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>At the same time, the spinning wheel of the royal chariot cut off the head of the other beggar, who was lying there fast asleep.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བསོད་ནམས་ཀྱི་ལས་ཅན་དེ་ཡང་རྒྱལ་སྲིད་ལ་གནས་པར་གྱུར་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>From then on, the meritorious man lived as the sovereign. His realm, moreover, was without epidemic or calamity.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེའི་རྒྱལ་སྲིད་དེ་ཡང་། ཡམས་ཀྱི་ནད་དང་། གནོད་པ་མེད་པ་དང་། འབྱོར་པ་དང་། རྒྱས་པ་དང་། བདེ་བ་དང་། ལོ་ལེགས་པ་དང་། སྐྱེ་བོ་དང་། མི་མང་པོས་གང་བར་གྱུར་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It abounded in wealth, development, well-being, and good harvests, and the land was filled with people and other beings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྒྱལ་པོའི་མིང་གིས་ཡོན་ཏན་ཐམས་ཅད་འབྱོར་ཅིང་ལྡན་པར་གྱུར་ལ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The king’s name became associated with being richly endowed with all positive qualities.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགའ་དགུར་སྤྱོད་པ་དེ་འདི་སྙམ་དུ་འདི་གང་གི་མཐུ་ཡིན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-114"/>“This prosperity,” the king thought, “is due to someone’s grace.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བདག་གི་རྒྱལ་སྲིད་སྐལ་བ་བཟང་པོ་དང་ལྡན་པ་འདི་གང་གིས་བྱུང་བར་གྱུར་སྙམ་པ་དང་། དེ་སངས་རྒྱས་ཀྱི་མཐུས་སྔོན་གྱི་ལས་མངོན་པར་འདུ་བྱས་པ་དེ་ཐམས་ཅད་རྗེས་སུ་དྲན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>What is the source of my dominion’s great fortune?” Through the power of the Buddha, he remembered the entire confluence of his previous actions.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡང་དག་པར་དྲན་ནས་ཀྱང་བཅོམ་ལྡན་འདས་ཀྱི་ཐད་དུ། བཅོམ་ལྡན་འདས་བདག་ཅག་སེམས་ཅན་མང་པོ་གཞན་རྣམས་ལ་ཐུགས་བརྩེ་བའི་སླད་དུ། ཚུར་གཤེགས་<tei:ref folio="F.342.b"/>སུ་གསོལ་ཞེས་ཕོ་ཉ་ཞིག་བཏང་ངོ་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Remembering accurately, he then sent a messenger to the Blessed One bearing the message, “Blessed One, out of compassion for myself and many other beings, please come here!” </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕོ་ཉ་བཏང་ནས་ཀྱང་། རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་གྱི་བར་དང་། རང་གི་ཁྱིམ་གྱི་བར་དུ་བར་དེར་བཅོམ་ལྡན་འདས་ཀྱི་ཐམས་ཅད་དང་ལྡན་པའི་ལམ་ཆག་ཆག་བཏབ་ཅིང་། ཕྱག་དར་བྱས་ཏེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>After sending the messenger, he swept and sprinkled water on the entire road from Jeta Grove to his palace on which the Blessed One would travel.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མེ་ཏོག་ཆལ་པར་བཀྲམ་ནས། གདུགས་དང་། རྒྱལ་མཚན་དང་། བ་དན་དང་། རྟ་བབས་བཙུགས་ཤིང་པོག་ཕོར་དག་གིས་བདུགས་ནས་མངོན་པར་བརྒྱན་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He also scattered flowers about, lined the way with parasols, victory banners, flags, and porticos, and fumigated it with incense.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱང་དེ་ལ་ཐུགས་བརྩེ་བའི་སླད་དུ་གཤེགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-115"/>Out of compassion, the Blessed One came.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་རྒྱལ་པོ་དེ་གྲོང་ཁྱེར་གྱི་མི་དང་། ཡུལ་མི་དང་བཅས་ཤིང་། བློན་པོ་ཆེན་པོ་དང་། བློན་པོ་དང་། སྒོ་བ་དང་། འཁོར་གྱི་ཚོགས་དང་བཅས་པས་བསུའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He was greeted by the king, townspeople, village folk, high ministers, ministers, guards, and retainers.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེས་བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མེ་ཏོག་དང་། སྤོས་དང་། མེ་ཏོག་ཕྲེང་དང་། བྱུག་པ་དང་། ཕྱེ་མས་བསྒོས་པའི་སློ་མ་དཔག་ཏུ་མེད་པས་མཆོད་དེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They offered countless baskets filled with flowers, incense, flower garlands, ointments, and aromatic powders before the Blessed One’s feet.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དགེ་སློང་གི་དགེ་འདུན་དང་བཅས་པའི་ཞབས་ལ་ལུས་ཐམས་ཅད་ཀྱིས་ཕྱག་འཚལ་ནས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They collectively prostrated to the feet of the Blessed One and the assembly of monks.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཁོར་དང་བཅས་ཏེ་བཅོམ་ལྡན་འདས་ལ་བླ་མ་ལ་གུས་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The king and his retinue honored the Blessed One as a spiritual teacher and,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཅེས་པར་བྱེད་པ་ཆེན་པོ་མཆོག་གིས་བཅོམ་ལྡན་འདས་དགེ་སློང་གི་དགེ་འདུན་དང་ཐབས་ཅིག་ཏུ་རང་གི་ཁྱིམ་གྱི་ནང་རིན་པོ་ཆེ་ཐམས་ཅད་ཀྱིས་བརྒྱན་པ། སྐྱེད་མོས་ཚལ་ཆེན་པོས་ཡོངས་སུ་བསྐོར་བར་གཤེགས་སུ་གསོལ་ནས</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>with the greatest possible admiration, requested the Blessed One and the assembly of monks to come to the palace, which was adorned with all kinds of jewels in the midst of a great park.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཞག་བདུན་དུ་བདེ་བའི་ཡོ་བྱད་ཐམས་ཅད་ཀྱིས་རིམ་གྲོ་བྱས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>For seven days they were honored with all manner of pleasing objects.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་རྒྱལ་པོ་དེས་བཅོམ་ལྡན་འདས་གདུགས་ཚོད་གསོལ་ནས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The king served the Blessed One the midday meal and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བསྩང་སྡེར་གྱུ་སྟེ། ཕྱག་བཅབས་པར་རིག་ནས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>knew to clean his plate and wash his hands.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་མཉན་པའི་ཕྱིར་གཡོག་འཁོར་དང་བཅས་པར་བཅོམ་ལྡན་འདས་ཀྱི་སྤྱན་སྔར་འདུག་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Then, for the purpose of hearing the Dharma, he sat down with his entourage in front of the Blessed One.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་སྐད་ཅེས་ཀྱང་གསོལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-116"/>He inquired,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་བདག་ནི་དམའ་བ་དང་། དབུལ་བ་ལགས་ན། བདག་གི་རྒྱལ་སྲིད་ཕུན་སུམ་ཚོགས་པ་འདི་ག་ལས་མཆིས་ལགས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Blessed One, given that I was once lowly and poor, how is it that I have now gained this bountiful dominion?”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-117"/>The Blessed One responded,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྒྱལ་པོ་ཆེན་པོ་མཉན་དུ་ཡོད་པའི་གྲོང་ཁྱེར་ཆེན་པོ་ན། སྦྱིན་བདག་ཆེན་པོ་སྤོབས་པའི་བློ་གྲོས་ཞེས་བྱ་བ་ཞིག་ཡོད་དེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Great King, in the city of Śrāvastī, there is a sponsor known as Pratibhānamati.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.342.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེས་དུས་གཞན་ཞིག་ན་རང་གི་ཁྱིམ་དུ། སངས་རྒྱས་ལ་སོགས་པ་དགེ་སློང་གི་དགེ་འདུན་གདུགས་ཚོད་གསོལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Previously, he invited the Buddha and the saṅgha of monks to his home for the midday meal.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་དེར་སྡུག་བསྔལ་<tei:ref folio="F.343.a"/>བ་གཉིས་ཤིག་ལྷགས་ཞེས་བྱ་བ་ནས་རྒྱས་པར་སྔ་མ་བཞིན་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Blessed One proceeded to relate the story of how the two anguished people had arrived there and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཅིག་གི་མགོ་ཁྱེད་ཀྱིས་ཤིང་རྟའི་འཁོར་ལོས་ཆོད་པ་ཞེས་བྱ་བའི་བར་དུའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>how the chariot’s wheel had sliced off the head of one of them,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ཡང་ཤི་འཕོས་ནས། སེམས་ཅན་དམྱལ་བར་སྐྱེས་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>who then died and was reborn as a hell being.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེར་སྐྱེས་པ་དེའི་མགོ་སྐད་ཅིག་སྐད་ཅིག་ལ་སྐྱེས་སོ་ཅོག་ན། ལྕགས་ཀྱི་འཁོར་ལོ་འབར་བས་བཅད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“In his life there,” the Blessed One said, “his head continuously reappears, only to be cut off again by a flaming iron wheel.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ཡང་དེ་ནས་བསྐལ་པ་བྱེ་བས་ཐར་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Only after ten million eons will he be freed from that state.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཁྱོད་ཀྱིས་ནི་རྒྱལ་པོའི་དཔལ་ཐོབ་སྟེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-118"/>“You, however, have attained the splendor of kingship</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བདག་དེ་ལྟ་བུར་གྱུར་ནས། སངས་རྒྱས་ལ་སོགས་པ་དགེ་སློང་གི་དགེ་འདུན་ཞག་བདུན་དུ་གདུགས་ཚོད་གསོལ་བར་གྱུར་ཅིག་ཅེས་ཁྱོད་ཀྱིས་སྨོན་ལམ་བཏབ་སྟེ་ཁྱོད་ཀྱི་བསམ་པ་དེ་ཡང་རྫོགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>because you made the aspiration, ‘If I were to become a king, I would offer the Buddha and the assembly of monks the midday meal for a full week!’ And thus your intention was fulfilled.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ཕྱིན་ཅད་ནི་ཚེ་རབས་དཔག་ཏུ་མེད་པ་ཐམས་ཅད་དུ་ཕུན་སུམ་ཚོགས་པ་ཆེས་ཁྱད་པར་དུ་འཕགས་པ་དག་འཐོབ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Henceforth, in all your limitless lives, because of your great excellence you will become a distinguished being.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་ཚེ་ཚིགས་སུ་བཅད་པ་འདི་དག་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-119"/>Then the Blessed One expressed this in verse:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་ནག་པོ་འབྱུང་བའི་ཕྱིར། །ཡིད་ནི་དུག་གི་རྩ་བ་ཡིན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-120"/>“Because it is the source of evil in the world, The mind is the root of all poison.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཉེས་པར་སྨྲ་རྣམས་འབྱུང་བའི་ཕྱིར། །ཁ་ནི་སྡིག་པའི་སྒོ་ཉིད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Because it is the source of negative speech, The mouth is the very gate of evil.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཀྱིས་སྣ་ཚོགས་སེམས་པར་བྱེད། །དེ་ནས་ཚིག་ཏུ་སྨྲ་བར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-121"/>“The mind thinks all kinds of things, And what follows is the utterance of words.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ངག་ཡིད་དག་གིས་སྡིག་བྱས་པ། །ལུས་སྐྱེས་སྡུག་བསྔལ་སྦྱིན་པར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The evil that speech and mind create Is born in the body, begetting suffering.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕན་དང་མི་ཕན་མ་བསམས་པར། །བློ་གྲོས་མེད་པས་སྡིག་བྱེད་པ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-122"/>“Without reflecting on benefit or harm, The unintelligent act negatively.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེས་ན་སྡུག་བསྔལ་སྣོད་འགྱུར་ཏེ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Thus they become vessels of suffering</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཉོན་མོངས་པ་དག་དེ་ལྟར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And in this way become afflicted.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མཁས་པ་རྣམས་ཀྱི་མགོ་བོ་དག །ཡིད་ཀྱིས་གཅོད་པར་འདོད་པ་དེ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Who in his mind desired to sever The heads of those who are wise.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བློ་གྲོས་ངན་པ་མི་ཤེས་པའི། །མགོ་ནི་འཁོར་ལོས་ཡང་དག་ཆོད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-123"/>“A wheel cuts off the head Of an ignorant man with poor intellect</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དཔལ་ལྡན་ཡིད་འདི་ཁོ་ནས་ནི། །ཆོས་དཀར་བདུད་རྩི་རྟེན་པ་ཡི། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-124"/>“It is by the illustrious mind alone Who are supported by the nectar of the virtuous Dharma</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་བསོད་ནམས་བྱས་དགེ་རྣམས། །ལྷ་ཡི་འཇིག་རྟེན་རྣམས་སུ་ཁྲིད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>That the virtue created by the merit of beings Leads to the heavenly realms.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འདིར་ནི་སྙིང་གིས་ཀུན་བསམས་ནས། །ཚིག་ཏུ་རྗོད་པས་ལེགས་སྨྲས་པ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-125"/>“They speak words thoughtful and from the heart, And thus their speech is good.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ཕྱིར་དེ་ནི་ལུས་ཀྱིས་སུ། །བསོད་ནམས་མཛོད་ནི་ལེན་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It is therefore through their bodies That the treasury of merit is obtained.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མི་ཡིས་བློ་ནི་སྔོན་བཏང་སྟེ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-126"/>“People who act with forethought</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ལས་དགེ་མི་དགེ་རྣམས་ཕྱེ་ནས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Decide between virtue and non-virtue.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གལ་ཏེ་བསོད་ནམས་ཆེ་བྱེད་ན། །རྟག་ཏུ་རབ་ཏུ་ལྷ་དེར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>So, if they engage in great merit, They perennially become the best of gods.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཀྱིས་མི་དགེ་བ་ཡི་ལས། །རྟག་ཏུ་ཡོངས་སུ་སྤངས་ནས་ནི། །<tei:ref folio="F.343.b"/>རབ་ཏུ་དགའ་བས་བསོད་ནམས་ཉིད། །མི་ཡིས་བྱ་སྟེ་སྡིག་པ་མིན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-127"/>“When the mind consistently relinquishes Non-virtuous actions, Then people engage in merit with great delight And avoid committing evil.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚེ་རབས་བྱེ་བ་གྲངས་མེད་པར། །འཁོར་ལོས་སྒྱུར་སོགས་གོ་འཕང་གི། །ལྷ་མིའི་ནང་དུ་རྒྱལ་པོའི་དཔལ། །ཐམས་ཅད་ཐོབ་ནས་ཁྱོད་བཞིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-128"/>“Through countless millions of lives as gods or humans They reach the state of the universal monarch And have all the glories of kingship. In doing so they are like you.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མི་ཡི་དབང་ཕྱུག་དུས་ཀུན་དུ། །སྲིད་རྣམས་སྙིང་པོ་མེད་ཤེས་ནས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-129"/>“Lord of Humans, always bear in mind That existence is without any essence,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཁྱོད་ཀྱིས་སངས་རྒྱས་ཆོས་རྣམས་ལ། །མངོན་པར་བརྩོན་པ་མཐའ་ཡས་བྱ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>And strive ceaselessly In the teachings of the Buddha.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ལ་རྒྱལ་པོ་དེས་ཡང་དག་ཕུལ་གྱི་ཆོས་བསྟན་པ་འདི་ཐོས་ནས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-130"/>When the king heard this most excellent Dharma teaching from the Buddha,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མཆོག་ཏུ་ཡིད་བྱུང་སྟེ། འཁོར་དང་བཅས་པས་རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ་ཐོབ་པོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>he experienced a supreme state of mind and, together with his retinue, attained the result of a stream enterer.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞན་སྟོང་ཕྲག་མང་པོ་ཞིག་གིས་ནི། བཅོམ་ལྡན་འདས་མཐོང་བ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Other beings, thousands in number, beheld the Blessed One and heard the Dharma.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་མཉན་པས་ལྷ་དང་མིའི་ཕུན་སུམ་ཚོགས་པ་རྣམ་པ་སྣ་ཚོགས་ཐོབ་པར་འགྱུར་བ་དང་། ཐར་པའི་ཆ་དང་འཐུན་པའི་དགེ་བའི་རྩ་བ་དག་བསྐྱེད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>In this way they attained the many pleasures of gods and humans and aroused roots of virtue that accord with freedom.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེར་གང་སེམས་ཅན་རྣམས་ཀྱི་དོན་མཛད་པ་དེ་ཐམས་ཅད་རྒྱས་པར་མཛད་ནས། རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་དུ་བྱོན་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>When the Blessed One had benefited and nurtured everyone present, he departed for Jeta Grove.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཙུག་ལག་ཁང་གི་སྐྱབས་ཤིག་ཏུ། དགེ་སློང་གི་དགེ་འདུན་གྱི་ནང་དུ། སངས་རྒྱས་ཀྱི་གདན་བཤམས་པ་ཉིད་ལ་བཞུགས་ནས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Once back in the monastery, he sat down on the seat arranged for the Buddha in the assembly of monks.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་ལ་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-131"/>He then spoke to the venerable Ānanda,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་ཁྱོད་ཀྱིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ཟུང་ཤིག །ཆོངས་ཤིག །ལྷོགས་ཤིག །གཞན་དག་ལ་ཡང་། རྒྱ་ཆེར་ཡང་དག་པར་རབ་ཏུ་སྟོན་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Ānanda, bear this presentation of the Dharma in mind; memorize it, recite it, and teach it widely!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ། །གང་སུ་དག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་འཛིན་པར་བྱེད་པ། དེ་ཐམས་ཅད་ཀྱིས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་བྱམས་པ་ལས། ཇི་ལྟར་སྨོན་ལམ་བཏབ་པའི་ཐེག་པ་རྣམས་ལ་ལུང་བསྟན་པ་ཐོབ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Ānanda, those noble sons or daughters who uphold this Dharma teaching will receive a prophecy from the thus-gone, worthy, perfect Buddha Maitreya regarding the vehicle that accords with their aspirations.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ལ། ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-132"/>Venerable Ānanda then asked the Blessed One,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས། ཆོས་ཀྱི་རྣམ་གྲངས་འདིའི་མིང་ཅི་ལགས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Blessed One, what is the name of this Dharma teaching?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཅི་ལྟར་གཟུང་བར་བགྱི། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>What should we call it?”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.343.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-133"/>The Blessed One said to Ānanda,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.344.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་དེའི་ཕྱིར། <tei:ref folio="F.344.a"/>ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ནི། ལས་རྣམ་པར་འབྱེད་པ་བསྟན་པ་ཞེས་བྱ་བར་ཟུང་ཤིག །ཚོང་དཔོན་སྤོབས་པའི་བློ་གྲོས་ཀྱིས་ཞུས་པ་ཞེས་བྱ་བར་ཡང་ཟུང་ཤིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Ānanda, you should know this Dharma teaching as The Teaching That Clarifies Karma and The Questions of the Merchant Pratibhānamati.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.344.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནསཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་དང་། དགེ་སློང་དེ་དག་དང་། བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་དང་། ཚོང་དཔོན་སྤོབས་པའི་བློ་གྲོས་གཡོག་འཁོར་དང་བཅས་པ་དང་། ཐམས་ཅད་དང་ལྡན་པའི་འཁོར་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-134"/>Then the entire assembly including Venerable Ānanda, the monks, the bodhisattvas, Pratibhānamati and all his servants, along with the world of the gods, humans, asuras, and gandharvas, rejoiced and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.344.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>extolled what the Thus-Gone One had said.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.344.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཕགས་པ་སྤོབས་པའི་བློ་གྲོས་ཀྱིས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།། །།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-135"/>This completes the noble Great Vehicle sūtra entitled The Questions of Pratibhānamati.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.344.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་པྲཛྙཱ་ཝར་མ་དང་། ཞུ་ཆེན་གྱི་ལོ་ཙྪ་བ་བན་དེ་ཡེ་ཤེས་སྡེ་ལ་སོགས་པས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-010-136"/>This sūtra was translated, edited, and finalized by the Indian preceptor Prajñāvarman, the editor-translator Bandé Yeshé Dé, and others.</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>

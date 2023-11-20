@@ -1,0 +1,1216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-071-012" eft:text-version="v-1.1.3-2020"/>
+<body>
+<tu>
+            <prop type="folio">F.301.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཎ་ཌཱིའི་མདོ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Gaṇḍī Sūtra</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.301.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-12"/>Homage to all the buddhas and bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.301.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-13"/>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.301.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་རྒྱལ་པོའི་ཁབ་འོད་མའི་ཚལ་བྱ་ཀ་ལན་ད་ཀ་གནས་པ་ན་དགེ་སློང་སྟོང་དུ་ཚང་བའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་། བྱང་ཆུབ་སེམས་དཔའི་ཚོགས་ཆེན་པོ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Bhagavān was dwelling in the Bamboo Grove, in the Kalandaka­nivāpa near Rājagṛha, together with a great saṅgha of a thousand monks and a great gathering of bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.301.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐམས་ཅད་ཀྱང་དགྲ་བཅོམ་པ། ཟག་པ་ཟད་པ། བྱ་བ་བྱས་པ། བྱེད་པ་བྱས་པ། ཁུར་བོར་བ། བདག་གི་དོན་རྗེས་སུ་ཐོབ་པ། སྲིད་པར་སྦྱོར་བ་ཡོངས་སུ་ཟད་པ། ཡང་དག་པའི་ཤེས་པས་སེམས་ཤིན་ཏུ་རྣམ་པར་གྲོལ་བ་རྣམས་དང་། བཅོམ་ལྡན་འདས་ཐབས་ཅིག་གོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They were all worthy ones. Their contaminations were exhausted, their duties fulfilled, their work concluded, their burdens put down, their personal welfare attained, their bonds to existence destroyed, and their minds fully liberated through perfect knowledge.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.301.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེའི་ཚེ་རྒྱལ་པོ་གསལ་རྒྱལ་ཞེས་བྱ་བ་སྟན་ལས་ལངས་ནས་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-14"/>At that time, King Prasenajit arose from his seat and went to meet the Bhagavān.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.301.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>He bowed his head down at the feet of the Bhagavān and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.301.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>addressed him with these words:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.301.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མ་འོངས་པའི་དུས་སུ་རྩོད་པའི་དུས་ཀྱི་ཚེ་སེམས་ཅན་ཐམས་ཅད་སྡིག་པའི་སེམས་དང་། འཐབ་པའི་སེམས་དང་། འདོད་ཆགས་དང་། ཞེ་སྡང་དང་། གཏི་མུག་དང་ཀུན་དུ་ལྡན་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Bhagavān, in the future, during times of conflict, all beings will have evil minds, quarrelsome minds filled with desire, hatred, and delusion.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.301.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕ་རོལ་གྱི་ཡུལ་རྣམས་ལ་མཆོག་ཏུ་ཞེན་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>While intensely coveting others’ possessions and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.301.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཅིག་ལ་གཅིག་ཟ་བ་ལ་བརྩོན་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>striving to devour one another,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.301.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་སྔོན་གསུངས་པའི་དུས་འཇིག་པར་བྱེད་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>they will cause the previous period when teachings were given by the Bhagavān to decline.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.301.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དམ་པའི་ཆོས་སྤོང་བར་བྱེད་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They will cause the abandonment of the true Dharma.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.301.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་། ཆོས་དང་། འདོད་ཆགས་དང་བྲལ་བ་རྣམས་སུན་འབྱིན་པ་དེ་རྣམས་གཞིག་པའི་ཐབས་གང་གིས་བྱང་ཆུབ་ལ་མཆོག་ཏུ་གཞོལ་བར་འགྱུར་བའི་ཐབས་བསྟན་དུ་གསོལ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They will go against the Buddha, the Dharma, and those who are free of desire. Please teach a way to eliminate such behavior so that beings may be strongly inclined to awakening.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.301.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་སྐད་ཅེས་གསོལ་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-15"/>Thus entreated, the Bhagavān declared,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.301.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྒྱལ་པོ་ཁྱོད་སེམས་ཅན་ཐམས་ཅད་ཀྱི་དོན་དང་། ཕན་པ་དང་། བདེ་བའི་ཕྱིར་དང་། སངས་རྒྱས་དང་། ཆོས་དང་། དགེ་འདུན་ཡང་དག་པར་བསྲུང་བའི་ཕྱིར་འདྲི་བར་བྱེད་པ་ལེགས་སོ་ལེགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“King, since you make this request for the sake of the welfare of all beings, for their benefit and happiness, and in order to protect the Buddha, the Dharma, and the Saṅgha, your inquiry is excellent! Excellent!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེའི་ཕྱིར་ལེགས་པར་རབ་<tei:ref folio="F.302.a"/>ཏུ་ཉོན་ལ་ཡིད་ལ་ཟུང་ཤིག་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Therefore, listen closely and keep this in mind!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ངས་བཤད་པར་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>I will explain.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་དེའི་ཚེ་ཀུན་དུ་སྒྲ་སྒྲོགས་པ་ཞེས་བྱ་བའི་ཏིང་ངེ་འཛིན་ལ་སྙོམས་པར་ཞུགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-16"/>Thereupon, the Bhagavān entered the meditative absorption called resounding everywhere .</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཏིང་ངེ་འཛིན་གང་ལ་སྙོམས་པར་ཞུགས་པ་དེའི་ཚེ་དམྱལ་བ་ཐམས་ཅད་རྒྱུན་ཆད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>When the Bhagavān entered that meditative absorption, all hells were terminated.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྡང་བའི་སེམས་དང་ལྡན་པ་ཐམས་ཅད་ཀྱང་སྡང་བའི་སེམས་དང་བྲལ་ཞིང་བྱང་ཆུབ་ཀྱི་སེམས་ལ་རབ་ཏུ་གཞོལ་བར་གྱུར་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>All those who had been filled with hatred became free from their hatred and wholly devoted to the mind of awakening.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། གསལ་རྒྱལ་ཁྱོད་ཀྱིས་མཐོང་ངམ། ཀུན་དུ་ཐོས་སམ། ཤེས་སམ། རྟོགས་སམ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-17"/>Then the Bhagavān asked, “Prasenajit, did you see, or hear, or understand, or realize?”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མཐོང་ལགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Bhagavān, I saw!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བདེ་བར་གཤེགས་པ་མཐོང་ལགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Blissful One, I saw.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཁུམས་ཤིང་ཀུན་དུ་ཁུམས་ལ་འཚལ་ཞིང་རྟོགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>I comprehended, understood, recognized, and realized!”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-18"/>The Bhagavān said,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གསལ་རྒྱལ་འདི་ནི་སེམས་ཅན་ཐམས་ཅད་ཀྱི་མ་སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་སྐྱེད་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Prasenajit, this is the mother of all beings. She gives birth to buddhas and bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཉན་ཐོས་དང་། རང་སངས་རྒྱས་དང་། ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཐམས་ཅད་ཀྱིས་ཕྱག་བྱས་པ། མཆོད་པ། བསམས་པ། བསྒོམས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>She is venerated, worshiped, contemplated, and cultivated by all hearers, solitary buddhas, and perfect buddhas.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྒྲའི་གཟུགས་ཀྱིས་སེམས་ཅན་ཐམས་ཅད་ཡོངས་སུ་སྐྱོང་བར་བྱེད་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Taking the form of the sound of the Perfection of Insight, she nurtures all beings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མུ་སྟེགས་པ་ཐམས་ཅད་རྣམ་པར་འཇིག་པར་བྱེད་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>She is the vanquisher of all non-Buddhists,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྡང་བའི་སེམས་འདུལ་བར་བྱེད་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>the pacifier of angry thoughts,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྡིག་པའི་སེམས་འཇོམས་པར་བྱེད་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>the subduer of sinful thoughts,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཞེ་སྡང་བའི་སེམས་རྣམ་པར་སེལ་བར་བྱེད་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>the dispeller of hateful thoughts,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཏི་མུག་གི་སེམས་རབ་ཏུ་འཇིག་པར་བྱེད་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>the destroyer of deluded thoughts, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འདོད་ཆགས་ཀྱི་སེམས་རྣམ་པར་སྤོང་བར་བྱེད་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>the banisher of lustful thoughts.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་ཀྱི་སེམས་ཡོངས་སུ་སྐྱོང་བར་བྱེད་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>She is the protector of the mind of awakening,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཀྱི་སེམས་འཕེལ་བར་བྱེད་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>the intensifier of the mind of buddhas, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་འབྱུང་བ་བསྟེན་པར་བྱེད་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>the supporter for the genesis of buddhas.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཐབ་པ་དང་། འགྱེད་པ་དང་། འཁྲུག་པ་དང་། རྩོད་པ་དང་། སྡུག་བསྔལ་བ་དང་། རྨི་ལམ་ངན་པ་དང་། ཀུན་འདུལ་བ་ཐམས་ཅད་འཇིག་པར་བྱེད་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>She is the destroyer of all fights, quarrels, strife, conflicts, miseries, and all those of bad character who contravene the monastic code.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གློ་བུར་གྱི་ནད་དང་། འཆི་བ་ཞི་བར་བྱེད་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>She is the pacifier of sudden illness and death and [of untimely death, epidemics, and so forth.]</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དུས་མ་ཡིན་པར་འཆི་བ་དང་། རིམས་ལ་སོགས་པ་ཞི་བར་བྱེད་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>She is the pacifier [of sudden illness and death and] of untimely death, epidemics, and so forth.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕ་རོལ་གྱི་དཔུང་འདུལ་བར་བྱེད་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>She is the subduer of foreign armies,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བདུད་རྣམ་པར་འཇིག་པར་བྱེད་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>destroyer of Māra , and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གདུང་བ་སེལ་བར་བྱེད་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>dispeller of torments.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐལ་བ་བཟང་པོ་ཡང་དག་པར་འཕེལ་བར་བྱེད་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>She is the extender of the fortunate era,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚེ་དང་ནད་མེད་པ་སྟེར་བར་བྱེད་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>bestower of long life and freedom from disease,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཆི་བའི་འཇིགས་པ་ཞི་བར་བྱེད་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>pacifier of the dread of death, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐར་པ་དང་དཔལ་འཕེལ་བར་བྱེད་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>intensifier of freedom and prosperity.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་གིས་ཐོས་ནས་རྗེས་སུ་ཡི་རང་བ་དེ་ལ་ཡིད་བཞིན་གྱི་ནོར་བུ་ལྟར་འབྲས་བུ་རབ་ཏུ་སྟེར་བ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>To those who hear this and rejoice, she bestows results, like a wish-fulfilling gem.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡུམ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་གཎ་ཌཱིའི་<tei:ref folio="F.302.b"/>གཟུགས་ཀྱིས་བཞུགས་སོ་ཞེས་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Mother, the Perfection of Insight, is present in the form of the gaṇḍī.” </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐོས་པ་དང་། གསལ་རྒྱལ་སེམས་དང་བ་སྐྱེས་ནས་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-19"/>Having heard this, deep conviction rose in King Prasenajit,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡང་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>and he entreated the Bhagavān:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་འདིའི་ཚད་ནི་ཇི་ཙམ་ལགས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Bhagavān, what is the size of this gaṇḍī?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མདོག་ནི་ཅི་འདྲ་བ་ལགས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>What is its color?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱེ་བྲག་ནི་དུ་ཞིག་ལགས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>What are its specifications?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བརྡུང་བ་ནི་ཅི་འདྲ་བ་ལགས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>How is it to be struck?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་གིས་བརྡུང་བར་བགྱི། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>By what is it to be struck?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་གི་ཚེ་གང་གི་དུས་ན་ཇི་སྲིད་དུ་བརྡུང་བར་བགྱི། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>At what time, on what occasion, and for how long should it be struck?</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་གཞག་པར་བགྱི། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>How should it be placed?”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་སྐད་ཅེས་གསོལ་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-20"/>Thus entreated, the Bhagavān declared:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འབྱོར་པར་འདོད་པས་ཤིང་རྣམས་ནི། །རབ་ཏུ་འབད་དེ་བརྟག་པར་བྱ། །ཙན་དན་བིལ་བ་པ་ལ་ཤ། །ཨ་ཤྭད་ཐ་དང་ཙན་དན་དམར། །རྒྱ་སྟར་ཏ་ལ་ཀིང་ཤུ་ཀ། ཤིང་ཤ་པ་དང་ཏམ་ལ། །ཨ་མྲ་སྟར་བུ་སྐྱུ་རུ་ར། །ཏིང་ཏི་ས་ར་ཨ་ཤོ་ཀ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“As for the wood you wish to use, You should investigate with great effort: Sandalwood, Bengal quince, bastard teak, Sacred fig, and red sandalwood tree, <tei:milestone xml:id="UT22084-071-012-21"/>“Indian walnut, palmyra, kingshuk tree, Aloe wood, false mangosteen, Mango, walnut, myrobalan tree, Tintisara,<tei:note xml:id="UT22084-071-012-22"/> and aśoka.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་དག་ཐམས་ཅད་མེད་ན་ཡང་། །འོ་སེ་ལས་ནི་འབད་དེ་བྱ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-23"/>“If all of these are absent, You should try the mulberry tree.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྒྱལ་པོ་འབད་པས་ཐམས་ཅད་དུ། །འདི་དག་མེད་ན་མི་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>King, if despite your efforts None of these are present, do not make it.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚད་མེད་ཤིང་ངན་ལས་བྱས་དང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-24"/>“If made without measure and from bad wood,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བརྡུངས་ན་སྒྲ་ནི་མི་འབྱུང་བའི། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The sound will not emerge when struck.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཡུམ་འདི་བརྡུངས་ན་ནི། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>When such a Mother of the Buddhas is struck,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཡུལ་འཁོར་འཚེ་བ་ངེས་པར་འབྱུང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Harm will surely arise in the land.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཙུག་ལག་ཁང་དུ་དགེ་སློང་རྣམས། །དེ་བཞིན་བློ་ནི་མི་འཐུན་དང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-25"/>“As for the monks in the temple, Their minds will thus be discordant,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཉེ་བར་གདུང་བ་འབྱུང་འགྱུར་ཞིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They will be afflicted with disease, And</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྣམ་པ་དུ་མར་རྩོད་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>there will be all sorts of quarrels.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>མུ་སྟེགས་ཅན་གྱི་དབང་འགྱུར་ཞིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-26"/>“Non-Buddhists will be empowered And</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བདུད་ཀྱང་འབྱུང་བར་འགྱུར་བ་ཡིན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>māras will likewise come to the fore.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གདུག་པའི་ཀླུ་ནི་དུ་མ་ཡིས། །འབྲུ་རྣམས་ཀྱང་ནི་ཉམས་པར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Due to many noxious nāgas, Crops will fail.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྒྱལ་ཁམས་འདིར་མང་སེམས་ཅན་རྣམས། །རྣམ་པར་འཇིག་པ་ཉིད་དུ་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-27"/>“In that kingdom many beings Will be destroyed.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཙུག་ལག་ཁང་ཡང་འཇིག་འགྱུར་ཞིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Temples also will be destroyed, And</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་ཀྱང་ནུབ་པར་འགྱུར་བ་ཡིན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>the Dharma will decline as well.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བདུད་ཀྱི་ལྷ་རྣམས་དགེ་སློང་གི །དགེ་འདུན་ཤིན་ཏུ་མ་བསྡམས་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-28"/>“Demonic gods will cause unruliness Within the saṅgha of monks.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ལྟར་ཡང་དག་ཤེས་ནས་ཀྱང་། །ལེགས་པར་ཡོངས་སུ་བརྟགས་ཏེ་བྱ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Thus, knowing all this well, Proceed with careful inspection.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཚད་ནི་ཆུང་ངུ་སོར་བརྒྱད་ཀྱི། །བརྒྱད་ཅུ་རྩ་བཞི་ཉིད་བྱ་ཞིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-29"/>“As for measurements: the small ends should be eight fingers. Make the main body eighty-four fingers.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཞེང་དུ་སོར་ནི་དྲུག་བྱ་སྟེ། །འཕང་དུ་ཡང་ནི་གཉིས་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Make it six fingers in breadth And two fingers in height.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སོར་མོའི་ཚིགས་ཀྱི་ཚད་དག་གིས། །ཟུར་བཞིར་ཚད་ནི་གཉིས་པ་ཡིན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-30"/>“Using the measurements of finger joints, The measure to the four corners is two fingers.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལེགས་མཉམ་ཉིད་ནི་ཤིན་ཏུ་གསལ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The perfect balance is made very clear.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྩེ་གཉིས་སྦལ་པའི་མགོ་བཞིན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The two ends are like the head of a frog.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་རྡུང་བར་བྱེད་པ་ཡང་། །ཤིང་དེ་ཉིད་ལས་བཅད་དེ་བྱ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-31"/>“After that, cut the striker From the same wood block.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སོར་བཅུ་གཉིས་ཀྱི་ཚད་དག་ལ། །ཟླུམ་ཞིང་རྩེ་གཉིས་ནེའུ་ལེའི་མགོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Measuring twelve fingers, It is rounded and has mongoose heads at both ends.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.302.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆང་ཟུངས་ཚད་ཀྱང་དེ་བཞིན་ཏེ། །ཤིན་ཏུ་འཇམ་དང་རྩིབས་མཉམ་པར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-32"/>“The size of the handle is also like that. It should be very smooth and evenly ribbed.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་ཕྱིར་དེ་བརྡུངས་གཞན་དགོངས་པ། །འོག་ཏུའང་དེ་ཡི་ཁྲི་<tei:ref folio="F.303.a"/>བྱ་བ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Thus, it is meant to be struck. Below, make a stand for it. </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཙུག་ལག་ཁང་གི་སྒོ་སྟེངས་སམ། །ཡང་ན་དབུས་མའི་སྟེང་དུ་བྱ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-33"/>“Place it above the temple gate, Or place it above the central gate.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ཡི་རབ་གནས་བྱ་བ་ནི། །ཤིན་ཏུ་བརྟན་པའི་ཆོས་ཀྱི་སྐུ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>As for its consecration, It is the very stable<tei:note xml:id="UT22084-071-012-34"/> Dharma body.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐྱེད་པ་མ་ཡིན་འཇིག་བྱེད་མིན། །གདོད་ནས་མ་སྐྱེས་པ་དགེ་བ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-35"/>“It is unproduced, indestructible, And primordially unborn virtue.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ལྟར་རབ་གནས་བྱས་ནས་ནི། །དེ་ནི་སྤྱན་དབྱེར་གྱུར་པ་ཡིན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Having been consecrated as such, The gaṇḍī’s eyes are opened.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཎ་ཌཱིའི་སྤྱན་དབྱེ་བྱས་ནས་ཀྱང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“[Next,] having opened the gaṇḍī’s eyes,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་འོག་གཙུག་ལག་ཁང་ཀུན་དུ། །ཀླུ་བདུན་གྱིས་ནི་བརྒྱན་པ་ལྟར། །བསྐྱེད་པའི་རིམ་གྱིས་བརྡུང་བར་བྱ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-36"/>“Next, [having opened the gaṇḍī’s eyes,] One must strike it to increasingly produce sound<tei:note xml:id="UT22084-071-012-37"/> Throughout the temple, As if adorned by seven nāgas.<tei:note xml:id="UT22084-071-012-38"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་འོག་དཀོན་མཆོག་གསུམ་ལ་ནི། །ཕྱག་བྱས་ནས་ནི་བརྡུང་བྱ་ཞིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-39"/>“Thereafter, one should pay homage to the Three Jewels And then strike the gaṇḍī.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཤང་རྩ་ལན་གསུམ་བརྗོད་པས་ནི། །ཆོས་ཀྱི་རྔ་རྣམས་བརྡུང་བར་བྱ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>One should then sound the cymbal<tei:note xml:id="UT22084-071-012-40"/> three times And beat the Dharma drums.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མེ་ཏོག་གིས་ནི་དེ་བཞིན་ཁྲུས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-41"/>“Cleansing the gaṇḍī with flower-petal water</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཟན་ཟ་ཉི་མ་འཆར་ནུབ་ཚེ། །དུས་གསུམ་ལ་ནི་ལན་གསུམ་སྟེ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>At mealtime, sunrise, and sunset, Strike it three times at the three intervals.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐུ་ཁྲུས་ཚེ་ན་ལན་གཉིས་བསྔགས། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>When it is time for bathing, let it resound twice.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གློ་བུར་གནོད་པ་ཆར་མི་འབབ། །དེ་བཞིན་འཐབ་དང་རྩོད་པ་དང་། །གློག་དང་གནོད་པ་ཆེན་པོ་དང་། །གནས་བརྟན་རྣམས་ནི་སྤྱན་འདྲེན་དང་། །ནད་དང་མུ་གེ་ཞི་བའི་ཕྱིར། །མ་འཚོལ་རིམ་གྱིས་བརྡུང་བར་བྱ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-42"/>“It should be struck consecutively without hesitation To prevent sudden harm And likewise quarrels, disputes, Lightning, and great devastation. <tei:milestone xml:id="UT22084-071-012-43"/>“It should be struck to invite the elders And to pacify plagues and famines.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དགེ་སློང་རྣམས་དང་དགེ་ཚུལ་གྱིས། །དུས་རྣམས་རྟག་ཏུ་བརྡུང་བ་སྟེ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It should be struck constantly at all times By monks and novices.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གསོ་སྦྱོང་ལ་ནི་གནས་ཚེ་ཡི། །དགེ་བསྙེན་གྱིས་ཀྱང་བརྡུང་བར་བྱ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-44"/>“During monthly purification, It should be struck by laypeople as well.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མཚན་ཉིད་ཐམས་ཅད་རྫོགས་པ་དང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>All its qualities being complete,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཀླུ་བདུན་གྱིས་ནི་བརྒྱན་པར་བྱ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It should be adorned by seven nāgas.<tei:note xml:id="UT22084-071-012-45"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྒྱལ་པོ་གང་ཚེ་ཡུལ་འཁོར་དུ། །གཎ་ཌཱིའི་དེ་ནི་གྲག་གྱུར་པ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-46"/>“O King, when throughout the land That gaṇḍī resounds,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེར་ནི་དཔལ་དང་གྲགས་པ་དང་། །འདོད་པ་དང་ནི་ལོ་ལེགས་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The year will be good there, With splendor, fame, and all desirable things.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕ་རོལ་དཔུང་གིས་འཇིགས་མེད་ཅིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-47"/>“There will be no fear of foreign armies, And</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འབྲུ་རྣམས་ཀྱང་ནི་ཉམས་མི་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>the crops will never fail.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.a</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་བྱིན་རླབས་འབྱོར་པ་ཡིས། །དེར་ནི་བདུད་རྣམས་འདུལ་བར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>With the wealth of the Buddha’s blessings, Māras will be tamed there.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཆོས་ཀྱི་རྔ་ནི་སྲིད་རྩེར་བཅས། །ཀུན་ནས་རབ་ཏུ་གཡོ་བར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-48"/>“The Dharma drum will thunder everywhere, Right up to the summit of existence.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དམྱལ་དང་ཡི་དགས་འཇིག་རྟེན་རྣམས། །འཇིག་པར་འགྱུར་བར་ཐེ་ཚོམ་མེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The worlds of hell and pretas Will undoubtedly be destroyed.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐམས་ཅད་སངས་རྒྱས་རྟག་དད་ཅིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-49"/>“Everyone will have enduring conviction in the Buddha, And</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐམས་ཅད་ཆོས་ལ་གཞོལ་བར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>everyone will be devoted to the Dharma.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེར་ནི་དགེ་འདུན་འདུལ་བར་ལྡན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>There, the saṅgha will be disciplined, And</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མཁས་པ་རྣམས་ཀྱང་འཕེལ་བར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>the wise will flourish as well.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འདོད་ཆགས་ཞེ་སྡང་གཏི་མུག་རྣམས། །དེར་ནི་ནུབ་པར་འགྱུར་བ་ཡིན། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-50"/>“Lust, hate, and delusion Will subside there.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྒྱལ་པོ་ཚེ་རིང་ཆོས་ལྡན་ཞིང་། །བདེ་བ་དག་དང་ལྡན་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The king will live long and uphold the Dharma, And he will have every happiness.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྒྱལ་པོ་གཙུག་ལག་ཁང་ཀུན་དུ། །ཆོས་ཀྱི་རྔ་ནི་བརྡུངས་པ་ཡིས། །སྒྲ་ནི་གང་གི་རྣ་བ་ཡི། །ལམ་དག་ཏུ་ནི་གྲག་གྱུར་ཅིང་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-51"/>“O King, in every temple, When beating the Dharma drum, Its sound will be renowned In the pathways of peoples’ ears;</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དུས་བཞི་དག་ཏུ་ཐོས་པ་ནི། །དེ་རྣམས་བྱང་ཆུབ་ཐོབ་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-52"/>“Those who hear it four times a day Will attain spiritual awakening. </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་<tei:ref folio="F.303.b"/>ཞིག་སྙིང་ནས་ཡི་རངས་པ། །དེ་ནི་གྲོལ་འགྱུར་ཐེ་ཚོམ་མེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Those who rejoice from the heart Will undoubtedly be free.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཎ་ཌཱིའི་མདོ་ནི་ལན་ཅིག་ཐོས། །མི་དེ་སྐྱེ་བ་དྲན་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-53"/>“Hearing just once The Gaṇḍī Sūtra, One will remember one’s former lives.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་ན་མདོ་སྡེའི་མཆོག་འདི་གནས། །ཡུལ་འཁོར་དེར་ཡང་འབྱོར་པར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Where this best among sūtras is present, That land will be prosperous.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དུས་ཀུན་དུ་ནི་གནས་པ་དང་། །ཀློག་གམ་ཡང་ན་མཆོད་པར་བྱེད། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-54"/>“[Those who] observe it at all times, Read it aloud, worship it,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་ནི་ཡིད་ལ་འཛིན་བྱེད་པ། །སྡིག་པ་ལས་ནི་གྲོལ་བར་འགྱུར། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Those who [observe it at all times, Read it aloud, worship it, And] keep it in mind Will be freed from evil.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང་། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-55"/>When the Bhagavān had said this,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྒྱལ་པོ་གསལ་རྒྱལ་བཅོམ་ལྡན་འདས་ལ་ཡང་དང་ཡང་དུ་ཕྱག་བྱས་ནས་སོང་ངོ་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>King Prasenajit paid his respects to the Bhagavān repeatedly and then departed.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>When the Bhagavān had spoken these words,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐམས་ཅད་དང་ལྡན་པའི་འཁོར་དེ་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། ནམ་མཁའ་ལྡིང་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>the entire assembly, along with the world with its gods, humans, asuras, garuḍas, and gandharvas, rejoiced and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>praised what the Bhagavān had said.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཎ་ཌཱིའི་མདོ་རྫོགས་སྷོ།། །།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-56"/>This completes “The Gaṇḍī Sūtra.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.303.b</prop>
+	<tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་དྷརྨྨ་ཤྲཱི་བྷ་དྲ་དང་། ལོཙྪ་བ་དགེ་སློང་ཚུལ་ཁྲིམས་ཡོན་ཏན་གྱིས་བསྒྱུར། ཞུ་ཆེན་གྱི་ལོཙྪ་བ་དགེ་སློང་རིན་ཆེན་བཟང་པོས་བཅོས་ཏེ་གཏན་ལ་ཕབ་པ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-012-57"/>It was translated by the Indian abbot Dharma­śrībhadra and the monk-translator Tsültrim Yönten, and edited and finalized by the monk and chief editor-translator Rinchen Zangpo.</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>

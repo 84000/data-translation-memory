@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" version="1.4b">
+<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-094-002" eft:text-version="v-1.1.5-2021"/>
+<body>
+<tu>
+            <prop type="folio">F.200.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་ཡུམ་ཞེས་བྱ་བའི་གཟུངས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The Noble Dhāraṇī The Mother of Avalokiteśvara</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.200.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-002-9"/>Homage to all buddhas and bodhisattvas!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.200.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-002-11"/>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.200.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་གྲོང་ཁྱེར་ཡངས་པ་ཅན་ན། འཁོར་ཆེན་པོས་ཡོངས་སུ་བསྐོར་ཅིང་མདུན་གྱིས་བལྟས་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>In the city of Vaiśālī, the Blessed One was surrounded and honored by a great assembly</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.200.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཉན་ཐོས་ཆེན་པོ་ཤཱ་རིའི་བུ་ལ་སོགས་པ་དགེ་སློང་ལྔ་བརྒྱ་དང་བྱམས་པ་ལ་སོགས་པ། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རབ་ཏུ་མང་པོས་ཡོངས་སུ་བསྐོར་ཅིང་མདུན་གྱིས་བལྟས་ནས། བཅོམ་ལྡན་འདས་གདན་བཤམས་པ་ལ་བཞུགས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>as he sat upon a seat arranged for him. He was surrounded and honored by five hundred fully ordained monks headed by the great śrāvaka Śāriputra, and many bodhisattva great beings headed by Maitreya.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.200.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཁོར་དེར་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཀུན་ཏུ་བཟང་པོ་ཞེས་བྱ་བ་འདུས་ཏེ་འདུག་པར་གྱུར་པ་དེ་རང་གི་སྟན་ལས་ལངས་ནས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Present among this assembly was the bodhisattva great being known as Samantabhadra. Rising from his seat,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.200.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས་པུས་མོ་གཡས་པའི་ལྷ་ང་ས་ལ་བཙུགས་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Samantabhadra draped his upper robe over one shoulder, knelt on his right knee,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.200.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ནས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>bowed his head at the feet of the Blessed One,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.200.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>and said:</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.200.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་མ་ཞེས་བགྱི་བའི་གཟུངས་ཀྱི་རིག་སྔགས་ཆེན་མོ་གསང་སྔགས་ཀྱི་གཞི་འདི་འདས་པ་དང་མ་བྱོན་པ་དང་། ད་ལྟར་བྱུང་བའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཀྱིས་སྔོན་གསུངས་ཤིང་ད་ལྟར་གསུང་བ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-002-12"/>“Blessed One, the great dhāraṇī of the vidyāmantra, the mantra formula, known as The Mother of Avalokiteśvara, has been taught and is being taught by the blessed buddhas of the past, present, and future.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.200.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་བྱང་ཆུབ་སེམས་དཔར་གྱུར་ཏེ་བྱང་ཆུབ་ཡོངས་སུ་ཚོལ་བ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It had previously been taught when the Blessed One was a bodhisattva seeking awakening, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.200.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སེམས་ཅན་ཐམས་ཅད་རྗེས་སུ་བཟུང་བ་དང་དོན་དང་བྱང་ཆུབ་སེམས་དཔའི་དོན་གྱི་བར་གྱི་ཕྱིར་སྔོན་གསུངས་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>it was taught in order to benefit and care for all beings, up to and including the bodhisattvas. </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.200.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་པའི་རིགས་ཀྱི་བུ་འམ་རིགས་ཀྱི་བུ་མོ་རྣམས་ཀྱི་ཕར་གྱུར་པ་མར་གྱུར་པ་སྐྱབས་མ་མཆིས་པ་རྣམས་ཀྱི་སྐྱབས་དང་། དཔུང་གཉེན་མ་མཆིས་པ་རྣམས་ཀྱི་དཔུང་གཉེན་དང་། མགོན་མ་མཆིས་པ་རྣམས་ཀྱི་མགོན་དུ་གྱུར་པ་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>The dhāraṇī is a refuge for all beings who lack refuge, beings who have been the fathers and mothers of the noble sons and daughters who follow the bodhisattva vehicle. It is an ally to those without allies and a protector to those without protection.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.200.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྡིག་པ་ཐམས་ཅད་ཟད་པར་བགྱིད་པ་མཆིས་ཏེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It brings all misdeeds to an end.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.a</prop>
+	<tuv xml:lang="bo">
+                <seg>གཟུངས་དེ་ཐོས་མ་ཐག་ཏུ་བསམ་པ་ཐམས་<tei:ref folio="F.201.a"/>ཅད་ཡོངས་སུ་རྫོགས་པར་འགྱུར། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>All wishes are fulfilled as soon as this dhāraṇī is heard, </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རིག་སྔགས་ཐམས་ཅད་ཀྱང་གྲུབ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>and through it all vidyāmantras are successful.”<tei:note xml:id="UT22084-094-002-14"/>
+                </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-002-15"/>The Blessed One replied,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ང་སྔོན་བྱང་ཆུབ་སེམས་དཔར་གྱུར་ཏེ་བྱང་ཆུབ་ཡོངས་སུ་ཚོལ་བ་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“Bodhisattva great being, in the past when I was a bodhisattva seeking awakening,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་གྱི་ཁམས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་ཀྱི་ཕ་རོལ་གྱི་ཡང་ཆེས་ཕ་རོལ་ན། འཇིག་རྟེན་གྱི་ཁམས་བདེ་བ་ཅན་ཞེས་བྱ་བ་དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་དཔག་ཏུ་མེད་ཅེས་བྱ་བ་ད་ལྟར་ཡང་བཞུགས་ཏེ་འཚོ་ཞིང་གཞེས་ལ་ཆོས་ཀྱང་སྟོན་ཏོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>the Thus-Gone worthy, complete, and perfect Buddha Amitābha lived, prospered, and taught the Dharma in Sukhāvatī, a world system far beyond as many world systems as there are grains of sand in the river Ganges. He lives there even now.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.a</prop>
+	<tuv xml:lang="bo">
+                <seg>འཁོར་དེ་ཉིད་ན་བྲམ་ཟེ་དབང་ཕྱུག་འོད་ཅེས་བྱ་བ་བྱང་ཆུབ་སེམས་དཔའི་ས་གསུམ་པ་ཐོབ་པར་གྱུར་པ་ཞིག་འདུག་པ་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Among his retinue was a brahmin known as Prabheśvara who had attained the third bodhisattva level.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེས་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་མ་ཞེས་བྱ་བའི་གཟུངས། རིག་སྔགས་ཀྱི་རྒྱལ་མོ་ཆེན་མོ་འདི་བྲམ་ཟེ་བརྒྱ་སྟོང་མང་པོ་དང་སེམས་ཅན་བྱེ་བ་ཁྲག་ཁྲིག་ཕྲག་དུ་མ་ལ་བསྒྲགས་བཤད་བསྟན་ཏེ</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It was he who proclaimed, expounded, and taught this great queen of vidyāmantras, the dhāraṇī known as The Mother of Avalokiteśvara, to many hundreds of thousands of brahmins and numerous billions of sentient beings.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་དག་ཐམས་ཅད་ཀྱིས་གཟུངས་འདི་ཐོས་མ་ཐག་ཏུ་སྡིག་པ་ལྟུང་བར་བྱེད་པ་ཐམས་ཅད་ལས་རྣམ་པར་གྲོལ་བ་དང་སྐྱེ་བ་དྲན་པར་གྱུར་པ་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>As soon as they heard this dhāraṇī, they were freed from all misdeeds and transgressions and remembered their rebirths.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ངས་དྲན་ནོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>This I recall.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་ཆེན་པོ་དེ་སྨྲོས་ཤིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-002-16"/>“Great bodhisattva, recite the dhāraṇī!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕྱི་མའི་དུས་ན་འཇིག་རྟེན་གྱི་ཁམས་ཀུན་ནས་ཉོན་མོངས་པ་ཅན་དུ་སེམས་ཅན་སྡིག་པ་བྱེད་པ་མཚམས་མེད་པ་བྱེད་པ། བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་དུ་མའི་སྡིག་པ་ཟད་པར་འགྱུར། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>At a later time, the numerous trillions of misdeeds of sentient beings, throughout defiled worlds, who have performed misdeeds and the actions with immediate retribution will be exhausted.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ཕན་པ་དང་བདེ་བར་འགྱུར། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>They will be well and be happy.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.a</prop>
+	<tuv xml:lang="bo">
+                <seg>མགོན་མེད་པ་རྣམས་ཀྱི་མགོན་དུ་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>It will serve as a protector to those without protection.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.a</prop>
+	<tuv xml:lang="bo">
+                <seg>ངས་ཀྱང་གནང་ཞིང་རྗེས་སུ་ཡི་རང་ངོ་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>I also approve and rejoice.” </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་ནས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཀུན་ཏུ་བཟང་པོས་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་མ་ཞེས་བྱ་བའི་གཟུངས་ཀྱི་རིག་སྔགས་ཆེན་མོའི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་སྨྲས་སོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-002-17"/>The bodhisattva great being Samantabhadra then spoke the great dhāraṇī of the vidyāmantra, the mantra formula, known as The Mother of Avalokiteśvara.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.a</prop>
+	<tuv xml:lang="bo">
+                <seg>དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-002-18"/>“Homage to the Three Jewels.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.a</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་འོད་དཔག་མེད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Homage to the Blessed, thus-gone Amitābha.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་སྙིང་རྗེ་ཆེན་པོ་དང་ལྡན་པ་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ལ་<tei:ref folio="F.201.b"/>ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Homage to the bodhisattva great being endowed with great compassion, Noble Avalokiteśvara. </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དེ་དག་ལ་ཕྱག་འཚལ་ནས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>Having paid homage to them,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་ཡུམ་ཞེས་བྱ་བའི་གཟུངས། རིག་སྔགས་ཆེན་མོའི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་བརྗོད་པར་བྱའོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>I shall recite the great vidyāmantra, the mantra formula, the noble dhāraṇī known as The Mother of Avalokiteśvara.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བདག་ལ་རིག་པ་འདི་གྲུབ་པར་གྱུར་ཅིག །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>May I accomplish this vidyā!</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཏདྱ་ཐཱ། ཨི་ལི་མི་ལི། ཙི་ལི་མི་ལི། ཀུན་ཏུ་ལེ། ཀུན་ཏུ་ལེ། ཀུན་ཏུ་ལེ། སི་རེ་སི་སི་རེ། བི་སི་རེ། བི་རཱ་ཡཱ་གཽ་རི། གནྡྷ་རི་དྲཱ་མ་ཊེ། མཱ་ཏངྒི། པུཀྐཱ་སི། ཀཥྚཱ་ཡ། མཱ་ཙཎྜ་ལཱི། ཧུཊྚུ་མ་ལི་ནི། ཧཱུྃ་དྷུ་དྷུ་མ་ལི་ནི། ཙི་ལེ་མི་ལེ། གྲྀཧྞ་སཽ་མྱ་དཪྴ་ནི། ཀུ་རུ་ཙནྡྲ་མུ་ཁེ། ལཱ་གྷུ་མཱ་ན་ཡྃ་ཏེ། ཨཱརྱ་དཀྵི་བྷུ་ཛེ་སརྦ་བིདྱཱ་ནཱ་མ། པྲ་སཱ་དྷ་ནེ། སརྦ་བི་དྱཱ་ནཱ་མ། ཨཱི་ཤྭ་རི་སྭཱ་ཧཱ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-002-20"/>tadyathā | ili mili | cili mili | kuntule kuntule kuntule | śire śiśire viśire | vīrāyai gauri gāndhāri drāmiṭe mātaṅgi pukkasi kaṣṭaya māṃ | caṇḍāli huttu mālini hūṁ | dhu dhu mālini | cile mile | gṛhṇa saumyadarśani | kuru candra­mukhi | laghu­mānayante ārya­dakṣiṇa­bhuje | sarvavidyānām prasādhane | sarva­vidyānām īśvari svāhā ||</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཀླགས་པས་འགྲུབ་པའི་གཟུངས་འདིའི་ཆོ་ག་ནི་འདི་ཡིན་ཏེ་</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>“This is the rite for this dhāraṇī that is mastered through recitation.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཐོས་མ་ཐག་ཏུ་ལས་ཀྱི་སྒྲིབ་པ་ཐམས་ཅད་བྱང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>As soon as it is heard, all karmic obscurations will be purified,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཇིགས་པ་ཐམས་ཅད་ལས་བསྲུང་ངོ་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>and one will be protected from all fears.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.b</prop>
+	<tuv xml:lang="bo">
+                <seg>དུས་གསུམ་དུ་བཟླས་པ་བྱས་ན་ཞག་བདུན་གྱིས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཀུན་ཏུ་བཟང་པོ་མཐོང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>If one recites it during the three periods of the day, one will see the bodhisattva great being Samantabhadra within seven days.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གཞན་དུ་མི་སེམས་པའི་ཡིད་ཀྱིས་བཟླས་པ་བྱས་ན། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>If one mentally recites it without thinking of anything else,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ཟླ་བ་གཅིག་གིས་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་མ་རིག་པ་ཆེན་མོ་བདག་ཉིད་སྟོན་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>the great vidyā herself, the mother of Noble Avalokiteśvara, will be revealed within one month, and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཕགས་པ་འོད་དཔག་མེད་ཀྱང་མཐོང་ངོ་། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>noble Amitābha will also be seen.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བླ་ན་མེད་པའི་བྱང་ཆུབ་ལས་ཕྱིར་མི་ལྡོག་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>One’s progress to unsurpassed awakening will be irreversible. </seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.b</prop>
+	<tuv xml:lang="bo">
+                <seg>སྐྱེ་བ་དྲན་པ་དང་ཐོས་པ་འཛིན་པར་ཡང་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>One will also remember one’s rebirths and retain whatever has been learned.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.b</prop>
+	<tuv xml:lang="bo">
+                <seg>གང་དང་གང་དུ་སྐྱེས་པ་དེ་དང་དེར་དམ་པའི་ཆོས་དང་མི་འབྲལ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>No matter where one is born, one will not be separated from the sacred Dharma,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.b</prop>
+	<tuv xml:lang="bo">
+                <seg>ལོངས་སྤྱོད་ཆེན་པོར་འགྱུར་རོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>and one will be affluent.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-002-23"/>After the Blessed One spoke these words,</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཀུན་ཏུ་བཟང་པོ་དང་། བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་དང་། དགེ་སློང་དེ་དག་དང་། ཐམས་ཅད་དང་ལྡན་པའི་འཁོར་དེ་དག་ཡི་རངས་ཏེ། </seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>the entire assembly, including the bodhisattva great being Samantabhadra, the bodhisattvas, and the fully ordained monks, rejoiced and</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.b</prop>
+	<tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ། །</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>praised what the Blessed One had taught.</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.201.b</prop>
+	<tuv xml:lang="bo">
+                <seg>འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་ཡུམ་ཞེས་བྱ་བའི་གཟུངས་རྫོགས་སོ།། །།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-002-24"/>This completes the noble dhāraṇī “The Mother of Avalokiteśvara.”</seg>
+            </tuv>
+</tu>
+<tu>
+            <prop type="folio">F.202.a</prop>
+	<tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་ཛི་ན་མི་ཏྲ་དང་། <tei:ref folio="F.202.a"/>དཱ་ན་ཤཱི་ལ་དང་། ཞུ་ཆེན་གྱི་ལོཙྪ་བ་བནྡེ་ཡེ་ཤེས་སྡེས་བསྒྱུར་ཅིང་ཞུས་ཏེ་སྐད་གསར་བཅད་ཀྱིས་ཀྱང་བཅོས་ཏེ་གཏན་ལ་ཕབ་པ།།</seg>
+            </tuv>
+	<tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-002-25"/>Translated and edited by the Indian preceptors Jinamitra and Dānaśīla and the translator-editor Bandé Yeshé Dé, revised according to the new lexicon, and finalized.</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>

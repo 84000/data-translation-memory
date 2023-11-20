@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-048-004" eft:text-version="v-1.0.6-2023"/>
+<body>
+<tu id="UT22084-048-004-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.285.b"/>༄༅༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་ཏ་ཐཱ་ག་ཏཱ་ནཱ་མ་བུད་དྷ་ཀྵེ་ཏྲ་གུ་ཎོཀྟ་དྷརྨ་པརྱཱ་ཡ། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-048-004-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་དེ་བཞིན་གཤེགས་པ་རྣམས་ཀྱི་སངས་རྒྱས་ཀྱི་ཞིང་གི་ཡོན་ཏན་བརྗོད་པའི་ཆོས་ཀྱི་རྣམ་གྲངས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Noble Dharma Discourse Expounding the Qualities of the Thus-Gone Ones’ Buddhafields</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-048-004-TU-3">
+    <prop type="location-id">UT22084-048-004-18</prop>
+    <tuv xml:lang="bo">
+                <seg/>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-048-004-18"/>Expounding Qualities of the Thus-Gone Ones’ Buddhafields</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-048-004-TU-4">
+    <prop type="location-id">UT22084-048-004-18</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to all buddhas and bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-048-004-TU-5">
+    <prop type="location-id">UT22084-048-004-18</prop>
+    <tuv xml:lang="bo">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-048-004-TU-6">
+    <prop type="location-id">UT22084-048-004-18</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཡུལ་མཉམ་དགའ་ན་ཆོས་ཀྱི་དགོན་པ་བྱང་ཆུབ་ཀྱི་སྙིང་པོ་ན་ནོར་བུ་རྡོ་རྗེས་སྤྲས་པའི་པད་མའི་སྙིང་པོའི་སེང་གེའི་ཁྲི་ལ་བཞུགས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One was dwelling at the seat of awakening,<tei:note xml:id="UT22084-048-004-21"/> in a Dharma hermitage in the land of Magadha,<tei:note xml:id="UT22084-048-004-22"/> where he was seated upon a lion throne in the center of a lotus, inlaid with jewels and vajras.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-048-004-TU-7">
+    <prop type="location-id">UT22084-048-004-18</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའི་དགེ་འདུན་ཆེན་པོ་སངས་རྒྱས་ཀྱི་ཞིང་བརྗོད་དུ་མེད་པ་བྱེ་བ་ཁྲག་ཁྲིག་བརྒྱ་སྟོང་ཕྲག་བཅུའི་རྡུལ་ཕྲ་རབ་སྙེད་ཀྱི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དང་ཐབས་ཅིག་གོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He was accompanied by a great bodhisattva assembly of as many bodhisattva great beings as there are atoms throughout tens of trillions of indescribable buddhafields.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-048-004-TU-8">
+    <prop type="location-id">UT22084-048-004-23</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེའི་ཚེ་བྱང་ཆུབ་སེམས་དཔའི་འཁོར་གྱི་དཀྱིལ་འཁོར་འདུས་པ་དེ་ཉིད་དུ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འོད་བསམ་གྱིས་མི་ཁྱབ་པའི་རྒྱལ་པོ་ཞེས་བྱ་བ་འདུས་པར་གྱུར་ཏེ་འདུག་གོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-048-004-23"/>Present within that assembly of bodhisattvas was a bodhisattva great being by the name of Acintya­prabha­rāja.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-048-004-TU-9">
+    <prop type="location-id">UT22084-048-004-23</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འོད་བསམ་གྱིས་མི་ཁྱབ་པའི་རྒྱལ་པོ་སངས་རྒྱས་ཀྱི་མཐུས་སྟན་ལས་ལངས་ཏེ། <tei:ref folio="F.286.a"/>བྱང་ཆུབ་སེམས་དཔའི་ཚོགས་ཐམས་ཅད་ལ་སྨྲས་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Through the power of the Buddha, the bodhisattva great being Acintya­prabha­rāja rose from his seat and addressed the group of bodhisattvas:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-048-004-TU-10">
+    <prop type="location-id">UT22084-048-004-23</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀྱེ་རྒྱལ་བའི་སྲས་དག་འཇིག་རྟེན་གྱི་ཁམས་མི་མཇེད་ཀྱི་བསྐལ་པ་དེ་ནི་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་འོད་དཔག་མེད་ཀྱི་སངས་རྒྱས་ཀྱི་ཞིང་འཇིག་རྟེན་གྱི་ཁམས་བདེ་བ་ཅན་གྱི་ཉིན་ཞག་གཅིག་གོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>“O children of the Victorious One, an eon in this Sahā world is but a single day in the realm of Sukhāvatī, the buddhafield of the blessed Thus-Gone One Amitābha.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-048-004-TU-11">
+    <prop type="location-id">UT22084-048-004-24</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀྱེ་རྒྱལ་བའི་སྲས་དག་གང་འཇིག་རྟེན་གྱི་ཁམས་བདེ་བ་ཅན་གྱི་བསྐལ་པ་དེ་ནི་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་མི་འཁྲུགས་པའི་སངས་རྒྱས་ཀྱི་ཞིང་འཇིག་རྟེན་གྱི་ཁམས་མངོན་པར་དགའ་བའི་ཉིན་ཞག་གཅིག་གོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-048-004-24"/>“O children of the Victorious One, an eon in Sukhāvatī is but a single day in the realm of Abhirati, the buddhafield of the blessed Thus-Gone One Akṣobhya.<tei:note xml:id="UT22084-048-004-25"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-048-004-TU-12">
+    <prop type="location-id">UT22084-048-004-26</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀྱེ་རྒྱལ་བའི་སྲས་དག་གང་འཇིག་རྟེན་གྱི་ཁམས་མངོན་པར་དགའ་བའི་བསྐལ་པ་དེ་ནི་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་རྡོ་རྗེ་སྙིང་པོས་རབ་ཏུ་འདུལ་བའི་སངས་རྒྱས་ཀྱི་ཞིང་འཇིག་རྟེན་གྱི་ཁམས་ངུར་སྨྲིག་གི་རྒྱལ་མཚན་གྱི་ཉིན་ཞག་གཅིག་གོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-048-004-26"/>“O children of the Victorious One, an eon in the realm of Abhirati is but a single day in the realm of Kaṣāyadhvajā,<tei:note xml:id="UT22084-048-004-27"/> the buddhafield of the blessed Thus-Gone One Vajra­sāra­pramardin.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-048-004-TU-13">
+    <prop type="location-id">UT22084-048-004-28</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀྱེ་རྒྱལ་བའི་སྲས་དག་གང་འཇིག་རྟེན་གྱི་ཁམས་ངུར་སྨྲིག་གི་རྒྱལ་མཚན་གྱི་བསྐལ་པ་དེ་ནི་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་ཤིན་ཏུ་རྣམ་པར་གདོན་མི་ཟ་བར་པད་མོ་རབ་ཏུ་རྒྱས་པའི་སྐུའི་སངས་རྒྱས་ཀྱི་ཞིང་འཇིག་རྟེན་གྱི་ཁམས་ཕྱིར་མི་ལྡོག་པའི་འཁོར་ལོ་དབྱངས་ཀྱི་ཉིན་ཞག་གཅིག་གོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-048-004-28"/>“O children of the Victorious One, an eon in the realm of Kaṣāyadhvajā is but a single day in the realm of Avaivartika­cakra­nirghoṣā, the buddhafield of the blessed Thus-Gone One Suniścita­padma­phullitagātra.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-048-004-TU-14">
+    <prop type="location-id">UT22084-048-004-29</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀྱེ་རྒྱལ་བའི་སྲས་དག་གང་འཇིག་རྟེན་གྱི་ཁམས་ཕྱིར་མི་ལྡོག་པའི་འཁོར་ལོ་དབྱངས་ཀྱི་བསྐལ་པ་དེ་ནི་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་ཞིང་འཇིག་རྟེན་གྱི་ཁམས་རྡུལ་དང་བྲལ་བའི་ཉིན་ཞག་གཅིག་གོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-048-004-29"/>“O children of the Victorious One, an eon in the realm of Avaivartika­cakra­nirghoṣā is but a single day in the realm of Virajā, the buddhafield of the blessed Thus-Gone One Dharmadhvaja.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-048-004-TU-15">
+    <prop type="location-id">UT22084-048-004-30</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀྱེ་རྒྱལ་བའི་སྲས་དག་གང་འཇིག་རྟེན་གྱི་ཁམས་རྡུལ་དང་བྲལ་བའི་བསྐལ་པ་དེ་ནི་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སེང་གེའི་སངས་རྒྱས་ཀྱི་ཞིང་འཇིག་རྟེན་གྱི་ཁམས་མར་མེ་ལྡན་གྱི་ཉིན་ཞག་གཅིག་གོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-048-004-30"/>“O children of the Victorious One, an eon in the realm of Virajā is but a single day in the realm of Pradīpā, the buddhafield of the blessed Thus-Gone One Siṃha.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-048-004-TU-16">
+    <prop type="location-id">UT22084-048-004-31</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀྱེ་རྒྱལ་བའི་སྲས་དག་གང་འཇིག་རྟེན་གྱི་ཁམས་མར་མེ་ལྡན་གྱི་བསྐལ་པ་དེ་ནི་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་རྣམ་པར་སྣང་མཛད་ཀྱི་སངས་རྒྱས་ཀྱི་ཞིང་འཇིག་རྟེན་གྱི་ཁམས་འོད་བཟང་པོའི་ཉིན་ཞག་གཅིག་གོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-048-004-31"/>“O children of the Victorious One, an eon in the realm of Pradīpā is but a single day in the realm of Suprabhā, the buddhafield of the blessed Thus-Gone One Vairocana.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-048-004-TU-17">
+    <prop type="location-id">UT22084-048-004-32</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀྱེ་རྒྱལ་བའི་སྲས་དག་གང་འཇིག་རྟེན་གྱི་ཁམས་འོད་བཟང་པོའི་བསྐལ་པ་དེ་ནི་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་ཆོས་ཀྱི་འོད་ཟེར་རབ་ཏུ་རྒྱས་པའི་སྐུའི་སངས་རྒྱས་ཀྱི་ཞིང་འཇིག་རྟེན་གྱི་ཁམས་འདའ་བར་དཀའ་བའི་ཉིན་ཞག་གཅིག་གོ །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-048-004-32"/>“O children of the Victorious One, an eon in the realm of Suprabhā is but a single day in the realm of Duratikramā, the buddhafield of the blessed Thus-Gone Dharma­raśmi­prajvalitagātra.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-048-004-TU-18">
+    <prop type="location-id">UT22084-048-004-33</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀྱེ་རྒྱལ་བའི་སྲས་དག་གང་འཇིག་རྟེན་གྱི་ཁམས་འདའ་བར་དཀའ་བའི་བསྐལ་པ་དེ་ནི་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་མངོན་པར་ཤེས་པ་ཐམས་ཅད་བློ་གྲོས་འོད་ཟེར་རྒྱལ་པོའི་སངས་རྒྱས་ཀྱི་ཞིང་འཇིག་རྟེན་<tei:ref folio="F.286.b"/>གྱི་ཁམས་རྣམ་པར་བརྒྱན་གྱི་ཉིན་ཞག་གཅིག་གོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-048-004-33"/>“O children of the Victorious One, an eon in the realm of Duratikramā is but a single day in the realm of Vyūhā, the buddhafield of the blessed Thus-Gone One Sarvābhijñāmati­rāja.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-048-004-TU-19">
+    <prop type="location-id">UT22084-048-004-34</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀྱེ་རྒྱལ་བའི་སྲས་དག་གང་འཇིག་རྟེན་གྱི་ཁམས་རྣམ་པར་བརྒྱན་གྱི་བསྐལ་པ་དེ་ནི་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་ཟླ་བའི་ཐུགས་ཀྱི་སངས་རྒྱས་ཀྱི་ཞིང་འཇིག་རྟེན་གྱི་ཁམས་མེ་ལོང་གི་དཀྱིལ་འཁོར་དབྱངས་ཀྱི་ཉིན་ཞག་གཅིག་གོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-048-004-34"/>“O children of the Victorious One, an eon in the realm of Vyūhā is but a single day in the realm of Ādarśamaṇḍala­cakra­nirghoṣā, the buddhafield of the blessed Thus-Gone One Candrabuddhi.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-048-004-TU-20">
+    <prop type="location-id">UT22084-048-004-35</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀྱེ་རྒྱལ་བའི་སྲས་དག་གང་འཇིག་རྟེན་གྱི་ཁམས་བརྟག་ཅིང་བགྲང་བ་ལ་འཇུག་པའི་ཚུལ་འདིས་སངས་རྒྱས་ཀྱི་ཞིང་བརྒྱ་སྟོང་ཕྲག་བཅུར་ཚང་བའི་རྡུལ་ཕྲ་རབ་སྙེད་འདས་པའི་ཕ་རོལ་ན་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་དཔལ་བཟང་པོའི་སངས་རྒྱས་ཀྱི་ཞིང་གང་ན་བྱང་ཆུབ་སེམས་དཔའ་ཀུན་ཏུ་བཟང་པོའི་སྤྱོད་པའི་ས་ཡོངས་སུ་སྦྱོང་བའི་ཁྱད་པར་ཅན་འཇིག་རྟེན་གྱི་ཁམས་པད་མོ་དཔལ་གྱི་ཉིན་ཞག་གཅིག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-048-004-35"/>“O children of the Victorious One, continuing with this system of examining and calculating realms, after a distance equal to the total atoms in one million buddhafields we arrive at the equivalent of a single day in the realm of Padmaśrī, the buddhafield of the blessed, thus-gone, worthy, and completely perfect Buddha Bhadraśrī. This is a land where the bodhisattvas who follow the conduct of Samantabhadra make special preparations for the bodhisattva levels.<tei:note xml:id="UT22084-048-004-36"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-048-004-TU-21">
+    <prop type="location-id">UT22084-048-004-37</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀྱེ་རྒྱལ་བའི་སྲས་དག་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་ལ་ལ་ཞིག་དེ་བཞིན་གཤེགས་པ་རྣམས་ཀྱི་སངས་རྒྱས་ཀྱི་ཞིང་གི་ཡོན་ཏན་བརྗོད་པའི་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་འཆང་ངམ། འཛིན་ཏམ། ཀློག་གམ། ཀུན་ཆུབ་པར་བྱེད་དམ། གཞན་དག་ལ་ཡང་རྒྱ་ཆེར་ཡང་དག་པར་རབ་ཏུ་སྟོན་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-048-004-37"/>“O children of the Victorious One, if any son or daughter of noble family holds, memorizes, recites,<tei:note xml:id="UT22084-048-004-38"/> masters, or teaches in detail to others this Dharma discourse, Expounding the Qualities of the Thus-Gone Ones’ Buddhafields,<tei:note xml:id="UT22084-048-004-39"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-048-004-TU-22">
+    <prop type="location-id">UT22084-048-004-37</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་འཆི་བའི་དུས་ཀྱི་ཚེ་ཕྱོགས་བཅུ་མཐའ་ཡས་པའི་སངས་རྒྱས་ཀྱི་ཞིང་རྒྱ་མཚོ་རབ་འབྱམ་དག་གི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་དེའི་མདུན་ན་བཞུགས་པར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>then blessed buddhas from infinite oceans of limitless buddhafields throughout the ten directions will be seated before them at the time of their death.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-048-004-TU-23">
+    <prop type="location-id">UT22084-048-004-37</prop>
+    <tuv xml:lang="bo">
+                <seg>བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་ཀྱི་བར་དུ་སྐྱེ་བ་དྲན་པར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will recollect their lifetimes until they fully awaken to unsurpassed and completely perfect buddhahood.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-048-004-TU-24">
+    <prop type="location-id">UT22084-048-004-40</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱིས་གནང་སྟེ། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འོད་བསམ་གྱིས་མི་ཁྱབ་པའི་རྒྱལ་པོ་དགའ་ཞིང་དེ་སྐད་ཅེས་སྨྲས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-048-004-40"/>This was spoken with joy by the bodhisattva great being Acintya­prabha­rāja with the authorization of the thus-gone, worthy, completely perfect Buddha.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-048-004-TU-25">
+    <prop type="location-id">UT22084-048-004-40</prop>
+    <tuv xml:lang="bo">
+                <seg>།བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོའི་འཁོར་གྱི་དཀྱིལ་འཁོར་ཐམས་ཅད་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འོད་བསམ་གྱིས་མི་ཁྱབ་པའི་རྒྱས་པོས་སྨྲས་པ་ལ་མངོན་པར་བསྟོད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The entire assembly of bodhisattva great beings praised what he had taught.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-048-004-TU-26">
+    <prop type="location-id">UT22084-048-004-41</prop>
+    <tuv xml:lang="bo">
+                <seg>།འཕགས་པ་དེ་བཞིན་གཤེགས་པ་རྣམས་ཀྱི་སངས་རྒྱས་ཀྱི་ཞིང་གི་ཡོན་ཏན་བརྗོད་པའི་ཆོས་ཀྱི་རྣམ་གྲངས་རྫོགས་སོ།། །།རྒྱ་གར་གྱི་མཁན་པོ་ཛི་ན་མི་ཏྲ་དང་། དཱ་ན་ཤཱི་ལ་དང་། ཞུ་ཆེན་གྱི་ལོ་ཙྪ་བ་བནྡེ་ཡེ་ཤེས་སྡེས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པའོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-048-004-41"/>This completes the noble Dharma discourse “Expounding the Qualities of the Thus-Gone Ones’ Buddhafields.”<tei:note xml:id="UT22084-048-004-42"/>
+                    <tei:milestone xml:id="UT22084-048-004-43"/> This was translated, edited, and finalized by the Indian preceptors Jinamitra and Dānaśīla and the senior translator-editor, the venerable monk Yeshé Dé.</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>
