@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
-<header datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-059-005" eft:text-version="v-1.0.8-2023"/>
+<header creationtool="monlam-ai/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-059-005" eft:text-version="v-1.0.8-2023"/>
 <body>
 <tu id="UT22084-059-005-TU-1">
     <prop type="location-id">translation</prop>
@@ -9,7 +9,7 @@
                     <tei:ref folio="F.139.b"/>༄༅༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་ཤྲཱི་བ་སུ་པ་རི་པྲྀཙྪཱ་ནཱ་མ་མ་ཧཱ་ཡཱ་ན་སཱུ་ཏྲ། བོད་སྐད་དུ། འཕགས་པ་དཔལ་དབྱིག་གིས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>The Noble Great Vehicle Sūtra The Questions of Śrīvasu</seg>
+                <seg>The Noble Great Vehicle Sūtra su The Questions of Śrīvasu</seg>
             </tuv>
 </tu>
 <tu id="UT22084-059-005-TU-2">
