@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="linguae-dharmae/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-072-005" eft:text-version="v-1.0.0-2023"/>
+<body>
+<tu id="UT22084-072-005-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.130.b"/>༄༅༅། །བོད་སྐད་དུ། </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-005-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>མཆོག་ཏུ་གདགས་པའི་མདོ། </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Sūtra “Declaring What Is Supreme” 
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-005-TU-3">
+    <prop type="location-id">UT22084-072-005-33</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-005-33"/>Homage to all buddhas and bodhisattvas.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-005-TU-4">
+    <prop type="location-id">UT22084-072-005-33</prop>
+    <tuv xml:lang="bo">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-005-TU-5">
+    <prop type="location-id">UT22084-072-005-33</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཉན་ཐོས་ཀྱི་དགེ་འདུན་དང་བཅས་པ། རྒྱལ་པོའི་ཁབ་ན་འོད་མའི་ཚལ་བྱ་ཀ་ལན་ད་ཀ་གནས་པར་དབྱར་གནས་པར་དམ་བཅས་ཏེ་བཞུགས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Bhagavān, together with a saṅgha of śrāvakas, was staying at Kalandakanivāsa in the Bamboo Grove at Rājagṛha, observing the pledge to stay in retreat during the rains.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-005-TU-6">
+    <prop type="location-id">UT22084-072-005-38</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེར་བཅོམ་ལྡན་འདས་ཀྱིས་དགེ་སློང་རྣམས་ལ་བཀའ་སྩལ་པ། དགེ་སློང་དག་འདི་གསུམ་ན་མཆོག་ཏུ་གདགས་པ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then the Bhagavān spoke to the monks:<tei:note xml:id="UT22084-072-005-37"/>
+                    <tei:milestone xml:id="UT22084-072-005-38"/> “Monks, there are three declarations of what is supreme.<tei:note xml:id="UT22084-072-005-39"/>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-005-TU-7">
+    <prop type="location-id">UT22084-072-005-38</prop>
+    <tuv xml:lang="bo">
+                <seg>གསུམ་གང་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What are the three?
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-005-TU-8">
+    <prop type="location-id">UT22084-072-005-38</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་མཆོག་ཏུ་གདགས་པ་དང་། ཆོས་མཆོག་ཏུ་གདགས་པ་དང་། དགེ་འདུན་མཆོག་ཏུ་གདགས་པའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are the declaration of the Buddha as supreme, the declaration of the Dharma as supreme, and the declaration of the Saṅgha as supreme. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-005-TU-9">
+    <prop type="location-id">UT22084-072-005-40</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ལ་སངས་རྒྱས་མཆོག་ཏུ་གདགས་པ་གང་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-005-40"/>In this regard,<tei:note xml:id="UT22084-072-005-41"/> what is the declaration of the Buddha as supreme?
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-005-TU-10">
+    <prop type="location-id">UT22084-072-005-40</prop>
+    <tuv xml:lang="bo">
+                <seg>སེམས་ཅན་རྐང་མེད་རྣམས་སམ། རྐང་གཉིས་རྣམས་སམ། རྐང་བཞི་རྣམས་སམ། རྐང་མངས་རྣམས་སམ། གཟུགས་ཅན་རྣམས་སམ། གཟུགས་ཅན་མ་ཡིན་པ་རྣམས་སམ། འདུ་ཤེས་ཅན་རྣམས་སམ། འདུ་ཤེས་ཅན་མ་ཡིན་པ་རྣམས་སམ། འདུ་ཤེས་ཡོད་པ་ཡང་མ་ཡིན། <tei:ref folio="F.131.a"/>འདུ་ཤེས་མེད་པ་ཡང་མ་ཡིན་པ་གང་ཡང་རུང་སྟེ། དེ་དག་གི་ནང་ན་ནི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་མཆོག་ཡིན་པར་བསྟན་ཏོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is taught that among all beings—those without legs, with two legs, with four legs,<tei:note xml:id="UT22084-072-005-42"/> or with many legs; those with form or without form; those with perception, without perception, or neither with perception nor without perception<tei:note xml:id="UT22084-072-005-43"/>—the tathāgata, the arhat, the completely perfect Buddha<tei:note xml:id="UT22084-072-005-44"/> is supreme.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-005-TU-11">
+    <prop type="location-id">UT22084-072-005-40</prop>
+    <tuv xml:lang="bo">
+                <seg>།སངས་རྒྱས་ལ་མངོན་པར་དགའ་བ་སུ་ཡང་རུང་བ་དེ་དག་ནི་མཆོག་ལ་མངོན་པར་དགའ་བ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Those who are well disposed toward the Buddha are well disposed toward what is supreme.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-005-TU-12">
+    <prop type="location-id">UT22084-072-005-40</prop>
+    <tuv xml:lang="bo">
+                <seg>མཆོག་ལ་མངོན་པར་དགའ་བ་དེ་དག་ནི་རྣམ་པར་སྨིན་པ་ཡང་ལྷ་རྣམས་ཀྱི་ནང་དུ་ལྷར་གྱུར་པ་རྣམས་སམ། མི་རྣམས་ཀྱི་ནང་དུ་མིར་གྱུར་པ་རྣམས་ཀྱི་མཆོག་འབའ་ཞིག་ཏུ་འགྱུར་བར་ཤེས་པར་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Those who are well disposed toward what is supreme, should understand that the ripening thereof will always be as a supreme god among gods, or a supreme human among humans.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-005-TU-13">
+    <prop type="location-id">UT22084-072-005-40</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ནི་སངས་རྒྱས་མཆོག་ཏུ་གདགས་པ་ཞེས་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This is called the declaration of the Buddha as supreme.<tei:note xml:id="UT22084-072-005-45"/> “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-005-TU-14">
+    <prop type="location-id">UT22084-072-005-46</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཆོས་མཆོག་ཏུ་གདགས་པ་གང་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-005-46"/>What is the declaration of the Dharma as supreme?
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-005-TU-15">
+    <prop type="location-id">UT22084-072-005-46</prop>
+    <tuv xml:lang="bo">
+                <seg>འདུས་བྱས་སམ། འདུས་མ་བྱས་ཀྱི་ཆོས་རྣམས་གང་ཡང་རུང་སྟེ། དེ་དག་གི་ནང་ན་ནི་འདོད་ཆགས་དང་བྲལ་བའི་ཆོས་མཆོག་ཡིན་པར་བསྟན་ཏོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is taught that among all dharmas, conditioned or unconditioned, the Dharma of being free from attachment is supreme.<tei:note xml:id="UT22084-072-005-47"/>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-005-TU-16">
+    <prop type="location-id">UT22084-072-005-46</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཆོས་ལ་མངོན་པར་དགའ་བ་སུ་ཡང་རུང་བ་དེ་དག་ནི། མཆོག་ལ་མངོན་པར་དགའ་བ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Those who are well disposed toward the Dharma are well disposed toward the supreme.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-005-TU-17">
+    <prop type="location-id">UT22084-072-005-46</prop>
+    <tuv xml:lang="bo">
+                <seg>མཆོག་ལ་མངོན་པར་དགའ་བ་དེ་དག་ནི། རྣམ་པར་སྨིན་པ་ཡང་ལྷ་རྣམས་ཀྱི་ནང་དུ་ལྷར་གྱུར་པ་རྣམས་སམ། མི་རྣམས་ཀྱི་ནང་དུ་མིར་གྱུར་པ་རྣམས་ཀྱི་མཆོག་འབའ་ཞིག་ཏུ་འགྱུར་བར་ཤེས་པར་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Those who are well disposed toward what is supreme, should understand that the ripening thereof will always be as a supreme god among gods, or a supreme human among humans.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-005-TU-18">
+    <prop type="location-id">UT22084-072-005-46</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ནི་ཆོས་མཆོག་ཏུ་གདགས་པ་ཞེས་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This is called the declaration of the Dharma as supreme. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-005-TU-19">
+    <prop type="location-id">UT22084-072-005-48</prop>
+    <tuv xml:lang="bo">
+                <seg>།དགེ་འདུན་མཆོག་ཏུ་གདགས་པ་གང་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-005-48"/>What is the declaration of the Saṅgha as supreme?
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-005-TU-20">
+    <prop type="location-id">UT22084-072-005-48</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚོགས་སམ། འདུས་པའམ། མང་པོའམ། འཁོར་གང་ཡང་རུང་སྟེ། དེ་དག་གི་ནང་ན་ནི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམས་ཀྱི་ཉན་ཐོས་ཀྱི་དགེ་འདུན་མཆོག་ཡིན་པར་བསྟན་ཏོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is taught that among all assemblies, gatherings, crowds, and retinues, the Saṅgha of śrāvakas of the tathāgata, the arhat, the completely perfect Buddha<tei:note xml:id="UT22084-072-005-49"/> is supreme.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-005-TU-21">
+    <prop type="location-id">UT22084-072-005-48</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་འདུན་ལ་མངོན་པར་དགའ་བ་སུ་ཡང་རུང་བ་དེ་དག་ནི་མཆོག་ལ་མངོན་པར་དགའ་བ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Those who are well disposed toward the Saṅgha are well disposed toward the supreme.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-005-TU-22">
+    <prop type="location-id">UT22084-072-005-48</prop>
+    <tuv xml:lang="bo">
+                <seg>མཆོག་ལ་མངོན་པར་དགའ་བ་དེ་དག་ནི་རྣམ་པར་སྨིན་པ་ཡང་ལྷ་རྣམས་ཀྱི་ནང་དུ་ལྷར་གྱུར་པ་རྣམས་སམ། མི་རྣམས་ཀྱི་ནང་དུ་མིར་གྱུར་པ་རྣམས་ཀྱི་མཆོག་འབའ་ཞིག་ཏུ་འགྱུར་བར་ཤེས་པར་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Those who are well disposed toward what is supreme, should understand that the ripening thereof will always be as a supreme god among gods, or a supreme human among humans.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-005-TU-23">
+    <prop type="location-id">UT22084-072-005-48</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ནི་དགེ་འདུན་མཆོག་ཏུ་གདགས་པ་ཞེས་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This is called the declaration of the Saṅgha as supreme.”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-005-TU-24">
+    <prop type="location-id">UT22084-072-005-50</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། དགེ་སློང་དེ་དག་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།<tei:ref folio="F.131.b"/>
+                </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-005-50"/>After the Bhagavān had spoken thus, the monks rejoiced and praised his words.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-005-TU-25">
+    <prop type="location-id">UT22084-072-005-52</prop>
+    <tuv xml:lang="bo">
+                <seg>མཆོག་ཏུ་གདགས་པའི་མདོ་རྫོགས་སོ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-005-52"/>Thus ends The Sūtra “Declaring What Is Supreme.”</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>

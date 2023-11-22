@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="linguae-dharmae/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-089-002" eft:text-version="v-1.0.8-2023"/>
+<body>
+<tu id="UT22084-089-002-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.13.a"/>༄༅། །རྒྱ་གར་སྐད་དུ། ཨཱ་རྱ་མཉྫུ་ཤྲཱི་སྭཱ་ཁྱཱུ་ཏོ་ནཱ་མ་དྷཱ་ར་ཎཱི། བོད་སྐད་དུ། </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-089-002-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་འཇམ་དཔལ་གྱི་ཞལ་ནས་གསུངས་པ་ཞེས་བྱ་བའི་གཟུངས། </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Noble Dhāraṇī Spoken by Mañjuśrī Himself 
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-089-002-TU-3">
+    <prop type="location-id">UT22084-089-002-13</prop>
+    <tuv xml:lang="bo">
+                <seg>དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-089-002-13"/>Homage to the Three Jewels!
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-089-002-TU-4">
+    <prop type="location-id">UT22084-089-002-13</prop>
+    <tuv xml:lang="bo">
+                <seg>།འཕགས་པ་འཇམ་དཔལ་ལ་ཕྱག་འཚལ་ལོ། །ན་མོ་རཏྣ་ཏྲ་ཡཱ་ཡ། ན་མོ་བྷ་ག་བ་ཏེ། དྷརྨ་དྷཱ་ཏུ་ནི་གར་ཛི་ཏ་རཱ་ཛཱ་ཡ། ཏ་ཐཱ་ག་ཏཱ་ཡ། ཨ་རྷ་ཏེ་སམྱཀྶཾ་བུདྡྷཱ་ཡ། ན་མོ་<tei:ref folio="F.13.b"/>མཉྫུ་ཤྲི་ཡེ། ཀུ་མཱ་ར་བྷཱུ་ཏཱ་ཡ། ཏདྱ་ཐཱ། ཨོཾ་ཛྙཱ་ནཱ་ལོ་ཀེ། ཏྲི་རཏྣ་བཾ་ཤ་སཾ་དྷཱ་ར་ཎི། བྷ་ག་བ་ཏི། ཨ་བཱ་ཡཾ་དཱ་དི། ཨ་བཱ་ཡཾ་དཏྟེ་མེ་བོ་དྷི་ཙིཏྟ། བཛྲ་པ་རི་པཱ་ལ་ཡ། ས་མནྟ། ཨ་བ་བྷཱ་སེ་ན། ཧ་ན་ཧ་ན་སརྦ་སཏྭ་སཾ་ཏ་ན་པ་ཏི་ཏཾ། ཀླེ་ཤཱ་ནུ་ཙྪེ་དཱ་ཡ། བ་ད་ལ་ཀྵ་ཎ། ཨ་ལཾ་ཀྲྀ་ཏ་ཤ་རཱི་རེ། བོ་དྷི་སཏྭ་ཤི་ཤཱུ་པ་ཏི་པཱ་ལ་ཡ། བུད་དྷཱ་ན་དེ་ཤཱ་ཡ། དེ་བ། ནཱ་ག །ཡཀྵ། གནྡྷརྦ། ཨ་སུ་ར། ག་རུ་ཌ། ཀིན་ན་ར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to noble Mañjuśrī!
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-089-002-TU-5">
+    <prop type="location-id">UT22084-089-002-18</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་ཧོ་ར་ག །བ་ཤེསྠ་པཱ་ཡ། ཨ་པ་ཡཾ་ད་ད་ཏི་སྭཱ་ཧཱ། གཟུངས་འདིའི་ཕན་ཡོན་ནི་ལན་གཅིག་བརྗོད་པས་ཀྱང་བསྐལ་པ་སྟོང་དུ་ལས་ཀྱི་སྒྲིབ་པ་བསགས་པ་འབྱང་བར་འགྱུར་རོ། །འཆི་ཀར་ཡང་འཕགས་པ་འཇམ་དཔལ་མཐོང་བར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>namo ratna­trayāya | namo bhagavate dharma­dhātunigarjita­rājāya tathāgatāya arhate samyak­sambuddhāya | namo mañjuśrīye kumārabhūtāya ||<tei:note xml:id="UT22084-089-002-17"/>
+                    <tei:milestone xml:id="UT22084-089-002-18"/> tadyathā | oṁ jñānāloke tri­ratna­vaṃśa­saṃdhāraṇi<tei:note xml:id="UT22084-089-002-19"/> bhagavati abhayaṃ<tei:note xml:id="UT22084-089-002-20"/> dādi abhayaṃ<tei:note xml:id="UT22084-089-002-21"/> datte me bodhicitta­vajra­paripālaya samantāva­bhāsena hana hana sarva­sattva­saṃtānapatitaṃ<tei:note xml:id="UT22084-089-002-22"/> kleśān ucchedaya<tei:note xml:id="UT22084-089-002-23"/> vara­lakṣaṇālaṃkṛtaśarīre<tei:note xml:id="UT22084-089-002-24"/> bodhisattva­śiśūn<tei:note xml:id="UT22084-089-002-25"/> paripālaya<tei:note xml:id="UT22084-089-002-26"/> buddhān ādeśaya<tei:note xml:id="UT22084-089-002-27"/> deva­nāga­yakṣa­gandharvāsura­garuḍa­kinnara­mahoragān<tei:note xml:id="UT22084-089-002-28"/> vaśe sthāpaya<tei:note xml:id="UT22084-089-002-29"/> abhayaṃ<tei:note xml:id="UT22084-089-002-30"/> dadati svāhā ||<tei:note xml:id="UT22084-089-002-31"/>
+                    <tei:milestone xml:id="UT22084-089-002-32"/> As for the benefits of this dhāraṇī, even a single recitation will purify the karmic obscurations accrued over a thousand eons, and at the time of death one will behold noble Mañjuśrī.<tei:note xml:id="UT22084-089-002-33"/>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-089-002-TU-6">
+    <prop type="location-id">UT22084-089-002-18</prop>
+    <tuv xml:lang="bo">
+                <seg>།འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ཐོར་ཚུགས་ཀྱིས་དབུ་བརྒྱན་པའི་སྐུ་ཡང་མཐོང་བར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One will also behold the body of noble Avalokiteśvara, his head adorned with a topknot.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-089-002-TU-7">
+    <prop type="location-id">UT22084-089-002-18</prop>
+    <tuv xml:lang="bo">
+                <seg>།མདོར་ན་གཟུངས་འདིའི་ཕན་ཡོན་ནི་མཐའ་ཡས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In short, the benefits of this dhāraṇī are limitless.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-089-002-TU-8">
+    <prop type="location-id">UT22084-089-002-34</prop>
+    <tuv xml:lang="bo">
+                <seg>།འཕགས་པ་འཇམ་དཔལ་གྱི་ཞལ་ནས་གསུངས་པ་ཞེས་བྱ་བའི་གཟུངས་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-089-002-34"/>This concludes the noble dhāraṇī “Spoken by Mañjuśrī Himself.”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-089-002-TU-9">
+    <prop type="location-id">UT22084-089-002-35</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་ཛྙཱ་ན་གརྦྷ་དང་། ལོཙྪ་བ་བནྡེ་ཀླུའི་དབང་པོས་བསྒྱུར། རྒྱ་གར་གྱི་མཁན་པོ་བི་ཤུདྡྷ་སིཾ་ཧ་དང་། ཞུ་ཆེན་གྱི་ལོཙྪ་བ་བནྡེ་དེ་བ་ཙནྡྲས་གཏན་ལ་ཕབ་པ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-089-002-35"/>Translated by the Indian preceptor Jñānagarbha and the translator Bandé Lui Wangpo and finalized by the Indian preceptor Viśuddhasiṃha and chief editor-translator Bandé Devacandra.</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="linguae-dharmae/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-089-008" eft:text-version="v-1.0.4-2023"/>
+<body>
+<tu id="UT22084-089-008-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.15.a"/>ཐམས་ཅད་མཁྱེན་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One’s Praise of Sharp Mañjuśrī<tei:milestone xml:id="UT22084-089-008-12"/> Homage to the Omniscient One!
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-089-008-TU-2">
+    <prop type="location-id">UT22084-089-008-13</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་འཇམ་དཔལ་རྣོན་པོ་ལ་བསྟོད་པ། མཐིང་ནག་མཛེས་པས་འཇམ་པར་འཚེར་བའི་དབུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-089-008-13"/>The Blessed One praised sharp Mañjuśrī:<tei:milestone xml:id="UT22084-089-008-14"/> Your head shines gently with the beauty of midnight splendor.<tei:note xml:id="UT22084-089-008-15"/>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-089-008-TU-3">
+    <prop type="location-id">UT22084-089-008-13</prop>
+    <tuv xml:lang="bo">
+                <seg>།ལྕང་ལོ་རྫིངས་བསྐྱོད་མཐིང་གི་མཚོ་ལྟར་གཡོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Your braids sway like a boat amid azure ocean waves.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-089-008-TU-4">
+    <prop type="location-id">UT22084-089-008-13</prop>
+    <tuv xml:lang="bo">
+                <seg>།དགེ་བའི་སྤྱི་གཙུག་མཚན་མཆོག་གཡས་སུ་འཁྱིལ། །གཙུག་ཏོར་འཕགས་པས་སྐྱེ་བོས་བལྟར་མི་མཐོང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>At the noble crown of your head, the supreme mark, coiled to the right— An uṣṇīṣa lofty beyond the sight of ordinary beings.<tei:note xml:id="UT22084-089-008-16"/>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-089-008-TU-5">
+    <prop type="location-id">UT22084-089-008-17</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྲིད་པའི་སྡུག་བསྔལ་མ་ལུས་གཞོམ་པ་དང་། །མཐུ་ཆེན་བྱིན་གྱིས་རྒོལ་བ་གཞོམ་པའི་ཕྱིར། །དབུ་རྒྱན་ཅོད་པན་རྒྱལ་བའི་མཆོག་གསང་ཞིང་། །ཆོས་ཀྱི་རྒྱལ་ཐབས་དབང་གི་ཕ་རོལ་ཕྱིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-089-008-17"/>That all suffering of existence be overcome And your brilliant powers vanquish the enemy, The crown upon your head conceals a conqueror’s excellence;<tei:note xml:id="UT22084-089-008-18"/> Your perfections of might and skill are those of a dharmarāja.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-089-008-TU-6">
+    <prop type="location-id">UT22084-089-008-19</prop>
+    <tuv xml:lang="bo">
+                <seg>།རིན་ཆེན་སྤུག་དང་ཨུཏྤལ་འདྲ་བ་ཡི། །ཤིན་ཏུ་དངས་པར་དཀར་ནག་ཕྱེད་པའི་སྤྱན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-089-008-19"/>As in cat’s-eye gems and water lilies, so in your eyes, White and black are distinguished with perfect clarity.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-089-008-TU-7">
+    <prop type="location-id">UT22084-089-008-19</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྨིན་ཚུགས་མཛེས་པས་ཟླ་བ་ཚེས་ལྟར་འཁྱུག །མིག་འཛུམས་ཟུར་གྱིས་ལྟ་བས་བྱམས་པའི་རྟགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Your elegant eyebrows glisten like crescent moons, And the sidelong glances of your smiling eyes signal your affection.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-089-008-TU-8">
+    <prop type="location-id">UT22084-089-008-21</prop>
+    <tuv xml:lang="bo">
+                <seg>།སིལ་སྙན་རྣམ་དག་མཚན་རབ་འབྲུ་ཆགས་པ། །རིན་ཆེན་མ་ལུས་རྣམ་པ་དུ་མས་སྤྲས། །རྒྱལ་བས་ཞིང་མང་རྣམ་པ་སྣ་ཚོགས་སུ། །རྣམ་ཐར་དཔག་ཡས་ཆོས་སྒོ་གྲངས་མེད་གནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-089-008-21"/>You are the foundation of countless Dharma gates to limitless liberation, In the sundry plethora of the victors’ fields, Embellished by pure music, excellent qualities,<tei:note xml:id="UT22084-089-008-23"/> ample grain, And jewels of every type.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-089-008-TU-9">
+    <prop type="location-id">UT22084-089-008-24</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཤངས་ཀྱི་དབྱིབས་ལེགས་སྐྱེ་བོ་ཡོངས་ལས་འཕགས། །མཐོ་ལ་ཡིད་ཙམ་ཟུར་ལ་ལེགས་པའི་མཚན། །དྲང་ལ་ཆུ་ཕྲན་འདྲ་བར་མཛེས་པའི་<tei:ref folio="F.15.b"/>ཚུལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-089-008-24"/>The beautiful form of your nose is noblest of all— Highly ridged, with corners slight, and elegant of shape, Finely channeled like a slender stream.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-089-008-TU-10">
+    <prop type="location-id">UT22084-089-008-24</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཟང་ལེགས་བསྐལ་པ་བརྒྱར་ཡང་བལྟར་མི་ངོམས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One will not tire of gazing upon its virtues even in a hundred eons.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-089-008-TU-11">
+    <prop type="location-id">UT22084-089-008-25</prop>
+    <tuv xml:lang="bo">
+                <seg>།པདྨ་ལེ་བརྒན་ཚོན་ལྟར་དམར་བའི་སྒྲོས། །ཡིད་གཞུངས་སེལ་བ་འཁྱིལ་བ་བཟང་ལེགས་སྐུ། །མདོག་སྡུག་ཚུ་སྐྱེས་སྣང་བ་མཚོ་ལོ་བཞིན། །ཤིན་ཏུ་དང་པའི་ཡིད་ཀྱིས་འཛུམ་པ་མཛད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-089-008-25"/>Your lips, the red of a mañjiṣṭhā flower,<tei:note xml:id="UT22084-089-008-26"/> Your exquisite body, perfectly formed, quelling deluded thought,<tei:note xml:id="UT22084-089-008-27"/> Your lovely complexion, radiant as a lotus, clear as a lake,<tei:note xml:id="UT22084-089-008-28"/> And the lucidity of your mind—all give reason to smile.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-089-008-TU-12">
+    <prop type="location-id">UT22084-089-008-29</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞལ་རས་ཟླ་འདྲ་གསེར་གྱི་མདོག་གིས་རྒྱས། །འོད་ཀྱི་དཀྱིལ་འཁོར་གསེར་ཕྲེང་དུ་མས་སྤྲས། །གསལ་བའི་འོད་ཕུང་ཉི་མ་བརྒྱ་བས་ལྷག །འོད་ཟེར་སྣ་ཚོགས་སྤྲིན་ཕུང་བཞིན་དུ་འཕྲོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-089-008-29"/>Your moon-like countenance is golden and effulgent, A maṇḍala of light resplendent with golden garlands, An orb of pure light to outshine a hundred suns, Emitting many colors like a mass of clouds.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-089-008-TU-13">
+    <prop type="location-id">UT22084-089-008-30</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཆོས་དབྱིངས་འཇམ་པའི་དབྱངས་ཀྱིས་སྒྲ་སྒྲོགས་པ། །ཀ་ལ་པིང་ཀ་ལྟ་བུར་ཡིད་འཕྲོག་མཛད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-089-008-30"/>O Gentle Voice, the dharmadhātu you proclaim— Alluring as the song of the kalaviṅka bird.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-089-008-TU-14">
+    <prop type="location-id">UT22084-089-008-30</prop>
+    <tuv xml:lang="bo">
+                <seg>།སང་སང་དབྱངས་རབ་གསུང་དབྱངས་རབ་བསྒྲགས་པ། །སེང་གེའི་ང་རོ་གསེར་གྱི་དྲིལ་ལྟར་འཁྲོལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Your voice, perfect, pristine, and melodious, Roars like a lion and chimes like a golden bell.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-089-008-TU-15">
+    <prop type="location-id">UT22084-089-008-33</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྐྱེས་མཆོག་མཛད་པ་རྒམ་པར་མཛད་པའི་སྐུ། །ཆ་ལུགས་བཞིན་འཆང་གཟི་བརྗིད་འཕགས་པའི་སྐྲུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-089-008-33"/>The body that you cultivate<tei:note xml:id="UT22084-089-008-34"/>—a body cloaked in noble splendor<tei:note xml:id="UT22084-089-008-35"/>— Performs the deeds of the most excellent of beings.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-089-008-TU-16">
+    <prop type="location-id">UT22084-089-008-33</prop>
+    <tuv xml:lang="bo">
+                <seg>།གཞོན་ནུའི་ཚུལ་ཆགས་ཤིན་ཏུ་གཞོན་པར་གདའ། །གདུལ་བྱའི་སྐྱེ་བོ་གཞོན་ནུའི་གཟུགས་ཀྱིས་གདུལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is youthful in appearance and youthful in bearing, A youthful form that trains the ready.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-089-008-TU-17">
+    <prop type="location-id">UT22084-089-008-37</prop>
+    <tuv xml:lang="bo">
+                <seg>།དབུ་རྒྱན་རིན་ཆེན་རྣམ་པ་སྣ་ཚོགས་དང་། །མུ་ཏིག་དོ་ཤལ་གསེར་གྱི་རྒྱན་དུ་བཀོད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-089-008-37"/>You wear a crown replete with many jewels; Pearls are embedded in your golden necklace.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-089-008-TU-18">
+    <prop type="location-id">UT22084-089-008-37</prop>
+    <tuv xml:lang="bo">
+                <seg>།པདྨ་ལྷ་ཡི་ན་བཟའ་སིལ་མ་བསྣམས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Layered garments, a divine lotus, envelop you.<tei:note xml:id="UT22084-089-008-38"/>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-089-008-TU-19">
+    <prop type="location-id">UT22084-089-008-39</prop>
+    <tuv xml:lang="bo">
+                <seg>།གཡས་ན་མཚོན་མཆོག་བསྣམས་པ་ཐབས་ཀྱིས་འདུལ། །དཔེ་མེད་རྣོ་བ་ཤེས་རབ་ཉིད་དུ་ངེས། །ཆོས་དབྱིངས་ཚུལ་ཉིད་ཡང་དག་བརྗོད་པ་དང་། །མི་ཤིགས་རྡོ་རྗེ་གཏན་ནས་འབིགས་པའི་ཚུལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-089-008-39"/>In your right you brandish the finest weapon, which tames through skillful means— It is insight itself, incomparably keen, Perfectly expressing the dharmadhātu principle, Incisive in manner, unbreakable as vajra.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-089-008-TU-20">
+    <prop type="location-id">UT22084-089-008-41</prop>
+    <tuv xml:lang="bo">
+                <seg>།གཡོན་པ་ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ་དང་། །བླང་དོར་གཉིས་མེད་བསམ་གྱིས་མི་ཁྱབ་དབྱིངས། །ཟབ་མོའི་ཆོས་ཉིད་ཐུགས་སུ་ཆུད་པའི་དོན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-089-008-41"/>In your left is the Perfection of Wisdom, The inconceivable sphere where nothing is cultivated nor cast aside— Such is the fathomless dharmatā, The truth you embrace in your heart.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-089-008-TU-21">
+    <prop type="location-id">UT22084-089-008-42</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་འཇམ་དཔལ་རྣོན་པོ་ལ་བསྟོད་པ་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-089-008-42"/>This concludes “The Blessed One’s Praise of Sharp Mañjuśrī.”</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>

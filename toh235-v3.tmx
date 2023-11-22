@@ -1,0 +1,2714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="linguae-dharmae/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-064-005" eft:text-version="v-1.0.5-2023"/>
+<body>
+<tu id="UT22084-064-005-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.250.b"/>༄༅༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་མ་ཧཱ་མེ་གྷ། བོད་སྐད་དུ། </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་སྤྲིན་ཆེན་པོ། </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Noble Mahāyāna Sūtra The Great Cloud 
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-3">
+    <prop type="location-id">UT22084-064-005-628</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-628"/>Homage to all buddhas and bodhisattvas.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-4">
+    <prop type="location-id">UT22084-064-005-16</prop>
+    <tuv xml:lang="bo">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-16"/>Thus did I hear at one time.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-5">
+    <prop type="location-id">UT22084-064-005-16</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀླུའི་རྒྱལ་པོ་དགའ་བོ་དང་། ཉེ་དགའ་བོའི་གནས་ན་ནོར་བུ་རིན་པོ་ཆེ་དཔལ་གྱི་སྙིང་པོའི་སྤྲིན་གྱི་དཀྱིལ་འཁོར་ཆེན་པོའི་ཁང་པ་བརྩེགས་པ་ན་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་། བྱང་ཆུབ་སེམས་དཔའི་དགེ་འདུན་ཆེན་པོ་དང་། ཀླུའི་རྒྱལ་པོའི་ཚོགས་ཆེན་པོ་འདི་ལྟ་སྟེ། ཀླུའི་རྒྱལ་པོ་དགའ་བོ་དང་། ཉེ་དགའ་དང་། རྒྱ་མཚོ་དང་། མ་དྲོས་པ་དང་། གཟི་ཅན་དང་། ཆུ་ལྷ་དང་། འཇོག་པོ་དང་། ཡུལ་འཁོར་སྲུང་དང་། ནོར་རྒྱས་ཀྱི་བུ་དང་། ཀླུའི་རྒྱལ་པོ་བཏང་བཟུང་དང་། ས་སྲུང་གི་བུ་དང་། མདོངས་བུ་དང་། དཔལ་གྱི་གཟི་བརྗིད་དང་། དཔལ་བཟངས་དང་། གློག་གི་ཕྲེང་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Bhagavān was at the home of the nāga kings Nanda and Upananda, a lavish palace made of jewels and gems within a great multitude of clouds,<tei:note xml:id="UT22084-064-005-632"/> together with a great assembly of bhikṣus, a great assembly of bodhisattvas, and a great host of nāga kings.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-6">
+    <prop type="location-id">UT22084-064-005-17</prop>
+    <tuv xml:lang="bo">
+                <seg>གཙུག་ན་ནོར་བུ་རིན་པོ་ཆེ་དང་། གཙུག་ན་ནོར་བུ་ཐོགས་དང་། སྣང་ལྡན་གཙུག་ཕུད་ཅན་དང་། གཙུག་ཕུད་འཇའ་ཅན་དང་། ཀླུའི་རྒྱལ་པོ་དབང་པོའི་རྒྱལ་མཚན་དང་། དབང་པོའི་མཆོད་སྡོང་དང་། འཛམ་བུའི་རྒྱལ་མཚན་དང་། བཀྲ་ཤིས་ལྡན་དང་། དཀྱིལ་འཁོར་ཆེན་པོ་ཅན་དང་། ལག་གིས་འགྲོ་ཆེན་པོ་དང་། སྐར་མདོག་དང་། ཟླ་བའི་གཟི་བརྗིད་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-17"/>There were the nāga kings Nanda, Upananda, Sāgara, Anavatapta, Manasvin, Varuṇa, Takṣaka, Dhṛtarāṣṭra, Vāsuki, Mucilinda, Airāvaṇa, Pauṇḍra, Śrītejas, Śrībhadra, Vidyunmālin, Precious Jewel Crest,<tei:note xml:id="UT22084-064-005-562"/> Cūḍāmaṇidhara, Avabhāsanaśikhin, and Indrāyudhaśikhara.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-7">
+    <prop type="location-id">UT22084-064-005-17</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་གྱི་བློ་གྲོས་དང་། ཟླ་མཐོང་དང་། ཀླུའི་རྒྱལ་པོ་ལེགས་མཐོང་དང་། ཤིན་ཏུ་བརྟན་དང་། མགུལ་ན་ནོར་བུ་དང་། སྤྲིན་བྱུང་དང་། ཆར་རྒྱུན་དང་། རབ་འཇོམས་དང་། རྣམ་པར་འཇོམས་དང་། མཐུ་བསྒྱིངས་དང་། གདེངས་ཀ་ཆེན་པོ་དང་། དབྱངས་ཟབ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There were also the nāga kings Indradhvaja, Indrayaṣṭi, Jambudhvaja, Svastika, Mahāmaṇḍalika, Mahābhujaṃga, Jyotīrasa, Śaśitejas, Noble Intelligence,<tei:note xml:id="UT22084-064-005-563"/> and Somadarśana, and there were the nāga kings Sudarśana, Supratiṣṭhita, Maṇikaṇṭha, Meghasambhava, Varṣadhāra, Prasphoṭaka, Visphoṭaka, Visphūrjita, Mahāphaṇaka, and Gambhīranirghoṣa.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-8">
+    <prop type="location-id">UT22084-064-005-17</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུའི་རྒྱལ་པོ་ཆེར་སྒྲོགས་དང་། རྣམ་པར་སྒྲ་འབྱིན་དང་། ཨུད་པལ་དང་། རྩལ་ཆེན་དང་། <tei:ref folio="F.251.a"/>གཤོལ་མདའ་འཛིན་དང་། སྣ་ཚོགས་སྡེ་དང་། ཞགས་པ་ཆེན་པོ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There were also the nāga kings Mahānirnādanādin, Vinardita, Utpalaka, Mahāvikrama, Īṣādhāra, Citrasena, and Mahāpāśa, the nāga king Elāpattra, All Illuminating,<tei:note xml:id="UT22084-064-005-565"/> Kharakarṇa, Śaṅkha, Dardara, the nāga king Upadardara, Kṣemaṃkara,<tei:note xml:id="UT22084-064-005-566"/> Bhujaṃgama, Mahābhujaṃgama, Mahābala,<tei:note xml:id="UT22084-064-005-567"/> Soarer,<tei:note xml:id="UT22084-064-005-568"/> Apalāla, Lambura, Kṛmiśa, and Kṛṣṇa.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-9">
+    <prop type="location-id">UT22084-064-005-17</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུའི་རྒྱལ་པོ་ཨེ་ལའི་འདབ་མ་དང་། ཀུན་ཏུ་སྣང་དང་། རྣ་རྩུབ་དང་། དུང་དང་། ད་ར་ད་ར་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There were also the nāga kings Indrasena, Naḍa, Upanaḍa, Kambudhāra, Dramiḍa, Sundara, Elephant’s Trunk,<tei:note xml:id="UT22084-064-005-569"/> Tīkṣṇaka, Piṅgala, Vidyujjvāla, Mahāvidyujjvāla, Baladeva, and Kambala.<tei:note xml:id="UT22084-064-005-570"/>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-10">
+    <prop type="location-id">UT22084-064-005-17</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུའི་རྒྱལ་པོ་ཨུ་པ་ད་ར་ད་ར་དང་། བདེ་བྱེད་དང་། ལག་འགྲོ་དང་། ལག་འགྲོ་ཆེན་པོ་དང་། དྲི་མ་ཆེན་པོ་དང་། འཕུར་ལྡིང་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There were also the nāga kings Bharukaccha, Amṛta, Tīrthaka, Vaiḍūryaprabha, Suvarṇakeśa,<tei:note xml:id="UT22084-064-005-571"/> Kanakaprabha, Śaśiketuprabha, Sūryaprabha, Udayana, and Gaveśīrṣa.<tei:note xml:id="UT22084-064-005-572"/>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-11">
+    <prop type="location-id">UT22084-064-005-17</prop>
+    <tuv xml:lang="bo">
+                <seg>སོག་མ་མེད་དང་། འཕྱང་བ་དང་། སྲིན་བུ་གནས་དང་། ནག་པོ་དང་། ཀླུའི་རྒྱལ་པོ་དབང་པོ་སྡེ་དང་། འདམ་བུ་དང་། ཉེ་བའི་འདམ་བུ་དང་། དུང་ཐོགས་དང་། འགྲོ་ལྡིང་དང་། རབ་མཛེས་དང་། གླང་ཆེན་སྣ་དང་། རྣོན་པོ་དང་། སེར་སྐྱ་དང་། གློག་འབར་དང་། གློག་འོད་ཆེན་པོ་དང་། སྟོབས་ལྷ་དང་། ཆུ་སྟོབས་དང་། ཀླུའི་རྒྱལ་པོ་དམ་པ་འགེབས་དང་། བདུད་རྩི་ཅན་དང་། མུ་སྟེགས་ཅན་དང་། བཻ་དཱུརྱའི་འོད་ཅན་དང་། གསེར་མདོག་སྒྲ་དང་། གསེར་འོད་དང་། ཟླ་བའི་རྒྱལ་མཚན་འོད་དང་། ཉི་འོད་དང་། འཆར་འོད་དང་། བལ་གླང་མགོ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There were also the nāga kings Śvetaka, Kālaka, Yama, Śrāmaṇa, Toad,<tei:note xml:id="UT22084-064-005-573"/> Saṃhatana,<tei:note xml:id="UT22084-064-005-574"/> Nimindhara, Dharaṇiṃdhara, Sahasraśīrṣa, and Maṇicūḍa.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-12">
+    <prop type="location-id">UT22084-064-005-17</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུའི་རྒྱལ་པོ་དཀར་པོ་དང་། ནག་པོ་དང་། གཤིན་རྗེ་དང་། དགེ་ཚུལ་དང་། སྦལ་པ་དང་། ངང་པའི་གཟི་བརྗིད་དང་། མུ་ཁྱུད་འཛིན་དང་། ས་འཛིན་དང་། མགོ་སྟོང་ཅན་དང་། གཙུག་ན་ནོར་བུ་དང་། ཀླུའི་རྒྱལ་པོ་དོན་ཡོད་མཐོང་དང་། སྤྲིན་ཆེན་དང་། སྡེ་བཟངས་དང་། ས་སྐྱོང་དང་། མིས་བྱིན་དང་། རྣམ་པར་དུལ་དང་། རྒ་བ་འབྱུང་དང་། ཆུ་སྲིན་ཀུན་བྷི་ར་དང་། ཆུ་སྲིན་ཀུན་བྷ་རའི་གདོང་དང་། དུག་འཛིན་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There were also the nāga kings Amoghadarśana, Balāhaka, Suṣeṇa, Gopāla, Naradatta, Vinīta, Jarāyana, Kumbhīra, Kumbhīramukha, and Viṣaṃdhara.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-13">
+    <prop type="location-id">UT22084-064-005-17</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུའི་རྒྱལ་པོ་མྱུར་གདུག་དང་། པད་མ་ཀ་དང་། འཇུག་མ་དང་། རབ་འཕྱང་དང་། འཇིགས་བྱེད་དང་། གཟི་བརྗིད་མཛེས་དང་། མགོ་ལྔ་པ་དང་། བལ་ལི་ར་དང་། ཤིང་རྟས་རྒྱལ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There were also the nāga kings Āśīviṣa, Padmaka, Lāṅgula, Pralamba, Bhīṣaṇa, Sutejas, Pañcaśīrṣa, Ballira, and Victorious Chariot.<tei:note xml:id="UT22084-064-005-575"/>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-14">
+    <prop type="location-id">UT22084-064-005-17</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུའི་རྒྱལ་པོ་བླ་མ་དང་། ཀླུའི་རྒྱལ་པོ་མཇུག་རིངས་དང་། མགོ་བོ་ཆེ་དང་། བིམ་པི་ཀ་དང་། བི་ཏ་ར་དང་། མགྱོགས་འགྲོ་དང་། ཀླུའི་རྒྱལ་པོ་མགོ་གསུམ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There were also the nāga kings Uttaraka, Dīrghapuccha, Sphāraśīrṣa, Bimbika, Vitara,<tei:note xml:id="UT22084-064-005-576"/> and Aśvaka, the nāga kings Triśīrṣa, Nāgasena, Mahātejas, and Naladatta, and the nāga kings Bhīmaka, Dīptaprabha, Saptaśīrṣa, Bṛhaddruma, Priyadarśana, Mahāpracaṇḍa, Vimalatejas, Sunetra, Mahāghora, and Arciḥskandha.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-15">
+    <prop type="location-id">UT22084-064-005-17</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུ་སྡེ་དང་། གཟི་ཆེན་དང་། འདམ་བུ་བྱིན་དང་། ཀླུའི་རྒྱལ་པོ་སྐྲག་བྱེད་དང་། འོད་འབར་དང་། མགོ་བདུན་པ་དང་། སྡོང་ཆེན་དང་། མཐོང་དགའ་དང་། རབ་ཏུ་ཆེར་གཏུམས་དང་། དྲི་མེད་གཟི་བརྗིད་དང་། མིག་བཟངས་དང་། དྲག་པོ་ཆེན་པོ་དང་། འོད་འཕྲོ་ཕུང་པོ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There were also the nāga kings Fierce,<tei:note xml:id="UT22084-064-005-577"/> Ugrakrodha, Ratnāmbuda, Mahāmeghāmbuda, Indraprabha, Pādapa, Meghacandra, Sāgaramegha, Mahāgandhakusuma, and Kumudākara.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-16">
+    <prop type="location-id">UT22084-064-005-17</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུའི་<tei:ref folio="F.251.b"/>རྒྱལ་པོ་གཏུམ་པོ་དང་། ཁྲོ་བོ་དྲག་ཤུལ་ཅན་དང་། རིན་ཆེན་ཆུ་སྦྱིན་དང་། ཆུ་སྦྱིན་སྤྲིན་ཆེན་དང་། དབང་པོའི་འོད་དང་། རྐང་པས་འཐུང་དང་། སྤྲིན་ཟླ་དང་། རྒྱ་མཚོའི་སྤྲིན་དང་། མེ་ཏོག་དྲི་ཆེན་དང་། ཀུ་མུ་དའི་འབྱུང་གནས་དང་། ཀླུའི་རྒྱལ་པོ་རིན་ཆེན་མིག་དང་། ཏོག་ཆེན་པོའི་རྒྱལ་མཚན་དང་། སྤྲིན་ཆེན་སྙིང་པོ་དང་། ཁ་བ་ཅན་དང་། དཔལ་གྱི་སྙིང་པོ་དང་། སྤྲིན་མཐུ་ཅན་དང་། མཚན་མོ་འཛིན་དང་། ཆུ་སྦྱིན་དང་། ཆུ་སྦྱིན་ཆེན་པོ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There were also the nāga kings Ratnanetra, Mahāketudhvaja, Mahāmeghagarbha, Himavat, Śrīgarbha, Meghaśaktika, Rajaniṃdhara, Ambuda, and Great Water-Giver<tei:note xml:id="UT22084-064-005-578"/> and the nāga kings Vaiśvānaratejas, Megheśvararāja, Vigatakrodha, Earth Vase,<tei:note xml:id="UT22084-064-005-579"/> Nāgaśūra, Jalaṃdhara, Meghacchatra, Aṅgiramukha, Tejasvin, and Meghasphuṭita.<tei:note xml:id="UT22084-064-005-596"/>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-17">
+    <prop type="location-id">UT22084-064-005-17</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུའི་རྒྱལ་པོ་གཟི་བརྗིད་མེ་འདྲ་དང་། སྤྲིན་གྱི་དབང་ཕྱུག་རྒྱལ་པོ་དང་། ཁྲོ་མེད་དང་། སའི་བུམ་པ་དང་། ཀླུ་དཔའ་དང་། ཆུ་འཛིན་དང་། སྤྲིན་གདུགས་དང་། ཨིང་གི་རའི་གདོང་དང་། གཟི་བརྗིད་ཅན་དང་། སྤྲིན་ལས་མངོན་བྱུང་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There were also the nāga kings Anantakrama, Suṣeṇa, Mahāśarīra, Vṛkodara, Śāntin, Vīra, Kākanāda,<tei:note xml:id="UT22084-064-005-581"/> Uddhura, Viṣogra, and Sughoṣa.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-18">
+    <prop type="location-id">UT22084-064-005-17</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུའི་རྒྱལ་པོ་གོམ་སྟབས་མཐའ་ཡས་དང་། ཆ་བྱད་མཛེས་དང་། ལུས་ཆེན་དང་། སྤྱང་ལྟོ་དང་། ཞི་བ་དང་། དཔའ་བ་དང་། གསེར་ངད་ཅན་དང་། མཆོག་ཏུ་བརྩོན་དང་། དུག་དྲག་དང་། དབྱངས་སྙན་དང་། ཀླུའི་རྒྱལ་པོ་བདུད་རྩིའི་སྙིང་པོ་དང་། རབ་ཏུ་ཆར་འབེབས་ཆེན་པོ་དང་། རྣམ་པར་གཡོ་དང་། འཁྲུག་སྒྲ་དང་། རྔ་སྒྲ་དང་། བདུད་རྩི་རྒྱུན་དང་། དགའ་བར་བྱེད་པ་དང་། འབྲུག་སྒྲོགས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There were also the nāga kings Amṛtasāra, Mahāpravarṣaka, Completely Quaking,<tei:note xml:id="UT22084-064-005-582"/> Saṃghaṭṭaśabda, Dundubhisvara, Amṛtadhāra, Nandika, Garjasphoṭaka, Śūrasena, Nārāyaṇa, and Vaḍabāmukha, and there was the nāga king Deceiver.<tei:note xml:id="UT22084-064-005-583"/>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-19">
+    <prop type="location-id">UT22084-064-005-20</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔའ་སྡེ་དང་། སྲེད་མེད་ཀྱི་བུ་དང་། རྒྱ་མཚོའི་གློང་དང་། ཀླུའི་རྒྱལ་པོ་ཡོན་པོ་དང་། ཀླུའི་རྒྱལ་པོ་ཆེན་པོ་དེ་དག་ལ་སོགས་པ་ཀླུ་བྱེ་བ་ཁྲག་ཁྲིག་བརྒྱ་སྟོང་ཕྲག་བརྒྱད་ཅུ་རྩ་བཞི་དག་འདུས་ཏེ་འཁོད་པ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-20"/>Those and other great nāga kings,<tei:note xml:id="UT22084-064-005-584"/> altogether eighty-four septillions nāgas, gathered, sat down, and stayed there together.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-20">
+    <prop type="location-id">UT22084-064-005-20</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེའི་ཚེ་ཀླུའི་རྒྱལ་པོ་དེ་དག་འཁོར་དང་བཅས་ཏེ་སྟན་ལས་ལངས་ནས་བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ཏེ། པུས་མོ་གཡས་པའི་ལྷ་ང་ས་ལ་བཙུགས་ནས། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས་བླ་མ་ལ་གུས་པ་དང་། ཕུ་དུད་ཆེན་པོ་བྱེད་པས་མེ་ཏོག་དང་། བདུག་པ་དང་། སྤོས་དང་། ཕྲེང་བ་དང་། བྱུག་པ་དང་། ཕྱེ་མ་དང་། ན་བཟའ་དང་། གདུགས་དང་། རྒྱལ་མཚན་དང་། བ་དན་དང་། དར་གྱི་ལྡ་ལྡི་དང་། རོལ་མོའི་སྒྲ་དང་། སིལ་སྙན་དང་། ཕེག་རྡོབ་པ་དང་། གླུ་དབྱངས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>At this point, all those nāga kings, together with their retinues, arose from their seats, draped their robes over one shoulder, knelt with their right knees on the ground, joined their palms, and saluted the Bhagavān.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-21">
+    <prop type="location-id">UT22084-064-005-20</prop>
+    <tuv xml:lang="bo">
+                <seg>རིན་པོ་ཆེའི་མེ་ཏོག་དང་། རིན་པོ་ཆེའི་ལྡ་ལྡི་དང་། མུ་ཏིག་གི་ཕྲེང་བ་དང་། ཀླུའི་མེ་ཏོག་དང་། མུ་ཏིག་གི་དྲ་བ་མཆོག་ཏུ་མཛེས་པ་རྣམ་<tei:ref folio="F.252.a"/>པ་སྣ་ཚོགས་དཔག་ཏུ་མེད་གྲངས་མེད་པ་དག་བཅོམ་ལྡན་འདས་ལ་ཕུལ་ནས་བསྐོར་བ་བྱས་ཏེ་ཕྱོགས་གཅིག་ཏུ་འདུག་གོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Showing great respect and honor to the teacher, they made offerings to the Bhagavān of various, supremely beautiful flowers, incense, perfumes, garlands, ointments, powders, clothes, parasols, victory banners, banners, silk tassels,<tei:note xml:id="UT22084-064-005-585"/> music,<tei:note xml:id="UT22084-064-005-586"/> cymbals,<tei:note xml:id="UT22084-064-005-587"/> small cymbals, songs, jeweled flowers, jeweled tassels,<tei:note xml:id="UT22084-064-005-588"/> pearl necklaces, nāga flowers, and supremely beautiful pearl-adorned nets.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-22">
+    <prop type="location-id">UT22084-064-005-20</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཕྱོགས་གཅིག་ཏུ་འདུག་ནས་སྨོན་ལམ་རྣམས་བཏབ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They then<tei:note xml:id="UT22084-064-005-589"/> circumambulated the Bhagavān and stood to one side.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-23">
+    <prop type="location-id">UT22084-064-005-21</prop>
+    <tuv xml:lang="bo">
+                <seg>ལུས་རྒྱ་མཚོ་འཇིག་རྟེན་གྱི་ཁམས་རྒྱ་མཚོ་ཐམས་ཅད་ཀྱི་རྡུལ་ཕྲ་རབ་ཀྱི་རྡུལ་སྙེད་ཀྱིས་སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའི་འཁོར་གྱི་དཀྱིལ་འཁོར་རྒྱ་མཚོ་ཐམས་ཅད་དང་། འཇིག་རྟེན་གྱི་ཁམས་རབ་འབྱམ་རྒྱ་མཚོ་ཐམས་ཅད་དང་། ས་དང་། ཆུ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-21"/>Having stood to one side, they made a vow together: “With oceans of bodies as numerous as all the atomic particles in all the oceans of world-systems, we make offerings<tei:note xml:id="UT22084-064-005-22"/> to all oceans of buddhas and bodhisattvas with their retinues.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-24">
+    <prop type="location-id">UT22084-064-005-21</prop>
+    <tuv xml:lang="bo">
+                <seg>མེ་དང་། རླུང་ཐམས་ཅད་ཀྱི་རྡུལ་ཕྲ་རབ་ཀྱི་རྡུལ་རྣམས་དང་། གཟུགས་སུ་སྣང་བ་ཐམས་ཅད་ཀྱི་རྡུལ་ཕྲ་རབ་ཀྱི་རྡུལ་རྣམས་ལས་རྡུལ་ཕྲ་རབ་ཀྱི་རྡུལ་རེ་རེ་ལ་ཡང་ལུས་ཀྱི་སྤྲིན། རྒྱ་མཚོ་བགྲང་བའི་རྒྱ་མཚོ་ཐམས་ཅད་ལས་ཡང་དག་པར་འདས་པ་གྲངས་མེད། དཔག་ཏུ་མེད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Within each and every atomic particle of earth, water, fire, and wind and all the atomic particles of apparent forms within all the infinite oceans of world-systems lie oceans of clouds of bodies that are beyond countless, unfathomable, inconceivable, unparalleled, immeasurable, inexpressible, and more numerous than all numerable oceans.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-25">
+    <prop type="location-id">UT22084-064-005-21</prop>
+    <tuv xml:lang="bo">
+                <seg>བསམ་གྱིས་མི་ཁྱབ་མཚུངས་པ་མེད། གཞལ་དུ་མེད། བརྗོད་དུ་མེད་པ་ལས་ཡང་དག་པར་འདས་པ་དག་དང་། ལུས་རེ་རེ་ལ་ཡང་ལག་པ་རྒྱ་མཚོའི་སྤྲིན་ཕྱོགས་ཀུན་གྱི་རྒྱུན་དུ་མངོན་པར་ཕྱོགས་པ་དཔག་ཏུ་མེད་གྲངས་མེད་པ་དག་བྱིན་གྱིས་བརླབས་ནས། རྡུལ་ཕྲ་རབ་ཀྱི་རྡུལ་གྱི་ཆ་རེ་རེ་ལས་ཀྱང་མཆོད་པ་ཐམས་ཅད་ཀྱི་སྤྲིན་རྒྱ་མཚོ་ཕྱོགས་ཀུན་གྱི་གཞི་རྒྱས་པར་འགེངས་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Upon each and every one of these bodies are emanated immeasurable, countless oceans of clouds of hands, from which are emanated oceans of clouds of all manner of offerings, distinct and radiating continuously in all directions.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-26">
+    <prop type="location-id">UT22084-064-005-21</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་འདྲེས་པ་རྣམས་ཀྱིས་སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་མཆོད་པ་བྱའོ་སྙམ་པ་འདི་ལྟ་སྟེ། ཀུན་དུ་སྤྱོད་པའི་ལུས་རྒྱ་མཚོ་སྤྲིན་མ་འདྲེས་པ་དཔག་ཏུ་མེད། གྲངས་མེད། བསམ་གྱིས་མི་ཁྱབ། གཞལ་དུ་མེད། ཚད་མེད། བརྗོད་དུ་མེད་པ་དག་གིས་ནམ་མཁའི་དཀྱིལ་ཀུན་དུ་ཁེབས་པར་བྱིན་གྱིས་བརླབས་ནས་བྱང་ཆུབ་སེམས་དཔའི་ལུས་རྒྱ་མཚོ་སྤྲིན་རྣམས་ཀྱིས་ཇི་ལྟ་བ་དེ་བཞིན་དུ་རིན་པོ་ཆེ་ཐམས་ཅད་ཀྱི་ཁ་དོག་དང་། འོད་ཟེར་སྟུག་པོ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With these, we will make offerings to all buddhas and bodhisattvas.”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-27">
+    <prop type="location-id">UT22084-064-005-23</prop>
+    <tuv xml:lang="bo">
+                <seg>ཉི་མ་དང་། ཟླ་བ་ཐམས་ཅད་ལྟ་བུའི་ལུས་ཀྱི་འཁོར་གྱི་དཀྱིལ་འཁོར་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། རིན་པོ་ཆེ་ཐམས་ཅད་ཀྱི་ཕྲེང་བ་དང་། མེ་ཏོག་གི་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། རིན་པོ་ཆེ་ཐམས་ཅད་ཀྱི་སྣང་བ་ཆེན་པོའི་སྙིང་པོའི་ཁང་པ་བརྩེགས་པ་རྒྱ་མཚོའི་སྤྲིན་རྣམས་དང་། ཕྱེ་མ་དང་། ཤིང་ལྗོན་པ་ཐམས་ཅད་ཀྱི་མཛོད་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། སྤོས་དང་། བདུག་པ་<tei:ref folio="F.252.b"/>ཐམས་ཅད་ཀྱི་གཟུགས་ཀུན་དུ་སྟོན་པ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། སྒྲ་ཐམས་ཅད་སྒྲོགས་པའི་རོལ་མོའི་སྒྲ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-23"/>Thinking thus, they continued: “We will fill the sky with unfathomable, countless, inconceivable, immeasurable, incalculable, inexpressible, distinct emanations of bodies engaging in the perfect conduct of Samantabhadra, with oceans of clouds of bodhisattva bodies, and likewise with a multitude of oceans of clouds of all manner of jewels, densely arrayed rays of light, and bodies of all suns and moons, together with oceans of clouds of jeweled garlands and flowers; oceans of clouds of great mansions made from the essence of all brilliant jewels; oceans of clouds of storehouses of all manner of powders and trees; oceans of clouds of incenses, perfumes, and all manner of apparent forms; oceans of clouds of the sounds of instruments resounding with all manner of music; and oceans of clouds of all manner of trees used for incense.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-28">
+    <prop type="location-id">UT22084-064-005-23</prop>
+    <tuv xml:lang="bo">
+                <seg>སྤོས་ཐམས་ཅད་ཀྱི་ཤིང་ལྗོན་པ་རྒྱ་མཚོ་སྤྲིན་རྣམས་ཀྱིས་ནམ་མཁའི་དཀྱིལ་ཀུན་དུ་ཁེབས་པར་བྱིན་གྱིས་བརླབས་ནས་དེ་ལ་སོགས་པ་མཆོད་པ་ཐམས་ཅད་ཀྱི་སྤྲིན་རྒྱ་མཚོ་དཔག་ཏུ་མེད། གྲངས་མེད། བསམ་གྱིས་མི་ཁྱབ། གཞལ་དུ་མེད། ཚད་མེད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>We will fill the sky with these emanations, with oceans of cloud of all manner of offerings that are unfathomable, countless, inconceivable, immeasurable, incalculable, inexpressible, and distinct.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-29">
+    <prop type="location-id">UT22084-064-005-23</prop>
+    <tuv xml:lang="bo">
+                <seg>བརྗོད་དུ་མེད་པ། མ་འདྲེས་པ་རྣམས་ཀྱིས། སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་རྒྱ་མཚོ་ཐམས་ཅད་ལ་བསྟི་སྟང་དུ་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Having done all this, we will proceed to pay homage to all the oceans of buddhas and bodhisattvas.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-30">
+    <prop type="location-id">UT22084-064-005-23</prop>
+    <tuv xml:lang="bo">
+                <seg>།བླ་མར་བྱའོ། །རི་མོར་བྱའོ། །མཆོད་པར་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>We will exalt them, honor them, and make offerings to them. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-31">
+    <prop type="location-id">UT22084-064-005-24</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཡུལ་ཐམས་ཅད་དུ་བཀོད་པ་རྣམ་པར་སྣང་བར་བྱས་པའི་སྙིང་པོ་ཅན་གྱི་ནོར་བུའི་རྒྱལ་པོ་རྒྱ་མཚོ་སྤྲིན་རྣམས་ཀྱིས་ནམ་མཁའི་དཀྱིལ་ཀུན་དུ་ཁེབས་པར་བྱིན་གྱིས་བརླབས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-24"/>We will fill the sky with emanations of oceans of clouds of kings of jewels within which all the arrayed realms of existence are illuminated.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-32">
+    <prop type="location-id">UT22084-064-005-24</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་རྒྱ་མཚོ་ཐམས་ཅད་ལ་བསྟི་སྟང་དུ་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Having done so, we will pay homage to all the oceans of buddhas and bodhisattvas.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-33">
+    <prop type="location-id">UT22084-064-005-24</prop>
+    <tuv xml:lang="bo">
+                <seg>།བླ་མར་བྱའོ། །རི་མོར་བྱའོ། །མཆོད་པར་བྱའོ། །ཐམས་ཅད་ཀུན་དུ་སྣང་བའི་རིན་པོ་ཆེའི་ཆར་འབབ་པ་བཀོད་པའི་ནོར་བུའི་རྒྱལ་པོ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། རིན་པོ་ཆེ་ཐམས་ཅད་ཀྱི་འོད་འཕྲོ་བ་འབར་བ་དང་ལྡན་པ་སངས་རྒྱས་ལ་ངེས་པར་གྱུར་པའི་དབྱངས་ཀྱི་ནོར་བུའི་རྒྱལ་པོ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། ཀུན་དུ་སྒྲས་འགེངས་པ་སངས་རྒྱས་ཀྱི་ཆོས་ཐམས་ཅད་ཀྱི་དབྱངས་ཅན་ནོར་བུའི་རྒྱལ་པོ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>We will exalt them, honor them, and make offerings to them. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-34">
+    <prop type="location-id">UT22084-064-005-25</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་ནས་སྒོ་རིན་པོ་ཆེ་འོད་ཟེར་གྱིས་སངས་རྒྱས་ཀྱི་སྤྲུལ་པ་སྣང་བར་བྱེད་པ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། འཁོར་གྱི་དཀྱིལ་འཁོར་མ་འདྲེས་པ་རྣམས་སུ་བཀོད་པ་ཐམས་ཅད་སྣང་བ་ཀུན་དུ་སྟོན་པའི་ནོར་བུའི་རྒྱལ་པོ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། འོད་འཕྲོ་བ་སྒྲོན་མ་སངས་རྒྱས་ཀྱི་ཡུལ་ཐམས་ཅད་ཀྱི་རྗེས་སུ་འཇུག་པའི་ནོར་བུའི་རྒྱལ་པོ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། སངས་རྒྱས་ཀྱི་ཞིང་བསམ་གྱིས་མི་ཁྱབ་པ་རྣམས་སུ་དེ་བཞིན་གཤེགས་པའི་གཞལ་མེད་ཁང་སྣང་བ་ཀུན་དུ་སྟོན་པའི་ནོར་བུའི་རྒྱལ་པོ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། རིན་པོ་ཆེ་སྣ་ཚོགས་ཐམས་ཅད་ཀྱི་རྡུལ་ལ་དུས་གསུམ་གྱི་སངས་རྒྱས་ཀྱི་སྐུ་སྣང་བ་རྣམ་པར་སྣང་བར་བྱེད་པའི་ནོར་བུའི་རྒྱལ་པོ་རྒྱ་མཚོ་སྤྲིན་རྣམས་ཀྱིས་ནམ་མཁའི་དཀྱིལ་ཀུན་དུ་ཁེབས་པར་བྱིན་གྱིས་བརླབས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-25"/>We will fill the sky with emanations of oceans of clouds of arrayed kings of jewels that shower down a rain of all-illuminating gemstones; oceans of clouds of kings of jewels blazing with the light of all gemstones, resounding with the melodic sounds of the attainment of buddhahood; oceans of clouds of kings of jewels filling everywhere with the universal resounding of the melodies of all the Dharma teachings of the buddhas; oceans of clouds of emanated buddha bodies illuminated by jeweled light radiating from all directions; oceans of clouds of kings of jewels that display the appearance of all the arrays of distinct retinues; oceans of clouds of kings of jewels whose brilliant lamp-like rays of light enter into all buddha realms; oceans of clouds of kings of jewels that display the appearances of all the immeasurable palaces of the tathāgatas in all the inconceivable buddhafields; and oceans of clouds of kings of jewels that illuminate the display of the bodies of the buddhas of the three times within the atomic particles of all variety of gemstones.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-35">
+    <prop type="location-id">UT22084-064-005-25</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་རྒྱ་མཚོ་སྤྲིན་ཐམས་<tei:ref folio="F.253.a"/>ཅད་ལ་བསྟི་སྟང་དུ་བྱའོ། །བླ་མར་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With these, we will pay homage to all the oceans of buddhas and bodhisattvas.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-36">
+    <prop type="location-id">UT22084-064-005-25</prop>
+    <tuv xml:lang="bo">
+                <seg>།རི་མོར་བྱའོ། །མཆོད་པར་བྱའོ། །རིན་པོ་ཆེ་དང་། སྤོས་དང་། མེ་ཏོག་སྣ་ཚོགས་ཐམས་ཅད་ཀྱི་ཁང་པ་བརྩེགས་པ་མ་འདྲེས་པ་རྒྱ་མཚོའི་སྤྲིན་རྣམས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>We will exalt them, honor them, and make offerings to them. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-37">
+    <prop type="location-id">UT22084-064-005-26</prop>
+    <tuv xml:lang="bo">
+                <seg>ནོར་བུ་རིན་པོ་ཆེའི་རྒྱལ་པོ་ཁ་དོག་མཐའ་ཡས་པ་ཐམས་ཅད་ཀྱིས་རབ་ཏུ་བརྒྱན་པའི་ཁང་པ་བརྩེགས་པ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། རིན་པོ་ཆེའི་སྒྲོན་མ་དང་། སྤོས་ཀྱི་འོད་འཕྲོ་བ་ཅན་གྱི་ཁང་པ་བརྩེགས་པ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། མུ་ཏིག་ཐམས་ཅད་ཀྱིས་རྣམ་པར་སྤྲས་པའི་ཁང་པ་བརྩེགས་པ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། མེ་ཏོག་ཐམས་ཅད་ཀྱི་ཟེ་བ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། རིན་པོ་ཆེའི་ཕྲེང་བ་མཐའ་ཡས་པས་ལེགས་པར་བརྒྱན་པའི་ཁང་པ་བརྩེགས་པའི་རྒྱ་མཚོ་སྤྲིན་རྣམས་ཀྱིས་ནམ་མཁའི་དཀྱིལ་ཀུན་དུ་ཁེབས་པར་བྱིན་གྱིས་བརླབས་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-26"/>We will fill the sky with emanations of oceans of clouds of distinct multistoried palaces of sundry jewels, incense, and flowers; oceans of clouds of multistoried palaces completely adorned with kings of jewels of an infinite variety of colors; oceans of clouds of multistoried palaces with jeweled lamps and radiant incense; oceans of clouds of multistoried palaces thoroughly bedecked with all manner of pearls; oceans of clouds of the anthers of all manner of flowers; and oceans of clouds of multistoried palaces beautifully adorned with infinite jewel garlands.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-38">
+    <prop type="location-id">UT22084-064-005-26</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱོགས་བཅུ་ཀུན་དུ་འོད་ཟེར་སྣང་བའི་སྙིང་པོ་ཅན། བཀོད་པ་ཐམས་ཅད་ཡང་དག་པར་འདུ་བའི་ཁང་པ་བརྩེགས་པ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། རིན་པོ་ཆེ་ཐམས་ཅད་ཀྱི་རྡུལ་ཕྲ་རབ་ཀྱིས་རབ་ཏུ་བརྒྱན་པ་བཀོད་པ་དུ་མ་ཀུན་དུ་སྟོན་པའི་ཁང་པ་བརྩེགས་པ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། བཀོད་པ་ཐམས་ཅད་ཀྱིས་རབ་ཏུ་བརྒྱན་པ་ཀུན་དུ་རྒྱས་པར་འགེངས་པའི་ཁང་པ་བརྩེགས་པ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། སྒོ་ཀུན་དུ་མེ་ཏོག་གི་རྟ་བབས་དྲིལ་བུའི་དྲ་བ་དཔྱངས་པ་རྒྱ་མཚོ་སྤྲིན་རྣམས་ཀྱིས་ནམ་མཁའི་དཀྱིལ་ཀུན་དུ་ཁེབས་པར་བྱིན་གྱིས་བརླབས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>We will then fill the sky with emanations of oceans of clouds of multistoried palaces that completely contain an adornment of all essences whose brilliance illuminates the ten directions; oceans of clouds of multistoried palaces that appear completely ornamented everywhere with adornments of fine particles of all manner of jewels; oceans of clouds of multistoried palaces overflowing with adornments of all manner of decorations; and oceans of clouds of multistoried palaces with flowered arches at each doorway hung with lattices of bells.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-39">
+    <prop type="location-id">UT22084-064-005-26</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་རྒྱ་མཚོ་ཐམས་ཅད་ལ་བསྟི་སྟང་དུ་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With these, we will pay homage to all the oceans of buddhas and bodhisattvas.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-40">
+    <prop type="location-id">UT22084-064-005-26</prop>
+    <tuv xml:lang="bo">
+                <seg>།བླ་མར་བྱའོ། །རི་མོར་བྱའོ། །མཆོད་པར་བྱའོ། །གསེར་དང་། རིན་པོ་ཆེ་སྣ་ཚོགས་ཀྱི་ཙོང་ཙོང་དང་། ཕྲེང་བ་དང་། རིན་པོ་ཆེའི་མགུལ་གདུབ་ཀྱི་སྙིང་པོ་ཅན་གྱི་སེང་གེའི་ཁྲི་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། མེ་ཏོག་ལྟར་སྣང་བ་སྣ་ཚོགས་ཀྱི་སྙིང་པོ་ཅན་གྱི་སེང་གེའི་ཁྲི་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>We will exalt them, honor them, and make offerings to them. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-41">
+    <prop type="location-id">UT22084-064-005-27</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨན་ད་རྙིལ་དང་། འཛམ་བུའི་ཆུ་བོའི་གསེར་གྱི་པད་མ་སྣ་ཚོགས་ཀྱི་སྙིང་པོ་ཅན་གྱི་སེང་གེའི་ཁྲི་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། ནོར་བུ་རིན་པོ་ཆེའི་སྒྲོན་མའི་པད་མའི་སྙིང་པོ་ཅན་གྱི་སེང་གེའི་ཁྲི་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་ནོར་བུ་རིན་པོ་ཆེ་སྣང་གསལ་རྒྱལ་མཚན་གྱི་པད་མ་སྣ་ཚོགས་ཀྱི་སྙིང་པོ་ཅན་གྱི་སེང་གེའི་ཁྲི་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། རིན་<tei:ref folio="F.253.b"/>པོ་ཆེས་བརྒྱན་པ་པད་མ་སྣ་ཚོགས་ཀྱི་སྙིང་པོ་ཅན་གྱི་སེང་གེའི་ཁྲི་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། ཨན་ད་རྙིལ་མཛེས་པར་འབར་བའི་འོད་ཟེར་ལྡན་པའི་པད་མའི་སྙིང་པོ་ཅན་གྱི་སེང་གེའི་ཁྲི་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། འོད་ཟེར་འབར་བ་ཟད་མི་ཤེས་པའི་གཟི་བརྗིད་དང་ལྡན་པའི་པད་མའི་སྙིང་པོ་ཅན་གྱི་སེང་གེའི་ཁྲི་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། རིན་པོ་ཆེ་འབར་བ་ཐམས་ཅད་བྱུང་བའི་པད་མའི་སྙིང་པོ་ཅན་གྱི་སེང་གེའི་ཁྲི་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། རིན་པོ་ཆེ་འབར་བ་མཆོག་དམ་པ་ཐམས་ཅད་བྱུང་བའི་པད་མའི་སྙིང་པོ་ཅན་གྱི་སེང་གེའི་ཁྲི་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། སངས་རྒྱས་ཀྱི་གསུང་སྒྲའི་འོད་ཟེར་དང་ལྡན་པའི་པད་མའི་སྙིང་པོ་ཅན་གྱི་སེང་གེའི་ཁྲི་རྒྱ་མཚོ་སྤྲིན་མ་འདྲེས་པ་རྣམས་ཀྱིས་ནམ་མཁའི་དཀྱིལ་ཀུན་དུ་ཁེབས་པར་བྱིན་གྱིས་བརླབས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-27"/>We will fill the sky with emanations of oceans of clouds of lion thrones containing necklaces of gold and various jewels and jeweled chokers; oceans of clouds of lion thrones containing various brilliant flowers; oceans of clouds of lion thrones containing various lotus flowers with the blue<tei:note xml:id="UT22084-064-005-28"/> color of the indranīla jewel and the golden hue of the Jambu River; oceans of clouds of lion thrones containing precious jeweled lotus lamps; oceans of clouds of lion thrones containing brilliantly bejeweled lotus victory banners; oceans of clouds of lion thrones containing various lotus flowers adorned with jewels; oceans of clouds of lion thrones containing lotus flowers decorated with indranīla jewels and blazing with golden light; oceans of clouds of lion thrones containing lotus flowers endowed with inexhaustibly brilliant blazing light; oceans of clouds of lion thrones containing lotus flowers that produce all manner of blazing jewels; oceans of clouds of lion thrones containing lotus flowers that produce all manner of supremely sublime blazing jewels; and distinct oceans of clouds of lion thrones containing lotus flowers endowed with the light rays of the sound of the Buddha’s speech.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-42">
+    <prop type="location-id">UT22084-064-005-27</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་རྒྱ་མཚོ་ཐམས་ཅད་ལ་བསྟི་སྟང་དུ་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With these, we will pay homage to all the oceans of buddhas and bodhisattvas.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-43">
+    <prop type="location-id">UT22084-064-005-27</prop>
+    <tuv xml:lang="bo">
+                <seg>།བླ་མར་བྱའོ། །རི་མོར་བྱའོ། །མཆོད་པར་བྱའོ། །སྤོས་དང་། ནོར་བུ་སྣ་ཚོགས་ཐམས་ཅད་ཀྱི་ཤིང་ལྗོན་པ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། ཀུན་ནས་སྒོ་ལོ་མ་ལས་ཐལ་མོ་སྦྱར་བའི་སྤྲིན་འབྱུང་བའི་སྤོས་ཀྱི་ཤིང་ལྗོན་པ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། ཤིང་ལྗོན་པ་ཐམས་ཅད་ཀྱི་གཟུགས་མཐའ་ཡས་པ་བཀོད་པ་ཀུན་དུ་སྟོན་པའི་ཤིང་ལྗོན་པ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། མེ་ཏོག་ཐམས་ཅད་ཀྱི་སྤྲིན་རབ་ཏུ་འཕྱང་བའི་སྤྲིན་ཤིང་ལྗོན་པ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>We will exalt them, honor them, and make offerings to them. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-44">
+    <prop type="location-id">UT22084-064-005-29</prop>
+    <tuv xml:lang="bo">
+                <seg>བཀོད་པ་ཐམས་ཅད་འབྱུང་བའི་མཛོད་མཐའ་ཡས་པ་དང་ལྡན་པའི་ཤིང་ལྗོན་པ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། རིན་པོ་ཆེ་འོད་འཕྲོ་བ་ཐམས་ཅད་ཀྱི་དཀྱིལ་འཁོར་རྣམ་པར་སྣང་བར་བྱེད་པའི་ཤིང་ལྗོན་པ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། བྱང་ཆུབ་སེམས་དཔའི་ལུས་ཕྱེད་ཙན་དན་ཐམས་ཅད་ཀྱི་ཕྱེ་མར་ཀུན་དུ་སྟོན་པའི་ཤིང་ལྗོན་པ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། བྱང་ཆུབ་ཀྱི་སྙིང་པོ་ཐམས་ཅད་ཀྱི་བཀོད་པ་བསམ་གྱིས་མི་ཁྱབ་པའི་འོད་ཅན་གྱི་ཤིང་ལྗོན་པའི་རིན་པོ་ཆེའི་གོས་ཐམས་ཅད་ཀྱི་མཛོད་ཉི་མ་ལྟར་སྣང་བར་བྱས་པ་དང་ལྡན་པའི་ཤིང་ལྗོན་པ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། སྒྲ་དབྱངས་ཐམས་ཅད་སྒྲོགས་པ་ཡིད་དུ་འོང་བའི་དབྱངས་ཀུན་དུ་གཏོང་བའི་ཤིང་ལྗོན་པ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། རིན་པོ་ཆེ་ཁ་དོག་མཐའ་ཡས་པའི་པད་མའི་སྙིང་པོ་ཅན་གྱི་སེང་གེའི་ཁྲི་རྒྱ་མཚོ་སྤྲིན་རྣམས་<tei:ref folio="F.254.a"/>དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-29"/>We will fill the sky with emanations of oceans of clouds of trees festooned with all manner of gemstones; oceans of clouds of incense trees wreathed all over with leaves that emanate clouds of joined palms; oceans of clouds of trees that appear as an infinite array of all forms of trees; oceans of clouds of trees draped with clouds of all manner of flowers; oceans of clouds of trees endowed with infinite troves that produce all manner of adornments; oceans of clouds of trees completely illuminated by multitudes of all radiant jewels; oceans of clouds of trees that manifest busts of bodhisattva bodies made from all manner of sandalwood powders; oceans of clouds of trees endowed with the brilliant solar light of the storehouse of all manner of precious clothing of the infinite tree spirits adorning all seats of awakening with inconceivable brilliant light; and oceans of clouds of trees emitting pleasing tones that resound with all manner of melodies. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-45">
+    <prop type="location-id">UT22084-064-005-30</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་དུ་མངོན་པར་ཕྱོགས་པའི་ནོར་བུའི་རྒྱལ་པོ་སྣང་བར་བྱེད་པའི་སྙིང་པོ་ཅན་གྱི་སེང་གེའི་ཁྲི་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། རྒྱན་བཀོད་པ་ཐམས་ཅད་ཀྱིས་རབ་ཏུ་བརྒྱན་པའི་སྙིང་པོ་ཅན་གྱི་སེང་གེའི་ཁྲི་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། རིན་པོ་ཆེ་སྣ་ཚོགས་འོད་འཕྲོ་བའི་སྒྲོན་མའི་ཕྲེང་བའི་སྙིང་པོ་ཅན་གྱི་སེང་གེའི་ཁྲི་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། ཀུན་ནས་སྒྲ་རིན་པོ་ཆེའི་ཤིང་ལྗོན་པ་འབྱུང་བའི་སྙིང་པོ་ཅན་གྱི་སེང་གེའི་ཁྲི་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། སྤོས་དང་མེ་ཏོག་དང་། པད་མ་ཐམས་ཅད་ཀྱི་ཕྲེང་བ་རིན་པོ་ཆེའི་སྙིང་པོ་ཅན་གྱི་སེང་གེའི་ཁྲི་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། སངས་རྒྱས་ཐམས་ཅད་ཀྱི་གདན་བཀོད་པ་ཀུན་དུ་སྟོན་པའི་ནོར་བུ་རིན་པོ་ཆེའི་རྒྱལ་པོའི་སྙིང་པོ་ཅན་གྱི་སེང་གེའི་ཁྲི་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། བཀོད་པ་ཐམས་ཅད་ཀྱི་ཕྲེང་བ་རབ་ཏུ་དཔྱངས་པའི་རྟ་བབས་སྟེགས་བུས་རབ་ཏུ་བརྒྱན་པ་རིན་པོ་ཆེའི་སྤྲིན་གྱི་སྙིང་པོ་ཅན་གྱི་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-30"/>We will fill the sky with emanations of<tei:note xml:id="UT22084-064-005-31"/> oceans of clouds of lion thrones containing infinite jewel-colored lotus flowers; oceans of clouds of lion thrones containing the brilliant, multifaceted kings of jewels; oceans of clouds of lion thrones containing adornments of all manner of ornamentation; oceans of clouds of lion thrones containing garlands of lamps that radiate the brilliant light of various jewels; oceans of clouds of lion thrones containing the source of a universally resounding rainfall of jewels; oceans of clouds of lion thrones containing precious garlands of all manner of incense, flowers, and lotus flowers; oceans of clouds of lion thrones containing the kings of jewels that completely manifest the adornments of the seats of all buddhas; oceans of clouds of lion thrones containing clouds of jewels and completely adorned with railed arches draped with garlands of all manner of adornments; oceans of clouds of lion thrones containing trees with precious jeweled branches and stores of incense powders; and oceans of clouds of lion thrones containing adornments of nets festooned with various incenses and jeweled bells as bright as the sun.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-46">
+    <prop type="location-id">UT22084-064-005-30</prop>
+    <tuv xml:lang="bo">
+                <seg>སེང་གེའི་ཁྲི་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། ནོར་བུ་རིན་པོ་ཆེའི་ཡལ་ག་དང་། ཕྱེ་མའི་མཛོད་ཡོད་པའི་སྡོང་པོ་ཐམས་ཅད་ཀྱི་སྙིང་པོ་ཅན་གྱི་སེང་གེའི་ཁྲི་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། སྤོས་སྣ་ཚོགས་དང་རིན་པོ་ཆེའི་དྲིལ་བུ་གཡེར་ཀའི་དྲ་བ་ཀུན་ནས་རྒྱན་ཉི་མ་སྣང་བར་བྱེད་པའི་སྙིང་པོ་ཅན་གྱི་སེང་གེའི་ཁྲི་རྒྱ་མཚོ་སྤྲིན་རྣམས་ཀྱིས་ནམ་མཁའི་དཀྱིལ་ཀུན་དུ་ཁེབས་པར་བྱིན་གྱིས་བརླབས་ཏེ། སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་རྒྱ་མཚོ་ཐམས་ཅད་ལ་བསྟི་སྟང་དུ་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With these, we will pay homage to all the oceans of buddhas and bodhisattvas.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-47">
+    <prop type="location-id">UT22084-064-005-30</prop>
+    <tuv xml:lang="bo">
+                <seg>།བླ་མར་བྱའོ། །རི་མོར་བྱའོ། །མཆོད་པར་བྱའོ། །ཡིད་བཞིན་གྱི་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>We will exalt them, honor them, and make offerings to them. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-48">
+    <prop type="location-id">UT22084-064-005-32</prop>
+    <tuv xml:lang="bo">
+                <seg>ནོར་བུའི་རྒྱལ་པོ་ཐམས་ཅད་ཀྱི་གཞལ་མེད་ཁང་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། ཨན་ད་རྙིལ་གྱི་ཟེ་བ་ཅན་གྱི་མེ་ཏོག་བཀོད་པ་ཐམས་ཅད་ཀྱི་བླ་རེ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། སྤོས་དང་། ནོར་བུ་ཐམས་ཅད་ཀྱི་བླ་རེ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། རིན་པོ་ཆེའི་འོད་འཕྲོ་བའི་སྒྲོན་མའི་གཟུགས་ཀྱི་བླ་རེ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། སངས་རྒྱས་ཀྱི་རྫུ་འཕྲུལ་རྣམ་པར་སྟོན་པར་སྣང་བའི་དབྱངས་ཅན་གྱི་ནོར་བུའི་རྒྱལ་པོའི་བླ་རེ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། ནོར་བུ་སྣ་ཚོགས་ཀྱི་གོས་བཀོད་པ་ཐམས་ཅད་སྣང་བ་ཀུན་ཏུ་སྟོན་པའི་བླ་རེ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། མེ་ཏོག་ཐམས་ཅད་ཀྱི་ཆུ་བོ་འབར་བར་སྣང་བའི་རིན་པོ་ཆེའི་བླ་རེ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། <tei:ref folio="F.254.b"/>དྲིལ་བུ་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-32"/>We will fill the sky with emanations of oceans of clouds of immeasurable palaces formed from all manner of wish-fulfilling kings of jewels; oceans of clouds of canopies adorned with all manner of flowers with indranīla anthers; oceans of clouds of canopies with all manner of incenses and gemstones; oceans of clouds of canopies formed like lamps radiating jewel light; oceans of clouds of canopies of kings of jewels resounding with melodies appearing from the Buddha’s magical display; oceans of clouds of canopies that display the appearance of being completely adorned with bejeweled cloth; oceans of clouds of canopies of precious jewels that shine with a blazing flood of flowers; oceans of clouds of canopies of nets of sundry bells that fill everywhere with their sounds; oceans of clouds of canopies of nets of lotus flowers having the essence of gemstones, resplendent with the brightness of infinite variegated blazing lotus flowers; oceans of clouds of canopies of victory banners that shine with the brilliant light rays of golden anthers; and oceans of clouds of canopies bedecked with an inconceivable amount of brilliant, radiant adornments.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-49">
+    <prop type="location-id">UT22084-064-005-32</prop>
+    <tuv xml:lang="bo">
+                <seg>སྣ་ཚོགས་ཀྱི་སྒྲས་ཀུན་དུ་རྒྱས་པར་འགེངས་པའི་དྲ་བའི་བླ་རེ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། པད་མ་འབར་བ་ཁ་དོག་མཐའ་ཡས་པ་སྣ་ཚོགས་སུ་སྣང་བའི་ནོར་བུའི་སྙིང་པོ་ཅན་གྱི་པད་མའི་དྲ་བའི་བླ་རེ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། གསེར་གྱི་ཟེ་བ་ཅན་གྱི་འོད་ཟེར་སྣང་བའི་རྒྱལ་མཚན་གྱི་བླ་རེ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། བཀོད་པ་བསམ་གྱིས་མི་ཁྱབ་པར་སྣང་བའི་འོད་མཐའ་ཡས་པ་བཀོད་པ་ཐམས་ཅད་ཀྱི་རྒྱན་གྱི་བླ་རེ་རྒྱ་མཚོ་སྤྲིན་རྣམས་ཀྱིས་ནམ་མཁའི་དཀྱིལ་ཀུན་དུ་ཁེབས་པར་བྱིན་གྱིས་བརླབས་ཏེ། སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་གང་ཆེན་མཚོ་སྤྲིན་རྒྱ་མཚོ་ཐམས་ཅད་ལ་བསྟི་སྟང་དུ་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With these, we will pay homage to all the vast oceans of buddhas and bodhisattvas.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-50">
+    <prop type="location-id">UT22084-064-005-32</prop>
+    <tuv xml:lang="bo">
+                <seg>།བླ་མར་བྱའོ། །རི་མོར་བྱའོ། །མཆོད་པར་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>We will exalt them, honor them, and make offerings to them. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-51">
+    <prop type="location-id">UT22084-064-005-33</prop>
+    <tuv xml:lang="bo">
+                <seg>།ནོར་བུ་རིན་པོ་ཆེ་སྣ་ཚོགས་ཐམས་ཅད་ཀྱི་གདུགས་རྒྱ་མཚོ་སྤྲིན་རྣམས་ཀྱིས་ནམ་མཁའི་དཀྱིལ་ཀུན་དུ་ཁེབས་པར་བྱིན་གྱིས་བརླབས་ལ་རིན་པོ་ཆེ་བཅུའི་འོད་ཟེར་སྣང་བ་བཀོད་པའི་མེ་ཏོག་གི་གདུགས་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། མུ་ཏིག་ཁ་དོག་མཐའ་ཡས་པའི་མཛོད་ཀྱི་གདུགས་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ཀྱི་སྙིང་རྗེའི་སྒོའི་སྒྲའི་ནོར་བུའི་རྒྱལ་པོའི་གདུགས་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། རིན་པོ་ཆེ་སྣ་ཚོགས་ཀྱི་འོད་འཕྲོ་བའི་ཕྲེང་བའི་གདུགས་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། རིན་པོ་ཆེའི་རྡུལ་ཀུན་དུ་སྣང་བས་རབ་ཏུ་བརྒྱན་པའི་དྲིལ་བུའི་དྲ་བ་དཔྱངས་པའི་གདུགས་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། ནོར་བུ་ཐམས་ཅད་ཀྱི་སྡོང་པོའི་ཡལ་གའི་རྒྱན་ཅན་གྱི་གདུགས་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། ཉི་མ་རྣམ་པར་སྣང་བར་བྱེད་པའི་འོད་འཕྲོ་བའི་ནོར་བུའི་རྒྱལ་པོ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-33"/>We will fill the sky with emanations of oceans of parasols with all manner of various precious jewels; oceans of clouds of parasols of flowers adorned with the ten precious jewels, which radiate brilliant light; oceans of clouds of parasols containing stores of pearls in an infinite variety of colors; oceans of clouds of parasols of the kings of jewels that resound with the teachings on compassion of all the buddhas and bodhisattvas; oceans of clouds of parasols with radiant garlands of various jewels; oceans of clouds of parasols hung with nets of bells completely decorated with brilliant jewel dust; oceans of clouds of parasols adorned with tree branches made from all manner of gemstones; oceans of clouds of parasols with the radiant kings of jewels that shine profusely like the sun and with all manner of incenses and perfumes; oceans of clouds of parasols imbued with stores of sandalwood powder spreading everywhere; and oceans of clouds of parasols imbued with all manner of adornments, filling everywhere and illuminating the vast, great domain of the buddhas.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-52">
+    <prop type="location-id">UT22084-064-005-33</prop>
+    <tuv xml:lang="bo">
+                <seg>སྤོས་དང་། བདུག་པ་ཐམས་ཅད་ཀྱི་གདུགས་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། ཙན་དན་གྱི་ཕྱེ་མའི་མཛོད་ཀུན་དུ་རྒྱས་པར་འགེངས་པའི་གདུགས་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། སངས་རྒྱས་ཀྱི་ཡུལ་རྒྱ་ཆེན་པོ་སྣང་བར་བྱེད་པ་ཀུན་དུ་བཀོད་པས་རྒྱས་པར་འགེངས་པའི་གདུགས་རྒྱ་མཚོ་སྤྲིན་མ་འདྲེས་པ་རྣམས་ཀྱིས་སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་རྒྱ་མཚོ་ཐམས་ཅད་ལ་བསྟི་སྟང་དུ་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With these, we will pay homage to all the oceans of buddhas and bodhisattvas.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-53">
+    <prop type="location-id">UT22084-064-005-33</prop>
+    <tuv xml:lang="bo">
+                <seg>།བླ་མར་བྱའོ། །རི་མོར་བྱའོ། །མཆོད་པར་བྱའོ། །རིན་པོ་ཆེ་ཐམས་ཅད་སྣང་བའི་དཀྱིལ་འཁོར་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། རིན་པོ་ཆེ་འོད་འཕྲོ་བ་<tei:ref folio="F.255.a"/>ཐམས་ཅད་ཀྱི་གཟུགས་ཀྱི་འོད་ཀྱི་དཀྱིལ་འཁོར་རྒྱ་མཚོ་སྤྲིན་མ་འདྲེས་པ་རྣམས་དང་། མེ་ཏོག་གི་སྤྲིན་སྣང་བར་བྱེད་པའི་འོད་ཀྱི་དཀྱིལ་འཁོར་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། རིན་པོ་ཆེ་ཐམས་ཅད་ཀྱི་འོད་ཟེར་སངས་རྒྱས་ཀྱི་སྤྲུལ་པའི་འོད་ཀྱི་དཀྱིལ་འཁོར་དང་ལྡན་པ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། སངས་རྒྱས་ཀྱི་ཞིང་ཐམས་ཅད་སྣང་བར་གཏོགས་པའི་འོད་ཀྱི་དཀྱིལ་འཁོར་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། ཀུན་ནས་སྒོ་སངས་རྒྱས་ཀྱི་ཡུལ་སྒྲོགས་པ་རིན་པོ་ཆེའི་ཡལ་གའི་འོད་ཀྱི་དཀྱིལ་འཁོར་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། བཻ་དཱུརྱ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>We will exalt them, honor them, and make offerings to them. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-54">
+    <prop type="location-id">UT22084-064-005-34</prop>
+    <tuv xml:lang="bo">
+                <seg>རིན་པོ་ཆེའི་རིགས་དང་། ནོར་བུ་རིན་པོ་ཆེའི་རྒྱལ་པོ་ཐམས་ཅད་ཀྱི་འོད་ཟེར་གྱི་འོད་ཀྱི་དཀྱིལ་འཁོར་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། སེམས་ཅན་གྱི་གཟུགས་མཐའ་ཡས་པ་དག་སེམས་ཀྱི་སྐད་ཅིག་ལ་ཀུན་དུ་སྟོན་པའི་འོད་ཀྱི་དཀྱིལ་འཁོར་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། སངས་རྒྱས་ཐམས་ཅད་ཀྱི་སྨོན་ལམ་ལས་བྱུང་བ་ཡིད་དུ་འོང་བའི་སྒྲ་རབ་ཏུ་འབྱིན་པ་དང་ལྡན་པའི་འོད་ཀྱི་དཀྱིལ་འཁོར་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། འཁོར་གྱི་དཀྱིལ་འཁོར་ཐམས་ཅད་དུ་སེམས་ཅན་འདུལ་བའི་དབྱངས་ཅན་ནོར་བུའི་རྒྱལ་པོའི་འོད་ཀྱི་དཀྱིལ་འཁོར་རྒྱ་མཚོ་སྤྲིན་རྣམས་ཀྱིས་སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་རྒྱ་མཚོ་ཐམས་ཅད་ལ་བསྟི་སྟང་དུ་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-34"/>We will fill the sky with oceans of clouds of multitudes of the splendor of all jewels; distinct oceans of clouds of multitudes of the light of the forms of all radiant jewels; oceans of clouds of multitudes of the light that illuminates clouds of flowers; oceans of clouds of light rays of all jewels endowed with multitudes of light emanated by the Buddha; oceans of clouds of multitudes of light that pervades all buddhafields with light; oceans of clouds of multitudes of the light of jeweled branches that resound in the buddha realms in all directions; oceans of clouds of multitudes of the light of the light rays of beryl, precious substances, and all the kings of precious jewels; oceans of clouds of multitudes of light that, in a single instant of thought, fully display the infinite forms of sentient beings; oceans of clouds of multitudes of light endowed with pleasing emitted sounds arisen from the aspirations of all the buddhas; and oceans of clouds of multitudes of the light of the kings of jewels that possess the melodies that tame sentient beings in all assemblies—with these, we will pay homage to all the oceans of buddhas and bodhisattvas.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-55">
+    <prop type="location-id">UT22084-064-005-34</prop>
+    <tuv xml:lang="bo">
+                <seg>།བླ་མར་བྱའོ། །རི་མོར་བྱའོ། །མཆོད་པར་བྱའོ། །ནོར་བུ་ཐམས་ཅད་ཀྱི་མཛོད་ཀྱི་འོད་ཟེར་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། སངས་རྒྱས་ཐམས་ཅད་ཀྱི་གཟུགས་དང་། སྒྲ་དང་། དྲི་དང་། རོ་དང་། རེག་བྱའི་འོད་ཟེར་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། རིན་པོ་ཆེ་ཐམས་ཅད་ཀྱི་འོད་འཕྲོ་བ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། སངས་རྒྱས་ཐམས་ཅད་ཀྱི་ཆོས་སྒྲོགས་པ་རྒྱས་པར་འགེངས་པའི་འོད་ཟེར་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>We will exalt them, honor them, and make offerings to them. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-56">
+    <prop type="location-id">UT22084-064-005-36</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཀྱི་ཞིང་བཀོད་པ་ཐམས་ཅད་སྣང་བར་བྱེད་པའི་འོད་ཟེར་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། མེ་ཏོག་གི་ཁང་པ་བརྩེགས་པ་ཐམས་ཅད་ཀྱི་འོད་ཟེར་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། རིན་པོ་ཆེ་ཐམས་ཅད་ཀྱི་རྡུལ་གྱི་འོད་ཟེར་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། བསྐལ་པ་གཅིག་ནས་གཅིག་ཏུ་བརྒྱུད་པ་ཐམས་ཅད་དུ་སངས་རྒྱས་འབྱུང་བས་སེམས་ཅན་ཡོངས་སུ་སྨིན་པར་བྱེད་པ་སྒྲོགས་པ་ཅན་གྱི་འོད་ཟེར་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། རིན་པོ་ཆེ་<tei:ref folio="F.255.b"/>མི་ཟད་པ་ཐམས་ཅད་བསྟན་པ་དང་། མེ་ཏོག་ཐམས་ཅད་ཀྱི་ཟེ་བའི་འོད་ཟེར་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-36"/>We will fill the sky with emanations of oceans of clouds of the light rays of stores of all gemstones; oceans of clouds of light rays of the forms, voices, scents, tastes, and sensations of all the buddhas; oceans of clouds of the radiant light of all precious jewels; oceans of clouds of light rays that fill everywhere with the sounds of the Dharma of all the buddhas; oceans of clouds of light rays that illuminate the entire array of buddhafields; oceans of clouds of the light rays of all multistoried palaces of flowers; oceans of clouds of the light rays of the particles of all jewels; oceans of clouds of light rays possessing the roar of the entire succession of buddhas arising within a single eon, which brings sentient beings to maturation; displays of inexhaustible jewels; oceans of clouds of light rays of the anthers of all flowers; and distinct oceans of clouds of light rays emitted from the array of all thrones.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-57">
+    <prop type="location-id">UT22084-064-005-36</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྲི་སྟན་བཀོད་པ་ཐམས་ཅད་ཀུན་ཏུ་སྟོན་པའི་འོད་ཟེར་རྒྱ་མཚོ་སྤྲིན་མ་འདྲེས་པ་རྣམས་ཀྱིས་སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་རྒྱ་མཚོ་ཐམས་ཅད་ལ་བསྟི་སྟང་དུ་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With these we will pay homage to all the oceans of buddhas and bodhisattvas.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-58">
+    <prop type="location-id">UT22084-064-005-36</prop>
+    <tuv xml:lang="bo">
+                <seg>།བླ་མར་བྱའོ། །རི་མོར་བྱའོ། །མཆོད་པར་བྱའོ། །རིན་པོ་ཆེའི་འོད་འཕྲོ་བ་ཁ་དོག་མཐའ་ཡས་པ་རྒྱ་མཚོ་སྤྲིན་མ་འདྲེས་པ་རྣམས་དང་། ཀུན་ཏུ་འོད་ཀྱི་ནོར་བུའི་རྒྱལ་པོ་འོད་འཕྲོ་བ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། སངས་རྒྱས་ཐམས་ཅད་ཀྱི་ཞིང་རྒྱ་ཆེན་པོ་བཀོད་པ་སྣང་བར་བྱེད་པའི་འོད་འཕྲོ་བ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། སྤོས་ཐམས་ཅད་ཀྱི་འོད་འཕྲོ་བ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། བཀོད་པ་ཐམས་ཅད་ཀྱི་འོད་འཕྲོ་བ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>We will exalt them, honor them, and make offerings to them. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-59">
+    <prop type="location-id">UT22084-064-005-38</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཐམས་ཅད་ཀྱི་སྤྲུལ་པའི་འོད་འཕྲོ་བ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། རིན་པོ་ཆེ་སྣ་ཚོགས་ཀྱི་ཤིང་གི་ཟེ་བ་འོད་འཕྲོ་བ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། གོས་ཐམས་ཅད་ཀྱི་འོད་འཕྲོ་བ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། བྱང་ཆུབ་སེམས་དཔའ་མཐའ་ཡས་པའི་སྤྱོད་པ་དབྱངས་ཅན་ནོར་བུའི་རྒྱལ་པོའི་འོད་འཕྲོ་བ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། མུ་ཏིག་གི་སྒྲོན་མ་ཐམས་ཅད་ཀྱི་འོད་འཕྲོ་བ་རྒྱ་མཚོ་སྤྲིན་མ་འདྲེས་པ་རྣམས་ཀྱིས་སངས་རྒྱས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-38"/>We will fill the sky with emanations of distinct oceans of clouds of the infinitely colored radiant light of precious jewels; oceans of clouds of the radiant light of all-illuminating kings of jewels; oceans of clouds of radiant light that illuminates the great, vast array of all buddhafields; oceans of clouds of the radiant light of all manner of incenses; oceans of clouds of the radiant light of all manner of adornments; oceans of clouds of the radiant light of the emanations of all buddhas; oceans of clouds of the radiant light of the anthers of trees of various jewels; and oceans of clouds of the radiant light of all manner of clothes.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-60">
+    <prop type="location-id">UT22084-064-005-38</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་གང་ཆེན་མཚོའི་སྤྲིན་གྱི་རྒྱ་མཚོ་ཐམས་ཅད་ལ་བསྟི་སྟང་དུ་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With these we will pay homage to all the vast oceans of buddhas and bodhisattvas.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-61">
+    <prop type="location-id">UT22084-064-005-38</prop>
+    <tuv xml:lang="bo">
+                <seg>།བླ་མར་བྱའོ། །རི་མོར་བྱའོ། །མཆོད་པར་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>We will exalt them, honor them, and make offerings to them. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-62">
+    <prop type="location-id">UT22084-064-005-40</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྤོས་དང་མེ་ཏོག་སྣ་ཚོགས་ཐམས་ཅད་ཀྱི་རྒྱན་རྒྱ་མཚོ་སྤྲིན་བསམ་གྱིས་མི་ཁྱབ་པ་རྣམས་དང་། རིན་པོ་ཆེ་འོད་འཕྲོ་བ་ཐམས་ཅད་ཀྱི་པད་མའི་དྲ་བ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། ནོར་བུ་རིན་པོ་ཆེ་ཁ་དོག་མཐའ་ཡས་པའི་འོད་ཀྱི་དཀྱིལ་འཁོར་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། རིན་པོ་ཆེ་ཐམས་ཅད་ཀྱི་ཁ་དོག་དང་ལྡན་པའི་མུ་ཏིག་གི་མཛོད་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། རིན་པོ་ཆེ་དང་། སྤོས་དང་། ཙན་དན་ཐམས་ཅད་ཀྱི་ཕྱེ་མ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། རིན་པོ་ཆེ་ཐམས་ཅད་ཀྱི་གདུགས་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། ནོར་བུའི་རྒྱལ་པོ་ཡིད་དུ་འོང་ཞིང་སྡུག་པ་མཛེས་པའི་དབྱངས་ཅན་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། ཉི་མའི་འོད་ཀྱི་ནོར་བུའི་ཚོགས་ཀྱི་ཕྲེང་བ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-40"/>We will fill the sky with emanations of inconceivable oceans of clouds of the adornments of all manner of various incenses and flowers; oceans of clouds of lotus nets of all manner of radiant jewels; oceans of clouds of stores of pearls endowed with the colors of all manner of jewels; oceans of clouds of powders made from all manner of jewels, incenses, and sandalwoods; oceans of clouds of parasols with all manner of jewels; oceans of clouds possessing pleasing kings of jewels and beautifying melodies; oceans of clouds of garlands with hosts of gemstones possessing the brilliance of the sun; oceans of clouds of infinite stores of jewels; and oceans of clouds of distinct bodies that are perfect in every way.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-63">
+    <prop type="location-id">UT22084-064-005-40</prop>
+    <tuv xml:lang="bo">
+                <seg>རིན་པོ་ཆེའི་མཛོད་མཐའ་ཡས་པ་རྒྱ་མཚོ་སྤྲིན་རྣམས་དང་། ཐམས་ཅད་ཀུན་ཏུ་བཟང་<tei:ref folio="F.256.a"/>པོའི་ལུས་མ་འདྲེས་པ་རྒྱ་མཚོ་སྤྲིན་རྣམས་ཀྱིས་སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་གང་ཆེན་མཚོའི་སྤྲིན་གྱི་རྒྱ་མཚོ་ཐམས་ཅད་ལ་བསྟི་སྟང་དུ་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With these, we will pay homage to all the vast oceans of buddhas and bodhisattvas.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-64">
+    <prop type="location-id">UT22084-064-005-40</prop>
+    <tuv xml:lang="bo">
+                <seg>།བླ་མར་བྱའོ། །རི་མོར་བྱའོ། །མཆོད་པར་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>We will exalt them, honor them, and make offerings to them.”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-65">
+    <prop type="location-id">UT22084-064-005-42</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཞེས་དེ་ལྟ་བུའི་སྨོན་ལམ་བཏབ་ནས་ཀླུའི་རྒྱལ་པོ་དེ་དག་གིས་ཡང་བཅོམ་ལྡན་འདས་ལ་ལན་གསུམ་བསྐོར་བ་བྱས་ཏེ་ཞབས་ལ་ཕྱག་འཚལ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-42"/>With such words, they made this aspiration. At this point, all the nāga kings circumambulated the Bhagavān three times and prostrated, touching his feet.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-66">
+    <prop type="location-id">UT22084-064-005-42</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་གནང་ནས་རང་རང་གི་སྟན་ལ་འཁོད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With the Bhagavān’s permission, they each took their seats.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-67">
+    <prop type="location-id">UT22084-064-005-43</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེའི་ཚེ་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོ་ཀླུའི་བདག་པོ་ཆེན་པོ་ཕྱིར་མི་ལྡོག་པའི་སྨོན་ལམ་གྱི་སྟོབས་ཅན་གཡོག་མཐའ་ཡས་རྒྱ་མཚོའི་སྤྲིན་བཀོད་པའི་གཟི་བརྗིད་ཀྱི་དཀྱིལ་འཁོར་གདུགས་ལྟ་བུའི་རྒྱལ་པོ་ཞེས་བྱ་བ་དེ་བཞིན་གཤེགས་པ་ལ་མཆོད་པ་བྱ་བ་དང་། ཕྱག་བྱ་བ་དང་། བསྙེན་བཀུར་བྱ་བ་དང་། ཆོས་མཉན་པའི་ཕྱིར་འཛམ་བུའི་གླིང་འདིར་འོངས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-43"/>At that time, possessing the strength of irreversible aspiration, the great lord of the nāgas in the trichiliocosm called Ananta­parikara­sāgara­megha­vyūha­tejo­maṇḍala­chartākāra­rāja came to this Jambudvīpa continent in order to listen to the Dharma and make offerings, pay homage, and venerate the Tathāgata.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-68">
+    <prop type="location-id">UT22084-064-005-43</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ནས་ཀླུའི་བདག་པོ་གཡོག་མཐའ་ཡས་རྒྱ་མཚོའི་སྤྲིན་བཀོད་པའི་གཟི་བརྗིད་ཀྱི་དཀྱིལ་འཁོར་གདུགས་ལྟ་བུའི་རྒྱལ་པོ་སྟན་ལས་ལངས་ཏེ་བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས་པུས་མོ་གཡས་པའི་ལྷ་ང་ས་ལ་བཙུགས་ཏེ་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་དེ། བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །གལ་ཏེ་ཞུས་ན་ཞུ་བ་ལུང་བསྟན་པའི་སླད་དུ་བཅོམ་ལྡན་འདས་ཀྱིས་བདག་ལ་སྐབས་ཕྱེ་ན། བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ལ་བདག་ཕྱོགས་འགའ་ཞིག་ཞུའོ། །དེ་སྐད་ཅེས་གསོལ་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then, the nāga lord<tei:note xml:id="UT22084-064-005-590"/> Ananta­parikara­sāgara­megha­vyūha­tejo­maṇḍala­chartākāra­rāja arose from his seat, draped his robe over one shoulder, touched his right knee to the ground with joined palms, and addressed the Bhagavān, asking, “If the Bhagavān might find time to grant an explanation in response to my inquiry, I would ask a question of the bhagavān, tathāgata, arhat, complete and perfect Buddha.”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-69">
+    <prop type="location-id">UT22084-064-005-44</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་ཀླུའི་བདག་པོ་གཡོག་མཐའ་ཡས་རྒྱ་མཚོའི་སྤྲིན་བཀོད་པའི་གཟི་བརྗིད་ཀྱི་དཀྱིལ་འཁོར་གདུགས་ལྟ་བུའི་རྒྱལ་པོ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །ཀླུའི་བདག་པོ་ཅི་དང་། ཅི་འདོད་པ་དྲིས་ཤིག་དང་། ངས་དྲིས་པ་དེ་དང་དེའི་ལུང་བསྟན་པས་ཁྱོད་ཀྱི་སེམས་རངས་པར་བྱའོ། །དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-44"/>The Bhagavān replied to Ananta­parikara­sāgara­megha­vyūha­tejo­maṇḍala­chartākāra­rāja, “Nāga lord, ask whatever you wish, and I will give you an explanation that will delight your mind.”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-70">
+    <prop type="location-id">UT22084-064-005-45</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལ་ཀླུའི་བདག་པོ་གཡོག་མཐའ་ཡས་རྒྱ་མཚོའི་སྤྲིན་བཀོད་པའི་གཟི་བརྗིད་ཀྱི་དཀྱིལ་འཁོར་གདུགས་ལྟ་བུའི་རྒྱལ་པོས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་ཇི་ལྟར་ན་ཀླུ་ཐམས་ཅད་ཀྱི་ཀླུའི་སྡུག་བསྔལ་ཐམས་ཅད་རྒྱུན་ཆད་པར་འགྱུར།<tei:ref folio="F.256.b"/>
+                </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-45"/>The nāga lord<tei:note xml:id="UT22084-064-005-591"/> Ananta­parikara­sāgara­megha­vyūha­tejo­maṇḍala­chartākāra­rāja asked the Bhagavān, “Bhagavān, how can all the suffering specific to nāgas be eliminated?
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-71">
+    <prop type="location-id">UT22084-064-005-45</prop>
+    <tuv xml:lang="bo">
+                <seg>བདེ་བ་ཐམས་ཅད་དང་ལྡན་པ་དང་རབ་ཏུ་དགའ་བར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How can they become happy and joyful?
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-72">
+    <prop type="location-id">UT22084-064-005-45</prop>
+    <tuv xml:lang="bo">
+                <seg>འཛམ་བུའི་གླིང་འདིར་དུས་དུས་སུ་ཆར་གྱི་རྒྱུན་འབེབ་པར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How can abundant rains be sent here to the continent of Jambudvīpa, time after time?<tei:note xml:id="UT22084-064-005-592"/>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-73">
+    <prop type="location-id">UT22084-064-005-45</prop>
+    <tuv xml:lang="bo">
+                <seg>རྩྭ་དང་། ཤིང་གེལ་བ་དང་། སྨན་དང་། ནགས་ཚལ་ཐམས་ཅད་འཁྲུང་བར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How can all manner of grasses, trees, medicinal herbs, and forests to come to arise?
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-74">
+    <prop type="location-id">UT22084-064-005-45</prop>
+    <tuv xml:lang="bo">
+                <seg>འབྲུ་ཐམས་ཅད་སྐྱེ་བར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How can all grains come to grow?
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-75">
+    <prop type="location-id">UT22084-064-005-45</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅུད་ཐམས་ཅད་ཡང་དག་པར་སྐྱེ་བར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How can all beings to come grow?
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-76">
+    <prop type="location-id">UT22084-064-005-45</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་གིས་འཛམ་བུའི་གླིང་གི་མི་རྣམས་བདེ་བ་དང་ལྡན་པར་འགྱུར། དེ་སྐད་ཅེས་གསོལ་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How can all people here in the continent of Jambudvīpa attain happiness?”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-77">
+    <prop type="location-id">UT22084-064-005-46</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་ཀླུའི་བདག་པོ་གཡོག་མཐའ་ཡས་རྒྱ་མཚོའི་སྤྲིན་བཀོད་པའི་གཟི་བརྗིད་ཀྱི་དཀྱིལ་འཁོར་གདུགས་ལྟ་བུའི་རྒྱལ་པོ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-46"/>The Bhagavān replied to the nāga lord<tei:note xml:id="UT22084-064-005-593"/> Ananta­parikara­sāgara­megha­vyūha­tejo­maṇḍala­chartākāra­rāja, “Nāga lord, excellent.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-78">
+    <prop type="location-id">UT22084-064-005-46</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀླུའི་བདག་པོ་ཁྱོད་སེམས་ཅན་ཐམས་ཅད་ལ་ཕན་པ་དང་། བདེ་བའི་ཕྱིར་ཞུགས་ཏེ་དེ་བཞིན་གཤེགས་པ་ལ་དོན་འདི་ཡོངས་སུ་འདྲི་བར་སེམས་པ་ལེགས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is excellent that you have thought to ask this question of the Tathāgata, in order to benefit all sentient beings and establish them in happiness.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-79">
+    <prop type="location-id">UT22084-064-005-46</prop>
+    <tuv xml:lang="bo">
+                <seg>།ལེགས་སོ། །ཀླུའི་བདག་པོ་དེའི་ཕྱིར་ལེགས་པར་རབ་ཏུ་ཉོན་ལ་ཡིད་ལ་ཟུང་ཤིག་དང་། ངས་ཁྱོད་ལ་བཤད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Nāga lord, I will explain this to you—listen well and bear my words in mind.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-80">
+    <prop type="location-id">UT22084-064-005-46</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀླུའི་བདག་པོ་ཆོས་གཅིག་དང་ལྡན་ན། ཀླུ་ཐམས་ཅད་ཀྱི་ཀླུའི་སྡུག་བསྔལ་ཐམས་ཅད་རྒྱུན་ཆད་པར་འགྱུར་བདེ་བ་དང་ལྡན་པར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Nāga lord, if you possess this unique Dharma teaching, all the suffering specific to nāgas of all the nāgas will be eliminated, and they will become joyful.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-81">
+    <prop type="location-id">UT22084-064-005-46</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཆོས་གཅིག་པོ་གང་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What is that unique Dharma teaching?
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-82">
+    <prop type="location-id">UT22084-064-005-46</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ། བྱམས་པའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is loving-kindness.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-83">
+    <prop type="location-id">UT22084-064-005-46</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀླུའི་བདག་པོ་བྱམས་པ་དེ་ལ་གནས་པའི་ལྷ་དང་། མི་རྣམས་ནི་མེས་མི་ཚིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Nāga lord, gods and humans who abide in that loving-kindness will not be harmed by fire.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-84">
+    <prop type="location-id">UT22084-064-005-46</prop>
+    <tuv xml:lang="bo">
+                <seg>མཚོན་གྱིས་མི་ཚུགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will not be harmed by weapons.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-85">
+    <prop type="location-id">UT22084-064-005-46</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆུས་མི་ཁྱེར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will not be swept away by water.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-86">
+    <prop type="location-id">UT22084-064-005-46</prop>
+    <tuv xml:lang="bo">
+                <seg>དུག་གིས་མི་ཚུགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will not be harmed by poison.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-87">
+    <prop type="location-id">UT22084-064-005-46</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕ་རོལ་གྱི་དམག་ཚོགས་ཀྱིས་ཟིལ་གྱིས་མི་ནོན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will not be overcome by enemy troops.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-88">
+    <prop type="location-id">UT22084-064-005-46</prop>
+    <tuv xml:lang="bo">
+                <seg>བདེ་བར་གཉིད་ཀྱིས་ལོག་པར་འགྱུར། བདེ་བར་སད་པར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will sleep happily and wake happily.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-89">
+    <prop type="location-id">UT22084-064-005-46</prop>
+    <tuv xml:lang="bo">
+                <seg>རང་གི་བསོད་ནམས་ཀྱིས་ཡོངས་སུ་བསྲུང་བར་འགྱུར། བསོད་ནམས་ཆེན་པོའི་གཟི་བརྗིད་ཀྱིས་གཟི་ཅན་དུ་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will always be protected by their own merit and become brilliant with the splendor of great merit.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-90">
+    <prop type="location-id">UT22084-064-005-46</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་དང་བཅས་པའི་འཇིག་རྟེན་གྱིས་མི་བརྫི་བར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will be unconquerable by the world with its gods.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-91">
+    <prop type="location-id">UT22084-064-005-46</prop>
+    <tuv xml:lang="bo">
+                <seg>མཛེས་པ་དང་མཐོང་ན་དགའ་བར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will become beautiful and pleasing to behold.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-92">
+    <prop type="location-id">UT22084-064-005-46</prop>
+    <tuv xml:lang="bo">
+                <seg>འགྲོ་བ་ཐམས་ཅད་དུ་ཐགས་ཐོགས་མེད་པར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will be unobstructed on all paths.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-93">
+    <prop type="location-id">UT22084-064-005-46</prop>
+    <tuv xml:lang="bo">
+                <seg>སྡུག་བསྔལ་ཐམས་ཅད་རྒྱུན་ཆད་པ་དང་རབ་ཏུ་དགའ་བར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will cut off all suffering and become utterly joyful.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-94">
+    <prop type="location-id">UT22084-064-005-46</prop>
+    <tuv xml:lang="bo">
+                <seg>བདེ་བ་ཐམས་ཅད་དང་ལྡན་པ་དང་། མིའི་ཆོས་བླ་མ་རྟོགས་ནས། ལུས་ཞིག་པའི་འོག་ཏུ་ཚངས་པའི་འཇིག་རྟེན་དུ་སྐྱེ་བར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Having gained all manner of happiness and realized the most unexcelled Dharma among humans, they will take birth in the Brahmā world after their body passes away. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-95">
+    <prop type="location-id">UT22084-064-005-47</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུའི་བདག་པོ་ལྷ་དང་མིའི་བྱམས་པ་ལ་གནས་པ་རྣམས་ཀྱི་ཕན་ཡོན་ནི་འདི་དག་གོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-47"/>Nāga lord, these are the benefits for gods and humans who abide in loving-kindness.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-96">
+    <prop type="location-id">UT22084-064-005-47</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀླུའི་བདག་པོ་དེ་བས་ན་བྱམས་པའི་ལུས་ཀྱི་ལས་དང་། བྱམས་པའི་ངག་གི་ལས་དང་། བྱམས་པའི་ཡིད་ཀྱི་<tei:ref folio="F.257.a"/>ལས་ཀྱིས་གནས་པར་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, Nāga lord, you should abide with your body, speech, and mind engaged in actions of loving-kindness.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-97">
+    <prop type="location-id">UT22084-064-005-47</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀླུའི་བདག་པོ་གཞན་ཡང་བདེ་བ་ཐམས་ཅད་སྦྱིན་པ་ཞེས་བྱ་བའི་གཟུངས་བརྗོད་པར་བྱ་སྟེ། དེས་ཀླུ་ཐམས་ཅད་ཀྱི་ཀླུའི་སྡུག་བསྔལ་ཐམས་ཅད་རྒྱུན་གཅོད་པར་བྱེད། བདེ་བ་ཐམས་ཅད་སྦྱིན་པར་བྱེད་དེ། འཛམ་བུའི་གླིང་འདིར་དུས་དུས་སུ་ཆར་གྱི་རྒྱུན་འབེབས་པར་བྱེད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Nāga lord, moreover, you should proclaim the dhāraṇī known as bestowing all happiness.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-98">
+    <prop type="location-id">UT22084-064-005-47</prop>
+    <tuv xml:lang="bo">
+                <seg>རྩྭ་དང་། ཤིང་གེལ་པ་དང་། སྨན་དང་། ནགས་ཚལ་དང་། ལོ་ཐོག་ཐམས་ཅད་སྐྱེ་བར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This dhāraṇī will eliminate all the suffering specific to nāgas of all the nāgas, bestow all happiness, send abundant rains again and again here to the continent of Jambudvīpa, and cause all grasses, trees, medicinal herbs, forests, and crops to grow.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-99">
+    <prop type="location-id">UT22084-064-005-47</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀླུའི་བདག་པོ་དེ་ལ་བདེ་བ་ཐམས་ཅད་སྦྱིན་པ་ཞེས་བྱ་བའི་གཟུངས་དེ་གང་ཞེ་ན། ཏདྱ་ཐཱ། ངྷཱ་ར་ཎི་དྷཱ་ར་ཎི། ཨུདྡྷཱ་ར་ཎི། སམ་པྲ་ཏིཥྛི་ཏེ། བི་ཛ་ཡ་བརྞ། ས་ཏྱ་པྲ་ཏི་ཛྙཱ་ས་ར་དཱ། ཛྙཱ་ན་བ་ཏི། ཨུ་ཏ་པ་ད་ནི་བི་ནཱ་མ་ནི། ཨ་བྷི་ཥེ་ཙ་ནི། ཨ་བྷི་བྱཱ་ཧཱ་ར། ཤུ་བྷ་བ་ཏི། ཛཱི་མ་ཏུ། ཨེ་ཧི་ཀུ་མ་བཱ་ལན། བ་ཧ་ཧ་ར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Nāga lord, how does the dhāraṇī called bestowing all happiness go?
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-100">
+    <prop type="location-id">UT22084-064-005-48</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླེ་ཤཱ་ན་དྷུ་ན་པཱ་བ་མ། ཤོ་དྷ་ཡ་མཱརྒ་ན། ནི་རཱ་ཧི་ཀ་དྷརྨཱ་ཏཱ་ཤུད་དྷཱ། ལོ་ཀ་བི་ཏི་མི་ར་རཱ་ཛ་ས་དུ་ཁ། ཤ་མན་སརྦ་བུདྡྷ་ཨ་བ་ལོ་ཀ་ན་ཨ་དྷི་ཥྛི་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-48"/>tadyathā || dhāraṇi dhāraṇi uddhāraṇi sampratiṣṭhite vijaya varna satyapratijñāsaradā jñānavati utpadani vināmani abhiśecani abhivyāhāra śubhavati jīmatu ehi kumabālan vaha hara kleśāna dhuna pāvama śodhaya mārgan nirāhikadharmātā śuddhāloka vitimirarājasa dukkha śamana sarva buddha avalokana adhiṣṭhite prajñā jñānabhe svāhā ||<tei:note xml:id="UT22084-064-005-594"/>
+                    <tei:milestone xml:id="UT22084-064-005-49"/> “Nāga lord, the words of this dhāraṇī can accomplish all purposes.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-101">
+    <prop type="location-id">UT22084-064-005-48</prop>
+    <tuv xml:lang="bo">
+                <seg>པྲ་ཛྙཱ་ཛྙཱ་ན་བྷེ་སྭཱ་ཧཱ། ཀླུའི་བདག་པོ་གཟུངས་ཀྱི་ཚིག་དོན་ཐམས་ཅད་སྒྲུབ་པར་བྱེད་པ་ཆོས་ཀྱི་སྐུ་ལ་འཇུག་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They involve the Dharma body.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-102">
+    <prop type="location-id">UT22084-064-005-48</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཐམས་ཅད་ཀྱིས་བྱིན་གྱིས་བརླབས་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are blessed by all the buddhas.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-103">
+    <prop type="location-id">UT22084-064-005-48</prop>
+    <tuv xml:lang="bo">
+                <seg>བདེ་བ་ཐམས་ཅད་སྦྱིན་པ་འདི་དག་གཟུང་བར་བྱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They bestow all manner of happiness.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-104">
+    <prop type="location-id">UT22084-064-005-48</prop>
+    <tuv xml:lang="bo">
+                <seg>བརྗོད་པར་བྱའོ། །ཀླུའི་བདག་པོ་གཞན་ཡང་སྤྲིན་གྱི་རིགས་ལས་འབྱུང་བའི་བྱིན་གྱི་རླབས་བཀོད་པ་གཟི་བརྗིད་ཀྱི་སྙིང་པོ་སྤྲུལ་པ་སྣང་བར་བྱེད་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You should uphold and proclaim them.<tei:note xml:id="UT22084-064-005-595"/>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-105">
+    <prop type="location-id">UT22084-064-005-48</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡེ་ཤེས་ཀྱི་ཏོག་གི་ཆུའི་རྒྱུན་གྱི་སྤྲིན་གྱི་དཀྱིལ་འཁོར་དཔལ་དང་ལྡན་པ་གསེར་གྱི་འོད་ཟེར་རྣམ་པར་སྣང་བར་བྱེད་པ། སྐྲའི་རྩེ་མོའི་ཆ་ཤས་གཅིག་ལས་བྱུང་བའི་རུས་དང་རིགས་ཀྱི་དེ་བཞིན་གཤེགས་པ་རྣམས་ཀྱི་མཚན་བཟུང་བར་བྱ། ཡིད་ལ་བྱའོ། །དེ་དག་གིས་ཀླུ་ཐམས་ཅད་དང་། ཀླུའི་རིགས་ཐམས་ཅད་དང་། ཀླུའི་རུས་ཐམས་ཅད་དང་། ཀླུའི་ཆོ་རིགས་ཐམས་ཅད་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Nāga lord, furthermore, you should uphold and bear in mind the names of the tathāgatas who manifest emanations with the brilliant essence of all the blessings arisen from the family of clouds, who possess a glorious multitude of water-holding clouds of banners of gnosis,<tei:note xml:id="UT22084-064-005-597"/> and whose lineage and family arise from a single portion of the tip of a hair of golden Vairocana.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-106">
+    <prop type="location-id">UT22084-064-005-48</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུའི་འབྱུང་བ་ཐམས་ཅད་དང་། ཀླུའི་སྐྱེ་གནས་ཐམས་ཅད་དང་། ཀླུའི་རྒྱལ་པོ་ཐམས་ཅད་དང་། ཀླུའི་བུ་མོ་ཐམས་ཅད་དང་། ཀླུའི་གཡོག་ཐམས་ཅད་ཀྱི་ཀླུའི་སྡུག་བསྔལ་ཐམས་ཅད་རྒྱུན་གཅོད་པར་བྱེད། བདེ་བའི་ཡོ་བྱད་ཐམས་ཅད་སྒྲུབ་པར་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These names will eliminate all the suffering of the nāgas and fulfill all the provisions of happiness for all nāgas, all nāga families, all nāga lineages, all nāga paternal lines,<tei:note xml:id="UT22084-064-005-598"/> all nāga origins, all nāga birthplaces, all nāga kings, all nāga daughters, and all nāga servants.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-107">
+    <prop type="location-id">UT22084-064-005-48</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀླུའི་བདག་པོ་དེ་ལ་དེ་བཞིན་གཤེགས་པའི་མཚན་དེ་དག་གང་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What are these names?
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-108">
+    <prop type="location-id">UT22084-064-005-50</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ། བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་རྣམ་པར་སྣང་མཛད་<tei:ref folio="F.257.b"/>སྙིང་པོ་ཅན་གྱི་སྤྲིན་ཆེན་པོ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are as follows:<tei:milestone xml:id="UT22084-064-005-50"/> “Homage to the bhagavān tathāgata Vairocanagarbhamahāmegha.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-109">
+    <prop type="location-id">UT22084-064-005-50</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་ཀླུའི་རིགས་ལས་བྱུང་བ་སྤྲིན་གྱིས་རྣམ་པར་མཛེས་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Nāgakulodbhavameghavirājita.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-110">
+    <prop type="location-id">UT22084-064-005-50</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་གྱི་ཆུ་འཛིན་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Water-Holding Cloud.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-111">
+    <prop type="location-id">UT22084-064-005-50</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དཔལ་ལྡན་སྤྲིན་གྱི་གཟི་བརྗིད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Splendor of Glorious Clouds.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-112">
+    <prop type="location-id">UT22084-064-005-50</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་ཆེན་འབྱུང་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Great Cloud Arising.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-113">
+    <prop type="location-id">UT22084-064-005-50</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་རླུང་གི་དཀྱིལ་འཁོར་ཐམས་ཅད་རྣམ་པར་འཇོམས་པའི་སྤྲིན་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Cloud That Vanquishes All Arrays of Wind.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-114">
+    <prop type="location-id">UT22084-064-005-50</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་ནམ་མཁའ་དཔག་མེད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Unfathomable Space.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-115">
+    <prop type="location-id">UT22084-064-005-50</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་ཆེན་པོའི་གློག་འབར་བའི་ཚོགས་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Great Cloud’s Host of Blazing Lightning.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-116">
+    <prop type="location-id">UT22084-064-005-50</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་ཆེན་མཐུ་རྩལ་དཔའ་བོ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Powerful Great Cloud Hero.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-117">
+    <prop type="location-id">UT22084-064-005-50</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་མཛེས་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Beautiful Cloud.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-118">
+    <prop type="location-id">UT22084-064-005-50</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་སྟུག་ཆེན་པོ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Great Thick Cloud.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-119">
+    <prop type="location-id">UT22084-064-005-50</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་གྱི་དཀྱིལ་འཁོར་ཆེན་པོ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Great Multitude of Clouds.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-120">
+    <prop type="location-id">UT22084-064-005-50</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་གྱི་འོད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Cloud Light. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-121">
+    <prop type="location-id">UT22084-064-005-51</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་ཆེན་སེང་གེ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-51"/>Homage to the bhagavān tathāgata Great Cloud Lion.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-122">
+    <prop type="location-id">UT22084-064-005-51</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་ཆེན་གདུགས་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Great Cloud Parasol.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-123">
+    <prop type="location-id">UT22084-064-005-51</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་བལྟ་སྡུག་སྤྲིན་ཆེན་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Pleasant Appearance Great Cloud.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-124">
+    <prop type="location-id">UT22084-064-005-51</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་ཆེན་པོས་ཁེབས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Filled with Great Clouds.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-125">
+    <prop type="location-id">UT22084-064-005-51</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་ལས་བྱུང་བ་སྣང་བར་བྱེད་པའི་དཀྱིལ་འཁོར་ཕྱོགས་བཅུ་མཐོ་འགེབས་རྔའི་སྒྲ་དབྱངས་ཤིན་ཏུ་རབ་སྒྲོགས་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Resounding of the Drum Tones Pervading All Ten Directions of the Brilliant Maṇḍala Arisen from Clouds.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-126">
+    <prop type="location-id">UT22084-064-005-51</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་ཆེན་བསིལ་འབྱུང་མི་དགའ་རབ་འཇོམས་སྒྲ་ཟབ་སྒྲོགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Great Cooling Cloud’s Deep Roar That Vanquishes Unhappiness.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-127">
+    <prop type="location-id">UT22084-064-005-51</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་ཆེན་བདལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Expansive Great Cloud.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-128">
+    <prop type="location-id">UT22084-064-005-51</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་གང་གཱའི་ཆུ་སྤྲིན་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Ganges Water Cloud.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-129">
+    <prop type="location-id">UT22084-064-005-51</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་<tei:ref folio="F.258.a"/>ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་རྩལ་གྱིས་སྤྲིན་ལྟར་དཔའ་བོ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Powerful Cloud-Like Hero.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-130">
+    <prop type="location-id">UT22084-064-005-51</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་འབྲུག་སྒྲ་བསྒྲགས་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Dragon’s Roar Resounding.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-131">
+    <prop type="location-id">UT22084-064-005-51</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་ཀུན་དུ་སྟོན་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Display of All Clouds.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-132">
+    <prop type="location-id">UT22084-064-005-51</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་རྒྱ་ཆེན་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Great Cloud Expanse. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-133">
+    <prop type="location-id">UT22084-064-005-52</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་འཛག་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-52"/>Homage to the bhagavān tathāgata Dripping Cloud.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-134">
+    <prop type="location-id">UT22084-064-005-52</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་ལྟར་རྣམ་པར་སྒྲོགས་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Cloud-Like Resounding.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-135">
+    <prop type="location-id">UT22084-064-005-52</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་ལྟར་འཕགས་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Cloud-Like Exaltation.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-136">
+    <prop type="location-id">UT22084-064-005-52</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་ལྟ་བུའི་ན་བཟའ་མནབས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Wearing Cloud-Like Garments.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-137">
+    <prop type="location-id">UT22084-064-005-52</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་གྱིས་ལོ་ཏོག་སྐྱེད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Cloud-Born Harvest.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-138">
+    <prop type="location-id">UT22084-064-005-52</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་གྱི་གནས་ལ་གནས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Abiding in the Cloud Abode.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-139">
+    <prop type="location-id">UT22084-064-005-52</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་ཆར་སྤྲིན་གྱི་སྤྲིན་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Rain Cloud.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-140">
+    <prop type="location-id">UT22084-064-005-52</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་འདུ་བར་མཛད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Cloud Gatherer.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-141">
+    <prop type="location-id">UT22084-064-005-52</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་རྣམ་པར་རྒྱས་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Abundant Clouds.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-142">
+    <prop type="location-id">UT22084-064-005-52</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་ཆེན་ཨུད་པ་ལ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Great Cloud Utpala.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-143">
+    <prop type="location-id">UT22084-064-005-52</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་ཆེན་སྤོས་ཀྱི་སྐུ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Great Cloud Incense Body.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-144">
+    <prop type="location-id">UT22084-064-005-52</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་ཆེན་འཕགས་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Great Cloud Exaltation.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-145">
+    <prop type="location-id">UT22084-064-005-52</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་ཆེན་དབང་ཕྱུག་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Great Cloud Lord.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-146">
+    <prop type="location-id">UT22084-064-005-52</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་ཆེན་འོད་མཛད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Great Cloud Illuminator.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-147">
+    <prop type="location-id">UT22084-064-005-52</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་ཆེན་བྱིན་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Great Cloud Bestowal.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-148">
+    <prop type="location-id">UT22084-064-005-52</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་ནོར་བུ་རིན་པོ་ཆེ་ཆེན་པོའི་སྤྲིན་ལྟ་བུ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Like a Cloud of Great Precious Jewels.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-149">
+    <prop type="location-id">UT22084-064-005-52</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་ལྟར་རྣམ་པར་འཇོམས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Cloud-Like Victory. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-150">
+    <prop type="location-id">UT22084-064-005-53</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་གྱི་ཆུ་བོ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-53"/>Homage to the bhagavān tathāgata Cloud River.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-151">
+    <prop type="location-id">UT22084-064-005-53</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་སྡུད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Collected Clouds.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-152">
+    <prop type="location-id">UT22084-064-005-53</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་<tei:ref folio="F.258.b"/>ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དུས་མ་ཡིན་པའི་སྤྲིན་དང་ལྕེ་འབབ་པ་རྣམ་པར་འཇོམས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Vanquishing Untimely Clouds and Lightning.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-153">
+    <prop type="location-id">UT22084-064-005-53</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་ཆེན་པོ་ལྟར་ནམ་མཁའ་མཐོང་ནས་བསྒྲགས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Great Cloud-Like Vision Appearing and Resounding in Space.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-154">
+    <prop type="location-id">UT22084-064-005-53</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་ཆེན་སྒྲ་འབྱིན་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Great Cloud Emitting Sound.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-155">
+    <prop type="location-id">UT22084-064-005-53</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་ཆེན་ཆར་ཆུ་སྐྱེས་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Great Cloud Producing Rainfall.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-156">
+    <prop type="location-id">UT22084-064-005-53</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྙོམས་པའི་གཟི་བརྗིད་སྒྲུབ་པའི་སྤྲིན་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Cloud Fulfilling Equanimity’s Splendor.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-157">
+    <prop type="location-id">UT22084-064-005-53</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་རོ་བྲོ་བ་དྲུག་དང་ལྡན་པའི་ཆུ་ཆེན་པོའི་སྤྲིན་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Cloud’s Great Water Endowed with Six Flavors.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-158">
+    <prop type="location-id">UT22084-064-005-53</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་ཆུ་འཐོར་སྤྲིན་ཆེན་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Great Cloud Spray.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-159">
+    <prop type="location-id">UT22084-064-005-53</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་ཆེན་རྒྱ་མཚོ་འགེངས་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Great Clouds Filling the Ocean.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-160">
+    <prop type="location-id">UT22084-064-005-53</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་ཆར་མི་འབབ་པ་ན་སྤྲིན་གྱིས་ཀུན་དུ་འགེབས་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Complete Cloud Coverage in Times of Drought.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-161">
+    <prop type="location-id">UT22084-064-005-53</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་སྤྲིན་གཟུགས་མཐའ་ཡས་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bhagavān tathāgata Infinite Cloud Forms.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-162">
+    <prop type="location-id">UT22084-064-005-53</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སྤྲིན་ཆེན་པོ་ཐམས་ཅད་རྣམ་པར་སྒྲུབ་པ། འཛམ་བུའི་སྤྲིན་གྱི་དཔལ་གྱི་གཟི་བརྗིད་འོད་མཛད་པ་སྤྲིན་གྱི་འོད་ཟེར་ཅན་རྣམས་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to all the bhagavān, tathāgata, foe-destroyer, complete and perfect buddhas of the great cloud, who possess the brilliance of the cloud that illuminates all the clouds in the continent of Jambudvīpa with glorious, splendid radiance. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-163">
+    <prop type="location-id">UT22084-064-005-54</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀླུའི་བདག་པོ་དེ་བཞིན་གཤེགས་པའི་མཚན་འདི་དག་བརྗོད་པས་ཀླུ་ཐམས་ཅད་ཀྱི་ཀླུའི་སྡུག་བསྔལ་ཐམས་ཅད་རྒྱུན་འཆད་པ་དང་། བདེ་བ་ཐམས་ཅད་དང་ལྡན་པ་དང་། འཛམ་བུའི་གླིང་འདིར་དུས་དུས་སུ་ཆར་གྱི་རྒྱུན་འབབ་པ་དང་། རྩྭ་དང་། ཤིང་གེལ་པ་དང་། སྨན་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-54"/>Nāga lord, by proclaiming the names of these tathāgatas, you can eliminate all the suffering specific to nāgas of all the nāgas, bestow happiness, send abundant rains again and again here to continent of Jambudvīpa, and cause all grasses, trees, medicinal herbs, forests, and crops to grow.”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-164">
+    <prop type="location-id">UT22084-064-005-55</prop>
+    <tuv xml:lang="bo">
+                <seg>ནགས་ཚལ་དང་། ལོ་ཐོག་ཐམས་ཅད་སྐྱེད་པར་བྱེད་དོ། །དེ་ནས་བཅོམ་ལྡན་འདས་ལ་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་ཀླུའི་བདག་པོ་གཡོག་མཐའ་ཡས་རྒྱ་མཚོའི་སྤྲིན་བཀོད་པའི་གཟི་བརྗིད་ཀྱི་དཀྱིལ་འཁོར་གདུགས་ལྟ་བུའི་རྒྱལ་པོས་གསོལ་བ་བཏབ་པ། བཅོམ་ལྡན་འདས་སླད་མའི་ཚེ་སླད་མའི་དུས་ན་འཛམ་བུའི་གླིང་འདིར་ཆར་མི་འབབ་པའི་ཚེ་གང་དག་བརྗོད་ན་ཆར་གྱི་རྒྱུན་ཆེན་པོ་འབབ་པར་བགྱིད་པ་དང་། མི་བཟད་པའི་དུས་ཀྱི་ཚེ་དང་། གནོད་པ་<tei:ref folio="F.259.a"/>འབྱུང་བའི་དུས་ཀྱི་ཚེ་དང་། ཆོས་མ་ལགས་པས་སྐྱེ་བོ་འཐབ་པའི་དུས་ཀྱི་ཚེ་དང་། ཡམས་ཀྱི་ནད་དང་། གནོད་པ་འབྱུང་བའི་དུས་ཀྱི་ཚེ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-55"/>Then Ananta­parikara­sāgara­megha­vyūha­tejo­maṇḍala­chartākāra­rāja, lord of the all the nāgas in the trichiliocosm, addressed the Bhagavān, asking, “Bhagavān, in future times and future seasons when rain is not falling here in the continent of Jambudvīpa, what words can be spoken so that a great rain can be made to fall?
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-165">
+    <prop type="location-id">UT22084-064-005-55</prop>
+    <tuv xml:lang="bo">
+                <seg>ནད་དང་འཆི་བའི་དུས་ཀྱི་ཚེ་དང་། སྐར་མ་མ་རུངས་པ་གནས་པའི་དུས་ཀྱི་ཚེ། ཡམས་ཀྱི་ནད་དང་། འཚེ་བ་དང་། གནོད་པ་ཐམས་ཅད་རབ་ཏུ་ཞི་བར་བགྱིད་པ་དེ་ལྟ་བུའི་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་རྣམས་བཤད་དུ་གསོལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I beg you to pronounce the words of such a secret-mantra dhāraṇī<tei:note xml:id="UT22084-064-005-599"/> that can utterly pacify all plague, hostility, and harm when one is terrified, when harm arises, when one is drawn into conflict with lawless people, when plague and harm arise, when one is sick or dying, and when the constellations are in inauspicious abodes.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-166">
+    <prop type="location-id">UT22084-064-005-55</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཀྱི་བྱིན་གྱིས་རླབས་ཀྱིས་བྱིན་གྱིས་བརླབས་པར་གསོལ། གང་དག་ཀླུ་ཐམས་ཅད་ལ་ཡང་དག་པར་བསྐུལ་མ་འདེབས་པར་འགྱུར་བ་དང་། ལྷ་ཐམས་ཅད་རབ་ཏུ་དགའ་བར་འགྱུར་བ་དང་། བདུད་ཐམས་ཅད་རྣམ་པར་འཇོམས་པར་འགྱུར་བ་དང་། སེམས་ཅན་ཐམས་ཅད་ཀྱི་འཇིགས་པ་ཐམས་ཅད་འཇིག་པར་འགྱུར་བ་དང་། གནོད་པ་ཐམས་ཅད་ཟློག་པར་འགྱུར་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I beg you to bless us with the blessings of the Buddha. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-167">
+    <prop type="location-id">UT22084-064-005-56</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞི་བ་དང་བདེ་ལེགས་སུ་འགྱུར་བ་བགྱིད་པ་དང་། རྒྱུ་སྐར་མ་རུངས་པས་བགྱིས་པ་རབ་ཏུ་ཞི་བར་འགྱུར་བ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་ཆར་པའི་བར་ཆད་ལྔ་གསུངས་པ་གང་ལགས་པ་དེ་དག་ཐམས་ཅད་སེལ་བར་འགྱུར་བ་དང་། འཛམ་བུའི་གླིང་འདིར་ཆར་པའི་རྒྱུན་ལེགས་པར་འབབ་པར་འགྱུར་བ་དེ་ལྟ་བུའི་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་རྣམས་བཅོམ་ལྡན་འདས་མཆོག་ཏུ་ཐུགས་རྗེ་དང་ལྡན་པ། སེམས་ཅན་ཐམས་ཅད་ལ་ཕན་པར་ཐུགས་བརྩེ་བ་དང་ལྡན་པས་བཤད་དུ་གསོལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-56"/>I beg the Bhagavān, with your supreme compassion and concern for the welfare of all sentient beings, to pronounce the words of such a secret-mantra dhāraṇī<tei:note xml:id="UT22084-064-005-600"/> that can exhort all the nāgas, bring joy to all the gods, vanquish all māras,<tei:note xml:id="UT22084-064-005-601"/> destroy all sentient beings’ fears, turn back all harm,<tei:note xml:id="UT22084-064-005-602"/> produce peace and auspiciousness, pacify the effects of all inauspicious constellations, clear away all five obstacles to rainfall spoken by the Bhagavān, and cause excellent rain to fall here in the continent of Jambudvīpa.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-168">
+    <prop type="location-id">UT22084-064-005-56</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་བདག་དེ་བཞིན་གཤེགས་པ་ལ་གསོལ་པ་འཚལ་ལོ། །དེ་སྐད་ཅེས་གསོལ་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Bhagavān, this I beg of you.”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-169">
+    <prop type="location-id">UT22084-064-005-57</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་ཀླུའི་རྒྱལ་པོ་གཡོག་མཐའ་ཡས་རྒྱ་མཚོའི་སྤྲིན་བཀོད་པའི་གཟི་བརྗིད་ཀྱི་དཀྱིལ་འཁོར་གདུགས་ལྟ་བུའི་རྒྱལ་པོ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །ཀླུའི་བདག་པོ་ཁྱོད་སེམས་ཅན་ཐམས་ཅད་ཀྱི་དོན་དང་། ཕན་པ་དང་། བདེ་བའི་ཕྱིར་དེ་བཞིན་གཤེགས་པ་ལ་གསོལ་བ་འདེབས་པ་ལེགས་སོ་ལེགས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-57"/>The Bhagavān replied to Ananta­parikara­sāgara­megha­vyūha­tejo­maṇḍala­chartākāra­rāja, “Nāga lord, it is excellent, excellent, that you have asked this question of the Tathāgata for the sake of all sentient beings’ welfare, benefit, and happiness.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-170">
+    <prop type="location-id">UT22084-064-005-57</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀླུའི་བདག་པོ་དེའི་ཕྱིར་ལེགས་པར་རབ་ཏུ་ཉོན་ལ་ཡིད་ལ་ཟུང་ཤིག་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Nāga lord, in that case, you should listen well and bear my words in mind.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-171">
+    <prop type="location-id">UT22084-064-005-57</prop>
+    <tuv xml:lang="bo">
+                <seg>སྙིང་རྗེ་ཆེན་པོ་ལས་བྱུང་བ་འབྲུག་ཆེན་པོའི་སྒྲ་ཅན་བསྒྱིངས་པ་དཔའ་བའི་ཏོག་ཅེས་བྱ་བའི་གཟུངས་སེམས་ཅན་ཐམས་ཅད་ཀྱི་དོན་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There is a dhāraṇī called the crest of heroic majesty endowed with the great roar of thunder that arises from great compassion.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-172">
+    <prop type="location-id">UT22084-064-005-57</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕན་པ་དང་། བདེ་བའི་ཕྱིར་སངས་རྒྱས་ཐམས་ཅད་ཀྱིས་གསུངས་པ། <tei:ref folio="F.259.b"/>བྱིན་གྱིས་བརླབས་པ། རྗེས་སུ་ཡི་རང་བ་བཤད་པར་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>For the sake of all sentient beings’ welfare, benefit, and happiness, all the buddhas spoke this dhāraṇī, blessed it, rejoiced in it, and explained it.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-173">
+    <prop type="location-id">UT22084-064-005-57</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནི་ཆར་མེད་པའི་ཚེ་ཆར་འབབ་པར་བྱེད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When there is no rain, it can cause a great rainfall.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-174">
+    <prop type="location-id">UT22084-064-005-57</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆར་ཆེས་ན་གཅོད་འཆི་བའི་གནོད་པ་རབ་ཏུ་ཞི་བར་བྱེད། ཀླུ་ཐམས་ཅད་སྐུལ་བར་བྱེད། ལྷ་ཐམས་ཅད་སིམ་པར་བྱེད། བདུད་ཐམས་ཅད་རྣམ་པར་འཇོམས་པར་བྱེད། སེམས་ཅན་ཐམས་ཅད་བདེ་བ་ཐམས་ཅད་དང་ལྡན་པར་བྱེད་དོ། །ཏདྱ་ཐཱ། མ་ཧཱ་ཛྙཱ་ན་ཨ་བ་བྷཱ་སཱ་ནི། ཤྲཱི་ཏེ་ཛོ་ལཀྵྨི་བྲྀཥྚི་པིཀྲ་མ། བཛྲ་སིང་ཧ་ཏ་ནེ། པ་ར་མ་བི་རཱ་ཛ། ནིརྨ་ལ་གུ་ཎ་ཀེ་ཏུ་སཱུརྱ་པྲ་བྷེ། བི་མ་ལཱང་ག་ཡཥྚི། བྷ་ར་བྷ་ར། སམ་བྷ་ར་སམ་བྷ་ར། དུ་དུམ་བུ། ཧ་ན་ཧ་ན། མ་ཧ་པྲ་བྷེ། བི་བྷཱུ་ཏ་མ་ཧཱ་མ་ཧོ་ཨན་དྷ་ཀཱ་རེ། པྲཛྙཱ་གྲ་ཤུད་དྷེ། པ་རི་པཱུ་རྞྞ་མཻ་ཏྲེ། མཻ་ཏྲ་བི་ར་ཎ་སྐན་དྷ། མཻ་ཏྲཱ་མ་བུདྡྷ་རེ། ཛ་ལ་ཛ་ལ། ཛ་ལ་ཛ་ལ། ཛ་ལམ་བུདྡྷ་རེ། བོ་དྷྱད་ག་ཀུ་སུ་མེ། ད་ཤ་བ་ལེ། ཙ་ཏུར་བེ་ཤྭ་ར་དྷེ། ཨ་ཤྚཱ་ད་ཤ། ཨ་པ་ནི་ག་བུད་དྷ་དྷ་རྨེ། ཤུ་བྷ་མ་དི། པུ་ཎྱ་རཱ་ཤི། ཤུ་ཀླ་དྷར་མ་ས་མ་ནྭི་ཏེ། གམ་བྷཱི་རེ། བི་ར་ཛ་སེ། བི་མ་ལེ་བི་ཤི་ཥ་པྲཱ་པྟེ། ནི་རཱ་སྲ་པ་དྷརྨེ། སརྦ་ལོ་ཀཛྱཻཥྛ། ཛེཥྛ་པར་པྲ་བ་རེ། ཨ་ནུཏྟ་རེ། ཨ་སང་གེ །དྷ་ར་དྷ་ར། དྷི་རི་དྷི་རི། དྷུ་རུ་དྷུ་ར་ཤཱནྟ་མ་ཏེ། ཤཱན་ཏ་བེ་གེ །ཙ་ར་ཙ་ར། ཙ་ར་ཙ་ར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When there is great rain, it can cause it to stop.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-175">
+    <prop type="location-id">UT22084-064-005-58</prop>
+    <tuv xml:lang="bo">
+                <seg>ཙི་རི་ཙི་རི། ཙུ་རུ་ཙུ་རུ། པ་ར་མ་བུད་དྷཱ་ནུ་མ་ཏེ། མ་ཧ་པྲ་ཛྙཱ་པཱ་ར་མི་ཏེ་སྭཱ་ཧཱ། དེ་བཞིན་གཤེགས་པ་རྣམ་པར་སྣང་མཛད་ཡེ་ཤེས་རྒྱ་མཚོ་དང་ལྡན་པ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It can completely pacify all fatal harm, exhort all the nāgas, please all the gods, vanquish all māras, and bring all manner of happiness to all sentient beings:<tei:milestone xml:id="UT22084-064-005-58"/> tadyathā || mahājñāna avabhāsāni śrītejolakṣmi vṛṣṭivikrama vajra siṁhatane paramavirāja nirmalaguṇa ketusūryaprabhe vimalāṇgayaṣṭi bhara bhara sambhara sambhara dudumbu hana hana mahāprabhe vibhūta mahā maho andhakāre prajñāgraśuddhe paripūrṇṇamaitri maitri viraṇaskandha maitrāmabuddhare jala jala jala jala jalam buddhare bodhyaṅgakusume daśabale caturveśvaradhe aṣṭādaśa apanigabuddhadharme śubhamadi puṇyarāśi śukladharmasamanvite gambhāre virajase vimale viśiṣaprāpte nirāsrapadharme sarvalokajyaiṣṭha jeṣṭhaparapravare anuttare asaṇge dhara dhara dhiri dhiri dhuru dhura śāntamahe śāntavege cara cara cara cara ciri ciri curu curu paramabuddhānumate mahāprajñāpāramite svāhā ||<tei:note xml:id="UT22084-064-005-603"/> Homage to the tathāgata Vairocana, endowed with oceans of gnosis.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-176">
+    <prop type="location-id">UT22084-064-005-58</prop>
+    <tuv xml:lang="bo">
+                <seg>།སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to all buddhas and bodhisattvas.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-177">
+    <prop type="location-id">UT22084-064-005-58</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ནས་འཛམ་བུའི་གླིང་འདིར་ཆར་དབབ་པའི་ཕྱིར་ཀླུ་ཐམས་ཅད་ཀྱི་སྙིང་པོ་བརྗོད་པར་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>To make a great rain fall here on the continent of Jambudvīpa, I will proclaim the essential mantra of all the nāgas.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-178">
+    <prop type="location-id">UT22084-064-005-58</prop>
+    <tuv xml:lang="bo">
+                <seg>།སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ཀྱི་བདེན་པས་ཆར་པའི་བར་ཆད་བྱེད་པ་ལྔ་བསལ་བར་བྱའོ། །སདྱཱ་ཐེ་དན། ས་ར་ས་ར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>By the verity of all the buddhas and bodhisattvas, all five obstacles to rainfall will be cleared away.<tei:note xml:id="UT22084-064-005-604"/>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-179">
+    <prop type="location-id">UT22084-064-005-60</prop>
+    <tuv xml:lang="bo">
+                <seg>སི་རི་སི་རི། སུ་རུ་སུ་རུ་ནཱ་གཱ་ནཱན། ཛ་བ་ཛ་བ། ཛི་བི་ཛི་བི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-60"/>syād yathedam || sara sara<tei:note xml:id="UT22084-064-005-605"/> siri siri suru suru nāgā nāgā java java<tei:note xml:id="UT22084-064-005-606"/> jivi jivi juvu juvu || Great nāgas, come quickly!
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-180">
+    <prop type="location-id">UT22084-064-005-60</prop>
+    <tuv xml:lang="bo">
+                <seg>ཛུ་བུ་ཛུ་བུ། ཀླུ་ཆེན་པོ་དག་ཚུར་ཤེག །སངས་རྒྱས་ཀྱི་བདེན་པས་འཛམ་བུའི་གླིང་འདིར་ཆར་རབ་ཏུ་ཕོབ་ཤིག །ཙ་ར་ཙ་ར། ཙི་རི་ཙི་རི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>By the verity of the Buddha, send down a great rainfall here in the continent of Jambudvīpa!
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-181">
+    <prop type="location-id">UT22084-064-005-62</prop>
+    <tuv xml:lang="bo">
+                <seg>ཙུ་རུ་ཙུ་རུ། ཀླུའི་བདག་པོ་ཆེན་པོ་དག་ཚུར་ཤེག །ཀྱེ་ཀླུ་ཆེན་པོ་དག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-62"/>cara cara<tei:note xml:id="UT22084-064-005-607"/> ciri ciri curu curu Great nāgas, come quickly!
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-182">
+    <prop type="location-id">UT22084-064-005-62</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཀྱི་བདེན་པས་འཛམ་བུའི་གླིང་འདིར་ཆར་རབ་ཏུ་ཕོབ་ཤིག །བ་ར་བ་ར། <tei:ref folio="F.260.a"/>བི་རི་བི་རི། བུ་རུ་བུ་རུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>By the verity of the Buddha, send down a great rainfall here in the continent of Jambudvīpa!
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-183">
+    <prop type="location-id">UT22084-064-005-64</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཀྱི་བདེན་པས་ཀླུ་ཐམས་ཅད་དགུག་པར་བྱའོ། །བྱམས་པའི་སེམས་དང་། སྙིང་རྗེའི་སེམས་དང་། དགའ་བའི་སེམས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-64"/>vara vara<tei:note xml:id="UT22084-064-005-608"/> viri viri vuru vuru By the verity of the Buddha, all nāgas are summoned.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-184">
+    <prop type="location-id">UT22084-064-005-64</prop>
+    <tuv xml:lang="bo">
+                <seg>བཏང་སྙོམས་ཀྱི་སེམས་དང་། སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ཀྱི་བྱིན་གྱི་རླབས་དང་། བདེན་པ་དང་། བྱམས་པ་ཆེན་པོས་ཀླུའི་བདག་པོ་ཆེན་པོ་དག་ཚུར་ཤེག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With minds of loving-kindness, compassion, sympathetic joy, and equanimity, through the great blessings, verity, and kindness of all the buddhas and bodhisattvas, great nāgas, come quickly!
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-185">
+    <prop type="location-id">UT22084-064-005-64</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་རྣམས་དང་། སངས་རྒྱས་ཀྱི་ཆོས་རྣམས་དང་། བྱང་ཆུབ་སེམས་དཔའི་ཡོན་ཏན་རྣམས་དྲན་པར་གྱིས་ཤིག །བྷ་ར་བྷ་ར། བྷི་རི་བྷི་རི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Remember the Buddha’s Dharma and the qualities of the bodhisattvas!
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-186">
+    <prop type="location-id">UT22084-064-005-66</prop>
+    <tuv xml:lang="bo">
+                <seg>བྷུ་རུ་བྷུ་རུ། ཆུ་ཆེན་པོའི་ཆུ་དང་། སྤྲིན་གྱི་ཆུ་འཆང་བ་ཅན་ལག་གིས་འགྲོ་ཆེན་པོའི་གཡོག་རྣམས་བྱམས་པའི་སེམས་ཀྱིས་ཚུར་ཤེག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-66"/>bhara bhara<tei:note xml:id="UT22084-064-005-609"/> bhiri bhiri bhuru bhuru With minds of loving-kindness, all you great wriggling attendants who hold the water of the great rivers and clouds, come quickly!
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-187">
+    <prop type="location-id">UT22084-064-005-66</prop>
+    <tuv xml:lang="bo">
+                <seg>སྟོན་པའི་བསྟན་པ་དམ་པ་དྲན་པར་གྱིས་ཤིག །གྷ་ཌ་གྷ་ཌ། གྷི་ཌི་གྷི་ཌི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Remember the teacher’s sublime teachings!
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-188">
+    <prop type="location-id">UT22084-064-005-68</prop>
+    <tuv xml:lang="bo">
+                <seg>གྷུ་ཌུ་གྷུ་ཌུ། དྲག་ཤུལ་ཅན་ཁྲོ་བ་ཤུགས་ཆེན་པོ་དང་ལྡན་པ། དུག་ཆེན་པོའི་ལྕེ་འབྱིན་པ་རྣམས་བྱམས་པའི་སེམས་དང་ལྡན་པར་ཚུར་ཤེག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-68"/>ghaḍa ghaḍa<tei:note xml:id="UT22084-064-005-610"/> ghiḍi ghiḍi ghuḍu ghuḍu With minds of loving-kindness, all you fierce, wrathful, powerful poison-tongued ones, come quickly!
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-189">
+    <prop type="location-id">UT22084-064-005-68</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་བདེན་པས་འཛམ་བུའི་གླིང་འདིར་ཆར་ཕོབ་ཤིག །སྭཱ་ཧཱ། ཏ་ཊ་ཏ་ཊ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>By the verity of all the tathāgatas, send down rainfall here in the continent of Jambudvīpa, svāhā!
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-190">
+    <prop type="location-id">UT22084-064-005-70</prop>
+    <tuv xml:lang="bo">
+                <seg>ཏི་ཊི་ཏི་ཊི། ཏུ་ཊུ་ཏུ་ཊུ། ནོར་བུ་ཆེན་པོའི་ཅོད་པན་ཐོགས་པ་དང་ལྡན་པ་སྦྲུལ་གདུག་པའི་གཟུགས་ཅན་རྣམས་དཀོན་མཆོག་གསུམ་གྱི་བྱིན་གྱི་རླབས་དྲན་པར་གྱིས་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-70"/>taṭa taṭa<tei:note xml:id="UT22084-064-005-611"/> tiṭi tiṭi tuṭu tuṭu All you with your emanated poisonous bodies bearing great jeweled crowns, remember the blessings of the Three Jewels!
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-191">
+    <prop type="location-id">UT22084-064-005-70</prop>
+    <tuv xml:lang="bo">
+                <seg>རྡོ་རྗེ་འཆང་གི་བདེན་པས་འཛམ་བུའི་གླིང་འདིར་ཆར་ཕོབ་ཤིག །སྭཱ་ཧཱ། ཀ་ལ་ཀ་ལ། ཀི་ལི་ཀི་ལི། ཀུ་ལུ་ཀུ་ལུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>By the verity of Vajrapāṇi, send down rainfall here in the continent of Jambudvīpa, svāhā!
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-192">
+    <prop type="location-id">UT22084-064-005-72</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆུ་ཆེན་པོ་ལ་གནས་པ་དང་ལྡན་པ་སྤྲིན་ཆེན་པོ་བརྩེགས་པའི་བཞོན་པ་ལ་ཞོན་ནས་མངོན་པར་འགྲོ་བ་རྣམས་ཚུར་ཤེག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-72"/>kala kala<tei:note xml:id="UT22084-064-005-612"/> kili kili kulu kulu All you who dwell in the great waters and ride mounted on chariots of stacked clouds, come quickly!
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-193">
+    <prop type="location-id">UT22084-064-005-72</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱམས་པའི་སེམས་ཀྱིས་འཛམ་བུའི་གླིང་འདིར་ཆར་གྱི་རྒྱུན་ཐོང་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With minds of loving-kindness, send down a flow of rainfall here in the continent of Jambudvīpa!
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-194">
+    <prop type="location-id">UT22084-064-005-72</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པའི་བདེན་པ་དང་། དེ་བཞིན་གཤེགས་པའི་བྱིན་གྱི་རླབས་ཀྱིས་ལག་ན་རྡོ་རྗེས་བསྒོ་བ། ར་ལ་ར་ལ། རི་ལི་རི་ལི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You are commanded by Vajrapāṇi, by the verity and blessings of the Tathāgata!
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-195">
+    <prop type="location-id">UT22084-064-005-74</prop>
+    <tuv xml:lang="bo">
+                <seg>རུ་ལུ་རུ་ལུ། ལག་གིས་འགྲོ་བ་ཐམས་ཅད་ཁྱེད་རྣམས་གཉིད་མེད་པར་དུས་གསུམ་གྱི་དེ་བཞིན་གཤེགས་པའི་བདེན་པས། གྷ་མ་གྷ་མ། གྷི་མི་གྷི་མི། གྷུ་མུ་གྷུ་མུ་སྭཱ་ཧཱ། ཀླུ་ཐམས་ཅད་དགུག་གོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-74"/>rala rala<tei:note xml:id="UT22084-064-005-613"/> rili rili rulu rulu All you slitherers, abandon your sleep, and through the power of the tathāgatas of the three times:<tei:milestone xml:id="UT22084-064-005-76"/> ghama ghama<tei:note xml:id="UT22084-064-005-614"/> ghimi ghimi ghumu ghumu svāhā All nāgas, you are summoned!
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-196">
+    <prop type="location-id">UT22084-064-005-78</prop>
+    <tuv xml:lang="bo">
+                <seg>།བྱམས་པའི་སེམས་ཀྱིས་བྱང་ཆུབ་ཀྱི་སེམས་སྔོན་དུ་འགྲོ་བས། ན་ར་ན་ར། ནི་རི་ནི་རི། ནུ་རུ་ནུ་རུ། སྭཱ་ཧཱ། ཡོན་པོ་སྣ་ཚོགས་<tei:ref folio="F.260.b"/>སུ་གྱུར་མགོ་སྟོང་པ། མགོ་དང་མིག་དམར་བ། སྟོབས་ཆེ་བའི་ལྟོ་འཕྱེ་ཆེན་པོ་རྣམས་དགུག་པར་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With minds of loving-kindness, generating the preliminary mind of awakening:<tei:milestone xml:id="UT22084-064-005-78"/> nara nara<tei:note xml:id="UT22084-064-005-615"/> niri niri nuru nuru svāhā All you great powerful mahoragas with a thousand different crooked heads, red heads, and red eyes, you are summoned!
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-197">
+    <prop type="location-id">UT22084-064-005-78</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀྱེ་ཀྱེ་ལག་གིས་འགྲོ་ཆེན་པོ་དག་མཆོག་ཏུ་ཐུགས་རྗེ་ཅན། བསོད་ནམས་ཐམས་ཅད་ཀྱི་གཟི་བརྗིད་ཀྱིས་བརྗིད་པ་ཉོན་མོངས་པ་དང་བྲལ་བ། དེ་བཞིན་གཤེགས་པ་རྣམས་ཀྱི་བྱིན་གྱི་རླབས་དྲན་པར་གྱིས་ཤིག །ག་ཊ་ག་ཊ། གི་ཊི་གི་ཊི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Hey, hey, you great slitherers, remember the tathāgatas, who possess supreme compassion, blaze with the splendor of all merit, and are free from the afflictions!
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-198">
+    <prop type="location-id">UT22084-064-005-80</prop>
+    <tuv xml:lang="bo">
+                <seg>གུ་ཊུ་གུ་ཊུ། སྭཱ་ཧཱ། སྟོབས་དང་། ཕ་རོལ་གནོན་པ་དང་། གཟི་བརྗིད་ཐོགས་པ་མེད་པ་དང་ལྡན་པ་དག་གིས་འཛམ་བུའི་གླིང་འདིར་ཆར་གྱི་རྒྱུན་རྣམས་ཕོབ་ཤིག །ཤ་ར་ཤ་ར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-80"/>gaṭa gaṭa<tei:note xml:id="UT22084-064-005-616"/> giṭi giṭi guṭu guṭu svāhā All you powerful vanquishers, endowed with unobstructed brilliance, send down rainfall here in the continent of Jambudvīpa!
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-199">
+    <prop type="location-id">UT22084-064-005-82</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤི་རི་ཤི་རི། ཤུ་རུ་ཤུ་རུ། སྭཱ་ཧཱ། ཀྱེ་ཀྱེ་ཀླུ་ཆེན་པོ་རྣམས་རང་རང་གི་རིགས་དང་། ཆོ་རིགས་དྲན་པར་གྱིས་ལ་མ་ཤོལ་བར་ལྷ་ཐམས་ཅད་ཀྱི་བདེན་པའི་བྱིན་གྱི་རླབས་ཀྱིས་འཛམ་བུའི་གླིང་འདིར་ཆར་གྱི་རྒྱུན་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-82"/>śara śara<tei:note xml:id="UT22084-064-005-617"/> śiri śiri śuru śuru svāhā<tei:milestone xml:id="UT22084-064-005-83"/> Hey, hey, great nāgas, remember your own families and your paternal lineages, and without delay, through the blessings of the verity of all gods, send down flowing rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-200">
+    <prop type="location-id">UT22084-064-005-82</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚངས་པའི་བདེན་པའི་བྱིན་གྱི་རླབས་ཀྱིས་འཛམ་བུའི་གླིང་འདིར་ཆར་རབ་ཏུ་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Through the blessings of the verity of Brahmā, send down rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-201">
+    <prop type="location-id">UT22084-064-005-82</prop>
+    <tuv xml:lang="bo">
+                <seg>བརྒྱ་བྱིན་གྱི་བདེན་པས་འཛམ་བུའི་གླིང་འདིར་ཆར་རབ་ཏུ་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>By the verity of Indra, send down rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-202">
+    <prop type="location-id">UT22084-064-005-82</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་པོ་ཆེན་པོ་བཞིའི་བདེན་པས་འཛམ་བུའི་གླིང་འདིར་ཆར་རབ་ཏུ་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>By the verity of the Four Great Kings, send down rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-203">
+    <prop type="location-id">UT22084-064-005-87</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུ་ཆེན་པོ་དག་བརྒྱད་པོའི་བདེན་པས་འཛམ་བུའི་གླིང་འདིར་ཆར་རབ་ཏུ་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-87"/>Great nāgas, by the verity of the eight ones, send down rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-204">
+    <prop type="location-id">UT22084-064-005-87</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུ་ཆེན་པོ་དག་རྒྱུན་དུ་ཞུགས་པའི་བདེན་པས་འཛམ་བུའི་གླིང་འདིར་ཆར་རབ་ཏུ་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Great nāgas, by the verity of the stream enterers, send down rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-205">
+    <prop type="location-id">UT22084-064-005-87</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུ་ཆེན་པོ་དག་ལན་ཅིག་ཕྱིར་འོང་བའི་བདེན་པས་འཛམ་བུའི་གླིང་འདིར་ཆར་རབ་ཏུ་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Great nāgas, by the verity of the once-returners, send down rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-206">
+    <prop type="location-id">UT22084-064-005-87</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུ་ཆེན་པོ་དག་ཕྱིར་མི་འོང་བའི་བདེན་པས་འཛམ་བུའི་གླིང་འདིར་ཆར་རབ་ཏུ་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Great nāgas, by the verity of the non-returners, send down rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-207">
+    <prop type="location-id">UT22084-064-005-87</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུ་ཆེན་པོ་དག་དགྲ་བཅོམ་པའི་བདེན་པས་འཛམ་བུའི་གླིང་འདིར་ཆར་རབ་ཏུ་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Great nāgas, by the verity of the worthy ones, send down rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-208">
+    <prop type="location-id">UT22084-064-005-87</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུ་ཆེན་པོ་དག་རང་སངས་རྒྱས་ཀྱི་བདེན་པས་འཛམ་བུའི་གླིང་འདིར་ཆར་རབ་ཏུ་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Great nāgas, by the verity of the pratyekabuddhas, send down rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-209">
+    <prop type="location-id">UT22084-064-005-87</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུ་ཆེན་པོ་དག་སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ཀྱི་བདེན་པས་འཛམ་བུའི་གླིང་འདིར་ཆར་རབ་ཏུ་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Great nāgas, by the verity of all the buddhas and bodhisattvas, send down rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-210">
+    <prop type="location-id">UT22084-064-005-87</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུ་ཆེན་པོ་དག་དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་བདེན་པ་དང་བྱིན་གྱི་རླབས་ཀྱིས་འཛམ་བུའི་གླིང་འདིར་ཆར་རབ་ཏུ་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Great nāgas, by the verity and blessings of all the tathāgatas, send down rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-211">
+    <prop type="location-id">UT22084-064-005-95</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་ཐམས་ཅད་ཀྱི་བདེན་པས་གནོད་པ་ཐམས་ཅད་ཞི་བར་གྱིས་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-95"/>By the verity of all gods, pacify all harm, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-212">
+    <prop type="location-id">UT22084-064-005-95</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུ་ཐམས་ཅད་<tei:ref folio="F.261.a"/>ཀྱི་བདེན་པས་ས་ཆེན་པོ་འདིར་རབ་ཏུ་ཆར་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>By the verity of all nāgas, send rainfall down here to the great earth, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-213">
+    <prop type="location-id">UT22084-064-005-95</prop>
+    <tuv xml:lang="bo">
+                <seg>གནོད་སྦྱིན་ཐམས་ཅད་ཀྱི་བདེན་པས་སེམས་ཅན་ཐམས་ཅད་སྲུངས་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>By the verity of all yakṣas, protect all sentient beings, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-214">
+    <prop type="location-id">UT22084-064-005-95</prop>
+    <tuv xml:lang="bo">
+                <seg>དྲི་ཟ་ཐམས་ཅད་ཀྱི་བདེན་པས་མི་རྣམས་ཀྱི་འཁྲུག་པ་དང་གནོད་པ་ཐམས་ཅད་སོལ་ཅིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>By the verity of all gandharvas, remove all conflict and harm among people, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-215">
+    <prop type="location-id">UT22084-064-005-95</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་མ་ཡིན་ཐམས་ཅད་ཀྱི་བདེན་པས་རྒྱུ་སྐར་མ་རུངས་པ་ཐམས་ཅད་རྣམ་པར་ཟློག་ཅིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>By the verity of all asuras, turn back all malignant constellations, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-216">
+    <prop type="location-id">UT22084-064-005-95</prop>
+    <tuv xml:lang="bo">
+                <seg>ནམ་མཁའ་ལྡིང་ཐམས་ཅད་ཀྱི་བདེན་པས་ཀླུ་ཐམས་ཅད་བྱམས་པར་བྱོས་ལ་འཛམ་བུའི་གླིང་འདིར་ཆར་ཆེན་པོའི་རྒྱུན་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>By the verity of all garuḍas, make all the nāgas act with loving-kindness and send down a great flow of rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-217">
+    <prop type="location-id">UT22084-064-005-95</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་འམ་ཅི་ཐམས་ཅད་ཀྱི་བདེན་པས་སྡིག་པ་ཐམས་ཅད་ཞི་བར་གྱིས་ཤིག་སྭཱ་ཧཱ། སེམས་ཅན་ཐམས་ཅད་ཚིམ་པར་གྱིས་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>By the verity of all kinnaras, pacify all evil and satisfy all sentient beings, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-218">
+    <prop type="location-id">UT22084-064-005-95</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྟོ་འཕྱེ་ཆེན་པོ་ཐམས་ཅད་ཀྱི་བདེན་པས་ཡངས་ཤིང་རྒྱ་ཆེ་བའི་ཆར་གྱི་རྒྱུན་ཕོབ་ཤིག་སྭཱ་ཧཱ། འདིར་ཆར་ལ་སྒྲིབ་པ་ལྔ་པོ་དག་ཡང་དག་པར་ཟུང་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>By the verity of all mahoragas, send down a broad and vast flow of rainfall and seize the five hindrances to rainfall, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-219">
+    <prop type="location-id">UT22084-064-005-95</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་ཐམས་ཅད་ཀྱི་བདེན་པས་མི་ཐམས་ཅད་ལ་ཡོངས་སུ་སྲུངས་ཤིག་སྭཱ་ཧཱ། ཀ་རཀ་ར། ཀི་རི་ཀི་རི། ཀུ་རུ་ཀུ་རུ། ད་ར་ད་ར། དི་རི་དི་རི། དུ་རུ་དུ་རུ། ན་ཊ་ན་ཊ། ནི་ཊི་ནི་ཊི། ནུ་ཊུ་ནུ་ཊུ། ཤིན་ཏུ་མགྱོགས་པར་བཞུད་མ། སྤྲིན་ཆེན་པོའི་ཆུ་འཛིན་མ། སྤྲིན་ལྡན་མ། སྤྲིན་ཆེན་ལྡན་མ། སྤྲིན་ཆེན་ཆུ་འཛིན་མ། སྤྲིན་གསལ་མ། སྤྲིན་འབྱུང་མ། དུས་སྤྲིན་མ། སྤྲིན་གྱི་འབྱུང་གནས་མ། སྤྲིན་སྒྲོགས་མ། སྤྲིན་བཞུགས་མ། སྤྲིན་གྱི་ཅོད་པན་ལྡན་མ། སྤྲིན་གྱི་ཕྲེང་བ་མངའ་མ། སྤྲིན་གྱིས་རྣམ་པར་བརྒྱན་མ། སྤྲིན་བཅིབས་མ། སྤྲིན་ལ་གནས་བཅས་མ། སྤྲིན་གྱི་སྙིང་པོ། སྤྲིན་གྱི་རལ་པ་ཅན། སྤྲིན་འོད་མ། སྤྲིན་གྱི་འཁོར་ལྡན་མ། རྒྱ་ཆེན་སྤྲིན་བཞུགས་མ། མཆོད་ཕྱིར་སྤྲིན་ཐོགས་མ། ལོ་ཐོག་འོངས་སྒྲུབ་མ། རི་སུལ་ན་བཞུགས་མ། ཀླུའི་ཡུམ་བཅོམ་ལྡན་འདས་མ། སྤྲིན་ཆེན་དཔལ་ལྡན་སྐར་མདོག་ཅན། བསིལ་རེག་མ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>By the verity of all humans, completely protect all people, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-220">
+    <prop type="location-id">UT22084-064-005-104</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚུབ་མ་ཆེན་པོ་སྤྱོད་ཡུལ་མ། ཀླུ་ཆེན་རྣམ་པར་རོལ་མཛད་མ། བཅོམ་ལྡན་འདས་མ། པོན་ཏྲ་བཅུད་ཀྱིས་ལེན་དྲུག་འཛིན་མ། སངས་རྒྱས་ཀྱི་བདེན་པས་འཛམ་བུའི་གླིང་འདིར་ཆར་རབ་ཏུ་དབབ་ཏུ་གསོལ་སྭཱ་ཧཱ། གྷ་ར་གྷ་ར། གྷི་རི་གྷི་རི། གྷུ་རུ་གྷུ་རུ། གྷི་རི་ནི་གྷརི་ནི། གྷུ་མ་གྷུ་མ་གྷུ་<tei:ref folio="F.261.b"/>མ་གྷུ་མ་གྷུ་མ་གྷུ་མ་གྷུ་མ་གྷུ་མ་གྷུ་མ་རི། དབུ་དགུ་དང་ལྡན་མ། སྤྲིན་ཆེན་ཕྲེང་ལྡན་མ། ཀློག་ཚོགས་ཕྲེང་ལྡན་མ། ལག་གིས་འགྲོ་ཐམས་ཅད་འཛིན་མ། སྤྲིན་ལྟ་བུའི་ན་བཟའ་མན་བསམ། དུག་དྲག་པོ་ཐམས་ཅད་སྤྱོད་ཡུལ་མ། སྤྲིན་བཀོད་པ་ལ་བཅིབས་མ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-104"/>kara kara kiri kiri kuru kuru dara dara diri diri duru duru naṭa naṭa niṭi niṭi nuṭu nuṭu<tei:milestone xml:id="UT22084-064-005-105"/> Lady Swift Departure, Lady Bearer of Great Clouds’ Water, Lady Possessed of Clouds, Lady Possessed of Great Clouds, Lady Great Cloud Water Bearer, Lady Bright Cloud, Lady Cloud Born, Lady Seasonal Cloud, Lady Cloud Source, Lady Cloud Roar, Lady Cloud Dweller, Lady with a Cloud Crown, Lady Cloud Garland Wearer, Lady Adorned by Clouds, Lady Cloud Mount, Lady Cloud Home, Cloud Essence, Cloud Locks, Cloud Light, Having a Retinue of Clouds, Lady Who Abides in Vast Clouds, Lady Holding Clouds as Offerings, Lady Bringing Harvest, Lady Mountain Dweller, Nāga Mother Bhagavatī, Great Cloud with the Glorious Color of Stars, Lady Cool, Lady Whose Domain Is a Great Storm, Lady Who Manifests the Great Nāgas, Bhagavatī, Lady Who Holds the Six Extracted Essences—by the verity of the Buddha, please send down rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-221">
+    <prop type="location-id">UT22084-064-005-106</prop>
+    <tuv xml:lang="bo">
+                <seg>འབྲུག་སྒྲོགས་མ། སྒྲ་སྒྲོགས་མ། ཀླུའི་ཚོགས་ལ་སྐུལ་མ། ལྷ་མོ་སྤྲིན་ཆེན་ཕྲེང་ལྡན་མ། ཀླུ་ཐམས་ཅད་ལ་མ་ཤོལ་བར་དེ་བཞིན་གཤེགས་པའི་བྱིན་གྱི་རླབས་ཀྱིས་འཛམ་བུའི་གླིང་འདིར་ཆར་ཕོབ་ཤིག་ཅེས་བསྐུལ་དུ་གསོལ་སྭཱ་ཧཱ། ཡ་ར་ཡ་ར། ཡི་རི་ཡི་རི། ཡུ་རུ་ཡུ་རུ། ཛ་ར་ཛ་ར། ཛི་རི་ཛི་རི། ཛུ་རུ་ཛུ་རུ། ཛྷ་ར་ཛྷ་ར། གུ་ཏུ་གུ་ཏུ། གུ་གུ་ཏུ། ག་ཊ་ག་ཊ། གི་ཊི་གི་ཊྭི། ཧ་ར་ཧ་ར། ཧི་ལི་ཧི་ལི། མུ་ལུ་མུ་ལུ། ཏ་ལ་ཏ་ལ། ཏི་ལི་ཏི་ལི། ཏུ་ལུ་ཏུ་ལུ། ཧ་ན་ཧ་ན། ད་ཧ་ད་ཧ། པ་ཙ་པ་ཙ། གྲྀཧྞ་གྲྀཧྞ། མར་དམར་ད། པྲ་མར་ད་པྲ་བརཤ་བིག་ནན། མ་ཏྲེ་ཡོད་ཉཱ་པ་ཡ་ཏི། སྭཱ་ཧཱ། བུད་དྷེ་བུད་དྷེ། བུ་བུད་དྷེ། སུ་བུད་དྷེ། ཧ་ར་པཱ་པ་ན། སརྦ་ས་ཏྭཱ་ནཱན། ཨ་དྷིཤ་ཡ་པུ་ཎྱ་མ། སརྦ་བུད་དྷ་ནཱན། དྷ་རི་ནི་དྷ་རེ། ཤུ་བྷ་མ་ཏེ། གུ་ཎཱ་གྲཔྲཱ་པ་ནེ། མ་ཧཱ་ཛྙཱ་ནོ་ལ་ཀེ །ཤུཀླ་དྷརྨེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-106"/>ghara ghara<tei:note xml:id="UT22084-064-005-618"/> ghiri ghiri ghuru ghuru ghiriṇi ghiriṇi ghuma ghuma ghuma ghuma ghuma ghuma ghuma ghuma ghumari<tei:milestone xml:id="UT22084-064-005-107"/> Lady Endowed with Nine Heads, Lady Endowed with a Great Cloud Garland, Lady with a Garland of Lightning, Lady Who Holds All Slitherers, Lady Wearing Cloud-Like Raiment, Lady with the Domain of All Strong Poisons, Lady Mounted on Arrayed Clouds, Lady Dragon’s Roar, Lady Roar, Lady Who Incites Nāgas, Goddess Possessing a Garland of Great Clouds—exhort all the nāgas, saying, ‘Without delay, through the blessings of the Tathāgata, send down rainfall here in the continent of Jambudvīpa,’ svāhā.<tei:note xml:id="UT22084-064-005-621"/>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-222">
+    <prop type="location-id">UT22084-064-005-108</prop>
+    <tuv xml:lang="bo">
+                <seg>སངྱ་པྲ་ཏི་ཛྙཱ། མ་ཧཱ་ཡཱ་ནཱ་དྷྱུ་ཥི་ཏེ་ལོ་ཀ་ཛྱཻཥྛ་བྷ་ག་བ་ཏི། བུད་དྷ་མཻ་ཏྲེ་ཨ་ཡུ་བུ་ར་ཡ་སརྦ་ཀྵེ་ཏྲཱ་ནི། ཤུ་ཀླེ་ཤྭེ་ཏྭམ། པ་ར་དཱ་རེ། པ་ན་ཊ་ར་བ་སི་ནི། དྷུ་དྷུ་རུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-108"/>yara yara yiri yiri yuru yuru jara jara jiri jiri juru juru jhara jhara gutu gutu gugutu gaṭa gaṭa giṭi giṭi hara hara hili hili mulu mulu tala tala tili tili tulu tulu hana hana daha daha paca paca gṛhṇa gṛhṇa marda marda pramarda pravarśa vignan maitreya ājñāpayati svāhā<tei:note xml:id="UT22084-064-005-619"/>
+                    <tei:milestone xml:id="UT22084-064-005-109"/> buddhe buddhe bubuddhe subuddhe hara pāpana sarva satvānān adhiṣṭhayapuṇyama sarva buddhanān dharini dhare śubhamate guṇāgraprāpane mahājñānolake śukladharme sadyapratijñā mahāyānādhyuṣite lokajyeṣṭhabhagavati buddhamaitreyayuvuraya sarva kṣetrāni śukleśvetvama paradāre panaṭaravasini dhudhure dhudhuru śama śama śāntamānase May you completely clear away all hindrances to rainfall, svāhā.<tei:note xml:id="UT22084-064-005-620"/>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-223">
+    <prop type="location-id">UT22084-064-005-110</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤ་མ་ཤ་མ། ཤཱནྟ་མཱ་ན་སེ། ཆར་གྱི་བགེགས་ཐམས་ཅད་རྣམ་པར་བསལ་བར་གསོལ་སྭཱ་ཧཱ། དུས་གསུམ་གྱི་དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་བདེན་པས་བྱམས་པའི་ཐུགས་ཀྱིས་ཡང་དག་པ་བརྟུལ་ཞུགས་དང་། དཀའ་ཐུབ་ཀྱི་ཐུགས་སྐྱོན་མེད་པས་ཀླུ་ཆེན་པོ་རྣམས་ལ་ཡང་དག་པར་བསྐུལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-110"/>By the verity of all the tathāgatas of the three times, who engage in perfect conduct with minds of loving-kindness and possess flawless minds of austerity, we exhort all the great nāgas.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-224">
+    <prop type="location-id">UT22084-064-005-110</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀླུའི་རྒྱལ་པོ་ཆེན་པོ་གཡོག་མཐའ་ཡས་རྒྱ་མཚོའི་སྤྲིན་བཀོད་པའི་གཟི་བརྗིད་ཀྱི་དཀྱིལ་འཁོར་གདུགས་ལྟ་བུའི་རྒྱལ་པོ་ལ་ཡང་དག་པར་བསྐུལ་ལོ། །འཛམ་བུའི་གླིང་འདིར་རབ་ཏུ་ཆར་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Great nāga king Ananta­parikara­sāgara­megha­vyūha­tejo­maṇḍala­chartākāra­rāja, we exhort you—send down rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-225">
+    <prop type="location-id">UT22084-064-005-110</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུའི་རྒྱལ་པོ་དགའ་བོ་དང་ཉེ་དགའ་ལ་ཡང་དག་པར་བསྐུལ་ལོ། །འཛམ་བུའི་གླིང་འདིར་རབ་ཏུ་ཆར་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Great nāga kings Nanda and Upananda, we exhort you—send down rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-226">
+    <prop type="location-id">UT22084-064-005-110</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུའི་རྒྱལ་པོ་རྒྱ་མཚོ་ལ་ཡང་དག་པར་བསྐུལ་ལོ། །<tei:ref folio="F.262.a"/>འཛམ་བུའི་གླིང་འདིར་རབ་ཏུ་ཆར་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Great nāga king Sāgara, we exhort you— send down rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-227">
+    <prop type="location-id">UT22084-064-005-110</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུའི་རྒྱལ་པོ་མ་དྲོས་པ་ལ་ཡང་དག་པར་བསྐུལ་ལོ། །འཛམ་བུའི་གླིང་འདིར་རབ་ཏུ་ཆར་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Great nāga king Anavatapta, we exhort you—send down rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-228">
+    <prop type="location-id">UT22084-064-005-110</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུའི་རྒྱལ་པོ་གཟི་ཅན་ལ་ཡང་དག་པར་བསྐུལ་ལོ། །འཛམ་བུའི་གླིང་འདིར་ཆར་རབ་ཏུ་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Great nāga king Manasvin, we exhort you—send down rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-229">
+    <prop type="location-id">UT22084-064-005-110</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུའི་རྒྱལ་པོ་ཆུ་ལྷ་ལ་ཡང་དག་པར་བསྐུལ་ལོ། །འཛམ་བུའི་གླིང་འདིར་ཆར་རབ་ཏུ་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Great nāga king Varuṇa, we exhort you—send down rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-230">
+    <prop type="location-id">UT22084-064-005-110</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུའི་རྒྱལ་པོ་འཇོག་པོ་ལ་ཡང་དག་པར་བསྐུལ་ལོ། །འཛམ་བུའི་གླིང་འདིར་ཆར་རབ་ཏུ་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Great nāga king Takṣaka, we exhort you—send down rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-231">
+    <prop type="location-id">UT22084-064-005-110</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུའི་རྒྱལ་པོ་ཡུལ་འཁོར་སྲུང་ལ་ཡང་དག་པར་བསྐུལ་ལོ། །འཛམ་བུའི་གླིང་འདིར་ཆར་རབ་ཏུ་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Great nāga king Dhṛtarāṣṭra, we exhort you—send down rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-232">
+    <prop type="location-id">UT22084-064-005-110</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུའི་རྒྱལ་པོ་ནོར་རྒྱས་ཀྱི་བུ་ལ་ཡང་དག་པར་བསྐུལ་ལོ། །འཛམ་བུའི་གླིང་འདིར་ཆར་རབ་ཏུ་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Great nāga king Vāsuki, we exhort you—send down rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-233">
+    <prop type="location-id">UT22084-064-005-110</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུའི་རྒྱལ་པོ་བཏང་བཟུང་ལ་ཡང་དག་པར་བསྐུལ་ལོ། །འཛམ་བུའི་གླིང་འདིར་ཆར་རབ་ཏུ་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Great nāga king Mucilinda, we exhort you—send down rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-234">
+    <prop type="location-id">UT22084-064-005-110</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུའི་རྒྱལ་པོ་ས་སྲུང་གི་བུ་ལ་ཡང་དག་པར་བསྐུལ་ལོ། །འཛམ་བུའི་གླིང་འདིར་ཆར་རབ་ཏུ་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Great nāga king Airāvaṇa, we exhort you—send down rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-235">
+    <prop type="location-id">UT22084-064-005-110</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུའི་རྒྱལ་པོ་ནུ་ཏ་ལ་ཡང་དག་པར་བསྐུལ་ལོ། །འཛམ་བུའི་གླིང་འདིར་ཆར་རབ་ཏུ་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Great nāga king Nuta, we exhort you—send down rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-236">
+    <prop type="location-id">UT22084-064-005-110</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུའི་རྒྱལ་པོ་དཔལ་གྱི་གཟི་བརྗིད་ལ་ཡང་དག་པར་བསྐུལ་ལོ། །འཛམ་བུའི་གླིང་འདིར་ཆར་རབ་ཏུ་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Great nāga king Śrītejas, we exhort you—send down rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-237">
+    <prop type="location-id">UT22084-064-005-110</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུའི་རྒྱལ་པོ་དཔའ་བཟངས་ལ་ཡང་དག་པར་བསྐུལ་ལོ། །འཛམ་བུའི་གླིང་འདིར་ཆར་རབ་ཏུ་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Great nāga king Śrībhadra, we exhort you—send down rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-238">
+    <prop type="location-id">UT22084-064-005-110</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུའི་རྒྱལ་པོ་གློག་གི་ཕྲེང་བ་ལ་ཡང་དག་པར་བསྐུལ་ལོ། །འཛམ་བུའི་གླིང་འདིར་ཆར་རབ་ཏུ་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Great nāga king Vidyunmālin, we exhort you—send down rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-239">
+    <prop type="location-id">UT22084-064-005-110</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུའི་རྒྱལ་པོ་གཙུག་ན་ནོར་བུ་ཆེན་པོ་ལ་ཡང་དག་པར་བསྐུལ་ལོ། །འཛམ་བུའི་གླིང་འདིར་ཆར་རབ་ཏུ་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Great nāga king Mahāmaṇicūḍa, we exhort you—send down rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-240">
+    <prop type="location-id">UT22084-064-005-110</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུའི་རྒྱལ་པོ་གཙུག་ན་ནོར་བུ་ཐོགས་ལ་ཡང་དག་པར་བསྐུལ་ལོ། །འཛམ་བུའི་གླིང་འདིར་ཆར་རབ་ཏུ་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Great nāga king Cūḍāmaṇidhara, we exhort you—send down rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-241">
+    <prop type="location-id">UT22084-064-005-110</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུའི་རྒྱལ་པོ་སྣང་ལྡན་གཙུག་པུད་ཅན་ལ་ཡང་དག་པར་བསྐུལ་ལོ། །འཛམ་བུའི་གླིང་འདིར་ཆར་རབ་ཏུ་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Great nāga king Avabhāsanaśikhin, we exhort you—send down rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-242">
+    <prop type="location-id">UT22084-064-005-110</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དག་ལ་སོགས་པ་ཀླུའི་རྒྱལ་པོ་ཐམས་ཅད་ལ་ཡང་དག་པར་བསྐུལ་ལོ། །འཛམ་བུའི་གླིང་འདིར་ཆར་རབ་ཏུ་ཕོབ་ཤིག་སྭཱ་ཧཱ། ནཱ་གེ་ན་གེ། །མ་ཧཱ་ནཱ་གེ །གྷོ་ར་མཱ་ན་སེ། ནཱ་<tei:ref folio="F.262.b"/>ག་ཧྲྀད་ཡ། དྷུ་མཀུ་ལེ། ཨུ་གྲ་རོ་ཥེ། པྲ་ཙཎྜ་ཏེ་ཛོ། བི་ཥོ་གྲེ། ཨཱ་ཤཱ་བི་ཤེ། ཨ་ཧི་གྷོ་རེ། ཀྲིཥྼ་པིང་ག་ལེ། ཙ་ན་ཙ་ལེ། ལོ་ལ་ཛི་ཧྭེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These and all other nāga kings, we exhort you—send down rainfall here in the continent of Jambudvīpa, svāhā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-243">
+    <prop type="location-id">UT22084-064-005-131</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་ཧཱ་ཕ་ན་ཀ་རེ། ཀཱ་ལ་པཱ་ཤེ། རཽཾ་དྲ་བཱ་སི་ནི། ཊུ་ཊུ་མ་བེ། གྷ་ཎ་གྷ་ཎ། ཤི་ཁི་ནི། ཀ་ཎ་ཀ་ཎ། ག་ཎ་ག་ཎ། མ་ཧཱ་ག་ཎ་ག་ཎེ། པ་ར་པ་ར། པི་རི་པི་རི། པུ་རུ་པུ་རུ། བི་སྥུརྫ་ནེ། བྷུ་རུ་བྷུ་རུ། མ་ཧཱ་བྷོ་གེ །མ་ཎི་དྷ་རི། ཕི་རི་ཕི་རི། ཕུ་རུ་ཕུ་རུ། ཕ་ར་ཕ་ར། བར་ཥ་བར་ཥ། ཛ་ལཱམ་བུ་དྷ་རེ། ཤམ་བུ་ཤམ་བུ། བ་ཏ་ཌུ་ཏུམ་པེ། དྷུད་དྷུད་དྷུདདྷུམ་བེ། མེ་གྷ་པྲ་བྷེ། མེ་གྷ་བཱ་ཧིནེ། ཌྷ་ཀ་ཌྷ་ཀ་ཌྷ་ཀ་ཌྷུ་ཌྷུམ་བེ། གྷ་ཎཱ་གྷ་ཎཱ། ཤི་ཀི་ནི། ཀ་ན་ཀ་ན། ག་ཎ་ག་ཎ། མ་ཧཱ་ནཱ་ག་ག་ནེ། ནི་རཱ་ཏྲ་ཎྱ། པ་ཛ་ར་ད་ཀཱ་རི་མ་ཧཱ་ནཱ་གཱ་དྷི་བ་ཏ་ཡེ། གྷུ་མ་གྷུ་མ་གྷུ་མ་པ་ཡ་སྟི་ཀ། ཛཱང་གཱ་རི་བྷུ་ཛང་ཤ་མེ། པི་ཀ་ཏ་སང་ཀ་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-131"/>nāge nāge mahānāge ghoramānase nāga­hṛdaya dhuma kule ugraroṣe pracaṇḍa­tejo viṣogre āśāviśe atighore kṛṣṇa­piṇgale canacale lolajihve mahā­phanakare kālapāśe raudra­vāsani ṭuṭumāve ghaṇa ghaṇa śikhini kaṇa kaṇa gaṇa gaṇa mahā­gaṇagaṇe para para piri piri puru puru visphurjane bhuru bhuru mahābhoge maṇi­dhari phiri phiri phuru phuru phara phara varṣa varṣa jalāmbudhare ṣambu ṣambu vataḍutampe dhud dhud dhud dhumve megha­prabhe meghavātine ḍhaka ḍhaka ḍhaka ḍhu ḍhumve ghaṇā ghaṇā śikini kana kana gaṇa gaṇa mahā­nāgagane nirātraṇya vajra dakāri mahā­nāgādhivataye ghuma ghuma ghuma payāstika jāṅgārighujaṃśame pikatasaṅkate ghora­visphurjani vijṛmabhante<tei:milestone xml:id="UT22084-064-005-132"/> All nāgas, you are summoned.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-244">
+    <prop type="location-id">UT22084-064-005-131</prop>
+    <tuv xml:lang="bo">
+                <seg>གྷོ་ར་བི་སྥུརྫ་ནི་བི་ཛྲྀམ་བྷནྟེ། ཀླུ་ཐམས་ཅད་དགུག་གོ། །སངས་རྒྱས་ཐམས་ཅད་ཀྱི་བྱིན་གྱི་རླབས་དང་། དུས་གསུམ་གྱི་དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་བདེན་པ་དང་། བྱམས་པའི་ཐུགས་ཀྱིས་འཛམ་བུའི་གླིང་འདིར་ཆར་རབ་ཏུ་ཕོབ་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Through the blessings of all buddhas and the word and minds of loving-kindness of all the tathāgatas of the three times, send down rainfall here in the continent of Jambudvīpa, svāhā.<tei:note xml:id="UT22084-064-005-622"/>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-245">
+    <prop type="location-id">UT22084-064-005-133</prop>
+    <tuv xml:lang="bo">
+                <seg>ན་མཿསརྦ་བུ་ངྡྷེ་བྷྱཿསིད་དྷན་ཏུ་མནྟྲ་པ་དཱ་ནི་སྭཱ་ཧཱ། འཕགས་པ་སྤྲིན་ཆེན་པོ་ཐེག་པ་ཆེན་པོའི་མདོ། སྟོང་ཕྲག་བརྒྱ་པ་ལས་ཆར་དབབ་པ་རླུང་གི་དཀྱིལ་འཁོར་ཅེས་བྱ་བའི་ལེའུ་སྟེ་དྲུག་ཅུ་རྩ་བཞིའོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-133"/>namaḥ sarvabuddhebhyaḥ sidhyantu mantrapadāni svāhā”<tei:note xml:id="UT22084-064-005-623"/>
+                    <tei:milestone xml:id="UT22084-064-005-134"/> From the hundred thousand lines<tei:note xml:id="UT22084-064-005-624"/> of the noble Mahāyāna sūtra “The Great Cloud,” this is the sixty-fourth chapter, entitled “The Array of Winds That Send Down Rainfall.”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-246">
+    <prop type="location-id">UT22084-064-005-135</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོ་ག་ནི་ཆར་ཆེར་དབབ་པར་འདོད་ན་བླ་གབ་མེད་པའི་ས་ཕྱོགས་གཙང་མར་བླ་རེ་སྔོན་པོ་བྲེ། བ་དན་སྔོན་པོ་དཔྱང་ངོ་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Ritual Procedure<tei:milestone xml:id="UT22084-064-005-135"/> One who desires to produce a great rainfall should first go to an open, clean area and erect a blue canopy, decorating it with blue pennants.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-247">
+    <prop type="location-id">UT22084-064-005-135</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཆོས་སྨྲ་བ་ལུས་བཀྲུས་ལ་ཡན་ལག་བརྒྱད་པ་ལ་ཉེ་བར་གནས་ཤིང་གོས་གཙང་མ་སྔོན་པོ་བགོས་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Dharma practitioner should bathe their body, abide by the eightfold precepts, and don clean blue garments.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-248">
+    <prop type="location-id">UT22084-064-005-135</prop>
+    <tuv xml:lang="bo">
+                <seg>སྤོས་དྲི་ཞིམ་པོས་བསྐུས་ནས་ཟས་དཀར་གསུམ་ཟོས་ལ་སྟན་སྔོན་པོའི་སྟེང་དུ་འདུག་ནས། ཁ་ཤར་ཕྱོགས་སུ་བལྟས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Having anointed themselves with pleasant-smelling incense, they should consume the three white foods and seat themselves upon a blue cushion, facing east.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-249">
+    <prop type="location-id">UT22084-064-005-135</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ལ་གསོལ་བ་བཏབ་ནས་སྤྲིན་ཆེན་པོའི་དཀྱིལ་འཁོར་གྱི་ལེའུ་འདི་ཉིན་མཚན་རྒྱུན་མི་འཆད་པར་བཀླག་པར་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>After supplicating all the tathāgatas, they should read aloud this chapter on the array of winds from The Great Cloud, day and night without interruption.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-250">
+    <prop type="location-id">UT22084-064-005-136</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཆུ་སྔོན་པོས་བཀང་བའི་བུམ་པ་གང་བ་བཞི་གཞག་པར་བྱའོ། །གཏོར་མ་དང་། བདུག་པ་དང་། མེ་ཏོག་ཅི་ནུས་ཀྱིས་སྦྱར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-136"/>They should set out four vases filled with blue water, together with as much offering cakes, incense, and flowers as they can gather.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-251">
+    <prop type="location-id">UT22084-064-005-136</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ལ་ཆོས་སྨྲ་བས་ཕྱོགས་བཞིར་བའི་ལྕི་བའི་ཁུ་བས་བྲི་བར་<tei:ref folio="F.263.a"/>བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Dharma practitioner should then use liquified cow dung to draw figures in the four directions.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-252">
+    <prop type="location-id">UT22084-064-005-136</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤར་ཕྱོགས་སུ་ཁྲུ་གསུམ་ཙམ་དུ་ཀླུའི་རྒྱལ་པོ་མགོ་གསུམ་པ་ཀླུའི་གཡོག་འཁོར་སྣ་ཚོགས་དང་བཅས་པ་བའི་ལྕི་བས་བྲི་བར་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the eastern direction they should use cow dung to draw a three-headed nāga king, three cubits tall, with a retinue of various nāga attendants.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-253">
+    <prop type="location-id">UT22084-064-005-136</prop>
+    <tuv xml:lang="bo">
+                <seg>།ལྷོ་ཕྱོགས་སུ་ཁྲུ་ལྔ་ཙམ་དུ་ཀླུའི་རྒྱལ་པོ་མགོ་ལྔ་པ་ཀླུའི་གཡོག་འཁོར་སྣ་ཚོགས་དང་བཅས་པ་བྲི་བར་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the southern direction they should draw a five-headed nāga king, five cubits tall, with a retinue of various nāga attendants.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-254">
+    <prop type="location-id">UT22084-064-005-136</prop>
+    <tuv xml:lang="bo">
+                <seg>།ནུབ་ཕྱོགས་སུ་ཁྲུ་བདུན་ཙམ་དུ་ཀླུའི་རྒྱལ་པོ་མགོ་བདུན་པ་ཀླུའི་གཡོག་འཁོར་སྣ་ཚོགས་དང་བཅས་པ་བྲི་བར་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the western direction they should draw a seven-headed nāga king, seven cubits tall, with a retinue of various nāga attendants.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-255">
+    <prop type="location-id">UT22084-064-005-136</prop>
+    <tuv xml:lang="bo">
+                <seg>།བྱང་ཕྱོགས་སུ་ཁྲུ་དགུ་ཙམ་དུ་ཀླུའི་རྒྱལ་པོ་མགོ་དགུ་པ་ཀླུའི་གཡོག་འཁོར་སྣ་ཚོགས་དང་བཅས་པ་བྲི་བར་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the northern direction they should draw a nine-headed nāga king, nine cubits tall, with a retinue of various nāga attendants.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-256">
+    <prop type="location-id">UT22084-064-005-136</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཆོས་སྨྲ་བས་རང་གི་ལུས་བསྲུངས་ལ་བྱམས་པ་ལ་གནས་ཏེ་སེམས་ཅན་ཐམས་ཅད་ལ་སྙིང་རྗེའི་སེམས་ཉེ་བར་གཞག་ནས་སངས་རྒྱས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Dharma practitioner should guard their own body, abiding in loving-kindness, and establish an attitude of compassion toward all sentient beings.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-257">
+    <prop type="location-id">UT22084-064-005-136</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་གསོལ་བ་བཏབ་ལ་ཀླུ་རྣམས་དང་དགེ་བའི་རྩ་བ་བགོ་བར་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then, they should supplicate all the buddhas and bodhisattvas and share the virtuous roots with the nāgas.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-258">
+    <prop type="location-id">UT22084-064-005-136</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ནི་ཆོ་གའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This is the ritual procedure.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-259">
+    <prop type="location-id">UT22084-064-005-137</prop>
+    <tuv xml:lang="bo">
+                <seg>།གང་ཞིག་ཆར་མི་འབབ་པའི་ཚེ། སྤྲིན་ཆེན་པོའི་རླུང་གི་དཀྱིལ་འཁོར་གྱི་ལེའུ་འདི་ཀློག་ན། ཉིན་ཞག་གཅིག་གམ། གཉིས་ནས་ཉིན་ཞག་བདུན་ཚུན་ཆད་གདོན་མི་ཟ་བར་ཆར་འབབ་པར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-137"/>If one reads aloud this chapter on the array of winds from The Great Cloud during a time of drought, then within one full day, two full days, or up to seven full days, it is certain that rain will fall.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-260">
+    <prop type="location-id">UT22084-064-005-137</prop>
+    <tuv xml:lang="bo">
+                <seg>།རྒྱ་མཚོ་ནི་དུས་ལས་ཡོལ་ཀྱང་སྲིད་ཀྱི། ཐུབ་པ་ཆེན་པོའི་གསུང་རབ་ཆར་གྱི་ཆོ་ག་འདི་ནི་གཞན་དུ་མི་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The ocean may recede with the tides, but this ritual for bringing rainfall, the speech of the Great Sage, will never change.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-261">
+    <prop type="location-id">UT22084-064-005-137</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ལྟ་མོད་ཀྱི་ཚུལ་ཁྲིམས་དང་ཡོན་ཏན་ལ་གནས་ཏེ། འཆལ་པའི་ཚུལ་ཁྲིམས་དང་། ཤ་དང་ཉ་ལ་སོགས་པ་ཡོངས་སུ་སྤང་བར་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That being the case, however, one must abide in discipline and virtuous qualities and abandon lax discipline, meat, fish, and the like.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-262">
+    <prop type="location-id">UT22084-064-005-137</prop>
+    <tuv xml:lang="bo">
+                <seg>།འོ་ཐུག་དང་ཞོ་དང་འོ་མ་དང་། འབྲས་ཆན་བུ་རམ་ཅན་ལ་སོགས་པ་དང་། མངར་གསུམ་ཟ་ཞིང་བཀླག་པར་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One should consume rice gruel, curds, milk, rice with sugar, the three sweets, and so forth.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-263">
+    <prop type="location-id">UT22084-064-005-137</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ལྟར་ན་འགྲུབ་པར་འགྱུར་ཏེ་ཐུབ་པའི་རྒྱལ་པོས་གསུངས་པ་བཞིན་དུ་ཐེ་ཚོམ་མེད་པར་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In this fashion, the ritual will be successful. As this was spoken by the King of Sages, there should be no doubts about this.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-264">
+    <prop type="location-id">UT22084-064-005-138</prop>
+    <tuv xml:lang="bo">
+                <seg>།འཕགས་པ་སྤྲིན་ཆེན་པོ་ཐེག་པ་ཆེན་པོའི་མདོ་ལས་ཆར་དབབ་པ་རླུང་གི་དཀྱིལ་འཁོར་གྱི་ལེའུ་ཞེས་བྱ་བ་དྲུག་ཅུ་རྩ་བཞི་པ་ཆོ་ག་དང་བཅས་པ་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-138"/>From the noble Mahāyāna sūtra “The Great Cloud,” this is the sixty-fourth chapter “The Array of Winds That Send Down Rainfall” together with its ritual manual.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-064-005-TU-265">
+    <prop type="location-id">UT22084-064-005-139</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་ཛི་ན་མི་ཏྲ་དང་། ཤཱི་ལེན་དྲ་བོ་དྷི་དང་། ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ་བན་དེ་ཡེ་ཤེས་སྡེས་བསྒྱུར་ཅིང་ཞུས་ཏེ་སྐད་གསར་ཆད་ཀྱིས་ཀྱང་བཅོས་ནས་གཏན་ལ་ཕབ་པ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-064-005-139"/>Translated, revised, and finalized according to the new terminology by the Indian preceptors Jinamitra and Śīlendrabodhi and the great editor-translator Bandé Yeshé Dé.</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>

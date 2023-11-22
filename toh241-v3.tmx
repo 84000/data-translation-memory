@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="linguae-dharmae/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-065-004" eft:text-version="v-1.1.9-2023"/>
+<body>
+<tu id="UT22084-065-004-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.302.a"/>༄༅༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་ས་མཱ་དྷི་ཙཀྲ་ནཱ་མ་མ་ཧཱ་ཡ་ན་སཱུ་ཏྲ། བོད་སྐད་དུ། </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ཏིང་ངེ་འཛིན་གྱི་འཁོར་ལོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Noble Mahāyāna Sūtra The Wheel of Meditative Concentration 
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-3">
+    <prop type="location-id">UT22084-065-004-20</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-065-004-20"/>Homage to all buddhas and bodhisattvas!
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-4">
+    <prop type="location-id">UT22084-065-004-20</prop>
+    <tuv xml:lang="bo">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-5">
+    <prop type="location-id">UT22084-065-004-20</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་རྒྱལ་པོའི་ཁབ་བྱ་རྒོད་ཀྱི་ཕུང་པོའི་རི་ལ་བཞུགས་ཏེ། དགེ་སློང་གི་དགེ་འདུན་སྟོང་ཉིས་བརྒྱ་ལྔ་བཅུ་དང་། བྱང་ཆུབ་སེམས་དཔའི་དགེ་འདུན་ཚད་མེད་གྲངས་མེད་པ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One was residing on Vulture Peak in Rājagṛha accompanied by a saṅgha of 1,250 bhikṣus and a saṅgha of innumerable, countless bodhisattvas.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-6">
+    <prop type="location-id">UT22084-065-004-20</prop>
+    <tuv xml:lang="bo">
+                <seg>།གཞན་ཡང་ལྷ་དང་། ཀླུ་དང་། གནོད་སྦྱིན་ལ་སོགས་པའི་འཁོར་སྣ་ཚོགས་པས་བསྐོར་ནས་ཆོས་སྟོན་པར་གྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Surrounded also by various retinues of gods, nāgas, yakṣas, and other beings, he was teaching them the Dharma.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-7">
+    <prop type="location-id">UT22084-065-004-24</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཚེ་བཅོམ་ལྡན་འདས་ཏིང་ངེ་འཛིན་གྱི་འཁོར་ལོ་ཞེས་བྱ་བའི་ཏིང་ངེ་འཛིན་ལ་སྙོམས་པར་ཞུགས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-065-004-24"/>At that time, the Blessed One was absorbed in the meditative concentration called wheel of meditative concentration.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-8">
+    <prop type="location-id">UT22084-065-004-24</prop>
+    <tuv xml:lang="bo">
+                <seg>ཏིང་ངེ་འཛིན་དེའི་མཐུས་སངས་རྒྱས་ཀྱི་ཞིང་ཐམས་ཅད་རབ་ཏུ་གཡོས་པར་གྱུར་ཏོ། །སྣང་བ་ཆེན་པོས་ཀྱང་ཐམས་ཅད་གསལ་བར་གྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Through the power of that meditative concentration, all the buddha lands shook and were illuminated by a great light.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-9">
+    <prop type="location-id">UT22084-065-004-25</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་འཁོར་དེར་བྱང་ཆུབ་སེམས་དཔའ་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་འདུག་པར་གྱུར་ཏེ། སྟན་ལས་ལངས་ནས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་ཏིང་ངེ་འཛིན་གྱི་འཁོར་ལོ་ལ་སྙོམས་པར་ཞུགས་པ་ནི་བཅོམ་ལྡན་འདས་ངོ་མཚར་ཏོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-065-004-25"/>Then, the bodhisattva Youthful Mañjuśrī, who was present in that retinue, rose from his seat and said to the Blessed One, “Blessed One, your absorption in the wheel of meditative concentration is amazing.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-10">
+    <prop type="location-id">UT22084-065-004-25</prop>
+    <tuv xml:lang="bo">
+                <seg>།བདེ་བར་གཤེགས་པ་ཤིན་ཏུ་ངོ་མཚར་ལགས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Sugata, it is truly amazing.”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-11">
+    <prop type="location-id">UT22084-065-004-26</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། འཇམ་དཔལ་ཁྱོད་ཀྱིས་ཡང་དག་པའི་མཐའ་ཤེས་སམ། བྱང་ཆུབ་སེམས་དཔའ་འཇམ་དཔལ་གྱིས་གསོལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-065-004-26"/>The Blessed One asked, “Mañjuśrī, do you know the very limit of reality?”<tei:note xml:id="UT22084-065-004-27"/> “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-12">
+    <prop type="location-id">UT22084-065-004-26</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་བདག་གིས་འཚལ་ལགས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I know it, Blessed One,” replied the bodhisattva Mañjuśrī. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-13">
+    <prop type="location-id">UT22084-065-004-29</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཀའ་སྩལ་པ། འཇམ་དཔལ་ཡང་དག་པའི་མཐའ་གང་ན་འདུག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-065-004-29"/>Mañjuśrī, where is the very limit of reality?”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-14">
+    <prop type="location-id">UT22084-065-004-29</prop>
+    <tuv xml:lang="bo">
+                <seg>གསོལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>asked the Blessed One.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-15">
+    <prop type="location-id">UT22084-065-004-29</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཡང་དག་པའི་མཐའ་ནི་གང་ན་མ་མཆིས་པ་དེ་ན་མཆིས་ལགས་སོ། །བཀའ་སྩལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Mañjuśrī replied, “Blessed One, the very limit of reality is where it is not.” “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-16">
+    <prop type="location-id">UT22084-065-004-31</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་གང་ན་མེད་པ་དེ་གང་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-065-004-31"/>Mañjuśrī, where is it not?”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-17">
+    <prop type="location-id">UT22084-065-004-31</prop>
+    <tuv xml:lang="bo">
+                <seg>གསོལ་པ། བཅོམ་ལྡན་འདས་ཡུལ་ཐམས་ཅད་དང་བྲལ་བའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>asked the Blessed One, Mañjuśrī replied, “Blessed One, it is without any location.”<tei:note xml:id="UT22084-065-004-33"/>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-18">
+    <prop type="location-id">UT22084-065-004-34</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཀའ་སྩལ་པ། འཇམ་དཔལ་སྒོམ་པ་གང་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-065-004-34"/>The Blessed One asked, “Mañjuśrī, what is meditation?”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-19">
+    <prop type="location-id">UT22084-065-004-34</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་སྒོམ་པ་ནི་སྒོམ་པ་མ་མཆིས་པའི་དོན་ཏོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Mañjuśrī replied, “Blessed One, meditation means nonmeditation.”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-20">
+    <prop type="location-id">UT22084-065-004-36</prop>
+    <tuv xml:lang="bo">
+                <seg>།འཇམ་དཔལ་གྱིས་གསོལ་པ། དེ་བཞིན་གཤེགས་པས་ཆོས་ཇི་ལྟར་སྟོན་པར་མཛད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-065-004-36"/>Then Mañjuśrī asked, “How does the Tathāgata teach the Dharma?” “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-21">
+    <prop type="location-id">UT22084-065-004-36</prop>
+    <tuv xml:lang="bo">
+                <seg>བཀའ་སྩལ་པ། འཇམ་དཔལ་ང་ནི་གཟུགས་རྣམ་པར་འཇིག་པ་མེད་པ་དང་། སྐྱེ་བ་མེད་པར་ཆོས་སྟོན་ཏོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Mañjuśrī,” replied the Blessed One, “I teach the Dharma to the effect that forms are undestroyed and unborn.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-22">
+    <prop type="location-id">UT22084-065-004-36</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཚོར་བ་དང་། འདུ་ཤེས་དང་། འདུ་བྱེད་དང་། རྣམ་པར་ཤེས་པ་རྣམ་པར་འཇིག་པ་མེད་པ་དང་། སྐྱེ་བ་མེད་པར་ཆོས་སྟོན་ཏོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I teach the Dharma to the effect that feelings, perceptions, formations, and consciousnesses are undestroyed and unborn.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-23">
+    <prop type="location-id">UT22084-065-004-36</prop>
+    <tuv xml:lang="bo">
+                <seg>།འདོད་ཆགས་དང་། ཞེ་སྡང་དང་། གཏི་མུག་རྣམས་<tei:ref folio="F.302.b"/>རྣམ་པར་འཇིག་པ་མེད་པ་དང་། སྐྱེ་བ་མེད་པའི་ཆོས་ཀྱི་འཁོར་ལོ་སྐོར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I turn the wheel of Dharma to the effect that attachment, hatred, and ignorance are undestroyed and unborn.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-24">
+    <prop type="location-id">UT22084-065-004-36</prop>
+    <tuv xml:lang="bo">
+                <seg>།ངས་ནི་འདི་ལྟར་ཆོས་གང་ཡང་མ་བཤིག །མ་བསྐྱེད་པ་དེ་ལྟར་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སུ་གསུངས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I have taught that in this way no phenomenon whatsoever has been destroyed or produced in the state of unsurpassed, perfect, and complete awakening.”<tei:note xml:id="UT22084-065-004-38"/>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-25">
+    <prop type="location-id">UT22084-065-004-39</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་མཁྱེན་བཞིན་དུ་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །འཇམ་དཔལ་ཁྱོད་ཀྱིས་ཆོས་ཀྱི་དབྱིངས་ཤེས་སམ། གསོལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-065-004-39"/>Then, though he already knew the answer, the Blessed One asked the Youthful Mañjuśrī, “Mañjuśrī, do you know the sphere of phenomena?” “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-26">
+    <prop type="location-id">UT22084-065-004-39</prop>
+    <tuv xml:lang="bo">
+                <seg>གལ་ཏེ་བདག་གིས་དམིགས་ན་འཚལ་ལགས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I know it if I focus on it,” replied Mañjuśrī.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-27">
+    <prop type="location-id">UT22084-065-004-41</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཀའ་སྩལ་པ། འཇམ་དཔལ་ཁྱོད་ཀྱིས་འཇིག་རྟེན་གང་ལ་སྤྱོད་པ་ཤེས་སམ། གསོལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-065-004-41"/>The Blessed One asked, “Mañjuśrī, do you know the world that is experienced?” “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-28">
+    <prop type="location-id">UT22084-065-004-41</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་འཇིག་རྟེན་ན་སྒྱུ་མ་སྤྲུལ་པའི་མི་གང་ཁོ་ན་ལ་སྤྱོད་པ་དེ་ལ་སྤྱོད་པས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Blessed One, the world is merely that which is experienced by people who are illusory apparitions.<tei:note xml:id="UT22084-065-004-43"/>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-29">
+    <prop type="location-id">UT22084-065-004-41</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་འཇིག་རྟེན་ཞེས་བགྱི་བ་ནི་དངོས་པོ་མ་མཆིས་པའི་ངོ་བོ་ཉིད་ལགས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Blessed One, that which is called ‘the world’ is essentially a nonexistent thing.”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-30">
+    <prop type="location-id">UT22084-065-004-44</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། དེ་བཞིན་གཤེགས་པ་ཆོས་གསན་པར་ནི་བཞེད་ཀྱི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-065-004-44"/>The Blessed One said, “The Tathāgata wishes to hear the Dharma.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-31">
+    <prop type="location-id">UT22084-065-004-44</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྱོད་སྤོབས་པར་གྱིས་ཤིག །གསོལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Demonstrate your inspired speech!”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-32">
+    <prop type="location-id">UT22084-065-004-45</prop>
+    <tuv xml:lang="bo">
+                <seg>ཅི་ལས་བརྩམས་ཏེ་སྤོབས་པར་བགྱིད་པ་ལགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-065-004-45"/>Mañjuśrī asked, “With what should I begin to demonstrate my inspired speech?” “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-33">
+    <prop type="location-id">UT22084-065-004-45</prop>
+    <tuv xml:lang="bo">
+                <seg>བཀའ་སྩལ་པ། འཇམ་དཔལ་ཁྱོད་ཆོས་ཀྱི་དབྱིངས་ལས་རྩོམས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Begin with the sphere of phenomena, Mañjuśrī,” replied the Blessed One. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-34">
+    <prop type="location-id">UT22084-065-004-45</prop>
+    <tuv xml:lang="bo">
+                <seg>གསོལ་པ། བཅོམ་ལྡན་འདས་གང་བདག་གིས་ཆོས་ཀྱི་དབྱིངས་མ་ལགས་པའི་ཆོས་དེ་བདག་གིས་ཡང་དག་པར་རྗེས་སུ་མ་མཐོང་ལགས་སོ། །བཀའ་སྩལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Blessed One, I do not see any phenomenon that is not the sphere of phenomena.”<tei:note xml:id="UT22084-065-004-48"/> “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-35">
+    <prop type="location-id">UT22084-065-004-45</prop>
+    <tuv xml:lang="bo">
+                <seg>མངོན་པའི་ང་རྒྱལ་ཅན་རྣམས་རབ་ཏུ་སྐྲག་པར་འགྱུར་རོ། །གསོལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Those who have unfounded pride will be afraid,” said the Blessed One. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-36">
+    <prop type="location-id">UT22084-065-004-50</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་གལ་ཏེ་ཡང་དག་པའི་མཐའ་སྐྲག་པར་གྱུར་ན། དེའི་སླད་དུ་མངོན་པའི་ང་རྒྱལ་ཅན་སྐྲག་པར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-065-004-50"/>Blessed One,” replied Mañjuśrī, “if the very limit of reality is afraid, then those who have unfounded pride will be afraid.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-37">
+    <prop type="location-id">UT22084-065-004-50</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ཅིའི་སླད་དུ་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Why?
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-38">
+    <prop type="location-id">UT22084-065-004-50</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡང་དག་པའི་མཐའ་དང་། མངོན་པའི་ང་རྒྱལ་ཅན་གཉིས་གཅིག་ཅིང་དབྱེར་མེད་པའི་ཕྱིར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Because the very limit of reality and those who have unfounded pride are one and the same, and indistinguishable.” “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-39">
+    <prop type="location-id">UT22084-065-004-50</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། འཇམ་དཔལ་ཁྱོད་ནི་རྡོ་རྗེའི་གཞི་ཡིན་ནོ། །འཇམ་དཔལ་གྱིས་གསོལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Mañjuśrī,” said the Blessed One, “you are a vajra basis.” “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-40">
+    <prop type="location-id">UT22084-065-004-52</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཆོས་ཐམས་ཅད་མི་ཕྱེད་ཅིང་བསམ་གྱིས་མི་ཁྱབ་པས་ན་རྡོ་རྗེའི་གཞི་ལགས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-065-004-52"/>Blessed One,” said Mañjuśrī, “since all phenomena are indivisible and inconceivable, they too are vajra bases.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-41">
+    <prop type="location-id">UT22084-065-004-52</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ཅིའི་སླད་དུ་རྡོ་རྗེའི་གཞི་ཞེས་བགྱི་ན་སེམས་ཅན་མ་མཆིས་པ་དང་། དངོས་པོ་མ་མཆིས་པའི་སླད་དུ་རྡོ་རྗེའི་གཞི་ལགས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Why are they said to be vajra bases? Because sentient beings do not exist and things do not exist, they too are vajra bases.<tei:note xml:id="UT22084-065-004-53"/> “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-42">
+    <prop type="location-id">UT22084-065-004-54</prop>
+    <tuv xml:lang="bo">
+                <seg>།གསོལ་པ། བཅོམ་ལྡན་འདས་དེ་ལྟར་ལགས་པའི་ཡང་དག་པའི་མཐའ་ནི་མ་མཆིས་པ་ལགས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-065-004-54"/>Blessed One, such a very limit of reality does not exist.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-43">
+    <prop type="location-id">UT22084-065-004-54</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟ་བུའི་མཐའ་གང་ལགས་པ་དེ་ནི་ཚུར་མཆི་བ་དང་། ཕར་མཆི་བ་མ་མཆིས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Whatever is such a limit neither comes nor goes.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-44">
+    <prop type="location-id">UT22084-065-004-54</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་དེ་ལྟ་བུའི་མཐའ་ཅན་གྱི་དོན་ལ་གནས་ནས་རང་བཞིན་མེད་པའི་དོན་སྒོམ་པར་བྱེད་དོ། །དབེན་པ་སྟེན་<tei:ref folio="F.303.a"/>པར་ཡང་བྱེད་དོ། །འདུ་འཛི་སྤོང་ངོ་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Blessed One, dwelling on the meaning of having such a limit, one meditates on the meaning of the absence of an intrinsic nature, keeps to remote places, and abandons distractions.”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-45">
+    <prop type="location-id">UT22084-065-004-55</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ནས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་བྱང་ཆུབ་སེམས་དཔའ་འཇམ་དཔལ་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ། །འཇམ་དཔལ་ཁྱོད་ཀྱིས་ཆོས་བསྟན་པ་ནི་རབ་ཏུ་ངོ་མཚར་ཏོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-065-004-55"/>Then Venerable Śāriputra said to the bodhisattva Mañjuśrī, “Mañjuśrī, the Dharma you have taught is amazing.” “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-46">
+    <prop type="location-id">UT22084-065-004-56</prop>
+    <tuv xml:lang="bo">
+                <seg>།འཇམ་དཔལ་གྱིས་སྨྲས་པ། བཙུན་པ་ཤཱ་རིའི་བུ་ངོ་མཚར་མི་ཆེ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-065-004-56"/>Honorable Śāriputra, it is not so amazing,” replied Mañjuśrī. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-47">
+    <prop type="location-id">UT22084-065-004-56</prop>
+    <tuv xml:lang="bo">
+                <seg>དགྲ་བཅོམ་པ་ཟག་པ་མེད་པ་ནི་ཆོས་སྟོན་པའི་སྣོད་མ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The uncontaminated arhats are not vessels for this Dharma teaching.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-48">
+    <prop type="location-id">UT22084-065-004-56</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཅིའི་ཕྱིར་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Why?
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-49">
+    <prop type="location-id">UT22084-065-004-56</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟར་ཆོས་བསྟན་པ་འདི་ནི་སོ་སོའི་སྐྱེ་བོའི་ཆོས་ལ་ཞུགས་པ་མ་ཡིན། དགྲ་བཅོམ་པའི་ཆོས་ལ་ཞུགས་པ་མ་ཡིན། རང་སངས་རྒྱས་ཀྱི་ཆོས་ལ་ཞུགས་པ་མ་ཡིན། དེ་བཞིན་གཤེགས་པའི་ཆོས་ལ་ཞུགས་པ་མ་ཡིན་པའི་ཕྱིར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Because a Dharma teaching like this does not engage with the attributes of ordinary beings, it does not engage with the attributes of arhats, it does not engage with the attributes of pratyekabuddhas, and it does not engage with the attributes of tathāgatas.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-50">
+    <prop type="location-id">UT22084-065-004-56</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ནི་ཆོས་དམིགས་པའི་ཕྱིར་ཡང་ཞུགས་པ་མ་ཡིན་ནོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It does not engage at all in the observation of phenomena.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-51">
+    <prop type="location-id">UT22084-065-004-56</prop>
+    <tuv xml:lang="bo">
+                <seg>།འདི་ནི་གང་དུ་ཡང་ཞུགས་པ་དང་ལྡོག་པ་མེད་པའི་ཕྱིར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This is because it neither engages in nor retreats from anything.<tei:note xml:id="UT22084-065-004-57"/>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-52">
+    <prop type="location-id">UT22084-065-004-56</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཆོས་ཐམས་ཅད་ཤིན་ཏུ་དབེན་པའི་ཕྱིར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This is because all phenomena are void.”<tei:note xml:id="UT22084-065-004-58"/> “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-53">
+    <prop type="location-id">UT22084-065-004-59</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྨྲས་པ། འཇམ་དཔལ་ཅི་ལ་བསམས་ཏེ་སྨྲ། འཇམ་དཔལ་གྱིས་སྨྲས་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-065-004-59"/>Mañjuśrī, will you say what you had in mind?” “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-54">
+    <prop type="location-id">UT22084-065-004-59</prop>
+    <tuv xml:lang="bo">
+                <seg>བཙུན་པ་ཤཱ་རིའི་བུ་དགྲ་བཅོམ་པ་ཉིད་ནི་འདོད་ཆགས་དང་། ཞེ་སྡང་དང་། གཏི་མུག་ཟད་པ་ཡིན་ན་དེ་དག་གང་གི་སྣོད་ཡིན་ཞིང་དེ་གང་ཇི་ལྟ་བུ་ཞིག་གི་སྣོད་དུ་འགྱུར་སྙམ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Honorable Śāriputra,” replied Mañjuśrī, “if the state of an arhat is the state in which attachment, hatred, and ignorance have been extinguished, then of what can they be a vessel? Of what kind of Dharma can they be a vessel?
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-55">
+    <prop type="location-id">UT22084-065-004-59</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལས་བསམས་ནས་དགྲ་བཅོམ་པ། ཟག་པ་ཟད་པ། ཆོས་བསྟན་པའི་སྣོད་མ་ཡིན་པར་ཁོ་བོ་དེ་སྐད་སྨྲའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is with this in mind that I say that arhats, whose contaminants have been extinguished, are not vessels for this Dharma teaching.<tei:note xml:id="UT22084-065-004-111"/> “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-56">
+    <prop type="location-id">UT22084-065-004-112</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྨྲས་པ། བཙུན་པ་ཤཱ་རིའི་བུ་ཁྱོད་འཆི་འཕོ་བ་དང་། སྐྱེ་བ་མེད་པའི་ཆོས་ཡིན་པར་མོས་སམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-065-004-112"/>Honorable Śāriputra, do you esteem this as a Dharma without death and rebirth?” “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-57">
+    <prop type="location-id">UT22084-065-004-112</prop>
+    <tuv xml:lang="bo">
+                <seg>སྨྲས་པ། འཇམ་དཔལ་བདག་མོས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Mañjuśrī, I do.”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-58">
+    <prop type="location-id">UT22084-065-004-114</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་བྱང་ཆུབ་སེམས་དཔའ་འཇམ་དཔལ་ལ་བཀའ་སྩལ་པ། འཇམ་དཔལ་ལེགས་སོ་ལེགས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-065-004-114"/>Then, the Blessed One said to the bodhisattva Mañjuśrī, “Mañjuśrī, excellent! Excellent!
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-59">
+    <prop type="location-id">UT22084-065-004-114</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཆོས་ཟབ་མོའི་དོན་ལ་ཁྱོད་རབ་ཏུ་མཁས་པར་བསྔགས་པར་གྱུར་ཏོ། །བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། བྱང་ཆུབ་སེམས་དཔའ་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་དང་། ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You are to be praised for your mastery of the meaning of the profound Dharma.”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-60">
+    <prop type="location-id">UT22084-065-004-65</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-065-004-65"/>After the Blessed One had spoken thus, the bodhisattva Youthful Mañjuśrī, the venerable Śāriputra, and the world with its gods, humans, asuras, and gandharvas rejoiced and praised what the Blessed One had said.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-065-004-TU-61">
+    <prop type="location-id">UT22084-065-004-66</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ཏིང་ངེ་འཛིན་གྱི་འཁོར་ལོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-065-004-66"/>This concludes the noble Mahāyāna sūtra “The Wheel of Meditative Concentration.”</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>

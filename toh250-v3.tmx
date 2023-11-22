@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="linguae-dharmae/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-066-008" eft:text-version="v-1.0.2-2023"/>
+<body>
+<tu id="UT22084-066-008-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.59.b"/>༄༅༅། །རྒྱ་གར་སྐད་དུ། ཙ་ཏུར་དྷརྨ་ཀ་སཱུ་ཏྲ། བོད་སྐད་དུ། </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-008-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་བཞི་པའི་མདོ། </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Sūtra on The Four Factors 
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-008-TU-3">
+    <prop type="location-id">UT22084-066-008-24</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་<tei:ref folio="F.60.a"/>དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-008-24"/>Homage to all the buddhas and bodhisattvas!
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-008-TU-4">
+    <prop type="location-id">UT22084-066-008-124</prop>
+    <tuv xml:lang="bo">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-008-124"/>Thus did I hear at one time.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-008-TU-5">
+    <prop type="location-id">UT22084-066-008-124</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མཉན་ཡོད་ན་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན། དགེ་སློང་སྟོང་ཉིས་བརྒྱ་ལྔ་བཅུའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One was residing in Śrāvastī at Jeta Grove, Anāthapiṇḍada’s Park, together with a great saṅgha of 1250 monks.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-008-TU-6">
+    <prop type="location-id">UT22084-066-008-29</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་བརྟན་ཅིང་ཟབ་ལ་སྙན་ཅིང་རྒྱ་ཆེ་བའི་སྒྲ་དབྱངས་ཀྱིས་དགེ་སློང་རྣམས་ལ་བཀའ་སྩལ་པ། དགེ་སློང་དག་རིགས་ཀྱི་བུ་མཁས་པས་ཇི་སྲིད་འཚོའི་བར་དུ་གནས་བཞི་ལ་ཡིད་བརྟན་པར་མི་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-008-29"/>At that time, the Blessed One addressed the monks in a voice that was steady, deep, harmonious, and far-reaching, saying, “Monks, there are four beliefs that a wise son of good family does not hold for as long as he lives.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-008-TU-7">
+    <prop type="location-id">UT22084-066-008-29</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཞི་གང་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What are these four? “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-008-TU-8">
+    <prop type="location-id">UT22084-066-008-30</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་རིགས་ཀྱི་བུ་མཁས་པས་བདག་ནི་བུད་མེད་དག་ལ་དགའ་བའོ་སྙམ་དུ་ཇི་སྲིད་འཚོའི་བར་དུ་ཡིད་བརྟན་པར་མི་བྱ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-008-30"/>Monks, for as long as he lives, a wise son of good family does not hold the belief that there is pleasure to be found in women. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-008-TU-9">
+    <prop type="location-id">UT22084-066-008-31</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་རིགས་ཀྱི་བུ་མཁས་པས་བདག་ནི་རྒྱལ་པོའི་ཕོ་བྲང་འཁོར་ལ་དགའ་བའོ་སྙམ་དུ་ཇི་སྲིད་འཚོའི་བར་དུ་ཡིད་བརྟན་པར་མི་བྱ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-008-31"/>Monks, for as long as he lives, a wise son of good family does not hold the belief that there is pleasure to be found at the court of the royal palace. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-008-TU-10">
+    <prop type="location-id">UT22084-066-008-32</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་རིགས་ཀྱི་བུ་མཁས་པས་བདག་ནི་གཟུགས་བཟང་བ་མཛེས་པ་བལྟ་ན་སྡུག་པ་ནད་ཉུང་བའོ་སྙམ་དུ་ཇི་སྲིད་འཚོའི་བར་དུ་ཡིད་བརྟན་པར་མི་བྱ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-008-32"/>Monks, for as long as he lives, a wise son of good family does not hold the belief that he is attractive, handsome, good looking, and in good health. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-008-TU-11">
+    <prop type="location-id">UT22084-066-008-33</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་རིགས་ཀྱི་བུ་མཁས་པས་བདག་ནི་ཕྱུག་པ། ནོར་མང་བ། ཡོ་བྱད་ཕུན་སུམ་ཚོགས་པའོ་སྙམ་དུ་ཇི་སྲིད་འཚོའི་བར་དུ་ཡིད་བརྟན་པར་མི་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-008-33"/>Monks, for as long as he lives, a wise son of good family does not hold the belief that he is rich, wealthy, and has abundant resources.”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-008-TU-12">
+    <prop type="location-id">UT22084-066-008-34</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-008-34"/>The Blessed One spoke these words.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-008-TU-13">
+    <prop type="location-id">UT22084-066-008-35</prop>
+    <tuv xml:lang="bo">
+                <seg>བདེ་བར་གཤེགས་པས་དེ་སྐད་གསུངས་ནས། སྟོན་པས་གཞན་ཡང་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །བུད་མེད་བརྟེན་དུ་ག་ལ་རུང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Once the Sugata had spoken in this way, he, the Teacher, also said the following: <tei:milestone xml:id="UT22084-066-008-35"/>“How could it be right to depend on women?
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-008-TU-14">
+    <prop type="location-id">UT22084-066-008-35</prop>
+    <tuv xml:lang="bo">
+                <seg>།རྒྱལ་པོའི་ཕོ་བྲང་ག་ལ་དགའ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How could the royal palace ever be delightful?
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-008-TU-15">
+    <prop type="location-id">UT22084-066-008-35</prop>
+    <tuv xml:lang="bo">
+                <seg>།དབུ་བའི་སྙིང་པོ་ག་ལ་ཡོད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How could a bubble possess a solid core?
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-008-TU-16">
+    <prop type="location-id">UT22084-066-008-35</prop>
+    <tuv xml:lang="bo">
+                <seg>།ལོངས་སྤྱོད་རྟག་པ་ག་ལ་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How could one’s wealth possibly endure? “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-008-TU-17">
+    <prop type="location-id">UT22084-066-008-36</prop>
+    <tuv xml:lang="bo">
+                <seg>།ལོངས་སྤྱོད་དག་ནི་འབབ་ཆུ་བཞིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-008-36"/>Wealth is like a rushing river.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-008-TU-18">
+    <prop type="location-id">UT22084-066-008-36</prop>
+    <tuv xml:lang="bo">
+                <seg>།གྲུ་ཅི་འདྲ་བར་ཁྱིམ་དེ་འདྲ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>A home is like a ferryboat.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-008-TU-19">
+    <prop type="location-id">UT22084-066-008-36</prop>
+    <tuv xml:lang="bo">
+                <seg>།མེ་ཏོག་ཅི་འདྲ་གཟུགས་དེ་བཞིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One’s body resembles a flower.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-008-TU-20">
+    <prop type="location-id">UT22084-066-008-36</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྲོག་ནི་ཆུ་བུར་འདྲ་བ་ཡིན། །བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། དགེ་སློང་དེ་དག་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Life itself is like a water bubble.”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-008-TU-21">
+    <prop type="location-id">UT22084-066-008-37</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-008-37"/>When the Blessed One had said this, the monks, together with the world of devas, humans, asuras, and gandharvas, rejoiced and praised the words of the Blessed One.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-008-TU-22">
+    <prop type="location-id">UT22084-066-008-38</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་བཞི་པའི་མདོ་རྫོགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-008-38"/>This concludes “The Sūtra on the Four Factors.”<tei:note xml:id="UT22084-066-008-39"/>
+                </seg>
+            </tuv>
+</tu>
+</body>
+</tmx>

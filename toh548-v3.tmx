@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="linguae-dharmae/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-089-005" eft:text-version="v-1.0.5-2023"/>
+<body>
+<tu id="UT22084-089-005-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.14.b"/>འཕགས་པ་འཇམ་དཔལ་ལ་ཕྱག་འཚལ་ལོ། །ཨོཾ་བཱ་ཀྱེ་ཏེ་ཛཱ་ཡ། ཨོཾ་བཱ་ཀྱེ་ཥ་ཥེ་སྭ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Noble Epithets of Mañjuśrī<tei:milestone xml:id="UT22084-089-005-15"/> Homage to noble Mañjuśrī!
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-089-005-TU-2">
+    <prop type="location-id">UT22084-089-005-17</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་བཱ་ཀྱེ་ཁན་ཛ་ཡེ། ཨོཾ་བཱ་ཀྱེ་ནིཥྛ་ཨ། ཨོཾ་བཱ་ཀྱེ་ཡ་ན་མཿཨོཾ་བཱ་ཀྱེ་དཾ་ན་མཿ། འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་འདི་ཉིད་ལན་ཉི་ཤུ་རྩ་གཅིག་བཟླས་པས་མཚམས་མེད་པ་ལྔའི་ལས་ཀྱི་སྒྲིབ་པ་ཐམས་ཅད་འབྱང་ངོ་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-089-005-17"/>oṁ vākyetejāya | oṁ vākyeśeṣa sva<tei:note xml:id="UT22084-089-005-18"/> | oṁ vākyekhañjaye | oṁ vākyeniṣṭhāya<tei:note xml:id="UT22084-089-005-19"/> | oṁ vākyeya namaḥ | oṁ vākyeda<tei:note xml:id="UT22084-089-005-20"/> namaḥ ||<tei:note xml:id="UT22084-089-005-21"/>
+                    <tei:milestone xml:id="UT22084-089-005-22"/> Reciting these epithets of noble Mañjuśrī<tei:note xml:id="UT22084-089-005-23"/> twenty-one times will purify all the karmic obscurations resulting from the five misdeeds with immediate retribution.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-089-005-TU-3">
+    <prop type="location-id">UT22084-089-005-24</prop>
+    <tuv xml:lang="bo">
+                <seg>།འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-089-005-24"/>This concludes the noble “Epithets of Mañjuśrī.”</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>

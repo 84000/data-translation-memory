@@ -1,0 +1,1225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="linguae-dharmae/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-088-022" eft:text-version="v-1.0.10-2023"/>
+<body>
+<tu id="UT22084-088-022-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.85.b"/>༄༅༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་ཨ་གྲ་པྲ་དཱི་པ་དྷཱ་ར་ཎཱི་བིདྱ་རཱ་ཛ། བོད་སྐད་དུ། </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་རིག་སྔགས་ཀྱི་རྒྱལ་པོ་སྒྲོན་མ་མཆོག་གི་གཟུངས། </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Noble King of Spells The Dhāraṇī of Agrapradīpa 
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-3">
+    <prop type="location-id">UT22084-088-022-20</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-20"/>
+                    <tei:note xml:id="UT22084-088-022-118"/>Homage to all buddhas and bodhisattvas.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-4">
+    <prop type="location-id">UT22084-088-022-20</prop>
+    <tuv xml:lang="bo">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-5">
+    <prop type="location-id">UT22084-088-022-20</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མཉན་ཡོད་ན་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན་དགེ་སློང་སྟོང་ཉིས་བརྒྱ་ལྔ་བཅུའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་། ལྷ་དང་མི་འབུམ་ཕྲག་དུ་མ་དང་། བྱང་ཆུབ་སེམས་དཔའ་འབུམ་ཕྲག་དུ་མ་དང་། ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One was residing near Śrāvastī, in Jeta Grove at Anāthapiṇḍada’s Park, along with a great congregation of 1,250 monks, many hundreds of thousands of gods and humans, and many hundreds of thousands of bodhisattvas.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-6">
+    <prop type="location-id">UT22084-088-022-20</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡོངས་སུ་བསྐོར་ཅིང་མདུན་གྱིས་བལྟས་ནས་ཆོས་སྟོན་ཏོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Surrounded and venerated by them, he taught the Dharma.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-7">
+    <prop type="location-id">UT22084-088-022-24</prop>
+    <tuv xml:lang="bo">
+                <seg>།སངས་རྒྱས་ཀྱི་ཞིང་འདི་ནས་སངས་རྒྱས་ཀྱི་ཞིང་བྱེ་བ་བརྒྱ་ཕྲག་སྟོང་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་མེ་ཏོག་མཐའ་ཡས་ཞེས་བྱ་བ་དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སྒྲོན་མ་མཆོག་ཅེས་བྱ་བ་ད་ལྟར་ཡང་བཞུགས་ཏེ་འཚོ་ཞིང་གཞེས་ལ་ཆོས་ཀྱང་སྟོན་པ་དེས་བྱང་ཆུབ་སེམས་དཔའ་འོད་ཆེན་པོ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-24"/>In a buddhafield one trillion buddhafields away from this buddhafield, the blessed, thus-gone, worthy, fully and perfectly awakened Buddha Agrapradīpa was residing in the world system named Infinite Flowers. He passed his time there teaching the Dharma.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-8">
+    <prop type="location-id">UT22084-088-022-24</prop>
+    <tuv xml:lang="bo">
+                <seg>འོད་དཔག་མེད་ཅེས་བྱ་བ་བྱང་ཆུབ་སེམས་དཔའ་གཉིས་འཇིག་རྟེན་གྱི་ཁམས་མི་མཇེད་འདིར་བཏང་ངོ་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He sent the two great bodhisattvas, Great Light and Amitābha, here to the Sahā world system.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-9">
+    <prop type="location-id">UT22084-088-022-25</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བྱང་ཆུབ་སེམས་དཔའ་དེ་གཉིས་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ག་ལ་བ་དང་། བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཤཱཀྱ་ཐུབ་པ་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-25"/>The two bodhisattvas went to Jeta Grove at Anāthapiṇḍada’s Park, where Śākyamuni, the blessed, thus-gone, worthy, fully and perfectly awakened Buddha was residing.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-10">
+    <prop type="location-id">UT22084-088-022-25</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ། བཅོམ་ལྡན་འདས་ལ་ལན་གསུམ་བསྐོར་བ་བྱས་ནས་ཕྱོགས་གཅིག་ཏུ་འདུག་གོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They arrived, respectfully bowed their heads at the Blessed One’s feet, circumambulated him three times, and sat to one side.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-11">
+    <prop type="location-id">UT22084-088-022-26</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཕྱོགས་གཅིག་ཏུ་འདུག་ནས་བྱང་ཆུབ་སེམས་དཔའ་དེ་གཉིས་ཀྱིས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་སངས་རྒྱས་ཀྱི་ཞིང་བྱེ་བ་ཕྲག་འབུམ་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་མེ་ཏོག་མཐའ་ཡས་ཞེས་བགྱི་བ་དེ་ན་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སྒྲོན་མ་མཆོག་ཅེས་བགྱི་བ་ད་ལྟར་བཞུགས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-26"/>Those two bodhisattvas said to the Blessed One, “Blessed One, a trillion buddhafields away is the world system named Infinite Flowers, where the blessed, thus-gone, worthy, fully and perfectly awakened Buddha Agrapradīpa resides.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-12">
+    <prop type="location-id">UT22084-088-022-26</prop>
+    <tuv xml:lang="bo">
+                <seg>འཚོ་ཞིང་གཞེས་ལ་ཆོས་ཀྱང་སྟོན་ཏོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He passes his time there teaching the Dharma.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-13">
+    <prop type="location-id">UT22084-088-022-26</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་<tei:ref folio="F.86.a"/>སྒྲོན་མའི་མཆོག་དེས་བདག་ཅག་གཉིས་འཇིག་རྟེན་གྱི་ཁམས་མི་མཇེད་འདིར་བཏང་སྟེ། བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སྒྲོན་མའི་མཆོག་དེས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The blessed, thus-gone, worthy, fully and perfectly awakened Buddha Agrapradīpa sent us both here to this Sahā world system.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-14">
+    <prop type="location-id">UT22084-088-022-26</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལ་གནོད་པ་ཆུང་ངམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The blessed, thus-gone, worthy, fully and perfectly awakened Buddha Agrapradīpa asks about the Blessed One’s health.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-15">
+    <prop type="location-id">UT22084-088-022-26</prop>
+    <tuv xml:lang="bo">
+                <seg>ཉམ་ང་བ་ཉུང་ངམ། བསྐྱོད་པ་ཡང་ངམ། འཚོའམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Are his illnesses and ailments few?
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-16">
+    <prop type="location-id">UT22084-088-022-26</prop>
+    <tuv xml:lang="bo">
+                <seg>སྟོབས་དང་། བདེ་བ་དང་། ཁ་ན་མ་ཐོ་བ་མ་མཆིས་པ་ལ་རེག་པར་གནས་སམ་ཞེས་སྙུན་གསོལ་ལོ། །འདི་སྐད་ཅེས་ཀྱང་གསུང་ངོ་། །འདི་ན་མིའམ། མི་མ་ལགས་པའམ། འབྱུང་པོའམ། ཤ་ཟའམ། གནོད་སྦྱིན་ནམ། སྲིན་པོའམ། གྲུལ་བུམ་མམ། གྲུལ་བུམ་གྱི་སྡེ་དཔོན་ནམ། རྒྱལ་པོའམ། བློན་པོ་ཆེན་པོའམ། ཆོམ་རྐུན་ནམ། སྦྲུལ་ལམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Is he fit, nourished, strong, happy, free of annoyances, and therefore comfortable? “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-17">
+    <prop type="location-id">UT22084-088-022-27</prop>
+    <tuv xml:lang="bo">
+                <seg>སྲིན་བུའམ། སྲིན་བུ་ལུ་ཏའམ། སྦྲང་བུ་ལྕགས་ཕྱེའམ། ཉེ་བའི་ཉོན་མོངས་པ་གང་ཡང་རུང་བདག་འཚེ་བར་བགྱིད་པ་འགའ་ཡང་མ་མཆིས་སམ་ཞེས་གསུང་ངོ་། །སེམས་ཅན་རྣམས་ཀྱི་དོན་དང་། སྨན་པ་དང་། བདེ་བ་དང་། མདངས་དང་ལྡན་པར་བགྱི་བ་དང་། གཟི་བརྗིད་དང་ལྡན་པར་བགྱི་བ་དང་། གྲགས་པ་དང་ལྡན་པར་བགྱི་བ་དང་། ཡོན་ཏན་དང་ལྡན་པར་བགྱི་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-27"/>He also asks if you are free from any and all of the harms in this world caused by humans, nonhumans, bhūtas, piśācas, yakṣas, rākṣasas, kumbhāṇḍas, the commander of the kumbhāṇḍa armies, kings, high-ranking ministers, thieves, snakes, insects, spiders,<tei:note xml:id="UT22084-088-022-28"/> small biting insects,<tei:note xml:id="UT22084-088-022-29"/> and other afflictions. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-18">
+    <prop type="location-id">UT22084-088-022-30</prop>
+    <tuv xml:lang="bo">
+                <seg>སྟོབས་དང་ལྡན་པར་བགྱི་བ་དང་། མདོག་དང་ལྡན་པར་བགྱི་བ་དང་། བསྲུང་བ་དང་། སྦ་བ་དང་། བསྐྱབ་པའི་སླད་དུ་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སྒྲོན་མའི་མཆོག་དེས་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་ཀྱང་བསྐུར་ཏེ། འདི་ལྟ་སྟེ། ཛྭཱ་ལེ་ཛྭཱ་ལེ། ཛྭཱ་ལེ་ག་ཏེ། ཧུཀྐུ། མུཀྐུ། སཾ་མ་ཏེ། མ་ཧཱ་སཾ་མ་ཏེ། མ་ཧཱ་ཛྭཱ་ལེ། ཛྭཱ་བ་ལ་མེ། ས་ཧེ་ས་ཧེ། མ་ཧཱ་ཛྭཱ་ལེ། ཨུཀྐེ། མུཀྐེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-30"/>For the benefit, welfare, and happiness of all beings, to provide them with vitality, charisma, glory, good qualities, strength, and beauty, and to protect, guard, and preserve them, the blessed, thus-gone, worthy, fully and perfectly awakened Buddha Agrapradīpa offers this dhāraṇī-mantra formula: <tei:milestone xml:id="UT22084-088-022-31"/>jvāle<tei:note xml:id="UT22084-088-022-32"/> jvāle jvāle gate hukku mukku sammate mahāsammate mahājvāle jvāvala me sahe sahe mahājvāle ukke mukke śame sammahe mahāsammate mahāśame svāha.”<tei:note xml:id="UT22084-088-022-33"/>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-19">
+    <prop type="location-id">UT22084-088-022-34</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤ་མེ། སཾ་མ་ཧེ། མ་ཧཱ་སཾ་མ་ཧེ། མ་ཧཱ་ཤ་མེ་སྭཱ་ཧཱ། དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་ལ་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-34"/>The Blessed One then addressed the venerable Ānanda: “Ānanda, remember this mantra formula.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-20">
+    <prop type="location-id">UT22084-088-022-34</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་ཁྱོད་ཀྱིས་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་ཟུང་ཤིག །ལོང་ཤིག །ཆོང་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Receive it, retain it, recite it, and master it.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-21">
+    <prop type="location-id">UT22084-088-022-34</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷོགས་ཤིག །ཀུན་ཆུབ་པར་གྱིས་ཤིག །གཞན་དག་ལ་ཡང་རྒྱ་ཆེར་རབ་ཏུ་སྟོན་ཅིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Teach it to others extensively.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-22">
+    <prop type="location-id">UT22084-088-022-34</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་སངས་རྒྱས་འབྱུང་བ་རྙེད་པར་དཀའོ། །གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་རྙེད་པར་དཀའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Ānanda, the appearance of a buddha is rare, and this dhāraṇī-mantra formula is hard to find.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-23">
+    <prop type="location-id">UT22084-088-022-34</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀུན་དགའ་བོ་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་དག་འཛིན་པ་ཡང་ཤིན་ཏུ་རྙེད་<tei:ref folio="F.86.b"/>པར་དཀའོ། །ཀུན་དགའ་བོ་རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་གང་ལ་ལ་ནི་གཟུངས་ཀྱི་གསང་སྔགས་གཞི་འདི་དག་འཛིན་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Ānanda, one who upholds this dhāraṇī-mantra formula is also exceedingly hard to find.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-24">
+    <prop type="location-id">UT22084-088-022-34</prop>
+    <tuv xml:lang="bo">
+                <seg>ལེན་པ་དང་། འཆང་བ་དང་། ཀློག་པ་དང་། ཀུན་ཆུབ་པར་བྱེད་པ་དང་། གཞན་དག་ལ་ཡང་རྒྱ་ཆེར་རབ་ཏུ་སྟོན་པ་དེ་ནི་ཚེ་རབས་བདུན་དུ་ཚེ་རབས་དྲན་པར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Ānanda, any son or daughter of noble family who remembers, receives, retains, recites, and masters this dhāraṇī-mantra formula and teaches it to others extensively will remember their last seven rebirths.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-25">
+    <prop type="location-id">UT22084-088-022-34</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཚེ་འདི་ཉིད་ལ་ཡང་སྔོན་གྱི་ལས་མ་གཏོགས་པར་གཞན་གྱི་གནོད་པ་ཐམས་ཅད་ལས་ཡང་དག་པར་འདའ་བ་དང་། འགྲོ་བ་ཐམས་ཅད་དང་རྗེས་སུ་མཐུན་པར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In this life they will escape all harm apart from the results of their previous actions, and they will be in harmony with all beings.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-26">
+    <prop type="location-id">UT22084-088-022-34</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀུན་དགའ་བོ་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་ནི་སངས་རྒྱས་བྱེ་བ་ཕྲག་བདུན་ཅུ་རྩ་བདུན་གྱིས་གསུངས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Ānanda, this dhāraṇī-mantra formula was taught by seventy-seven billion buddhas.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-27">
+    <prop type="location-id">UT22084-088-022-34</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་ལས་འདའ་བར་བྱེད་པ་དེ་ནི་དེ་དག་ཐམས་ཅད་ལ་འཁུས་པ་ཡིན་ནོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This dhāraṇī-mantra formula is hidden from all those who would violate it.”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-28">
+    <prop type="location-id">UT22084-088-022-142</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་མ་ཕམ་པ་སྟན་ལས་ལངས་ཏེ། གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས་པུས་མོ་གཡས་པའི་ལྷ་ང་ས་ལ་བཙུགས་ཏེ། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས། བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-142"/>The bodhisattva mahāsattva Ajita then rose from his seat, adjusted his robe on his shoulder, and knelt down on his right knee.<tei:note xml:id="UT22084-088-022-36"/>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-29">
+    <prop type="location-id">UT22084-088-022-37</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་བདག་གིས་ཀྱང་སེམས་ཅན་རྣམས་ཀྱི་དོན་དང་། སྨན་པ་དང་། བདེ་བ་དང་། མདངས་དང་ལྡན་པར་བགྱི་བ་དང་། གཟི་བརྗིད་དང་ལྡན་པར་བགྱི་བ་དང་། གྲགས་པ་དང་ལྡན་པར་བགྱི་བ་དང་། ཡོན་ཏན་དང་ལྡན་པར་བགྱི་བ་དང་། སྟོབས་དང་ལྡན་པར་བགྱི་བ་དང་། མདོག་དང་ལྡན་པར་བགྱི་བ་དང་། བསྲུང་བ་དང་། སྦ་བ་དང་། བསྐྱབ་པའི་སླད་དུ་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་རྣམས་བརྗོད་པར་བགྱིའོ། །འདི་ལྟ་སྟེ། ཨཏྟེ། བཏྟེ། ནཏྟེ། ཀུ་ནཏྟེ། པུཀྐ་སེ། ཀུ་པུཀྐ་སེ། ཀ་སེ། ཨ་ན་ཀ་སེ། ནཱ་མ་ཀ་སེ། ཨ་ནུ་ཏ། པྲ་ནུ་ཏ། ཁ་ཛེ། མ་ཧཱ་ཁ་ཛེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Bowing to the Blessed One with joined palms, he spoke to the Blessed One: “O Blessed One, for the benefit, welfare, and happiness of all beings, to provide them with vitality, charisma, glory, good qualities, strength, and beauty, and to protect, guard, and preserve them, I will speak another dhāraṇī-mantra formula: <tei:milestone xml:id="UT22084-088-022-37"/>atte vatte natte kunatte pukkase kupukkase kase anakase nāmakase anuta pranuta khaje mahākaje sadpaphe taḍaphe tuḍaphe hili mili tile svāha.”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-30">
+    <prop type="location-id">UT22084-088-022-38</prop>
+    <tuv xml:lang="bo">
+                <seg>སད་པ་ཕེ། ཏ་ཌ་ཕེ། ཏུ་ཌ་ཕེ། ཧི་ལི་མི་ལི་ཏི་ལེ་སྭཱ་ཧཱ། དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་ལ་བཀའ་སྩལ་པ། ཀུན་དགའ་བོ་ཁྱོད་ཀྱིས་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་ཟུང་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-38"/>The Blessed One then addressed the venerable Ānanda: “Ānanda, remember this mantra formula.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-31">
+    <prop type="location-id">UT22084-088-022-38</prop>
+    <tuv xml:lang="bo">
+                <seg>ལོང་ཤིག །ཆོང་ཤིག །ལྷོགས་ཤིག །ཀུན་ཆུབ་པར་གྱིས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Receive it, retain it, recite it, and master it.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-32">
+    <prop type="location-id">UT22084-088-022-38</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞན་དག་ལ་ཡང་རྒྱ་ཆེར་ཡང་དག་པར་རབ་ཏུ་སྟོན་ཅིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Teach it to others extensively.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-33">
+    <prop type="location-id">UT22084-088-022-38</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་སངས་རྒྱས་འབྱུང་བ་རྙེད་པར་དཀའོ། །གཟུངས་<tei:ref folio="F.87.a"/>ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་རྙེད་པར་དཀའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Ānanda, the appearance of a buddha is rare, and this dhāraṇī-mantra formula is hard to find.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-34">
+    <prop type="location-id">UT22084-088-022-38</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀུན་དགའ་བོ་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་འཛིན་པ་ཡང་ཤིན་ཏུ་རྙེད་པར་དཀའོ། །ཀུན་དགའ་བོ་རིགས་ཀྱི་བུའམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Ānanda, one who upholds this dhāraṇī-mantra formula is also exceedingly hard to find.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-35">
+    <prop type="location-id">UT22084-088-022-38</prop>
+    <tuv xml:lang="bo">
+                <seg>རིགས་ཀྱི་བུ་མོ་གང་ལ་ལ་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་འཛིན་པ་དང་། ལེན་པ་དང་། འཆང་བ་དང་། ཀློག་པ་དང་། ཀུན་ཆུབ་པར་བྱེད་པ་དང་། གཞན་དག་ལ་ཡང་རྒྱ་ཆེར་རབ་ཏུ་སྟོན་པ་དེ་ནི་ཚེ་རབས་བཅུ་གཉིས་སུ་ཚེ་རབས་དྲན་པར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Ānanda, any son or daughter of noble family who remembers, receives, retains, recites, and masters this dhāraṇī-mantra formula and teaches it to others extensively will remember their last twelve rebirths.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-36">
+    <prop type="location-id">UT22084-088-022-38</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཚེ་འདི་ཉིད་ལ་ཡང་སྔོན་གྱི་ལས་མ་གཏོགས་པར་གཞན་གྱི་གནོད་པ་ཐམས་ཅད་ལས་ཡང་དག་པར་འདའ་བ་དང་། འགྲོ་བ་ཐམས་ཅད་དང་རྗེས་སུ་མཐུན་པར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In this life they will escape all harm apart from the results of their previous actions, and they will be in harmony with all beings.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-37">
+    <prop type="location-id">UT22084-088-022-38</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀུན་དགའ་བོ་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་ནི་སངས་རྒྱས་བྱེ་བ་ཕྲག་བརྒྱད་ཅུ་རྩ་གཉིས་ཀྱིས་གསུངས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Ānanda, this dhāraṇī-mantra formula was taught by eighty-two billion buddhas.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-38">
+    <prop type="location-id">UT22084-088-022-38</prop>
+    <tuv xml:lang="bo">
+                <seg>།གང་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་ལས་འདའ་བར་བྱེད་པ་ནི་དེ་དག་ཐམས་ཅད་ལ་འཁུས་པ་ཡིན་ནོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This dhāraṇī-mantra formula is hidden from all those who would violate it.”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-39">
+    <prop type="location-id">UT22084-088-022-39</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ནས་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་སྟན་ལས་ལངས་ཏེ། གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས་པུས་མོ་གཡས་པའི་ལྷ་ང་ས་ལ་བཙུགས་ཏེ། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་བདག་གིས་ཀྱང་སེམས་ཅན་རྣམས་ཀྱི་དོན་དང་། སྨན་པ་དང་། བདེ་བ་དང་། མདངས་དང་ལྡན་པར་བགྱི་བ་དང་། གཟི་བརྗིད་དང་ལྡན་པར་བགྱི་བ་དང་། གྲགས་པ་དང་ལྡན་པར་བགྱི་བ་དང་། ཡོན་ཏན་དང་ལྡན་པར་བགྱི་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-39"/>Mañjuśrīkumārabhūta then rose from his seat, adjusted his robe on his shoulder, and knelt down on his right knee.<tei:note xml:id="UT22084-088-022-40"/>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-40">
+    <prop type="location-id">UT22084-088-022-41</prop>
+    <tuv xml:lang="bo">
+                <seg>སྟོབས་དང་ལྡན་པར་བགྱི་བ་དང་། མདོག་དང་ལྡན་པར་བགྱི་བ་དང་། བསྲུང་བ་དང་། སྦ་བ་དང་། བསྐྱབ་པའི་སླད་དུ་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་རྣམས་བརྗོད་པར་བགྱིའོ། །དེ་འདི་ལྟ་སྟེ། ཨཀྑེ། བཀྑེ། ན་ཛི་ཏེ། ནཱ་གཱ་ས་རེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Bowing to the Blessed One with joined palms, he spoke to the Blessed One: “O Blessed One, for the benefit, welfare, and happiness of all beings, to provide them with vitality, charisma, glory, good qualities, strength, and beauty, and to protect, guard, and preserve them, I will speak another dhāraṇī-mantra formula: <tei:milestone xml:id="UT22084-088-022-41"/>akkhe vakkhe najite nāgāsare nahili jahile jahili vate caṇḍīla vate svāha.”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-41">
+    <prop type="location-id">UT22084-088-022-42</prop>
+    <tuv xml:lang="bo">
+                <seg>ན་ཧི་ལི། ཛ་ཧི་ལི། ཛ་ཧི་ལི་བ་ཏེ། ཙཎྜཱི་ལ་བ་ཏེ་སྭཱ་ཧཱ། དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་ལ་བཀའ་སྩལ་པ། ཀུན་དགའ་བོ་ཁྱོད་ཀྱིས་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་ཟུང་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-42"/>The Blessed One then addressed the venerable Ānanda: “Ānanda, remember this mantra formula.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-42">
+    <prop type="location-id">UT22084-088-022-42</prop>
+    <tuv xml:lang="bo">
+                <seg>ལོང་ཤིག །ཆོང་ཤིག །ལྷོགས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Receive it, retain it, recite it, and master it.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-43">
+    <prop type="location-id">UT22084-088-022-42</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་ཆུབ་པར་གྱིས་ཤིག །གཞན་དག་ལ་ཡང་རྒྱ་ཆེར་རབ་ཏུ་སྟོན་<tei:ref folio="F.87.b"/>ཅིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Teach it to others extensively.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-44">
+    <prop type="location-id">UT22084-088-022-42</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་སངས་རྒྱས་འབྱུང་བ་རྙེད་པར་དཀའོ། །གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་རྙེད་པར་དཀའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Ānanda, the appearance of a buddha is rare, and this dhāraṇī-mantra formula is hard to find.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-45">
+    <prop type="location-id">UT22084-088-022-42</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀུན་དགའ་བོ་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་འཛིན་པ་ཡང་ཤིན་ཏུ་རྙེད་པར་དཀའོ། །ཀུན་དགའ་བོ་རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་གང་ལ་ལས་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་འཛིན་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Ānanda, one who upholds this dhāraṇī-mantra formula is also exceedingly hard to find.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-46">
+    <prop type="location-id">UT22084-088-022-42</prop>
+    <tuv xml:lang="bo">
+                <seg>ལེན་པ་དང་། འཆང་བ་དང་། ཀློག་པ་དང་། ཀུན་ཆུབ་པར་བྱེད་པ་དང་། གཞན་དག་ལ་ཡང་རྒྱ་ཆེར་རབ་ཏུ་སྟོན་པ་དེ་ནི་ཚེ་རབས་བཅུ་གསུམ་དུ་ཚེ་རབས་དྲན་པར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Ānanda, any son or daughter of noble family who remembers, receives, retains, recites, and masters this dhāraṇī-mantra formula and teaches it to others extensively will remember their last thirteen rebirths.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-47">
+    <prop type="location-id">UT22084-088-022-42</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཚེ་འདི་ཉིད་ལ་ཡང་སྔོན་གྱི་ལས་མ་གཏོགས་པ་གཞན་གྱི་གནོད་པ་ཐམས་ཅད་ལས་ཡང་དག་པར་འདའ་བ་དང་། འགྲོ་བ་ཐམས་ཅད་དང་རྗེས་སུ་མཐུན་པར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In this life they will escape all harm apart from the results of their previous actions, and they will be in harmony with all beings.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-48">
+    <prop type="location-id">UT22084-088-022-42</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀུན་དགའ་བོ་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་ནི་སངས་རྒྱས་བྱེ་བ་ཕྲག་བརྒྱད་ཅུ་རྩ་གཉིས་ཀྱིས་གསུངས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Ānanda, this dhāraṇī-mantra formula was taught by eighty-two billion buddhas.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-49">
+    <prop type="location-id">UT22084-088-022-42</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་ལས་འདའ་བར་བྱེད་པ་དེ་ནི་དེ་དག་ཐམས་ཅད་ལ་འཁུས་པ་ཡིན་ནོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This dhāraṇī-mantra formula is hidden from all those who would violate it.”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-50">
+    <prop type="location-id">UT22084-088-022-43</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དགེ་སློང་རྣམས་ལ་བཀའ་སྩལ་པ། དགེ་སློང་དག་ངས་ཀྱང་སེམས་ཅན་རྣམས་ཀྱི་དོན་དང་། ཕན་པ་དང་། བདེ་བ་དང་། མདངས་དང་ལྡན་པར་བྱ་བ་དང་། གཟི་བརྗིད་དང་ལྡན་པར་བྱ་བ་དང་། གྲགས་པ་དང་ལྡན་པར་བྱ་བ་དང་། ཡོན་ཏན་དང་ལྡན་པར་བྱ་བ་དང་། སྟོབས་དང་ལྡན་པར་བྱ་བ་དང་། མདོག་དང་ལྡན་པར་བྱ་བ་དང་། བསྲུང་བ་དང་། སྦ་བ་དང་། བསྐྱབ་པའི་ཕྱིར་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་རྣམས་བཤད་དོ། །འདི་ལྟ་སྟེ། ཨཊྚེ། བཊྚེ། ན་ཊྚེ། ཀུ་ན་ཊྚེ། ཊ་ཀེ། ཨེ་ཌ་ཀེ། ཏ་ཏ་བེ། ཏུ་ཌ་བེ། ར་ཊ་ཀེ། ལོ་ལེ། ཧུ་ལེ། ཧི་ལི། མི་ལེ། ཏི་ལེ། ཤཱི་ལེ། ཤཱི་ལ། ཨ་ཌྷེ། བ་ཌྷེ། ན་ཌྷེ། ཀུ་ན་ཌྷེ། ཨ་ཌབ་ཏཱི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-43"/>Then, the Bhagavān addressed the monks: “O monks, for the benefit, welfare, and happiness of all beings, so that they may have vitality, charisma, glory, good qualities, strength, and beauty, and to protect, guard, and preserve them, I too will teach a dhāraṇī-mantra formula: <tei:milestone xml:id="UT22084-088-022-44"/>aṭṭe vaṭṭe naṭṭe kunaṭṭe ṭake eḍake tatave tuḍave raṭake lole hule hili mile tile śīle śīla aḍḥe vaḍḥe naḍhe kunaḍhe aḍavatī panavatī kase kase kase phase phase phase mahāphase phase svāha.”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-51">
+    <prop type="location-id">UT22084-088-022-45</prop>
+    <tuv xml:lang="bo">
+                <seg>པ་ན་བ་ཏཱི། ཀ་སེ་ཀ་སེ་ཀ་སེ། ཕ་སེ་ཕ་སེ་ཕ་སེ། མ་ཧཱ་ཕ་སེ་ཕ་སེ་སྭཱ་ཧཱ། དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་ལ་བཀའ་སྩལ་པ། ཀུན་དགའ་བོ་ཁྱོད་ཀྱིས་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་ཟུང་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-45"/>The Blessed One then addressed the venerable Ānanda: “Ānanda, remember this mantra formula.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-52">
+    <prop type="location-id">UT22084-088-022-45</prop>
+    <tuv xml:lang="bo">
+                <seg>ལོང་ཤིག །ཆོང་ཤིག །ལྷོགས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Receive it, retain it, recite it, and master it.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-53">
+    <prop type="location-id">UT22084-088-022-45</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་ཆུབ་པར་གྱིས་ཤིག །གཞན་དག་ལ་ཡང་རྒྱ་ཆེར་རབ་ཏུ་སྟོན་ཅིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Teach it to others extensively.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-54">
+    <prop type="location-id">UT22084-088-022-45</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་སངས་རྒྱས་འབྱུང་བ་རྙེད་པར་དཀའོ། །<tei:ref folio="F.88.a"/>གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་རྙེད་པར་དཀའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Ānanda, the appearance of a buddha is rare, and this dhāraṇī-mantra formula is hard to find.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-55">
+    <prop type="location-id">UT22084-088-022-45</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀུན་དགའ་བོ་གཟུངས་ཀྱི་གསང་སྔགས་འདི་དག་སྟོན་པ་ཡང་ཤིན་ཏུ་རྙེད་པར་དཀའོ། །ཀུན་དགའ་བོ་རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་གང་ལ་ལ་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་འཛིན་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Ānanda, one who teaches this dhāraṇī-mantra formula is also exceedingly hard to find.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-56">
+    <prop type="location-id">UT22084-088-022-45</prop>
+    <tuv xml:lang="bo">
+                <seg>ལེན་པ་དང་། འཆང་བ་དང་། ཀློག་པ་དང་། ཀུན་ཆུབ་པར་བྱེད་པ་དང་། གཞན་དག་ལ་ཡང་རྒྱ་ཆེར་རབ་ཏུ་སྟོན་པ་དེ་ནི་ཚེ་རབས་བཅུ་བཞིར་ཚེ་རབས་དྲན་པར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Ānanda, any son or daughter of noble family who remembers, receives, retains, recites, and masters this dhāraṇī-mantra formula and teaches it to others extensively will remember their last fourteen rebirths.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-57">
+    <prop type="location-id">UT22084-088-022-45</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཚེ་འདི་ཉིད་ལ་ཡང་སྔོན་གྱི་ལས་མ་གཏོགས་པར་གཞན་གྱི་གནོད་པ་ཐམས་ཅད་ལས་འདའ་བ་དང་། འགྲོ་བ་ཐམས་ཅད་དང་རྗེས་སུ་མཐུན་པར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In this life they will escape all harm apart from the results of their previous actions, and they will be in harmony with all beings.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-58">
+    <prop type="location-id">UT22084-088-022-45</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀུན་དགའ་བོ་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་ནི་སངས་རྒྱས་བྱེ་བ་ཕྲག་བརྒྱད་ཅུ་རྩ་བཞིས་གསུངས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Ānanda, this dhāraṇī-mantra formula was taught by eighty-four billion buddhas.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-59">
+    <prop type="location-id">UT22084-088-022-45</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་ལས་འདའ་བར་བྱེད་པ་དེ་ནི་དེ་དག་ཐམས་ཅད་ལ་འཁུས་པ་ཡིན་ནོ། །རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་གང་ལ་ལ་དག་གིས་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་ཤིང་སྐམ་པོ་གཤེར་བག་མེད་པ་ལ་བསྲུང་བ་བྱས་ཏེ། ཡོངས་སུ་བསྐྱབ་པ་དང་། ཡོངས་སུ་གཟུང་བ་དང་། བཅིང་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This dhāraṇī-mantra formula is hidden from all those who would violate it. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-60">
+    <prop type="location-id">UT22084-088-022-46</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞི་བ་དང་། བདེ་ལེགས་སུ་འགྱུར་བ་བྱས་ན་ཤིང་དེ་ལ་ལྕུ་གུ་དང་། ལོ་མ་དག་ཀྱང་སྐྱེ་བར་འགྱུར་ཏེ། མེ་ཏོག་དང་། འབྲས་བུ་རྣམས་ཀྱང་མངོན་པར་འགྲུབ་པར་འགྱུར་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-46"/>When any son or daughter of noble family uses this dhāraṇī-mantra formula as protection for a carelessly watered, withered tree, using it to guard, support, control, pacify, and help it grow well, that tree will again produce sprouts and leaves, and it will again bear flowers and fruit.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-61">
+    <prop type="location-id">UT22084-088-022-46</prop>
+    <tuv xml:lang="bo">
+                <seg>མིར་གྱུར་པ་ལྟ་ཅི་སྨོས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What need is there to mention what will happen for a human?
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-62">
+    <prop type="location-id">UT22084-088-022-47</prop>
+    <tuv xml:lang="bo">
+                <seg>ནམཿསརྦ་བུདྡྷེ་བྷྱཿ། སིད་དྷ་ནྟུ་དྷཱ་ར་ཎཱི། མནྟྲ་པཱ་ད་ནི་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-47"/>nāmaḥ sarvabuddhebhyaḥ siddhyantu dhāraṇīmantrapādāni svāha.”<tei:note xml:id="UT22084-088-022-48"/>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-63">
+    <prop type="location-id">UT22084-088-022-49</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཡང་དགེ་སློང་རྣམས་ལ་བཀའ་སྩལ་པ། དགེ་སློང་དག་སེམས་ཅན་རྣམས་ཀྱི་དོན་དང་། ཕན་པ་དང་། བདེ་བ་དང་། མདངས་དང་ལྡན་པར་བྱ་བ་དང་། གཟི་བརྗིད་དང་ལྡན་པར་བྱ་བ་དང་། གྲགས་པ་དང་ལྡན་པར་བྱ་བ་དང་། ཡོན་ཏན་དང་ལྡན་པར་བྱ་བ་དང་། སྟོབས་དང་ལྡན་པར་བྱ་བ་དང་། མདོག་དང་ལྡན་པར་བྱ་བ་དང་། བསྲུང་བ་དང་། སྦ་བ་དང་། བསྐྱབ་པའི་ཕྱིར་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་གཞན་དག་ཀྱང་བཤད་པར་བྱའོ། །དེ་འདི་ལྟ་སྟེ། ཨཏྟེ། མཏྟེ། པ་ཀེ་པཱ་ར་ཀེ། པེ་ཀེ་ཌཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-49"/>The Blessed One again addressed the monks: “O monks, for the benefit, welfare, and happiness of all beings, so that they may have vitality, charisma, glory, good qualities, strength, and beauty, and to protect, guard and preserve them, I will teach another dhāraṇī-mantra formula.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-64">
+    <prop type="location-id">UT22084-088-022-50</prop>
+    <tuv xml:lang="bo">
+                <seg>དྲ་མ་ཏི། ཏ་ར་མ་ཏི། ཊུ་ཌ་མ་ཊི། ཊུ་ཌ་མ་ཊི། ཊུ་ཌ་ཊུ་རེ། སུ་རེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is as follows:<tei:milestone xml:id="UT22084-088-022-50"/> atte matte pake pārake vekeḍā dramati taramati ṭuḍamati ṭuḍamati ṭuḍamati ṭuḍaṭure sure hile mule tile svāha.”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-65">
+    <prop type="location-id">UT22084-088-022-51</prop>
+    <tuv xml:lang="bo">
+                <seg>ཧི་ལེ། མུ་ལེ། ཏི་ལེ་སྭཱ་ཧཱ། དེ་ནས་བཅོམ་ལྡན་<tei:ref folio="F.88.b"/>འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་ལ་བཀའ་སྩལ་པ། ཀུན་དགའ་བོ་ཁྱོད་ཀྱིས་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་ཟུང་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-51"/>The Blessed One then addressed the venerable Ānanda: “Ānanda, remember this mantra formula.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-66">
+    <prop type="location-id">UT22084-088-022-51</prop>
+    <tuv xml:lang="bo">
+                <seg>ལོང་ཤིག །ཆོང་ཤིག །ཀློགས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Receive it, retain it, recite it, and master it.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-67">
+    <prop type="location-id">UT22084-088-022-51</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་ཆུབ་པར་གྱིས་ཤིག །གཞན་དག་ལ་ཡང་རྒྱ་ཆེར་རབ་ཏུ་སྟོན་ཅིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Teach it to others extensively.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-68">
+    <prop type="location-id">UT22084-088-022-51</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་སངས་རྒྱས་འབྱུང་བ་རྙེད་པར་དཀའོ། །གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་རྙེད་པར་དཀའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Ānanda, the appearance of a buddha is rare, and this dhāraṇī-mantra formula is hard to find.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-69">
+    <prop type="location-id">UT22084-088-022-51</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀུན་དགའ་བོ་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་འཛིན་པ་ཡང་ཤིན་ཏུ་རྙེད་པར་དཀའོ། །ཀུན་དགའ་བོ་རིགས་ཀྱི་བུའམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Ānanda, one who upholds this dhāraṇī-mantra formula is also exceedingly hard to find.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-70">
+    <prop type="location-id">UT22084-088-022-51</prop>
+    <tuv xml:lang="bo">
+                <seg>རིགས་ཀྱི་བུ་མོ་གང་ལ་ལ་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་འཛིན་པ་དང་། ལེན་པ་དང་། འཆང་བ་དང་། ཀློག་པ་དང་། ཀུན་ཆུབ་པར་བྱེད་པ་དང་། གཞན་དག་ལ་ཡང་རྒྱ་ཆེར་རབ་ཏུ་སྟོན་པ་དེ་ནི་ཚེ་རབས་ཉི་ཤུ་རྩ་གཅིག་ཏུ་ཚེ་རབས་དྲན་པར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Ānanda, any son or daughter of noble family who remembers, receives, retains, recites, and masters this dhāraṇī-mantra formula and teaches it to others extensively will remember their last twenty-one rebirths.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-71">
+    <prop type="location-id">UT22084-088-022-51</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཚེ་འདི་ཉིད་ལ་ཡང་སྔོན་གྱི་ལས་མ་གཏོགས་པར་གཞན་གྱི་གནོད་པ་ཐམས་ཅད་ལས་འདའ་བ་དང་། འགྲོ་བ་ཐམས་ཅད་དང་རྗེས་སུ་མཐུན་པར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In this life they will escape all harm apart from the results of their previous actions, and they will be in harmony with all beings. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-72">
+    <prop type="location-id">UT22084-088-022-52</prop>
+    <tuv xml:lang="bo">
+                <seg>།གང་ལ་ལ་ཞིག་ལ་བསྲུང་བ་བྱས་ན་དེ་ལ་ཡང་འབྱུང་པོ་ཐམས་ཅད་ཀྱིས་མི་ཚུགས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-52"/>Anyone who is protected by it will not be affected by any kind of bhūta.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-73">
+    <prop type="location-id">UT22084-088-022-52</prop>
+    <tuv xml:lang="bo">
+                <seg>།ལྷ་དང་། ཀླུ་དང་། གནོད་སྦྱིན་དང་། དྲི་ཟ་དང་། ལྷ་མ་ཡིན་དང་། ནམ་མཁའ་ལྡིང་དང་། མིའམ་ཅི་དང་། ལྟོ་འཕྱེ་ཆེན་པོ་དང་། མི་དང་། མི་མ་ཡིན་པ་ཐམས་ཅད་ཀྱིས་མི་ཚུགས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will not be harmed by devas, nāgas, yakṣas, gandharvas, asuras, garuḍas, kinnaras, mahoragas, or any humans and nonhumans.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-74">
+    <prop type="location-id">UT22084-088-022-52</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྦྲུལ་དང་། སྲིན་བུ་དང་། སྲིན་བུ་ལུ་ཏ་དང་། སྦྲང་བུ་ལྕགས་ཕྱེ་ཐམས་ཅད་ཀྱིས་མི་ཚུགས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will not be harmed by snakes, insects, spiders, or small biting insects.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-75">
+    <prop type="location-id">UT22084-088-022-52</prop>
+    <tuv xml:lang="bo">
+                <seg>།རིམས་རླུང་དང་། མཁྲིས་པ་དང་། བད་ཀན་དང་། འདུས་པ་དང་། དུས་ཚིགས་འགྱུར་བ་ལས་བྱུང་བ་ཐམས་ཅད་ཀྱིས་མི་ཚུགས་སོ། །ཞག་གཅིག་པའམ། ཞག་གཉིས་པའམ། ཞག་གསུམ་པའམ། ཞག་བཞི་པའམ། ཞག་བདུན་པའམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Fevers resulting from disorders of wind, bile, or phlegm, their combination,<tei:note xml:id="UT22084-088-022-53"/> or a change of seasons will not affect them.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-76">
+    <prop type="location-id">UT22084-088-022-52</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟླ་བ་ཕྱེད་པའམ། ཟླ་བ་གཅིག་པའམ། ལོ་གཅིག་པའམ། ནད་རྒྱུན་རིངས་སམ། སྐད་ཅིག་པ་རྣམས་ཀྱིས་མི་ཚུགས་སོ། །འབྲས་སམ། ཕོལ་མིག་གམ། རྐང་ཤུའམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will not be affected by illnesses lasting one, two, three, four, or seven days, half a month, a month, or a year, or illnesses that are chronic or sudden.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-77">
+    <prop type="location-id">UT22084-088-022-52</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷོག་པའམ། མེ་དཔལ་ལམ། ཤུ་བའམ། ཁྱི་རྔོའམ། གཡན་པའམ། མཛེ་ཐམས་ཅད་དམ། ལྷོག་པ་ཐམས་ཅད་དམ། གཤེད་བྱེད་ཐམས་ཅད་དམ། སྒྱུར་བའི་ལས་ཐམས་ཅད་དམ། བྱད་ཐམས་ཅད་<tei:ref folio="F.89.a"/>དང་། རོ་ལངས་ཐམས་ཅད་ཀྱིས་ཀྱང་མི་ཚུགས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Boils, lesions, eczema, blood boils, rashes, ringworm, chronic itching, scabies, all forms of leprosy, and any kind of pustule will not afflict them, and they will not be affected by kṛtya rites, or by kākhordas and vetālas.<tei:note xml:id="UT22084-088-022-54"/> “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-78">
+    <prop type="location-id">UT22084-088-022-55</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀུན་དགའ་བོ་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་ནི་སངས་རྒྱས་བྱེ་བ་ཕྲག་དགུ་བཅུ་རྩ་དགུས་གསུངས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-55"/>Ānanda, this dhāraṇī-mantra formula was taught by ninety-nine billion buddhas.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-79">
+    <prop type="location-id">UT22084-088-022-55</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་ལས་འདའ་བར་བྱེད་པ་དེ་ནི་དེ་དག་ཐམས་ཅད་ལ་འཁུས་པ་ཡིན་ནོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This dhāraṇī-mantra formula is hidden from all those who would violate it. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-80">
+    <prop type="location-id">UT22084-088-022-56</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀུན་དགའ་བོ་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་ནི་རྒྱལ་པོའི་ཕོ་བྲང་ན་འདུག་ན་ཡང་ཡིད་ལ་བྱའོ། །ཆོམ་རྐུན་གྱི་ནང་ན་འདུག་ན་ཡང་ཡིད་ལ་བྱའོ། །སྲིན་པོའི་ནང་ན་འདུག་ན་ཡང་ཡིད་ལ་བྱའོ། །གཅན་གཟན་ཁྲོ་བོའི་ནང་ན་འདུག་ན་ཡང་ཡིད་ལ་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-56"/>Ānanda, this dhāraṇī-mantra formula should be kept in mind when residing in a palace, as well as when staying among thieves, rākṣasas, and fierce predatory animals.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-81">
+    <prop type="location-id">UT22084-088-022-56</prop>
+    <tuv xml:lang="bo">
+                <seg>།འབྲོག་དགོན་པའི་ནང་ན་འདུག་ན་ཡང་ཡིད་ལ་བྱའོ། །ཀླུང་དང་བགྲོད་དཀའ་བ་ན་འདུག་ན་ཡང་ཡིད་ལ་བྱའོ། །མེའི་ནང་ན་འདུག་ན་ཡང་ཡིད་ལ་བྱའོ། །ཆུའི་ནང་ན་འདུག་ན་ཡང་ཡིད་ལ་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It should be kept in mind when staying in the wilderness, when at a river or other place that is difficult to traverse, or when dealing with fire and water.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-82">
+    <prop type="location-id">UT22084-088-022-56</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ཡིད་ལ་བྱས་པ་དེ་རྣམས་ལས་འཇིགས་པ་དེ་དག་ཐམས་ཅད་མི་འབྱུང་ངོ་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>A person who keeps it in mind will not experience fear of such things.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-83">
+    <prop type="location-id">UT22084-088-022-56</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེས་དུག་ཟོས་པ་ཐམས་ཅད་ཀྱང་ཁ་ཟས་ཉིད་དུ་འགྱུར་རོ། །ཀུན་དགའ་བོ་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་འཛིན་པ་ནི་འབྱུང་པོ་ཐམས་ཅད་ཀྱིས་མི་ཚུགས་སོ། །ཡི་དགས་ཐམས་ཅད་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It can even make poisonous food edible.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-84">
+    <prop type="location-id">UT22084-088-022-56</prop>
+    <tuv xml:lang="bo">
+                <seg>སྲུལ་པོ་ཐམས་ཅད་དང་། གཤེད་བྱེད་ཐམས་ཅད་དང་། སྒྱུར་བའི་ལས་ཐམས་ཅད་དང་། བྱད་ཐམས་ཅད་དང་། མི་དང་མི་མ་ཡིན་པ་ཐམས་ཅད་ཀྱིས་མི་ཚུགས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Ānanda, whoever upholds this dhāraṇī-mantra formula will not be harmed by any kind of bhūta, preta, pūtana, kṛtya rite, kākhorda, or human or nonhuman.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-85">
+    <prop type="location-id">UT22084-088-022-56</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་མདོར་ན་དེ་ལ་གཞན་གྱི་གནོད་པ་ཐམས་ཅད་ཀྱིས་མི་ཚུགས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In brief, Ānanda, no harm will come to them from outside forces. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-86">
+    <prop type="location-id">UT22084-088-022-57</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀུན་དགའ་བོ་གསད་པའི་རིགས་པ་ནི་ཆད་པས་བྲལ་བར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-57"/>A person deserving of execution, Ānanda, will be freed after being struck with a rod.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-87">
+    <prop type="location-id">UT22084-088-022-57</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཆད་པས་གཅད་པའི་རིགས་པ་ནི་བརྡེགས་པས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>A person deserving of being struck with a rod will be released after a beating.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-88">
+    <prop type="location-id">UT22084-088-022-57</prop>
+    <tuv xml:lang="bo">
+                <seg>བརྡེགས་པའི་རིགས་པ་ནི་བརྒྱད་པས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>A person deserving of a beating will be released after a scolding.<tei:note xml:id="UT22084-088-022-58"/>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-89">
+    <prop type="location-id">UT22084-088-022-57</prop>
+    <tuv xml:lang="bo">
+                <seg>བརྒྱད་པའི་རིགས་པ་ནི་བསྡིགས་པས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>A person deserving of a scolding will be released with a warning.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-90">
+    <prop type="location-id">UT22084-088-022-57</prop>
+    <tuv xml:lang="bo">
+                <seg>བསྡིགས་པའི་རིགས་པ་ནི་མིག་ཚུགས་སུ་བལྟས་པས་ཐར་པར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>A person deserving of a warning will be released with a stern look.<tei:note xml:id="UT22084-088-022-59"/> “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-91">
+    <prop type="location-id">UT22084-088-022-60</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཀུན་དགའ་བོ་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་གིས་གང་ལ་བསྲུང་བ་བྱས་པའམ། ཡོངས་སུ་བསྐྱབ་པ་བྱས་པའམ། ཡོངས་སུ་གཟུང་བས་བཅིངས་པའམ། ཞི་བ་དང་། བདེ་ལེགས་སུ་འགྱུར་བ་བྱས་པ་གཞན་དུ་འགྱུར་བ་དེ་ནི་གནས་མེད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-60"/>Ānanda, a person who is controlled, calmed, and made to prosper through the protection, security, and support of these dhāraṇī-mantra formulas will never be otherwise.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-92">
+    <prop type="location-id">UT22084-088-022-60</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་དང་བཅས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is impossible.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-93">
+    <prop type="location-id">UT22084-088-022-60</prop>
+    <tuv xml:lang="bo">
+                <seg>བདུད་དང་བཅས། ཚངས་པ་དང་བཅས་པའི་འཇིག་རྟེན་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I have not seen that happen in the world of devas, māras, or Brahmā.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-94">
+    <prop type="location-id">UT22084-088-022-60</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སྦྱོང་དང་། བྲམ་ཟེར་བཅས་པའི་<tei:ref folio="F.89.b"/>སྐྱེ་དགུ་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་གྱི་ནང་ན་ཡང་ངས་མ་མཐོང་ངོ་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I have not seen that among beings who are mendicants and brahmins, or among devas, humans, or asuras.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-95">
+    <prop type="location-id">UT22084-088-022-60</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ཅིའི་ཕྱིར་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Why?
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-96">
+    <prop type="location-id">UT22084-088-022-60</prop>
+    <tuv xml:lang="bo">
+                <seg>གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་ནི་གནོད་པ་དང་། ནད་འགོ་བ་དང་། འཁྲུག་པ་ཐམས་ཅད་ལས་ངེས་པར་འབྱུང་བར་བྱིན་གྱིས་བརླབས་པའི་ཕྱིར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This dhāraṇī-mantra formula grants blessings that bring escape from all harm, infectious diseases, and disturbances.”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-97">
+    <prop type="location-id">UT22084-088-022-61</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ནས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་རྫོགས་པའི་རྗེས་ལ་རྒྱལ་པོ་ཆེན་པོ་བཞིས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་བདག་ཅག་གིས་ཀྱང་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་རྒྱ་ཆེར་རྒྱས་པར་བགྱི་བ་དང་། ཆོས་སྨྲ་བ་དེ་དག་རྗེས་སུ་ཡོངས་སུ་གཟུང་བ་དང་། དམ་པའི་ཆོས་ཅི་ནས་ཀྱང་ཡུན་རིང་དུ་གནས་པ་དང་། བདུད་ཐམས་ཅད་ཚར་གཅོད་པའི་སླད་དུ་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་རྣམས་རྗེས་སུ་སྩལ་བར་འཚལ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-61"/>Following this Dharma discourse, the Four Great Kings addressed the Blessed One: “Blessed One, if we also offer a dhāraṇī-mantra formula so that this Dharma discourse will spread widely, so that those who proclaim it are supported, so that the sublime Dharma will, by all means, last a long time, and so that all māras are defeated, will the Blessed One please consent to this by saying ‘Excellent’?”<tei:note xml:id="UT22084-088-022-62"/>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-98">
+    <prop type="location-id">UT22084-088-022-63</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་ལ་ལེགས་སོ་ཞེས་བགྱི་བ་གནང་བར་མཛད་དུ་གསོལ། དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་རྒྱལ་པོ་ཆེན་པོ་བཞི་ལ་ཐུགས་བརྩེ་བའི་ཕྱིར་ཅང་མི་གསུང་བར་གྱུར་པས་གནང་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-63"/>Out of affection for the Four Great Kings, the Blessed One then consented with his total silence.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-99">
+    <prop type="location-id">UT22084-088-022-64</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་པོ་ཆེན་པོ་བཞི་པོ་དེ་དག་གིས་ཀྱང་བཅོམ་ལྡན་འདས་ཀྱིས་ཅང་མི་གསུང་བར་གྱུར་པས་གནང་བར་རིག་ནས་ཆེད་དུ་བརྗོད་པ་ཆེད་དུ་བརྗོད་དོ། །དེ་ནི་འདི་ལྟ་སྟེ། ད་ནཊྜེ། དེ་ནཊྜེ། མ་ཧཱ་ནཊྜེ། ཛམྦྷ་ནེ། སྟམྦྷ་ནེ། ཊ་ཊེ། ཊ་ཊ་ནེ། མ་ཧཱ་ཊ་ཊ་ནེ། ཀུཊྚེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Four Great Kings understood that the Blessed One was consenting with his total silence and made their solemn statement: <tei:milestone xml:id="UT22084-088-022-64"/>“danaḍḍe denaḍḍe mahānaḍḍe jambhane stambhane ṭaṭe ṭaṭane mahāṭaṭane kuṭṭe kuṭṭane mahākuṭṭane dharmale carmale svāha. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-100">
+    <prop type="location-id">UT22084-088-022-65</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུཊྚ་ནེ། མ་ཧཱ་ཀུཊྚ་ནེ། དྷརྨ་ལེ། ཙརྨ་ལེ་སྭཱ་ཧཱ། བཅོམ་ལྡན་འདས་འདི་དག་ནི་གཟུངས་འདིའི་འཁོར་གྱི་ཚིག་ལྟ་བུར་གདའ་བ་ལགས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-65"/>Blessed One, this formula is like the words found in this cycle of dhāraṇīs.<tei:note xml:id="UT22084-088-022-66"/>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-101">
+    <prop type="location-id">UT22084-088-022-65</prop>
+    <tuv xml:lang="bo">
+                <seg>རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་གང་ལ་ལ་གཟུངས་ཀྱི་གསང་སྔགས་ཀྱི་གཞི་འདི་དག་འཛིན་པ་དང་། བཟླས་ཏེ་བཏོན་ནས་འཆང་བ་འདི་ནི་སྔོན་གྱི་ལས་མ་གཏོགས་པར་གཞན་གྱི་གནོད་པ་ཐམས་ཅད་ལས་འདའ་བ་དང་། འགྲོ་བ་ཐམས་ཅད་དང་རྗེས་སུ་མཐུན་པར་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Any son or daughter of noble family who receives this dhāraṇī-mantra formula, recites it, and upholds it will escape all harm apart from the results of their previous actions, and they will be in harmony with all beings.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-102">
+    <prop type="location-id">UT22084-088-022-65</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ལ་ནི་དམ་པའི་ཆོས་ཐམས་ཅད་ཡོངས་སུ་གཟུང་བ་ལ་ཡང་བར་ཆད་འབྱུང་བར་མི་འགྱུར་ལགས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will fully comprehend the entire sublime Dharma and never face any obstacles.”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-103">
+    <prop type="location-id">UT22084-088-022-67</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་རྒྱལ་པོ་ཆེན་པོ་བཞི་པོ་དག་ལ་གྲོགས་པོ་དག་ཁྱོད་བསྟན་པ་ཡུན་རིང་དུ་གནས་པར་བྱ་བའི་ཕྱིར་ཞུགས་པ་ལེགས་སོ་ལེགས་སོ་ཞེས་བྱ་བ་བྱིན་ནོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-67"/>The Blessed One then offered these words: “Friends, what you have done is most excellent because it will enable the teachings to remain for a long time.”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-104">
+    <prop type="location-id">UT22084-088-022-68</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་ལ་བཀའ་སྩལ་པ། ཀུན་དགའ་བོ་ཁྱོད་ཀྱིས་དེ་དག་རྫུ་འཕྲུལ་ཆེ་བར་འགྱུར་བ་དང་། <tei:ref folio="F.90.a"/>ཕན་ཡོན་ཆེ་བ་དང་། བྱིན་ཆེ་བར་འགྱུར་བའི་ཕྱིར་གཟུངས་ཀྱི་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ཟུང་ཤིག །ལོང་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-68"/>The Blessed One then addressed the venerable Ānanda: “Ānanda, because these dhāraṇīs have great miraculous power, are of great benefit, and have great blessings, remember this Dharma discourse on the dhāraṇīs.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-105">
+    <prop type="location-id">UT22084-088-022-68</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོང་ཤིག །ལྷོགས་ཤིག །ཀུན་ཆུབ་པར་གྱིས་ཤིག །གཞན་དག་ལ་ཡང་རྒྱ་ཆེར་རབ་ཏུ་སྟོན་ཅིག་གསོལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I ask that you receive it, retain it, recite it, master it, and teach it to others extensively.” “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-106">
+    <prop type="location-id">UT22084-088-022-68</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་རྒྱས་པར་བགྱི་བའི་སླད་དུ་བདག་གིས་གཟུང་ལགས་སོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Blessed One,” replied Ānanda, “I will uphold it so that it may spread widely.”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-107">
+    <prop type="location-id">UT22084-088-022-70</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དོན་འདི་ཉིད་རྒྱས་པར་བསྟན་པའི་ཕྱིར་དེའི་ཚེ་ཚིགས་སུ་བཅད་པ་འདི་དག་བཀའ་སྩལ་ཏོ། །གཟུངས་སྔགས་ཀྱི་ནི་མདོ་སྡེ་འདི། །སངས་རྒྱས་ཀུན་གྱིས་གསུངས་པ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-70"/>The Blessed One then spoke in verse to elaborate on the meaning:<tei:milestone xml:id="UT22084-088-022-71"/> “This discourse on dhāraṇī-mantra Was taught by all buddhas.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-108">
+    <prop type="location-id">UT22084-088-022-70</prop>
+    <tuv xml:lang="bo">
+                <seg>།སེམས་ཅན་རྣམས་ལ་ཕན་པའི་ཕྱིར། །དེ་ནི་ངས་ཀྱང་བཤད་པ་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I have also now explained it For the benefit of all beings. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-109">
+    <prop type="location-id">UT22084-088-022-72</prop>
+    <tuv xml:lang="bo">
+                <seg>།གང་ཞིག་གཟུངས་སྔགས་མདོ་སྡེ་འདི། །འཛིན་ཏམ་ཡང་ན་ཀློག་བྱེད་པ། །ཚེ་རབས་ཉི་ཤུ་རྩ་གཅིག་ཏུ། །དེ་ནི་ཚེ་རབས་དྲན་པར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-72"/>Whoever remembers or recites This discourse on dhāraṇī-mantra Will be able to remember Their twenty-one previous lives. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-110">
+    <prop type="location-id">UT22084-088-022-73</prop>
+    <tuv xml:lang="bo">
+                <seg>།གཟུངས་སྔགས་འདི་རྗོད་བྱེད་དེ་ལ། །མི་མིན་གང་ཡང་རུང་བ་དང་། །གནོད་སྦྱིན་གྲུལ་བུམ་སྲིན་པོ་དག །ནམས་ཀྱང་བར་ཆད་མི་བྱེད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-73"/>A person who recites this dhāraṇī-mantra Will never be obstructed By nonhumans of any kind, Including yakṣas, kumbhāṇḍas, and rākṣasas. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-111">
+    <prop type="location-id">UT22084-088-022-74</prop>
+    <tuv xml:lang="bo">
+                <seg>།གཟུངས་སྔགས་འདི་རྗོད་བྱེད་དེ་ལ། །འདོད་ཁམས་དབང་ཕྱུག་གང་ཡིན་པ། །སྡིག་ཅན་བདུད་དེ་ནམ་དུ་ཡང་། །བར་ཆད་བྱེད་པར་མི་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-74"/>A person who recites this dhāraṇī-mantra Will never face obstacles Made by the wicked Māra, Who rules over the desire realm. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-112">
+    <prop type="location-id">UT22084-088-022-75</prop>
+    <tuv xml:lang="bo">
+                <seg>།གཟུངས་སྔགས་འདི་འཛིན་བྱེད་དེ་ཡི། །ཕ་མ་དང་ནི་ཕུ་ནུ་དང་། །སྲིང་མོ་མཛའ་བཤེས་གཉེན་དག་ཀྱང་། །ལོག་པར་ལྟུང་བར་མི་འགྱུར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-75"/>The parents, brothers, and sisters, As well as the friends and relatives Of one who remembers this dhāraṇī-mantra Will not meet with ruin. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-113">
+    <prop type="location-id">UT22084-088-022-76</prop>
+    <tuv xml:lang="bo">
+                <seg>།དེ་ཕྱིར་གཟུངས་སྔགས་མདོ་སྡེ་འདི། །འཇིགས་མེད་གང་གིས་ཐོས་གྱུར་ནས། །གཟུངས་སྔགས་འདི་རྗོད་བྱེད་པ་དེས། །ནམས་ཀྱང་འཇིགས་པར་མི་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-76"/>Therefore, one who fearlessly hears<tei:note xml:id="UT22084-088-022-77"/> This discourse on dhāraṇī-mantra And then recites these dhāraṇī-mantras Will never be frightened again. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-114">
+    <prop type="location-id">UT22084-088-022-78</prop>
+    <tuv xml:lang="bo">
+                <seg>།གཟུངས་སྔགས་འདི་འཛིན་བྱེད་དེ་ཡི། །བསྐལ་པ་བྱེ་བ་སྟོང་རྣམས་སུ། །སྒྲིབ་པའི་ལས་ནི་གང་བྱས་པ། །ཞག་བདུན་གྱིས་ནི་བྱང་བར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-78"/>A person who remembers this dhāraṇī-mantra Will purify in seven days All the obscuring karma Amassed over a billion eons. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-115">
+    <prop type="location-id">UT22084-088-022-79</prop>
+    <tuv xml:lang="bo">
+                <seg>།བྱང་ཆུབ་སེམས་དཔའི་བསོད་ནམས་གང་། །བསྐལ་པ་བྱེ་བར་བསྒྲུབས་པ་ཀུན། །གཟུངས་སྔགས་འདི་འཛིན་བྱེད་པ་དེས། །ཞག་བདུན་གྱིས་ནི་ཟིལ་གྱིས་ནོན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-79"/>All the merit of a bodhisattva Achieved over ten million eons Will be surpassed in seven days By one who remembers this dhāraṇī-mantra. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-116">
+    <prop type="location-id">UT22084-088-022-80</prop>
+    <tuv xml:lang="bo">
+                <seg>།ཕྱོགས་བཞིའི་འཇིག་རྟེན་སྐྱོང་བ་བོ། །རྒྱལ་པོ་ཆེན་པོ་བཞི་པོ་དག །ལུས་ངན་དང་ནི་ཡུལ་འཁོར་སྲུང་། །མིག་མི་བཟང་དང་འཕགས་སྐྱེས་པོ། །ཁ་དོག་ལྡན་ཞིང་གྲགས་དང་ལྡན། །འཁོར་བཅས་བློན་བཅས་དེ་དག་ཀྱང་། །<tei:ref folio="F.90.b"/>གཟུངས་སྔགས་འདི་ནི་རྗོད་བྱེད་པ། །དེ་ལ་རྟག་ཏུ་སྲུང་བར་བྱེད། །དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་དང་། ཉན་ཐོས་ཆེན་པོ་དེ་དག་དང་། འཕགས་པ་བྱམས་པ་དང་། འཇམ་དཔལ་ལ་སོགས་པ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་དང་། རྒྱལ་པོ་ཆེན་པོ་བཞི་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-80"/>The world guardians of the four directions, The Four Great Kings— Kubera, Dhṛtarāṣṭra, Virūpākṣa, and Virūḍhaka—<tei:milestone xml:id="UT22084-088-022-81"/> “All of great appearance and renown, Will, along with their retinue and ministers, Recite this dhāraṇī-mantra And keep it always safe.”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-117">
+    <prop type="location-id">UT22084-088-022-82</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-82"/>After the Blessed One spoke these lines, the venerable Ānanda, the great śrāvakas, the noble bodhisattva mahāsattvas Maitreya, Mañjuśrī, and the rest, the Four Great Kings, and the world full of devas, humans, asuras, and gandharvas rejoiced and praised the Blessed One’s teaching. “
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-022-TU-118">
+    <prop type="location-id">UT22084-088-022-83</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་རིག་སྔགས་ཀྱི་རྒྱལ་པོ་སྒྲོན་མ་མཆོག་གི་གཟུངས་རྫོགས་སོ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-022-83"/>The Noble King of Spells, the Dhāraṇī of Agrapradīpa” is now complete.</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>

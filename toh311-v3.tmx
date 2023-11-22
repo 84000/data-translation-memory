@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="linguae-dharmae/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-072-011" eft:text-version="v-1.0.5-2023"/>
+<body>
+<tu id="UT22084-072-011-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.157.a"/>༄༅༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་སཾ་ཛྙཱ་ན་ཨེ་ཀ་ད་ཤ་ནི་ར་དེ་ཤ་སཱུ་ཏྲ། བོད་སྐད་དུ། </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-011-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་འདུ་ཤེས་བཅུ་གཅིག་བསྟན་པའི་མདོ། </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Noble Sūtra Teaching the Eleven Thoughts 
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-011-TU-3">
+    <prop type="location-id">UT22084-072-011-16</prop>
+    <tuv xml:lang="bo">
+                <seg>དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-011-16"/>Homage to the Three Jewels.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-011-TU-4">
+    <prop type="location-id">UT22084-072-011-16</prop>
+    <tuv xml:lang="bo">
+                <seg>།འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-011-TU-5">
+    <prop type="location-id">UT22084-072-011-16</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀུ་ཤའི་གྲོང་ཁྱེར་ན་གྱད་ཀྱི་ཉེ་འཁོར་ཤིང་སཱ་ལ་ཟུང་གི་ཚལ་ན་བཞུགས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One was dwelling in the Grove of Twin Sal Trees, in the city of Kuśinagarī in the country of the Mallas.<tei:note xml:id="UT22084-072-011-19"/>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-011-TU-6">
+    <prop type="location-id">UT22084-072-011-20</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡོངས་སུ་མྱ་ངན་ལས་འདའ་བའི་དུས་ཀྱི་ཚེ་དགེ་སློང་རྣམས་ལ་བཀའ་སྩལ་པ། དགེ་སློང་དག་ན་མ་འཆི་བའི་དུས་ཀྱི་ཚེ་དགེ་སློང་གིས་འདུ་ཤེས་བཅུ་གཅིག་མངོན་དུ་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-011-20"/>At the time of his parinirvāṇa, he spoke to the bhikṣus: “Bhikṣus, at the time of death you should bring to mind<tei:note xml:id="UT22084-072-011-21"/> eleven thoughts.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-011-TU-7">
+    <prop type="location-id">UT22084-072-011-20</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅུ་གཅིག་གང་ཞེ་ན། འདི་ལ་མ་ཆགས་པའི་<tei:ref folio="F.157.b"/>འདུ་ཤེས་དང་། སེམས་ཅན་ཐམས་ཅད་ལ་བྱམས་པའི་འདུ་ཤེས་དང་། འཁོན་དུ་འཛིན་པ་ཐམས་ཅད་ཡོངས་སུ་དོར་བའི་འདུ་ཤེས་དང་། འཆལ་བའི་ཚུལ་ཁྲིམས་ཐམས་ཅད་བཤགས་པའི་འདུ་ཤེས་དང་། ཚུལ་ཁྲིམས་ཐམས་ཅད་ཡང་དག་པར་བླང་བའི་འདུ་ཤེས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What are the eleven?
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-011-TU-8">
+    <prop type="location-id">UT22084-072-011-20</prop>
+    <tuv xml:lang="bo">
+                <seg>ཉེས་པ་ཆེན་པོ་བྱས་པ་དག་ལ་ཡང་ཡང་བའི་འདུ་ཤེས་དང་། དགེ་བའི་རྩ་བ་ཆུང་ངུ་དག་ལ་ཆེ་བའི་འདུ་ཤེས་དང་། འཇིག་རྟེན་ཕ་རོལ་དག་ལ་འཇིགས་པ་མེད་པའི་འདུ་ཤེས་དང་། འདུས་བྱས་ཐམས་ཅད་ལ་མི་རྟག་པའི་འདུ་ཤེས་དང་། ཆོས་ཐམས་ཅད་ལ་བདག་མེད་པའི་འདུ་ཤེས་དང་། མྱ་ངན་ལས་འདས་པ་ནི་ཞི་བའོ་སྙམ་པའི་འདུ་ཤེས་མངོན་དུ་བྱའོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You should bring to mind the thought of nonattachment to this life, the thought of love for all beings, the thought of giving up all resentments, the thought of acknowledging all faulty moral discipline, the thought of undertaking the entirety of moral discipline, the thought that even great harms that have been caused are insignificant,<tei:note xml:id="UT22084-072-011-22"/> the thought that small acts of virtue are significant, the thought of a lack of fright with respect to the next world, the thought that everything conditioned is impermanent, the thought that all phenomena lack a self, and the thought that nirvāṇa is peace.”
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-011-TU-9">
+    <prop type="location-id">UT22084-072-011-23</prop>
+    <tuv xml:lang="bo">
+                <seg>།བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། དགེ་སློང་དེ་དག་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-011-23"/>When the Blessed One had spoken thus, the bhikṣus rejoiced and praised what the Blessed One had said.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-011-TU-10">
+    <prop type="location-id">UT22084-072-011-24</prop>
+    <tuv xml:lang="bo">
+                <seg>།འདུ་ཤེས་བཅུ་གཅིག་བསྟན་པ་བཅོམ་ལྡན་འདས་ཀྱི་ཞལ་ཆེམས་རྫོགས་སོ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-011-24"/>This completes “Teaching the Eleven Thoughts,” the Blessed One’s final testament.</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="linguae-dharmae/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-101-114" eft:text-version="v-1.0.2-2023"/>
+<body>
+<tu id="UT22084-101-114-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.189.b"/>༄༅། །དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །སྱཱ་ད་ཡ་ཐེ་དན། ཁ་ཊེ་ཁ་ཊེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>A Mantra for Incanting Medicines, Extracted from “Destroyer of the Great Trichiliocosm.”<tei:milestone xml:id="UT22084-101-114-19"/> Homage to the Three Jewels!
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-114-TU-2">
+    <prop type="location-id">UT22084-101-114-21</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁ་ཊ་བི་ཁ་ཊེ། ཙ་ལེ་བི་ཙ་ལེ། བི་ལ་མྡེ་བ་ལེ་བ་ལ་བ་ཏེ། ཙནྡྲེ་ཙ་ར་ཎེ་ཨ་མྲྀ་ཏ་ནིརྒྷོ་ཥེ། རླུང་མཁྲིས་བད་ཀན་འདུས་པ་ཞི་བར་གྱུར་ཅིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-114-21"/>syād yathedam khaṭe khaṭe khaṭavikhaṭe cale vicale vilamde bale balavate candre caraṇe amṛtanirghoṣe May all diseases of wind, bile, phlegm, and their combination be pacified svāhā.<tei:note xml:id="UT22084-101-114-23"/>
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-114-TU-3">
+    <prop type="location-id">UT22084-101-114-25</prop>
+    <tuv xml:lang="bo">
+                <seg>ནད་པའི་སྨན་ལ་<tei:ref folio="F.190.a"/>གདབ་བོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-114-25"/>Incant the medicine of a sick person with this.
+</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-114-TU-4">
+    <prop type="location-id">UT22084-101-114-26</prop>
+    <tuv xml:lang="bo">
+                <seg>།སྟོང་ཆེན་མོ་ནས་ཕྱུང་བ་སྨན་ལ་སྔགས་ཀྱིས་གདབ་པ་རྫོགས་སྷོ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-114-26"/>This completes “Mantra for Incanting Medicines, Extracted from ‘Destroyer of the Great Trichiliocosm.’”</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>
