@@ -9,7 +9,7 @@
                     <tei:ref folio="F.14.b"/>འཕགས་པ་འཇམ་དཔལ་གྱི་སྔགས་ཡི་གེ་འབྲུ་གཅིག་པའི་ཆོ་ག །ཏདྱ་ཐཱ། ཨོཾ་ཀྵྞཱིཾ། གསང་སྔགས་ཡི་གེ་འབྲུ་གཅིག་པ་འདི་རབ་ཏུ་གསང་བ་སྟེ། <tei:ref folio="F.15.a"/>དོན་ཐམས་ཅད་སྒྲུབ་པར་བྱེད་པ། ལས་ཐམས་ཅད་བྱེད་པ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>The Noble Procedure for Mañjuśrī's Single-Syllable Mantra<tei:milestone xml:id="UT22084-089-007-12"/> tadyathā | oṁ kṣṇīṁ ||<tei:note xml:id="UT22084-089-007-13"/>
+                <seg>The Noble Procedure for Mañjuśrī's Single-Syllable Mantra<tei:milestone xml:id="UT22084-089-007-12"/> tadyathā | oṁ kṣṇīṁ ||<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-089-007-13"/>
                     <tei:milestone xml:id="UT22084-089-007-14"/> This single-syllable mantra is exceedingly secret, for it accomplishes every aim and performs every action.
 </seg>
             </tuv>
@@ -63,7 +63,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-089-007-18"/>Indigestion, swelling, dysentery, and feverish diarrhea will be cured by eating mu rang salt,<tei:note xml:id="UT22084-089-007-19"/> sea salt, or any other suitable rock salt incanted seven times with the mantra, and recovery will be the very same day.
+                    <tei:milestone xml:id="UT22084-089-007-18"/>Indigestion, swelling, dysentery, and feverish diarrhea will be cured by eating mu rang salt,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-089-007-19"/> sea salt, or any other suitable rock salt incanted seven times with the mantra, and recovery will be the very same day.
 </seg>
             </tuv>
 </tu>

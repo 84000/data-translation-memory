@@ -259,7 +259,7 @@
             </tuv>
 	<tuv xml:lang="en">
                 <seg>
-                    <tei:note xml:id="UT22084-061-017-14"/> Maitreya, if bodhisattva mahāsattvas have those five qualities,</seg>
+                    <note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-061-017-14"/> Maitreya, if bodhisattva mahāsattvas have those five qualities,</seg>
             </tuv>
 </tu>
 <tu id="UT22084-061-017-TU-29">
@@ -718,7 +718,7 @@
             </tuv>
 	<tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-061-017-22"/>“Excellent, Maitreya!” “It is excellent indeed that you have donned the great armor and proclaimed the lion’s roar for the benefit of all beings in order to uphold the true Dharma of the Tathāgata and to sustain<tei:note xml:id="UT22084-061-017-23"/> the Dharma way of the Tathāgata.</seg>
+                    <tei:milestone xml:id="UT22084-061-017-22"/>“Excellent, Maitreya!” “It is excellent indeed that you have donned the great armor and proclaimed the lion’s roar for the benefit of all beings in order to uphold the true Dharma of the Tathāgata and to sustain<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-061-017-23"/> the Dharma way of the Tathāgata.</seg>
             </tuv>
 </tu>
 <tu id="UT22084-061-017-TU-79">

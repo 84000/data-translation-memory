@@ -630,7 +630,7 @@
             </tuv>
 	<tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-072-025-43"/>“ ‘Because prosperity is rare<tei:note xml:id="UT22084-072-025-132"/> While poverty is abundant,</seg>
+                    <tei:milestone xml:id="UT22084-072-025-43"/>“ ‘Because prosperity is rare<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-072-025-132"/> While poverty is abundant,</seg>
             </tuv>
 </tu>
 <tu>
@@ -1665,7 +1665,7 @@
                 <seg>མི་དགེའི་ལས་རྣམས་སྤངས་པ་ཡིས། །བདག་གིས་མི་དགེའི་ལས་རྣམས་བསལ། །</seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>I abandoned negative deeds And so I eradicated negative karma.”<tei:note xml:id="UT22084-072-025-107"/>
+                <seg>I abandoned negative deeds And so I eradicated negative karma.”<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-072-025-107"/>
                 </seg>
             </tuv>
 </tu>

@@ -51,7 +51,7 @@
                 <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམ་པར་མི་རྟོག་པ་དང་། རྣམ་པར་མི་རྟོག་སྣང་བ་དང་། རྣམ་པར་མི་རྟོག་ཟླ་བ་དང་། རྣམ་པར་རྟོག་མེད་དཔའ་བོ་དང་། རྣམ་པར་རྟོག་མེད་ཆོས་སྟོན་མཁས་པ་དང་། རྣམ་པར་རྟོག་མེད་ངོ་བོ་ཉིད་དང་། རྣམ་པར་རྟོག་མེད་བློ་གྲོས་དང་། རྣམ་པར་རྟོག་མེད་ང་རོ་དང་། རྣམ་པར་རྟོག་མེད་ཁྱབ་བྱེད་དང་། རྣམ་པར་རྟོག་མེད་དབང་ཕྱུག་དང་། རྣམ་པར་རྟོག་མེད་དབང་ཕྱུག་<tei:ref folio="F.2.a"/>ཆེན་པོ་དང་། རྣམ་པར་རྟོག་མེད་བྱམས་པ་ཆེན་པོའི་དབང་ཕྱུག་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་དང་ཐབས་ཅིག་གོ། །</seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>Together with him were the bodhisattvas, the great beings, Avikalpa, Avikalpa­prabhāsa, Avikalpacandra, Nirvikalpavīra, Nirvikalpadharmanirdeśakuśala, Nirvikalpasvabhāva, Nirvikalpamati, Nirvikalpanāda, Nirvikalpaspharaṇa, Nirvikalpasvara,<tei:note xml:id="UT22084-057-001-37"/> Maheśvara,<tei:note xml:id="UT22084-057-001-38"/> Nirvikalpamahāmaitrīśvara, and the bodhisattva, the great being, Avalokiteśvara.</seg>
+                <seg>Together with him were the bodhisattvas, the great beings, Avikalpa, Avikalpa­prabhāsa, Avikalpacandra, Nirvikalpavīra, Nirvikalpadharmanirdeśakuśala, Nirvikalpasvabhāva, Nirvikalpamati, Nirvikalpanāda, Nirvikalpaspharaṇa, Nirvikalpasvara,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-057-001-37"/> Maheśvara,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-057-001-38"/> Nirvikalpamahāmaitrīśvara, and the bodhisattva, the great being, Avalokiteśvara.</seg>
             </tuv>
 </tu>
 <tu id="UT22084-057-001-TU-6">
@@ -62,7 +62,7 @@
             </tuv>
 	<tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-057-001-39"/>At that time, the Blessed One, surrounded and esteemed by an assembly of hundreds of thousands, taught the Dharma<tei:note xml:id="UT22084-057-001-40"/> concerning the nonconceptuality of phenomena.</seg>
+                    <tei:milestone xml:id="UT22084-057-001-39"/>At that time, the Blessed One, surrounded and esteemed by an assembly of hundreds of thousands, taught the Dharma<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-057-001-40"/> concerning the nonconceptuality of phenomena.</seg>
             </tuv>
 </tu>
 <tu id="UT22084-057-001-TU-7">
@@ -360,7 +360,7 @@
             </tuv>
 	<tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-057-001-51"/>“For what reason, noble sons,<tei:note xml:id="UT22084-057-001-52"/> is the nonconceptual realm called ‘nonconceptual’?</seg>
+                    <tei:milestone xml:id="UT22084-057-001-51"/>“For what reason, noble sons,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-057-001-52"/> is the nonconceptual realm called ‘nonconceptual’?</seg>
             </tuv>
 </tu>
 <tu id="UT22084-057-001-TU-36">
@@ -370,7 +370,7 @@
                 <seg>དཔྱད་པའི་རྣམ་པར་བརྟག་པ་ཐམས་ཅད་ལས་ཤིན་ཏུ་འདས་པ་དང་། བསྟན་པ་དང་། དཔེར་རྣམ་པར་བརྟག་པ་ཐམས་ཅད་ལས་ཤིན་ཏུ་འདས་པ་དང་། དབང་པོར་རྣམ་པར་བརྟག་པ་ཐམས་ཅད་ལས་ཤིན་ཏུ་འདས་པ་དང་། ཡུལ་དུ་རྣམ་པར་བརྟག་པ་ཐམས་ཅད་ལས་ཤིན་ཏུ་འདས་པ་དང་། རྣམ་པར་རིག་པར་རྣམ་པར་བརྟག་པ་ཐམས་ཅད་ལས་ཤིན་ཏུ་འདས་པ་དང་། ཉོན་མོངས་པ་ཐམས་ཅད་དང་ཤེས་བྱའི་སྒྲིབ་པ་ཐམས་ཅད་ཀྱི་གནས་མེད་པའི་ཕྱིར་ཏེ། དེའི་ཕྱིར་རྣམ་པར་མི་རྟོག་པའི་དབྱིངས་ལ་རྣམ་པར་མི་རྟོག་པ་ཞེས་བྱའོ། །</seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>It completely transcends all conceptual analysis, completely transcends all imputations of instruction and illustration, completely transcends all conceptual signs,<tei:note xml:id="UT22084-057-001-53"/> completely transcends all imputation via the sense faculties, completely transcends imputation as sense objects, completely transcends imputation as cognitive representations, and is not based in the cognitive obscurations or in the obscurations of the afflictive and secondary afflictive emotions.<tei:note xml:id="UT22084-057-001-54"/> For this reason the nonconceptual realm is called ‘nonconceptual.’</seg>
+                <seg>It completely transcends all conceptual analysis, completely transcends all imputations of instruction and illustration, completely transcends all conceptual signs,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-057-001-53"/> completely transcends all imputation via the sense faculties, completely transcends imputation as sense objects, completely transcends imputation as cognitive representations, and is not based in the cognitive obscurations or in the obscurations of the afflictive and secondary afflictive emotions.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-057-001-54"/> For this reason the nonconceptual realm is called ‘nonconceptual.’</seg>
             </tuv>
 </tu>
 <tu id="UT22084-057-001-TU-37">
@@ -411,7 +411,7 @@
                 <seg>རྣམ་པར་མི་རྟོག་པའི་རྗེས་ལས་ཐོབ་པའི་ཤེས་པས་ནི་ཆོས་ཐམས་ཅད་སྒྱུ་མ་དང་། སྨིག་རྒྱུ་དང་། རྨི་ལམ་དང་། མིག་ཡོར་དང་། བྲག་ཅ་དང་། གཟུགས་བརྙན་དང་། ཆུ་ཟླ་དང་། སྤྲུལ་པ་དང་མཚུངས་པར་མཐོང་ངོ་། །</seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>Through the ensuing mode of knowing they see all phenomena as illusions, mirages, dreams, hallucinations, echoes, reflections, the image of the moon in water, and as magical creations.<tei:note xml:id="UT22084-057-001-56"/>
+                <seg>Through the ensuing mode of knowing they see all phenomena as illusions, mirages, dreams, hallucinations, echoes, reflections, the image of the moon in water, and as magical creations.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-057-001-56"/>
                 </seg>
             </tuv>
 </tu>
@@ -422,7 +422,7 @@
                 <seg>བདེ་བ་ཆེན་པོ་ལ་གནས་པ་ཤིན་ཏུ་རྒྱས་པ་ཡང་འཐོབ་བོ། །</seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>They then attain the full expression of the power of sustaining great bliss.<tei:note xml:id="UT22084-057-001-57"/>
+                <seg>They then attain the full expression of the power of sustaining great bliss.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-057-001-57"/>
                 </seg>
             </tuv>
 </tu>
@@ -453,7 +453,7 @@
                 <seg>བཤད་པ་ཆེན་པོ་ལ་དབང་བ་ཤིན་ཏུ་རྒྱས་པ་ཡང་འཐོབ་བོ། །</seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>They attain the full expression of the power of maintaining the great teaching.<tei:note xml:id="UT22084-057-001-58"/>
+                <seg>They attain the full expression of the power of maintaining the great teaching.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-057-001-58"/>
                 </seg>
             </tuv>
 </tu>
@@ -495,7 +495,7 @@
                 <seg>དེའི་འོག་ན་ཡིད་བཞིན་གྱི་ནོར་བུ་རིན་པོ་ཆེའི་གཏེར་ཡོད་ཀྱིས། ཁྱོད་ཀྱིས་ཐོག་མ་ཁོ་ནར་རྡོའི་རང་བཞིན་ཐམས་ཅད་རྐོས་ཤིག །</seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>beneath that there is a great<tei:note xml:id="UT22084-057-001-60"/> precious treasure, a wish-fulfilling jewel. First you must remove the bedrock.</seg>
+                <seg>beneath that there is a great<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-057-001-60"/> precious treasure, a wish-fulfilling jewel. First you must remove the bedrock.</seg>
             </tuv>
 </tu>
 <tu id="UT22084-057-001-TU-49">
@@ -656,7 +656,7 @@
                 <seg>དངུལ་དུ་སྣང་བའི་རྡོ་ཞེས་བྱ་བ་དེ་ནི་གཉེན་པོ་ལ་རྣམ་པར་རྟོག་པའི་མཚན་མ་རྣམས་ཀྱི་ཚིག་བླ་དགས་སོ། །</seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>The rock resembling silver represents the conceptual signs related to the examination of antidotes.<tei:note xml:id="UT22084-057-001-62"/>
+                <seg>The rock resembling silver represents the conceptual signs related to the examination of antidotes.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-057-001-62"/>
                 </seg>
             </tuv>
 </tu>
@@ -697,7 +697,7 @@
                 <seg>རིགས་ཀྱི་བུ་དག་དེ་ལྟར་དཔེ་ཉེ་བར་བཀོད་པ་འདིས་རྣམ་པར་མི་རྟོག་པའི་དབྱིངས་སུ་འཇུག་པ་ཁོང་དུ་ཆུད་པར་བྱའོ། །</seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>Noble sons, through this analogy, you should understand entering into nonconceptuality.<tei:note xml:id="UT22084-057-001-63"/>
+                <seg>Noble sons, through this analogy, you should understand entering into nonconceptuality.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-057-001-63"/>
                 </seg>
             </tuv>
 </tu>
@@ -719,7 +719,7 @@
                 <seg>རིགས་ཀྱི་བུ་དག་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དེ་ལྟར་རྣམ་པར་མི་རྟོག་པའི་དབྱིངས་ལ་རབ་ཏུ་གནས་པ་ནི་གཟུངས་ཀྱི་རང་བཞིན་ལ་རྣམ་པར་རྟོག་པའི་མཚན་མ་མངོན་དུ་གྱུར་ནའདི་ལྟར་ཉེ་བར་རྟོག་སྟེ། </seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>Noble sons, when a fundamental conceptual sign related to the aggregate of matter<tei:note xml:id="UT22084-057-001-65"/> manifests, bodhisattvas, great beings who are established in the nonconceptual realm, should reflect in this way:</seg>
+                <seg>Noble sons, when a fundamental conceptual sign related to the aggregate of matter<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-057-001-65"/> manifests, bodhisattvas, great beings who are established in the nonconceptual realm, should reflect in this way:</seg>
             </tuv>
 </tu>
 <tu id="UT22084-057-001-TU-71">
@@ -932,7 +932,7 @@
             </tuv>
 	<tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-057-001-68"/>“Noble sons, when conceptual signs<tei:note xml:id="UT22084-057-001-69"/> related to an examination<tei:note xml:id="UT22084-057-001-70"/> of omniscience manifest, bodhisattvas, great beings, should reflect as follows:</seg>
+                    <tei:milestone xml:id="UT22084-057-001-68"/>“Noble sons, when conceptual signs<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-057-001-69"/> related to an examination<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-057-001-70"/> of omniscience manifest, bodhisattvas, great beings, should reflect as follows:</seg>
             </tuv>
 </tu>
 <tu id="UT22084-057-001-TU-92">
@@ -1033,7 +1033,7 @@
             </tuv>
 	<tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-057-001-73"/>“Therefore, noble sons,<tei:note xml:id="UT22084-057-001-74"/> just as bodhisattvas, great beings, do not apprehend omniscience, they likewise do not apprehend cognitive representations appearing as omniscience.</seg>
+                    <tei:milestone xml:id="UT22084-057-001-73"/>“Therefore, noble sons,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-057-001-74"/> just as bodhisattvas, great beings, do not apprehend omniscience, they likewise do not apprehend cognitive representations appearing as omniscience.</seg>
             </tuv>
 </tu>
 <tu id="UT22084-057-001-TU-102">
@@ -1113,7 +1113,7 @@
                 <seg>རིགས་ཀྱི་བུ་དག་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པའི་རྣམ་པར་རྟོག་པ་ཐམས་ཅད་ཀྱིས་གང་རྣམ་པར་མ་བརྟགས་པ་དེ་རྣམ་པར་མི་རྟོག་པའི་ཆོས་ཀྱི་དབྱིངས་སོ་ཞེས་ཀྱང་ཡང་དག་པར་རྗེས་སུ་མི་མཐོང་ངོ་། །</seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>Noble sons, those who do not conceptualize through any of these conceptual modes<tei:note xml:id="UT22084-057-001-75"/> do not think, ‘this is the nonconceptual field of phenomena.’</seg>
+                <seg>Noble sons, those who do not conceptualize through any of these conceptual modes<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-057-001-75"/> do not think, ‘this is the nonconceptual field of phenomena.’</seg>
             </tuv>
 </tu>
 <tu id="UT22084-057-001-TU-110">
@@ -1144,7 +1144,7 @@
                 <seg>རིགས་ཀྱི་བུ་དག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་འཛིན་པ་དང་། ཡི་གེར་འདྲི་བ་དང་། འཆང་བ་དང་། ཀློག་པའི་བསོད་ནམས་ནི་རབ་ཏུ་མང་གི་ལུས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་ཡོངས་སུ་བཏང་བ་ནི་དེ་ལྟ་མ་ཡིན་ནོ། །འཇིག་རྟེན་གྱི་ཁམས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་ཡོངས་སུ་གང་བའི་སྦྱིན་པ་བྱིན་པ་དེ་ནི་དེ་ལྟ་མ་ཡིན་ནོ། །དེ་བཞིན་གཤེགས་པའི་གཟུགས་བརྙན་རིན་པོ་ཆེ་ལས་བྱས་ཏེ། འཇིག་རྟེན་གྱི་ཁམས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་ཡོངས་སུ་བཀང་བའི་བསོད་ནམས་ཀྱི་ཕུང་པོ་ནི་དེ་ལྟ་མ་ཡིན་ནོ། །</seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>“Noble sons, the merit from taking up this discourse on the Dharma, writing it down,<tei:note xml:id="UT22084-057-001-78"/> and reciting it is much greater than giving away one’s body as many times as there are grains of sand in the river Ganga, much greater than offering jewel-filled world systems as numerous as grains of sand in the river Ganga, and much greater than the heap of merit created by commissioning images of the thus-gone ones to fill world systems as numerous as grains of sand in the river Ganga.”</seg>
+                <seg>“Noble sons, the merit from taking up this discourse on the Dharma, writing it down,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-057-001-78"/> and reciting it is much greater than giving away one’s body as many times as there are grains of sand in the river Ganga, much greater than offering jewel-filled world systems as numerous as grains of sand in the river Ganga, and much greater than the heap of merit created by commissioning images of the thus-gone ones to fill world systems as numerous as grains of sand in the river Ganga.”</seg>
             </tuv>
 </tu>
 <tu id="UT22084-057-001-TU-113">
@@ -1175,7 +1175,7 @@
                 <seg>དེ་ལས་རབ་ཞི་མི་གཡོ་མཆོག །དབང་བྱེད་མཉམ་ལ་མི་མཉམ་པ། །རྣམ་པར་མི་རྟོག་བདེ་བ་ནི། །བྱང་ཆུབ་སེམས་དཔས་ཐོབ་པར་འགྱུར། །</seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>A bodhisattva thereby attains a nonconceptual bliss that is peaceful and unwavering, Supreme, under their control, and both equaled and unequaled.”<tei:note xml:id="UT22084-057-001-81"/>
+                <seg>A bodhisattva thereby attains a nonconceptual bliss that is peaceful and unwavering, Supreme, under their control, and both equaled and unequaled.”<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-057-001-81"/>
                 </seg>
             </tuv>
 </tu>

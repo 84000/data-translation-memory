@@ -19,7 +19,7 @@
 	<tuv xml:lang="en">
                 <seg>
                     <tei:milestone xml:id="UT22084-043-006-25"/>
-                    <tei:note xml:id="UT22084-043-006-26"/> Homage to all buddhas and bodhisattvas!</seg>
+                    <note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-043-006-26"/> Homage to all buddhas and bodhisattvas!</seg>
             </tuv>
 </tu>
 <tu>
@@ -178,7 +178,7 @@
                 <seg>རིགས་ཀྱི་བུ་དག་ཁྱེད་ཚུར་ཤོག །བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཤཱཀྱ་ཐུབ་པ་ག་ལ་བཞུགས་པ་དེར་འདོང་ངོ་། །</seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>“Children of noble lineage, come this way.<tei:note xml:id="UT22084-043-006-36"/> Let us proceed to where the blessed, thus-gone, worthy, and perfect Buddha Śākyamuni is residing.</seg>
+                <seg>“Children of noble lineage, come this way.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-043-006-36"/> Let us proceed to where the blessed, thus-gone, worthy, and perfect Buddha Śākyamuni is residing.</seg>
             </tuv>
 </tu>
 <tu>
@@ -317,7 +317,7 @@
                 <seg>འཁོད་པ་ན་ཚུལ་ཁྲིམས་ཀྱི་རྒྱགས་པས་མྱོས་པ་དང་། ཐོས་པའི་རྒྱགས་པས་མྱོས་པ་དང་། སྦྱངས་པའི་ཡོན་ཏན་དང་། ཡོ་བྱད་བསྙུངས་པ་ལ་མངོན་པར་ཞེན་པས་དགེ་སློང་ཆོས་སྨྲ་བ་གཉིས་ལ་འདི་ལྟར་རྙེད་པ་དང་བཀུར་སྟིའི་རྒྱུ་དང་། མཛའ་བཤེས་ཀྱི་ཁྱིམ་དང་། སློངས་མོ་སྟེར་བའི་ཁྱིམ་གྱི་གཞི་ལས་ཕྲག་དོག་དང་སེར་སྣ་དང་ལྡན་པས་འཁྲིག་པའི་སྐུར་པས་བསྐུར་ཏེ། </seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>Thus established, you became intoxicated with conceit about your discipline, drunk with vanity about your learning, and strongly attached to your ascetic practices and your lack of possessions. Consequently, you became jealous and resentful of two monks who were preaching the Dharma, due to the offerings and respect they received, the households<tei:note xml:id="UT22084-043-006-41"/> of their friends and relatives, and the households of their patrons, and so you directed accusations of lewd conduct at them.</seg>
+                <seg>Thus established, you became intoxicated with conceit about your discipline, drunk with vanity about your learning, and strongly attached to your ascetic practices and your lack of possessions. Consequently, you became jealous and resentful of two monks who were preaching the Dharma, due to the offerings and respect they received, the households<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-043-006-41"/> of their friends and relatives, and the households of their patrons, and so you directed accusations of lewd conduct at them.</seg>
             </tuv>
 </tu>
 <tu>
@@ -505,7 +505,7 @@
             </tuv>
 	<tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-043-006-48"/>“Blessed One, from today onward, if we should speak of the failings, no matter whether they are many or few,<tei:note xml:id="UT22084-043-006-49"/> of individuals belonging to the Bodhisattva Vehicle, then we will have betrayed the thus-gone, worthy, and perfect Buddha.</seg>
+                    <tei:milestone xml:id="UT22084-043-006-48"/>“Blessed One, from today onward, if we should speak of the failings, no matter whether they are many or few,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-043-006-49"/> of individuals belonging to the Bodhisattva Vehicle, then we will have betrayed the thus-gone, worthy, and perfect Buddha.</seg>
             </tuv>
 </tu>
 <tu>
@@ -515,7 +515,7 @@
             </tuv>
 	<tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-043-006-50"/>“Blessed One, from today onward, if we should insult<tei:note xml:id="UT22084-043-006-51"/> individuals who belong to the Bodhisattva Vehicle or speak rudely to them, then we will have betrayed the thus-gone, worthy, and perfect Buddha.</seg>
+                    <tei:milestone xml:id="UT22084-043-006-50"/>“Blessed One, from today onward, if we should insult<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-043-006-51"/> individuals who belong to the Bodhisattva Vehicle or speak rudely to them, then we will have betrayed the thus-gone, worthy, and perfect Buddha.</seg>
             </tuv>
 </tu>
 <tu>
@@ -605,7 +605,7 @@
             </tuv>
 	<tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-043-006-60"/>“Blessed One, from today onward, if we are at risk of becoming involved in conflict and dispute and we do not immediately distance ourselves from it<tei:note xml:id="UT22084-043-006-61"/> by a mile or a hundred miles, then we will have betrayed the Thus-Gone One.</seg>
+                    <tei:milestone xml:id="UT22084-043-006-60"/>“Blessed One, from today onward, if we are at risk of becoming involved in conflict and dispute and we do not immediately distance ourselves from it<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-043-006-61"/> by a mile or a hundred miles, then we will have betrayed the Thus-Gone One.</seg>
             </tuv>
 </tu>
 <tu>
@@ -730,7 +730,7 @@
                 <seg>བཅོམ་ལྡན་འདས་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་པའི་གང་ཟག་ཆོས་དུ་དང་ལྡན་ན་ལྔ་བརྒྱ་པ་ཐ་མ་ལ་དམ་པའི་ཆོས་རྣམ་པར་འཇིག་པའི་ཚེ་མ་སྣད་ཅིང་མ་རྨས་ལ་བདེ་བར་ཡོངས་སུ་ཐར་བར་འགྱུར་ལགས། </seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>“Blessed One, during the final half-millennium, when the sacred Dharma is perishing, if an individual who belongs to the Bodhisattva Vehicle possesses certain qualities, will that person then be spared harm and injury,<tei:note xml:id="UT22084-043-006-69"/> and readily attain liberation?”</seg>
+                <seg>“Blessed One, during the final half-millennium, when the sacred Dharma is perishing, if an individual who belongs to the Bodhisattva Vehicle possesses certain qualities, will that person then be spared harm and injury,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-043-006-69"/> and readily attain liberation?”</seg>
             </tuv>
 </tu>
 <tu>
@@ -785,7 +785,7 @@
                 <seg>བྱམས་པ་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་པའི་གང་ཟག་ཆོས་བཞི་པོ་དེ་དག་དང་ལྡན་ན་ལྔ་བརྒྱ་པ་ཐ་མ་ལ་དམ་པའི་ཆོས་རྣམ་པར་འཇིག་པའི་ཚེ་མ་སྣད་ཅིང་མ་རྨས་ལ་བདེ་བར་ཡོངས་སུ་ཐར་བར་འགྱུར་རོ། །</seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>Maitreya,<tei:note xml:id="UT22084-043-006-71"/> if an individual who belongs to the Bodhisattva Vehicle possesses those four qualities, then during the final half-millennium, when the sacred Dharma is perishing, that person will be spared harm and injury, and will be liberated without difficulty.</seg>
+                <seg>Maitreya,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-043-006-71"/> if an individual who belongs to the Bodhisattva Vehicle possesses those four qualities, then during the final half-millennium, when the sacred Dharma is perishing, that person will be spared harm and injury, and will be liberated without difficulty.</seg>
             </tuv>
 </tu>
 <tu>
@@ -1239,7 +1239,7 @@
                 <seg>མནོག་མེད་པར་ཤེས་ནས་སྐྱོ་སྟེ་འདོར་ཞིང་འགྲོ་བར་འགྱུར་རོ། །</seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>Once they realize there is nothing to be gained,<tei:note xml:id="UT22084-043-006-85"/> they will be disappointed, refuse to teach, and leave.</seg>
+                <seg>Once they realize there is nothing to be gained,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-043-006-85"/> they will be disappointed, refuse to teach, and leave.</seg>
             </tuv>
 </tu>
 <tu>
@@ -1696,7 +1696,7 @@
                 <seg>གང་དག་བྱང་ཆུབ་སེམས་དཔས་ཁོང་དུ་ཆུད་པར་བྱ་ཞིང་ཁོང་དུ་ཆུད་ནས་ཀྱང་ཡོངས་སུ་སྤང་བར་བྱ་བ་ནི་དེ་དག་ཡིན་ནོ། །</seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>therefore, they must properly comprehend them<tei:note xml:id="UT22084-043-006-102"/> and, having comprehended, must reject them.”</seg>
+                <seg>therefore, they must properly comprehend them<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-043-006-102"/> and, having comprehended, must reject them.”</seg>
             </tuv>
 </tu>
 <tu>
@@ -1715,7 +1715,7 @@
                 <seg>བཅོམ་ལྡན་འདས་ཀྱི་བྱང་ཆུབ་སེམས་དཔའ་དྲུག་ཅུ་པོ་འདི་དག་ཉི་ཚེ་ལས་ཀྱི་སྒྲིབ་པས་བསྒྲིབས་པར་འགྱུར་རམ། འོན་ཏེ་གཞན་དག་ཀྱང་བསྒྲིབས་པར་འགྱུར་ལགས། </seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>“Blessed One,<tei:note xml:id="UT22084-043-006-104"/> will these sixty bodhisattvas be obscured by short-lived obscurations of karma, or will they be obscured in some other fashion?”</seg>
+                <seg>“Blessed One,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-043-006-104"/> will these sixty bodhisattvas be obscured by short-lived obscurations of karma, or will they be obscured in some other fashion?”</seg>
             </tuv>
 </tu>
 <tu>
@@ -1828,7 +1828,7 @@
             </tuv>
 	<tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-043-006-109"/>“At that time, there also will appear certain unskillful bodhisattvas who will be conceited about their own virtues and, being complacent and haughty,<tei:note xml:id="UT22084-043-006-110"/> will have no regard for those twenty. They will seek to promote themselves, and so</seg>
+                    <tei:milestone xml:id="UT22084-043-006-109"/>“At that time, there also will appear certain unskillful bodhisattvas who will be conceited about their own virtues and, being complacent and haughty,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-043-006-110"/> will have no regard for those twenty. They will seek to promote themselves, and so</seg>
             </tuv>
 </tu>
 <tu>
@@ -1912,7 +1912,7 @@
             </tuv>
 	<tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-043-006-113"/>“Those with poor discernment simply will not understand that whatever qualifies as a well-spoken statement—no matter what it is—is the word of the Buddha.<tei:note xml:id="UT22084-043-006-114"/>
+                    <tei:milestone xml:id="UT22084-043-006-113"/>“Those with poor discernment simply will not understand that whatever qualifies as a well-spoken statement—no matter what it is—is the word of the Buddha.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-043-006-114"/>
                 </seg>
             </tuv>
 </tu>
@@ -2118,7 +2118,7 @@
             </tuv>
 	<tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-043-006-121"/>“Maitreya, in addition, one should understand that any discourse that satisfies four conditions is what the Buddha spoke.<tei:note xml:id="UT22084-043-006-122"/>
+                    <tei:milestone xml:id="UT22084-043-006-121"/>“Maitreya, in addition, one should understand that any discourse that satisfies four conditions is what the Buddha spoke.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-043-006-122"/>
                 </seg>
             </tuv>
 </tu>
@@ -2508,7 +2508,7 @@
             </tuv>
 	<tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-043-006-133"/>“As an analogy, Maitreya, while the conduct of stream enterers<tei:note xml:id="UT22084-043-006-134"/> may resemble that of ordinary beings, they are not stained by the faults of ordinary, immature beings.</seg>
+                    <tei:milestone xml:id="UT22084-043-006-133"/>“As an analogy, Maitreya, while the conduct of stream enterers<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-043-006-134"/> may resemble that of ordinary beings, they are not stained by the faults of ordinary, immature beings.</seg>
             </tuv>
 </tu>
 <tu>
@@ -3028,7 +3028,7 @@
                 <seg>རྙེད་པ་དང་བཀུར་སྟི་ནི་དྲན་པ་ཉེ་བར་བཞག་པ་བཞི་རྗེད་པར་བྱེད་པར་བརྟག་པར་བྱའོ། །</seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>They should examine how gain and honor cause one to forget the four applications of mindfulness.<tei:note xml:id="UT22084-043-006-152"/>
+                <seg>They should examine how gain and honor cause one to forget the four applications of mindfulness.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-043-006-152"/>
                 </seg>
             </tuv>
 </tu>
@@ -4659,7 +4659,7 @@
             </tuv>
 	<tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-043-006-216"/>“When someone is indolent and likes to sleep, Impurities in food foul his belly, And his body grows heavy and ungainly.<tei:note xml:id="UT22084-043-006-217"/>
+                    <tei:milestone xml:id="UT22084-043-006-216"/>“When someone is indolent and likes to sleep, Impurities in food foul his belly, And his body grows heavy and ungainly.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-043-006-217"/>
                 </seg>
             </tuv>
 </tu>
@@ -7012,7 +7012,7 @@
                 <seg>ཕྱིས་ཀྱང་ལུང་ནོད་པར་མི་བྱེད། འཆང་བར་མི་བྱེད། ཀུན་ཆུབ་པར་མི་བྱེད་དེ། </seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>consequently, they will not receive transmission of them, will not retain them, and will not comprehend them.<tei:note xml:id="UT22084-043-006-297"/>
+                <seg>consequently, they will not receive transmission of them, will not retain them, and will not comprehend them.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-043-006-297"/>
                 </seg>
             </tuv>
 </tu>
