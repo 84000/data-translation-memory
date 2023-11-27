@@ -55,7 +55,7 @@
                 <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་མྱ་ངན་གྱི་མུན་པ་ཐམས་ཅད་ངེས་པར་འཇོམས་པ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཡེ་ཤེས་ཀྱི་འོད་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཚངས་པ་ལས་བྱུང་བ་འབྲུག་དབྱངས་སྤྲིན་གྱི་ང་རོ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཡོན་ཏན་རིན་པོ་ཆེའི་མེ་ཏོག་ཀུན་དུ་རྒྱས་པའི་གཟི་བརྗིད་ལྟ་བུ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་སེང་གེའི་ཡོན་ཏན་ལས་བྱུང་བ་འབྲུག་གི་ང་རོས་འགྲོ་བ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འོད་ཀྱི་གཟི་བརྗིད་རྣམ་པར་བསྒྲགས་པ་གྲགས་པ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཡེ་ཤེས་ཀྱི་བཀོད་པ་མཐའ་ཡས་པ་བསྒྲུབ་པ་ལ་སེམས་པ་དང་། བྱང་ཆུབ་སེམས་དཔའ་<tei:ref folio="F.45.a"/>སེམས་དཔའ་ཆེན་པོ་ཡོན་ཏན་རིན་པོ་ཆེ་མཐའ་ཡས་པའི་མེ་ཏོག་ཀུན་དུ་རྒྱས་པའི་རྣམ་པར་བསྒྲགས་པ་གྲགས་པ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཤེས་རབ་ཀྱི་སྣང་བས་སྟོབས་པ་བསྟན་པའི་བློ་གྲོས་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བཅུ་པོ་དེ་དག་འཁོར་དེ་ཉིད་དུ་འདུས་པར་གྱུར་ཏེ་འཁོད་དོ། །</seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>as were the bodhisattva great being Vanquisher of the Darkness of Sorrow, the bodhisattva great being Light of Wisdom, the bodhisattva great being Roaring Thunder Cloud from Brahmā, the bodhisattva great being Glorious Blooming Flower of Precious Qualities, the bodhisattva great being Born from the Lion’s Virtues and Moving with a Thunder Roar, the bodhisattva great being Renowned Brilliant Light, the bodhisattva great being Aiming for Accomplishment of Limitless Wisdom Array, the bodhisattva great being Renowned Blooming Flower of Limitless Precious Qualities, and the bodhisattva great being Intelligent Light of Insight Displaying Power.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-068-010-10"/>
+                <seg>as were the bodhisattva great being Vanquisher of the Darkness of Sorrow, the bodhisattva great being Light of Wisdom, the bodhisattva great being Roaring Thunder Cloud from Brahmā, the bodhisattva great being Glorious Blooming Flower of Precious Qualities, the bodhisattva great being Born from the Lion’s Virtues and Moving with a Thunder Roar, the bodhisattva great being Renowned Brilliant Light, the bodhisattva great being Aiming for Accomplishment of Limitless Wisdom Array, the bodhisattva great being Renowned Blooming Flower of Limitless Precious Qualities, and the bodhisattva great being Intelligent Light of Insight Displaying Power.<tei:note xml:id="UT22084-068-010-10"/>
                 </seg>
             </tuv>
 </tu>
@@ -279,7 +279,7 @@
                 <seg>བྱང་ཆུབ་སེམས་དཔའི་ལས་སྤྱོད་པ། །སྤྱོད་པ་གང་ལགས་དེ་བསྟན་གསོལ། །</seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>The conduct that bodhisattvas engage in<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-068-010-17"/>— Please explain that conduct.</seg>
+                <seg>The conduct that bodhisattvas engage in<tei:note xml:id="UT22084-068-010-17"/>— Please explain that conduct.</seg>
             </tuv>
 </tu>
 <tu>
@@ -289,7 +289,7 @@
             </tuv>
 	<tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-010-18"/>“Your intelligence is immeasurable and exalted;<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-068-010-19"/> Unimpeded Buddha, your ten powers are unmatched.</seg>
+                    <tei:milestone xml:id="UT22084-068-010-18"/>“Your intelligence is immeasurable and exalted;<tei:note xml:id="UT22084-068-010-19"/> Unimpeded Buddha, your ten powers are unmatched.</seg>
             </tuv>
 </tu>
 <tu>
@@ -428,7 +428,7 @@
                 <seg>རིན་ཆེན་གླང་པོ་རྟ་སྤངས་ཡུན་ཀྱང་རིང་། །བུད་མེད་ཚོགས་དང་བུ་ཡང་སྤངས་མཛད་པ། །</seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>For long you relinquished jewels, elephants, and horses, And the company of women and children as well.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-068-010-24"/>
+                <seg>For long you relinquished jewels, elephants, and horses, And the company of women and children as well.<tei:note xml:id="UT22084-068-010-24"/>
                 </seg>
             </tuv>
 </tu>
@@ -935,7 +935,7 @@
                 <seg>མགོ་ལ་བྱེ་ཚན་མི་འབབ་པ་དང་། སྐྱོ་བ་པོའི་ལུས་དང་ལྷན་ཅིག་ཏུ་ཀུན་དུ་མི་གནས་པ་དང་། དེ་ལ་ནམ་མཁའ་ལྡིང་གི་འཇིགས་པ་མི་འབྱུང་བ་སྟེ། </seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>Hot sand does not fall on his head, he is never infested with vermin,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-068-010-38"/> and he is not subject to the terror of garuḍas.</seg>
+                <seg>Hot sand does not fall on his head, he is never infested with vermin,<tei:note xml:id="UT22084-068-010-38"/> and he is not subject to the terror of garuḍas.</seg>
             </tuv>
 </tu>
 <tu>
@@ -1046,7 +1046,7 @@
             </tuv>
 	<tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-010-41"/>“All my<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-068-010-42"/> clothes, my alms bowl, sitting mat, Bedding, and walkway— I give all of them To those striving for awakening.</seg>
+                    <tei:milestone xml:id="UT22084-068-010-41"/>“All my<tei:note xml:id="UT22084-068-010-42"/> clothes, my alms bowl, sitting mat, Bedding, and walkway— I give all of them To those striving for awakening.</seg>
             </tuv>
 </tu>
 <tu>
@@ -1151,7 +1151,7 @@
             </tuv>
 	<tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-010-49"/>syād yathedam: accha acchavati anāvile akleśe akṛte anāyūhe ave aparajite bhavatu aṅgama yutājñāva prakṣipe nirgate ugrahe huhume cavale sade same samade yoti nayo pariśodhi.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-068-010-50"/>
+                    <tei:milestone xml:id="UT22084-068-010-49"/>syād yathedam: accha acchavati anāvile akleśe akṛte anāyūhe ave aparajite bhavatu aṅgama yutājñāva prakṣipe nirgate ugrahe huhume cavale sade same samade yoti nayo pariśodhi.<tei:note xml:id="UT22084-068-010-50"/>
                 </seg>
             </tuv>
 </tu>
@@ -1336,7 +1336,7 @@
                 <seg>རིགས་ཀྱི་བུ་ཆོས་བཞི་པོ་དེ་དག་ནི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་ཀྱིས་བྱང་ཆུབ་ཡོངས་སུ་སྦྱོང་བར་བྱེད་པའོ། །</seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>Noble son, these four qualities purify the awakening of<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-068-010-55"/> bodhisattva great beings.”</seg>
+                <seg>Noble son, these four qualities purify the awakening of<tei:note xml:id="UT22084-068-010-55"/> bodhisattva great beings.”</seg>
             </tuv>
 </tu>
 <tu>
@@ -1448,7 +1448,7 @@
                 <seg>དེ་བཞིན་མཁས་པས་སྤྱོད་པའི་ལམ་བཞི་པའོ། །</seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>This is the fourth path of purification<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-068-010-60"/> by the learned.</seg>
+                <seg>This is the fourth path of purification<tei:note xml:id="UT22084-068-010-60"/> by the learned.</seg>
             </tuv>
 </tu>
 <tu>
@@ -1631,7 +1631,7 @@
             </tuv>
 	<tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-010-63"/>The Blessed One then said,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-068-010-64"/> “Hearing this Dharma discourse is something that is cherished dearly by bodhisattva great beings.</seg>
+                    <tei:milestone xml:id="UT22084-068-010-63"/>The Blessed One then said,<tei:note xml:id="UT22084-068-010-64"/> “Hearing this Dharma discourse is something that is cherished dearly by bodhisattva great beings.</seg>
             </tuv>
 </tu>
 <tu>

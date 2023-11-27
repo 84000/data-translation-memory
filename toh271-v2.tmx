@@ -666,7 +666,7 @@
                 <seg>ཤཱ་རིའི་བུ་སངས་རྒྱས་ཀྱི་ཞིང་འདི་ནས་<tei:ref folio="F.19.a"/>ཤར་ཕྱོགས་ལོགས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་གང་གཱའི་ཀླུང་གཅིག་གི་བྱེ་མ་སྙེད་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་གཞན་གྱིས་མི་ཐུབ་པ་ཞེས་བྱ་བ་ཡོད་དེ</seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>“Śāriputra, to the east of this buddha realm, past buddha realms as numerous as the grains of sand in a single river Ganges, there is a world system called Unsubdued by Others.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-068-005-20"/>
+                <seg>“Śāriputra, to the east of this buddha realm, past buddha realms as numerous as the grains of sand in a single river Ganges, there is a world system called Unsubdued by Others.<tei:note xml:id="UT22084-068-005-20"/>
                 </seg>
             </tuv>
 </tu>
@@ -1418,7 +1418,7 @@
                 <seg>ཤློ་ཀ་དགུ་བཅུ་རྩ་གཅིག། །།</seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>The text contains ninety-one stanzas.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-068-005-52"/>
+                <seg>The text contains ninety-one stanzas.<tei:note xml:id="UT22084-068-005-52"/>
                 </seg>
             </tuv>
 </tu>

@@ -31,7 +31,7 @@
     <tuv xml:lang="en">
                 <seg>
                     <tei:milestone xml:id="UT22084-088-022-20"/>
-                    <note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-088-022-118"/>Homage to all buddhas and bodhisattvas.
+                    <tei:note xml:id="UT22084-088-022-118"/>Homage to all buddhas and bodhisattvas.
 </seg>
             </tuv>
 </tu>
@@ -175,7 +175,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-088-022-27"/>He also asks if you are free from any and all of the harms in this world caused by humans, nonhumans, bhūtas, piśācas, yakṣas, rākṣasas, kumbhāṇḍas, the commander of the kumbhāṇḍa armies, kings, high-ranking ministers, thieves, snakes, insects, spiders,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-088-022-28"/> small biting insects,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-088-022-29"/> and other afflictions. “
+                    <tei:milestone xml:id="UT22084-088-022-27"/>He also asks if you are free from any and all of the harms in this world caused by humans, nonhumans, bhūtas, piśācas, yakṣas, rākṣasas, kumbhāṇḍas, the commander of the kumbhāṇḍa armies, kings, high-ranking ministers, thieves, snakes, insects, spiders,<tei:note xml:id="UT22084-088-022-28"/> small biting insects,<tei:note xml:id="UT22084-088-022-29"/> and other afflictions. “
 </seg>
             </tuv>
 </tu>
@@ -186,7 +186,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-088-022-30"/>For the benefit, welfare, and happiness of all beings, to provide them with vitality, charisma, glory, good qualities, strength, and beauty, and to protect, guard, and preserve them, the blessed, thus-gone, worthy, fully and perfectly awakened Buddha Agrapradīpa offers this dhāraṇī-mantra formula: <tei:milestone xml:id="UT22084-088-022-31"/>jvāle<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-088-022-32"/> jvāle jvāle gate hukku mukku sammate mahāsammate mahājvāle jvāvala me sahe sahe mahājvāle ukke mukke śame sammahe mahāsammate mahāśame svāha.”<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-088-022-33"/>
+                    <tei:milestone xml:id="UT22084-088-022-30"/>For the benefit, welfare, and happiness of all beings, to provide them with vitality, charisma, glory, good qualities, strength, and beauty, and to protect, guard, and preserve them, the blessed, thus-gone, worthy, fully and perfectly awakened Buddha Agrapradīpa offers this dhāraṇī-mantra formula: <tei:milestone xml:id="UT22084-088-022-31"/>jvāle<tei:note xml:id="UT22084-088-022-32"/> jvāle jvāle gate hukku mukku sammate mahāsammate mahājvāle jvāvala me sahe sahe mahājvāle ukke mukke śame sammahe mahāsammate mahāśame svāha.”<tei:note xml:id="UT22084-088-022-33"/>
 </seg>
             </tuv>
 </tu>
@@ -288,7 +288,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-088-022-142"/>The bodhisattva mahāsattva Ajita then rose from his seat, adjusted his robe on his shoulder, and knelt down on his right knee.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-088-022-36"/>
+                    <tei:milestone xml:id="UT22084-088-022-142"/>The bodhisattva mahāsattva Ajita then rose from his seat, adjusted his robe on his shoulder, and knelt down on his right knee.<tei:note xml:id="UT22084-088-022-36"/>
 </seg>
             </tuv>
 </tu>
@@ -400,7 +400,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-088-022-39"/>Mañjuśrīkumārabhūta then rose from his seat, adjusted his robe on his shoulder, and knelt down on his right knee.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-088-022-40"/>
+                    <tei:milestone xml:id="UT22084-088-022-39"/>Mañjuśrīkumārabhūta then rose from his seat, adjusted his robe on his shoulder, and knelt down on his right knee.<tei:note xml:id="UT22084-088-022-40"/>
 </seg>
             </tuv>
 </tu>
@@ -635,7 +635,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-088-022-47"/>nāmaḥ sarvabuddhebhyaḥ siddhyantu dhāraṇīmantrapādāni svāha.”<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-088-022-48"/>
+                    <tei:milestone xml:id="UT22084-088-022-47"/>nāmaḥ sarvabuddhebhyaḥ siddhyantu dhāraṇīmantrapādāni svāha.”<tei:note xml:id="UT22084-088-022-48"/>
 </seg>
             </tuv>
 </tu>
@@ -768,7 +768,7 @@
                 <seg>།རིམས་རླུང་དང་། མཁྲིས་པ་དང་། བད་ཀན་དང་། འདུས་པ་དང་། དུས་ཚིགས་འགྱུར་བ་ལས་བྱུང་བ་ཐམས་ཅད་ཀྱིས་མི་ཚུགས་སོ། །ཞག་གཅིག་པའམ། ཞག་གཉིས་པའམ། ཞག་གསུམ་པའམ། ཞག་བཞི་པའམ། ཞག་བདུན་པའམ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Fevers resulting from disorders of wind, bile, or phlegm, their combination,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-088-022-53"/> or a change of seasons will not affect them.
+                <seg>Fevers resulting from disorders of wind, bile, or phlegm, their combination,<tei:note xml:id="UT22084-088-022-53"/> or a change of seasons will not affect them.
 </seg>
             </tuv>
 </tu>
@@ -788,7 +788,7 @@
                 <seg>ལྷོག་པའམ། མེ་དཔལ་ལམ། ཤུ་བའམ། ཁྱི་རྔོའམ། གཡན་པའམ། མཛེ་ཐམས་ཅད་དམ། ལྷོག་པ་ཐམས་ཅད་དམ། གཤེད་བྱེད་ཐམས་ཅད་དམ། སྒྱུར་བའི་ལས་ཐམས་ཅད་དམ། བྱད་ཐམས་ཅད་<tei:ref folio="F.89.a"/>དང་། རོ་ལངས་ཐམས་ཅད་ཀྱིས་ཀྱང་མི་ཚུགས་སོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Boils, lesions, eczema, blood boils, rashes, ringworm, chronic itching, scabies, all forms of leprosy, and any kind of pustule will not afflict them, and they will not be affected by kṛtya rites, or by kākhordas and vetālas.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-088-022-54"/> “
+                <seg>Boils, lesions, eczema, blood boils, rashes, ringworm, chronic itching, scabies, all forms of leprosy, and any kind of pustule will not afflict them, and they will not be affected by kṛtya rites, or by kākhordas and vetālas.<tei:note xml:id="UT22084-088-022-54"/> “
 </seg>
             </tuv>
 </tu>
@@ -901,7 +901,7 @@
                 <seg>བརྡེགས་པའི་རིགས་པ་ནི་བརྒྱད་པས།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>A person deserving of a beating will be released after a scolding.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-088-022-58"/>
+                <seg>A person deserving of a beating will be released after a scolding.<tei:note xml:id="UT22084-088-022-58"/>
 </seg>
             </tuv>
 </tu>
@@ -921,7 +921,7 @@
                 <seg>བསྡིགས་པའི་རིགས་པ་ནི་མིག་ཚུགས་སུ་བལྟས་པས་ཐར་པར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>A person deserving of a warning will be released with a stern look.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-088-022-59"/> “
+                <seg>A person deserving of a warning will be released with a stern look.<tei:note xml:id="UT22084-088-022-59"/> “
 </seg>
             </tuv>
 </tu>
@@ -993,7 +993,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-088-022-61"/>Following this Dharma discourse, the Four Great Kings addressed the Blessed One: “Blessed One, if we also offer a dhāraṇī-mantra formula so that this Dharma discourse will spread widely, so that those who proclaim it are supported, so that the sublime Dharma will, by all means, last a long time, and so that all māras are defeated, will the Blessed One please consent to this by saying ‘Excellent’?”<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-088-022-62"/>
+                    <tei:milestone xml:id="UT22084-088-022-61"/>Following this Dharma discourse, the Four Great Kings addressed the Blessed One: “Blessed One, if we also offer a dhāraṇī-mantra formula so that this Dharma discourse will spread widely, so that those who proclaim it are supported, so that the sublime Dharma will, by all means, last a long time, and so that all māras are defeated, will the Blessed One please consent to this by saying ‘Excellent’?”<tei:note xml:id="UT22084-088-022-62"/>
 </seg>
             </tuv>
 </tu>
@@ -1025,7 +1025,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-088-022-65"/>Blessed One, this formula is like the words found in this cycle of dhāraṇīs.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-088-022-66"/>
+                    <tei:milestone xml:id="UT22084-088-022-65"/>Blessed One, this formula is like the words found in this cycle of dhāraṇīs.<tei:note xml:id="UT22084-088-022-66"/>
 </seg>
             </tuv>
 </tu>
@@ -1163,7 +1163,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-088-022-76"/>Therefore, one who fearlessly hears<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-088-022-77"/> This discourse on dhāraṇī-mantra And then recites these dhāraṇī-mantras Will never be frightened again. “
+                    <tei:milestone xml:id="UT22084-088-022-76"/>Therefore, one who fearlessly hears<tei:note xml:id="UT22084-088-022-77"/> This discourse on dhāraṇī-mantra And then recites these dhāraṇī-mantras Will never be frightened again. “
 </seg>
             </tuv>
 </tu>

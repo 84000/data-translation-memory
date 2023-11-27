@@ -557,7 +557,7 @@
                 <seg>འབྱོར་པར་འདོད་པས་ཤིང་རྣམས་ནི། །རབ་ཏུ་འབད་དེ་བརྟག་པར་བྱ། །ཙན་དན་བིལ་བ་པ་ལ་ཤ། །ཨ་ཤྭད་ཐ་དང་ཙན་དན་དམར། །རྒྱ་སྟར་ཏ་ལ་ཀིང་ཤུ་ཀ། ཤིང་ཤ་པ་དང་ཏམ་ལ། །ཨ་མྲ་སྟར་བུ་སྐྱུ་རུ་ར། །ཏིང་ཏི་ས་ར་ཨ་ཤོ་ཀ། </seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>“As for the wood you wish to use, You should investigate with great effort: Sandalwood, Bengal quince, bastard teak, Sacred fig, and red sandalwood tree, <tei:milestone xml:id="UT22084-071-012-21"/>“Indian walnut, palmyra, kingshuk tree, Aloe wood, false mangosteen, Mango, walnut, myrobalan tree, Tintisara,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-071-012-22"/> and aśoka.</seg>
+                <seg>“As for the wood you wish to use, You should investigate with great effort: Sandalwood, Bengal quince, bastard teak, Sacred fig, and red sandalwood tree, <tei:milestone xml:id="UT22084-071-012-21"/>“Indian walnut, palmyra, kingshuk tree, Aloe wood, false mangosteen, Mango, walnut, myrobalan tree, Tintisara,<tei:note xml:id="UT22084-071-012-22"/> and aśoka.</seg>
             </tuv>
 </tu>
 <tu>
@@ -820,7 +820,7 @@
                 <seg>དེ་ཡི་རབ་གནས་བྱ་བ་ནི། །ཤིན་ཏུ་བརྟན་པའི་ཆོས་ཀྱི་སྐུ། །</seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>As for its consecration, It is the very stable<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-071-012-34"/> Dharma body.</seg>
+                <seg>As for its consecration, It is the very stable<tei:note xml:id="UT22084-071-012-34"/> Dharma body.</seg>
             </tuv>
 </tu>
 <tu>
@@ -858,7 +858,7 @@
             </tuv>
 	<tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-071-012-36"/>“Next, [having opened the gaṇḍī’s eyes,] One must strike it to increasingly produce sound<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-071-012-37"/> Throughout the temple, As if adorned by seven nāgas.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-071-012-38"/>
+                    <tei:milestone xml:id="UT22084-071-012-36"/>“Next, [having opened the gaṇḍī’s eyes,] One must strike it to increasingly produce sound<tei:note xml:id="UT22084-071-012-37"/> Throughout the temple, As if adorned by seven nāgas.<tei:note xml:id="UT22084-071-012-38"/>
                 </seg>
             </tuv>
 </tu>
@@ -878,7 +878,7 @@
                 <seg>ཤང་རྩ་ལན་གསུམ་བརྗོད་པས་ནི། །ཆོས་ཀྱི་རྔ་རྣམས་བརྡུང་བར་བྱ། །</seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>One should then sound the cymbal<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-071-012-40"/> three times And beat the Dharma drums.</seg>
+                <seg>One should then sound the cymbal<tei:note xml:id="UT22084-071-012-40"/> three times And beat the Dharma drums.</seg>
             </tuv>
 </tu>
 <tu>
@@ -953,7 +953,7 @@
                 <seg>ཀླུ་བདུན་གྱིས་ནི་བརྒྱན་པར་བྱ། །</seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>It should be adorned by seven nāgas.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-071-012-45"/>
+                <seg>It should be adorned by seven nāgas.<tei:note xml:id="UT22084-071-012-45"/>
                 </seg>
             </tuv>
 </tu>

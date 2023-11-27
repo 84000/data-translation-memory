@@ -258,7 +258,7 @@ Taking Refuge in the Three Jewels</seg>
                 <seg>མ་རུ་ཀའི་ཏིལ་མར་གྱིས་རྒྱ་མཚོ་ཆེན་པོ་བཞི་ལྟར་བཀང་བའི་ནང་དུ་སྙིང་པོ་རི་རབ་ཙམ་བཙུགས་ལ། </seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>replace it with four oceans filled with maruka oil.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-006-13"/>
+                <seg>replace it with four oceans filled with maruka oil.<tei:note xml:id="UT22084-063-006-13"/>
                 </seg>
             </tuv>
 </tu>
@@ -400,7 +400,7 @@ Taking Refuge in the Three Jewels</seg>
             </tuv>
 	<tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-063-006-43"/>The Blessed One replied, “Ānanda, you should remember this Dharma teaching as Accomplishing Limitless Gateways.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-006-18"/>
+                    <tei:milestone xml:id="UT22084-063-006-43"/>The Blessed One replied, “Ānanda, you should remember this Dharma teaching as Accomplishing Limitless Gateways.<tei:note xml:id="UT22084-063-006-18"/>
                 </seg>
             </tuv>
 </tu>

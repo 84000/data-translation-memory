@@ -73,7 +73,7 @@
                 <seg>།མཐོང་ནས་ཀྱང་འདི་སྙམ་དུ་སེམས་ཏེ། གང་ཞིག་གིས་ཁང་པ་བརྩེགས་པ་འདི་ལྟ་བུ་ཞིག་བྱས་ཏེ་ཕྱོགས་བཞིའི་དགེ་སློང་གི་དགེ་འདུན་ལ་འབུལ་བར་བྱེད་པ་དང་། གང་ཞིག་གིས་དེ་བཞིན་གཤེགས་པ་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པའི་རིང་བསྲེལ་ཡུངས་འབྲུ་ཙམ་མཆོད་རྟེན་གྱི་བུམ་པ་སྐྱུ་རུ་ར་ཙམ་གྱི་ནང་དུ་བཅུག་སྟེ། སྲོག་ཤིང་ཁབ་ཙམ་བཙུགས་ནས་གདུགས་རྒྱ་ཤུག་གི་ལོ་མ་ཙམ་འདོགས་པར་བྱེད་པའམ། དེ་བཞིན་གཤེགས་པའི་སྐུ་གཟུགས་ཚོན་གང་ཙམ་ཞིག་བྱེད་ན། དེ་གཉིས་ལས་གང་བསོད་ནམས་ཆེས་མང་དུ་འཕེལ་སྙམ་མོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Seeing this, he thought to himself, “What if someone were to build a palace like this one and offer it to the saṅgha of monks throughout the four directions, while someone else were to either create a statue of the Thus-Gone One the size of a thumb, or take a relic the size of a mustard seed after a thus-gone one’s parinirvāṇa and place it within a stūpa with a dome the size of an amalaki fruit, insert a central pole the size of a needle, and affix to it a canopy the size of a jujube leaf?<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-062-008-17"/> Between these two, whose merit would increase the most?”</seg>
+                <seg>Seeing this, he thought to himself, “What if someone were to build a palace like this one and offer it to the saṅgha of monks throughout the four directions, while someone else were to either create a statue of the Thus-Gone One the size of a thumb, or take a relic the size of a mustard seed after a thus-gone one’s parinirvāṇa and place it within a stūpa with a dome the size of an amalaki fruit, insert a central pole the size of a needle, and affix to it a canopy the size of a jujube leaf?<tei:note xml:id="UT22084-062-008-17"/> Between these two, whose merit would increase the most?”</seg>
             </tuv>
 </tu>
 <tu id="UT22084-062-008-TU-9">
@@ -286,7 +286,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-062-008-23"/>“Ānanda, the same may be said of the eastern continent of Videha, measuring eight thousand leagues in length and breadth,” including everything stated above, from “were filled with stream enterers . . .” up to “. . . wisdom and vision of liberation.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-062-008-24"/>
+                    <tei:milestone xml:id="UT22084-062-008-23"/>“Ānanda, the same may be said of the eastern continent of Videha, measuring eight thousand leagues in length and breadth,” including everything stated above, from “were filled with stream enterers . . .” up to “. . . wisdom and vision of liberation.<tei:note xml:id="UT22084-062-008-24"/>
                 </seg>
             </tuv>
 </tu>
@@ -345,7 +345,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-062-008-28"/>“Ānanda, after Ajātaśatru, son of Vaidehī and king of Magadha, murders his father who is a stream enterer,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-062-008-29"/> and has engaged in the virtuous acts praised by the buddhas to fervently respect, venerate, serve, worship, honor, and supplicate the eight portions of the relics<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-062-008-30"/> as a way of worshiping the relics of the Thus-Gone One, he will be reborn once in the hells, where those actions, those roots of virtue, and those past wholesome deeds will free him and prevent him from regressing to lower rebirth for the next twenty eons.</seg>
+                    <tei:milestone xml:id="UT22084-062-008-28"/>“Ānanda, after Ajātaśatru, son of Vaidehī and king of Magadha, murders his father who is a stream enterer,<tei:note xml:id="UT22084-062-008-29"/> and has engaged in the virtuous acts praised by the buddhas to fervently respect, venerate, serve, worship, honor, and supplicate the eight portions of the relics<tei:note xml:id="UT22084-062-008-30"/> as a way of worshiping the relics of the Thus-Gone One, he will be reborn once in the hells, where those actions, those roots of virtue, and those past wholesome deeds will free him and prevent him from regressing to lower rebirth for the next twenty eons.</seg>
             </tuv>
 </tu>
 <tu id="UT22084-062-008-TU-38">

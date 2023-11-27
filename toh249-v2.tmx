@@ -37,7 +37,7 @@
                 <seg>བཅོམ་ལྡན་འདས་སུམ་ཅུ་རྩ་གསུམ་ལྷའི་ནང་ན་ལྷའི་འདུན་ས་ཆོས་བཟང་ན་དགེ་སློང་ལྔ་བརྒྱ་ཐམ་པའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་། བྱམས་པ་དང་། འཇམ་དཔལ་ལ་སོགས་པ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རབ་ཏུ་མང་པོ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>The Blessed One was dwelling in the Sudharmā assembly hall in the Heaven of the Thirty-Three, together with a great gathering of five hundred monks,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-066-007-17"/> and very many bodhisattva mahāsattvas, including Maitreya and Mañjuśrī.</seg>
+                <seg>The Blessed One was dwelling in the Sudharmā assembly hall in the Heaven of the Thirty-Three, together with a great gathering of five hundred monks,<tei:note xml:id="UT22084-066-007-17"/> and very many bodhisattva mahāsattvas, including Maitreya and Mañjuśrī.</seg>
             </tuv>
         </tu>
         <tu>
@@ -106,7 +106,7 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-066-007-18"/>“The power of restraint is to make a pledge and thereby refrain from any similar action.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-066-007-20"/>
+                    <tei:milestone xml:id="UT22084-066-007-18"/>“The power of restraint is to make a pledge and thereby refrain from any similar action.<tei:note xml:id="UT22084-066-007-20"/>
                 </seg>
             </tuv>
         </tu>

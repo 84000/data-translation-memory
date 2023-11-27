@@ -419,7 +419,7 @@
                 <seg>རྒྱར་ཡང་དཔག་ཚད་ཙམ་ཡོད་པའི་མེ་འུད་སྒྲ་ཅན་གྱིས་སྒོ་བཞི་རབ་ཏུ་གང་བར་གྱུར་ཅིང་སྒོ་བཞི་ནས་དེའི་མེ་ལྕེ་བར་སྣང་ལ་དཔག་ཚད་བཞི་ཙམ་དུ་གྱེན་དུ་འབར་བར་གྱུར་པ་དེར་སྐྱེས་བུ་འགའ་ཞིག་རྩྭ་ཁུར་ཤིན་ཏུ་ཆེན་པོ་ཐོགས་ཏེ་འཇུག་པར་བྱེད་ལ་དེ་ཡང་ཞུགས་མ་ཐག་ཏུ་སྒོ་བཞི་པོ་དེ་དག་ནས་ཚུབ་མ་བཞི་མངོན་དུ་ལངས་ཏེ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Imagine that the crackling sound<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-44"/> of that fire filled the four directions, and its flames, roaring in the four directions, rose up about four leagues high into the air. Imagine then that a person carrying a big bundle of grass were to enter that fire.
+                <seg>Imagine that the crackling sound<tei:note xml:id="UT22084-063-001-44"/> of that fire filled the four directions, and its flames, roaring in the four directions, rose up about four leagues high into the air. Imagine then that a person carrying a big bundle of grass were to enter that fire.
 </seg>
             </tuv>
 </tu>
@@ -834,7 +834,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-063-001-68"/>Śāriputra, given what has already been mentioned here,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-69"/> the fact that the Thus-Gone One has taught the Dharma is much more astonishing than that. “
+                    <tei:milestone xml:id="UT22084-063-001-68"/>Śāriputra, given what has already been mentioned here,<tei:note xml:id="UT22084-063-001-69"/> the fact that the Thus-Gone One has taught the Dharma is much more astonishing than that. “
 </seg>
             </tuv>
 </tu>
@@ -1130,7 +1130,7 @@
                 <seg>ཏིང་ངེ་འཛིན་མེད་པ་དང་། སྙོམས་པར་འཇུག་པ་མེད་པ་དང་། ཏིང་ངེ་འཛིན་<tei:ref folio="F.7.b"/>གྱི་དབང་པོ་མེད་པ་དང་། བསམ་གཏན་མེད་པ་དང་། བསམ་གཏན་གྱི་འབྲས་བུ་མེད་པ་དང་། ཤེས་པ་མེད་པ་དང་། མཐོང་བ་མེད་པ་དང་། གཟུང་བ་མེད་པ་དང་། གཟུང་བ་མ་ཡིན་པ་མེད་པ་དང་། ལམ་མེད་པ་དང་། ལམ་གྱི་འབྲས་བུ་མེད་པ་དང་། ཤེས་རབ་མེད་པ་དང་། ཤེས་རབ་ཀྱི་དབང་པོ་མེད་པ་དང་། རིག་པ་མེད་པ་དང་། མ་རིག་པ་མེད་པ་དང་། གྲོལ་བ་མེད་པ་དང་། མ་གྲོལ་བ་མེད་པ་དང་། རྣམ་པར་གྲོལ་བ་མེད་པ་དང་། འབྲས་བུ་མེད་པ་དང་། འབྲས་བུ་ཐོབ་པ་མེད་པ་དང་། མཐུ་མེད་པ་དང་། མཐུ་ཆུང་བ་མེད་པ་དང་། བག་ཚ་བ་མེད་པ་དང་། འཇིག་པ་མ་ཡིན་པ་མེད་པ་དང་། དྲན་པ་མེད་པ་དང་། དྲན་པའི་དབང་པོ་མེད་པ་དང་། གནས་མེད་པ་དང་། འདུག་པ་མེད་པ་དང་། ཕྲག་དོག་མེད་པ་དང་། ཕྲག་དོག་གི་ལམ་མེད་པ་དང་། རྟོག་པ་མེད་པ་དང་། མི་རྟོག་པ་མེད་པ་དང་། རྣམ་པར་རྟོག་པ་མེད་པ་དང་། བྱང་ཆུབ་མེད་པ་དང་། བྱང་ཆུབ་ཀྱི་ཡན་ལག་མེད་པ་དང་། ཤེས་པ་མེད་པ་དང་། མི་ཤེས་པ་མེད་པ་དང་། ས་མེད་པ་དང་། ཆུ་མེད་པ་དང་། མེ་མེད་པ་དང་། རླུང་མེད་པ་དང་། ནམ་མཁའ་མེད་པ་དང་། ལེགས་པར་བྱས་པ་མེད་པ་དང་། ཉེས་པར་བྱས་པ་མེད་པ་དང་། ཆོས་མེད་པ་དང་། ཆོས་མ་ཡིན་པ་མེད་པ་དང་། བདེ་བ་མེད་པ་དང་། སྡུག་བསྔལ་མེད་པ་དང་། སྤྲོས་པ་ཐམས་ཅད་བཅད་པ་དང་། སྤྲོས་པ་ཐམས་ཅད་ཀུན་ཏུ་བཅོམ་པ་བྲལ་བ། བསིལ་བར་གྱུར་པ། དུད་པ་མེད་པ། གཞག་པ་མེད་པ་དང་།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Śāriputra, it is because the Dharma is without going and coming, without something to be apprehended, and without something to be thoroughly apprehended; without something to cling to and without something external; without conventional terms and without designations; it is without joy, without something to be enjoyed, and has overcome joy; it is without gathering together and free of gathering together; it is without going, without coming and going, and puts an end to all movement; it ends all conventions; it is without seeing, without observation, without apprehending, without adulteration, without convention, without truth, without falsity, without permanence, without impermanence, without the sky, without light, and without atmosphere; it is without inclusion, without exclusion, and without belief; it is without something to be taught and without something to be definitively taught; it is without multiplicity and without the lack of multiplicity; it is without movement, without conceits, without designation, without investigation, without composure, without afflictions, and not subject purification; it is without names, without distinguishing marks, without actions related to distinguishing marks, and without an object of thought; it is without the female gender and without the male gender; it is without gods, without nāgas, without yakṣas, without gandharvas, and without kumbhāṇḍas; it is without nothingness, without eternality, without being, without a life force, without a soul, and without a person; it is without a descendant of Manu and without a child of Manu; it is without permanence, without transmigration, and without the lack of transmigration; it is not harmful;<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-77"/> it is without discipline and without contravened discipline; it is without affliction, without purification, without absorption, without attainment, without the faculty of absorption, without concentration, and without the result of concentration; it is without knowing, without seeing, without apprehended object, and without the lack of apprehended object; it is without a path and without the fruition of a path; it is without insight and without the faculty of insight; it is without knowledge and without ignorance; it is without liberation, without the lack of liberation, and without complete liberation; it is without fruition and without the attainment of fruition; it is without power, without weakness, without anxiety, and without fearlessness;<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-78"/> it is without recollection and without the faculty of recollection; it is without abiding and without dwelling; it is without envy, without the path of envy, without conceptualization, without nonconceptualization, and without discursiveness; it is without awakening and without the factors of awakening; it is without understanding and without not understanding; it is without earth, without water, without fire, without wind, and without space; it is without wholesome actions and without unwholesome actions; it is without phenomena and without the absence of phenomena; it is without happiness and without suffering; it destroys all elaborations and is free of destroying all elaborations; it is cooling, is without humility, and is without composure.
+                <seg>Śāriputra, it is because the Dharma is without going and coming, without something to be apprehended, and without something to be thoroughly apprehended; without something to cling to and without something external; without conventional terms and without designations; it is without joy, without something to be enjoyed, and has overcome joy; it is without gathering together and free of gathering together; it is without going, without coming and going, and puts an end to all movement; it ends all conventions; it is without seeing, without observation, without apprehending, without adulteration, without convention, without truth, without falsity, without permanence, without impermanence, without the sky, without light, and without atmosphere; it is without inclusion, without exclusion, and without belief; it is without something to be taught and without something to be definitively taught; it is without multiplicity and without the lack of multiplicity; it is without movement, without conceits, without designation, without investigation, without composure, without afflictions, and not subject purification; it is without names, without distinguishing marks, without actions related to distinguishing marks, and without an object of thought; it is without the female gender and without the male gender; it is without gods, without nāgas, without yakṣas, without gandharvas, and without kumbhāṇḍas; it is without nothingness, without eternality, without being, without a life force, without a soul, and without a person; it is without a descendant of Manu and without a child of Manu; it is without permanence, without transmigration, and without the lack of transmigration; it is not harmful;<tei:note xml:id="UT22084-063-001-77"/> it is without discipline and without contravened discipline; it is without affliction, without purification, without absorption, without attainment, without the faculty of absorption, without concentration, and without the result of concentration; it is without knowing, without seeing, without apprehended object, and without the lack of apprehended object; it is without a path and without the fruition of a path; it is without insight and without the faculty of insight; it is without knowledge and without ignorance; it is without liberation, without the lack of liberation, and without complete liberation; it is without fruition and without the attainment of fruition; it is without power, without weakness, without anxiety, and without fearlessness;<tei:note xml:id="UT22084-063-001-78"/> it is without recollection and without the faculty of recollection; it is without abiding and without dwelling; it is without envy, without the path of envy, without conceptualization, without nonconceptualization, and without discursiveness; it is without awakening and without the factors of awakening; it is without understanding and without not understanding; it is without earth, without water, without fire, without wind, and without space; it is without wholesome actions and without unwholesome actions; it is without phenomena and without the absence of phenomena; it is without happiness and without suffering; it destroys all elaborations and is free of destroying all elaborations; it is cooling, is without humility, and is without composure.
 </seg>
             </tuv>
 </tu>
@@ -1161,7 +1161,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-063-001-79"/>Śāriputra, the perfect awakening that the Thus-Gone One has attained also lacks the qualities of permanence, impermanence, happiness, suffering, affliction, purification, nihilism, eternalism, a being, a life force, a soul, a primordial man, a person,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-80"/> a descendant of Manu, a child of Manu, a celestial fixed pole,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-680"/> and a gandharva;<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-681"/> it is without entity, without the lack of entity, without cessation, without the lack of cessation, without attainment, and without the lack of attainment; it is without transmigration, oppression, birth, and arising; it is without past, future, present, birth, old age, sickness, death, sorrow, wailing, pain, unhappiness, and disturbance; it is without perfect awakening and the lack of perfect awakening; it has no extent into the past, into the future, or in-between; it is without peace, discipline, decrease, increase, engagement, imputation, nonimputation, and both imputation and nonimputation; and it is without space, opportunity, distress, freedom from desire, cessation, and nirvāṇa. “
+                    <tei:milestone xml:id="UT22084-063-001-79"/>Śāriputra, the perfect awakening that the Thus-Gone One has attained also lacks the qualities of permanence, impermanence, happiness, suffering, affliction, purification, nihilism, eternalism, a being, a life force, a soul, a primordial man, a person,<tei:note xml:id="UT22084-063-001-80"/> a descendant of Manu, a child of Manu, a celestial fixed pole,<tei:note xml:id="UT22084-063-001-680"/> and a gandharva;<tei:note xml:id="UT22084-063-001-681"/> it is without entity, without the lack of entity, without cessation, without the lack of cessation, without attainment, and without the lack of attainment; it is without transmigration, oppression, birth, and arising; it is without past, future, present, birth, old age, sickness, death, sorrow, wailing, pain, unhappiness, and disturbance; it is without perfect awakening and the lack of perfect awakening; it has no extent into the past, into the future, or in-between; it is without peace, discipline, decrease, increase, engagement, imputation, nonimputation, and both imputation and nonimputation; and it is without space, opportunity, distress, freedom from desire, cessation, and nirvāṇa. “
 </seg>
             </tuv>
 </tu>
@@ -3175,7 +3175,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-063-001-126"/>Śāriputra, the worst of phenomena, which deceives and causes circling in saṃsāra, the Thus-Gone One has said to be merely conventional pure conduct.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-127"/>
+                    <tei:milestone xml:id="UT22084-063-001-126"/>Śāriputra, the worst of phenomena, which deceives and causes circling in saṃsāra, the Thus-Gone One has said to be merely conventional pure conduct.<tei:note xml:id="UT22084-063-001-127"/>
 </seg>
             </tuv>
 </tu>
@@ -3235,7 +3235,7 @@
                 <seg>ཤཱ་རིའི་བུ་འཕགས་པའི་ཆོས་འདུལ་བ་འདི་ལ་ནམ་མཁའ་དང་། ལག་མཐིལ་ཇི་ལྟ་བ་བཞིན་དུ་ལྟ་བར་གྱུར་པ་ཐམས་ཅད་ཀུན་ཏུ་སྤངས་པ་དང་། ཐ་སྙད་ཐམས་ཅད་ཀུན་ཏུ་ཆད་པ་ཡིན་ཏེ་དེ་ལྟ་བུ་ནི་དགེ་སྦྱོང་གི་ཆོས་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Śāriputra, in this Dharma-Vinaya of the noble ones, like space and the palm of the hand,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-1127"/> all views there may be are dismissed, and all conventions are annihilated, for such is the Dharma of the mendicants.”
+                <seg>Śāriputra, in this Dharma-Vinaya of the noble ones, like space and the palm of the hand,<tei:note xml:id="UT22084-063-001-1127"/> all views there may be are dismissed, and all conventions are annihilated, for such is the Dharma of the mendicants.”
 </seg>
             </tuv>
 </tu>
@@ -3440,7 +3440,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-063-001-133"/>There is nothing with the four<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-1132"/> properties of being permanent, stable, eternal, and unchanging to be apprehended.
+                    <tei:milestone xml:id="UT22084-063-001-133"/>There is nothing with the four<tei:note xml:id="UT22084-063-001-1132"/> properties of being permanent, stable, eternal, and unchanging to be apprehended.
 </seg>
             </tuv>
 </tu>
@@ -3450,7 +3450,7 @@
                 <seg>ཆོས་ཤེས་བྱ་བའི་ཐ་སྙད་ཡང་<tei:ref folio="F.16.a"/>དག་པར་བཏགས་པའི་ཐ་སྙད་གང་ཡིན་པ་དེ་ཡང་འཕགས་པ་རྣམས་ཀྱིས་སྨད་པ་ཡིན་ནོ། །འདི་ནི་སྐྱེས་པའོ། །འདི་ནི་བུད་མེད་དོ། །འདི་ནི་མ་ནིང་ངོ་། །འདི་ནི་ལྷའོ། །འདི་ནི་ཀླུའོ། །འདི་ནི་གནོད་སྦྱིན་ནོ། །འདི་ནི་དྲི་ཟའོ། །འདི་ནི་གྲུལ་བུམ་མོ། །འདི་ནི་ཆོས་སོ། །འདི་ནི་ཆོས་མ་ཡིན་པའོ་ཞེས་བྱ་བ་དེ་ལྟ་བུའི་ཆོས།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Indeed, the noble ones even deny that the term phenomena<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-1133"/> is a correctly designated convention.
+                <seg>Indeed, the noble ones even deny that the term phenomena<tei:note xml:id="UT22084-063-001-1133"/> is a correctly designated convention.
 </seg>
             </tuv>
 </tu>
@@ -3605,7 +3605,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-063-001-139"/>Śāriputra, those who cling to various false terms<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-140"/> cannot be regarded as part of the noble Saṅgha.
+                    <tei:milestone xml:id="UT22084-063-001-139"/>Śāriputra, those who cling to various false terms<tei:note xml:id="UT22084-063-001-140"/> cannot be regarded as part of the noble Saṅgha.
 </seg>
             </tuv>
 </tu>
@@ -4236,7 +4236,7 @@
                 <seg>དཔེ་ཆད་པ། མི་སྨྲ་བའི་རང་བཞིན་བོར་བ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>They will run out of analogies<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-152"/> and reject the virtues of keeping silent.
+                <seg>They will run out of analogies<tei:note xml:id="UT22084-063-001-152"/> and reject the virtues of keeping silent.
 </seg>
             </tuv>
 </tu>
@@ -5058,7 +5058,7 @@
                 <seg>།ཤཱ་རིའི་བུ་དེ་བཞིན་གཤེགས་པས་སངས་རྒྱས་རྗེས་སུ་དྲན་པའི་ཆོས་བསྟན་པ་ལ་ཡང་སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཀྱིས་ཀྱང་རྗེས་སུ་དྲན་པར་མི་སྤྱོད་དོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Śāriputra, in the Dharma teaching on recollecting the buddhas, one does not practice recollecting the blessed buddhas.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-165"/>
+                <seg>Śāriputra, in the Dharma teaching on recollecting the buddhas, one does not practice recollecting the blessed buddhas.<tei:note xml:id="UT22084-063-001-165"/>
 </seg>
             </tuv>
 </tu>
@@ -5729,7 +5729,7 @@
                 <seg>།དགེ་སྦྱོང་གི་སྙིགས་མ་ཞེས་བྱའོ། །དགེ་སྦྱོང་གི་དྲི་མ་ཞེས་བྱའོ། །དགེ་སྦྱོང་གདོལ་པ་ཞེས་བྱའོ། །དགེ་སྦྱོང་ཉམས་པ་ཞེས་བྱའོ། །དགེ་སྦྱོང་སྡིག་ཅན་ཞེས་བྱའོ། །དགེ་སྦྱོང་སྲེད་ཞེས་བྱའོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Śāriputra, such monks are called despicable mendicants, poor mendicants, mediocre mendicants, false mendicants, rotten mendicants, spoiled mendicants, degenerate mendicants, stained mendicants, vile mendicants, defiled mendicants, evil mendicants, worthless mendicants, outsiders of the noble path, stork mendicants,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-178"/> and corrupted mendicants.
+                <seg>Śāriputra, such monks are called despicable mendicants, poor mendicants, mediocre mendicants, false mendicants, rotten mendicants, spoiled mendicants, degenerate mendicants, stained mendicants, vile mendicants, defiled mendicants, evil mendicants, worthless mendicants, outsiders of the noble path, stork mendicants,<tei:note xml:id="UT22084-063-001-178"/> and corrupted mendicants.
 </seg>
             </tuv>
 </tu>
@@ -6044,7 +6044,7 @@
                 <seg>།ཆོས་གོས་མི་གཙང་བའི་དགོན་པ་དང་ལྡན་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>They wear robes soiled from living in the wilderness.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-184"/>
+                <seg>They wear robes soiled from living in the wilderness.<tei:note xml:id="UT22084-063-001-184"/>
 </seg>
             </tuv>
 </tu>
@@ -7111,7 +7111,7 @@
                 <seg>དེ་དག་སྐྲག་ནས་གནས་གཏོང་བའམ་ཡུལ་གཏོང་བར་བྱེད་ཀྱི། ཆོས་དང་འཐུན་པས་གདམས་ངག་དབོག་པའམ་རྗེས་སུ་བསྟན་པར་མི་ནུས་སོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>They will be forced to abandon places or regions out of fear, and they will be unable to give instructions or teach in accordance with the Dharma.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-202"/>
+                <seg>They will be forced to abandon places or regions out of fear, and they will be unable to give instructions or teach in accordance with the Dharma.<tei:note xml:id="UT22084-063-001-202"/>
 </seg>
             </tuv>
 </tu>
@@ -7705,7 +7705,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-063-001-219"/>Over incalculable eons, I<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-220"/> have defeated great armies and ruled these ancestral lands as Dharma kingdoms to ensure that my heirs live happily and comfortably.
+                    <tei:milestone xml:id="UT22084-063-001-219"/>Over incalculable eons, I<tei:note xml:id="UT22084-063-001-220"/> have defeated great armies and ruled these ancestral lands as Dharma kingdoms to ensure that my heirs live happily and comfortably.
 </seg>
             </tuv>
 </tu>
@@ -7715,7 +7715,7 @@
                 <seg>ཤཱ་རིའི་བུ་འདི་ལྟར་གསལ་ཞིང་རྒྱ་ཆེ་བའི་ཆོས་འདུལ་བ་འདི་ལ་ཆོམ་རྐུན་པ་ཆེན་པོའི་དགེ་འདུན་དེ་དག་གིས་གཡག་ཆེན་པོ་ལྟ་བུའི་དགེ་འདུན་ཕྱེ་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Śāriputra, those saṅgha members who are great robbers of this lucid and vast Dharma-Vinaya will split the saṅgha like a yak-tail chowrie scatters flies.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-221"/> “
+                <seg>Śāriputra, those saṅgha members who are great robbers of this lucid and vast Dharma-Vinaya will split the saṅgha like a yak-tail chowrie scatters flies.<tei:note xml:id="UT22084-063-001-221"/> “
 </seg>
             </tuv>
 </tu>
@@ -7736,7 +7736,7 @@
                 <seg>ཆོས་དང་མི་འཐུན་པས་མ་ཡིན་པའི་གནས་འདི་ལ་ལྷ་དང་བཅས་པའི་འཇིག་རྟེན་མངོན་སུམ་དང་དབང་དུ་གྱུར་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>The world with its gods directly observed and witnessed<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-223"/> the fact that this event was not in disagreement with the Dharma.
+                <seg>The world with its gods directly observed and witnessed<tei:note xml:id="UT22084-063-001-223"/> the fact that this event was not in disagreement with the Dharma.
 </seg>
             </tuv>
 </tu>
@@ -8013,7 +8013,7 @@
                 <seg>།མཚམས་མེད་པ་དང་ལྡན་པ་ཞེས་བྱའོ། །སྡིག་པའི་གྲོགས་པོ་ཞེས་བྱའོ། །ཚུལ་ཁྲིམས་<tei:ref folio="F.34.b"/>འཆལ་པ་ཞེས་བྱའོ། །ལོག་པར་ལྟ་བ་ཞེས་བྱའོ། །མུ་སྟེགས་པ་ཞེས་བྱའོ། །བར་ཆད་བྱེད་པ་ཞེས་བྱའོ། །སྡིག་པ་དང་འགྲོགས་པ་ཞེས་བྱའོ། །མདངས་འཇོམས་པར་བྱེད་པ་ཞེས་བྱའོ། །རྨ་དང་བཅས་པ་ཞེས་བྱའོ། །ཟུག་རྔུ་དང་བཅས་པ་ཞེས་བྱའོ། །སྙིགས་མ་དང་བཅས་པ་ཞེས་བྱའོ། །ཆོག་མི་ཤེས་པ་ཞེས་བྱའོ། །ཡོངས་སུ་གདུང་བ་དང་བཅས་པ་ཞེས་བྱའོ། །སྒྱུ་མ་ཞེས་བྱའོ། །རབ་རིབ་དང་མུན་པར་ལྷུང་བ་ཞེས་བྱའོ། །ཚང་ཚིང་དུ་རྒྱུ་བ་ཞེས་བྱའོ། །རྒྱུན་གྱི་རྗེས་སུ་སྤྱོད་པ་ཞེས་བྱའོ། །རྗེས་སུ་ཆགས་པ་ལ་སྤྱོད་པ་ཞེས་བྱའོ། །གཞན་སྦེད་པ་ཞེས་བྱའོ། །སེམས་ཅན་དམྱལ་བ་པ་ཞེས་བྱའོ། །དུད་འགྲོའི་སྐྱེ་གནས་པ་ཞེས་བྱའོ། །གཤིན་རྗེའི་འཇིག་རྟེན་པ་ཞེས་བྱའོ། །ལྷ་མ་ཡིན་གྱི་རིས་པ་ཞེས་བྱའོ། །རིགས་པ་མེད་པ་ཞེས་བྱའོ། །གྲོལ་བ་མེད་པ་ཞེས་བྱའོ། །ངན་གཡོ་ཅན་ཞེས་བྱའོ། །ཚུལ་འཆོས་པ་ཞེས་བྱའོ། །ཐོབ་ཀྱིས་འཇལ་བ་ཞེས་བྱའོ། །གཞོགས་སློང་པ་ཞེས་བྱའོ། །རྙེད་པ་དང་བཀུར་སྟི་ལྷུར་ལེན་པ་ཞེས་བྱའོ། །ལྷག་པར་ཞེན་པ་ཞེས་བྱའོ། །ཁྱིམ་སུན་འབྱིན་པ་ཞེས་བྱའོ། །ཕོ་ཉས་ཉོན་མོངས་པ་ཞེས་བྱའོ། །ཕོ་ཉ་མངག་གཞུག་པ་ཞེས་བྱའོ། །རྒོད་པ་ཞེས་བྱའོ། །ཁེངས་པ་ཞེས་བྱའོ། །མི་བརྟན་པ་ཞེས་བྱའོ། །རྩམ་པ་མེད་པ་ཞེས་བྱའོ། །ཚིག་ཟློས་བུ་ཅན་ཞེས་བྱའོ། །ལེ་ལོ་ཅན་ཞེས་བྱའོ། །བརྩོན་འགྲུས་ཞན་པ་ཞེས་བྱའོ། །སེམས་མཉམ་པར་མ་བཞག་པ་ཞེས་བྱའོ། །སེམས་འཁྲུགས་པ་ཞེས་བྱའོ། །དྲན་པ་ཉམས་པ་ཞེས་བྱའོ། །ཕལ་པའི་དབང་པོ་ཅན་ཞེས་བྱའོ། །ཤེས་རབ་འཆལ་པ་ཞེས་བྱའོ། །ལུག་ལྟར་ལྐུགས་པ་ཞེས་བྱའོ། །ངན་པར་བསྒྲགས་པ་ཞེས་བྱའོ། །ཉེས་པར་རྟོགས་པ་ཞེས་བྱའོ། །དགེ་སྦྱོང་གི་དྲི་མ་ཞེས་བྱའོ། །འདོད་ཆགས་ཀྱིས་བཅོམ་པ་ཞེས་བྱའོ། །ཞེ་སྡང་གིས་བཅོམ་པ་ཞེས་བྱའོ། །གཏི་མུག་གིས་བཅོམ་པ་ཞེས་བྱའོ། །ང་རྒྱལ་གྱིས་བཅོམ་པ་ཞེས་བྱའོ། །ཆོམ་རྐུན་པ་ཞེས་བྱའོ། །གཡོན་ཅན་ཞེས་བྱའོ། །བུ་ངན་པ་ཞེས་བྱའོ། །སླུ་བ་པ་ཞེས་བྱའོ། །རྩོད་པ་ལ་དགའ་བ་ཞེས་བྱའོ། །རྩོད་པས་སྦགས་པ་ཞེས་བྱའོ། །རྩོད་པ་ལེན་པ་ཞེས་བྱའོ། །རྩོད་པ་ལ་གནས་<tei:ref folio="F.35.a"/>པ་ཞེས་བྱའོ། །ཡོངས་སུ་མ་གྲོལ་བ་ཞེས་བྱའོ། །ཡོངས་སུ་མ་དག་པ་ཞེས་བྱའོ། །མྱ་ངན་གྱིས་བཅོམ་པ་ཞེས་བྱའོ། །མྱ་ངན་གྱིས་དཀྲུགས་པ་ཞེས་བྱའོ། །དགེ་སྦྱོང་ཙམ་ཞེས་བྱའོ། །དགེ་སྦྱོང་གིས་མདུད་པ་ཞེས་བྱའོ། །དགེ་སྦྱོང་གཏུམ་པོ་ཞེས་བྱའོ། །དགེ་སྦྱོང་རུལ་པ་ཞེས་བྱའོ། །དགེ་སྦྱོང་སྦུན་པ་ཞེས་བྱའོ། །དགེ་སྦྱོང་ཀླན་ཀ་ཚོལ་བ་ཞེས་བྱའོ། །དགང་དཀའ་བ་ཞེས་བྱའོ། །གསོ་དཀའ་བ་ཞེས་བྱའོ། །བློ་གྲོས་འཆལ་པ་ཞེས་བྱའོ། །ཉེས་པར་གནས་པ་ཞེས་བྱའོ། །འཕགས་པ་མ་ཡིན་པ་ཞེས་བྱའོ། །འཛེམ་པ་མེད་པ་ཞེས་བྱའོ། །ངོ་ཚ་མེད་པ་ཞེས་བྱའོ། །མགོ་བཅད་པ་ཞེས་བྱའོ། །རྣམ་པར་བརྟགས་པ་ཞེས་བྱའོ། །བསགས་པ་དང་ཀུན་ནས་བསགས་པ་ཞེས་བྱའོ། །འབྲས་གདུག་པ་ཅན་ཞེས་བྱའོ། །ཁོང་འབྲས་ཅན་ཞེས་བྱའོ། །ཞེན་པ་དང་ཉེས་པ་དང་རྨོངས་པ་ཞེས་བྱའོ། །བརྐམ་ཆགས་དང་ཞེན་པ་ཞེས་བྱའོ། །ཀུན་ནས་བཅིངས་པ་ཞེས་བྱའོ། །ངན་པས་གོས་ཤིང་རྨོངས་པས་གཏུགས་པ་ཞེས་བྱའོ། །སྟོང་པ་ཅན་དང་།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>They remember the words of these discourses and teach them to others, but since they have sunk into the mire of the view of a person, Śāriputra, such unholy people are known as ‘unfortunate ones,’ ‘divisive ones,’ ‘those who create schisms in the saṅgha,’ ‘those who lead beings astray,’ ‘those who corrupt mendicants,’ ‘worthless-husk mendicants,’ ‘corpses,’ ‘those who frown,’ ‘slanderers,’ ‘those with the mere status of mendicants,’ ‘degenerated mendicants,’ ‘miserly mendicants,’ ‘lowly mendicants,’ ‘load bearers,’ ‘killers of thus-gone ones,’ ‘those who commit the acts entailing immediate retribution,’ ‘evil friends,’ ‘those whose discipline is violated,’ ‘those who hold wrong views,’ ‘non-Buddhists,’ ‘obstacle creators,’ ‘those who involve themselves with evil actions,’ ‘those who destroy vitality,’ ‘wounded ones,’ ‘those who experience pain,’ ‘degenerated ones,’ ‘unsatisfied ones,’ ‘tormented ones,’ ‘deceptive ones,’ ‘those with clouded vision who are engulfed in darkness,’ ‘those who wander in the wilderness,’ ‘those who follow the current,’ ‘those who involve themselves with attachment,’ ‘those who hide among others,’ ‘hell beings,’ ‘animals,’ ‘inhabitants of the world of the Lord of Death,’ ‘asuras,’ ‘improper ones,’ ‘those who lack liberation,’ ‘impostors,’ ‘hypocrites,’ ‘extortionists,’ ‘hustlers,’ ‘those intent on profit and respect,’ ‘those with excessive clinging,’ ‘those who offend householders,’ ‘those who are afflicted by messengers,’ ‘those who send messengers,’ ‘agitated ones,’ ‘arrogant ones,’ ‘unstable ones,’ ‘ruthless<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-231"/> ones,’ ‘those who repeat themselves constantly,’ ‘lazy ones,’ ‘those with weak diligence,’ ‘mentally unbalanced ones,’ ‘mentally disturbed ones,’ ‘those whose memory is impaired,’ ‘those with lowly faculties,’ ‘those whose insight is corrupt,’ ‘those who are dull like sheep,’ ‘infamous ones,’ ‘those with faulty understanding,’ ‘stained mendicants,’ ‘those who are overcome by desire,’ ‘those who are overcome by anger,’ ‘those who are overcome by delusion,’ ‘those who are overcome by pride,’ ‘thieves,’ ‘rogues,’ ‘evil children,’ ‘deceivers,’ ‘those who like to quarrel,’ ‘those who are obsessed with arguing,’ ‘those who take up conflict,’ ‘those who perpetuate conflicts,’ ‘those who are not liberated,’ ‘impure ones,’ ‘those who are overcome by sorrow,’ ‘those who are disturbed by sorrow,’ ‘mere mendicants,’ ‘those who are bound by mendicants,’ ‘vicious mendicants,’ ‘rotten mendicants,’ ‘superficial mendicants,’ ‘mendicants who look for faults,’ ‘those who are difficult to satiate,’ ‘those who are difficult to sustain,’ ‘those with corrupted intellect,’ ‘those dwelling on faults,’ ‘ignoble ones,’ ‘immodest ones,’ ‘those who lack humility,’ ‘beheaders,’ ‘those who conjecture,’ ‘those who accumulate and amass,’ ‘those whose fruit is poisonous,’ ‘abscesses,’ ‘those who cling,’ ‘faulty ones,’ ‘confused ones,’ ‘those who are greedy,’ ‘those who crave,’ ‘those who are utterly imprisoned,’ ‘those who are covered by negativity and consumed by delusion,’ ‘those who are empty, exhausted, and corrupted,’ and ‘empty, exhausted, and corrupted.’ “
+                <seg>They remember the words of these discourses and teach them to others, but since they have sunk into the mire of the view of a person, Śāriputra, such unholy people are known as ‘unfortunate ones,’ ‘divisive ones,’ ‘those who create schisms in the saṅgha,’ ‘those who lead beings astray,’ ‘those who corrupt mendicants,’ ‘worthless-husk mendicants,’ ‘corpses,’ ‘those who frown,’ ‘slanderers,’ ‘those with the mere status of mendicants,’ ‘degenerated mendicants,’ ‘miserly mendicants,’ ‘lowly mendicants,’ ‘load bearers,’ ‘killers of thus-gone ones,’ ‘those who commit the acts entailing immediate retribution,’ ‘evil friends,’ ‘those whose discipline is violated,’ ‘those who hold wrong views,’ ‘non-Buddhists,’ ‘obstacle creators,’ ‘those who involve themselves with evil actions,’ ‘those who destroy vitality,’ ‘wounded ones,’ ‘those who experience pain,’ ‘degenerated ones,’ ‘unsatisfied ones,’ ‘tormented ones,’ ‘deceptive ones,’ ‘those with clouded vision who are engulfed in darkness,’ ‘those who wander in the wilderness,’ ‘those who follow the current,’ ‘those who involve themselves with attachment,’ ‘those who hide among others,’ ‘hell beings,’ ‘animals,’ ‘inhabitants of the world of the Lord of Death,’ ‘asuras,’ ‘improper ones,’ ‘those who lack liberation,’ ‘impostors,’ ‘hypocrites,’ ‘extortionists,’ ‘hustlers,’ ‘those intent on profit and respect,’ ‘those with excessive clinging,’ ‘those who offend householders,’ ‘those who are afflicted by messengers,’ ‘those who send messengers,’ ‘agitated ones,’ ‘arrogant ones,’ ‘unstable ones,’ ‘ruthless<tei:note xml:id="UT22084-063-001-231"/> ones,’ ‘those who repeat themselves constantly,’ ‘lazy ones,’ ‘those with weak diligence,’ ‘mentally unbalanced ones,’ ‘mentally disturbed ones,’ ‘those whose memory is impaired,’ ‘those with lowly faculties,’ ‘those whose insight is corrupt,’ ‘those who are dull like sheep,’ ‘infamous ones,’ ‘those with faulty understanding,’ ‘stained mendicants,’ ‘those who are overcome by desire,’ ‘those who are overcome by anger,’ ‘those who are overcome by delusion,’ ‘those who are overcome by pride,’ ‘thieves,’ ‘rogues,’ ‘evil children,’ ‘deceivers,’ ‘those who like to quarrel,’ ‘those who are obsessed with arguing,’ ‘those who take up conflict,’ ‘those who perpetuate conflicts,’ ‘those who are not liberated,’ ‘impure ones,’ ‘those who are overcome by sorrow,’ ‘those who are disturbed by sorrow,’ ‘mere mendicants,’ ‘those who are bound by mendicants,’ ‘vicious mendicants,’ ‘rotten mendicants,’ ‘superficial mendicants,’ ‘mendicants who look for faults,’ ‘those who are difficult to satiate,’ ‘those who are difficult to sustain,’ ‘those with corrupted intellect,’ ‘those dwelling on faults,’ ‘ignoble ones,’ ‘immodest ones,’ ‘those who lack humility,’ ‘beheaders,’ ‘those who conjecture,’ ‘those who accumulate and amass,’ ‘those whose fruit is poisonous,’ ‘abscesses,’ ‘those who cling,’ ‘faulty ones,’ ‘confused ones,’ ‘those who are greedy,’ ‘those who crave,’ ‘those who are utterly imprisoned,’ ‘those who are covered by negativity and consumed by delusion,’ ‘those who are empty, exhausted, and corrupted,’ and ‘empty, exhausted, and corrupted.’ “
 </seg>
             </tuv>
 </tu>
@@ -8115,7 +8115,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-063-001-233"/>Those who cling to worldly possessions and parade as mendicants<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-234"/> are merely taking on the appearance of mendicants although they are not.
+                    <tei:milestone xml:id="UT22084-063-001-233"/>Those who cling to worldly possessions and parade as mendicants<tei:note xml:id="UT22084-063-001-234"/> are merely taking on the appearance of mendicants although they are not.
 </seg>
             </tuv>
 </tu>
@@ -8220,7 +8220,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-063-001-239"/>Śāriputra, what do you think would be more surprising: a householder who engages in sexual misconduct to commit<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-240"/> sexual misconduct, or to not commit sexual misconduct?
+                    <tei:milestone xml:id="UT22084-063-001-239"/>Śāriputra, what do you think would be more surprising: a householder who engages in sexual misconduct to commit<tei:note xml:id="UT22084-063-001-240"/> sexual misconduct, or to not commit sexual misconduct?
 </seg>
             </tuv>
 </tu>
@@ -8717,7 +8717,7 @@
                 <seg>ཉེས་པར་རྟོགས་པ། གདོལ་པ་ལྟ་བུ། ངང་ཚུལ་ཞིག་པ། ཞི་བ་དོན་མེད་པར་སྤྱོད་པ། དུར་ཁྲོད་དང་མཚུངས་པ་ཆོ་ག་ཡོངས་སུ་ཉམས་པ་དེ་ནི་ངའི་བསྟན་པ་འདི་ལ་ལམ་སུན་འབྱིན་པ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Those who follow vile paths and fall into the hell realms, who stray from the path, who have rejected the path, whose splendor and complexion worsen, who should not be emulated, whose limbs of virtue are corrupted, who are lax, who have lost their way, who have taken the wrong way, who proclaim the faults of others, whose understanding is faulty, who are like outcasts, whose characters are rotten, who act uselessly passive,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-249"/> and whose behavior is as defiled as a charnel ground will corrupt the path in my teachings.
+                <seg>Those who follow vile paths and fall into the hell realms, who stray from the path, who have rejected the path, whose splendor and complexion worsen, who should not be emulated, whose limbs of virtue are corrupted, who are lax, who have lost their way, who have taken the wrong way, who proclaim the faults of others, whose understanding is faulty, who are like outcasts, whose characters are rotten, who act uselessly passive,<tei:note xml:id="UT22084-063-001-249"/> and whose behavior is as defiled as a charnel ground will corrupt the path in my teachings.
 </seg>
             </tuv>
 </tu>
@@ -8950,7 +8950,7 @@
                 <seg>།ཤཱ་རིའི་བུ་དེ་ལ་སྐྱེས་བུ་དམ་པ་མ་ཡིན་པ་ལ་རྗེས་སུ་མ་གནང་བ་དེ་ལྟ་བུ་གང་ཅི་ཡང་རུང་མཆིལ་མ་དོར་བ་ཙམ་དེ་ཐམས་ཅད་ཀྱང་དད་པས་བྱིན་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>According to such prohibitions against unholy beings, Śāriputra, one should not even spit upon them; yet they are all still given offerings out of faith.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-253"/>
+                <seg>According to such prohibitions against unholy beings, Śāriputra, one should not even spit upon them; yet they are all still given offerings out of faith.<tei:note xml:id="UT22084-063-001-253"/>
 </seg>
             </tuv>
 </tu>
@@ -10169,7 +10169,7 @@
                 <seg>།མདོ་སྡེ་ལ་ཅུང་ཟད་ཅི་ཡང་རུང་བར་དཀྱོགས་ནས་འཕགས་པའི་ཕྱོགས་ཀྱི་ཆོས་སྟོན་ཏོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>They will read<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-275"/> a little bit of something they agree with in a discourse and then teach it as the position of the noble ones.
+                <seg>They will read<tei:note xml:id="UT22084-063-001-275"/> a little bit of something they agree with in a discourse and then teach it as the position of the noble ones.
 </seg>
             </tuv>
 </tu>
@@ -10353,7 +10353,7 @@
                 <seg>བཀྲེས་པ་དང་། སྐོམ་པས་དེ་དག་གིས་གྲོང་རྡལ་དེ་ཉིད་དུ་བྲུངས་བཏབ་སྟེ། དམུས་ལོང་གཅིག་བྲུངས་སྲུང་བར་བཞག་ནས།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Hungry and thirsty, they set up camp in that town, and they appointed one blind person to look after their camp<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-280"/> while the rest went begging. “
+                <seg>Hungry and thirsty, they set up camp in that town, and they appointed one blind person to look after their camp<tei:note xml:id="UT22084-063-001-280"/> while the rest went begging. “
 </seg>
             </tuv>
 </tu>
@@ -11387,7 +11387,7 @@
                 <seg>།ཤཱ་རིའི་བུ་མཚོན་རྣོན་པོས་ལྕེ་གཏུབས་པ་ནི་བླའི། འཁོར་གྱི་ནང་དུ་སོང་ནས་སམ། དབེན་པར་སོང་ནས་སམ། བདག་དང་གཉིས་ཀྱིས་ཡོངས་སུ་མ་དག་པའི་ཆོས་སྟོན་པ་ནི་དེ་ལྟ་མ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Śāriputra, it is better to have one’s tongue cut out with a sharp blade than to enter a retinue or go into the wilderness and teach an impure Dharma even once or twice.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-309"/>
+                <seg>Śāriputra, it is better to have one’s tongue cut out with a sharp blade than to enter a retinue or go into the wilderness and teach an impure Dharma even once or twice.<tei:note xml:id="UT22084-063-001-309"/>
 </seg>
             </tuv>
 </tu>
@@ -12181,7 +12181,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-063-001-324"/>Śāriputra, deluded Devadatta was the monk named Escape<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-325"/> who taught impure Dharma at that time.
+                    <tei:milestone xml:id="UT22084-063-001-324"/>Śāriputra, deluded Devadatta was the monk named Escape<tei:note xml:id="UT22084-063-001-325"/> who taught impure Dharma at that time.
 </seg>
             </tuv>
 </tu>
@@ -12998,7 +12998,7 @@
                 <seg>།དེ་དག་ནི་སྟོན་པ་དྲུག་པོའི་རྗེས་སུ་རབ་ཏུ་བྱུང་བ་ཡིན། དེ་དག་ནི་སྟོན་པ་དྲུག་པོ་མཉེས་པར་བྱེད་པ་ཡིན་པས། དེ་དག་གི་སྟོན་པ་ཡང་སྟོན་པ་དྲུག་པོ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>They go forth under and serve the six non-Buddhist teachers,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-342"/> so their teachers are those six non-Buddhist teachers.
+                <seg>They go forth under and serve the six non-Buddhist teachers,<tei:note xml:id="UT22084-063-001-342"/> so their teachers are those six non-Buddhist teachers.
 </seg>
             </tuv>
 </tu>
@@ -14334,7 +14334,7 @@
                 <seg>གལ་ཏེ་ངས་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་འདི་སྒྲུབ་པ་ན། དེ་བཞིན་གཤེགས་པས་དོག་པ། རྩུབ་པ། ཉམ་ང་བའི་ཚོར་བ་ཉམས་སུ་མྱོང་བར་བྱས་པ་དེ་དག་ཐམས་ཅད་རྒྱ་ཆེར་བརྗོད་ན། ཤཱ་རིའི་བུ་ཐམས་ཅད་རྟག་ཏུ་སྦྱིན་ཞེས་བྱ་བས་དགེ་བ་ཅི་ཡིན་ཞེས་ཚོལ་བ་ན།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>If I were to describe in detail all the intense, harsh, and terrifying agonies the Thus-Gone One experienced to accomplish unsurpassed and perfect awakening, Śāriputra, you might inquire about how much merit the one called Constant Generosity accomplished.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-371"/>
+                <seg>If I were to describe in detail all the intense, harsh, and terrifying agonies the Thus-Gone One experienced to accomplish unsurpassed and perfect awakening, Śāriputra, you might inquire about how much merit the one called Constant Generosity accomplished.<tei:note xml:id="UT22084-063-001-371"/>
 </seg>
             </tuv>
 </tu>
@@ -14875,7 +14875,7 @@
                 <seg>གང་གི་ཆོས་ཀྱི་གྲོང་ཁྱེར་འདི་ལ་ཆོམ་རྐུན་པའམ། ཆོམ་རྐུན་པའི་སྡེར་གཏོགས་པའམ། ཕུ་གུ་པའམ། འཁྲུག་ལོང་པ་སུ་ཡང་རུང་མི་རྒྱུ་བར་བྱ་བའི་ཕྱིར་དེ་ཤིན་ཏུ་བསྲུངས་<tei:ref folio="F.60.b"/>ཤིང་ཤིན་ཏུ་སྦས་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>To prevent thieves, members of a band of robbers, looters,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-383"/> or anyone else who might violate them from roaming about in this city of Dharma, they are kept very protected and guarded.
+                <seg>To prevent thieves, members of a band of robbers, looters,<tei:note xml:id="UT22084-063-001-383"/> or anyone else who might violate them from roaming about in this city of Dharma, they are kept very protected and guarded.
 </seg>
             </tuv>
 </tu>
@@ -15120,7 +15120,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-063-001-388"/>Śāriputra, this is why they must not be entrusted with robes and are not suited to observe the various types of monastic rites.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-389"/>
+                    <tei:milestone xml:id="UT22084-063-001-388"/>Śāriputra, this is why they must not be entrusted with robes and are not suited to observe the various types of monastic rites.<tei:note xml:id="UT22084-063-001-389"/>
 </seg>
             </tuv>
 </tu>
@@ -16634,7 +16634,7 @@
                 <seg>ཡོངས་སུ་མ་དག་པའི་ཆོས་སྟོན་པ་དང་། གཅེར་བུ་པའི་སྨྲ་བ་ལ་གཞོལ་བ་དང་། སྙིང་པོ་མེད་པ་འཛིན་པ་དང་། སོར་བཞིར་རྟོག་པ་དང་། འཇིག་རྟེན་གྱི་ཟང་ཟིང་གཙོ་བོར་བྱེད་པ་དང་། སྨྲ་བ་ལ་དགའ་བ་དང་། འདུ་འཛི་ལས་སྐྱེས་པ་དང་། འཇིག་རྟེན་རྒྱང་པན་པའི་གཏམ་དང་ལྡན་པ་སྟེ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>They will teach an impure Dharma, they will devote themselves to the teachings of the nirgranthas, they will cling to what lacks substance, they will be narrow-minded,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-415"/> they will prioritize worldly material things, they will enjoy chatting, they will enjoy socializing,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-416"/> and they will follow the discourses of the Lokāyatas.
+                <seg>They will teach an impure Dharma, they will devote themselves to the teachings of the nirgranthas, they will cling to what lacks substance, they will be narrow-minded,<tei:note xml:id="UT22084-063-001-415"/> they will prioritize worldly material things, they will enjoy chatting, they will enjoy socializing,<tei:note xml:id="UT22084-063-001-416"/> and they will follow the discourses of the Lokāyatas.
 </seg>
             </tuv>
 </tu>
@@ -17941,7 +17941,7 @@
                 <seg>གཙང་མ་མ་ཡིན་པའི་འདུ་ཤེས་དང་། རྨ་ཀླན་པའི་འདུ་ཤེས་དང་། སྨད་པའི་འདུ་ཤེས་དང་། མི་འཐུན་པའི་འདུ་ཤེས་དང་། བུའི་ཤ་ལྟ་བུའི་འདུ་ཤེས་དང་། རླུགས་པའི་འདུ་ཤེས་དང་།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>They should perceive those alms as filthy and repulsive—as excrement and urine, rubbish, vomit, unclean substances, fresh wounds,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-443"/> vile and disagreeable substances, the flesh of children, excretions, rotten substances, putrid substances, dung, and unwanted substances.
+                <seg>They should perceive those alms as filthy and repulsive—as excrement and urine, rubbish, vomit, unclean substances, fresh wounds,<tei:note xml:id="UT22084-063-001-443"/> vile and disagreeable substances, the flesh of children, excretions, rotten substances, putrid substances, dung, and unwanted substances.
 </seg>
             </tuv>
 </tu>
@@ -18053,7 +18053,7 @@
                 <seg>ཤཱ་རིའི་བུ་ངས་ལྡན་པ་རྣམས་དང་། གྲོལ་བ་རྣམས་ལ་དད་པས་བྱིན་པ་རྗེས་སུ་གནང་སྟེ། དེ་དག་ལས་གཞན་པ་ལ་ནི་མ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Because, Śāriputra, I have authorized gifts of faith to those who possess the endowment<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-446"/> and those who are liberated—not to anyone else. “
+                <seg>Because, Śāriputra, I have authorized gifts of faith to those who possess the endowment<tei:note xml:id="UT22084-063-001-446"/> and those who are liberated—not to anyone else. “
 </seg>
             </tuv>
 </tu>
@@ -18125,7 +18125,7 @@
                 <seg>དགེ་བའི་ཆོས་རྣམས་ལ་གང་དག་ཁོང་དུ་ཆུད་པར་བྱ་བའི་ཕྱིར་ལྷག་པའི་བསམ་པས་གནས་པ་དེ་ལྟ་བུ་ནི་བདེན་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Such beings, who are motivated to master wholesome qualities, possess the endowment.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-449"/> “
+                <seg>Such beings, who are motivated to master wholesome qualities, possess the endowment.<tei:note xml:id="UT22084-063-001-449"/> “
 </seg>
             </tuv>
 </tu>
@@ -18196,7 +18196,7 @@
                 <seg>དེ་ལྟ་བུའི་བདེན་པ་དང་། དེ་ལྟ་བུའི་གྲོལ་བ་གང་ཡིན་པ་དེ་དག་ལ་ངས་དད་པས་བྱིན་པ་རྗེས་སུ་གནང་ངོ་།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>I have authorized gifts of faith to be offered to such people, who possess the endowment<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-451"/> and are liberated. “
+                <seg>I have authorized gifts of faith to be offered to such people, who possess the endowment<tei:note xml:id="UT22084-063-001-451"/> and are liberated. “
 </seg>
             </tuv>
 </tu>
@@ -18227,7 +18227,7 @@
                 <seg>མདོའི་སྡེ་དང་། དབྱངས་ཀྱིས་བསྙད་པའི་སྡེ་དང་། ལུང་བསྟན་པའི་སྡེ་དང་། ཚིགས་སུ་བཅད་པའི་སྡེ་དང་། ཆེད་དུ་བརྗོད་པའི་སྡེ་དང་། གླེང་གཞིའི་སྡེ་དང་། རྟོགས་པ་བརྗོད་པའི་སྡེ་དང་། དེ་ལྟ་བུ་བྱུང་བའི་སྡེ་དང་། སྐྱེས་པའི་རབས་ཀྱི་སྡེ་དང་།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>They strive to become extremely learned and will truly be bound by the categories of Dharma taught by the Buddha—the discourses, songs, prophecies, verses, aphorisms, narratives, biographies, parables, stories of former births, marvels, and instructions<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-947"/>—and by the prātimokṣa vows.
+                <seg>They strive to become extremely learned and will truly be bound by the categories of Dharma taught by the Buddha—the discourses, songs, prophecies, verses, aphorisms, narratives, biographies, parables, stories of former births, marvels, and instructions<tei:note xml:id="UT22084-063-001-947"/>—and by the prātimokṣa vows.
 </seg>
             </tuv>
 </tu>
@@ -18604,7 +18604,7 @@
                 <seg>ཀུན་དགའ་བོ་གང་གི་ཕྱིར་བདེན་པའི་ཡོན་ཏན་འདི་དག་གསུང་བ་ནི་དེ་ལྟར་འགྱུར་བའི་ཕྱིར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Ānanda, it is because when such true qualities are taught, they will be received in this way.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-460"/> “
+                <seg>Ānanda, it is because when such true qualities are taught, they will be received in this way.<tei:note xml:id="UT22084-063-001-460"/> “
 </seg>
             </tuv>
 </tu>
@@ -18829,7 +18829,7 @@
                 <seg>།ཤཱ་རིའི་བུ་དཔེར་ན་སྐྱེས་བུ་ཞིག་རང་གི་འབྲས་ཀྱི་ཞིང་ལ་མེ་གཏོང་བ་དང་། ཁ་ཟས་གཡོས་ཟིན་པ་ལ་དུག་འདེབས་པ་དང་། མེ་འདེ་བར་འདོད་ནས་རང་གི་ཁྱིམ་སྲེག་པར་བྱེད་ན། ཇི་ག་དེའི་དེ་འོས་པར་འགྱུར་རམ། གསོལ་པ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>For an analogy, Ānanda,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-467"/> would it make sense for people to burn their house to warm themselves, to burn their rice field, or to poison the meal they have prepared?” “
+                <seg>For an analogy, Ānanda,<tei:note xml:id="UT22084-063-001-467"/> would it make sense for people to burn their house to warm themselves, to burn their rice field, or to poison the meal they have prepared?” “
 </seg>
             </tuv>
 </tu>
@@ -19501,7 +19501,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-063-001-522"/>The great being has spoken Of secluded places and the three sites,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-523"/> But if one does not cultivate concentration, How will one reach attainment? “
+                    <tei:milestone xml:id="UT22084-063-001-522"/>The great being has spoken Of secluded places and the three sites,<tei:note xml:id="UT22084-063-001-523"/> But if one does not cultivate concentration, How will one reach attainment? “
 </seg>
             </tuv>
 </tu>
@@ -19760,7 +19760,7 @@
                 <seg>།ང་ཡི་གྲགས་པ་ལྷ་དག་གི །གནས་སུ་ལྷག་པར་གྲགས་པ་དག །རྒྱལ་བའི་དབང་པོ་གང་ཞིག་གི། །ཆོས་སྟོན་པ་དང་བདག་ཏུ་བྲལ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>The gods will be separated from my renown, <tei:milestone xml:id="UT22084-063-001-565"/>“Which is otherwise heard in the god realms, And from me—the Dharma teacher, The lord of the conquerors.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-567"/>
+                <seg>The gods will be separated from my renown, <tei:milestone xml:id="UT22084-063-001-565"/>“Which is otherwise heard in the god realms, And from me—the Dharma teacher, The lord of the conquerors.<tei:note xml:id="UT22084-063-001-567"/>
 </seg>
             </tuv>
 </tu>
@@ -20020,7 +20020,7 @@
                 <seg>།དེ་སྐད་ཐོས་ཤིང་མཐོང་བ་ན། །འཁོར་བ་གནོད་པ་ཅན་འདི་དང་། །བུད་མེད་ལྟ་བུའི་འདོད་རྩ་དང་། །སྲེད་པ་འདི་ནི་སུ་ཞིག་སྐྱེད།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Who could hear these words And yet, for saṃsāra that is so harmful, Give rise to desire like that for women<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-605"/>
+                <seg>Who could hear these words And yet, for saṃsāra that is so harmful, Give rise to desire like that for women<tei:note xml:id="UT22084-063-001-605"/>
                     <tei:milestone xml:id="UT22084-063-001-604"/> “And such strong craving?
 </seg>
             </tuv>
@@ -20031,7 +20031,7 @@
                 <seg>།སྡུག་བསྔལ་རྩ་བ་མི་བཟད་འདིར། །དུག་མེད་རྩ་བ་ཡིན་པར་དགོངས།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>For this unbearable root of suffering I consider women<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-607"/> to be the root.
+                <seg>For this unbearable root of suffering I consider women<tei:note xml:id="UT22084-063-001-607"/> to be the root.
 </seg>
             </tuv>
 </tu>
@@ -20061,7 +20061,7 @@
                 <seg>།ཟག་མེད་ཆོས་ནི་གང་ཡིན་དང་། སྟོང་པ་དང་ནི་གསོབ་དང་གསོབ། །སྙིང་པོ་མེད་པར་རྣམ་ཤེས་པར། །དེ་དག་མྱུར་དུ་རྟོགས་པར་གྱིས།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Knowing what uncontaminated phenomena are And what is empty, hollow, and unreal,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-612"/> Lacking any essence, <tei:milestone xml:id="UT22084-063-001-613"/>“They will quickly understand.
+                <seg>Knowing what uncontaminated phenomena are And what is empty, hollow, and unreal,<tei:note xml:id="UT22084-063-001-612"/> Lacking any essence, <tei:milestone xml:id="UT22084-063-001-613"/>“They will quickly understand.
 </seg>
             </tuv>
 </tu>
@@ -20202,7 +20202,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-063-001-634"/>This concludes the Great Vehicle sūtra entitled Discernment of the Discourses,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-635"/> as well as The Great Vehicle Discourse on Liberation<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-063-001-636"/> and The Buddha’s Collected Teachings, and Repudiating Those Who Violate the Discipline.
+                    <tei:milestone xml:id="UT22084-063-001-634"/>This concludes the Great Vehicle sūtra entitled Discernment of the Discourses,<tei:note xml:id="UT22084-063-001-635"/> as well as The Great Vehicle Discourse on Liberation<tei:note xml:id="UT22084-063-001-636"/> and The Buddha’s Collected Teachings, and Repudiating Those Who Violate the Discipline.
 </seg>
             </tuv>
 </tu>

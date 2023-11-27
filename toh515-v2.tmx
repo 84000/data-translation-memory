@@ -19,7 +19,7 @@
 	<tuv xml:lang="en">
                 <seg>
                     <tei:milestone xml:id="UT22084-088-009-15"/>
-                    <note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-088-009-53"/> Homage to all buddhas and bodhisattvas.</seg>
+                    <tei:note xml:id="UT22084-088-009-53"/> Homage to all buddhas and bodhisattvas.</seg>
             </tuv>
 </tu>
 <tu>
@@ -58,7 +58,7 @@
             </tuv>
 	<tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-088-009-44"/>The Blessed One addressed the gods of the Śuddhāvāsa realm such as Maheśvara, Suvrata,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-088-009-17"/> and the rest, saying,</seg>
+                    <tei:milestone xml:id="UT22084-088-009-44"/>The Blessed One addressed the gods of the Śuddhāvāsa realm such as Maheśvara, Suvrata,<tei:note xml:id="UT22084-088-009-17"/> and the rest, saying,</seg>
             </tuv>
 </tu>
 <tu>
@@ -295,7 +295,7 @@
                 <seg>དེ་དག་དང་ལྡན་ན་ཐོས་པ་རྒྱ་མཚོ་ཐམས་ཅད་ཀྱི་གཟུངས་ཐོབ་པར་འགྱུར། </seg>
             </tuv>
 	<tuv xml:lang="en">
-                <seg>With those qualities, they will gain the power of retaining the entire ocean of knowledge.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-088-009-20"/>
+                <seg>With those qualities, they will gain the power of retaining the entire ocean of knowledge.<tei:note xml:id="UT22084-088-009-20"/>
                 </seg>
             </tuv>
 </tu>

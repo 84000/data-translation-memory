@@ -30,7 +30,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-076-008-15"/>Homage to all buddhas and bodhisattvas.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-16"/>
+                    <tei:milestone xml:id="UT22084-076-008-15"/>Homage to all buddhas and bodhisattvas.<tei:note xml:id="UT22084-076-008-16"/>
 </seg>
             </tuv>
 </tu>
@@ -123,7 +123,7 @@
                 <seg>ཁ་ཅིག་ནི་ཕྱུག་ཅིང་ཡ་རབས་སུ་སྐྱེ་བ་དང་།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Some are born rich and noble.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-21"/>
+                <seg>Some are born rich and noble.<tei:note xml:id="UT22084-076-008-21"/>
 </seg>
             </tuv>
 </tu>
@@ -133,7 +133,7 @@
                 <seg>ཁ་ཅིག་ནི་དཔའ་ཞིང་དམན་པར་གྱུར་ལ། ཁ་ཅིག་ནི་ཞན་ཅིང་རིགས་མཐོན་པོར་སྐྱེས་པ་དང་།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Some are strong though lowly, while others are weak though born of high class.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-22"/>
+                <seg>Some are strong though lowly, while others are weak though born of high class.<tei:note xml:id="UT22084-076-008-22"/>
 </seg>
             </tuv>
 </tu>
@@ -164,7 +164,7 @@
                 <seg>ཁ་ཅིག་ནི་ཚོ་ཞིང་དཀར་ཡང་མིག་ཡ་ཡོར་གྱུར་ཅིང་མི་གསལ་ལ། ཁ་ཅིག་ནི་སྔོ་ཞིང་གནག་ཀྱང་མངལ་བྱད་དང་ལྡན་པ་དང་།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Some are fat and fair but cross-eyed and hard of seeing,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-25"/> while others are dark in complexion yet endowed with inborn beauty.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-26"/>
+                <seg>Some are fat and fair but cross-eyed and hard of seeing,<tei:note xml:id="UT22084-076-008-25"/> while others are dark in complexion yet endowed with inborn beauty.<tei:note xml:id="UT22084-076-008-26"/>
 </seg>
             </tuv>
 </tu>
@@ -174,7 +174,7 @@
                 <seg>ཁ་ཅིག་<tei:ref folio="F.198.b"/>ནི་ཐུང་ཞིང་བོང་ཆུང་ཡང་སེམས་རྩལ་དང་ལྡན་པ་དང་། ཁ་ཅིག་ནི་རིང་ཞིང་བོང་ཆེ་ཡང་གཞན་དག་གི་གཡོག་བགྱིད་པ་དང་།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Some are short and small yet quick-witted,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-27"/> while others are tall and big yet work in servitude to others.
+                <seg>Some are short and small yet quick-witted,<tei:note xml:id="UT22084-076-008-27"/> while others are tall and big yet work in servitude to others.
 </seg>
             </tuv>
 </tu>
@@ -184,7 +184,7 @@
                 <seg>ཁ་ཅིག་ནི་བུ་ཚ་མང་ལ་ཁ་ཅིག་ནི་གཅིག་པུ་གནས་པ་དང་།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Some have many children,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-28"/> while others live alone.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-29"/>
+                <seg>Some have many children,<tei:note xml:id="UT22084-076-008-28"/> while others live alone.<tei:note xml:id="UT22084-076-008-29"/>
 </seg>
             </tuv>
 </tu>
@@ -194,7 +194,7 @@
                 <seg>ཁ་ཅིག་ནི་སླད་རོལ་དུ་རྒྱུ་ཞིང་བཀྲེས་པ་དང་། གྲང་བ་དག་གིས་ཉེན་པར་འགྱུར་ལ། ཁ་ཅིག་ནི་ཁྱིམ་ན་གནས་ཀྱང་གོས་ཟས་དག་ལ་དགའ་འབྱོར་པ་དང་།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Some wander outside, hungry and afflicted by cold, while others live indoors, enjoying clothing and food.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-30"/>
+                <seg>Some wander outside, hungry and afflicted by cold, while others live indoors, enjoying clothing and food.<tei:note xml:id="UT22084-076-008-30"/>
 </seg>
             </tuv>
 </tu>
@@ -214,7 +214,7 @@
                 <seg>ཁ་ཅིག་ནི་ཡུས་མ་མཆིས་བཞིན་དུ་ཡང་ནོངས་པ་མ་མཆིས་པར་ནན་གྱིས་གོ་རར་སྩལ་བ་དང་།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Some are honest in their dealings yet are forcefully imprisoned without having committed any crimes.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-31"/>
+                <seg>Some are honest in their dealings yet are forcefully imprisoned without having committed any crimes.<tei:note xml:id="UT22084-076-008-31"/>
 </seg>
             </tuv>
 </tu>
@@ -224,7 +224,7 @@
                 <seg>ཁ་ཅིག་ནི་ཕ་མ་ཡང་སྙིང་རྗེ་དང་ལྡན་ལ་བུ་ཡང་སྲི་ཞུ་ཆེ་ཞིང་མདོ་སྡེ་དང་གཙུག་ལག་གི་དོན་གླེང་བར་བགྱིད་ལ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Some have compassionate parents and respectful<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-32"/> children and discuss with them the truths of the sūtras and sciences.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-33"/>
+                <seg>Some have compassionate parents and respectful<tei:note xml:id="UT22084-076-008-32"/> children and discuss with them the truths of the sūtras and sciences.<tei:note xml:id="UT22084-076-008-33"/>
 </seg>
             </tuv>
 </tu>
@@ -254,7 +254,7 @@
                 <seg>ཁ་ཅིག་ནི་བྱ་འདབ་ཆགས་བཞིན་དུ་ཤིང་དང་ཐང་ལ་གནས་པ་དང་།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Some live in the trees and on the plains like birds.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-34"/>
+                <seg>Some live in the trees and on the plains like birds.<tei:note xml:id="UT22084-076-008-34"/>
 </seg>
             </tuv>
 </tu>
@@ -274,7 +274,7 @@
                 <seg>ཁ་ཅིག་ནི་ཡི་གེ་མ་འཚལ་བ་དང་།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Some are illiterate.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-35"/>
+                <seg>Some are illiterate.<tei:note xml:id="UT22084-076-008-35"/>
 </seg>
             </tuv>
 </tu>
@@ -284,7 +284,7 @@
                 <seg>ཁ་ཅིག་ནི་ཅི་ཡང་མ་བགྱིས་པར་བདེ་བའི་རྣམ་པར་སྨིན་པ་མྱོང་བར་འགྱུར་ལ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Some experience the ripening of happiness without doing anything.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-36"/>
+                <seg>Some experience the ripening of happiness without doing anything.<tei:note xml:id="UT22084-076-008-36"/>
 </seg>
             </tuv>
 </tu>
@@ -294,7 +294,7 @@
                 <seg>ཁ་ཅིག་ནི་སླ་བ་བགྱིད་པའི་གནས་ཀྱང་མི་རྙེད་པ་དང་།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Some do not find any source of income.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-37"/> “
+                <seg>Some do not find any source of income.<tei:note xml:id="UT22084-076-008-37"/> “
 </seg>
             </tuv>
 </tu>
@@ -305,7 +305,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-076-008-38"/>Some become knowledgeable through their sharp faculties,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-39"/> while others lack knowledge due to their dull faculties.
+                    <tei:milestone xml:id="UT22084-076-008-38"/>Some become knowledgeable through their sharp faculties,<tei:note xml:id="UT22084-076-008-39"/> while others lack knowledge due to their dull faculties.
 </seg>
             </tuv>
 </tu>
@@ -335,7 +335,7 @@
                 <seg>ཁ་ཅིག་ནི་ཚིག་སྨྲས་པ་རྣམས་མཉན་ཞིང་དེས་ལ། ཁ་ཅིག་ནི་ཚིག་སྨྲས་པ་རྣམས་གཏུམ་ཞིང་བརླང་བ་དང་།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Some speak gently with eloquent words, while others speak wrathfully with harsh words.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-40"/>
+                <seg>Some speak gently with eloquent words, while others speak wrathfully with harsh words.<tei:note xml:id="UT22084-076-008-40"/>
 </seg>
             </tuv>
 </tu>
@@ -345,7 +345,7 @@
                 <seg>ཁ་ཅིག་ནི་མང་པོ་ཀུན་གྱིས་བཀུར་ཞིང་སྙིང་དུ་སྡུག་པར་འགྱུར་ལ། ཁ་ཅིག་ནི་མང་པོ་ཀུན་གྱིས་ཐག་རིང་དུ་སྤོང་བར་བགྱིད་པ་དང་།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Some are respected and beloved by all, while some are cast far away by everyone.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-41"/>
+                <seg>Some are respected and beloved by all, while some are cast far away by everyone.<tei:note xml:id="UT22084-076-008-41"/>
 </seg>
             </tuv>
 </tu>
@@ -365,7 +365,7 @@
                 <seg>ཁ་ཅིག་ནི་ཡངས་པ་མང་པོ་ཀུན་གྱིས་ཡིད་དུ་མཆི་བར་འགྱུར་ལ། ཁ་ཅིག་ནི་གཞན་དག་གིས་སྤོང་བར་བགྱིད་པ་དང་།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Some are considered open minded and charming by everyone, while others are ignored.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-42"/>
+                <seg>Some are considered open minded and charming by everyone, while others are ignored.<tei:note xml:id="UT22084-076-008-42"/>
 </seg>
             </tuv>
 </tu>
@@ -395,7 +395,7 @@
                 <seg>ཁ་ཅིག་ནི་དཔའ་ཞིང་རྩལ་དང་ལྡན་ཡང་ཞེས་མ་མཆིས་ལ་ཁ་ཅིག་ནི་ཚིག་འབྲུ་དང་དོན་དག་ལ་སློབ་པར་མོས་པ་དང་།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Some are undignified even though they are strong and heroic.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-43"/> Some are intent upon studying words and their meanings.
+                <seg>Some are undignified even though they are strong and heroic.<tei:note xml:id="UT22084-076-008-43"/> Some are intent upon studying words and their meanings.
 </seg>
             </tuv>
 </tu>
@@ -426,7 +426,7 @@
                 <seg>འཁོར་མང་པོ་རྣམས་ཀྱིས་ཐོས་ཤིང་རྟོགས་པར་འགྱུར་ལ་སེམས་རྩེ་གཅིག་ཏུ་དགེ་བ་ལ་གཞོལ་བར་འགྱུར་བ་ལགས་སོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Many followers will listen and understand as they single-pointedly focus themselves on virtue.”<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-45"/>
+                <seg>Many followers will listen and understand as they single-pointedly focus themselves on virtue.”<tei:note xml:id="UT22084-076-008-45"/>
 </seg>
             </tuv>
 </tu>
@@ -437,7 +437,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-076-008-46"/>The Blessed One responded,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-47"/> “Ānanda, as you stated in your inquiry, these humans undergo all these dissimilar experiences of karmic ripening in many hundreds of thousands of different ways due to disparate behaviors in previous lifetimes.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-48"/>
+                    <tei:milestone xml:id="UT22084-076-008-46"/>The Blessed One responded,<tei:note xml:id="UT22084-076-008-47"/> “Ānanda, as you stated in your inquiry, these humans undergo all these dissimilar experiences of karmic ripening in many hundreds of thousands of different ways due to disparate behaviors in previous lifetimes.<tei:note xml:id="UT22084-076-008-48"/>
 </seg>
             </tuv>
 </tu>
@@ -447,7 +447,7 @@
                 <seg>ཚེ་འདི་ལ་བྱད་བཞིན་སྡུག་པ་གང་ཡིན་པ་དེ་ནི་བཟོད་པ་དང་དུ་བླངས་པ་ལས་འོངས་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Having a lovely face in this life comes from patient acceptance.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-49"/>
+                <seg>Having a lovely face in this life comes from patient acceptance.<tei:note xml:id="UT22084-076-008-49"/>
 </seg>
             </tuv>
 </tu>
@@ -457,7 +457,7 @@
                 <seg>།བྱད་བཞིན་མི་སྡུག་པ་གང་ཡིན་པ་དེ་ནི་ཁོང་ཁྲོ་བ་ལས་འོངས་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Having an ugly face comes from anger.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-50"/>
+                <seg>Having an ugly face comes from anger.<tei:note xml:id="UT22084-076-008-50"/>
 </seg>
             </tuv>
 </tu>
@@ -477,7 +477,7 @@
                 <seg>།མིར་གྱུར་ཀྱང་ཕྱུག་པོར་གྱུར་པ་གང་ཡིན་པ་དེ་ནི་སྦྱིན་པ་བཏང་བ་ལས་འོངས་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, being wealthy comes from having practiced generosity.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-51"/>
+                <seg>As a human, being wealthy comes from having practiced generosity.<tei:note xml:id="UT22084-076-008-51"/>
 </seg>
             </tuv>
 </tu>
@@ -517,7 +517,7 @@
                 <seg>།ལུས་ཐུང་ངུ་གང་ཡིན་པ་དེ་ནི་ཆོས་ལ་བརྙས་པ་ལས་འོངས་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Being short<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-52"/> comes from having shown contempt for the Dharma. “
+                <seg>Being short<tei:note xml:id="UT22084-076-008-52"/> comes from having shown contempt for the Dharma. “
 </seg>
             </tuv>
 </tu>
@@ -528,7 +528,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-076-008-53"/>As a human, being ineloquent comes from having previously been a sheep.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-54"/>
+                    <tei:milestone xml:id="UT22084-076-008-53"/>As a human, being ineloquent comes from having previously been a sheep.<tei:note xml:id="UT22084-076-008-54"/>
 </seg>
             </tuv>
 </tu>
@@ -538,7 +538,7 @@
                 <seg>།མིར་གྱུར་ཀྱང་གནག་ཅིང་རིད་པ་གང་ཡིན་པ་དེ་ནི་དེ་བཞིན་གཤེགས་པའི་སྣང་བ་བསྒྲིབས་པ་ལས་འོངས་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, being dark and scrawny comes from having obscured images of the thus-gone ones.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-55"/>
+                <seg>As a human, being dark and scrawny comes from having obscured images of the thus-gone ones.<tei:note xml:id="UT22084-076-008-55"/>
 </seg>
             </tuv>
 </tu>
@@ -548,7 +548,7 @@
                 <seg>།མིར་གྱུར་ཀྱང་མཆུ་མི་སྡུག་པ་གང་ཡིན་པ་དེ་ནི་མཆོད་རྟེན་གྱི་ཟས་མྱངས་པ་ལས་འོངས་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, having unsightly lips comes from having eaten food off of stūpas.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-56"/>
+                <seg>As a human, having unsightly lips comes from having eaten food off of stūpas.<tei:note xml:id="UT22084-076-008-56"/>
 </seg>
             </tuv>
 </tu>
@@ -558,7 +558,7 @@
                 <seg>།མིར་གྱུར་ཀྱང་མིག་དམར་བ་གང་ཡིན་པ་དེ་ནི་མེའི་སེར་སྣ་བྱས་པ་ལས་འོངས་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, having red eyes comes from having been stingy with fire.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-57"/>
+                <seg>As a human, having red eyes comes from having been stingy with fire.<tei:note xml:id="UT22084-076-008-57"/>
 </seg>
             </tuv>
 </tu>
@@ -568,7 +568,7 @@
                 <seg>།མིར་གྱུར་ཀྱང་མིག་མི་གསལ་བ་གང་ཡིན་པ་དེ་ནི་ཁྲའི་མིག་བྲུས་པ་ལས་འོངས་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, having poor eyesight comes from having gouged out the eyes of falcons.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-58"/>
+                <seg>As a human, having poor eyesight comes from having gouged out the eyes of falcons.<tei:note xml:id="UT22084-076-008-58"/>
 </seg>
             </tuv>
 </tu>
@@ -598,7 +598,7 @@
                 <seg>།མིར་གྱུར་ཀྱང་སོ་རྣོན་པོར་གྱུར་པ་གང་ཡིན་པ་དེ་ནི་རུས་པ་འཆའ་ཞིང་ཤ་ཟ་བར་མངོན་པར་དགའ་བ་ལས་འོངས་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, having sharp teeth comes from having taken great pleasure in gnawing on bones and eating meat.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-59"/>
+                <seg>As a human, having sharp teeth comes from having taken great pleasure in gnawing on bones and eating meat.<tei:note xml:id="UT22084-076-008-59"/>
 </seg>
             </tuv>
 </tu>
@@ -608,7 +608,7 @@
                 <seg>།མིར་གྱུར་ཀྱང་སྣ་དགྱེ་བོར་གྱུར་པ་གང་ཡིན་པ་དེ་ནི་དྲི་མི་ཞིམ་པ་དག་གིས་དེ་བཞིན་གཤེགས་པ་ལ་མཆོད་པ་བྱས་པ་ལས་འོངས་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, having a crooked nose<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-60"/> comes from having made malodorous offerings to the thus-gone ones.
+                <seg>As a human, having a crooked nose<tei:note xml:id="UT22084-076-008-60"/> comes from having made malodorous offerings to the thus-gone ones.
 </seg>
             </tuv>
 </tu>
@@ -618,7 +618,7 @@
                 <seg>།མིར་གྱུར་ཀྱང་མཆུ་ཤོ་རེར་གྱུར་པ་གང་ཡིན་པ་དེ་ནི་ཉའི་འགྲམ་པ་ཕུག་པ་ལས་གྱུར་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, having a cleft lip comes from having pierced the cheeks of fish.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-61"/>
+                <seg>As a human, having a cleft lip comes from having pierced the cheeks of fish.<tei:note xml:id="UT22084-076-008-61"/>
 </seg>
             </tuv>
 </tu>
@@ -638,7 +638,7 @@
                 <seg>།མིར་གྱུར་ཀྱང་རྣ་བ་རལ་བར་གྱུར་པ་གང་ཡིན་པ་དེ་ནི་གཞན་དག་གི་རྣ་བ་ཕུག་པ་ལས་གྱུར་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, having split ears comes from having punctured the ears of others.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-62"/>
+                <seg>As a human, having split ears comes from having punctured the ears of others.<tei:note xml:id="UT22084-076-008-62"/>
 </seg>
             </tuv>
 </tu>
@@ -648,7 +648,7 @@
                 <seg>།མིར་གྱུར་ཀྱང་ལུས་ཀྱི་ཤ་བྲུར་ལྟ་བུར་གྱུར་པ་གང་ཡིན་པ་དེ་ནི་གོས་ཡང་ཞིང་སྲབ་པ་དག་བགོས་ནས་དེ་བཞིན་གཤེགས་པའི་སྐུ་གཟུགས་ཀྱི་སྤྱན་སྔར་འོངས་པ་ལས་གྱུར་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, having a snake-like body<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-63"/> comes from having worn light and thin clothing in the presence of the thus-gone ones.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-64"/>
+                <seg>As a human, having a snake-like body<tei:note xml:id="UT22084-076-008-63"/> comes from having worn light and thin clothing in the presence of the thus-gone ones.<tei:note xml:id="UT22084-076-008-64"/>
 </seg>
             </tuv>
 </tu>
@@ -658,7 +658,7 @@
                 <seg>།མིར་གྱུར་ཀྱང་མདོག་གནག་པ་གང་ཡིན་པ་དེ་ནི་དེ་བཞིན་གཤེགས་པའི་སྐུ་གཟུགས་ཁྱམས་དག་གི་འོག་ཏུ་བཞག་ནས་དུད་པས་བདུགས་པ་ལས་གྱུར་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, having a dark complexion comes from having put statues of the thus-gone ones beneath courtyards and exposed them to smoke.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-66"/>
+                <seg>As a human, having a dark complexion comes from having put statues of the thus-gone ones beneath courtyards and exposed them to smoke.<tei:note xml:id="UT22084-076-008-66"/>
 </seg>
             </tuv>
 </tu>
@@ -668,7 +668,7 @@
                 <seg>།མིར་གྱུར་ཀྱང་རྐང་ལག་ཞ་བོར་གྱུར་པ་གང་ཡིན་པ་དེ་ནི་མཁན་པོ་དང་། སློབ་དཔོན་དང་བླ་མ་རྣམས་མཐོང་ཡང་ལྡང་བ་མེད་པ་ལས་གྱུར་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, having disabled limbs comes from not having risen when seeing preceptors, masters, or gurus.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-67"/>
+                <seg>As a human, having disabled limbs comes from not having risen when seeing preceptors, masters, or gurus.<tei:note xml:id="UT22084-076-008-67"/>
 </seg>
             </tuv>
 </tu>
@@ -678,7 +678,7 @@
                 <seg>།མིར་གྱུར་ཀྱང་སྒུར་པོར་གྱུར་པ་གང་ཡིན་པ་དེ་ནི་གོས་ཡང་ཞིང་སྲབ་པ་དག་བགོས་ནས་ཕན་ཚུན་དུ་འགྲོ་བའི་ཚེ་དེ་བཞིན་གཤེགས་པའི་སྐུ་གཟུགས་ལ་རྒྱབ་ཀྱིས་ཕྱོགས་པ་ལས་གྱུར་པ་<tei:ref folio="F.200.a"/>ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, being hunchbacked comes from having worn light and thin clothing and turned one’s back when passing the thus-gone ones.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-68"/>
+                <seg>As a human, being hunchbacked comes from having worn light and thin clothing and turned one’s back when passing the thus-gone ones.<tei:note xml:id="UT22084-076-008-68"/>
 </seg>
             </tuv>
 </tu>
@@ -688,7 +688,7 @@
                 <seg>།མིར་གྱུར་ཀྱང་འཕྲལ་བ་མི་སྡུག་པ་གང་ཡིན་པ་དེ་ནི་དེ་བཞིན་གཤེགས་པ་མཐོང་བའི་ཚེ་ཕྱག་ཀྱང་མི་བྱེད་ལ། ལག་པས་འཕྲལ་བར་བརྡབས་པ་ལས་གྱུར་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, an unsightly forehead<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-69"/> comes from not having bowed upon seeing the thus-gone ones, instead banging one’s hands together at the forehead.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-70"/>
+                <seg>As a human, an unsightly forehead<tei:note xml:id="UT22084-076-008-69"/> comes from not having bowed upon seeing the thus-gone ones, instead banging one’s hands together at the forehead.<tei:note xml:id="UT22084-076-008-70"/>
 </seg>
             </tuv>
 </tu>
@@ -698,7 +698,7 @@
                 <seg>།མིར་གྱུར་ཀྱང་གཉའ་བ་ཐུང་བ་གང་ཡིན་པ་དེ་ནི་བླ་མ་དག་མཐོང་ནས་མགོ་སྦས་ཏེ་བྲོས་ནས་འབྱོལ་བ་ལས་གྱུར་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, having a short neck comes from having hid one’s face and run away when one saw the gurus.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-71"/>
+                <seg>As a human, having a short neck comes from having hid one’s face and run away when one saw the gurus.<tei:note xml:id="UT22084-076-008-71"/>
 </seg>
             </tuv>
 </tu>
@@ -708,7 +708,7 @@
                 <seg>།མིར་གྱུར་ཀྱང་རྟག་པར་སྙིང་ན་བ་གང་ཡིན་པ་དེ་ནི་སེམས་ཅན་གྱི་ལུས་ཀྱི་ཡན་ལག་བཅད་ཅིང་གཏུབས་པ་ལས་གྱུར་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, always having heart diseases comes from having hacked, cut, and sliced up the limbs of beings.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-72"/>
+                <seg>As a human, always having heart diseases comes from having hacked, cut, and sliced up the limbs of beings.<tei:note xml:id="UT22084-076-008-72"/>
 </seg>
             </tuv>
 </tu>
@@ -718,7 +718,7 @@
                 <seg>།མིར་གྱུར་ཀྱང་མཛེ་ཅན་དུ་གྱུར་པ་གང་ཡིན་པ་དེ་ནི་ཉེས་པ་མེད་པར་གཞན་དག་གི་ནོར་བླངས་པ་ལས་གྱུར་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, having leprosy comes from having taken wealth away from the innocent.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-73"/>
+                <seg>As a human, having leprosy comes from having taken wealth away from the innocent.<tei:note xml:id="UT22084-076-008-73"/>
 </seg>
             </tuv>
 </tu>
@@ -728,7 +728,7 @@
                 <seg>།མིར་གྱུར་ཀྱང་དབུགས་ཐུང་བ་གང་ཡིན་པ་དེ་ནི་དགུན་གྲང་བའི་དུས་ཀྱི་ཚེ་གཞན་དག་ལ་ཟས་གྲང་མོ་དག་བྱིན་པ་ལས་གྱུར་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, being short of breath comes from having served cold food to others during the depths of winter.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-74"/>
+                <seg>As a human, being short of breath comes from having served cold food to others during the depths of winter.<tei:note xml:id="UT22084-076-008-74"/>
 </seg>
             </tuv>
 </tu>
@@ -768,7 +768,7 @@
                 <seg>།མིར་གྱུར་ནས་ཚེ་ཐུང་བ་གང་ཡིན་པ་དེ་ནི་སྲོག་ཆགས་མང་པོ་བསད་པ་ལས་གྱུར་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, having a short life comes from having killed many creatures.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-75"/>
+                <seg>As a human, having a short life comes from having killed many creatures.<tei:note xml:id="UT22084-076-008-75"/>
 </seg>
             </tuv>
 </tu>
@@ -858,7 +858,7 @@
                 <seg>།མིར་གྱུར་ཀྱང་ལུས་ལ་རྨ་དང་ཤུ་བ་འབྱུང་ཞིང་ཡུན་རིང་པོར་སྨན་དང་དཔྱད་བྱས་ཀྱང་སོས་སུ་མི་བཏུབ་པ་གང་ཡིན་པ་དེ་ནི་སེམས་ཅན་ལ་བརྡེག་བཙོག་བྱས་པ་ལས་གྱུར་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, having scars and abscesses on the body that do not heal even with lengthy medical treatment comes from having beaten other beings.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-76"/>
+                <seg>As a human, having scars and abscesses on the body that do not heal even with lengthy medical treatment comes from having beaten other beings.<tei:note xml:id="UT22084-076-008-76"/>
 </seg>
             </tuv>
 </tu>
@@ -868,7 +868,7 @@
                 <seg>།མིར་གྱུར་ཀྱང་རང་བཞིན་མི་སྲུན་པ་གང་ཡིན་པ་དེ་ནི་སྡིག་སྦྲུལ་བྱས་པ་ལས་འོངས་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, having a malicious nature comes from having been a scorpion or a snake.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-77"/> “
+                <seg>As a human, having a malicious nature comes from having been a scorpion or a snake.<tei:note xml:id="UT22084-076-008-77"/> “
 </seg>
             </tuv>
 </tu>
@@ -929,7 +929,7 @@
                 <seg>།མིར་གྱུར་ནས་གཉའ་བར་ལྦ་བ་ཡོད་པ་གང་ཡིན་པ་དེ་ནི་གཅིག་པུ་བསྣོགས་པ་ལས་འོངས་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Having goiters on the neck comes from eating alone.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-79"/>
+                <seg>Having goiters on the neck comes from eating alone.<tei:note xml:id="UT22084-076-008-79"/>
 </seg>
             </tuv>
 </tu>
@@ -959,7 +959,7 @@
                 <seg>།མིར་གྱུར་ནས་ལྕེ་ཐུང་བ་གང་ཡིན་པ་དེ་ནི་དབེན་པ་དག་ཏུ་བླ་མ་དག་ལ་ཚིག་མི་སྙན་པ་བརྗོད་པ་ལས་འོངས་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Having a short tongue comes having disgraced the gurus in solitary places.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-80"/> “
+                <seg>Having a short tongue comes having disgraced the gurus in solitary places.<tei:note xml:id="UT22084-076-008-80"/> “
 </seg>
             </tuv>
 </tu>
@@ -970,7 +970,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-076-008-81"/>People who take pleasure in committing adultery with the wife of another will regress to a rebirth as a swan<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-82"/> after death.
+                    <tei:milestone xml:id="UT22084-076-008-81"/>People who take pleasure in committing adultery with the wife of another will regress to a rebirth as a swan<tei:note xml:id="UT22084-076-008-82"/> after death.
 </seg>
             </tuv>
 </tu>
@@ -990,7 +990,7 @@
                 <seg>།མིར་གྱུར་ནས་མདོ་སྡེ་དང་བསྟན་བཅོས་དག་ལ་སེར་སྣ་བྱེད་ཅིང་ཤེས་ཀྱང་སྦས་ནས་གཞན་དག་ལ་མི་སྟོན་པ་གང་ཡིན་པ་དེ་ནི་ཤི་འཕོས་ནས་ཤིང་སྲིན་དག་ཏུ་སྐྱེ་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>People who are stingy with the sūtras and treatises and hide their knowledge so as not to teach them to others will be reborn as a wood-eating insect<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-83"/> after death.
+                <seg>People who are stingy with the sūtras and treatises and hide their knowledge so as not to teach them to others will be reborn as a wood-eating insect<tei:note xml:id="UT22084-076-008-83"/> after death.
 </seg>
             </tuv>
 </tu>
@@ -1000,7 +1000,7 @@
                 <seg>།མིར་གྱུར་ནས་མདའ་གཞུ་ཐོགས་ཤིང་གཞོམ་པ་ལ་མངོན་པར་དགའ་བ་གང་ཡིན་པ་དེ་ནི་ཤི་འཕོས་ནས་ཀླ་ཀློ་ཅན་དུ་ལྟུང་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>People who take pleasure in bearing bows and arrows and battling<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-84"/> will regress to a rebirth as a barbarian after death. “
+                <seg>People who take pleasure in bearing bows and arrows and battling<tei:note xml:id="UT22084-076-008-84"/> will regress to a rebirth as a barbarian after death. “
 </seg>
             </tuv>
 </tu>
@@ -1021,7 +1021,7 @@
                 <seg>།མགོ་རྒྱན་དང་མེ་ཏོག་ཐོགས་པ་ལ་མངོན་པར་དགའ་བ་གང་ཡིན་པ་དེ་ནི་ཤི་འཕོས་ནས། གཅིན་རྟུག་གི་སྲིན་བུ་བྱེད་པར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Taking pleasure in wearing crowns and flowers will result in being a dung beetle<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-86"/> after death.
+                <seg>Taking pleasure in wearing crowns and flowers will result in being a dung beetle<tei:note xml:id="UT22084-076-008-86"/> after death.
 </seg>
             </tuv>
 </tu>
@@ -1031,7 +1031,7 @@
                 <seg>།གོས་རིང་པོ་གྱོན་པར་དགའ་བ་དེ་ནི། ཤི་འཕོས་ནས་སྲིན་བུ་མཇུག་རིངས་བྱེད་པར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Enjoying wearing long dresses will result in being a long-tailed insect<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-87"/> after death.
+                <seg>Enjoying wearing long dresses will result in being a long-tailed insect<tei:note xml:id="UT22084-076-008-87"/> after death.
 </seg>
             </tuv>
 </tu>
@@ -1071,7 +1071,7 @@
                 <seg>།ཕྲ་མ་བྱེད་པ་ལ་མངོན་པར་དགའ་བ་གང་ཡིན་པ་དེ་ནི་ཤི་འཕོས་ནས་སྦྲུལ་ལུས་པོ་ཆེ་དག་ཏུ་སྐྱེ་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Taking pleasure in gossip will result in being reborn as a large-bodied snake<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-88"/> after death.
+                <seg>Taking pleasure in gossip will result in being reborn as a large-bodied snake<tei:note xml:id="UT22084-076-008-88"/> after death.
 </seg>
             </tuv>
 </tu>
@@ -1081,7 +1081,7 @@
                 <seg>།ཉེས་པ་མེད་པར་དགྲ་ལ་རྣམ་པར་འཚེ་བ་གང་ཡིན་པ་དེ་ནི་ཤི་འཕོས་ནས་སྲིན་བུ་འཁོན་དུ་འཛིན་པའི་སེམས་དང་བཅས་པ་དག་ཏུ་སྐྱེ་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Being hostile to an enemy without just cause<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-89"/> will result in being born after death as an insect with a mind that holds on to grudges.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-90"/>
+                <seg>Being hostile to an enemy without just cause<tei:note xml:id="UT22084-076-008-89"/> will result in being born after death as an insect with a mind that holds on to grudges.<tei:note xml:id="UT22084-076-008-90"/>
 </seg>
             </tuv>
 </tu>
@@ -1101,7 +1101,7 @@
                 <seg>།དམོད་མོའི་ཚིག་སྨྲ་བ་ལ་མངོན་པར་དགའ་བ་གང་ཡིན་པ་དེ་ནི་ཤི་འཕོས་ནས་ཝ་དག་ཏུ་སྐྱེ་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Taking pleasure in uttering curse words will result in being born as a fox after death.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-91"/>
+                <seg>Taking pleasure in uttering curse words will result in being born as a fox after death.<tei:note xml:id="UT22084-076-008-91"/>
 </seg>
             </tuv>
 </tu>
@@ -1111,7 +1111,7 @@
                 <seg>།གཞན་དག་སྐྲག་ཅིང་དངང་བར་མངོན་པར་དགའ་བ་གང་ཡིན་པ་དེ་ནི་ཤི་འཕོས་ནས་རི་དགས་ཤ་བའི་རིགས་སུ་སྐྱེ་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Taking pleasure in scaring and frightening others will result in being born as a mountain deer<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-92"/> after death. “
+                <seg>Taking pleasure in scaring and frightening others will result in being born as a mountain deer<tei:note xml:id="UT22084-076-008-92"/> after death. “
 </seg>
             </tuv>
 </tu>
@@ -1142,7 +1142,7 @@
                 <seg>།ཚེ་སྔ་མ་ལ་དགེ་འདུན་གྱི་གཏུན་དང་རང་ཐག་ཡོངས་སུ་སྤྱོད་པ་གང་ཡིན་པ་དེ་ནི་ཚེ་འདི་ལ་སྲོག་ཆགས་སྲིན་བུ་མགོ་རྡེབས་པ་དག་ཏུ་སྐྱེ་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Those who used the Saṅgha’s mortars and pestles in a previous life will be reborn as flat-headed worms<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-94"/> in this life.
+                <seg>Those who used the Saṅgha’s mortars and pestles in a previous life will be reborn as flat-headed worms<tei:note xml:id="UT22084-076-008-94"/> in this life.
 </seg>
             </tuv>
 </tu>
@@ -1162,7 +1162,7 @@
                 <seg>།དགེ་འདུན་གྱི་ཆུ་བརྐུས་ནས་ཡོངས་སུ་སྤྱད་པ་གང་ཡིན་པ་དེ་ནི་ཚེ་འདི་ལ་ཉ་དང་ཆུ་སྲིན་དག་ཏུ་སྐྱེ་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Those who stole water from the Saṅgha and used it themselves will be reborn as fish or crocodiles.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-95"/>
+                <seg>Those who stole water from the Saṅgha and used it themselves will be reborn as fish or crocodiles.<tei:note xml:id="UT22084-076-008-95"/>
 </seg>
             </tuv>
 </tu>
@@ -1172,7 +1172,7 @@
                 <seg>།དགེ་འདུན་གྱི་ས་གཞི་དག་ལ་མི་གཙང་བ་འདོར་བ་གང་ཡིན་པ་དེ་ནི་བཤང་གཅིའི་ནང་དུ་<tei:ref folio="F.201.b"/>སྲིན་བུ་དག་ཏུ་སྐྱེ་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Those who discarded their filth on the grounds of the Saṅgha will be reborn as latrine maggots.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-96"/>
+                <seg>Those who discarded their filth on the grounds of the Saṅgha will be reborn as latrine maggots.<tei:note xml:id="UT22084-076-008-96"/>
 </seg>
             </tuv>
 </tu>
@@ -1223,7 +1223,7 @@
                 <seg>།དགེ་འདུན་གྱི་ཚོད་ལྡུམ་ཟོས་ན་ཚོད་མའི་སྲིན་བུར་སྐྱེ་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>If one consumes the vegetables of the Saṅgha, one will be reborn as an insect on vegetables.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-98"/>
+                <seg>If one consumes the vegetables of the Saṅgha, one will be reborn as an insect on vegetables.<tei:note xml:id="UT22084-076-008-98"/>
 </seg>
             </tuv>
 </tu>
@@ -1233,7 +1233,7 @@
                 <seg>།དགེ་འདུན་གྱི་ཁྲི་སྟན་ལ་འདུག་ན་སའི་སྲིན་བུ་མཇུག་རིངས་སུ་སྐྱེ་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>If one sits on the seats of the Saṅgha, one will be reborn as a mosquito.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-99"/>
+                <seg>If one sits on the seats of the Saṅgha, one will be reborn as a mosquito.<tei:note xml:id="UT22084-076-008-99"/>
 </seg>
             </tuv>
 </tu>
@@ -1253,7 +1253,7 @@
                 <seg>།རུས་པ་དག་ཐོགས་ནས་གཙུག་ལག་ཁང་དུ་འཇུག་པར་བྱེད་ན་བྱ་མཆུ་རིངས་སུ་སྐྱེ་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>If one enters monasteries wearing bone ornaments,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-100"/> one will be reborn as a long-beaked bird.
+                <seg>If one enters monasteries wearing bone ornaments,<tei:note xml:id="UT22084-076-008-100"/> one will be reborn as a long-beaked bird.
 </seg>
             </tuv>
 </tu>
@@ -1263,7 +1263,7 @@
                 <seg>།དམར་རྩི་དང་དཀར་རྩི་དག་མཆུ་ལ་བསྐུས་ནས་གཙུག་ལག་ཁང་དུ་འཇུག་པར་བྱེད་ན་བྱ་མཆུ་དམར་བ་དག་ཏུ་སྐྱེ་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>If one enters monasteries having applied rouge on the lips,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-101"/> one will be reborn as a red-beaked bird.
+                <seg>If one enters monasteries having applied rouge on the lips,<tei:note xml:id="UT22084-076-008-101"/> one will be reborn as a red-beaked bird.
 </seg>
             </tuv>
 </tu>
@@ -1283,7 +1283,7 @@
                 <seg>།ཁྱོ་ཤུག་གཙུག་ལག་ཁང་དུ་གནས་ནས་ཉལ་པོ་བྱས་ན་བྱ་མགོ་སྔོན་དག་ཏུ་སྐྱེ་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>If a married couple copulates in a temple, they will be reborn as blue-headed birds.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-102"/>
+                <seg>If a married couple copulates in a temple, they will be reborn as blue-headed birds.<tei:note xml:id="UT22084-076-008-102"/>
 </seg>
             </tuv>
 </tu>
@@ -1293,7 +1293,7 @@
                 <seg>།དེ་བཞིན་གཤེགས་པའི་མཆོད་རྟེན་ལ་བརྫིས་ན་རྔ་མོའི་ལུས་བྱེད་པར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>If one tramples<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-103"/> on a stūpa of the thus-gone ones, one will be reborn with the body of a camel.
+                <seg>If one tramples<tei:note xml:id="UT22084-076-008-103"/> on a stūpa of the thus-gone ones, one will be reborn with the body of a camel.
 </seg>
             </tuv>
 </tu>
@@ -1303,7 +1303,7 @@
                 <seg>།ལྷམ་བགོས་ཏེ་དེ་བཞིན་གཤེགས་པའི་དྲི་གཙང་ཁང་དུ་འགྲོ་བར་བྱེད་ན་སྦལ་པར་སྐྱེ་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>If one goes into shrines of the thus-gone ones wearing shoes, one will be reborn as a toad.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-104"/>
+                <seg>If one goes into shrines of the thus-gone ones wearing shoes, one will be reborn as a toad.<tei:note xml:id="UT22084-076-008-104"/>
 </seg>
             </tuv>
 </tu>
@@ -1313,7 +1313,7 @@
                 <seg>།ཆོས་ཉན་པའི་ཚེ་ཀླག་ཅོར་ཟེར་ན་ནི་བྱ་ལྕེ་བརྒྱ་པ་དག་ཏུ་སྐྱེ་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>If one makes a clamor while listening to the Dharma, one will be reborn as a hundred-tongued bird.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-105"/>
+                <seg>If one makes a clamor while listening to the Dharma, one will be reborn as a hundred-tongued bird.<tei:note xml:id="UT22084-076-008-105"/>
 </seg>
             </tuv>
 </tu>
@@ -1365,7 +1365,7 @@
                 <seg>གང་གིས་གཙུག་ལག་ཁང་དུ་ཕྱིན་ནས་དེ་བཞིན་གཤེགས་པ་མཐོང་ན་ཕྱག་བྱེད་པ་དང་། དགེ་འདུན་མཐོང་ན་གུས་པར་བཀུར་སྟི་བྱས་ནས་མདོ་སྡེའི་དོན་འདྲི་བར་བྱེད་པ་དང་། སྡོམ་པ་ཡང་དག་པར་བླངས་ནས་ཉེས་པ་འཆགས་པར་བྱེད་པ་དང་། ནོར་རྫས་དག་ཡོངས་སུ་བཏང་ནས་དཀོན་མཆོག་གསུམ་གྱི་ཞལ་ཏ་བྱེད་པ་དང་། ལུས་དང་སྲོག་ལ་ཕངས་པ་མེད་པར་ཆོས་ཆེན་པོ་ཡོངས་སུ་བསྲུང་ཞིང་ཡང་དག་པར་འཛིན་པར་བྱེད་པའི་གང་ཟག་དེ་ལྟ་བུ་དག་ནི་གོམ་པ་གཅིག་འདོར་བར་བྱེད་ན་ཡང་ལྷའི་གཞལ་མེད་ཁང་དྲུང་དུ་འོང་ཞིང་།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>They are those who bow upon seeing the thus-gone ones when entering monasteries, those who pay respect with veneration and inquire as to the meaning of the sūtras when they see the Saṅgha, those who correctly uphold their vows and confess their faults, and those who offer their wealth in service to the Three Jewels.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-108"/>
+                <seg>They are those who bow upon seeing the thus-gone ones when entering monasteries, those who pay respect with veneration and inquire as to the meaning of the sūtras when they see the Saṅgha, those who correctly uphold their vows and confess their faults, and those who offer their wealth in service to the Three Jewels.<tei:note xml:id="UT22084-076-008-108"/>
 </seg>
             </tuv>
 </tu>
@@ -1375,7 +1375,7 @@
                 <seg>མ་འོངས་པ་ན་ཁྱིམ་བདག་ཤུག་དེ་ཀ་བཞིན་དུ་རྣམ་པར་སྨིན་པའི་འབྲས་བུ་མྱོང་བར་འགྱུར་བ་གང་ཡིན་པ་དེ་ནི་སྐྱེས་བུ་མཆོག་ཏུ་དགེ་བ་ཞེས་བྱའོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>These people will be reborn in the divine palaces of the gods, or if in the future they are a householder or a wife,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-109"/> they will experience results with a similar karmic fruition.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-110"/> This is known as the supremely virtuous person. “
+                <seg>These people will be reborn in the divine palaces of the gods, or if in the future they are a householder or a wife,<tei:note xml:id="UT22084-076-008-109"/> they will experience results with a similar karmic fruition.<tei:note xml:id="UT22084-076-008-110"/> This is known as the supremely virtuous person. “
 </seg>
             </tuv>
 </tu>
@@ -1427,7 +1427,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-076-008-112"/>The Blessed One said, “Ānanda,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-113"/> I admonish my future disciples: exercise vigilance so as to not commit transgressions against the Three Jewels.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-114"/>
+                    <tei:milestone xml:id="UT22084-076-008-112"/>The Blessed One said, “Ānanda,<tei:note xml:id="UT22084-076-008-113"/> I admonish my future disciples: exercise vigilance so as to not commit transgressions against the Three Jewels.<tei:note xml:id="UT22084-076-008-114"/>
 </seg>
             </tuv>
 </tu>
@@ -1437,7 +1437,7 @@
                 <seg>ནུར་བའི་སེམས་སྐྱེ་བ་མེད་པར་དེ་བཞིན་གཤེགས་པའི་བཀའ་སྩལ་པ་བཞིན་བྱེད་ན། དེ་བཞིན་གཤེགས་པ་བྱམས་པ་འཇིག་རྟེན་དུ་བྱུང་བའི་ཚེ་ཡོངས་སུ་མྱ་ངན་ལས་འདའ་བར་འགྱུར་བར་ཐེ་ཚོམ་མེད་དོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>So long as they act wholeheartedly in accordance with what the Thus-Gone One has taught, they will undoubtedly pass beyond suffering once the Thus-Gone One Maitreya appears in this world.”<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-115"/>
+                <seg>So long as they act wholeheartedly in accordance with what the Thus-Gone One has taught, they will undoubtedly pass beyond suffering once the Thus-Gone One Maitreya appears in this world.”<tei:note xml:id="UT22084-076-008-115"/>
 </seg>
             </tuv>
 </tu>
@@ -1448,7 +1448,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-076-008-116"/>The Blessed One continued, “If one strips the clothing from the body of another in this life, after death one will fall into the cold hell realms, or, having been reborn as a silkworm, one will be boiled alive.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-117"/>
+                    <tei:milestone xml:id="UT22084-076-008-116"/>The Blessed One continued, “If one strips the clothing from the body of another in this life, after death one will fall into the cold hell realms, or, having been reborn as a silkworm, one will be boiled alive.<tei:note xml:id="UT22084-076-008-117"/>
 </seg>
             </tuv>
 </tu>
@@ -1468,7 +1468,7 @@
                 <seg>།ཚེ་འདི་ལ་སེམས་ཅན་གྱི་སྲོག་བཅད་པས་དམྱལ་ཞིང་གཏུབ་པར་བྱེད་ན་ཤི་འཕོས་ནས་སེམས་ཅན་དམྱལ་བ་མཚོན་ལྟར་རབ་ཏུ་རྣོ་བའི་རི་ལ་རལ་གྲི་ལོ་མ་ཅན་གྱི་ལྗོན་ཤིང་འཛེག་པ་དག་ཏུ་ལྟུང་བར་འགྱུར་རོ། །ཚེ་འདི་ལ་ཁ་ཅིག་སྡིག་གཏོང་ཞིང་རྔོན་པ་བྱེད་པར་མངོན་པར་དགའ་བ་དེ་དག་ནི་ཤི་འཕོས་ནས་སོག་ལེས་འདྲལ་བའི་སེམས་ཅན་དམྱལ་བར་ལྟུང་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>If in this life one torments and cuts up beings, taking their lives, after death one will fall into the weapon-like hells, where one will climb razor-sharp mountains and trees with razor leaves.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-118"/> “
+                <seg>If in this life one torments and cuts up beings, taking their lives, after death one will fall into the weapon-like hells, where one will climb razor-sharp mountains and trees with razor leaves.<tei:note xml:id="UT22084-076-008-118"/> “
 </seg>
             </tuv>
 </tu>
@@ -1489,7 +1489,7 @@
                 <seg>།ཚེ་འདི་ལ་ཆུང་མ་མང་པོ་འཆང་བ་གང་ཡིན་པ་དེ་ནི་ལྕགས་ཀྱི་རང་ཐག་ཏུ་འཐག་པའི་སེམས་ཅན་དམྱལ་བར་ལྟུང་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Those who keep many wives in this life will fall into the hells where they will be pulverized by iron millstones.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-120"/>
+                <seg>Those who keep many wives in this life will fall into the hells where they will be pulverized by iron millstones.<tei:note xml:id="UT22084-076-008-120"/>
 </seg>
             </tuv>
 </tu>
@@ -1569,7 +1569,7 @@
                 <seg>།ཚེ་འདི་ལ་ཕག་གི་རྒྱུ་མ་དང་ཤ་ཟོས་པ་གང་ཡིན་པ་དེ་ནི་ཤི་འཕོས་ནས་ལྗན་ལྗིན་གྱིས་གང་བའི་སེམས་ཅན་དམྱལ་བར་ལྟུང་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Those who eat the intestines and flesh of pigs in this life, after death will fall into the hells filled with filth.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-121"/>
+                <seg>Those who eat the intestines and flesh of pigs in this life, after death will fall into the hells filled with filth.<tei:note xml:id="UT22084-076-008-121"/>
 </seg>
             </tuv>
 </tu>
@@ -1579,7 +1579,7 @@
                 <seg>།ཚེ་འདི་ལ་ཉ་གསོན་པོར་ཟོས་པ་གང་ཡིན་པ་དེ་ནི་ཤི་འཕོས་ནས་མཚོན་ཆ་དང་། དབྱིག་པ་དང་། རལ་གྲིའི་སོ་ཅན་གྱི་ལྗོན་ཤིང་དང་ལྡན་པའི་སེམས་ཅན་དམྱལ་བར་ལྟུང་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Those who eat live fish in this life, after death will fall into the hells with trees made of weapons, clubs, and saws.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-122"/>
+                <seg>Those who eat live fish in this life, after death will fall into the hells with trees made of weapons, clubs, and saws.<tei:note xml:id="UT22084-076-008-122"/>
 </seg>
             </tuv>
 </tu>
@@ -1599,7 +1599,7 @@
                 <seg>།ཚེ་འདི་ལ་ཕྲ་མ་བྱས་ནས་དཀྲུགས་མ་བྱས་པ་གང་ཡིན་པ་དེ་ནི་ཤི་འཕོས་ནས་ལྕགས་ཀྱི་ཐོང་གཤོལ་གྱིས་རྨོ་བའི་སེམས་ཅན་དམྱལ་བར་ལྟུང་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Those who sow discord with divisive speech in this life, after death will fall into the hells where they will be tilled by iron plows.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-123"/>
+                <seg>Those who sow discord with divisive speech in this life, after death will fall into the hells where they will be tilled by iron plows.<tei:note xml:id="UT22084-076-008-123"/>
 </seg>
             </tuv>
 </tu>
@@ -1619,7 +1619,7 @@
                 <seg>།ཚེ་འདི་ལ་བརྫུན་མང་དུ་སྨྲས་པ་གང་ཡིན་པ་དེ་ནི་ཤི་འཕོས་ནས་ལྕེ་ལྕགས་ཀྱི་གཟེར་གྱིས་འདེབས་པའི་སེམས་ཅན་དམྱལ་བར་ལྟུང་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Those who speak many falsehoods in this life, after death will fall into the hells where they will be impaled with iron needles.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-124"/> “
+                <seg>Those who speak many falsehoods in this life, after death will fall into the hells where they will be impaled with iron needles.<tei:note xml:id="UT22084-076-008-124"/> “
 </seg>
             </tuv>
 </tu>
@@ -1630,7 +1630,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-076-008-125"/>Those who take life and offer it to perverse gods, after death will fall into the hells where they will be beaten with iron pestles.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-126"/>
+                    <tei:milestone xml:id="UT22084-076-008-125"/>Those who take life and offer it to perverse gods, after death will fall into the hells where they will be beaten with iron pestles.<tei:note xml:id="UT22084-076-008-126"/>
 </seg>
             </tuv>
 </tu>
@@ -1640,7 +1640,7 @@
                 <seg>།ཚེ་འདི་ལ་བོན་མོ་བྱས་ནས་འདྲེ་གདོན་གྱི་ཚིག་འདོན་ཅིང་གཞན་དག་བསླུས་ཏེ་ནོར་བླངས་པ་གང་ཡིན་པ་དེ་ནི་ཤི་འཕོས་ནས་ཤའི་རི་ལྟ་བུའི་སེམས་ཅན་དམྱལ་བར་ལྟུང་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Those who, in this life, practice sorcery by chanting the words of ghosts and swindling people, after death will fall into the hells of mountains of flesh.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-127"/>
+                <seg>Those who, in this life, practice sorcery by chanting the words of ghosts and swindling people, after death will fall into the hells of mountains of flesh.<tei:note xml:id="UT22084-076-008-127"/>
 </seg>
             </tuv>
 </tu>
@@ -1650,7 +1650,7 @@
                 <seg>།ཚེ་འདི་ལ་བོན་མོ་བྱས་ནས་མིག་<tei:ref folio="F.203.b"/>བཙུམས་ཏེ། ས་ལ་ཉལ་ནས་གཞན་དག་ལ་མཐོ་རིས་སུ་སྐྱེ་བར་འགྱུར་རོ་ཞེས་དྲང་པོ་མ་ཡིན་པའི་འདྲེ་གདོན་དག་གིས་ལེན་པ་གང་ཡིན་པ་དེ་ནི་ཤི་འཕོས་ནས་རྐེད་པ་གཏུབ་པའི་སེམས་ཅན་དམྱལ་བར་ལྟུང་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Those who, in this life, practice sorcery by lying on the ground with their eyes closed, summoning ghosts, and uttering falsehoods such as ‘you will be reborn in the higher realms,’ after death will fall into the hells where their waists will be severed.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-128"/>
+                <seg>Those who, in this life, practice sorcery by lying on the ground with their eyes closed, summoning ghosts, and uttering falsehoods such as ‘you will be reborn in the higher realms,’ after death will fall into the hells where their waists will be severed.<tei:note xml:id="UT22084-076-008-128"/>
 </seg>
             </tuv>
 </tu>
@@ -1660,7 +1660,7 @@
                 <seg>།ཚེ་འདི་ལ་བོན་མོ་བྱས་ནས་གཞན་དག་གི་སྲོག་བཅད་དེ། ལྷ་འདྲེ་དང་ལམ་ལྔའི་སའི་བདག་པོ་དང་སྲིན་མོ་ལ་སོགས་པ་ལ་མཆོད་པ་བྱེད་དུ་བཅུག་པ་གང་ཡིན་པ་འདི་ལྟ་བུ་ལ་སོགས་པ་དེ་དག་ཐམས་ཅད་ནི་སྐྱེས་བུ་བླུན་པོ་རྣམས་འདྲིད་པ་ཡིན་པས་ཤི་འཕོས་ནས་སྟ་རེས་གཅོད་པའི་སེམས་ཅན་དམྱལ་བར་ལྟུང་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Those who, in this life, practice sorcery by taking the lives of others and making them into offerings for gods, ghosts, the lords of the five paths, demonesses, and other such beings are all fools who have been deceived. They will therefore fall into the hells where they will be hacked up with axes.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-129"/>
+                <seg>Those who, in this life, practice sorcery by taking the lives of others and making them into offerings for gods, ghosts, the lords of the five paths, demonesses, and other such beings are all fools who have been deceived. They will therefore fall into the hells where they will be hacked up with axes.<tei:note xml:id="UT22084-076-008-129"/>
 </seg>
             </tuv>
 </tu>
@@ -1690,7 +1690,7 @@
                 <seg>ཀླུ་རྣམས་བདེ་བར་འགོད་པ་དང་། དར་གྱི་སྲིན་བུ་དག་ལ་གཏང་རག་གཏོང་བ་དང་། སྲིན་མནན་ནས་སྐྱེས་བུ་བླུན་པོ་དག་བསླུས་ཏེ། ནོར་མང་པོར་བླངས་པ་དང་། བརྫུན་ཚིག་གིས་བཟང་ངན་སྟོན་པ་གང་ཡིན་པ་དེ་དག་ནི་ཤི་འཕོས་ནས་ལྕགས་ཀྱི་དྲ་བ་ཅན་གྱི་སེམས་ཅན་དམྱལ་བར་ལྟུང་བར་འགྱུར་བས་བྱ་འདབ་ཆགས་མ་རུངས་པ་ཚད་མེད་པ་སྙེད་དེའི་ལུས་ལ་འདུས་ཏེ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Those who, in this life, practice sorcery by burying the corpses of the dead, by making prognostications of the good and bad omens of houses and of the fortune or lack thereof of the five families, by appeasing the nāgas, by making thanksgiving offerings of crushed silkworms,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-130"/> and by deceiving fools to take their wealth with false prognostications, after death will fall into the hells of iron webs.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-131"/>
+                <seg>Those who, in this life, practice sorcery by burying the corpses of the dead, by making prognostications of the good and bad omens of houses and of the fortune or lack thereof of the five families, by appeasing the nāgas, by making thanksgiving offerings of crushed silkworms,<tei:note xml:id="UT22084-076-008-130"/> and by deceiving fools to take their wealth with false prognostications, after death will fall into the hells of iron webs.<tei:note xml:id="UT22084-076-008-131"/>
 </seg>
             </tuv>
 </tu>
@@ -1700,7 +1700,7 @@
                 <seg>ཤ་རྣམས་མ་ལུས་པར་ཟོས་ནས་རུས་པ་དང་རྒྱུས་པ་རྣམས་ཀྱང་འཐོག་པར་བྱེད་པས་སྡུག་བསྔལ་དཔག་ཏུ་མེད་པ་དག་མྱོང་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>There, their bodies will be swarmed by countless malevolent birds that will consume the entirety of their flesh before pecking away at their bones and innards,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-132"/> causing them immeasurable suffering.
+                <seg>There, their bodies will be swarmed by countless malevolent birds that will consume the entirety of their flesh before pecking away at their bones and innards,<tei:note xml:id="UT22084-076-008-132"/> causing them immeasurable suffering.
 </seg>
             </tuv>
 </tu>
@@ -1740,7 +1740,7 @@
                 <seg>གཞན་ཡང་སེམས་ཅན་དམྱལ་བ་ཆུང་ངུ་བརྒྱ་སུམ་ཅུ་རྩ་དྲུག་པོ་ཀུན་ཏུ་འཇུག་ཅིང་བསྐལ་པ་གཅིག་གམ། བསྐལ་པ་གཉིས་སམ། བསྐལ་པ་ལྔ་བརྒྱའི་བར་དུ་སྡུག་བསྔལ་མྱོང་ནས་དེའི་འོག་ཏུ་གདོད་ཐར་བར་གྱུར་ཏེ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>They will then find themselves in the one hundred thirty-six minor hells, where they will suffer for one eon, two eons, or even up to five hundred eons, after which they will finally escape.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-133"/>
+                <seg>They will then find themselves in the one hundred thirty-six minor hells, where they will suffer for one eon, two eons, or even up to five hundred eons, after which they will finally escape.<tei:note xml:id="UT22084-076-008-133"/>
 </seg>
             </tuv>
 </tu>
@@ -1771,7 +1771,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-076-008-134"/>The Blessed One<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-135"/> continued, “As a human, having a body that is large and pungent and being quick to anger and difficult to liberate comes from having previously been a camel.
+                    <tei:milestone xml:id="UT22084-076-008-134"/>The Blessed One<tei:note xml:id="UT22084-076-008-135"/> continued, “As a human, having a body that is large and pungent and being quick to anger and difficult to liberate comes from having previously been a camel.
 </seg>
             </tuv>
 </tu>
@@ -1791,7 +1791,7 @@
                 <seg>།མིར་གྱུར་ཀྱང་གྲང་བ་དང་། ཚ་བ་དག་བཟོད་ཅིང་སེམས་ལ་འཛིན་པ་མེད་པ་གང་ཡིན་པ་དེ་ནི་སྔོན་གླང་བྱས་པ་ལས་འོངས་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, being able to endure heat and cold yet unable to mentally retain anything comes from having previously been an ox.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-136"/>
+                <seg>As a human, being able to endure heat and cold yet unable to mentally retain anything comes from having previously been an ox.<tei:note xml:id="UT22084-076-008-136"/>
 </seg>
             </tuv>
 </tu>
@@ -1801,7 +1801,7 @@
                 <seg>།མིར་གྱུར་ཀྱང་སྒྲ་སྐད་ཆེ་བ་དང་། ངོ་ཚ་མེད་ཅིང་ཁྲེལ་མེད་པ་དང་། སྲེད་པ་དང་། གྲང་བ་མང་ཞིང་ལེགས་ཉེས་ཀྱི་བྱེ་བྲག་མི་ཕྱེད་པ་གང་ཡིན་པ་དེ་ནི་སྔོན་བོང་བུ་བྱས་པ་ལས་འོངས་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, having a loud voice, lacking shame and modesty, being full of craving, being lethargic,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-137"/> and not distinguishing good from ill comes from having previously been a donkey.
+                <seg>As a human, having a loud voice, lacking shame and modesty, being full of craving, being lethargic,<tei:note xml:id="UT22084-076-008-137"/> and not distinguishing good from ill comes from having previously been a donkey.
 </seg>
             </tuv>
 </tu>
@@ -1821,7 +1821,7 @@
                 <seg>།མིར་གྱུར་ཀྱང་ལུས་རིང་ཞིང་མིག་ཟླུམ་པ་དང་འབྲོག་དགོན་པ་ན་མང་དུ་རྒྱུ་བ་དང་། བུ་དང་ཆུང་མ་ལ་སྡང་བ་གང་ཡིན་པ་དེ་ནི་སྔོན་སྟག་བྱས་པ་ལས་འོངས་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, being tall with round eyes, often wandering in the wilderness, and being averse<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-138"/> to one’s children and wife<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-139"/> comes from having previously been a tiger.
+                <seg>As a human, being tall with round eyes, often wandering in the wilderness, and being averse<tei:note xml:id="UT22084-076-008-138"/> to one’s children and wife<tei:note xml:id="UT22084-076-008-139"/> comes from having previously been a tiger.
 </seg>
             </tuv>
 </tu>
@@ -1841,7 +1841,7 @@
                 <seg>།མིར་གྱུར་ཀྱང་རང་བཞིན་མི་བརྟན་ཞིང་སྲོག་ཆགས་ཕྲ་མོ་གསོད་པ་ལ་དགའ་བ་གང་ཡིན་པ་དེ་ནི་སྔོན་གྱི་ཝ་བྱས་པ་ལས་འོངས་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, being of an unstable nature and delighting in killing tiny creatures comes from having previously been a fox.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-140"/>
+                <seg>As a human, being of an unstable nature and delighting in killing tiny creatures comes from having previously been a fox.<tei:note xml:id="UT22084-076-008-140"/>
 </seg>
             </tuv>
 </tu>
@@ -1851,7 +1851,7 @@
                 <seg>།མིར་གྱུར་ཀྱང་དཔའ་ཞིང་བཤོར་བ་དང་། འདོད་ཆགས་ཆུང་ཞིང་ཆུང་མ་ལ་སྲེད་པ་མེད་པ་གང་ཡིན་པ་དེ་ནི་སྔོན་སྤྱང་ཀི་བྱས་པ་ལས་འོངས་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, being strong and skilled in hunting,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-141"/> having little desire, and lacking craving for a wife comes from having previously been a wolf.
+                <seg>As a human, being strong and skilled in hunting,<tei:note xml:id="UT22084-076-008-141"/> having little desire, and lacking craving for a wife comes from having previously been a wolf.
 </seg>
             </tuv>
 </tu>
@@ -1861,7 +1861,7 @@
                 <seg>།མིར་གྱུར་ཀྱང་གོས་བཟང་པོ་<tei:ref folio="F.204.b"/>ལ་མི་དགའ་བ་དང་། མ་ཡིན་པ་བྱས་པ་དག་ལ་རྟོག་པ་དང་། གཉིད་ཆུང་ཞིང་ཞེ་སྡང་མང་བ་གང་ཡིན་པ་དེ་ནི་སྔོན་ཁྱི་བྱས་པ་ལས་འོངས་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, disliking fine clothing, ruminating over mistakes, sleeping little, and being full of anger comes from having previously been a dog.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-142"/>
+                <seg>As a human, disliking fine clothing, ruminating over mistakes, sleeping little, and being full of anger comes from having previously been a dog.<tei:note xml:id="UT22084-076-008-142"/>
 </seg>
             </tuv>
 </tu>
@@ -1871,7 +1871,7 @@
                 <seg>།མིར་གྱུར་ཀྱང་གཡེམ་པ་ལ་དགའ་ཞིང་སྐྱེ་བོ་མང་པོའི་ཡིད་དུ་འོང་བའི་གཏམ་བརྗོད་པ་ལ་མངོན་པར་དགའ་བ་གང་ཡིན་པ་དེ་ནི་སྔོན་ནེ་ཙོ་བྱས་པ་ལས་འོངས་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, delighting in sexual misconduct and taking great pleasure in telling alluring tales to many people comes from having previously been a parrot.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-143"/>
+                <seg>As a human, delighting in sexual misconduct and taking great pleasure in telling alluring tales to many people comes from having previously been a parrot.<tei:note xml:id="UT22084-076-008-143"/>
 </seg>
             </tuv>
 </tu>
@@ -1891,7 +1891,7 @@
                 <seg>།མིར་གྱུར་ཀྱང་མིག་དམར་ཞིང་སོ་ཐུང་བ་དང་། སྨྲ་བའི་ཚེ་ལྦུ་བ་འབྱུང་ཞིང་ཉལ་ན་གོས་ཀྱིས་ལུས་དཀྲི་བར་བྱེད་པ་གང་ཡིན་པ་དེ་ནི་སྔོན་སྦྲུལ་དང་རྩངས་པ་བྱས་པ་ལས་འོངས་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, having red eyes and short teeth, spewing saliva when speaking, and enveloping oneself in cloth coverings when sleeping<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-144"/> comes from having previously been a snake or a lizard.
+                <seg>As a human, having red eyes and short teeth, spewing saliva when speaking, and enveloping oneself in cloth coverings when sleeping<tei:note xml:id="UT22084-076-008-144"/> comes from having previously been a snake or a lizard.
 </seg>
             </tuv>
 </tu>
@@ -1911,7 +1911,7 @@
                 <seg>།མིར་གྱུར་ཀྱང་གཅིག་པུ་དབེན་པར་གནས་ཤིང་ཟས་ལ་བརྐམ་པ་དང་། མཚན་མོ་གཉིད་ཆུང་བ་གང་ཡིན་པ་དེ་ནི་སྔོན་བྱི་ལ་བྱས་པ་ལས་འོངས་པ་ཡིན་ནོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, living in isolation, craving food, and sleeping little during the night comes from having previously been a cat.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-145"/>
+                <seg>As a human, living in isolation, craving food, and sleeping little during the night comes from having previously been a cat.<tei:note xml:id="UT22084-076-008-145"/>
 </seg>
             </tuv>
 </tu>
@@ -1932,7 +1932,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-076-008-146"/>The Blessed One<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-147"/> continued, “As a human, those who demolish stūpas and monasteries and hoard the property of the Three Jewels for their exclusive use will fall into the great hell of Avīci after death.
+                    <tei:milestone xml:id="UT22084-076-008-146"/>The Blessed One<tei:note xml:id="UT22084-076-008-147"/> continued, “As a human, those who demolish stūpas and monasteries and hoard the property of the Three Jewels for their exclusive use will fall into the great hell of Avīci after death.
 </seg>
             </tuv>
 </tu>
@@ -1942,7 +1942,7 @@
                 <seg>བྱེའུ་སྔོན་པོ་དང་། ཉ་དང་། རུས་སྦལ་དང་། སྤྲེའུ་དང་། རི་དགས་ཀྱི་ལུས་ལེན་པར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Even if they escape from this hell, they will take up a body in the animal realm, such as that of a pigeon, sparrow, duck, parrot, bluebird,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-148"/> fish, tortoise, monkey, or deer.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-149"/>
+                <seg>Even if they escape from this hell, they will take up a body in the animal realm, such as that of a pigeon, sparrow, duck, parrot, bluebird,<tei:note xml:id="UT22084-076-008-148"/> fish, tortoise, monkey, or deer.<tei:note xml:id="UT22084-076-008-149"/>
 </seg>
             </tuv>
 </tu>
@@ -1952,7 +1952,7 @@
                 <seg>།བརྒྱ་ལམ་ན་མིའི་ལུས་ཐོབ་པར་གྱུར་ན་ཡང་མ་ནིང་དང་། བུད་མེད་དང་། མཚན་གཉིས་པ་དང་། དབང་པོ་མེད་པ་དང་། <tei:ref folio="F.205.a"/>སྨད་འཚོང་མ་དག་ཏུ་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>In the rare event that they attain a human body, they will be a person labeled a paṇḍaka, a woman, a person with double gender, a person lacking in faculties, or a prostitute.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-150"/>
+                <seg>In the rare event that they attain a human body, they will be a person labeled a paṇḍaka, a woman, a person with double gender, a person lacking in faculties, or a prostitute.<tei:note xml:id="UT22084-076-008-150"/>
 </seg>
             </tuv>
 </tu>
@@ -1962,7 +1962,7 @@
                 <seg>།མིར་གྱུར་ཀྱང་ཁོང་ཁྲོ་བ་དག་ལ་མངོན་པར་དགའ་བ་དེ་ནི་ཤི་འཕོས་ནས་སྦྲུལ་གདུག་པ་དང་། སྟག་དང་། སེང་གེ་དང་། སྤྱང་ཀི་དང་། དོམ་དང་། དྲེད་དང་།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, those who take pleasure in anger will descend into the forms of poisonous snakes, tigers, lions, wolves, bears, brown bears, cats, and falcons.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-151"/>
+                <seg>As a human, those who take pleasure in anger will descend into the forms of poisonous snakes, tigers, lions, wolves, bears, brown bears, cats, and falcons.<tei:note xml:id="UT22084-076-008-151"/>
 </seg>
             </tuv>
 </tu>
@@ -1982,7 +1982,7 @@
                 <seg>།མིར་གྱུར་ཀྱང་གླེན་ཞིང་གཏི་མུག་པ་དང་། རིགས་པའི་ཚུལ་གང་ཡིན་པ་མི་ཤེས་པ་དེ་ནི་ཤི་འཕོས་ནས་གླང་པོ་ཆེ་དང་། ཕག་དང་། བ་ལང་དང་། ཆུ་གླང་དང་། སྲོ་ཤིག་དང་། སྦྲང་མ་དང་། སྦྲང་བུ་མཆུ་རིངས་དང་། གྲོག་མ་ལ་སོགས་པའི་ལུས་ལེན་པར་འགྱུར་ཏེ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, those who are foolish and ignorant and unable to understand analytical reasoning will take up the bodies of elephants, pigs, cows, water buffalo, lice, bees, mosquitoes, ants, and the like after death.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-152"/>
+                <seg>As a human, those who are foolish and ignorant and unable to understand analytical reasoning will take up the bodies of elephants, pigs, cows, water buffalo, lice, bees, mosquitoes, ants, and the like after death.<tei:note xml:id="UT22084-076-008-152"/>
 </seg>
             </tuv>
 </tu>
@@ -1992,7 +1992,7 @@
                 <seg>གལ་ཏེ་མིའི་ལུས་ཐོབ་པར་གྱུར་ན་ཡང་འོན་པ་དང་། ལོང་བ་དང་། ལྐུགས་པ་དང་། ལུས་ཀྱི་ཡན་ལག་མ་ཚང་བ་དང་། རྒྱབ་སྒུར་བ་དང་། དབང་པོ་མ་ཚང་བ་དག་ཏུ་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Even if they happen to attain a human body, they will be deaf, blind, mute, physically handicapped, or hunchbacked, or they will have incomplete faculties.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-153"/>
+                <seg>Even if they happen to attain a human body, they will be deaf, blind, mute, physically handicapped, or hunchbacked, or they will have incomplete faculties.<tei:note xml:id="UT22084-076-008-153"/>
 </seg>
             </tuv>
 </tu>
@@ -2022,7 +2022,7 @@
                 <seg>།མིར་གྱུར་ཀྱང་བླ་མའི་མཐུ་བསྙེམས་པའི་རྒྱུས་གཞན་གྱི་ནོར་ལེན་པ་གང་ཡིན་པ་དེ་ནི་ཤི་འཕོས་ནས་ཤའི་རི་ལྟ་བུའི་སེམས་ཅན་དམྱལ་བར་ལྟུང་བར་འགྱུར་ཞིང་སྐྱེ་བོ་བརྒྱ་སྟོང་མང་པོས་ལུས་ཀྱི་ཤ་བཅད་ནས་ཟ་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>As a human, those who boast of the guru’s power as a means of taking the wealth of others will fall into the hells of mountains of flesh after death, where the flesh of their bodies will be hacked apart and consumed by many hundreds of thousands of beings.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-154"/> “
+                <seg>As a human, those who boast of the guru’s power as a means of taking the wealth of others will fall into the hells of mountains of flesh after death, where the flesh of their bodies will be hacked apart and consumed by many hundreds of thousands of beings.<tei:note xml:id="UT22084-076-008-154"/> “
 </seg>
             </tuv>
 </tu>
@@ -2043,7 +2043,7 @@
                 <seg>།ཚེ་འདི་ལ་མཆོད་སྟོན་དྲལ་ནས་ནུབ་མོ་ཟན་ཟོས་པ་གང་ཡིན་པ་དེ་ནི་ཚེ་འཕོས་ནས་ཡི་དགས་འདྲེ་བཀྲེན་དག་ཏུ་ལྟུང་བས་ལོ་བརྒྱ་ཕྲག་མང་པོར་བཟའ་བ་དང་།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Those who tear apart feast offerings in this life and make an evening meal out of them will regress after death to the states of hungry ghosts and miserly ghosts.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-156"/>
+                <seg>Those who tear apart feast offerings in this life and make an evening meal out of them will regress after death to the states of hungry ghosts and miserly ghosts.<tei:note xml:id="UT22084-076-008-156"/>
 </seg>
             </tuv>
 </tu>
@@ -2053,7 +2053,7 @@
                 <seg>བཏུང་བ་མང་པོ་ཐོབ་པར་མི་འགྱུར་རོ། །འགྲོ་བའི་ཚེ་ལྷུ་ཚིགས་ཀུན་ཏུ་མེ་རབ་ཏུ་<tei:ref folio="F.205.b"/>འབར་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>They will thus not acquire much food or drink for many hundreds of years, and their joints will blaze with fire as they move about.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-157"/>
+                <seg>They will thus not acquire much food or drink for many hundreds of years, and their joints will blaze with fire as they move about.<tei:note xml:id="UT22084-076-008-157"/>
 </seg>
             </tuv>
 </tu>
@@ -2063,7 +2063,7 @@
                 <seg>།ཚེ་འདི་ལ་སྒྲེན་མོར་འདུག་པ་ལ་མངོན་པར་དགའ་བ་གང་ཡིན་པ་དེ་ནི་ཚེ་འཕོས་ནས་གྲང་བས་སྒྲིབས་པའི་སྲིན་བུ་དག་ཏུ་སྐྱེ་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Those who delight in staying in the nude in this life will be reborn after death as insects who are numb with cold.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-158"/>
+                <seg>Those who delight in staying in the nude in this life will be reborn after death as insects who are numb with cold.<tei:note xml:id="UT22084-076-008-158"/>
 </seg>
             </tuv>
 </tu>
@@ -2073,7 +2073,7 @@
                 <seg>།ཚེ་འདི་ལ་མཆོད་སྟོན་གྱི་ཟས་ལྷག་མ་ཁྱེར་བ་གང་ཡིན་པ་དེ་ནི་ཤི་འཕོས་ནས་ལྕགས་ཀྱི་ས་གཞི་རབ་ཏུ་ཚ་བའི་སེམས་ཅན་དམྱལ་བར་ལྟུང་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Those who take the leftovers from feast offerings with them in this life will descend after death into the hell realms whose iron grounds are blazing hot.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-159"/>
+                <seg>Those who take the leftovers from feast offerings with them in this life will descend after death into the hell realms whose iron grounds are blazing hot.<tei:note xml:id="UT22084-076-008-159"/>
 </seg>
             </tuv>
 </tu>
@@ -2093,7 +2093,7 @@
                 <seg>།ཚེ་འདི་ལ་དེ་བཞིན་གཤེགས་པའི་སྐུ་གཟུགས་ལ་ཕྱག་བྱེད་ན་ཡང་མགོ་བོ་ས་ལ་མི་གཏུག་པ་གང་ཡིན་པ་དེ་ནི་ཤི་འཕོས་ནས་མགོ་ཐུར་དུ་དཔྱངས་པའི་སེམས་ཅན་དམྱལ་བར་ལྟུང་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Those who do not touch their heads to the floor when prostrating to statues of the thus-gone ones in this life will descend into the hells where they hang upside down after death.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-160"/>
+                <seg>Those who do not touch their heads to the floor when prostrating to statues of the thus-gone ones in this life will descend into the hells where they hang upside down after death.<tei:note xml:id="UT22084-076-008-160"/>
 </seg>
             </tuv>
 </tu>
@@ -2123,7 +2123,7 @@
                 <seg>།ཚེ་འདི་ལ་དྲིལ་ཆེན་གྱི་སྒྲ་ཐོས་ཀྱང་མི་ལྡང་བ་གང་ཡིན་པ་དེ་ནི་ཤི་འཕོས་ནས་སྦྲུལ་ལུས་ཆེན་པོ་དག་ཏུ་ལྟུང་བར་འགྱུར་ཞིང་ལུས་རིང་ལ་ཆེ་བས་སྲོག་ཆགས་ཕྲ་མོ་མང་པོ་རྣམས་ཀྱིས་བཟའ་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Those who do not rise despite hearing the big bell ring in this life will regress to the state of large-bodied snakes.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-161"/> As their bodies will be long and large, they will be devoured by many small bugs.
+                <seg>Those who do not rise despite hearing the big bell ring in this life will regress to the state of large-bodied snakes.<tei:note xml:id="UT22084-076-008-161"/> As their bodies will be long and large, they will be devoured by many small bugs.
 </seg>
             </tuv>
 </tu>
@@ -2133,7 +2133,7 @@
                 <seg>།ཚེ་འདི་ལ་ལག་པ་རྒྱབ་ཏུ་བསྟན་ཏེ། དེ་བཞིན་གཤེགས་པ་ལ་ཕྱག་བྱས་པ་གང་ཡིན་པ་དེ་ནི་ཤི་འཕོས་ནས་ཕྱིན་ཀ་ལོག་ཏུ་བཅིངས་པའི་སེམས་ཅན་དམྱལ་བར་ལྟུང་བར་འགྱུར་ཏེ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Those who show their hands in a backward manner as they prostrate to the thus-gone ones in this life will fall into the hells where their hands are tightly bound behind their backs after death.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-162"/>
+                <seg>Those who show their hands in a backward manner as they prostrate to the thus-gone ones in this life will fall into the hells where their hands are tightly bound behind their backs after death.<tei:note xml:id="UT22084-076-008-162"/>
 </seg>
             </tuv>
 </tu>
@@ -2143,7 +2143,7 @@
                 <seg>གལ་ཏེ་མིར་སྐྱེས་པར་གྱུར་ན་ཡང་ཉེས་པ་མེད་པར་གྱོད་འབྱུང་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Even if they happen to be reborn as humans, they will get caught up in disputes despite being innocent.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-163"/> “
+                <seg>Even if they happen to be reborn as humans, they will get caught up in disputes despite being innocent.<tei:note xml:id="UT22084-076-008-163"/> “
 </seg>
             </tuv>
 </tu>
@@ -2154,7 +2154,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-076-008-164"/>Those who in this life join their palms and prostrate themselves with all five points<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-165"/> touching the ground<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-166"/> will always be of mighty lineages and experience continuous happiness.
+                    <tei:milestone xml:id="UT22084-076-008-164"/>Those who in this life join their palms and prostrate themselves with all five points<tei:note xml:id="UT22084-076-008-165"/> touching the ground<tei:note xml:id="UT22084-076-008-166"/> will always be of mighty lineages and experience continuous happiness.
 </seg>
             </tuv>
 </tu>
@@ -2184,7 +2184,7 @@
                 <seg>།ཚེ་འདི་ལ་ཆུང་མའི་ནོན་བྱས་ནས་ཕ་མ་ལ་སྤྱོས་པ་གང་ཡིན་པ་དེ་ནི་ཤི་འཕོས་ནས་ལྕེ་ཐོང་གཤོལ་གྱིས་རྨེད་པའི་སེམས་ཅན་དམྱལ་བར་ལྟུང་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Those who are pressured by their wives to rebuke their parents<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-167"/> in this life will fall into the hells of tongue plowing<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-168"/> after death.
+                <seg>Those who are pressured by their wives to rebuke their parents<tei:note xml:id="UT22084-076-008-167"/> in this life will fall into the hells of tongue plowing<tei:note xml:id="UT22084-076-008-168"/> after death.
 </seg>
             </tuv>
 </tu>
@@ -2194,7 +2194,7 @@
                 <seg>།<tei:ref folio="F.206.a"/>ཚེ་འདི་ལ་ཆང་གི་ནང་དུ་བསྣན་ཏེ། གཞན་དག་ལ་བྱིན་པ་གང་ཡིན་པ་དེ་ནི་ཤི་འཕོས་ནས་ཆུའི་ནང་དུ་སྲིན་བུ་དག་ཏུ་སྐྱེ་བར་འགྱུར་ཏེ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Those who in this life adulterate alcohol and give it to others will be reborn as water bugs after death.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-169"/>
+                <seg>Those who in this life adulterate alcohol and give it to others will be reborn as water bugs after death.<tei:note xml:id="UT22084-076-008-169"/>
 </seg>
             </tuv>
 </tu>
@@ -2215,7 +2215,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-076-008-170"/>The Blessed One said,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-171"/> “The multitudes of various forms of suffering that have been described all come about on account of the ten negative, nonvirtuous actions. At worst, they will serve as the causes and conditions for the hell realms.
+                    <tei:milestone xml:id="UT22084-076-008-170"/>The Blessed One said,<tei:note xml:id="UT22084-076-008-171"/> “The multitudes of various forms of suffering that have been described all come about on account of the ten negative, nonvirtuous actions. At worst, they will serve as the causes and conditions for the hell realms.
 </seg>
             </tuv>
 </tu>
@@ -2246,7 +2246,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-076-008-172"/>The inadmissible act of taking life will cause beings to fall into the hells, the animal realms, and the realm of the Lord of Death.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-173"/>
+                    <tei:milestone xml:id="UT22084-076-008-172"/>The inadmissible act of taking life will cause beings to fall into the hells, the animal realms, and the realm of the Lord of Death.<tei:note xml:id="UT22084-076-008-173"/>
 </seg>
             </tuv>
 </tu>
@@ -2256,7 +2256,7 @@
                 <seg>།གལ་ཏེ་མིར་སྐྱེས་པར་གྱུར་ན་ཡང་རྣམ་པར་སྨིན་པའི་འབྲས་བུ་རྣམ་པ་གཉིས་འཐོབ་པར་འགྱུར་ཏེ། ཚེ་ཐུང་བ་དང་། ནད་མང་བ་གང་ཡིན་པའོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Even if they happen to be reborn as humans, they will experience two types of ripened results: a short lifespan and an abundance of disease.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-174"/>
+                <seg>Even if they happen to be reborn as humans, they will experience two types of ripened results: a short lifespan and an abundance of disease.<tei:note xml:id="UT22084-076-008-174"/>
 </seg>
             </tuv>
 </tu>
@@ -2266,7 +2266,7 @@
                 <seg>།མ་བྱིན་པར་ལེན་པའི་ཁ་ན་མ་ཐོ་བ་གང་ཡིན་པ་དེ་ནི་སེམས་ཅན་དམྱལ་བ་དང་། དུད་འགྲོའི་སྐྱེ་གནས་དང་། གཤིན་རྗེའི་འཇིག་རྟེན་དག་ཏུ་ལྟུང་བར་བྱེད་དོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>The inadmissible act of taking what is not given causes beings to fall into the hells, the animal realms, and the realm of the Lord of Death.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-175"/>
+                <seg>The inadmissible act of taking what is not given causes beings to fall into the hells, the animal realms, and the realm of the Lord of Death.<tei:note xml:id="UT22084-076-008-175"/>
 </seg>
             </tuv>
 </tu>
@@ -2276,7 +2276,7 @@
                 <seg>།གལ་ཏེ་མིར་སྐྱེས་པར་གྱུར་ན་ཡང་རྣམ་པར་སྨིན་པའི་འབྲས་བུ་རྣམ་པ་གཉིས་འཐོབ་པར་འགྱུར་ཏེ། དབུལ་ཞིང་ཕོངས་པ་དང་། ནོར་ཐུན་མོང་དུ་འགྱུར་ཞིང་རང་དབང་མེད་པ་གང་ཡིན་པའོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Even if they happen to be reborn as humans, they will experience two types of ripened results: being poverty stricken and losing control over their wealth when it becomes collectivized.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-176"/>
+                <seg>Even if they happen to be reborn as humans, they will experience two types of ripened results: being poverty stricken and losing control over their wealth when it becomes collectivized.<tei:note xml:id="UT22084-076-008-176"/>
 </seg>
             </tuv>
 </tu>
@@ -2286,7 +2286,7 @@
                 <seg>།འདོད་པས་ལོག་པར་གཡེམ་པའི་ཁ་ན་མ་ཐོ་བ་གང་ཡིན་པ་དེ་ནི་སེམས་ཅན་རྣམས་སེམས་ཅན་དམྱལ་བ་དང་། དུད་འགྲོའི་སྐྱེ་གནས་དང་། གཤིན་རྗེའི་འཇིག་རྟེན་དག་ཏུ་ལྟུང་བར་བྱེད་དོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>The inadmissible act of sexual misconduct due to desire causes beings to fall into the hells, the animal realms, and the realm of the Lord of Death.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-177"/>
+                <seg>The inadmissible act of sexual misconduct due to desire causes beings to fall into the hells, the animal realms, and the realm of the Lord of Death.<tei:note xml:id="UT22084-076-008-177"/>
 </seg>
             </tuv>
 </tu>
@@ -2296,7 +2296,7 @@
                 <seg>།གལ་ཏེ་མིར་སྐྱེས་པར་གྱུར་ན་ཡང་རྣམ་པར་སྨིན་པའི་འབྲས་བུ་རྣམ་པ་གཉིས་འཐོབ་པར་འགྱུར་ཏེ། ཆུང་མ་གཞན་གྱིས་བྱི་བ་བྱེད་པ་དང་། ཆུང་མ་དང་ཕན་ཚུན་རྩོད་ཅིང་བདག་གི་སེམས་ཀྱིས་བསམས་བཞིན་དུ་མི་འགྱུར་བ་གང་ཡིན་པའོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Even if they happen to be reborn as humans, they will experience two types of ripened results: their wives will be unfaithful, and their two wives will fight and not follow their will.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-178"/>
+                <seg>Even if they happen to be reborn as humans, they will experience two types of ripened results: their wives will be unfaithful, and their two wives will fight and not follow their will.<tei:note xml:id="UT22084-076-008-178"/>
 </seg>
             </tuv>
 </tu>
@@ -2306,7 +2306,7 @@
                 <seg>།བརྫུན་དུ་སྨྲ་བའི་ཁ་ན་མ་ཐོ་བ་གང་ཡིན་པ་དེ་ནི་སེམས་ཅན་རྣམས་སེམས་ཅན་དམྱལ་བ་དང་། དུད་འགྲོའི་སྐྱེ་གནས་དང་། གཤིན་རྗེའི་འཇིག་རྟེན་དག་ཏུ་ལྟུང་བར་བྱེད་དོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>The inadmissible act of false speech causes beings to fall into the hells, the animal realms, and the realm of the Lord of Death.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-179"/>
+                <seg>The inadmissible act of false speech causes beings to fall into the hells, the animal realms, and the realm of the Lord of Death.<tei:note xml:id="UT22084-076-008-179"/>
 </seg>
             </tuv>
 </tu>
@@ -2316,8 +2316,8 @@
                 <seg>།གལ་ཏེ་མིར་སྐྱེས་<tei:ref folio="F.206.b"/>པར་གྱུར་ན་ཡང་རྣམ་པར་སྨིན་པའི་འབྲས་བུ་རྣམ་པ་གཉིས་འཐོབ་པར་འགྱུར་ཏེ། སྐུར་པ་མང་བ་དང་། རྟག་པར་གཞན་གྱིས་མང་དུ་བསླུས་པར་འགྱུར་བ་གང་ཡིན་པའོ། །ཕྲ་མ་བྱས་པའི་ཁ་ན་མ་ཐོ་བ་གང་ཡིན་པ་དེས་ནི་སེམས་ཅན་རྣམས་སེམས་ཅན་དམྱལ་བ་དང་།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Even if they happen to be reborn as humans, they will experience two types of ripened results: copious slander and always being deceived by others.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-180"/>
-                    <note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-181"/>
+                <seg>Even if they happen to be reborn as humans, they will experience two types of ripened results: copious slander and always being deceived by others.<tei:note xml:id="UT22084-076-008-180"/>
+                    <tei:note xml:id="UT22084-076-008-181"/>
 </seg>
             </tuv>
 </tu>
@@ -2337,7 +2337,7 @@
                 <seg>།གལ་ཏེ་མིར་སྐྱེས་པར་གྱུར་ན་ཡང་རྣམ་པར་སྨིན་པའི་འབྲས་བུ་རྣམ་པ་གཉིས་འཐོབ་པར་འགྱུར་ཏེ། རྟག་པར་སྒྲ་མི་སྙན་པ་ཐོས་པར་འགྱུར་བ་དང་། གང་ཅི་སྨྲས་ཀྱང་རུང་སྟེ། རྒྱུན་ཏུ་རྩོད་པ་ཅན་དུ་འགྱུར་བ་གང་ཡིན་པའོ། །ཚིག་ཀྱལ་པ་སྨྲས་པའི་ཁ་ན་མ་ཐོ་བ་གང་ཡིན་པ་དེ་ནི་སེམས་ཅན་རྣམས་སེམས་ཅན་དམྱལ་བ་དང་།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Even if they happen to be reborn as humans, they will experience two types of ripened results: always hearing unpleasant sounds and frequently becoming the subject of debate, no matter what they say.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-182"/>
+                <seg>Even if they happen to be reborn as humans, they will experience two types of ripened results: always hearing unpleasant sounds and frequently becoming the subject of debate, no matter what they say.<tei:note xml:id="UT22084-076-008-182"/>
 </seg>
             </tuv>
 </tu>
@@ -2347,7 +2347,7 @@
                 <seg>དུད་འགྲོའི་སྐྱེ་གནས་དང་། གཤིན་རྗེའི་འཇིག་རྟེན་དག་ཏུ་ལྟུང་བར་བྱེད་དོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>The inadmissible act of idle chatter causes beings to fall into the hells, the animal realms, and the realm of the Lord of Death.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-183"/>
+                <seg>The inadmissible act of idle chatter causes beings to fall into the hells, the animal realms, and the realm of the Lord of Death.<tei:note xml:id="UT22084-076-008-183"/>
 </seg>
             </tuv>
 </tu>
@@ -2357,7 +2357,7 @@
                 <seg>།གལ་ཏེ་མིར་སྐྱེས་པར་གྱུར་ན་ཡང་རྣམ་པར་སྨིན་པའི་འབྲས་བུ་རྣམ་པ་གཉིས་འཐོབ་པར་འགྱུར་ཏེ། བདེན་པ་ཞིག་སྨྲས་ན་ཡང་གཞན་དག་ཡིད་ཆེས་པར་མི་འགྱུར་བ་དང་། ཚིག་སྨྲས་པ་རྣམས་གཞན་གྱིས་གོ་བར་མི་འགྱུར་བ་གང་ཡིན་པའོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Even if they happen to be reborn as humans, they will experience two types of ripened results: not being believed by others even when they speak the truth and not being understood by others, no matter what they say.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-184"/>
+                <seg>Even if they happen to be reborn as humans, they will experience two types of ripened results: not being believed by others even when they speak the truth and not being understood by others, no matter what they say.<tei:note xml:id="UT22084-076-008-184"/>
 </seg>
             </tuv>
 </tu>
@@ -2367,7 +2367,7 @@
                 <seg>།བརྣབ་སེམས་བསྐྱེད་པའི་ཁ་ན་མ་ཐོ་བ་གང་ཡིན་པ་དེ་ནི་སེམས་ཅན་རྣམས་སེམས་ཅན་དམྱལ་བ་དང་། དུད་འགྲོའི་སྐྱེ་གནས་དང་། གཤིན་རྗེའི་འཇིག་རྟེན་དག་ཏུ་ལྟུང་བར་བྱེད་དོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>The inadmissible act of engendering covetousness causes beings to fall into the hells, the animal realms, and the realm of the Lord of Death.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-185"/>
+                <seg>The inadmissible act of engendering covetousness causes beings to fall into the hells, the animal realms, and the realm of the Lord of Death.<tei:note xml:id="UT22084-076-008-185"/>
 </seg>
             </tuv>
 </tu>
@@ -2387,7 +2387,7 @@
                 <seg>།གནོད་སེམས་ཀྱི་ཁ་ན་མ་ཐོ་བ་གང་ཡིན་པ་དེས་ནི་སེམས་ཅན་རྣམས་སེམས་ཅན་དམྱལ་བ་དང་། དུད་འགྲོའི་སྐྱེ་གནས་དང་། གཤིན་རྗེའི་འཇིག་རྟེན་དག་ཏུ་ལྟུང་བར་བྱེད་དོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>The inadmissible act of harboring ill will causes beings to fall into the hells, the animal realms, and the realm of the Lord of Death.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-186"/>
+                <seg>The inadmissible act of harboring ill will causes beings to fall into the hells, the animal realms, and the realm of the Lord of Death.<tei:note xml:id="UT22084-076-008-186"/>
 </seg>
             </tuv>
 </tu>
@@ -2397,7 +2397,7 @@
                 <seg>།གལ་ཏེ་མིར་སྐྱེས་པར་གྱུར་ན་ཡང་རྣམ་པར་སྨིན་པའི་འབྲས་བུ་རྣམ་པ་གཉིས་མྱོང་བར་འགྱུར་ཏེ། རྟག་པར་གཞན་གྱིས་གླགས་ཚོལ་བར་འགྱུར་བ་དང་། རྟག་པར་གཞན་གྱིས་གནོད་པ་བྱེད་པར་འགྱུར་བ་གང་ཡིན་པའོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Even if they happen to be reborn as humans, they will experience two types of ripened results: others will always try to take advantage of them, and they will constantly be harmed by others.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-187"/>
+                <seg>Even if they happen to be reborn as humans, they will experience two types of ripened results: others will always try to take advantage of them, and they will constantly be harmed by others.<tei:note xml:id="UT22084-076-008-187"/>
 </seg>
             </tuv>
 </tu>
@@ -2407,7 +2407,7 @@
                 <seg>།ལོག་པར་ལྟ་བའི་ཁ་ན་མ་ཐོ་བ་གང་ཡིན་པ་དེས་ནི་སེམས་ཅན་རྣམས་སེམས་ཅན་དམྱལ་བ་དང་། དུད་འགྲོའི་སྐྱེ་གནས་<tei:ref folio="F.207.a"/>དང་། གཤིན་རྗེའི་འཇིག་རྟེན་དག་ཏུ་ལྟུང་བར་བྱེད་དོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>The inadmissible act of wrong view causes beings to fall into the hells, the animal realms, and the realm of the Lord of Death.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-188"/>
+                <seg>The inadmissible act of wrong view causes beings to fall into the hells, the animal realms, and the realm of the Lord of Death.<tei:note xml:id="UT22084-076-008-188"/>
 </seg>
             </tuv>
 </tu>
@@ -2417,7 +2417,7 @@
                 <seg>།གལ་ཏེ་མིར་སྐྱེས་པར་གྱུར་ན་ཡང་རྣམ་པར་སྨིན་པའི་འབྲས་བུ་རྣམ་པ་གཉིས་འཐོབ་པར་འགྱུར་ཏེ། རྟག་པར་ལོག་པར་ལྟ་བའི་ཁྱིམ་དག་ཏུ་སྐྱེ་བར་འགྱུར་བ་དང་། སེམས་གཡོ་སྒྱུ་དང་བཅས་པར་འགྱུར་བ་གང་ཡིན་པའོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Even if they happen to be reborn as humans, they will experience two types of ripened results: always being reborn into households with wrong views and being pursued by devious thoughts.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-189"/> “
+                <seg>Even if they happen to be reborn as humans, they will experience two types of ripened results: always being reborn into households with wrong views and being pursued by devious thoughts.<tei:note xml:id="UT22084-076-008-189"/> “
 </seg>
             </tuv>
 </tu>
@@ -2439,7 +2439,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-076-008-191"/>Then, at that moment, those among the great gathering of retinues who had performed the ten negative, nonvirtuous actions heard the Blessed One explain the ripening of the sufferings of the hell realms, and they all wept and cried out to the Blessed One, “Blessed One, what sort of virtue, when practiced, will free us from such suffering?”<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-192"/>
+                    <tei:milestone xml:id="UT22084-076-008-191"/>Then, at that moment, those among the great gathering of retinues who had performed the ten negative, nonvirtuous actions heard the Blessed One explain the ripening of the sufferings of the hell realms, and they all wept and cried out to the Blessed One, “Blessed One, what sort of virtue, when practiced, will free us from such suffering?”<tei:note xml:id="UT22084-076-008-192"/>
 </seg>
             </tuv>
 </tu>
@@ -2450,7 +2450,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-076-008-193"/>The Blessed One responded, “Lead all beings toward meritorious actions.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-194"/>
+                    <tei:milestone xml:id="UT22084-076-008-193"/>The Blessed One responded, “Lead all beings toward meritorious actions.<tei:note xml:id="UT22084-076-008-194"/>
 </seg>
             </tuv>
 </tu>
@@ -2470,7 +2470,7 @@
                 <seg>སེམས་ཅན་གང་ལ་ལ་ཞིག་ཚེ་འདི་ལ་ཡོངས་སུ་བསྐུལ་བའི་བདག་པོ་ཆེན་པོ་བྱས་ཏེ། དེ་བཞིན་གཤེགས་པའི་མཆོད་རྟེན་དང་དྲི་གཙང་ཁང་དང་། གཙུག་ལག་ཁང་བརྩིགས་ན།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Anyone who acts as a great, influential leader in this life and constructs stūpas of the thus-gone ones, shrines, and monasteries<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-195"/> will, without a doubt, become a king in the future.
+                <seg>Anyone who acts as a great, influential leader in this life and constructs stūpas of the thus-gone ones, shrines, and monasteries<tei:note xml:id="UT22084-076-008-195"/> will, without a doubt, become a king in the future.
 </seg>
             </tuv>
 </tu>
@@ -2480,7 +2480,7 @@
                 <seg>མ་འོངས་པ་ན་གདོན་མི་ཟ་བར་རྒྱལ་པོ་བྱེད་ཅིང་སྐྱེ་བོ་མང་པོ་ལ་དབང་བྱེད་པར་འགྱུར་བས་གང་ཡང་ངག་མི་ཉན་པ་མེད་པར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>They will rule over many people and will never be disobeyed by anyone.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-196"/>
+                <seg>They will rule over many people and will never be disobeyed by anyone.<tei:note xml:id="UT22084-076-008-196"/>
 </seg>
             </tuv>
 </tu>
@@ -2500,7 +2500,7 @@
                 <seg>རྟ་ཕུན་སུམ་ཚོགས་པ་དང་ཅི་དང་ཅི་འདོད་པ་འབྱོར་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>They will have an abundance of clothing, food, and horses and will acquire whatever they desire.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-197"/>
+                <seg>They will have an abundance of clothing, food, and horses and will acquire whatever they desire.<tei:note xml:id="UT22084-076-008-197"/>
 </seg>
             </tuv>
 </tu>
@@ -2520,7 +2520,7 @@
                 <seg>ཕྱོགས་བཅུ་པོ་དག་ཏུ་དོན་གཉེར་བ་རྣམས་ཀྱང་འགྲུབ་པར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>They will be respected by everyone and will accomplish all their endeavors throughout the ten directions.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-198"/> “
+                <seg>They will be respected by everyone and will accomplish all their endeavors throughout the ten directions.<tei:note xml:id="UT22084-076-008-198"/> “
 </seg>
             </tuv>
 </tu>
@@ -2541,7 +2541,7 @@
                 <seg>།ཚེ་འདི་ལ་སྦྱིན་པ་གཏོང་བ་ལ་དགའ་བ་དང་། བྱམས་པའི་སེམས་ཀྱིས་སྲོག་ཆགས་གསོ་བར་དགའ་བ་གང་ཡིན་པ་དེ་ནི་སྐྱེ་བ་ཐམས་ཅད་ཕྱུག་པོར་འགྱུར་བས་གོས་ཟས་དག་རང་འབྱུང་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Those who delight in generosity and healing creatures with a loving attitude in this life will be wealthy in all their lives,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-200"/> as food and clothing naturally come to them.
+                <seg>Those who delight in generosity and healing creatures with a loving attitude in this life will be wealthy in all their lives,<tei:note xml:id="UT22084-076-008-200"/> as food and clothing naturally come to them.
 </seg>
             </tuv>
 </tu>
@@ -2551,7 +2551,7 @@
                 <seg>།ཚེ་འདི་ལ་སྐྱེ་བོ་མང་པོ་རྣམས་ལ་བཟའ་བ་དང་བཏུང་བ་སྦྱིན་པ་ལ་མངོན་པར་དགའ་བ་གང་ཡིན་པ་དེ་ནི་སྐྱེ་བ་ཐམས་ཅད་དུ་ལྷའི་ཟས་རང་འབྱུང་བར་འགྱུར་བ་དང་། གཟུགས་དང་སྟོབས་ཕུན་སུམ་ཚོགས་པ་དང་། དབང་པོ་རྣོ་ཞིང་སྤོབས་པ་དང་ལྡན་པ་དང་ཚེ་རིང་བར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Those who delight in offering food and drink to many people in this life will naturally acquire an abundance of divine foods in all their lifetimes,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-201"/> have a perfect physique with an abundance of strength, possess sharp faculties and eloquence, and have a long life. “
+                <seg>Those who delight in offering food and drink to many people in this life will naturally acquire an abundance of divine foods in all their lifetimes,<tei:note xml:id="UT22084-076-008-201"/> have a perfect physique with an abundance of strength, possess sharp faculties and eloquence, and have a long life. “
 </seg>
             </tuv>
 </tu>
@@ -2592,7 +2592,7 @@
                 <seg>།གང་གིས་ཐེག་པ་ཆེན་པོ་དེ་བཞིན་གཤེགས་པའི་གསང་བའི་སྙིང་པོ་འཁོར་མང་པོ་ལ་ཡང་དག་པར་བསྒྲགས་ནས་སེམས་ཀྱི་མིག་འབྱེད་པའི་ཆོས་སྨྲ་བ་གང་དག་ལ་སྦྱིན་པ་ཡོངས་སུ་བཏང་ན་རྣམ་པར་སྨིན་པའི་འབྲས་བུ་ཚད་མེད་པ་སྙེད་ཐོབ་པར་འགྱུར་རོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>If one practices generosity toward Dharma teachers who open the eyes of beings by proclaiming the secret essence of the thus-gone ones—that is, the Great Vehicle—to many followers, one will attain ripened results without measure.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-203"/>
+                <seg>If one practices generosity toward Dharma teachers who open the eyes of beings by proclaiming the secret essence of the thus-gone ones—that is, the Great Vehicle—to many followers, one will attain ripened results without measure.<tei:note xml:id="UT22084-076-008-203"/>
 </seg>
             </tuv>
 </tu>
@@ -2612,7 +2612,7 @@
                 <seg>།གཞན་ཡང་གང་ཟག་རྣམ་པ་གསུམ་ལ་སྦྱིན་པ་ཡོངས་སུ་བཏང་ན་རྣམ་པར་སྨིན་པའི་འབྲས་བུ་ཡོངས་སུ་གཏུགས་པར་མི་འགྱུར་ཏེ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Furthermore, if one practices generosity toward the three types of individuals, the ripened results will be inexhaustible.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-204"/>
+                <seg>Furthermore, if one practices generosity toward the three types of individuals, the ripened results will be inexhaustible.<tei:note xml:id="UT22084-076-008-204"/>
 </seg>
             </tuv>
 </tu>
@@ -2622,7 +2622,7 @@
                 <seg>དེ་བཞིན་གཤེགས་པ་རྣམས་དང་། ཕ་མ་དང་ནད་པ་རྣམས་སོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Those are the thus-gone ones,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-205"/> parents, and the sick.
+                <seg>Those are the thus-gone ones,<tei:note xml:id="UT22084-076-008-205"/> parents, and the sick.
 </seg>
             </tuv>
 </tu>
@@ -2653,7 +2653,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-076-008-206"/>Those who offer baths to many Saṅgha members in this life will have a lovely and beautiful face, will naturally come to possess clothing and food,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-207"/> and will be respected by many people in all their lives.
+                    <tei:milestone xml:id="UT22084-076-008-206"/>Those who offer baths to many Saṅgha members in this life will have a lovely and beautiful face, will naturally come to possess clothing and food,<tei:note xml:id="UT22084-076-008-207"/> and will be respected by many people in all their lives.
 </seg>
             </tuv>
 </tu>
@@ -2724,7 +2724,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-076-008-208"/>Ānanda,” said the Blessed One,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-209"/> “with these words, I have taught the causes and results according to this and other sūtras. Having been inspired to read, chant, and practice them, many beings will transcend the obstruction that is suffering.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-210"/>
+                    <tei:milestone xml:id="UT22084-076-008-208"/>Ānanda,” said the Blessed One,<tei:note xml:id="UT22084-076-008-209"/> “with these words, I have taught the causes and results according to this and other sūtras. Having been inspired to read, chant, and practice them, many beings will transcend the obstruction that is suffering.<tei:note xml:id="UT22084-076-008-210"/>
 </seg>
             </tuv>
 </tu>
@@ -2755,7 +2755,7 @@
                 <seg>ཇི་ལྟར་ཡོངས་སུ་གཟུང་བར་བགྱི།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>How should it be retained?”<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-212"/>
+                <seg>How should it be retained?”<tei:note xml:id="UT22084-076-008-212"/>
 </seg>
             </tuv>
 </tu>
@@ -2766,8 +2766,8 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-076-008-213"/>The Blessed One responded, “Ānanda,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-214"/> this Dharma teaching is known as Teaching the Causes and Results of Good and Ill, and it may likewise be retained<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-215"/> as The Aspiration Made for the Accomplishment of the Bodhisattva’s Conduct.”<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-216"/>
-                    <note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-217"/>
+                    <tei:milestone xml:id="UT22084-076-008-213"/>The Blessed One responded, “Ānanda,<tei:note xml:id="UT22084-076-008-214"/> this Dharma teaching is known as Teaching the Causes and Results of Good and Ill, and it may likewise be retained<tei:note xml:id="UT22084-076-008-215"/> as The Aspiration Made for the Accomplishment of the Bodhisattva’s Conduct.”<tei:note xml:id="UT22084-076-008-216"/>
+                    <tei:note xml:id="UT22084-076-008-217"/>
 </seg>
             </tuv>
 </tu>
@@ -2788,7 +2788,7 @@
                 <seg>།བུད་མེད་བརྒྱ་སྟོང་དུ་མ་ཚེ་འདི་ཉིད་ལ་བུད་མེད་ཀྱི་དབང་པོ་མེད་པར་གྱུར་ནས་སྐྱེས་པའི་ལུས་མངོན་པར་གྲུབ་པར་གྱུརད་ཏོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Many hundreds of thousands of women lost their female faculties and in this very life manifested fully formed male bodies.<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-219"/>
+                <seg>Many hundreds of thousands of women lost their female faculties and in this very life manifested fully formed male bodies.<tei:note xml:id="UT22084-076-008-219"/>
 </seg>
             </tuv>
 </tu>
@@ -2798,7 +2798,7 @@
                 <seg>།སྡིག་པ་སྤྱོད་པའི་སྐྱེ་དགུ་སྟོང་ཉིས་བརྒྱ་ནི་གདུག་པའི་སེམས་སྤངས་ནས་བདག་གི་ཚེ་རབས་དྲན་པར་གྱུརད་ཏོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Two thousand<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-220"/> beings with wicked ways abandoned their malevolent thoughts and recollected their past lives.
+                <seg>Two thousand<tei:note xml:id="UT22084-076-008-220"/> beings with wicked ways abandoned their malevolent thoughts and recollected their past lives.
 </seg>
             </tuv>
 </tu>
@@ -2818,7 +2818,7 @@
                 <seg>།ཚེ་འཕོ་བར་འགྱུར་བ་ཚད་མེད་པ་སྙེད་ནི་སངས་རྒྱས་ཀྱི་ཞིང་ཡོངས་སུ་དག་པར་སྐྱེས་ནས་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་དང་མཉམ་ཞིང་མཚུངས་པའི་གྲོགས་སུ་གྱུར་ཏོ།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Limitless beings who were to pass away<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-221"/> were reborn in the pure lands of the buddhas and accompanied the bodhisattvas as their equals.
+                <seg>Limitless beings who were to pass away<tei:note xml:id="UT22084-076-008-221"/> were reborn in the pure lands of the buddhas and accompanied the bodhisattvas as their equals.
 </seg>
             </tuv>
 </tu>
@@ -2829,7 +2829,7 @@
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-076-008-222"/>The Blessed One having spoken,<note xmlns="http://www.tei-c.org/ns/1.0" xml:id="UT22084-076-008-223"/> all the gathered assemblies returned to their respective homes as they created merit and rejoiced, full of delight.
+                    <tei:milestone xml:id="UT22084-076-008-222"/>The Blessed One having spoken,<tei:note xml:id="UT22084-076-008-223"/> all the gathered assemblies returned to their respective homes as they created merit and rejoiced, full of delight.
 </seg>
             </tuv>
 </tu>
