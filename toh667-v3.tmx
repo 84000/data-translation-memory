@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="linguae-dharmae/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-091-064" eft:text-version="v-1.0.9-2023"/>
+<body>
+<tu id="UT22084-091-064-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.199.a"/>༄༅༅། །རྒྱ་གར་སྐད་དུ། ཤྲཱི་མ་ཧཱ་ཀཱ་ལ་ཏནྟྲ། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་ནག་པོ་ཆེན་པོའི་རྒྱུད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Tantra of Glorious Mahākāla</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-3">
+    <prop type="location-id">UT22084-091-064-67</prop>
+    <tuv xml:lang="bo">
+                <seg>དབང་གི་རྟ་མཆོག་སྐུ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-67"/>Homage to the body of Enthralling Paramāśva.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-4">
+    <prop type="location-id">UT22084-091-064-67</prop>
+    <tuv xml:lang="bo">
+                <seg/>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-section-1-1"/>Chapter 1: The Introduction</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-5">
+    <prop type="location-id">UT22084-091-064-70</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན། ཤར་ལྷོའི་དུར་ཁྲོད་ཆེན་པོ་ཧ་ཧ་དྲག་ཏུ་རྒོད་པའི་གནས་ཤིང་ཙནྡན་གྱི་ནགས་ཚལ་རབ་ཏུ་དགའ་བའི་མིང་ཞེས་བྱ་བ་མི་མ་ཡིན་ཕོ་མོ་མང་པོ་འདུས་པའི་ཕོ་བྲང་དུ། དཔལ་ནག་པོ་ཆེན་པོ་ཞེས་བྱ་བ་བི་ནཱ་ཡ་ཀ་ལ་སོགས་ཏེ། དེའི་ཚེ་འཁོར་གདུག་པ་ཅན་རྣམས་ཀྱི་དབུས་ན། སྐྱེ་འགྲོ་སེམས་ཅན་རྣམས་ཀྱི་སྲོག་དབུགས་ལ་དབང་བྱེད་པའི་<tei:ref folio="F.199.b"/>ནག་པོ་ཆེན་པོ་ཞེས་བྱ་བ་ཅིག་ཡོད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-70"/>Thus did I hear at one time. At the southeastern charnel ground Aṭṭahāsa, in the sandalwood grove called Joyous, the vināyaka Glorious Mahākāla was present in the palace where a multitude of male and female nonhuman beings gathered. At the time, in the midst of a retinue of cruel beings, he was known as “Mahākāla Who Controls the Life Breath of Living Beings.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-6">
+    <prop type="location-id">UT22084-091-064-71</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཚེ་དེའི་དུས་ན་ནུབ་ཕྱོགས་ཀྱི་འཇིག་རྟེན་གྱི་ཁམས་ན། མཐར་བྱེད་རྟའི་རྒྱལ་པོ་ཞེས་བྱ་བ། རྒྱལ་པོ་ཆེན་པོ་བཞི་ལ་སོགས་པའི་འཁོར་གྱིས་བསྐོར་ཏེ། དྲེགས་པ་ཅན་འདུལ་བའི་ཏིང་ངེ་འཛིན་ལ་སྙོམས་པར་ཞུགས་ནས་ལྕགས་ཀྱུའི་ཕྱག་རྒྱ་བཅས་ནས། ཨོཾ་བཛྲ་ཀྲོ་དྷ་ཧ་ཡ་གྲཱི་བ་ཧཱུྃ་ཧུ་ལུ་ཧུ་ལུ་ཧཱུྃ་བྃ་ཞེས་བརྗོད་པས་དུར་ཁྲོད་ཧ་ཧ་དྲག་ཏུ་རྒོད་པའི་གནས་ནག་པོ་ཆེན་པོ། རང་དབང་མེད་པར་མཐར་བྱེད་རྟའི་རྒྱལ་པོའི་མངོན་དུ་བྱུང་སྟེ་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-71"/>At the same time, in the western world system, the King of Horses, Bringer of Death, was surrounded by an assembly of the Four Great Kings and the rest. He entered the absorption that tames arrogant beings while using the hook mudrā and reciting the mantra oṃ vajrakrodha hayagrīva hūṁ hulu hulu hūṁ vaṃ. Powerless to do otherwise, Mahākāla appeared before the King of Horses, Bringer of Death, from his abode in the Aṭṭahāsa charnel ground.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-7">
+    <prop type="location-id">UT22084-091-064-73</prop>
+    <tuv xml:lang="bo">
+                <seg>ལས་ཅི་བྱ་ཟེར་ཞིང་རང་རྟགས་སྲོག་གི་སྙིང་པོ་འདི་མདོངས་གསོལ་དུ་ཕུལ་བ། ཨོྃ་བཛྲ་མ་ཧཱ་ཀཱ་ལ་ཀྵིཾ་ཀྵེ་ཏྲ་བིགྷྣ་ན་བི་ནཱ་ཡ་ཀ་ཧཱུྃ་ཧཱུྃ་ཕཊ་ཅེས་ཕུལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-73"/>“What can I do for you?” he asked, and politely offered his own mark, the essence of his life force, oṃ vajra­mahākāla kṣiṃ kṣetra­vighnān vināyaka hūṁ hūṁ phaṭ.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-8">
+    <prop type="location-id">UT22084-091-064-74</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་ནག་པོ་ཆེན་པོའི་རྒྱུད་ལས་གླེང་གཞིའི་ལེའུ་སྟེ་དང་པོའོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-74"/>This is chapter 1 in “The Tantra of Glorious Mahākāla,” the “Introduction.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-9">
+    <prop type="location-id">UT22084-091-064-75</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་རྒྱལ་པོ་མིག་མི་བཟང་གིས་མཐར་བྱེད་རྟའི་རྒྱལ་པོ་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-section-1-2"/>Chapter 2: The Worship Rite and Sādhana<tei:milestone xml:id="UT22084-091-064-75"/> Then King Virūpakṣa supplicated the King of Horses, Bringer of Death, with the following verses:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-10">
+    <prop type="location-id">UT22084-091-064-76</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨེ་མ་པདྨ་ཁྲོས་པའི་བདག །ནག་པོ་ཆེན་པོ་དྲག་ཤུལ་ཅན། །གསང་བའི་སྒྲུབ་པ་བཤད་དུ་གསོལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-76"/>“O Wrathful Lotus Lord, Please explain the secret practice For the terrible form of Mahākāla. Regarding the acts for practicing the Lord,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-11">
+    <prop type="location-id">UT22084-091-064-77</prop>
+    <tuv xml:lang="bo">
+                <seg>མགོན་པོ་སྒྲུབ་པར་བྱ་བ་གང་། །བསད་ཅིང་ལུས་སྲོག་དབྱེ་བ་དང་། །མ་གྲུབ་ཤི་ས་བསྟན་པ་དང་། །མགོན་པོའི་རྟགས་དང་སེར་བ་རྣམས། །རྟ་མཆོག་ཆེན་པོས་བདག་ལ་སྩོལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-77"/>“Great Supreme Horse, please tell us about Killing and severing the life force and the body, Instructions for when the rite does not work, and the place of death, The Lord’s signs, and casting hailstorms.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-12">
+    <prop type="location-id">UT22084-091-064-79</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞེས་ཞུས་པས། དེ་ནས་པདྨ་ཁྲོས་པ་ཡིས། ནག་པོའི་སྒྲུབ་ཐབས་ཆེད་དུ་བརྗོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-79"/>Wrathful Lotus then gave the following teaching On the Black One’s sādhana: “For a mantrin who holds the samayas</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-13">
+    <prop type="location-id">UT22084-091-064-80</prop>
+    <tuv xml:lang="bo">
+                <seg>དམ་ཚིག་ལྡན་པའི་སྔགས་པ་ཡིས། །སངས་རྒྱས་བསྟན་པ་བསྲུང་སླད་དུ། །གཟའ་སྐར་ཚེས་གྲངས་ཤིས་པ་ལ། །དུར་ཁྲོད་ལ་སོགས་ཤིང་གཅིག་ཏུ། །བསོད་ནམས་ཚོགས་ནི་བསགས་བྱས་ལ། །ནག་པོ་ཆེན་པོ་བསྒྲུབ་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>To protect the teachings of the Buddha,<tei:milestone xml:id="UT22084-091-064-80"/> “They should gather the accumulation of merit During an auspicious planetary conjunction and lunar day In a place with a single tree such as a charnel ground And perform Mahākāla’s sādhana.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-14">
+    <prop type="location-id">UT22084-091-064-81</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕུངས་འམ་ས་ནག་དག་ལ་ནི། །སྟེགས་བུ་གྲུ་བཞི་བྱས་ནས་ནི། །དྲི་སྤོས་ཁྲག་གིས་ཆག་ཆག་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-81"/>“Construct a square altar using Soil from a mound or black soil, and Sprinkle it with perfume, incense, and blood.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-15">
+    <prop type="location-id">UT22084-091-064-81</prop>
+    <tuv xml:lang="bo">
+                <seg>དབུས་སུ་གྲུ་གསུམ་ཟླ་གམ་ལྡན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the middle, draw a triangle with a half moon</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-16">
+    <prop type="location-id">UT22084-091-064-83</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱི་རོལ་པདྨ་འདབ་བརྒྱད་བྲི། །དེ་དབུས་ཐོད་ཆེན་ནང་དུ་ནི། །ཤ་ལྔ་སྙིང་སྣས་བརྒྱན་པ་ཡིས། །གཏོར་མ་བཤོས་བུ་ཁྲུ་གང་ཚད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-83"/>“Surrounded by a lotus with eight petals. There should be a large skull in the middle of that, containing A bali offering and offering cake one cubit high, Adorned with the five meats and various bodily essences.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-17">
+    <prop type="location-id">UT22084-091-064-85</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལ་མདའ་གཟུགས་དམར་ནག་དར། །གྲི་སྙིང་ཙ་ཀ་ལི་ཡང་གཟུགས། །དེ་ཉིད་མགོན་པོའི་རྟེན་དུ་བཞག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-85"/>“One should insert an arrow and a dark red cloth into it, Along with a knife, a heart, and a small image of the deity. Set this out as the Lord’s seat.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-18">
+    <prop type="location-id">UT22084-091-064-86</prop>
+    <tuv xml:lang="bo">
+                <seg>ཌ་མ་རུ་ཡི་པགས་པའི་ནང་། །མགོན་པོའི་<tei:ref folio="F.200.a"/>སྲོག་སྔགས་བྲི་བར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Write the Lord’s life-force mantra<tei:milestone xml:id="UT22084-091-064-86"/> “On the inside of the skin of the ḍamaru.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-19">
+    <prop type="location-id">UT22084-091-064-86</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྡོ་ཡི་ནང་དུ་བླ་རྡོས་དྲིལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Roll it up with a soul stone and place it inside.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-20">
+    <prop type="location-id">UT22084-091-064-86</prop>
+    <tuv xml:lang="bo">
+                <seg>སྤོས་དང་རྒྱུན་གཏོར་གཏང་བར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Present an offering of incense and the daily bali. Set out the common offering to the Three Jewels.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-21">
+    <prop type="location-id">UT22084-091-064-88</prop>
+    <tuv xml:lang="bo">
+                <seg>དཀོན་མཆོག་སྤྱི་ལ་མཆོད་པ་བཤམ། །དེ་ནས་པདྨར་བདག་བསྒོམས་ལ། །ཐུགས་ཀའི་ཧྲཱིཿལས་འོད་འཕྲོས་པས། །བླ་མ་སངས་རྒྱས་ལ་སོགས་པ། །རང་གི་མདུན་དུ་བསམ་བྱས་ལ། །མཆོད་པ་རྣམ་ལྔ་དབུལ་བར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-88"/>“Visualize oneself on a lotus, Imagine light rays radiating from the hṛīḥ at the heart, Make the guru, the Buddha, and so forth Appear right before oneself,<tei:milestone xml:id="UT22084-091-064-89"/> “And offer them five offerings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-22">
+    <prop type="location-id">UT22084-091-064-88</prop>
+    <tuv xml:lang="bo">
+                <seg>རྣམ་དག་བདུན་གྱི་འོག་ཏུ་ནི། །ཚད་མེད་བཞི་པོ་བསྒོམ་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>After the sevenfold purification rite, Meditate on the four immeasurables, beginning with Equanimity and so forth, and the syllables vaṃ, raṃ, and tri.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-23">
+    <prop type="location-id">UT22084-091-064-90</prop>
+    <tuv xml:lang="bo">
+                <seg>བཏང་སྙོམས་ལ་སོགས་པྃ་རྃ་ཏྲི། །པད་སྟེངས་ཡི་གེ་ཧཱུཾ་ལས་ནི། །ནག་པོ་ཞལ་གཅིག་ཕྱག་དྲུག་པ། །གྲི་གུག་ཕྲེང་བ་ཌཱ་མ་རུ། །ཐོད་པ་མདུང་དང་ཞགས་པ་བསྣམས། །གཡས་གཡོན་རིམ་པས་བསྣམས་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-90"/>“Out of the syllable hūṁ on top of the lotus Emerges Mahākāla with a black face and six arms, Holding a hooked knife, rosary, ḍamaru, Skull, spear, and noose<tei:milestone xml:id="UT22084-091-064-91"/> “In his right hands and left hands respectively.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-24">
+    <prop type="location-id">UT22084-091-064-90</prop>
+    <tuv xml:lang="bo">
+                <seg>སྦྲུལ་དང་རིན་ཆེན་རྒྱན་གྱིས་བརྒྱན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He is adorned with snakes and jewelry.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-25">
+    <prop type="location-id">UT22084-091-064-90</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐུ་སྨད་བ་ཏི་ཁྲ་བོ་གསོལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He wears a multicolored garment on his lower body</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-26">
+    <prop type="location-id">UT22084-091-064-92</prop>
+    <tuv xml:lang="bo">
+                <seg>སྟག་ལྤགས་ཞིང་གི་ཤམ་ཐབས་ཅན། །གཏུམ་པོ་སྤྱན་གསུམ་མཆེ་བ་གཙིགས། །དཔྲལ་བར་དྲི་ཡི་ཐིག་ལེས་བརྒྱན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And a lower garment made of a tiger’s skin.<tei:milestone xml:id="UT22084-091-064-92"/> “He has three fierce eyes and bares his fangs. His forehead is adorned with a drop of filth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-27">
+    <prop type="location-id">UT22084-091-064-92</prop>
+    <tuv xml:lang="bo">
+                <seg>སྤྱི་གཙུག་མི་བསྐྱོད་སྤྲུལ་སྐུ་བརྟན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Akṣobhya’s emanation body sits on his crown.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-28">
+    <prop type="location-id">UT22084-091-064-92</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་བདག་མདུན་གསལ་བསྒོམས་ནས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Visualize him clearly before oneself while</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-29">
+    <prop type="location-id">UT22084-091-064-93</prop>
+    <tuv xml:lang="bo">
+                <seg>སྤྱན་དྲངས་མཆོད་དང་བཟླས་པ་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-93"/>“Performing the invitation, offering, and mantra recitation.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-30">
+    <prop type="location-id">UT22084-091-064-93</prop>
+    <tuv xml:lang="bo">
+                <seg>གཏོར་མ་པཱུ་ཛ་ལ་སོགས་པས། །ནག་པོ་ཆེ་ལ་སྦྱིན་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Present gifts to Mahākāla using the Bali offering, offering ceremony, and the like.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-31">
+    <prop type="location-id">UT22084-091-064-94</prop>
+    <tuv xml:lang="bo">
+                <seg>མགོན་པོའི་ཐུགས་ཀའི་ཧཱུྃ་ལས་ནི། །སྲོག་གི་ཡི་གེས་གཡས་ནས་བསྐོར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The syllables of the vitality mantra emerge from <tei:milestone xml:id="UT22084-091-064-94"/>“The hūṁ at the Lord’s heart and circle clockwise as one</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-32">
+    <prop type="location-id">UT22084-091-064-94</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁོར་ཡུག་དག་གིས་བཟླས་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Recites the following mantra in continuous rounds:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-33">
+    <prop type="location-id">UT22084-091-064-95</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་བཛྲ་མ་ཧཱ་ཀཱ་ལ་ཀྵིཾ་ཀྵེ་ཏྲ་བིགྷྣཱན་བི་ནཱ་ཡ་ཀ་ཧཱུྃ་ཧཱུྃ་ཕཊ། དེ་སྐད་ཅེས་ནི་རབ་བརྗོད་པས། །ནག་པོ་གྲུབ་པའི་རྟགས་རྣམས་འབྱུང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-95"/>oṃ vajra­mahākāla kṣiṃ kṣetra­vighnān vināyaka hūṁ hūṁ phaṭ |<tei:milestone xml:id="UT22084-091-064-96"/> An excellent recitation practice will result in signs That one has accomplished the Black One’s siddhi.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-34">
+    <prop type="location-id">UT22084-091-064-97</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་ནག་པོ་ཆེན་པོའི་རྒྱུད་ལས་བསྙེན་ཅིང་བསྒྲུབ་པའི་ལེའུ་སྟེ་གཉིས་པའོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-97"/>This is chapter 2 in “The Tantra of Glorious Mahākāla” on “The Worship Rite and Sādhana.”<tei:milestone xml:id="UT22084-091-064-section-1-3"/> Chapter 3: Severing the Life Force from the Body</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-35">
+    <prop type="location-id">UT22084-091-064-99</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ཡང་དག་བཤད་བྱ་བ། །སངས་རྒྱས་བསྟན་པ་བཤིག་པ་དང་། །རྣལ་འབྱོར་བར་ཆད་བྱེད་པ་རྣམས། །ནག་པོ་ཆེན་པོས་བསྒྲལ་འདོད་ན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-99"/>“Now I will teach the following: If one wants beings who destroy the Buddhist teachings Or create obstacles for yogins To be liberated by Mahākāla,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-36">
+    <prop type="location-id">UT22084-091-064-100</prop>
+    <tuv xml:lang="bo">
+                <seg>སྟེགས་བུ་གྲུ་བཞི་བྱས་ནས་ཀྱང་། །དྲག་པོ་ཨེ་ཡི་ནང་དུ་ནི། །ཕོ་མོ་རབས་ཆད་ཐོད་པའི་ནང་། །གཟུགས་ནི་སྤྲ་ཚིལ་དག་ལ་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-100"/>“Make a square altar again and place The skulls of a man and woman with no descendants With wax effigies inside of them Inside of a fierce triangular diagram.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-37">
+    <prop type="location-id">UT22084-091-064-102</prop>
+    <tuv xml:lang="bo">
+                <seg>མིང་རུས་དག་ནི་བཀོད་ནས་ཀྱང་། །བསད་དང་ན་བ་སྐབས་དང་སྦྱར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-102"/>“Affix their name and clan name and Add the word ‘kill’ or ‘infect’ as appropriate.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-38">
+    <prop type="location-id">UT22084-091-064-102</prop>
+    <tuv xml:lang="bo">
+                <seg>མགོན་པོའི་སྐུ་དང་དམ་རྫས་རྣམས། །ཁ་དང་ཁ་ལ་དགོད་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Set up the image of the Lord and the samaya substances, And place some in each of their mouths.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-39">
+    <prop type="location-id">UT22084-091-064-103</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕག་ཐོད་ནང་དུ་ཐུན་རྫས་བླུགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-103"/>“Place powerful substances in a boar’s skull</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-40">
+    <prop type="location-id">UT22084-091-064-103</prop>
+    <tuv xml:lang="bo">
+                <seg>རྟ་གཏོར་རྒྱུན་གཏོར་<tei:ref folio="F.200.b"/>གཡས་དང་གཡོན། །གསང་སྔགས་འདི་ཡིས་གསད་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And set the continual and daily bali offerings on the left and right.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-41">
+    <prop type="location-id">UT22084-091-064-105</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་བཛྲ་མ་ཧཱ་ཀཱ་ལ་ཀྵིཾ་ཀྵེ་ཏྲ་ཡ་བིགྷྣཱ་ན་བི་ནཱ་ཡ་ཀ་ཧཱུྃ་ཧཱུྃ་ཕཊ། ཨོཾ་མ་ཧཱ་ཀཱ་ལ་ཡ་ཤཱ་ས་ན་ཨུ་པ་ཀ་རི་ཎི་ཨེ་ཥ་ཨ་བཥྩི་མ་ཀཱ་ལོ་ཨ་ཡང་ཨི་དྃ་རཏྣ་ཏྲ་ཡཱ་ཡ་ཨ་པ་ཀཱ་རི་ཎྃ་ཡ་དི་པྲ་ཏི་ཛྙཱ་སྨར་སི་ཏ་དཱ་ཨི་དྃ་དུཥྚན་ཁ་ཁ་ཁཱ་ཧི་ཁཱ་ཧི། མཱ་ར་མཱ་ར། གྷྲྀཧྞ་གྷྲྀཧྞ། བནྡྷ་བནྡྷ། ཧ་ན་ཧ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-105"/>“Perform the killing rite with the following mantra: <tei:milestone xml:id="UT22084-091-064-106"/>oṃ vajramahākāla kṣiṃ kṣetravighnānvināyaka hūṁ hūṁ phaṭ | oṃ mahākālāyaśāsanopakāriṇieṣa apaścimakālo ’yam idaṃ ratnatrayāya apakāriṇaṃ yadi pratijñāṃsmarasi tadā idaṃ duṣṭaṃ kha kha khāhi khāhi | māra māra | ghṛhṇa ghṛhṇa | bandha bandha | hana hana | daha daha | paca paca | dinam ekena māraya hūṁ hūṁ phaṭ phaṭ | hūṁ vināyakavilāsatraṃ vi tri hūṁ ja si ma bu vināyaka create obstacles for the life force of so-and-so whose name has been written ja māraya I implore you! |<tei:milestone xml:id="UT22084-091-064-112"/> “Recite the fierce mantra while pelting them with the powerful substances.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-42">
+    <prop type="location-id">UT22084-091-064-105</prop>
+    <tuv xml:lang="bo">
+                <seg>ད་ཧ་ད་ཧ། པ་ཙ་པ་ཙ། དི་ན་མེ་ཀེ་ན་མཱ་ར་ཡ་ཧཱུཾ་ཧཱུཾ་ཕཊ་ཕཊ། ཧཱུཾ་བི་ནཱ་ཡ་ཀ་པི་ལས་ཏྲྃ་བི་ཏྲི་ཧཱུྃ་ཛ་སི་མ་བུ་བི་ནཱ་ཡ་ཀ་ཨ་མུ་ཀ་བྲི་སྲོག་ཧུར་ཐུམ་ཛ་མཱ་ར་ཡ་རྦད། དྲག་སྔགས་བཟླས་ཤིང་ཐུན་གྱིས་བྲབ། །ཞག་བདུན་བར་དུ་སྨྲ་མི་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Do not speak for an entire week.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-43">
+    <prop type="location-id">UT22084-091-064-105</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལ་རྟགས་རྣམས་རྫོགས་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>At that point, the signs will be directly apparent.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-44">
+    <prop type="location-id">UT22084-091-064-113</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་ནག་པོ་ཆེན་པོའི་རྒྱུད་ལས་ལུས་སྲོག་དབྱེ་བའི་ལེའུ་སྟེ་གསུམ་པའོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-113"/>This is chapter 3 in “The Tantra of Glorious Mahākāla” on “Severing the Life Force from the Body.”<tei:milestone xml:id="UT22084-091-064-section-1-4"/> Chapter 4: The Concluding Rite</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-45">
+    <prop type="location-id">UT22084-091-064-114</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ཡང་དག་བཤད་བྱ་བ། །ལས་མཐའ་སྦྱིན་སྲེག་དག་གིས་བརྟུལ། །གྲུ་གསུམ་དབུས་སུ་གདུག་པའི་ཤིང་། །དབུས་སུ་ནག་པོ་འཁོར་བཅས་བསྐྱེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-114"/>“Now I will explain the end of the rite, Which is concluded with a fire offering. Generate Mahākāla with his retinue in the middle Of a triangle of sarala pine branches.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-46">
+    <prop type="location-id">UT22084-091-064-116</prop>
+    <tuv xml:lang="bo">
+                <seg>ལིང་ག་གཏོར་མ་དམ་རྫས་རྣམས། །ནག་པོའི་ཞལ་དུ་དབུལ་བར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-116"/>“Place the effigy, bali offering, And ritual substances in Mahākāla’s mouth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-47">
+    <prop type="location-id">UT22084-091-064-116</prop>
+    <tuv xml:lang="bo">
+                <seg>སྔགས་འདི་བཟླས་ཤིང་བསྲེག་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Recite the mantra while performing the fire offering,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-48">
+    <prop type="location-id">UT22084-091-064-116</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨགྣེ་ཛྭ་ལ་རྃ་ལས་རྫོགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And finish with the phrase agne jvala raṃ.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-49">
+    <prop type="location-id">UT22084-091-064-117</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐལ་བ་རླུང་དམར་དག་ལ་བསྐུར། །ཨ་མུ་ཀ་ནི་མྱུར་དུ་རློག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-117"/>“Let the ashes be taken away by a strong wind. The target of the rite will quickly come to ruin.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-50">
+    <prop type="location-id">UT22084-091-064-118</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་ནག་པོ་ཆེན་པོའི་རྒྱུད་ལས་མཐའ་བརྟུལ་བའི་ལེའུ་སྟེ་བཞི་པའོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-118"/>This is chapter 4 in “The Tantra of Glorious Mahākāla” on “The Concluding Rite.” <tei:milestone xml:id="UT22084-091-064-section-1-5"/>Chapter 5: The Enhancing Rite for When the Rite Does Not Work, and the Mending Rite</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-51">
+    <prop type="location-id">UT22084-091-064-119</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ཡང་དག་བཤད་བྱ་བ། །དེ་ལྟར་བསྒྲུབས་ཀྱང་མ་གྲུབ་ན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-119"/>“Next, I shall teach the following: If one performs the practice but it does not work,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-52">
+    <prop type="location-id">UT22084-091-064-119</prop>
+    <tuv xml:lang="bo">
+                <seg>གཅིག་དང་གཉིས་ལ་ནན་ཏན་བསྐྱེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Generate it in earnest once or twice more.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-53">
+    <prop type="location-id">UT22084-091-064-120</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་བྱས་ཀྱང་མ་གྲུབ་ན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one does that and it still does not work,<tei:milestone xml:id="UT22084-091-064-120"/> “Make an image of the Black One out of</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-54">
+    <prop type="location-id">UT22084-091-064-122</prop>
+    <tuv xml:lang="bo">
+                <seg>ས་གསུམ་ཁྲག་གསུམ་དུག་གསུམ་ལ། །ཁྲུ་གང་པ་ཡི་གཟུགས་ཀྱི་ཚད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The three soils, three bloods, and three types of poison That is one cubit tall, and place it atop two switches So that it hovers over the middle of the triangle. <tei:milestone xml:id="UT22084-091-064-122"/>“The painting, samaya substances, and soul stone</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-55">
+    <prop type="location-id">UT22084-091-064-122</prop>
+    <tuv xml:lang="bo">
+                <seg>གྲུ་གསུམ་དབུས་སུ་ནག་པོའི་གཟུགས། །སྤྱི་ཚར་དག་ཏུ་ལྡིང་དུ་གཞུག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Are placed beneath one’s own triangular cushion And should be covered with poison and thorns. Pelt it with powerful substances while reciting this mantra:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-56">
+    <prop type="location-id">UT22084-091-064-123</prop>
+    <tuv xml:lang="bo">
+                <seg>བྲིས་སྐུ་དམ་རྫས་བླ་རྡོ་རྣམས། །རང་གི་གྲུ་གསུམ་མལ་གྱི་འོག །དུག་དང་ཚེར་མས་སྟེང་ནས་དགབ། །ཐུན་རྫས་བྲབ་ཅིང་སྔགས་འདི་བཟླས། །ཨོྃ་བཛྲ་ཀྲོ་དྷ་ཧ་ཡ་གྲི་བ་ཧཱུྃ་ཧུ་ལུ་ཧུ་ལུ་ཧཱུྃ་ཕཊ། ཕཊ་ཧཱུྃ་ཧཱུྃ་ཀ་ཡ་ནཱ་བི་ནཱན་གྷ་བི་ཏྲ་ཀྵེ་ཀྵིཾ་ལ་ཀཱ་ཧཱ་མ་བཛྲ་ཨོཾ། དེ་སྐད་བརྗོད་ཅིང་ཐུན་གྱིས་བྲབ། །དེ་ལ་རྟགས་རྣམས་རྫོགས་པ་དང་། །དེ་ནས་གསོ་བའི་ཆོ་ག་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-123"/>oṃ vajrakrodha hayagrīva hūṁ hulu hulu hūṁ phaṭ | phaṭ hūṁ hūṁ akayāniv nānghivarteṣk ṃiṣk alākāhamarjav oṃ |<tei:milestone xml:id="UT22084-091-064-125"/> “Signs that the rite has worked will become fully apparent while One is pelting it with powerful substances and reciting the mantra. After that, one should perform the mending ritual. Wash the painting, soul stone, and samaya substances<tei:milestone xml:id="UT22084-091-064-126"/> “With perfumed water and recite this mantra:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-57">
+    <prop type="location-id">UT22084-091-064-127</prop>
+    <tuv xml:lang="bo">
+                <seg>བྲིས་སྐུ་<tei:ref folio="F.201.a"/>བླ་རྡོ་དམ་རྫས་རྣམས། །སྤོས་ཆུས་བཀྲུ་ཞིང་སྔགས་འདི་བཟླས། །ཨོཾ་བཛྲ་མ་ཧཱ་ཀཱ་ལ་ཀྵིཾ་ཀྵེ་ཏྲ་བིགྷྣཱན་བི་ནཱ་ཡ་ཀ་ཧཱུྃ་ཧཱུྃ་ཕཊ་སོས་སོས་སྭཱ་ཧཱ། དེ་སྐད་བྱས་ལ་གནས་སུ་ནི། །མགོན་པོའི་གཟུགས་ཀྱང་སྤོས་ཆུས་བཀྲུ། །གྲུ་གསུམ་དབུས་སུ་བླངས་བྱས་ལ། །དགྲ་བོའི་མིང་རུས་སྙིང་གར་གཞུག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-127"/>oṃ vajramahākāla kṣiṃ kṣetravighnān vināyaka hūṁ hūṁ phaṭ mend mend svāhā |<tei:milestone xml:id="UT22084-091-064-128"/> “Wash the statue of the Lord with perfumed water In the location where you have recited the mantra. Remove it from the middle of the triangle and<tei:milestone xml:id="UT22084-091-064-129"/> “Place the enemy’s name and clan name in the heart.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-58">
+    <prop type="location-id">UT22084-091-064-127</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞག་བདུན་བསྒྲུབས་ལ་དགྲ་ལ་བསྐྱལ། །ཨ་མུ་ཀ་ནི་མྱུར་དུ་བརླག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Perform this practice for seven days, bring it to the enemy, And it will quickly destroy the designated target.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-59">
+    <prop type="location-id">UT22084-091-064-130</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་མགོན་པོ་ནག་པོའི་རྒྱུད་ལས་མ་གྲུབ་ན་སྤོགས་པའི་ཆོ་ག་དང་གསོ་བའི་ལེའུ་སྟེ་ལྔ་པའོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-130"/>This is chapter 5 in “The Tantra of Glorious Mahākāla” on “The Enhancing Rite for When the Rite Does Not Work and the Mending Rite.” <tei:milestone xml:id="UT22084-091-064-section-1-6"/>Chapter 6: A Series of Signs of Accomplishment<tei:milestone xml:id="UT22084-091-064-132"/> “Now, I will teach the following:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-60">
+    <prop type="location-id">UT22084-091-064-133</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ཡང་དག་བཤད་བྱ་བ། །བྱ་ནག་འཕུར་ཞིང་ལྡིང་བ་དང་། །མོན་པ་ཨ་ཙ་ར་དང་ནི། །དགེ་བཤེས་བནྡེ་སློབ་དཔོན་དང་། །འོད་དང་སྒྲ་དང་ཁང་པ་འཚེག །མགོན་པོའི་སྐུ་དག་དངོས་སུ་མཐོང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>A raven will take flight and circle, And tribal people, mendicants, Spiritual friends, venerable ones, and masters <tei:milestone xml:id="UT22084-091-064-133"/>“Will all perceive the Lord’s light, sound, Walled palace, and body before them.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-61">
+    <prop type="location-id">UT22084-091-064-135</prop>
+    <tuv xml:lang="bo">
+                <seg>དགྲ་ལ་དམག་དྲངས་སེམས་ཅན་བསད། །མི་ནག་བདག་ལ་སྙིང་སྟོབས་དང་། །མཛེ་པོ་དང་ནི་སྤྲང་པོ་དང་། །བྱ་ནག་ཐང་ལ་ལྷུང་བ་འབྱུང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The being leading the enemy’s army will be killed. Ordinary people will gain confidence.<tei:milestone xml:id="UT22084-091-064-135"/> “Lepers and beggars will arise, as will Ravens that have alighted in a field.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-62">
+    <prop type="location-id">UT22084-091-064-136</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་མགོན་པོ་ནག་པོ་ནག་པོའི་རྒྱུད་ལས་རྟགས་ཀྱི་རིམ་པའི་ལེའུ་སྟེ་དྲུག་པའོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-136"/>This is chapter 6 in “The Tantra of Glorious Mahākāla” on “A Series of Signs of Accomplishment.”<tei:milestone xml:id="UT22084-091-064-section-1-7"/> Chapter 7: Hailstorms</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-63">
+    <prop type="location-id">UT22084-091-064-137</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ཡང་དག་བཤད་བྱ་བ། །སེར་བ་དབབ་པའི་ལས་བྱ་ན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-137"/>“Next, I will teach the following: To perform a rite to make it hail,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-64">
+    <prop type="location-id">UT22084-091-064-138</prop>
+    <tuv xml:lang="bo">
+                <seg>མོན་ནམ་མཛེ་ཅན་ཐོད་པ་རུ། །འཁོར་ལོ་རྩིབས་བཞི་བྲིས་ནས་ཀྱང་། །རིགས་ལྔ་ཀླུ་ཡི་ས་བོན་དགོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Draw a wheel with four spokes In the skull of a tribal person or a leper.<tei:milestone xml:id="UT22084-091-064-138"/> “Inscribe it with the seed syllables of the five classes of nāgas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-65">
+    <prop type="location-id">UT22084-091-064-138</prop>
+    <tuv xml:lang="bo">
+                <seg>རྩིབས་ཆེན་སེར་སྲུང་མིང་རུས་དང་། །ཡུལ་དུ་ཕོབ་ཅིས་བྱ་བ་བྲིས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The large spokes should bear the name and family names of the hail protectors And have the phrase ‘fall in this country’ written on them.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-66">
+    <prop type="location-id">UT22084-091-064-139</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་མཐར་འཁོར་ལོ་རྩིབས་དགུ་ལ། །དྲེགས་པའི་སྔགས་དག་བྲི་བར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Write the mantras of the arrogant spirit beings <tei:milestone xml:id="UT22084-091-064-139"/>“On a wheel with nine spokes outside of that.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-67">
+    <prop type="location-id">UT22084-091-064-139</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱབ་ཏུ་གང་ཡིན་ཡུལ་མིང་དང་། །རླུང་གི་སྙིང་པོ་བྲི་བར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Write the name of the country and The wind heart mantra on the back side.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-68">
+    <prop type="location-id">UT22084-091-064-139</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་ཉིད་པདྨ་ཁྲོས་པར་བསྒོམ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Visualize yourself as Wrathful Lotus</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-69">
+    <prop type="location-id">UT22084-091-064-140</prop>
+    <tuv xml:lang="bo">
+                <seg>གསང་སྔགས་འདི་ཡིས་གནད་ལ་བོར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-140"/>“And strike their vital points using this mantra:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-70">
+    <prop type="location-id">UT22084-091-064-142</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་བཛྲ་མ་ཧཱ་ཀཱ་ལ་ཀྵིཾ་ཀྵེ་ཏྲ་བིགྷྣཱྃ་བི་ནཱ་ཡ་ཀ་ཧཱུྃ་ཧཱུྃ་ཕཊ། ནཱ་ག་སྙིང་གཟིར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-142"/>oṃ vajramahākāla kṣiṃ kṣetravighnān vināyaka hūṁ hūṁ phaṭ | torment the nāga’s mind | phu create obstacles ja khroṃ śar hril bhyo |<tei:milestone xml:id="UT22084-091-064-144"/> “Recite that mantra while</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-71">
+    <prop type="location-id">UT22084-091-064-145</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕུ་ཧུར་ཐུམ་ཛ་ཁྲོ་ཤར་ཧྲིལ་བྷྱོ། །དེ་སྐད་ཅེས་ནི་རབ་བརྗོད་ལ། །ཡུངས་ཀར་ཡུངས་ནག་སྐེ་ཚེ་དང་། །ཁྲག་དང་དུག་གིས་ཐོད་པར་བྲབ། །ལོ་འབྲས་རླུང་ཁྱེར་རྟགས་བྱུང་ན</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Pelting the skull with white and black Mustard seeds, blood, and poison.<tei:milestone xml:id="UT22084-091-064-145"/> “If a gust of wind carries off the harvest, it is a sign</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-72">
+    <prop type="location-id">UT22084-091-064-145</prop>
+    <tuv xml:lang="bo">
+                <seg>དགྲ་ཡི་ཡུལ་དུ་དབབ་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That hail will fall in the enemy’s country.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-73">
+    <prop type="location-id">UT22084-091-064-145</prop>
+    <tuv xml:lang="bo">
+                <seg>གལ་ཏེ་འཇིག་རྟེན་ཕུང་བའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If it does, it will bring ruin to the people.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-74">
+    <prop type="location-id">UT22084-091-064-146</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་མགོན་པོ་ནག་པོའི་རྒྱུད་ལས་སེར་བ་དབབ་པའི་ལེའུ་སྟེ་བདུན་པའོ།། །།<tei:ref folio="F.201.b"/>
+                </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-146"/>This is chapter 7 in “The Tantra of Glorious Mahākāla” on “Hailstorms.” <tei:milestone xml:id="UT22084-091-064-section-1-8"/>Chapter 8</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-75">
+    <prop type="location-id">UT22084-091-064-149</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ཡང་དག་ངེས་གསུངས་པ། །ཨེ་མ་འཁོར་འདུས་ངོ་མཚར་ཅན། །མ་འོངས་དམ་ཅན་སྒྲུབ་བྱེད་ན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-149"/>Then he gave the following definitive instruction: “Marvelous ones gathered in this assembly, In the future, when samaya holders perform this sādhana,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-76">
+    <prop type="location-id">UT22084-091-064-150</prop>
+    <tuv xml:lang="bo">
+                <seg>དམ་ཚིག་ལ་གནས་སྡོམ་པ་གཟུང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They should maintain the samayas, uphold the vows, <tei:milestone xml:id="UT22084-091-064-150"/>“And diligently perform the bali offerings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-77">
+    <prop type="location-id">UT22084-091-064-150</prop>
+    <tuv xml:lang="bo">
+                <seg>གཏོར་མ་དག་ལ་བརྩོན་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They should wear the samaya substances and soul stones on their body.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-78">
+    <prop type="location-id">UT22084-091-064-151</prop>
+    <tuv xml:lang="bo">
+                <seg>དམ་རྫས་བླ་རྡོ་ལུས་ལ་བསྲེལ། །ཞེས་གསུངས་པས་རྒྱལ་པོ་མིག་མི་བཟང་ལ་སོགས་པའི་འཁོར་རྣམས་ཡི་རངས་ནས། ནག་པོ་ཆེན་པོས་བསྟན་པ་སྲུང་བར་ཁས་བླངས་ནས་མི་སྣང་བར་གྱུར་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-151"/>After he said that, King Virūpakṣa along with the rest of the assembly rejoiced, promised to maintain Mahākāla’s teaching, and then vanished.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-79">
+    <prop type="location-id">UT22084-091-064-152</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་ནག་པོ་ཆེན་པོའི་རྒྱུད་ལས་ལེའུ་བརྒྱད་པ་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-152"/>This concludes chapter 8 in “The Tantra of Glorious Mahākāla.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-064-TU-80">
+    <prop type="location-id">UT22084-091-064-153</prop>
+    <tuv xml:lang="bo">
+                <seg>།​།རྒྱ་གར་གྱི་མཁན་པོ་ཨ་མོ་གྷ་བཛྲ་དང་། བོད་ཀྱི་ལོ་ཙྪ་བ་ཕུར་བུ་འོད་ཀྱིས་བསྒྱུར་བའོ།​།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-064-153"/>This text was translated by the Indian preceptor Amoghavajra and the Tibetan translator Phurbu Ö.</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

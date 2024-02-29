@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="linguae-dharmae/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-100-022" eft:text-version="v-1.0.7-2023"/>
+<body>
+<tu id="UT22084-100-022-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg/>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>[Untitled Dhāraṇī of Buddhas and Bodhisattvas]</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-100-022-TU-2">
+    <prop type="location-id">UT22084-100-022-19</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.88.a"/>༄༅། །དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-022-19"/>Homage to the Three Jewels.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-100-022-TU-3">
+    <prop type="location-id">UT22084-100-022-19</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམ་པར་སྣང་མཛད་ཀྱི་རྒྱལ་པོ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the thus-gone, worthy, completely perfect Buddha Vairocana, the King.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-100-022-TU-4">
+    <prop type="location-id">UT22084-100-022-19</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་སྙིང་རྗེ་ཆེན་པོ་དང་ལྡན་པ་འཕགས་པ་ནམ་མཁའི་སྙིང་པོ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bodhisattva, the great being, the one with great compassion, noble Ākāśagarbha.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-100-022-TU-5">
+    <prop type="location-id">UT22084-100-022-26</prop>
+    <tuv xml:lang="bo">
+                <seg>ཏདྱ་ཐཱ། བཛྲ་མ་བུ། བཛྲ་མ་བུ་བུདྡྷ་ཛེ། བཛྲ་མ་བུ་བུདྡྷ་ཛེ། ཤཱུ་ནྱ་ཏཱ་པྲ་བེ་ཤེ། བཻ་རོ་ཙ་ན་གརྦྷེ། པཉྩེནྡྲི་ཡ། ཨ་བ་བོ་དྷ་ནེ་སྭཱ་ཧཱ། ཆོ་ག་ནི་རྟག་ཏུ་བཟླས་བརྗོད་བྱས་ན་ ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་གནས་པ་ཐོབ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-022-26"/>tadyathā vajramabu vajramabubuddhaje vajramabubuddhaje śūnyatāpraveśe vairocanagarbhe pañcendriya avabodhane svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-100-022-TU-6">
+    <prop type="location-id">UT22084-100-022-27</prop>
+    <tuv xml:lang="bo">
+                <seg>བདུད་ཐམས་ཅད་དང་དགྲ་ཐམས་ཅད་དང་ལོག་འདྲེན་ཐམས་ཅད་ཀྱིས་མི་ཚུགས་སོ། ། འཆི་བའི་ཚེ་འཕགས་པ་འོད་དཔག་མེད་མཐོང་བར་འགྱུར་རོ། ། དེ་བཞིན་དུ་དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་དང་། བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ཀྱང་མཐོང་བར་འགྱུར་རོ། ། ཇི་ལྟར་སྨོན་ལམ་བཏབ་པ་བཞིན་དུ་སྐྱེ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-022-27"/>The rite is like this. If one recites this constantly, one will be able to abide within the perfection of wisdom. All māras, enemies, and vināyakas will be unable to cause harm. At the time of death, one will see noble Amitābha. One will likewise see all tathāgatas and all bodhisattvas. One will take rebirth in accordance with the aspirations that one makes.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-100-022-TU-7">
+    <prop type="location-id">UT22084-100-022-27</prop>
+    <tuv xml:lang="bo">
+                <seg>།​རྫོགས་སོ།​།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This completes the dhāraṇī.</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

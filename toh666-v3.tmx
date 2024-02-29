@@ -1,0 +1,2300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="linguae-dharmae/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-091-063" eft:text-version="v-1.0.6-2023"/>
+<body>
+<tu id="UT22084-091-063-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.193.a"/>༄༅༅། །རྒྱ་གར་སྐད་དུ། མ་ཧཱ་ག་ན་པ་ཏི་ཏནྟྲ་ནཱ་མ། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-2">
+    <prop type="location-id">UT22084-091-063-66</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚོགས་ཀྱི་བདག་པོ་ཆེན་པོའི་རྒྱུད་ཅེས་བྱ་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Tantra of Great Gaṇapati<tei:milestone xml:id="UT22084-091-063-66"/> Homage to Lokeśvara.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-3">
+    <prop type="location-id">UT22084-091-063-66</prop>
+    <tuv xml:lang="bo">
+                <seg/>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-section-1-1"/>Chapter 1: The Arising of Siddhi</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-4">
+    <prop type="location-id">UT22084-091-063-69</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་དབང་ཕྱུག་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-69"/>After one has paid homage to glorious great Gaṇapati</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-5">
+    <prop type="location-id">UT22084-091-063-69</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་དཔལ་ལྡན་ཚོགས་བདག་ཆེ། །ཕྱག་འཚལ་དཔལ་ལྡན་ཚོགས་བདག་དགྱེས། །གཟུགས་བརྙན་<tei:ref folio="F.193.b"/>མཎྜལ་གྲུ་བཞིར་བཞག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And glorious Gaṇapati is pleased, one should Place the statue in a square maṇḍala</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-6">
+    <prop type="location-id">UT22084-091-063-69</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟླ་བ་དྲུག་ཏུ་མཆོད་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And perform the offering for six months.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-7">
+    <prop type="location-id">UT22084-091-063-70</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་ཡི་འཁོར་ལོས་སྒྱུར་བ་དང་། །ཚེ་འདི་ཉིད་ལ་སྐལ་བ་མཉམ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-70"/>One will have the same good fortune in this life As a divine universal emperor.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-8">
+    <prop type="location-id">UT22084-091-063-70</prop>
+    <tuv xml:lang="bo">
+                <seg>བསོད་ནམས་ཆེན་པོ་ཐོབ་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One will incur great merit.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-9">
+    <prop type="location-id">UT22084-091-063-71</prop>
+    <tuv xml:lang="bo">
+                <seg>ལོངས་སྤྱོད་ལྷ་དང་མཉམ་པ་དང་། །ཚེ་ཡང་རིང་བའི་མཆོག་ཏུ་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One’s wealth will equal that of the gods.<tei:milestone xml:id="UT22084-091-063-71"/> One’s lifespan will greatly increase.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-10">
+    <prop type="location-id">UT22084-091-063-71</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་ལ་སོགས་པ་དབང་དུ་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Humans and other beings will be under one’s control,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-11">
+    <prop type="location-id">UT22084-091-063-71</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་ཡི་བུ་ཡང་བྲན་བཞིན་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And even the gods will become one’s servants</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-12">
+    <prop type="location-id">UT22084-091-063-71</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གི་བསྒོ་བ་ཉན་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And obey one’s commands.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-13">
+    <prop type="location-id">UT22084-091-063-72</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུ་ཡང་དེ་ཡི་བསྒོ་བ་ཉན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-72"/>The nāgas will also obey one’s commands</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-14">
+    <prop type="location-id">UT22084-091-063-72</prop>
+    <tuv xml:lang="bo">
+                <seg>བྲན་བཞིན་ལས་རྣམས་བྱེད་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And accomplish any task like servants.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-15">
+    <prop type="location-id">UT22084-091-063-72</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་ཡི་ལོངས་སྤྱོད་མངའ་རིས་ལས། །འདོད་པའི་ལོངས་སྤྱོད་འབྱུང་བར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The pleasure one will experience will be Greater than the pleasures of the god realms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-16">
+    <prop type="location-id">UT22084-091-063-74</prop>
+    <tuv xml:lang="bo">
+                <seg>དངོས་གྲུབ་སྒྲུབ་པའི་སྐལ་བ་ཅན། །གདུལ་བྱའི་དབང་གི་སྐུ་སྤྲུལ་པ། །ལྷ་ཆེན་ཚོགས་བདག་ཆེན་པོས་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-74"/>The great deity Great Gaṇapati will create Emanation bodies that consecrate fortunate Disciples who have attained siddhi.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-17">
+    <prop type="location-id">UT22084-091-063-74</prop>
+    <tuv xml:lang="bo">
+                <seg>དངོས་གྲུབ་དམ་པ་མཆོག་སྒྲུབ་ན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When one attains the highest supreme siddhi,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-18">
+    <prop type="location-id">UT22084-091-063-76</prop>
+    <tuv xml:lang="bo">
+                <seg>མཐུ་སྟོབས་ཕུན་སུམ་ཚོགས་ལྡན་ཞིང་། །ལོངས་སྤྱོད་ཡིད་བཞིན་འཕེལ་བར་བྱེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-76"/>One becomes extremely powerful, and it Increases wealth like a wish-fulfilling jewel.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-19">
+    <prop type="location-id">UT22084-091-063-76</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་ཕན་མཛད་ལྷ་ཡི་ལྷ། །གང་གིས་མཆོད་པ་དངོས་གྲུབ་ཡིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The person who performs this offering to the benefactor Of the world, the god of gods, will attain siddhi.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-20">
+    <prop type="location-id">UT22084-091-063-77</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་ཆེན་ཚོགས་ཀྱི་བདག་པོའི་རྒྱུད་ལས་དངོས་གྲུབ་འབྱུང་བ་ཞེས་བྱ་བའི་ལེའུ་སྟེ་དང་པོའོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-77"/>This is chapter 1 in “The Tantra of the Great Deity Gaṇapati,” “The Arising of Siddhi.”<tei:milestone xml:id="UT22084-091-063-section-1-2"/> Chapter 2: Instructions on the Mantra for the Deity’s Siddhi</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-21">
+    <prop type="location-id">UT22084-091-063-78</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་དབེན་པའི་གནས་སུ་ནི། །དཀྱིལ་འཁོར་གྲུ་བཞི་དག་བྱ་སྟེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-78"/>Make a square maṇḍala In a secluded place as follows:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-22">
+    <prop type="location-id">UT22084-091-063-78</prop>
+    <tuv xml:lang="bo">
+                <seg>བ་ཡི་ལྕི་བས་ལེགས་པར་བྱུག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Smear the ground with cow dung making it</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-23">
+    <prop type="location-id">UT22084-091-063-79</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་ཞིང་མཉེན་ལ་དབུས་མཐོ་བའི། །དབུས་སུ་ཚོགས་བདག་སྐུ་གཟུགས་བཞུགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Smooth and soft, and place a statue of Gaṇapati<tei:milestone xml:id="UT22084-091-063-79"/> In the center of its raised middle section.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-24">
+    <prop type="location-id">UT22084-091-063-79</prop>
+    <tuv xml:lang="bo">
+                <seg>མེ་ཏོག་དཀར་པོས་དེ་ལ་གཏོར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Scatter white flowers on it,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-25">
+    <prop type="location-id">UT22084-091-063-79</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་ཉིད་གཅེར་བུར་བྱུང་བྱས་ཏེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Get naked, adopt the form</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-26">
+    <prop type="location-id">UT22084-091-063-79</prop>
+    <tuv xml:lang="bo">
+                <seg>ལོག་འདྲེན་གཟུགས་ཀྱིས་ཡང་དག་མཆོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Of Vināyaka, and perform the offering.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-27">
+    <prop type="location-id">UT22084-091-063-80</prop>
+    <tuv xml:lang="bo">
+                <seg>བ་ར་ཏ་ཀ་ཟླ་བ་དྲུག །ཉིན་རེ་བཞིན་དུ་དུས་གསུམ་དུ། །གསང་སྔགས་བརྒྱ་ནི་རྩ་བརྒྱད་བཟླས། །ཡིད་ལ་རེ་བ་ཐམས་ཅད་རྫོགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-80"/>Adopt a six-month observance And perform 108 mantra recitations Three times each day. All one’s hopes will be fulfilled, and</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-28">
+    <prop type="location-id">UT22084-091-063-82</prop>
+    <tuv xml:lang="bo">
+                <seg>བསམ་པ་ཐམས་ཅད་འགྲུབ་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-82"/>Everything one wishes will come to pass.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-29">
+    <prop type="location-id">UT22084-091-063-82</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་ནི་བཀྲ་ཤིས་དཔལ་དང་ལྡན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Place the glorious and auspicious syllable oṃ</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-30">
+    <prop type="location-id">UT22084-091-063-82</prop>
+    <tuv xml:lang="bo">
+                <seg>གསང་སྔགས་མགོ་ལ་གཞག་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>At the beginning of the mantra.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-31">
+    <prop type="location-id">UT22084-091-063-83</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡིད་བཞིན་ནོར་བུ་ལྟ་བུ་ཡི། །དངོས་གྲུབ་སྟེར་བྱེད་ཡི་གེ་ཡང་། །དེ་འོག་གྲལ་ལ་གཞག་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Place the syllable that grants siddhi<tei:milestone xml:id="UT22084-091-063-83"/> Like a wish-fulfilling jewel Next in line.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-32">
+    <prop type="location-id">UT22084-091-063-83</prop>
+    <tuv xml:lang="bo">
+                <seg>ཉི་མ་ལྟ་བུའི་ཡི་གེ་ཡང་། །དེ་ཡི་རྗེས་ལ་བཀླག་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Recite the syllable that is Like the sun after that.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-33">
+    <prop type="location-id">UT22084-091-063-84</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པའི་མཚན་དང་པོ། །ཡི་གེ་མཆོག་ནི་བླང་བར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-84"/>Use the first syllable Of the Tathāgata’s name.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-34">
+    <prop type="location-id">UT22084-091-063-84</prop>
+    <tuv xml:lang="bo">
+                <seg>གསལ་བྱེད་ཡི་གེ་དང་པོ་ཡང་། །དེ་ཡི་མཇུག་ཏུ་བརྗོད་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Recite the first consonant At the end of that.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-35">
+    <prop type="location-id">UT22084-091-063-85</prop>
+    <tuv xml:lang="bo">
+                <seg>རིན་ཆེན་ཡི་གེ་སྭཱ་ཞེས་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-85"/>Recite the precious syllable svā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-36">
+    <prop type="location-id">UT22084-091-063-85</prop>
+    <tuv xml:lang="bo">
+                <seg>ལས་ཀྱི་ཡི་གེ་ཧཱ་ཞེས་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And the activating syllable hā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-37">
+    <prop type="location-id">UT22084-091-063-87</prop>
+    <tuv xml:lang="bo">
+                <seg>དངོས་གྲུབ་འདོད་<tei:ref folio="F.194.a"/>པས་གསང་སྔགས་བཟླས། །ལྷ་ཆེན་དངོས་གྲུབ་སྒྲུབ་པའི་རྒྱུད་ལས་ལྷའི་དངོས་གྲུབ་ཀྱི་གསང་སྔགས་བསྟན་པའི་ལེའུ་སྟེ་གཉིས་པོའོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This is how one who seeks siddhi Should recite the secret mantra.<tei:milestone xml:id="UT22084-091-063-87"/> This is chapter 2 in “The Siddhi Practice of the Great Deity,” “Instruction on the Mantra for the Deity’s Siddhi.” <tei:milestone xml:id="UT22084-091-063-section-1-3"/>Chapter 3: A Description of Gaṇapati<tei:milestone xml:id="UT22084-091-063-89"/> Ganapaṭi is described as follows: Gaṇapati’s body is white,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-38">
+    <prop type="location-id">UT22084-091-063-90</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ཚོགས་ཀྱི་བདག་པོ་བཤད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He has the head of an elephant, And one of his tusks is broken.<tei:milestone xml:id="UT22084-091-063-90"/> He holds a radish in his right hand,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-39">
+    <prop type="location-id">UT22084-091-063-92</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚོགས་ཀྱི་བདག་པོ་སྐུ་མདོག་དཀར། །གླང་པོ་ཆེ་ཡི་མགོ་བོ་ཅན། །མཆེ་བ་ཡ་གཅིག་ཆག་པ་དང་། །ཕྱག་གཡས་ལ་ཕུག་བསྣམས་པ། བྱི་བའི་གདན་ལ་བཅིབས་པ། རིན་པོ་ཆེས་སྐུ་བརྒྱན་པ། ཟླ་བ་ཚེས་པས་དབུ་བརྒྱན་པ། འོད་གསལ་བ། འོད་ཟེར་འཕྲོ་བ། མདོག་བཟང་བ། ཁ་དོག་བཟང་བ། གསུས་པ་ཆེ་བ། རྒྱན་གྱིས་སྤུད་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He is mounted upon a rat, His body is adorned with jewels, and He is crowned with a crescent moon.<tei:milestone xml:id="UT22084-091-063-92"/> He is radiant and sends forth rays of light. He has a beautiful complexion and color, a big belly, and is clad in jewelry.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-40">
+    <prop type="location-id">UT22084-091-063-93</prop>
+    <tuv xml:lang="bo">
+                <seg>དངོས་གྲུབ་སྒྲུབ་པའི་རྒྱུད་ལས་ཚོགས་ཀྱི་བདག་པོ་བསྟན་པའི་ལེའུ་སྟེ་གསུམ་པའོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-93"/>This is chapter 3 in “The Tantra of Accomplishing Siddhi”, “A Description of Gaṇapati.”<tei:milestone xml:id="UT22084-091-063-section-1-4"/> Chapter 4: The Practice of One-Faced, Four-Armed Gaṇapati</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-41">
+    <prop type="location-id">UT22084-091-063-94</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་སྐར་མ་རྒྱལ་གྱི་ཉིན་པར་མེ་ཏོག་དཀར་པོ་བླངས་ཏེ། ཚོགས་ཀྱི་བདག་པོའི་སྐུ་གཟུགས་བྲིས་ཏེ། ཁ་དོག་དཀར་པོ་གླང་པོ་ཆེའི་དབུ་ཅན། ཕྱག་གཡས་ན་ལ་ཕུག་བསྣམས་པ། གཡོན་ན་རིན་པོ་ཆེའི་ནོར་བུ་བསྣམས་པ། གསུས་པ་ཆེ་བ། རྒྱན་ཐམས་ཅད་ཀྱིས་བརྒྱན་པ། ཟླ་བ་དང་བྱི་བའི་ཁྲི་ལ་བཞུགས་པ་མཁས་པས་བྱའོ། ། དེ་ལ་དཀྱིལ་འཁོར་གྱི་དབུས་སུ་བདག་ལ་ཞལ་ཕྱོགས་པར་བཞག་ལ། བདག་ཉིད་ལོག་འདྲེན་གྱི་གཟུགས་ཀྱིས་ཡང་དག་པར་མཆོད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-94"/>A skilled person should pick white flowers on a day during the lunar month Puṣya and draw the image of Gaṇapati, depicting him with a white complexion and the head of an elephant, holding a radish in his right hand and a precious jewel in his left hand, with a big belly, adorned with all his ornaments, and seated on his throne atop a rat and a lunar disk. Then one should place the image in the center of the maṇḍala facing oneself, adopt the form of Vināyaka, and perform the offering.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-42">
+    <prop type="location-id">UT22084-091-063-95</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚོགས་ཀྱི་བདག་པོ་ཞལ་གཅིག་ཕྱག་བཞི་པ་སྒྲུབ་པའི་ལེའུ་སྟེ་བཞི་པའོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-95"/>This is chapter 4, “The Practice of One-Faced, Four-Armed Gaṇapati.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-43">
+    <prop type="location-id">UT22084-091-063-96</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་དབང་ལྡན་གྱི་མཚམས་སུ་ཚོགས་ཀྱི་བདག་པོ་དཀར་པོ་གླང་པོ་ཆེའི་མགོ་ཅན། བྱི་བ་ལ་ཞོན་པ། མིག་གསུམ་པ། ཟླ་བ་ཕྱེད་པ་འཛིན་པ། གཡས་ན་ལ་ཕུག་དང་དགྲ་སྟ་འཛིན་པ། གཡོན་པ་ཏྲི་ཤཱུལ་དང་ཐོད་པ་འཛིན་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-section-1-5"/>Chapter 5: A Teaching on Gaṇapati’s Mudrā<tei:milestone xml:id="UT22084-091-063-96"/> Gaṇapati is in the northeast. He has a white complexion, the head of an elephant, a rat for his mount, and three eyes. He wears a crescent moon. His right hands hold a radish and battle-axe, and his left hands hold a trident and skull bowl.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-44">
+    <prop type="location-id">UT22084-091-063-97</prop>
+    <tuv xml:lang="bo">
+                <seg>ལག་པ་གཡོན་པ་ཁུ་ཚུར་བཅངས་པའི་མཛུབ་མོ་དང་གུང་མོ་བརྐྱང་ལ་མཛུབ་མོ་བཀུག་ལ་གུང་མོའི་ཚིགས་སུ་བཟུང་བར་བྱ་བ་ནི་ཚོགས་ཀྱི་བདག་པོའི་ཕྱག་རྒྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-97"/>For the Gaṇapati mudrā, the left hand is clenched in a fist with the forefinger and middle finger extended and the forefinger is bent so that it grasps the joint of the middle finger.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-45">
+    <prop type="location-id">UT22084-091-063-98</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚོགས་ཀྱི་བདག་པོའི་ཕྱག་རྒྱ་བསྟན་པའི་ལེའུ་སྟེ་ལྔ་པའོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-98"/>This is chapter 5, “A Teaching on Gaṇapati’s Mudrā.”<tei:milestone xml:id="UT22084-091-063-section-1-6"/> Chapter 6: A Teaching on Great Gaṇapati’s Mantra</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-46">
+    <prop type="location-id">UT22084-091-063-99</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་གསང་སྔགས་བསྟན་པ་ནི། །ཨོཾ་ནི་དཔལ་ལྡན་མགོ་ལ་བཞག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-99"/>The mantra is taught as follows: Place the glorious syllable oṃ at the beginning.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-47">
+    <prop type="location-id">UT22084-091-063-101</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ཡིད་བཞིན་ནོར་བུ་ནི། །རིན་པོ་ཆེ་ཡི་ཡི་གེ་བྲི། །སྡེ་ཚན་གསལ་བྱེད་དང་པོ་ཡང་། །དེ་ཡི་རྗེས་སུ་བྲི་བར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Write the precious wish-fulfilling Jewel syllable after that.<tei:milestone xml:id="UT22084-091-063-101"/> The first consonant of the first class Should be written after that.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-48">
+    <prop type="location-id">UT22084-091-063-101</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པའི་<tei:ref folio="F.194.b"/>མཚན་དང་པོ། །དབྱངས་ཡིག་བརྒྱད་པས་མཛེས་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Adorn the first letter of the Tathāgata’s Name with the eighth vowel.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-49">
+    <prop type="location-id">UT22084-091-063-102</prop>
+    <tuv xml:lang="bo">
+                <seg>གསལ་བྱེད་དང་པོའི་ཡི་གེ་ཡང་། །བློ་ཡིས་བླངས་ཏེ་ཡིད་ཀྱིས་བྲི། །སྡེ་ཚན་གསུམ་པས་གསུམ་པ་ལ། །དང་པོའི་བཞི་པ་སྦྱར་བར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-102"/>Bring the first consonant syllable To mind and mentally write it. Write the third member of the third class And the fourth of the first class.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-50">
+    <prop type="location-id">UT22084-091-063-104</prop>
+    <tuv xml:lang="bo">
+                <seg>སྡེ་ཚན་བདུན་པའི་གསུམ་པ་ལ། །གསུམ་པའི་དང་པོས་འོག་ཏུ་སྦྱར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-104"/>Write the third member of the seventh class, And add it after the first member of the third.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-51">
+    <prop type="location-id">UT22084-091-063-104</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡིད་བཞིན་ནོར་བུའི་ཡི་གེ་ལ། །བཞི་པའི་ལྔ་པ་ཟླ་ལ་བཞག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The fifth member of the fourth class accompanies The wish-fulfilling jewel syllable, and is</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-52">
+    <prop type="location-id">UT22084-091-063-105</prop>
+    <tuv xml:lang="bo">
+                <seg>དབྱངས་ཡིག་གསུམ་པས་བརྒྱན་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-105"/>Adorned with the third vowel.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-53">
+    <prop type="location-id">UT22084-091-063-105</prop>
+    <tuv xml:lang="bo">
+                <seg>བཞི་པའི་གསུམ་པས་དེ་ནས་བརྗོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then, pronounce the third of the fourth group,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-54">
+    <prop type="location-id">UT22084-091-063-105</prop>
+    <tuv xml:lang="bo">
+                <seg>དངོས་གྲུབ་བསྒྲུབ་པའི་ཡི་གེ་ནི། །དེ་ཡི་རྗེས་ལ་བྲི་བར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And write the syllable for Attaining siddhi after that.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-55">
+    <prop type="location-id">UT22084-091-063-106</prop>
+    <tuv xml:lang="bo">
+                <seg>གསང་སྔགས་དྲག་པོའི་ཡི་གེ་ཡང་། །ཀུན་གྱི་མཐར་ནི་བརྗོད་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-106"/>The fierce mantra syllable Is pronounced at the end of all of them.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-56">
+    <prop type="location-id">UT22084-091-063-106</prop>
+    <tuv xml:lang="bo">
+                <seg>གསང་སྔགས་འདི་ཡི་དངོས་གྲུབ་ནི། །འཇིག་རྟེན་དབང་ཕྱུག་ཉིད་ཀྱིས་བྱིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Lokeśvara himself grants The siddhi of this secret mantra.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-57">
+    <prop type="location-id">UT22084-091-063-107</prop>
+    <tuv xml:lang="bo">
+                <seg>དགོས་པ་ཐམས་ཅད་གྲུབ་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-107"/>It will fulfill every need.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-58">
+    <prop type="location-id">UT22084-091-063-108</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚོགས་བདག་ཆེན་པོའི་གསང་སྔགས་བསྟན་པའི་ལེའུ་སྟ་དྲུག་པའོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-108"/>This is chapter 6, “A Teaching on Great Gaṇapati’s Mantra.” <tei:milestone xml:id="UT22084-091-063-section-1-7"/>Chapter 7: A Teaching on the Name Mantra</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-59">
+    <prop type="location-id">UT22084-091-063-109</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་གཞན་ཡང་གསུངས་པ་ནི། །དངོས་གྲུབ་ཐམས་ཅད་སྒྲུབ་པ་ཡི། །མཚན་གྱི་གསང་སྔགས་ཞེས་བྱ་བའི། །དངོས་གྲུབ་བསྒྲུབ་པའི་སྙིང་པོ་ནི། །དཔལ་དང་ཡཾ་གི་ཡི་གེ་སྟེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-109"/>Now there is the additional teaching on The heart mantra for accomplishing siddhi Called the name mantra that Accomplishes all the siddhis.<tei:milestone xml:id="UT22084-091-063-110"/> Take śrī and the syllable yaṃ and place</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-60">
+    <prop type="location-id">UT22084-091-063-109</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་ཞེས་བྱ་བ་མགོ་ལ་བཞག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Them at the beginning where it says oṃ.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-61">
+    <prop type="location-id">UT22084-091-063-111</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡིད་བཞིན་ནོར་བུའི་ཡི་གེ་ལས། །ཉི་མའི་ཡི་གེ་འོག་ཏུ་སྤྲས། །དབྱངས་ཡིག་དྲུག་པའི་འོག་ཏུ་སྦྱར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Write the wish-fulfilling jewel syllable and Adorn it with the solar syllable after that.<tei:milestone xml:id="UT22084-091-063-111"/> Write the sixth vowel next and</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-62">
+    <prop type="location-id">UT22084-091-063-111</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐིག་ལེ་ནཱ་དས་བརྒྱན་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Ornament it with a nāda and bindu.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-63">
+    <prop type="location-id">UT22084-091-063-111</prop>
+    <tuv xml:lang="bo">
+                <seg>མཚན་གྱི་དང་པོའི་ཡི་གེ་ནི། །དེ་ཡི་རྗེས་ལ་བརྗོད་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Pronounce the first syllable Of the name after that.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-64">
+    <prop type="location-id">UT22084-091-063-112</prop>
+    <tuv xml:lang="bo">
+                <seg>བཞི་པའི་ལྔ་པ་དེ་ནས་སྦྱར། ། ལྔ་པའི་དང་པོ་བྲི་བར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-112"/>Write the fifth member of the fourth group And then the first member of the fifth group.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-65">
+    <prop type="location-id">UT22084-091-063-113</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པའི་མཚན་དང་པོ། །འབྱུང་བ་རླུང་གི་ཡི་གེ་ཡང་། །དབྱངས་ཡིག་བརྒྱད་པས་བརྒྱན་པ་ནི། །དེ་ཡི་རྗེས་ལ་བྲི་བར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Write the first syllable of the Tathāgata’s name, The wind element syllable, and<tei:milestone xml:id="UT22084-091-063-113"/> Ornament it with the eighth vowel After that.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-66">
+    <prop type="location-id">UT22084-091-063-113</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞི་བའི་ཡིག་འབྲུ་གཉིས་པ་ཡང་། །ཀུན་གྱི་མཐར་ནི་བརྗོད་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Pronounce the two pacification Seed syllables at the end.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-67">
+    <prop type="location-id">UT22084-091-063-114</prop>
+    <tuv xml:lang="bo">
+                <seg>མཚན་གྱི་གསང་སྔགས་ཞེས་བྱ་བ། །འདོད་པ་ཐམས་ཅད་གྲུབ་བྱེད་ཡིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-114"/>The name mantra Accomplishes all one desires.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-68">
+    <prop type="location-id">UT22084-091-063-115</prop>
+    <tuv xml:lang="bo">
+                <seg>མཚན་གྱི་གསང་སྔགས་བསྟན་པའི་ལེའུ་སྟེ་བདུན་པའོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-115"/>This is chapter 7, “A Teaching on the Name Mantra.”<tei:milestone xml:id="UT22084-091-063-section-1-8"/> Chapter 8: The Gaṇapati Offering</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-69">
+    <prop type="location-id">UT22084-091-063-116</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་གཞན་ཡང་བཤད་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-116"/>Now I will explain further.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-70">
+    <prop type="location-id">UT22084-091-063-116</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐར་མ་རྒྱལ་གྱི་ཉིན་པར་ནི། །མེ་ཏོག་དཀར་པོའི་རྩ་བ་བླང་། །ཙནྡན་དཀར་པོ་དག་ལས་ནི། །ཚོགས་ཀྱི་བདག་པོའི་སྐུ་གཟུགས་ནི། །མཐེ་བོང་གི་ནི་ཚད་ཙམ་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Pluck some white flowers by the root On a day during the lunar month of Puṣya. The statue of Gaṇapati should be</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-71">
+    <prop type="location-id">UT22084-091-063-117</prop>
+    <tuv xml:lang="bo">
+                <seg>གསུས་པ་ཆེལ་ཕྱག་བཞི་པ། །མཁས་<tei:ref folio="F.195.a"/>པས་བྱས་ཏེ་ལེགས་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-117"/>Made by a skilled person Out of pure white sandalwood. It should be one thumb-length high, Have a big belly, four arms, and be well made.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-72">
+    <prop type="location-id">UT22084-091-063-118</prop>
+    <tuv xml:lang="bo">
+                <seg>རིན་པོ་ཆེ་ཡི་སྣོད་དུ་གཞུག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-118"/>Place it in a container made of precious materials. When the full moon is out, one should</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-73">
+    <prop type="location-id">UT22084-091-063-118</prop>
+    <tuv xml:lang="bo">
+                <seg>དཀར་ཆེན་མངོན་པར་གསལ་བའི་ཚེ། །ནང་གི་ཆ་རིས་སྐུ་ཁྲུས་གསོལ། །གསལ་ཞིང་དང་ས་ལ་ཡིད་དུ་འོང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Clean the area inside, where the image is located, So that it is clean, sparkling, and beautiful.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-74">
+    <prop type="location-id">UT22084-091-063-120</prop>
+    <tuv xml:lang="bo">
+                <seg>དྲི་དང་ལྡན་པའི་བུམ་པ་ཡི། །མེ་ཏོག་དཀར་པོའི་དྲི་ཡི་ནི། །འདག་ཆལ་ལྡན་པས་ཁྲུས་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-120"/>Wash it with a vase containing Scented water and a cleaning solution Of perfume made of white flowers.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-75">
+    <prop type="location-id">UT22084-091-063-122</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་དེ་མ་ཐག་ཏུ་ནི། །དཀྱིལ་འཁོར་དབུས་སུ་སྤྱན་དྲངས་ལ། །མེ་ཏོག་དཀར་པོ་དབུལ་བར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Immediately after, <tei:milestone xml:id="UT22084-091-063-122"/>Invite him into the center of the maṇḍala And present the white flowers to him.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-76">
+    <prop type="location-id">UT22084-091-063-123</prop>
+    <tuv xml:lang="bo">
+                <seg>ལ་ཕུག་ལ་དུར་བཅས་པ་ཡི། །གཏོར་མ་ཆེན་པོའང་དེ་ནས་དབུལ། །སྤོས་དང་དྲི་དང་མར་མེ་དང་། །ལྷ་བཤོས་དག་གིས་མཆོད་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Present him with a large bali offering Of radishes and laḍḍus,<tei:milestone xml:id="UT22084-091-063-123"/> And then perform an offering with incense, Perfume, lamps, and divine foods.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-77">
+    <prop type="location-id">UT22084-091-063-124</prop>
+    <tuv xml:lang="bo">
+                <seg>གསང་སྔགས་འདི་ལ་ཕུག་དང་། །ལ་དུ་དང་། ཆུ་དང་། དཀར་གསུམ་གྱི་གཏོར་མས་ཚོགས་ཀྱི་བདག་པོ་ལ་ཕུལ་ཏེ། སྤོས་དང་མེ་ཏོག་རྣམས་ཀྱང་དབུལ། དེ་ལྟར་བྱས་ན་ཕྱིས་བགེགས་བྱེད་པར་མི་ནུས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-124"/>For the mantra, one should present a bali offering to Gaṇapati consisting of radishes, laḍḍus, water, and the three white offerings, and also offer incense and flowers. After it is performed in this way, nothing can pose an obstacle.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-78">
+    <prop type="location-id">UT22084-091-063-125</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚོགས་ཀྱི་བདག་པོ་མཆོད་པའི་ལེའུ་སྟེ་བརྒྱད་པའོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-125"/>This is chapter 8, “The Gaṇapati Offering.”<tei:milestone xml:id="UT22084-091-063-section-1-9"/> Chapter 9: A Description of the Food for Attaining Siddhi</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-79">
+    <prop type="location-id">UT22084-091-063-126</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ལ་ཕུག་ཅེས་བྱ་བ། །རོ་བརྒྱད་ལྡན་པའི་ཡུངས་མ་སྟེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-126"/>The term radish refers to A mustard root with eight flavors</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-80">
+    <prop type="location-id">UT22084-091-063-126</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟས་རྣམས་ཀུན་གྱི་མཆོག་ཀྱང་ཡིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That is the best of all foods</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-81">
+    <prop type="location-id">UT22084-091-063-126</prop>
+    <tuv xml:lang="bo">
+                <seg>རོ་མཆོག་བརྒྱད་དང་ལྡན་པ་ཡིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And has the best flavors.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-82">
+    <prop type="location-id">UT22084-091-063-127</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁ་དང་སྐྱུར་དང་བསྐ་བ་དང་། །མངར་དང་ཚ་དང་ལན་ཚྭའི་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-127"/>These are bitter, sour, astringent, Sweet, spicy, and salty flavors,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-83">
+    <prop type="location-id">UT22084-091-063-127</prop>
+    <tuv xml:lang="bo">
+                <seg>བཞུན་དང་བྲོ་མཆོག་ཆེ་བ་ཡིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>As well as juicy and savory.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-84">
+    <prop type="location-id">UT22084-091-063-127</prop>
+    <tuv xml:lang="bo">
+                <seg>ནད་སྣ་བརྒྱད་ཀྱི་གཉེན་པོ་ཡིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are antidotes to the eight types of illness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-85">
+    <prop type="location-id">UT22084-091-063-129</prop>
+    <tuv xml:lang="bo">
+                <seg>མཁྲིས་པ་བད་ཀན་འདུས་པ་དང་། །ཁྲག་དང་ཆུ་སེར་མ་ཞུ་བ། །རླུང་དང་རིམས་ནད་ཀུན་ལ་ཕན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-129"/>They are helpful for all diseases and illnesses Related to bile, phlegm, a mixture of the two, Blood, lymph, indigestion, and wind.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-86">
+    <prop type="location-id">UT22084-091-063-129</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་འདྲ་བྱུང་བའི་ཁ་ཟས་མེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>No other food compares to it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-87">
+    <prop type="location-id">UT22084-091-063-130</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་རྣམས་ཀུན་གྱི་མཆུ་ཡང་འགུལ། །དངོས་གྲུབ་འགྲུབ་པའི་ཞལ་ཟས་ཡིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-130"/>It can make even the lips of the gods quiver. It is the food that grants siddhi and</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-88">
+    <prop type="location-id">UT22084-091-063-130</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚོགས་ཀྱི་བདག་པོ་མཆོད་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One should offer it to Gaṇapati.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-89">
+    <prop type="location-id">UT22084-091-063-131</prop>
+    <tuv xml:lang="bo">
+                <seg>ལ་དུ་ཞེས་བྱའི་ཞལ་ཟས་ནི། །མངར་གསུམ་འབྲས་བུ་གསུམ་པ་ནི། །དེ་བཞིན་ཞིམ་པའི་སྤོས་ཀྱིས་བྲན། །བག་ཟན་གྱི་ནི་རིལ་བུ་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The term laḍḍu refers to a type of food<tei:milestone xml:id="UT22084-091-063-131"/> Containing the three sweets and the three fruits, That is sprinkled with a delicious fragrance, Rolled into a dough ball,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-90">
+    <prop type="location-id">UT22084-091-063-132</prop>
+    <tuv xml:lang="bo">
+                <seg>འོ་མ་མར་དུ་བཙོས་བྱས་ལ། །ཚོགས་པའི་གཏོར་མ་ཆེན་པོ་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Boiled in milk and butter, and<tei:milestone xml:id="UT22084-091-063-132"/> Used as a great bali offering to the gaṇas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-91">
+    <prop type="location-id">UT22084-091-063-132</prop>
+    <tuv xml:lang="bo">
+                <seg>མར་དང་ཁུར་བ་མངར་གསུམ་དང་། །མཐུན་པའི་ཞལ་ཟས་སྣ་ཚོགས་ཀྱིས། །ཚོགས་བདག་ཆེན་པོ་མཆོད་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Offer it to Gaṇapati along with Various common foods such as Butter, pastries, and the three sweets.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-92">
+    <prop type="location-id">UT22084-091-063-133</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་ཚོགས་ཀྱི་བདག་པོ་ལའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-133"/>These are the offerings to Gaṇapati.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-93">
+    <prop type="location-id">UT22084-091-063-134</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚོགས་ཀྱི་བདག་པོའི་སྐུ་གཟུགས་ལག་པ་གཡས་པའི་མཐིལ་དུ་བཞུགས་ལ། སེམས་གཞན་དུ་མ་ཡེངས་པར་བཟླས་བརྗོད་འབུམ་བྱས་<tei:ref folio="F.195.b"/>ལ། ལ་ཕུག་ལ་སྔགས་ཀྱིས་བཏབ་སྟེ་ ཚོགས་ཀྱི་བདག་པོ་མཆོད་ན་ ཚེ་འདི་ཉིད་ལ་འཁོར་ལོས་སྒྱུར་བའི་རྒྱལ་པོ་དང་བསོད་ནམས་མཉམ་པར་འགྱུར་རོ། ། མེ་ཏོག་དཀར་པོས་མཆོད་ན་རྒྱལ་པོ་ལ་སོགས་པས་ཕམ་པར་མི་འགྱུར་རོ། ། རྒྱལ་པོ་ལ་སོགས་པ་སྒྲུབ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-134"/>Place the statue of Gaṇapati in the palm of your right hand and recite the mantra one hundred thousand times without allowing your mind to wander. If one incants the radish with the mantra and offers it to Gaṇapati, one’s merit in this lifetime will equal to that of a universal emperor. If one offers white flowers, one will not be defeated by kings and the like. One will gain a high rank such as king, and kings, ministers, and others will be brought under one’s control. <tei:milestone xml:id="UT22084-091-063-135"/>This is chapter 9 on “A Description of the Food That Grants Siddhi.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-94">
+    <prop type="location-id">UT22084-091-063-134</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་པོ་དང་བློན་པོ་ལ་སོགས་པ་བདག་གི་དབང་དུ་འདུས་པར་འགྱུར་རོ། ། དངོས་གྲུབ་སྒྲུབ་པའི་ཞལ་ཟས་བསྟན་པའི་ལེའུ་སྟེ་དགུ་པའོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-section-1-10"/>Chapter 10: Practices for Becoming a King and the Like</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-95">
+    <prop type="location-id">UT22084-091-063-136</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ཆོ་ག་བཤད་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-136"/>Now I will present the ritual instructions.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-96">
+    <prop type="location-id">UT22084-091-063-136</prop>
+    <tuv xml:lang="bo">
+                <seg>དངུལ་ཞེས་བྱ་བའི་རིན་ཆེན་ལ། །ཚོགས་བདག་ཆེན་པོའི་གཟུགས་བྱས་ཏེ། ། ཡིད་བཞིན་ནོར་བུ་ལག་ན་ཐོགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Make a statue of Great Gaṇapati Holding a wish-fulfilling jewel in his hands Out of the precious material known as silver.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-97">
+    <prop type="location-id">UT22084-091-063-137</prop>
+    <tuv xml:lang="bo">
+                <seg>དཀྱིལ་འཁོར་ཆེན་པོ་ཁྲུ་གང་ཚད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-137"/>Make a maṇḍala measuring one cubit across</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-98">
+    <prop type="location-id">UT22084-091-063-137</prop>
+    <tuv xml:lang="bo">
+                <seg>རིན་ཆེན་མེ་ཏོག་དཀར་པོ་དགྲམ། །གསང་སྔགས་འབུམ་དུ་བཟླས་བྱས་པས། །ནད་དང་སྡུག་བསྔལ་ཞི་བར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And scatter precious stones and white flowers on it. Recite the mantra one hundred thousand times, And illness and suffering will be pacified.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-99">
+    <prop type="location-id">UT22084-091-063-138</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤེལ་དང་དུང་ལས་ཆོགས་བདག་སྐུ། །མཁས་པས་ཇི་ལྟར་འབྱོར་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-138"/>A skilled person should make a Gaṇapati statue out of crystal And conch shell according to the following procedure.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-100">
+    <prop type="location-id">UT22084-091-063-138</prop>
+    <tuv xml:lang="bo">
+                <seg>སྡུག་བསྔལ་ཐམས་ཅད་སེལ་བར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It will remove all types of suffering.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-101">
+    <prop type="location-id">UT22084-091-063-139</prop>
+    <tuv xml:lang="bo">
+                <seg>རིན་ཆེན་ཤེལ་ལས་ཚོགས་བདག་སྐུ། །མཐེ་བོང་གི་ནི་ཚད་ཙམ་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Make the Gaṇapati statue <tei:milestone xml:id="UT22084-091-063-139"/>One thumb-length in height Out of precious crystal, and</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-102">
+    <prop type="location-id">UT22084-091-063-139</prop>
+    <tuv xml:lang="bo">
+                <seg>སེ་ན་པྲ་ཞེས་བྱ་བའི་སྔགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Recite the senapra… vidyāmantra</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-103">
+    <prop type="location-id">UT22084-091-063-139</prop>
+    <tuv xml:lang="bo">
+                <seg>རིག་པ་འབུམ་དུ་བཟླས་བྱས་ཏེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One hundred thousand times,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-104">
+    <prop type="location-id">UT22084-091-063-140</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤེལ་གྱི་སྐུ་དེ་ཁྲུས་བྱས་ནས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-140"/>While polishing the crystal statue.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-105">
+    <prop type="location-id">UT22084-091-063-140</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐར་མ་རྒྱལ་གྱི་ཉིན་པར་ནི། །བདག་ཉིད་ཤར་དུ་ཁ་བལྟས་ནས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then, on a day during the lunar month Of Puṣya, one should face east,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-106">
+    <prop type="location-id">UT22084-091-063-141</prop>
+    <tuv xml:lang="bo">
+                <seg>གོས་དཀར་གྱོན་ཏེ་ཁྲུས་བྱས་ལ། །ཐལ་སྦྱར་ཡིད་ཀྱིས་གསོལ་བ་གདབ། །བདག་ལ་གནོད་པའི་བགེགས་གང་ཡིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Put on white robes, wash, place one’s<tei:milestone xml:id="UT22084-091-063-141"/> Hands together, and mentally supplicate the deity. If some obstructing being is causing one harm,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-107">
+    <prop type="location-id">UT22084-091-063-141</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤེལ་གྱི་སྐུ་དེ་མེ་ལོང་སྟེང་། །མི་གཡོ་མི་འགུལ་རབ་ཏུ་བཞུགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One should place the crystal statue on top of A mirror so that it does not move or wobble.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-108">
+    <prop type="location-id">UT22084-091-063-142</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་ཉིད་ཁྲུས་བྱས་ཤར་དུ་བལྟ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-142"/>Then one should bathe, face east,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-109">
+    <prop type="location-id">UT22084-091-063-142</prop>
+    <tuv xml:lang="bo">
+                <seg>ཛ་ར་པ་དང་རྐུན་མ་ནི། །གང་ཡིན་མེ་ལོང་ནང་དུ་འབྱུང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And the robber or spy Will appear in the mirror,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-110">
+    <prop type="location-id">UT22084-091-063-142</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཚེ་དེ་ཡི་ངོས་ཟིན་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And be identified.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-111">
+    <prop type="location-id">UT22084-091-063-144</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚོགས་བདག་ཤེལ་གྱི་སྐུ་དེ་ནི། །མཆོད་པ་རབ་གསལ་ལེགས་བྱས་ལ། །ནཱ་ག་ཀུ་རུ་ཞེས་བྱ་བའི། །རིག་པ་འབུམ་དུ་བཟླས་བྱས་ན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-144"/>If one recites the nāga kuru vidyā One hundred thousand times While making offerings and illuminating The crystal statue of Gaṇapati,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-112">
+    <prop type="location-id">UT22084-091-063-145</prop>
+    <tuv xml:lang="bo">
+                <seg>ནད་དང་སྡུག་བསྔལ་གྱིས་ཉེན་ལ། །སྐུ་དེ་བསྟན་པ་ཙམ་གྱིས་ནི། །ནད་རྣམས་ཐམས་ཅད་སོས་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-145"/>Simply showing this statue to someone Afflicted by illness and suffering Will cure them of any illness</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-113">
+    <prop type="location-id">UT22084-091-063-145</prop>
+    <tuv xml:lang="bo">
+                <seg>སྡུག་བསྔལ་ལས་ཀྱང་ཐར་བར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And free them from suffering.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-114">
+    <prop type="location-id">UT22084-091-063-146</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞི་བ་ཆེན་པོའི་ཆོ་ག་ཡིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-146"/>That is the great pacification ritual.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-115">
+    <prop type="location-id">UT22084-091-063-147</prop>
+    <tuv xml:lang="bo">
+                <seg>རིན་ཆེན་གསེར་ཞེས་བྱ་བ་ལ། །ཚོགས་བདག་ཆེན་པོའི་སྐུ་བྱས་ཏེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-147"/>Make a statue of Great Gaṇapati Out of the precious gold.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-116">
+    <prop type="location-id">UT22084-091-063-147</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་གྱི་ཉིན་པར་མིག་ཕྱེ་ནས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Open its eyes on a day during Puṣya,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-117">
+    <prop type="location-id">UT22084-091-063-147</prop>
+    <tuv xml:lang="bo">
+                <seg>མཆོད་པ་རབ་ཏུ་གནས་པ་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Make offerings to it and consecrate it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-118">
+    <prop type="location-id">UT22084-091-063-148</prop>
+    <tuv xml:lang="bo">
+                <seg>བ་<tei:ref folio="F.196.a"/>ར་ཞེས་བྱའི་གསང་སྔགས་ནི། །འབུམ་ཕྲག་གཅིག་ཏུ་བཟླས་པ་ཡིས། །སྐུ་གཟུགས་བཞུགས་པའི་ཁྱིམ་དེར་ནི། །ནོར་རྣམས་ཐམས་ཅད་འཕེལ་བར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-148"/>Recite the vara mantra One hundred thousand times, And all the wealth of the household in which The statue resides will increase.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-119">
+    <prop type="location-id">UT22084-091-063-149</prop>
+    <tuv xml:lang="bo">
+                <seg>གསེར་གྱི་ཚོགས་བདག་མཐོང་བ་ཡིས། །བགེགས་རྣམས་ཐམས་ཅད་ནོར་འབུལ་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-149"/>When they see the golden Gaṇapati, Obstructing beings will give you riches.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-120">
+    <prop type="location-id">UT22084-091-063-149</prop>
+    <tuv xml:lang="bo">
+                <seg>བགེགས་ཀྱིས་གནོད་པ་མི་ནུས་ཏེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Obstructing beings will be unable to cause harm,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-121">
+    <prop type="location-id">UT22084-091-063-149</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་པོ་བཞིན་དུ་མཆོད་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And will present offerings fit for a king.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-122">
+    <prop type="location-id">UT22084-091-063-150</prop>
+    <tuv xml:lang="bo">
+                <seg>གསེར་གྱི་ཚོགས་བདག་གནས་པ་ཡི། །ས་ཕྱོགས་རིན་ཆེན་ཆར་པ་འབེབས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-150"/>A rain of precious substances will fall in the Location where the golden Gaṇapati resides.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-123">
+    <prop type="location-id">UT22084-091-063-152</prop>
+    <tuv xml:lang="bo">
+                <seg>གསེར་གྱི་ཚོགས་ཀྱི་བདག་པོ་ལ། །བགེགས་ཀྱི་རྒྱལ་པོ་ཐམས་ཅད་ཀྱིས། །ནོར་རྣམས་ཐམས་ཅད་འབུལ་བ་ཡིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>All kings of obstructing beings will Give all their wealth <tei:milestone xml:id="UT22084-091-063-152"/>To the golden Gaṇapati, And one will become wealthy.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-124">
+    <prop type="location-id">UT22084-091-063-152</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་ཉིད་ཕུན་སུམ་ཚོགས་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The qualities that constitute a</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-125">
+    <prop type="location-id">UT22084-091-063-153</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚོགས་ཀྱི་བདག་པོའི་སྐུ་གཟུགས་མཆོག །བྱས་པའི་ཡོན་ཏན་རྣམས་ལ་ནི། །གནོད་སྦྱིན་རྣམས་ཀྱིས་གཏེར་ཁ་འབྱེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Superior Gaṇapati statue are <tei:milestone xml:id="UT22084-091-063-153"/>That it reveals treasures concealed by yakṣas,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-126">
+    <prop type="location-id">UT22084-091-063-153</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐྱེ་བ་འདི་དང་ཕྱི་མ་ལ། །རྟག་ཏུ་ཡོ་བྱད་འཕེལ་བར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It will ensure one’s possessions always increase In this life and in future lives, and</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-127">
+    <prop type="location-id">UT22084-091-063-153</prop>
+    <tuv xml:lang="bo">
+                <seg>ནོར་གྱི་བདག་པོ་རྣམ་ཐོས་བུས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It causes the lord of wealth, Vaiśravaṇa,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-128">
+    <prop type="location-id">UT22084-091-063-154</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་པོ་བཞིན་དུ་བསྙེན་བཀུར་བྱེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-154"/>To honor one like a king.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-129">
+    <prop type="location-id">UT22084-091-063-154</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་དཔལ་ལྡན་ཚོགས་བདག་གི། །སྐུ་གཟུགས་དཀྱིལ་འཁོར་གྲུ་བཞིར་གཞག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Place the statue of glorious Gaṇapati</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-130">
+    <prop type="location-id">UT22084-091-063-155</prop>
+    <tuv xml:lang="bo">
+                <seg>བྷ་ག་ཞེས་བྱའི་གསང་སྔགས་ནི། །བཟླས་པ་འབུམ་དུ་བྱས་པ་ཡིས། །ཚེ་དེ་ཉིད་ལ་དངོས་གྲུབ་ནི། །ཅི་འདོད་པ་ནི་སྦྱིན་པར་མཛད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In a square maṇḍala. Recite the bhaga mantra<tei:milestone xml:id="UT22084-091-063-155"/> One hundred thousand times, and One will attain siddhi in this life. It will grant whatever one desires,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-131">
+    <prop type="location-id">UT22084-091-063-156</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་ཡི་རྒྱལ་པོའི་མངའ་ཐང་ནི། །སྒྲུབ་པ་པོ་ལ་སྩོལ་བར་མཛད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And the power of the king of gods<tei:milestone xml:id="UT22084-091-063-156"/> Will be bestowed upon the practitioner.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-132">
+    <prop type="location-id">UT22084-091-063-156</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤིན་ཏུ་ཐུགས་རྗེའི་བདག་ཉིད་པས། །དཔལ་ལྡན་ཚོགས་བདག་ཐུགས་རྗེ་ཅན། །ཐུགས་རྗེའི་ཕུང་པོས་དབུལ་བ་སྐྱོབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The compassionate glorious Gaṇapati and his Multitude of compassionate ones will protect one From poverty with their compassionate nature.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-133">
+    <prop type="location-id">UT22084-091-063-157</prop>
+    <tuv xml:lang="bo">
+                <seg>ནོར་ལྷ་ཆེན་པོའི་བདག་ཉིད་འདི། །དར་རམ་རས་ལ་ལེགས་བྲིས་ཏེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-157"/>Draw the Great God of Wealth On a piece of silk or a piece of cloth,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-134">
+    <prop type="location-id">UT22084-091-063-157</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་གྱི་ཉིན་པར་སྤྱན་ཕྱེ་ནས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Open its eyes on a day during Puṣya,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-135">
+    <prop type="location-id">UT22084-091-063-158</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་གི་ཁྱིམ་དུ་བཞུགས་པ་དེའི། །ས་ཕྱོགས་དེ་ནི་བཀྲ་ཤིས་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And good fortune will come to the location<tei:milestone xml:id="UT22084-091-063-158"/> Of the household in which it is placed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-136">
+    <prop type="location-id">UT22084-091-063-158</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟངས་ལ་ཚོགས་བདག་ཆེན་པོའི་སྐུ། །མཁས་པས་ལེགས་པར་བཟོ་བྱས་ཏེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>A skilled person should make a well-crafted Gaṇapati statue out of copper.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-137">
+    <prop type="location-id">UT22084-091-063-159</prop>
+    <tuv xml:lang="bo">
+                <seg>ཙནྡན་དམར་པོས་བྱུགས་པའི་སར། །མཎྜལ་སྟེང་དུ་ལེགས་པར་བཞག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Place it on top of a maṇḍala<tei:milestone xml:id="UT22084-091-063-159"/> On ground that has been smeared with red sandalwood.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-138">
+    <prop type="location-id">UT22084-091-063-159</prop>
+    <tuv xml:lang="bo">
+                <seg>བནྡུ་ཀ་ཡི་མེ་ཏོག་དང་། །པདྨ་རཱ་ག་རིན་ཆེན་དང་། །མེ་ཏོག་དམར་པོ་ཀུན་གྱིས་མཆོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Make an offering of bandhūka flowers, Rubies, and all manner of red flowers</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-139">
+    <prop type="location-id">UT22084-091-063-160</prop>
+    <tuv xml:lang="bo">
+                <seg>བྲཾ་ཞེས་བྱ་བའི་རིག་སྔགས་བཟླས། །རྒྱལ་པོའི་བུ་མོ་དབང་དུ་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>While reciting the bruṃ vidyāmantra,<tei:milestone xml:id="UT22084-091-063-160"/> And one will enthrall a king’s daughter,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-140">
+    <prop type="location-id">UT22084-091-063-160</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་ཡི་བུ་མོ་ཀླུ་མོ་དང་། །མིའམ་ཅི་ཡི་བུ་མོ་དང་། །<tei:ref folio="F.196.b"/>བྲམ་ཟེའི་བུ་མོ་མཚན་ལྡན་མོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>A goddess, a female nāga, A kinnara’s daughter, Or a reputable brahmin’s daughter.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-141">
+    <prop type="location-id">UT22084-091-063-161</prop>
+    <tuv xml:lang="bo">
+                <seg>མཆོག་ཏུ་གཟུགས་བཟང་གུས་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-161"/>She will be extremely beautiful, respectful,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-142">
+    <prop type="location-id">UT22084-091-063-161</prop>
+    <tuv xml:lang="bo">
+                <seg>བྲན་མོ་བཞིན་དུ་བསྒོ་བ་ཉན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And will obey your command like a servant.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-143">
+    <prop type="location-id">UT22084-091-063-161</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལ་སོགས་པ་མཐའ་ཡས་མཆོག །སྐུ་གཟུགས་དག་ལ་བརྟེན་ཏེ་འགྲུབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Relying upon immeasurably superior Statues such as these can allow one to</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-144">
+    <prop type="location-id">UT22084-091-063-162</prop>
+    <tuv xml:lang="bo">
+                <seg>མཆོད་པ་ཙམ་གྱིས་འབྱུང་བ་ཡིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-162"/>Gain siddhis simply by making offerings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-145">
+    <prop type="location-id">UT22084-091-063-162</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞན་ཡང་ཚོགས་བདག་ཆེན་པོའི་སྐུ། །རིན་པོ་ཆེ་ཡི་རྒྱུ་ལས་བྱས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Make a statue of Gaṇapati Out of precious materials</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-146">
+    <prop type="location-id">UT22084-091-063-162</prop>
+    <tuv xml:lang="bo">
+                <seg>དཀྱིལ་འཁོར་སྟེང་དུ་བཞུགས་བྱས་ཏེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And place it on top of the maṇḍala.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-147">
+    <prop type="location-id">UT22084-091-063-163</prop>
+    <tuv xml:lang="bo">
+                <seg>རཏྣ་སིདྡྷི་ཞེས་བྱ་བའི། །རིག་པ་འབུམ་དུ་བཟླས་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-163"/>Recite the ratnasiddhi vidyā One hundred thousand times,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-148">
+    <prop type="location-id">UT22084-091-063-163</prop>
+    <tuv xml:lang="bo">
+                <seg>ས་འོག་གཏེར་རྣམས་སྟོན་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And it will allow one to discover buried treasures</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-149">
+    <prop type="location-id">UT22084-091-063-163</prop>
+    <tuv xml:lang="bo">
+                <seg>ཅི་དགའ་བར་ཡང་སྤྱོད་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And indulge in whatever one desires.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-150">
+    <prop type="location-id">UT22084-091-063-164</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚོགས་བདག་ཆེན་པོའི་རྒྱུད་ལས་རྒྱལ་པོ་ལ་སོགས་པ་སྒྲུབ་པའི་ལེའུ་སྟེ་བཅུ་པའོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-164"/>This is chapter 10 in “The Tantra of Great Gaṇapati,” “Practices for Becoming a King and the Like.”<tei:milestone xml:id="UT22084-091-063-section-1-11"/> Chapter 11: Great Gaṇapati’s Maṇdala</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-151">
+    <prop type="location-id">UT22084-091-063-165</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་དཔལ་ལྡན་ཚོགས་བདག་ཆེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-165"/>Glorious Great Gaṇapati is</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-152">
+    <prop type="location-id">UT22084-091-063-166</prop>
+    <tuv xml:lang="bo">
+                <seg>དྲག་པོ་ཆེན་པོ་དྲག་ཤུལ་ཅན། །སངས་རྒྱས་ཐུགས་ལ་བྱོལ་སོང་དབུ། །གླང་ཆེན་གཞོན་ནུས་ཞལ་བརྒྱན་པ། །སྤྱན་གསུམ་མཆེ་བ་བཞི་དང་ལྡན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Very fierce with a fierce grimace. He has the heart of a buddha, the head of an animal, And the face of a young elephant<tei:milestone xml:id="UT22084-091-063-166"/> With three eyes and four tusks.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-153">
+    <prop type="location-id">UT22084-091-063-166</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱག་བཞི་ཞབས་བཞི་ཀླུ་ཆེན་ལྡན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He has four arms, four feet, and bears a large nāga.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-154">
+    <prop type="location-id">UT22084-091-063-166</prop>
+    <tuv xml:lang="bo">
+                <seg>དང་པོ་མཆེ་བ་དཀར་པོ་འཛིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The first hand holds a white tusk, and</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-155">
+    <prop type="location-id">UT22084-091-063-166</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་འོག་ཞགས་པ་གཡོན་པ་ན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The hand below it holds a noose. The left hands</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-156">
+    <prop type="location-id">UT22084-091-063-167</prop>
+    <tuv xml:lang="bo">
+                <seg>དགྲ་སྟ་ཁ་ཊྭཱཾ་རྩེ་གསུམ་འཛིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-167"/>Hold a battle-axe and three-pointed khaṭvāṅga.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-157">
+    <prop type="location-id">UT22084-091-063-167</prop>
+    <tuv xml:lang="bo">
+                <seg>མཐིང་ག་གསུས་པ་ཆེ་བའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He is dark blue and has a huge belly.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-158">
+    <prop type="location-id">UT22084-091-063-167</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟ་བུ་ཡི་ཚོགས་བདག་སྐུ། །ཁར་བ་ཁྲོ་ཆུ་དག་ལ་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This statue of Gaṇapati should be cast In molten bell metal and bronze.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-159">
+    <prop type="location-id">UT22084-091-063-168</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་གྱི་ཉིན་པར་རབ་ཏུ་གནས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-168"/>Consecrate it on a day during Puṣya.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-160">
+    <prop type="location-id">UT22084-091-063-169</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བསྒོམ་ཞིང་བསྒྲུབ་པ་ནི། །དཀྱིལ་འཁོར་བྱ་བའི་ས་བརྟག་པ། །ལེའུ་ཚེ་དགུ་པའི་དཀྱིལ་འཁོར་བྲི། །སྒོ་དང་སྒོ་ཁྱུད་ལྡན་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>For the meditation and practice, Choose a location to construct the maṇḍala And draw a maṇḍala with nine sections.<tei:milestone xml:id="UT22084-091-063-169"/> Include the gates and porticos.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-161">
+    <prop type="location-id">UT22084-091-063-169</prop>
+    <tuv xml:lang="bo">
+                <seg>དབུས་སུ་པདྨ་འདབ་བརྒྱད་ལ། །ཚོགས་བདག་ཆེན་པོས་བསྒྲུབ་བྱ་མནན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Draw a lotus with eight petals in the middle on which Gaṇapati tramples the target of the rite.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-162">
+    <prop type="location-id">UT22084-091-063-170</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟླ་བའི་གདན་ལ་ཡུམ་དང་ནི། །གཉིས་སུ་མེད་པ་དགོད་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He is seated on a moon disk <tei:milestone xml:id="UT22084-091-063-170"/>In nondual union with his consort.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-163">
+    <prop type="location-id">UT22084-091-063-170</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་མིང་ཨརྩི་ཀ་རི་སྟེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Her name is Arcikarī,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-164">
+    <prop type="location-id">UT22084-091-063-170</prop>
+    <tuv xml:lang="bo">
+                <seg>རྡོ་རྗེ་ཕག་གདོང་མ་ཞེས་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And she is known as the Vajra Sow-Faced One.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-165">
+    <prop type="location-id">UT22084-091-063-170</prop>
+    <tuv xml:lang="bo">
+                <seg>དགྲ་སྟ་བནྡ་ལག་ན་ཐོགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>She holds a battle-axe and a cup</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-166">
+    <prop type="location-id">UT22084-091-063-171</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྲག་གིས་བཀང་བ་གཙོ་ལ་སྟོབས། །ཤར་གྱི་ལེའུ་ཚེ་སེར་པོ་ལ། ཁམས་གསུམ་གྱི་བདག་པོ་ལ་ཕུག་དང་གྲི་འཛིན་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-171"/>Filled with blood that she offers to her lord. <tei:milestone xml:id="UT22084-091-063-172"/>The Lord of the Three Realms is in the eastern section, which is yellow. He holds a radish and a sword.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-167">
+    <prop type="location-id">UT22084-091-063-173</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷོ་ཕྱོགས་ཀྱི་ལེའུ་ཚེ་སྔོན་པོ་ལ། གནོད་སྦྱིན་ཆེན་པོ་རྡོ་རྗེ་མཆུ། མ་ཧེ་དེ་བའི་གདོང་ཅན་དབྱུག་ཏོ་དང་ཐོ་བ་འཛིན་པ་ནག་པོའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-173"/>The great yakṣa Vajratuṇḍa is in the southern section, which is blue. He has the face of Mahādeva, holds a mace and hammer, and is black.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-168">
+    <prop type="location-id">UT22084-091-063-175</prop>
+    <tuv xml:lang="bo">
+                <seg>ནུབ་ཕྱོགས་ཀྱི་ལེའུ་ཚེ་དམར་པོ་ལ། གནོད་སྦྱིན་གྱི་རྒྱལ་པོ་སྤྲིན་གྱི་བདག་ཅེས་བྱ་བ་དམར་པོ་ཆུས་གང་བའི་སྤྲིན་ཕུང་དང་ཞགས་པ་འཛིན་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-175"/>The yakṣa king Lord of Clouds is in the western section, which is red. He is red and holds a noose and a billowing cloud full of water.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-169">
+    <prop type="location-id">UT22084-091-063-176</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཕྱོགས་ཀྱི་ལེའུ་ཚེ་ལྗང་<tei:ref folio="F.197.a"/>གུ་ལ་གནོད་སྦྱིན་གྱི་བདག་པོ་ནོར་གནས་ཞེས་བྱ་བ་ལྗང་གུ་དབྱུག་ཐོ་དང་རིན་པོ་ཆེའི་ཁ་ཊྭཱྃ་ག་ཐོགས་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-176"/>The yakṣa lord Abode of Wealth is in the northern section, which is green. He is green and holds a mace and a jeweled khaṭvāṅga.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-170">
+    <prop type="location-id">UT22084-091-063-177</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཤར་གྱི་ལེའུ་ཚེ་དཀར་པོ་ལ་བགེགས་ཀྱི་རྒྱལ་པོ་བྱི་ན་ཡ་ཀ་གླང་པོའི་གདོང་མདུང་རྩེ་གསུམ་པ་དང་ལ་ཕུག་ཐོགས་པ་ནག་པོའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-177"/>Vināyaka, the Lord of Obstructing Beings, is in the northeastern section, which is white. He has the face of an elephant, holds a trident and a radish, and is black.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-171">
+    <prop type="location-id">UT22084-091-063-179</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤར་ལྷོའི་ལེའུ་ཚེ་དམར་པོ་ལ་ཡི་དགས་ཀྱི་བདག་པོ་དྲག་པོ་ཞེས་བྱ་བ་དགྲ་སྟ་དང་། ཐོད་པའི་རིལ་པོ་ཐོགས་པ་ནག་པོའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-179"/>Rudra, Lord of Pretas, is in the southeast section, which is red. He holds an axe and an intact skull, and he is black.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-172">
+    <prop type="location-id">UT22084-091-063-180</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷོ་ནུབ་ཀྱི་ལེའུ་ཚེ་ནག་པོ་ལ་སྤྲིན་གྱི་སྒྲོན་མ་ཞེས་བྱ་བ་སྤྲིན་ཕུང་དང་གློག་གི་འོད་དུ་བཅས་པ་ལག་གཉིས་ཀྱིས་ཐོགས་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-180"/>Cloud Light is in the southwest section, which is black. He holds a billowing cloud with a flashing thunderbolt beneath it with both hands.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-173">
+    <prop type="location-id">UT22084-091-063-181</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ནུབ་ཀྱི་ལེའུ་ཚེ་ནག་པོ་ལ་བགེགས་ཀྱི་རྒྱལ་པོ་ལོག་འདྲེན་སྣ་ཡོན་ཞེས་བྱ་བ་གླང་པོ་ཆེའི་སྣ་ཙན་རྩེ་གསུམ་དང་ཐོད་པ་སྐམ་པོའི་ནང་དུ་ལ་ཕུག་དང་ཤས་བཀང་བ་ཐོགས་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-181"/>Curved Trunk Vināyaka, the King of Obstructing Beings, has an elephant trunk and is in the northwest section, which is black. He holds a trident and a dry skull that has a radish inside and is full of flesh.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-174">
+    <prop type="location-id">UT22084-091-063-182</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་རྣམས་ལ་ཀླུའི་རྒྱལ་པོ་བརྒྱད་བཀའ་ཉན་པ་ནི་ཀླུའི་རྒྱལ་པོ་ཨ་བ་ལ་དང་། བ་རུ་ཎ་དང་། དུང་སྐྱོང་དང་། འཇོག་པོ་དང་། རིགས་ལྡན་དང་། མཐའ་ཡས་དང་། པདྨ་དང་། པདྨ་ཆེན་པོ་རྣམས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-182"/>The eight nāga kings who obey these deities are the nāga kings Abala, Varuṇa, Śaṅkhapāla, Takṣaka, Kulika, Ananta, Padma, and Mahāpadma.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-175">
+    <prop type="location-id">UT22084-091-063-183</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤར་གྱི་སྒོར་རྒྱལ་པོ་ཆེན་པོ་ཡུལ་འཁོར་སྲུང་། ལྷོ་སྒོར་འཕགས་སྐྱེས་པོ། །ནུབ་སྒོར་སྤྱན་མི་བཟང་། བྱང་སྒོར་རྣམ་ཐོས་སྲས་རྣམས་སྐུ་མདོག་དཀར་བ་དང་། སྔོ་བ་དང་། དམར་བ་དང་། ལྗང་གུར་ཤེས་པར་བྱའོ། ། ལག་ན་ནོར་བུ་རིན་པོ་ཆེ་རེ་རེ་རལ་གྲི་རེ་རེའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-183"/>The great king Dhṛtarāṣṭra is at the eastern gate, Virūḍhaka is at the southern gate, Virūpākṣa is at the western gate, and Vaiśravaṇa is at the northern gate. The colors of their bodies are white, blue, red, and green, respectively, and each of them holds a precious jewel and a sword. Their consorts are not depicted.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-176">
+    <prop type="location-id">UT22084-091-063-184</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་རྣམས་ཀྱི་ཆུང་མ་ནི་མི་བྲིའོ། །འདི་ལྟར་བྲིས་པའི་བྱང་ཤར་དུ་གསད་པའི་དཀྱིལ་འཁོར་གྲུ་གསུམ་ལ། དེའི་ནང་དུ་དགྲ་བོའི་གཟུགས་སྦྲ་ཚིལ་ལས་བྱས་པ་རིད་པ། གནག་པ། སྐྲ་ཟེང་བ། ཏིལ་མར་གྱིས་བྱུགས་ཏེ སྙིང་གར་མིང་རུས་བྲིས་ལ་གཞུག་གོ། ། དེའི་སྐེར་རོ་སྐྲ་ལས་བྱས་པའི་ཐག་པ་གདགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-184"/>Make a wax effigy of the enemy that is thin, black, and has disheveled hair, and place it inside a triangular killing maṇḍala to the northeast of the drawing. Smear it with sesame oil, write the family name in the center, place it there, and tie a cord made from the hair of a corpse around its neck.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-177">
+    <prop type="location-id">UT22084-091-063-186</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་བྱས་ནས་ གནོད་སྦྱིན་ཆེན་པོ་བརྒྱད་ལ། ལ་དུ་དང་། ལ་ཕུག་དང་བཅས་པའི་གཏོར་མ་དང་། གནོད་སྦྱིན་ཆེན་པོ་བརྒྱད་ལ་ཉ་ཤ་དང་སྒོག་བཙོང་དུ་སྦྱར་བའི་དམར་གྱི་གཏོར་མ་རེ་རེ་བཤམ། ཀླུ་ཆེན་པོ་བརྒྱད་ལ་གཏོར་མ་ཆེ་བ་གཅིག་དང་། རྒྱལ་པོ་ཆེན་པོ་བཞི་ལ་རེ་རེ་བྱ། གལ་ཏེ་མ་འབྱོར་ན་ཆེ་བ་གཅིག་བྱ། ལྷ་བཤོས་རེ་རེ་དབུལ་བར་བྱའོ། ། གཞན་ཡང་དྲག་པོའི་རྫས་<tei:ref folio="F.197.b"/>སྤྱང་ཀིའི་ཐོད་པ་དང་། ཟི་ར་ནག་པོ་དང་། སྐེ་ཚེ་དང་། ཡུངས་ཀར་དང་། ཡུངས་ནག་གཞག་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-186"/>After you have done that, set up bali offerings of laḍḍu and radishes for each of the eight great yakṣas as well as red bali offerings that contain fish and onions for each of the eight great yakṣas. Prepare a single large bali offering for the eight great nāgas and one for each of the four great kings. If one cannot afford that, prepare a single large bali. Present divine food offerings to each of them. One should also set out wrathful substances such as a wolf’s skull, black cumin, mustard seed, white mustard seed, and black mustard seed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-178">
+    <prop type="location-id">UT22084-091-063-187</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚོགས་བདག་ཆེན་པོའི་དཀྱིལ་འཁོར་གྱི་ལེའུ་སྟེ་བཅུ་གཅིག་པའོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-187"/>This is chapter 11, “Great Gaṇapati’s Maṇdala.”<tei:milestone xml:id="UT22084-091-063-section-1-12"/> Chapter 12: The Meditation System</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-179">
+    <prop type="location-id">UT22084-091-063-188</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་གཞན་ཡང་བཤད་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-188"/>Now I will explain further.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-180">
+    <prop type="location-id">UT22084-091-063-188</prop>
+    <tuv xml:lang="bo">
+                <seg>བསྒོམ་པའི་རིམ་པ་འདི་ལྟ་བུ། །མ་བྱུང་འབྱུང་བར་མི་འགྱུར་བས། །ཤིན་ཏུ་གསང་སྟེ་བསྒྲུབ་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>A meditation system like this has never Appeared before and will not appear again— It is a well-kept secret, and one should practice it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-181">
+    <prop type="location-id">UT22084-091-063-189</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡ་ཡི་རང་བཞིན་སྟོང་པ་ལས། །སྣང་བ་རང་བཞིན་ཧཱུྃ་དང་ནི། །ཡ་ཚོགས་བརྒྱད་པའི་ས་བོན་འབྱུང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-189"/>The nature of yaṃ is emptiness. Hūṁ Arises out of that and its nature is appearance. Ya is the seed syllable of the eight gaṇas,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-182">
+    <prop type="location-id">UT22084-091-063-189</prop>
+    <tuv xml:lang="bo">
+                <seg>མིང་གི་སྔགས་ལས་རབ་ཏུ་བསྐྱེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Who are generated from their name mantras.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-183">
+    <prop type="location-id">UT22084-091-063-190</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྲོ་བོའི་སྤྲུལ་པས་སྟོང་གསུམ་བཀང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-190"/>The wrathful one’s emanations fill the three-thousandfold world.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-184">
+    <prop type="location-id">UT22084-091-063-190</prop>
+    <tuv xml:lang="bo">
+                <seg>འོད་བསྡུས་ཐོག་མའི་ཧཱུཾ་ལ་འདུས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Light rays gather and coalesce in the initial syllable hūṁ.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-185">
+    <prop type="location-id">UT22084-091-063-190</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚོགས་ཀྱི་བདག་པོ་ཆེན་པོ་དེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then, one generates Great Gaṇapati, who</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-186">
+    <prop type="location-id">UT22084-091-063-191</prop>
+    <tuv xml:lang="bo">
+                <seg>འགྲོ་བའི་དོན་དུ་བཞེངས་པ་ནི། །ཁྲོ་བོ་ཆེན་པོ་འཇིགས་པའི་གཟུགས། །ཡུམ་དང་འཁོར་ཡང་རྫོགས་པར་བསྐྱེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Appears for the benefit of beings in his complete<tei:milestone xml:id="UT22084-091-063-191"/> Form as a terrifying great wrathful being With his consort and retinue.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-187">
+    <prop type="location-id">UT22084-091-063-192</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕུཿབརྒྱད་ཀླུ་བརྒྱད་སེམས་དཔའི་ཚུལ། །རྒྱལ་པོ་དེ་བཞིན་ཁྲོ་བོའི་ཚུལ། །ཡི་གེ་བྷཻ་དང་མིང་ལས་བསྐྱེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One generates the eight nāgas out of eight phuḥ syllables And the wrathful kings are likewise <tei:milestone xml:id="UT22084-091-063-192"/>Generated from the syllable bhai and their names.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-188">
+    <prop type="location-id">UT22084-091-063-193</prop>
+    <tuv xml:lang="bo">
+                <seg>འོད་ཟེར་ཚུལ་གྱིས་སྤྱན་དྲངས་ལ། །ཛཿདང་ཛཿཡི་འཕྲོ་འདུ་དང་། །ཧཱུྃ་དང་ཧཱུཾ་གི་གསང་སྔགས་དང་། །ལྕགས་ཀྱུའི་ཕྱག་རྒྱས་སྤྱན་དྲངས་ལ། །ནུས་པའི་མཐུ་དང་ལྡན་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Draw them in with light rays, and use Jaḥ and jaḥ’s expanding and contracting light rays, Hūṁ and the hūṁ mantra, <tei:milestone xml:id="UT22084-091-063-193"/>And the hook mudrā to draw them in. Have them assume their full power.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-189">
+    <prop type="location-id">UT22084-091-063-193</prop>
+    <tuv xml:lang="bo">
+                <seg>མཆོད་དང་གཏོར་མ་བསྟབ་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Perform the offering and the bali offering.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-190">
+    <prop type="location-id">UT22084-091-063-194</prop>
+    <tuv xml:lang="bo">
+                <seg>བ་ལིཾ་གྲྀཧྞ་ཁ་ཡི་སྔགས། ། སྙིང་པོ་དག་དང་སྤེལ་བར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Augment their heart mantras with <tei:milestone xml:id="UT22084-091-063-194"/>The mantra baliṃ gṛhṇa kha.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-191">
+    <prop type="location-id">UT22084-091-063-195</prop>
+    <tuv xml:lang="bo">
+                <seg>བསྒོམ་པའི་རིམ་པའི་ལེའུ་སྟེ་བཅུ་གཉིས་པའོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-195"/>This is chapter 12, “The Meditation System.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-192">
+    <prop type="location-id">UT22084-091-063-196</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་གསང་སྔགས་རྒྱལ་པོ་ནི། །དབྱངས་ཡིག་གསལ་བྱེད་དག་ལ་བཏུ། །དང་པོ་བཞི་པ་དེ་རྗེས་བྲི། །བཞི་པའི་ལྔ་པ་གྲལ་ལ་བཞག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-section-1-13"/>Chapter 13: The Arising of the Secret Mantras of the Great Yakṣas<tei:milestone xml:id="UT22084-091-063-196"/> The king of mantras is as follows: For its vowels and consonants, Write the first followed by the fourth. Place the fifth member of the fourth next.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-193">
+    <prop type="location-id">UT22084-091-063-197</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡིད་བཞིན་ནོར་བུ་ཡི་གེ་དང་། དེ་ཡི་རྗེས་སུ་བསམ་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-197"/>Imagine the wish-fulfilling Jewel syllable after that,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-194">
+    <prop type="location-id">UT22084-091-063-197</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པའི་མཚན་དང་པོ། །དེ་ཡི་རྗེས་སུ་བརྗོད་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And recite the first syllable of The Tathāgata’s name after that.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-195">
+    <prop type="location-id">UT22084-091-063-198</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལ་དབྱངས་ཡིག་བརྒྱད་པས་བརྒྱན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-198"/>Ornament it with the eighth vowel.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-196">
+    <prop type="location-id">UT22084-091-063-199</prop>
+    <tuv xml:lang="bo">
+                <seg>དགུག་པའི་ཡི་གེ་དག་དང་ནི། །འབྱུང་བ་རླུང་གི་ཡི་གེ་ལ། །དབྱངས་ཡིག་གཉིས་པ་སྦྱར་བ་ཡིས། །རྒྱལ་བའི་རྒྱལ་པོ་ཞེས་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Add the second vowel to The attracting syllables And the wind element syllable <tei:milestone xml:id="UT22084-091-063-199"/>That is called the victorious king.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-197">
+    <prop type="location-id">UT22084-091-063-199</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡིད་བཞིན་ནོར་བུའི་ཡི་གེ་ལ། །དབྱངས་ཡིག་གཉིས་པ་སྦྱར་བར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Add the second vowel To the wish-fulfilling jewel syllable.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-198">
+    <prop type="location-id">UT22084-091-063-200</prop>
+    <tuv xml:lang="bo">
+                <seg>ཉི་མ་ཡི་ནི་ཡི་གེ་དང་། །བཞི་པའི་ལྔ་པ་དེ་ནས་བྲི། །དེ་ལ་དབྱངས་ཡིག་བརྒྱད་པས་བརྒྱན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Write the sun syllable<tei:milestone xml:id="UT22084-091-063-200"/> And then the fifth of the fourth class. Ornament that with the eighth vowel.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-199">
+    <prop type="location-id">UT22084-091-063-200</prop>
+    <tuv xml:lang="bo">
+                <seg>གཉིས་པའི་བཞི་པའི་<tei:ref folio="F.198.a"/>ཡི་གེ་ལ། །དབྱངས་ཡིག་བཞི་པས་བརྒྱན་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Adorn the fourth syllable of the second Class with the fourth vowel.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-200">
+    <prop type="location-id">UT22084-091-063-201</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྔ་པའི་བཞི་པའི་ཡི་གེ་ལ། །གསུམ་པའི་ལྔ་པ་སྦྱར་བར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-201"/>Add the fourth of the fifth syllable And the fifth of the third syllable.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-201">
+    <prop type="location-id">UT22084-091-063-201</prop>
+    <tuv xml:lang="bo">
+                <seg>བཞི་པའི་དང་པོའི་ཡི་གེ་ལས། །དབྱངས་ཡིག་བཞི་པས་བརྒྱན་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Ornament the first syllable of the fourth Class with the fourth vowel.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-202">
+    <prop type="location-id">UT22084-091-063-202</prop>
+    <tuv xml:lang="bo">
+                <seg>འབྱུང་བ་རླུང་གི་ཡི་གེ་ལ། །དེ་ཡི་འོག་ཏུ་སྦྱར་བར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-202"/>Add the wind element Syllable after that.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-203">
+    <prop type="location-id">UT22084-091-063-202</prop>
+    <tuv xml:lang="bo">
+                <seg>རིན་པོ་ཆེ་ཡི་ཡི་གེ་དང་། །ལས་ཀྱི་ཡི་གེ་མཐའ་མར་བརྗོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Pronounce the precious syllable And the action syllable at the end.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-204">
+    <prop type="location-id">UT22084-091-063-202</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚོགས་བདག་ཆེན་པོའི་རྩ་བའི་སྔགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Great Gaṇapati’s root mantra</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-205">
+    <prop type="location-id">UT22084-091-063-202</prop>
+    <tuv xml:lang="bo">
+                <seg>འདོད་པ་ཐམས་ཅད་སྒྲུབ་བྱེད་ཡིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Grants everything one desires.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-206">
+    <prop type="location-id">UT22084-091-063-203</prop>
+    <tuv xml:lang="bo">
+                <seg>གནོད་སྦྱིན་བརྒྱད་ཀྱིས་གསང་སྔགས་ནི། །ཡ་ཞེས་བྱ་བ་ལ་སོགས་པ། །ཡ་ཡ་ཞེས་བྱ་ལ་སོགས་དང་། །བྃ་ཞེས་བྱ་བ་ལ་སོགས་དང་། །བི་ན་ཡ་ཀ་ཞེས་བྱ་བ་ལ་སོགས་པ་དང་། བྷཻ་ར་ཞེས་བྱ་བ་ལ་སོགས་པ་དང་། །ཧཱུྃ་ཞེས་བྱ་བ་དང་། ཏྲི་ཞེས་བྱ་བ་སྟེ་བརྒྱད་ལ་ཧཱུཾ་དང་ཕཊ་ཀྱིས་མཐའ་བརྟེན་པས་སྲོག་གི་སྙིང་པོའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-203"/>The mantras of the eight yakṣas Are ya and so forth, Yaya and so forth, Vaṃ and so forth, <tei:milestone xml:id="UT22084-091-063-205"/>Vināyaka and so forth, bhaira and so forth, hūṁ, and tri. The eight are flanked by hūṁ and phaṭ, which makes them vital energy heart mantras.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-207">
+    <prop type="location-id">UT22084-091-063-207</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀླུ་ཡི་སྔགས་ནི་མིང་ལས་བསྐྱེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-207"/>One generates the nāga mantras</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-208">
+    <prop type="location-id">UT22084-091-063-207</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོྃ་དང་ཧཱུྃ་ཕཊ་ལྡན་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>From their names and adds oṃ and hūṁ phaṭ.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-209">
+    <prop type="location-id">UT22084-091-063-208</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་པོ་ཆེན་པོའི་གསང་སྔགས་ནི། །བྷཻ་ཞེས་བྱ་བ་དང་། བྷི་ཞེས་བྱ་བ་དང་། བྷ་ཞེས་བྱ་བའི་སྔགས་སུ་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-208"/>The mantras of the great kings are the mantras bhai, bhi, and bha.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-210">
+    <prop type="location-id">UT22084-091-063-210</prop>
+    <tuv xml:lang="bo">
+                <seg>གནོད་སྦྱིན་ཆེན་པོ་རྣམས་ཀྱི་གསང་སྔགས་འབྱུང་བའི་ལེའུ་སྟེ་བཅུ་གསུམ་པའོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-210"/>This is chapter 13, “The Arising of the Secret Mantras of the Great Yakṣas.”<tei:milestone xml:id="UT22084-091-063-section-1-14"/> Chapter 14: The Fierce Killing Mantra<tei:milestone xml:id="UT22084-091-063-211"/> For the mantra to attract a target,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-211">
+    <prop type="location-id">UT22084-091-063-212</prop>
+    <tuv xml:lang="bo">
+                <seg>བསྒྲུབ་བྱ་དགུག་པའི་སྔགས་ནི། །ཡ་དང་ཀྵ་དང་ཀ་དང་ལ། །མ་དང་ཧཱ་དང་བྷཻ་ར་བྷེ། །ཏྲི་དང་རཱ་དང་ཙ་དག་གིས། །ཤ་ཏྲཱུྃ་ནྲྀ་ཛ་ནི་ཛ་ཞེས། །ལན་གྲངས་མང་དུ་བཟླས་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Recite śatrūṃ nṛja nija With ya, kṣa, ka, la Ma, hā, bhairabhe,<tei:milestone xml:id="UT22084-091-063-212"/> Tri, rā, and ca Many times.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-212">
+    <prop type="location-id">UT22084-091-063-212</prop>
+    <tuv xml:lang="bo">
+                <seg>གནོད་སྦྱིན་བརྒྱད་ཀྱི་གསང་སྔགས་ཀྱིས། །དགྲ་བོའི་བླ་རྡོ་བླང་བར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One should use the eight yakṣa mantra To excavate an enemy’s soul stone.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-213">
+    <prop type="location-id">UT22084-091-063-214</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བླ་རྡོ་བསྲེག་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-214"/>Then, one should burn the soul stone And trample the soul stone. For the king of impelling mantras,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-214">
+    <prop type="location-id">UT22084-091-063-214</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བླ་རྡོ་མནན་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Recite the invocation</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-215">
+    <prop type="location-id">UT22084-091-063-216</prop>
+    <tuv xml:lang="bo">
+                <seg>སྦད་པའི་གསང་སྔགས་རྒྱལ་པོ་ནི། །ཡ་དང་ཀྵ་དང་ཀ་དང་ལ། །མ་དང་ཧཱ་དང་བྷེ་ར་བྷེ། །དེ་བ་ཡཀྵ་ཡ་མ་དང་། ནཱ་ག་ནཱ་ག་ཐུམ་རིལ་ཡང་། །ཆེ་གེ་དགྲ་བོ་ཐུམ་རིལ་ཡ། །ཡ་ཡ་ཞེས་ཀྱང་བསྐུལ་བར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Ya, kṣa, ka, la,<tei:milestone xml:id="UT22084-091-063-216"/> Ma, hā, bhairabhe, Deva, yakṣa, yama, Nāga nāga thumrilaya, The target’s name, thumrilaya</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-216">
+    <prop type="location-id">UT22084-091-063-219</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བསད་པའི་གསང་སྔགས་ནི། །མ་དང་ཧཱ་དང་བྷེ་ར་བྷེ། །ཡཀྵ་ལ་སོགས་གོང་དང་མཐུན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-219"/>And yaya. For the killing mantra, Recite the phrase as above Beginning with ma, hā, <tei:milestone xml:id="UT22084-091-063-220"/>Bhairabhe,yakṣa, and the like</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-217">
+    <prop type="location-id">UT22084-091-063-219</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་རྗེས་འདི་སྐད་བརྗོད་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Followed by two</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-218">
+    <prop type="location-id">UT22084-091-063-219</prop>
+    <tuv xml:lang="bo">
+                <seg>ནཱ་ཤ་ཡ་ན་ལན་གཉིས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Nāśaya nāśaya,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-219">
+    <prop type="location-id">UT22084-091-063-223</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤ་ཡ་ཙཱུར་ན་ཙཱུ་ར་ཡ། །ནཱ་ག་ཡ་ཀ་ཏྲ་མཱ་ར་ཡ། །ཧ་ན་ཙ་ཀྲ་རིམ་པ་གཉིས། །བི་ན་ཡ་ག་ཛ་བྷིནྡྷི། །ཏནྟ་ཀ་ར་དེ་ནས་བརྗོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Cūrnaya cūrnaya,<tei:milestone xml:id="UT22084-091-063-223"/> Nāga­yakatra māraya, Hana and cakra twice, Vināyakaji bhindha, And tantakara, <tei:milestone xml:id="UT22084-091-063-225"/>The target’s name, māraya,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-220">
+    <prop type="location-id">UT22084-091-063-226</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆེ་གེ་<tei:ref folio="F.198.b"/>མོ་མཱ་ར་ཡ་ཞེས་པ། །ཧཱུྃ་ཧཱུྃ་ཕཊ་ཕཊ། དྲག་པོས་བསད་པ་སྔགས་ཀྱི་ལེའུ་སྟེ་བཅུ་བཞི་པའོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And then hūṁ hūṁ phaṭ phaṭ.<tei:milestone xml:id="UT22084-091-063-226"/> This is chapter 14, “The Fierce Killing Mantra.”<tei:milestone xml:id="UT22084-091-063-section-1-15"/> Chapter 15: Praising Gaṇapati</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-221">
+    <prop type="location-id">UT22084-091-063-228</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ཡང་ནི་དྲག་པོའི་སྔགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-228"/>There is also the following fierce mantra:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-222">
+    <prop type="location-id">UT22084-091-063-229</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་བྷི་གྷཱ་བྷི་བ་བྷྱི་སརྦ་བིདྱཱ་བི་ཤ་ཡ་ཧྲྀ་ད་མི་ཏ་ཡ། ཧཱུྃ་ཙི་ཏུ་བ་ཏུ། ཏྲྃ་པྲ་མ་རུ་ཏཱ་ཡ། ཧ་ན་ཧ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-229"/>oṃ bhi­ghābhi­vabhyi sarva­vidyāviśaya­hṛdam itaya | hūṁ citu vatu | traṃ pramarutāya | hana hana | gṛhṇa gṛhṇa | paca paca | bhrahma bhrahma | bhrahmaya bhrahmaya | hūṁ hūṁ phaṭ phaṭ |<tei:milestone xml:id="UT22084-091-063-230"/> Make a statue of Great Vināyaka Out of bell metal or pure copper,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-223">
+    <prop type="location-id">UT22084-091-063-229</prop>
+    <tuv xml:lang="bo">
+                <seg>གྲྀཧྞ་གྲྀཧྞ། པ་ཙ་པ་ཙ། བྷྲཧྨ་བྷྲཧྨ། བྷྲཧྨ་ཡ་བྷྲཧྨ་ཡ། ཧཱུྃ་ཧཱུྃ་ཕཊ་ཕཊ། ཁར་པའམ་ཡང་ན་ཟངས་དག་ལ། །ལོག་འདྲེན་ཆེན་པོའི་གཟུགས་བྱས་ལ། །དེ་ལ་རབ་གནས་མཆོད་པ་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Consecrate it, and make offerings to it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-224">
+    <prop type="location-id">UT22084-091-063-229</prop>
+    <tuv xml:lang="bo">
+                <seg>དགྲ་བོའི་གཟུགས་བརྙན་འོག་ཏུ་གཞུག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Place it on top of an effigy of the enemy</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-225">
+    <prop type="location-id">UT22084-091-063-231</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚོགས་ཀྱི་བདག་པོའི་སྟན་དུ་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-231"/>So that it acts as Gaṇapati’s seat,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-226">
+    <prop type="location-id">UT22084-091-063-231</prop>
+    <tuv xml:lang="bo">
+                <seg>དགྲ་དེ་འཆི་བར་ཐེ་ཚོམ་མེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And the enemy will surely die.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-227">
+    <prop type="location-id">UT22084-091-063-231</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡང་ནི་སྦྱོར་བའི་ལས་རྣམས་ནི། །དགོས་པ་ཆེན་པོ་འདི་གསུངས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Rites that employ it are also</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-228">
+    <prop type="location-id">UT22084-091-063-231</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚོགས་ཀྱི་བདག་པོའི་སྐུ་ཙནྡན་ནམ་རིན་པོ་ཆེ་ལས་བྱས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Said to be highly effective.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-229">
+    <prop type="location-id">UT22084-091-063-232</prop>
+    <tuv xml:lang="bo">
+                <seg>རབ་གནས་བྱས་ལ་མཆོད་པ་ཕུལ་ཏེ། ། སེར་བ་གཅོད་པར་འདོད་ན་སེར་བའི་བདག་པོ་རླུང་ལྷ་དང་ཆུ་ལྷའི་གཟུགས་བྱས་ཏེ། སྤྲིན་གྱི་གཟུགས་དང་། འབྲུག་གི་གཟུགས་བྱས་ལ་ཚོགས་ཀྱི་བདག་པོའི་གདན་དུ་མནན་པར་བྱའོ། ། བདག་ཉིད་ཀྱིས་ཀྱང་མནན་པར་བསམས་ཏེ། ཧི་ཀ་ཙནྡྲ་ཞེས་བྱ་བ་ལ་སོགས་པའི་སྔགས་བཟླས་ན་སེར་བ་ཆོད་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-232"/>Make a statue of Gaṇapati out of sandalwood or jewels, consecrate it, and make offerings to it. If one wants to stop a hailstorm, make a statue of Vāyu and Varuṇa, the Lords of Hail. Make an effigy of a cloud and a statue of a dragon and press it down as Gaṇapati’s seat. Imagine yourself trampling it as well while reciting the mantra that begins hika candra and the hail will stop. One should scatter white mustard seeds in the directions.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-230">
+    <prop type="location-id">UT22084-091-063-233</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡུངས་ཀར་ཡང་ཕྱོགས་སུ་གཏོར་བར་བྱའོ། ། སེར་བ་འབེབས་པར་འདོད་ན། ཆུ་དང་སྤྲིན་གྱི་མཎྜལ་མངོན་པར་བྲིས་ཏེ། ཚོགས་བདག་ཆེན་པོ་འབྲུག་ལ་ཞོན་པར་བསྒོམས་ཏེ། བདག་གི་བཀའ་ཉན་པར་བསམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-233"/>If one wants to cause hail, make a clear drawing of a water and cloud maṇḍala, visualize Gaṇapati riding a dragon, and imagine them as one’s servants.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-231">
+    <prop type="location-id">UT22084-091-063-234</prop>
+    <tuv xml:lang="bo">
+                <seg>གསང་བའི་རྫས་སུ་བྱ་བ་ལ། ལྕགས་ཕྱེ་གསེར་ཕྱེ་ཟངས་ཕྱེ་རྣམས། གནམ་ཆུ་འབྲས་ཀྱི་ཕྱེ་སྦྲུས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-234"/>To prepare the secret substances, Make a dough using powdered iron, Gold, copper, rainwater, and rice flour.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-232">
+    <prop type="location-id">UT22084-091-063-235</prop>
+    <tuv xml:lang="bo">
+                <seg>སེར་བ་ཅི་ཙམ་འདོད་པའི་དབྱིབས་ཆེ་ཆུང་བྱས་ལ་ཁྲག་གིས་བྱུགས་ལ་བདུན་དང་བདུན་ཕྲག་མང་དུ་བྱས་ཏེ། ཀ་ཀ་ཀི་ཀུའི་ཐོད་པའི་ནང་དུ་བླུགས་ཏེ། སྤྲིན་གྱིས་དགབ་པར་བྱའོ། ། ཀ་ཀའི་ཐོད་པ་ལ་སྔགས་བྲི་བར་བྱའོ། ། རིམ་པ་གསུམ་མོ། ། རྟེན་གྱི་རྫས་ཀྱང་གཞག་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-235"/>Form it into hailstones the size and shape you desire, anoint them with blood, and do this many times over for forty-nine days. Place them inside a crow’s skull, cover the crow’s skull with clouds, and write the mantra on it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-233">
+    <prop type="location-id">UT22084-091-063-237</prop>
+    <tuv xml:lang="bo">
+                <seg>བྲུྃ་བྲུྃ་བྷ་རི་ཤ་ཡ་ཞེས་བྱ་བ་ལ་སོགས་པའི་སྔགས་འབུམ་ཕྲག་གཅིག་བཟླས་པ་དང་། ཀ་ཀའི་ཐོད་པའི་ནང་དུ་སེར་བ་དངོས་སུ་གསུམ་མམ་བདུན་ནམ་བརྒྱད་བྱུང་བ་དང་། དགྲའི་ཡུལ་དུ་བསྐྱལ་ཏེ་སྔགས་<tei:ref folio="F.199.a"/>བཟློག་ནས་ བཟླས་པས་འབབ་བོ། །གལ་ཏེ་མ་བབས་ན་ ཚོགས་ཀྱི་བདག་པོའི་སྐུ་དབུ་ཐུར་ལ་བསྟན། ཞབས་གྱེན་ལ་བསྟན་པ་དགྲ་བོའི་ཡུལ་གྱི་དབུས་སུ་སྦའོ། ། མོད་ལ་སེར་བ་འབབ་སྟེ། བྱ་ཀ་ལནྡ་ཀའི་སྒོ་ང་ཙམ་དང་། དབྱིབས་དམར་པོ་ཤ་བའི་རླིག་འབྲས་ཙམ་པ་ཡུན་རིང་པོར་འབབ་བོ། །ལོ་ཏོག་འཇོམས་པའི་སྔགས་ནི་བྲུྃ་ཞེས་པས་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-237"/>For the third stage, set out the materials to support the rite. Recite the mantra that begins bruṃ bruṃ bhariśaya one hundred thousand times. Three, seven, or eight of the hailstones inside the crow’s skull will emerge. One should bring them to the enemy’s territory. Recite the mantra after the repelling mantra and it will fall on the enemy. If it does not hail, hide the Gaṇapati statue in the middle of the enemy’s territory with its head facing down and its feet facing up, and it will immediately hail. Hail the size of kalandaka bird eggs and red-colored hail the size of deer testicles will fall for a long time. This will happen because bruṃ is a mantra that destroys crops.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-234">
+    <prop type="location-id">UT22084-091-063-238</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་གཅོད་པར་འདོད་ན་ནི་སྐུ་དང་ཀ་ཀི་མ་ཕྱུང་བ་ལ་ཉི་མ་རེ་རེར་འབབ་པས་དབྱུང་བར་བྱའོ། ། ཚོགས་ཀྱི་བདག་པོའི་སྐུ་ལ་མཆོད་པ་འབུལ་བར་བྱའོ། ། གསང་སྔགས་ཀྱང་དབུ་ཞབས་མ་ནོར་བར་རིན་པོ་ཆེའི་ཕྲེང་བ་བརྒྱ་རྩ་བརྒྱད་བཟླས་པར་བྱའོ། ། སྐུ་ཁྲུས་གསོལ་བ་བདག་གི་དཀྱིལ་འཁོར་གྱི་དབུས་སུ་བཞུགས་སུ་གསོལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-238"/>If you want to eliminate them, do not remove the statue and the crow skull. It will hail every day, and they will leave. Present offerings to the Gaṇapati statue. Perform one hundred and eight mantra recitations that are flawless from start to finish using a jewel rosary. Bathe, and ask Gaṇapati to be present in the center of one’s own maṇḍala.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-235">
+    <prop type="location-id">UT22084-091-063-239</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལ་སོགས་པ་མཐའ་ཡས་མཆོག །ཚོགས་ཀྱི་བདག་པོས་བྱེད་པ་ཡིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-239"/>Gaṇapati accomplishes limitless Supreme acts such as that.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-236">
+    <prop type="location-id">UT22084-091-063-239</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱག་འཚལ་དཔལ་ལྡན་ཚོགས་བདག་དགྱེས། །ཕྱག་འཚལ་དཔལ་ལྡན་ཚོགས་བདག་ཆེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to joyous, glorious Gaṇapati! Homage to great, glorious Gaṇapati!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-237">
+    <prop type="location-id">UT22084-091-063-239</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱག་འཚལ་དཔལ་ལྡན་ཞི་ཁྲོ་ཆེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the glorious, great, peaceful, and wrathful one!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-238">
+    <prop type="location-id">UT22084-091-063-240</prop>
+    <tuv xml:lang="bo">
+                <seg>དངོས་གྲུབ་འབྱུང་བའི་རྒྱུད་ལས་ཚོགས་ཀྱི་བདག་པོ་ལ་བསྟོད་པའི་ལེའུ་སྟེ་བཅྭ་ལྔ་པའོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-240"/>This is chapter 15 in “The Arising of Siddhi Tantra,” “Praising Gaṇapati.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-239">
+    <prop type="location-id">UT22084-091-063-241</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚོགས་ཀྱི་བདག་པོའི་རྒྱུད་དངོས་གྲུབ་འབྱུང་བ་ཞེས་བྱ་བ་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-241"/>This concludes “The Gaṇapati Tantra: Arising of Siddhi.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-240">
+    <prop type="location-id">UT22084-091-063-242</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་དཱི་པཾ་ཀ་ར་ཤྲཱིཛྙཱ་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-242"/>The Indian preceptor Dīpaṁkaraśrījñāna</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-241">
+    <prop type="location-id">UT22084-091-063-242</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་དངོས་གྲུབ་ཆེད་དུ་ནི། །རྒྱ་གར་ཡུལ་ནས་བསྣམས་ནས་བྱོན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Arrived from India carrying this For the sake of worldly siddhis.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-242">
+    <prop type="location-id">UT22084-091-063-242</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་བའི་འབྱུང་གནས་གཏད་པ་ཡིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He entrusted it to Gyalwé Jungné.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-063-TU-243">
+    <prop type="location-id">UT22084-091-063-243</prop>
+    <tuv xml:lang="bo">
+                <seg>།​རྒྱུད་འདི་བསམ་པ་འགྲུབ་པ་ཡིན།​། །​།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-063-243"/>This tantra fulfills wishes.</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

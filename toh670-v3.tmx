@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="linguae-dharmae/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-091-067" eft:text-version="v-1.0.6-2023"/>
+<body>
+<tu id="UT22084-091-067-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.202.b"/>༄༅། །རྒྱ་གར་སྐད་དུ། དེ་བཱི་མ་ཧཱ་ཀཱ་ལཱི་ནཱ་མ་དྷཱ་ར་ཎཱི། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-091-067-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་མོ་ནག་མོ་ཆེན་མོའི་གཟུངས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Dhāraṇī of Devī Mahākālī</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-067-TU-3">
+    <prop type="location-id">UT22084-091-067-65</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-067-65"/>Homage to all buddhas and bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-067-TU-4">
+    <prop type="location-id">UT22084-091-067-65</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན། བཅོམ་ལྡན་འདས་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་ནས་རིང་པོ་མ་ལོན་པ་ཞིག་ན་བྱང་ཆུབ་ཀྱི་ཤིང་དྲུང་ན་བཞུགས་སོ། ། དེ་ནས་འདོད་པའི་ཁམས་ཀྱི་དབང་ཕྱུག་མ། བདུད་ཀྱི་ཡུམ། གཤིན་རྗེའི་ལྕམ་མོ། ལྷ་མོ་ནག་མོ་ཆེན་མོས་བཅོམ་ལྡན་འདས་ལ་ལན་གསུམ་བསྐོར་བ་བྱས་ཏེ་ ཕྱོགས་གཅིག་ཏུ་འདུག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thus did I hear at one time. The Blessed One was sitting at the base of the Bodhi tree shortly after becoming a perfect buddha. At that point Devī Mahākālī—Sovereign Goddess of the Desire Realm‍, Wife of the Demon, Yama’s Sister—circumambulated the Blessed One three times and sat to one side.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-067-TU-5">
+    <prop type="location-id">UT22084-091-067-68</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ལ་ལྷ་མོ་ནག་མོ་ཆེན་མོས་གསོལ་པ། བཙུན་པ་བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་ཕྱག་འཚལ་བའི་རིག་པ་འབུལ་ན། བདག་གི་དེ་བཅོམ་ལྡན་འདས་ཀྱིས་བཞེས་སུ་གསོལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-067-68"/>Devī Mahākālī then addressed the Blessed One, saying, “Honorable One, were I to offer this vidyā in homage at the Blessed One’s feet, would the Blessed One please accept my vidyā?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-067-TU-6">
+    <prop type="location-id">UT22084-091-067-70</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་ཀྱིས་བཀའ་སྩལ་པ། བདུད་ཀྱི་ཡུམ་གཤིན་རྗེའི་ལྕམ་མོ་ལྷ་མོ་ནག་མོ་ཆེན་མོས་སྟེང་དུ་ནི་གཞན་འཕྲུལ་དབང་བྱེད་ལ་ཐུག་པ་མན་ཆད་བཅིང་བར་བྱའོ། ། འོག་ཏུ་ནི་སེམས་ཅན་དམྱལ་བ་ལ་ཐུག་པ་ཡན་ཆད་བཅིང་བར་བྱའོ། ། ཐད་ཀ་ཁོ་ར་ཁོར་ཡུག་ཏུ་ནི་རི་ལ་ཐུག་པ་ཚུན་ཆད་བཅིང་བར་བྱའོ། ། དེའི་སྔགས་འདི་དག་ཀྱང་བཟླས་པར་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-067-70"/>The Blessed One replied, “Devī Mahākālī—the Wife of the Demon and Yama’s Sister—will bind beings up through the Heaven of Controlling the Emanations of Others. She will bind beings down through the hell realms. She will bind beings out to the surrounding mountains. Her mantra should be recited as follows:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-067-TU-7">
+    <prop type="location-id">UT22084-091-067-73</prop>
+    <tuv xml:lang="bo">
+                <seg>ཏདྱ་ཐཱ། ཨོཾ་རུ་རུ་བི་ཏིཥྛ་བ་དྷོཏྶི་རུ་རུ་རོ་རུ་བི་ཏིཥྛ་བ་དྷོཏྶི་སྭཱ་ཧཱ། འདི་བཏོན་པས་རིམས་དང་། ནད་དང་། མི་ངས་དང་། ཉེས་པ་ཐམས་ཅད་དང་། མཛེ་དང་། ཕོལ་མིག་དང་། གཡན་པ་ལ་སོགས་པའི་ནད་ཐམས་ཅད་ཞི་བར་འགྱུར་རོ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-067-73"/>tadyathā | oṃ ruru vitiṣṭha vadhotsi ruru roru vitiṣṭha vadhotsi svāhā |<tei:milestone xml:id="UT22084-091-067-74"/> By pronouncing this vidyā, may all fevers, illnesses, plagues, and humoral disorders, as well as all illnesses such as leprosy, boils, skin rashes, and the like, be cured! Svāhā.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-067-TU-8">
+    <prop type="location-id">UT22084-091-067-75</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་མོ་ནག་མོ་ཆེན་མོའི་གཟུངས་རྫོགས་སོ།​།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-067-75"/>This concludes “The Dhāraṇī of Devī Mahākālī.”</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>

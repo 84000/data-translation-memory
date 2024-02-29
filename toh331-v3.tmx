@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="linguae-dharmae/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-072-031" eft:text-version="v-1.0.3-2023"/>
+<body>
+<tu id="UT22084-072-031-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.259.b"/>༄༅། །རྒྱ་གར་སྐད་དུ། ཙནྡྲ་སཱུ་ཏྲ། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-072-031-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟླ་བའི་མདོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Sūtra of the Moon (2)</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-031-TU-3">
+    <prop type="location-id">UT22084-072-031-27</prop>
+    <tuv xml:lang="bo">
+                <seg>དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-031-27"/>Homage to the Three Jewels!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-031-TU-4">
+    <prop type="location-id">UT22084-072-031-27</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན། བཅོམ་ལྡན་འདས་ཡུལ་ཙམ་པ་ཅན་ན་འགྲོ་བ་པོའི་རྫིང་བུའི་འགྲམ་ན་བཞུགས་ཏེ། དེའི་ཚེ་ལྷ་མ་ཡིན་གྱི་དབང་པོ་སྒྲ་གཅན་གྱིས་ཟླ་བའི་དཀྱིལ་འཁོར་ཐམས་ཅད་འོད་ཀྱིས་བཀབ་པར་གྱུར་ཏོ། ། དེ་ནས་ཟླ་བའི་དཀྱིལ་འཁོར་ན་གནས་པའི་ལྷ་གང་ཡིན་པ་དེ་སྐྲག་ཅིང་དངངས་ལ་མི་དགའ་བར་གྱུར་ནས། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས། བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ་ཕྱོགས་གཅིག་ཏུ་འདུག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thus did I hear at one time. The Blessed One was dwelling on the bank of Traveler’s Pond in the country of Campā. At that time, the entire moon was covered by Rāhu, lord of the asuras. Then the god who dwells on the disk of the moon, frightened, terrified, and dismayed, approached the Blessed One, bowed his head to the Blessed One’s feet, and sat to one side. He then appealed to him in verse:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-031-TU-5">
+    <prop type="location-id">UT22084-072-031-34</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱོགས་གཅིག་ཏུ་འདུག་ནས་ལྷ་དེས་དེའི་ཚེ་ཚིགས་སུ་བཅད་དེ་གསོལ་པ། ཀུན་ལས་རྣམ་པར་རབ་གྲོལ་བའི། །སངས་རྒྱས་དཔའ་བོ་ཁྱོད་ཕྱག་འཚལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-031-34"/>“I pay homage to you, Thoroughly liberated, heroic Buddha!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-031-TU-6">
+    <prop type="location-id">UT22084-072-031-35</prop>
+    <tuv xml:lang="bo">
+                <seg>གནོད་པ་དག་དང་ཕྲད་གྱུར་པ། །བདག་གི་སྐྱབས་ནི་མཛད་པར་གསོལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I am in distress. Please grant me refuge!<tei:milestone xml:id="UT22084-072-031-35"/> “Candramas took refuge</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-031-TU-7">
+    <prop type="location-id">UT22084-072-031-36</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་དགྲ་བཅོམ་བདེ་གཤེགས་ལ། །ཟླ་བ་སྐྱབས་སུ་མཆི་ལགས་ཀྱིས། །སངས་རྒྱས་འཇིག་རྟེན་ཐུགས་བརྩེ་རྣམས། །ཟླ་བ་ཐར་མཛོད་སྒྲ་གཅན་ལས། །བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། །སྒྲ་གཅན་ཟླ་བ་མུན་སེལ་བ། །ནམ་མཁའ་དག་ལ་འོད་བྱེད་ཅིང་། །ལམ་མེར་འདུག་ལ་དཀར་<tei:ref folio="F.260.a"/>བ་དང་། རྣམ་པར་དག་པའི་འོད་ལྡན་པ། །བར་སྣང་དག་ལ་མ་བཟུང་བར། །སྐྱེ་དགུའི་སྒྲོན་དེ་མྱུར་དུ་ཐོང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the Worthy One in the world, the Well-Gone One. Therefore, free the moon from Rāhu! Buddhas have compassion for the world.”<tei:milestone xml:id="UT22084-072-031-36"/> The Blessed One said:<tei:milestone xml:id="UT22084-072-031-37"/> “Rāhu! The moon dispels darkness. Illuminating the sky, It is radiant, Shining with white and pristine light.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-031-TU-8">
+    <prop type="location-id">UT22084-072-031-36</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་རིངས་བཞིན་སྒྲ་གཅན་དེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Instead of seizing it in the sky, Instantly release the lamp of beings!”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-031-TU-9">
+    <prop type="location-id">UT22084-072-031-39</prop>
+    <tuv xml:lang="bo">
+                <seg>ལུས་ཀྱང་རྔུལ་ཅིང་སྐྲག་གྱུར་ལ། །ནད་པ་བཞིན་དུ་བརྟད་པ་ཡིས། །ཟླ་བ་རྣམ་པར་གཏོང་བར་བྱེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-031-39"/>Then Rāhu, in a hurry, Covered in sweat, agitated, And confused like a sick person, Released the moon.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-031-TU-10">
+    <prop type="location-id">UT22084-072-031-41</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་རྣམ་པར་སྣང་བྱེད་ཀྱི་བུ་ཆེན་པོས་ལྷ་མ་ཡིན་གྱི་དབང་པོ་སྒྲ་གཅན་རིངས་པ་བས་ཀྱང་རིངས་པར་ཟླ་བའི་དཀྱིལ་འཁོར་བཏང་བ་མཐོང་ངོ་། ། མཐོང་ནས་ ཀྱང་དེའི་ཚེ་ཚིགས་སུ་བཅད་དེ་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-031-41"/>When the great son of Virocana saw that Rāhu, lord of the asuras, had very swiftly released the moon, he asked him in verse:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-031-TU-11">
+    <prop type="location-id">UT22084-072-031-43</prop>
+    <tuv xml:lang="bo">
+                <seg>སྨྲས་པ། ཅི་ཡི་ཕྱིར་ན་སྒྲ་གཅན་ཁྱོད། །ལུས་ཀྱང་རྔུལ་ཅིང་སྐྲག་གྱུར་ལ། །ནད་པ་བཞིན་དུ་བརྟད་པ་ཡིས། །རིངས་པར་ཟླ་བ་གཏོང་བར་བྱེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-031-43"/>“Why did you, Rāhu, Covered in sweat, agitated, And confused like a sick person, Hurriedly release the moon?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-031-TU-12">
+    <prop type="location-id">UT22084-072-031-45</prop>
+    <tuv xml:lang="bo">
+                <seg>སྒྲ་གཅན་གྱིས་སྨྲས་པ། སངས་རྒྱས་ཚིགས་བཅད་འདི་བརྗོད་པས། །གལ་ཏེ་ཟླ་བ་མ་བཏང་ན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-031-45"/>Rāhu replied:<tei:milestone xml:id="UT22084-072-031-46"/> “As the Buddha uttered that verse, If I had not released the moon,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-031-TU-13">
+    <prop type="location-id">UT22084-072-031-45</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གི་མགོ་བོ་ཚལ་བདུན་འགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>My head would have split into seven pieces,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-031-TU-14">
+    <prop type="location-id">UT22084-072-031-45</prop>
+    <tuv xml:lang="bo">
+                <seg>གསོན་ཡང་བདེ་བར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And even while alive I would not find happiness.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-031-TU-15">
+    <prop type="location-id">UT22084-072-031-48</prop>
+    <tuv xml:lang="bo">
+                <seg>རྣམ་པར་སྣང་བྱེད་ཀྱི་བུ་ཆེན་པོས་སྨྲས་པ། ཀྱེ་མ་བདེན་པ་གཟིགས་པ་ཡི། །སངས་རྒྱས་རྣམས་ནི་འབྱུང་བ་རྨད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-031-48"/>The great son of Virocana exclaimed:<tei:milestone xml:id="UT22084-072-031-49"/> “Oh wonder! Amazing is the emergence of buddhas, Who see peace!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-031-TU-16">
+    <prop type="location-id">UT22084-072-031-48</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དག་གིས་ནི་ཚིགས་སུ་བཅད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If they utter a verse,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-031-TU-17">
+    <prop type="location-id">UT22084-072-031-48</prop>
+    <tuv xml:lang="bo">
+                <seg>བརྗོད་ན་སྒྲ་གཅན་ཟླ་བ་གཏོང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Rāhu will free the moon.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-031-TU-18">
+    <prop type="location-id">UT22084-072-031-51</prop>
+    <tuv xml:lang="bo">
+                <seg>།​ཟླ་བའི་མདོ་རྫོགས་སོ།​། །​།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-031-51"/>This concludes “The Sūtra of the Moon.”</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

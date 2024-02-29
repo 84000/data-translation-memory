@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="linguae-dharmae/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-100-047" eft:text-version="v-1.1.3-2023"/>
+<body>
+<tu id="UT22084-100-047-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.166.a"/>༄༅༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་ཨཱ་པ་ར་ཎ་བི་སྐཾ་བྷི་ནཱ་མ་དྷཱ་ར་ཎཱི། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-100-047-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་སྒྲིབ་པ་རྣམ་པར་སེལ་བ་ཞེས་བྱ་བའི་གཟུངས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Noble Dhāraṇī of Āvaraṇaviṣkambhin</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-100-047-TU-3">
+    <prop type="location-id">UT22084-100-047-15</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ལ་ཕྱག་འཚལ་ལོ། །ཆོས་ལ་ཕྱག་འཚལ་ལོ། ། དགེ་འདུན་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-047-15"/>Homage to the Buddha. Homage to the Dharma. Homage to the Sangha.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-100-047-TU-4">
+    <prop type="location-id">UT22084-100-047-15</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་རྣམས་ལ་ཕྱག་འཚལ་ནས་འཕགས་པ་སྒྲིབ་པ་རྣམ་པར་སེལ་བའི་གཟུངས་འདི་བརྗོད་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Beginning with these lines of homage, the dhāraṇī of noble Āvaraṇaviṣkambhin should be recited as follows.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-100-047-TU-5">
+    <prop type="location-id">UT22084-100-047-21</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ། བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སྒྲིབ་པ་རྣམ་པར་སེལ་བའི་སྙིང་པོ་འདི་ལན་བདུན་བརྗོད་ན། ལུས་བརྒྱུད་པའི་སྡིག་པ་ཐམས་ཅད་འབྱང་ཞིང་འཆི་བའི་དུས་སུ་བདེ་བ་ཉིད་དུ་དུས་བྱེད་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-047-21"/>If one recites this essence of the blessed, thus-gone, worthy, perfect Buddha Āvaraṇaviṣkambhin seven times, all evil deeds related to one’s body will be purified and at the time of death one will die happily.<tei:milestone xml:id="UT22084-100-047-22"/> oṃ śvetavaravijaline svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-100-047-TU-6">
+    <prop type="location-id">UT22084-100-047-23</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་ཤྭེ་ཏ་ཝ་ར་བི་ཛ་ལི་ནེ་སྭཱ་ཧཱ། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་སྒྲིབ་པ་རྣམ་པར་སེལ་བའི་སྙིང་པོ་འདི་ཉིན་ལན་བདུན་མཚན་ལན་བདུན་བརྗོད་ན་ ལས་བརྒྱུད་མར་བསགས་པའི་<tei:ref folio="F.166.b"/>སྡིག་པ་ཐམས་ཅད་འབྱང་ཞིང་འཆི་བའི་དུས་སུ་གནད་གཅོད་པའི་སྡུག་བསྔལ་དྲག་པོ་མི་འབྱུང་ངོ་། ། བདེ་བ་ཉིད་དུ་དུས་བྱེད་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-047-23"/>If one recites this essence of the bodhisattva great being Āvaraṇaviṣkambhin seven times during the day and seven times at night, the continuum of the evil deeds that one has accumulated will be purified, and at the time of death, one will not experience strong pain as the vital energies are interrupted. Instead, one will die happily.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-100-047-TU-7">
+    <prop type="location-id">UT22084-100-047-24</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་སརྦ་ཨཱ་བ་ར་ཎ་བི་སྐཾ་བྷི་ནེ་སྭཱ་ཧཱ། སངས་རྒྱས་སྲས་དང་བཅས་པ་དེ་དག་རྣམས་ལ་བཤོས་གཙང་ལ་སོགས་པའི་མཆོད་པས་ཡང་དག་པར་མཆོད་ན་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-047-24"/>oṃ sarva āvaraṇa­viskaṃbhine svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-100-047-TU-8">
+    <prop type="location-id">UT22084-100-047-25</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡང་གང་ཟག་དེ་འཆི་བའི་དུས་སུ་ནད་དང་ཟུག་རྔུ་དང་བྲལ་ཏེ བདེ་བ་ཉིད་དུ་དུས་བྱེད་ཅིང་། ཚེ་འཕོས་ནས་ ཀྱང་སུམ་ཅུ་རྩ་གསུམ་མམ། འཐབ་བྲལ་ལམ། དགའ་ལྡན་གྱི་ལྷའི་ནང་དུ་སྐྱེ་ཞིང་། བདེ་བ་ཉིད་དུ་འཚོ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-047-25"/>If someone makes proper offerings of clean food and the like to the buddhas and their offspring, then at the time of death that person will be free from illness and pain, and they will die happily. After death, they will be born among the gods in the Heaven of the Thirty-Three, in the Heaven Free from Conflict, or in the Heaven of Joy, where they will live happily.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-100-047-TU-9">
+    <prop type="location-id">UT22084-100-047-26</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་ཕ་དང་དགེ་སློང་མ། །དགེ་བསྙེན་ཕ་དང་དགེ་བསྙེན་མས། །དུས་ཚིགས་གཟའ་སྐར་མ་བརྩིས་ཤིང་། །ཁྲུས་དང་གཙང་སྦྲ་མ་བྱས་ཀྱང་། །རིག་པ་ལ་ནི་གནས་པས་འགྲུབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-047-26"/>Even if a monk or nun, Or a male or female householder, Does not observe the calendar phases or astrology, Nor bathe and observe purity strictures,<tei:milestone xml:id="UT22084-100-047-27"/> They will find success by maintaining this vidyā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-100-047-TU-10">
+    <prop type="location-id">UT22084-100-047-26</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་དག་མོས་པ་མེད་འགྱུར་བས། །འགྲུབ་ཉིད་དུ་ནི་ཡོང་མི་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Yet if someone has no interest in it, They will never be successful.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-100-047-TU-11">
+    <prop type="location-id">UT22084-100-047-26</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བས་ཤིན་ཏུ་མོས་གུས་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Hence, one should be greatly committed to it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-100-047-TU-12">
+    <prop type="location-id">UT22084-100-047-28</prop>
+    <tuv xml:lang="bo">
+                <seg>།​འཕགས་པ་སྒྲིབ་པ་རྣམ་པར་སེལ་བའི་གཟུངས་རྫོགས་སོ།​།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-047-28"/>This completes “The Noble Dhāraṇī of Āvaraṇaviṣkambhin.”</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>
