@@ -1,0 +1,1463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="linguae-dharmae/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-103-004" eft:text-version="v-1.1.2-2023"/>
+<body>
+<tu id="UT22084-103-004-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg/>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Third Well-Spoken Branch: An Exact Account of How All the Victorious One’s Teachings Extant Today in the Land of Snow Mountains Were Put into Print</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-2">
+    <prop type="location-id">UT22084-103-004-89</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.98.b"/>༄༅། །​ཡི་གེ་བརྒྱད་པ་རྗེས་བསྔགས་ཀྱི་སྡེབ་སྦྱོར་ལས་མི་མཉམ་པའི་བྲྀཏྟའི་བྱེ་བྲག་ཁ་སྒོ་ཕན་པ་ཞེས་བྱ་བའི་པྲསྟཱ་རས་བཅིངས་པའོ།​།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-prologue"/>
+                    <tei:milestone xml:id="UT22084-103-004-89"/>The following stanza is in the anuṣṭubh meter, which has eight syllables per verse quarter, and it is bound by a prastāra known as pathyā, a particular viṣamavṛtta.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-3">
+    <prop type="location-id">UT22084-103-004-91</prop>
+    <tuv xml:lang="bo">
+                <seg>༄༅། །ཛཱཛྫཱཏེཥུསཪྻྻཾརཏྣཱརཛཱཿསུཡནཱཏྲ། །སུབྷྲདྷརྨྨསམཱཁཱཏམབྷཡནྣརེནྡྲམེརུཏཱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-91"/>jātāj jāteṣu satkāryaṃ ratnā rajāḥ sucāyanāt | śubhradharmasamākhātam abhūn narendramerutā ||</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-4">
+    <prop type="location-id">UT22084-103-004-92</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐྱེས་ནས་སྐྱེ་བར་ལེགས་བྱས་ཀྱི། །རིན་ཆེན་རྡུལ་མང་བསགས་པ་ལས། །རབ་དཀར་ཆོས་ཀྱི་རྫིང་བཞིན་དུ། །གྱུར་པ་མི་དབང་ལྷུན་པོ་བྱུང་། །<tei:ref folio="F.99.a"/>
+                </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-92"/>Through accumulating an abundance Of the jewel dust of great deeds across lifetimes, The mighty mountain, the Lord of Men, has appeared, Like a wellspring of pure Dharma.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-5">
+    <prop type="location-id">UT22084-103-004-93</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་བདག་ཕལ་ཆེར་འདོད་པ་ཡིས། །ཆང་གིས་རབ་དྲེགས་གླང་པོ་བཞིན། །རང་ཉིད་བཟའ་བའི་འདམ་བུ་ཡང་། །ཉེས་པ་མེད་པར་འཇོམས་པ་ཡོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-93"/>Most rulers of men resemble drunken elephants Intoxicated by the liquor of desires; They needlessly destroy the very reeds That they themselves eat.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-6">
+    <prop type="location-id">UT22084-103-004-94</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ནི་བསྐལ་པར་བསོད་ནམས་ལ། །གོམས་པས་ཐོག་མར་གཞན་བསྲུངས་ཤིང་། །དེ་ཡིས་རང་ཉིད་བདེ་བའི་རྒྱུ། །འབད་པ་མེད་པར་གྲུབ་པ་མཐོང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-94"/>I have witnessed how merit, accumulated across eons, Leads one to have concern for others, And, through that, the causes for one’s own happiness Fully manifest without any effort at all.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-7">
+    <prop type="location-id">UT22084-103-004-95</prop>
+    <tuv xml:lang="bo">
+                <seg>འགྲོ་བའི་བདེ་བ་ལེགས་སྤྱད་ལས། །དེ་ཡང་ཐུབ་མཆོག་གསུང་ལས་སྐྱེས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-95"/>The happiness of beings arises from wholesome deeds, And those, in turn, arise from the words of the Supreme Sage;</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-8">
+    <prop type="location-id">UT22084-103-004-95</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཡང་ཡི་གེ་ལ་བརྟེན་ཕྱིར། །མི་བདག་བློ་གྲོས་དེ་རྗེས་སོང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Since those, in turn, depend upon the written word, The Ruler of Men, in his wisdom, has followed suit.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-9">
+    <prop type="location-id">UT22084-103-004-96</prop>
+    <tuv xml:lang="bo">
+                <seg>སྙིང་སྟོབས་དྲི་མེད་སྟོན་ཟླ་བཞིན། །གསལ་བས་བརྩོན་འགྲུས་ཚེ་རྩོམ་པ། །ཆུ་གཏེར་ལྟ་བུར་འཕེལ་གྱུར་པས། །དཔག་བསམ་སར་པ་འདི་བྱུང་ངོ༌། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-96"/>With a courageous spirit as brilliant As the stainless autumn moon, And diligent effort surging like the ocean, The wish-fulfilling tree has been born anew.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-10">
+    <prop type="location-id">UT22084-103-004-97</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་བསིལ་ལྡན་གྱི་ལྗོངས་འདིར་དམ་པའི་ཆོས་ཀྱི་དབུ་བརྙེས་པ་ནས་བཟུང་སྟེ་ད་ལྟའི་བར་དུ་བདག་ཅག་གི་སྟོན་པ་མཉམ་མེད་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཤཱཀྱའི་དབང་པོའི་གསུང་རབ་འཁྲུལ་པ་མེད་པ་ཅི་ཙམ་ཞིག་སྣང་བར་གྱུར་པ་དེ་དག་ལས་དེང་སང་ཕྱི་མོ་ཇི་ཙམ་སྙེད་པ་དག་མིའི་དབང་པོ་བསྟན་པ་ཚེ་རིང་ཡབ་སྲས་ཀྱི་བདག་རྐྱེན་ལས་པར་དུ་བསྒྲུབས་པའི་ཚུལ་གླེང་བ་ལ་གཉིས་ཏེ་བདག་རྐྱེན་བྱེད་པ་པོའི་ལོ་རྒྱུས་འཆད་པ་དང་། རྣམ་དཀར་གྱི་བྱ་བ་དངོས་སྨོས་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-97"/>This account, which describes how all those source texts still extant today of all the genuine scriptures of our teacher—the peerless, perfect, and complete Buddha, the Lord of the Śākyas—that have appeared in this Cool Land since the first introduction of the holy Dharma until the present were put into print through the sponsorship of the Lord of Men, Tenpa Tsering, and family, is divided into two sections: an account of the history of the main initiator, and an account of the virtuous activities undertaken.<tei:milestone xml:id="UT22084-103-004-section-1"/> The History of the Patron, King Tenpa Tsering</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-11">
+    <prop type="location-id">UT22084-103-004-100</prop>
+    <tuv xml:lang="bo">
+                <seg>དང་པོ་ལ་ཡུལ་རིགས་ཡོན་ཏན་གསུམ་གྱི་སྒོ་ནས་འཆད་པ་ལ། དང་པོ་ནི་སྤྱིར་ཀི་ལཱ་ཤའི་ར་བས་ཡོངས་སུ་བསྐོར་བའི་ལྗོངས་བྱང་ཕྱོགས་བོད་ཀྱི་ཡུལ་འདི་ཉིད། འཇམ་དཔལ་རྩ་རྒྱུད་ལས། ཁ་བ་ཅན་དུ་མཚོ་བྲི་ནས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Part 1 The first is discussed from three perspectives: location, family lineage, and qualities.<tei:milestone xml:id="UT22084-103-004-section-1-1"/> 1.1 Location<tei:milestone xml:id="UT22084-103-004-100"/> The location in general is Tibet, the land of the north, encircled by ranges of snowy mountains. The Root Manual of the Rites of Mañjuśrī states:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-12">
+    <prop type="location-id">UT22084-103-004-101</prop>
+    <tuv xml:lang="bo">
+                <seg>སཱ་ལའི་ནགས་ནི་འབྱུང་བར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-101"/>After the lake has receded from the Land of Snows It will be covered by groves of sāla trees.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-13">
+    <prop type="location-id">UT22084-103-004-103</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞེས་ལུང་བསྟན་པ་ལྟར་དང་པོར་མཚོ་ཡོད་པར་རིམ་གྱིས་བྲི་ནས་ནགས་ཚལ་སྟུག་པོ་རྒྱས་པར་གྱུར་པའི་སྐབས་ཤིག་ན། ཡུལ་གྲུ་འཛིན་ནས་ཐུགས་རྗེ་ཆེན་པོས་བྱིན་གྱིས་བརླབས་པའི་སྤྲེའུ་ཞིག་འོངས་པ་དེ་དང་བྲག་སྲིན་མོ་འདུས་པ་ལས། བོད་རྣམས་ཉེ་བར་མཆེད་པ་ཡིན་ཞེས་ཀྱང་ཟེར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-103"/>As stated in this prophecy, Tibet was first a lake that gradually dried up, giving way to dense forest. At one point, a monkey blessed by the Great Compassionate One arrived from the land of Potalaka. It is said that the Tibetan people are descended from his union with a cliff ogress.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-14">
+    <prop type="location-id">UT22084-103-004-103</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་ལས་ཕུལ་བྱུང་གི་བསྟོད་འགྲེལ་ལས། ཁྱབ་འཇུག་གིས་ནི་འཐབ་དཀའ་ཞེས་བྱ་བ་ལ་སོགས་པའི་རིགས་བརྒྱུད་བརླག་པར་གྱུར་པ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>However, the commentary to The Praise Surpassing Even That of the Gods states:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-15">
+    <prop type="location-id">UT22084-103-004-105</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟར་ཁྱབ་འཇུག་གིས་འཐབ་དཀའ་ལ་དྲིས་པ། དཔུང་ཚོགས་བཅོ་བརྒྱད་ཁྱེར་རམ། འོན་ཏེ་ནོར་ལྷ་གཅིག་པུ་ཁྱེར་ཞེས་དྲིས་<tei:ref folio="F.99.b"/>པ་དང་། དེས་དཔུང་གི་ཚོགས་རྣམས་ཁྱེར་རོ་ཞེས་སྨྲས་པ་དང་། དེས་ཞེ་འགྲས་པར་གྱུར་ནས ཁྱབ་འཇུག་གིས་སྐྱ་བསེང་གི་ཕྱོགས་བྱས་ཏེ་གཡུལ་ངོར་ཆས་པ་ན། སྲིད་སྒྲུབ་ཀྱིས་ཀུན་དུ་བལྟས་ཏེ་སྨྲས་པ། ཁོ་བོས་ནི་ཉེ་དུའི་ཚོགས་གསོད་པར་མི་ནུས་ཏེ། གང་གི་དོན་དུ་རྒྱལ་སྲིད་ཐོབ་པར་འདོད་པའི་ཉེ་དུའི་ཚོགས་དེ་ཇི་ལྟར་གསད་པར་བྱ་ཞེས་སྨྲས་ཏེ་ སྲིད་སྒྲུབ་འཐབ་པ་ལས་ལྡོག་པར་གྱུར་པ་དང་། ཁྱབ་འཇུག་གིས་སྨྲས་པ། ཁྱེད་ནི་བླུན་པ་ཡིན་ཏེ</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-105"/>“Viṣṇu is known to have annihilated the family of Duryodhana and others. “Viṣṇu asked Duryodhana, ‘Would you rather bring the eighteen armies or Vāsudeva alone?’ “He replied, ‘I will bring the armies,’ thus becoming Viṣṇu’s enemy. “Then, when Viṣṇu arrived at the battleground on the side of Pāṇḍu, Arjuna looked around and said, ‘I could never kill my own kinsmen, so how could I kill these armies of my kinsmen, even if they wish to capture the kingdom?’ “When Arjuna turned his back on the battle, Viṣṇu cried out, ‘You are a fool!’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-16">
+    <prop type="location-id">UT22084-103-004-110</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་གིས་མི་ནི་གསད་པ་དང་། །གང་ཞིག་གསོད་པར་བྱེད་པ་དག ། དེ་དག་གཉི་ག་མི་དམིགས་ཏེ། ། གསད་དང་གསོད་པ་པོ་ཡོད་མིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-110"/>“ ‘Neither he who kills Nor he who is killed Has any perceptible basis; Killer and killed do not exist.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-17">
+    <prop type="location-id">UT22084-103-004-111</prop>
+    <tuv xml:lang="bo">
+                <seg>རིགས་དང་འདུལ་བ་ཕུན་སུམ་ཚོགས། །བྲམ་ཟེ་བ་ལང་གླང་པོ་དང་། །ཁྱི་དང་སྨེ་ཤ་ཅན་དག་དང་། །མཁས་པ་རྣམས་ནི་མཉམ་པར་ལྟ། །ཞེས་བྱ་བ་ལ་སོགས་པ་མེད་པར་ལྟ་བའི་ཚིགས་སུ་བཅད་པ་མང་པོ་བསྟན་ཅིང་། སྣ་ཚོགས་པའི་གཟུགས་བསྟན་པས་བསླུས་ནས། སྲིད་སྒྲུབ་ཀྱི་ཁ་ལོ་བ་རང་ཉིད་ཀྱིས་བྱས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-111"/>“ ‘Those of superior learning and discipline, Brahmins, cows, and oxen, Dogs, outcastes, paṇḍitas, and the like— All should be viewed as the same.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-18">
+    <prop type="location-id">UT22084-103-004-112</prop>
+    <tuv xml:lang="bo">
+                <seg>གཡུལ་བཀྱེ་བས་འཐབ་དཀའི་རིགས་དཔུང་གི་ཚོགས་བཅོ་བརྒྱད་དང་བཅས་པ་བརླག་པར་གྱུར་ཏོ། ། རཱུ་པ་ཏི་ཞེས་བྱ་བའི་རྒྱལ་པོ་དཔུང་གི་ཚོགས་གཅིག་དང་བཅས་པ་གཡུལ་འགྱེད་པའི་ཚེ་བུད་མེད་ཀྱི་ཆ་ལུགས་སུ་བྱས་ཏེ་ བྲོས་ནས་ རི་ཁ་བ་ཅན་གྱི་རི་ཁྲོད་དུ་ཞུགས་ཏེ་ གནས་པའི་རིགས་ལས་དེང་སང་ནའང་བོད་ཅེས་བྱ་བར་གྲགས་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-112"/>“Teaching him with these and many other verses of nihilist views, Viṣṇu deceived him by displaying various forms, and, taking the form of Arjuna’s charioteer, the family of Duryodhana and its eighteen armies were wiped out. As this battle was being fought, a king by the name of Rūpati, along with a single contingent of troops, dressed up as women and escaped to the snowy mountains. Their descendants remain there today and are known as the Tibetans.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-19">
+    <prop type="location-id">UT22084-103-004-114</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞེས་འབྱུང་བ་སོགས་འཆད་ཚུལ་སྣ་ཚོགས་ཞིག་སྣང་བ། གང་ལྟར་ཡང་ཡུལ་འདིའི་སྐྱེ་བོ་དག་ལ་འཕགས་པ་ཐུགས་རྗེ་ཆེན་པོས་བྱིན་གྱིས་བརླབས་ཀྱིས་སྐྱོང་བར་མཛད་པ་ཞིག་ནི་གོར་མ་ཆག་ལ། དེ་ལྟ་བུའི་མི་ཡི་སྐྱེ་བོ་རྣམས་ཀྱིས་ཡུལ་ལྗོངས་རིམ་པས་ལོངས་སྤྱོད་དུ་གྱུར་པ་ནས་བཟུང་། ཡུལ་དབུས་དག་ཏུ་ནགས་ཚལ་ཡང་རིམ་གྱིས་མེད་པར་གྱུར་ཏེ</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-114"/>So, with this and other accounts, there are a variety of different ways to explain [the origins of the Tibetan people]. Nevertheless, that the people of this land are protected by the blessings of the Noble Great Compassionate One is beyond doubt.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-20">
+    <prop type="location-id">UT22084-103-004-115</prop>
+    <tuv xml:lang="bo">
+                <seg>གྲོང་དང་གྲོང་ཚོམ་དང་གྲོང་རྡལ་དང་རྒྱལ་པོའི་ཕོ་བྲང་དང་གཙུག་ལག་ཁང་ལ་སོགས་པས་ཀུན་ནས་བརྒྱན་པ་འདི་ལྟ་བུ་བྱུང་ངོ་། ། དེའང་ཡུལ་སྤྱིའི་དགེ་མཚན་གྱི་དབང་དུ་བྱས་ན་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-115"/>As human beings gradually availed themselves of the environment and settled the land, the forests in the central regions slowly disappeared, and villages, hamlets, and towns with royal palaces, temples, and the like came to adorn the landscape throughout, as it is now.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-21">
+    <prop type="location-id">UT22084-103-004-116</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་རྒྱལ་སྲོང་བཙན་སྒམ་པོས། དེ་ལྟར་འཕགས་པའི་གང་ཟག་རྣམས་འབྱུང་ཞིང་། །འཁོར་ནི་ལེགས་གནས་སྟོན་པའི་གསུང་རབ་དང་། །<tei:ref folio="F.100.a"/>སྟོན་པའི་སྐུ་གཟུགས་དངོས་སུ་བཞུགས་པ་དང་། །རི་བོ་ཡོན་ཏན་ཅན་ཡང་དེ་ན་ཡོད། ། ཙཱ་རི་ཙ་གོང་བདེ་མཆོག་རང་བྱུང་དང་། །རྡོ་ཆུ་རིན་པོ་ཆེ་ཡང་དེ་ན་ཡོད། ། ཏི་སེའི་གངས་ལ་དགྲ་བཅོམ་ལྔ་བརྒྱ་བཞུགས། ། བདུད་རྩིའི་ཆུ་ཡང་རི་བོ་དེ་ན་ཡོད། ། གྱེ་རེའི་བྲག་ལ་ཡིག་དྲུག་རང་བྱུང་དང་། །མཁའ་འགྲོའི་ཕྱག་རྒྱ་རི་བོ་དེ་ན་ཡོད། ། མ་པང་མཚོ་ལ་ཀླུ་རྒྱལ་བྱང་སེམས་གནས། ། ཆུ་བོ་ཡོན་ཏན་ཅན་ཡང་དེ་ན་ཡོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-116"/>With regard to the virtuous qualities of the land in general, the Dharma king Songtsen Gampo praised it thus:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-22">
+    <prop type="location-id">UT22084-103-004-118</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྲི་བཤོས་རྒྱ་མཚོའི་ཀླུ་བློན་བྱང་ཆུབ་སེམས། །ཆུ་བོ་ཆེན་པོ་ཀུན་ལ་ཕན་པར་མཛད། ། གནམ་མཚོ་ཕྱུག་མོའི་ནང་ན་བྱང་ཆུབ་སེམས། །ཐང་ལྷའི་བྲག་ལ་དགྲ་བཅོམ་ལྔ་བརྒྱ་ཡོད། ། སྦུབས་མཚོའི་གླིང་ན་ཀླུ་རྒྱལ་བྱང་ཆུབ་སེམས། །ཁའུའི་གངས་ལ་དགྲ་བཅོམ་མང་པོ་ཡོད། ། རི་མཐོ་ས་གཙང་གངས་རི་གཉན་གྱིས་བསྐོར། ། སྒྲ་དག་སྐད་སྙན་སཾ་སྐྲྀ་ཏ་དང་མཚུངས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-118"/>“As such, noble beings will appearWith the best of retinues, scriptures of the Teacher, And statues of the Teacher really present too.Even the mountains here possess great qualities.Cakrasaṃvara naturally dwells on Tsari Tsagong,Where even the rocks in the rivers are precious jewels.Five hundred arhats dwell on Mount Tisé, Where rivers of nectar are also to be found.Self-arisen syllables dot the cliffs of Gyeré, Where the handprints of ḍākinīs can be found.Lake Mapham is the abode of a bodhisattva nāga king,And its rivers possess immense qualities too. Bodhisattva nāga ministers reside in Lake Tri Shö,Bringing benefit to all with its great rivers. In Lake Namtso Chukmo dwell bodhisattvas, While on the Thanglha range are five hundred arhats.On an island in Lake Nuptso lives a bodhisattva nāga king,While on Mount Hawo are many arhats.With high peaks and pure earth, Tibet is fully encircled by snowy mountains.Its speech is pure and its language melodious, comparable to Sanskrit.The language of its people is fully capable of translating the Dharma.Vast and well bordered, this land is endowed with all virtuous qualities.Such is the Land of Snows, a central land.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-23">
+    <prop type="location-id">UT22084-103-004-118</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་སྐད་ཆོས་ལ་བསྒྱུར་དུ་བཏུབ་པའི་སྒྲ། །ཡངས་ཤིང་མཐའ་ལེགས་ཡོན་ཏན་ཀུན་ལྡན་པ། །དེ་ལྟར་ཁ་བ་ཅན་གྱི་ཡུལ་དབུས་སུ། །ཞེས་སོགས་ཀྱིས་བསྔགས་པ་མཛད་པ་ལྟར་དང་། གམ་འབྲོག་རྒྱང་འབྲོག་རྩྭ་ཡི་དགེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And also:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-24">
+    <prop type="location-id">UT22084-103-004-124</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁང་ས་ཞིང་ས་ས་ཡི་དགེ། ། འཐུང་ཆུ་ཡུར་ཆུ་ཆུ་ཡི་དགེ། ། ཁང་རྡོ་འཐག་རྡོ་རྡོ་ཡི་དགེ། ཁང་ཤིང་བུད་ཤིང་ཤིང་གི་དགེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-124"/>“Pastures near and pastures far, it has the virtues of grasslands.Land for building and land for farming, it has the virtues of land.Water for drinking and water for irrigation, it has the virtues of water.Stones for building and stones for milling, it has the virtues of stones.Wood for building and wood for burning, it has the virtues of wood.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-25">
+    <prop type="location-id">UT22084-103-004-125</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞེས་སོགས་བཤད་པ་ལྟར་དགེ་བཅུ་ཚང་ཞིང་ཁྱད་པར་དུ་མཁས་ཤིང་གྲུབ་པ་བརྙེས་པའི་སློབ་དཔོན་ཆེན་པོ་དང་། སྤྲུལ་པའི་ཆོས་ཀྱི་རྒྱལ་པོ་ལ་སོགས་པ་བྱང་ཆུབ་སེམས་དཔའ་ས་ཆེན་པོ་ལ་གནས་པ་རྣམས་དང་། བདེ་བར་གཤེགས་པའི་སྤྲུལ་པའི་སྐུ་དུ་མ་བགྲང་བར་མི་སྤྱོད་པ་དག་གིས་བྱིན་གྱིས་བརླབས་ཤིང་ཡོངས་སུ་སྐྱོང་བར་མཛད་ཅིང་སྙིགས་མའི་དུས་སུ་སྟོན་པ་ཉིད་ཀྱིས་ལུང་དུ་བསྟན་པ་ལྟར་རྒྱལ་བའི་བསྟན་པ་ཆེས་ཆེར་གསལ་བར་གྱུར་པའི་གནས་ཕུན་སུམ་ཚོགས་པ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-125"/>So it has been described, as replete with ten virtues. In particular, it is a land thoroughly protected by the blessings of bodhisattvas who have dwelt on it—learned and realized masters, as well as emanated Dharma kings, and the incarnations of countless well-gone ones. As in the Teacher’s prophecy, it is a perfect place for the teachings of the Victorious One to shine brightly in this degenerate age.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-26">
+    <prop type="location-id">UT22084-103-004-127</prop>
+    <tuv xml:lang="bo">
+                <seg>གསང་སྔགས་རྡོ་རྗེ་ཐེག་པ་ལྟར་ན། རྡོ་རྗེ་མཁའ་འགྲོའི་རྒྱུད་ལས། བོད་ཡུལ་དུ་ནི་ལྷན་སྐྱེས་ཏེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-127"/>According to the Secret Mantra Vajrayāna, in the Vajraḍāka Tantra, it says:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-27">
+    <prop type="location-id">UT22084-103-004-128</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞི་ཞིང་གསལ་བའི་གཟུགས་ཅན་མ། །ཆུ་སྲིན་རྒྱལ་མཚན་ལག་ན་ཐོགས། ། བྲག་གི་ཁྱིམ་ལ་བརྟེན་ཏེ་གནས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-128"/>“In the land of Tibet there is Sahajā,A goddess with a peaceful, lucid form.She holds the crocodile banner in her handAnd dwells on the rocky cliffs as her home,Bearing the womb of spontaneous arising.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-28">
+    <prop type="location-id">UT22084-103-004-130</prop>
+    <tuv xml:lang="bo">
+                <seg>རང་བྱུང་གི་ནི་སྐྱེ་གནས་ཅན། །ཞེས་ཡུལ་<tei:ref folio="F.100.b"/>ཉི་ཤུ་རྩ་བཞིའི་ཡ་གྱལ་དུ་གསུངས་ཤིང་། བོད་ཉིད་ཀྱི་ནང་གསེས་སུའང་རྡོ་རྗེའི་གནས་ཆེན་པོ་རྣམས་ཅི་རིགས་པར་ཚང་བ་ཡིན་ཏེ་ གྲུབ་པའི་རྣལ་འབྱོར་གྱི་དབང་ཕྱུག་ཆེན་པོ་རྣམས་ཀྱིས་ནང་གི་རྟེན་འབྲེལ་ཁྱད་པར་བ་རྣམས་བསྒྲིགས་པའི་ཡུལ་གྱི་གནད་གསང་ཐམས་ཅད་མ་ཚང་བ་མེད་པར་ཡོད་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-130"/>As such, the land of Tibet is said to be one of the twenty-four sacred places, and among the localities of Tibet itself there are all kinds of vajra sacred sites where accomplished yogic masters have formed extraordinary, inner interdependent connections associating all the secret points with physical sites.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-29">
+    <prop type="location-id">UT22084-103-004-131</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟ་བུའི་ཡོན་ཏན་དང་ལྡན་པའི་བསིལ་ལྡན་གྱི་ལྗོངས་སམ། ལྷ་མོ་དྲི་མ་མེད་པའི་འོད་ལུང་བསྟན་པའི་མདོ་ལས་གདོང་དམར་ཅན་གྱི་ཡུལ་དུ་གསུངས་པ་འདི་ཉིད་ལ་བོད་དང་བོད་ཆེན་པོ་ཞེས་གཉིས་སུ་གྲགས་པ་ལས། བོད་ཆེན་པོའི་ལྗོངས་འདི་ནི་བོད་སྤྱིའི་འདྲ་དཔེ་སྟོད་དུ་མངའ་རིས་སྐོར་གསུམ་རྫིང་ལྟ་བུ་དང་། །བར་དུ་དབུས་གཙང་རུ་བཞི་ཡུར་བ་ལྟ་བུ་དང་། སྨད་དུ་མདོ་ཁམས་སྒང་དྲུག་ཞིང་ལྟ་བུའི་ཚུལ་དུ་བཤད་པའི་ཕྱི་མ་ཡིན་ཞིང་། དེ་ལས་མདོ་ཁམས་སྨད་དུ་གཏོགས་པའི་སའི་ཆ་གླིང་གི་ཡུལ་ཞེས་བྱ་བ་འདི་ནི་སྒང་དྲུག་ལས་ཟལ་མོ་སྒང་དུ་གྲགས་པ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-131"/>Imbued with the aforementioned qualities, this Cool Land, or the “land of the red-faced ones” as it is described in the sūtra The Questions of Vimalaprabha, is said to comprise “Tibet” and “Greater Tibet.” As for the region of Greater Tibet, a set of similes is given for Tibet at large: the three districts of Ngari up in the west are like a reservoir; the four horns of Ütsang in the center are like an irrigation channel; and the six ranges of Dokham down in the east are like a field. This location, which is called the land of Ling, falls in lower Dokham, amid what is known as the Zalmo range, one of the six mountain ranges, and between the Drichu and Shardachu Rivers among the four great rivers. Many great accomplished vajra masters—such as Deshek Phakmo Drup, the one bearing the name of Kathokpa Dampa, the siddha Saltong Shogom, the accomplished lord Karma Pakṣi, the bodhisattva Pomdrak, and others—consciously took rebirth in this area and continue to watch over it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-30">
+    <prop type="location-id">UT22084-103-004-135</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆུ་བོ་ཆེན་པོ་བཞི་ལས་འབྲི་དང་ཤར་ཟླའི་ཆུ་ཀླུང་ཆེན་པོ་གཉིས་ཀྱི་བར་དུ་ཆུད་པ། བདེ་གཤེགས་ཕག་མོ་གྲུ་པ་དང་། ཀཐོག་པ་དམ་པའི་མཚན་ཅན་དང་། གྲུབ་ཆེན་གསལ་སྟོང་ཤོ་སྒོམ་དང་། གྲུབ་པའི་དབང་ཕྱུག་ཀརྨ་པཀྵི་དང་། རྒྱལ་བའི་སྲས་པོ་སྤོམ་བྲག་པ་ལ་སོགས་པ་གྲུབ་པ་བརྙེས་པའི་རྡོ་རྗེ་སློབ་དཔོན་མང་པོ་བསམ་བཞིན་དུ་སྲིད་པ་ཉེ་བར་བཟུང་ཞིང་། དེ་དག་ལ་སོགས་པ་མཁས་ཤིང་གྲུབ་པའི་རྒྱལ་བའི་སྲས་པོ་མང་པོས་ཞབས་ཀྱིས་བཅགས་ཤིང་བྱིན་གྱིས་བརླབས་པས་སྐྱེ་དགུ་རྣམས་རང་བཞིན་གྱིས་དགེ་བ་ཅན་དུ་གནས་པའི་ཡུལ། སློབ་དཔོན་པདྨ་སཾ་བྷ་ཝ་ལ་སོགས་པའི་སྤྱན་སྔར་དམ་མནོས་པའི་འབྱུང་པོ་ཆེན་པོ་དཀར་ཕྱོགས་ལ་དགའ་བ་རྣམས་ཀྱིས་ཡོངས་སུ་སྲུང་ཞིང་བདེ་བར་གཤེགས་པའི་བསྟན་པ་གཙོ་བོར་སྒྲུབ་པ་ཉམས་ལེན་གྱི་སྒོ་ནས་ཆེས་ཤིན་ཏུ་གསལ་བའི་ཕྱོགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-135"/>With so many learned and accomplished bodhisattvas who have graced this land with their feet and conferred their blessings upon it, the inhabitants are naturally inclined toward virtue. The land is protected by great bhūtas who have sworn oaths before Ācārya Padmasaṃbhava and others and favor the forces of good. Above all, the land is brilliantly illuminated by the practice of the Well-Gone One’s teachings. In light of all this, this land is more than worthy of copious praise.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-31">
+    <prop type="location-id">UT22084-103-004-136</prop>
+    <tuv xml:lang="bo">
+                <seg>བསྔགས་པ་དུ་མས་བསྔགས་པར་འོས་པ་འདི་ཉིད་དོ། ། དེ་ལས་ཀྱང་ལེགས་བྱས་རྒྱ་ཆེན་པོ་འདི་མངོན་པར་འདུ་བྱེད་པའི་ཡུལ་དངོས་ནི་གཡས་རི་གཡུ་འབྲུག་འགྱིང་བ་ལྟ་བུ། གཡོན་རི་སེང་གེ་གནམ་དུ་འཕྱོ་བ་ལྟ་བུ། རྒྱབ་རི་ཤེལ་གྱི་མཆོད་རྟེན་ལྟ་བུ། མདུན་རི་གླང་པོ་ཆེ་འདུད་<tei:ref folio="F.101.a"/>པ་ལྟ་བུ། གསེར་ལྡན་གྱི་རྒྱུན་དབང་གི་ཕྱོགས་ནས་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-136"/>Furthermore, the actual location for this vast virtuous deed [the production of this Kangyur] is the great monastic college of Palden Lhundrup Teng. Lhundrup Teng is located at the center of a number of remarkable geomantic signs: the mountain on its right resembles a poised turquoise dragon, the mountain to its left resembles a lion jumping in the sky, the mountain behind it resembles a crystal stupa, the mountain in front of it resembles a bowing elephant, and the current of its golden river leisurely flows to the west, the direction of magnetizing.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-32">
+    <prop type="location-id">UT22084-103-004-137</prop>
+    <tuv xml:lang="bo">
+                <seg>དལ་བུའི་འབབ་པ་སོགས་སའི་དཔྱད་ལེགས་རྒུ་མ་ཚང་བ་མེད་པའི་དབུས་སུ་དཔལ་ས་ལྡན་ལྷུན་གྲུབ་སྟེང་གི་ཆོས་གྲྭ་ཆེན་པོ། དགེ་འདུན་གྱི་སྡེ་རྣམས་ཀྱང་། རྗེ་བཙུན་ས་སྐྱ་པ་ཆེན་པོ་ཡབ་སྲས་ནས་ཉེ་བར་བརྒྱུད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-137"/>The monastic community is in the lineage of the venerable great Sakyapas, father and sons, and excellently upholds the immaculate lineage of all the key points of the definitive secret as taught by the venerable and omniscient Vajradhara Künga Sangpo. Spending time in both the wheel of study and reflection, and the wheel of diligent practice, they uphold and do not let fade the light of the profound yogas of generation and completion, the infinite activities of the maṇḍalas, and the profound instructions of ripening and liberating and so on, and are worthy of many tributes of praise.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-33">
+    <prop type="location-id">UT22084-103-004-139</prop>
+    <tuv xml:lang="bo">
+                <seg>རྗེ་བཙུན་ཐམས་ཅད་མཁྱེན་པ་རྡོ་རྗེ་འཆང་ཀུན་དགའ་བཟང་པོས་ངེས་གསང་གི་གནད་ཐམས་ཅད་ལེགས་པར་ཕྱེ་བའི་རྒྱུན་དྲི་མ་མེད་པ་འཛིན་པར་མཛད་ཅིང་། ཀློག་པ་ཐོས་བསམ་གྱི་འཁོར་ལོ་དང་། བྱ་བ་ནན་ཏན་གྱི་འཁོར་ལོ་རྣམ་པ་གཉིས་ཀྱིས་དུས་འདའ་བ་རྒྱུད་སྡེ་མང་པོའི་བསྐྱེད་རྫོགས་ཀྱི་རྣལ་འབྱོར་ཟབ་མོ་དང་། དཀྱིལ་འཁོར་གྱི་ལས་རབ་འབྱམས་དང་། སྨིན་གྲོལ་གྱི་བཀའ་ཟབ་མོ་སོགས་མ་ནུབ་ཅིང་ཆེས་གསལ་བ་སོགས་རྣམ་གྲངས་དུ་མས་བསྔགས་པར་འོས་པ་འདི་ཉིད་དུ། རྒྱལ་ཁབ་ཀྱི་ཕོ་བྲང་ཆེན་པོ། བདེ་བར་གཤེགས་པའི་སྐུ་གཟུགས་ལུགས་མ་དང་། རི་མོར་བྲིས་པ་སོགས་དང་། སྡེ་སྣོད་གསུམ་གྱི་པུསྟ་ཀ་དུ་མ་སོགས་རིན་ཐང་དང་བྲལ་བའི་རིན་པོ་ཆེའི་ཚོགས་དུ་མས་བྱུར་བུར་བཀང་བས་གཙུག་ལག་ཁང་ཆེན་པོར་གྱུར་པ། འཕགས་ཡུལ་གྱི་རནྡྷ་ཀུ་ཊ་བི་ཧ་ར་ཇི་ལྟ་བ་བཞིན་དུ་གྲགས་པ་མངོན་པར་གསལ་བ་འདིའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-139"/>This great palace of the kingdom, filled to overflowing with priceless collections of precious items—cast statues and painted images of the well-gone ones, many volumes of the three scriptural baskets, and more—is a great temple, evidently comparable to how the ratnakūṭa vihāras were said to be in the noble land of India.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-34">
+    <prop type="location-id">UT22084-103-004-140</prop>
+    <tuv xml:lang="bo">
+                <seg>གཉིས་པ་དེ་ལྟ་བུའི་ཡུལ་དུ་བྱུང་བའི་མིའི་དབང་པོ་འདིའི་རིགས་རྒྱུད་ཀྱི་ཁྱད་པར་ནི། མི་དབང་འདི་ཉིད་ཀྱི་དྲུང་ཡིག་པ་འཇམ་དབྱངས་དགའ་བའི་བློ་གྲོས་ཀྱིས་ཡིག་ཚང་ཁུངས་མ་ལས་བཏུས་པའི་གཏམ་གྱི་སྦྱོར་བ་བྱས་པ་ལྟར་འགོད་ན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-section-1-2"/>1.2 Family Lineage<tei:milestone xml:id="UT22084-103-004-140"/> I will now present the particularities of the family lineage of the Lord of Men, Tenpa Tsering, who came from this land. This will be done according to the narrative compiled by his own secretary, Jamyang Gawai Lodrö, which was based on documents from their archives.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-35">
+    <prop type="location-id">UT22084-103-004-141</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའང་བོད་ཆེན་པོའི་ལྗོངས་འདིར་སྤྱིར་སྒྲ་འབྲུ་སྟོང་སྒ་སྟེ་རུས་ཆེན་བཞི་དང་། སྒོ་ལྷ་སྡེ་དཀར་པོའི་རིགས་ཏེ་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-141"/>In general, there are said to be five peoples in this region of Greater Tibet: the four great ancestral clans—the Dra, the Dru, the Dong, and the Ga—plus the pure divine tribe of Go.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-36">
+    <prop type="location-id">UT22084-103-004-142</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་རིགས་ལྔ་བྱུང་བར་གྲགས་པ་ལས་ཕྱི་མ། དེ་ལས་ཀྱང་བྱེ་བྲག་ཏུ་རྔུ་ཆེན་རྒྱལ་མོ་ཚོ་བཅོ་བརྒྱད་དུ་གྲགས་པ་འགར་ཀེ་འགོལ་གསུམ། གསུང་གསེར་འབྲོམ་གསུམ། ཅི་འབུ་གཞག་གསུམ། ཤོལ་སྟག་ཕྱིང་གསུམ། གཅེ་སིང་རམ་གསུམ། ཕྱུག་པོ་བུ་གསུམ་རྣམས་ལས་འགར་གྱི་རིགས་འགར་ཆེན་ཡེ་ཤེས་བཟང་པོ་དང་། འགར་དམ་པར་གྲགས་པ་སྐུ་མཆེད་གཉིས་བྱུང་སྟེ</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-142"/>The last of these, it is said, consisted of the eighteen tribes of Nguchen Gyalmo. These are, namely, the Gar, Ké, and Göl; the Sung, Ser, and Drom; the Chi, Bu, and Shak; the Shöl, Tak, and Chang; the Jé, Sing, and Ram; and the Chuk, Po, and Bu.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-37">
+    <prop type="location-id">UT22084-103-004-143</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལས་ཕྱི་མ་ནི། དྲུང་ཡིག་པས་བཀོད་པའི་ཡི་གེ་དེ་ཉིད་དང་བསྟུན་ན་སྤོ་བོ་ཕུ་ལུང་<tei:ref folio="F.101.b"/>དགོན་པ་སོགས་དང་སྦྱར་བས་ལོ་རྒྱུས་མ་དག་པ་མ་གཏོགས་འགར་དམ་པ་ཆོས་སྡིངས་པ་ཡིན་པར་མངོན་ཏེ དེ་ནི་སིངྷ་ལའི་སློབ་དཔོན་ཨཱརྱ་དེ་ཝའི་རྣམ་འཕྲུལ་དུ་གྲགས། ཡབ་མེས་རྣམས་རྡོ་རྗེ་འཇིགས་བྱེད་ཀྱི་རྣལ་འབྱོར་པ་ཡིན་པས་སྐུ་ཆུང་ངུའི་དུས་ནས་འཇིགས་བྱེད་ལ་ཐུགས་དམ་མཛད། འབྲི་ཁུང་དུ་བྱོན་ནས་འཇིག་རྟེན་གསུམ་གྱི་མགོན་པོ་བརྟེན་ཏེ་གྲུབ་པའི་དབང་ཕྱུག་ཆེན་པོར་གྱུར། ཙ་རིར་བྱོན་ཏེ་ གསང་སྔགས་ཀྱི་སྤྱོད་པ་བསྐྱངས། དྭགས་པོ་འགར་ཕུག་ཏུ་བཞུགས་པའི་ཚེ་བོད་ཀྱི་ལྷ་འདྲེ་ཐམས་ཅད་འདུས་ནས་ སྐུ་ལུས་ཟངས་ཐལ་དུ་འགྲོ་བའི་མཚོན་ཆ་མང་པོ་བརྒྱབ་ཀྱང་ཉམ་ང་མེད་པས་ཐམས་ཅད་ཀྱིས་སྐྱབས་སུ་སོང་སྟེ་ སྲོག་སྙིང་ཕུལ། ཕྲིན་ལས་མང་པོ་མཛད་ནས་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-143"/>Among those, in the Gar lineage, there were two brothers by the names of Garchen Yeshé Sangpo and Gar Dampa. According to the secretary’s writings, the latter was connected with Phulung monastery in Powo and so on, so unless the account is inaccurate, it is clear that this refers to Gar Dampa Chödingpa, who is said to have been an emanation of the Sinhalese master Āryadeva.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-38">
+    <prop type="location-id">UT22084-103-004-144</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱིས་སྤོ་བོར་ཕེབས། དེར་ཆོས་ཡེ་མི་དར་བ་ལ་རྫུ་འཕྲུལ་དང་ཐབས་མཁས་ཀྱིས་སྐྱེ་བོ་དད་པར་བྱས་ནས་ ཕུ་ལུང་དགོན་པ་རིན་ཆེན་གླིང་གི་གཞི་བཏིང་ནས་ ཞི་བར་གཤེགས། དེ་ནས་ཉིད་ཀྱི་དབོན་པོ་ཨུ་རྒྱན་ལ་སོགས་པ་ཁམས་ནས་འོངས་ཏེ་ དེའི་འཕྲོ་བསྐྱངས། དེ་ལས་དབོན་རྒྱུད་རིམ་བྱུང་བ་ཕུ་ལུང་སྡེ་པ་ཐོག་ཀ་བར་གྲགས་ཏེ་ དུས་ཕྱིས་ཀྱི་བར་དུ་ཡོད་དོ། ། འགར་ཆེན་ཡེ་ཤེས་བཟང་པོས་སླང་མདོ་དྲུག་གིས་འཆི་བདག་གིར་མཛད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-144"/>Gar Dampa Chödingpa’s ancestors were all practitioners of Vajrabhairava, and he too made a sacred commitment to Bhairava from a young age. He traveled to Drigung where he took Jikten Sumgyi Gönpo as his teacher and became an accomplished yogic master. He later traveled to Tsari where he continued his practices of Secret Mantra. While dwelling in the Gar cave in Dakpo, he summoned all of Tibet’s deities and demons. They launched an assault on him with a multitude of weapons that should have reduced his body to ash; nevertheless, his fearless attitude compelled them all to take refuge in him and dedicate their lives to him. Performing a wide range of other beneficial activities, he eventually made his way to Powo. Since the Dharma had not spread there before, he inculcated faith in the people with his miraculous powers and skillful means. After he laid the foundation for Phulung Rinchen Ling monastery, he passed away. Then his nephew Orgyen, along with some others, came from Kham to oversee its continuation. A family lineage thereby gradually emerged known as the Phulung Dépa Thokawa, which continued in later times.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-39">
+    <prop type="location-id">UT22084-103-004-147</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་སྲས་གཉིས་ཀྱི་བསོད་ནམས་རིན་ཆེན་གྱིས་འགྲོ་མགོན་ཆོས་རྒྱལ་འཕགས་པའི་ཞབས་པད་ས་བརྟེན་ནས་ གསོལ་དཔོན་གྱི་ལས་ཀ་བཟུང་། གོང་མ་སེ་ཆེན་གན་གྱིས་དམག་དང་འཇའ་ས་སོགས་བྱིན་ཏེ་ ཆེན་པོའི་གོ་སར་དབང་བསྐུར། དེ་ནས་སྐུ་ཚེའི་སྨད་ལ་ས་དམར་ཡང་དགོན་དུ་ཚོགས་པ་སྟོང་ཕྲག་ཙམ་བསྐྱངས། དེའི་དབོན་པོ་རྔུ་རྒུ་རུ་ལ་སྲས་དགུ་བྱུང་བའི་ནང་ནས་སྟོང་དཔོན་ཟླ་བ་བཟང་པོ་ཞེས་པ་ལ་གོང་མ་མཆོད་ཡོན་གྱིས་ས་དམར་སྟོང་དཔོན་གྱི་ལས་ཀ་གནང་བས་མངོན་པར་མཐོ་བ་བྱུང་། དེའི་སྲས་གཉིས་ལས་རྡུ་རྒྱལ་བ་བཟང་པོའི་སྲས་པདྨ་བསྟན་སྲུང་། དེའི་སྲས་དཀར་ཆེན་བྱང་ཆུབ་འབུམ། དེའི་སྲས་རྡུ་ཆོས་རྡོར་བ་ནི་གསང་ཆེན་རྙིང་མའི་གྲུབ་ཐོབ་ཆེན་པོར་གྱུར། དེའི་མཆེད་ཡོ་དགེ་འདུན་རྒྱལ་མཚན་གྱི་སྲས་མགོན་པོ་གཟུངས་སོགས་ལས་བརྒྱུད་དེ་དེང་སང་གི་བར་དུ་ས་དམར་ཕྱོགས་འདིར་རྒྱུན་མ་ཆད་པར་ཡོད་དོ། །<tei:ref folio="F.102.a"/>
+                </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-147"/>As for Garchen Yeshé Sangpo, he became ruler of the Langdodruk area. One of his two sons, Sönam Rinchen, served at the lotus feet of Drogön Chögyal Phakpa and was made his chamberlain. He was also granted an official seal and edict and so on from the emperor Kublai Khan, investing him with a position of great importance. In the later part of his life, Sönam Rinchen looked after some one thousand monks at the Samar Yangön monastery. His nephew, Ngu Guru, had nine sons, one of whom was Tongpön Dawa Sangpo, who as a result of the priest-patron relationship with the emperor ascended to the position of tongpön of Samar. One of Tongpön Dawa Sangpo’s two sons, Ngu Gyalwa Sangpo, had a son called Pema Tensung. He, in turn, had a son named Karchen Jangchup Bum, whose son, Ngu Chödorwa, was a mahāsiddha in the great esoteric Nyingma tradition. His brother, Gendün Gyaltsen, had a son named Gönpo Sung, whose family lineage in the Samar area remains unbroken until today.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-40">
+    <prop type="location-id">UT22084-103-004-151</prop>
+    <tuv xml:lang="bo">
+                <seg>དཀར་ཆེན་བྱང་ཆུབ་འབུམ་གྱི་སྲས། བདེ་ཆེན་བསོད་ནམས་བཟང་པོ་ཞེས་པ་ཡུམ་འདས་པའི་དགོངས་རྫོགས་བསྒྲུབ་པར། ཀཐོག་རྡོ་རྗེ་གདན་དུ་བྱོན་ནས་ ཕྱིར་མ་ལོག་པས། མཆེད་གཞན་གྱིས་སླར་འགུགས་པར་བཏང་རྩིས་ལ། ཀརྨ་པ་ཆོས་གྲགས་རྒྱ་མཚོའི་ཞལ་སྔ་ནས་དང་། རྔུ་ཆོས་རྡོར་བ་དཔོན་སློབ་ཟུང་གིས་ཁོ་བོས་ཀྱང་འོང་བ་མི་ཡོང་མོད། འོན་ཀྱང་གྲུབ་ཐོབ་ཆེན་པོ་ཞིག་གིས་བྱིན་གྱིས་བརླབས་པའི་གནས་ས་བཀྲ་ཤིས་རྟགས་བརྒྱད་ཀྱི་དབྱིབས་སུ་བྱས་པ་ཞིག་ཏུ་རིམ་གྱིས་དབང་བསྒྱུར་ནས། བརྒྱུད་པ་ཇེ་བཟང་དུ་འགྲོའོ་ཞེས་ལུང་བསྟན་མཛད། ཕྱིས་དེ་ཇི་ལྟ་བ་བཞིན་ཐོག་ཏུ་ཁེལ་བ་བྱུང་སྟེ། བསོད་ནམས་བཟང་པོ་དེ་ཉིད་རིམ་གྱིས་ལྕགས་ར་ན་གླིང་ཆེན་པོ་བདག་དྲུག་གི་སྤྱན་སྔར་འབྱོར། སྡེ་དགེ་ཞེས་པའི་མཚན་ཡང་འདི་སྐབས་ཙམ་ནས་བྱུང་བར་གྲགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-151"/>A son of Karchen Jangchup Bum by the name of Dechen Sönam Sangpo traveled to Kathok Dorjeden to perform funerary rites on behalf of his late mother. When he did not return, the other brothers planned to summon him back. However, Karmapa Chödrak Gyatso and his student Ngu Chödorwa prophesied, “He may not return, but he will eventually rule a sacred site, blessed by a mahāsiddha, constructed in the shape of the eight auspicious symbols. His descendants will be all the greater for it.” This prophecy came to pass exactly as foretold when Sönam Sangpo eventually went before the great lord of Ling in Jakra. It was also around this time that the name Degé is said to have come into usage.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-41">
+    <prop type="location-id">UT22084-103-004-153</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལ་སྲས་བཞི་བྱུང་བའི་གཉིས་པ་བོ་ཐར་དུ་གྲགས་པ་དེས་གྲུབ་པའི་དབང་ཕྱུག་ཐང་སྟོང་རྒྱལ་པོ་སྤྱན་དྲངས་ཏེ་གུས་པས་མཆོད། གྲུབ་ཆེན་གྱིས་དངུལ་མདའི་སྲིབ་རིའི་གཤམ་དུ་ཀླུ་གནས་པའི་མཚོ་ཆུང་ངུ་ཞིག་ཡོད་པ་རྫུ་འཕྲུལ་གྱིས་བསུབས་ནས། དེར་གཙུག་ལག་ཁང་རྟེན་དང་བརྟེན་པར་བཅས་པ་བཞེངས་ཏེ། ཆོས་སྡེ་ཆེན་པོ་དཔལ་ལྷུན་གྲུབ་སྟེང་དུ་གྲགས་པ་འདིའི་བསྟན་པའི་རྨང་ཐོག་མར་ཚུགས། གཙུག་ལག་གཉི་གའི་རྟེན་འབྲེལ་གྱི་སྒོ་ལྷུན་གྲུབ་ཏུ་འགྲིག་པར་གྱུར། དེའི་སྲས་གཉིས་ལས་བླ་མ་དཔལ་ལྡན་སེང་གེས་སྔར་གྱི་གཙུག་ལག་ཁང་ཡོད་པའི་ཉིན་རིའི་ཕྱོགས་སུ་འདུས་སྡེ་བཙུགས་པ་ལ་དེང་སང་ཉིན་དགོན་དུ་གྲགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-153"/>The second of Sönam Sangpo’s four sons, Bothar, extended an invitation to the great lord of accomplishment Thangtong Gyalpo and received him amid devotion and offerings. This mahāsiddha made a nāga pond at the foot of the northern slope of the shadowed side of a mountain in Ngülda miraculously disappear. A temple, complete with statues and the supports to house them, was then constructed on this site. It was thus that the original foundation for the Dharma community and its doctrine at glorious Lhundrup Teng was first laid. The auspicious circumstances for a second temple also spontaneously came together and one of Bothar’s two sons, Lama Palden Sengé, established a monastic community on the sunny side of the mountain, where another temple had previously been located. This is what is known today as the Nyingön monastery.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-42">
+    <prop type="location-id">UT22084-103-004-155</prop>
+    <tuv xml:lang="bo">
+                <seg>ཅིག་ཤོས་རྒྱལ་མཚན་འབུམ་ལ་སྲས་བཞི་བྱུང་བའི་ཨ་སྔ་ཟེར་བ་ལ་སྲས་བདུན་ཙམ་བྱུང་བའི་ཇོ་གདན་ནམ་མཁའ་ལྷུན་བཟང་གིས། རྡོ་རྗེ་འཇིགས་བྱེད་ལ་ཐུགས་དམ་ནན་ཏན་དུ་མཛད་པས། ཉེ་འཁོར་བ་རྣམས་ཀྱིས་རྡོ་རྗེ་འཇིགས་བྱེད་དུ་མཐོང་བ་དང་། བཟླས་པ་དུང་ཕྱུར་གྲུབ་པའི་ཚེ་ལྔགས་ཐོག་ཏུ་ལྕགས་ཀྱི་རིལ་བུ་རང་<tei:ref folio="F.102.b"/>རྡོལ་དུ་བྱུང་བ་སོགས་གྲུབ་པའི་མཚན་མ་བརྙེས། དེའི་མཆེད་ཡ་རྒྱལ་འཕེལ་ལ་སྲས་གསུམ་བྱུང་བའི་སྡེ་དགེ་ཀུན་དགའ་རིན་ཆེན་ནི་ལྷུན་གྲུབ་སྟེང་གི་བླ་བྲང་གི་ལྷ་ཁང་བཞེངས་པ་སོགས་སྐུ་བསོད་རྒྱས་པའི་འགོ་ཚུགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-155"/>The other son of Bothar, Gyaltsen Bum, had four sons. One of those four, A Nga, had around seven sons of his own. One of these was Joden Namkha Lhunsang, who had made a strong sacred commitment to Vajrabhairava and attained signs of accomplishment, such as his retinue perceiving him as Vajrabhairava and a spontaneous flow of iron pills coming from his tongue upon completing one billion recitations.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-43">
+    <prop type="location-id">UT22084-103-004-156</prop>
+    <tuv xml:lang="bo">
+                <seg>བསྙེན་བསྒྲུབ་གནང་བའི་ཚེ་གཟིམས་ཁང་ཐམས་ཅད་མེའི་ཕུང་པོར་གྱུར་པ་ཐམས་ཅད་ཀྱིས་མངོན་སུམ་དུ་མཐོང་བ་བྱུང་། དེའི་གཅུང་དབོན་ནམ་མཁའ་དང་རྡོ་རྗེ་ལྷུན་གྲུབ་གཉིས་བྱུང་བའི་ཕྱི་མ་ལས་ཉེ་བར་བརྒྱུད་དེ་ད་ལྟ་བླ་མ་བཀྲ་ཤིས་རྒྱ་མཚོ་སོགས་བཞུགས་པ་འདིའི་བར་རོ། ། སྔ་མའི་སྲས་ལྷུན་ཐུབ། དེ་ལ་སྲས་དྲུག་བྱུང་བའི་དང་པོ་ནི་རིག་འཛིན་རྒོད་ལྡེམ་ཅན་གྱི་སྤྲུལ་པའི་ཟློས་གར་དུ་གྲགས་པ་གྲུབ་ཐོབ་ཀུན་དགའ་རྒྱ་མཚོ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-156"/>Gyaltsen Bum’s brother Yagyal Phel had three sons, one of whom, Degé Künga Rinchen, initiated a period of flourishing prosperity by constructing a temple for the monastic estate of Lhundrup Teng. Once, while in the midst of a practice session, his entire bedchamber was transformed into a mass of flames that could be clearly seen by all. He had two younger brothers, Pön Namkha and Dorjé Lhundrup. The current Lama Tashi Gyatso and others descend directly from the latter of these two, while the former had a son named Lhunthup, who in turn had six sons.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-44">
+    <prop type="location-id">UT22084-103-004-158</prop>
+    <tuv xml:lang="bo">
+                <seg>འདིས་གསང་སྔགས་གསར་རྙིང་སྤྱི་དང་། ཁྱད་པར་དུ་སྔགས་རྙིང་མའི་ཆོས་ཀྱིས་གྲུབ་པའི་མཚན་མ་བརྙེས། ལྐོག་གྱུར་གྱི་གནས་ལུགས་སྟོན་པ་དང་། སྣང་བ་བདེན་མེད་དུ་གཟིགས་པས་སྲ་མཁྲེགས་ཀྱི་རྡོ་བ་འདམ་ལྟར་རྫི་བ་དང་། འབྱུང་པོ་གདུག་པ་ཅན་མང་པོ་འདུལ་བ་སོགས་ངོ་མཚར་གྱི་མཛད་པ་སྣ་ཚོགས་ཞིག་བསྟན་པར་གྲགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-158"/>The eldest of these six was the siddha Künga Gyatso, who was renowned as being an emanated display of Rikzin Gödemchen. He gained signs of accomplishment through both new and old tantric systems in general and, in particular, through the practices related to the old tantras. By revealing the hidden nature of reality and perceiving the falsehood of appearances, he soon became famous for various displays of miraculous activities such as squeezing solid rock as if it were clay and taming hordes of malevolent spirits.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-45">
+    <prop type="location-id">UT22084-103-004-159</prop>
+    <tuv xml:lang="bo">
+                <seg>གསུམ་པ་བླ་མ་དམ་ཆོས་ལྷུན་གྲུབ་བམ། བྱམས་པ་ཕུན་ཚོགས་ཅེས་པ་དེས་སྔོན་གྱི་བསོད་ནམས་ཀྱི་ལས་ཤུགས་ཆེས་ཆེར་བདོ་བས་ཆབ་སྲིད་སྐྱོང་བའི་བྱ་བ་གཙོ་བོར་མཛད་ཅིང་། རིས་མེད་ཀྱི་ཆོས་སྡེ་མང་པོའི་བདག་པོར་གྱུར། ལྔ་བ་བླ་མ་ལྷ་སྲུང་ཐུགས་དམ་འབའ་ཞིག་ལ་བརྩོན་པར་མཛད། དྲུག་པ་བླ་མ་ཀརྨ་བསམ་འགྲུབ་ཀརྨ་ཀཾ་ཚང་གི་གྲུབ་མཐའ་འཛིན་པ་ཞིག་སྟེ་དབོན་པོ་སྟོད་དུ་བཞུགས། སྲས་གཉིས་པ་དང་བཞི་བ་གཞིས་ཀར་བཞུགས་པའི་སྔ་མ་དབོན་ཀླུ་འཕེལ་གྱི་སྲས་རྣམས་ལས། དཔོན་ཆེན་ཀུན་དགའ་ཕུན་ཚོགས་ཀྱིས་ས་སྐྱོང་དམ་པ་བྱམས་པ་ཕུན་ཚོགས་སྐུ་གཤེགས་ནས་གདན་སའི་ཁྲིར་ཕེབས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-159"/>The third son of Lhunthup was known as Lama Damchö Lhundrup or Jampa Phuntsok. Due to the strength of his past meritorious karma ever increasing, he primarily held positions of political power and gained authority over a great number of religious communities irrespective of lineage. The fifth son was Lama Lhasung, who devoted himself exclusively to his religious vows. The sixth son was Lama Karma Samdrup, a devotee of the Karma Kaṃtsang tradition who lived at Wönpo Tö. The second and fourth sons presided over Lhunthup’s estate and the sons of the former, that is of Pön Luphel, included Pönchen Künga Phuntsok. When Sakyong Dampa Jampa Phuntsok passed away, Pönchen Künga Phuntsok ascended to the throne and upheld the wholesome ways of both religious and secular traditions.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-46">
+    <prop type="location-id">UT22084-103-004-162</prop>
+    <tuv xml:lang="bo">
+                <seg>ལུགས་གཉིས་ཀྱི་སྲོལ་བཟང་པོ་བསྐྱངས་བར་མཛད་དོ། ། ཁྱད་པར་གཏེར་གཞུང་འགའ་ཞིག་ལས་ཅོག་རོ་ཀླུའི་རྒྱལ་མཚན་གྱི་སྤྲུལ་པའི་ཟློས་གར་དུ་བཤད་པ་ཁྲི་ཆེན་སངས་རྒྱས་<tei:ref folio="F.103.a"/>བསྟན་པ་ནི། ལེགས་བྱས་ཀྱི་མཐུ་རྒྱ་ཆེན་པོས་འགྲན་དུ་མེད་པའི་དབང་བརྙེས་པར་གྱུར་ཏེ་ གདན་སར་བཞུགས་ཁྲིར་ཕེབས་ནས་བདེ་བར་གཤེགས་པའི་བསྟན་པ་རིས་སུ་མ་ཆད་པ་ལ་མཆོད་པ་དང་བསྙེན་བཀུར་བ་དང་། གཙུག་ལག་ཁང་དང་འདུས་པའི་སྡེ་མང་པོའི་ཉམས་གསོ་གསར་སྤེལ་སོགས་དང་། རྒྱལ་ཁམས་ལ་བྱམས་པས་གཟིགས་པའི་བཀའ་ཁྲིམས་དྲང་པོས་ཕན་བདེར་མཛད་པ་སོགས་ལུགས་གཉིས་ཀྱི་སྲོལ་བཟང་པོས་མངའ་རིས་ཐམས་ཅད་དཀར་པོར་བསྒྱུར་བར་མཛད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-162"/>Trichen Sangyé Tenpa, who is said to have been an emanated display of Chokro Lui Gyaltsen in several treasure texts, gained unparalleled authority through the vast power of his good deeds and ascended the throne of the monastic seat at Lhundrup Teng. There, he glorified and venerated the teachings of the Well-Gone One without sectarian bias, restored and reinvigorated a great number of temples and monastic communities, and brought welfare to the kingdom with a vision of kindness and just rule of law. Through the wholesome ways of the two traditions, he inspired virtue in all of his subjects.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-47">
+    <prop type="location-id">UT22084-103-004-163</prop>
+    <tuv xml:lang="bo">
+                <seg>འདིའི་ཡུམ་མི་གཅིག་པའི་གཅེན་པོ་དཔོན་ཨུ་རྒྱན་བཀྲ་ཤིས་སྲས་ས་སྐྱོང་བླ་མ་བསོད་ནམས་ཕུན་ཚོགས་ཀྱིས་དེའི་རྗེས་སུ་ཁྲི་བསྐྱངས་ཏེ། དེ་ནི་ཐུགས་སྒམ་ཞིང་ངང་རིང་བ། དཀྱེལ་ཆེ་བ་སོགས་ཡ་རབས་ཀྱི་སྐྱེས་བུའི་ཡོན་ཏན་དང་ལྡན་པ་ཞིག་གོ། ། དེའི་མཆེད་ཡར་གྱུར་པ་དཔོན་དབང་ཆེན་མགོན་པོའི་སྲས་མིའི་དབང་པོ་བསྟན་པ་ཚེ་རིང་ནི་ད་ལྟ་བཞུགས་ཁྲིར་ཕེབས་ནས་སྲིད་སྐྱོང་བཞིན་པ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-163"/>Sangyé Tenpa’s paternal half-brother, Orgyen Tashi, had a son, Sakyong Lama Sönam Phuntsok, who ascended the throne next. Sönam Phuntsok possessed a discerning outlook, a tolerant disposition, a broad mind, and other qualities of righteous men. His brother Pön Wangchen Gönpo’s son is the Lord of Men, Tenpa Tsering, who currently holds the throne and reigns over the kingdom. It is he who was the patron for accomplishing this vast virtuous activity [of producing the Kangyur].</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-48">
+    <prop type="location-id">UT22084-103-004-163</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ནི་རྣམ་དཀར་གྱི་བྱ་བ་རྒྱ་ཆེན་པོ་འདི་འགྲུབ་པའི་བདག་རྐྱེན་དངོས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-section-1-3"/>1.3 Qualities</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-49">
+    <prop type="location-id">UT22084-103-004-165</prop>
+    <tuv xml:lang="bo">
+                <seg>གསུམ་པ་བདག་རྐྱེན་བྱེད་པ་པོ་དེའི་ཡོན་ཏན་རང་ཉིད་ཀྱིས་ཇི་ལྟར་མཐོང་བ་བཞིན་ངོ་བསྟོད་མེད་པར་བརྗོད་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-165"/>In this section, I will describe the qualities of the patron, King Tenpa Tsering, exactly as I have witnessed them, devoid of any flattery.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-50">
+    <prop type="location-id">UT22084-103-004-166</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚེ་རབས་མང་པོར་ལེགས་བྱས་རྒྱ་མཚོ་མངོན་པར་འདུ་བྱས་པའི་མཐུས་ཆུང་ངུ་ནས་དགེ་བའི་ངང་ཚུལ་ཅན། བླ་མ་དང་རྒན་རབས་སོགས་ཞེ་སར་འོས་པ་རྣམས་ལ་སྲི་ཞུ་ཆེ་བ། གསང་སྔགས་གསར་རྙིང་གི་ཡི་དམ་མང་པོའི་བསྐྱེད་རྫོགས་ཀྱི་ཉམས་ལེན་ཐུན་གྲངས་སུ་བཅད་པའི་བཟླས་བརྗོད་དང་ཞལ་འདོན་སོགས་ཀྱི་བརྩོན་པ་མི་བཤོལ་བ།སྟོབས་ཆེན་པོས་ངང་གིས་འཇུག་པ་ཞིག་སྟེ་བསྐལ་བཟང་སངས་རྒྱས་སྟོང་གི་སྐུ་བརྙན་སོ་སོའི་ཡབ་ཡུམ་སྲས་རིམ་གྲོ་པ་སོགས་འཁོར་དང་བཅས་པ་རི་མོར་བྲིས་པའི་ཞལ་ཐང་གྲངས་མང་ཞིང་སྤུས་ལེགས་པ་དང་། །རྒྱལ་བའི་བཀའ་འགྱུར་རོ་ཅོག་རིན་པོ་ཆེ་ལས་བཞེངས་པ་སོགས་<tei:ref folio="F.103.b"/>མཐའ་ཡས་ཤིང་སྲིད་སྐྱོང་གི་གོས་ཆེན་པོར་བཞུགས་པ་ནའང་། ཇི་སྐད་དུ། ལུགས་ཀྱི་བསྟན་བཅོས་ཤེས་རབ་སྡོང་བུ་ལས། །དམ་པ་མང་པོ་ཁས་འཆེ་མི་བྱེད་ལ། །གལ་ཏེ་དཀའ་བས་ཁས་ནི་བླངས་གྱུར་ན</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-166"/>Conditioned by an ocean of good deeds accumulated across many lifetimes, he was of a virtuous disposition from a young age. He was respectful to those deserving of respect, such as the gurus and elders. In his practice sessions of the generation and completion stages for many yidam deities of the New and Old schools, he was never lax in his diligence with respect to the number of recitations and his prayers. Even before he was appointed to the throne and when he was not especially wealthy, he would make offerings to the Three Jewels and commission representations of body, speech, and mind with a courageous spirit. These limitless offerings and commissions included numerous high-quality thangkas painted with the images of each of the thousand buddhas of the Fortunate Eon, featuring their retinues of female buddhas, disciples, and attendants, as well as a copy of the Kangyur, the collected teachings of the Victorious One, produced out of precious substances. <tei:milestone xml:id="UT22084-103-004-168"/>Even when holding an elevated position as ruler, Tenpa Tsering is firm and unrelenting in his commitments, just as described in The Staff of Wisdom: A Treatise on Ethics:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-51">
+    <prop type="location-id">UT22084-103-004-170</prop>
+    <tuv xml:lang="bo">
+                <seg>རྡོ་ལ་རི་མོ་བྲིས་པ་ལྟ་བུར་ནི། །ཤི་ཡང་གཞན་དུ་བྱེད་པར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-170"/>“Sublime beings do not make many commitments,Yet if they commit themselves to something difficult,It is as if the pledge were carved in stone;Even in the face of death or other perils, they will not waver.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-52">
+    <prop type="location-id">UT22084-103-004-171</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞེས་གསུངས་པ་ལྟར་དམ་བཅས་པ་བརྟན་ཅིང་མི་འགྱུར་བ། ཤིན་ཏུ་ཐུགས་སྒམ་པས་སྒྲིན་པོ་རྣམས་ཀྱིས་ཀྱང་ཐུགས་བསམས་ཀྱི་གཏིང་མི་སླེབ་པ། སློབ་དཔོན་ཀླུས། དམན་པས་གང་ཚེ་ནོར་ནི་ཅུང་ཟད་རྙེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-171"/>He possesses an extremely discerning outlook, the likes of which even the most prudent cannot fathom. Even when his reserves of wealth increased sizably, he was imbued with humility through and through and was never overtaken by arrogance. As described by the master Nāgārjuna:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-53">
+    <prop type="location-id">UT22084-103-004-174</prop>
+    <tuv xml:lang="bo">
+                <seg>འགྲོ་བ་ཐམས་ཅད་བརྙས་པའི་ང་རྒྱལ་ལྡན། ། དམ་པ་ནོར་གྱི་འབྱོར་པ་ཐོབ་གྱུར་ཀྱང་། །སཱ་ལུ་སྨིན་པ་ལྟ་བུར་ཤིན་ཏུ་འདུད། །རིགས་དམའ་བ་ཡི་སེམས་ཅན་དག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-174"/>“When lowly beings find a scant amount of wealth,They swell with pride, disparaging all others.The noble, however, may acquire wealth and riches,Yet remain bowed like ripened rice plants.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-54">
+    <prop type="location-id">UT22084-103-004-175</prop>
+    <tuv xml:lang="bo">
+                <seg>ནོར་རམ་རིག་པ་རྙེད་གྱུར་ན། ། འགྲོ་བ་ཀུན་ལ་རྩྭ་སྙམ་སེམས། །པགས་པ་སྔོན་པོའི་ཝ་བཞིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-175"/>“When these beings of a lowly sortFind themselves with wealth or learning, They think only of quarreling with everyone,Just like the fox with blue fur.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-55">
+    <prop type="location-id">UT22084-103-004-177</prop>
+    <tuv xml:lang="bo">
+                <seg>ནོར་རམ་རིག་པར་ལྡན་གྱུར་ན། ། དམན་པ་རྣམས་ནི་དྲེགས་པར་འགྱུར། ། གོ་འཕང་གཉིས་པོ་དེ་དག་གིས། །མཁས་པ་ཤིན་ཏུ་དུལ་བར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-177"/>“When they possess wealth or learning,The lowly become filled with arrogance,Yet even with a status twice as lofty,The wise become very humble.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-56">
+    <prop type="location-id">UT22084-103-004-178</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞེས་གསུངས་པ་ལྟར་འབྱོར་པའི་ཚོགས་ཤས་ཆེར་བདོ་བར་གྱུར་ཀྱང་ཐུགས་ཀུན་ནས་དུལ་བས་ནམ་ཡང་དྲེགས་པ་མི་མངའ་བ། འབྱོར་པ་རྣམས་ཀྱང་འཕྲལ་འཕྲལ་དུ་དགེ་འདུན་གྱི་འདུ་སྒོ་དང་། དཀོན་མཆོག་གི་མཆོད་པ་དང་། སྐུ་གསུང་ཐུགས་ཀྱི་རྟེན་བཞེངས་པ་སོགས་ཆོས་ཀྱི་ཕྱོགས་སུ་ཟད་དུ་འཇུག་པ་ལས། དགྲ་འདུལ་གཉེན་སྐྱོང་ལ་སོགས་པ་རྣམ་སྨིན་ཡིད་དུ་མི་འོང་བ་སྐྱེད་པའི་ཕྱོགས་ལ་ཟད་དུ་མི་འཇུག་པ་དང་། ཧ་ཅང་སོགས་འཇོག་ལ་སྲེད་པར་མི་མཛད་པ་སོགས་དམ་པའི་ཡོན་ཏན་ཐམས་ཅད་ཀྱིས་ཕྱུག་པ་སྟེ་དེའང་། གཙང་དུ་གདན་ས་ཆེན་པོ་ཨེ་ཝཾ་ཆོས་ལྡན་གྱི་གླིང་པ་སྤྱི་ཁང་དང་འདི་གར་ཞབས་དྲུང་དཔལ་མཆོག་པས་བཞེངས་པའི་མཆོད་རྟེན་ཆེན་མོ་སོགས་གསར་བཞེངས་ལྟ་བུའི་རྟེན་དང་བརྟེན་པའི་ཉམས་པ་གསོ་བ་བགྲང་གིས་མི་ལང་བ་མཛད་པ་དང་། འགྲོ་བའི་མགོན་པོ་ས་སྐྱ་པ་གོང་མ་རྣམ་ལྔའི་བཀའ་འབུམ་སྐུ་པོད་དངོས་གཙང་བཅུ་<tei:ref folio="F.104.a"/>དྲུག །རིན་ཆེན་གཉིས་པ་ལས་གྲུབ་པའི་བསྟན་བཅོས་འགྱུར་རོ་འཚལ་གླེགས་བམ་ཉིས་བརྒྱ་དང་བདུན་ཡོད་པ་ཤིན་ཏུ་དངོས་གཙང་། རྒྱལ་བའི་བཀའ་འགྱུར་རོ་ཅོག་མཚལ་པར་མ་དང་། ཡང་རིན་ཆེན་དང་པོ་ཁོ་ན་ལས་བཞེངས་པའི་བཀའ་འགྱུར་གླེགས་ཤིང་གླེགས་ཐག་ན་བཟའ་ཚུན་ཆོད་ཤིན་ཏུ་སྤུས་ལེགས་ལ་དངོས་གཙང་བ། ཙནྡན་དམར་པོ་ལས་གྲུབ་པའི་སངས་རྒྱས་སྟོང་སྐུ་ཐམས་ཅད་མཁྱིད་གང་ཙམ་པ། ཡང་ཙནྡན་དམར་པོའི་ཕྱེ་མའི་ལྡེ་གུ་ལས་གྲུབ་པའི་སངས་རྒྱས་སྟོང་སྐུ་ཐམས་ཅད་མཐོ་ཚད་མ། ཙནྡན་དཀར་དམར་ལས་གྲུབ་པའི་སྐུ་གདུང་ཆ་བརྒྱད་བཟོ་བཀོད་ཕུན་སུམ་ཚོགས་པ། ཙན་འདམ་ལས་གྲུབ་པའི་ཆོས་རྒྱལ་ལོ་པཎ་བཞི་བཅུ་རྩ་ལྔའི་སྐུ་ཐམས་ཅད་བརྐྱང་ཁྲུ་གང་ལྷག་ཡོད་པ། ཙནྡན་དཀར་པོའི་ལྡེ་གུ་ཁོ་ན་ལས་གྲུབ་པའི་ལམ་འབྲས་ཀྱི་བླ་རྒྱུད་ཐམས་ཅད་མཁྱིད་ཚད་མ། ཡང་གསུང་ངག་རིན་པོ་ཆེ་ལམ་འབྲས་བུ་དང་བཅས་པའི་བླ་མ་བརྒྱུད་པ་རྣམས་ཀྱི་སྐུ་བརྙན་གསེར་ཟངས་ལས་གྲུབ་པ་ཐམས་ཅད་བརྐྱང་ཁྲུ་གང་དང་སོར་ལྔ་ལྷག་ཙམ་ཡོད་པ་ལྔ་བཅུ། ཁྱད་པར་གསེར་ཟངས་ལས་གྲུབ་པའི་བླ་མ་ཡི་དམ་སངས་རྒྱས་བྱང་སེམས་ཆོས་སྲུང་ནོར་ལྷ་སོགས་ཀྱི་སྐུ་ལུགས་མ་ཤིན་ཏུ་དངོས་གཙང་བ་སུམ་བརྒྱ་ལྷག་ཙམ། ལྷུན་གྲུབ་སྟེང་གི་འདུ་ཁང་ཆུང་བ་གཉྫིར་བཅས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-178"/>In the same way, he has not engaged in karmically objectionable matters such as “subduing enemies and protecting friends,” nor does he hoard his wealth. Rather, he spends freely on matters of Dharma, with stipends for the saṅgha, offerings to the Three Jewels, and the construction of representations of body, speech, and mind. He is rich with all of the qualities of a noble person.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-57">
+    <prop type="location-id">UT22084-103-004-179</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྕགས་རའི་འདུ་ཁང་རྒྱལ་མཚན་བཅས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-179"/>At the great monastic seat of Ewaṃ Chöden in Tsang, he commissioned the restoration of the communal housing along with countless statues and supports, such as the great stūpa that was constructed by Shapdrung Palchokpa, making them like new. He also commissioned countless new works such as:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-58">
+    <prop type="location-id">UT22084-103-004-179</prop>
+    <tuv xml:lang="bo">
+                <seg>སྤོམ་མཛངས་ཆོས་སྡེའི་འདུ་ཁང་། དཔལ་སྤུངས་སུ་ཁོ་བོ་ཅག་གི་ལྷ་ཁང་འདུས་སྡེ་དང་བཅས་པ། །བླ་མ་ཀུན་ཆོས་པའི་སྐུ་གདུང་གཉྫིར་བཅས་སོགས་གསར་བཞེངས་ཁོ་ནའང་བགྲང་གིས་མི་ལང་ཞིང་ད་དུང་ཡང་སྒྲུབ་བཞིན་པ་དང་། ལོ་བསྟར་དུ་ཟབ་མོའི་རྣལ་འབྱོར་དང་ལྡན་པའི་དགེ་སྦྱོང་རྣམས་ལ་ཆོས་དང་མཐུན་པའི་ཡོན་ཕུན་སུམ་ཚོགས་པ་སྩལ་ཏེ</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>● a high-quality edition of The Collected Works of the Five Eminent Sakya Forefathers in sixteen volumes; ● an extremely high-quality collection of the two hundred and seven volumes of the Tengyur produced in silver;● an extremely well-crafted and high-quality edition of the Kangyur, the collected words of the Victorious One, in vermillion ink, complete with book covers made out of pure gold and silk binding strings;● a set of statues of the thousand buddhas made from red sandalwood, each about a handspan in height;● another set of larger statues of the thousand buddhas made from the paste of red sandalwood powder;● a stūpa made out of white and red sandalwood with superb craftsmanship, containing a set of eight relics;● a set of statues of the forty-five Dharma kings, lotsāwas, and paṇḍitas made out of sandalwood clay, each over a cubit high;● a set of statues of the lineage gurus of the Path and Result constructed entirely out of white sandalwood paste, each measuring a single handspan;● another set of statues of the fifty lineage gurus of The Precious Oral Instructions of the Path and Result made out of gold and copper, each over a cubit and five finger-breadths high;● some three hundred extremely high-quality statues of gurus, yidams, buddhas, bodhisattvas, Dharma protectors, wealth deities, and others cast in gold and copper;● a small assembly hall at Lhundrup Teng complete with gañjira;● an assembly hall at Jakra complete with victory banners;● an assembly hall for the monastic community at Pomdzang;● a temple and monastic gathering hall for us at Palpung; and ● a reliquary stūpa for Lama Kunchöpa with gañjira.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-59">
+    <prop type="location-id">UT22084-103-004-180</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡི་དམ་གྱི་ལྷ་རྣམས་ཀྱི་རྩ་སྔགས་དང་སྙིང་པོ་སོགས་དུང་ཕྱུར་ཕྲག་མང་པོར་ལང་བ་བཅད་རྒྱ་ཁོ་ནས་སོག་ཏུ་འཇུག་པ་སོགས་མཆོད་སྦྱིན་གྱི་ཁྱད་པར་རྒྱ་ཆེན་པོ་བསྒྲུབས་པ་རྣམས་ཀྱང་དེ་དང་མཚུངས་པ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-180"/>And this work is still ongoing. Additionally, every year he gives substantial offerings, in a way that accords with the Dharma, to monks who embody profound yogic practices. The particular vast offerings and gifts he makes are equivalent to accumulating many billions of recitations of the main and essence mantras of yidam deities while staying entirely in strict retreat, and other such things. As The Wish-Fulfilling Vine: A Collection of Jātaka Tales states:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-60">
+    <prop type="location-id">UT22084-103-004-182</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐྱེས་རབས་དཔག་བསམ་འཁྲི་<tei:ref folio="F.104.b"/>ཤིང་ལས། མི་རྣམས་ནོར་ནི་དངུལ་ཆུའི་ཐིག་པ་ཁུ་ཚུར་དག་གིས་བསྡོམས་པའི་རྣམ་པར་མཐོང་། ། དབུལ་དང་མགོན་མེད་རྣམས་ལ་སྟེར་ཞིང་ཉེ་བར་མཁོ་བར་གྱུར་པ་རབ་ཏུ་རྒྱས་པའི་དཔལ། །བསོད་ནམས་དགའ་ཚལ་གཙུག་ལག་ཁང་དང་མཆོད་རྟེན་བཅོམ་ལྡན་སྐུ་གཟུགས་རབ་གནས་ལ་སོགས་ཀྱིས། །ནོར་ལྡན་འདི་ནི་གྲགས་པས་ལྷན་ཅིག་མི་བཟད་གནས་སུ་གང་ཞིག་གང་གིས་རྣམ་པར་མཛེས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-182"/>“The wealth of people, when clutched in tightened fists, is like a drop of quicksilver.Yet, when given to the poor and helpless to fulfill their needs, its glory flourishes.Through the merit of providing groves, temples, stūpas, and consecrated statues of the blessed ones,The renown of the wealthy endures without fading, beautifying everything around.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-61">
+    <prop type="location-id">UT22084-103-004-183</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞེས་གསུངས་པ་ལྟ་བུ་དང་། སློབ་དཔོན་ཀླུས། ཕན་སེམས་ཆེ་བ་སྒྲིན་པའི་ཚུལ། །དྲང་པོའི་ཚུལ་ནི་མི་སླུ་བ། །བག་ཡོད་ཉམ་ང་མེད་པ་ནི། །དེ་ནི་རྒྱལ་པོའི་ཚུལ་དུ་བཤད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-183"/>In his great wisdom, he benevolently rules his subjects with altruistic intentions and an honest heart, avoids misleading people with deception, and conducts himself with mindfulness and fearlessness in all his actions. As the master Nāgārjuna has said:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-62">
+    <prop type="location-id">UT22084-103-004-185</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞེས་གསུངས་པ་ལྟར་ཐུགས་ཤིན་ཏུ་སྒྲིན་པས་ཕན་པའི་སེམས་ཀྱིས་མངའ་འབངས་ལ་སོགས་པ་བདེ་བར་སྐྱོང་བ། དྲང་པོའི་ཐུགས་དང་ལྡན་པས་གཡོ་སྒྱུས་སྐྱེ་བོ་སླུ་བར་མི་མཛད་པ།བྱ་བ་ཐམས་ཅད་ལ་བག་ཡོད་ཅིང་ཉམ་ང་མེད་པའི་ཚུལ་གྱིས་སྤྱོད་པ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-185"/>“A great altruistic intention is the way of the wise, Nondeception is the way of the honest,While mindfulness free from fearIs said to be the way of kings.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-63">
+    <prop type="location-id">UT22084-103-004-186</prop>
+    <tuv xml:lang="bo">
+                <seg>ཙ་ན་ཀའི་རྒྱལ་པོའི་ལུགས་ཀྱི་བསྟན་བཅོས་ལས། ཀུན་དགའ་ར་བའི་ཕྲེང་བརྒྱུད་ལྟར། །མེ་ཏོག་མེ་ཏོག་ཙམ་བཏུ་ཡི། །སོལ་བ་མཁན་ནི་ཇི་བཞིན་དུ། །རྩ་ནས་གཅད་པར་མི་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-186"/>In this way he governs the land such that there is perfect abundance, as described in Cāṇakya’s Treatise of Ethical Advice to the King:<tei:milestone xml:id="UT22084-103-004-189"/> “The king should act akin to a gardener Who gathers just the petals of flowersArranged in rows in his garden,Without severing their roots.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-64">
+    <prop type="location-id">UT22084-103-004-190</prop>
+    <tuv xml:lang="bo">
+                <seg>འོ་མ་བཞོས་ནས་འཐུང་བཞིན་དུ། །བ་ནི་གསད་པར་མི་བྱའོ། ། དེ་བཞིན་རྒྱལ་པོས་ཡུལ་འཁོར་ནི། །དུས་ཤེས་ནས་ནི་ལོངས་སྤྱོད་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-190"/>“One should not kill the cow That provides the milk one drinks.Similarly, the king should enjoyHis kingdom with this same perception.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-65">
+    <prop type="location-id">UT22084-103-004-191</prop>
+    <tuv xml:lang="bo">
+                <seg>བ་ཡི་བརླ་ནི་བཅག་གྱུར་ན། ། བཞོ་བས་འོ་མ་ཐོབ་མི་འགྱུར། ། དེ་བཞིན་ཡུལ་འཁོར་ཚུལ་མིན་པས། །གནོད་པ་བྱས་ན་འཕེལ་མི་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-191"/>“If the leg of the cow were to break,There would be no milk to drink.Similarly, if the kingdom were to be harmed By negligence, there would be no development.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-66">
+    <prop type="location-id">UT22084-103-004-192</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡུལ་འཁོར་སྦྲང་རྩི་ལྟར་སྤྱད་ཀྱི། སྦྲང་བུ་གསད་པར་མི་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-192"/>“Thinking of the kingdom as honey,One should not kill the honeybees.Just as the owner milks the cow,So too should the king rule his land.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-67">
+    <prop type="location-id">UT22084-103-004-193</prop>
+    <tuv xml:lang="bo">
+                <seg>བ་ལས་བདག་པོས་བཞོ་བ་ལྟར། །རྒྱལ་པོས་ས་ནི་དེ་ལྟར་བསྐྱང་། །ཞེས་བཤད་པ་ལྟ་བུའི་ས་ལེགས་པར་སྐྱོང་བའི་ཚུལ་ཐམས་ཅད་ཕུན་སུམ་ཚོགས་པ། གཞན་ཡང་། ས་བདག་རྟག་ཏུ་རྒྱུ་མེད་པར། ཁྲོ་གཉེར་དག་ནི་མི་བྱ་ཞིང་། །བྲན་གཡོག་ནོར་མེད་པར་མ་ཡིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-193"/>In this way, and by exclusively pursuing the Dharma, he possesses a flexible and gentle character as further described by Cāṇakya:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-68">
+    <prop type="location-id">UT22084-103-004-195</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་པོས་ཆོས་ནི་བསྲུང་བར་བྱ། ། ཞེས་སོགས་བཤད་པ་ལྟར་ཆོས་ཁོ་ནའི་རྗེས་སུ་སོང་བས་མཉེན་གཤིན་དེས་པའི་ངང་ཚུལ་ཅན། མ་བཏུལ་<tei:ref folio="F.105.a"/>བར་ཡང་ཕས་ཀྱི་རྒོལ་བ་རྣམས་རང་གི་ངང་གིས་འདུད་པ་ལྷུར་ལེན་པ་དང་། མངའ་ཞབས་ཀྱི་འབངས་རྣམས་ཀྱང་རྨ་མེད་པར་སྐྱོང་བཞིན་པ་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-195"/>“The lord of the land should not Scowl with rage without just cause.The king should act not like a penniless servantBut instead should uphold the Dharma.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-69">
+    <prop type="location-id">UT22084-103-004-196</prop>
+    <tuv xml:lang="bo">
+                <seg>དུས་ཕྱིས་གནམ་བསྐོས་འཇམ་དབྱངས་གོང་མ་ཆེན་པོས་བོད་ཡུལ་གྱི་ལྗོངས་འདི་ཉིད་བདག་གིར་མངའ་བསྒྱུར་བ་ནའང་། མིའི་དབང་པོ་འདི་ཉིད་ཀྱི་ཡོན་ཏན་གྱི་ཁྱད་པར་རྣམས་སྙན་ལ་དེངས་པས་བསྔགས་བརྗོད་དང་བཅས་ཏེ་ འབངས་ཀྱི་སྐྱེ་བོ་མི་ཁྱིམ་མང་པོ་ས་རིས་དང་བཅས་པ་གསར་དུ་སྦྱོར་འཇག་གི་བཀའ་དྲིན་མཛད་པ་སོགས་མཆོག་དམན་ཐམས་ཅད་ཀྱི་ཡིད་དམ་པའི་ངང་ཚུལ་གྱིས་ཕྲོགས་པར་མཛད་པ་སྟེ་མདོར་ན་སྙིགས་མའི་མུན་ཀློང་སྟུག་པོར་གཡོ་བའི་དུས་འདི་ལྟ་བུར་ཆོས་ཀྱི་རྒྱལ་པོ་མྱ་ངན་མེད་སླར་ཡང་འོངས་པ་ལྟ་བུའི་ཕྲིན་ལས་ཅན་ཞིག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-196"/>His adversaries voluntarily bow to him of their own accord, without needing to be subdued, and he rules his royal subjects without force. Even when the divinely mandated emperor Mañjughoṣa gained dominion over these Tibetan lands, his subjects continued to sing praises for the special qualities of the Lord of Men. He acted out of kindness in granting many of his subject households new plots of land. With such things he has captured the hearts and minds of everyone, both high and low, with his sublime character. In short, during this age, when the darkness of the degenerate times is all but impenetrable, he is one who embodies enlightened activities, like the return of the Dharma King Aśoka.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-70">
+    <prop type="location-id">UT22084-103-004-198</prop>
+    <tuv xml:lang="bo">
+                <seg>མིའི་དབང་ཕྱུག་འདིའི་སྲས་གཉིས་པ་དང་གསུམ་པ་རབ་ཏུ་བྱུང་བའི་བརྟུལ་ཞུགས་ཡང་དག་པར་ལེན་པར་མཛད་ལ། དང་པོས་སྲིད་འཛིན་པར་མཛད་པ་སྟེ་གསུམ་གའང་རང་བཞིན་གྱིས་དགེ་བ་ལ་འདུན་ཞིང་མི་འཕྲོག་བའི་བརྟན་པ་ཅན། །དཀྱེལ་ཆེ་ཞིང་གཟུ་བོར་གནས་པ། གཙུག་ལག་ལུགས་གཉིས་ཀྱི་མཁྱེན་པ་རྣམ་པར་རྒྱས་པ་སོགས། མ་སུ་རཀྵས་བྱས་པའི་ལུགས་ཀྱི་བསྟན་བཅོས་ལས། བརྟན་ཞིང་ཟབ་མོའི་བློ་དང་ལྡན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-198"/>The second and third sons of the Lord of Men, Tenpa Tsering, have authentically taken up the ascetic discipline of ordination whereas the first has ascended to political power. All three of them possess a natural inclination toward virtue, unfaltering steadiness, open and impartial perspectives, and vast insight into the two traditions of learning. They embody the qualities described in The Treatise of Ethical Advice of Masurakṣa:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-71">
+    <prop type="location-id">UT22084-103-004-201</prop>
+    <tuv xml:lang="bo">
+                <seg>མདངས་ལྡན་ཆོས་དང་བསྟན་བཅོས་རིག ། དུལ་ཞིང་བདེན་པར་སྨྲ་བ་དང་། །རྒྱལ་པོའི་འཁོར་ལ་ཕན་པར་སེམས། །རིགས་བཙུན་རྒྱུད་ནི་མཉེན་པ་དང་། །བླ་མ་ལ་ནི་གུས་ཉན་དང་། །སྐྱེ་དགུ་རྗེས་བརྩེར་ལྡན་པ་ཡི། །རྒྱུད་བྱུང་དེ་ནི་རྒྱལ་སྲས་ཡིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-201"/>“Possessed of intellect, stable and deep;Learned in the brilliant Dharma and the treatises;Composed and truthful in speech;Intent on benefiting the royal entourage;Of mighty lineage and flexible outlook;Full of devotion to the gurus,And loving kindness toward all people—One with such a character is a true prince.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-72">
+    <prop type="location-id">UT22084-103-004-202</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞེས་བཤད་པ་ལྟ་བུའི་ཡོན་ཏན་དང་ལྡན་ཞིང་། བཙུན་མོ་དམ་པ་དག་ཀྱང་། རྒྱ་ཆེ་རོལ་པ་ལས། རྒྱགས་པ་མ་མཆིས་མི་གཡེང་ཟུངས་ཐུབ་ཚུལ་འཆང་ཞིང་། །ང་རྒྱལ་མ་མཆིས་འགྱིང་དང་བྲལ་བས་བྲན་མོ་བཞིན། །སྒྲ་དྲི་རོ་ལ་མ་ཆགས་ཆང་ལ་མ་ཆགས་ཏེ འདོད་བྲལ་བརྣབ་སེམས་མ་མཆིས་རང་གི་ནོར་གྱིས་འཚལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-202"/>His excellent queen accords with descriptions from The Play in Full:<tei:milestone xml:id="UT22084-103-004-203"/> “She should not be arrogant or slothful. She should comport herself fittingly.She should be without any pride or willfulness, like a servant.She should not be attracted to alcohol, tastes, sounds, or fragrances;She should be free of greed and covetousness, satisfied with her fortune.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-73">
+    <prop type="location-id">UT22084-103-004-204</prop>
+    <tuv xml:lang="bo">
+                <seg>བདེན་ལ་གནས་ཤིང་མི་འཕྱར་གཡེང་བ་མ་ལགས་པ། །ངོ་ཚའི་གོས་འཚལ་རྒོད་དང་ཁེངས་པ་མ་མཆིས་གནས། །<tei:ref folio="F.105.b"/> ལྟ་དང་བཀྲ་ཤིས་མ་ཆགས་རྟག་ཏུ་ཆོས་ལ་བརྩོན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-204"/>“Adhering to truth, she should be steady and unwavering;Not puffed up, she should dress with modesty. Always engaging in righteousness, she should be unimpressed with flashy displays.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-74">
+    <prop type="location-id">UT22084-103-004-206</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞེས་གསུངས་པའི་ཚུལ་དང་མཐུན་པ། དེ་བཞིན་དུ་མ་སུ་རཀྵས། ཚིག་གསལ་བློ་ནི་ཕུན་སུམ་ཚོགས། །ལུགས་ཀྱི་བསྟན་བཅོས་དག་ལ་མཁས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-206"/>His ministers accord with the words of Masurakṣa:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-75">
+    <prop type="location-id">UT22084-103-004-208</prop>
+    <tuv xml:lang="bo">
+                <seg>ངང་འཇམ་དཔྱོད་པར་བྱེད་པ་སྟེ། ། རྒྱལ་པོའི་བློན་པོ་དེ་འདྲས་བྱ། ། ཞེས་བཤད་པ་ལྟ་བུའི་བློན་པོ་དང་། ཚེ་ཡི་རིག་བྱེད་གོམས་པ་དང་། །ཆོས་རིག་ཡིད་འོང་སྙན་སྨྲ་ཞིང་། །ཆོ་ག་ངང་ཚུལ་ཕུན་སུམ་ཚོགས། །ཐང་ལ་འབར་བཞིན་གསོ་མཁས་ཤིང་། ནད་ཀྱི་མཚན་ཉིད་ཀུན་ལ་མཁས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-208"/>“Clear in speech, abundant in intelligence,Well versed in the treatises on ethics,Gentle in character yet scrutinizing,Just so should royal ministers conduct themselves.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-76">
+    <prop type="location-id">UT22084-103-004-209</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་པོ་དེ་འདྲའི་སྨན་པ་བསྟེན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-209"/>His doctors are in accord as well:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-77">
+    <prop type="location-id">UT22084-103-004-211</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞེས་པ་ལྟ་བུའི་སྨན་པ་དང་། སྒྲ་རིག་རྩིས་ཀྱང་ཤེས་པ་སྟེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-211"/>“Acquainted with the art of healing,Eloquently conversant in both Dharma and learning,Well trained in the practical applications,Skilled in healing just like Dhanvantari, And well versed in all signs of disease—Such is the doctor a king should see.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-78">
+    <prop type="location-id">UT22084-103-004-212</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡི་གེ་བྱང་ཞིང་ལག་པ་མྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-212"/>His secretaries are in accord as well:<tei:milestone xml:id="UT22084-103-004-214"/> “Knowledgeable in grammar and astrology,Clear in penmanship and swift in hand,Intelligent and clear with words—Such a scribe will be rich and renowned.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-79">
+    <prop type="location-id">UT22084-103-004-215</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡིད་གཞུང་ཚིག་ནི་གསལ་བ་དང་། །གྲགས་དང་སྦྱིན་ལྡན་ཡི་གེ་པ། །ཞེས་པ་ལྟ་བུའི་དྲུང་ཡིག་པ་དང་། རིགས་དང་ངང་ཚུལ་ཡོན་ཏན་ལྡན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-215"/>His chief ministers are in accord as well:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-80">
+    <prop type="location-id">UT22084-103-004-217</prop>
+    <tuv xml:lang="bo">
+                <seg>བདེན་དང་ཆོས་ལ་མཆོག་ཏུ་གཞོལ། །གཟུགས་བྱད་ཤིན་ཏུ་བཟང་བ་ནི། །རྒྱལ་པོའི་སྤྱན་མི་ཡིན་པར་བཤད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-217"/>“Of noble birth, excellent disposition, and talented,Diligent in the pursuit of truth and Dharma,And dignified in physical appearance—Such are advisors fit for a king.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-81">
+    <prop type="location-id">UT22084-103-004-218</prop>
+    <tuv xml:lang="bo">
+                <seg>ཅེས་པ་ལྟ་བུའི་ནང་བློན་རྣམས་དང་། མཚོན་ལ་གོམས་ཤིང་ནུས་དང་ལྡན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-218"/>His military commanders are in accord as well:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-82">
+    <prop type="location-id">UT22084-103-004-220</prop>
+    <tuv xml:lang="bo">
+                <seg>བཞོན་པ་དག་ལ་བྱ་བཞིན་གོམས། ། དཔའ་ཞིང་བརྟན་པ་ཕུན་སུམ་ཚོགས། །དེ་འདྲ་དམག་དཔོན་ཡིན་པར་ཤེས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-220"/>“Trained in weaponry and endowed with strength,Trained in riding like a bird,Brimming with courage and resolution—Understand this is how commanders ought to be.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-83">
+    <prop type="location-id">UT22084-103-004-221</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞེས་པ་ལྟ་བུའི་དམག་དཔོན་དང་། ཕ་མེས་རྒྱུད་བྱུང་གྲིམས་པར་ཤེས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-221"/>His chefs are in accord as well:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-84">
+    <prop type="location-id">UT22084-103-004-223</prop>
+    <tuv xml:lang="bo">
+                <seg>བསྟན་བཅོས་རིག་ཅིང་ཞིམ་པར་འཚེད། །གཙང་སྦྲ་ཆེ་ཞིང་སྙིང་ཉེ་བ། །དེ་ལྟ་བུ་ཡིས་ཕྱག་ཚང་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-223"/>“Privy to ancestral traditions and dexterous, Learned in treatises and skilled in cooking,Hygienic and full of affection—This is how a chef should be.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-85">
+    <prop type="location-id">UT22084-103-004-224</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞེས་པ་ལྟ་བུའི་ཕྱག་ཚང་པ་དང་། ཡིད་གཞུངས་ཚིག་གསལ་ཤེས་རབ་ལྡན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-224"/>His envoys are in accord as well:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-86">
+    <prop type="location-id">UT22084-103-004-226</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞན་སེམས་ཉེ་བར་མཚོན་ནུས་དང་། །བརྟན་ཞིང་ཇི་སྐད་བསྒོ་བཞིན་སྨྲ། ། རྒྱལ་པོའི་ཕོ་ཉ་དེ་འདྲས་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-226"/>“Intelligent, articulate, and wise,Able to relate to the thinking of others,Resolute, and who speak as commanded—Such should the royal messengers behave.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-87">
+    <prop type="location-id">UT22084-103-004-227</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞེས་པ་ལྟ་བུའི་མངག་གཞུག་པ་སོགས་མདོར་ན་བསྟན་བཅོས་དང་མཐུན་པའི་རྒྱལ་པོའི་ཡན་ལག་རྣམས་ཀྱང་ལེགས་པར་ཚང་བ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-227"/>In short, he is well endowed with all aspects of a king in accord with the treatises.<tei:milestone xml:id="UT22084-103-004-section-2"/> The Virtuous Activity of Publishing the Victorious One’s Teachings Part 2</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-88">
+    <prop type="location-id">UT22084-103-004-227</prop>
+    <tuv xml:lang="bo">
+                <seg>རྩ་བའི་ས་བཅང་གཉིས་པ་རྒྱལ་བའི་གསུང་རབ་པར་དུ་འཁོད་པའི་རྣམ་དཀར་གྱི་བྱ་བ་དངོས་སྨོས་པ་ལ། བཞེངས་པའི་དུས་དང་། ཕྱི་མོ་ཇི་ལྟར་བསགས་ཤིང་དག་<tei:ref folio="F.106.a"/>པར་བགྱིས་པའི་ཚུལ་དང་། བཞེངས་ཚུལ་དངོས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The virtuous activity of publishing the Victorious One’s teachings will be explained according to the time of production, the process of collecting and editing the manuscripts, and the practicalities of printing. <tei:milestone xml:id="UT22084-103-004-section-2-1"/>2.1 The Time of the Production of the Kangyur</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-89">
+    <prop type="location-id">UT22084-103-004-229</prop>
+    <tuv xml:lang="bo">
+                <seg>དང་པོ་ནི། སྤྱིར་བསྐལ་པ་ཆེན་པོ་བཟང་པོ་འདི་ལ་ཆགས་པའི་དུས་དང་། གནས་པའི་དུས་དང་། འཇིག་པའི་དུས་དང་གསུམ་གནས་པའི་བསྐལ་པ་དེ་ལའང་ཡ་ཐོག་རིང་མོ་དང་།མ་ཐོག་རིང་མོ་དང་། བར་གྱི་ཁུག་པ་བཅོ་བརྒྱད་དུ་གྲགས་པ་སྟེ་བར་བསྐལ་ཉི་ཤུ་ཡོད་པ་ལས། ཡ་ཐོག་རིང་མོའི་གཤམ་གྱི་དུས་ཏེ། དེའང་ཐུབ་པའི་བསྟན་པ་ལུང་གི་དུས་ཀྱི་ལྔ་བརྒྱ་བ་ཕྲག་གསུམ་ལས་དཀྱིལ་སྨད་ཙམ་དུ་ཕྱིན་པ་བདག་ཅག་གི་སྟོན་པ་རྣམ་འདྲེན་བཞི་བ་ཤཱཀྱའི་དབང་པོ་ས་དེ་ཉིད་ཞིང་འདིའི་ངོ་སྐལ་གྱི་སྤྲུལ་པའི་སྣང་བརྙན་ཉེ་བར་བསྟན་ནས་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-229"/>In general, this great Fortunate Eon is made up of three phases: the age of formation, the age of remaining, and the age of destruction. Within the age of remaining, there are twenty intermediate periods: the long decline, the long rise, and the eighteen cyclical periods between. Currently, we are in the later part of the long decline. In terms of the stages of the existence of the Sage’s teachings, which are divided into groups of three 500-year periods, we are now in the latter half.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-90">
+    <prop type="location-id">UT22084-103-004-230</prop>
+    <tuv xml:lang="bo">
+                <seg>ད་ལྟའི་བར་གྱི་འདས་ལོའི་ཚུལ་ལ་མཁས་པ་དག་གིས་དཔྱད་པས་བཞེད་པ་མི་མཐུན་པ་མང་དུ་བྱུང་བ་ལས། དེང་སང་ཡོངས་སུ་གྲགས་པ་པད་དཀར་ཞལ་ལུང་པའི་ལུགས་ཀྱིས་སྟོན་པ་དྲག་པོ་ལྕགས་སྤྲེལ་ས་ག་ཟླ་བའི་ཚེས་བདུན་ཟླ་སྐར་རྒྱལ་གྱི་དུས་སུ་སྐུ་བལྟམ་པ་ནས། བགྲང་བྱ་ཉིས་སྟོང་དང་དྲུག་བརྒྱ་བརྒྱད་ཅུ་རྩ་དགུ་འདས་ཤིང་། རྒྱལ་བ་ཤིང་རྟ་ས་ག་ཟླ་བའི་བཅོ་ལྔ་ལ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་ནས། ལོ་དེའི་ཆུ་སྟོད་ཅན་གྱི་ཚེས་བཞིར་ལྔ་སྡེ་ལ་ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་ནས་ ཉིས་སྟོང་དྲུག་བརྒྱ་ལྔ་བཅུ་རྩ་ལྔ་འདས་པ། དེ་བཞིན་དུ་ལྕགས་འབྲུག་ནག་ཉ་ས་ག་ཟླ་བའི་ཚེས་བཅོ་ལྔའི་གུང་ཐུན་ལ་དགོངས་པ་ཞི་དབྱིངས་སུ་མནལ་བའི་ཚུལ་བསྟན་ནས་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-230"/>Learned people have come to many conflicting conclusions regarding the number of years that have elapsed since our Teacher, the Fourth Guide, the Lord of the Śākyas, displayed his emanation in our world. According to the tradition of The White Lotus Instructions, which is commonly used today, our teacher was born 2,689 years ago in the year of Raudra, the male iron monkey year (960 bce), on the seventh day of the month of Viśakhā, in the hour of Puṣya; he reached perfect awakening 2,655 years ago in the year of Jaya, the wood horse year (926 bce), on the fifteenth day of the month of Viśakhā; and, in that same year, on the fourth day of the month of Pūrvāṣādhā, he turned the wheel of Dharma for the five disciples. Then, 2,609 years ago, at midday on the day of the full moon, the fifteenth day of Viśakhā in the iron dragon year (880 bce), he displayed the reclining posture with his mind passing into the expanse of peace.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-91">
+    <prop type="location-id">UT22084-103-004-231</prop>
+    <tuv xml:lang="bo">
+                <seg>ཉིས་སྟོང་དྲུག་བརྒྱ་དགུ་འདས་ཤིང་། ཆོས་རྗེ་ས་སྐྱ་པའི་ལུགས་ཀྱིས་སྟོན་པ་རྣམ་འབྱུང་ས་འབྲུག་ལ་སྐུ་བལྟམ་ཞིང་། ཐམས་ཅད་འདུལ་ས་ཕག་ལོར་གཤེགས་ནས་ སུམ་སྟོང་བརྒྱད་བརྒྱ་དྲུག་ཅུ་རྩ་གཅིག་འདས་པ། ཁ་ཆེ་པཎ་ཆེན་ཤཱཀྱ་ཤྲཱིའི་ལུགས་ཀྱིས་མེ་མོ་སྦྲུལ་ལ་སྐུ་བལྟམ་ཞིང་མེ་བྱི་ལོར་གཤེགས་ནས་ ཉིས་སྟོང་ཉིས་བརྒྱ་བདུན་ཅུ་དོན་གཅིག་འདས་པ། ཇོ་བོ་རྗེ་དཔལ་ལྡན་ཨ་ཏི་ཤའི་བཞེད་པས་ཤིང་མོ་གླང་ལ་སྐུ་བལྟམ་ཞིང་ཤིང་སྤྲེལ་ལ་གཤེགས་པའི་ཚུལ་བསྟན་ནས་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-231"/>Alternatively, the tradition of the Dharma Lord Sakya Paṇḍita holds that our teacher was born 3,861 years ago in the year of Vibhava, the earth dragon year (2132 bce), and passed away in the year of Sarvajit, the earth pig year (2039 bce). In the tradition of the Kashmiri scholar Śākyaśrī, our teacher was born 2,271 years ago in the female fire snake year (542 bce) and passed away in the fire mouse year (463 bce). According to the glorious lord Atiśa, the Buddha was born 3,864 years ago in the female wood ox year (2135 bce) and passed away in the wood monkey year (2056 bce).</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-92">
+    <prop type="location-id">UT22084-103-004-232</prop>
+    <tuv xml:lang="bo">
+                <seg>སུམ་སྟོང་བརྒྱད་བརྒྱ་དྲུག་ཅུ་རྩ་བཞི་འདས་པ། སྟོབས་ཀྱི་འཁོར་ལོས་སྒྱུར་བ་གནམ་<tei:ref folio="F.106.b"/>སྐོས་གོང་མ་ཆེན་པོ་གཡུང་ཅིན་གསེར་ཁྲིར་ཕེབས་ནས་ཉག་མ་བདུན་ཐལ་བ། མིའི་དབང་པོ་འདི་ཉིད་དགུང་ལོ་ལྔ་བཅུ་རྩ་གཉིས་སུ་ཕེབས་པ། བདེ་མཆོག་སྟོད་འགྲེལ་ལྟར་ན་སཽ་མྱ་ཞེས་པ་ཞི་བར་གྲགས་ཤིང་། ཤར་ཕྱོགས་ཏོང་ཀུའི་རྒྱལ་ཁམས་སུ་གྱི་ཡེའུར་བོད་པ་ས་མོ་བྱའི་ལོ་སྨེ་ཕྲེང་དང་པོ་འབྱུང་བ་སུམ་ལྡན་ཕུར་བུ་ཀླུང་དུ་ཞུགས་པའི་དུས། དེ་ལའང་ཉི་མ་ལྷོར་བསྒྲོད་པ་དང་བྱང་དུ་བསྒྲོད་པའི་དུས་གཉིས་ཡོད་པ་ལས་སྔ་མ།པའི་ཡོན་ཏན་དང་ལྡན་པ་སྟོན་ཀའི་དུས། དགུན་དང་དཔྱིད་དང་དབྱར་དང་དབྱར་ཐུང་དང་དབྱར་རིང་པོ་སྟེ་དུས་ལྔ་ལས་ཕྱི་མ། ཟླ་བ་བཅུ་གཉིས་ལས་ཧོར་ལུགས་ཀྱི་ཟླ་བ་བདུན་པར་གྲགས་པ། ཏོང་ཀུའི་རྒྱལ་ཁམས་པའི་ལུགས་ཀྱིས་སྟོན་ར་བ་སྤྲེའུའི་ཟླ་བ། འཕགས་པའི་ཡུལ་དུ་ཤྲབཎར་གྲགས་པ་རྒྱུ་སྐར་གྲོ་བཞིན་གྱིས་ཉ་བའི་དཀར་ཕྱོགས། གང་བ་གཉིས་པའི་ཚེས། རེས་གཟའ་མཛའ་ལྷའི་གྲོགས་པོའི་འཛུམ་མདངས་རྒྱུ་སྐར་གྱི་ལྷ་མོ་ཨ་ནུ་རཱ་དྷཱའི་བཞིན་གྱི་པདྨོར་འཕོས་པ། འཆི་མེད་གྲུབ་པའི་སྦྱོར་བ།དུས་འཁོར་བའི་ལུགས་ཀྱི་དབྱངས་ཨོ། གསལ་བྱེད་ཕོ། འབྱུང་བ་ཆུ། འདོད་ཡོན་གཟུགས། དབྱངས་འཆར་བའི་ལུགས་ཀྱི་དབྱངས་ཨེ། གསལ་བྱེད་ར། འབྱུང་བ་རླུང་། འདོད་ཡོན་རེག་བྱ་སོགས་འཆར་བའི་དུས་ཕུན་སུམ་ཚོགས་པ་ལ། ས་སྐྱོང་ཆེན་པོས་ཐོག་མ་མེད་པའི་དུས་ནས་བསགས་པའི་ལེགས་བྱས་ཀྱི་མཐུ་རྒྱ་ཆེན་པོ་བརྟས་པ་ལས་སླར་ཡང་ལེགས་བྱས་ཀྱི་ལམ་རྒྱ་ཆེན་པོ་འདི་ལྟ་བུ་བསྒྲུབ་པ་ལ་སྤྲོ་བ་ཆེན་པོ་ཟླ་བ་མཐོང་བའི་རྒྱ་མཚོ་བཞིན་དུ་འཕེལ་བར་གྱུར་ཏེ</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-232"/>Regardless, the production of this Kangyur began seven years after the powerful sovereign, the great, divinely mandated emperor Yongzheng, assumed the golden throne. This was when the Lord of Men, Tenpa Tsering, had reached fifty-two years of age. According to The Follow-Up Tantra to the Cakrasaṃvara, this year is called saumya, meaning “gentle.” In the eastern kingdom of China, it is called the year of the earth rooster, and in the Tibetan calendar, it is known as the female earth bird year (1729) in the first inner cycle, when three elements are in convergence, and when Jupiter is at its nadir.<tei:milestone xml:id="UT22084-103-004-235"/> Furthermore, between the southward and northward declinations of the sun, this work was begun during the former. Among the four seasons of summer, winter, autumn, and spring, it was autumn, the season when all desirable things are in abundance. In the framework of the five seasonal periods of winter, spring, summer, short summer, and long summer, the production began in the last of those five. According to the Mongolian calendar, it was started in the seventh of the twelve months, while according to the Chinese tradition, it was in the first month of autumn, the month of the monkey. <tei:milestone xml:id="UT22084-103-004-236"/>It was on the second day of the period when the moon was waxing in the constellation Droshin, which is known as Śrāvaṇa in the noble land of India. It was when Friday’s friendly smile was shining on the lotus face of the goddess of the constellation Anurādhā. The conjunction of the day was “immortality.”<tei:milestone xml:id="UT22084-103-004-238"/> In the tradition of the Kālacakra, the vowel was o, the consonant was pho, the element was water, and the sense object was form. In the tradition of the Svarodaya, the vowel was e, the consonant was ra, the element was wind, the sense object was touch. It was a perfect time when all of these astrological signs appeared.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-93">
+    <prop type="location-id">UT22084-103-004-239</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱ་ཆེན་པོའི་གནས་འདི་ལྟ་བུ་ལ་སྤྱོད་མི་ནུས་སོ་སྙམ་པའི་ཞུམ་པ་དང་། གནས་འདི་ཚེགས་ཀྱིས་སྤྱད་པ་གཞན་གྱིས་བསྒྲུབ་མི་ནུས་པས་བདག་ཉིད་ཁོ་ན་མཆོག་ཡིན་གྱི་གཞན་དག་ནི་སྦྲང་བུ་ལྟ་བུའོ་སྙམ་པའི་ཁེངས་པ་དང་། འདི་ལྟ་བུ་སྤྱད་པར་འོས་པ་ཡིན་མོད་ཀྱི་འོན་ཀྱང་རྒྱུ་འདི་ལས་མཛོད་དང་བང་བ་<tei:ref folio="F.107.a"/>རྣམས་ཧ་ཅང་འབྲི་བར་འགྱུར་རོ་སྙམ་པའི་སེར་སྣ་ལ་སོགས་པ་རིང་དུ་སྤངས་ནས བདུད་དང་བདུད་ཀྱི་རིས་དག་གིས་དངོས་དང་བརྒྱུད་ནས་བར་ཆད་རྩོམ་ཞིང་ཐབས་དུ་མས་བཤོལ་བར་བྱེད་ཀྱང་སྙིང་སྟོབས་ཀྱི་གོ་ཆ་ལྷོད་པར་མི་འགྱུར་བའི་བརྟན་པའི་བློ་གྲོས་ཆེན་པོས་ཐོག་མར་མགོ་རྩོམ་པའི་ལས་ཀྱི་གྲྭ་འཛུགས་པར་མཛད་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-239"/>This great ruler has accrued so many good deeds since beginningless time that their enormous power has come to fruition in the form of accomplishing the vast good deed of this endeavor, at which great joy swells like Somadarśana’s ocean. He was never discouraged by thoughts such as, “I cannot accomplish such a vast undertaking as this.” Nor did he entertain arrogant thoughts like, “This undertaking is so difficult that others would never be able to accomplish it. I am supreme while all others are mere insects.” He likewise did not have miserly thoughts such as, “This may be a worthy undertaking, but it will drain my treasury and stores.” Having cast away such thoughts, he donned the armor of courageous spirit and, with the unrelenting resolve of his great intelligence, he initiated the work on this great project, heedless of the obstacles that Māra and his armies would erect, directly and indirectly, and the variety of methods they would use to cause delays.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-94">
+    <prop type="location-id">UT22084-103-004-239</prop>
+    <tuv xml:lang="bo">
+                <seg>གཉིས་པ་ནི་བྱ་བ་ལས་ཀྱི་འཁོར་ལོ་ཆེན་པོ་དེའི་ཐོག་མར་ཡི་གེའི་ཕྱི་མོ་རྣམ་པར་དག་པ་བསགས་ནས་ཞུས་དག་མཛད་པ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-section-2-2"/>2.2 The Manner in Which Source Texts Were Collected and Edited</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-95">
+    <prop type="location-id">UT22084-103-004-240</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའང་གཙོ་བོར་དེང་སང་གངས་རིའི་ཁྲོད་འདིར་གྲགས་ཆེ་བ་ཚལ་པ་བཀའ་འགྱུར་དང་། རྒྱལ་རྩེ་ཐེམ་སྤང་མར་གྲགས་པ་གཉིས་ཀྱི་རྒྱུན་ཡིན་པས་དེའི་ཁུངས་བཙལ་ཞིང་ཞུས་དག་གིས་གཏན་ལ་ཕབ་པའི་ཚུལ་ནི། བསྟན་པ་སྔ་དར་གྱི་དུས་སུ་ཆོས་ཀྱི་རྒྱལ་པོ་སད་ན་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-240"/>This great wheel of activity began with the collection and subsequent editing of authentic source texts. Currently, the editions that are most well known amid the snow mountains are those derived from the Tshalpa Kangyur and those derived from the Gyantsé Thempangma. Their provenance and the editing processes through which they were established are as follows.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-96">
+    <prop type="location-id">UT22084-103-004-241</prop>
+    <tuv xml:lang="bo">
+                <seg>ལེགས་མཇིང་ཡོན་གྱི་སྐུ་རིང་ལ། ལོ་ཙཱ་བ་བནྡེ་དཔལ་བརྩེགས་རཀྴི་ཏ། ཆོས་ཀྱི་སྙིང་པོ། དེ་ཝེནྡ། དཔལ་གྱི་ལྷུན་པོ་སོགས་ཀྱིས་འཕང་ཐང་ཀ་མེད་ཀྱི་གཙུག་ལག་ཁང་དུ་བཞུགས་པའི་གསུང་རབ་རྣམས་ལ། ཚེག་བར་བརྒྱད་བརྒྱད་ལ་ཚིག་རྐང་རེ་རེ། དེ་བཞི་ལ་ཤློ་ཀ །དེ་སུམ་བརྒྱ་ལ་སོགས་པ་ལ་བམ་པོའི་ཚད་དུ་བྱས་ཏེ་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-241"/>During the reign of the Dharma King Senalek Jingyön, in the period of the early spread of Buddhism, the translators Bandé Paltsek Rakṣita, Chökyi Nyingpo, Devendra, Palgyi Lhunpo, and others cataloged the scriptures housed in the monastery of Phangthang Kamé. Counting eight syllables as a line, four lines as a stanza, and three hundred stanzas as a fascicle, they were able to establish the length of given Dharma scriptures based on an accurate system of accounting. This became known as the Phangthangma catalog and is widely understood to be the first time that the translated words of the Victorious One were gathered into a single collection in this Land of Snows.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-97">
+    <prop type="location-id">UT22084-103-004-243</prop>
+    <tuv xml:lang="bo">
+                <seg>གྲངས་དེས་གཞལ་བའི་ཐེམ་བྱང་མ་འཁྲུལ་བར་ཆོས་ཚན་འདི་དང་འདི་ལ་གྲངས་འདི་དང་འདིའོ་ཞེས་བཀོད་པ་དཀར་ཆག་འཕང་ཐང་མར་གྲགས་པ་སྟེ། གངས་ཅན་འདིར་རྒྱལ་བའི་བཀའ་འགྱུར་རོ་ཅོག་ཕྱོགས་གཅིག་ཏུ་བསྒྲིགས་པའི་ཐོག་མ་ནི་འདི་ཡིན་ནོ་ཞེས་ཡོངས་སུ་གྲགས་ལ། དེའི་རྗེས་སུ་ལོ་ཙཱ་བ་དཔལ་བརྩེགས་དང་། འཁོན་ནཱ་གེནྡྲ་རཀྵི་ཏ་སོགས་ཀྱིས་སྟོང་ཐང་ལྡན་དཀར་གྱི་ཕོ་བྲང་ཆེན་པོ་ན་བཞུགས་པའི་གསུང་རབ་ཞུས་ཆེན་མཛད་ཟིན་པ་རྣམས་ཕྱོགས་གཅིག་ཏུ་བསྒྲིགས་ནས་དཀར་ཆག་མཛད་པ་ལ་ལྡན་དཀར་མར་གྲགས་པ་བྱུང་། དེའི་རྗེས་སུ་བཙན་པོ་ཁྲི་ལྡེ་སྲོང་བཙན་རལ་པ་ཅན་གྱི་སྐུ་རིང་ལ་ཕོ་བྲང་འོན་ལྗང་རྡོ་རྒྱ་ཕུབས་དགུ་ཐོག་མར་སྔོན་རྒྱལ་བའི་གསུང་རབ་བསྒྱུར་བ་རྣམས་སྐད་གསར་བཅད་ཀྱིས་གཏན་ལ་ཕབ་པ་དང་གསར་དུའང་མང་པོ་བསྒྱུར་ཏེ་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-243"/>Later, the translators Paltsek, Khön Nāgendra Rakṣita, and others collected those scriptures that had already been officially edited and housed in the great palace of Tongthang Denkar into a single collection, and they made a catalog that became known as the Denkarma. Following that, during the reign of the emperor Tri Desongtsen Ralpachen, in the nine-story palace with a pagoda roof at Önchang Do, the older translations of the Buddha’s words were emended to conform with the new lexical standards, and many scriptures were also newly translated. It states in The Two-Volume Lexicon:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-98">
+    <prop type="location-id">UT22084-103-004-246</prop>
+    <tuv xml:lang="bo">
+                <seg>སྒྲ་སྦྱོར་བམ་གཉིས་སུ།<tei:ref folio="F.107.b"/>ཉི་འོག་གི་མཁན་པོ་ཨཱ་ཙཱརྱ་ཛི་ན་མི་ཏྲ་དང་། སུ་རེནྡྲ་བྷོ་དྷི་དང་། ཤཱི་ལེནྡྲ་བྷོ་དྷི་དང་། དཱ་ན་ཤཱི་ལ་དང་། བོ་དྷི་མི་ཏྲ་དང་། བོད་ཀྱི་མཁན་པོ་རཏྣ་རཀྵི་ཏ་དང་། དྷརྨ་ཏཱ་ཤཱི་ལ་དང་། ལོ་ཙཱ་བ་མཁས་པར་ཆུད་པ་ཛྙཱ་ན་སེ་ན་དང་། ཛ་ཡ་རཀྵི་ཏ་དང་། མཉྩ་ཤྲཱི་ཝརྨ་དང་།རཏྣནྡྲ་ཤཱི་ལ་ལ་སོགས་པས་ཐེག་པ་ཆེ་ཆུང་ལས་བྱུང་བའི་རྒྱ་གར་གྱི་སྐད་ལས་བོད་ཀྱི་སྐད་དུ་བསྒྱུར་ཅིང་མིང་དུ་བཏགས་པ་རྣམས་དཀར་ཆག་ཏུ་བྲིས་ཏེ ནམ་དུ་ཡང་གཞུང་ལུགས་དེ་ལས་མི་བསྒྱུར་ཞིང་ཀུན་གྱིས་བསླབ་ཏུ་རུང་བར་གྱིས་ཤིག་ཅེས་བཀའ་སྩལ་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-246"/>“It was instructed that preceptors from western lands such as Ācārya Jinamitra, Surendrabodhi, Śīlendrabodhi, Dānaśīla, and Bodhimitra; the Tibetan preceptors Ratnarakṣita and Dharmatāśīla; and the skilled translators Jñānasena, Jayarakṣita, Mañjuśrīvarman, Ratnendraśīla, and others write an inventory of the terminologies of the Greater and Lesser Vehicles as translated from Indic languages into Tibetan, and that ‘translations will never deviate from these conventions, which should be made so that they are suitable for everyone to study.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-99">
+    <prop type="location-id">UT22084-103-004-247</prop>
+    <tuv xml:lang="bo">
+                <seg>སྔོན་ལྷ་སྲས་ཡབ་ཀྱི་རིང་ལ། ཨཱ་ཙཱརྱ་བོ་དྷི་ས་ཏྭ་དང་། ཡེ་ཤེས་དབང་པོ་དང་། ཞང་རྒྱལ་ཉེན་ཉ་བཟང་དང་། བློན་ཁྲི་བཞེར་སང་ཤི་དང་། ལོ་ཙཱ་བ་ཛྙཱ་དེ་ཝ་ཀོ་ཥ་དང་། ཅེ་ཁྱི་འབྲུག་དང་། བྲམ་ཟེ་ཨཱ་ནནྡ་ལ་སོགས་པས་ཆོས་ཀྱི་སྐད་བོད་ལ་མ་གྲགས་པ་ལས་མིང་དུ་བཏགས་པའི་དག་ཅིག་མཆིས་པའི་ནང་ནས། ཁ་ཅིག་ཆོས་ཀྱི་གཞུང་དང་། བྱཱ་ཀ་ར་ཎའི་ལུགས་དང་མི་མཐུན་ཏེ། མི་བཅོས་སུ་མི་རུང་བ་རྣམས་ཀྱང་བཅོས། སྐད་ཀྱི་མིང་གཅེས་སོ་འཚལ་གྱིས་ཀྱང་བསྣན་ནས། ཐེག་པ་ཆེ་ཆུང་གི་གཞུང་ལས་ཇི་ལྟར་འབྱུང་བ་དང་།གནའི་མཁན་པོ་ཆེན་པོ་ནཱ་ག་རྫུ་ན་དང་། བ་སུ་བནྡྷུ་ལ་སོགས་པས་ཇི་ལྟར་བཤད་པ་དང་། བྱཱ་ཀ་ར་ཎའི་སྒྲའི་ལུགས་ལས་ཇི་སྐད་དུ་འདྲེན་པ་དང་ཡང་བསྟུན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-247"/>“Prior to this, during the reign of the father of the [present] Divine Son, Ācārya Bodhisattva, Yeshé Wangpo, Shang Gyalnyen Nyasang, the minister Trisher Sangshi, the translator Jñānadevakośa, Che Khyidruk, Brahmin Ānanda, and others, since the Dharma language was unknown in Tibet at that time, had assigned certain terms, some of which did not accord with the Dharma scriptures and some of which did not accord with Sanskrit grammatical conventions. So those terms that required correction have been corrected, and terms of critical importance have been added. These terms have thereby been brought into conformity with the way they appear in the scriptures of the Greater and Lesser Vehicles, the way they are explained by the great scholars of the past such as Nāgārjuna, Vasubandhu, and so forth, as well as the way they are presented in grammatical treatises.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-100">
+    <prop type="location-id">UT22084-103-004-250</prop>
+    <tuv xml:lang="bo">
+                <seg>མཇལ་དཀའ་བ་རྣམས་ཀྱང་ཚིག་སོ་སོར་ཕྲལ་ནས་གཏན་ཚིགས་ཀྱིས་བཤད་དེ་གཞུང་དུ་བྲིས། སྐད་རྐྱང་པ་བཤད་མི་འཚལ་བ་སྒྲ་བཞིན་དུ་བསྒྱུར་བར་རིགས་པ་རྣམས་ཀྱང་སྒྲ་བཙན་པར་བགྱིས་ཏེ་མིང་དུ་བཏགས། སྐད་ཁ་ཅིག་དོན་བཞིན་དུ་གདགས་པར་རིགས་པ་རྣམས་ཀྱང་དོན་བཙན་པར་བགྱིས་ཏེ་ མིང་དུ་བཏགས་ནས་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-250"/>“Difficult terms have been divided into individual parts that have logical explanations and codified as such. Those simple terms that require no explanation and are suitable to be translated literally have been assigned direct correspondences. For other terms, it has been appropriate to assign a correspondence on the basis of meaning.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-101">
+    <prop type="location-id">UT22084-103-004-251</prop>
+    <tuv xml:lang="bo">
+                <seg>བཙན་པོའི་སྤྱན་སྔར་བནྡེ་ཆེན་པོ་ཡོན་ཏན་འོད་དང་།བནྡེ་ཆེན་པོ་ཏིང་ངེ་འཛིན་ལ་སོགས་པ་ཡང་འཚོགས་ཏེ་ རྗེ་བློན་གདན་འཛོམ་པ་ལ་ཞུས་ནས་ དྷརྨ་བསྒྱུར་བའི་ཐབས་དང་། རྒྱ་གར་གྱི་སྐད་ལ་བོད་ཀྱི་སྐད་དུ་མིང་གདགས་པ་རྣམས་གཏན་ལ་ཕབ་སྟེ་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-251"/>“Then, the grand monk Yönten, the grand monk Tingézin, and others gathered before the emperor, and having submitted it to the lord and his assembled ministers, the methodology for translating the Dharma, and the Sanskrit-Tibetan correspondences, were finalized and issued as an official decree.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-102">
+    <prop type="location-id">UT22084-103-004-252</prop>
+    <tuv xml:lang="bo">
+                <seg>བཀས་བཅད་པ། ཞེས་འབྱུང་ཞིང་། དཀར་ཆག་ཆེན་མོ་དེ་དག་མཛད་<tei:ref folio="F.108.a"/>པའི་སྐབས་སུ་གསང་སྔགས་ནང་གི་རྒྱུད་སྡེ་ཟབ་མོ་རྣམས་གསང་ནས་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-252"/>When these great inventories were being prepared, the profound inner tantras of the Secret Mantra were not publicly recorded since they concerned esoteric practices.<tei:milestone xml:id="UT22084-103-004-section-2-2-1"/> On the Creation of the Narthang Kangyur</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-103">
+    <prop type="location-id">UT22084-103-004-253</prop>
+    <tuv xml:lang="bo">
+                <seg>སྤྱོད་པ་ཉིད་ཡིན་པའི་ཕྱིར་ཡོངས་གྲགས་སུ་ཐེམ་བྱང་དུ་མ་བཏབ་བོ། །བསྟན་པ་ཕྱི་དར་གྱི་ཚེ་སྔར་གྱི་རྣམས་ཕལ་ཆེར་ཡོད་པའི་སྟེང་དུ་སྤྲུལ་པའི་ལོ་ཙཱ་བ་ཆེན་པོ་རྣམས་ཀྱིས་མདོ་རྒྱུད་མང་དུ་བསྒྱུར་ཅིང་བསྣན་པར་མཛད་པ་ཡིན་མོད་ཀྱི་རེ་ཞིག་ཕྱོགས་གཅིག་ཏུ་བསྡུས་ནས་ དཀར་ཆག་འདེབས་པ་པོ་མ་བྱུང་ལ། །ཕྱིས་མཁས་པ་བཅོམ་རལ་པའི་སློབ་མ་འཇམ་དགག་པཀྵིས་ཧོར་ཡུལ་ནས་བཀའ་འགྱུར་བཞེངས་པའི་མཐུན་རྐྱེན་གྱི་ཡོ་བྱད་མང་པོ་བསྐུར་བ་ལ་བརྟེན་ནས་ འདུལ་བ་ལུང་གི་མ་ཕྱི་མཆིམས་ཆེན་པོ་ནམ་མཁའ་གྲགས་ཀྱིས་དགེ་བའི་བཤེས་གཉེན་རྒྱ་འདུལ་བ་འཛིན་པ་ཞལ་བཞུགས་པའི་དུས་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-253"/>During the period of the later diffusion of the teachings, the great emanated translators continued to translate many sūtras and tantras, adding to those that were already extant. For some time, however, there was no one to collate them and assemble a catalog. Later on, Jamgak Pakṣi, a student of the scholar Chom Ralpa, sent many of the necessary materials from the land of Hor for the creation of the Kangyur.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-104">
+    <prop type="location-id">UT22084-103-004-255</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་བའི་བཤེས་གཉེན་ཆེན་པོ་འདུལ་བ་འཛིན་པ་ཞིང་མོ་ཆེ་པ་བྱང་ཆུབ་སེང་གེས་གཉེར་མཛད་ནས། ལུང་ཕྲན་ཚེགས་ཀྱི་བམ་པོ་བཅུ་གཉིས་མ་ཚང་བ་དང་། གཞུང་བླ་མའི་ཞུ་བ་མ་རྫོགས་པ་བམ་པོ་བཅུ་གཉིས་དང་། སྡོམ་ཚིག་ཡིག་ཚར་གཉིས་མ་ཚང་བ་རྣམས་བསམ་ཡས་མཆིམས་ཕུ་ལ་སོགས་པ་དབུས་གཙང་གི་གཙུག་ལག་ཁང་རྣམས་ནས་བཙལ་ཏེ། ལ་སྟོད་འོལ་རྒོད་ཀྱི་གཙུག་ལག་ཁང་དུ་གནས་བརྟན་དྷརྨ་སེང་གེས་ལུང་སྡེ་བཞི་ཚང་བར་བཞེངས་པ་སྣར་ཐང་གི་གཙུག་ལག་ཁང་དུ་གདན་དྲངས་ཏེ་དེ་ལ་དཔེ་ཕྱི་མཛད་ནས་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-255"/>The source texts for the Vinaya section were compiled by editing and collating the collection made by Chim Chenpo Namkha Drak and consulting the vinaya scriptures housed in the monasteries of Chumik Ringmo, Runglung Shödrok, and others. Chim Chenpo Namkha Drak had brought to Narthang monastery a complete edition of the four vinaya scriptures produced by the venerable Dharma Sengé at the monastery of Latö Olgö during the lifetime of the vinaya specialist of Gya. Dharma Sengé’s collection was prepared under the supervision of the vinaya specialist Shingmo Chepa Jangchup Sengé, who scoured the many monasteries of Ü and Tsang, such as Samyé Chimphu and so forth, and found incomplete versions of The Finer Points of Discipline in twelve volumes, The Preeminent Account of Discipline in twelve volumes, and two volumes concerning vows.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-105">
+    <prop type="location-id">UT22084-103-004-257</prop>
+    <tuv xml:lang="bo">
+                <seg>བཞེངས་པ་དང་། གཞན་ཡང་ཆུ་མིག་རིང་མོའི་གཙུག་ལག་ཁང་དང་། རུང་ཀླུང་ཤོད་གྲོག་གི་གཙུག་ལག་ཁང་གི་འདུལ་བ་ལུང་ལ་སོགས་པ་རྣམས་ལ་གཏུགས་པ་ཡིན་ཞིང་། མདོ་མང་གི་སྐོར་རྣམས་ཀྱི་མ་ཕྱི་འགྲོ་མགོན་ཆོས་རྒྱལ་འཕགས་པའི་ཐུགས་དམ་རྟེན་ལྷ་མིའི་རྒྱན་མཆོག་ཏུ་གྲགས་པ་དང་། གཙང་ཆུ་མིག་རིང་མོའི་གཙུག་ལག་ཁང་གི་མདོ་མང་རྣམས་ཀྱི་ནང་ནས་མཆོག་ཏུ་གྱུར་པ་དགེ་བའི་བཤེས་གཉེན་འདར་ཕྱར་གྱིས་བཞེངས་པའི་མདོ་མང་འདར་ཕྱིར་མ་ཞེས་གྲགས་པ་དང་། འབྲང་མཚམས་ཕུག་ཆུང་མ་ཞེས་གྲགས་པ་དང་། དགའ་འབར་མ་ཞེས་གྲགས་པ་དང་། དཔལ་སྣར་ཐང་གི་གཙུག་ལག་ཁང་གི་མདོ་<tei:ref folio="F.108.b"/>མང་རྣམས་ཀྱི་མཆོག་ཏུ་གྱུར་པ་མཁན་པོ་ཆེན་པོ་མཆིམས་ཀྱི་ཐུགས་དམ་མདོ་མང་གསེར་གཞུང་མ་དང་། ཕྱུག་རྒྱལ་མ་དང་། དགོན་གསར་མ་ལ་སོགས་པ་རྣམས་དང་། གཞན་ཡང་བླ་མ་གྲུ་སྤང་རྩ་བའི་ཐུགས་དམ་མདོ་མང་འཛམ་གླིང་རྒྱན་དང་། ཤོག་ཆུང་གི་གཙུག་ལག་ཁང་གི་མདོ་མང་དྲུག་ཅུ་རྩ་གཉིས་དུ་མ་དང་། སྤུན་གསུམ་གྱི་གཙུག་ལག་ཁང་གི་མདོ་མང་དང་། ཞ་ལུ་གསེར་ཁང་གི་གཙུག་ལག་ཁང་གི་མདོ་མང་གཞི་མ་དང་། སྨོན་ད་རྡོ་ཞེས་གྲགས་པ་ལ་སོགས་པ་མདོ་སྣ་མང་ཞིང་གོ་རིམ་ལེགས་པ་རྣམས་དང་བསྟུན་པ་དང་། ཤེར་ཕྱོགས་འབུམ་ལ། བཙན་པོ་ཁྲི་སྲོང་ལྡེའུ་བཙན་གྱི་སྐུ་རིང་ལ་རེག་ཟིག་སྔོ་དམར་སོགས་འབུམ་ཚར་དྲུག་ཙམ་ཡོད་པར་གྲགས་ཤིང་། དེ་ལས་མཆེད་པའི་ཁྲི་ལྡེ་སྲོང་བཙན་གྱི་དུས་སུ་བཞེངས་པའི་བླ་འབུམ་ཆེན་མོ་ཁྲི་གཙུག་གི་བླ་འབུམ་སྐྱ་བོ། མཇིང་ཡོན་གྱི་སྦུག་འབུམ། གཙང་མིའི་བྱེ་འབུམ། རལ་པ་ཅན་གྱི་དྲུག་འབུམ། གནམ་སྡེ་ལྷའི་ཞལ་དམར་ཅན། དར་མའི་ཤོག་སེར་ཅན་སོགས་དང་། འབངས་ཀྱིས་བཞེངས་པའི་འབུམ་ཚར་བཅུ་དགུ་སོགས་དང་། དེ་དག་རྣམས་ལས་མཆེད་པ་ཤིན་ཏུ་མང་བར་བཞུགས་པའི་རྒྱུན་ལས་བར་སྐབས་སུ་མ་ཉམས་མ་བསླད་པའི་ཕྱི་མོ་རྣམས་ལ་དབུས་པ་བློ་གསལ་དང་། ལོ་ཙཱ་བ་བསོད་ནམས་འོད་ཟེར་དང་། རྒྱང་རོ་བྱང་ཆུབ་འབུམ་སོགས་མཁས་པ་མང་པོས་སྒོ་བསྟུན་ཏེ་དག་པར་གཏན་ལ་ཕབ་པ་དང་།གསང་སྔགས་རྒྱུད་འབུམ་གྱི་མ་ཕྱིའང་བླ་མ་རྗེ་བཙུན་ཆེན་པོ་གྲགས་པ་རྒྱལ་མཚན་གྱི་ཞལ་སྔ་ནས་དང་། བླ་མ་ཆེན་པོ་ཆོས་ཀྱི་རྒྱལ་པོས་མཛད་པའི་རྒྱུད་ཀྱི་དཀར་ཆག་དང་། སློབ་དཔོན་ཆེན་པོ་རིག་པའི་རལ་གྲིས་མཛད་པའི་རྒྱུད་ཀྱི་དཀར་ཆག་རྒྱུད་འབུམ་རྒྱན་གྱི་མེ་ཏོག་སོགས་ལ་བརྟེན་ནས་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-257"/>The source texts for the Sūtra section were compiled by comparing a large number of well-organized sūtra collections, including the personal practice support of Drogön Chögyal Phakpa, known as The Supreme Ornament of Gods and Men; the finest among the sūtra collections housed at Chumik Ringmo monastery in Tsang, such as the collections compiled by Geshé Darchar known as The Sūtra Collection of Darchar, The Drang Tsamphuk Chungma Collection, and The Blazing Joy Collection; the finest among the sūtras housed at glorious Narthang monastery, such as the practice support of Khenchen Chim, The Golden Scripture Sūtra Collection, as well as The Riches of the Victor Collection, The New Monastery Collection, and others; the practice support of Lama Drupang Tsawa called The Sūtra Collection to Adorn the World; The Sūtra Collection in Sixty-Two Parts from Shokchung temple; the sūtra collection of Pünsum temple; the sūtra collections of the golden chapel of Zhalu known as The Essential Sūtra Collection and The Mönda Dho Collection; and others. <tei:milestone xml:id="UT22084-103-004-258"/>As for The Perfection of Wisdom in One Hundred Thousand Lines, it is said that there were some six versions, which include The Red Manuscript and The Blue Manuscript at the time of Tri Songdetsen, and among others evolving from them The Long Imperial Hundred Thousand during the reign of Tri Desongtsen, Tri Detsuk’s Monochrome Imperial Hundred Thousand, Jingyön’s Innermost Hundred Thousand, Tsangma’s Demarcated Hundred Thousand,Ralpachen’s Six Volume Hundred Thousand, Prince Namdé’s Red-Faced Version, and Darma’s Yellow-Paper Version, as well as nineteen versions of the Hundred Thousand Lines produced by the king’s subjects. A great many collections descended from those without being degraded or corrupted in the intervening years. These source texts were compared and proofread by many scholars such as Üpa Losal, Lotsawa Sönam Öser, Gyangro Jangchup Bum, and others.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-106">
+    <prop type="location-id">UT22084-103-004-260</prop>
+    <tuv xml:lang="bo">
+                <seg>གདན་ས་ཆེན་པོ་དཔལ་ས་སྐྱའི་རྒྱུད་འབུམ་དང་། ཤཱཀྱའི་དགེ་སློང་རྡོ་རྗེ་འཛིན་པ་ཆེན་པོ་གསེར་སྡིངས་པས་ཞུས་དག་གོ་རིམ་མཛད་ནས དགེ་བའི་བཤེས་གཉེན་སྐྱེ་མེད་སྟོན་ཤེས་བཞེངས་པའི་རྒྱུད་འབུམ་དང་། དཔལ་<tei:ref folio="F.109.a"/>ཐར་པ་གླིང་གི་གཙུག་ལག་ཁང་གི་དགེ་བཤེས་འདར་ཕྱར་གྱིས་བཞེངས་པའི་རྒྱུད་འབུམ་དང་། བླ་མ་གྲུ་སྤང་རྩ་བའི་ཕྱག་དཔེ་དང་། འོད་དགའ་སྤུན་གསུམ་གྱི་གཙུག་ལག་ཁང་གི་རྒྱུད་འབུམ་ལ་སོགས་པ། རྒྱུད་ཡང་དག་པ་གྲངས་མང་ཞིང་། གོ་རིམ་ལེགས་ལ་དག་པ་རྣམས་ཡིན་ཞིང་། གཞན་ཡང་དེར་མ་འདུས་པའི་ཕྱི་མོ་རྣམས་ཀྱང་ཁུངས་བཟང་ཞིང་། དཔྱད་པ་གསུམ་གྱིས་གཏན་ལ་ཕབ་པ་ཁོ་ན་ལ་དཔེར་མཛད་དེ</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-260"/>The source texts for the Tantra section were numerous genuine, well-arranged, well-edited tantra collections of the Secret Mantra. These included the tantra collection of the great monastery of glorious Sakya, itself based on the tantra catalog composed by the great master Chökyi Gyalpo under the supervision of the great master Jetsun Drakpa Gyaltsen, as well as the tantra catalog composed by the master scholar Rikpai Raldri, The Flower Adorning the Collection of Tantras, and others. Additionally, the Narthang Kangyur tantra collection was based on the tantra collection edited, corrected, and arranged by the great vajradhara, monk of the Śākyas Serdingpa, which was later published by Geshé Kyemé Tönshé; the tantra collection of glorious Tharpa Ling temple that was published by Geshé Darchar; Lama Drupang Tsawa’s handwritten manuscripts; the tantra collection housed at Öga Pünsum temple, and others.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-107">
+    <prop type="location-id">UT22084-103-004-261</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་སྣར་ཐང་གི་གཙུག་ལག་ཁང་ཆེན་པོར། ཤཱཀྱའི་དགེ་སློང་འཇམ་པའི་དབྱངས་ཀྱིས་བཞེངས་ནས་དཀར་ཆག་ཏུ་བཏབ་པ་སྣར་ཐང་བཀའ་འགྱུར་དུ་གྲགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-261"/>Additionally, source texts not mentioned above that were of excellent provenance and had been analyzed using the three kinds of reasoning were compared. In this way, at the great temple of glorious Narthang, the catalog produced by the monk of the Śākyas Jampaiyang came to be known as the Narthang Kangyur.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-108">
+    <prop type="location-id">UT22084-103-004-261</prop>
+    <tuv xml:lang="bo">
+                <seg>གཙོ་བོར་དེ་ཉིད་ལ་མ་ཕྱི་བྱས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-section-2-2-2"/>On the Creation of the Tshalpa Kangyur</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-109">
+    <prop type="location-id">UT22084-103-004-262</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚལ་པ་སི་ཏུ་དགེ་བའི་བློ་གྲོས་ཀྱིས་ཚལ་གུང་ཐང་གི་གཙུག་ལག་ཁང་དུ་བཞེངས་པ་ཚལ་པ་བཀའ་འགྱུར་དུ་གྲགས་ཤིང་། །དེ་ཉིད་ལ་གཞོན་ཚུལ་ཤཱཀྱ་རྒྱལ་མཚན་དང་། ཀརྨ་པ་ཆོས་གྲགས་རྒྱ་མཚོ་དང་། ཀུན་མཁྱེན་མི་བསྐྱོད་རྡོ་རྗེ་དང་། ཞྭ་དམར་སྤྱན་སྔ་ཆོས་ཀྱི་གྲགས་པ་དང་། འགོས་ལོ་གཞོན་ནུ་དཔལ་སོགས་མཁས་པ་མང་པོས་ལེགས་པར་བརྟགས་ཤིང་དཔྱད་ནས ཞུས་དག་མཛད་ཅིང་མཚན་བུ་བཏབ་པ་སོགས་བོད་ཡུལ་དུ་འགྲན་ཟླ་ཐམས་ཅད་དང་བྲལ་བའི་ཁུངས་ཐུབ་ཀྱི་ཕྱི་མོ་དམ་པར་གྱུར་ཏེ་ འཕྱིང་པ་སྟག་རྩེའི་ཕོ་བྲང་དུ་བཞུགས་པ། ཕྱིས་འཇང་ཡུལ་གྱི་རྒྱལ་པོ་ཀརྨ་མི་ཕམ་བསོད་ནམས་རབ་བརྟན་གྱིས་བསོད་ནམས་ཀྱི་ལས་ཤུགས་ཆེན་པོས་སྤྱན་དྲངས་ཏེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-262"/>Using the Narthang Kangyur as the primary source text, Tshalpa Situ Gewé Lodrö produced at the Tsal Gungthang temple the collection that would come to be known as the Tshalpa Kangyur. Many scholars such as the Shöntsul Śākya Gyaltsen, Karmapa Chödrak Gyatso, the omniscient Mikyö Dorjé, Shamar Chenga Chökyi Drakpa, Gölo Shönu Pal, and others thoroughly scrutinized and examined this collection, made corrections, and added annotations. This collection thus became the supremely authoritative master copy of the Kangyur, surpassing all others in the land of Tibet. It is stored at Taktsé Palace in Chingwa.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-110">
+    <prop type="location-id">UT22084-103-004-262</prop>
+    <tuv xml:lang="bo">
+                <seg>གཙོ་བོར་མ་ཕྱི་དེ་ཉིད་དང་། རྒྱུད་ཀྱི་སྐོར་སྟག་ལུང་རྒྱུད་འབུམ་དང་ཡང་སྒོ་བསྟུན་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-section-2-2-3"/>On the Creation of the Lithang Kangyur</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-111">
+    <prop type="location-id">UT22084-103-004-263</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐམས་ཅད་མཁྱེན་པ་ཞྭ་དམར་དྲུག་པས་ཀྱང་ལྗགས་ཞུས་མཛད་དེ་པར་དུ་བསྒྲུབས་པ། དུས་དབང་གིས་ད་ལྟ་ལི་ཐང་བྱམས་ཆེན་རྣམ་པར་རྒྱལ་བའི་ཆོས་སྡེར་བཞུགས་པ་འདིའི་པར་མ་གཞིར་བཞག་ཅིང་། དེའི་སྟེང་དུ་ཨ་གཉེན་པཀྵིའི་ཐུགས་དམ་རྟེན་གྱི་བཀའ་འགྱུར་ཤིན་ཏུ་དག་པ་དང་། གཞན་<tei:ref folio="F.109.b"/>ཡང་དཔེ་རྒྱུན་རྙིང་མ་ཁུངས་བཙུན་འགའ་ཞིག་གོ་བསྡུར་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-263"/>Later, through the power of past meritorious deeds, the king of Jang, Karma Mipham Sönam Rapten, sent for the Tshalpa Kangyur and used it as the primary source text for the printing of a new edition. In particular, the tantra section for this edition was edited by the omniscient sixth Shamar, who compared it against the tantra collection from Taklung. Over time, it came to be housed at the monastic complex of Lithang Jamchen Nampar Gyalwa, and this [Degé Kangyur] is based on it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-112">
+    <prop type="location-id">UT22084-103-004-263</prop>
+    <tuv xml:lang="bo">
+                <seg>མཁས་བཙུན་དམ་པ་བཀྲ་ཤིས་དབང་ཕྱུག་གིས་ཚིག་ཟུར་ཕྲ་མོའི་སྣོན་འབྲིད་ཁ་ཤས་མཛད་པ་དང་། ཡང་རྒྱལ་རྩེ་ཆོས་རྒྱལ་གྱིས་སྣར་ཐང་བཀའ་འགྱུར་ལ་མ་ཕྱི་བྱས་ཏེ་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-section-2-2-4"/>On the Other Editions Used for the Degé Kangyur</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-113">
+    <prop type="location-id">UT22084-103-004-265</prop>
+    <tuv xml:lang="bo">
+                <seg>བཞེངས་པའི་ཚེ། སྙིགས་དུས་ཀྱི་ཐམས་ཅད་མཁྱེན་པ་བུ་སྟོན་རིན་པོ་ཆེས། །དཔྱད་པ་གསུམ་གྱིས་གཏན་ལ་ཕབ་ཅིང་ཞུས་དག་མཛད་ནས་ དཀར་ཆག་ཀྱང་བསྒྲིགས། དེ་ལ་མ་ཕྱི་བྱས་པའི་རྒྱུན་ལས། འཕགས་མཆོག་འཇིག་རྟེན་དབང་ཕྱུག་མིའི་ཟོལ་འཛིན་ངག་དབང་བློ་བཟང་རྒྱ་མཚོའི་ཞལ་སྔ་ནས་དཀའ་སྩལ་པ་བཞིན། སའི་ཚངས་པ་བསོད་ནམས་རབ་བརྟན་གྱིས། དཔལ་ཐང་པོ་ཆེའི་གཙུག་ལག་ཁང་དུ་བཞེངས་པའི་བཀའ་འགྱུར་སྐྱ་པོད་ཤིན་ཏུ་དངོས་གཙང་བ། བོད་ཆེན་ལྗོངས་ཀྱི་སྐྱེ་དགུ་རྣམས་བསོད་ནམས་མངོན་པར་འཕེལ་བའི་སླད་དང་། ཕྱི་མོ་ཕུན་སུམ་ཚོགས་པས་གསུང་རབ་རྣམས་ལ་ལོག་པར་བརྟགས་པའི་རྙོག་མ་བགྲུང་བར་བགྱིད་པའི་སླད་དུ་མདོ་སྟོད་ལྷོ་རྫོང་གི་ཕོ་བྲང་དུ་བཞུགས་སུ་བཅུག་པ་སྤྱན་དྲངས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-265"/>Additionally, [for the production of this Kangyur,] a number of other editions were sought, such as the authentic Kangyur that was the personal practice support of Anyen Pakṣi, a Kangyur with minor corrections of addition and elision made by the eminent cleric Tashi Wangchuk, who had consulted several old recensions of reliable provenance, and the Lhodzong Kangyur. The Lhodzong Kangyur is a member of the lineage that descends from the Kangyur produced by the Dharma Kings of Gyantsé, who, when using the Narthang Kangyur as their primary basis, consulted the catalog produced by the omniscient one of these degenerate times, Butön Rinpoché. In making his catalog, Butön Rinpoché had reviewed [the Narthang Kangyur] and made corrections using the three kinds of reasoning. Later, the exalted world protector, knower of human deception, Ngawang Lobsang Gyatso instructed the earthly Brahmā, Sönam Rapten, to produce an extremely accurate copy of that [Thempangma] Kangyur at glorious Thangpoché monastery, and have it sent to Lhodzong palace in Dotö. This was done to spread merit to all the beings throughout Greater Tibet and to remove the stains of mistaken judgements present in earlier versions of the scriptures.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-114">
+    <prop type="location-id">UT22084-103-004-267</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དང་ཡང་སྒོ་བསྟུན་ནས་རིག་པར་སྨྲ་བའི་བློ་གསལ་དུ་མས་འབད་པ་ཆེན་པོས་མི་བཅོས་སུ་མི་རུང་བ་འགའ་ཞིག་བཅོས་ཏེ་དག་པར་བགྱིས་པའི་ཐོག ། ཁོ་བོ་ལའང་མིའི་དབང་པོའི་བཀའ་ནན་གསེར་སྦྲམ་ལྟར་ལྕི་བ་སྩལ་བས། ཐུན་མོང་ལྕགས་ཁྱི་ལོ། དབོ་ཟླ་བའི་དཀར་ཕྱོགས་ཀྱི་རྒྱལ་བ་དང་པོའི་ཚེས་ནས་བརྩམས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-267"/>Once the editions mentioned above had been compared to each other, a group of learned scholars began the process of editing, by diligently making corrections in the few instances that required correction. Then, the Lord of Men issued me a firm command, as weighty as a bar of gold, and beginning on the third day of the month of Uttaraphalgunī in the year of Sādhāraṇa, the iron dog year (1730), I took up the responsibility of editing [this Kangyur edition].</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-115">
+    <prop type="location-id">UT22084-103-004-268</prop>
+    <tuv xml:lang="bo">
+                <seg>སླར་ཡང་ཞུས་དག་གི་ཁུར་བླངས་པ་ཡིན་ནོ། ། དེའང་སྤྱིར་འཇིང་པར་གྱི་བཀའ་འགྱུར་འདི་ཉིད། དམ་པ་མང་པོའི་དཔྱད་པ་ཐེམས་པ་གོང་སྨོས་ལྟར་གྱིས་གཞི་ཤིན་ཏུ་དག་པར་འདུག་ན འང་། པར་དུ་འཁོད་སྐབས་ཐམས་ཅད་མཁྱེན་པ་ཆོས་ཀྱི་དབང་ཕྱུག་གིས་ཐར་ཆགས་སུ་ལྗགས་ཞུས་མ་གྲུབ་པ་དང་། །ཆོས་གཟབས་ཆེས་པས། དོ་དམ་པ་རྣམས་ཀྱི་དཔྱོད་པས་མ་ཁྱབ་པའི་ཤོག་བུ་གོང་འོག་འཁྲུགས་པ་དང་། ཆད་ལྷག་ཕྲན་བུ་སོགས་ཀྱི་སྐྱོན་ཅུང་ཟད་སྣང་བ། ལྷོ་རྫོང་<tei:ref folio="F.110.a"/>བཀའ་འགྱུར་ལ་བརྟེན་ནས་ དག་པར་བཅོས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-268"/>The Jang print of the Kangyur had been analyzed by many sublime beings as described above, so it is generally an extremely accurate base text. When it was put into print, however, the omniscient Chökyi Wangchuk had not finished proofreading the collection in its entirety. Furthermore, since the Dharma must be approached with extreme care and the previous managers’ inspections were not comprehensive, minor mistakes such as misordered pages, elision, and insertion became apparent. These were all corrected on the basis of the Lhodzong Kangyur. We included some authentic sūtras and tantras that were not present in the Jang edition but could be found in the Lhodzong and other Kangyur editions. Some obvious omissions in The Finer Points of Discipline and other texts were amended according to the Thempangma after taking into account their respective commentaries.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-116">
+    <prop type="location-id">UT22084-103-004-270</prop>
+    <tuv xml:lang="bo">
+                <seg>དེར་མི་བཞུགས་པའི་མདོ་རྒྱུད་ཚད་ལྡན་འགའ་ཞིག་ལྷོ་རྫོང་བཀའ་འགྱུར་དང་གཞན་ལས་རྙེད་པའང་བསབས། འདུལ་བ་ཕྲན་ཚེགས་སོགས་ལ་ཆད་ངེས་པ་འགའ་ཞིག་འགྲེལ་པ་དང་བསྟུན་ནས་ཐེམ་སྤང་མ་བཞིན་བཅུག ། ཁྱད་པར་སྔགས་ཀྱི་སྐོར་ལ། ངན་སོང་སྦྱོང་རྒྱུད་བརྟག་པ་ཕྱོགས་གཅིག་པ་དང་། གསང་བ་འདུས་པ་དང་། དཔལ་གཏུམ་པོ་ཁྲོ་བོའི་རྒྱུད་དང་། ཀྱེ་རྡོར་བརྟག་གཉིས་དང་། བདེ་མཆོག་ཉུང་ངུ་དང་། བདེ་མཆོག་སྡོམ་འབྱུང་རྣམས་རྒྱ་དཔེའི་སྟེང་ནས་ཞུས་དག་བྱས་ཤིང་། རྒྱ་དཔེའི་ཁུངས་མི་གཅིག་པའི་ཚིག་ཁྱད་བྱུང་བ་རྣམས་སོ་སོའི་རྒྱ་འགྲེལ་ལ་ལེགས་པར་བརྟགས་ནས་ གཏན་ལ་ཕབ། གཞན་རྒྱ་འགྲེལ་ཡོད་རིགས་ཕལ་ཆེར་ལ་ཐེ་ཚོམ་གང་བྱུང་དུ་འགྲེལ་པ་ཉིད་ཀྱིས་བཅོས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-270"/>Particular to the Mantra section, we edited One Presentation of the Rites of Sarvadurgatipariśodhanatejorāja, the Guhyasamāja, the Caṇḍamahāroṣaṇa Tantra, The Hevajra Tantra in Two Parts, The Smaller Śaṃvara, and The Tantra of the Arising of Śaṃvara against their Indic manuscripts. In cases where there were disagreements between the Indic manuscripts, a decision was made by consulting their respective Indic commentaries. Moreover, for the majority of texts that had an Indic commentary available, any questions that arose were resolved by consulting that commentary.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-117">
+    <prop type="location-id">UT22084-103-004-272</prop>
+    <tuv xml:lang="bo">
+                <seg>གསང་སྔགས་རྣམས་ཀྱང་སྔགས་བཏུ་ཡོད་པའི་རིགས་ལ་དེ་ཉིད་དང་བསྟུན། མེད་པ་རྣམས་ལའང་མཐའ་གཅིག་ཏུ་སཾ་སྐྲྀ་ཏའི་སྐད་དུ་ངོས་བཟུང་བྱར་མི་བཏུབ་པ་འགྲོ་ལྡིང་བའི་སྐད་དང་། པི་ཤཱ་ཙིའི་སྐད་དང་། ཟུར་ཆག་དང་། གསང་བའི་བརྡའི་སྐད་ལ་སོགས་པ་ཅན་རྣམས་ནི་དཔེ་མཐུན་ཤས་ཆེ་བ་གཙོ་བོར་བཟུང་། ལེགས་སྦྱར་དངོས་ཡིན་པ་རྣམས་ལའང་སྒྲའི་གཞུང་རྣམས་དང་བསྟུན་པར་རང་ཉིད་ཀྱི་བློས་དཔོག་པ་རྣམས་དེ་བཞིན་དུ་བགྱིས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-272"/>For the secret mantras, those that could be found in mantra compendiums were brought into accordance with that. For those mantras that were not included in those compendiums, when they were in a language we could not definitively identify as Sanskrit, then we used whichever version was most common, whether it was in a language such as Drāviḍa, Paiśāca, Apabhraṃśa, secret symbolic language, or others. The mantras that were actually written in Sanskrit were brought into accordance with grammar treatises through our own understanding. Those that we could not discern were left as they were.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-118">
+    <prop type="location-id">UT22084-103-004-272</prop>
+    <tuv xml:lang="bo">
+                <seg>བློས་མི་དཔོག་པ་རྣམས་རང་སོར་བཞག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-section-2-2-5"/>On the Editing of Orthography</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-119">
+    <prop type="location-id">UT22084-103-004-273</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡིག་སྡེབ་ཀྱི་སྦྱོར་བའང་སྔོན་གྱི་དཔེ་རྒྱུན་རྣམས་སུ་འདྲ་མིན་མང་དུ་བྱུང་བ།དེའང་དང་པོ་ཐུ་མི་སཾ་བྷོ་ཊས་བོད་ཀྱི་སྐད་ལ་ཉེ་བར་མཁོ་བའི་སྒྲའི་བསྟན་བཅོས་བརྒྱད་མཛད་པར་གྲགས་པ། ཕྱི་དར་གྱི་དུས་སུ་སུམ་རྟགས་གཉིས་ལས་གཞན་མི་བཞུགས་ཤིང་། ཕྱིས་ཀྱི་མཁས་པ་དག་གིས་གཞུང་དེ་<tei:ref folio="F.110.b"/>གཉིས་རང་ལ་བརྟེན་པ་དང་། ཡིག་རྙིང་རྣམས་དང་ཡང་སྒོ་བསྟུན་ནས་བརྡ་དག་གི་བསྟན་བཅོས་རྣམས་བརྩམས་པ་ཡིན་མོད། འོན་ཀྱང་རྩ་བར་ཡན་ལག་མ་ཚང་བའི་རྒྱུས་དོན་འགའ་ཞིག་མི་གསལ་བ་དང་། མ་རྫོགས་པ་རྣམས་ལ་རང་སྟོབས་ཀྱིས་དཔྱད་པའི་ཚུལ་མི་མཚུངས་པ་སྣ་ཚོགས་བྱུང་བའི་རྒྱུ་མཚན་གྱིས་ཡིན་པས། འདིར་ཡང་མཐའ་གཅིག་ཏུ་ངེས་པ་མ་བྱས་པར། འདུལ་མདོ་རྒྱུད་གསུམ་སོ་སོར་སྡེབ་སྦྱོར་གྱི་སྲོལ་མཚུངས་པར་བྱས། ནང་གསེས་སུ་སྡེབ་སྦྱོར་ཅུང་མི་འདྲ་བ་ཕྱོགས་གང་བྱས་ཀྱང་སྐྱོན་དུ་མི་འགྱུར་སྙམ་པ་རྣམས་འདྲ་མིན་དེ་ ཀ་སོར་བཞག་ལས། གཅིག་འགྲོས་ཁོ་ན་ མ་བྱས་ཤིང་། མ་མྱ་དང་ས་སྩོགས་དང་རལ་གྲི་ལ་རལ་གྱི་སོགས། ཡུལ་སྐད་ལ་ཤོར་བར་གྲགས་པ་རྣམས་མཁས་པ་དག་གིས་ཀྱང་མི་བཞེད་པས་དོར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-273"/>In the textual traditions of the past, there have been many dissimilar styles of orthography. It is said that Thönmi Sambhoṭa initially composed eight grammar treatises fundamental to the Tibetan language, yet during the later spread of Buddhism in Tibet only The Thirty Verses and The Application of Gender Signs remained. Later scholars composed spelling treatises on the basis of those two texts and by consulting the ancient texts, but since they only had access to a trunk bare of its branches, certain topics were unclear or incomplete and they were not agreed upon in a definitive way. Instead, there were a variety of conflicting styles based on each scholar’s subjective reasoning. Within the Vinaya, Sūtra, and Tantra sections their own similar orthographic conventions were employed, but in their subsections there were also slight differences in orthography. Those variations that were deemed not to be erroneous were left as they stood. Thus, there was no attempt to create a singular uniform style. We eliminated any lapses into well-known dialects such as using mya for ma, stsogs for sa, and ral gyi for ral tri, and so on, because these are not accepted by scholars. Even though the da-drag post-suffix was part of the system of The Thirty Verses and The Application of Gender Signs, later scholars such as Loden Sherab treated it as if it were assumed [and omitted it], in order to simplify the language.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-120">
+    <prop type="location-id">UT22084-103-004-275</prop>
+    <tuv xml:lang="bo">
+                <seg>ད་དྲག་ནི་སུམ་རྟགས་ཀྱི་དགོངས་པར་འབྱོར་མོད་ཀྱི་ཕྱིས་བློ་ལྡན་ཤེས་རབ་སོགས་ཀྱིས་ཡི་གེ་ཟོར་ཡང་བའི་ཆེད་དུ་བསྡུས་པ་བཞིན་དུ་བྱས་ཏེ། དབུའི་རྒྱ་སྐད་རྣམས་ལེགས་སྦྱར་ཁོ་ན་ལྟར་བཅོས་པ་དང་། གཞི་ཟུར་ཆག་ཅན་འགའ་ཞིག་རང་མལ་དུ་བཞག ། ཡུལ་དང་མེ་ཏོག་དང་སྲོག་ཆགས་ལ་སོགས་པའི་མིང་ལེགས་སྦྱར་དུ་ཡོད་པ་རྣམས་དང་། མདོ་ཕྱོགས་ལ་སྔོན་གྱི་ལོ་ཙཱ་བ་དག་གིས་བོད་ཀྱིས་ཇི་བཞིན་ཀློག་བདེ་བའི་ཁྱད་ཀྱིས། གོ་ཏ་མ་ལ་འགོའུ་ཏ་མ་སོགས་བྲིས་པ་ལྟ་བུ་དང་། ལེགས་སྦྱར་ཉིད་དང་མཐུན་པ་སོགས་ཅི་རིགས་པར་སྣང་བས་དེ་ག་ལྟར་སོར་བཞག་ལ། མི་བཅོས་སུ་མི་རུང་བ་འགའ་ཞིག་བཅོས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-275"/>The central Indic languages were all emended to accord exclusively with Sanskrit, while a few texts with Apabhraṃśa as their basis were left alone. When the names of places, flowers, and animals were given in Sanskrit, in some sūtras, the translators of the past had rendered Sanskrit words for ease of reading by Tibetans, for example writing go’u ta ma for Gautama, and so on. Elsewhere words were spelled precisely according to the Sanskrit. These were all left just as they appeared, though a few instances that could not be left uncorrected were corrected. In the tantric collections, that which could be analyzed was brought into conformity with Sanskrit.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-121">
+    <prop type="location-id">UT22084-103-004-276</prop>
+    <tuv xml:lang="bo">
+                <seg>སྔགས་སྐོར་རྣམས་ལ་དཔྱད་བཟོད་པ་དག་ལེགས་སྦྱར་ཉིད་དང་སྒོ་བསྟུན་ནས་བཅོས་པ་སོགས་མདོར་ན། བཀས་བཅད་བྱེ་བྲག་ཏུ་རྟོགས་བྱེད་ཆེན་མོ་དང་། སྒྲ་སྦྱོར་<tei:ref folio="F.111.a"/>བམ་པོ་གཉིས་པ་དང་། ཐོན་མིའི་སུམ་རྟགས་དང་། སྨྲ་སྒོ་རྩ་འགྲེལ་དང་། གཞན་ཡང་མཁས་པ་དག་གིས་བརྩམས་པའི་བརྡ་ལེགས་པར་སྦྱོར་བའི་བསྟན་བཅོས་རྣམས་དང་བསྟུན་ཏེ། སྔོན་རྗེས་ཀྱི་འཇུག་པ་གཉིས། དེ་དགོས་པ་ཅིའི་ཕྱིར་ཚུལ་ཇི་ལྟར་འཇུག་པ། དེ་སོ་སོའི་རྟགས་ཀྱི་དབྱེ་བ་དང་དུས་གསུམ་གྱི་སྒྲུབ་པ་ཐ་དད་པ། དེ་ལའང་སྤྱིར་བཏང་དམིགས་བསལ། ཚིག་ཕྱི་མ་དང་སྦྲེལ་བའི་མཚམས་སྦྱོར། རྣམ་དབྱེ་དང་ཚིག་ཕྲད་ལ་སོགས་པ་ཚུལ་ཇི་ལྟ་བ་བཞིན་དུ་བགྱིས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-276"/>In brief, the Degé Kangyur was edited in accordance with texts such as the Mahāvyutpatti, The Two-Volume Lexicon, Thönmi’s Thirty Verses and The Application of Gender Signs, The Weapon-Like Gateway to Speech, and other treatises on Sanskrit grammar composed by learned scholars. The [Tibetan] prefixes and suffixes were applied according to their function and the rules for their application. Criteria such the respective gender signs, the three tenses, transitivity, the general rules and their exceptions, the euphonic connection between phonemes, case declensions and their particles, and so forth were all employed just as they are prescribed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-122">
+    <prop type="location-id">UT22084-103-004-277</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁོ་བོས་ངག་བཀོད་བྱས་པ་བཞིན་དུ་བློ་གསལ་གཞན་དག་གིས་ལན་མང་དུ་བསྒྲགས་ནས་ཞུས་དག་ལེགས་པར་བགྱིས་ཤིང་། དོགས་གནས་ཆེ་བ་རྣམས་དཔྱིས་ཕྱིན་པར་རང་ཉིད་ཀྱིས་གཏན་ལ་ཕབ་སྟེ གསུང་རབ་བཞུགས་ཚོགས་ཆེས་པ་དང་། ཞུས་དག་མཁན་པོ་བློ་གྲོས་དམན་པས་ཕྱེ་མ་ལེབ་ཀྱིས་ནམ་མཁའི་མཐའ་ཉུལ་བ་ལྟ་བུར་གྱུར་པའི་ཕྱིར་མ་རྟོགས་པ་དང་། ལོག་པར་རྟོག་པ་གཏན་མེད་དོ་ཞེས་སྨྲ་བར་མི་ནུས་ཀྱང་། སྔོན་ཙཱི་ནའི་ཡུལ་དུ་གོང་མ་ཏཱ་མིན་གཡུང་ལོ་ཆེན་པོས་བཀའ་འགྱུར་རོ་ཅོག་གི་པར་བཞེངས་པ་དང་། འདི་ཉིད་ཀྱི་མ་ཕྱི་ས་ཐམ་རྒྱལ་པོས་བཞེངས་པ་འདི་སོགས་ལས་ཁྱད་པར་དུ་འཕགས་ཤིང་དཔྱོད་ལྡན་གྱིས་ཡིད་རྟོན་པའི་གནས་སུ་འོས་པར་སེམས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-277"/>At this point, a number of intelligent people read the texts aloud many times as I had edited and arranged them, and they made some excellent corrections while I resolved any major questions myself. Because this scriptural collection is exceedingly large and the chief editor is of inferior intellect, like a butterfly trying to fly to the end of the sky, I am unable to say that this [Kangyur] is entirely free from misunderstandings or mistakes. Nevertheless, I do believe that it is superior in comparison to earlier editions, such as that printed in the land of China under the auspices of the great Ming emperor Yongle, and that produced by the King of Satham, which formed the basis for this, and others. Indeed, it should be considered trustworthy by discerning individuals.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-123">
+    <prop type="location-id">UT22084-103-004-277</prop>
+    <tuv xml:lang="bo">
+                <seg>གསུམ་པ་བཞེངས་ཚུལ་དངོས་ནི་པར་ཡིག་འབྲི་བའི་ཡོ་བྱད་ཀྱི་ཤོག་བུ་དང་སྣག་ཚ་ལ་སོགས་པ་དང་། པར་གཞིའི་ཤིང་རྣམས་དང་བཅས་པ་ཐམས་ཅད་ལ་དབང་ཡོད་ཀྱིས་མི་སེར་བསྐུལ་ཅིང་ཁྲལ་ལེན་པ་སོགས་མི་མཛད་པ་སྨོས་ཅི་དགོས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-section-2-3"/>2.3 The Practicalities of Printing the Kangyur</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-124">
+    <prop type="location-id">UT22084-103-004-278</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀོ་རིན་ཐང་ཡུལ་དུས་ལ་དཔག་པ་ལས་ལྷག་པར་སྩལ་ཏེ། ཐམས་ཅད་རྒྱུ་དག་ཅིང་ཕུན་སུམ་ཚོགས་པར་མཛད་ནས། གཟབས་མ་འདྲི་བའི་<tei:ref folio="F.111.b"/>ཡི་གེ་པ་སྔ་སོར་བོད་ཆེན་གྱི་ལྗོངས་འདིར་ཧ་ཅང་མཁས་པ་མེད་མོད་ཀྱི། ལེགས་བྱས་རྒྱ་ཆེན་པོ་འདིའི་དབུ་བཙུགས་པ་ཙམ་ནས་མ་བོས་པར་ཡང་བསོད་ནམས་ཆེན་པོའི་མགྲོན་དུ་འོངས་པའི་ཡི་གེ་པ་མང་པོ་འདུས་པ་ལ་སོ་སོའི་ཡོ་བྱད་ཐམས་ཅད་བླ་ནས་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-278"/>As far as the practicalities of printing this Kangyur are concerned, all of the materials needed for printing, such as paper, ink, and so forth, as well as the wood for the printing blocks, far from being acquired from common people through the use of force or by levying taxes, were paid for in excess of current market rates. All materials were of high quality and were gathered in abundance. Although in this Greater Tibet region there were no very well-educated scribes as careful as those of the past, as soon as the work began on this virtuous project, many scribes, bringing their own tools and materials of the highest quality, assembled without even being asked and were guests at this feast of merit.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-125">
+    <prop type="location-id">UT22084-103-004-279</prop>
+    <tuv xml:lang="bo">
+                <seg>སྦྱར་ཏེ འཇམ་དབྱངས་སྤྲུལ་པ་ཐོན་མི་སཾ་བྷོ་ཊའི་རྣམ་དཔྱོད་ཀྱི་ཟློས་གར་ལས། བོད་ཡུལ་གྱི་ཡི་གེ་གསར་དུ་བྱོན་པ་ནས་བརྩམས་ཏེ། ཕྱིས་ཁྱུང་པོ་གཡུ་ཁྲིས་ཐིག་ཁོངས་ནས་དྲངས་ཤིང་རོང་པོས་ལྷན་ཐབས་མཛད་པའི་རྒྱུན་ཇི་ལྟ་བ་བཞིན་དུ་མ་ཆོས་ཉི་ཤུ་རྩ་གཅིག །བུ་ཆོས་བཅུ་དྲུག །སྤྱི་ཆོས་གསུམ་བཅས་ཆོས་བཞི་བཅུའི་མཚན་ཉིད་ཚང་བར་འབད་པ་ཆེན་པོས་སྦྱོང་བརྡར་བྱེད་དུ་འཇུག་པ་གནང་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-279"/>The Tibetan script first arose as an expression of the intellect of the emanation of Mañjughoṣa, Thönmi Sambhoṭa. Later, a tradition of script form was developed by Khyungpo Yudri and amendments were made by Rongpo. In this tradition, there are twenty-one feminine characteristics, sixteen masculine characteristics, and three general characteristics. By diligently studying this system, these scribes learned, and then mastered, all forty characteristics in a short amount of time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-126">
+    <prop type="location-id">UT22084-103-004-281</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དག་དུས་ཐུང་དུར་བྱངས་ཤིང་མཁས་པར་གྱུར་པ།དཔོན་ཡིག་པ་དྲུག་ཅུ་ལྷག་ཙམ་གྱིས་ལྷུན་གྲུབ་སྟེང་གི་བླ་བྲང་ཆེན་པོའི་ནང་དུ་པར་ཡིག་འབྲི་བའི་གྲྭ་བཙུགས་པ་དང་། དེ་བཞིན་དུ་པར་བརྐོས་པ་བཞི་བརྒྱ་ལྷག་དང་། ཞུས་དག་པ་བཅུ་སྐོར། ཤིང་བཟོ་བ། ཤོག་བུ་མཁན་པོ།སྣག་ལས་པ། ཤོག་ལས་པ་སོགས་ལས་ཚན་ཤིན་ཏུ་མང་བ་བར་མ་ཆད་དུ་བསྟེན་པའི་རིམ་པས་ཞུས་དག་ཟིན་པ་དང་པར་ཡིག་འདྲི། དེ་ཟིན་ནས་ པར་ཡིག་ལ་ཡིག་མཁན་སོ་སོས་བར་ཞུས་ལན་གཉིས་དང་། ཞུས་དག་མཁན་པོ་རྣམས་ཀྱིས་ལན་གཉིས་ཏེ་བཞི་བཞིར་ཞུས་དག་བྱེད། དེ་ཟིན་ནས་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-281"/>At the great monastic estate of Lhundrup Teng, more than sixty master scribes formed a workshop for inscribing the printing blocks and making templates for carving. There were also more than four hundred carvers, a council of ten editors, as well as carpenters, a master of paper, ink makers, paper makers, and others present. These workers labored without interruption in a process that involved a great number of important tasks. Once the editing was finalized and the templates written, each template was checked four times: twice by the scribe and twice by the editors. When that was completed, the templates were then distributed among the carvers and so forth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-127">
+    <prop type="location-id">UT22084-103-004-282</prop>
+    <tuv xml:lang="bo">
+                <seg>པར་བརྐོས་པ་རྣམས་ལ་སོ་སོར་སྤྲོད་པ་སོགས་ལས་སྤྱིའི་དོ་དམ་པ་གྲུབ་དབང་བྱང་ཆུབ་གླིང་པའི་དབོན་རྒྱུད་དུ་སྐྱེས་ཤིང་བརྡ་དག་པར་བྱེད་པའི་སྦྱོར་བ་སོགས་ལ་མཁས་པས་གསུང་རབ་ལ་ལྟ་བའི་མིག་གྲུངས་པོར་གྱུར་པ་དགེ་སློང་ཀརྨ་དཔལ་གྲུབ་དང་། མི་དབང་ཉིད་ཀྱི་ཞབས་ཕྱི་ནང་འཁོར་བ་ཡིག་རྩིས་དང་སྒྱུ་རྩལ་སོགས་ལ་བྱང་ཞིང་གཞུང་དྲང་ལ་ཚུགས་ཐུབ་པ། ཁོག་ཡངས་ལ་དཀྱེལ་ཆེ་བ། ཕྱི་རྒྱ་བསྲུངས་ནས་ཞིབ་ཏིག་མི་འཆོར་བ་སོགས་ཡ་རབས་ཀྱི་ཡོན་ཏན་དང་ལྡན་པ་དྲུང་ཡིག་ཚེ་རིང་འཕེལ་གྱིས་བྱས་<tei:ref folio="F.112.a"/>ཏེ་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-282"/>The two general supervisors of the project were the monk Karma Paldrub, a descendent of Drupwang Jangchup Lingpa, who is erudite in the practice of proofreading and has sharp eyes when it comes to reading scripture, and the close attendant of the Lord of Men himself, the secretary Tsering Phel, who is learned in writing, math, and the arts, and possesses the virtues of a nobleman such as being of an upright and steadfast character, having a big heart and an open mind, and keeping sight of the broader picture without getting lost in the finer details.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-128">
+    <prop type="location-id">UT22084-103-004-283</prop>
+    <tuv xml:lang="bo">
+                <seg>ས་བྱ་ནས་ཆུ་གླང་བར་བགྲང་བྱ་ལྔའི་ངོ་མཐོང་བར་བརྩོན་པ་ཆེན་པོས་བསྒྲུབས་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-283"/>After five years of persistent, diligent work, from the year of the earth bird (1729) to the year of the water ox (1733), the project was completed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-129">
+    <prop type="location-id">UT22084-103-004-284</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལ་དེ་དེ་དག་གི་ཚེ་ན་དུས་ནར་མར་སྦྱར་དགོས་པའི་བཟའ་བཏུང་དང་། བར་བར་དུ་སྟོན་མོ་དང་། དགའ་སྤྲོའི་གསོལ་རས་སོགས་བཟང་ཞིང་རྒྱ་ཆེ་བ་མི་བགྲང་བར་ལས་ཚན་སོ་སོའི་ཡོན་དང་པར་ཤིང་སོགས་ཀྱི་རིན་ཐང་རགས་པ་ཞིག་བསྡོམས་པར་གླེགས་བམ་བརྒྱ་ཕྲག་གཅིག་དང་རྙིང་རྒྱུད་དུམ་གསུམ་བཅས་ལ་བཟང་ཇ་སྤོབ་རྩེ་སྟོང་ཕྲག་བདུན་དང་དྲུག་བརྒྱ་ཉེར་གཉིས་སོང་བས་མཚོན། ། ནམ་ཡང་ཞུམ་པ་མེད་པའི་གཏོང་བ་ཆེན་པོའི་ཕྱག་ལེགས་པར་བརྐྱངས་པས་ཐམས་ཅད་དགའ་བ་དང་མགུ་བ་དང་རངས་པའི་མཆོག་ཏུ་གྱུར་ཏོ། ། དེ་ལྟར་པར་དུ་བསྒྲུབས་ཟིན་ནས་ ཀྱང་ཞུས་དག་ལན་མང་དུ་བགྱིས་ཏེ་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-284"/>Over the course of those years, the total expenses incurred to produce one hundred volumes plus the three volumes of Old Tantras, such as the wages for each department—including the daily rations of food and drink, occasional feasts, and bonuses for their enjoyment, all of which was of high quality and bountiful beyond accounting—as well as the cost of the materials like woodblocks, was reckoned as 7,622 cases of good tea. This demonstrates how the outstretched hand of constant and unfailing great generosity rendered everyone happy, content, and joyful.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-130">
+    <prop type="location-id">UT22084-103-004-286</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡིད་རྟོན་རུང་བར་གྱུར་པ་དེ་མ་ཐག་ཐམས་ཅད་མཁྱེན་པ་རྡོ་རྗེ་འཆང་ཀུན་དགའ་བཟང་པོའི་རྒྱལ་ཚབ་ཏུ་སེང་གེའི་ཁྲི་ཆེན་པོར་མངའ་གསོལ་བ་མཁན་ཆེན་མངྒ་ལའི་མཚན་ཅན་གྱིས་རྡོ་རྗེའི་སློབ་དཔོན་གྱི་བྱ་བ་མཛད་དེ་ ལྷ་སྔགས་ཏིང་ངེ་འཛིན་གྱི་རྣལ་འབྱོར་ལ་གོམས་པ་བརྟས་པའི་རིག་པ་འཛིན་པ་མང་པོ་དང་ཐབས་ཅིག་ཏུ་དཔལ་དགྱེས་པ་རྡོ་རྗེའི་དཀྱིལ་འཁོར་ལ་བརྟེན་ནས་ ཡེ་ཤེས་པ་མངོན་སུམ་དུ་གཞུག་པར་མཛད་པ་སོགས་རབ་ཏུ་གནས་པའི་ཆོ་ག་སྦྱོར་དངོས་མཇུག་གི་རིམ་པ་ཚང་ཞིང་མ་འཁྲུགས་པ་ལན་དུ་མར་བསྐྱར་ནས་འགྲོ་བ་ལྷ་དང་བཅས་པ་ཐམས་ཅད་ཀྱིས་མཆོད་པའི་གནས་ཟླ་མེད་པ། འདོད་པ་ལེགས་དགུ་ཅོག་ཐམས་ཅད་འབྱོར་པར་བྱེད་པའི་རིན་པོ་ཆེ་ཆེན་པོ་སྐྱེ་འགྲོའི་བདེ་སྐྱིད་དང་། སངས་རྒྱས་ཀྱི་བསྟན་པའི་རྩ་ལག་ཆེན་པོར་གྱུར་པ་འདི་གྲུབ་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-286"/>After the wood blocks had been carved, they were checked many times and determined to be reliable. Immediately thereafter, the great scholar Maṅgala, present incumbent on the great lion throne of the omniscient Vajradhara Künga Sangpo, acted as the vajra master accompanied by many knowledge holders who were exceedingly proficient in the practices of deity, mantra, and samādhi. They invoked the presence of wisdom beings from the maṇḍala of glorious Hevajra and systematically repeated this consecration ritual many times with its stages of preparation, main part, and conclusion in their entirety and without confusing the order. With that, this unrivaled object of worship for all beings and gods, this great precious gem that grants an abundance of everything desirable and positive, the happiness of living beings, and the great roots and branches of the Buddha’s teachings, was complete.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-131">
+    <prop type="location-id">UT22084-103-004-287</prop>
+    <tuv xml:lang="bo">
+                <seg>འདིར་སྨྲས་པ། མི་བདག་ས་ཡི་ཚངས་པ་ཆེས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-section-3"/>Concluding Verses<tei:milestone xml:id="UT22084-103-004-287"/> When the great Brahmā of this land, the Ruler of Men,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-132">
+    <prop type="location-id">UT22084-103-004-287</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་དོན་འདོད་ཐར་གདོང་བཞི་ལས། །ལེགས་སྤྱད་རིག་བྱེད་འདི་ཕྱུང་བས། །ནོར་འཛིན་དཔལ་མོ་ཀུན་དགར་གྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Brought forth this veda through his virtuous activity, Emerging from his four heads of duty, prosperity, pleasures, and liberation, Vasudhārā was overjoyed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-133">
+    <prop type="location-id">UT22084-103-004-290</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་གི་གྲགས་པ་གངྒཱའི་རྒྱུན། །ལམ་གསུམ་ཉིད་དུ་འོངས་པ་ན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-290"/>When he brought the three paths together To form what is known as the Ganges River,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-134">
+    <prop type="location-id">UT22084-103-004-290</prop>
+    <tuv xml:lang="bo">
+                <seg>སྲིད་པ་དགུ་ཅན་ལས་སྐྱེས་པའི། །ཉེས་པ་དེ་དག་རིང་དུ་སོང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The evil deeds born from this poisonous existence Were carried far downstream.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-135">
+    <prop type="location-id">UT22084-103-004-291</prop>
+    <tuv xml:lang="bo">
+                <seg>ལེགས་བྱས་རྒྱ་ཆེན་འདི་བསྟེན་པའི། །ཀུན་བཟོད་དཀྱིལ་འཁོར་ཕྲག་པ་ལ། །མངོན་པར་བཀོད་པའི་ལྷག་མ་ཅན། །ལྟོས་འགྲོའི་སྙེམས་པ་འདིར་ལྟོས་ཤིག །<tei:ref folio="F.112.b"/>དབྲོག་པར་བྱས་སོ་སྙིགས་མའི་དུས། །མཚན་མོར་གྱུར་ལ་མི་སྦྱིན་སྐྱེས། །རྩོད་པའི་ཐ་མར་མཆོད་སྡོང་ཆེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-291"/>He carried the infinitude of this great deed Upon the maṇḍalas of his shoulders, Bearing it with stability and unwavering endurance— Look and see if he has the arrogance of even a snake. <tei:milestone xml:id="UT22084-103-004-292"/>All is lost in this degenerate age, Yet out of the darkness, dawn breaks; At the end of this age of strife,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-136">
+    <prop type="location-id">UT22084-103-004-291</prop>
+    <tuv xml:lang="bo">
+                <seg>སྔ་ན་མེད་པར་འཁྲུངས་འདིས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This great shrine, unprecedented, is born.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-137">
+    <prop type="location-id">UT22084-103-004-293</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨེ་མ་སྐྱེ་འགྲོར་ཕན་བདེ་ཡི། །གཏོང་བ་ཆེན་པོ་སྒྲུབ་པའི་ཕྱག །སྙིང་སྟོབས་འོ་མཚོ་ལས་བྱུང་བས། །འདོད་འབྱུང་ས་བརྟོལ་དབང་པོ་བཞིན། །གང་གི་རང་བཞིན་སྙིང་སྟོབས་རྨ་མེད་གཞིག་པར་མི་ནུས་རྡོ་རྗེ་ཉིད་ཡིན་ཞོ་འཐུང་རུས་པ་དེ་མ་ཡིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-293"/>Amazing! The effort that accomplished this great act of generosity, Bringing benefit and happiness to beings, Emerged out of his courageous spirit, the Ocean of Milk, Just like the majestic wish-fulfilling tree.<tei:milestone xml:id="UT22084-103-004-294"/> His nature is unblemished courage; it is the indestructible vajra itself, not the frail bones of nursing infants.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-138">
+    <prop type="location-id">UT22084-103-004-293</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་གི་ལེགས་བྱས་ཤིན་ཏུ་དཀར་བ་བཞེད་དགུའི་འདོད་འཇོ་དཔག་བསམ་དངོས་ཡིན་ཀོ་བི་ད་ར་དེ་མ་ཡིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>His great deed is entirely virtuous; it is the true wish-fulfilling tree that satisfies all desires, not simply the kovidāra tree.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-139">
+    <prop type="location-id">UT22084-103-004-293</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་གི་གྲགས་པ་སྐྱེ་དགུའི་སྙིང་ལ་སིམ་པ་སྟེར་བྱེད་ཟླ་བ་ཉིད་ཡིན་རི་བོང་འཛིན་པ་དེ་མ་ཡིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>His name brings happiness to the hearts of all beings; it is the moon itself, not a poetic metaphor for the moon.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-140">
+    <prop type="location-id">UT22084-103-004-293</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་དག་ཡོན་ཏན་བྱེ་བའི་རང་བཞིན་ནོར་བུའི་དོ་ཤལ་སྤེལ་ལེགས་འདི་ཡིན་མུཀྟི་ཀ་ཕྲེང་དེ་མ་ཡིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>His myriad qualities have the nature of a well-crafted, jeweled necklace, not an ordinary string of pearls.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-141">
+    <prop type="location-id">UT22084-103-004-295</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱ་དཀའི་རྒྱ་མཚོ་རླབས་ཆེན་རྒལ་དཀའ་གེགས་བྱེད་འཇིགས་རུང་འཛིན་ཁྲིའི་གནས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-295"/>The ocean of difficult tasks with its great waves, so hard to cross, is the abode of obstructions and fearsome water dragons.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-142">
+    <prop type="location-id">UT22084-103-004-295</prop>
+    <tuv xml:lang="bo">
+                <seg>དུས་ཀྱི་རྦ་རླབས་གནམ་དུ་སྐྱོང་ཚེ་བྱིས་པ་རྣམས་ནི་དོགས་པ་སྐྱེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Over the course of time, waves surge to the sky and childish beings are filled with fear and doubt.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-143">
+    <prop type="location-id">UT22084-103-004-295</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་རྣམས་བློ་གྲོས་ནམ་ཡང་མི་ཉམས་ཐབས་ཤེས་གདོས་པ་འཛིན་པ་ཅན། །འབད་པ་ཆེན་པོའི་གྲུ་ཆེན་ཚགས་བཅུག་བདེ་བར་ཕ་རོལ་ཕྱིན་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Heroes, however, with unwavering intellect and a helmsman of skillful means and wisdom, Will safely reach the other side, crossing upon the ferry of great perseverance.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-144">
+    <prop type="location-id">UT22084-103-004-296</prop>
+    <tuv xml:lang="bo">
+                <seg>དྲག་པོས་བསྲེགས་པའི་ལུས་ཀྱི་ལྷག་མས་བྱེ་བ་ཁྲག་ཁྲིག་དཔུང་བཤམས་ཏེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-296"/>Though the fiercely blazing corporeal remainder assembles its armies by the millions And showers down unbearable rains of fire, the courageous spirit of holy beings</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-145">
+    <prop type="location-id">UT22084-103-004-296</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་བཟད་ཆེ་ཆར་དྲུག་པོ་ཕབ་ཀྱང་དམ་པ་རྣམས་ཀྱི་སྙིང་སྟོབས་ནི། །ཟླ་བ་མཐོང་བའི་ཀུནྡ་བཞིན་དུ་ཕྱིར་ཞིང་རྒྱས་པ་ཁོ་ན་ལས། །བྲི་བར་འགྱུར་མིན་དེས་ན་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Only flourishes all the more, without waning, like jasmine in the moonlight—</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-146">
+    <prop type="location-id">UT22084-103-004-296</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་རིང་བདུད་ལས་རྣམ་པར་རྒྱལ་འདི་ལྟོས། །​</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Look at how Māra has been defeated on this day.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-103-004-TU-147">
+    <prop type="location-id">UT22084-103-004-297</prop>
+    <tuv xml:lang="bo">
+                <seg>བདེ་བར་གཤེགས་པའི་བཀའ་གངས་ཅན་བརྡས་དྲངས་པའི་ཕྱི་མོའི་ཚོགས་ཇི་སྙེད་པ་པར་དུ་བསྒྲུབས་པའི་ཚུལ་ལས་ཉེ་བར་བརྩམས་པའི་གཏམ་བཟང་པོ་བློ་ལྡན་མོས་པའི་ཀུནྡ་ཡོངས་སུ་ཁ་བྱེ་བའི་ཟླ་འོད་གཞོན་ནུའི་འཁྲི་ཤིང་ལས་རྒྱལ་བའི་གསུང་རབ་གངས་རིའི་ཁྲོད་དུ་དེང་སང་ཇི་ཙམ་སྣང་བ་པར་དུ་བསྒྲུབས་པའི་བྱུང་བ་དངོས་ལེགས་པར་བཤད་པའི་ཡལ་འདབ་སྟེ་གསུམ་པའོ།​།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-103-004-297"/>This has been the third well-spoken branch, “An Exact Account of How All the Victorious One’s Teachings Extant Today in the Land of Snow Mountains Were Put into Print.” It belongs to Vines of Jasmine Blossoming in the Youthful Moonlight to the Delight of the Wise: The Excellent History of How All the Source Texts of the Well-Gone One’s Teachings Extant in the Language of the Land of Snows Were Put into Print.</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>

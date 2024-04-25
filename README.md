@@ -1,8 +1,6 @@
 <img src="https://cached-fe.84000.co/imgs/logo.svg" alt="84000 logo" width="200"/>
 Translating the Words of the Buddha
 
-# 84000/data-translation-memory
-
 # 84000 Translation Memory files
 
 ## Explanation of file versions “-v1”, “-v2”, etc.. :

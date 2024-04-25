@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="linguae-dharmae/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-101-147" eft:text-version="v-1.0.4-2023"/>
+<body>
+<tu id="UT22084-101-147-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.255.b"/>༄༅། །ལྷ་མོ་ནམ་གྲུ་ལ་བསྟོད་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In Praise of the Goddess Revatī</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-147-TU-2">
+    <prop type="location-id">UT22084-101-147-75</prop>
+    <tuv xml:lang="bo">
+                <seg>དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-147-75"/>Homage to the Three Jewels.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-147-TU-3">
+    <prop type="location-id">UT22084-101-147-75</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་དཔལ་ཕྱག་ན་རྡོ་རྗེ་ལ་ཕྱག་འཚལ་ལོ། ། ལྷ་མོ་ཆེན་མོ་རེ་མ་ཏི་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to noble, glorious Vajrapāṇi. Homage to the great goddess Rematī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-147-TU-4">
+    <prop type="location-id">UT22084-101-147-80</prop>
+    <tuv xml:lang="bo">
+                <seg>ནམ་གྲུ་དག་གི་ཆོ་འབྲང་དང་། །མཚན་ཉིད་དག་ནི་བཤད་བྱ་ན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-147-80"/>The family and characteristics Of Revatī should be explained:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-147-TU-5">
+    <prop type="location-id">UT22084-101-147-81</prop>
+    <tuv xml:lang="bo">
+                <seg>ནོར་བུའི་རང་བཞིན་ཁྱོད་ཀྱི་ལུས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-147-81"/>Your body is made of precious substances—</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-147-TU-6">
+    <prop type="location-id">UT22084-101-147-81</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱབ་ནི་འཛམ་བུ་ཆུ་བོའི་གསེར། །ཁྱོད་ཀྱི་གདོང་ནི་དངུལ་ཡིན་ཏེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Your back is Jambu River gold, Your front is silver,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-147-TU-7">
+    <prop type="location-id">UT22084-101-147-81</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྟོ་བའི་ངོས་ནི་རྡོ་རྗེས་བལྟམ། །མིང་པོ་མཛོད་དང་མཛོད་བདག་པོ། །ཁྱོད་ཀྱི་མ་ནི་ཀུན་འགྲོ་མ། །ཁྱོད་ཀྱི་ཕ་ནི་རླུང་ཞེས་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The surface of your belly is covered in vajra. Your brothers are Treasure and Treasure Guardian, Your mother is She Who Goes Everywhere, Your father is called Vāyu.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-147-TU-8">
+    <prop type="location-id">UT22084-101-147-81</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐལ་ལྡན་<tei:ref folio="F.256.a"/>ཤིང་རྟ་ཁྱོད་ཀྱི་རུས། །ལྷ་ཡུལ་དག་ཏུ་གྲགས་པ་ཡིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Your bloodline is that of Bhagīratha; You are renowned in the heavens.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-147-TU-9">
+    <prop type="location-id">UT22084-101-147-84</prop>
+    <tuv xml:lang="bo">
+                <seg>ན་མོ་བཛྲ་པཱ་ཎི་སྱ། ཙི་ལི་ཙི་ལི། །བྷིནྡི་བྷིནྡི། །མུཉྩ་མུཉྩ་མུཉྩ་ཧ་བ་ལ་ཀ་ན་སྭཱ་ཧཱ། བཛྲ་བཱ་ཎི་རཱ་ཛྙཱ་པ་ཡ་ཏི་སྭཱ་ཧཱ། །དེ་བ་ས་མཱ་ཛྙཱ་པ་ཡ་ཏི་སྭཱ་ཧཱ། །རྀ་ཥ་ཡཿས་མཱཛྙཱ་པ་ཡ་ཏི་སྭཱ་ཧཱ། །ན་མོ་རཏྣ་ཏྲ་ཡཱ་ཡ། །ཏབྱཐཱ། །རུ་རུ་བི་ཥིཥྠ་བདྷོཏྶི་སྭཱ་ཧཱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-147-84"/>namo vajrapāṇisya cili cili bhindi bhindi muñca muñca muñca havalakana svāhā| vajrapāṇīr ajñāpayati svāhā| deva samājñāpayati svāhā| rīṣayaḥ samājñāpayati svāhā|namo ratna trayāya| tadyathā| ruru viṣiṣṭhava dhotsi svāhā||</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-147-TU-10">
+    <prop type="location-id">UT22084-101-147-86</prop>
+    <tuv xml:lang="bo">
+                <seg>འདོད་པ་ཁམས་ཀྱི་དབང་ཕྱུག་མ། བདུད་ཀྱི་ཡུམ་ཆེན་མོ། །​ལྷ་མོ་ཆེན་མོ་རེ་མ་ཏིའི་གཟུངས་རྫོགས་སྷོ།​། །​།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-147-86"/>This completes the dhāraṇī of the great goddess Rematī, the Powerful Lady of the Desire Realm, the Great Mother of Demons.</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>

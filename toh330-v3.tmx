@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="linguae-dharmae/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-072-030" eft:text-version="v-1.0.6-2023"/>
+<body>
+<tu id="UT22084-072-030-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.258.b"/>༄༅། །རྒྱ་གར་སྐད་དུ། ཨལྤ་དེ་བ་ཏཱ་སཱུ་ཏྲ། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-072-030-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷའི་མདོ་ཉུང་ངུ་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Shorter Devatā Sūtra</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-030-TU-3">
+    <prop type="location-id">UT22084-072-030-73</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-030-73"/>Homage to all buddhas and bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-030-TU-4">
+    <prop type="location-id">UT22084-072-030-73</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-030-TU-5">
+    <prop type="location-id">UT22084-072-030-73</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མཉན་ཡོད་ན་རྒྱལ་བུ་<tei:ref folio="F.259.a"/>རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན་བཞུགས་ཏེ། དེ་ནས་ལྷ་ཞིག་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས་བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ་ཕྱོགས་གཅིག་ཏུ་འདུག་གོ། ། ཕྱོགས་གཅིག་ཏུ་འདུག་ནས་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One was staying at Jetavana, Anāthapiṇḍada’s park at Śrāvastī, when a divine being approached the Blessed One, paid homage by bowing its head to the feet of the Blessed One, and sat down to one side. Thereupon the divine being asked the Blessed One:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-030-TU-6">
+    <prop type="location-id">UT22084-072-030-80</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་དེས་བཅོམ་ལྡན་འདས་ལ་ཞུ་བ་ཞུས་པ། ཚུལ་ཁྲིམས་གང་ལགས་སྤྱོད་པ་གང་། །ཡོན་ཏན་གང་ལགས་ལས་གང་གིས། །གནས་པ་ཇི་ལྟར་ཤེས་རབ་གང་། །སྐྱེ་བོ་གང་དག་མཐོ་རིས་མཆི། །ལྷ་ལ་ཐུགས་བརྩེ་ཉེར་བཟུང་ནས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-030-80"/>“With what discipline, what conduct, What qualities, what actions, What manner of living, and what wisdom Do beings go to the higher realms?”<tei:milestone xml:id="UT22084-072-030-81"/> Touched by compassion for the divine being,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-030-TU-7">
+    <prop type="location-id">UT22084-072-030-80</prop>
+    <tuv xml:lang="bo">
+                <seg>སྟོན་པས་དེ་ལ་ལུང་བསྟན་པ། །སྐྱེ་བོ་མཐོ་རིས་གང་འགྲོ་བ། །ལྷ་ཁྱོད་ང་ལ་རབ་ཏུ་ཉོན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Teacher told him: “O divine being, listen to me! These beings go to the higher realms:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-030-TU-8">
+    <prop type="location-id">UT22084-072-030-82</prop>
+    <tuv xml:lang="bo">
+                <seg>སྲོག་གཅོད་པ་ལས་ཕྱིར་ལྡོག་ཅིང་། །ཁྲིམས་བཟུང་ཡང་དག་སྡོམ་ལ་དགའ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-030-82"/>“Those who turn back from killing, Who uphold the law and delight in restraint,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-030-TU-9">
+    <prop type="location-id">UT22084-072-030-82</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་དག་འབྱུང་པོ་མི་འཚེ་བ། །སྐྱེ་བོ་དེ་དག་མཐོ་རིས་འགྲོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Who do not harm any beings— Those beings go to the higher realms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-030-TU-10">
+    <prop type="location-id">UT22084-072-030-85</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་དག་མ་བྱིན་ལེན་སྤོང་ཞིང་། །སྦྱིན་པ་གཏོང་ལ་རྟག་དགའ་སྟེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-030-85"/>“Those who abandon taking what is not given And always delight in giving,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-030-TU-11">
+    <prop type="location-id">UT22084-072-030-85</prop>
+    <tuv xml:lang="bo">
+                <seg>རྐུ་བ་སྤོང་ཞིང་མི་རྐུ་བ། །སྐྱེ་བོ་དེ་དག་མཐོ་རིས་འགྲོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Who abandon stealing and do not steal— Those beings go to the higher realms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-030-TU-12">
+    <prop type="location-id">UT22084-072-030-86</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞན་གྱི་ཆུང་མའི་ཐད་མི་འགྲོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-030-86"/>“Those who do not approach the spouses of others,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-030-TU-13">
+    <prop type="location-id">UT22084-072-030-86</prop>
+    <tuv xml:lang="bo">
+                <seg>ལོག་པར་གཡེམ་པ་རྣམ་པར་སྤོང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Who abandon sexual misconduct,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-030-TU-14">
+    <prop type="location-id">UT22084-072-030-86</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གི་ཆུང་མས་ཆོག་སེམས་པ། །སྐྱེ་བོ་དེ་དག་མཐོ་རིས་འགྲོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Who are satisfied with their spouses— Those beings go to the higher realms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-030-TU-15">
+    <prop type="location-id">UT22084-072-030-88</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞན་གྱི་དོན་ལ་རྐུ་བྱེད་དང་། །བདག་གི་ཕྱིར་དང་འཇིགས་པའི་ཕྱིར། །བརྫུན་གྱི་ཚིག་རྣམས་མི་སྨྲ་བ། །སྐྱེ་བོ་དེ་དག་མཐོ་རིས་འགྲོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-030-88"/>“Those who do not tell lies, Either to steal in the interest of others, Or for their own sake, or out of fear— Those beings go to the higher realms.<tei:milestone xml:id="UT22084-072-030-90"/> “Those who give up slander,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-030-TU-16">
+    <prop type="location-id">UT22084-072-030-88</prop>
+    <tuv xml:lang="bo">
+                <seg>གྲོགས་པོ་རྟག་པར་འབྱེད་བྱེད་པ། །ཕྲ་མའི་ཚིག་རྣམས་རབ་སྤོང་ཞིང་། །གང་དག་འདུན་པར་རབ་དགའ་བ། །སྐྱེ་བོ་དེ་དག་མཐོ་རིས་འགྲོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Which constantly separates friends, And delight in appreciation—</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-030-TU-17">
+    <prop type="location-id">UT22084-072-030-93</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱགས་ལ་རྟེན་ཅིང་ཞེ་གཅོད་པ། །ཚིག་རྩུབ་དག་ནི་རྣམ་སྦྱོང་ཞིང་། །འཇམ་པོའི་ཚིག་ཏུ་གང་སྨྲ་བ། །སྐྱེ་བོ་དེ་དག་མཐོ་རིས་འགྲོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Those beings go to the higher realms.<tei:milestone xml:id="UT22084-072-030-93"/> “Those who abandon hurtful harsh words, Spoken with contempt, And who speak with gentle words— Those beings go to the higher realms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-030-TU-18">
+    <prop type="location-id">UT22084-072-030-95</prop>
+    <tuv xml:lang="bo">
+                <seg>དོན་མེད་གནས་དང་ལྡན་པ་ཡི། །ཀྱལ་པའི་ཚིག་རྣམས་རབ་སྤོང་ཞིང་། །གང་ཡང་དུས་སུ་ཆོས་སྨྲ་བ། །སྐྱེ་བོ་དེ་དག་མཐོ་རིས་འགྲོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-030-95"/>“Those who abandon Meaningless and idle talk, And when appropriate, expound the Dharma— Those beings go to the higher realms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-030-TU-19">
+    <prop type="location-id">UT22084-072-030-96</prop>
+    <tuv xml:lang="bo">
+                <seg>གྲོང་ངམ་འོན་ཏེ་དགོན་པ་ན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-030-96"/>“Either in villages or in remote places,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-030-TU-20">
+    <prop type="location-id">UT22084-072-030-96</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞན་གྱིས་བདག་གིར་བྱས་པ་ལ། །དེ་ལ་ཆགས་སེམས་གང་མེད་པ། །སྐྱེ་བོ་དེ་དག་མཐོ་རིས་འགྲོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Those who do not have any desire To claim another’s possessions as their own— Those beings go to the higher realms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-030-TU-21">
+    <prop type="location-id">UT22084-072-030-98</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱམས་པའི་སེམས་ཀྱིས་མི་འཚེ་ཞིང་། །གནོད་པར་སེམས་པ་མེད་པ་ཡིས། །སྐྱེ་བོ་ཀུན་ལ་མི་གནོད་པ། །སྐྱེ་བོ་དེ་དག་མཐོ་རིས་<tei:ref folio="F.259.b"/>འགྲོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-030-98"/>“Those who, with a loving mind, Do not hurt, and without ill will Do not harm any being— Those beings go to the higher realms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-030-TU-22">
+    <prop type="location-id">UT22084-072-030-99</prop>
+    <tuv xml:lang="bo">
+                <seg>ལས་དང་ལས་ཀྱི་རྣམ་སྨིན་དང་། །གཉི་ག་ལ་ཡང་གང་དད་ཅིང་། །ཡང་དག་ལྟ་བ་ཡང་དག་འཛིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-030-99"/>“Those who have confidence and faith In both karma and the ripening of karma, And truly hold the correct view—</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-030-TU-23">
+    <prop type="location-id">UT22084-072-030-99</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐྱེ་བོ་དེ་དག་མཐོ་རིས་འགྲོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Those beings go to the higher realms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-030-TU-24">
+    <prop type="location-id">UT22084-072-030-100</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་བའི་ཆོས་རྣམས་འདི་དག་ནི། །དཀར་པོའི་ཆོས་ཀྱི་ལམ་བཅུ་སྟེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-030-100"/>“These virtuous qualities Are the tenfold path of the good Dharma.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-030-TU-25">
+    <prop type="location-id">UT22084-072-030-100</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་དག་ཡང་དག་འཛིན་འགྱུར་བ། །སྐྱེ་བོ་དེ་དག་མཐོ་རིས་འགྲོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Those beings who truly uphold them Will go to the higher realms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-030-TU-26">
+    <prop type="location-id">UT22084-072-030-101</prop>
+    <tuv xml:lang="bo">
+                <seg>བྲམ་ཟེ་མྱ་ངན་འདས་པ་དང་། །དགྲ་དང་འཇིགས་པ་ཀུན་འདས་ཤིང་། །འཇིག་རྟེན་ཆགས་མེད་རྒལ་བ་ནི། །མང་པོ་ཡོད་པར་མ་མཐོང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-030-101"/>“I do not see many brāhmaṇas who have attained nirvāṇa, Who have overcome all enemies and fears, Who have crossed over, Free from attachment to the world.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-030-TU-27">
+    <prop type="location-id">UT22084-072-030-103</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས་ལྷ་དེ་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-030-103"/>After the Blessed One had spoken thus, the divine being rejoiced and praised what the Blessed One had said.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-030-TU-28">
+    <prop type="location-id">UT22084-072-030-104</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷའི་མདོ་ཉུང་ངུ་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-030-104"/>Thus concludes “The Shorter Devatā Sūtra.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-030-TU-29">
+    <prop type="location-id">UT22084-072-030-105</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞུ་ཆེན་གྱི་ལོ་ཙྪ་བ་བན་དེ་ཡེ་ཤེས་སྡེས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།​།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-030-105"/>Translated, edited, and finalized by the senior editor and translator Bandé Yeshé Dé.</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>
