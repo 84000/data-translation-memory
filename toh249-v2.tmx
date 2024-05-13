@@ -4,6 +4,7 @@
     <body>
         <tu>
             <prop type="folio">F.59.a</prop>
+            <prop type="location-id">translation</prop>
             <tuv xml:lang="bo">
                 <seg>འཕགས་པ་ཆོས་བཞི་བསྟན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། </seg>
             </tuv>
@@ -13,6 +14,7 @@
         </tu>
         <tu>
             <prop type="folio">F.59.a</prop>
+            <prop type="location-id">UT22084-066-007-16</prop>
             <tuv xml:lang="bo">
                 <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
             </tuv>
@@ -23,6 +25,7 @@
         </tu>
         <tu>
             <prop type="folio">F.59.a</prop>
+            <prop type="location-id">UT22084-066-007-16</prop>
             <tuv xml:lang="bo">
                 <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན། </seg>
             </tuv>
@@ -33,6 +36,7 @@
         </tu>
         <tu>
             <prop type="folio">F.59.a</prop>
+            <prop type="location-id">UT22084-066-007-16</prop>
             <tuv xml:lang="bo">
                 <seg>བཅོམ་ལྡན་འདས་སུམ་ཅུ་རྩ་གསུམ་ལྷའི་ནང་ན་ལྷའི་འདུན་ས་ཆོས་བཟང་ན་དགེ་སློང་ལྔ་བརྒྱ་ཐམ་པའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་། བྱམས་པ་དང་། འཇམ་དཔལ་ལ་སོགས་པ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རབ་ཏུ་མང་པོ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ</seg>
             </tuv>
@@ -42,6 +46,7 @@
         </tu>
         <tu>
             <prop type="folio">F.59.a</prop>
+            <prop type="location-id">UT22084-066-007-18</prop>
             <tuv xml:lang="bo">
                 <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བྱམས་པ་ལ་བཀའ་སྩལ་པ། </seg>
             </tuv>
@@ -52,6 +57,7 @@
         </tu>
         <tu>
             <prop type="folio">F.59.b</prop>
+            <prop type="location-id">UT22084-066-007-18</prop>
             <tuv xml:lang="bo">
                 <seg>
                     <tei:ref folio="F.59.b"/>བྱམས་པ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཆོས་བཞི་དང་ལྡན་ན་སྡིག་པ་བྱས་ཤིང་བསགས་པ་ཟིལ་གྱིས་ནོན་པར་འགྱུར་རོ། །</seg>
@@ -62,6 +68,7 @@
         </tu>
         <tu>
             <prop type="folio">F.59.b</prop>
+            <prop type="location-id">UT22084-066-007-18</prop>
             <tuv xml:lang="bo">
                 <seg>བཞི་གང་ཞེ་ན། </seg>
             </tuv>
@@ -72,6 +79,7 @@
         </tu>
         <tu>
             <prop type="folio">F.59.b</prop>
+            <prop type="location-id">UT22084-066-007-18</prop>
             <tuv xml:lang="bo">
                 <seg>རྣམ་པར་སུན་འབྱིན་པ་ཀུན་ཏུ་སྤྱོད་པ་དང་། གཉེན་པོ་ཀུན་ཏུ་སྤྱོད་པ་དང་། སོར་ཆུད་པར་བྱེད་པའི་སྟོབས་དང་། རྟེན་གྱི་སྟོབས་སོ། །</seg>
             </tuv>
@@ -81,6 +89,7 @@
         </tu>
         <tu>
             <prop type="folio">F.59.b</prop>
+            <prop type="location-id">UT22084-066-007-18</prop>
             <tuv xml:lang="bo">
                 <seg>རྣམ་པར་སུན་འབྱིན་པ་ཀུན་ཏུ་སྤྱོད་པ་ནི་མི་དགེ་བའི་ལས་སྤྱད་ན་དེ་ལ་འགྱོད་པ་མང་བ་ཡིན་ནོ། །</seg>
             </tuv>
@@ -91,6 +100,7 @@
         </tu>
         <tu>
             <prop type="folio">F.59.b</prop>
+            <prop type="location-id">UT22084-066-007-18</prop>
             <tuv xml:lang="bo">
                 <seg>དེ་ལ་གཉེན་པོ་ཀུན་ཏུ་སྤྱོད་པ་ནི་མི་དགེ་བའི་ལས་བྱས་ནས་ཀྱང་དགེ་བའི་ལས་ལ་ཤིན་ཏུ་བརྩོན་པའོ། །</seg>
             </tuv>
@@ -101,6 +111,7 @@
         </tu>
         <tu>
             <prop type="folio">F.59.b</prop>
+            <prop type="location-id">UT22084-066-007-18</prop>
             <tuv xml:lang="bo">
                 <seg>དེ་ལ་སོར་ཆུད་པར་བྱེད་པའི་སྟོབས་ནི་སྡོམ་པ་ཡང་དག་པར་བླངས་པས་མི་ཕྱེད་པའི་སྡོམ་པ་ཐོབ་པའོ། །</seg>
             </tuv>
@@ -112,6 +123,7 @@
         </tu>
         <tu>
             <prop type="folio">F.59.b</prop>
+            <prop type="location-id">UT22084-066-007-59</prop>
             <tuv xml:lang="bo">
                 <seg>དེ་ལ་རྟེན་གྱི་སྟོབས་ནི་སངས་རྒྱས་དང་། ཆོས་དང་། དགེ་འདུན་ལ་སྐྱབས་སུ་འགྲོ་བ་དང་། བྱང་ཆུབ་ཀྱི་སེམས་མི་གཏོང་བ་སྟེ། </seg>
             </tuv>
@@ -122,6 +134,7 @@
         </tu>
         <tu>
             <prop type="folio">F.59.b</prop>
+            <prop type="location-id">UT22084-066-007-59</prop>
             <tuv xml:lang="bo">
                 <seg>དེ་སྟོབས་དང་ལྡན་པ་ལ་རྟེན་པས་སྡིག་པས་ཟིལ་གྱིས་གནོན་པར་མི་ནུས་སོ། །</seg>
             </tuv>
@@ -131,6 +144,7 @@
         </tu>
         <tu>
             <prop type="folio">F.59.b</prop>
+            <prop type="location-id">UT22084-066-007-21</prop>
             <tuv xml:lang="bo">
                 <seg>བྱམས་པ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཆོས་བཞི་པོ་དེ་དག་དང་ལྡན་ན་སྡིག་པ་བྱས་ཤིང་བསགས་པ་ཟིལ་གྱིས་ནོན་པར་འགྱུར་རོ། །</seg>
             </tuv>
@@ -141,6 +155,7 @@
         </tu>
         <tu>
             <prop type="folio">F.59.b</prop>
+            <prop type="location-id">UT22084-066-007-21</prop>
             <tuv xml:lang="bo">
                 <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོས་མདོ་འདི་རྟག་ཏུ་བཀླག་པར་བྱའོ། །</seg>
             </tuv>
@@ -150,6 +165,7 @@
         </tu>
         <tu>
             <prop type="folio">F.59.b</prop>
+            <prop type="location-id">UT22084-066-007-21</prop>
             <tuv xml:lang="bo">
                 <seg>ཁ་ཏོན་དུ་བྱའོ། །</seg>
             </tuv>
@@ -159,6 +175,7 @@
         </tu>
         <tu>
             <prop type="folio">F.59.b</prop>
+            <prop type="location-id">UT22084-066-007-21</prop>
             <tuv xml:lang="bo">
                 <seg>བསམ་པར་བྱའོ། །</seg>
             </tuv>
@@ -168,6 +185,7 @@
         </tu>
         <tu>
             <prop type="folio">F.59.b</prop>
+            <prop type="location-id">UT22084-066-007-21</prop>
             <tuv xml:lang="bo">
                 <seg>བསྒོམ་པར་བྱའོ། །</seg>
             </tuv>
@@ -177,6 +195,7 @@
         </tu>
         <tu>
             <prop type="folio">F.59.b</prop>
+            <prop type="location-id">UT22084-066-007-21</prop>
             <tuv xml:lang="bo">
                 <seg>མང་དུ་བྱའོ། །</seg>
             </tuv>
@@ -186,6 +205,7 @@
         </tu>
         <tu>
             <prop type="folio">F.59.b</prop>
+            <prop type="location-id">UT22084-066-007-21</prop>
             <tuv xml:lang="bo">
                 <seg>དེས་ན་ཉེས་པར་སྤྱད་པ་འབྲས་བུ་འབྱིན་མི་ནུས་པར་འགྱུར་རོ། །</seg>
             </tuv>
@@ -195,6 +215,7 @@
         </tu>
         <tu>
             <prop type="folio">F.59.b</prop>
+            <prop type="location-id">UT22084-066-007-22</prop>
             <tuv xml:lang="bo">
                 <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། </seg>
             </tuv>
@@ -205,6 +226,7 @@
         </tu>
         <tu>
             <prop type="folio">F.59.b</prop>
+            <prop type="location-id">UT22084-066-007-22</prop>
             <tuv xml:lang="bo">
                 <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བྱམས་པ་དང་། དགེ་སློང་དེ་དག་དང་། བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་དང་། བརྒྱ་བྱིན་ལ་སོགས་པའི་ལྷའི་བུ་རྣམས་དང་། ཐམས་ཅད་དང་ལྡན་པའི་འཁོར་དེ་དག་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།</seg>
             </tuv>
@@ -214,6 +236,7 @@
         </tu>
         <tu>
             <prop type="folio">F.59.b</prop>
+            <prop type="location-id">UT22084-066-007-22</prop>
             <tuv xml:lang="bo">
                 <seg>འཕགས་པ་ཆོས་བཞི་བསྟན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།། །། </seg>
             </tuv>
@@ -224,6 +247,7 @@
         </tu>
         <tu>
             <prop type="folio">F.59.b</prop>
+            <prop type="location-id">UT22084-066-007-22</prop>
             <tuv xml:lang="bo">
                 <seg>རྒྱ་གར་གྱི་མཁན་པོ་སུ་རེན་དྲ་བོ་དྷི་དང་། ཞུ་ཆེན་གྱི་ལོཙྪ་བ་བན་དེ་ཡེ་ཤེས་སྡེས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།། ༄༅༅། །རྒྱ་གར་སྐད་དུ། ཙ་ཏུར་དྷརྨ་ཀ་སཱུ་ཏྲ། བོད་སྐད་དུ། ཆོས་བཞི་པའི་མདོ། སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་</seg>
             </tuv>

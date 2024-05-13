@@ -4550,7 +4550,7 @@
 </tu>
 <tu id="UT22084-043-007-TU-406">
             <prop type="folio">F.171.a</prop>
-	<prop type="unmatched">v-1.1.15-2020</prop>
+	<prop type="location-id">UT22084-043-007-121</prop>
             <tuv xml:lang="bo">
                 <seg>ཚ་བ་དང་། བཀྲེས་པ་དང་། སྐོམ་པ་དང་། ཤ་སྦྲང་དང་། སྦྲང་བུ་དང་། རླུང་དང་། ཉི་མ་དང་། སྡིག་སྦྲུལ་གྱིས་རེག་པ་དང་། གཞན་གྱིས་ངན་དུ་སྨྲས་ཤིང་ངན་དུ་བརྗོད་པའི་ཚིག་གི་ལམ་དང་། ལུས་ཀྱི་ཚོར་བ་དྲག་པ། རྩུབ་པ། མི་བཟད་པ། སྲོག་འཆད་པར་འགྱུར་བ་ཡང་ཁྱད་དུ་གསོད་དོ། །</seg>
             </tuv>
@@ -7457,7 +7457,7 @@
 </tu>
 <tu id="UT22084-043-007-TU-663">
             <prop type="folio">F.180.b</prop>
-	<prop type="unmatched">v-1.1.15-2020</prop>
+	<prop type="location-id">UT22084-043-007-298</prop>
             <tuv xml:lang="bo">
                 <seg>འཕགས་པ་དཀོན་མཆོག་བརྩེགས་པ་ཆེན་པོའི་ཆོས་ཀྱི་རྣམ་གྲངས་ལེའུ་སྟོང་ཕྲག་བརྒྱ་པ་ལས་ལག་བཟངས་ཀྱིས་ཞུས་པའི་ལེའུ་ཞེས་བྱ་བ་སྟེ་ཉི་ཤུ་རྩ་དྲུག་པ་རྫོགས་སོ།། །།</seg>
             </tuv>
@@ -7481,6 +7481,7 @@
 
         
         <tu id="UT22084-043-007-TU-665">
+            <prop type="folio">F.180.b</prop>
             <prop type="revision">v-1.1.15-2020</prop>
             <prop type="location-id">UT22084-043-007-121</prop>
             <tuv xml:lang="en">
@@ -7488,6 +7489,7 @@
             </tuv>
         </tu>
         <tu id="UT22084-043-007-TU-666">
+            <prop type="folio">F.180.b</prop>
             <prop type="revision">v-1.1.15-2020</prop>
             <prop type="location-id">UT22084-043-007-299</prop>
             <tuv xml:lang="en">
