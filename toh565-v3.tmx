@@ -1,0 +1,2522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="linguae-dharmae/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-090-009" eft:text-version="v-1.0.3-2023"/>
+<body>
+<tu id="UT22084-090-009-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.158.b"/>༄༅༅། །རྒྱ་གར་སྐད་དུ། །བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>སྒྱུ་མའི་འོད་ཟེར་ཅན་འབྱུང་བའི་རྒྱུད་ལས་ཕྱུང་བའི་རྟོག་པའི་རྒྱལ་པོ་ཞེས་བྱ་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The King of Ritual Manuals from the Tantra of Māyā Mārīcī’s Arising</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-3">
+    <prop type="location-id">UT22084-090-009-68</prop>
+    <tuv xml:lang="bo">
+                <seg>དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-68"/>Homage to the Three Jewels.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-4">
+    <prop type="location-id">UT22084-090-009-70</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ལྷ་མོ་འོད་ཟེར་ཅན་འདིའི་གཟུངས་ཀྱི་རྟོག་པ་ཡིན་ཏེ། རྣམ་པར་སྣང་མཛད་ཀྱི་རྒྱལ་པོ་ཆེན་པོས་ཡོངས་སུ་གཟུང་བའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-70"/>This is the ritual manual of The Dhāraṇī of the Goddess Mārīcī that was received by Vairocana’s great king.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-5">
+    <prop type="location-id">UT22084-090-009-70</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟླ་བའི་གཟུགས་བརྙན་ནམ། ཉི་མའི་སྟེང་དུ་འོད་ཟེར་ཅན་རྣམ་པར་བསམ་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Visualize Mārīcī on a sun and moon disk.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-6">
+    <prop type="location-id">UT22084-090-009-70</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་འོད་ཟེར་ལས་ཡོངས་སུ་གྲུབ་པའི་ཁབ་དང་སྐུད་པ་དང་བཅས་པས་གདུག་པ་ཅན་རྣམས་ཀྱི་མིག་དང་ཁ་དྲུབས་བཞིན་པར་མདུན་དུ་རྣམ་པར་བསམ་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Imagine a needle and thread emerge before her out of her rays and sew shut the mouths and eyes of wicked beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-7">
+    <prop type="location-id">UT22084-090-009-70</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱི་རོལ་མཐོང་བའི་སྤྱོད་ཡུལ་དུ་མཚམས་བཅིང་བ་བྱས་ལ་ཟླ་བ་དང་ཉི་མ་གཉིས་དག་གི་འོད་ཟེར་ལས་ཡོངས་སུ་རྫོགས་བཞིན་པས་ལྷ་མོ་འོད་ཟེར་ཅན་མ་མཉན་ཡོད་ན་བཞུགས་ཏེ་ཞེས་བྱ་བ་ནས་བཟུང་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Set up a boundary to any external observation and imagine, while reciting the “was dwelling in Śrāvastī” line, that the goddess Mārīcī emerges in her complete form from the light of the sun and moon.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-8">
+    <prop type="location-id">UT22084-090-009-70</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་མོ་འོད་ཟེར་ཅན་ཞེས་བྱ་བ་ནི་རྒྱལ་བས་བཀའ་སྩལ་པའོ། །དེ་ཉི་མ་དང་ཟླ་བའི་མདུན་དང་མདུན་ནས་འགྲོ་ཡང་ལྷའི་ཚོགས་མང་པོས་ཀྱང་མཐོང་བར་མི་འགྱུར་རོ། །དེའི་ཚེ་བདག་ཀྱང་བལྟར་མེད་པའི་ཞེས་བྱ་བ་ལ་སོགས་པ་འདི་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Continue, saying, “ ‘There is a certain goddess named Mārīcī,’ the Victor said, ‘who arrives just before the sun and moon, but even the many hordes of gods cannot see her.’ ” Then, continue to where it says, “ ‘may I, too, not be seen,’ ” and so forth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-9">
+    <prop type="location-id">UT22084-090-009-70</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཡང་དགུ་ཕྲག་གསུམ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Those are the three sets of nine.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-10">
+    <prop type="location-id">UT22084-090-009-70</prop>
+    <tuv xml:lang="bo">
+                <seg>སྔགས་ཀྱི་ཚིག་ནི་འདི་ལྟ་སྟེ། ཨོཾ་པ་ཏཱ་ཀྲ་མ་སི། པ་རཱ་ཀྲ་མ་སི། ཨུ་ད་ཡ་མ་སི། པུ་ད་མ་སི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The mantra verse is recited as follows: oṃ padākramasi parākramasi udayamasi pudamasi nairamasi antardhānamasi.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-11">
+    <prop type="location-id">UT22084-090-009-75</prop>
+    <tuv xml:lang="bo">
+                <seg>ནཻ་ར་མ་སི། ཨན་ཏརྔྷཱ་ན་མ་སི། མིང་ཉིད་རབ་ཏུ་སྦྱར་ཏེ་ལྷ་མོ་འོད་ཟེར་ཅན་བདག་ལམ་དུ་སྐྱོབས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-75"/>One can add a specific name to the section that reads, “Goddess Mārīcī, protect me on the path.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-12">
+    <prop type="location-id">UT22084-090-009-75</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་ལམ་ལོག་པ་ལས་སྐྱོབས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Protect me from the wrong path.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-13">
+    <prop type="location-id">UT22084-090-009-75</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་པོ་དང་། མེ་དང་། དགྲ་དང་སེང་གེའི་འཇིགས་པ་ལས་བདག་སྐྱོབས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Protect me from perils involving kings, fire, enemies, and lions.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-14">
+    <prop type="location-id">UT22084-090-009-75</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་དུས་ཐམས་ཅད་དུ་ཕུན་སུམ་ཚོགས་པར་གྲུབ་པར་གྱིས་ཤིག །ན་མོ་རཏྣ་ཏྲ་ཡཱ་ཡ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Always bring me profit and success.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-15">
+    <prop type="location-id">UT22084-090-009-75</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་ཨཱ་ལོ། ཀཱ་ལོ། ཏཱ་ལོ། སཙྪ་ལོ། སཾ་མཱུངྟི། ར་ཀྵ་རཀྵ་མཾ། རཀྵ་རཀྵ་མཱཾ། སརྦ་བྷ་ཡེ་ཥུ་སྭཱ་ཧཱ། དཀོན་མཆོག་གསུམ་དང་ལྡན་པ་ཞེས་བྱ་བའི། ཨོཾ་བ་རཱ་ལི། བ་ཏཱ་ལི། བཏྟྭ་ལི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>namo ratnatrayāya oṃ ālo kālo tālo sacchalo saṁmurti rakṣa rakṣa māṃ sarvabhayeṣu svāhā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-16">
+    <prop type="location-id">UT22084-090-009-75</prop>
+    <tuv xml:lang="bo">
+                <seg>བ་རཱ་ལི། བ་རཱ་ཧ་<tei:ref folio="F.159.a"/>མུ་ཁི། སརྦ་དུཥྚཱ་ནཱཾ་མུ་ཁཾ། བན་དྷ་བན་དྷ། དུས་ཐམས་ཅད་དུ་ལེགས་པར་བསྲུང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to she who possesses the Three Jewels. oṃ varāli vatāli vattāli varāli varāhamukhi sarvaduṣṭānām mukhaṃ bandha bandha,” and that person will always be well protected.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-17">
+    <prop type="location-id">UT22084-090-009-78</prop>
+    <tuv xml:lang="bo">
+                <seg>བསྐུལ་ཚིག་བཞི་བཅུ་རྩ་བཞི་ནི། རྒྱ་མཚོ་གསུམ་ནི་མཚན་བརྗོད་པའི། ཨོཾ་དང་བཅས་པའི་སྙིང་པོ་དང་། ཉི་ཤུ་རྩ་གཉིས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-78"/>The forty-four-syllable invocation is the names of the three oceans, the heart mantra with the syllable oṃ, and the twenty-two and the six-syllable mantras.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-18">
+    <prop type="location-id">UT22084-090-009-78</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡི་གེ་དྲུག་པ་ནི་འཇིགས་པ་ཐམས་ཅད་ལས་སྲུང་བར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It offers protection from all manner of perils.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-19">
+    <prop type="location-id">UT22084-090-009-80</prop>
+    <tuv xml:lang="bo">
+                <seg>སྙིང་པོའི་སྔགས་འདི་འཛིན་ན་བློ་རྣོ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-80"/>If one bears this heart mantra in mind, one will have a keen intellect.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-20">
+    <prop type="location-id">UT22084-090-009-80</prop>
+    <tuv xml:lang="bo">
+                <seg>གླེང་གཞི་དང་བཅས་པ་སྔགས་འདི་བཟླས་པ་བྱས་ན་ནོར་དང་འབྲུ་དང་། གཡོག་འཁོར་འཕེལ་བར་བྱེད་པའི་མཆོག་སྦྱིན་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When this mantra is recited along with the introductory verses, she grants boons such as increasing one’s wealth, stores of grain, and attendants.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-21">
+    <prop type="location-id">UT22084-090-009-81</prop>
+    <tuv xml:lang="bo">
+                <seg>དོན་དེ་སྒྲུབ་པར་འདོད་པས་ཐང་ཀ་འམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-81"/>To that end, someone who wants to perform the sādhana should draw her image on a canvas or wooden board.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-22">
+    <prop type="location-id">UT22084-090-009-81</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤིང་ལེབ་ལ་བྲིས་སྐུ་བྱ་བ་ནི་མྱ་ངན་མེད་ཀྱི་ཤིང་གི་སྡོང་པོའི་རྩར་པདྨ་ལ་གནས་པ། རྒྱན་ཐམས་ཅད་ཀྱིས་བརྒྱན་པ། ལྗང་གུ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Draw Aśokamārīcī seated on a lotus at the base of an aśoka tree adorned with all her ornaments.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-23">
+    <prop type="location-id">UT22084-090-009-81</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨང་ག་རག་སྔོན་པོ་དང་སྟོད་གཡོགས་སྔོན་པོ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>She is yellow and wears a blue upper garment and shawl.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-24">
+    <prop type="location-id">UT22084-090-009-81</prop>
+    <tuv xml:lang="bo">
+                <seg>མགོ་བོ་ན་མཆོད་རྟེན་ཡོད་པ། གཞོན་ནུ་མ། གཡོན་པའི་ཕྱོགས་སུ་གཟིགས་པའི་སྤྱན་ཅན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Her head is crowned with a caitya, she is youthful, and her eyes look to the left.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-25">
+    <prop type="location-id">UT22084-090-009-81</prop>
+    <tuv xml:lang="bo">
+                <seg>མྱ་ངན་མེད་པའི་འོད་ཟེར་ཅན་ཞེས་བྱ་བ་བྲི་བར་བྱའོ། །སྔོན་དུ་བསྟན་པའི་ཆོ་གས་ཐང་སྐུ་འདི་མདུན་དུ་བལྟ་ཞིང་མཆོག་ཏུ་སྒྲུབ་པའི་སྙིང་པོ་བཟླས་པ་སྟོང་བྱའོ། །ཨོཾ་མཱ་རཱི་ཙྱཻ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Following the aforementioned ritual procedure, gaze at the painting in front of you while reciting the heart mantra of the supreme sādhana, oṃ mārīcyai svāhā, one thousand times.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-26">
+    <prop type="location-id">UT22084-090-009-81</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞེས་བྱ་བའོ། །མཆོག་གི་སྙིང་པོ་འདི་ངེས་པར་མཆོག་ཏུ་འགྲུབ་པར་འགྱུར་རོ། །རིམས་ཐམས་ཅད་མེད་པར་བྱེད་དོ། །ནད་ཐམས་ཅད་མེད་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This supreme heart mantra will certainly grant the highest siddhi, eliminate all fevers, and eliminate all illnesses.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-27">
+    <prop type="location-id">UT22084-090-009-83</prop>
+    <tuv xml:lang="bo">
+                <seg>བཟླས་པ་དང་སྦྱིན་སྲེག་གིས་ཀྱང་འོད་ཟེར་ཅན་གྱིས་ནོར་འཕེལ་བ་སྐྱེད་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-83"/>Reciting the mantra along with a fire offering causes Mārīcī to increase one’s wealth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-28">
+    <prop type="location-id">UT22084-090-009-83</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞོ་དང་དཱུར་བ་གཉིས་ཀྱི་སྦྱིན་སྲེག་གིས་ནི་ངེས་པར་ནད་མེད་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>A fire offering of yogurt and dūrvā grass eliminates illness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-29">
+    <prop type="location-id">UT22084-090-009-83</prop>
+    <tuv xml:lang="bo">
+                <seg>སྦྲང་རྩི་དང་མར་གྱི་སྦྱིན་སྲེག་གིས་ནི་རྒྱལ་པོ་རྣམས་དབང་དུ་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>A fire offering of honey and ghee enthralls kings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-30">
+    <prop type="location-id">UT22084-090-009-83</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞོ་དང་འབྲས་སཱ་ལུ་དང་། བུ་རམ་གྱི་སྦྱིན་སྲེག་གིས་ནི་གནོད་སྦྱིན་མོ་འགྲུབ་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>A fire offering of yogurt, rice, and molasses allows one to acquire a yakṣiṇī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-31">
+    <prop type="location-id">UT22084-090-009-83</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚ་བའི་མར་དང་ནིམ་པའི་ཡལ་ག་སྟོང་གི་སྦྱིན་སྲེག་གིས་ནི་རིམས་ནད་མེད་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One thousand fire offerings of mustard oil and leafy neem branches eliminates fever and illnesses.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-32">
+    <prop type="location-id">UT22084-090-009-83</prop>
+    <tuv xml:lang="bo">
+                <seg>རང་གི་ཁྲག་དང་། རུས་པ་དང་། དུག་དང་། སྐེ་ཚེ་སྟོང་ཕྲག་གཅིག་སྦྱིན་སྲེག་བྱས་པས་དགྲ་བོ་འཆིའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One should perform one thousand fire offerings using one’s own blood, a bone, poison, and black mustard, and the enemy will die.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-33">
+    <prop type="location-id">UT22084-090-009-83</prop>
+    <tuv xml:lang="bo">
+                <seg>འོ་མའི་སྦྱིན་སྲེག་གིས་ནི་ཞི་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Perform the fire offering with milk, and it will be pacified.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-34">
+    <prop type="location-id">UT22084-090-009-85</prop>
+    <tuv xml:lang="bo">
+                <seg>རྟག་ཏུ་བཟླས་ན་དུག་འཇོམས་པར་བྱེད་ཅིང་འབད་པ་མེད་པར་མཁའ་འགྲོ་མ་རྣམས་འཇོམས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-85"/>If one recites the mantra continually, it neutralizes poison and easily subdues ḍākinīs.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-35">
+    <prop type="location-id">UT22084-090-009-85</prop>
+    <tuv xml:lang="bo">
+                <seg>ཉི་མ་རེ་རེ་བརྒྱ་རྩ་བརྒྱད་བཟླས་ན་འཛིན་བློ་རྣོ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one recites it one hundred and eight times each day one will develop a keen intellect.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-36">
+    <prop type="location-id">UT22084-090-009-86</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་བ་རཱ་ལི། བ་དཱ་ལི། བཏྟྭ་ལི། བཱ་རཱ་ཧཱ་མུ་ཁི་སརྦ་དུཥྚ་པྲ་དུཥྚཱ་ནཱཾ་བན་དྷ་བན་དྷ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-86"/>Mārīcī’s heart mantra is oṃ varāli vadāli vattāli varāhamukhi sarvaduṣṭapraduṣṭānāṃ bandha bandha mukhaṃ svāhā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-37">
+    <prop type="location-id">UT22084-090-009-88</prop>
+    <tuv xml:lang="bo">
+                <seg>མུ་ཁཾ་སྭཱ་ཧཱ། འོད་ཟེར་<tei:ref folio="F.159.b"/>ཅན་གྱི་སྙིང་པོའོ། །ཨོཾ་མཱ་རཱི་ཙྱཻ་སྭཱ་ཧཱ། བཅོམ་ལྡན་འདས་མ་འོད་ཟེར་ཅན་གྱི་གསང་བའི་སྙིང་པོ་ཡི་གེ་དྲུག་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-88"/>Blessed Mārīcī’s six-syllable secret heart mantra is oṃ mārīcyai svāhā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-38">
+    <prop type="location-id">UT22084-090-009-89</prop>
+    <tuv xml:lang="bo">
+                <seg>སྙིང་པོའི་ཕྱག་རྒྱ་ནི་འདི་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-89"/>This is the hand mudrā for the heart mantra: Hold the hands parallel with the palms either together or open.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-39">
+    <prop type="location-id">UT22084-090-009-89</prop>
+    <tuv xml:lang="bo">
+                <seg>ལག་པ་གཉིས་མཉམ་པར་བྱས་ལ་ཐལ་མོ་རྣམ་པར་སྦྱར་བར་བྱས་པ་འམ་ཁ་ཕྱེ་བ་ཡང་རུང་སྟེ་མཐེབ་ཆེན་ཅུང་ཟད་བཀུག་སྟེ་གུང་མོ་གཉིས་ཕན་ཚུན་རེག་ལ་ཟླུམ་པོའི་རྣམ་པ་མཚན་མར་བྱས་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Draw the thumbs in slightly and make a circular shape with the two middle fingers touching each other.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-40">
+    <prop type="location-id">UT22084-090-009-89</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐྱིལ་མོ་ཀྲུང་དུ་གནས་པའི་ལྟེ་བའི་ཕྱོགས་སུ་གཏུག་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Sit with the legs crossed and rest the hands at the navel.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-41">
+    <prop type="location-id">UT22084-090-009-91</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱག་རྒྱ་འདི་མཆོག་གཙོ་བོ་སྟེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-91"/>This most supreme hand mudrā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-42">
+    <prop type="location-id">UT22084-090-009-91</prop>
+    <tuv xml:lang="bo">
+                <seg>ལས་རྣམས་ཀུན་ལ་སྦྱར་བར་བྱའི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Can be used for any rite,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-43">
+    <prop type="location-id">UT22084-090-009-91</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐ་མ་དང་ནི་འབྲིང་ལ་ཡང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And it is taught to lesser, middling,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-44">
+    <prop type="location-id">UT22084-090-009-91</prop>
+    <tuv xml:lang="bo">
+                <seg>མཆོག་རྣམས་ལ་ཡང་འདི་བསྟན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And superior practitioners.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-45">
+    <prop type="location-id">UT22084-090-009-92</prop>
+    <tuv xml:lang="bo">
+                <seg>མྱུར་དུ་འདི་ཡིས་དོན་བྱེད་ཅིང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-92"/>It accomplishes goals quickly.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-46">
+    <prop type="location-id">UT22084-090-009-92</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་དུ་གྲུབ་ཅིང་མཆོད་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is always effective and is used to make offerings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-47">
+    <prop type="location-id">UT22084-090-009-92</prop>
+    <tuv xml:lang="bo">
+                <seg>དག་བྱེད་བསོད་ནམས་ཆེན་པོ་སྟེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It purifies and brings great merit.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-48">
+    <prop type="location-id">UT22084-090-009-92</prop>
+    <tuv xml:lang="bo">
+                <seg>བཀྲ་ཤིས་སྡིག་པ་ཉམས་བྱེད་ཅིང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It brings good luck and destroys misdeeds.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-49">
+    <prop type="location-id">UT22084-090-009-93</prop>
+    <tuv xml:lang="bo">
+                <seg>བསོད་ནམས་སྡིག་པ་ཀུན་ཟད་པ། །དངོས་གྲུབ་རྒྱུ་ནི་ཕྱག་རྒྱ་ཡིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-93"/>This mudrā is a cause of merit, Siddhi, and the elimination of all misdeeds.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-50">
+    <prop type="location-id">UT22084-090-009-94</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མ་འོད་ཟེར་ཅན་མའི་མཚན་བརྒྱད་བརྗོད་ན་བསྲུང་བ་དང་། སྐྱོབ་པ་དང་། སྦེད་པར་འགྱུར་རོ། །ཏདྱ་ཐཱ། ཨརྐྐ་མ་སི། མརྐ་མ་སི། ཨུར་མ་མ་སི། བ་ར་མ་སི། ཙཱི་བ་ར་མ་སི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-94"/>When one recites Blessed Mārīcī’s name eight times one will be protected, given refuge, and defended.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-51">
+    <prop type="location-id">UT22084-090-009-96</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་ཧཱ་ཙཱི་བ་ར་མ་སི། ཨནྡརྡྷཱཾ་ན་མ་སི། ན་མོ་རཏྣ་ཏྲ་ཡཱ་ཡ། ཏདྱ་ཐཱ། ཨོཾ་བ་དཱ་ལི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-96"/>tadyathā arkamasi markamasi urmamasi varamasi cīvaramasi mahācīvaramasi antardhānamasi namo ratnatrayāya tadyathā oṃ vadāli varāli varāhamukhi sarvaduṣṭapraduṣṭānāṃ mukhaṃ bandha bandha svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-52">
+    <prop type="location-id">UT22084-090-009-98</prop>
+    <tuv xml:lang="bo">
+                <seg>བ་རཱ་ལི། བ་རཱ་ཧ་མུ་ཁི་སརྦ་དུཥྚ་པྲ་དུཥྚཱ་ནཱཾ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-98"/>This ritual manual comes from the Vidyādhara Basket.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-53">
+    <prop type="location-id">UT22084-090-009-100</prop>
+    <tuv xml:lang="bo">
+                <seg>མུ་ཁཾ་བན་དྷ་བན་དྷ་སྭཱ་ཧཱ། རིག་པ་འཛིན་པའི་སྡེ་སྣོད་ལས་ཕྱུང་བའི་རྟོག་པ་ནི་འདི་ཡིན་ནོ། །དེ་ནས་སྦྱོར་བ་གཞན་ནི་འདི་ཡིན་ཏེ། གསེར་མདོག་ཅན་གྱི་ཕག་པ་བསྒོམས་ལ། དེའི་སྟེང་དུ་འོད་ཟེར་ཅན་གོས་དཀར་པོའི་ཤམ་ཐབས་ཅན་བསྒོམ་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-100"/>Another application of her mantra is as follows: Visualize a golden boar, and visualize Mārīcī mounted on it wearing a white skirt.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-54">
+    <prop type="location-id">UT22084-090-009-100</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་སྤྱི་བོར་མཆོད་རྟེན་དང་། གཡོན་པའི་ཕྱག་གིས་མྱ་ངན་མེད་པའི་ཡལ་ག་མེ་ཏོག་དང་བཅས་པའི་ཕྱག་ཅན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Her head is crowned with a caitya, and her left hand holds a blooming aśoka branch.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-55">
+    <prop type="location-id">UT22084-090-009-100</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇིགས་པ་ཆེན་པོའི་དུས་སུ་ཡང་བདག་ཉིད་ཕག་པའི་ཚོགས་ཀྱིས་ཡོངས་སུ་བསྐོར་བར་བསྒོམ་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When confronted with any of the great perils, one should visualize oneself surrounded by a pack of boars.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-56">
+    <prop type="location-id">UT22084-090-009-100</prop>
+    <tuv xml:lang="bo">
+                <seg>སྙིང་གར་ཆོས་གོས་ཀྱི་སྣེའུ་བཟུང་སྟེ། ལན་བདུན་དུ་སྔགས་ལ་མདུད་པ་བདུན་བྱས་ན་ལམ་དུ་རྐུན་མ་ལ་སོགས་པས་ཆོམས་པར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One should hold the hem of the upper garment at one’s heart and chant the mantra seven times while making seven knots, and one will not be overcome by robbers and the like.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-57">
+    <prop type="location-id">UT22084-090-009-100</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་མདུད་པ་ཡོངས་སུ་བཀྲོལ་བར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Afterward, the knots should be untied.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-58">
+    <prop type="location-id">UT22084-090-009-101</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞེས་བྱ་བ་ནི་བཅོམ་ལྡན་འདས་མ་འོད་ཟེར་ཅན་གྱི་རྟོག་པ་རྫོགས་པའོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-101"/>This concludes “The Ritual Manual of Blessed Mārīcī.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-59">
+    <prop type="location-id">UT22084-090-009-104</prop>
+    <tuv xml:lang="bo">
+                <seg>རང་གི་སྙིང་གར་ཟླ་བ་ལ་ལྃ་རྣམ་པར་བསམས་ལ་དེ་ཉིད་ཡིད་ཀྱིས་བརྗོད་པས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-104"/>One should imagine the syllable laṃ on the moon disk at one’s heart.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-60">
+    <prop type="location-id">UT22084-090-009-104</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་བདག་མེད་པའི་ངོ་བོ་<tei:ref folio="F.160.a"/>ཉིད་དུ་བསྒོམ་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One should recite it mentally and meditate on the fact that all phenomena are devoid of identity.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-61">
+    <prop type="location-id">UT22084-090-009-104</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ཡང་ནམ་མཁའི་ཕྱོགས་སུ་བསམ་པ་ནི་བདག་ཉིད་རྣམ་པར་སྣང་མཛད་ཀྱི་གཟུགས་པདྨའི་ལྟེ་བར་སེང་ལྡེང་གི་ཁྲི་ལ་རྡོ་རྗེའི་སྐྱིལ་ཀྲུང་གིས་བཞུགས་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then one should imagine oneself in space in the form of Vairocana seated on a teakwood throne in the center of a lotus with legs crossed in the vajra posture.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-62">
+    <prop type="location-id">UT22084-090-009-104</prop>
+    <tuv xml:lang="bo">
+                <seg>གསེར་གྱི་མདོག་ཅན་བྱང་ཆུབ་མཆོག་གི་ཕྱག་རྒྱ་ཅན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He has a golden complexion and bears the hand mudrā of supreme awakening.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-63">
+    <prop type="location-id">UT22084-090-009-104</prop>
+    <tuv xml:lang="bo">
+                <seg>ཏིང་ངེ་འཛིན་ལ་སྙོམས་པར་ཞུགས་པ། །རལ་པའི་དབུ་རྒྱན་འཆང་ཞིང་ཞི་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He has attained meditative concentration, wears a crown of matted locks, and is peaceful.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-64">
+    <prop type="location-id">UT22084-090-009-104</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡི་གེ་མཱྃ་ཉིད་ཀྱིས་བརྗོད་པའི་རྣམ་པར་བསམ་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Perform the mental recitation with the syllable māṃ.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-65">
+    <prop type="location-id">UT22084-090-009-106</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་མདུན་དུ་ཟླ་བའི་གཟུགས་བརྙན་རྣམ་པར་སྣང་མཛད་ཀྱི་འོད་ཟེར་ལས་བྱུང་བའི་འོད་ཟེར་ཅན་མ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-106"/>Mārīcī appears on a moon disk before you out of Vairocana’s light rays.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-66">
+    <prop type="location-id">UT22084-090-009-106</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་མཱ་རཱི་ཙྱཻ་སྭཱ་ཧཱ། ཞེས་བྱ་བས་གསེར་གྱི་མདོག་ཅན་གྱི་སྐུད་པ་དང་བཅས་པའི་ཁབ་འཛིན་པའི་ཕྱག་གིས་གདུག་པ་ཅན་གྱི་ཁ་དང་མིག་ཡང་དག་པར་དྲུབས་པ་མདུན་དུ་རྣམ་པར་བསམ་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>While reciting the mantra oṃ mārīcyai svāhā, imagine that she is before you holding a golden needle and thread with which she sews shut the eyes and mouths of wicked beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-67">
+    <prop type="location-id">UT22084-090-009-106</prop>
+    <tuv xml:lang="bo">
+                <seg>བུ་མོས་བཀལ་བའི་སྐུད་པ་ཉི་ཤུ་རྩ་གཅིག་ལ་རྩ་བའི་སྔགས་ཀྱི་རིག་པ་ལན་ཅིག་ཡོངས་སུ་བཟླས་པ་ན་དེ་ནས། ན་མོ་རཏྣ་ཏྲ་ཡཱ་ཡ། མཱ་རཱི་ཙྱཻ་དེ་བ་དཏྟྭ་ཡཻ། ཧྲྀ་ད་ཡ་ཨཱ་བངྟ་ཡེ་ཥུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Recite the vidyā of the root mantra once over a protection cord with twenty-one threads spun by a young girl.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-68">
+    <prop type="location-id">UT22084-090-009-106</prop>
+    <tuv xml:lang="bo">
+                <seg>ཏདྱ་ཐཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then recite the following mantra one hundred and eight times:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-69">
+    <prop type="location-id">UT22084-090-009-107</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་བ་ཏི། ཏི་ལི། པཏྟ་ལི་པཏྟི་ལི། བ་རཱ་ལི། བ་རཱ་ཧ་མུ་ཁི་སརྦ་དུཥྚ་པྲ་དུཥྚཱ་ནཱཾ། ཙཀྵུར་མུ་ཁཾ། བན་དྷ་མི་སྭཱ་ཧཱ། ཞེས་བྱ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-107"/>namo ratnatrayāya mārīcyai devatāyai hṛdayāvartayeṣu tadyathā oṃ vati tili pattali pattilivarāli varāhamukhi sarvaduṣṭapraduṣṭānāṃ cakṣurmukhaṃ bandhāmi svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-70">
+    <prop type="location-id">UT22084-090-009-110</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡང་ལན་བརྒྱ་རྩ་བརྒྱད་འདི་བཟླས་ཏེ། ན་མོ་རཏྣ་ཏྲ་ཡཱ་ཡ། མཱ་རཱི་ཙྱཻ་དེ་བ་དཏྟྭ་ཡེ། ཏདྱ་ཐཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-110"/>To protect oneself, make seven knots in the protection cord while reciting the following mantra:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-71">
+    <prop type="location-id">UT22084-090-009-111</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་བཏྟྭ་ལི། བ་ཏཱ་ལི། བ་རཱ་ལི། བཱ་རཱ་ཧཱ་མུ་ཁི། སརྦ་དུཥྚ་པྲ་དུཥྚཱ་ནཱཾ། གྲནྠི་བན་དྷཱ་མི་སྭཱ་ཧཱ། ཞེས་བྱ་བ་བརྗོད་དོ། །དེ་སྐུད་པ་ལ་རང་ཉིད་བསྲུང་བའི་ཆེད་དུ་མདུད་པ་བདུན་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-111"/>namo ratnatrayāya mārīcyai devatāyai tadyathā oṃ vattāli vatāli varāli varāhamukhi sarvaduṣṭapraduṣṭānāṃ granthibandhāmi svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-72">
+    <prop type="location-id">UT22084-090-009-114</prop>
+    <tuv xml:lang="bo">
+                <seg>གཡོག་པོའི་ཆེད་དུ་བྱ་སྟེ། མིང་ཡོངས་སུ་བཟུང་བའི་སྦྱོར་བས་མདུད་པ་གཅིག་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-114"/>To do this for an associate, make a single knot while bearing their name in mind.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-73">
+    <prop type="location-id">UT22084-090-009-114</prop>
+    <tuv xml:lang="bo">
+                <seg>འགྲོ་བ་དང་འོང་བས་སྐུད་པ་དེ་རྐེད་པ་ལ་བཅིངས་ཏེ་གླེང་གཞི་དང་བཅས་པའི་འོད་ཟེར་ཅན་གྱི་རིག་པ་བཀླགས་ཏེ་མདུན་དུ་འགྲོ་བར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>A traveler should tie the cord to his waist and recite Mārīcī’s vidyā along with the introductory verses, and she will travel in front of him.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-74">
+    <prop type="location-id">UT22084-090-009-114</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་བྱས་ན་རང་བཞིན་གྱིས་བསྲུང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If he does that, he will protect himself.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-75">
+    <prop type="location-id">UT22084-090-009-115</prop>
+    <tuv xml:lang="bo">
+                <seg>ནུབ་མོ་མདུན་དུ་ཟླ་བ་ལ། ཉིན་མོ་ནི་ཉི་མའི་དཀྱིལ་འཁོར་ལ་སྔོན་དུ་གསུངས་པ་བཞིན་དུ་རང་གི་གནས་སུ་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-115"/>Make a moon disk at night and a sun disk during the day in one’s location according to the previous instructions.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-76">
+    <prop type="location-id">UT22084-090-009-115</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་རྗེས་སུ་ཇི་ལྟར་གསུངས་པའི་རིག་པ་ལན་བདུན་དུ་བརྗོད་པར་བྱ་སྟེ། ན་མཿསརྦ་བུདྡྷ་བོ་དྷི་སཏྭེ་བྷྱཿ། ཏདྱ་ཐཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then recite the following vidyā seven times just as it was taught:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-77">
+    <prop type="location-id">UT22084-090-009-117</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་ཨཱ་ལོ། ཀཱ་ལོ། ཏཱ་ལོ། སཙྪ་ལོ། སཾ་པ་མུངྟི། རཀྵ་རཀྵ་མཾ་སརྦ་བྷ་ཡེ་ཥུ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-117"/>namaḥ sarvabuddhabodhisatvebhyaḥ tadyathā oṃ ālo kālo tālo sacchalo saṃpamūrti rakṣa rakṣa māṃ sarvabhayeṣu svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-78">
+    <prop type="location-id">UT22084-090-009-119</prop>
+    <tuv xml:lang="bo">
+                <seg>དཀོན་མཆོག་གསུམ་<tei:ref folio="F.160.b"/>དང་ལྡན་པ་ཞེས་བྱ་བའི་རིག་པའོ། །ཏདྱ་ཐཱ། ཨོཾ་མཱ་རཱི་ཙྱཻ་བཏྟྭ་ལི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-119"/>That is the vidyā called she who possesses the Three Jewels.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-79">
+    <prop type="location-id">UT22084-090-009-120</prop>
+    <tuv xml:lang="bo">
+                <seg>བ་དཱ་ལི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-120"/>This has been confirmed as a supreme heart mantra of Blessed Mārīcī:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-80">
+    <prop type="location-id">UT22084-090-009-121</prop>
+    <tuv xml:lang="bo">
+                <seg>བ་རཱ་ལི། བཱ་རཱ་ཧཱ་མུ་ཁི་སརྦ་དུཥྚ་པྲ་དུཥྚཱ་ནཱཾ། བན་དྷ་བན་དྷ་མུ་ཁཾ་སྭཱ་ཧཱ། ཏདྱ་ཐཱ། ཨོཾ་བཏྟཱ་ལི། བ་དཱ་ལི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-121"/>tadyathā oṃ mārīcyai vattāli vadāli varāli varāhamukhi sarvaduṣṭpraduṣṭānāṃ bandha bandha mukhaṃ svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-81">
+    <prop type="location-id">UT22084-090-009-123</prop>
+    <tuv xml:lang="bo">
+                <seg>བ་རཱ་ལི། བ་རཱ་ཧ་མུ་ཁི། སརྦ་དུཥྚ་པྲ་དུཥྚཱ་ནཱཾ། བན་དྷ་བན་དྷ་མུ་ཁཾ་སྭཱ་ཧཱ། ཨོཾ་མཱ་རཱི་ཙྱཻ་སྭཱ་ཧཱ། ཞེས་བྱ་བ་ནི་བཅོམ་ལྡན་འདས་ཀྱི་སྙིང་པོའི་མཆོག་ངེས་པར་འདི་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-123"/>tadyathā oṃ vattāli vadāli varāli varāhamukhi sarvaduṣṭapraduṣṭānāṃ bandha bandha mukhaṃ svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-82">
+    <prop type="location-id">UT22084-090-009-124</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་མཱ་རཱི་ཙྱཻ་པ་ཏཱ་ཀྲ་མ་སི། པ་རཱ་ཀྲ་མ་སི། ཨུཏྟ་ཡ་མ་སི། ནཻ་ར་མ་སི། ཨརྐ་མ་སི། མརྐ་མ་སི། ཨུརྨ་མ་སི། བན་དྷ་མ་སི། གུལྨ་མ་སི། ཙཱི་བ་རཱ་མ་སི། མ་ཧཱ་ཙཱི་བ་ར་མ་སི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-124"/>oṃ mārīcyai svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-83">
+    <prop type="location-id">UT22084-090-009-125</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨནྟརྡྷཱ་ན་མ་སི། ན་མོ་རཏྣ་ཏྲ་ཡཱ་ཡ། ཏདྱ་ཐཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-125"/>This has been confirmed as a supreme heart mantra of Blessed Mārīcī:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-84">
+    <prop type="location-id">UT22084-090-009-126</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་བཏྟྭ་ལི། བ་དཱ་ལི། བ་རཱ་ལི། བཱ་རཱ་ཧཱ་མུ་ཁི་སརྦ་དུཥྚ་པྲ་དུཥྚཱ་ནཱཾ། བན་དྷ་བན་དྷ་མུ་ཁཾ་སྭཱ་ཧཱ། ཨོཾ་མཱ་རཱི་ཙྱཻ་སྭཱ་ཧཱ། ཞེས་བྱ་བ་ནི་བཅོམ་ལྡན་འདས་ཀྱི་སྙིང་པོའི་མཆོག་ནི་ངེས་པར་འདི་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-126"/>oṃ mārīcyai padākramasi parākramasi uttayamasi nairamasi arkamasi markamasi urmamasi bandhamasi gulmamasi cīvaramasi mahācīvaramasi antardhānamasi namo ratnatrayāya tadyathā oṃ vattāli vadāli varāli varāhāmukhi sarvaduṣṭapraduṣṭānāṃ bandha bandha mukhaṃ svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-85">
+    <prop type="location-id">UT22084-090-009-130</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་མཱ་རཱི་ཙྱཻ་པ་ཏཱ་ཀྲ་མ་སི། པ་རཱ་ཀྲ་མ་སི། ཨུཏྟ་ཡ་མ་སི། ནཻ་ར་མ་སི། ཨརྐ་མ་སི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-130"/>oṃ mārīcyai svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-86">
+    <prop type="location-id">UT22084-090-009-131</prop>
+    <tuv xml:lang="bo">
+                <seg>མརྐ་མ་སི། ཨུདྨ་མ་སི། བན་དྷ་མ་སི། གུལྨ་མ་སི། ཙཱི་བ་རཱ་མ་སི། མ་ཧཱ་ཙཱི་བ་རཱ་མ་སི། ཨནྟརྡྷཱ་ན་མ་སི། ན་མོ་རཏྣ་ཏྲ་ཡཱ་ཡ། ཏདྱ་ཐཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-131"/>He should perform the recitation with the mantras:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-87">
+    <prop type="location-id">UT22084-090-009-132</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་བཏྟྭ་ལི། བ་དཱ་ལི། བ་རཱ་ལི། བ་རཱ་ཧ་མུ་ཁི། སརྦ་དུཥྚ་པྲ་དུཥྚཱ་ནཱཾ། བན་དྷ་བན་དྷ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-132"/>oṃ mārīcyai padākramasi parākramasi uttayamasi nairamasi arkamasi markamasi urmamasi bandhamasi gulmamasi cīvaramasi mahācīvaramasi antardhānamasi namo ratnatrayāya tadyathā oṃ vattāli vadāli varāli varāhamukhi sarvaduṣṭapraduṣṭānāṃ bandha bandha svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-88">
+    <prop type="location-id">UT22084-090-009-136</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་བཏྟྭ་ལི། བ་དཱ་ལི། བ་རཱ་ལི། བ་རཱ་ཧ་མུ་ཁི། སརྦ་དུཥྚ་པྲ་དུཥྚཱ་ནཱཾ། ཙཀྵུརྨུ་ཁཾ་བན་དྷ་མི་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-136"/>oṃ vattāli vadāli varāli varāhamukhi sarvaduṣṭapraduṣṭānāṃ cakṣurmukhaṃ bandhāmi svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-89">
+    <prop type="location-id">UT22084-090-009-138</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞེས་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-138"/>And:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-90">
+    <prop type="location-id">UT22084-090-009-139</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་བཏྟྭ་ལི། བ་དཱ་ལི། བ་རཱ་ལི། བཱ་རཱ་ཧཱ་མུ་ཁི། སརྦ་དུཥྚ་པྲ་དུཥྚཱ་ནཱཾ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-139"/>oṃ vattāli vadāli varāli varāhamukhi sarvaduṣṭapraduṣṭānāṃ granthiṃ bandhāmi svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-91">
+    <prop type="location-id">UT22084-090-009-142</prop>
+    <tuv xml:lang="bo">
+                <seg>བན་དྷ་བན་དྷ་མི་སྭཱ་ཧཱ། ཞེས་བརྗོད་པར་བྱའོ། །རང་ཉིད་བསྲུང་བའི་དོན་དུ་སྔགས་འདི་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-142"/>Any of the following mantras may be recited to protect oneself:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-92">
+    <prop type="location-id">UT22084-090-009-144</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་ཨརྐ་མ་སི་སྭཱ་ཧཱ། ཞེས་བྱ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-144"/>oṃ arkamasi svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-93">
+    <prop type="location-id">UT22084-090-009-145</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་མརྐ་མ་སི་སྭཱ་ཧཱ། ཞེས་བྱ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-145"/>oṃ markamasi svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-94">
+    <prop type="location-id">UT22084-090-009-146</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་ཨནྟ་རྡྷཱན་མ་སི་སྭཱ་ཧཱ། ཞེས་བྱ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-146"/>oṃ antardhānamasi svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-95">
+    <prop type="location-id">UT22084-090-009-147</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་ཏེ་ཛོ་མ་སི་སྭཱ་ཧཱ། ཞེས་བྱ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-147"/>oṃ tejomasi svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-96">
+    <prop type="location-id">UT22084-090-009-148</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་ཨུཏྟ་ཡ་མ་སི་སྭཱ་ཧཱ། ཞེས་བྱ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-148"/>oṃ uttayamasi svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-97">
+    <prop type="location-id">UT22084-090-009-149</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་གུལྨ་མ་སི་སྭཱ་ཧཱ། ཞེས་བྱ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-149"/>oṃ gulmamasi svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-98">
+    <prop type="location-id">UT22084-090-009-150</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་བ་ནཱ་མ་སི་སྭཱ་ཧཱ། ཞེས་བྱ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-150"/>oṃ vanāmasi svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-99">
+    <prop type="location-id">UT22084-090-009-151</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་ཙཱི་བ་རཱ་མ་སི་སྭཱ་ཧཱ། ཞེས་བྱ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-151"/>oṃ cīvaramasi svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-100">
+    <prop type="location-id">UT22084-090-009-153</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་བ་ཏཱ་ཀྲ་མ་སི་སྭཱ་ཧཱ། ཞེས་བྱ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-153"/>oṃ vatākramasi svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-101">
+    <prop type="location-id">UT22084-090-009-154</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་བ་རཱ་ཀྲ་མ་སི་སྭཱ་ཧཱ། ཞེས་བྱ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-154"/>oṃ varākramasi svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-102">
+    <prop type="location-id">UT22084-090-009-155</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་ཨུརྨ་མ་སི་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-155"/>oṃ urmamasi svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-103">
+    <prop type="location-id">UT22084-090-009-156</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞེས་བྱ་བའོ། །དེ་ནས་ལས་གཞན་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-156"/>There are other rites as well.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-104">
+    <prop type="location-id">UT22084-090-009-156</prop>
+    <tuv xml:lang="bo">
+                <seg>མཆོག་ཏུ་གྱུར་པའི་སྔགས་ནི། ཨོཾ་མཱ་རཱི་ཙྱཻ་སྭཱ་ཧཱ། ཞེས་བྱ་བའི་སྔགས་འདིའི་ལས་ནི་ཞི་བ་དང་། རྒྱས་པ་དང་། དབང་དང་། མངོན་སྤྱོད་<tei:ref folio="F.161.a"/>དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The supreme mantra oṃ mārīcyai svāhā can be used for rites of pacifying, increasing, enthralling, subjugating, and attracting.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-105">
+    <prop type="location-id">UT22084-090-009-156</prop>
+    <tuv xml:lang="bo">
+                <seg>དགུག་པའོ། །བདག་གི་དོན་དུ་སྙིང་གར་ཏྲི་དང་། སྤེལ་བའི་སྙིང་པོ། ཨོཾ་དང་སྤེལ་བ་བྱས་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>To use it for oneself, imagine the heart mantra at the heart with the syllables tri and oṃ added to it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-106">
+    <prop type="location-id">UT22084-090-009-156</prop>
+    <tuv xml:lang="bo">
+                <seg>མགལ་མེའི་འཁོར་ལོ་ལ་གནས་པ་ལྕགས་ཀྱུ་དང་ཞགས་པས་དགུག་པར་བྱ་བ་ནི་དཔག་ཚད་བརྒྱ་ཡིན་དུ་ཟིན་ཀྱང་ལྷ་རྫས་ཀྱི་བུད་མེད་འགུགས་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Imagine the target standing in a whirling firebrand and perform the attracting rite with the hook and noose mudrās. This will attract a divine woman who is within one hundred leagues.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-107">
+    <prop type="location-id">UT22084-090-009-158</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་སྦྱོར་བ་གཞན་ཡིན་ཏེ། ཉི་མ་འཆར་ཀའི་ཚེ་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-158"/>Another application is as follows: Perform the following rite at sunrise.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-108">
+    <prop type="location-id">UT22084-090-009-158</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་མ་ལ་སྔགས་བརྒྱ་བཟླས་ཏེ་བའི་ལྕི་བས་དཀྱིལ་འཁོར་བྱས་ལ་གཞག་པར་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Recite the Kumārī mantra one hundred times and install her in a maṇḍala made with cow dung.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-109">
+    <prop type="location-id">UT22084-090-009-158</prop>
+    <tuv xml:lang="bo">
+                <seg>ཙནྡན་དཀར་པོས་ཡན་ལག་བྱུགས་ལ། མེ་ཏོག་དང་ལེགས་པར་ཁྲུས་བྱས་ཤིང་གོས་དཀར་པོ་བསྐོན་ལ་གུ་གུལ་གྱི་བདུག་པ་སྦྱིན་ཏེ་མཐེ་བོང་ལ་རྒྱ་སྐྱེགས་དང་མར་ནག་གིས་བསྐུས་ལ་སྔགས་བརྒྱད་བརྒྱ་བཟླས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Smear her body with white flowers and sandalwood, wash her thoroughly, dress her in a white robe, and perform an incense offering with bdellium. Smear the thumbs with red lac and black oil and recite the mantra one hundred and eight times, and this will show that one has been consecrated.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-110">
+    <prop type="location-id">UT22084-090-009-158</prop>
+    <tuv xml:lang="bo">
+                <seg>དབང་བསྐུར་བ་བསྟན་པར་བྱའོ། །ལྷ་ལ་སོགས་པ་ཐམས་ཅད་སྔགས་ཀྱི་རྒྱལ་པོ་འདིས་བསྐུལ་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then invoke all the gods and the like with this king of mantras:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-111">
+    <prop type="location-id">UT22084-090-009-162</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨཱོཾ་ཙི་རི་ཙི་རི་མུ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-162"/>oṃ ciri ciri mu svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-112">
+    <prop type="location-id">UT22084-090-009-163</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞེས་བྱ་བ་ནི་སྔགས་སོ། །ཨོཾ་མཱཾཿསྔགས་འདིས་མར་མེ་ལ་བརྒྱད་བརྒྱ་མངོན་པར་བསྔགས་ནས་གཞོན་ནུ་མ་ལ་བསྟན་པར་བྱས་ན་སྔོན་བཞིན་དུ་མཐོང་བར་འགྱུར་རོ། །མ་མོའི་ཚོགས་ཐམས་ཅད་ཀྱི་དགེ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-163"/>Recite the mantra oṃ māḥ aloud one hundred and eight times to incant the lamp, present it to Kumārī, and, just as before, they will see you.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-113">
+    <prop type="location-id">UT22084-090-009-163</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་དགེ་བ་ཡང་ཐོས་པ་ནི། ཨོཾ་བ་ཏཱ་ལི་ཡཾ་མུཿ། སྔགས་འདི་ཁྲི་ཚོ་གཅིག་བཟླས་ཏེ་བསྟན་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Listen for an auspicious or inauspicious sign from the entire horde of mātṛs while reciting the mantra oṃ vatāli yaṃ muḥ ten thousand times, and it will be revealed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-114">
+    <prop type="location-id">UT22084-090-009-166</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡང་ན་དགྲ་བོ་རིམས་ཀྱིས་གཟུང་བར་འདོད་ན་མིའི་རུས་པའི་ཕྱེ་མ་དང་། དུར་ཁྲོད་ཀྱི་ཐལ་བ་དང་། ཆུ་བོའི་ངོགས་གཉིས་ཀྱི་ས་དང་། རྐང་རྗེས་ཀྱི་རྡུལ་དང་བཅས་པ་ལ་གཟུགས་བརྙན་བྱས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-166"/>If one wants an enemy to contract a fever, mix ground human bone, ashes from a charnel ground, and the soil of both banks of a river with soil from a footprint and make an effigy.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-115">
+    <prop type="location-id">UT22084-090-009-166</prop>
+    <tuv xml:lang="bo">
+                <seg>དུག་དང་། མེ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Write the augmented mantra with poison, copper, black mustard, and gold mixed with milk on cloth from a charnel ground.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-116">
+    <prop type="location-id">UT22084-090-009-166</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐེ་ཚེ་དང་། ཉིན་ཕྱེད་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Perform one hundred and eight recitations of the following mantra:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-117">
+    <prop type="location-id">UT22084-090-009-168</prop>
+    <tuv xml:lang="bo">
+                <seg>འོ་མ་དང་ལྡན་པ་དུར་ཁྲོད་ཀྱི་རས་ལ་སྔགས་དང་སྤེལ་བ་བྲིས་བཞིན་པ་བྱས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-168"/>oṃ mārīcyai, infect [insert name] with fever—infect them!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-118">
+    <prop type="location-id">UT22084-090-009-168</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་མཱ་རཱི་ཙྱཻ་ཆེ་གེ་མོ་རིམས་ཀྱིས་ཟུང་ཤིག་ཟུང་ཤིག་ཧུྃ་ཕཊ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>hūṁ phaṭ svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-119">
+    <prop type="location-id">UT22084-090-009-169</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞེས་བརྒྱད་བརྒྱ་བཟླས་པས་དགྲ་བོའི་ཁང་པར་སྦས་ན་རིམས་ཀྱིས་འཛིན་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-169"/>If the cloth is hidden in the enemy’s house, they will contract a fever.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-120">
+    <prop type="location-id">UT22084-090-009-170</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡང་ན་ཐོད་པ་ལ་སྔོན་དུ་བསྟན་པའི་རྫས་ཉིད་ཀྱིས་མིང་བྲིས་ཏེ་ཡི་གེ་ཨ་བཞི་ནང་དུ་བཅུག་ནས་མེའི་ནང་དུ་ཡང་མཱྃ་གིས་ཡོངས་སུ་བསྐོར་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-170"/>One can also write the enemy’s name on a skull with the aforementioned substances, place four a syllables inside it, and place it in a fire surrounded by the syllable māṃ.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-121">
+    <prop type="location-id">UT22084-090-009-170</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྲོས་པས་སེང་ལྡེང་གི་མེ་ལ་བདུག་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then the wrathful one should heat it in a fire kindled with teakwood.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-122">
+    <prop type="location-id">UT22084-090-009-170</prop>
+    <tuv xml:lang="bo">
+                <seg>སྟེང་ནས་མགུལ་པ་བཅིངས་པའི་ཐོད་པ་དགྲ་བོའི་ཁང་པར་སྦས་ན་འཕྲལ་དུ་རིམས་ཀྱིས་འཛིན་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Remove the skull and hide it in the enemy’s house, and they will immediately contract a fever.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-123">
+    <prop type="location-id">UT22084-090-009-170</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡང་ན་དུར་ཁྲོད་དུ་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It can also be hidden in a charnel ground.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-124">
+    <prop type="location-id">UT22084-090-009-173</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་དགྲ་བོ་གསད་པར་འདོད་ན་དུག་དང་། ཚྭ་དང་། སྐེ་<tei:ref folio="F.161.b"/>ཚེ་དང་། ཁྲག་གིས་མིའི་རུས་པའི་སྨྱུ་གུས་ཐོད་པ་ལ་མིང་མངོན་པར་བྲིས་ཏེ་ཧཱུྃ་དང་ཕཊ་གཉིས་ཀྱི་ནང་དུ་བཅུག་ན་གསོད་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-173"/>If one wants to kill an enemy, one should write their name on a skull in the middle of the two syllables hūṁ and phaṭ with ink made of poison, salt, black mustard, and blood using a pen made of human bone, and they will be killed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-125">
+    <prop type="location-id">UT22084-090-009-173</prop>
+    <tuv xml:lang="bo">
+                <seg>སྔགས་ཀྱིས་ཡོངས་སུ་བསྐོར་བར་བྱ་སྟེ། ཨོཾ་མཱ་རཱི་ཙྱཻ་ཧཱུཾ་ཆེ་གེ་མོ་སོད་ཅིག་ཧཱུཾ་ཞེས་བྱ་བ་སྟོང་ཕྲག་བརྒྱད་བཟླས་ན་འཆི་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One should surround it with the mantra oṃ mārīcyai hūṁ, kill [insert name], hūṁ. One should recite the mantra one thousand and eight times, and the target will die.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-126">
+    <prop type="location-id">UT22084-090-009-173</prop>
+    <tuv xml:lang="bo">
+                <seg>དུར་ཁྲོད་དུ་བྲིས་ན་ནི་ཞག་གསུམ་གྱིས་ཉམས་པར་འགྱུར་རོ། །ཡང་ན་སྐྲོད་པར་འདོད་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If the mantra is written in a charnel ground, the target will die within three days.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-127">
+    <prop type="location-id">UT22084-090-009-174</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་མཱ་རཱི་ཙྱཻ། ཙ་ལ་ཙ་ལ། པྲ་ཙ་ལ་པྲ་ཙ་ལ། ཤཱི་གྷྲཾ་ག་མི་ནི་ཆེ་གེ་མོ་སྐྲོད་ཅིག་ཧཱུཾ་ཕཊ། སྔགས་འདི་བྱ་རོག་གི་གཤོག་པ་བླངས་ལ་སྟོང་ཕྲག་བརྒྱད་བཟླས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-174"/>If one wants to expel someone, one should hold a crow’s wing while reciting one thousand and eight times the mantra oṃ mārīcyai cala cala pracala pracala śīghraṃgamini, expel [insert name], hūṁ phaṭ.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-128">
+    <prop type="location-id">UT22084-090-009-174</prop>
+    <tuv xml:lang="bo">
+                <seg>དགྲ་བོའི་ཁྱིམ་དུ་འབད་པས་སྦ་བར་བྱས་ལ། རྔ་མོའི་སྟེང་དུ་ཞོན་པ་བསྒོམ་པར་བྱས་ན་དེ་མ་ཐག་ཏུ་སྐྲོད་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One should carefully hide it in the enemy’s house and visualize the target mounted on a camel, and they will be expelled immediately.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-129">
+    <prop type="location-id">UT22084-090-009-175</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡང་ན་དབྱེ་བར་འདོད་ན་དུར་ཁྲོད་ཀྱི་ཐལ་བ་དང་། ཆུ་ཀླུང་གི་ངོགས་གཉིས་ཀྱི་ས་དང་། རྐང་རྗེས་ཀྱི་ས་དང་། ཡང་དག་པར་བསྟན་པས་སོ་སོར་གཟུགས་བརྙན་བྱས་ལ་རྒྱབ་སྤྲད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-175"/>If one wants to sow discord, one should make sure that each effigy is made to look like the target using ash from a charnel ground, the soil of both banks of a river, and soil from a footprint and placed back-to-back.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-130">
+    <prop type="location-id">UT22084-090-009-175</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་ཧེའི་ཤ་དང་རྟའི་མགོ་སྤུས་ལེགས་པར་བཅིངས་ལ་དུག་དང་། སྐེ་ཚེ་དང་། ཚ་བ་གསུམ་གྱིས་ལུས་བྱུགས་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One should tie them with hair from the heads of a buffalo and a horse and smear their bodies with poison, black mustard, and salt.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-131">
+    <prop type="location-id">UT22084-090-009-175</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཉིད་དང་མ་ཧེའི་ཤ་དང་། རྟའི་ཁྲག་དང་ལྡན་པས་དུར་ཁྲོད་ཀྱི་རས་ལ་ཕཊ་བཞིའི་དབུས་སུ་ཧཱུཾ་གིས་སྤེལ་བའི་མིང་བྲིས་ལ་མཱྃ་གིས་ཡོངས་སུ་བསྐོར་ལ་དེའི་སྙིང་གར་བཅུག་སྟེ་སྔགས་བཟླས་ཤིང་མ་ཧེ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then one should write the targets’ names, augmented with the syllable hūṁ, in the middle of four phaṭ syllables with buffalo and horse blood on a piece of cloth from a charnel ground, and one should surround this with the syllable māṃ.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-132">
+    <prop type="location-id">UT22084-090-009-175</prop>
+    <tuv xml:lang="bo">
+                <seg>རྟ་གཉིས་ལ་ཞོན་པ་གཉི་ག་ཡང་འཐབ་བཞིན་རྣམ་པར་བསམས་ན་དབྱེ་བར་བྱེད་དོ། །འཕྲོག་བྱེད་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One should place the effigies in the center and recite the mantra while visualizing the two of them mounted on a buffalo and a horse as if they were fighting, and it will sow discord.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-133">
+    <prop type="location-id">UT22084-090-009-177</prop>
+    <tuv xml:lang="bo">
+                <seg>དཀའ་ཟློག་མ་དང་བཅས་པས་དུར་ཁྲོད་དུ་ས་བརྐོས་ལ་སྦའོ། །ཨོཾ་མཱ་རཱི་ཙྱཻ་ཆེ་གེ་མོ་དང་ཆེ་གེ་མོ་ཕྱེ་ཤིག་ཧཱུཾ་སྭཱ་ཧཱ། ཞེས་པ་ནི་སྔགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-177"/>One should bury an effigy of Hara with Durgā in a hole in a charnel ground while reciting the mantra oṃ mārīcyai, sow discord between [insert name] and [insert name], hūṁ svāhā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-134">
+    <prop type="location-id">UT22084-090-009-179</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་སྦྱོར་བ་གཞན་ནི་མ་ཧེའི་རྭ་དང་རྟའི་རུས་པ་ལ་གཟུགས་བརྙན་བྱས་ཏེ། དུག་དང་གཏུམ་པོའི་ས་བོན་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-179"/>Another application is as follows: The images should be made on a buffalo’s horn and a horse’s bone, and the names should be written at the heart centers with buffalo and horse blood mixed with feces and white dūrvā grass seeds.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-135">
+    <prop type="location-id">UT22084-090-009-179</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་ཧེའི་ཤ་དང་རྟའི་ཁྲག་གིས་སྙིང་གར་མིང་མངོན་པར་བྲིས་ལ་སྔགས་བཟླ་ཞིང་སེང་ལྡེང་གི་མེ་ལ་གདུངས་ན་དེ་མ་ཐག་ཏུ་འབྱེད་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then, this should be thrown into a fire kindled with teakwood while reciting the mantra, and it will immediately sow discord.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-136">
+    <prop type="location-id">UT22084-090-009-179</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡང་ན་དགྲ་བོའི་ཁྱིམ་དུ་སྦས་ན་ཡང་འབྱེད་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One can also hide them in the enemy’s house, and it will sow discord.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-137">
+    <prop type="location-id">UT22084-090-009-180</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཡང་དག་པར་བརྗོད་པར་བྱ་བ་ནི་འོད་ཟེར་ཅན་ཆེན་པོ་འབྱུང་བའི་རྒྱུད་ལས་བྱུང་བ་ནི་དགྲའི་དཔུང་རེངས་པར་བྱེད་པའི་ཚིག་སྟོན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-180"/>Now I will explain the instruction from The Great Tantra of Mārīcī’s Arising, which teaches the verses that should be recited to paralyze an enemy’s army.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-138">
+    <prop type="location-id">UT22084-090-009-180</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁ་ཅིག་ཏུ་རྒྱལ་པོའི་དཔུང་གི་ཚོགས་གཡོས་པར་འགྱུར་ཞིང་གཞན་གྱི་ཡུལ་ཁམས་ཕུང་བར་བྱེད་པར་བརྩོན་ན་གང་གི་ཚེ་དེ་ལ་རྒྱལ་པོ་འོངས་ནས་སླར་བྱེད་ཅིང་མཆོད་<tei:ref folio="F.162.a"/>དེ་སྔགས་པ་ལ་གསོལ་བ་འདེབས་ན་དེའི་ཚེ་སློབ་དཔོན་གྱིས་སེམས་ཅན་ཐམས་ཅད་ལ་རྗེས་སུ་བརྩེ་བས་བྱམས་པའི་སེམས་ཀྱིས་ཏིང་ངེ་འཛིན་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If trying to disrupt a king’s forces wherever they may be and bring an adversary’s kingdom to ruin, this rite should be performed and offering made right after the king arrives. The ācārya should request permission from the king’s counselor and then enter meditative concentration with a benevolent attitude and love toward all beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-139">
+    <prop type="location-id">UT22084-090-009-180</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལ་འཚོག་ཆས་དགོས་པ་ཐམས་ཅད་དང་ལྡན་ཞིང་ལེགས་པའི་གྲོགས་པོས་དེ་ཆེད་དུ་བྱས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱི་ཐང་སྐུ་བཀྲམ་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He should have a competent assistant provide him with all the necessary ritual implements and assist with the rite.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-140">
+    <prop type="location-id">UT22084-090-009-180</prop>
+    <tuv xml:lang="bo">
+                <seg>ཙནྡན་དཀར་པོས་དཀྱིལ་འཁོར་ཉེ་བར་བྱུགས་ནས་མེ་ཏོག་དཀར་པོ་བཀྲམ་པ། བདུག་སྤོས་དང་། དྲི་དང་། ཕྲེང་བ་དང་། གཏོར་མ་ཡང་བྱིན་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He should set up the painting of Blessed Mārīcī, anoint the maṇḍala with white sandalwood, scatter white flowers on it, and present incense, perfume, flower garlands, and a bali offering.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-141">
+    <prop type="location-id">UT22084-090-009-180</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞོ་དང་། སྦྲང་རྩི་དང་། བུ་རམ་དང་ལྡན་པས་ལན་བདུན་དུ་སྔགས་ལ་འབུལ་བར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then he should make offerings of yogurt, honey, and molasses while reciting the following mantra seven times:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-142">
+    <prop type="location-id">UT22084-090-009-182</prop>
+    <tuv xml:lang="bo">
+                <seg>སྔགས་ནི་ཨོཾ་མཱ་རཱི་ཙྱཻ་ཨརྒྷཾ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-182"/>oṃ mārīcyai arghaṃ pratīccha svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-143">
+    <prop type="location-id">UT22084-090-009-184</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་མཱ་རཱི་ཙྱཻ་གན་དྷ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-184"/>oṃ mārīcyai gandha pratīccha svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-144">
+    <prop type="location-id">UT22084-090-009-185</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་མཱ་རཱི་ཙྱཻ་པུཥྤེ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-185"/>oṃ mārīcyai puṣpe pratīccha svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-145">
+    <prop type="location-id">UT22084-090-009-186</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་མཱ་རཱི་ཙྱཻ་དྷཱུ་པེ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-186"/>oṃ mārīcyai dhūpe pratīccha svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-146">
+    <prop type="location-id">UT22084-090-009-187</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་མཱ་རཱི་ཙྱཻ་དཱི་པཾ་པྲ་ཏཱིཙྪ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-187"/>oṃ mārīcyai dīpaṃ pratīccha svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-147">
+    <prop type="location-id">UT22084-090-009-188</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་མ་ལ་མཆོད་ཅིང་ཡོངས་སུ་བསྔོ་སྟེ་དགྱེས་པར་བྱས་ལ་བདག་ཉིད་བཅོམ་ལྡན་འདས་མའི་གཟུགས་སུ་དམིགས་ཤིང་རང་ཉིད་ང་རྒྱལ་དང་ལྡན་པས་ཁྲི་ཕྲག་གསུམ་བཟླས་པ་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-188"/>He should perform the offering to Blessed Mārīcī and then recite the dedication. When she has been pleased, he should see himself in the form of Blessed Mārīcī and recite the mantra thirty thousand times with pride.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-148">
+    <prop type="location-id">UT22084-090-009-188</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་སྔོན་དུ་སོང་བའི་བསྙེན་པ་ཡིན་ཏེ་མི་དགེ་བའི་མཚན་མ་མཐོང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That is the preliminary worshiping rite, and it will reveal any inauspicious sign.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-149">
+    <prop type="location-id">UT22084-090-009-190</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ཕྱིས་ནི་སྦྱིན་སྲེག་བྱ་སྟེ་སྔོན་དུ་བསྟན་པའི་ཆོ་གས་ལས་ཐམས་ཅད་པའི་ཐབ་ཁུང་དུ་རྒྱ་སྐྱེགས་ཀྱི་ཤིང་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-190"/>After that, he should perform the fire offering.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-150">
+    <prop type="location-id">UT22084-090-009-190</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་ཀྱི་ཤིང་དང་། ཨུ་དུམ་བཱ་རའི་ཡམ་ཤིང་གིས་མེ་སྦར་ལ། ཞོ་དང་། འོ་མ་དང་། མར་དུ་སྨྱུགས་པའི་དཱུར་བ་ཉག་མ་རེ་རེ་རྣམས་སྟོང་ཕྲག་བརྒྱད་སྦྱིན་སྲེག་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Following the aforementioned ritual instructions, he should light fire pits for all the ritual actions using butea, bodhi tree, and uḍumbara branches, and he should offer one thousand and eight individual pieces of dūrvā grass that have been dipped in yogurt, milk, and ghee.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-151">
+    <prop type="location-id">UT22084-090-009-190</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ལས་ཐམས་ཅད་ནུས་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then he can perform all the ritual actions.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-152">
+    <prop type="location-id">UT22084-090-009-192</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་བཏྟྭ་ལི། བ་དཱ་ལི། བ་རཱ་ལི། བཱ་རཱ་ཧཱ་མུ་ཁི་སརྦ་རི་པུ་སྱཻ་སྟཾ་བྷཱ་ཡ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-192"/>The paralyzing mantra is oṃ vattāli vadāli varāli varāhamukhi sarvaripusyaibhyaṃ staṃbhaya svāhā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-153">
+    <prop type="location-id">UT22084-090-009-192</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ནི་རེངས་པར་བྱེད་པའི་སྔགས་ཏེ་རེངས་པའི་ལས་ཐམས་ཅད་ལ་སྦྱར་བར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This mantra can be used for any paralyzing ritual.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-154">
+    <prop type="location-id">UT22084-090-009-192</prop>
+    <tuv xml:lang="bo">
+                <seg>སྔགས་འདིས་བཟླས་པ་དང་། སྦྱིན་སྲེག་ཀྱང་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The recitation and fire offering should be performed using this mantra.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-155">
+    <prop type="location-id">UT22084-090-009-195</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱིས་ནི་རྒྱལ་པོ་དང་མདུན་ན་འདོན་ནི་གྲོ་གའམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-195"/>After that, he should add the names of the king and royal priest who are the target of the mantra and write them on a piece of birch bark or cloth using red saffron or bovine bezoar.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-156">
+    <prop type="location-id">UT22084-090-009-195</prop>
+    <tuv xml:lang="bo">
+                <seg>རས་ལ་གུར་གུམ་མམ། གིའུ་ཝང་དག་གིས། བསྒྲུབ་བྱའི་མིང་དང་སྔགས་སྤེལ་ཏེ་རྨྃ་གིས་དཀྲིས་པ་ཡང་ཡི་གེ་བཞིས་ཡོངས་སུ་བསྐོར་ཏེ། ཨོཾ་རྨཱྃ་བཱྃ་རྨཱྃ། ཕྱི་རོལ་དུ་བའི་ཡི་གེས་ཡོངས་སུ་བསྐོར་བའི་འཁོར་ལོ་འདི་བྲིས་ལ་གང་གི་སྤྱི་གཙུག་གམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He should encircle it with the syllable māṃ, surround that with the four syllables oṃ, māṃ, vāṃ, and māṃ, and draw the mantra wheel surrounded on the outside by the letter va.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-157">
+    <prop type="location-id">UT22084-090-009-195</prop>
+    <tuv xml:lang="bo">
+                <seg>མགུལ་པའམ། དཔུང་པ་ལ་བཏགས་ན་ལས་ཐམས་ཅད་ཉིད་ལ་སྲུང་བར་བྱེད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If he touches the troops with this on the crown or throat, they will be protected in everything they do.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-158">
+    <prop type="location-id">UT22084-090-009-195</prop>
+    <tuv xml:lang="bo">
+                <seg>གཡུལ་ངོར་ཞུགས་ན་མཚོན་ཆས་ལུས་ལ་མི་<tei:ref folio="F.162.b"/>ཆོད་པར་འགྱུར་རོ། །གཡུལ་ངོ་ལས་དེ་ནི་རྒྱལ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When they go to battle, no weapon will pierce their bodies, and they will win the battle.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-159">
+    <prop type="location-id">UT22084-090-009-196</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ཡང་ཕྱིས་ནས་མཆོག་ཏུ་གྱུར་པའི་གླང་པོ་ཆེ་འམ། མཆོག་ཏུ་གྱུར་པའི་ཤིང་རྟ་ལ་རྡོ་རྗེ་སློབ་དཔོན་ཞོན་ཏེ་གཡུལ་ལ་མངོན་པར་ཕྱོགས་པས་བཅོམ་ལྡན་འདས་མའི་ཐང་སྐུ་བཀྲམ་ལ་རྒྱལ་མཚན་སེར་པོ་བཙུགས་ཏེ་རས་སེར་པོའི་ཤམ་ཐབས་དང་སེར་པོའི་ཐོད་བཅིངས་ཏེ་འཚོག་ཆས་རྡོ་རྗེ་དྲིལ་བུ་བཟུང་ཞིང་བསྙེན་པ་དང་བཅས་པས་སྔོན་བཞིན་ཕག་པའི་ཤིང་རྟ་ལ་བསྒོམས་ལ་སྔགས་བརྗོད་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-196"/>Then the vajrācārya should mount the lead elephant or the lead chariot, face the battlefield, and hoist a yellow victory banner over an unfurled painting of Blessed Mārīcī. He should wear a lower robe of yellow cloth and a yellow turban, hold the ritual implements, vajra, and bell, and, with confidence, visualize himself as Mārīcī atop a chariot drawn by wild boar as before while reciting the following mantra:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-160">
+    <prop type="location-id">UT22084-090-009-197</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་མཱ་རཱི་ཙྱི་བཏྟཱ་ལི། བ་དཱ་ལི། བ་རཱ་ལི། བཱ་རཱ་ཧཱ་མུ་ཁི་སརྦ་དུཥྚ་རི་པུ་སྱཻ་བྷྱཾ་སྟཾ་བྷཱ་ཡ་ཧཱུཾ་ཕཊ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-197"/>oṃ mārīcyai vattāli vadāli varāli varāhamukhi sarvaduṣṭaripusyaibhyaṃ staṃbhaya hūṃ phaṭ svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-161">
+    <prop type="location-id">UT22084-090-009-200</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕག་པས་བསྐོར་བའི་ནང་དུ་བསྒོམས་ནས་དེ་མ་ཐག་ཏུ་དགྲའི་དཔུང་ཚོགས་ལས་རྒྱལ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-200"/>He should recite this while visualizing the target surrounded by wild boar, and it will bring immediate victory over the enemy army.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-162">
+    <prop type="location-id">UT22084-090-009-201</prop>
+    <tuv xml:lang="bo">
+                <seg>མཚོན་གྱིས་བཅད་པའི་མི་ཤི་བའི་རོ་གོས་སམ། དུར་ཁྲོད་ཀྱི་རས་ལ་འཁོར་ལོ་འདི་བ་བླ་འམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-201"/>This mantra wheel should be drawn with a liquid made of yellow arsenic or turmeric on a piece of cloth from the corpse of a person who was slain in battle or on a piece of cloth from a charnel ground.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-163">
+    <prop type="location-id">UT22084-090-009-201</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡུང་བའི་ཁུ་བས་བྲིས་ཏེ་ཆུ་བོའི་ངོགས་གཉིས་ཀྱི་ས་འམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>An effigy of the enemy’s general should be fashioned out of soil from both sides of a riverbank or soil from a mountaintop mixed with ash from a charnel ground and placed in the center of the mantra wheel.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-164">
+    <prop type="location-id">UT22084-090-009-201</prop>
+    <tuv xml:lang="bo">
+                <seg>རིའི་རྩེ་མོའི་ས་འམ་དུར་ཁྲོད་ཀྱི་ཐལ་བ་དང་ལྡན་པས་དགྲའི་དཔོན་གྱི་གཟུགས་བརྙན་བྱས་ལ་འཁོར་ལོ་དེའི་སྙིང་གར་བཅུག་ལ་ཡང་ས་དེ་དང་ལྷན་ཅིག་ཏུ་འབྲས་སཱ་ལུའི་ཁུ་བ་ལ་ཡུང་བའི་ཁུ་བ་དང་ལྡན་པས་ཕག་པའི་གཟུགས་བྱས་ལ་དེའི་ཁ་རུ་དགྲ་བོའི་གཟུགས་བརྙན་ཁ་ཐུར་དུ་བསྟན་ལ་བཅུག་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The image of a wild boar should be drawn using the same soil mixed with a liquid base of rice and turmeric, and the effigy of the enemy should be placed face down in the boar’s mouth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-165">
+    <prop type="location-id">UT22084-090-009-201</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕག་པ་དེ་ཁམ་སྐྱོང་ཁ་སྦྱར་གྱི་ནང་དུ་བཅུག་ལ་སོང་སྟེ་དགྲའི་དཔུང་ལ་མངོན་དུ་ཁ་བལྟས་པས་གཞག་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The boar should be placed inside of a vessel with a lid and left there, situated so that it faces the enemy army.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-166">
+    <prop type="location-id">UT22084-090-009-201</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟན་དང་ཉ་དང་། ཤ་རློན་པ་དང་ལྡན་པས་གཏོར་མ་བྱིན་ལ་སོར་བརྒྱད་པའི་སེང་ལྡེང་གི་ཕུར་བུས་བཏབ་ལ་ས་བརྐོས་ཏེ་བཟླས་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He should perform a bali offering with boiled rice, fish, and raw meat, and he should strike and pierce the ground with an eight-inch teakwood dagger while reciting the mantra.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-167">
+    <prop type="location-id">UT22084-090-009-201</prop>
+    <tuv xml:lang="bo">
+                <seg>སྔགས་སྟོང་ཕྲག་བརྒྱད་རྡོ་རྗེ་ཁྲོ་བོའི་སྟོབས་དང་ལྡན་པས་བཟླས་པ་བྱས་ན་དགྲ་བོའི་དཔུང་རེངས་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He should recite the mantra one thousand and eight times with the power of vajrakrodha, and the enemy army will be paralyzed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-168">
+    <prop type="location-id">UT22084-090-009-202</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་གཞན་ཡང་འཁོར་ལོའི་མཚན་ཉིད་ནི་བསྒྲུབ་བྱའི་མིང་ཡི་གེས་ཡོངས་སུ་དཀྲིས་པར་བྱས་ལ་ཡང་ཙའི་ཡི་གེས་ཡོངས་སུ་བསྐོར་བར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-202"/>For another depiction of the mantra wheel, he should surround it with the syllables of the target’s name, and surround that with the syllable ca.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-169">
+    <prop type="location-id">UT22084-090-009-202</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡི་གེ་དེ་གཉིས་ཀྱི་བར་དུ་བཏྟྭ་ལི་ལ་སོགས་པའི་སྔགས་ཀྱི་ཕྲེང་བས་ཡོངས་སུ་བསྐོར་བར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He should make a circle between those two with the mantra garland that begins with vattāli, surround that with the syllable māṃ, and surround it again with the four syllables.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-170">
+    <prop type="location-id">UT22084-090-009-202</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡང་དེ་ལ་མཱྃ་གིས་བསྐོར་བར་བྱས་ལ་ཡང་ཡི་གེ་བཞིས་ཡོངས་སུ་བསྐོར་ཞིང་གྲུ་བཞིའི་ཕྱོགས་དེ་མཚམས་སུ་རྡོ་རྗེས་མཚན་པར་བྱས་ནས་དེ་ཉིད་ཀྱིས་དེ་མ་ཐག་ཏུ་དགྲ་བོའི་དཔུང་རེངས་པར་བྱེད་ཅིང་ཉམས་པར་བྱེད་པ་ལ་ཐེ་ཚོམ་མེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He should mark the edge of the square boundary with vajras, and it will instantly paralyze and weaken the enemy army—let there be no doubt.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-171">
+    <prop type="location-id">UT22084-090-009-202</prop>
+    <tuv xml:lang="bo">
+                <seg>དགྲ་བོའི་དཔུང་ལས་མཆོག་ཏུ་རྒྱལ་བ་ཞེས་བྱ་བའི་འཁོར་ལོ་འདི་<tei:ref folio="F.163.a"/>སློབ་དཔོན་གྱི་མན་ངག་ལས་ཤེས་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This mantra wheel called supreme victory over the enemy army should be learned from an ācārya’s instructions.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-172">
+    <prop type="location-id">UT22084-090-009-203</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་གཞན་ཡང་རེངས་པར་བྱེད་པ་དང་འབྱེད་པར་བྱེད་པ་དང་། གསོད་པར་བྱེད་པའི་སྦྱོར་བའི་དབང་དུ་བྱས་པའི་འཁོར་ལོ་ཡིན་ཏེ། གྲོགས་བཟང་པོ་དང་ལེགས་པར་བསྲུངས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-203"/>The following is another mantra wheel for performing paralyzing rites, rites to sow discord, and killing rites for protecting one’s close allies and getting rid of people who create obstacles.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-173">
+    <prop type="location-id">UT22084-090-009-203</prop>
+    <tuv xml:lang="bo">
+                <seg>མིའི་བགེགས་ཡོངས་སུ་སྤངས་ཏེ་དུར་ཁྲོད་དུ་གནས་ལ་བློ་དང་ལྡན་པས་འབད་པ་དང་བཅས་པས་ཐང་སྐུ་བཀྲམ་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The wise one should prepare a spot in a charnel ground, carefully unfurl the painting, and make a maṇḍala of cow dung in front of it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-174">
+    <prop type="location-id">UT22084-090-009-203</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་མདུན་དུ་ལྕི་བའི་དཀྱིལ་འཁོར་བྱས་ཏེ། ཇི་ལྟར་འབྱོར་པའི་མཆོད་པ་རྣམ་པ་ལྔ་དང་ལྡན་པས་མཆོད་ལ་གོས་ནག་པོ་བགོ་ཞིང་ཐོད་ནག་པོ་བཅིངས་ལ་འཚོག་ཆས་དང་། རྡོ་རྗེ་དྲིལ་བུའི་མཆོག་བརྟེན་པས་ཁྲོས་པས་སྔོན་བཞིན་དུ་ལྷ་མོ་འོད་ཟེར་ཅན་བསྒོམ་པར་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The wrathful one should perform an offering using the five prescribed offerings, put on a black robe, wear a black turban, clasp the ritual implements, vajra, and bell, and visualize himself as Mārīcī as before.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-175">
+    <prop type="location-id">UT22084-090-009-204</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕག་པའི་ཞལ་གསུམ་པ་སྤྱན་གསུམ་པ། ཞལ་འགྱུར་ཞིང་མཆེ་བ་གཙིགས་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-204"/>He should imagine himself as Mārīcī with three boar faces that have three eyes and bare their fangs.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-176">
+    <prop type="location-id">UT22084-090-009-204</prop>
+    <tuv xml:lang="bo">
+                <seg>གློག་བཞིན་ལྗགས་འཇིགས་པར་བྱེད་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Her tongue strikes fear like a flash of lightning.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-177">
+    <prop type="location-id">UT22084-090-009-204</prop>
+    <tuv xml:lang="bo">
+                <seg>ཉི་མ་བཅུ་གཉིས་དང་འདྲ་བའི་འོད་འབར་ཞིང་འཕྲོ་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>She shines and radiates a light equal to twelve suns.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-178">
+    <prop type="location-id">UT22084-090-009-204</prop>
+    <tuv xml:lang="bo">
+                <seg>མུ་མེན་ལྟ་བུའི་གོས་སྔོན་པོའི་སྨད་དཀྲིས་བྱས་ཤིང་ཤང་འགག་དང་སྟོད་གཡོགས་སྣ་ཚོགས་པའི་གོས་ཀྱིས་བྱས་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>She wears a sapphire-blue lower robe, a blue jacket, and a multicolored upper garment and shawl.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-179">
+    <prop type="location-id">UT22084-090-009-204</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱན་ཐམས་ཅད་ཀྱིས་བརྒྱན་པ། ཕྱག་བརྒྱད་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>She is adorned with all her ornaments and has eight arms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-180">
+    <prop type="location-id">UT22084-090-009-204</prop>
+    <tuv xml:lang="bo">
+                <seg>གཡས་ན་མདའ་དང་། རྡོ་རྗེ་དང་། ཁབ་དང་། ལྕགས་ཀྱུ་བསྣམས་པའི་ཕྱག་གོ །གཡོན་དུ་གཞུ་དང་ཞགས་པ་དང་། ཤིང་མྱ་ངན་མེད་པའི་ཡལ་ག་དང་། སྐུད་པ་བསྣམས་པའི་ཕྱག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>She holds an arrow, vajra, needle, and hook in her right hands and a bow, noose, aśoka branch, and thread in her left hands.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-181">
+    <prop type="location-id">UT22084-090-009-204</prop>
+    <tuv xml:lang="bo">
+                <seg>མཆོད་རྟེན་མགོ་ལ་ཡོད་པའི་སྐྲ་དང་ལྡན་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The hair on her head is like a caitya.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-182">
+    <prop type="location-id">UT22084-090-009-204</prop>
+    <tuv xml:lang="bo">
+                <seg>ཉི་མའི་དཀྱིལ་འཁོར་ལ་གཡས་བརྐྱང་བའི་ཞབས་ཀྱིས་བཞུགས་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>She stands on a sun disk with her right leg extended.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-183">
+    <prop type="location-id">UT22084-090-009-204</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྲོས་པས་རྐང་པས་བསྒྲུབ་བྱ་མནན་པ་ཉིད་དུ་བསམ་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>She is wrathful and tramples the target of the rite with her foot.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-184">
+    <prop type="location-id">UT22084-090-009-205</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆུ་བོའི་ངོགས་ཀྱི་ས་དང་། མིའི་རུས་པའི་ཕྱེ་མ་དང་། དུར་ཁྲོད་ཀྱི་ཐལ་བ་དང་ལྡན་པས་གཟུགས་བརྙན་བྱས་ལ། ཚ་བ་གསུམ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-205"/>He should make the effigy out of soil from a riverbank, ground human bone, and ash from a charnel ground.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-185">
+    <prop type="location-id">UT22084-090-009-205</prop>
+    <tuv xml:lang="bo">
+                <seg>དུག་དང་། ཁྲག་དང་། ཚྭ་དང་། སྐེ་ཚེ་དང་། ད་དུ་ར་ཡིས་རོའི་གོས་ལ་བསྒྲུབ་བྱའི་མིང་སྔགས་ངེས་པར་བྱས་ལ་སྙིང་གར་གཞུག་པར་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He should write the mantra augmented with the target’s name with ink containing the three spices, poison, blood, salt, black mustard, and datura on a piece of cloth from a corpse, place it in the middle, and add the target’s name to the following mantra:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-186">
+    <prop type="location-id">UT22084-090-009-206</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་མཱ་རཱི་ཙྱཻ་བཏྟྭ་ལི། བ་དཱ་ལི། བ་རཱ་ལི། བཱ་རཱ་ཧཱ་མུ་ཁི་ཧཱུྃ། ཆེ་གེ་མོ་སོད་ཅིག་ཧཱུྃ་ཕཊ་སྭཱ་ཧཱ། སྔགས་འདི་དང་མིང་སྤེལ་ཏེ་མི་ཤ་སྐམ་པོ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-206"/>oṃ mārīcyai vattāli vadāli varāli varāhamukhi hūṁ kill [insert name] hūṁ phaṭ svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-187">
+    <prop type="location-id">UT22084-090-009-208</prop>
+    <tuv xml:lang="bo">
+                <seg>གུ་གུལ་དང་། ཡང་དག་པར་ལྡན་པས་རིལ་བུ་བྱས་ལ་མིའི་ཚིལ་དང་བསྲེས་ཏེ་རོ་བསྲེགས་པའི་ཤིང་གིས་མེ་ལ་སྟོང་<tei:ref folio="F.163.b"/>ཕྲག་བརྒྱད་སྦྱིན་སྲེག་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-208"/>He should make a pill with dried human flesh and bdellium, mix it with human fat, and perform one thousand and eight fire offerings into a fire kindled with wood that has been used to burn a corpse.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-188">
+    <prop type="location-id">UT22084-090-009-208</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚ་བའི་མར་ནག་གིས་གཞན་གྱི་དཔུང་གི་རྒྱལ་པོའི་མིང་བཟུང་སྟེ་གལ་ཏེ་གསོད་པར་འདོད་ན་དེ་ཉིད་ཀྱིས་བདུགས་ན་འཆི་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then he should write the name of the king of the opposing army with black mustard oil. If he wants to kill him, he should make a smoke offering with it, and he will die.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-189">
+    <prop type="location-id">UT22084-090-009-208</prop>
+    <tuv xml:lang="bo">
+                <seg>གལ་ཏེ་རེངས་པར་འདོད་ན་ཡང་རེངས་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If he wants him to be paralyzed, he will be paralyzed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-190">
+    <prop type="location-id">UT22084-090-009-208</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡང་ན་གཡུལ་ངོ་ལ་མངོན་དུ་བལྟས་ཏེ་མིའི་རུས་པའི་ཕྱེ་མ་འམ། མི་ཚིལ་དང་བསྲེས་པས་སྔགས་བཟླ་ཞིང་སྦྱིན་སྲེག་བྱས་ན་དགྲའི་དཔུང་གི་ཚོགས་དེ་མ་ཐག་ཏུ་རེངས་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Or he can face the battlefield and perform a fire offering and mantra recitation with a mixture of ground human bone and human fat, and the enemy’s forces will instantly be paralyzed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-191">
+    <prop type="location-id">UT22084-090-009-210</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་གཞན་ཡང་སྦྱོར་བ་ནི། ཅེ་སྤྱང་གིས་ཉེ་བར་འཚེ་བ་ཞི་བར་བྱ་བར་འདོད་ན་གནག་གི་གནས་སུ་སོང་སྟེ་གནག་འཇུག་པའི་སྒོའི་རྟ་བབས་ལ་སྔགས་མངོན་པར་བྲིས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-210"/>Another application of the mantra is as follows: If he wants to pacify jackals that are threatening livestock, he should go to the cattle pasture and write the mantra clearly on the arch of the pasture gate.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-192">
+    <prop type="location-id">UT22084-090-009-210</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་མཚན་དཀར་པོའི་རྩེ་མོ་ལ་བཙུགས་ཏེ་ཙནྡན་དཀར་པོ་དང་། གུར་གུམ་དང་། གིའུ་ཝང་གིས་ཁྱུ་མཆོག་གི་གཙོ་མོ་རྒན་པ་དང་ཕྱུགས་རྫིའི་མིང་དང་སྤེལ་ཞིང་བྱང་བུ་ལ་བྲིས་ཏེ་ཁྱུ་མཆོག་གི་རྭ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He should place the mantra on top of a white victory banner and write the mantra on two boards, with the names of the eldest bull and the herders added to each respective board with an ink containing white sandalwood, red saffron, and bovine bezoar.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-193">
+    <prop type="location-id">UT22084-090-009-210</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱུགས་རྫི་རྣམས་ཀྱི་མགུལ་པར་འཁོར་ལོ་བཅིང་ངོ་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then he should hang the mantra wheel on the bull’s horns and around the herders’ necks.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-194">
+    <prop type="location-id">UT22084-090-009-210</prop>
+    <tuv xml:lang="bo">
+                <seg>འཁོར་ལོ་ནི་ཨོཾ་མཱྃ་བཱྃ་མཱྃ། ཡང་བ་ཡིག་གིས་བསྐོར་ཅིང་ཡང་ཙྱཻ་ཡིས་བསྐོར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He should make the mantra wheel with the syllables oṃ, māṃ, vāṃ, and māṃ surrounded by the syllable va and then surrounded by the syllable cyai.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-195">
+    <prop type="location-id">UT22084-090-009-210</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཕྱི་རོལ་དུ་མྭྃ་གིས་བསྐོར་ལ་འཁོར་ལོ་དེ་ཉིད་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It should be encircled on the outside with the syllable māṃ.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-196">
+    <prop type="location-id">UT22084-090-009-210</prop>
+    <tuv xml:lang="bo">
+                <seg>སྒོར་ཡང་སེང་ལྡེང་གི་ཕུར་བུ་སོར་བརྒྱད་པའི་ཚད་ལ་ཚོན་སྣ་ལྔའི་སྐུད་པས་དཀྲིས་ཏེ། སྔགས་ལན་བདུན་དུ་བཟླས་ནས་ཕུར་བུས་གདབ་བོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He should wrap a teakwood dagger measuring eight fingers to the gate with five-colored thread and stab the gate with a dagger while reciting the following mantra seven times:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-197">
+    <prop type="location-id">UT22084-090-009-211</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་མཱ་རཱི་ཙྱཻ་སརྦ་བིགྷྣཱཾ་ཨུཏ་སཱ་དྷ་ཡ་ཧཱུྃ་ཕཊ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-211"/>oṃ mārīcyai sarvavighnāṃ utsādhaya hūṁ phaṭ svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-198">
+    <prop type="location-id">UT22084-090-009-212</prop>
+    <tuv xml:lang="bo">
+                <seg>བགེགས་བསྐྲད་པའི་ཕུར་བུའི་སྔགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-212"/>That is the dagger mantra for dispelling vighnas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-199">
+    <prop type="location-id">UT22084-090-009-213</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ཕྱིས་ནི་གནག་ལྷས་ཀྱི་དབུས་སུ་བཅོམ་ལྡན་འདས་མའི་ཐང་སྐུ་ཁ་ཤར་དུ་བལྟས་པ་བཀྲམ་ལ་བློ་དང་ལྡན་པས་འབད་པ་དང་བཅས་པས་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-213"/>After that, the wise one should carefully unfurl the painting of Blessed Mārīcī in the middle of the cattle pen so that it is facing east.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-200">
+    <prop type="location-id">UT22084-090-009-213</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་མདུན་དུ་སྦྱིན་སྲེག་གི་ཐབ་ཁུང་གྲུ་བཞི་པ་ལ་ཁྲུ་གང་ཙམ་བརྐོ་བར་བྱ་སྟེ་མཚམས་བཞི་རུ་དྲི་ཞིམ་པོའི་ཆུས་བཀང་བའི་བུམ་པ་འབྲུ་སྣ་ལྔ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He should dig a fire-offering pit in front of the painting in the shape of a square measuring one cubit across. He should set out vases for perfumed water on the four sides of the square and fill them with perfumed water and the five grains.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-201">
+    <prop type="location-id">UT22084-090-009-213</prop>
+    <tuv xml:lang="bo">
+                <seg>དྲི་ཞིམ་པོའི་ཆུས་ཡོངས་སུ་བཀང་ལ་ཙནྡན་དཀར་པོས་བྱུགས་ལ་གོས་དཀར་པོ་ཟུང་གིས་སྦྲེལ་བ་ཡལ་ག་རྣམ་པ་ལྔ་སྟེ། ནྱ་གྲོ་དྷ་དང་། བྱང་ཆུབ་ཀྱི་ཤིང་དང་། ཨུ་དུམ་བཱ་ར་དང་། ཨ་འབྲས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They should be anointed with white sandalwood, tied with two strips of white cloth, and ornamented with leafy branches from the following five trees: banyan, bodhi tree, uḍumbara, mango, and giant milkweed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-202">
+    <prop type="location-id">UT22084-090-009-213</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤིང་ཨརྒའི་ཡལ་གས་བརྒྱན་པ། བརྒྱ་ཕྲག་བརྒྱད་ཀྱིས་མངོན་པར་བསྔགས་ལ་བཞག་གོ། །ཐབ་ཁུང་དེ་ཉིད་ཀྱི་མཚམས་བཞི་རུ་སེང་ལྡེང་གི་ཕུར་བུ་སྔོན་དུ་བསྟན་པའི་སྔགས་བཟླས་ལ་གདབ་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He should incant them with the mantra one hundred and eight times and then plant a teakwood dagger at each of the four sides of the fire pit while reciting the mantra explained above.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-203">
+    <prop type="location-id">UT22084-090-009-214</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡང་ཕྱིས་ནི་ལྕི་བས་<tei:ref folio="F.164.a"/>མལ་ཉེ་བར་བྱུགས་ལ་ཁྲག་གི་གཏོར་མ་དང་། ཀུ་མུ་ད་དང་། ཨུཏྤ་ལ་དང་། པདྨའི་ཕྲེང་བ་དང་། དྲི་ཞིམ་པའི་མེ་ཏོག་གི་རྣམ་པར་བཀྲམ་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-214"/>After that, he should make a maṇḍala with dung and scatter upon it a bali offering of blood, a garland of red, blue, and white lotuses, and fragrant flowers.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-204">
+    <prop type="location-id">UT22084-090-009-214</prop>
+    <tuv xml:lang="bo">
+                <seg>དྲི་ཞིམ་པོ་དང་ཙནྡན་གྱི་ཆུས་ཆག་ཆག་བཏབ་ལ་ཞོ་དང་སྦྲང་རྩི་དང་བུ་རམ་དང་ལྡན་པས་ཟས་ཁམ་གཅིག་གིས་ལྷ་བཤོས་དབུལ་བར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He should sprinkle it with perfume and sandalwood water and perform the deity food offering with a morsel that contains yogurt, honey, and molasses.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-205">
+    <prop type="location-id">UT22084-090-009-214</prop>
+    <tuv xml:lang="bo">
+                <seg>བའི་མར་གྱི་མར་མེའི་ཕྲེང་བས་ལེགས་པར་བརྒྱན་ཅིང་བླ་རེ་བརྒྱན་ལ་མེ་ཏོག་གི་ཕྲེང་བ་དཔྱངས་ཤིང་གོས་དཀར་པོའི་རྒྱལ་མཚན་གྱི་རྩེ་མོར་སྔགས་བྲིས་ལ་བཙུགས་ལ་གུ་གུལ་གྱི་བདུག་སྤོས་སྦྱིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He should decorate it with a row of butter lamps and hang a flower garland on the ornamental canopy. He should write the mantra at the top of a victory banner made of white cloth and plant it in the ground. Then he should make a smoke offering of bdellium.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-206">
+    <prop type="location-id">UT22084-090-009-216</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་བཅོམ་ལྡན་འདས་མ་ལྷ་མོ་འོད་ཟེར་ཅན་མ་ཡང་དག་པར་མཆོད་ལ་མཉེས་པར་བྱས་ཏེ་སྔོན་དུ་བསྟན་པའི་སྔགས་ཀྱིས་མངོན་པར་བསྔགས་ལ་ཉེ་བར་མཁོ་བ་ཐམས་ཅད་དབུལ་བར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-216"/>When the offering to the blessed goddess Mārīcī has been properly performed and she is pleased, he should perform the mantra recitation with the mantra mentioned above while making all the requisite offerings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-207">
+    <prop type="location-id">UT22084-090-009-217</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡང་ཐང་སྐུའི་མདུན་དུ་སྦྱིན་སྲེག་གི་ཐབ་ཁུང་ཁྲུ་གང་ཙམ་བརྐོས་པའི་གྲུ་བཞི་པ་ཁ་ཁྱེར་སོར་བཞི་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-217"/>In front of the painting, he should dig a square pit for the fire offering that is four cubits across.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-208">
+    <prop type="location-id">UT22084-090-009-217</prop>
+    <tuv xml:lang="bo">
+                <seg>རྡོ་རྗེའི་ཕྲེང་བས་བསྐོར་བ་རྩ་བ་དང་བཅས་པའི་པདྨའི་རྣམ་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He should make an altar that is four fingers across, surrounded by vajras, and made to look like a lotus with the stalk attached.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-209">
+    <prop type="location-id">UT22084-090-009-217</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་དབུས་སུ་པདྨ་ལ་རྡོ་རྗེས་མཚན་པར་བྱས་ཏེ་བ་གླང་གི་ལྕི་བས་དཀྱིལ་འཁོར་ལེགས་པར་བྱུགས་ལ་མེ་ཏོག་གི་རྣམ་པ་དགྲམ་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He should make the sign of a vajra in the middle of the lotus, make a maṇḍala with cow dung, and scatter flowers on it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-210">
+    <prop type="location-id">UT22084-090-009-217</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་སྔགས་པས་ཁྲུས་བྱས་ཤིང་གཙང་མས་གོས་དཀར་པོ་གོན་ལ་ཉེ་བར་མཁོ་བའི་ཐོད་དཀར་པོ་བཅིངས་ཏེ་རྡོ་རྗེ་དང་དྲིལ་བུ་བཟུང་ཞིང་བསྙེན་པ་དང་བཅས་པས་འཇུག་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then the mantrin should bathe, purify himself, put on white clothes, wear the proper white turban, hold a vajra and bell, and begin with confidence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-211">
+    <prop type="location-id">UT22084-090-009-219</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐབ་ཁུང་གི་མདུན་དུ་སྔགས་ཀྱིས་བགེགས་བསྐྲད་ལ་སེང་ལྡེང་གི་ཕུར་བུས་ཐབ་ཁུང་སྤྱི་ཕྱི་རོལ་གྲྭ་བཞིར་གདབ་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-219"/>He should expel the vighnas in front of the fire pit with the mantra and plant teakwood daggers in the four corners on the outside of the fire pit.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-212">
+    <prop type="location-id">UT22084-090-009-219</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་སྔོན་བཞིན་དུ་ཐབ་ཁུང་གི་ཤར་ནས་ནུབ་ཏུ་མངོན་པར་ཕྱོགས་པར་གནས་ལ་སྔགས་དང་ཕྱག་རྒྱས་བྱིན་གྱིས་བརླབས་པའི་སྔགས་པས་ཀུ་ཤ་ཆང་བུའི་སྟེང་དུ་གནས་ལ་ཐབ་ཁུང་གི་ཕྱོགས་བཞིར་ཀུ་ཤ་དགྲམ་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then, just as above, he should sit on the east side of the fire pit facing west on a pile of kuśa grass while reciting the blessing with the mantra and hand mudrā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-213">
+    <prop type="location-id">UT22084-090-009-219</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་དགོས་པ་ཐམས་ཅད་ལ་སྔགས་བརྒྱ་བཟླས་ཏེ་གཡས་ཕྱོགས་སུ་གཞག་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He should spread the kuśa grass on the four sides of the fire pit, incant all the implements with the mantra one hundred times, and place them on the right side.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-214">
+    <prop type="location-id">UT22084-090-009-219</prop>
+    <tuv xml:lang="bo">
+                <seg>གཡོན་ཕྱོགས་སུ་ཆུའི་སྣོད་བཞག་ཅིང་མདུན་དུ་མཆོད་ཡོན་གྱི་སྣོད་དྲི་ཞིམ་པོའི་ཆུ་དང་མེ་ཏོག་གིས་བཀང་བ་བཞག་ལ་ཞོ་དང་བུ་རམ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He should place a water bowl on the left side and set up a water-offering bowl filled with perfumed water and with flowers in front of it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-215">
+    <prop type="location-id">UT22084-090-009-219</prop>
+    <tuv xml:lang="bo">
+                <seg>སྦྲང་རྩི་དང་ལྡན་པ་ཡང་བཞག་སྟེ། གཙུབ་ཤིང་གིས་བཏོན་པའི་མེ་ཐབ་ཁུང་གི་ནང་དུ་གཞུག་སྟེ་ནྱ་གྲོ་དྷ་དང་། ཨུ་དུམ་བཱ་ར་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He should set out the yogurt, molasses, and honey, place a fire in the fire pit that has been produced with a hearth stick, and kindle the fire with banyan, uḍumbara, and butea branches.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-216">
+    <prop type="location-id">UT22084-090-009-221</prop>
+    <tuv xml:lang="bo">
+                <seg>པ་ལ་ཤའི་ཡམ་ཤིང་གིས་མེ་སྦར་ལ་དེ་ནས་ཡང་ཨོཾ་ཡོངས་སུ་<tei:ref folio="F.164.b"/>གྱུར་པ་ལས་ཟླ་བའི་དཀྱིལ་འཁོར་དེའི་སྟེང་དུ་རྃ་ཡོངས་སུ་གྱུར་པ་ལས་མེ་ལྷ་བསྒོམས་ལ་གཞན་པ་མེ་ལྷ་སྔགས་ཀྱིས་སྤྱན་དྲངས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-221"/>Then he should visualize that the syllable oṃ transforms into a moon disk with the syllable raṃ on it, and that Agni appears out of that. He should invoke Agni with the following Agni invocation mantra:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-217">
+    <prop type="location-id">UT22084-090-009-222</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་ཨེ་ཧྱེ་ཧི་མ་ཧཱ་བྷཱུ་ཏ་དེ་བ་དྭི་ཛ་རྀ་ཥི་སཏྟ་མ། པ་རི་གྲྀ་ཧཱི་ཏྭཱ་ཨཱ་ཧུ་ཏི་མ་ཧཱ་རསྨིནྶནྣི་ཧི་ཏོ་བྷ་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-222"/>oṃ ehy ehi mahābhūtadeva dvijaṛṣisattama parigṛhītvā āhuti mahārasmin sannihito bhava</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-218">
+    <prop type="location-id">UT22084-090-009-223</prop>
+    <tuv xml:lang="bo">
+                <seg>མེ་ལྷ་སྤྱན་དྲང་བའི་སྔགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-223"/>Then he should recite the following Agni mantra:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-219">
+    <prop type="location-id">UT22084-090-009-224</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་ཨགྣ་ཡེ་དཱི་བྱ་དཱི་པྱ་ཨཱ་བི་ཤ་མ་ཧཱ་ཤྲི་ཡེ་ཧཱ་བྱ་ཀཱ་བྱ་བཱ་ཧ་ནཱ་ཡ་སྭཱ་ཧཱ། མེ་ལྷའི་སྔགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-224"/>oṃ agnaye dīvyadīpya āviśa mahāśriye havyakavyavāhanāya svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-220">
+    <prop type="location-id">UT22084-090-009-226</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟླ་བའི་དཀྱིལ་འཁོར་ལ་གནས་པའི་ཞལ་དཀར་ཟླུམ་པ། ཕྱག་བཞི་པ་འབར་བའི་སྤྱན་གསུམ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-226"/>He should imagine Agni seated on the moon disk with a round, white face, four arms, and three blazing eyes.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-221">
+    <prop type="location-id">UT22084-090-009-226</prop>
+    <tuv xml:lang="bo">
+                <seg>མེ་ལྷ་བཟང་པོ་སྟོན་ཀའི་ཟླ་བའི་འོད་འདྲ་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Agni is beautiful and stainless, like the light of the autumn moon.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-222">
+    <prop type="location-id">UT22084-090-009-226</prop>
+    <tuv xml:lang="bo">
+                <seg>དྲི་མ་མེད་པ་བདུད་རྩིའི་རྒྱུན་འབབ་ཅིང་ཞི་བ། དབྱུ་གུ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He is peaceful and emits a stream of amṛta.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-223">
+    <prop type="location-id">UT22084-090-009-226</prop>
+    <tuv xml:lang="bo">
+                <seg>རིལ་བ་སྤྱི་བླུགས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He holds a staff, a water jar, and a rosary, and he displays the boon-granting hand mudrā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-224">
+    <prop type="location-id">UT22084-090-009-226</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྲེང་བ་དང་། མཆོག་སྦྱིན་པ་འཆང་བར་བསམ་ལ་མཆོད་ཡོན་སྦྱིན་ལ་སྔོན་དུ་བསྟན་པའི་སྣོད་དུ་མཆོད་པ་རྣམ་པ་ལྔ་དང་བཅས་པས་དེའི་ཞལ་དུ་དགང་བླུགས་གསུམ་དབུལ་བར་བྱའོ། །ཡང་ཆུ་བསངས་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He should give him the water offering and offer three oblations of the fivefold offering in the aforementioned vessel into the deity’s mouth and sprinkle it again with water.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-225">
+    <prop type="location-id">UT22084-090-009-229</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞི་བ་ལ་ནི་འབར་བའི་ངོ་བོ་ཉིད་དུ་ཡོངས་སུ་གྱུར་ནས་གཞན་ཡང་དེ་ཉིད་དུ་ལྷ་མོ་འོད་ཟེར་ཅན་ཟླ་བའི་དཀྱིལ་འཁོར་ལ་གནས་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-229"/>For the pacifying rite, as the fire rekindles, he should imagine the goddess Mārīcī again seated there on a moon disk.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-226">
+    <prop type="location-id">UT22084-090-009-229</prop>
+    <tuv xml:lang="bo">
+                <seg>སྟོན་ཀའི་ཟླ་བ་ལྟ་བུ་དཀར་ཞིང་གཞོན་ནུ་མ་ལ་ཨུཏྤ་ལ་སྔོན་པོའི་སྤྱན་ཅན་ན་བཟའ་དཀར་པོ་འཆང་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>White like an autumn moon, she is youthful, has eyes like blue lotuses, and wears white garments.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-227">
+    <prop type="location-id">UT22084-090-009-229</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞི་བ་ལ་ནི་སྣ་ཚོགས་པའི་ངོ་བོ་བདུད་རྩིའི་བུམ་པ་འཆང་ཞིང་འབབ་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>For the pacification rite, she holds a vase of various types of amṛta that flow forth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-228">
+    <prop type="location-id">UT22084-090-009-229</prop>
+    <tuv xml:lang="bo">
+                <seg>འབར་བའི་མེ་ཏོག་ལྷ་བཞེངས་པ་ལྟ་བུ་གཞོན་ནུ་མ་འགྲོ་བ་ལ་བདུད་རྩིའི་རྒྱུན་གྱིས་འབབ་བཞིན་པའི་ལྷ་མོ་བསམ་ལ་དེའི་ཞལ་དུ་དགང་བླུགས་དབུལ་བར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He should imagine that the youthful goddess arises like a divine blazing flower and showers beings with a stream of amṛta, and he should offer one ladle into her mouth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-229">
+    <prop type="location-id">UT22084-090-009-229</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱུགས་ཀྱི་མགོ་སྤུ་དང་རུས་པ་དང་། དཱུར་བ་དང་ལྡན་པས་ཞོ་དང་། སྦྲང་རྩི་དང་། མར་དང་། འོ་མ་དང་བསྲེས་ལ་ལན་སྟོང་ཕྲག་བརྒྱ་སྦྱིན་སྲེག་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then he should mix yogurt, honey, butter, and milk with dūrvā grass and the bones and hair from the head of an animal and perform one thousand and eight fire offerings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-230">
+    <prop type="location-id">UT22084-090-009-232</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞན་ཡང་གནག་ལྷས་ནས་ཕྱིར་སོང་ལ་འབྱུང་པོ་ཐམས་ཅད་པའི་གཏོར་མ་མཆོད་པ་ལྔ་དང་བཅས་པ་ཞོ་དང་། ཞོ་ཐུག་དང་། འོ་མ་དང་། འབྲས་ཀྱི་ཕྱེ་མ་བུ་རམ་དང་བསྲེས་པའི་གོང་བུ་བྱས་ལ་སྙིང་པོ་གསུམ་གྱི་མར་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-232"/>Moreover, he should go outside the cattle pen and prepare a ball of sweets containing the five bali offerings for all manner of beings—yogurt, sweet rice, and milk mixed with rice flour and molasses;</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-231">
+    <prop type="location-id">UT22084-090-009-232</prop>
+    <tuv xml:lang="bo">
+                <seg>འབྲས་དང་། སྲན་མ་མ་ཥ་དང་། ཆང་དང་། ཤ་དང་། ཉ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>kṛśara oil, rice, māṣa beans, alcohol, meat, and fish;</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-232">
+    <prop type="location-id">UT22084-090-009-232</prop>
+    <tuv xml:lang="bo">
+                <seg>ནང་དུ་སྲན་མ་བླུགས་པའི་ཁུ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>a soup with beans in it;</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-233">
+    <prop type="location-id">UT22084-090-009-232</prop>
+    <tuv xml:lang="bo">
+                <seg>སྲན་མ་མ་ཥ་དང་བུ་རམ་དང་བསྲེས་པའི་ཁུར་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>and a cake that contains a mixture of māṣa beans and molasses.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-234">
+    <prop type="location-id">UT22084-090-009-232</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅས་པ་ལ་ལན་བདུན་དུ་མངོན་པར་བསྔགས་ཏེ་སྦྱིན་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He should incant them with the mantra seven times and then present the offering.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-235">
+    <prop type="location-id">UT22084-090-009-234</prop>
+    <tuv xml:lang="bo">
+                <seg>འོ་ཐུག་ནི་ཀླུ་རྣམས་ལའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-234"/>The sweet rice is for the nāgas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-236">
+    <prop type="location-id">UT22084-090-009-234</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞོ་དང་འོ་མ་ནི་ལྷ་མ་ཡིན་རྣམས་ལའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The yogurt and milk are for the asuras.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-237">
+    <prop type="location-id">UT22084-090-009-234</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞོ་དང་<tei:ref folio="F.165.a"/>འོ་མ་ནི་ལྷ་རྣམས་ལའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The yogurt and milk are for the gods.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-238">
+    <prop type="location-id">UT22084-090-009-234</prop>
+    <tuv xml:lang="bo">
+                <seg>སྙིང་པོ་གསུམ་གྱི་མར་ནི་གནོད་སྦྱིན་རྣམས་ལའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The kṛśara oil is for the yakṣas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-239">
+    <prop type="location-id">UT22084-090-009-234</prop>
+    <tuv xml:lang="bo">
+                <seg>འབྲས་ཀྱི་ཕྱེ་མ་བུ་རམ་དང་བསྲེས་ཏེ་གོང་བུ་བྱས་པ་ནི་ཚོགས་ཀྱི་བདག་པོ་ལའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The mixture of rice flour and molasses made into a ball is for Gaṇapati.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-240">
+    <prop type="location-id">UT22084-090-009-234</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁུར་བ་ནི་ཤ་ཟ་རྣམས་ལའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The cake is for the piśācas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-241">
+    <prop type="location-id">UT22084-090-009-234</prop>
+    <tuv xml:lang="bo">
+                <seg>འབྲས་དང་མ་ཤམ་བསྲེས་པ་ནི་འབྱུང་པོ་རྣམས་ལའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The rice mixed with māṣa beans is for the bhūtas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-242">
+    <prop type="location-id">UT22084-090-009-234</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤ་ནི་སྲིན་པོ་རྣམས་ལའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The meat is for the rākṣasas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-243">
+    <prop type="location-id">UT22084-090-009-234</prop>
+    <tuv xml:lang="bo">
+                <seg>ཉ་ནི་ཡི་དགས་རྣམས་ལའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The fish is for the pretas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-244">
+    <prop type="location-id">UT22084-090-009-235</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་བྷཱ་བ་ཁཱ་ཧི་ཁཱ་ཧི་གྲྀཧྞ་གྲྀཧྞ་ཧཱུཾ་སརྦ་བྷཱུ་ཏ་བ་ལིཾ་སྭཱ་ཧཱ། ཡང་ལྷའི་ཁང་པར་བཞུགས་ཏེ། སྔགས་བརྒྱད་བརྒྱ་བཟླས་ཏེ་བུམ་པ་ཆུས་བཀང་བ་ཁྱུ་མཆོག་ལ་གཏོར་བར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-235"/>He can also enter the deity’s abode, recite the mantra oṃ bhāva khāhi khāhi gṛhṇa gṛhṇa hūṁ sarvabhūtabaliṃ svāhā one hundred and eight times, and then sprinkle a vase filled with water on the lead bull.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-245">
+    <prop type="location-id">UT22084-090-009-235</prop>
+    <tuv xml:lang="bo">
+                <seg>དེས་ནི་ཅེ་སྤྱང་གི་ཉེ་བར་འཚེ་བ་ཞི་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>After that, the threat of jackals will be pacified.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-246">
+    <prop type="location-id">UT22084-090-009-238</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་བྱས་ཏེ་དུས་གསུམ་དུ་ཞི་བའི་བཟླས་པས་སྦྱིན་སྲེག་ཞག་བདུན་དུ་བྱས་ན་ཞི་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-238"/>To perform the same action, if he performs the fire offering three times per day for seven days while reciting the pacification mantra, they will be pacified.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-247">
+    <prop type="location-id">UT22084-090-009-239</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་མཱ་རཱི་ཙྱཻ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-239"/>oṃ mārīcyai svāhā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-248">
+    <prop type="location-id">UT22084-090-009-239</prop>
+    <tuv xml:lang="bo">
+                <seg>ལག་པ་གཉིས་མཉམ་པར་བྱས་ལ་ཐལ་མོ་གཉིས་སྦྱར་བ་འམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He should make the sign by placing the hands together with his two palms joined or open at the top.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-249">
+    <prop type="location-id">UT22084-090-009-239</prop>
+    <tuv xml:lang="bo">
+                <seg>རྩེ་མོ་ཁ་ཕྱེ་ཡང་རུང་སྟེ་མཐེ་བོང་གཉིས་བཀུག་ལ། གུང་མོ་ལ་སྡིགས་མཛུབ་གཉིས་འཁྲིལ་བའི་ཚུལ་དུ་སྦྱར་བའི་རྣམ་པས་མཚན་པའོ། །སྐྱིལ་ཀྲུང་དུ་འདུག་སྟེ་ལྟེ་བའི་ཕྱོགས་སུ་བདུག་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He should draw the thumbs in, coil the two index fingers around the middle fingers, sit in a cross-legged position, and rest it at the navel.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-250">
+    <prop type="location-id">UT22084-090-009-242</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱག་རྒྱ་འདི་ནི་མཆོག་ཡིན་ཏེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-242"/>This is the supreme hand mudrā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-251">
+    <prop type="location-id">UT22084-090-009-242</prop>
+    <tuv xml:lang="bo">
+                <seg>ལས་རྣམས་ཀུན་ལ་སྦྱར་བར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is effective for all rites.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-252">
+    <prop type="location-id">UT22084-090-009-242</prop>
+    <tuv xml:lang="bo">
+                <seg>གླང་པོ་ཆེ་དང་རྟ་དང་ཕྱུགས་དང་། མ་ཧེ་དང་མི་དང་མི་མོ་དང་། རྒྱལ་པོ་དང་བྱིས་པ་རྣམས་ནི་འདིས་ཐེ་ཚོམ་མེད་པར་ཞི་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It will undoubtedly pacify elephants, horses, beasts, buffalo, men, women, kings, and fools.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-253">
+    <prop type="location-id">UT22084-090-009-243</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་སྦྱིན་སྲེག་གི་ཐབ་ཁུང་གི་མཚན་ཉིད་ཡིན་ཏེ་ཞི་བ་ལ་ནི་པདྨ་དཀར་པོའི་རྣམ་པ་སྡོང་བུ་བཅས་པ་ཟླུམ་པོ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-243"/>The descriptions of the fire pits for the fire offering are as follows: For the pacification rite, the fire pit should be round in the shape of a white lotus with the stalk attached.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-254">
+    <prop type="location-id">UT22084-090-009-243</prop>
+    <tuv xml:lang="bo">
+                <seg>དབུས་ཀྱི་པདྨ་ལ་རྡོ་རྗེས་མཚན་པ་ཁ་ཁྱེར་ཟླུམ་པོ་ལ་རྡོ་རྗེའི་ཕྲེང་བས་བརྒྱན་ཅིང་བསྐོར་བའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The center of the lotus should be marked with a vajra. There should be a circular altar that is ornamented and encircled by a chain of vajras.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-255">
+    <prop type="location-id">UT22084-090-009-243</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྲུ་གང་ཙམ་བརྐོས་པའི་ཐབ་ཁུང་དུ་པ་ལ་ཤ་དང་། ནྱ་གྲོ་དྷའི་ཡམ་ཤིང་བྱས་ལ་དཱུར་བ་ཉག་མ་རེ་རེའི་སྦྱིན་སྲེག་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The fire should be kindled with butea and banyan branches in a fire pit that is dug to a cubit deep, and the dūrvā grass should be offered to the fire one piece at a time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-256">
+    <prop type="location-id">UT22084-090-009-244</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚེ་འདོད་པ་དང་ཞི་བར་འདོད་པས་མང་ས་བེ་དའོ་ཞེས་བྱ་བའི་མེ་ལྷ་ཐམས་ཅད་དཀར་བའི་རང་བཞིན་ནི་ཞི་བ་ལ་བསྲེག་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-244"/>If he wishes to perform it as a long life and pacification rite, he should perform the fire offering for the pacification rite to the form of Pāvaka Agni, who is clad entirely in white.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-257">
+    <prop type="location-id">UT22084-090-009-246</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱས་པ་ལ་ནི་གྲུ་བཞི་པ་ཁ་ཁྱེར་སོར་བཞི་པ་ལ་རྡོ་རྗེའི་ཕྲེང་བས་བརྒྱན་ཅིང་པདྨ་དང་འཁོར་ལོ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-246"/>For the increasing rite, the altar should be square and measure four fingers. It should be decorated with a chain of vajras and ornamented with a lotus, wheel, and jewel.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-258">
+    <prop type="location-id">UT22084-090-009-246</prop>
+    <tuv xml:lang="bo">
+                <seg>རིན་པོ་ཆེས་ཡང་དག་པར་བརྒྱན་པ་ཐབ་ཁུང་གི་མཚམས་སུ་སྣ་ཚོགས་རྡོ་རྗེས་མཚན་པ་ལ་ཨརྒ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The perimeter of the fire pit should be marked with double vajras.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-259">
+    <prop type="location-id">UT22084-090-009-246</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨུ་དུམ་བཱ་རའི་ཡམ་ཤིང་གིས་ཀུ་མུ་ད་དང་ཨུཏྤ་ལ་དང་པདྨ་དཀར་པོ་དང་ཞོ་དང་མར་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The fire should be kindled with giant milkweed and uḍumbara branches, and he should perform the fire offering with red, blue, and white lotus flowers anointed with a substance that is a mixture of yogurt, butter, and honey so that they have a golden color.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-260">
+    <prop type="location-id">UT22084-090-009-246</prop>
+    <tuv xml:lang="bo">
+                <seg>སྦྲང་རྩི་དང་བསྲེས་<tei:ref folio="F.165.b"/>པའི་རྫས་ཀྱིས་གསེར་ལྟ་བུ་བྱུགས་ཤིང་སེར་བའི་མེའི་ལྷ་ལེགས་པར་བརྒྱན་པའི་གནས་པར་བསམས་ལ་ཉེ་བར་མཁོ་བ་ཐམས་ཅད་སེར་པོ་ནི་རྒྱས་པ་ལ་དྲན་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If he imagines Agni there perfectly adorned and yellow in color, he will have all the gold he could want. That is called the increasing rite.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-261">
+    <prop type="location-id">UT22084-090-009-247</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡང་དབང་ལ་ནི་གྲུ་གསུམ་བྱང་ཆུབ་ཀྱི་ཤིང་གི་འདབ་མ་ལྟ་བུའི་ཐབ་ཁུང་དེའི་དབུས་སུ་ཡང་པདྨ་བྱང་ཆུབ་ཀྱི་ཤིང་གི་ལོ་མ་ལྟ་བུ་དེའི་སྟེང་དུ་རྡོ་རྗེ་རྩེ་གསུམ་པ། ཁ་ཁྱེར་ལ་རྡོ་རྗེ་ལྕགས་ཀྱུའི་ཕྲེང་བས་རྣམ་པར་བརྒྱན་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-247"/>For the enthralling rite, the fire pit should be triangular and shaped like a bodhi tree leaf. It should have a three-pointed vajra atop a lotus and bodhi tree leaf in the middle, and the altar should be decorated with a chain of vajra hooks.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-262">
+    <prop type="location-id">UT22084-090-009-247</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་ཀྱི་ཤིང་གིས་ཡམ་ཤིང་བྱས་ལ་ཏིལ་དང་། ཚྭ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He should use bodhi tree branches, sesame, salt, and black mustard as the offering substances.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-263">
+    <prop type="location-id">UT22084-090-009-247</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐེ་ཚེའི་རྫས་དང་གོས་དམར་པོ་དང་ཕྲེང་བ་དམར་པོ་དང་། ཙནྡན་དམར་པོ་དང་། ཀ་མ་ཏོ་ཞེས་བྱ་བའི་མེ་ལྟ་བནྡུ་ཀ་དང་། ཛཱ་མའི་མེ་ཏོག་ལྟ་བུ་ལ་དམར་པོ་བསམ་མོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He should imagine Agni in his “inciting passion” form, as red as the scarlet mallow and hibiscus flower and wearing red robes, a red garland, and red sandalwood.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-264">
+    <prop type="location-id">UT22084-090-009-248</prop>
+    <tuv xml:lang="bo">
+                <seg>མངོན་སྤྱོད་ལ་ནི་ཟླ་ཕྱེད་ཀྱི་རྣམ་པ་ལྟ་བུའི་ཐབ་ཁུང་ཁ་ཁྱེར་ལ་རྡོ་རྗེའི་ཕྲེང་བས་བརྒྱན་པ། དབུས་སུ་རྡོ་རྗེ་ཁ་ཕྱེ་བའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-248"/>For the subjugating rite, the fire pit should be made in the shape of a half-moon, and the altar should be decorated with a chain of vajras with an open-pronged vajra in the middle.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-265">
+    <prop type="location-id">UT22084-090-009-248</prop>
+    <tuv xml:lang="bo">
+                <seg>རོ་བསྲེགས་པའི་ཤིང་དང་གཏུམ་མོའི་མེ་ལ་མི་ཤ་དང་། མིའི་རུས་པའི་ཕྱེ་མ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He should use wood for burning a corpse, and he should burn the offering substances of human flesh, ground human bone, and human fat in a fiercely burning fire.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-266">
+    <prop type="location-id">UT22084-090-009-248</prop>
+    <tuv xml:lang="bo">
+                <seg>མིའི་ཚིལ་དང་བསྲེས་པའི་རྫས་ནི་མངོན་སྤྱོད་ལ་ལྟ་སྟེ། ཀྲོ་དྷ་ན་ཞེས་བྱ་བའི་མེ་ལྷ་ནག་པོ་གོས་ནག་པོ་འཆང་བ་མཆེ་བ་གཙིགས་པའི་ཞལ་འཇིགས་པར་བྱེད་པ། འཇིག་པར་བྱེད་པའི་བསྐལ་པའི་མེ་ལྟ་བུ་ལངས་པའི་རང་བཞིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The visualization for the subjugating rite is the “Krodhana” form of Agni, who is black, wears black clothing, has a terrifying mouth baring its fangs, and arises like the fire that consumes the world at the end of an eon.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-009-TU-267">
+    <prop type="location-id">UT22084-090-009-249</prop>
+    <tuv xml:lang="bo">
+                <seg>སྒྱུ་མ་འོད་ཟེར་ཅན་འབྱུང་བའི་རྒྱུད་ལས་ཕྱུང་བ་རྟོག་པའི་རྒྱལ་པོ་ཡང་དག་པ་རྣམ་པར་སྣང་མཛད་ཀྱིས་གསུངས་པ་ཇི་ལྟ་བ་བཞིན་དུ་ཇི་སྙེད་པ་རྫོགས་སོ།​།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-009-249"/>This concludes the authentic “King of Ritual Manuals from the Tantra of Māyāmārīcī’s Arising,” which was received exactly as it was spoken by Vairocana.</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

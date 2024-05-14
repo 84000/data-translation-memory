@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="linguae-dharmae/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-059-013" eft:text-version="v-1.1.12-2023"/>
+<body>
+<tu id="UT22084-059-013-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.307.b"/>༄༅༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་ཤྲཱི་མ་ཏཱི་བྲཱཧྨ་ཎཱི་པ་རི་པྲྀཙྪཱ་ནཱ་མ་མ་ཧཱ་ཡཱ་ན་སཱུ་ཏྲ། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་བྲམ་ཟེ་མོ་དཔལ་ལྡན་མས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Noble Mahāyāna Sūtra The Questions of Śrīmatī the Brahmin Woman</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-3">
+    <prop type="location-id">UT22084-059-013-69</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-013-69"/>Homage to all buddhas and bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-4">
+    <prop type="location-id">UT22084-059-013-72</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-013-72"/>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-5">
+    <prop type="location-id">UT22084-059-013-72</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་བཱ་རཱ་ཎ་སཱི་ན་དྲང་སྲོང་ལྷུང་བ་རི་དགས་ཀྱི་ནགས་ན། དགེ་སློང་བདུན་བརྒྱ་ཙམ་གྱི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རབ་ཏུ་མང་པོ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One was staying at Ṛṣipatana Deer Park near Vārāṇasī, with an assembly of some seven hundred monks and many bodhisattva great beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-6">
+    <prop type="location-id">UT22084-059-013-72</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་སྔ་དྲོའི་དུས་ཀྱི་ཚེ་ཆོས་གོས་དང་ཤམ་ཐབས་མནབས་ཏེ་ལྷུང་བཟེད་བསྣམས་ནས། ཕྱི་བཞིན་འབྲང་བའི་དགེ་སློང་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་མ་ཕམ་པ་དང་། ཐབས་ཅིག་ཏུ་གྲོང་ཁྱེར་བཱ་རཱ་ཎ་སཱིར་བསོད་སྙོམས་ཀྱི་ཕྱིར་གཤེགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>At dawn, the Blessed One donned his upper and lower robes, picked up his alms bowl, and went on an alms round through Vārāṇasī together with his attendant monk, the venerable Ānanda, and the bodhisattva great being Ajita.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-7">
+    <prop type="location-id">UT22084-059-013-74</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་གྲོང་ཁྱེར་བཱ་རཱ་ཎ་སཱིར་མཐར་འཆགས་སུ་བསོད་སྙོམས་མཛད་ཅིང་། བྲམ་ཟེ་མོ་དཔལ་ལྡན་མའི་ཁྱིམ་ག་ལ་བ་དེར་གཤེགས་ཏེ་བྱོན་ནས། བསོད་སྙོམས་ཀྱི་ཕྱིར་ཕྱོགས་གཅིག་ཏུ་བཞུགས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-013-74"/>As the Blessed One went steadily through the city of Vārāṇasī gathering alms, he arrived at the house of a brahmin woman by the name of Śrīmatī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-8">
+    <prop type="location-id">UT22084-059-013-74</prop>
+    <tuv xml:lang="bo">
+                <seg>བྲམ་ཟེ་མོ་དཔལ་ལྡན་མས་བཅོམ་ལྡན་འདས་མཛེས་པ་དད་པར་བྱ་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>As the Blessed One stayed to one side waiting for alms, Śrīmatī the brahmin woman saw from afar that the Blessed One was beautiful and inspiring, his senses at peace, and his heart at peace.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-9">
+    <prop type="location-id">UT22084-059-013-74</prop>
+    <tuv xml:lang="bo">
+                <seg>དབང་པོ་ཞི་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He was gentle.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-10">
+    <prop type="location-id">UT22084-059-013-74</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐུགས་ཞི་བ། དུལ་བ་དང་ཞི་གནས་ཀྱི་ཕ་རོལ་དུ་སོན་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He had arrived at tranquility;</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-11">
+    <prop type="location-id">UT22084-059-013-74</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞི་གནས་མཆོག་གི་ཕ་རོལ་དུ་བྱོན་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>he had arrived at supreme tranquility.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-12">
+    <prop type="location-id">UT22084-059-013-74</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞི་བ་དུལ་བ། བསྲུངས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He was serene, peaceful, and well guarded.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-13">
+    <prop type="location-id">UT22084-059-013-74</prop>
+    <tuv xml:lang="bo">
+                <seg>སྡིག་པ་མེད་པ་དབང་པོ་དུལ་བ། ཁ་དོག་བཟང་པོ་རྒྱས་པ་མཆོག་དང་ལྡན་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>His senses were tamed and, without a trace of wickedness, he glowed with a fine complexion.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-14">
+    <prop type="location-id">UT22084-059-013-74</prop>
+    <tuv xml:lang="bo">
+                <seg>མཚོ་ལྟར་དང་ཞིང་གསལ་ལ་རྙོག་པ་མེད་པ། གསེར་གྱི་མཆོད་སྡོང་ལྟར་མངོན་པར་འཕགས་པ་མི་བསྐྱོད་པ། མི་གཡོ་བ། བརྙེས་པ་དཔལ་གྱིས་འབར་བ། ལྷམ་མེ། ལྷན་ནེ། ལྷང་ངེ་ཞིང་གཤེགས་པ་རྒྱང་རིང་པོ་དེ་ཉིད་ནས་མཐོང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Still and clear like a lake, elevated and unshakable like a golden offering post, he was unmoving, and due to the splendor of his attainment, he blazed, shone, and glowed with brilliance.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-15">
+    <prop type="location-id">UT22084-059-013-74</prop>
+    <tuv xml:lang="bo">
+                <seg>མཐོང་ནས་ཀྱང་སེམས་དང་བར་གྱུར་ཏེ། དེ་སེམས་དང་བས་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Seeing this, Śrīmatī the brahmin woman was inspired and went to him.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-16">
+    <prop type="location-id">UT22084-059-013-74</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་མ་ཕམ་པའི་རྐང་པ་ལ་ཕྱག་འཚལ་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>She paid homage at the feet of the Blessed One and the bodhisattva great being Ajita.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-17">
+    <prop type="location-id">UT22084-059-013-74</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་དེ། བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། བཅོམ་ལྡན་འདས་ལེགས་པར་བྱོན་ཏོ། །<tei:ref folio="F.308.a"/>
+                </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>“Welcome, Blessed One,” she said, bowing toward the Blessed One with joined palms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-18">
+    <prop type="location-id">UT22084-059-013-74</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལེགས་པར་བྱོན་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>“Welcome.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-19">
+    <prop type="location-id">UT22084-059-013-74</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་གདན་བཤམས་པ་འདི་ལ་བཞུགས་སུ་གསོལ་ཞེས་གསོལ་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Please be seated on the seat we have set out for you.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-20">
+    <prop type="location-id">UT22084-059-013-75</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་དང་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་མ་ཕམ་པ་སོ་སོ་ཅི་རིགས་པར་བཞུགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-013-75"/>The Blessed One and the bodhisattva great being Ajita took their respective seats.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-21">
+    <prop type="location-id">UT22084-059-013-75</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བྲམ་ཟེ་མོ་དཔལ་ལྡན་མས་བཅོམ་ལྡན་འདས་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་མ་ཕམ་པ་བདེ་བར་བཞུགས་པར་རིག་ནས། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་དེ། བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་གྲོང་ཁྱེར་བཱ་རཱ་ཎ་སཱིར་དྲང་སྲོང་ལྷུང་བ་རི་དགས་ཀྱི་ནགས་འདིར་བཅོམ་ལྡན་འདས་ཀྱིས་ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་ཏོ་ཞེས་བདག་གིས་ཐོས་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Seeing that the Blessed One and the bodhisattva great being Ajita were comfortably seated, Śrīmatī the brahmin woman bowed toward the Blessed One with joined palms and said, “Blessed One, I have heard that the Blessed One turned the wheel of Dharma at Ṛṣipatana Deer Park near the city of Vārāṇasī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-22">
+    <prop type="location-id">UT22084-059-013-75</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་བཅོམ་ལྡན་འདས་ཀྱིས་གང་བསྐོར་བའི་ཆོས་ཇི་ལྟ་བུ་ཞིག་ལགས་དེ་སྐད་ཅེས་གསོལ་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Blessed One, what Dharma did the Blessed One teach?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-23">
+    <prop type="location-id">UT22084-059-013-76</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བྲམ་ཟེ་མོ་དཔལ་ལྡན་མ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །དཔལ་ལྡན་མ་མ་རིག་པའི་རྐྱེན་གྱིས་འདུ་བྱེད་རྣམས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-013-76"/>The Blessed One answered Śrīmatī the brahmin woman, “Śrīmatī, it is this: Through the condition of ignorance, there are formations.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-24">
+    <prop type="location-id">UT22084-059-013-76</prop>
+    <tuv xml:lang="bo">
+                <seg>འདུ་བྱེད་རྣམས་ཀྱི་རྐྱེན་གྱིས་རྣམ་པར་ཤེས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Through the condition of formations, there is consciousness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-25">
+    <prop type="location-id">UT22084-059-013-76</prop>
+    <tuv xml:lang="bo">
+                <seg>རྣམ་པར་ཤེས་པའི་རྐྱེན་གྱིས་མིང་དང་གཟུགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Through the condition of consciousness, there is name and form.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-26">
+    <prop type="location-id">UT22084-059-013-76</prop>
+    <tuv xml:lang="bo">
+                <seg>མིང་དང་གཟུགས་ཀྱི་རྐྱེན་གྱིས་སྐྱེ་མཆེད་དྲུག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Through the condition of name and form, there are the six sense sources.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-27">
+    <prop type="location-id">UT22084-059-013-76</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐྱེ་མཆེད་དྲུག་གི་རྐྱེན་གྱིས་རེག་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Through the condition of the six sense sources, there is contact.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-28">
+    <prop type="location-id">UT22084-059-013-76</prop>
+    <tuv xml:lang="bo">
+                <seg>རེག་པའི་རྐྱེན་གྱིས་ཚོར་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Through the condition of contact, there is sensation.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-29">
+    <prop type="location-id">UT22084-059-013-76</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚོར་བའི་རྐྱེན་གྱིས་སྲེད་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Through the condition of sensation, there is craving.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-30">
+    <prop type="location-id">UT22084-059-013-76</prop>
+    <tuv xml:lang="bo">
+                <seg>སྲེད་པའི་རྐྱེན་གྱིས་ལེན་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Through the condition of craving, there is grasping.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-31">
+    <prop type="location-id">UT22084-059-013-76</prop>
+    <tuv xml:lang="bo">
+                <seg>ལེན་པའི་རྐྱེན་གྱིས་སྲིད་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Through the condition of grasping, there is becoming.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-32">
+    <prop type="location-id">UT22084-059-013-76</prop>
+    <tuv xml:lang="bo">
+                <seg>སྲིད་པའི་རྐྱེན་གྱིས་སྐྱེ་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Through the condition of becoming, there is rebirth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-33">
+    <prop type="location-id">UT22084-059-013-76</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐྱེ་བའི་རྐྱེན་གྱིས་རྒ་ཤི་དང་། མྱ་ངན་དང་སྨྲེ་སྔགས་འདོན་པ་དང་། སྡུག་བསྔལ་བ་དང་། ཡིད་མི་བདེ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Through the condition of rebirth, there is old age and death, as well as sorrow, misery, suffering, mental anguish, and agitation.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-34">
+    <prop type="location-id">UT22084-059-013-76</prop>
+    <tuv xml:lang="bo">
+                <seg>འཁྲུགས་པ་རྣམས་འབྱུང་སྟེ། དེ་ལྟར་སྡུག་བསྔལ་གྱི་ཕུང་པོ་ཆེན་པོ་འབའ་ཞིག་པོ་འདི་དག་འབྱུང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In this way, only great heaps of suffering come about.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-35">
+    <prop type="location-id">UT22084-059-013-77</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་རིག་པ་འགགས་པས་འདུ་བྱེད་འགག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-013-77"/>“With the cessation of ignorance, formations cease.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-36">
+    <prop type="location-id">UT22084-059-013-77</prop>
+    <tuv xml:lang="bo">
+                <seg>འདུ་བྱེད་འགགས་པས་རྣམ་པར་ཤེས་པ་འགག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With the cessation of formations, consciousness ceases.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-37">
+    <prop type="location-id">UT22084-059-013-77</prop>
+    <tuv xml:lang="bo">
+                <seg>རྣམ་པར་ཤེས་པ་འགགས་པས་མིང་དང་གཟུགས་འགག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With the cessation of consciousness, name and form cease.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-38">
+    <prop type="location-id">UT22084-059-013-77</prop>
+    <tuv xml:lang="bo">
+                <seg>མིང་དང་གཟུགས་འགགས་པས་སྐྱེ་མཆེད་དྲུག་འགག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With the cessation of name and form, the six sense sources cease.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-39">
+    <prop type="location-id">UT22084-059-013-77</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐྱེ་མཆེད་དྲུག་འགགས་པས་རེག་པ་འགག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With the cessation of the six sense sources, contact ceases.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-40">
+    <prop type="location-id">UT22084-059-013-77</prop>
+    <tuv xml:lang="bo">
+                <seg>རེག་པ་འགགས་པས་ཚོར་བ་འགག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With the cessation of contact, sensation ceases.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-41">
+    <prop type="location-id">UT22084-059-013-77</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚོར་བ་འགགས་པས་སྲེད་པ་འགག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With the cessation of sensation, craving ceases.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-42">
+    <prop type="location-id">UT22084-059-013-77</prop>
+    <tuv xml:lang="bo">
+                <seg>སྲེད་པ་འགགས་པས་ལེན་པ་འགག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With the cessation of craving, grasping ceases.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-43">
+    <prop type="location-id">UT22084-059-013-77</prop>
+    <tuv xml:lang="bo">
+                <seg>ལེན་པ་འགགས་པས་སྲིད་པ་འགག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With the cessation of grasping, becoming ceases.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-44">
+    <prop type="location-id">UT22084-059-013-77</prop>
+    <tuv xml:lang="bo">
+                <seg>སྲིད་པ་འགགས་པས་སྐྱེ་བ་<tei:ref folio="F.308.b"/>འགག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With the cessation of becoming, rebirth ceases.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-45">
+    <prop type="location-id">UT22084-059-013-77</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐྱེ་བ་འགགས་པས་རྒ་ཤི་དང་མྱ་ངན་དང་སྨྲེ་སྔགས་འདོན་པ་དང་། སྡུག་བསྔལ་བ་དང་། ཡིད་མི་བདེ་བ་དང་། འཁྲུགས་པ་རྣམས་འགགས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With the cessation of rebirth, old age and death, as well as sorrow, misery, suffering, mental anguish, and agitation, cease.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-46">
+    <prop type="location-id">UT22084-059-013-77</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་སྡུག་བསྔལ་གྱི་ཕུང་པོ་ཆེན་པོ་འབའ་ཞིག་པོ་འདི་འགག་པར་འགྱུར་རོ་ཞེས་བྱ་བ་དཔལ་ལྡན་མ་དགེ་སྦྱོང་ངམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In only this way will the great heap of suffering cease.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-47">
+    <prop type="location-id">UT22084-059-013-78</prop>
+    <tuv xml:lang="bo">
+                <seg>བྲམ་ཟེའམ། ལྷའམ། བདུད་དམ། ཚངས་པའམ། སུས་ཀྱང་ཆོས་དང་འཐུན་པར་འཇིག་རྟེན་དུ་མ་བསྐོར་བའི་ཆོས་ཀྱི་འཁོར་ལོ་འདི་གྲོང་ཁྱེར་བཱ་རཱ་ཎ་སཱིར་དྲང་སྲོང་ལྷུང་བ་རི་དགས་ཀྱི་ནགས་སུ་དེ་བཞིན་གཤེགས་པས་བསྐོར་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-013-78"/>“This, Śrīmatī, is the wheel of Dharma that has never before been rightfully turned in the world by any mendicant, brahmin, god, demon, or brahmā, but was turned by the Thus-Gone One here at Ṛṣipatana Deer Park near the city of Vārāṇasī.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-48">
+    <prop type="location-id">UT22084-059-013-79</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང་། བྲམ་ཟེ་མོ་དཔལ་ལྡན་མས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་ཅི་མ་རིག་པ་ནང་ན་མཆིས་སམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-013-79"/>Śrīmatī the brahmin woman asked the Blessed One, “Blessed One, is ignorance something internal or something external?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-49">
+    <prop type="location-id">UT22084-059-013-79</prop>
+    <tuv xml:lang="bo">
+                <seg>སླད་རོལ་ན་མཆིས། བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། དཔལ་ལྡན་མ་དེ་ནི་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One responded, “It is neither, Śrīmatī.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-50">
+    <prop type="location-id">UT22084-059-013-81</prop>
+    <tuv xml:lang="bo">
+                <seg>གསོལ་པ། བཅོམ་ལྡན་འདས་གལ་ཏེ་མ་རིག་པ་ནང་དང་སླད་རོལ་ན་མ་མཆིས་པ་ལགས་ན་མ་མཆིས་པ་དེ་ཇི་ལྟར་འདུ་བྱེད་རྣམས་ཀྱི་རྐྱེན་དུ་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-013-81"/>“Blessed One, if ignorance is neither internal nor external, then how does something nonexistent act as a condition for formations?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-51">
+    <prop type="location-id">UT22084-059-013-81</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཆོས་གང་ཡང་འཇིག་རྟེན་ཕ་རོལ་ན་མཆིས་ལགས་སམ། བཀའ་སྩལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Are there any phenomena that are beyond this world, Blessed One?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-52">
+    <prop type="location-id">UT22084-059-013-81</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་ལྡན་མ་དེ་ནི་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>“There are not, Śrīmatī.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-53">
+    <prop type="location-id">UT22084-059-013-83</prop>
+    <tuv xml:lang="bo">
+                <seg>གསོལ་པ། བཅོམ་ལྡན་འདས་མ་རིག་པའི་རྣམ་པ་མཆིས་ལགས་སམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-013-83"/>“Blessed One, does ignorance have features?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-54">
+    <prop type="location-id">UT22084-059-013-83</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། དཔལ་ལྡན་མ་དེ་ནི་མེད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>“It does not, Śrīmatī,” the Blessed One replied.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-55">
+    <prop type="location-id">UT22084-059-013-83</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་ལྡན་མ་མ་རིག་པ་ནི་ཡང་དག་པ་མ་ཡིན་པའི་རྣམ་པར་འབྱུང་གི་ཡང་དག་པའི་རྣམ་པར་ནི་མི་འབྱུང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>“Ignorance comes about in a false manner, Śrīmatī;</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-56">
+    <prop type="location-id">UT22084-059-013-83</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་ལྡན་མ་མ་རིག་པ་ནི་ཕྱིན་ཅི་ལོག་གི་རྣམ་པར་འབྱུང་གི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>it does not come about in a true manner. Ignorance comes about in a mistaken manner, Śrīmatī;</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-57">
+    <prop type="location-id">UT22084-059-013-83</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱིན་ཅི་མ་ལོག་པའི་རྣམ་པར་མི་འབྱུང་ངོ་། །གསོལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>it does not come about in an unmistaken manner.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-58">
+    <prop type="location-id">UT22084-059-013-85</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མ་རིག་པ་མ་མཆིས་ན། འདུ་བྱེད་རྣམས་ཅི་ལས་འབྱུང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-013-85"/>“Blessed One, if ignorance is nonexistent then where do formations come from?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-59">
+    <prop type="location-id">UT22084-059-013-85</prop>
+    <tuv xml:lang="bo">
+                <seg>སྡུག་བསྔལ་ཡང་ཅི་ལས་འབྱུང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And where does suffering come from?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-60">
+    <prop type="location-id">UT22084-059-013-85</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་འདི་ལྟ་སྟེ་དཔེར་ན་ཞུགས་ཤིང་ནྱ་གྲོ་དྷའི་རྩ་བ་མ་མཆིས་ན་དེའི་ཡལ་ག་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Blessed One, let me share an analogy.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-61">
+    <prop type="location-id">UT22084-059-013-85</prop>
+    <tuv xml:lang="bo">
+                <seg>ལོ་མ་དང་། ཡལ་ག་ཕྲེའུ་ཅི་ལྟར་མངོན་པར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If a banyan tree has no roots, how do its boughs, leaves, and branches develop?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-62">
+    <prop type="location-id">UT22084-059-013-85</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་དེ་བཞིན་དུ་མ་རིག་པ་མ་བྱུང་ཞིང་མཆིས་པ་མ་ལགས་ན་མ་རིག་པ་འདུ་བྱེད་རྣམས་ཀྱི་རྐྱེན་ཀྱང་ལགས་པར་ཇི་ལྟར་འཚལ་བར་འགྱུར། བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། དེ་བཞིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In a similar manner, Blessed One, if ignorance has not come into being and is not existent, how can it act as the condition for formations?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-63">
+    <prop type="location-id">UT22084-059-013-86</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་ལྡན་མ་རང་གི་མཚན་ཉིད་སྟོང་པ་ཉིད་ཀྱིས་<tei:ref folio="F.309.a"/>ཆོས་ཐམས་ཅད་སྟོང་ན་བྱིས་པ་སོ་སོའི་སྐྱེ་བོ་ཐོས་པ་དང་མི་ལྡན་པ་མི་ཤེས་པ་མ་རྟོགས་པ་དག་ལས་མངོན་པར་འདུ་བྱེད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-013-86"/>“Indeed, Śrīmatī,” replied the Blessed One, “all phenomena are empty of inherent characteristics.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-64">
+    <prop type="location-id">UT22084-059-013-86</prop>
+    <tuv xml:lang="bo">
+                <seg>ལས་རྣམས་ཡོད་པས་སྲིད་པ་མངོན་པར་འགྲུབ་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Nevertheless, childish, ordinary beings who lack learning, knowledge, and realization bring about the formation of karma.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-65">
+    <prop type="location-id">UT22084-059-013-86</prop>
+    <tuv xml:lang="bo">
+                <seg>སྲིད་པ་ཡོད་པས་སྡུག་བསྔལ་མྱོང་བར་ཟད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Through this karma, cyclic existence manifests, and due to cyclic existence, these beings end up experiencing suffering.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-66">
+    <prop type="location-id">UT22084-059-013-86</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལ་ལས་མངོན་པར་འདུ་བྱེད་པ་ཡང་སུ་ཡང་མེད་ཅིང་སྲིད་པ་མངོན་པར་འགྲུབ་པར་བྱེད་པ་ཡང་མེད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>But there is no one who forms karma nor is there any act of manifesting cyclic existence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-67">
+    <prop type="location-id">UT22084-059-013-86</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནི་ཆོས་རྣམས་ཀྱི་དོན་དམ་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This is the ultimate nature of phenomena.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-68">
+    <prop type="location-id">UT22084-059-013-86</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་ལྡན་མ་འོན་ཀྱང་སེམས་ཅན་རྣམས་ཇི་ལྟར་དོན་དམ་པ་རྟོགས་པར་འགྱུར་སྙམ་ནས་ཐ་སྙད་ཉེ་བར་བཟུང་སྟེ། དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམས་སེམས་ཅན་རྣམས་ལ་ཆོས་སྟོན་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>However, Śrīmatī, thus-gone, worthy, and perfect buddhas, being concerned with how beings can realize the ultimate nature, resort to convention to teach beings the Dharma.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-69">
+    <prop type="location-id">UT22084-059-013-86</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་ལྡན་མ་ཐ་སྙད་ནི་ཡང་དག་པ་མ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>However, Śrīmatī, convention is not true.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-70">
+    <prop type="location-id">UT22084-059-013-86</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཅིའི་ཕྱིར་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Why not?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-71">
+    <prop type="location-id">UT22084-059-013-86</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལ་ཁོང་དུ་ཆུད་པར་བྱེད་པ་པོ་ཡང་མེད། དེ་ལ་ཤེས་པར་བྱེད་པ་ཡང་མེད་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Because there is no one to comprehend it and no act of coming to understand it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-72">
+    <prop type="location-id">UT22084-059-013-87</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་ལྡན་མ་འདི་ལྟ་སྟེ་དཔེར་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-013-87"/>“Take the following analogy, Śrīmatī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-73">
+    <prop type="location-id">UT22084-059-013-87</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པས་སྤྲུལ་པ་སྤྲུལ་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Thus-Gone One projects an emanation of himself which then, in turn, projects an emanation of itself.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-74">
+    <prop type="location-id">UT22084-059-013-87</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པས་སྤྲུལ་པ་དེས་ཀྱང་སྤྲུལ་པ་གཞན་སྤྲུལ་ན་དེ་ལ་དེ་བཞིན་གཤེགས་པས་སྤྲུལ་པ་ཡང་གསོག་སྟེ་བརྫུན་པ་སླུ་བའི་ཆོས་ཅན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The emanation projected by the Thus-Gone One is hollow, that is, of a false and deceptive nature.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-75">
+    <prop type="location-id">UT22084-059-013-87</prop>
+    <tuv xml:lang="bo">
+                <seg>སྤྲུལ་པས་སྤྲུལ་པ་གང་ཡིན་པ་དེ་ཡང་གསོག་སྟེ། བརྫུན་པ་སླུ་བའི་ཆོས་ཅན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The emanation projected by the emanation is also hollow, that is, of a false and deceptive nature.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-76">
+    <prop type="location-id">UT22084-059-013-87</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་ལྡན་མ་དེ་བཞིན་དུ་གང་གིས་ཆོས་མངོན་པར་འདུས་བྱས་པ་དེ་ཡང་གསོག་སྟེ། བརྫུན་པ་སླུ་བའི་ཆོས་ཅན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In a similar manner, Śrīmatī, that which conditions phenomena is hollow, that is, of a false and deceptive nature.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-77">
+    <prop type="location-id">UT22084-059-013-87</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་གང་མངོན་པར་འདུ་བྱ་བ་དེ་ཡང་གསོག་སྟེ། བརྫུན་པ་སླུ་བའི་ཆོས་ཅན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The conditioned phenomena are also hollow, that is, of a false and deceptive nature.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-78">
+    <prop type="location-id">UT22084-059-013-88</prop>
+    <tuv xml:lang="bo">
+                <seg>གསོལ་པ་འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-013-88"/>“It is so,” she replied.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-79">
+    <prop type="location-id">UT22084-059-013-88</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་སྟོང་པ་ཉིད་ཀྱི་འཁོར་ལོ་དང་། ངེས་པར་འབྱིན་པའི་འཁོར་ལོ་དང་། ངེས་པར་འབྱེད་པའི་འཁོར་ལོ་དང་། བསམ་གྱིས་མི་ཁྱབ་པའི་འཁོར་ལོ་དང་། བསྐོར་བ་མ་ལགས་པའི་འཁོར་ལོ་དང་། མཚུངས་པ་མ་མཆིས་པའི་འཁོར་ལོ་དང་། ཇི་ལྟ་བ་བཞིན་གྱི་འཁོར་ལོ་དང་། སྐྱེ་བ་མ་མཆིས་པའི་འཁོར་ལོ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>“The Blessed One has turned the wheel of emptiness, the wheel of emancipation, the wheel of certainty, the wheel of inconceivability, the wheel unturned, the wheel of the incomparable, the wheel just as it is, the wheel of birthlessness, the wheel of the unreal, and the wheel of the absence of characteristics.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-80">
+    <prop type="location-id">UT22084-059-013-89</prop>
+    <tuv xml:lang="bo">
+                <seg>དངོས་པོ་མ་མཆིས་པའི་འཁོར་ལོ་དང་། མཚན་ཉིད་མ་མཆིས་པའི་འཁོར་ལོ་འདི་བསྐོར་བ་ནི་ནམ་མཁའི་འཁོར་ལོ་འདི་བསྐོར་ལགས་སོ། །དེ་ནས་བྲམ་ཟེ་མོ་དཔལ་ལྡན་མས་ཙན་དན་གྱི་ཕྱེ་མ་སྤར་གང་བླངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་གཏོར་ནས་ཚིག་འདི་སྐད་ཅེས་བཅོམ་ལྡན་<tei:ref folio="F.309.b"/>འདས་དགེ་བའི་རྩ་བ་འདིས་བདག་མ་འོངས་པའི་དུས་ན་འདི་ལྟ་སྟེ། སྟོང་པ་ཉིད་ཀྱི་འཁོར་ལོ་ནས་མཚན་ཉིད་མ་མཆིས་པའི་འཁོར་ལོའི་བར་དུ་ཆོས་ཀྱི་འཁོར་ལོ་འདི་ལྟ་བུ་བསྐོར་བར་གྱུར་ཅིག་ཅེས་སྨྲས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-013-89"/>Then Śrīmatī the brahmin woman took a handful of sandalwood powder, sprinkled it on the Blessed One’s feet, and said, “Blessed One, by this root of virtue, may I too in the future turn the wheel of Dharma in that way—the wheel of emptiness, the wheel of emancipation, the wheel of certainty, the wheel of inconceivability, the wheel unturned, the wheel of the incomparable, the wheel just as it is, the wheel of birthlessness, the wheel of the unreal, and the wheel of the absence of characteristics.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-81">
+    <prop type="location-id">UT22084-059-013-90</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་ཚེ་འཛུམ་པ་མཛད་དོ། །འདི་ནི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཀྱི་ཆོས་ཉིད་དེ་གང་གི་ཚེ་འཛུམ་པ་མཛད་པ་དེའི་ཚེ་བཅོམ་ལྡན་འདས་ཀྱི་ཞལ་གྱི་སྒོ་ནས་འོད་ཟེར་ཁ་དོག་དུ་མ་ཁ་དོག་སྣ་ཚོགས་འདི་ལྟ་སྟེ། སྔོན་པོ་དང་། སེར་པོ་དང་། དཀར་པོ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-013-90"/>At this, the Blessed One smiled.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-82">
+    <prop type="location-id">UT22084-059-013-90</prop>
+    <tuv xml:lang="bo">
+                <seg>དམར་པོ་དང་། བཙོད་ཀ་དང་། ཤེལ་དང་། དངུལ་གྱི་ཁ་དོག་ལྟ་བུ་དག་བྱུང་ནས་དེ་དག་གིས་འཇིག་རྟེན་གྱི་ཁམས་མཐའ་ཡས་མུ་མེད་པ་དག་སྣང་བས་ཁྱབ་པར་བྱས་ཏེ་ཚངས་པའི་འཇིག་རྟེན་གྱི་བར་དུ་མངོན་པར་བྱུང་ནས་སླར་ལོག་སྟེ། བཅོམ་ལྡན་འདས་ལ་ལན་གསུམ་བསྐོར་བ་བྱས་ནས་བཅོམ་ལྡན་འདས་ཀྱི་དབུའི་གཙུག་ཏུ་ནུབ་བོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>As is the nature of the blessed buddhas when they smile, as he smiled, lights of many colors—blue, white, red, crimson, and the colors of crystal and silver—streamed from his mouth, filling and illuminating worlds without end all the way up to the Brahmā realms, before returning, circling the Blessed One three times, and dissolving into the crown of his head.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-83">
+    <prop type="location-id">UT22084-059-013-91</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ལ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་མ་ཕམ་པས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-013-91"/>Then, the bodhisattva great being Ajita said to the Blessed One, “Blessed One!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-84">
+    <prop type="location-id">UT22084-059-013-91</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམས་ནི་རྒྱུ་མ་མཆིས་རྐྱེན་མ་མཆིས་པར་འཛུམ་པ་མི་མཛད་ན་འཛུམ་པ་མཛད་པའི་རྒྱུ་གང་ལགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thus-gone, worthy, and perfect buddhas do not smile without cause and condition.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-85">
+    <prop type="location-id">UT22084-059-013-91</prop>
+    <tuv xml:lang="bo">
+                <seg>རྐྱེན་གང་ལགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What, then, are the causes and conditions for your smile?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-86">
+    <prop type="location-id">UT22084-059-013-92</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་སྐད་ཅེས་གསོལ་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་མ་ཕམ་པ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །མ་ཕམ་པ་ཁྱོད་ཀྱིས་བྲམ་ཟེ་མོ་དཔལ་ལྡན་མ་འདིས་ཙན་དན་གྱི་ཕྱེ་མ་སྤར་གང་བླངས་ཏེ། དེ་བཞིན་གཤེགས་པའི་ཞབས་ལ་གཏོར་བ་མཐོང་ངམ། གསོལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-013-92"/>“Ajita,” he replied, “did you see Śrīmatī the brahmin woman take a handful of sandalwood powder and sprinkle it on the Blessed One’s feet?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-87">
+    <prop type="location-id">UT22084-059-013-92</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མཐོང་ལགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>“I did, Blessed One.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-88">
+    <prop type="location-id">UT22084-059-013-92</prop>
+    <tuv xml:lang="bo">
+                <seg>བདེ་བར་གཤེགས་པ་མཐོང་ལགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I saw it, Well-Gone One.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-89">
+    <prop type="location-id">UT22084-059-013-94</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། མ་ཕམ་པ་བྲམ་ཟེ་མོ་འདི་དགེ་བའི་རྩ་བ་འདིས་བསྐལ་པ་བྱེ་བ་ཕྲག་བརྒྱད་ཅུ་རྩ་བཞིར་ངན་འགྲོ་ལོག་པར་ལྟུང་བར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-013-94"/>“Ajita,” the Blessed One continued, “through her roots of virtue, this brahmin woman will not fall back into the lower realms for eight hundred and forty million eons.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-90">
+    <prop type="location-id">UT22084-059-013-94</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དྲུག་ཁྲི་བཞི་སྟོང་ལ་བསྟི་སྟང་བྱེད་པར་འགྱུར། བླ་མར་བྱེད་པར་འགྱུར། རི་མོར་བྱེད་པར་འགྱུར། མཆོད་པ་བྱེད་པར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>She will honor, venerate, respect, and worship sixty-four thousand buddhas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-91">
+    <prop type="location-id">UT22084-059-013-94</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དག་ལས་ཆོས་ཀྱང་ཉན་པར་འགྱུར། ཐོས་ནས་འཛིན་པར་འགྱུར། དམ་པའི་ཆོས་ཀྱང་ཡོངས་སུ་འཛིན་པར་འགྱུར་རོ། །<tei:ref folio="F.310.a"/>
+                </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>She will listen to the Dharma from them, she will retain what she hears, and she will fully master the true Dharma.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-92">
+    <prop type="location-id">UT22084-059-013-94</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་བཞུགས་པའམ། ཡོངས་སུ་མྱ་ངན་ལས་འདས་པ་དེ་དག་ལ་ཡང་མཆོད་པ་ཆེན་པོ་བྱེད་པར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>She will greatly worship the thus-gone ones who are present and those who have passed into parinirvāṇa.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-93">
+    <prop type="location-id">UT22084-059-013-94</prop>
+    <tuv xml:lang="bo">
+                <seg>སེམས་ཅན་གྲངས་མེད་དཔག་ཏུ་མེད་པ་དག་ཀྱང་བྱང་ཆུབ་ལ་འགོད་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>She will place countless, innumerable beings in the state of awakening.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-94">
+    <prop type="location-id">UT22084-059-013-94</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཕྱི་མའི་ཚེ་ཕྱི་མའི་དུས་སུ་བདག་སྣང་བ་ཞེས་བྱ་བའི་བསྐལ་པ་ལ་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་འདི་ཉིད་དུ་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཆོས་སྣང་བ་ཞེས་བྱ་བ་འཇིག་རྟེན་དུ་འབྱུང་བར་འགྱུར་ཏེ། དེའི་ཚེའི་ཚད་ནི་བསྐལ་པ་སྟོང་ཚང་བར་འགྱུར་རོ། །དེས་སེམས་ཅན་གྲངས་མེད་དཔག་ཏུ་མེད་པ་དག་གི་དོན་བྱས་ནས་ཕུང་པོའི་ལྷག་མ་མེད་པའི་མྱ་ངན་ལས་འདས་པའི་དབྱིངས་སུ་ཡོངས་སུ་མྱ་ངན་ལས་འདའ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In a future life, during the eon known as Self-Luminous, she will appear in this great trichiliocosm as a thus-gone, worthy, and perfect buddha known as Luminous Dharma, whose lifespan will be equal to a thousand eons, and, after working for the benefit of countless, innumerable beings, she will pass into parinirvāṇa—the expanse of nirvāṇa without any remainder of the aggregates.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-95">
+    <prop type="location-id">UT22084-059-013-95</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང་། བཅོམ་ལྡན་འདས་ལ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་མ་ཕམ་པས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བྲམ་ཟེ་མོ་དཔལ་ལྡན་མའི་སྔོན་གྱི་དགེ་བའི་རྩ་བ་གཞན་ཡང་མཆིས་ལགས་སམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-013-95"/>Then the bodhisattva great being Ajita asked the Blessed One, “Did Śrīmatī the brahmin woman previously possess other roots of virtue?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-96">
+    <prop type="location-id">UT22084-059-013-96</prop>
+    <tuv xml:lang="bo">
+                <seg>བཀའ་སྩལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-013-96"/>“She did, Ajita,” he replied.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-97">
+    <prop type="location-id">UT22084-059-013-96</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་ཕམ་པ་ཡོད་དེ། བྲམ་ཟེ་མོ་དཔལ་ལྡན་མ་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་འདི་ཉིད་འདོད་པས་སྔོན་བུད་མེད་ཀྱི་ལུས་ཉིད་ལ་གནས་ནས་དེ་བཞིན་གཤེགས་པ་རྣམ་པར་གཟིགས་ཀྱི་སྐུ་ལ་མེ་ཏོག་གི་ཕྲེང་བ་གསོལ་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>“In her desire for unsurpassed and perfect awakening, Śrīmatī the brahmin woman, in a previous life as a woman, offered a garland of flowers to the Thus-Gone One Vipaśyin.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-98">
+    <prop type="location-id">UT22084-059-013-96</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་གཙུག་ཏོར་ཅན་གྱི་སྐུ་ལ་ཡང་ཆོས་གོས་གསོལ་ཏེ། དེའི་གསུང་རབ་ལ་རབ་ཏུ་བྱུང་ནས་ལོ་སྟོང་དུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་དོ། །བཅོམ་ལྡན་འདས་དེ་ལ་ཟབ་མོའི་གནས་རྣམས་ཀྱང་ཞུས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>She also offered robes to the Thus-Gone One Śikhin and went forth as a renunciant in his teaching, practiced the holy life for a thousand years, and questioned that blessed one on profound topics.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-99">
+    <prop type="location-id">UT22084-059-013-96</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་སྐྱོབ་ཉན་ཐོས་ཀྱི་དགེ་འདུན་དང་བཅས་པ་ལ་ཡང་ཞལ་ཟས་ཀྱིས་ཚིམ་པར་བྱས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>She offered food to the Thus-Gone One Viśvabhū and his assembly of hearers, serving them to their satisfaction.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-100">
+    <prop type="location-id">UT22084-059-013-96</prop>
+    <tuv xml:lang="bo">
+                <seg>བསྟབས་པར་ཡང་བྱས་སོ། །དེ་བཞིན་གཤེགས་པ་འཁོར་བ་འཇིག་ལ་ཡང་ཨ་ཏི་མུག་ཏ་ཀའི་མེ་ཏོག་དག་གིས་གཏོར་ནས། བཅོམ་ལྡན་འདས་དེ་ལས་བསླབ་པའི་གཞི་ལྔ་པོ་དག་བླངས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>She scattered atimuktaka flowers before the Thus-Gone One Krakucchanda and from that blessed one received the five basic precepts.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-101">
+    <prop type="location-id">UT22084-059-013-96</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་གསེར་ཐུབ་ལ་ཡང་ཇི་སྲིད་འཚོའི་བར་དུ། ན་བཟའ་དང་། བཤོས་དང་། གཟིམས་ཆ་དང་། སྙུན་གྱི་གསོས་སྨན་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>To the Thus-Gone One Kanakamuni, she offered garments, meals, bedding, curative medicines, and supplies throughout his life.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-102">
+    <prop type="location-id">UT22084-059-013-96</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡོ་བྱད་རྣམས་ཀྱིས་མགྲོན་དུ་གཉེར་ཏེ། བཅོམ་ལྡན་འདས་དེས་ཟླ་བ་གཉིས་བཤོས་གསོལ་ཏོ། །ཆགས་ཟུང་གཅིག་ཀྱང་ཕུལ་ལོ། །<tei:ref folio="F.310.b"/>
+                </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That blessed one partook of her meals for two months and she also offered him a pair of sandals.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-103">
+    <prop type="location-id">UT22084-059-013-96</prop>
+    <tuv xml:lang="bo">
+                <seg>བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་འདི་ཉིད་འདོད་པས་དེ་བཞིན་གཤེགས་པ་འོད་སྲུང་ལ་གསེར་གྱི་ཕྲེང་བས་གཏོར་ཏེ། འདི་སྐད་ཅེས་བདག་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་ལུང་བསྟན་པར་མ་གྱུར་གྱི་བར་དུ་བུད་མེད་ཀྱི་དངོས་པོ་ལས་མ་གྱུར་ཅིག་ཅེས་སྨྲས་ཏེ། མ་ཕམ་པ་འདི་ཡང་བྲམ་ཟེ་མོ་དཔལ་ལྡན་མའི་སྔོན་གྱི་དགེ་བའི་རྩ་བ་ཡིན་ནོ། །བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་མ་ཕམ་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In her desire for unsurpassed and perfect awakening, she threw a golden rosary before the Thus-Gone One Kāśyapa and made the aspiration, ‘Until I am prophesied to reach unsurpassed and perfect awakening, I will not inhabit any other form than that of a woman.’ These, Ajita, are the past roots of virtue of Śrīmatī the brahmin woman.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-104">
+    <prop type="location-id">UT22084-059-013-97</prop>
+    <tuv xml:lang="bo">
+                <seg>བྲམ་ཟེ་མོ་དཔལ་ལྡན་མ་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-013-97"/>After the Blessed One had spoken thus, the bodhisattva great being Ajita, Śrīmatī the brahmin woman, and the world with its gods, humans, asuras, and gandharvas all rejoiced and praised what the Blessed One had said.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-105">
+    <prop type="location-id">UT22084-059-013-98</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་བྲམ་ཟེ་མོ་དཔལ་ལྡན་མས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-013-98"/>This concludes the noble Mahāyāna sūtra “The Questions of Śrīmatī the Brahmin Woman.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-013-TU-106">
+    <prop type="location-id">UT22084-059-013-99</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་སུ་རེན་དྲ་བོ་དྷི་དང་། པྲཛྙཱ་ཝརྨ་དང་། ཞུ་ཆེན་གྱི་ལོཙྪ་བ་བནྡེ་ཡེ་ཤེས་སྡེ་ལ་སོགས་པས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།​། །​།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-013-99"/>Translated, edited, and finalized by the Indian preceptors Surendrabodhi and Prajñāvarman, the editor-translator Bandé Yeshé Dé, and others.</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

@@ -2143,7 +2143,7 @@
                 <seg>།དེ་ཕྱིར་དེ་ལས་སྐྱེས་པ་ཡིན།</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>It arose by offering</seg>
+                <seg>It arose by offering Pearls.</seg>
             </tuv>
         </tu>
         <tu id="UT22084-040-006-TU-215">
@@ -2637,7 +2637,8 @@
             </tuv>
         </tu>
         <tu id="UT22084-040-006-TU-264">
-            <prop type="unmatched">v-1.0.6-2022</prop>
+            <prop type="location-id">UT22084-040-006-116</prop>
+            <prop type="revision">v-1.0.6-2022</prop>
             <tuv xml:lang="bo">
                 <seg>།སྐྱོན་རྣམས་སྤངས་པ་ཞེས་བྱའོ།</seg>
             </tuv>
@@ -40963,20 +40964,6 @@
             </tuv>
             <tuv xml:lang="en">
                 <seg>This concludes The Teaching on the Effulgence of Light , the eleventh of the one hundred thousand sections of the Dharma discourse known as The Noble Great Heap of Jewels.</seg>
-            </tuv>
-        </tu>
-    <tu id="UT22084-040-006-TU-4097">
-            <prop type="revision">v-1.0.4-2022</prop>
-            <prop type="location-id">UT22084-040-006-98</prop>
-            <tuv xml:lang="en">
-                <seg>; Pearls.</seg>
-            </tuv>
-        </tu>
-        <tu id="UT22084-040-006-TU-4098">
-            <prop type="revision">v-1.0.4-2022</prop>
-            <prop type="location-id">UT22084-040-006-116</prop>
-            <tuv xml:lang="en">
-                <seg>Called abandonment of fault s; It arose by proclaiming</seg>
             </tuv>
         </tu>
         </body>

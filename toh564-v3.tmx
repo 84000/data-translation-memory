@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="linguae-dharmae/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-090-008" eft:text-version="v-1.0.3-2023"/>
+<body>
+<tu id="UT22084-090-008-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.157.a"/>༄༅༅། རྒྱ་གར་སྐད་དུ། ཨཱརྱ་མཱ་རཱི་ཙཱི་ནཱ་མ་དྷཱ་ར་ཎཱི། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་མ་འོད་ཟེར་ཅན་ཞེས་བྱ་བའི་གཟུངས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Noble Mārīcī Dhāraṇī</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-3">
+    <prop type="location-id">UT22084-090-008-75</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-008-75"/>Homage to all buddhas and bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-4">
+    <prop type="location-id">UT22084-090-008-79</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-008-79"/>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-5">
+    <prop type="location-id">UT22084-090-008-79</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མཉན་དུ་ཡོད་པ་ན་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན། དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་བརྒྱ་ཕྲག་ཕྱེད་དང་བཅུ་གསུམ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་མང་པོ་དག་དང་ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One was in Śrāvastī in Prince Jeta’s Grove, at Anāthapiṇḍada’s park, with a large saṅgha of 1,250 monks and a great number of bodhisattva great beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-6">
+    <prop type="location-id">UT22084-090-008-80</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དགེ་སློང་རྣམས་ལ་བཀའ་སྩལ་པ། དགེ་སློང་དག་ལྷ་མོ་འོད་ཟེར་ཅན་ཞེས་བྱ་བ་ཞིག་ཡོད་དེ། དེ་ཉི་མ་དང་། ཟླ་བའི་མདུན་དང་མདུན་ནས་འགྲོ་སྟེ། དེ་ལྟར་མེད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-008-80"/>“Monks,” said the Blessed One, “there is a certain goddess named Mārīcī who arrives just before the sun and moon.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-7">
+    <prop type="location-id">UT22084-090-008-80</prop>
+    <tuv xml:lang="bo">
+                <seg>གཟུང་དུ་མེད། བཅིང་དུ་མེད། དགག་ཏུ་མེད། བརྒལ་དུ་མེད། རྨོངས་པར་བྱར་མེད། ཆད་པས་གཅད་དུ་མེད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>She cannot be seen, cannot be seized, cannot be bound, cannot be stopped, cannot be opposed, cannot be enchanted, cannot be cut by a blade, cannot be decapitated, cannot be injured, cannot be burned, and cannot be brought under an enemy’s control.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-8">
+    <prop type="location-id">UT22084-090-008-81</prop>
+    <tuv xml:lang="bo">
+                <seg>མགོ་བྲེག་ཏུ་མེད། གཞུར་མེད། ཚིག་པར་བྱར་མེད། དགྲའི་དབང་དུ་མི་འགྲོའོ། །དགེ་སློང་དག་གང་གིས་ཀྱང་ལྷ་མོ་འོད་ཟེར་ཅན་དེའི་མིང་ཤེས་པ་དེ་ཡང་བལྟར་མེད། གཟུང་དུ་མེད། བཅིང་དུ་མེད། དགག་ཏུ་མེད། བརྒལ་དུ་མེད། རྨོངས་པར་བྱར་མེད། ཆད་པས་གཅད་དུ་མེད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-008-81"/>“Monks, whoever knows the goddess Mārīcī’s name also cannot be seized, cannot be bound, cannot be stopped, cannot be opposed, cannot be enchanted, cannot be cut by a blade, cannot be decapitated, cannot be injured, cannot be burned, and cannot be brought under an enemy’s control.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-9">
+    <prop type="location-id">UT22084-090-008-82</prop>
+    <tuv xml:lang="bo">
+                <seg>མགོ་བྲེག་ཏུ་མེད། གཞུར་མེད། ཚིག་པར་བྱར་མེད། དེ་དགྲའི་དབང་དུ་འགྲོ་བར་མི་འགྱུར་རོ། །དེ་ལྟར་བདག་གིས་ཀྱང་ལྷ་མོ་འོད་ཟེར་ཅན་གྱི་མིང་ཤེས་ཀྱིས་བདག་ཀྱང་བལྟར་མེད་པར་གྱུར་ཅིག །གཟུང་དུ་མེད་པར་གྱུར་ཅིག །བཅིང་དུ་མེད་པར་གྱུར་ཅིག །དགག་ཏུ་མེད་པར་གྱུར་ཅིག །བརྒལ་དུ་མེད་པར་གྱུར་ཅིག །རྨོངས་པར་བྱར་མེད་པར་གྱུར་ཅིག །ཆད་པས་གཅད་དུ་མེད་པར་གྱུར་ཅིག །མགོ་བྲེག་ཏུ་མེད་པར་གྱུར་ཅིག །གཞུར་མེད་པར་གྱུར་ཅིག །ཚིག་པར་བྱར་མེད་པར་གྱུར་ཅིག །དགྲའི་དབང་དུ་མི་འགྲོ་བར་གྱུར་ཅིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-008-82"/>“Since I know the name of the goddess Mārīcī, may I, too not be seen, not be seized, not be bound, not be stopped, not be opposed, not be enchanted, not be cut, not be decapitated, not be injured, not be beaten, not be burned, and not be brought under an enemy’s control.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-10">
+    <prop type="location-id">UT22084-090-008-82</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལ་གསང་སྔགས་ཀྱི་ཚིག་ནི་འདི་རྣམས་ཡིན་ནོ། །ཏདྱ་ཐཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These are the mantra verses:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-11">
+    <prop type="location-id">UT22084-090-008-83</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་པ་ཏཱ་ཀྲ་མ་སི། པ་རཱ་ཀྲ་མ་སི། ཨུ་ད་ཡ་མ་སི། ནཻ་ར་མ་སི། ཨརྐྐ་མ་སི། མརྐྐ་མ་སི། ཨུར་མ་མ་སི། བ་ན་མ་སི། གུལ་མ་མ་སི། ཙཱི་བ་ར་མ་སི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-008-83"/>“tadyathā oṃ padākramasi parākramasi udayamasi nairamasi arkamasi markamasi urmamasi vanamasi gulmamasi cīvaramasi mahācīvaramasi antardhānamasi svāhā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-12">
+    <prop type="location-id">UT22084-090-008-88</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་ཧཱ་ཙཱི་བ་ར་མ་སི། <tei:ref folio="F.157.b"/>
+                    <tei:ref folio="F.158.a"/>ཨན་ཏར་དྷྭཾ་ན་མ་སི་སྭཱ་ཧཱ། ཨོཾ་ལྷ་མོ་འོད་ཟེར་ཅན་བདག་ལམ་དུ་སྐྱོབས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-008-88"/>“Oṃ goddess Mārīcī, protect me on the path.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-13">
+    <prop type="location-id">UT22084-090-008-88</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་ལམ་ལོག་པ་ལས་སྐྱོབས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Protect me from the wrong path.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-14">
+    <prop type="location-id">UT22084-090-008-88</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་སྐྱེ་བོའི་འཇིགས་པ་ལས་སྐྱོབས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Protect me from perils related to people.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-15">
+    <prop type="location-id">UT22084-090-008-88</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་རྒྱལ་པོའི་འཇིགས་པ་ལས་སྐྱོབས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Protect me from perils related to kings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-16">
+    <prop type="location-id">UT22084-090-008-88</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གླང་པོ་ཆེའི་འཇིགས་པ་ལས་སྐྱོབས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Protect me from perils related to elephants.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-17">
+    <prop type="location-id">UT22084-090-008-88</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་ཆོམ་རྐུན་གྱི་འཇིགས་པ་ལས་སྐྱོབས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Protect me from perils related to robbers.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-18">
+    <prop type="location-id">UT22084-090-008-88</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་ཀླུའི་འཇིགས་པ་ལས་སྐྱོབས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Protect me from perils related to nāgas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-19">
+    <prop type="location-id">UT22084-090-008-88</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་སེང་གེའི་འཇིགས་པ་ལས་སྐྱོབས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Protect me from perils related to lions.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-20">
+    <prop type="location-id">UT22084-090-008-88</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་སྟག་གི་འཇིགས་པ་ལས་སྐྱོབས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Protect me from perils related to tigers.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-21">
+    <prop type="location-id">UT22084-090-008-88</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་མེའི་འཇིགས་པ་ལས་སྐྱོབས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Protect me from perils related to fire.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-22">
+    <prop type="location-id">UT22084-090-008-88</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་ཆུའི་འཇིགས་པ་ལས་སྐྱོབས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Protect me from perils related to water.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-23">
+    <prop type="location-id">UT22084-090-008-88</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་སྦྲུལ་གྱི་འཇིགས་པ་ལས་སྐྱོབས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Protect me from perils related to serpents.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-24">
+    <prop type="location-id">UT22084-090-008-88</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་དུག་གི་འཇིགས་པ་ལས་སྐྱོབས་ཤིག །བདག་ཕྱིར་རྒོལ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Protect me from perils related to poison.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-25">
+    <prop type="location-id">UT22084-090-008-88</prop>
+    <tuv xml:lang="bo">
+                <seg>དགྲ་ཐམས་ཅད་ལས་སྐྱོབས་ཤིག །འཁྲུགས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Protect me from all adversaries and enemies.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-26">
+    <prop type="location-id">UT22084-090-008-88</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་འཁྲུགས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Protect me when there is conflict and calm and when there is disorder and order.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-27">
+    <prop type="location-id">UT22084-090-008-88</prop>
+    <tuv xml:lang="bo">
+                <seg>ཉམས་པ་དང་མ་ཉམས་པ་ཐམས་ཅད་དུ་བདག་སེང་གེ་ལས་སྲུངས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Protect me from lions.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-28">
+    <prop type="location-id">UT22084-090-008-88</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་སྟག་ལས་སྲུངས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Protect me from tigers.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-29">
+    <prop type="location-id">UT22084-090-008-88</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་ཀླུ་ལས་སྲུངས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Protect me from nāgas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-30">
+    <prop type="location-id">UT22084-090-008-88</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་སྦྲུལ་ལས་སྲུངས་ཤིག་སྭཱ་ཧཱ། བདག་འཇིགས་པ་ཐམས་ཅད་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Protect me from serpents,svāhā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-31">
+    <prop type="location-id">UT22084-090-008-88</prop>
+    <tuv xml:lang="bo">
+                <seg>གནོད་པ་དང་། ནད་འགོ་བ་དང་། འཁྲུགས་པ་ཐམས་ཅད་ལས་སྲུངས་ཤིག་སྲུངས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Protect me from all perils and from all manner of harm, infectious disease, and conflict. Protect me!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-32">
+    <prop type="location-id">UT22084-090-008-91</prop>
+    <tuv xml:lang="bo">
+                <seg>ན་མོ་རཏྣ་ཏྲ་ཡཱ་ཡ། ཏདྱ་ཐཱ། ཨོཾ་ཨཱ་ལོ། ཏཱ་ལོ་ཀཱ་ལོ། སཙྪ་ལོ་ས་མ་པ་མཱུར་དྷི་ཊི་རཀྵ་རཀྵ་མཱཾ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-008-91"/>“namo ratnatrayāya tadyathā oṃ ālo tālo kālo sacchalo sattvamudratirakṣa rakṣa māṃ.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-33">
+    <prop type="location-id">UT22084-090-008-91</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་དང་སེམས་ཅན་ཐམས་ཅད་ལ་འཚེ་བ་དང་། འཇིགས་པ་དང་། ནད་ཐམས་ཅད་ལས་སྲུངས་ཤིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Protect me and all beings and from all manner of injury, peril, and illness, svāhā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-34">
+    <prop type="location-id">UT22084-090-008-93</prop>
+    <tuv xml:lang="bo">
+                <seg>དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-008-93"/>“Homage to the Three Jewels.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-35">
+    <prop type="location-id">UT22084-090-008-93</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་མོ་འོད་ཟེར་ཅན་གྱི་སྙིང་པོ་བརྗོད་པར་བྱ་སྟེ། ཏདྱ་ཐཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I will recite the heart mantra of the goddess Mārīcī:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-36">
+    <prop type="location-id">UT22084-090-008-94</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་བཏྟྭ་ལི། བ་དཱ་ལི། བ་རཱ་ལི། བཱ་རཱ་ཧ་མུ་ཁི། སརྦ་དུཥྚཱ། པྲ་དུཥྚཱ་ནཱཾ། ཙཀྵུར་མུ་ཁཾ་བན་དྷ་བན་དྷ། བན་དྷ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-008-94"/>“tadyathā oṃ vattāli vadāli varāli varāhamukhī sarvaduṣṭapraduṣṭānāṃ cakṣurmukhaṃ bandha bandha bandha mukhaṃ jaṃbhaya staṃbhaya mohaya svāhā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-37">
+    <prop type="location-id">UT22084-090-008-97</prop>
+    <tuv xml:lang="bo">
+                <seg>མུ་ཁཾ། ཛཾ་བྷ་ཡ། སྟཾ་བྷ་ཡ། མོ་ཧ་ཡ་སྭཱ་ཧཱ། ཨོཾ་མཱ་རཱི་ཙྱཻ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-008-97"/>“oṃ mārīcyai svāhā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-38">
+    <prop type="location-id">UT22084-090-008-98</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་བ་རཱ་ལི། བ་དཱ་ལི། བཏྟྭ་ལི། བཱ་རཱ་ཧ་མུ་ཁི། སརྦ་དུཥྚཱ་ནཱཾ། པྲ་དུཥྚཱ་ནཱཾ། ཙཀྵུར་མུ་ཁཾ་བན་དྷ་བན་དྷ་སྭཱ་ཧཱ། བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-008-98"/>“oṃ varāli vadāli vattāli varāhamukhi sarvaduṣṭānāṃ praduṣṭānāṃ cakṣurmukhaṃ bandha bandha svāhā.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-39">
+    <prop type="location-id">UT22084-090-008-101</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དེ་དག་དང་། བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་དང་། ཐམས་ཅད་དང་ལྡན་པའི་འཁོར་དེ་དག་དང་། ལྷ་དང་མི་དང་ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་<tei:ref folio="F.158.b"/>རྟེན་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-008-101"/>When the Blessed One said this, the entire retinue of monks and bodhisattvas and the entire world with its gods, humans, asuras, and gandharvas rejoiced and praised the words of the Blessed One.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-40">
+    <prop type="location-id">UT22084-090-008-102</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་མ་འོད་ཟེར་ཅན་ཞེས་བྱ་བའི་གཟུངས་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-008-102"/>This concludes “The Noble Dhāraṇī of Mārīcī.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-008-TU-41">
+    <prop type="location-id">UT22084-090-008-103</prop>
+    <tuv xml:lang="bo">
+                <seg>པཎྜི་ཏ་ཨ་མོ་གྷ་བཛྲ་དང་། ལོ་ཙཱ་བ་དགེ་སློང་བ་རི་རིན་ཆེན་གྲགས་པས་བསྒྱུར་བའོ།​། །​།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-008-103"/>This work was translated by the paṇḍita Amoghavajra and the lotsāwa-monk Bari Rinchen Drakpa.</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>
