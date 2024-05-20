@@ -5,6 +5,8 @@
         <tu id="UT22084-054-003-TU-1">
             <prop type="folio">F.153.a</prop>
             <prop type="position">1</prop>
+            <prop type="location-id">UT22084-054-003-10</prop>
+            <prop type="revision">v-1.25.4-2023</prop>
             <tuv xml:lang="bo">
                 <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
             </tuv>
@@ -15,6 +17,8 @@
         <tu id="UT22084-054-003-TU-2">
             <prop type="folio">F.153.a</prop>
             <prop type="position">41</prop>
+            <prop type="location-id">UT22084-054-003-11</prop>
+            <prop type="revision">v-1.25.4-2023</prop>
             <tuv xml:lang="bo">
                 <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
             </tuv>
@@ -25,46 +29,56 @@
         <tu id="UT22084-054-003-TU-3">
             <prop type="folio">F.153.a</prop>
             <prop type="position">70</prop>
+            <prop type="revision">v-1.25.4-2023</prop>
+            <prop type="location-id">UT22084-054-003-11</prop>
             <tuv xml:lang="bo">
                 <seg>བཅོམ་ལྡན་འདས་འོག་མིན་ལྷའི་རྒྱལ་པོའི་ཁང་བཟངས་ན་བཞུགས་ཏེ་</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>While the Blessed One was residing in the palace of the king of the gods in the Akaniṣṭha realm,</seg>
+                <seg>The Blessed One was residing in the palace of the king of the gods in the Akaniṣṭha realm,</seg>
             </tuv>
         </tu>
         <tu id="UT22084-054-003-TU-4">
             <prop type="folio">F.153.a</prop>
             <prop type="position">167</prop>
+            <prop type="revision">v-1.25.4-2023</prop>
+            <prop type="location-id">UT22084-054-003-11</prop>
             <tuv xml:lang="bo">
                 <seg>འཁོར་ཐམས་ཅད་ལ་ཆོས་སྟོན་པ་དང་།</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>he taught the Dharma to the entire assembly.</seg>
+                <seg>and was teaching the Dharma to the entire assembly there.</seg>
             </tuv>
         </tu>
         <tu id="UT22084-054-003-TU-5">
             <prop type="folio">F.153.a</prop>
             <prop type="position">212</prop>
+            <prop type="revision">v-1.25.4-2023</prop>
+            <prop type="location-id">UT22084-054-003-12</prop>
             <tuv xml:lang="bo">
                 <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནམ་མཁའི་སྙིང་པོས་བཅོམ་ལྡན་འདས་ལ་ཕྱག་འཚལ་ནས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>The bodhisattva mahāsattva Ākāśagarbha then paid homage to the Blessed One and asked,</seg>
+                <seg>The bodhisattva mahāsattva Ākāśagarbha paid homage to the Blessed One and asked,</seg>
             </tuv>
         </tu>
         <tu id="UT22084-054-003-TU-6">
             <prop type="folio">F.153.a</prop>
             <prop type="position">298</prop>
+            <prop type="revision">v-1.25.4-2023</prop>
+            <prop type="location-id">UT22084-054-003-12</prop>
             <tuv xml:lang="bo">
                 <seg>བཅོམ་ལྡན་འདས་བྱང་ཆུབ་སེམས་དཔའ་ནམ་འཆི་ཁ་མའི་སེམས་ཇི་ལྟར་བལྟ་བར་བགྱི།</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>“Blessed One, how should we think about the mind of a bodhisattva who is about to die?”</seg>
+                <seg>“Blessed One, how is the mind to be viewed for a bodhisattva at the point of dying?”</seg>
             </tuv>
         </tu>
         <tu id="UT22084-054-003-TU-7">
             <prop type="folio">F.153.a</prop>
             <prop type="position">386</prop>
+            <prop type="location-id">UT22084-054-003-13</prop>
+            <prop type="revision">v-1.25.4-2023</prop>
             <tuv xml:lang="bo">
                 <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།</seg>
             </tuv>
@@ -75,76 +89,92 @@
         <tu id="UT22084-054-003-TU-8">
             <prop type="folio">F.153.a</prop>
             <prop type="position">411</prop>
+            <prop type="revision">v-1.25.4-2023</prop>
+            <prop type="location-id">UT22084-054-003-13</prop>
             <tuv xml:lang="bo">
                 <seg>ནམ་མཁའི་སྙིང་པོ་བྱང་ཆུབ་སེམས་དཔའ་ནམ་འཆི་བའི་དུས་ཀྱི་ཚེ་འདའ་ཀ་ཡེ་ཤེས་བསྒོམ་པར་བྱའོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>“Ākāśagarbha, when a bodhisattva is about to die, he should cultivate the wisdom of the hour of death.</seg>
+                <seg>“Ākāśagarbha, a bodhisattva, when the time comes to die, should cultivate wisdom at the hour of death.</seg>
             </tuv>
         </tu>
         <tu id="UT22084-054-003-TU-9">
             <prop type="folio">F.153.a</prop>
             <prop type="position">514</prop>
+            <prop type="revision">v-1.25.4-2023</prop>
+            <prop type="location-id">UT22084-054-003-13</prop>
             <tuv xml:lang="bo">
                 <seg>དེ་ལ་འདའ་ཀ་ཡེ་ཤེས་ནི་</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>The wisdom of the hour of death is as follows:</seg>
+                <seg>Wisdom at the hour of death is as follows:</seg>
             </tuv>
         </tu>
         <tu id="UT22084-054-003-TU-10">
             <prop type="folio">F.153.a</prop>
             <prop type="position">561</prop>
+            <prop type="location-id">UT22084-054-003-14</prop>
+            <prop type="revision">v-1.25.4-2023</prop>
             <tuv xml:lang="bo">
                 <seg>ཆོས་ཐམས་ཅད་རང་བཞིན་གྱིས་རྣམ་པར་དག་པས་ན་དངོས་པོ་མེད་པའི་འདུ་ཤེས་རབ་ཏུ་བསྒོམ་པར་བྱའོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>All phenomena are naturally pure. So, one should cultivate the clear understanding that there are no entities.</seg>
+                <seg>“All phenomena are naturally pure. So, one should cultivate the clear understanding that there are no entities.</seg>
             </tuv>
         </tu>
         <tu id="UT22084-054-003-TU-11">
             <prop type="folio">F.153.a</prop>
             <prop type="position">672</prop>
+            <prop type="location-id">UT22084-054-003-15</prop>
+            <prop type="revision">v-1.25.4-2023</prop>
             <tuv xml:lang="bo">
                 <seg>ཆོས་ཐམས་ཅད་བྱང་ཆུབ་ཀྱི་སེམས་སུ་འདུས་པས་ན་སྙིང་རྗེ་ཆེན་པོའི་འདུ་ཤེས་རབ་ཏུ་བསྒོམ་པར་བྱའོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>All phenomena are subsumed within the mind of enlightenment. So, one should cultivate the clear understanding of great compassion.</seg>
+                <seg>“All phenomena are subsumed within the mind of enlightenment. So, one should cultivate the clear understanding of great compassion.</seg>
             </tuv>
         </tu>
         <tu id="UT22084-054-003-TU-12">
             <prop type="folio">F.153.a</prop>
             <prop type="position">803</prop>
+            <prop type="revision">v-1.25.4-2023</prop>
+            <prop type="location-id">UT22084-054-003-16</prop>
             <tuv xml:lang="bo">
                 <seg>ཆོས་ཐམས་ཅད་རང་བཞིན་གྱིས་འོད་གསལ་བས་ན་མི་དམིགས་པའི་འདུ་ཤེས་རབ་ཏུ་བསྒོམ་པར་བྱའོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>All phenomena are naturally luminous. So, one should cultivate the clear understanding of non-apprehension.</seg>
+                <seg>“All phenomena are naturally luminous. So, one should cultivate the clear understanding of nonapprehension.</seg>
             </tuv>
         </tu>
         <tu id="UT22084-054-003-TU-13">
             <prop type="folio">F.153.a</prop>
             <prop type="position">911</prop>
+            <prop type="revision">v-1.25.4-2023</prop>
+            <prop type="location-id">UT22084-054-003-17</prop>
             <tuv xml:lang="bo">
                 <seg>དངོས་པོ་ཐམས་ཅད་མི་རྟག་པས་ན་ཅི་ལ་ཡང་མི་ཆགས་པའི་འདུ་ཤེས་རབ་ཏུ་བསྒོམ་པར་བྱའོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>All entities are impermanent. So, one should cultivate the clear understanding of non-attachment to anything whatsoever.</seg>
+                <seg>“All entities are impermanent. So, one should cultivate the clear understanding of nonattachment to anything whatsoever.</seg>
             </tuv>
         </tu>
         <tu id="UT22084-054-003-TU-14">
             <prop type="folio">F.153.a</prop>
             <prop type="position">1032</prop>
+            <prop type="location-id">UT22084-054-003-18</prop>
+            <prop type="revision">v-1.25.4-2023</prop>
             <tuv xml:lang="bo">
                 <seg>སེམས་རྟོགས་ན་ཡེ་ཤེས་ཡིན་པས་ན་སངས་རྒྱས་གཞན་དུ་མི་བཙལ་བའི་འདུ་ཤེས་རབ་ཏུ་བསྒོམ་པར་བྱའོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>When one realizes mind, this is wisdom. So, one should cultivate the clear understanding of not seeking the Buddha elsewhere.”</seg>
+                <seg>“When one realizes mind, this is wisdom. So, one should cultivate the clear understanding of not seeking the Buddha elsewhere.”</seg>
             </tuv>
         </tu>
         <tu id="UT22084-054-003-TU-15">
             <prop type="folio">F.153.a</prop>
             <prop type="position">1159</prop>
+            <prop type="location-id">UT22084-054-003-18</prop>
+            <prop type="revision">v-1.25.4-2023</prop>
             <tuv xml:lang="bo">
                 <seg>བཅོམ་ལྡན་འདས་ཀྱིས་ཚིགས་སུ་བཅད་དེ་བཀའ་སྩལ་པ།</seg>
             </tuv>
@@ -155,6 +185,8 @@
         <tu id="UT22084-054-003-TU-16">
             <prop type="folio">F.153.a</prop>
             <prop type="position">1208</prop>
+            <prop type="location-id">UT22084-054-003-19</prop>
+            <prop type="revision">v-1.25.4-2023</prop>
             <tuv xml:lang="bo">
                 <seg>ཆོས་རྣམས་རང་བཞིན་རྣམ་དག་པས། །</seg>
             </tuv>
@@ -165,6 +197,8 @@
         <tu id="UT22084-054-003-TU-17">
             <prop type="folio">F.153.a</prop>
             <prop type="position">1249</prop>
+            <prop type="location-id">UT22084-054-003-19</prop>
+            <prop type="revision">v-1.25.4-2023</prop>
             <tuv xml:lang="bo">
                 <seg>དངོས་པོ་མེད་པའི་འདུ་ཤེས་བསྒོམ། །</seg>
             </tuv>
@@ -175,6 +209,8 @@
         <tu id="UT22084-054-003-TU-18">
             <prop type="folio">F.153.a</prop>
             <prop type="position">1322</prop>
+            <prop type="location-id">UT22084-054-003-20</prop>
+            <prop type="revision">v-1.25.4-2023</prop>
             <tuv xml:lang="bo">
                 <seg>བྱང་ཆུབ་སེམས་དང་རབ་ལྡན་པས།</seg>
             </tuv>
@@ -185,6 +221,8 @@
         <tu id="UT22084-054-003-TU-19">
             <prop type="folio">F.153.a</prop>
             <prop type="position">1384</prop>
+            <prop type="location-id">UT22084-054-003-20</prop>
+            <prop type="revision">v-1.25.4-2023</prop>
             <tuv xml:lang="bo">
                 <seg>སྙིང་རྗེ་ཆེན་པོའི་འདུ་ཤེས་བསྒོམ། །</seg>
             </tuv>
@@ -195,6 +233,8 @@
         <tu id="UT22084-054-003-TU-20">
             <prop type="folio">F.153.a</prop>
             <prop type="position">1450</prop>
+            <prop type="location-id">UT22084-054-003-21</prop>
+            <prop type="revision">v-1.25.4-2023</prop>
             <tuv xml:lang="bo">
                 <seg>ཆོས་རྣམས་རང་བཞིན་འོད་གསལ་བས། །</seg>
             </tuv>
@@ -205,16 +245,20 @@
         <tu id="UT22084-054-003-TU-21">
             <prop type="folio">F.153.a</prop>
             <prop type="position">1495</prop>
+            <prop type="revision">v-1.25.4-2023</prop>
+            <prop type="location-id">UT22084-054-003-21</prop>
             <tuv xml:lang="bo">
                 <seg>དམིགས་པ་མེད་པའི་འདུ་ཤེས་བསྒོམ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>One should cultivate the clear understanding of non-apprehension.</seg>
+                <seg>One should cultivate the clear understanding of nonapprehension.</seg>
             </tuv>
         </tu>
         <tu id="UT22084-054-003-TU-22">
             <prop type="folio">F.153.a</prop>
             <prop type="position">1561</prop>
+            <prop type="location-id">UT22084-054-003-22</prop>
+            <prop type="revision">v-1.25.4-2023</prop>
             <tuv xml:lang="bo">
                 <seg>དངོས་པོ་ཐམས་ཅད་མི་རྟག་པས། །</seg>
             </tuv>
@@ -225,16 +269,20 @@
         <tu id="UT22084-054-003-TU-23">
             <prop type="folio">F.153.a</prop>
             <prop type="position">1598</prop>
+            <prop type="revision">v-1.25.4-2023</prop>
+            <prop type="location-id">UT22084-054-003-22</prop>
             <tuv xml:lang="bo">
                 <seg>ཆགས་པ་མེད་པའི་འདུ་ཤེས་བསྒོམ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>One should cultivate the clear understanding of non-attachment.</seg>
+                <seg>One should cultivate the clear understanding of nonattachment.</seg>
             </tuv>
         </tu>
         <tu id="UT22084-054-003-TU-24">
             <prop type="folio">F.153.a</prop>
             <prop type="position">1662</prop>
+            <prop type="location-id">UT22084-054-003-23</prop>
+            <prop type="revision">v-1.25.4-2023</prop>
             <tuv xml:lang="bo">
                 <seg>སེམས་ནི་ཡེ་ཤེས་འབྱུང་བའི་རྒྱུ། །</seg>
             </tuv>
@@ -245,6 +293,8 @@
         <tu id="UT22084-054-003-TU-25">
             <prop type="folio">F.153.a</prop>
             <prop type="position">1718</prop>
+            <prop type="location-id">UT22084-054-003-23</prop>
+            <prop type="revision">v-1.25.4-2023</prop>
             <tuv xml:lang="bo">
                 <seg>སངས་རྒྱས་གཞན་དུ་མ་ཚོལ་ཅིག</seg>
             </tuv>
@@ -253,9 +303,11 @@
             </tuv>
         </tu>
         
-        <tu id="UT22084-054-003-TU-29">
+        <tu id="UT22084-054-003-TU-26">
             <prop type="folio">F.153.a</prop>
             <prop type="position">1762</prop>
+            <prop type="location-id">UT22084-054-003-24</prop>
+            <prop type="revision">v-1.25.4-2023</prop>
             <tuv xml:lang="bo">
                 <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང་།</seg>
             </tuv>
@@ -263,9 +315,11 @@
                 <seg>After the Blessed One had spoken,</seg>
             </tuv>
         </tu>
-    <tu id="UT22084-054-003-TU-26">
+    <tu id="UT22084-054-003-TU-27">
             <prop type="folio">F.153.b</prop>
             <prop type="position">35</prop>
+            <prop type="location-id">UT22084-054-003-24</prop>
+            <prop type="revision">v-1.25.4-2023</prop>
             <tuv xml:lang="bo">
                 <seg>བྱང་ཆུབ་སེམས་དཔའ་ནམ་མཁའི་སྙིང་པོ་ལ་སོགས་པའི་འཁོར་འདུས་པ་ཐམས་ཅད་རབ་ཏུ་དགའ་མགུ་ཡི་རངས་ནས།</seg>
             </tuv>
@@ -273,9 +327,11 @@
                 <seg>the whole assembly, including the bodhisattva Ākāśagarbha and others, were overjoyed and</seg>
             </tuv>
         </tu>
-        <tu id="UT22084-054-003-TU-27">
+        <tu id="UT22084-054-003-TU-28">
             <prop type="folio">F.153.b</prop>
             <prop type="position">124</prop>
+            <prop type="location-id">UT22084-054-003-24</prop>
+            <prop type="revision">v-1.25.4-2023</prop>
             <tuv xml:lang="bo">
                 <seg>བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།</seg>
             </tuv>
@@ -283,15 +339,18 @@
                 <seg>full of praise for the Buddha’s words.</seg>
             </tuv>
         </tu>
-        <tu id="UT22084-054-003-TU-28">
+        <tu id="UT22084-054-003-TU-29">
             <prop type="folio">F.153.b</prop>
             <prop type="position">163</prop>
+            <prop type="revision">v-1.25.4-2023</prop>
+            <prop type="location-id">UT22084-054-003-25</prop>
             <tuv xml:lang="bo">
                 <seg>འཕགས་པ་འདའ་ཀ་ཡེ་ཤེས་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།།</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>This concludes the Noble Mahāyāna Sūtra on Wisdom at the Hour of Death.</seg>
+                <seg>This concludes The Noble Mahāyāna Sūtra “Wisdom at the Hour of Death.”</seg>
             </tuv>
         </tu>
+        
         </body>
 </tmx>

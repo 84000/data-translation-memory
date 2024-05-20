@@ -192,12 +192,13 @@
         <tu id="UT22084-051-003-TU-14">
             <prop type="folio">F.196.a</prop>
             <prop type="position">515</prop>
+            <prop type="revision">2.12 2012-2016</prop>
             <prop type="unmatched">v-2.20.15-2024</prop>
             <tuv xml:lang="bo">
                 <seg>འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་དང་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་མི་ཕམ་པ་དང་།</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>the youthful Mañjuśrī, the Bodhisattva Mahāsattva Ajita,</seg>
+                <seg>the youthful Mañjuśrī, the bodhisattva mahāsattva Ajita,</seg>
             </tuv>
         </tu>
         <tu id="UT22084-051-003-TU-15">
@@ -239,12 +240,13 @@
         <tu id="UT22084-051-003-TU-18">
             <prop type="folio">F.196.a</prop>
             <prop type="position">700</prop>
-            <prop type="unmatched">v-2.20.15-2024</prop>
+            <prop type="revision">v-2.20.15-2024</prop>
+            <prop type="location-id">UT22084-051-003-14</prop>
             <tuv xml:lang="bo">
                 <seg>དེ་དག་དང་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་གཞན་མང་པོ་དག་དང་། ལྷའི་དབང་པོ་བརྒྱ་བྱིན་དང་། མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པ་དང་། དེ་དག་དང་ལྷ་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་མང་པོ་གཞན་དག་དང་ཡང་ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ།</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>along with many other bodhisattva mahāsattvas. He was also accompanied by Indra, the lord of gods, and Brahmā, the ruler of the Sahā world, along with many myriads of gods.</seg>
+                <seg>along with many other bodhisattva mahāsattvas. He was also accompanied by Śakra, the lord of gods, and Brahmā, the ruler of the Sahā world, along with many myriads of gods.</seg>
             </tuv>
         </tu>
         <tu id="UT22084-051-003-TU-19">
@@ -262,23 +264,25 @@
         <tu id="UT22084-051-003-TU-20">
             <prop type="folio">F.196.a</prop>
             <prop type="position">937</prop>
-            <prop type="unmatched">v-2.20.15-2024</prop>
+            <prop type="revision">v-2.20.15-2024</prop>
+            <prop type="location-id">UT22084-051-003-15</prop>
             <tuv xml:lang="bo">
                 <seg>ཤཱ་རིའི་བུ་སངས་རྒྱས་ཀྱི་ཞིང་འདི་ནས་ནུབ་ཕྱོགས་ལོགས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་བྱེ་བ་ཁྲག་ཁྲིག་ཕྲག་འབུམ་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་བདེ་བ་ཅན་ཞེས་བྱ་བ་ཡོད་དེ།</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>“Śāriputra, if you go from this buddha realm past 100,000 myriad buddha realms toward the western direction, there is a world known as Sukhāvatī (The Delightful).</seg>
+                <seg>“Śāriputra, if you go from this buddha realm past one hundred thousand myriad buddha realms toward the western direction, there is a world known as Sukhāvatī.</seg>
             </tuv>
         </tu>
         <tu id="UT22084-051-003-TU-21">
             <prop type="folio">F.196.a</prop>
             <prop type="position">1100</prop>
-            <prop type="unmatched">v-2.20.15-2024</prop>
+            <prop type="revision">v-2.20.15-2024</prop>
+            <prop type="location-id">UT22084-051-003-15</prop>
             <tuv xml:lang="bo">
                 <seg>དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཚེ་དཔག་མེད་ཅེས་བྱ་བ་བཞུགས་ཏེ་འཚོ་ཞིང་གཞེས་ལ་ཆོས་ཀྱང་སྟོན་ཏོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>In that place the Tathāgata, the arhat, the perfectly and fully enlightened buddha known as Amitāyus (Immeasurable Life), dwells, lives, and abides, teaching the Dharma.</seg>
+                <seg>In that place the tathāgata, the arhat, the perfectly and fully enlightened buddha known as Amitāyus, dwells, lives, and abides, teaching the Dharma.</seg>
             </tuv>
         </tu>
         <tu id="UT22084-051-003-TU-22">
@@ -488,12 +492,13 @@
         <tu id="UT22084-051-003-TU-35">
             <prop type="folio">F.197.a</prop>
             <prop type="position">1030</prop>
-            <prop type="unmatched">v-2.20.15-2024</prop>
+            <prop type="revision">v-2.20.15-2024</prop>
+            <prop type="location-id">UT22084-051-003-18</prop>
             <tuv xml:lang="bo">
                 <seg>ཤཱ་རིའི་བུ་འདི་ཇི་སྙམ་དུ་སེམས། སེམས་ཅན་དེ་དག་དུད་འགྲོའི་སྐྱེ་གནས་སུ་གྱུར་པ་ཡིན་སྙམ་དུ་སེམས་པ་ལྟ་ན་དེ་ལྟར་མི་བལྟའོ། །དེ་ཅིའི་ཕྱིར་ཞེ་ན། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>Now what do you think about this, Śāriputra? Have those sentient beings taken birth as animals? You should not think so. Why is that so?</seg>
+                <seg>Now what do you think about this, Śāriputra? Have those sentient beings taken birth as animals? You should not think so. Why is that?</seg>
             </tuv>
         </tu>
         <tu id="UT22084-051-003-TU-29">
@@ -595,12 +600,13 @@
         <tu id="UT22084-051-003-TU-39">
             <prop type="folio">F.197.b</prop>
             <prop type="position">97</prop>
-            <prop type="unmatched">v-2.20.15-2024</prop>
+            <prop type="revision">v-2.20.15-2024</prop>
+            <prop type="location-id">UT22084-051-003-18</prop>
             <tuv xml:lang="bo">
                 <seg>ཤཱ་རིའི་བུ་དེ་བཞིན་གཤེགས་པ་ཚེ་དཔག་མེད་དེའི་ཚེའི་ཚད་དཔག་ཏུ་མེད་དེ།</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>Śāriputra, the lifespan of Tathāgata Amitāyus is immeasurable.</seg>
+                <seg>Śāriputra, the lifespan of the Tathāgata Amitāyus is immeasurable.</seg>
             </tuv>
         </tu>
         <tu id="UT22084-051-003-TU-40">
@@ -630,12 +636,13 @@
         <tu id="UT22084-051-003-TU-42">
             <prop type="folio">F.197.b</prop>
             <prop type="position">298</prop>
-            <prop type="unmatched">v-2.20.15-2024</prop>
+            <prop type="revision">v-2.20.15-2024</prop>
+            <prop type="location-id">UT22084-051-003-18</prop>
             <tuv xml:lang="bo">
                 <seg>ཤཱ་རིའི་བུ་དེ་བཞིན་གཤེགས་པ་འོད་དཔག་མེད་དེའི་འོད་སངས་རྒྱས་ཀྱི་ཞིང་ཐམས་ཅད་དུ་ཐོགས་པ་མེད་དེ།</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>Śāriputra, the light of Tathāgata Amitābha shines unimpeded throughout all buddha realms.</seg>
+                <seg>Śāriputra, the light of the Tathāgata Amitābha shines unimpeded throughout all buddha realms.</seg>
             </tuv>
         </tu>
         <tu id="UT22084-051-003-TU-43">
@@ -677,12 +684,13 @@
         <tu id="UT22084-051-003-TU-46">
             <prop type="folio">F.197.b</prop>
             <prop type="position">657</prop>
-            <prop type="unmatched">v-2.20.15-2024</prop>
+            <prop type="revision">v-2.20.15-2024</prop>
+            <prop type="location-id">UT22084-051-003-22</prop>
             <tuv xml:lang="bo">
                 <seg>དེ་དག་གི་ཚད་བརྗོད་པར་སླ་བ་མ་ཡིན་ནོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>heir number cannot be easily expressed.</seg>
+                <seg>their number cannot be easily expressed.</seg>
             </tuv>
         </tu>
         <tu id="UT22084-051-003-TU-47">
@@ -748,12 +756,13 @@
         <tu id="UT22084-051-003-TU-52">
             <prop type="folio">F.197.b</prop>
             <prop type="position">1322</prop>
-            <prop type="unmatched">v-2.20.15-2024</prop>
+            <prop type="revision">v-2.20.15-2024</prop>
+            <prop type="location-id">UT22084-051-003-23</prop>
             <tuv xml:lang="bo">
                 <seg>ཤཱ་རིའི་བུ་དགེ་བའི་རྩ་བ་ངན་ངོན་ཙམ་གྱིས་ནི་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་ཚེ་དཔག་མེད་དེའི་ཞིང་དུ་སྐྱེ་བར་མི་འགྱུར་རོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>Śāriputra, one cannot take birth in the realm of Bhagavān Tathāgata Amitāyus merely with minimal roots of virtue.</seg>
+                <seg>Śāriputra, one cannot take birth in the realm of the Bhagavān Tathāgata Amitāyus merely with minimal roots of virtue.</seg>
             </tuv>
         </tu>
         <tu id="UT22084-051-003-TU-53">
@@ -772,12 +781,13 @@
         <tu id="UT22084-051-003-TU-90">
             <prop type="folio">F.198.a</prop>
             <prop type="position">193</prop>
-            <prop type="unmatched">v-2.20.15-2024</prop>
+            <prop type="revision">v-2.20.15-2024</prop>
+            <prop type="location-id">UT22084-051-003-24</prop>
             <tuv xml:lang="bo">
                 <seg>རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་དེ་འཆི་བའི་དུས་ཀྱི་ཚེ་ཕྱིན་ཅི་ལོག་མེད་པའི་སེམས་ཀྱིས་འཆི་བའི་དུས་བྱས་ནས་འཆི་བའི་དུས་བྱས་པ་དེ་དེ་བཞིན་གཤེགས་པ་འོད་དཔག་མེད་ཉན་ཐོས་ཀྱི་དགེ་འདུན་གྱིས་ཡོངས་སུ་བསྐོར་ཅིང་བྱང་ཆུབ་སེམས་དཔའི་ཚོགས་ཀྱིས་མདུན་གྱིས་བལྟས་པའི་མདུན་ན་བཞུགས་པ་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་འོད་དཔག་མེད་དེའི་སངས་རྒྱས་ཀྱི་ཞིང་འཇིག་རྟེན་གྱི་ཁམས་བདེ་བ་ཅན་དུ་སྐྱེ་བར་འགྱུར་རོ།</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>when the hour of their death arrives, they will depart in an undeluded state. After they have passed away, the Tathāgata Amitābha will stand before them, entirely surrounded by a śrāvaka assembly and accompanied by a congregation of bodhisattvas. These sons and daughters of good family will be born in the Sukhāvatī world, the buddha realm of the Bhagavān Tathāgata Amitābha.</seg>
+                <seg>when the hour of their death arrives, they will depart in an undeluded state. After they have passed away, the Tathāgata Amitābha will stand before them, entirely surrounded by a śrāvaka assembly and honored by a congregation of bodhisattvas. These sons and daughters of good family will be born in the Sukhāvatī world, the buddha realm of the Bhagavān Tathāgata Amitābha.</seg>
             </tuv>
         </tu>
         <tu id="UT22084-051-003-TU-61">
@@ -843,12 +853,13 @@
         <tu id="UT22084-051-003-TU-60">
             <prop type="folio">F.198.a</prop>
             <prop type="position">1028</prop>
-            <prop type="unmatched">v-2.20.15-2024</prop>
+            <prop type="revision">v-2.20.15-2024</prop>
+            <prop type="location-id">UT22084-051-003-25</prop>
             <tuv xml:lang="bo">
                 <seg>དེ་དག་ལ་སོགས་པ་ཤར་ཕྱོགས་ཀྱི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་དག་རང་རང་གི་སངས་རྒྱས་ཀྱི་ཞིང་རྣམས་ལྗགས་ཀྱི་དབང་པོས་ཁེབས་པར་མཛད་དེ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>and the other bhagavān buddhas of the east, who are as numerous as the sands of the river Ganges, pervade their own buddha realms with the power of their speech and proclaim,</seg>
+                <seg>and the other bhagavān buddhas of the east, who are as numerous as the grains of sand of the river Ganges, pervade their own buddha realms with the power of their speech and proclaim,</seg>
             </tuv>
         </tu>
         <tu id="UT22084-051-003-TU-55">
@@ -878,23 +889,25 @@
         <tu id="UT22084-051-003-TU-63">
             <prop type="folio">F.198.b</prop>
             <prop type="position">184</prop>
-            <prop type="unmatched">v-2.20.15-2024</prop>
+            <prop type="revision">v-2.20.15-2024</prop>
+            <prop type="location-id">UT22084-051-003-26</prop>
             <tuv xml:lang="bo">
                 <seg>དེ་བཞིན་གཤེགས་པ་ལྷུན་པོའི་སྒྲོན་མ་ཞེས་བྱ་བ་དང་། དེ་བཞིན་གཤེགས་པ་བརྩོན་འགྲུས་མཐའ་ཡས་ཞེས་བྱ་བ་དང་། དེ་དག་ལ་སོགས་པ་ལྷོ་ཕྱོགས་ཀྱི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་དག་རང་རང་གི་སངས་རྒྱས་ཀྱི་ཞིང་རྣམས་ལྗགས་ཀྱི་དབང་པོས་ཁེབས་པར་མཛད་དེ།</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>the Tathāgata Merupradīpa, the Tathāgata Anaṃtavīrya, and others, who are as numerous as the sands of the river Ganges, pervade their own buddha realms with the power of their speech and proclaim,</seg>
+                <seg>the Tathāgata Merupradīpa, the Tathāgata Anaṃtavīrya, and others, who are as numerous as the grains of sand of the river Ganges, pervade their own buddha realms with the power of their speech and proclaim, </seg>
             </tuv>
         </tu>
         <tu id="UT22084-051-003-TU-65">
             <prop type="folio">F.198.b</prop>
             <prop type="position">238</prop>
-            <prop type="unmatched">v-2.20.15-2024</prop>
+            <prop type="revision">v-2.20.15-2024</prop>
+            <prop type="location-id">UT22084-051-003-27</prop>
             <tuv xml:lang="bo">
                 <seg>དེ་དག་ལ་སོགས་པ་ནུབ་ཕྱོགས་ཀྱི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་དག་རང་རང་གི་སངས་རྒྱས་ཀྱི་ཞིང་རྣམས་ལྗགས་ཀྱི་དབང་པོས་ཁེབས་པར་མཛད་དེ། ཁྱེད་ཅག་ཡོན་ཏན་བསམ་གྱིས་མི་ཁྱབ་པ་ཡོངས་སུ་བརྗོད་པ་སངས་རྒྱས་ཐམས་ཅད་ཀྱིས་ཡོངས་སུ་བཟུང་བའི་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལ་ཡིད་ཆེས་པར་གྱིས་ཤིག་ཅེས་གསུང་བ་མཛད་དོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>and others, who are as numerous as the sands of the river Ganges, pervade their own buddha realms with the power of their speech and proclaim, ‘You should place your trust in this Dharma discourse called “Complete Embrace by all Buddhas,” which praises inconceivable qualities.’</seg>
+                <seg>and others, who are as numerous as the grains of sand of the river Ganges, pervade their own buddha realms with the power of their speech and proclaim, ‘You should place your trust in this Dharma discourse called “Complete Embrace by all Buddhas,” which praises inconceivable qualities.’</seg>
             </tuv>
         </tu>
         <tu id="UT22084-051-003-TU-64">
@@ -937,7 +950,7 @@
         <tu id="UT22084-051-003-TU-91">
             <prop type="folio">F.199.a</prop>
             <prop type="position">390</prop>
-            <prop type="location-id">UT22084-051-003-26</prop>
+            <prop type="location-id">UT22084-051-003-28</prop>
             <prop type="revision">v-2.20.15-2024</prop>
             <tuv xml:lang="bo">
                 <seg>ཁྱེད་ཅག་ཡོན་ཏན་བསམ་གྱིས་མི་ཁྱབ་པ་ཡོངས་སུ་བརྗོད་པ་སངས་རྒྱས་ཐམས་ཅད་ཀྱིས་ཡོངས་སུ་བཟུང་བའི་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལ་ཡིད་ཆེས་པར་གྱིས་ཤིག་ཅེས་གསུང་བ་མཛད་དོ། །</seg>
@@ -961,12 +974,13 @@
         <tu id="UT22084-051-003-TU-93">
             <prop type="folio">F.199.a</prop>
             <prop type="position">741</prop>
-            <prop type="unmatched">v-2.20.15-2024</prop>
+            <prop type="revision">v-2.20.15-2024</prop>
+            <prop type="location-id">UT22084-051-003-28</prop>
             <tuv xml:lang="bo">
                 <seg>དེ་དག་ལ་སོགས་པ་འོག་གི་ཕྱོགས་ཀྱི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་དག་རང་རང་གི་སངས་རྒྱས་ཀྱི་ཞིང་རྣམས་ལྗགས་ཀྱི་དབང་པོས་ཁེབས་པར་མཛད་དེ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>and others, who are numerous as the sands of the river Ganges, pervade their own buddha realms with the power of their speech</seg>
+                <seg>and others, who are as numerous as the grains of sand of the river Ganges, pervade their own buddha realms with the power of their speech</seg>
             </tuv>
         </tu>
         <tu id="UT22084-051-003-TU-94">
@@ -984,12 +998,13 @@
     <tu id="UT22084-051-003-TU-67">
             <prop type="folio">F.199.a</prop>
             <prop type="position">1388</prop>
-            <prop type="unmatched">v-2.20.15-2024</prop>
+            <prop type="revision">v-2.20.15-2024</prop>
+            <prop type="location-id">UT22084-051-003-30</prop>
             <tuv xml:lang="bo">
                 <seg>དེ་དག་ལ་སོགས་པ་སྟེང་གི་ཕྱོགས་ཀྱི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་དག་རང་རང་གི་སངས་རྒྱས་ཀྱི་ཞིང་རྣམས་ལྗགས་ཀྱི་དབང་པོས་ཁེབས་པར་མཛད་དེ། ཁྱེད་ཅག་ཡོན་ཏན་བསམ་གྱིས་མི་ཁྱབ་པ་ཡོངས་སུ་བརྗོད་པ་སངས་རྒྱས་ཐམས་ཅད་ཀྱིས་ཡོངས་སུ་བཟུང་བའི་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལ་ཡིད་ཆེས་པར་གྱིས་ཤིག་ཅེས་གསུང་བ་མཛད་དོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>and others who are as numerous as the sands of the river Ganges, pervade their own buddha realms with the power of their speech and proclaim, ‘You should place your trust in this Dharma discourse called “Complete Embrace by all Buddhas,”</seg>
+                <seg>and others who are as numerous as the grains of sand of the river Ganges, pervade their own buddha realms with the power of their speech and proclaim, ‘You should place your trust in this Dharma discourse called “Complete Embrace by all Buddhas,”</seg>
             </tuv>
         </tu>
         <tu id="UT22084-051-003-TU-68">
@@ -1019,12 +1034,13 @@
         <tu id="UT22084-051-003-TU-70">
             <prop type="folio">F.199.b</prop>
             <prop type="position">984</prop>
-            <prop type="unmatched">v-2.20.15-2024</prop>
+            <prop type="revision">v-2.20.15-2024</prop>
+            <prop type="location-id">UT22084-051-003-30</prop>
             <tuv xml:lang="bo">
                 <seg>ཤཱ་རིའི་བུ་སེམས་ཅན་གང་དག་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་འོད་དཔག་མེད་དེའི་སངས་རྒྱས་ཀྱི་ཞིང་འཇིག་རྟེན་གྱི་ཁམས་བདེ་བ་ཅན་དུ་སེམས་ཀྱིས་སྨོན་པར་བྱེད་པའམ། བྱས་པའམ། བྱེད་པའམ། བྱེད་པར་འགྱུར་བ་དེ་དག་ཐམས་ཅད་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལས་ཕྱིར་མི་ལྡོག་གོ། །ཕྱིར་མ་ལོག་གོ་ཕྱིར་མི་ལྡོག་པར་འགྱུར་རོ།</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>Śāriputra, of all those sentient beings who aspire, who have made, are making, or will make aspirations to the Sukhāvatī world, the buddha realm of the Bhagavān Tathāgata Amitābha, none has turned away, is turning away, nor will ever turn away from the pursuit of unsurpassable, completely perfect enlightenment.</seg>
+                <seg>Śāriputra, of all those sentient beings who aspire—who have made, are making, or will make aspirations—to the Sukhāvatī world, the buddha realm of the Bhagavān Tathāgata Amitābha, none has turned away, is turning away, or will ever turn away from the pursuit of unsurpassable, completely perfect enlightenment.</seg>
             </tuv>
         </tu>
         <tu id="UT22084-051-003-TU-71">
@@ -1127,12 +1143,13 @@
         <tu id="UT22084-051-003-TU-78">
             <prop type="folio">F.200.a</prop>
             <prop type="position">296</prop>
-            <prop type="unmatched">v-2.20.15-2024</prop>
+            <prop type="revision">v-2.20.15-2024</prop>
+            <prop type="location-id">UT22084-051-003-35</prop>
             <tuv xml:lang="bo">
                 <seg>རྒྱ་གར་གྱི་མཁན་པོ་དཱ་ན་ཤཱི་ལ་དང་། ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ་བན་དེ་ཡེ་ཤེས་སྡེ་ལ་སོགས་པས་བསྒྱུར་ཅིང་གཏན་ལ་ཕབ་པ།།</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>This sūtra was translated and finalized by the Indian abbot Dānaśīla and the principal revisor-translator, the monk Yeshé Dé, along with others.</seg>
+                <seg>This sūtra was translated and finalized by the Indian preceptor Dānaśīla and the principal revisor-translator Bandé Yeshé Dé, along with others.</seg>
             </tuv>
         </tu>
         </body>

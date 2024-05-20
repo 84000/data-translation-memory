@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
-<header creationtool="linguae-dharmae/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-068-003" eft:text-version="v-1.0.5-2023"/>
+    <header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-068-003" eft:text-version="v-1.0.6-2023"/>
 <body>
 <tu id="UT22084-068-003-TU-1">
     <prop type="location-id">translation</prop>
@@ -34,73 +34,181 @@
 <tu id="UT22084-068-003-TU-4">
     <prop type="location-id">UT22084-068-003-77</prop>
     <tuv xml:lang="bo">
-                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན། བཅོམ་ལྡན་འདས་ཤཱཀྱ་རྣམས་ཀྱི་ནང་ན། སེར་སྐྱའི་གནས་ཤིང་ནྱ་གྲོ་དྷའི་ཀུན་དགའ་ར་བ་ན་དགེ་སློང་སྟོང་ཉིས་བརྒྱ་ལྔ་བཅུའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་། བྱམས་པ་དང་། འཇམ་དཔལ་ལ་སོགས་པ་བྱང་ཆུབ་སེམས་དཔའི་འཁོར་ཆེན་པོ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་སོ། །</seg>
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Thus did I hear at one time. The Blessed One was dwelling among the Śākyas at Nyagrodha Park in Kapilavastu, together with a great assembly of 1,250 monks and a great retinue of bodhisattvas including Maitreya and Mañjuśrī.</seg>
+                <seg>Thus did I hear at one time.</seg>
             </tuv>
 </tu>
 <tu id="UT22084-068-003-TU-5">
+    <prop type="location-id">UT22084-068-003-77</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཤཱཀྱ་རྣམས་ཀྱི་ནང་ན། སེར་སྐྱའི་གནས་ཤིང་ནྱ་གྲོ་དྷའི་ཀུན་དགའ་ར་བ་ན་དགེ་སློང་སྟོང་ཉིས་བརྒྱ་ལྔ་བཅུའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་། བྱམས་པ་དང་། འཇམ་དཔལ་ལ་སོགས་པ་བྱང་ཆུབ་སེམས་དཔའི་འཁོར་ཆེན་པོ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་སོ། །དེ་ནས་བཅོམ་ལྡན་འདས་སྔ་དྲོའི་དུས་ཀྱི་ཚེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One was dwelling among the Śākyas at Nyagrodha Park in Kapilavastu, together with a great assembly of 1,250 monks and a great retinue of bodhisattvas including Maitreya and Mañjuśrī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-6">
     <prop type="location-id">UT22084-068-003-81</prop>
     <tuv xml:lang="bo">
-                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་སྔ་དྲོའི་དུས་ཀྱི་ཚེ། ཤམ་ཐབས་གསོལ་ནས། ལྷུང་བཟེད་དང་། ཆོས་གོས་བསྣམས་ཏེ། དགེ་སློང་གི་དགེ་འདུན་གྱིས་ཡོངས་སུ་བསྐོར་ཅིང་། དགེ་སློང་གི་དགེ་འདུན་གྱིས་མདུན་དུ་བདར་ནས་སེར་སྐྱའི་གནས་ཀྱི་གྲོང་ཁྱེར་ཆེན་པོར་བསོད་སྙོམས་ལ་གཤེགས་སོ། ། དེའི་ཚེ་ན་ཤཱཀྱ་གཞོན་ནུ་བཞིན་རབ་གསལ་ཞེས་བྱ་བ་ཞིག་བྱ་བ་འགའ་ཞིག་གི་ཕྱིར་ཤིང་རྟ་ལ་ཞོན་ནས་</seg>
+                <seg>ཤམ་ཐབས་གསོལ་ནས། ལྷུང་བཟེད་དང་། ཆོས་གོས་བསྣམས་ཏེ། དགེ་སློང་གི་དགེ་འདུན་གྱིས་ཡོངས་སུ་བསྐོར་ཅིང་། དགེ་སློང་གི་དགེ་འདུན་གྱིས་མདུན་དུ་བདར་ནས་སེར་སྐྱའི་གནས་ཀྱི་གྲོང་ཁྱེར་ཆེན་པོར་བསོད་སྙོམས་ལ་གཤེགས་སོ། །</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
                     <tei:milestone xml:id="UT22084-068-003-81"/>In the morning the Blessed One put on his lower robe and, taking up his alms bowl and upper dharma robe, surrounded and escorted by an assembly of monks, traveled to the great city of Kapilavastu to receive alms.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-6">
+<tu id="UT22084-068-003-TU-7">
     <prop type="location-id">UT22084-068-003-82</prop>
     <tuv xml:lang="bo">
-                <seg>སེར་སྐྱའི་གནས་གྲོང་ཁྱེར་ཆེན་པོ་ནས་ཕྱིར་བྱུང་བ་དང་། ཤཱཀྱ་གཞོན་ནུ་བཞིན་རབ་གསལ་གྱིས། བཅོམ་ལྡན་འདས་ཐག་རིང་པོ་ཁོ་ན་ནས་གཤེགས་པ་མཐོང་ངོ་། ། མཐོང་ནས་ཀྱང་ཤིང་རྟ་དེ་ལས་བབས་ནས། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་དེ། བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་གཉིས་ལ་མགོ་བོས་ཕྱག་འཚལ་ནས།</seg>
+                <seg>དེའི་ཚེ་ན་ཤཱཀྱ་གཞོན་ནུ་བཞིན་རབ་གསལ་ཞེས་བྱ་བ་ཞིག་བྱ་བ་འགའ་ཞིག་གི་ཕྱིར་ཤིང་རྟ་ལ་ཞོན་ནས་སེར་སྐྱའི་གནས་གྲོང་ཁྱེར་ཆེན་པོ་ནས་ཕྱིར་བྱུང་བ་དང་།</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-003-82"/>At that time, a Śākya youth known as Shining Countenance was setting out from the great city of Kapilavastu in a chariot to attend to some affairs. Even from a great distance, the Śākya youth Shining Countenance saw the Blessed One approach. Seeing him, he dismounted from the chariot and went to where the Blessed One was, bowed with palms joined in the direction of the Blessed One, and bowed his head to the Blessed One’s feet. He then circumambulated the Blessed One three times, and with palms joined sat before the Blessed One.</seg>
-            </tuv>
-</tu>
-<tu id="UT22084-068-003-TU-7">
-    <prop type="location-id">UT22084-068-003-83</prop>
-    <tuv xml:lang="bo">
-                <seg>བཅོམ་ལྡན་འདས་ལ་ལན་གསུམ་བསྐོར་བ་བྱས་<tei:ref folio="F.7.b"/>ཏེ། ཐལ་མོ་སྦྱར་ནས་བཅོམ་ལྡན་འདས་ཀྱི་སྤྱན་སྔར་འདུག་གོ། ། དེ་ནས་བཅོམ་ལྡན་འདས་ལ་ཤཱཀྱ་གཞོན་ནུ་བཞིན་རབ་གསལ་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། ། བཅོམ་ལྡན་འདས་འདི་ན་བདག་གི་ཕ་མ་གཉིས་གཉིད་ལོག་པ་དང་མ་ལོག་པ་དག་ལ་མི་མ་ལགས་པ་རྣམས་རྣམ་པར་འཚེ་བར་བགྱིད་ལ། བཅོམ་ལྡན་འདས་བདག་ཀྱང་གང་གི་ཚེ་ལྗོངས་ཀྱི་ཕྱོགས་གཞན་དུ་མཆི་བའི་ཚེ། བདག་ལ་ཡང་ཆོམ་རྐུན་པ་དག་རྣམ་པར་འཚེ་བར་བགྱིད་ཅིང་། གཅན་གཟན་དག་ཀྱང་རྣམ་པར་འཚེ་བར་བགྱིད་ན། དེའི་སླད་དུ་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱིས་བདག་ལ་ཐུགས་བརྩེ་བའི་སླད་དུ་ཅི་ནས་ཀྱང་བདག་ལ་མིའམ། མི་མ་ལགས་པ་དང་། དུད་འགྲོའི་སྐྱེ་གནས་སུ་གཏོགས་པ་འགའ་ཡང་རྣམ་པར་འཚེ་བར་མི་བགྱིད་པ་དེ་ལྟར་བདག་ལ་ལེགས་པར་བསྲུང་བ་མཛད་དུ་གསོལ།</seg>
-            </tuv>
-    <tuv xml:lang="en">
-                <seg>
-                    <tei:milestone xml:id="UT22084-068-003-83"/>The Śākya youth Shining Countenance then made this request of the Blessed One: “Blessed One, here in this city both my father and mother, while they are asleep or awake, might be harmed by nonhuman beings. Blessed One, I, too, when traveling to other lands, might be harmed by bandits or wild animals. Therefore, may the blessed, thus-gone, worthy, completely perfect Buddha, out of compassion for me and by any means, protect me so that human and nonhuman beings and those in the animal realm do not harm me. Please teach a rite of protection.”</seg>
+                    <tei:milestone xml:id="UT22084-068-003-82"/>At that time, a Śākya youth known as Shining Countenance was setting out from the great city of Kapilavastu in a chariot to attend to some affairs.</seg>
             </tuv>
 </tu>
 <tu id="UT22084-068-003-TU-8">
-    <prop type="location-id">UT22084-068-003-84</prop>
+    <prop type="location-id">UT22084-068-003-82</prop>
     <tuv xml:lang="bo">
-                <seg>བསྲུང་བའི་ཆོ་ག་ཡང་བཤད་དུ་གསོལ། དེ་སྐད་ཅེས་གསོལ་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་ཤཱཀྱ་གཞོན་ནུ་བཞིན་རབ་གསལ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། ། གཞོན་ནུ་དེའི་ཕྱིར་ལེགས་པར་རབ་ཏུ་ཉོན་ལ་ཡིད་ལ་ཟུང་ཤིག་དང་ངས་ཁྱོད་ལ་བཤད་དོ། །</seg>
+                <seg>ཤཱཀྱ་གཞོན་ནུ་བཞིན་རབ་གསལ་གྱིས། བཅོམ་ལྡན་འདས་ཐག་རིང་པོ་ཁོ་ན་ནས་གཤེགས་པ་མཐོང་ངོ་། །</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>
-                    <tei:milestone xml:id="UT22084-068-003-84"/>The Blessed One replied to the Śākya youth Shining Countenance, “Young man, listen carefully then and keep this in mind. I will instruct you.”</seg>
+                <seg>Even from a great distance, the Śākya youth Shining Countenance saw the Blessed One approach.</seg>
             </tuv>
 </tu>
 <tu id="UT22084-068-003-TU-9">
+    <prop type="location-id">UT22084-068-003-82</prop>
+    <tuv xml:lang="bo">
+                <seg>མཐོང་ནས་ཀྱང་ཤིང་རྟ་དེ་ལས་བབས་ནས། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་དེ། བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་གཉིས་ལ་མགོ་བོས་ཕྱག་འཚལ་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Seeing him, he dismounted from the chariot and went to where the Blessed One was, bowed with palms joined in the direction of the Blessed One, and bowed his head to the Blessed One’s feet.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-10">
+    <prop type="location-id">UT22084-068-003-82</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལ་ལན་གསུམ་བསྐོར་བ་བྱས་<tei:ref folio="F.7.b"/>ཏེ། ཐལ་མོ་སྦྱར་ནས་བཅོམ་ལྡན་འདས་ཀྱི་སྤྱན་སྔར་འདུག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He then circumambulated the Blessed One three times, and with palms joined sat before the Blessed One.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-11">
+    <prop type="location-id">UT22084-068-003-83</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ལ་ཤཱཀྱ་གཞོན་ནུ་བཞིན་རབ་གསལ་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་འདི་ན་བདག་གི་ཕ་མ་གཉིས་གཉིད་ལོག་པ་དང་མ་ལོག་པ་དག་ལ་མི་མ་ལགས་པ་རྣམས་རྣམ་པར་འཚེ་བར་བགྱིད་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-068-003-83"/>The Śākya youth Shining Countenance then made this request of the Blessed One: “Blessed One, here in this city both my father and mother, while they are asleep or awake, might be harmed by nonhuman beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-12">
+    <prop type="location-id">UT22084-068-003-83</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་བདག་ཀྱང་གང་གི་ཚེ་ལྗོངས་ཀྱི་ཕྱོགས་གཞན་དུ་མཆི་བའི་ཚེ། བདག་ལ་ཡང་ཆོམ་རྐུན་པ་དག་རྣམ་པར་འཚེ་བར་བགྱིད་ཅིང་། གཅན་གཟན་དག་ཀྱང་རྣམ་པར་འཚེ་བར་བགྱིད་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Blessed One, I, too, when traveling to other lands, might be harmed by bandits or wild animals.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-13">
+    <prop type="location-id">UT22084-068-003-83</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་སླད་དུ་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱིས་བདག་ལ་ཐུགས་བརྩེ་བའི་སླད་དུ་ཅི་ནས་ཀྱང་བདག་ལ་མིའམ། མི་མ་ལགས་པ་དང་། དུད་འགྲོའི་སྐྱེ་གནས་སུ་གཏོགས་པ་འགའ་ཡང་རྣམ་པར་འཚེ་བར་མི་བགྱིད་པ་དེ་ལྟར་བདག་ལ་ལེགས་པར་བསྲུང་བ་མཛད་དུ་གསོལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, may the blessed, thus-gone, worthy, completely perfect Buddha, out of compassion for me and by any means, protect me so that human and nonhuman beings and those in the animal realm do not harm me.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-14">
+    <prop type="location-id">UT22084-068-003-83</prop>
+    <tuv xml:lang="bo">
+                <seg>བསྲུང་བའི་ཆོ་ག་ཡང་བཤད་དུ་གསོལ། དེ་སྐད་ཅེས་གསོལ་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Please teach a rite of protection.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-15">
+    <prop type="location-id">UT22084-068-003-84</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་ཤཱཀྱ་གཞོན་ནུ་བཞིན་རབ་གསལ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-068-003-84"/>The Blessed One replied to the Śākya youth Shining Countenance, “Young man, listen carefully then and keep this in mind.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-16">
+    <prop type="location-id">UT22084-068-003-84</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་དེའི་ཕྱིར་ལེགས་པར་རབ་ཏུ་ཉོན་ལ་ཡིད་ལ་ཟུང་ཤིག་དང་ངས་ཁྱོད་ལ་བཤད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I will instruct you.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-17">
     <prop type="location-id">UT22084-068-003-85</prop>
     <tuv xml:lang="bo">
-                <seg>བཅོམ་ལྡན་འདས་དེ་ལྟར་འཚལ་ལོ་ཞེས་གསོལ་ནས། ཤཱཀྱ་གཞོན་ནུ་བཞིན་རབ་གསལ་བཅོམ་ལྡན་འདས་ལ་ཉན་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་དེ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །</seg>
+                <seg>བཅོམ་ལྡན་འདས་དེ་ལྟར་འཚལ་ལོ་ཞེས་གསོལ་ནས། ཤཱཀྱ་གཞོན་ནུ་བཞིན་རབ་གསལ་བཅོམ་ལྡན་འདས་ལ་ཉན་པ་དང་།</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
                     <tei:milestone xml:id="UT22084-068-003-85"/>“Blessed One, please do so,” requested the Śākya youth Shining Countenance, and he listened to the Blessed One.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-10">
+<tu id="UT22084-068-003-TU-18">
     <prop type="location-id">UT22084-068-003-86</prop>
     <tuv xml:lang="bo">
-                <seg>གཞོན་ནུ་ཤར་ཕྱོགས་ལོགས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་འདི་ནས་སངས་རྒྱས་ཀྱི་ཞིང་བརྒྱད་ཁྲི་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་ཉོན་མོངས་པ་ཐམས་ཅད་བསྐྱོད་པ་ཞེས་བྱ་བ་ཞིག་ཡོད་དེ། དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྗེས་སྤྱོད་ཅེས་བྱ་བ་ད་ལྟར་བཞུགས་ཏེ་འཚོ་ཞིང་གཞེས་སོ། ། གཞོན་ནུ་ཁྱོད་གང་གི་ཚེ་བྱ་བ་འགའ་ཞིག་གི་ཕྱིར་ཤར་ཕྱོགས་སུ་འགྲོ་ན། དེའི་ཚེ་ཁྱོད་ཀྱིས་དེ་བཞིན་གཤེགས་པ་དེ་ལ་ཕྱག་འཚལ་ཏེ་དྲན་པར་བྱས་ཤིང་མདུན་དུ་བྱས་ཏེ། སེམས་ཀྱི་རྒྱུན་གྱིས་དེ་མངོན་དུ་བྱེད་ཅིང་སོང་ན་ཁྱོད་ལ་འཇིགས་པ་འབྱུང་བར་<tei:ref folio="F.8.a"/>མི་འགྱུར་རོ། ། དེའི་ཚེ་མ་གཡེངས་པར་དེ་ཡིད་ལ་བྱས་ན་ཁྱོད་བྱ་བ་གང་གི་ཕྱིར་འགྲོ་བའི་བྱ་བ་དེ་འགྲུབ་པར་འགྱུར་རོ། །</seg>
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །གཞོན་ནུ་ཤར་ཕྱོགས་ལོགས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་འདི་ནས་སངས་རྒྱས་ཀྱི་ཞིང་བརྒྱད་ཁྲི་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་ཉོན་མོངས་པ་ཐམས་ཅད་བསྐྱོད་པ་ཞེས་བྱ་བ་ཞིག་ཡོད་དེ།</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-003-86"/>The Blessed One said, “Young man, in the eastern direction, eighty thousand buddha fields beyond this buddha field, there is a world system known as Shaking All Defilements. There the thus-gone, worthy, completely perfect buddha known as Follower presently resides, alive and well. Young man, when you set out in the eastern direction to attend to some affairs, pay homage to that thus-gone one, remembering and honoring him. If you bring this clearly to mind and then depart, you will have no fear. If you hold this in your mind without distraction during that time, you will accomplish the purpose for which you embarked.”</seg>
+                    <tei:milestone xml:id="UT22084-068-003-86"/>The Blessed One said, “Young man, in the eastern direction, eighty thousand buddha fields beyond this buddha field, there is a world system known as Shaking All Defilements.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-11">
+<tu id="UT22084-068-003-TU-19">
+    <prop type="location-id">UT22084-068-003-86</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྗེས་སྤྱོད་ཅེས་བྱ་བ་ད་ལྟར་བཞུགས་ཏེ་འཚོ་ཞིང་གཞེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There the thus-gone, worthy, completely perfect buddha known as Follower presently resides, alive and well.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-20">
+    <prop type="location-id">UT22084-068-003-86</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་ཁྱོད་གང་གི་ཚེ་བྱ་བ་འགའ་ཞིག་གི་ཕྱིར་ཤར་ཕྱོགས་སུ་འགྲོ་ན། དེའི་ཚེ་ཁྱོད་ཀྱིས་དེ་བཞིན་གཤེགས་པ་དེ་ལ་ཕྱག་འཚལ་ཏེ་དྲན་པར་བྱས་ཤིང་མདུན་དུ་བྱས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Young man, when you set out in the eastern direction to attend to some affairs, pay homage to that thus-gone one, remembering and honoring him.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-21">
+    <prop type="location-id">UT22084-068-003-86</prop>
+    <tuv xml:lang="bo">
+                <seg>སེམས་ཀྱི་རྒྱུན་གྱིས་དེ་མངོན་དུ་བྱེད་ཅིང་སོང་ན་ཁྱོད་ལ་འཇིགས་པ་འབྱུང་བར་<tei:ref folio="F.8.a"/>མི་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If you bring this clearly to mind and then depart, you will have no fear.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-22">
+    <prop type="location-id">UT22084-068-003-86</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཚེ་མ་གཡེངས་པར་དེ་ཡིད་ལ་བྱས་ན་ཁྱོད་བྱ་བ་གང་གི་ཕྱིར་འགྲོ་བའི་བྱ་བ་དེ་འགྲུབ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If you hold this in your mind without distraction during that time, you will accomplish the purpose for which you embarked.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-23">
     <prop type="location-id">UT22084-068-003-87</prop>
     <tuv xml:lang="bo">
                 <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་ཚེ་ཚིགས་སུ་བཅད་པ་འདི་བཀའ་སྩལ་ཏོ། །</seg>
@@ -110,36 +218,72 @@
                     <tei:milestone xml:id="UT22084-068-003-87"/>Then, at that time, the Blessed One spoke the following verse:</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-12">
+<tu id="UT22084-068-003-TU-24">
     <prop type="location-id">UT22084-068-003-88</prop>
     <tuv xml:lang="bo">
-                <seg>རྫོགས་པའི་སངས་རྒྱས་ཐུབ་པ་ཆེ། ། རྗེ་ལ་རབ་ཏུ་ཕྱག་འཚལ་ཏེ། །</seg>
+                <seg>རྫོགས་པའི་སངས་རྒྱས་ཐུབ་པ་ཆེ། །རྗེ་ལ་རབ་ཏུ་ཕྱག་འཚལ་ཏེ། །</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
                     <tei:milestone xml:id="UT22084-068-003-88"/>“Thoroughly honoring the lord, The completely perfect Buddha, the great sage,</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-13">
+<tu id="UT22084-068-003-TU-25">
     <prop type="location-id">UT22084-068-003-88</prop>
     <tuv xml:lang="bo">
-                <seg>རྟག་ཏུ་དེ་ནི་མངོན་བྱེད་ཅིང་། །འགྲོ་ན་ཁྱོད་ལ་འཇིགས་མི་འབྱུང་། །</seg>
+                <seg>རྟག་ཏུ་དེ་ནི་མངོན་བྱེད་ཅིང་། །</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>If you maintain this clearly and then depart, You will have no fear.</seg>
+                <seg>If you maintain this clearly and then depart,</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-14">
+<tu id="UT22084-068-003-TU-26">
+    <prop type="location-id">UT22084-068-003-88</prop>
+    <tuv xml:lang="bo">
+                <seg>འགྲོ་ན་ཁྱོད་ལ་འཇིགས་མི་འབྱུང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You will have no fear.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-27">
     <prop type="location-id">UT22084-068-003-89</prop>
     <tuv xml:lang="bo">
-                <seg>གཞོན་ནུ་ལྷོ་ཕྱོགས་ལོགས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་འདི་ནས་སངས་རྒྱས་ཀྱི་ཞིང་དགུ་ཁྲི་འདས་པ་ན། འཇིག་རྟེན་གྱི་ཁམས་མུན་པ་དང་མུན་ནག་གི་ཚོགས་བཅོམ་ཞེས་བྱ་བ་ཞིག་ཡོད་དེ། དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སེམས་དང་པོ་བསྐྱེད་པ་ཡིད་ལ་མཛད་པ་རྣམ་གྲངས་བསྙེངས་པ་དང་བག་ཚ་བ་དང་བྲལ་བས་མངོན་པར་འཕགས་པའི་རྒྱལ་པོ་ཞེས་བྱ་བ་ད་ལྟར་བཞུགས་ཏེ་ འཚོ་ཞིང་གཞེས་སོ། ། གཞོན་ནུ་ཁྱོད་གང་གི་ཚེ་བྱ་བ་འགའ་ཞིག་གི་ཕྱིར་ལྷོ་ཕྱོགས་སུ་འགྲོ་ན། དེའི་ཚེ་ཁྱོད་ཀྱིས་དེ་བཞིན་གཤེགས་པ་དེ་ལ་ཕྱག་འཚལ་ཏེ་དྲན་པར་བྱས་ཤིང་མདུན་དུ་བྱས་ཏེ། སེམས་ཀྱི་རྒྱུན་གྱིས་དེ་མངོན་དུ་བྱེད་ཅིང་། ཁྱིམ་ལ་སོགས་པའི་ཡིད་ལ་བྱེད་པ་དང་བྲལ་བ་རྣམ་པར་མ་གཡེངས་པ་ཡིད་ལ་བྱེད་པས་སོང་ན། ཁྱོད་བྱ་བ་གང་གི་ཕྱིར་འགྲོ་བའི་བྱ་བ་དེ་འགྲུབ་པར་འགྱུར་ཞིང་། ཁྱོད་ལ་འཇིགས་པ་གང་ནས་ཀྱང་འབྱུང་བར་མི་འགྱུར་རོ། །</seg>
+                <seg>གཞོན་ནུ་ལྷོ་ཕྱོགས་ལོགས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་འདི་ནས་སངས་རྒྱས་ཀྱི་ཞིང་དགུ་ཁྲི་འདས་པ་ན། འཇིག་རྟེན་གྱི་ཁམས་མུན་པ་དང་མུན་ནག་གི་ཚོགས་བཅོམ་ཞེས་བྱ་བ་ཞིག་ཡོད་དེ།</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-003-89"/>“Young man, in the southern direction, ninety thousand buddha fields beyond this buddha field, there is a world system known as Dispelling the Mass of Dense Darkness. There, the thus-gone, worthy, completely perfect buddha known as King Who Is Superior Due to Freedom from Fear and Timidity in Any Activity Since First Generating the Mind of Awakening presently resides, alive and well. Young man, when you set out in the southern direction to attend to some affairs, at that time, pay homage to that thus-gone one, remembering and honoring him. If you bring this clearly to mind and then depart while remaining undistracted, free of thoughts of home and so forth, you will accomplish the purpose for which you embarked, and you will not fear anything.”</seg>
+                    <tei:milestone xml:id="UT22084-068-003-89"/>“Young man, in the southern direction, ninety thousand buddha fields beyond this buddha field, there is a world system known as Dispelling the Mass of Dense Darkness.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-15">
+<tu id="UT22084-068-003-TU-28">
+    <prop type="location-id">UT22084-068-003-89</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སེམས་དང་པོ་བསྐྱེད་པ་ཡིད་ལ་མཛད་པ་རྣམ་གྲངས་བསྙེངས་པ་དང་བག་ཚ་བ་དང་བྲལ་བས་མངོན་པར་འཕགས་པའི་རྒྱལ་པོ་ཞེས་བྱ་བ་ད་ལྟར་བཞུགས་ཏེ་འཚོ་ཞིང་གཞེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There, the thus-gone, worthy, completely perfect buddha known as King Who Is Superior Due to Freedom from Fear and Timidity in Any Activity Since First Generating the Mind of Awakening presently resides, alive and well.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-29">
+    <prop type="location-id">UT22084-068-003-89</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་ཁྱོད་གང་གི་ཚེ་བྱ་བ་འགའ་ཞིག་གི་ཕྱིར་ལྷོ་ཕྱོགས་སུ་འགྲོ་ན། དེའི་ཚེ་ཁྱོད་ཀྱིས་དེ་བཞིན་གཤེགས་པ་དེ་ལ་ཕྱག་འཚལ་ཏེ་དྲན་པར་བྱས་ཤིང་མདུན་དུ་བྱས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Young man, when you set out in the southern direction to attend to some affairs, at that time, pay homage to that thus-gone one, remembering and honoring him.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-30">
+    <prop type="location-id">UT22084-068-003-89</prop>
+    <tuv xml:lang="bo">
+                <seg>སེམས་ཀྱི་རྒྱུན་གྱིས་དེ་མངོན་དུ་བྱེད་ཅིང་། ཁྱིམ་ལ་སོགས་པའི་ཡིད་ལ་བྱེད་པ་དང་བྲལ་བ་རྣམ་པར་མ་གཡེངས་པ་ཡིད་ལ་བྱེད་པས་སོང་ན། ཁྱོད་བྱ་བ་གང་གི་ཕྱིར་འགྲོ་བའི་བྱ་བ་དེ་འགྲུབ་པར་འགྱུར་ཞིང་། ཁྱོད་ལ་འཇིགས་པ་གང་ནས་ཀྱང་འབྱུང་བར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If you bring this clearly to mind and then depart while remaining undistracted, free of thoughts of home and so forth, you will accomplish the purpose for which you embarked, and you will not fear anything.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-31">
     <prop type="location-id">UT22084-068-003-90</prop>
     <tuv xml:lang="bo">
                 <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་ཚེ་ཚིགས་སུ་བཅད་པ་འདི་བཀའ་སྩལ་ཏོ། །</seg>
@@ -149,17 +293,26 @@
                     <tei:milestone xml:id="UT22084-068-003-90"/>Then, at that time, the Blessed One spoke the following verse:</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-16">
+<tu id="UT22084-068-003-TU-32">
     <prop type="location-id">UT22084-068-003-91</prop>
     <tuv xml:lang="bo">
-                <seg>ཁྱིམ་གྱི་བསམ་པ་རྣམས་དང་ནི། །ཀུན་ནས་ལྡང་བ་ཀུན་བྲལ་ཞིང་། །ལྷོ་ཕྱོགས་སུ་ནི་འགྲོ་བ་ན། །</seg>
+                <seg>ཁྱིམ་གྱི་བསམ་པ་རྣམས་དང་ནི། །ཀུན་ནས་ལྡང་བ་ཀུན་བྲལ་ཞིང་། །</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-003-91"/>“Freed from obsession With thoughts of home, When you travel south</seg>
+                    <tei:milestone xml:id="UT22084-068-003-91"/>“Freed from obsession With thoughts of home,</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-17">
+<tu id="UT22084-068-003-TU-33">
+    <prop type="location-id">UT22084-068-003-91</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷོ་ཕྱོགས་སུ་ནི་འགྲོ་བ་ན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When you travel south</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-34">
     <prop type="location-id">UT22084-068-003-91</prop>
     <tuv xml:lang="bo">
                 <seg>ཁྱོད་ལ་འཇིགས་པ་འབྱུང་མི་འགྱུར། །</seg>
@@ -168,17 +321,44 @@
                 <seg>You will experience no fear.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-18">
+<tu id="UT22084-068-003-TU-35">
     <prop type="location-id">UT22084-068-003-92</prop>
     <tuv xml:lang="bo">
-                <seg>གཞོན་ནུ་ནུབ་ཕྱོགས་ལོགས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་འདི་ནས་སངས་རྒྱས་ཀྱི་ཞིང་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་ཡུལ་ཕེབས་པ་ཞེས་བྱ་བ་ཞིག་ཡོད་དེ། དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཁོན་དང་རྒྱགས་པ་རྣམ་པར་གནོན་པ་ཞེས་བྱ་བ་ད་ལྟར་བཞུགས་ཏེ་འཚོ་ཞིང་གཞེས་སོ། ། གཞོན་ནུ་ཁྱོད་གང་གི་ཚེ་བྱ་བ་འགའ་ཞིག་གི་ཕྱིར་ནུབ་<tei:ref folio="F.8.b"/>ཕྱོགས་སུ་འགྲོ་ན་དེའི་ཚེ་ཁྱོད་ཀྱིས་དེ་བཞིན་གཤེགས་པ་དེ་ལ་ཕྱག་འཚལ་ཏེ། དྲན་པར་བྱས་ཤིང་མདུན་དུ་བྱས་ནས་ སེམས་ཀྱི་རྒྱུན་གྱིས་དེ་མངོན་དུ་བྱེད་ཅིང་ཟག་པ་མེད་པ་དང་། རྣམ་པར་མ་གཡེངས་པ་དང་དྲན་པས་སོང་ན་ ཁྱོད་ལ་འཇིགས་པ་གང་ནས་ཀྱང་འབྱུང་བར་མི་འགྱུར་རོ། །</seg>
+                <seg>གཞོན་ནུ་ནུབ་ཕྱོགས་ལོགས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་འདི་ནས་སངས་རྒྱས་ཀྱི་ཞིང་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་ཡུལ་ཕེབས་པ་ཞེས་བྱ་བ་ཞིག་ཡོད་དེ།</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-003-92"/>“Young man, in the western direction, as many buddha fields beyond this buddha field as there are grains of sand in the Ganges River, there is a world system known as Reaching One’s Goal. There, the thus-gone, worthy, completely perfect buddha known as Subjugator of Resentment and Conceit presently resides, alive and well. Young man, when you set out in the western direction to attend to some affairs, at that time, pay homage to that thus-gone one, remembering and honoring him. If you bring this clearly to mind and then depart without defilements, undistracted, and with mindfulness, you will not fear anything.”</seg>
+                    <tei:milestone xml:id="UT22084-068-003-92"/>“Young man, in the western direction, as many buddha fields beyond this buddha field as there are grains of sand in the Ganges River, there is a world system known as Reaching One’s Goal.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-19">
+<tu id="UT22084-068-003-TU-36">
+    <prop type="location-id">UT22084-068-003-92</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཁོན་དང་རྒྱགས་པ་རྣམ་པར་གནོན་པ་ཞེས་བྱ་བ་ད་ལྟར་བཞུགས་ཏེ་འཚོ་ཞིང་གཞེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There, the thus-gone, worthy, completely perfect buddha known as Subjugator of Resentment and Conceit presently resides, alive and well.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-37">
+    <prop type="location-id">UT22084-068-003-92</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་ཁྱོད་གང་གི་ཚེ་བྱ་བ་འགའ་ཞིག་གི་ཕྱིར་ནུབ་<tei:ref folio="F.8.b"/>ཕྱོགས་སུ་འགྲོ་ན་དེའི་ཚེ་ཁྱོད་ཀྱིས་དེ་བཞིན་གཤེགས་པ་དེ་ལ་ཕྱག་འཚལ་ཏེ། དྲན་པར་བྱས་ཤིང་མདུན་དུ་བྱས་ནས་སེམས་ཀྱི་རྒྱུན་གྱིས་དེ་མངོན་དུ་བྱེད་ཅིང་ཟག་པ་མེད་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Young man, when you set out in the western direction to attend to some affairs, at that time, pay homage to that thus-gone one, remembering and honoring him.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-38">
+    <prop type="location-id">UT22084-068-003-92</prop>
+    <tuv xml:lang="bo">
+                <seg>རྣམ་པར་མ་གཡེངས་པ་དང་དྲན་པས་སོང་ན་ཁྱོད་ལ་འཇིགས་པ་གང་ནས་ཀྱང་འབྱུང་བར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If you bring this clearly to mind and then depart without defilements, undistracted, and with mindfulness, you will not fear anything.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-39">
     <prop type="location-id">UT22084-068-003-93</prop>
     <tuv xml:lang="bo">
                 <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་ཚེ་ཚིགས་སུ་བཅད་པ་འདི་བཀའ་སྩལ་ཏོ། །</seg>
@@ -188,17 +368,26 @@
                     <tei:milestone xml:id="UT22084-068-003-93"/>Then, at that time, the Blessed One spoke this verse:</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-20">
+<tu id="UT22084-068-003-TU-40">
     <prop type="location-id">UT22084-068-003-94</prop>
     <tuv xml:lang="bo">
-                <seg>ཆོས་འགའ་སྐྱེས་པ་ཡོད་མིན་ཞིང་། །འགའ་ཡང་འགག་པར་མི་འགྱུར་ཏེ། །</seg>
+                <seg>ཆོས་འགའ་སྐྱེས་པ་ཡོད་མིན་ཞིང་། །</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-003-94"/>“There are no phenomena that arise, Nor are there any that cease.</seg>
+                    <tei:milestone xml:id="UT22084-068-003-94"/>“There are no phenomena that arise,</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-21">
+<tu id="UT22084-068-003-TU-41">
+    <prop type="location-id">UT22084-068-003-94</prop>
+    <tuv xml:lang="bo">
+                <seg>འགའ་ཡང་འགག་པར་མི་འགྱུར་ཏེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Nor are there any that cease.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-42">
     <prop type="location-id">UT22084-068-003-94</prop>
     <tuv xml:lang="bo">
                 <seg>གང་གིས་ཆོས་རྣམས་དེ་ལྟར་ཤེས། །</seg>
@@ -207,7 +396,7 @@
                 <seg>Those who understand phenomena thus</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-22">
+<tu id="UT22084-068-003-TU-43">
     <prop type="location-id">UT22084-068-003-94</prop>
     <tuv xml:lang="bo">
                 <seg>དེ་ལ་འཇིགས་པ་ཅི་ཡང་མེད། །</seg>
@@ -216,17 +405,44 @@
                 <seg>Have no fear whatsoever.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-23">
+<tu id="UT22084-068-003-TU-44">
     <prop type="location-id">UT22084-068-003-95</prop>
     <tuv xml:lang="bo">
-                <seg>གཞོན་ནུ་བྱང་ཕྱོགས་ལོགས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་འདི་ནས་སངས་རྒྱས་ཀྱི་ཞིང་བྱེ་བ་ཕྲག་སྟོང་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་སངས་རྒྱས་ཀྱི་སྤོབས་པ་ཅན་ཞེས་བྱ་བ་ཞིག་ཡོད་དེ། དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རིན་ཆེན་གཟུགས་བཀོད་འོད་གནོན་ཞེས་བྱ་བ་ད་ལྟར་བཞུགས་ཏེ་འཚོ་ཞིང་གཞེས་སོ། ། གཞོན་ནུ་ཁྱོད་གང་གི་ཚེ་བྱ་བ་འགའ་ཞིག་གི་ཕྱིར་བྱང་ཕྱོགས་སུ་འགྲོ་ན། དེའི་ཚེ་ཁྱོད་ཀྱིས་དེ་བཞིན་གཤེགས་པ་དེ་ལ་ཕྱག་འཚལ་ཏེ་དྲན་པར་བྱས་ཤིང་མདུན་དུ་བྱས་ཏེ། སེམས་ཀྱི་རྒྱུན་གྱིས་དེ་མངོན་དུ་བྱེད་ཅིང་རྣམ་པར་མ་གཡེངས་པར་ཡིད་ལ་བྱེད་པས་སོང་ན། ཁྱོད་བྱ་བ་གང་གི་ཕྱིར་འགྲོ་བའི་བྱ་བ་དེ་འགྲུབ་པར་འགྱུར་ཞིང་ཁྱོད་ལ་འཇིགས་པ་གང་ནས་ཀྱང་འབྱུང་བར་མི་འགྱུར་རོ། །</seg>
+                <seg>གཞོན་ནུ་བྱང་ཕྱོགས་ལོགས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་འདི་ནས་སངས་རྒྱས་ཀྱི་ཞིང་བྱེ་བ་ཕྲག་སྟོང་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་སངས་རྒྱས་ཀྱི་སྤོབས་པ་ཅན་ཞེས་བྱ་བ་ཞིག་ཡོད་དེ།</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-003-95"/>“Young man, in the northern direction, ten billion buddha fields beyond this buddha field, there is a world system known as Possessing a Buddha’s Eloquence. There, the thus-gone, worthy, completely perfect buddha known as Overpowering with the Light of an Array of the Reflections of Jewels presently resides, alive and well. Young man, when you set out in the northern direction to attend to some affairs, at that time, pay homage to that thus-gone one, remembering and honoring him. If you bring this clearly to mind and then depart while remaining undistracted, you will accomplish the purpose for which you embarked, and you will not fear anything.”</seg>
+                    <tei:milestone xml:id="UT22084-068-003-95"/>“Young man, in the northern direction, ten billion buddha fields beyond this buddha field, there is a world system known as Possessing a Buddha’s Eloquence.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-24">
+<tu id="UT22084-068-003-TU-45">
+    <prop type="location-id">UT22084-068-003-95</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རིན་ཆེན་གཟུགས་བཀོད་འོད་གནོན་ཞེས་བྱ་བ་ད་ལྟར་བཞུགས་ཏེ་འཚོ་ཞིང་གཞེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There, the thus-gone, worthy, completely perfect buddha known as Overpowering with the Light of an Array of the Reflections of Jewels presently resides, alive and well.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-46">
+    <prop type="location-id">UT22084-068-003-95</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་ཁྱོད་གང་གི་ཚེ་བྱ་བ་འགའ་ཞིག་གི་ཕྱིར་བྱང་ཕྱོགས་སུ་འགྲོ་ན། དེའི་ཚེ་ཁྱོད་ཀྱིས་དེ་བཞིན་གཤེགས་པ་དེ་ལ་ཕྱག་འཚལ་ཏེ་དྲན་པར་བྱས་ཤིང་མདུན་དུ་བྱས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Young man, when you set out in the northern direction to attend to some affairs, at that time, pay homage to that thus-gone one, remembering and honoring him.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-47">
+    <prop type="location-id">UT22084-068-003-95</prop>
+    <tuv xml:lang="bo">
+                <seg>སེམས་ཀྱི་རྒྱུན་གྱིས་དེ་མངོན་དུ་བྱེད་ཅིང་རྣམ་པར་མ་གཡེངས་པར་ཡིད་ལ་བྱེད་པས་སོང་ན། ཁྱོད་བྱ་བ་གང་གི་ཕྱིར་འགྲོ་བའི་བྱ་བ་དེ་འགྲུབ་པར་འགྱུར་ཞིང་ཁྱོད་ལ་འཇིགས་པ་གང་ནས་ཀྱང་འབྱུང་བར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If you bring this clearly to mind and then depart while remaining undistracted, you will accomplish the purpose for which you embarked, and you will not fear anything.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-48">
     <prop type="location-id">UT22084-068-003-96</prop>
     <tuv xml:lang="bo">
                 <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་ཚེ་ཚིགས་སུ་བཅད་པ་འདི་བཀའ་སྩལ་ཏོ། །</seg>
@@ -236,27 +452,90 @@
                     <tei:milestone xml:id="UT22084-068-003-96"/>Then, at that time, the Blessed One spoke this verse:</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-25">
+<tu id="UT22084-068-003-TU-49">
     <prop type="location-id">UT22084-068-003-97</prop>
     <tuv xml:lang="bo">
-                <seg>རྟག་ཏུ་སེམས་ཅན་ཐམས་ཅད་ལ། །མཉམ་པ་ཉིད་ཀྱི་སེམས་བྱོས་ལ། །སེམས་ཅན་དེ་ལ་མ་བརྙས་དང་། །ཁྱོད་ལ་འཇིགས་པར་འབྱུང་མི་འགྱུར། །</seg>
+                <seg>རྟག་ཏུ་སེམས་ཅན་ཐམས་ཅད་ལ། །མཉམ་པ་ཉིད་ཀྱི་སེམས་བྱོས་ལ། །</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-003-97"/>“Always make the mind equal Toward all sentient beings. If you do not disrespect any sentient being, You will experience no fear.</seg>
+                    <tei:milestone xml:id="UT22084-068-003-97"/>“Always make the mind equal Toward all sentient beings.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-26">
+<tu id="UT22084-068-003-TU-50">
+    <prop type="location-id">UT22084-068-003-97</prop>
+    <tuv xml:lang="bo">
+                <seg>སེམས་ཅན་དེ་ལ་མ་བརྙས་དང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If you do not disrespect any sentient being,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-51">
+    <prop type="location-id">UT22084-068-003-97</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྱོད་ལ་འཇིགས་པར་འབྱུང་མི་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You will experience no fear.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-52">
     <prop type="location-id">UT22084-068-003-99</prop>
     <tuv xml:lang="bo">
-                <seg>གཞོན་ནུ་བྱང་ཤར་གྱི་ཕྱོགས་ལོགས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་འདི་ནས་སངས་རྒྱས་ཀྱི་ཞིང་བརྒྱད་ཁྲི་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་བདུད་ཀྱི་སྡེ་བཅོམ་པ་ཞེས་བྱ་བ་ཞིག་ཡོད་དེ། དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་བདུད་དང་ཡིད་གཉིས་ཀུན་འཇོམས་རྣམ་གནོན་ཞེས་བྱ་བ་ད་ལྟར་བཞུགས་ཏེ་འཚོ་ཞིང་གཞེས་སོ། ། དེ་བཞིན་གཤེགས་པ་དེ་བྱང་ཆུབ་ཀྱི་ཤིང་དྲུང་དུ་<tei:ref folio="F.9.a"/>བཞུགས་པ་ཙམ་གྱིས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་ན། བདུད་ཀྱི་རིས་ཀྱི་ལྷ་ཇི་སྙེད་ཡོད་པ་དེ་དག་ཐམས་ཅད་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལས་ཕྱིར་མི་ལྡོག་པར་མཛད་དེ། གཞོན་ནུ་དེ་ནི་དེ་བཞིན་གཤེགས་པ་དེ་བྱང་ཆུབ་ཀྱི་ཤིང་དྲུང་དུ་བཞུགས་པའི་སྐྱེས་བུའི་རྩལ་དེ་ལྟ་བུ་བྱུང་བ་ཡིན་ནོ། ། གཞོན་ནུ་ཁྱོད་གང་གི་ཚེ་བྱ་བ་འགའ་ཞིག་གི་ཕྱིར་བྱང་ཤར་གྱི་ཕྱོགས་སུ་འགྲོ་ན་དེའི་ཚེ་ཁྱོད་ཀྱིས་དེ་བཞིན་གཤེགས་པ་དེ། ཕྱག་འཚལ་ཏེ་དྲན་པར་བྱས་ཤིང་མདུན་དུ་བྱས་ཏེ། སེམས་ཀྱི་རྒྱུན་གྱིས་དེ་མངོན་དུ་བྱེད་ཅིང་རྣམ་པར་མ་གཡེངས་པས་སོང་ན་ ཁྱོད་བྱ་བ་གང་གི་ཕྱིར་འགྲོ་བའི་བྱ་བ་དེ་འགྲུབ་པར་འགྱུར་ཞིང་ཁྱོད་ལ་འཇིགས་པ་གང་ནས་ཀྱང་འབྱུང་བར་མི་འགྱུར་རོ། །</seg>
+                <seg>གཞོན་ནུ་བྱང་ཤར་གྱི་ཕྱོགས་ལོགས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་འདི་ནས་སངས་རྒྱས་ཀྱི་ཞིང་བརྒྱད་ཁྲི་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་བདུད་ཀྱི་སྡེ་བཅོམ་པ་ཞེས་བྱ་བ་ཞིག་ཡོད་དེ།</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-003-99"/>“Young man, in the northeastern direction, eighty thousand buddha fields beyond this buddha field, there is a world system known as Conquered the Legions of Māra. There, the thus-gone, worthy, completely perfect buddha known as Māras and Doubt Conquered and Subdued presently resides, alive and well. That thus-gone one, by merely sitting under the Bodhi tree, made it so all the gods of the māra class that exist in that trichiliocosm would not regress from unsurpassed, completely perfect awakening. Young man, such was the heroic effort of that thus-gone one in sitting beneath the Bodhi tree. Young man, when you set out in the northeastern direction to attend to some affairs, at that time, pay homage to that thus-gone one, remembering and honoring him. If you bring this clearly to mind and then depart without distraction, you will accomplish the purpose for which you embarked, and you will not fear anything.”</seg>
+                    <tei:milestone xml:id="UT22084-068-003-99"/>“Young man, in the northeastern direction, eighty thousand buddha fields beyond this buddha field, there is a world system known as Conquered the Legions of Māra.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-27">
+<tu id="UT22084-068-003-TU-53">
+    <prop type="location-id">UT22084-068-003-99</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་བདུད་དང་ཡིད་གཉིས་ཀུན་འཇོམས་རྣམ་གནོན་ཞེས་བྱ་བ་ད་ལྟར་བཞུགས་ཏེ་འཚོ་ཞིང་གཞེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There, the thus-gone, worthy, completely perfect buddha known as Māras and Doubt Conquered and Subdued presently resides, alive and well.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-54">
+    <prop type="location-id">UT22084-068-003-99</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་དེ་བྱང་ཆུབ་ཀྱི་ཤིང་དྲུང་དུ་<tei:ref folio="F.9.a"/>བཞུགས་པ་ཙམ་གྱིས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་ན། བདུད་ཀྱི་རིས་ཀྱི་ལྷ་ཇི་སྙེད་ཡོད་པ་དེ་དག་ཐམས་ཅད་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལས་ཕྱིར་མི་ལྡོག་པར་མཛད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That thus-gone one, by merely sitting under the Bodhi tree, made it so all the gods of the māra class that exist in that trichiliocosm would not regress from unsurpassed, completely perfect awakening.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-55">
+    <prop type="location-id">UT22084-068-003-99</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་དེ་ནི་དེ་བཞིན་གཤེགས་པ་དེ་བྱང་ཆུབ་ཀྱི་ཤིང་དྲུང་དུ་བཞུགས་པའི་སྐྱེས་བུའི་རྩལ་དེ་ལྟ་བུ་བྱུང་བ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Young man, such was the heroic effort of that thus-gone one in sitting beneath the Bodhi tree.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-56">
+    <prop type="location-id">UT22084-068-003-99</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་ཁྱོད་གང་གི་ཚེ་བྱ་བ་འགའ་ཞིག་གི་ཕྱིར་བྱང་ཤར་གྱི་ཕྱོགས་སུ་འགྲོ་ན་དེའི་ཚེ་ཁྱོད་ཀྱིས་དེ་བཞིན་གཤེགས་པ་དེ། ཕྱག་འཚལ་ཏེ་དྲན་པར་བྱས་ཤིང་མདུན་དུ་བྱས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Young man, when you set out in the northeastern direction to attend to some affairs, at that time, pay homage to that thus-gone one, remembering and honoring him.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-57">
+    <prop type="location-id">UT22084-068-003-99</prop>
+    <tuv xml:lang="bo">
+                <seg>སེམས་ཀྱི་རྒྱུན་གྱིས་དེ་མངོན་དུ་བྱེད་ཅིང་རྣམ་པར་མ་གཡེངས་པས་སོང་ན་ཁྱོད་བྱ་བ་གང་གི་ཕྱིར་འགྲོ་བའི་བྱ་བ་དེ་འགྲུབ་པར་འགྱུར་ཞིང་ཁྱོད་ལ་འཇིགས་པ་གང་ནས་ཀྱང་འབྱུང་བར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If you bring this clearly to mind and then depart without distraction, you will accomplish the purpose for which you embarked, and you will not fear anything.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-58">
     <prop type="location-id">UT22084-068-003-100</prop>
     <tuv xml:lang="bo">
                 <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་ཚེ་ཚིགས་སུ་བཅད་པ་འདི་བཀའ་སྩལ་ཏོ། །</seg>
@@ -266,17 +545,35 @@
                     <tei:milestone xml:id="UT22084-068-003-100"/>Then, at that time, the Blessed One spoke this verse:</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-28">
+<tu id="UT22084-068-003-TU-59">
     <prop type="location-id">UT22084-068-003-101</prop>
     <tuv xml:lang="bo">
-                <seg>གང་གིས་དང་པོའི་ཐུགས་ཀྱིས་ནི། །བདུད་རྣམས་ཕམ་མཛད་སངས་རྒྱས་དེ། ། དྲན་བཞིན་དུ་ནི་ཁྱོད་སོང་ན། །</seg>
+                <seg>གང་གིས་དང་པོའི་ཐུགས་ཀྱིས་ནི། །</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-003-101"/>“If you travel while keeping in mind The Buddha who defeated the māras With his very first thought,</seg>
+                    <tei:milestone xml:id="UT22084-068-003-101"/>“If you travel while keeping in mind</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-29">
+<tu id="UT22084-068-003-TU-60">
+    <prop type="location-id">UT22084-068-003-101</prop>
+    <tuv xml:lang="bo">
+                <seg>བདུད་རྣམས་ཕམ་མཛད་སངས་རྒྱས་དེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Buddha who defeated the māras</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-61">
+    <prop type="location-id">UT22084-068-003-101</prop>
+    <tuv xml:lang="bo">
+                <seg>དྲན་བཞིན་དུ་ནི་ཁྱོད་སོང་ན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With his very first thought,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-62">
     <prop type="location-id">UT22084-068-003-101</prop>
     <tuv xml:lang="bo">
                 <seg>ཁྱོད་ལ་འཇིགས་པ་འབྱུང་མི་འགྱུར། །</seg>
@@ -285,17 +582,71 @@
                 <seg>You will have no fear.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-30">
+<tu id="UT22084-068-003-TU-63">
     <prop type="location-id">UT22084-068-003-102</prop>
     <tuv xml:lang="bo">
-                <seg>གཞོན་ནུ་ཤར་ལྷོའི་ཕྱོགས་ལོགས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་འདི་ནས་སངས་རྒྱས་ཀྱི་ཞིང་ཉི་ཁྲི་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་རྟག་ཏུ་སྣང་བ་ཞེས་བྱ་བ་ཞིག་ཡོད་དེ། དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སེམས་དང་པོ་བསྐྱེད་པས་ཕྱིར་མི་ལྡོག་པའི་འཁོར་ལོ་འབྱུང་བའི་དཔལ་ཞེས་བྱ་བ་ད་ལྟར་བཞུགས་ཏེ་ འཚོ་ཞིང་གཞེས་སོ། ། གཞོན་ནུ་དེ་བཞིན་གཤེགས་པ་དེས་དང་པོ་ཐུགས་བསྐྱེད་པ་ནས་བཟུང་སྟེ། སངས་རྒྱས་པ་ཉིད་ཀྱི་བར་དུ་བར་ཆད་མེད་པར་སྦྱིན་པ་བྱིན། ཚུལ་ཁྲིམས་བསྲུངས། བཟོད་པ་ཀུན་ཏུ་བསྟེན། བརྩོན་འགྲུས་བརྩམས། བསམ་གཏན་བསྒྲུབས། ཤེས་རབ་སྤྱད་དེ། གཞོན་ནུ་དེ་ནི་དེ་བཞིན་གཤེགས་པ་དེའི་སྐྱེས་བུའི་རྩལ་དེ་ལྟ་བུ་བྱུང་བ་ཡིན་ནོ། ། གཞོན་ནུ་ཁྱོད་གང་གི་ཚེ་བྱ་བ་འགའ་ཞིག་གི་ཕྱིར་ཤར་ལྷོའི་ཕྱོགས་སུ་འགྲོ་ན། དེའི་ཚེ་ཁྱོད་ཀྱིས་དེ་བཞིན་གཤེགས་པ་དེ་ལ་ཡན་ལག་ལྔས་ཕྱག་འཚལ་ཏེ། ཕྱིས་ཁྱིམ་ནས་སོང་ཤིག་དང་། ཁྱོད་ལ་ཕྱིས་<tei:ref folio="F.9.b"/>འགྱོད་པའམ་འཇིགས་པ་གང་ནས་ཀྱང་འབྱུང་བར་མི་འགྱུར་རོ། ། རྣམ་པར་མ་གཡེངས་པས་ཡིད་ལ་བྱེད་ན། ཁྱོད་བྱ་བ་གང་གི་ཕྱིར་འགྲོ་བའི་བྱ་བ་དེ་འགྲུབ་པར་འགྱུར་རོ། །</seg>
+                <seg>གཞོན་ནུ་ཤར་ལྷོའི་ཕྱོགས་ལོགས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་འདི་ནས་སངས་རྒྱས་ཀྱི་ཞིང་ཉི་ཁྲི་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་རྟག་ཏུ་སྣང་བ་ཞེས་བྱ་བ་ཞིག་ཡོད་དེ།</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-003-102"/>“Young man, in the southeastern direction, twenty thousand buddha fields beyond this buddha field, there is a world system known as Ever Radiant. There, the thus-gone, worthy, completely perfect buddha known as Glory of the Arising of the Irreversible Wheel Since First Generating the Mind of Awakening presently resides, alive and well. Young man, that thus-gone one, from the moment of generating the first thought of awakening until attaining buddhahood, continually performed acts of generosity, guarded his moral discipline, assiduously practiced patience, exerted himself in diligence, established concentration, and practiced wisdom. Young man, such was the heroic effort of that thus-gone one. Young man, when you set out in the southeastern direction to attend to some affairs, prostrate with your five limbs and then depart from your home. Later you will not experience any regret and will not fear anything. If you remain undistracted, you will accomplish the purpose for which you embarked.”</seg>
+                    <tei:milestone xml:id="UT22084-068-003-102"/>“Young man, in the southeastern direction, twenty thousand buddha fields beyond this buddha field, there is a world system known as Ever Radiant.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-31">
+<tu id="UT22084-068-003-TU-64">
+    <prop type="location-id">UT22084-068-003-102</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སེམས་དང་པོ་བསྐྱེད་པས་ཕྱིར་མི་ལྡོག་པའི་འཁོར་ལོ་འབྱུང་བའི་དཔལ་ཞེས་བྱ་བ་ད་ལྟར་བཞུགས་ཏེ་འཚོ་ཞིང་གཞེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There, the thus-gone, worthy, completely perfect buddha known as Glory of the Arising of the Irreversible Wheel Since First Generating the Mind of Awakening presently resides, alive and well.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-65">
+    <prop type="location-id">UT22084-068-003-102</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་དེ་བཞིན་གཤེགས་པ་དེས་དང་པོ་ཐུགས་བསྐྱེད་པ་ནས་བཟུང་སྟེ། སངས་རྒྱས་པ་ཉིད་ཀྱི་བར་དུ་བར་ཆད་མེད་པར་སྦྱིན་པ་བྱིན། ཚུལ་ཁྲིམས་བསྲུངས། བཟོད་པ་ཀུན་ཏུ་བསྟེན། བརྩོན་འགྲུས་བརྩམས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Young man, that thus-gone one, from the moment of generating the first thought of awakening until attaining buddhahood, continually performed acts of generosity, guarded his moral discipline, assiduously practiced patience, exerted himself in diligence, established concentration, and practiced wisdom.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-66">
+    <prop type="location-id">UT22084-068-003-102</prop>
+    <tuv xml:lang="bo">
+                <seg>བསམ་གཏན་བསྒྲུབས། ཤེས་རབ་སྤྱད་དེ། གཞོན་ནུ་དེ་ནི་དེ་བཞིན་གཤེགས་པ་དེའི་སྐྱེས་བུའི་རྩལ་དེ་ལྟ་བུ་བྱུང་བ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Young man, such was the heroic effort of that thus-gone one.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-67">
+    <prop type="location-id">UT22084-068-003-102</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་ཁྱོད་གང་གི་ཚེ་བྱ་བ་འགའ་ཞིག་གི་ཕྱིར་ཤར་ལྷོའི་ཕྱོགས་སུ་འགྲོ་ན། དེའི་ཚེ་ཁྱོད་ཀྱིས་དེ་བཞིན་གཤེགས་པ་དེ་ལ་ཡན་ལག་ལྔས་ཕྱག་འཚལ་ཏེ། ཕྱིས་ཁྱིམ་ནས་སོང་ཤིག་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Young man, when you set out in the southeastern direction to attend to some affairs, prostrate with your five limbs and then depart from your home.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-68">
+    <prop type="location-id">UT22084-068-003-102</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྱོད་ལ་ཕྱིས་<tei:ref folio="F.9.b"/>འགྱོད་པའམ་འཇིགས་པ་གང་ནས་ཀྱང་འབྱུང་བར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Later you will not experience any regret and will not fear anything.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-69">
+    <prop type="location-id">UT22084-068-003-102</prop>
+    <tuv xml:lang="bo">
+                <seg>རྣམ་པར་མ་གཡེངས་པས་ཡིད་ལ་བྱེད་ན། ཁྱོད་བྱ་བ་གང་གི་ཕྱིར་འགྲོ་བའི་བྱ་བ་དེ་འགྲུབ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If you remain undistracted, you will accomplish the purpose for which you embarked.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-70">
     <prop type="location-id">UT22084-068-003-104</prop>
     <tuv xml:lang="bo">
                 <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་ཚེ་ཚིགས་སུ་བཅད་པ་འདི་བཀའ་སྩལ་ཏོ། །</seg>
@@ -305,7 +656,7 @@
                     <tei:milestone xml:id="UT22084-068-003-104"/>Then, at that time, the Blessed One spoke this verse:</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-32">
+<tu id="UT22084-068-003-TU-71">
     <prop type="location-id">UT22084-068-003-105</prop>
     <tuv xml:lang="bo">
                 <seg>ཡན་ལག་ལྔས་ནི་ཕྱག་འཚལ་ཏེ། །</seg>
@@ -315,26 +666,71 @@
                     <tei:milestone xml:id="UT22084-068-003-105"/>“Prostrate with the five limbs,</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-33">
+<tu id="UT22084-068-003-TU-72">
     <prop type="location-id">UT22084-068-003-105</prop>
     <tuv xml:lang="bo">
-                <seg>ཕྱི་ནས་ཁྱིམ་ནས་སོང་ཤིག་དང་། །ཆོམ་རྐུན་རྣམས་ཀྱིས་ཁྱོད་ཀུན་ཏུ། །ཟིལ་གྱིས་མི་ནོན་འགྲོ་བར་འགྱུར། །</seg>
+                <seg>ཕྱི་ནས་ཁྱིམ་ནས་སོང་ཤིག་དང་། །</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Then depart from home. You will travel Without being overpowered by bandits.</seg>
+                <seg>Then depart from home.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-34">
+<tu id="UT22084-068-003-TU-73">
+    <prop type="location-id">UT22084-068-003-105</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོམ་རྐུན་རྣམས་ཀྱིས་ཁྱོད་ཀུན་ཏུ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You will travel</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-74">
+    <prop type="location-id">UT22084-068-003-105</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟིལ་གྱིས་མི་ནོན་འགྲོ་བར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Without being overpowered by bandits.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-75">
     <prop type="location-id">UT22084-068-003-106</prop>
     <tuv xml:lang="bo">
-                <seg>གཞོན་ནུ་ལྷོ་ནུབ་ཀྱི་ཕྱོགས་ལོགས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་འདི་ནས་སངས་རྒྱས་ཀྱི་ཞིང་སུམ་ཁྲི་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་གསེར་གྱི་དྲ་བས་གཡོགས་པ་ཞེས་བྱ་བ་ཞིག་ཡོད་དེ དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རིན་ཆེན་གདུགས་འཕགས་སྣང་ཞེས་བྱ་བ་ད་ལྟར་བཞུགས་ཏེ་འཚོ་ཞིང་གཞེས་སོ། ། གཞོན་ནུ་ཁྱོད་གང་གི་ཚེ་བྱ་བ་འགའ་ཞིག་གི་ཕྱིར་ལྷོ་ནུབ་ཀྱི་ཕྱོགས་སུ་འགྲོ་ན་ དེའི་ཚེ་ཁྱོད་ཀྱིས་དེ་བཞིན་གཤེགས་པ་དེ་ལ་ཕྱག་འཚལ་ཏེ་ དྲན་པར་བྱས་ཤིང་མདུན་དུ་བྱས་ཏེ སེམས་ཀྱི་རྒྱུན་གྱིས་དེ་མངོན་དུ་བྱེད་ཅིང་རྣམ་པར་མ་གཡེངས་པའི་ཡིད་ལ་བྱེད་པས་སོང་ན་ ཁྱོད་ལ་འཇིགས་པ་གང་ནས་ཀྱང་འབྱུང་བར་མི་འགྱུར་ཞིང་ཁྱོད་བྱ་བ་གང་གི་ཕྱིར་འགྲོ་བའི་བྱ་བ་དེ་འགྲུབ་པར་འགྱུར་རོ། །</seg>
+                <seg>གཞོན་ནུ་ལྷོ་ནུབ་ཀྱི་ཕྱོགས་ལོགས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་འདི་ནས་སངས་རྒྱས་ཀྱི་ཞིང་སུམ་ཁྲི་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་གསེར་གྱི་དྲ་བས་གཡོགས་པ་ཞེས་བྱ་བ་ཞིག་ཡོད་དེ།</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-003-106"/>“Young man, in the southwestern direction, thirty thousand buddha fields beyond this buddha field, there is a world system known as Covered by a Golden Net. There, the thus-gone, worthy, completely perfect buddha known as Superior Illumination of a Jeweled Canopy presently resides, alive and well. Young man, when you set out in the southwestern direction to attend to some affairs, at that time, pay homage to that thus-gone one, remembering and honoring him. If you bring this clearly to mind and then depart while remaining undistracted, you will not fear anything, and you will accomplish the purpose for which you embarked.”</seg>
+                    <tei:milestone xml:id="UT22084-068-003-106"/>“Young man, in the southwestern direction, thirty thousand buddha fields beyond this buddha field, there is a world system known as Covered by a Golden Net.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-35">
+<tu id="UT22084-068-003-TU-76">
+    <prop type="location-id">UT22084-068-003-106</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རིན་ཆེན་གདུགས་འཕགས་སྣང་ཞེས་བྱ་བ་ད་ལྟར་བཞུགས་ཏེ་འཚོ་ཞིང་གཞེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There, the thus-gone, worthy, completely perfect buddha known as Superior Illumination of a Jeweled Canopy presently resides, alive and well.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-77">
+    <prop type="location-id">UT22084-068-003-106</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་ཁྱོད་གང་གི་ཚེ་བྱ་བ་འགའ་ཞིག་གི་ཕྱིར་ལྷོ་ནུབ་ཀྱི་ཕྱོགས་སུ་འགྲོ་ན་དེའི་ཚེ་ཁྱོད་ཀྱིས་དེ་བཞིན་གཤེགས་པ་དེ་ལ་ཕྱག་འཚལ་ཏེ་དྲན་པར་བྱས་ཤིང་མདུན་དུ་བྱས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Young man, when you set out in the southwestern direction to attend to some affairs, at that time, pay homage to that thus-gone one, remembering and honoring him.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-78">
+    <prop type="location-id">UT22084-068-003-106</prop>
+    <tuv xml:lang="bo">
+                <seg>སེམས་ཀྱི་རྒྱུན་གྱིས་དེ་མངོན་དུ་བྱེད་ཅིང་རྣམ་པར་མ་གཡེངས་པའི་ཡིད་ལ་བྱེད་པས་སོང་ན་ཁྱོད་ལ་འཇིགས་པ་གང་ནས་ཀྱང་འབྱུང་བར་མི་འགྱུར་ཞིང་ཁྱོད་བྱ་བ་གང་གི་ཕྱིར་འགྲོ་བའི་བྱ་བ་དེ་འགྲུབ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If you bring this clearly to mind and then depart while remaining undistracted, you will not fear anything, and you will accomplish the purpose for which you embarked.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-79">
     <prop type="location-id">UT22084-068-003-107</prop>
     <tuv xml:lang="bo">
                 <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་ཚེ་ཚིགས་སུ་བཅད་པ་འདི་བཀའ་སྩལ་ཏོ། །</seg>
@@ -344,7 +740,7 @@
                     <tei:milestone xml:id="UT22084-068-003-107"/>Then, at that time, the Blessed One spoke this verse:</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-36">
+<tu id="UT22084-068-003-TU-80">
     <prop type="location-id">UT22084-068-003-108</prop>
     <tuv xml:lang="bo">
                 <seg>རྫོགས་སངས་རྒྱས་ལ་ཕྱག་འཚལ་ནས། །</seg>
@@ -354,16 +750,25 @@
                     <tei:milestone xml:id="UT22084-068-003-108"/>“Having paid homage to the perfect Buddha,</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-37">
+<tu id="UT22084-068-003-TU-81">
     <prop type="location-id">UT22084-068-003-108</prop>
     <tuv xml:lang="bo">
-                <seg>མེ་ཏོག་སིལ་མས་གཏོར་ཅིག་དང་། །ཁྱོད་ནི་ལྷོ་ནུབ་འགྲོ་བ་ན། །</seg>
+                <seg>མེ་ཏོག་སིལ་མས་གཏོར་ཅིག་དང་། །</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Strew some flower petals. When you travel to the southwest,</seg>
+                <seg>Strew some flower petals.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-38">
+<tu id="UT22084-068-003-TU-82">
+    <prop type="location-id">UT22084-068-003-108</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྱོད་ནི་ལྷོ་ནུབ་འགྲོ་བ་ན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When you travel to the southwest,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-83">
     <prop type="location-id">UT22084-068-003-108</prop>
     <tuv xml:lang="bo">
                 <seg>འཇིགས་པ་འབྱུང་བར་མི་འགྱུར་རོ། །</seg>
@@ -372,17 +777,53 @@
                 <seg>You will not experience fear.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-39">
+<tu id="UT22084-068-003-TU-84">
     <prop type="location-id">UT22084-068-003-109</prop>
     <tuv xml:lang="bo">
-                <seg>གཞོན་ནུ་ནུབ་བྱང་གི་ཕྱོགས་ལོགས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་འདི་ནས་སངས་རྒྱས་ཀྱི་ཞིང་གང་གཱའི་ཀླུང་དྲུག་གི་བྱེ་མ་སྙེད་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་ཡོངས་དག་རབ་གནས་མངོན་པར་འཕགས་ཞེས་བྱ་བ་ཞིག་ཡོད་དེ དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་བྱང་ཆུབ་སེམས་དཔའ་འདུལ་བ་ཞེས་བྱ་བ་ད་ལྟར་བཞུགས་ཏེ་འཚོ་ཞིང་གཞེས་སོ། ། གཞོན་ནུ་དེ་བཞིན་གཤེགས་པ་དེའི་སངས་རྒྱས་ཀྱི་ཞིང་ནི་མི་གཙང་བ་མེད་པ། འཁྲིག་པ་མེད་པ། བུད་མེད་མེད་<tei:ref folio="F.10.a"/>པ། ཚེར་མ་དང་། གསེག་མ་དང་། གྱོ་མོ་མེད་པ། སྙིགས་མ་ལྔ་མེད་པ་ཡིན་ནོ། ། གཞོན་ནུ་ཁྱོད་གང་གི་ཚེ་བྱ་བ་འགའ་ཞིག་གི་ཕྱིར་ནུབ་བྱང་གི་ཕྱོགས་སུ་འགྲོ་ན་ ཚངས་པར་སྤྱོད་པ་ཡང་དག་པར་བླངས་ནས་ ཕྱིས་ཁྱིམ་ནས་རྣམ་པར་མ་གཡེངས་པའི་ཡིད་ལ་བྱེད་པས་སོང་ཤིག་དང་། གཞོན་ནུ་ཁྱོད་བྱ་བ་གང་གི་ཕྱིར་འགྲོ་བའི་བྱ་བ་དེ་འགྲུབ་པར་འགྱུར་ཞིང་ཁྱོད་ལ་འཇིགས་པ་གང་ནས་ཀྱང་འབྱུང་བར་མི་འགྱུར་རོ། །</seg>
+                <seg>གཞོན་ནུ་ནུབ་བྱང་གི་ཕྱོགས་ལོགས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་འདི་ནས་སངས་རྒྱས་ཀྱི་ཞིང་གང་གཱའི་ཀླུང་དྲུག་གི་བྱེ་མ་སྙེད་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་ཡོངས་དག་རབ་གནས་མངོན་པར་འཕགས་ཞེས་བྱ་བ་ཞིག་ཡོད་དེ།</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-003-109"/>“Young man, in the northwestern direction, as many buddha fields beyond this buddha field as there are grains of sand in six Ganges Rivers, there is a world system known as Purified, Steadfast, and Exalted. There, the thus-gone, worthy, completely perfect buddha known as Tamer of Bodhisattvas presently resides, alive and well. Young man, that thus-gone one’s buddha field is without impurity, without sexual intercourse, without women, without thorns, pebbles, and gravel, and without the five degenerations. Young man, when you set out in the northwestern direction to attend to some affairs, having first correctly observed pure conduct, depart from home with an undistracted mind. Young man, you will accomplish the purpose for which you embarked, and you will not fear anything.”</seg>
+                    <tei:milestone xml:id="UT22084-068-003-109"/>“Young man, in the northwestern direction, as many buddha fields beyond this buddha field as there are grains of sand in six Ganges Rivers, there is a world system known as Purified, Steadfast, and Exalted.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-40">
+<tu id="UT22084-068-003-TU-85">
+    <prop type="location-id">UT22084-068-003-109</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་བྱང་ཆུབ་སེམས་དཔའ་འདུལ་བ་ཞེས་བྱ་བ་ད་ལྟར་བཞུགས་ཏེ་འཚོ་ཞིང་གཞེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There, the thus-gone, worthy, completely perfect buddha known as Tamer of Bodhisattvas presently resides, alive and well.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-86">
+    <prop type="location-id">UT22084-068-003-109</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་དེ་བཞིན་གཤེགས་པ་དེའི་སངས་རྒྱས་ཀྱི་ཞིང་ནི་མི་གཙང་བ་མེད་པ། འཁྲིག་པ་མེད་པ། བུད་མེད་མེད་<tei:ref folio="F.10.a"/>པ། ཚེར་མ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Young man, that thus-gone one’s buddha field is without impurity, without sexual intercourse, without women, without thorns, pebbles, and gravel, and without the five degenerations.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-87">
+    <prop type="location-id">UT22084-068-003-109</prop>
+    <tuv xml:lang="bo">
+                <seg>གསེག་མ་དང་། གྱོ་མོ་མེད་པ། སྙིགས་མ་ལྔ་མེད་པ་ཡིན་ནོ། །གཞོན་ནུ་ཁྱོད་གང་གི་ཚེ་བྱ་བ་འགའ་ཞིག་གི་ཕྱིར་ནུབ་བྱང་གི་ཕྱོགས་སུ་འགྲོ་ན་ཚངས་པར་སྤྱོད་པ་ཡང་དག་པར་བླངས་ནས་ཕྱིས་ཁྱིམ་ནས་རྣམ་པར་མ་གཡེངས་པའི་ཡིད་ལ་བྱེད་པས་སོང་ཤིག་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Young man, when you set out in the northwestern direction to attend to some affairs, having first correctly observed pure conduct, depart from home with an undistracted mind.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-88">
+    <prop type="location-id">UT22084-068-003-109</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་ཁྱོད་བྱ་བ་གང་གི་ཕྱིར་འགྲོ་བའི་བྱ་བ་དེ་འགྲུབ་པར་འགྱུར་ཞིང་ཁྱོད་ལ་འཇིགས་པ་གང་ནས་ཀྱང་འབྱུང་བར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Young man, you will accomplish the purpose for which you embarked, and you will not fear anything.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-89">
     <prop type="location-id">UT22084-068-003-110</prop>
     <tuv xml:lang="bo">
                 <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་ཚེ་ཚིགས་སུ་བཅད་པ་འདི་བཀའ་སྩལ་ཏོ། །</seg>
@@ -392,7 +833,7 @@
                     <tei:milestone xml:id="UT22084-068-003-110"/>Then, at that time, the Blessed One spoke this verse:</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-41">
+<tu id="UT22084-068-003-TU-90">
     <prop type="location-id">UT22084-068-003-111</prop>
     <tuv xml:lang="bo">
                 <seg>ཚངས་སྤྱོད་ཡང་དག་བླངས་བྱས་ཏེ། །</seg>
@@ -402,26 +843,71 @@
                     <tei:milestone xml:id="UT22084-068-003-111"/>“Having first correctly observed pure conduct,</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-42">
+<tu id="UT22084-068-003-TU-91">
     <prop type="location-id">UT22084-068-003-111</prop>
     <tuv xml:lang="bo">
-                <seg>ཕྱི་ནས་ཁྱིམ་ནས་སོང་ཤིག་དང་། །ཁྱོད་ནི་གང་དང་གར་འགྲོ་ཡང་། །ཆོམ་རྐུན་རྣམས་ཀྱིས་ཟིལ་མི་ནོན། །</seg>
+                <seg>ཕྱི་ནས་ཁྱིམ་ནས་སོང་ཤིག་དང་། །</seg>
             </tuv>
     <tuv xml:lang="en">
-                <seg>Depart from home. Wherever you travel, You will not be overpowered by bandits.</seg>
+                <seg>Depart from home.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-43">
+<tu id="UT22084-068-003-TU-92">
+    <prop type="location-id">UT22084-068-003-111</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྱོད་ནི་གང་དང་གར་འགྲོ་ཡང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Wherever you travel,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-93">
+    <prop type="location-id">UT22084-068-003-111</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོམ་རྐུན་རྣམས་ཀྱིས་ཟིལ་མི་ནོན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You will not be overpowered by bandits.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-94">
     <prop type="location-id">UT22084-068-003-112</prop>
     <tuv xml:lang="bo">
-                <seg>གཞོན་ནུ་སྟེང་གི་ཕྱོགས་ལོགས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་འདི་ནས་སངས་རྒྱས་ཀྱི་ཞིང་གང་གཱའི་ཀླུང་དྲུག་ཅུའི་བྱེ་མ་སྙེད་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་དམིགས་པ་མེད་པ་ཡིད་ལ་བྱེད་པ་ཅན་ཞེས་བྱ་བ་ཞིག་ཡོད་དེ དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སྐྲག་མེད་མུན་བྲལ་ཏིང་ངེ་འཛིན་མངོན་འཕགས་རྒྱལ་པོ་ཞེས་བྱ་བ་ད་ལྟར་བཞུགས་ཏེ་འཚོ་ཞིང་གཞེས་སོ། ། གཞོན་ནུ་ཁྱོད་ཀྱིས་དེ་བཞིན་གཤེགས་པ་དེ་ལ་ཕྱག་འཚལ་ཏེ་དྲན་པར་བྱས་ཤིང་མདུན་དུ་བྱས་ཏེ་འདུག་ཀྱང་རུང་། འགྲེང་ཡང་རུང་། སེམས་ཅན་ཐམས་ཅད་ལ་བྱམས་པས་ཁྱབ་པར་བྱས་ནས་རྫོགས་པར་བྱས་ཤིང་གནས་ན་ཁྱོད་ལ་འཇིགས་པ་གང་ནས་ཀྱང་འབྱུང་བར་མི་འགྱུར་རོ། །</seg>
+                <seg>གཞོན་ནུ་སྟེང་གི་ཕྱོགས་ལོགས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་འདི་ནས་སངས་རྒྱས་ཀྱི་ཞིང་གང་གཱའི་ཀླུང་དྲུག་ཅུའི་བྱེ་མ་སྙེད་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་དམིགས་པ་མེད་པ་ཡིད་ལ་བྱེད་པ་ཅན་ཞེས་བྱ་བ་ཞིག་ཡོད་དེ།</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-003-112"/>“Young man, in the direction of the zenith, as many buddha fields beyond this buddha field as there are grains of sand in sixty Ganges Rivers, there is a world system known as Possessing Nonreferential Application of Mind. There, the thus-gone, worthy, completely perfect buddha known as Exalted King of Meditative Concentration Fearless and Free from Darkness presently resides, alive and well. Young man, pay homage to that thus-gone one, remembering and honoring him. If, whether sitting or standing, you pervade all beings with loving kindness and then perfect and maintain it, you will not fear anything.”</seg>
+                    <tei:milestone xml:id="UT22084-068-003-112"/>“Young man, in the direction of the zenith, as many buddha fields beyond this buddha field as there are grains of sand in sixty Ganges Rivers, there is a world system known as Possessing Nonreferential Application of Mind.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-44">
+<tu id="UT22084-068-003-TU-95">
+    <prop type="location-id">UT22084-068-003-112</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སྐྲག་མེད་མུན་བྲལ་ཏིང་ངེ་འཛིན་མངོན་འཕགས་རྒྱལ་པོ་ཞེས་བྱ་བ་ད་ལྟར་བཞུགས་ཏེ་འཚོ་ཞིང་གཞེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There, the thus-gone, worthy, completely perfect buddha known as Exalted King of Meditative Concentration Fearless and Free from Darkness presently resides, alive and well.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-96">
+    <prop type="location-id">UT22084-068-003-112</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞོན་ནུ་ཁྱོད་ཀྱིས་དེ་བཞིན་གཤེགས་པ་དེ་ལ་ཕྱག་འཚལ་ཏེ་དྲན་པར་བྱས་ཤིང་མདུན་དུ་བྱས་ཏེ་འདུག་ཀྱང་རུང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Young man, pay homage to that thus-gone one, remembering and honoring him.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-97">
+    <prop type="location-id">UT22084-068-003-112</prop>
+    <tuv xml:lang="bo">
+                <seg>འགྲེང་ཡང་རུང་། སེམས་ཅན་ཐམས་ཅད་ལ་བྱམས་པས་ཁྱབ་པར་བྱས་ནས་རྫོགས་པར་བྱས་ཤིང་གནས་ན་ཁྱོད་ལ་འཇིགས་པ་གང་ནས་ཀྱང་འབྱུང་བར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If, whether sitting or standing, you pervade all beings with loving kindness and then perfect and maintain it, you will not fear anything.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-98">
     <prop type="location-id">UT22084-068-003-113</prop>
     <tuv xml:lang="bo">
                 <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་ཚེ་ཚིགས་སུ་བཅད་པ་འདི་བཀའ་སྩལ་ཏོ། །</seg>
@@ -431,27 +917,81 @@
                     <tei:milestone xml:id="UT22084-068-003-113"/>Then, at that time, the Blessed One spoke this verse:</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-45">
+<tu id="UT22084-068-003-TU-99">
     <prop type="location-id">UT22084-068-003-114</prop>
     <tuv xml:lang="bo">
-                <seg>ཁྱོད་ཀྱིས་མ་གཡེངས་ཡིད་བྱེད་ཀྱིས། །རྟག་ཏུ་རྒྱལ་བ་དེ་དྲན་ཞིང་། །རྟག་ཏུ་བྱམས་པའི་སེམས་བྱོས་དང་། །ཁྱོད་ལ་འཇིགས་པ་འབྱུང་མི་འགྱུར། །</seg>
+                <seg>ཁྱོད་ཀྱིས་མ་གཡེངས་ཡིད་བྱེད་ཀྱིས། །</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-003-114"/>“Keeping the mind undistracted, Always remember that victorious one; Always develop the mind of loving kindness, And you will not experience fear.</seg>
+                    <tei:milestone xml:id="UT22084-068-003-114"/>“Keeping the mind undistracted,</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-46">
+<tu id="UT22084-068-003-TU-100">
+    <prop type="location-id">UT22084-068-003-114</prop>
+    <tuv xml:lang="bo">
+                <seg>རྟག་ཏུ་རྒྱལ་བ་དེ་དྲན་ཞིང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Always remember that victorious one;</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-101">
+    <prop type="location-id">UT22084-068-003-114</prop>
+    <tuv xml:lang="bo">
+                <seg>རྟག་ཏུ་བྱམས་པའི་སེམས་བྱོས་དང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Always develop the mind of loving kindness,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-102">
+    <prop type="location-id">UT22084-068-003-114</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྱོད་ལ་འཇིགས་པ་འབྱུང་མི་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And you will not experience fear.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-103">
     <prop type="location-id">UT22084-068-003-115</prop>
     <tuv xml:lang="bo">
-                <seg>གཞོན་ནུ་འོག་གི་ཕྱོགས་ལོགས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་འདི་ནས་སངས་རྒྱས་ཀྱི་ཞིང་དགུ་ཁྲི་ཉིས་སྟོང་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་ཡོན་ཏན་ཐམས་ཅད་ཀྱིས་བརྒྱན་པ་ཞེས་བྱ་བ་ཞིག་ཡོད་དེ དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་དང་པོ་སེམས་བསྐྱེད་ཐེ་<tei:ref folio="F.10.b"/>ཙོམ་གཅོད་མཛད་ཉོན་མོངས་བསྐྱོད་ཅེས་བྱ་བ་ད་ལྟར་བཞུགས་ཏེ་འཚོ་ཞིང་གཞེས་སོ། ། གཞོན་ནུ་ཁྱོད་ཀྱིས་དེ་བཞིན་གཤེགས་པ་དེ་ལ་བྱ་བ་རྩོམ་པ་ཐམས་ཅད་དང་། འགྲེང་ཡང་རུང་། འདུག་ཀྱང་རུང་། འཆག་ཀྱང་རུང་སྟེ། སྤྱོད་ལམ་ཐམས་ཅད་དུ་ཕྱག་འཚོལ་ཅིག ། ཡིད་ལ་བྱོས་ཤིག་དང་། སེམས་ཅན་རྣམས་ལ་བྱམས་པའི་སེམས་དང་། ཕན་པའི་སེམས་སྒྲུབས་ཤིག་དང་། གཞོན་ནུ་ཁྱོད་ལ་འཇིགས་པ་འབྱུང་བར་མི་འགྱུར་ཞིང་། དགོས་པ་ཐམས་ཅད་ཀྱང་འབད་མི་དགོས་པར་འགྲུབ་པར་འགྱུར་རོ། །</seg>
+                <seg>གཞོན་ནུ་འོག་གི་ཕྱོགས་ལོགས་སུ་སངས་རྒྱས་ཀྱི་ཞིང་འདི་ནས་སངས་རྒྱས་ཀྱི་ཞིང་དགུ་ཁྲི་ཉིས་སྟོང་འདས་པ་ན་འཇིག་རྟེན་གྱི་ཁམས་ཡོན་ཏན་ཐམས་ཅད་ཀྱིས་བརྒྱན་པ་ཞེས་བྱ་བ་ཞིག་ཡོད་དེ།</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-003-115"/>“Young man, in the direction of the nadir, ninety-two thousand buddha fields beyond this buddha field, there is a world system known as Adorned with All Qualities. There, the thus-gone, worthy, completely perfect buddha known as Cutting Doubt and Shaking the Defilements Since First Generating the Mind of Awakening presently resides, alive and well. Young man, at the commencement of all actions and during all activities, whether you are standing, sitting, or moving about, pay homage to that thus-gone one, keep him in mind, and establish the mind of loving kindness for beings and the beneficent mind. Young man, you will not experience fear, and all your needs will be effortlessly accomplished.”</seg>
+                    <tei:milestone xml:id="UT22084-068-003-115"/>“Young man, in the direction of the nadir, ninety-two thousand buddha fields beyond this buddha field, there is a world system known as Adorned with All Qualities.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-47">
+<tu id="UT22084-068-003-TU-104">
+    <prop type="location-id">UT22084-068-003-115</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་དང་པོ་སེམས་བསྐྱེད་ཐེ་<tei:ref folio="F.10.b"/>ཙོམ་གཅོད་མཛད་ཉོན་མོངས་བསྐྱོད་ཅེས་བྱ་བ་ད་ལྟར་བཞུགས་ཏེ་འཚོ་ཞིང་གཞེས་སོ། །གཞོན་ནུ་ཁྱོད་ཀྱིས་དེ་བཞིན་གཤེགས་པ་དེ་ལ་བྱ་བ་རྩོམ་པ་ཐམས་ཅད་དང་། འགྲེང་ཡང་རུང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There, the thus-gone, worthy, completely perfect buddha known as Cutting Doubt and Shaking the Defilements Since First Generating the Mind of Awakening presently resides, alive and well.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-105">
+    <prop type="location-id">UT22084-068-003-115</prop>
+    <tuv xml:lang="bo">
+                <seg>འདུག་ཀྱང་རུང་། འཆག་ཀྱང་རུང་སྟེ། སྤྱོད་ལམ་ཐམས་ཅད་དུ་ཕྱག་འཚོལ་ཅིག །ཡིད་ལ་བྱོས་ཤིག་དང་། སེམས་ཅན་རྣམས་ལ་བྱམས་པའི་སེམས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Young man, at the commencement of all actions and during all activities, whether you are standing, sitting, or moving about, pay homage to that thus-gone one, keep him in mind, and establish the mind of loving kindness for beings and the beneficent mind.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-106">
+    <prop type="location-id">UT22084-068-003-115</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕན་པའི་སེམས་སྒྲུབས་ཤིག་དང་། གཞོན་ནུ་ཁྱོད་ལ་འཇིགས་པ་འབྱུང་བར་མི་འགྱུར་ཞིང་། དགོས་པ་ཐམས་ཅད་ཀྱང་འབད་མི་དགོས་པར་འགྲུབ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Young man, you will not experience fear, and all your needs will be effortlessly accomplished.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-107">
     <prop type="location-id">UT22084-068-003-116</prop>
     <tuv xml:lang="bo">
                 <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་ཚེ་ཚིགས་སུ་བཅད་པ་འདི་བཀའ་སྩལ་ཏོ། །</seg>
@@ -461,177 +1001,474 @@
                     <tei:milestone xml:id="UT22084-068-003-116"/>Then, at that time, the Blessed One spoke this verse:</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-48">
+<tu id="UT22084-068-003-TU-108">
     <prop type="location-id">UT22084-068-003-117</prop>
     <tuv xml:lang="bo">
-                <seg>བྱ་བ་ཀུན་ལ་ཉིན་མཚན་དུ། །སངས་རྒྱས་དེ་ནི་དྲན་བྱ་ཞིང་། །བྱང་ཆུབ་སེམས་ཀྱང་མ་གཏང་དང་། །ཁྱོད་ལ་འཇིགས་པ་འབྱུང་མི་འགྱུར། །</seg>
+                <seg>བྱ་བ་ཀུན་ལ་ཉིན་མཚན་དུ། །</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-003-117"/>“In every activity, day and night, Remember that buddha And do not relinquish the mind of awakening, And you will experience no fear.</seg>
+                    <tei:milestone xml:id="UT22084-068-003-117"/>“In every activity, day and night,</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-49">
+<tu id="UT22084-068-003-TU-109">
+    <prop type="location-id">UT22084-068-003-117</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དེ་ནི་དྲན་བྱ་ཞིང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Remember that buddha</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-110">
+    <prop type="location-id">UT22084-068-003-117</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་ཀྱང་མ་གཏང་དང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And do not relinquish the mind of awakening,</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-111">
+    <prop type="location-id">UT22084-068-003-117</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྱོད་ལ་འཇིགས་པ་འབྱུང་མི་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And you will experience no fear.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-112">
     <prop type="location-id">UT22084-068-003-118</prop>
     <tuv xml:lang="bo">
-                <seg>གཞོན་ནུ་ཁྱོད་ཀྱིས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་དེ་དག་གི་མཚན་ལེགས་པར་བཟུང་བར་གྱིས་ཤིག །ལེགས་པར་བཅང་བར་གྱིས་ཤིག །ལེགས་པར་ཀུན་ཆུབ་པར་གྱིས་ཤིག་དང་། འཇིགས་པའམ། བག་ཚ་བའམ། སྤུ་ཟིང་ཞེས་བྱེད་པ་གང་ཅི་ཡང་རུང་བ་དེ་དག་ཐམས་ཅད་ཁྱོད་ལ་འབྱུང་བར་མི་འགྱུར་རོ། །</seg>
+                <seg>གཞོན་ནུ་ཁྱོད་ཀྱིས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་དེ་དག་གི་མཚན་ལེགས་པར་བཟུང་བར་གྱིས་ཤིག །ལེགས་པར་བཅང་བར་གྱིས་ཤིག །</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-003-118"/>“Young man, apprehend well the names of those thus-gone, worthy, completely perfect buddhas. Keep them well and comprehend them well, and you will not experience any of those fears, anxieties, and terrors.” Thus spoke the Blessed One to the youth.</seg>
+                    <tei:milestone xml:id="UT22084-068-003-118"/>“Young man, apprehend well the names of those thus-gone, worthy, completely perfect buddhas.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-50">
+<tu id="UT22084-068-003-TU-113">
+    <prop type="location-id">UT22084-068-003-118</prop>
+    <tuv xml:lang="bo">
+                <seg>ལེགས་པར་ཀུན་ཆུབ་པར་གྱིས་ཤིག་དང་། འཇིགས་པའམ། བག་ཚ་བའམ། སྤུ་ཟིང་ཞེས་བྱེད་པ་གང་ཅི་ཡང་རུང་བ་དེ་དག་ཐམས་ཅད་ཁྱོད་ལ་འབྱུང་བར་མི་འགྱུར་རོ། །དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Keep them well and comprehend them well, and you will not experience any of those fears, anxieties, and terrors.” Thus spoke the Blessed One to the youth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-114">
     <prop type="location-id">UT22084-068-003-119</prop>
     <tuv xml:lang="bo">
-                <seg>དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང་། བཅོམ་ལྡན་འདས་ལ་ཤཱཀྱ་གཞོན་ནུ་བཞིན་རབ་གསལ་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། ། བཅོམ་ལྡན་འདས་བདག་གིས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་དེ་དག་གི་མཚན་རྣམས་བཟུང་ལགས་ཏེ། བཅོམ་ལྡན་འདས་བདག་ལ་འཇིག་རྟེན་གྱི་ཁམས་དེ་དག་མུན་པ་མ་མཆིས་ཤིང་། བཅོམ་ལྡན་འདས་བདག་གིས་འཇིག་རྟེན་གྱི་ཁམས་དེ་དག་དང་། དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་དེ་དག་ཀྱང་དཔེར་ན་དེ་བཞིན་གཤེགས་པ་ད་ལྟར་འཁོར་རྣམས་ལ་ཆོས་སྟོན་པ་བཞིན་དུ་མཐོང་ངོ་། །</seg>
+                <seg>བཅོམ་ལྡན་འདས་ལ་ཤཱཀྱ་གཞོན་ནུ་བཞིན་རབ་གསལ་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་བདག་གིས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་དེ་དག་གི་མཚན་རྣམས་བཟུང་ལགས་ཏེ།</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-003-119"/>The Śākya youth Shining Countenance then said to the Blessed One, “Blessed One, I will apprehend the names of those thus-gone, worthy, completely perfect buddhas. For me, Blessed One, there is no darkness whatsoever in those world systems. Blessed One, I see those world systems and those thus-gone, worthy, completely perfect buddhas, just as I now see the Thus-Gone One teaching the Dharma to the assemblies.”</seg>
+                    <tei:milestone xml:id="UT22084-068-003-119"/>The Śākya youth Shining Countenance then said to the Blessed One, “Blessed One, I will apprehend the names of those thus-gone, worthy, completely perfect buddhas.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-51">
+<tu id="UT22084-068-003-TU-115">
+    <prop type="location-id">UT22084-068-003-119</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་བདག་ལ་འཇིག་རྟེན་གྱི་ཁམས་དེ་དག་མུན་པ་མ་མཆིས་ཤིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>For me, Blessed One, there is no darkness whatsoever in those world systems.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-116">
+    <prop type="location-id">UT22084-068-003-119</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་བདག་གིས་འཇིག་རྟེན་གྱི་ཁམས་དེ་དག་དང་། དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་དེ་དག་ཀྱང་དཔེར་ན་དེ་བཞིན་གཤེགས་པ་ད་ལྟར་འཁོར་རྣམས་ལ་ཆོས་སྟོན་པ་བཞིན་དུ་མཐོང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Blessed One, I see those world systems and those thus-gone, worthy, completely perfect buddhas, just as I now see the Thus-Gone One teaching the Dharma to the assemblies.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-117">
     <prop type="location-id">UT22084-068-003-120</prop>
     <tuv xml:lang="bo">
-                <seg>དེ་ནས་འཁོར་དེ་ལས་ཤཱཀྱ་གཞོན་ནུ་བཞིན་རབ་གསལ་ལ་སོགས་པ་སྐྱེ་བོ་ཕལ་པོ་ཆེའི་ཚོགས་<tei:ref folio="F.11.a"/>བཅོམ་ལྡན་འདས་ལ་བལྟ་བ་དང་། ཕྱག་འཚལ་བ་དང་། མཆོད་པ་དང་། རིམ་གྲོ་བྱ་བ་དང་། ཆོས་ཀྱི་རྣམ་གྲངས་འདི་མཉན་པའི་ཕྱིར་འཁོར་དེར་འདུས་པར་གྱུར་པའི་སྲོག་ཆགས་སྟོང་ཚང་བ་དེ་དག་ཐམས་ཅད་སྟན་ལས་ལངས་ཏེ བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས་པུས་མོ་གཡས་པའི་ལྷ་ང་ས་ལ་བཙུགས་ཏེ། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས། བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། ། བཅོམ་ལྡན་འདས་བདག་ཅག་གི་དོན་གྱི་སླད་དུ་དེ་བཞིན་གཤེགས་པས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བཤད་པས་བཅོམ་ལྡན་འདས་བདག་ཅག་ལ་ཕྱོགས་དེ་དག་དང་འཇིག་རྟེན་གྱི་ཁམས་དེ་དག་ཀྱང་མུན་པ་མ་མཆིས་པར་གདའ་ལ། བཅོམ་ལྡན་འདས་འཇིག་རྟེན་གྱི་ཁམས་དེ་དག་དང་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་དག་ཀྱང་དཔེར་ན། ད་ལྟར་དེ་བཞིན་གཤེགས་པ་ཆོས་སྟོན་པ་འདི་བཞིན་དུ་གདའོ། ། དེ་ནས་སངས་རྒྱས་ཀྱི་མཐུས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་སྟན་ལས་ལངས་ཏེ། བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་བྱས་ནས། པུས་མོ་གཡས་པའི་ལྷ་ང་ས་ལ་བཙུགས་ཏེ།</seg>
+                <seg>དེ་ནས་འཁོར་དེ་ལས་ཤཱཀྱ་གཞོན་ནུ་བཞིན་རབ་གསལ་ལ་སོགས་པ་སྐྱེ་བོ་ཕལ་པོ་ཆེའི་ཚོགས་<tei:ref folio="F.11.a"/>བཅོམ་ལྡན་འདས་ལ་བལྟ་བ་དང་། ཕྱག་འཚལ་བ་དང་། མཆོད་པ་དང་། རིམ་གྲོ་བྱ་བ་དང་།</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-003-120"/>Then, from among that gathering, the Śākya youth Shining Countenance and the others, the great host of beings, looked upon the Blessed One, paid homage, made offerings, and attended upon him. Each of the thousand living beings who had assembled there to listen to this Dharma discourse then rose from their seats, draped their upper robes over one shoulder, knelt on their right knees, bowed toward the Blessed One with palms joined, and spoke these words to the Blessed One: “Blessed One, because the Thus-Gone One taught this Dharma discourse for our benefit, for us, Blessed One, those directions and those world systems appear without darkness. Blessed One, those world systems and those blessed buddhas appear just like the Thus-Gone One teaching the Dharma right now.”</seg>
+                    <tei:milestone xml:id="UT22084-068-003-120"/>Then, from among that gathering, the Śākya youth Shining Countenance and the others, the great host of beings, looked upon the Blessed One, paid homage, made offerings, and attended upon him.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-52">
+<tu id="UT22084-068-003-TU-118">
+    <prop type="location-id">UT22084-068-003-120</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཀྱི་རྣམ་གྲངས་འདི་མཉན་པའི་ཕྱིར་འཁོར་དེར་འདུས་པར་གྱུར་པའི་སྲོག་ཆགས་སྟོང་ཚང་བ་དེ་དག་ཐམས་ཅད་སྟན་ལས་ལངས་ཏེ། བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས་པུས་མོ་གཡས་པའི་ལྷ་ང་ས་ལ་བཙུགས་ཏེ། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས། བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་བདག་ཅག་གི་དོན་གྱི་སླད་དུ་དེ་བཞིན་གཤེགས་པས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བཤད་པས་བཅོམ་ལྡན་འདས་བདག་ཅག་ལ་ཕྱོགས་དེ་དག་དང་འཇིག་རྟེན་གྱི་ཁམས་དེ་དག་ཀྱང་མུན་པ་མ་མཆིས་པར་གདའ་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Each of the thousand living beings who had assembled there to listen to this Dharma discourse then rose from their seats, draped their upper robes over one shoulder, knelt on their right knees, bowed toward the Blessed One with palms joined, and spoke these words to the Blessed One: “Blessed One, because the Thus-Gone One taught this Dharma discourse for our benefit, for us, Blessed One, those directions and those world systems appear without darkness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-119">
+    <prop type="location-id">UT22084-068-003-120</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་འཇིག་རྟེན་གྱི་ཁམས་དེ་དག་དང་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་དག་ཀྱང་དཔེར་ན། ད་ལྟར་དེ་བཞིན་གཤེགས་པ་ཆོས་སྟོན་པ་འདི་བཞིན་དུ་གདའོ། །དེ་ནས་སངས་རྒྱས་ཀྱི་མཐུས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་སྟན་ལས་ལངས་ཏེ། བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་བྱས་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Blessed One, those world systems and those blessed buddhas appear just like the Thus-Gone One teaching the Dharma right now.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-120">
     <prop type="location-id">UT22084-068-003-122</prop>
     <tuv xml:lang="bo">
-                <seg>བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས། བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། ། བཅོམ་ལྡན་འདས་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་དག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བཤད་པ་ན། སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་དག་གི་མཚན་རྣམས་ཐོས་ནས་ མིག་རྣམ་པར་དག་ཅིང་ཕྱོགས་བཅུ་དག་ན་ འཇིག་རྟེན་གྱི་ཁམས་གང་དག་མཆིས་པ་དེ་དག་དང་། སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་དག་མཐོང་བ་དེ་དག་གི་མིག་རྣམ་པར་དག་པའི་བསོད་ནམས་དེ་དག་བཅོམ་ལྡན་འདས་ཅི་ལགས། ཚེ་རབས་གཞན་དུ་ཚེ་འཕོས་ན་ ཡང་འབྲལ་བར་འགྱུར་རམ། འོན་ཏེ་མི་འགྱུར།</seg>
+                <seg>པུས་མོ་གཡས་པའི་ལྷ་ང་ས་ལ་བཙུགས་ཏེ། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས། བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་དག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བཤད་པ་ན། སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་དག་གི་མཚན་རྣམས་ཐོས་ནས་མིག་རྣམ་པར་དག་ཅིང་ཕྱོགས་བཅུ་དག་ན་འཇིག་རྟེན་གྱི་ཁམས་གང་དག་མཆིས་པ་དེ་དག་དང་།</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-003-122"/>Then, by the power of the Buddha, the venerable Śāriputra rose from his seat, draped his upper robe over one shoulder, knelt on his right knee, bowed toward the Blessed One with palms joined, and spoke these words to the Blessed One: “Blessed One, when you taught this Dharma discourse to those noble sons and daughters, having heard the names of those blessed buddhas, their eyes were purified, and they saw all the world systems in the ten directions and all those blessed buddhas. Blessed One, what is the merit by which they saw that and by which their eyes were purified? Will there still be fruit when they transmigrate to another life? Or will there not be?”</seg>
+                    <tei:milestone xml:id="UT22084-068-003-122"/>Then, by the power of the Buddha, the venerable Śāriputra rose from his seat, draped his upper robe over one shoulder, knelt on his right knee, bowed toward the Blessed One with palms joined, and spoke these words to the Blessed One: “Blessed One, when you taught this Dharma discourse to those noble sons and daughters, having heard the names of those blessed buddhas, their eyes were purified, and they saw all the world systems in the ten directions and all those blessed buddhas.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-53">
+<tu id="UT22084-068-003-TU-121">
+    <prop type="location-id">UT22084-068-003-122</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་དག་མཐོང་བ་དེ་དག་གི་མིག་རྣམ་པར་དག་པའི་བསོད་ནམས་དེ་དག་བཅོམ་ལྡན་འདས་ཅི་ལགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Blessed One, what is the merit by which they saw that and by which their eyes were purified?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-122">
+    <prop type="location-id">UT22084-068-003-122</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚེ་རབས་གཞན་དུ་ཚེ་འཕོས་ན་ཡང་འབྲལ་བར་འགྱུར་རམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Will there still be fruit when they transmigrate to another life?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-123">
+    <prop type="location-id">UT22084-068-003-122</prop>
+    <tuv xml:lang="bo">
+                <seg>འོན་ཏེ་མི་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Or will there not be?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-124">
     <prop type="location-id">UT22084-068-003-123</prop>
     <tuv xml:lang="bo">
-                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། ཤཱ་རིའི་བུ་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པའི་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་དག་འདི་ལྟར་མིག་རྣམ་པར་དག་པ་དེ་དག་ནི་སྒྲིབ་པ་མེད་པའི་<tei:ref folio="F.11.b"/>ཚུལ་གྱིས་ཤིན་ཏུ་རྣམ་པར་དག་པ་ཉིད་དུ་འགྱུར་རོ། ། ཤཱ་རིའི་བུ་ཁྱོད་ཀྱིས་སྲོག་ཆགས་སྟོང་ཚང་བ་འདི་མཐོང་ངམ། ཤཱ་རིའི་བུ་འདི་དག་ཐམས་ཅད་ནི་སངས་རྒྱས་རྣམས་ཀྱི་མཚན་བཟུང་བའི་དགེ་བའི་རྩ་བ་འདིས་རེ་རེས་ཀྱང་འཁོར་ལོས་སྒྱུར་བའི་རྒྱལ་སྲིད་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་དག་བྱེད་དུ་བཅུག་ནས་ སྲིད་པ་ཐ་མ་དང་། ལུས་ཐ་མ་ལ་བྱང་ཆུབ་ཀྱི་ཚོགས་ཐམས་ཅད་རྫོགས་པར་བྱས་ཏེ བསྐལ་པ་གཅིག་ལ་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སྤྱན་དག་པས་བརྒྱན་པ་ཞེས་བྱ་བར་མཚན་འཐུན་པ་ཤ་སྟག་བླ་ན་</seg>
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། ཤཱ་རིའི་བུ་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པའི་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་དག་འདི་ལྟར་མིག་རྣམ་པར་དག་པ་དེ་དག་ནི་སྒྲིབ་པ་མེད་པའི་<tei:ref folio="F.11.b"/>ཚུལ་གྱིས་ཤིན་ཏུ་རྣམ་པར་དག་པ་ཉིད་དུ་འགྱུར་རོ། །</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-003-123"/>“Śāriputra,” replied the Blessed One, “noble sons and daughters who have correctly entered the Bodhisattva Vehicle and whose eyes have been purified in this way will become exceedingly pure in accordance with their lack of obscurations. Śāriputra, do you see all thousand of these living beings? Each and every one of them, Śāriputra, because of the root of virtue of apprehending the names of these buddhas, will attain the life of a universal emperor as many times as there are grains of sand in the Ganges River. In their last life and last body, all these beings will perfect all the accumulations of awakening. In a single eon, every one of them will truly and completely awaken to unsurpassed, completely perfect awakening, all with the name of the thus-gone, worthy, completely perfect Buddha Ornamented with Pure Eyes.”</seg>
+                    <tei:milestone xml:id="UT22084-068-003-123"/>“Śāriputra,” replied the Blessed One, “noble sons and daughters who have correctly entered the Bodhisattva Vehicle and whose eyes have been purified in this way will become exceedingly pure in accordance with their lack of obscurations.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-54">
+<tu id="UT22084-068-003-TU-125">
+    <prop type="location-id">UT22084-068-003-123</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་ཁྱོད་ཀྱིས་སྲོག་ཆགས་སྟོང་ཚང་བ་འདི་མཐོང་ངམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Śāriputra, do you see all thousand of these living beings?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-126">
+    <prop type="location-id">UT22084-068-003-123</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤཱ་རིའི་བུ་འདི་དག་ཐམས་ཅད་ནི་སངས་རྒྱས་རྣམས་ཀྱི་མཚན་བཟུང་བའི་དགེ་བའི་རྩ་བ་འདིས་རེ་རེས་ཀྱང་འཁོར་ལོས་སྒྱུར་བའི་རྒྱལ་སྲིད་གང་གཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་དག་བྱེད་དུ་བཅུག་ནས་སྲིད་པ་ཐ་མ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Each and every one of them, Śāriputra, because of the root of virtue of apprehending the names of these buddhas, will attain the life of a universal emperor as many times as there are grains of sand in the Ganges River.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-127">
+    <prop type="location-id">UT22084-068-003-123</prop>
+    <tuv xml:lang="bo">
+                <seg>ལུས་ཐ་མ་ལ་བྱང་ཆུབ་ཀྱི་ཚོགས་ཐམས་ཅད་རྫོགས་པར་བྱས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In their last life and last body, all these beings will perfect all the accumulations of awakening.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-128">
+    <prop type="location-id">UT22084-068-003-123</prop>
+    <tuv xml:lang="bo">
+                <seg>བསྐལ་པ་གཅིག་ལ་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སྤྱན་དག་པས་བརྒྱན་པ་ཞེས་བྱ་བར་མཚན་འཐུན་པ་ཤ་སྟག་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In a single eon, every one of them will truly and completely awaken to unsurpassed, completely perfect awakening, all with the name of the thus-gone, worthy, completely perfect Buddha Ornamented with Pure Eyes.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-129">
     <prop type="location-id">UT22084-068-003-124</prop>
     <tuv xml:lang="bo">
-                <seg>མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་བར་འགྱུར་རོ། ། བཅོམ་ལྡན་འདས་ཀྱིས་རིགས་ཀྱི་བུ་དེ་རྣམས་ལུང་བསྟན་པ་བཤད་པ་འདི་བཀའ་སྩལ་མ་ཐག་ཏུ་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་འདི་རྣམ་པ་དྲུག་ཏུ་གཡོས་པར་གྱུར་ཏེ འགུལ་རབ་ཏུ་འགུལ། ཀུན་ཏུ་རབ་ཏུ་འགུལ། གཡོས་རབ་ཏུ་གཡོས། ཀུན་ཏུ་རབ་ཏུ་གཡོས། འུར་འུར་རབ་ཏུ་འུར་འུར། ཀུན་ཏུ་རབ་ཏུ་འུར་འུར། ལྡེག་རབ་ཏུ་ལྡེག །ཀུན་ཏུ་རབ་ཏུ་ལྡེག །ཆེམ་ཆེམ་རབ་ཏུ་ཆེམ་ཆེམ། ཀུན་ཏུ་རབ་ཏུ་ཆེམ་ཆེམ། འཁྲུགས་རབ་ཏུ་འཁྲུགས། ཀུན་ཏུ་རབ་ཏུ་འཁྲུགས་སོ། །</seg>
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་རིགས་ཀྱི་བུ་དེ་རྣམས་ལུང་བསྟན་པ་བཤད་པ་འདི་བཀའ་སྩལ་མ་ཐག་ཏུ་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་འདི་རྣམ་པ་དྲུག་ཏུ་གཡོས་པར་གྱུར་ཏེ། འགུལ་རབ་ཏུ་འགུལ། ཀུན་ཏུ་རབ་ཏུ་འགུལ།</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-003-124"/>As soon as the Blessed One had given his prophecy to those noble sons and daughters, the trichiliocosm shook in six ways: it quaked, quaked deeply, and quaked violently; it shook, shook deeply, and shook violently; and it clamored, clamored deeply, and clamored violently.</seg>
+                    <tei:milestone xml:id="UT22084-068-003-124"/>As soon as the Blessed One had given his prophecy to those noble sons and daughters, the trichiliocosm shook in six ways: it quaked, quaked deeply, and quaked violently;</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-55">
+<tu id="UT22084-068-003-TU-130">
+    <prop type="location-id">UT22084-068-003-124</prop>
+    <tuv xml:lang="bo">
+                <seg>གཡོས་རབ་ཏུ་གཡོས། ཀུན་ཏུ་རབ་ཏུ་གཡོས། འུར་འུར་རབ་ཏུ་འུར་འུར། ཀུན་ཏུ་རབ་ཏུ་འུར་འུར། ལྡེག་རབ་ཏུ་ལྡེག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>it shook, shook deeply, and shook violently;</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-131">
+    <prop type="location-id">UT22084-068-003-124</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་ཏུ་རབ་ཏུ་ལྡེག །ཆེམ་ཆེམ་རབ་ཏུ་ཆེམ་ཆེམ། ཀུན་ཏུ་རབ་ཏུ་ཆེམ་ཆེམ། འཁྲུགས་རབ་ཏུ་འཁྲུགས། ཀུན་ཏུ་རབ་ཏུ་འཁྲུགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>and it clamored, clamored deeply, and clamored violently.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-132">
     <prop type="location-id">UT22084-068-003-125</prop>
     <tuv xml:lang="bo">
-                <seg>ས་བླའི་ལྷ་རྣམས་ཀྱིས་ཀྱང་ཀྱེ་མ་གྲོགས་པོ་དག་འདི་ལྟར་རིགས་ཀྱི་བུ་འདི་རྣམས་ཀྱིས་དེ་བཞིན་གཤེགས་པའི་མཚན་བཟུང་བ་ཙམ་གྱིས་བླ་ན་ མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཡོངས་སུ་བཟུང་ཞིང་ཆོས་ཐམས་ཅད་ཇི་ལྟ་བ་བཞིན་དུ་མཁྱེན་པས་དོན་ཐམས་ཅད་ཐུགས་སུ་ཆུད་པའི་དེ་བཞིན་གཤེགས་པར་འགྱུར་བ་ནི་ངོ་མཚར་ཆེ་སྟེ སུ་ཞིག་སངས་རྒྱས་ལ་དད་པར་མི་འགྱུར་ཞེས་སྒྲ་བསྒྲགས་སོ། །</seg>
+                <seg>ས་བླའི་ལྷ་རྣམས་ཀྱིས་ཀྱང་ཀྱེ་མ་གྲོགས་པོ་དག་འདི་ལྟར་རིགས་ཀྱི་བུ་འདི་རྣམས་ཀྱིས་དེ་བཞིན་གཤེགས་པའི་མཚན་བཟུང་བ་ཙམ་གྱིས་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཡོངས་སུ་བཟུང་ཞིང་ཆོས་ཐམས་ཅད་ཇི་ལྟ་བ་བཞིན་དུ་མཁྱེན་པས་དོན་ཐམས་ཅད་ཐུགས་སུ་ཆུད་པའི་དེ་བཞིན་གཤེགས་པར་འགྱུར་བ་ནི་ངོ་མཚར་ཆེ་སྟེ།</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-003-125"/>Even the gods who move above the earth proclaimed, “Friends! It is amazing that by merely apprehending the names of these thus-gone ones these noble sons and daughters will have taken hold of unsurpassed, completely perfect awakening and become thus-gone ones who have understood everything through knowing all phenomena just as they are. Who would not then develop faith in the Buddha?”</seg>
+                    <tei:milestone xml:id="UT22084-068-003-125"/>Even the gods who move above the earth proclaimed, “Friends! It is amazing that by merely apprehending the names of these thus-gone ones these noble sons and daughters will have taken hold of unsurpassed, completely perfect awakening and become thus-gone ones who have understood everything through knowing all phenomena just as they are.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-56">
+<tu id="UT22084-068-003-TU-133">
+    <prop type="location-id">UT22084-068-003-125</prop>
+    <tuv xml:lang="bo">
+                <seg>སུ་ཞིག་སངས་རྒྱས་ལ་དད་པར་མི་འགྱུར་ཞེས་སྒྲ་བསྒྲགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Who would not then develop faith in the Buddha?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-134">
     <prop type="location-id">UT22084-068-003-126</prop>
     <tuv xml:lang="bo">
-                <seg>རྒྱལ་ཆེན་བཞིའི་རིས་ཀྱི་ལྷ་རྣམས་དང་། སུམ་ཅུ་རྩ་གསུམ་པ་རྣམས་དང་། འཐབ་བྲལ་བ་རྣམས་དང་། དགའ་ལྡན་པ་རྣམས་དང་། འཕྲུལ་དགའ་བ་རྣམས་དང་། གཞན་འཕྲུལ་དབང་བྱེད་ཀྱི་བདུད་ཀྱི་རིས་རྣམས་དང་། ཚངས་རིས་རྣམས་དང་། ཚངས་པའི་མདུན་ན་འདོན་རྣམས་དང་། ཚངས་པ་ཆེན་པོ་རྣམས་ནས་འོག་<tei:ref folio="F.12.a"/>མིན་གྱི་ལྷ་རྣམས་ཀྱི་བར་གྱིས་ས་བླའི་ལྷ་རྣམས་ཀྱིས་སྒྲ་དེ་ཐོས་ནས་ ཡི་རངས་ཤིང་རབ་ཏུ་དགའ་ལ་དགའ་བ་དང་ཡིད་བདེ་བ་སྐྱེས་ནས་ ཚིག་འདི་སྐད་ཅེས་ཀྱེ་མ་གྲོགས་པོ་དག་འདི་ལྟར་རིགས་ཀྱི་བུ་འདི་རྣམས་ཀྱིས་དེ་བཞིན་གཤེགས་པའི་མཚན་བཟུང་བ་ཙམ་གྱིས་བླ་ན་ མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཡོངས་སུ་བཟུང་ཞིང་ཆོས་ཐམས་ཅད་ཇི་ལྟ་བ་བཞིན་དུ་མཁྱེན་པས་དོན་ཐམས་ཅད་ཐུགས་སུ་ཆུད་པའི་དེ་བཞིན་གཤེགས་པར་འགྱུར་བ་ནི་ངོ་མཚར་ཆེ་སྟེ སུ་ཞིག་སངས་རྒྱས་ལ་དད་པར་མི་འགྱུར་ཞེས་སྨྲས་སོ། ། དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་ལ་བཀའ་སྩལ་པ། ཀུན་དགའ་བོ་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པའི་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་ལ་ལ་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ཐོས་ནས་ འཛིན་པར་བྱེད། འཆང་བར་བྱེད། ཀློག་པར་བྱེད། ཀུན་ཆུབ་པར་བྱེད་ཅིང་། གཞན་དག་ལ་ཡང་རྒྱ་ཆེར་ཡང་དག་པར་རབ་ཏུ་སྟོན་པར་བྱེད་པ་དང་། ཐ་ན་གླེགས་བམ་ལ་བྲིས་ཏེ་འཆང་བར་བྱེད་ན།</seg>
+                <seg>རྒྱལ་ཆེན་བཞིའི་རིས་ཀྱི་ལྷ་རྣམས་དང་། སུམ་ཅུ་རྩ་གསུམ་པ་རྣམས་དང་། འཐབ་བྲལ་བ་རྣམས་དང་། དགའ་ལྡན་པ་རྣམས་དང་། འཕྲུལ་དགའ་བ་རྣམས་དང་། གཞན་འཕྲུལ་དབང་བྱེད་ཀྱི་བདུད་ཀྱི་རིས་རྣམས་དང་། ཚངས་རིས་རྣམས་དང་།</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-003-126"/>Having heard the cry of the gods who move above the earth, the gods belonging to the class of the Four Great Kings, those of the Heaven of the Thirty-Three, those of the Heaven Free from Strife, those of the Heaven of Joy, those of the Heaven of Delighting in Emanations, those of the māra class who reside in the Heaven of Making Use of Others’ Emanations, those of the Brahmā Heaven, those of the Heaven of the High Priests of Brahmā, and those of the Heaven of Great Brahmā, up to the gods of the Unexcelled Heaven, were delighted and overjoyed. Having become joyful and happy, they cried, “Friends! It is amazing that in this way, by merely apprehending the names of these thus-gone ones, these noble sons and daughters will have taken hold of unsurpassed, completely perfect awakening and become thus-gone ones who have understood everything through knowing all phenomena just as they are. Who would not then develop faith in the Buddha?”</seg>
+                    <tei:milestone xml:id="UT22084-068-003-126"/>Having heard the cry of the gods who move above the earth, the gods belonging to the class of the Four Great Kings, those of the Heaven of the Thirty-Three, those of the Heaven Free from Strife, those of the Heaven of Joy, those of the Heaven of Delighting in Emanations, those of the māra class who reside in the Heaven of Making Use of Others’ Emanations, those of the Brahmā Heaven, those of the Heaven of the High Priests of Brahmā, and those of the Heaven of Great Brahmā, up to the gods of the Unexcelled Heaven, were delighted and overjoyed.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-57">
+<tu id="UT22084-068-003-TU-135">
+    <prop type="location-id">UT22084-068-003-126</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚངས་པའི་མདུན་ན་འདོན་རྣམས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Having become joyful and happy, they cried, “Friends!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-136">
+    <prop type="location-id">UT22084-068-003-126</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚངས་པ་ཆེན་པོ་རྣམས་ནས་འོག་<tei:ref folio="F.12.a"/>མིན་གྱི་ལྷ་རྣམས་ཀྱི་བར་གྱིས་ས་བླའི་ལྷ་རྣམས་ཀྱིས་སྒྲ་དེ་ཐོས་ནས་ཡི་རངས་ཤིང་རབ་ཏུ་དགའ་ལ་དགའ་བ་དང་ཡིད་བདེ་བ་སྐྱེས་ནས་ཚིག་འདི་སྐད་ཅེས་ཀྱེ་མ་གྲོགས་པོ་དག་འདི་ལྟར་རིགས་ཀྱི་བུ་འདི་རྣམས་ཀྱིས་དེ་བཞིན་གཤེགས་པའི་མཚན་བཟུང་བ་ཙམ་གྱིས་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཡོངས་སུ་བཟུང་ཞིང་ཆོས་ཐམས་ཅད་ཇི་ལྟ་བ་བཞིན་དུ་མཁྱེན་པས་དོན་ཐམས་ཅད་ཐུགས་སུ་ཆུད་པའི་དེ་བཞིན་གཤེགས་པར་འགྱུར་བ་ནི་ངོ་མཚར་ཆེ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is amazing that in this way, by merely apprehending the names of these thus-gone ones, these noble sons and daughters will have taken hold of unsurpassed, completely perfect awakening and become thus-gone ones who have understood everything through knowing all phenomena just as they are.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-137">
+    <prop type="location-id">UT22084-068-003-126</prop>
+    <tuv xml:lang="bo">
+                <seg>སུ་ཞིག་སངས་རྒྱས་ལ་དད་པར་མི་འགྱུར་ཞེས་སྨྲས་སོ། །དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་ལ་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Who would not then develop faith in the Buddha?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-138">
     <prop type="location-id">UT22084-068-003-127</prop>
     <tuv xml:lang="bo">
-                <seg>རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་དེ་དག་སངས་རྒྱས་ཀྱིས་བྱིན་གྱིས་བརླབས་པ་དང་། སྔོན་གྱི་རྒྱལ་བ་ལ་ལྷག་པར་བྱ་བ་བྱས་པ་ཡིན་པར་རིག་པར་བྱའོ། ། དེ་དག་ལ་འཆི་བའི་འཇིགས་པ་མི་འབྱུང་བར་རིག་པར་བྱའོ། ། དེ་དག་གཤིས་ངན་དུ་འཆི་བར་མི་འགྱུར་རོ། ། དེ་དག་ཕ་རོལ་གྱི་གནོད་པས་འཆི་བར་མི་འགྱུར་རོ། ། དེ་དག་ལ་ཆུ་དང་། ཆོམ་རྐུན་དང་། དུག་དང་། མཚོན་གྱིས་འཇིགས་པ་མི་འབྱུང་བར་ཡིད་ཆེས་པར་བྱའོ། །</seg>
+                <seg>ཀུན་དགའ་བོ་བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པའི་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་ལ་ལ་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ཐོས་ནས་འཛིན་པར་བྱེད། འཆང་བར་བྱེད། ཀློག་པར་བྱེད། ཀུན་ཆུབ་པར་བྱེད་ཅིང་། གཞན་དག་ལ་ཡང་རྒྱ་ཆེར་ཡང་དག་པར་རབ་ཏུ་སྟོན་པར་བྱེད་པ་དང་། ཐ་ན་གླེགས་བམ་ལ་བྲིས་ཏེ་འཆང་བར་བྱེད་ན། རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་དེ་དག་སངས་རྒྱས་ཀྱིས་བྱིན་གྱིས་བརླབས་པ་དང་།</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-003-127"/>The Blessed One then said to the venerable Ānanda, “Ānanda, any noble sons or daughters having correctly entered the Bodhisattva Vehicle who hear this Dharma discourse and then remember it, uphold it, read it, master it, correctly teach it widely to others, or even so much as write it down and keep it with them—those noble sons or daughters are blessed by the Buddha. Regard them as having served previous victorious ones. Regard them as those who will not fear death. They will not die in a state of distress. They will not die from the harms of others. Trust that they will not experience fear of water, bandits, poison, or weapons.”</seg>
+                    <tei:milestone xml:id="UT22084-068-003-127"/>The Blessed One then said to the venerable Ānanda, “Ānanda, any noble sons or daughters having correctly entered the Bodhisattva Vehicle who hear this Dharma discourse and then remember it, uphold it, read it, master it, correctly teach it widely to others, or even so much as write it down and keep it with them—those noble sons or daughters are blessed by the Buddha.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-58">
+<tu id="UT22084-068-003-TU-139">
+    <prop type="location-id">UT22084-068-003-127</prop>
+    <tuv xml:lang="bo">
+                <seg>སྔོན་གྱི་རྒྱལ་བ་ལ་ལྷག་པར་བྱ་བ་བྱས་པ་ཡིན་པར་རིག་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Regard them as having served previous victorious ones.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-140">
+    <prop type="location-id">UT22084-068-003-127</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དག་ལ་འཆི་བའི་འཇིགས་པ་མི་འབྱུང་བར་རིག་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Regard them as those who will not fear death.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-141">
+    <prop type="location-id">UT22084-068-003-127</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དག་གཤིས་ངན་དུ་འཆི་བར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will not die in a state of distress.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-142">
+    <prop type="location-id">UT22084-068-003-127</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དག་ཕ་རོལ་གྱི་གནོད་པས་འཆི་བར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will not die from the harms of others.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-143">
+    <prop type="location-id">UT22084-068-003-127</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དག་ལ་ཆུ་དང་། ཆོམ་རྐུན་དང་། དུག་དང་། མཚོན་གྱིས་འཇིགས་པ་མི་འབྱུང་བར་ཡིད་ཆེས་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Trust that they will not experience fear of water, bandits, poison, or weapons.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-144">
     <prop type="location-id">UT22084-068-003-128</prop>
     <tuv xml:lang="bo">
-                <seg>དེ་ནས་ལྷའི་དབང་པོ་བརྒྱ་བྱིན་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་ཀྱི་བསྲུང་བ་ལུང་བསྟན་པ་འདི་ལྟ་བུ་འདི་ཤེས་ནས་ ཆོས་ཀྱི་རྣམ་གྲངས་འདི་གཟུང་བའི་ཕྱིར་ལྷའི་བུ་སྟོང་ཚང་བས་ཡོངས་སུ་བསྐོར་ཅིང་མདུན་དུ་བདར་ནས་ བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ ཕྱིན་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་གཉིས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ བཅོམ་ལྡན་འདས་ལ་ལན་གསུམ་བསྐོར་བ་བྱས་ནས། བཅོམ་ལྡན་འདས་དང་སྲོག་ཆགས་སྟོང་ཚང་བ་གང་དག་བཅོམ་ལྡན་འདས་<tei:ref folio="F.12.b"/>ཀྱིས་མ་འོངས་པའི་དུས་ན་བླ་ན་ མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་ལུང་བསྟན་པ་དེ་དག་ལ་ལྷའི་ཙན་དན་གྱི་ཕྱེ་མ་དང་། ལྷའི་མེ་ཏོག་མན་དཱ་ར་བ་དང་། མན་དཱ་ར་བ་ཆེན་པོ་རྣམས་ཀྱིས་མངོན་པར་གཏོར་ནས་ ཐལ་མོ་སྦྱར་ཏེ་</seg>
+                <seg>དེ་ནས་ལྷའི་དབང་པོ་བརྒྱ་བྱིན་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་ཀྱི་བསྲུང་བ་ལུང་བསྟན་པ་འདི་ལྟ་བུ་འདི་ཤེས་ནས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་གཟུང་བའི་ཕྱིར་ལྷའི་བུ་སྟོང་ཚང་བས་ཡོངས་སུ་བསྐོར་ཅིང་མདུན་དུ་བདར་ནས་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་པ་དང་།</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-003-128"/>Then Śakra, lord of the gods, the protector of the bodhisattva great beings, having heard such a prophecy as this, in order to maintain this Dharma discourse, went to where the Blessed One was, surrounded and escorted by a full thousand gods. After bowing his head to the feet of the Blessed One and circumambulating the Blessed One three times, he strewed divine sandalwood powder, divine mandārava flowers, and great mandārava flowers toward the Blessed One and all the thousand living beings who had been prophesied by the Blessed One to attain unsurpassed, completely perfect awakening in the future. Then, with his palms joined, he sat to one side and spoke these words:</seg>
+                    <tei:milestone xml:id="UT22084-068-003-128"/>Then Śakra, lord of the gods, the protector of the bodhisattva great beings, having heard such a prophecy as this, in order to maintain this Dharma discourse, went to where the Blessed One was, surrounded and escorted by a full thousand gods.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-59">
+<tu id="UT22084-068-003-TU-145">
+    <prop type="location-id">UT22084-068-003-128</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་གཉིས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ། བཅོམ་ལྡན་འདས་ལ་ལན་གསུམ་བསྐོར་བ་བྱས་ནས། བཅོམ་ལྡན་འདས་དང་སྲོག་ཆགས་སྟོང་ཚང་བ་གང་དག་བཅོམ་ལྡན་འདས་<tei:ref folio="F.12.b"/>ཀྱིས་མ་འོངས་པའི་དུས་ན་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་ལུང་བསྟན་པ་དེ་དག་ལ་ལྷའི་ཙན་དན་གྱི་ཕྱེ་མ་དང་། ལྷའི་མེ་ཏོག་མན་དཱ་ར་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>After bowing his head to the feet of the Blessed One and circumambulating the Blessed One three times, he strewed divine sandalwood powder, divine mandārava flowers, and great mandārava flowers toward the Blessed One and all the thousand living beings who had been prophesied by the Blessed One to attain unsurpassed, completely perfect awakening in the future.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-146">
+    <prop type="location-id">UT22084-068-003-128</prop>
+    <tuv xml:lang="bo">
+                <seg>མན་དཱ་ར་བ་ཆེན་པོ་རྣམས་ཀྱིས་མངོན་པར་གཏོར་ནས་ཐལ་མོ་སྦྱར་ཏེ་ཕྱོགས་གཅིག་ཏུ་འདུག་ནས་འདི་སྐད་ཅེས་ཀྱང་གསོལ་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then, with his palms joined, he sat to one side and spoke these words:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-147">
     <prop type="location-id">UT22084-068-003-129</prop>
     <tuv xml:lang="bo">
-                <seg>ཕྱོགས་གཅིག་ཏུ་འདུག་ནས་ འདི་སྐད་ཅེས་ཀྱང་གསོལ་ཏོ། ། བཅོམ་ལྡན་འདས་བདག་གིས་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་འཛིན་པར་བགྱིད་པ་དང་། འཆང་བར་བགྱིད་པ་དང་། ཀློག་པར་བགྱིད་པ་དང་། ཀུན་ཆུབ་པར་བགྱིད་པ་དེ་དག་བསྲུང་བར་བགྱིའོ། ། བཅོམ་ལྡན་འདས་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་དེ་དག་ཁྱིམ་ན་མཆིས་སམ། དགོན་པ་ན་མཆིས་སམ། ཤིང་དྲུང་ན་མཆིས་སམ། ཁྱིམ་སྟོང་པ་ན་མཆིས་སམ། འབྲོག་དགོན་པ་ན་མཆིས་སམ། ལམ་དང་ལམ་གོལ་བ་ན་མཆིས་སམ། གཉིད་ལོག་གམ་གཉིད་མ་ལོག་པ་དག་ན་ ཡང་དེ་དག་ལ་ཕ་རོལ་གྱི་གནོད་པས་འགུམ་པར་མི་འགྱུར་བར་བདག་གིས་བསྲུང་བར་བགྱིའོ། ། དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་ལ་བཀའ་སྩལ་པ། ཀུན་དགའ་བོ་ད་ལྟར་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་བཞུགས་ཏེ།</seg>
+                <seg>བཅོམ་ལྡན་འདས་བདག་གིས་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་འཛིན་པར་བགྱིད་པ་དང་། འཆང་བར་བགྱིད་པ་དང་། ཀློག་པར་བགྱིད་པ་དང་། ཀུན་ཆུབ་པར་བགྱིད་པ་དེ་དག་བསྲུང་བར་བགྱིའོ། །བཅོམ་ལྡན་འདས་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་དེ་དག་ཁྱིམ་ན་མཆིས་སམ། དགོན་པ་ན་མཆིས་སམ།</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-003-129"/>“Blessed One, I will protect any noble sons and daughters who remember this Dharma discourse and who uphold it, read it, and master it. Blessed One, whether those noble sons and daughters are in a house, in a monastery, under a tree, in an empty house, in the remote wilderness, on a path, or astray of a path, whether they are asleep or awakened from sleep, I will protect them so that they will not perish from the harms of others.”</seg>
+                    <tei:milestone xml:id="UT22084-068-003-129"/>“Blessed One, I will protect any noble sons and daughters who remember this Dharma discourse and who uphold it, read it, and master it.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-60">
+<tu id="UT22084-068-003-TU-148">
+    <prop type="location-id">UT22084-068-003-129</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤིང་དྲུང་ན་མཆིས་སམ། ཁྱིམ་སྟོང་པ་ན་མཆིས་སམ། འབྲོག་དགོན་པ་ན་མཆིས་སམ། ལམ་དང་ལམ་གོལ་བ་ན་མཆིས་སམ། གཉིད་ལོག་གམ་གཉིད་མ་ལོག་པ་དག་ན་ཡང་དེ་དག་ལ་ཕ་རོལ་གྱི་གནོད་པས་འགུམ་པར་མི་འགྱུར་བར་བདག་གིས་བསྲུང་བར་བགྱིའོ། །དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་ལ་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Blessed One, whether those noble sons and daughters are in a house, in a monastery, under a tree, in an empty house, in the remote wilderness, on a path, or astray of a path, whether they are asleep or awakened from sleep, I will protect them so that they will not perish from the harms of others.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-149">
     <prop type="location-id">UT22084-068-003-130</prop>
     <tuv xml:lang="bo">
-                <seg>འཚོ་ཞིང་གཞེས་པ་ལ་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་ཞིག་གིས་ཇི་སྲིད་འཚོའི་བར་དུ་ཆོས་གོས་དང་། བསོད་སྙོམས་དང་། གནས་མལ་དང་། སྙུན་གྱི་གསོས་སྨན་དང་། ཡོ་བྱད་རྣམས་ཀྱིས་བསྙེན་བཀུར་བྱེད་ན ཀུན་དགའ་བོ་དེ་ཙམ་གྱིས་ནི་དེ་བཞིན་གཤེགས་པ་ལ་བཀུར་སྟི་བྱས་པར་མི་འགྱུར། བླ་མར་བྱས་པར་མི་འགྱུར། རི་མོར་བྱས་པར་མི་འགྱུར། མཆོད་པ་བྱས་པར་མི་འགྱུར་གྱི། བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པའི་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་ཞིག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ཐོས་ནས་ འཛིན་པར་བྱེད་དམ། འཆང་བར་བྱེད་དམ། ཀློག་པར་བྱེད་དམ། ཀུན་ཆུབ་པར་བྱེད་དམ། གཞན་དག་ལ་ཡང་རྒྱ་ཆེར་ཡང་དག་པར་རབ་ཏུ་སྟོན་ཏམ། ཐ་ན་གླེགས་བམ་ལ་བྲིས་ཏེ་ འཆང་ན། ཀུན་དགའ་བོ་<tei:ref folio="F.13.a"/>དེ་ཙམ་གྱིས་ནི་དེ་བཞིན་གཤེགས་པ་ལ་བཀུར་སྟི་དམ་པ་དང་། བླ་མར་བྱ་བ་དམ་པ་དང་། རི་མོར་བྱ་བ་དམ་པ་དང་། མཆོད་པ་དམ་པས་བཀུར་སྟི་བྱས་པ་ཡིན། བླ་མར་བྱས་པ་ཡིན། རི་མོར་བྱས་པ་ཡིན།</seg>
+                <seg>ཀུན་དགའ་བོ་ད་ལྟར་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་བཞུགས་ཏེ། འཚོ་ཞིང་གཞེས་པ་ལ་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་ཞིག་གིས་ཇི་སྲིད་འཚོའི་བར་དུ་ཆོས་གོས་དང་། བསོད་སྙོམས་དང་། གནས་མལ་དང་། སྙུན་གྱི་གསོས་སྨན་དང་།</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-003-130"/>The Blessed One then said to the venerable Ānanda, “Ānanda, even if some noble sons and daughters were to offer robes, alms, accommodations, medicines for illness, and other necessities throughout the entire life of the thus-gone, worthy, completely perfect Buddha who presently dwells here, alive and well, that alone, Ānanda, would not be paying respect to the Thus-Gone One. It would not be honoring him, it would not be venerating him, and it would not be offering to him. If any noble sons and daughters who have correctly entered the Bodhisattva Vehicle hear this Dharma discourse and then remember it, uphold it, read it, master it, correctly teach it widely to others, or even so much as write it down and keep it with them, by merely that, Ānanda—through that supreme paying of respect to the Thus-Gone One, that supreme honoring of him, that supreme veneration of him, and that supreme offering to him—it is paying respect to him, honoring him, venerating him, and offering to him.”</seg>
+                    <tei:milestone xml:id="UT22084-068-003-130"/>The Blessed One then said to the venerable Ānanda, “Ānanda, even if some noble sons and daughters were to offer robes, alms, accommodations, medicines for illness, and other necessities throughout the entire life of the thus-gone, worthy, completely perfect Buddha who presently dwells here, alive and well, that alone, Ānanda, would not be paying respect to the Thus-Gone One.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-61">
+<tu id="UT22084-068-003-TU-150">
+    <prop type="location-id">UT22084-068-003-130</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡོ་བྱད་རྣམས་ཀྱིས་བསྙེན་བཀུར་བྱེད་ན། ཀུན་དགའ་བོ་དེ་ཙམ་གྱིས་ནི་དེ་བཞིན་གཤེགས་པ་ལ་བཀུར་སྟི་བྱས་པར་མི་འགྱུར། བླ་མར་བྱས་པར་མི་འགྱུར། རི་མོར་བྱས་པར་མི་འགྱུར། མཆོད་པ་བྱས་པར་མི་འགྱུར་གྱི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It would not be honoring him, it would not be venerating him, and it would not be offering to him.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-151">
+    <prop type="location-id">UT22084-068-003-130</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་ལ་ཡང་དག་པར་ཞུགས་པའི་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་ཞིག་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ཐོས་ནས་འཛིན་པར་བྱེད་དམ། འཆང་བར་བྱེད་དམ། ཀློག་པར་བྱེད་དམ། ཀུན་ཆུབ་པར་བྱེད་དམ། གཞན་དག་ལ་ཡང་རྒྱ་ཆེར་ཡང་དག་པར་རབ་ཏུ་སྟོན་ཏམ། ཐ་ན་གླེགས་བམ་ལ་བྲིས་ཏེ་འཆང་ན། ཀུན་དགའ་བོ་<tei:ref folio="F.13.a"/>དེ་ཙམ་གྱིས་ནི་དེ་བཞིན་གཤེགས་པ་ལ་བཀུར་སྟི་དམ་པ་དང་། བླ་མར་བྱ་བ་དམ་པ་དང་། རི་མོར་བྱ་བ་དམ་པ་དང་། མཆོད་པ་དམ་པས་བཀུར་སྟི་བྱས་པ་ཡིན། བླ་མར་བྱས་པ་ཡིན། རི་མོར་བྱས་པ་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If any noble sons and daughters who have correctly entered the Bodhisattva Vehicle hear this Dharma discourse and then remember it, uphold it, read it, master it, correctly teach it widely to others, or even so much as write it down and keep it with them, by merely that, Ānanda—through that supreme paying of respect to the Thus-Gone One, that supreme honoring of him, that supreme veneration of him, and that supreme offering to him—it is paying respect to him, honoring him, venerating him, and offering to him.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-152">
     <prop type="location-id">UT22084-068-003-131</prop>
     <tuv xml:lang="bo">
-                <seg>མཆོད་པ་བྱས་པ་ཡིན་ནོ། ། དེ་ནས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་སྟན་ལས་ལངས་ཏེ། བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་བྱས་ནས་པུས་མོ་གཡས་པའི་ལྷ་ང་ས་ལ་བཙུགས་ཏེ། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། ། བཅོམ་ལྡན་འདས་ཆོས་ཀྱི་རྣམ་གྲངས་འདིའི་མིང་ཅི་ལགས། འདི་ཇི་ལྟར་གཟུང་བར་བགྱི།</seg>
+                <seg>མཆོད་པ་བྱས་པ་ཡིན་ནོ། །དེ་ནས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་སྟན་ལས་ལངས་ཏེ། བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་བྱས་ནས་པུས་མོ་གཡས་པའི་ལྷ་ང་ས་ལ་བཙུགས་ཏེ། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་ཆོས་ཀྱི་རྣམ་གྲངས་འདིའི་མིང་ཅི་ལགས།</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-003-131"/>Then the venerable Ānanda rose from his seat, draped his upper robe over one shoulder, knelt on his right knee, bowed toward the Blessed One with palms joined, and spoke these words to the Blessed One: “Blessed One, what is the name of this Dharma discourse? How should we remember it?”</seg>
+                    <tei:milestone xml:id="UT22084-068-003-131"/>Then the venerable Ānanda rose from his seat, draped his upper robe over one shoulder, knelt on his right knee, bowed toward the Blessed One with palms joined, and spoke these words to the Blessed One: “Blessed One, what is the name of this Dharma discourse?</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-62">
+<tu id="UT22084-068-003-TU-153">
+    <prop type="location-id">UT22084-068-003-131</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ཇི་ལྟར་གཟུང་བར་བགྱི། དེ་སྐད་ཅེས་གསོལ་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How should we remember it?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-154">
     <prop type="location-id">UT22084-068-003-132</prop>
     <tuv xml:lang="bo">
-                <seg>དེ་སྐད་ཅེས་གསོལ་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། ། ཀུན་དགའ་བོ་དེའི་ཕྱིར་ཁྱོད་ཀྱིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ཕྱོགས་བཅུའི་མུན་པ་རྣམ་པར་སེལ་བ་ཞེས་བྱ་བར་ཟུང་ཤིག །འདི་དེ་བཞིན་གཤེགས་པའི་མཚན་ཡང་དག་པར་བརྗོད་པ་ཞེས་བྱ་བ་དང་། དངོས་པོ་མེད་པར་རྟོགས་པ་ཞེས་བྱ་བ་དང་། མཚན་ཉིད་མེད་པར་རྟོགས་པ་ཞེས་བྱ་བར་ཡང་ཟུང་ཤིག །བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས</seg>
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །ཀུན་དགའ་བོ་དེའི་ཕྱིར་ཁྱོད་ཀྱིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ཕྱོགས་བཅུའི་མུན་པ་རྣམ་པར་སེལ་བ་ཞེས་བྱ་བར་ཟུང་ཤིག །</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
-                    <tei:milestone xml:id="UT22084-068-003-132"/>The Blessed One then replied to the venerable Ānanda, “In this case, Ānanda, remember this Dharma discourse as Dispelling the Darkness of the Ten Directions. Remember it also as Reciting the Names of the Thus-Gone Ones, as Realization of Insubstantiality, and as Realization of the Lack of Characteristics.”</seg>
+                    <tei:milestone xml:id="UT22084-068-003-132"/>The Blessed One then replied to the venerable Ānanda, “In this case, Ānanda, remember this Dharma discourse as Dispelling the Darkness of the Ten Directions.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-63">
+<tu id="UT22084-068-003-TU-155">
+    <prop type="location-id">UT22084-068-003-132</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་དེ་བཞིན་གཤེགས་པའི་མཚན་ཡང་དག་པར་བརྗོད་པ་ཞེས་བྱ་བ་དང་། དངོས་པོ་མེད་པར་རྟོགས་པ་ཞེས་བྱ་བ་དང་། མཚན་ཉིད་མེད་པར་རྟོགས་པ་ཞེས་བྱ་བར་ཡང་ཟུང་ཤིག །བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Remember it also as Reciting the Names of the Thus-Gone Ones, as Realization of Insubstantiality, and as Realization of the Lack of Characteristics.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-068-003-TU-156">
     <prop type="location-id">UT22084-068-003-133</prop>
     <tuv xml:lang="bo">
-                <seg>ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་དང་། ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་དང་། ཤཱཀྱ་གཞོན་ནུ་བཞིན་རབ་གསལ་དང་། སྲོག་ཆགས་སྟོང་ཚང་བ་དེ་དང་། ལྷའི་དབང་པོ་བརྒྱ་བྱིན་དང་། དགེ་སློང་དེ་དག་དང་། བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ། །</seg>
+                <seg>ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་དང་། ཤཱཀྱ་གཞོན་ནུ་བཞིན་རབ་གསལ་དང་། སྲོག་ཆགས་སྟོང་ཚང་བ་དེ་དང་། ལྷའི་དབང་པོ་བརྒྱ་བྱིན་དང་། དགེ་སློང་དེ་དག་དང་། བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ།</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
                     <tei:milestone xml:id="UT22084-068-003-133"/>The Blessed One having spoken thus, the venerable Ānanda, the venerable Śāriputra, the Śākya youth Shining Countenance, all thousand living beings, the lord of gods Śakra, those monks and bodhisattvas, and the world with its gods, humans, asuras, and gandharvas rejoiced and praised the words of the Blessed One.</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-64">
+<tu id="UT22084-068-003-TU-157">
     <prop type="location-id">UT22084-068-003-134</prop>
     <tuv xml:lang="bo">
-                <seg>འཕགས་པ་ཕྱོགས་བཅུའི་མུན་པ་རྣམ་པར་སེལ་བ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།། །།</seg>
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ། །འཕགས་པ་ཕྱོགས་བཅུའི་མུན་པ་རྣམ་པར་སེལ་བ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།། །།</seg>
             </tuv>
     <tuv xml:lang="en">
                 <seg>
                     <tei:milestone xml:id="UT22084-068-003-134"/>This completes the noble Mahāyāna sūtra “Dispelling the Darkness of the Ten Directions.”</seg>
             </tuv>
 </tu>
-<tu id="UT22084-068-003-TU-65">
+<tu id="UT22084-068-003-TU-158">
     <prop type="location-id">UT22084-068-003-135</prop>
     <tuv xml:lang="bo">
                 <seg>རྒྱ་གར་གྱི་མཁན་པོ་བི་ཤུད་དྷ་སིང་ཧ་དང་། ལོཙྪ་བ་བན་དེ་རྩངས་དེ་བེན་དྲ་རཀྵི་ཏས་བསྒྱུར། ཞུ་ཆེན་གྱི་ལོཙྪ་བ་བན་དེ་ཀླུའི་རྒྱལ་མཚན་གྱིས་ཞུ་ཆེན་བགྱིས་ཏེ་གཏན་ལ་ཕབ་པ།​། །​།</seg>
@@ -641,6 +1478,7 @@
                     <tei:milestone xml:id="UT22084-068-003-135"/>Translated by the Indian preceptor Viśuddhasiṃha and the translator Bandé Tsang Devendrarakṣita. Edited and finalized by the chief editor and translator Bandé Lui Gyaltsen.</seg>
             </tuv>
 </tu>
+
 
 </body>
 </tmx>
