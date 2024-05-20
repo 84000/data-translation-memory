@@ -4058,24 +4058,13 @@
                 <seg>“ ‘Lord, do not abandon loving kindness And do not become void by nature! If separated from you, I will perish, And so will all beings—each and every one of them.’</seg>
             </tuv>
         </tu>
-        <tu id="UT22084-080-015-TU-339">
-            <prop type="folio">F.309.b</prop>
-            <prop type="position">165</prop>
-            <prop type="revision">v-2.28.0-2020</prop>
-            <prop type="unmatched">v-2.28.18-2023</prop>
-            <tuv xml:lang="bo">
-                <seg>ཁྱབ་བདག་བྱམས་པ་རྣམ་སྤངས་ནས། །སྟོད་པའི་རང་བཞིན་དུ་མ་མཛད། །</seg>
-            </tuv>
-            <tuv xml:lang="en">
-                <seg>“ ‘Lord, do not abandon loving kindness</seg>
-            </tuv>
-        </tu>
+        
         
         <tu id="UT22084-080-015-TU-341">
             <prop type="folio">F.309.b</prop>
             <prop type="position">237</prop>
+            <prop type="location-id">UT22084-080-015-127</prop>
             <prop type="revision">v-2.28.0-2020</prop>
-            <prop type="unmatched">v-2.28.18-2023</prop>
             <tuv xml:lang="bo">
                 <seg>ཁྱོད་དང་རྣམ་བྲལ་བདག་འགུམ་པས། །</seg>
             </tuv>
@@ -4110,8 +4099,8 @@
         <tu id="UT22084-080-015-TU-344">
             <prop type="folio">F.309.b</prop>
             <prop type="position">390</prop>
+            <prop type="location-id">UT22084-080-015-128</prop>
             <prop type="revision">v-2.28.0-2020</prop>
-            <prop type="unmatched">v-2.28.18-2023</prop>
             <tuv xml:lang="bo">
                 <seg>ཁྱབ་བདག་སྟོང་པར་མ་མཛད་ཅིག །</seg>
             </tuv>
@@ -4119,18 +4108,7 @@
                 <seg>O lord, do not become void,</seg>
             </tuv>
         </tu>
-        <tu id="UT22084-080-015-TU-345">
-            <prop type="folio">F.309.b</prop>
-            <prop type="position">418</prop>
-            <prop type="revision">v-2.28.0-2020</prop>
-            <prop type="unmatched">v-2.28.18-2023</prop>
-            <tuv xml:lang="bo">
-                <seg>བདག་གི་ལུས་ནི་སྡུག་བསྔལ་བས། །འཚོ་བ་དང་བྲལ་མ་མཛད་ཅིག །</seg>
-            </tuv>
-            <tuv xml:lang="en">
-                <seg>Lest my suffering body</seg>
-            </tuv>
-        </tu>
+        
         
         <tu id="UT22084-080-015-TU-347">
             <prop type="folio">F.309.b</prop>
@@ -4159,21 +4137,21 @@
         <tu id="UT22084-080-015-TU-349">
             <prop type="folio">F.309.b</prop>
             <prop type="position">511</prop>
+            <prop type="location-id">UT22084-080-015-129</prop>
             <prop type="revision">v-2.28.0-2020</prop>
-            <prop type="unmatched">v-2.28.18-2023</prop>
             <tuv xml:lang="bo">
                 <seg>དགའ་བ་སྤངས་ནས་སྟོང་པར་འཇུག །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>should you abandon sympathetic ‌joy</seg>
+                <seg>should you abandon sympathetic ‌joy</seg>
             </tuv>
         </tu>
         
         <tu id="UT22084-080-015-TU-351">
             <prop type="folio">F.309.b</prop>
             <prop type="position">592</prop>
+            <prop type="location-id">UT22084-080-015-129</prop>
             <prop type="revision">v-2.28.0-2020</prop>
-            <prop type="unmatched">v-2.28.18-2023</prop>
             <tuv xml:lang="bo">
                 <seg>འཇིག་རྟེན་མ་ལུས་པ་རྣམས་དང་། །བདག་གི་ཡིད་ནི་ཁྱོད་ལ་སྡོད། །</seg>
             </tuv>
@@ -4208,8 +4186,8 @@
         <tu id="UT22084-080-015-TU-354">
             <prop type="folio">F.309.b</prop>
             <prop type="position">725</prop>
+            <prop type="location-id">UT22084-080-015-130</prop>
             <prop type="revision">v-2.28.0-2020</prop>
-            <prop type="unmatched">v-2.28.18-2023</prop>
             <tuv xml:lang="bo">
                 <seg>སྟོང་པའི་རང་བཞིན་ཉིད་སྤོངས་ལ། །</seg>
             </tuv>
@@ -4220,8 +4198,8 @@
         <tu id="UT22084-080-015-TU-355">
             <prop type="folio">F.309.b</prop>
             <prop type="position">753</prop>
+            <prop type="location-id">UT22084-080-015-130</prop>
             <prop type="revision">v-2.28.0-2020</prop>
-            <prop type="unmatched">v-2.28.18-2023</prop>
             <tuv xml:lang="bo">
                 <seg>བདག་ལ་མཉམ་ཉིད་སྦྱོར་བར་མཛོད། །</seg>
             </tuv>
@@ -13583,8 +13561,8 @@
         <tu id="UT22084-080-015-TU-1138">
             <prop type="folio">F.323.a</prop>
             <prop type="position">1658</prop>
+            <prop type="location-id">UT22084-080-015-428</prop>
             <prop type="revision">v-2.28.0-2020</prop>
-            <prop type="unmatched">v-2.28.18-2023</prop>
             <tuv xml:lang="bo">
                 <seg>རིམས་ཐམས་ཅད་འཇོམས་པར་བྱེད་དོ། །</seg>
             </tuv>
@@ -13847,8 +13825,8 @@
         <tu id="UT22084-080-015-TU-1160">
             <prop type="folio">F.323.b</prop>
             <prop type="position">491</prop>
+            <prop type="location-id">UT22084-080-015-432</prop>
             <prop type="revision">v-2.28.0-2020</prop>
-            <prop type="unmatched">v-2.28.18-2023</prop>
             <tuv xml:lang="bo">
                 <seg>ཆར་རེངས་པར་འགྱུར་རོ། །</seg>
             </tuv>
