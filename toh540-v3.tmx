@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="linguae-dharmae/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-088-035" eft:text-version="v-1.0.3-2023"/>
+<body>
+<tu id="UT22084-088-035-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.101.a"/>༄༅། །རྒྱ་གར་སྐད་དུ། སུ་རཱུ་པ་ནཱ་མ་དྷཱ་ར་ཎཱི། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-088-035-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>སུ་རཱུ་པ་ཞེས་བྱ་བའི་གཟུངས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Dhāraṇī “Surūpa”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-035-TU-3">
+    <prop type="location-id">UT22084-088-035-65</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-035-65"/>Obeisance to all buddhas and bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-035-TU-4">
+    <prop type="location-id">UT22084-088-035-65</prop>
+    <tuv xml:lang="bo">
+                <seg>ནམཿསུ་རཱུ་པཱ་ཡ། ཏ་ཐཱ་ག་ཏཱ་ཡ། ཨརྷ་ཏེ་སཾམྱཀྶཾ་བུདྡྷཱ་ཡ། ཏདྱ་ཐཱ། ཨོཾ་སུ་རུ་སུ་རུ། པྲ་སུ་རུ་པྲ་སུ་རུ། ཏ་ར་ཏ་ར། བྷ་ར་བྷ་ར། སཾ་བྷ་ར་སཾ་བྷ་ར། སྨ་ར་སྨ་ར། སནྟརྤ་ཡ་སནྟརྤ་ཡ། སརྦ་པྲེ་ཏཱ་ནཱཾ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>namaḥ surūpāya tathāgatāyārhate samyaksaṃbuddhāya | tadyathā | oṃ suru suru prasuru prasuru tara tara bhara bhara saṃbhara saṃbhara smara smara saṃtarpaya saṃtarpaya sarva­pretānāṃ svāhā |</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-035-TU-5">
+    <prop type="location-id">UT22084-088-035-68</prop>
+    <tuv xml:lang="bo">
+                <seg>གཟུངས་འདིས་ཆུ་དང་བཅས་པའི་ཟན་ལ་ལན་བདུན་ཡོངས་སུ་བཟླས་ཏེ་ལག་པ་གཡོན་པས་སེ་གོལ་གྱི་སྒྲ་ལན་གསུམ་དུ་བྱས་ནས་ཡི་དགས་ཐམས་ཅད་ལ་དབེན་པའི་ས་ཕྱོགས་སུ་སྦྱིན་པར་བྱ་ཞིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-035-68"/>One should recite this spell seven times over a meal of rice together with water.Then, after having snapped the fingers of the left hand three times, one should offer it in a secluded place to all pretas and</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-035-TU-6">
+    <prop type="location-id">UT22084-088-035-68</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་ཀྱང་བརྗོད་པར་བྱ་སྟེ། སྐབས་ཚོལ་བ་དང་གླགས་ལྟ་བ་རྣམས་དེངས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>say the following: “Off with you, you who seek weak points and are looking for an opportunity!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-035-TU-7">
+    <prop type="location-id">UT22084-088-035-68</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་གྱི་ཁམས་ཐམས་ཅད་ན་གནས་པའི་ཡི་དགས་རྣམས་ལ་བཟའ་བ་འདི་བདག་གིས་སྦྱིན་པར་བགྱིའོ་ཞེས་པའོ། །<tei:ref folio="F.101.b"/>
+                </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I hereby donate food to pretas residing in every world system!”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-035-TU-8">
+    <prop type="location-id">UT22084-088-035-68</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟས་མ་ཟོས་པའི་སྔོན་རོལ་ཉིད་དུ་སྦྱིན་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One should make the donation before one has eaten.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-035-TU-9">
+    <prop type="location-id">UT22084-088-035-68</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་ན་ཡི་དགས་ཐམས་ཅད་ལ་འབྲས་བྲེ་བོ་ཆེ་རེ་རེའི་བཟའ་བ་སོ་སོར་བྱིན་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The outcome is that the pretas will each be given a bushel of rice.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-035-TU-10">
+    <prop type="location-id">UT22084-088-035-71</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་བྱས་ན་སྐྱེ་བ་ནས་སྐྱེ་བར་ཡང་ཉམ་ཆུང་བར་མི་འགྱུར་རོ། །དབུལ་པོར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-035-71"/>If one performs it in this way, in each and every rebirth one will never be feeble or poor.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-035-TU-11">
+    <prop type="location-id">UT22084-088-035-71</prop>
+    <tuv xml:lang="bo">
+                <seg>སྟོབས་ཆེ་བ་དང་། མཛེས་པ་དང་། མཐོང་ན་དགའ་བ་དང་། ཕྱུག་ཅིང་ལོངས་སྤྱོད་ཆེ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Rather, one will possess great might, beauty, a countenance lovely to behold, much wealth, and great enjoyments.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-035-TU-12">
+    <prop type="location-id">UT22084-088-035-71</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚེ་རིང་ཞིང་ནད་མེད་པ་དང་། མྱུར་དུ་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One will have a long lifespan, freedom from illness, and will swiftly attain unsurpassed, perfect awakening.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-035-TU-13">
+    <prop type="location-id">UT22084-088-035-71</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤི་འཕོས་ནས་ཀྱང་བདེ་བ་ཅན་གྱི་འཇིག་རྟེན་གྱི་ཁམས་སུ་སྐྱེ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>After death, one will be reborn in the realm of Sukhāvatī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-035-TU-14">
+    <prop type="location-id">UT22084-088-035-72</prop>
+    <tuv xml:lang="bo">
+                <seg>​གཟུགས་ལེགས་ཞེས་བྱ་བའི་གཟུངས་རྫོགས་སོ།​།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-035-72"/>Here ends “The Dhāraṇī ‘Surūpa’.”</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

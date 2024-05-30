@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="linguae-dharmae/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-043-012" eft:text-version="v-1.0.3-2023"/>
+<body>
+<tu id="UT22084-043-012-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.222.a"/>༄༅༅། །འཕགས་པ་དཀོན་མཆོག་བརྩེགས་པ་ཆེན་པོའི་ཆོས་ཀྱི་རྣམ་གྲངས་ལེའུ་སྟོང་ཕྲག་བརྒྱ་པ་ལས་ལེའུ་སུམ་ཅུ་རྩ་གཅིག་པ་སྟེ། གང་གཱའི་མཆོག་གིས་ཞུས་པ་ལུང་བསྟན་པ། བམ་པོ་ཕྱེད་པ། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་གངྒོ་ཏྟ་ར་པ་རི་པྲྀ་ཙྪཱ་ནཱ་མ་མ་ཧཱ་ཡཱ་ན་སཱུ་ཏྲ། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་གང་གཱའི་མཆོག་གིས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Noble Mahāyāna Sūtra The Questions of Gaṅgottarā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-3">
+    <prop type="location-id">UT22084-043-012-70</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-70"/>Homage to all buddhas and bodhisattvas!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-4">
+    <prop type="location-id">UT22084-043-012-70</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-5">
+    <prop type="location-id">UT22084-043-012-70</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མཉན་ཡོད་ན་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན་བཞུགས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One was dwelling in Prince Jeta’s Grove, Anāthapiṇḍada’s Park, near Śrāvastī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-6">
+    <prop type="location-id">UT22084-043-012-70</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཚེ་གྲོང་ཁྱེར་ཆེན་པོ་མཉན་ཡོད་ན་དགེ་བསྙེན་མ་གང་གཱའི་མཆོག་ཅེས་བྱ་བ་ཞིག་གནས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>At that time a laywoman named Gaṅgottarā was living in the great city of Śrāvastī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-7">
+    <prop type="location-id">UT22084-043-012-75</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་དགེ་བསྙེན་མ་གང་གཱའི་མཆོག་མཉན་ཡོད་ནས་བྱུང་ནས་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས་བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ་ཕྱོགས་གཅིག་ཏུ་འདུག་གོ །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-75"/>One day, the laywoman Gaṅgottarā left Śrāvastī and went to Prince Jeta’s Grove, Anāthapiṇḍada’s Park. When she arrived, she bowed down before the Blessed One with her head at his feet and, then she sat to one side.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-8">
+    <prop type="location-id">UT22084-043-012-77</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱོགས་གཅིག་ཏུ་འདུག་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་མཁྱེན་བཞིན་དུ་དགེ་བསྙེན་མ་གང་གཱའི་མཆོག་ལ་གང་གཱའི་མཆོག་ཁྱོད་ད་གཟོད་གང་ནས་འོངས་ཞེས་སྨྲས་སོ། །གང་གཱའི་མཆོག་གིས་གསོལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-77"/>Once she had sat down, the Blessed One asked the laywoman Gaṅgottarā a question, even though he already knew the answer: “From where have you just come, Gaṅgottarā?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-9">
+    <prop type="location-id">UT22084-043-012-79</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་གང་ཞིག་གིས་སྤྲུལ་པ་ལ་སྨྲས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-79"/>“Blessed One,” Gaṅgottarā replied, “if someone were to ask a magically created being, ‘From where have you just come?’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-10">
+    <prop type="location-id">UT22084-043-012-79</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྱོད་ད་གཟོད་གང་ནས་འོངས་ཞེས་དེ་སྐད་བགྱིས་ན་ཇི་སྐད་<tei:ref folio="F.222.b"/>ལན་འདེབས་པར་འགྱུར་ལགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>what would be the answer?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-11">
+    <prop type="location-id">UT22084-043-012-80</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། གང་གཱའི་མཆོག་སྤྲུལ་པ་ལ་ནི་འགྲེང་བ་མེད། འདུག་པ་མེད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-80"/>“Gaṅgottarā,” responded the Blessed One, “a magically created being neither stands nor sits.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-12">
+    <prop type="location-id">UT22084-043-012-80</prop>
+    <tuv xml:lang="bo">
+                <seg>ཉལ་བ་མེད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It does not lie down.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-13">
+    <prop type="location-id">UT22084-043-012-80</prop>
+    <tuv xml:lang="bo">
+                <seg>འོང་བ་མེད། འགྲོ་བ་མེད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It does not come or go.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-14">
+    <prop type="location-id">UT22084-043-012-80</prop>
+    <tuv xml:lang="bo">
+                <seg>འཆི་འཕོ་མེད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It does not die.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-15">
+    <prop type="location-id">UT22084-043-012-80</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐྱེ་བ་མེད་ན་འདི་ནས་འོངས་སོ་ཞེས་དེ་ཅི་ཞིག་སྟོན་པར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is not born. So, how could one declare that it has come from some place?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-16">
+    <prop type="location-id">UT22084-043-012-81</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་གཱའི་མཆོག་གིས་གསོལ་པ། བཅོམ་ལྡན་འདས་ཅི་ཆོས་ཐམས་ཅད་སྤྲུལ་པ་ལྟ་བུ་ལགས་སམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-81"/>“Blessed One,” asked Gaṅgottarā, “are all things like magical creations?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-17">
+    <prop type="location-id">UT22084-043-012-81</prop>
+    <tuv xml:lang="bo">
+                <seg>བཀའ་སྩལ་པ། གང་གཱའི་མཆོག་དེ་བཞིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>“It is so, Gaṅgottarā.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-18">
+    <prop type="location-id">UT22084-043-012-84</prop>
+    <tuv xml:lang="bo">
+                <seg>གསོལ་པ། བཅོམ་ལྡན་འདས་གལ་ཏེ་ཆོས་ཐམས་ཅད་སྤྲུལ་པ་ལྟ་བུ་ལགས་ན། གང་གཱའི་མཆོག་ཁྱོད་ད་གཟོད་གང་ནས་འོངས་ཞེས་ཅིའི་སླད་དུ་སྨྲ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-84"/>“Blessed One,” she responded, “if all things are like magical creations, why do you ask, ‘Laywoman Gaṅgottarā, from where have you just come?’ ”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-19">
+    <prop type="location-id">UT22084-043-012-85</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། གང་གཱའི་མཆོག་སྤྲུལ་པ་ནི་ངན་སོང་དུ་མི་འགྲོ །མཐོ་རིས་སུ་མི་འགྲོ །ཡོངས་སུ་མྱ་ངན་ལས་འདས་པར་མི་འགྲོ་ན་ཅི་གང་གཱའི་མཆོག་ཀྱང་ངན་སོང་དུ་མི་འགྲོ །མཐོ་རིས་སུ་མི་འགྲོ །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-85"/>“Gaṅgottarā,” the Blessed One answered, “since magically created beings do not go to the lower realms, and they do not go to higher realms, and they do not go to parinirvāṇa, do you, too, Gaṅgottarā, not go to the lower realms, or go to the higher realms, or go to parinirvāṇa?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-20">
+    <prop type="location-id">UT22084-043-012-87</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡོངས་སུ་མྱ་ངན་ལས་འདས་པར་མི་འགྲོ་འམ། གང་གཱའི་མཆོག་གིས་གསོལ་པ། བཅོམ་ལྡན་འདས་གལ་ཏེ་བདག་གིས་དགེ་བསྙེན་མ་གང་གཱའི་མཆོག་སྤྲུལ་པའི་རང་བཞིན་ལས་གཞན་ལགས་པར་མཐོང་ན་ནི་དགེ་བསྙེན་མ་གང་གཱའི་མཆོག་ངན་སོང་དུ་མཆི་བ་འམ་མཐོ་རིས་སུ་མཆི་བ་འམ་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པར་མཆི་བ་མ་ལགས་སོ་ཞེས་བདག་སྤྲུལ་པ་དང་བསྟུན་དུ་ཡང་མི་རུང་ལགས་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-87"/>“Blessed One,” Gaṅgottarā replied, “if I truly saw the laywoman Gaṅgottarā as being different in nature from a magical creation, then it would not be appropriate for me to compare myself to a magically created being by saying, ‘The laywoman Gaṅgottarā does not go to the lower realms, does not go to the higher realms, and does not go to parinirvāṇa.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-21">
+    <prop type="location-id">UT22084-043-012-87</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་བདག་གིས་དགེ་བསྙེན་མ་གང་གཱའི་མཆོག་སྤྲུལ་པའི་རང་བཞིན་ལས་གཞན་ལགས་པར་མ་མཐོང་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Nevertheless, Blessed One, I do not see myself as being different in nature from a magical creation.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-22">
+    <prop type="location-id">UT22084-043-012-87</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་དེ་ལྟར་བདག་གིས་མ་མཐོང་ན་དགེ་བསྙེན་མ་གང་གཱའི་མཆོག་ངན་སོང་དུ་མཆི་བ་འམ། མཐོ་རིས་སུ་མཆི་བ་འམ། ཡོངས་སུ་མྱ་ངན་ལས་འདས་པར་མཆི་བ་ཞེས་ཇི་སྐད་བསྟན་པར་བགྱི། བཅོམ་ལྡན་འདས་དེ་ལྟ་ལགས་ཀྱིས་ཀྱང་གཡོ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Since I do not see myself in that way, Blessed One, how can I declare in this way that the laywoman Gaṅgottarā goes to the lower realms, goes to the higher realms, or goes to parinirvāṇa?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-23">
+    <prop type="location-id">UT22084-043-012-89</prop>
+    <tuv xml:lang="bo">
+                <seg>རློམ་སེམས་དང་། བསྐྱོད་པ་དང་། སྤྲོས་པ་མཆིས་ན་ཇི་ལྟར་འདི་སྙམ་དུ་བདག་ངན་སོང་དུ་འགྲོ་བ་འམ། མཐོ་རིས་སུ་འགྲོ་བ་འམ། ཡོངས་སུ་མྱ་ངན་ལས་འདས་པར་འགྲོ་བའོ་སྙམ་དུ་སེམས་ལགས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-89"/>“Even with this being the case, Blessed One, it is in accordance with the presence of mental straying, mental conceit, mental agitation, and vain imagining that one thinks the thoughts, ‘I go to the lower realms,’ ‘I go to the higher realms,’ and ‘I go to parinirvāṇa.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-24">
+    <prop type="location-id">UT22084-043-012-89</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མྱ་ངན་ལས་འདས་པའི་དབྱིངས་ནི་ནམས་ཀྱང་ངན་སོང་དུ་མཆི་བ་འམ། མཐོ་རིས་སུ་མཆི་བ་འམ། ཡོངས་སུ་<tei:ref folio="F.223.a"/>མྱ་ངན་ལས་འདས་པར་མཆི་བ་མ་ལགས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Blessed One, the state of nirvāṇa is such that it never goes to the lower realms, it never goes to the higher realms, and it never goes to parinirvāṇa.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-25">
+    <prop type="location-id">UT22084-043-012-89</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་དགེ་བསྙེན་མ་གང་གཱའི་མཆོག་ཀྱང་དེ་ལྟ་བུའི་དབྱིངས་ཅན་ལགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The laywoman Gaṅgottarā has a similar state, Blessed One.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-26">
+    <prop type="location-id">UT22084-043-012-89</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། གང་གཱའི་མཆོག་ཁྱོད་ཅི་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པ་ལ་ཡང་དག་པར་མ་ཞུགས་སམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>“Gaṅgottarā,” the Blessed One responded, “have you not set out for parinirvāṇa?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-27">
+    <prop type="location-id">UT22084-043-012-95</prop>
+    <tuv xml:lang="bo">
+                <seg>གསོལ་པ། བཅོམ་ལྡན་འདས་སུ་ཞིག་གིས་མི་སྐྱེ་བ་ལ་སྨྲས་ཏེ། ཁྱོད་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པ་ལ་ཡང་དག་པར་མ་ཞུགས་སམ་ཞེས་དེ་སྐད་བགྱིས་ན་ཇི་སྐད་ལན་འདེབས་པར་འགྱུར་ལགས། བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-95"/>“Blessed One,” Gaṅgottarā replied, “if someone were to ask what is not born, ‘Have you not set out for parinirvāṇa?’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-28">
+    <prop type="location-id">UT22084-043-012-96</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་གཱའི་མཆོག་མི་སྐྱེ་བ་ཞེས་བྱ་བ་ནི་མྱ་ངན་ལས་འདས་པའི་ཚིག་བླ་དགས་ཡིན་ན་དེ་ཅི་ཞིག་ལན་འདེབས་པར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>what would be the answer?”<tei:milestone xml:id="UT22084-043-012-96"/> “Gaṅgottarā,” the Blessed One said, “since the phrase ‘what is not born’ is a designation for nirvāṇa, what would be the answer?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-29">
+    <prop type="location-id">UT22084-043-012-98</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་གཱའི་མཆོག་གིས་གསོལ་པ། བཅོམ་ལྡན་འདས་ཅི་ཆོས་ཐམས་ཅད་ནི་མྱ་ངན་ལས་འདས་པ་དང་མཚུངས་པ་ལགས་སམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-98"/>“Blessed One,” Gaṅgottarā replied, “are all things the same as nirvāṇa?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-30">
+    <prop type="location-id">UT22084-043-012-98</prop>
+    <tuv xml:lang="bo">
+                <seg>བཀའ་སྩལ་པ། གང་གཱའི་མཆོག་དེ་དེ་བཞིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>“It is so, Gaṅgottarā,” he said.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-31">
+    <prop type="location-id">UT22084-043-012-98</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་ནི་མྱ་ངན་ལས་འདས་པ་དང་མཚུངས་སོ། །གསོལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>“All things are the same as nirvāṇa.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-32">
+    <prop type="location-id">UT22084-043-012-100</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་གལ་ཏེ་ཆོས་ཐམས་ཅད་མྱ་ངན་ལས་འདས་པ་དང་མཚུངས་པ་ལགས་ན་གང་གཱའི་མཆོག་ཁྱོད་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པ་ལ་ཡང་དག་པར་མ་ཞུགས་སམ་ཞེས་ང་ཅི་ཞིག་སྨྲ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-100"/>“If all things are the same as nirvāṇa, then why, Blessed One, do you ask, ‘Gaṅgottarā, have you not set out for parinirvāṇa?’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-33">
+    <prop type="location-id">UT22084-043-012-100</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་སུ་ཞིག་གིས་སྤྲུལ་པ་ལ་སྨྲས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Blessed One, if someone were to ask a magically created being, ‘Have you not set out for parinirvāṇa?’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-34">
+    <prop type="location-id">UT22084-043-012-100</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྱོད་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པ་ལ་ཡང་དག་པར་མ་ཞུགས་སམ་ཞེས་དེ་སྐད་བགྱིས་ན་ཇི་སྐད་ལན་འདེབས་པར་འགྱུར་ལགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>what would be the answer?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-35">
+    <prop type="location-id">UT22084-043-012-100</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། གང་གཱའི་མཆོག་དྲི་བ་འདི་ནི་དམིགས་པ་མེད་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>“Gaṅgottarā,” the Blessed One responded, “this question does not have an objective basis.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-36">
+    <prop type="location-id">UT22084-043-012-104</prop>
+    <tuv xml:lang="bo">
+                <seg>གསོལ་པ། ཅི་བཅོམ་ལྡན་འདས་ཀྱིས་དམིགས་པ་དང་བཅས་པའི་སྨྲ་བས་སྨྲས་ལགས་སམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-104"/>Gaṅgottarā inquired, “Do the words that the Blessed One has spoken have some connection to an objective basis?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-37">
+    <prop type="location-id">UT22084-043-012-106</prop>
+    <tuv xml:lang="bo">
+                <seg>བཀའ་སྩལ་པ། གང་གཱའི་མཆོག་དྲི་བ་འདི་ནི་དམིགས་པ་མེད་མོད་ཀྱི། འོན་ཀྱང་འཁོར་འདི་ན་རིགས་ཀྱི་བུ་འམ། རིགས་ཀྱི་བུ་མོ་འདུ་བ་དག་ཡོད་དེ། དེ་དག་གི་དོན་ཆེན་པོར་འགྱུར་བས་དྲིས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-106"/>“Gaṅgottarā,” the Blessed One answered, “even though this question does not have an objective basis, nevertheless, asking it will be of great benefit to the noble sons and noble daughters who are gathered here in this assembly.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-38">
+    <prop type="location-id">UT22084-043-012-106</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཅིའི་ཕྱིར་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Why is this?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-39">
+    <prop type="location-id">UT22084-043-012-106</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་གཱའི་མཆོག་དེ་བཞིན་གཤེགས་པས་ནི་ཆོས་ཉིད་ཅེས་བྱ་བ་ཡང་མངོན་པར་རྫོགས་པར་སངས་མ་རྒྱས་ན་གང་དེ་ལས་བྱུང་བའི་ཆོས་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པ་ལ་གནས་པ་ལྟ་ག་ལ་ཡོད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When the Tathāgata had not awakened directly and completely even to what is called the true nature of things, Gaṅgottarā, how much less would there be a thing arising from it that remains in parinirvāṇa?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-40">
+    <prop type="location-id">UT22084-043-012-109</prop>
+    <tuv xml:lang="bo">
+                <seg>གསོལ་པ། <tei:ref folio="F.223.b"/>གལ་ཏེ་བཅོམ་ལྡན་འདས་ཀྱིས་ཆོས་ཉིད་ཅེས་བགྱི་བ་ཡང་མངོན་པར་རྫོགས་པར་སངས་མ་རྒྱས་ཏེ། དེ་ལས་བྱུང་བའི་ཆོས་ལྟ་གང་ཞིག་མཆིས་པར་གྱུར་ན་བཅོམ་ལྡན་འདས་ཀྱིས་བྱང་ཆུབ་ཀྱི་སླད་དུ་ཇི་ལྟར་དགེ་བའི་རྩ་བ་ཡང་དག་པར་བསྒྲུབས་ལགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-109"/>“If the Tathāgata had not awakened directly and completely even to what is called the true nature of things, and even less would there be a thing arising from it,” she replied, “how did the Blessed One properly plant roots of virtue in order to achieve awakening?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-41">
+    <prop type="location-id">UT22084-043-012-111</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། གང་གཱའི་མཆོག་གང་དམིགས་པ་དེ་ནི་དགེ་བའི་རྩ་བ་མ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-111"/>“Gaṅgottarā,” the Blessed One responded, “a root of virtue is not something that has an objective basis.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-42">
+    <prop type="location-id">UT22084-043-012-111</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་དགེ་བའི་རྩ་བ་དེ་ནི་གང་གི་ཚེ་ཡང་དག་པར་སྒྲུབ་པ་དེའི་ཚེ་ཡང་བསམ་གྱིས་མི་ཁྱབ་པ་ཉིད་མི་འདོར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>During the time when the Bodhisattva was planting the roots of virtue, he never let go of inconceivability.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-43">
+    <prop type="location-id">UT22084-043-012-111</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་གི་ཚེ་ཡང་དག་པར་མི་སྒྲུབ་པ་དེའི་ཚེ་ཡང་བསམ་གྱིས་མི་ཁྱབ་པ་ཉིད་མི་འདོར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>During the time when he was not planting them, he also did not let go of inconceivability.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-44">
+    <prop type="location-id">UT22084-043-012-113</prop>
+    <tuv xml:lang="bo">
+                <seg>གསོལ་པ། བཅོམ་ལྡན་འདས་བསམ་གྱིས་མི་ཁྱབ་པ་ལ་བསམ་གྱིས་མི་ཁྱབ་པ་ཞེས་བགྱི་བ་ཅིའི་སླད་དུ་བསམ་གྱིས་མི་ཁྱབ་པ་ལ་བསམ་གྱིས་མི་ཁྱབ་པ་ཞེས་བགྱི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-113"/>“With respect to the inconceivable,” Gaṅgottarā asked, “Blessed One, why is the inconceivable called the inconceivable?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-45">
+    <prop type="location-id">UT22084-043-012-115</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། གང་གཱའི་མཆོག་ཆོས་འདི་ནི་སེམས་པས་ཐོབ་པར་བྱ་བ་མ་ཡིན་ཏེ། སེམས་པས་ཐོབ་པར་བྱར་མི་ནུས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-115"/>“Gaṅgottarā,” the Blessed One answered, “this teaching is not to be attained by the mind; it cannot be attained by the mind.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-46">
+    <prop type="location-id">UT22084-043-012-115</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཅིའི་ཕྱིར་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Why is this?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-47">
+    <prop type="location-id">UT22084-043-012-115</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟར་འདི་ལ་ནི་སེམས་ཉིད་ཀྱང་མི་དམིགས་ན་གང་སེམས་ལས་རབ་ཏུ་བྱུང་བའི་ཆོས་ལྟ་ག་ལ་ཡོད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>According to this teaching, when not even the mind itself has an objective basis, how much less so would the things that arise from the mind?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-48">
+    <prop type="location-id">UT22084-043-012-115</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་གཱའི་མཆོག་སེམས་མི་དམིགས་པ་ནི་བསམ་གྱིས་མི་ཁྱབ་པའི་རྒྱུད་ཅེས་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The mind’s lack of an objective basis, Gaṅgottarā, is what is called the continuous stream of the inconceivable.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-49">
+    <prop type="location-id">UT22084-043-012-115</prop>
+    <tuv xml:lang="bo">
+                <seg>བསམ་གྱིས་མི་ཁྱབ་པའི་རྒྱུད་གང་ཡིན་པ་དེ་ནི་ཐོབ་པ་མ་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That which is the continuous stream of the inconceivable is not attained.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-50">
+    <prop type="location-id">UT22084-043-012-115</prop>
+    <tuv xml:lang="bo">
+                <seg>མངོན་པར་རྟོགས་པ་མ་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is not fully realized.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-51">
+    <prop type="location-id">UT22084-043-012-115</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤེས་པ་མ་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is not known.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-52">
+    <prop type="location-id">UT22084-043-012-115</prop>
+    <tuv xml:lang="bo">
+                <seg>མངོན་སུམ་དུ་བྱས་པ་མ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is not something to be experienced directly.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-53">
+    <prop type="location-id">UT22084-043-012-115</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནི་ཐོབ་པར་བྱ་བ་མ་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is not something to be attained.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-54">
+    <prop type="location-id">UT22084-043-012-115</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་ནས་ཉོན་མོངས་པ་མ་ཡིན་རྣམ་པར་བྱང་བ་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is not afflicted. It is not purified.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-55">
+    <prop type="location-id">UT22084-043-012-115</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཅིའི་ཕྱིར་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Why is this?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-56">
+    <prop type="location-id">UT22084-043-012-115</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་གཱའི་མཆོག་འདི་ལྟར་དེ་བཞིན་གཤེགས་པས་ནི་ཆོས་ཐམས་ཅད་ནམ་མཁའ་ལྟར་ངེས་པར་ཐུགས་སུ་ཆུད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is because, Gaṅgottarā, the Tathāgata knows with certainty that all things are like space.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-57">
+    <prop type="location-id">UT22084-043-012-115</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་གཱའི་མཆོག་ཆོས་ཐམས་ཅད་ནི་ནམ་མཁའ་དང་མཚུངས་པ་གཉེན་པོ་མེད་པའོ། །གསོལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>All things, Gaṅgottarā, are unobstructed, just like space.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-58">
+    <prop type="location-id">UT22084-043-012-120</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་གལ་ཏེ་ཆོས་ཐམས་ཅད་ནམ་མཁའ་དང་མཚུངས་པ་གཉེན་པོ་མ་མཆིས་པ་ལགས་ན་བཅོམ་ལྡན་འདས་ཀྱིས་གཟུགས་ཞེས་བཏགས་པ་དང་། ཚོར་བ་དང་། འདུ་ཤེས་དང་། འདུ་བྱེད་རྣམས་དང་རྣམ་པར་ཤེས་པ་ཞེས་བཏགས་པ་དང་། ཕུང་པོ་རྣམས་དང་། ཁམས་རྣམས་དང་། སྐྱེ་མཆེད་<tei:ref folio="F.224.a"/>རྣམས་དང་། རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བ་དང་། ཟག་པ་དང་བཅས་པ་དང་། ཟག་པ་མ་མཆིས་པ་དང་། ཀུན་ནས་ཉོན་མོངས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-120"/>“Blessed One,” Gaṅgottarā asked, “if all things are unobstructed, just like space, then why does the Blessed One use verbal expressions like ‘form,’ ‘feeling,’ ‘conception,’ ‘formation,’ and ‘consciousness,’ as well as verbal expressions like ‘the aggregates,’ ‘the elements,’ and ‘the sense spheres’; ‘dependent arising’; ‘the intoxicated’ and ‘what is free of intoxication’; ‘the afflicted’ and ‘the purified’; and ‘saṃsāra’ and ‘nirvāṇa’?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-59">
+    <prop type="location-id">UT22084-043-012-122</prop>
+    <tuv xml:lang="bo">
+                <seg>རྣམ་པར་བྱང་བ་དང་། འཁོར་བ་དང་། མྱ་ངན་ལས་འདས་པ་ཞེས་བཏགས་པ་ཇི་ལྟ་བུ་ལགས། བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། གང་གཱའི་མཆོག་འདི་ལྟ་སྟེ་དཔེར་ན་བདག་བདག་ཅེས་འདོགས་ཀྱང་བདག་གང་ཡང་མི་དམིགས་པ་དེ་བཞིན་དུ་གང་གཱའི་མཆོག་ངས་གཟུགས་ཞེས་བཏགས་ཏེ་གཟུགས་གང་ཡང་མི་དམིགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-122"/>“Gaṅgottarā,” the Blessed One replied, “just as one uses the expression ‘self’ even though the self has no objective basis at all, in precisely the same way, Gaṅgottarā, I use the expression ‘form,’ even though form has no objective basis at all.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-60">
+    <prop type="location-id">UT22084-043-012-122</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་དུ་ངས་ཚོར་བ་དང་། འདུ་ཤེས་དང་། འདུ་བྱེད་རྣམས་དང་། རྣམ་པར་ཤེས་པ་ཞེས་བཏགས་ཏེ་རྣམ་པར་ཤེས་པ་གང་ཡང་མི་དམིགས་སོ། །ཕུང་པོ་རྣམས་དང་། ཁམས་རྣམས་དང་། སྐྱེ་མཆེད་རྣམས་དང་། རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བ་དང་། ཟག་པ་དང་བཅས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the same way, too, I use the expressions ‘feeling,’ ‘conception,’ ‘formation,’ and ‘consciousness,’ even though consciousness has no objective basis at all.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-61">
+    <prop type="location-id">UT22084-043-012-122</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟག་པ་མེད་པ་དང་། ཀུན་ནས་ཉོན་མོངས་པ་དང་། རྣམ་པར་བྱང་བ་དང་། འཁོར་བ་དང་། མྱ་ངན་ལས་འདས་པ་ཞེས་བྱ་བ་ཡང་ངས་བཏགས་ཏེ་མྱ་ངན་ལས་འདས་པ་གང་ཡང་མི་དམིགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I also use the expressions ‘the aggregates,’ ‘the elements,’ and ‘the sense spheres’; ‘dependent arising’; ‘the intoxicated’ and ‘what is free of intoxication’; ‘the afflicted’ and ‘the purified’; and ‘saṃsāra’ and ‘nirvāṇa,’ even though nirvāṇa has no objective basis at all.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-62">
+    <prop type="location-id">UT22084-043-012-124</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་གཱའི་མཆོག་འདི་ལྟ་སྟེ་དཔེར་ན་སྨིག་རྒྱུ་རྣམས་ལ་ནི་ཆུ་ཡོད་མེད་དེ་མི་དམིགས་སོ། །གང་གཱའི་མཆོག་དེ་བཞིན་དུ་ངས་གཟུགས་ཞེས་བྱ་བར་བཏགས་ཀྱང་གཟུགས་གང་ཡང་མི་དམིགས་སོ། །ངས་ཚོར་བ་དང་། འདུ་ཤེས་དང་། འདུ་བྱེད་རྣམས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-124"/>“Gaṅgottarā, just as a mirage does not produce water and has no objective basis at all, in precisely the same way, Gaṅgottarā, I use the expression ‘form,’ even though form has no objective basis at all.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-63">
+    <prop type="location-id">UT22084-043-012-124</prop>
+    <tuv xml:lang="bo">
+                <seg>རྣམ་པར་ཤེས་པ་ཞེས་བཏགས་ཀྱང་རྣམ་པར་ཤེས་པ་གང་ཡང་མི་དམིགས་སོ། །ཕུང་པོ་རྣམས་དང་། ཁམས་རྣམས་དང་། སྐྱེ་མཆེད་རྣམས་དང་། རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བ་དང་། ཟག་པ་དང་བཅས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the same way, too, I use the expressions ‘feeling,’ ‘conception,’ ‘formation,’ and ‘consciousness,’ even though consciousness has no objective basis at all.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-64">
+    <prop type="location-id">UT22084-043-012-124</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟག་པ་མེད་པ་དང་། ཀུན་ནས་ཉོན་མོངས་པ་དང་། རྣམ་པར་བྱང་བ་དང་། འཁོར་བ་དང་། མྱ་ངན་ལས་འདས་པ་ཞེས་བྱ་བར་ངས་བཏགས་ཀྱང་དོན་དམ་པར་ན་དེ་དག་ཐམས་ཅད་མེད་ཅིང་མི་དམིགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I also use the expressions ‘the aggregates,’ ‘the elements,’ ‘the sense spheres’; ‘dependent arising’; ‘the intoxicated’ and ‘what is free of intoxication’; ‘the afflicted’ and ‘the purified’; and ‘saṃsāra’ and ‘nirvāṇa,’ even though ultimately not one of these things exists or has any objective basis.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-65">
+    <prop type="location-id">UT22084-043-012-126</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་གཱའི་མཆོག་གང་ཆོས་ལ་མཆོག་ཏུ་འཛིན་པ་མེད་པར་ཚངས་པར་སྤྱད་པ་སྤྱོད་པ་དེ་ལྟ་བུ་ནི་ལེགས་པར་གསུངས་པའི་ཆོས་འདུལ་བ་ལ་ཚངས་པར་སྤྱོད་པ་ལ་གནས་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-126"/>“One who practices the holy life without holding onto the Dharma as the final word, Gaṅgottarā, dwells in the practice of the holy life according to the well-stated Dharma and Discipline.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-66">
+    <prop type="location-id">UT22084-043-012-126</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་གཱའི་མཆོག་མངོན་པའི་ང་རྒྱལ་ཅན་<tei:ref folio="F.224.b"/>གནས་དམིགས་ནས་ཚངས་པར་སྤྱད་པར་སྤྱོད་པ་དེ་དག་གི་ཚངས་པར་སྤྱོད་པ་དེ་ནི་ཡོངས་སུ་མ་དག་པའོ་ཞེས་ང་སྨྲའོ། །གང་དག་ཚངས་པར་སྤྱོད་པ་ཡོངས་སུ་མ་དག་པ་དེ་དག་ནི་ཟབ་མོ་རྒྱུད་ཆད་པའི་ཆོས་འདི་ལྟ་བུ་འདི་ཐོས་ན་དངངས་སྐྲག་པར་འགྱུར་ཏེ། དེ་དག་སྐྱེ་བ་དང་། རྒ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There are some who have self-conceit, Gaṅgottarā, who practice the holy life while thinking that their abiding by it has an objective basis, and I say that their practice of the holy life is not completely purified.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-67">
+    <prop type="location-id">UT22084-043-012-126</prop>
+    <tuv xml:lang="bo">
+                <seg>ན་བ་དང་། འཆི་བ་དང་། མྱ་ངན་དང་། སྨྲེ་སྔགས་འདོན་པ་དང་། སྡུག་བསྔལ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When they hear a profound teaching such as this one on cutting off the continuous stream, those who do not practice the holy life with complete purity become terrified, and they do not become free from birth, old age, sickness, death, sorrow, lamentation, suffering, distress, and conflict; they receive their share of suffering, I say.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-68">
+    <prop type="location-id">UT22084-043-012-130</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡིད་མི་བདེ་བ་དང་། འཁྲུག་པ་རྣམས་ལས་ཡོངས་སུ་མི་འགྲོལ་ཏེ། དེ་དག་ནི་སྡུག་བསྔལ་གྱི་སྐལ་བ་ཅན་དུ་འགྱུར་རོ་ཞེས་ང་སྨྲའོ། །གང་གཱའི་མཆོག་ད་ལྟར་རམ་ང་འདས་པའི་ཕྱི་ན་ཡང་རུང་སྟེ། གང་དག་ཟབ་མོ་རྒྱུད་ཆད་པ་འདི་ལྟ་བུའི་ཆོས་སྟོན་པ་དེ་དག་ལ་མི་གཏི་མུག་པ་དག་གསོད་པ་པོའི་འདུ་ཤེས་སྐྱེད་པར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-130"/>“Whether now or after I have passed away, Gaṅgottarā, there will be those who teach this kind of profound teaching on cutting off the continuous stream, and ignorant people will come to conceive the idea that they have the intent to kill them.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-69">
+    <prop type="location-id">UT22084-043-012-134</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་མི་གཏི་མུག་པ་དེ་དག་ལོག་པར་ཟིན་པས་བསད་པའི་ཞེ་སྡང་བསྐྱེད་ནས་ངན་སོང་དུ་འགྲོ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Due to their misunderstanding, these ignorant people thus come to generate a homicidal hatred and go to the lower realms.”<tei:milestone xml:id="UT22084-043-012-134"/> “ ‘Cutting off the continuous stream, cutting off the continuous stream,’ ” Gaṅgottarā replied.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-70">
+    <prop type="location-id">UT22084-043-012-134</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་གཱའི་མཆོག་གིས་གསོལ་པ། བཅོམ་ལྡན་འདས་རྒྱུད་ཆད་པ་རྒྱུད་ཆད་པ་ཞེས་བགྱི་བ་ཅིའི་སླད་དུ་རྒྱུད་ཆད་པ་ཞེས་བགྱི། བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>“Blessed One, what is it that you call cutting off the continuous stream?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-71">
+    <prop type="location-id">UT22084-043-012-136</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་གཱའི་མཆོག་ཆོས་འདི་ནི་རྒྱུད་གཅད་པའམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-136"/>“Gaṅgottarā,” the Blessed One answered, “this teaching does not cut off the continuous stream; it is not the disintegration of it; it is not the destruction of it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-72">
+    <prop type="location-id">UT22084-043-012-136</prop>
+    <tuv xml:lang="bo">
+                <seg>དབྱེ་བ་འམ། རྣམ་པར་གཞིག་པ་མ་ཡིན་ཏེ། དེའི་ཕྱིར་རྒྱུད་ཆད་པ་ཞེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>For this reason, it should be called cutting off the continuous stream.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-73">
+    <prop type="location-id">UT22084-043-012-136</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ནི་ཡང་དག་པའི་མཐའ་ཞེས་བྱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It should also be called the ultimate endpoint.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-74">
+    <prop type="location-id">UT22084-043-012-136</prop>
+    <tuv xml:lang="bo">
+                <seg>བསམ་གྱིས་མི་ཁྱབ་པའི་རྒྱུད་ཅེས་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It should be called the continuous stream of the inconceivable.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-75">
+    <prop type="location-id">UT22084-043-012-138</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་ཚེ་འཛུམ་པ་མཛད་དོ། །དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱི་ཞལ་གྱི་སྒོ་ནས་འོད་ཟེར་ཁ་དོག་སྣ་ཚོགས་ཁ་དོག་དུ་མ་འདི་ལྟ་སྟེ། སྔོན་པོ་དང་། སེར་པོ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-138"/>Then, at that moment, the Blessed One displayed a smile.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-76">
+    <prop type="location-id">UT22084-043-012-138</prop>
+    <tuv xml:lang="bo">
+                <seg>དམར་པོ་དང་། དཀར་པོ་དང་། བཙོད་ཀ་དང་། ཤེལ་དང་། དངུལ་གྱི་ཁ་དོག་ལྟ་བུ་དག་བྱུང་ནས་དེ་དག་གིས་འཇིག་རྟེན་གྱི་ཁམས་མཐའ་ཡས་མུ་མེད་པ་དག་སྣང་བར་བྱས་ཏེ་འོད་ཀྱིས་ཁྱབ་པར་བྱས་ནས་ཚངས་པའི་འཇིག་རྟེན་གྱི་བར་དུ་མངོན་པར་བྱུང་སྟེ་སླར་ལོག་ནས་བཅོམ་ལྡན་འདས་ཀྱི་ཞལ་གྱི་སྒོར་ནུབ་བོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Various multicolored rays of light issued from the Blessed One’s mouth in such a way that blue, yellow, red, white, rose madder, crystalline, and silvery rays of light spread throughout endless, limitless world systems, reaching as far as the Brahmā realm, and then they returned and disappeared into the Blessed One’s mouth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-77">
+    <prop type="location-id">UT22084-043-012-140</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོས་བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ཏེ་པུས་མོ་གཡས་པའི་ལྷ་ང་ས་ལ་བཙུགས་ནས་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་<tei:ref folio="F.225.a"/>སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་དེ་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-140"/>At that point, the venerable Ānanda draped his upper robe over one shoulder, knelt on his right knee, and then, joining his palms together in a gesture of respect toward the Blessed One, he paid homage to the Blessed One and said this: “Blessed One, the tathāgatas do not display their smile without a reason.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-78">
+    <prop type="location-id">UT22084-043-012-140</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་རྣམས་ནི་རྒྱུ་མ་མཆིས་པར་འཛུམ་པ་མི་མཛད་ན་འཛུམ་པ་མཛད་པའི་རྒྱུ་གང་ལགས་རྐྱེན་གང་ལགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What is the cause? What is the condition? Why have you displayed your smile?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-79">
+    <prop type="location-id">UT22084-043-012-142</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། ཀུན་དགའ་བོ་ངས་མངོན་པར་ཤེས་ཏེ། ས་ཕྱོགས་འདི་ཉིད་དུ་དེ་བཞིན་གཤེགས་པ་སྟོང་གིས་གང་གཱའི་མཆོག་ཅེས་བྱ་བ་ཁོ་ནའི་དགེ་བསྙེན་མ་ཤ་སྟག་ལས་བརྩམས་ཏེ། ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བཤད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-142"/>“Ānanda,” the Blessed One replied, “I have direct knowledge of the fact that, in this very place, one thousand tathāgatas have taught this formulation of the Dharma, always starting with a single laywoman whose name was always Gaṅgottarā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-80">
+    <prop type="location-id">UT22084-043-012-142</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་བསྙེན་མ་དེ་དག་ཐམས་ཅད་ནི་རབ་ཏུ་བྱུང་ནས་ཕུང་པོ་མེད་པའི་མྱ་ངན་ལས་འདས་པའི་དབྱིངས་སུ་ཡོངས་སུ་མྱ་ངན་ལས་འདས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>All those laywomen went forth and achieved parinirvāṇa—that is, the state of parinirvāṇa without any remaining aggregates.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-81">
+    <prop type="location-id">UT22084-043-012-145</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ལ་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་ཆོས་ཀྱི་རྣམ་གྲངས་འདིའི་མིང་ཅི་ལགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-145"/>The venerable Ānanda then asked the Blessed One, “What is the name of this formulation of the Dharma, Blessed One?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-82">
+    <prop type="location-id">UT22084-043-012-145</prop>
+    <tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་གཟུང་བར་བགྱི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How should it be remembered?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-83">
+    <prop type="location-id">UT22084-043-012-146</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། ཀུན་དགའ་བོ་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ནི་དྲི་མ་མེད་པ་ཞེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-146"/>“Ānanda,” the Blessed One replied, “you may call this formulation of the Dharma Stainless.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-84">
+    <prop type="location-id">UT22084-043-012-146</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་དྲི་མ་མེད་པ་ཞེས་བྱ་བར་ཟུང་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Remember it as the one you may call Stainless.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-85">
+    <prop type="location-id">UT22084-043-012-148</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བསྟན་པ་ན་དགེ་སློང་བདུན་བརྒྱ་དང་། དགེ་སློང་མ་བཞི་བརྒྱ་ལེན་པ་མེད་པར་ཟག་པ་རྣམས་ལས་སེམས་རྣམ་པར་གྲོལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-148"/>When this Dharma discourse was taught, the minds of seven hundred monks and four hundred nuns were freed from the intoxicants and did not grasp any more.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-86">
+    <prop type="location-id">UT22084-043-012-148</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་འདོད་པ་ན་སྤྱོད་པ་དང་། གཟུགས་ན་སྤྱོད་པའི་ལྷའི་བུ་རྣམས་ཀྱིས་ལྷའི་མེ་ཏོག་རྣམས་དང་། ཙན་དན་གྱི་ཕྱེ་མ་རྣམས་མངོན་པར་སྤྲུལ་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then the gods of the desire realm and the gods of the form realm magically created divine flowers and sandalwood powder and strewed them over the Blessed One while saying, “It is marvelous that such a laywoman lives in the city of Śrāvastī!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-87">
+    <prop type="location-id">UT22084-043-012-148</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལ་གཏོར་ནས་ཚིག་འདི་སྐད་ཅེས་འདི་ལྟར་གྲོང་ཁྱེར་མཉན་ཡོད་ན་དགེ་བསྙེན་མ་འདི་ལྟ་བུ་གནས་ལ་དེ་དེ་བཞིན་གཤེགས་པ་དང་ལྷན་ཅིག་ཏུ་སྨྲ་ཡང་དེའི་ལུས་ངལ་བར་ཡང་མི་འགྱུར་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Not only does she converse with the Tathāgata but also her body does not become weary from it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-88">
+    <prop type="location-id">UT22084-043-012-148</prop>
+    <tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་ཡང་གང་གཱའི་མཆོག་འདི་སྔོན་གྱི་རྒྱལ་བ་ལ་ལྷག་པར་བྱ་བ་བྱས་ཤིང་དགེ་བའི་རྩ་བ་བསྐྱེད་པ་དང་། ཡུན་རིང་པོ་ནས་དགེ་བ་སྤྱད་པ་དང་། །ཡུན་རིང་པོ་ནས་ཚངས་པར་སྤྱད་པ་དང་། སངས་རྒྱས་མང་པོ་ལ་བསྙེན་བཀུར་བྱས་པ་འདི་ནི་ངོ་མཚར་ཏོ་ཞེས་སྨྲས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the very same way, this laywoman Gaṅgottarā has served victors of the past, generated roots of virtue, practiced virtue for a long time, practiced the holy life for a long time, and venerated many buddhas!”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-89">
+    <prop type="location-id">UT22084-043-012-150</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། ལྷའི་བུ་དག་དེ་དེ་བཞིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-150"/>“So it is, divine ones,” the Blessed One said.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-90">
+    <prop type="location-id">UT22084-043-012-150</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ནི་སྔོན་གྱི་རྒྱལ་བ་ལ་ལྷག་པར་བྱ་བ་བྱས་པ། དགེ་བའི་རྩ་བ་བསྐྱེད་པ། ཡུན་<tei:ref folio="F.225.b"/>རིང་དུ་ཚངས་པར་སྤྱད་པ་ལ་གནས་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>“For a long time, she has served victors of the past, generated roots of virtue, and practiced the holy life.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-91">
+    <prop type="location-id">UT22084-043-012-152</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། དགེ་བསྙེན་མ་གང་གཱའི་མཆོག་དང་། ལྷ་དང་། མི་དང་ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-152"/>After the Blessed One had spoken these words, the laywoman Gaṅgottarā was delighted, and so was the world with its gods, humans, asuras, and gandharvas, and they rejoiced at what the Blessed One had said.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-92">
+    <prop type="location-id">UT22084-043-012-153</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།འཕགས་པ་དཀོན་མཆོག་བརྩེགས་པ་ཆེན་པོའི་ཆོས་ཀྱི་རྣམ་གྲངས་ལེའུ་སྟོང་ཕྲག་བརྒྱ་པ་ལས་གང་གཱའི་མཆོག་གིས་ཞུས་པའི་ལེའུ་ཞེས་བྱ་སྟེ་སུམ་ཅུ་རྩ་གཅིག་པ་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-153"/>Thus concludes “The Chapter of the Questions of Gaṅgottarā,” the thirty-first of the one hundred thousand chapters of the formulation of the Dharma known as “The Noble Great Heap of Jewels.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-012-TU-93">
+    <prop type="location-id">UT22084-043-012-155</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་ཛི་ན་མི་ཏྲ་དང་། དཱ་ན་ཤཱི་ལ་དང་།  ཞུ་ཆེན་གྱི་ལོ་ཙྪ་བ་བན་དེ་ཡེ་ཤེས་སྡེ་ལ་སོགས་པས་བསྒྱུར་ཅིང་ཞུས་ཏེ་སྐད་གསར་ཆད་ཀྱིས་ཀྱང་བཅོས་ནས་གཏན་ལ་ཕབ་པ།​། །​།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-012-155"/>Translated, edited, corrected according to revised terminology, and finalized by the Indian preceptors Jinamitra and Dānaśīla, along with the chief editor and translator Bandé Yeshé Dé and others.</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

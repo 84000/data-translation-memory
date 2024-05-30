@@ -187,18 +187,15 @@
             </tuv>
         </tu>
         <tu id="UT22084-068-002-TU-19">
-            <prop type="unmatched">v-1.0.7-2022</prop>
-            <tuv xml:lang="bo">
-                <seg>།འཕགས་པ་བསམ་གྱིས་མི་ཁྱབ་པའི་རྒྱལ་པོའི་མདོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།། </seg>
-            </tuv>
-            
-        </tu>
-    <tu id="UT22084-068-002-TU-20">
-            <prop type="revision">v-1.0.5-2022</prop>
             <prop type="location-id">UT22084-068-002-28</prop>
+            <prop type="revision">v-1.0.7-2022</prop>
+            <tuv xml:lang="bo">
+                <seg>།འཕགས་པ་བསམ་གྱིས་མི་ཁྱབ་པའི་རྒྱལ་པོའི་མདོ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།།</seg>
+            </tuv>
             <tuv xml:lang="en">
-                <seg>This completes the noble Mahāyāna sūtra “ The Sūtra of King of the Inconceivable .”</seg>
+                <seg>This completes the noble Mahāyāna sūtra “The Sūtra of King of the Inconceivable.”</seg>
             </tuv>
         </tu>
+    
         </body>
 </tmx>

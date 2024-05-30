@@ -6231,12 +6231,13 @@
             </tuv>
         </tu>
         <tu id="UT22084-076-003-TU-623">
-            <prop type="unmatched">v-1.0.7-2021</prop>
+            <prop type="location-id">UT22084-076-003-231</prop>
+            <prop type="revision">v-1.0.7-2021</prop>
             <tuv xml:lang="bo">
                 <seg>།རྒྱལ་པོ་དཔལ་གྱི་སྡེའི་རྟོགས་པ་བརྗོད་པ་རྫོགས་སོ།།</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>This completes “The Account of the Noble Deeds of King Śrīsena.”</seg>
+                <seg>This completes “The Exemplary Tale of King Śrīsena.”</seg>
             </tuv>
         </tu>
         <tu id="UT22084-076-003-TU-624">
@@ -6256,19 +6257,7 @@
                 <seg>“ Ah! Ah!</seg>
             </tuv>
         </tu>
-        <tu id="UT22084-076-003-TU-626">
-            <prop type="revision">v-1.0.5-2021</prop>
-            <prop type="location-id">UT22084-076-003-231</prop>
-            <tuv xml:lang="en">
-                <seg>This completes “The Account of the Noble Deeds of King Śrīsena .”</seg>
-            </tuv>
-        </tu>
-        <tu id="UT22084-076-003-TU-627">
-            <prop type="revision">v-1.0.5-2021</prop>
-            <prop type="location-id">UT22084-076-003-233</prop>
-            <tuv xml:lang="en">
-                <seg>It was then revised and finalized by the translator Rinchen Zangpo.</seg>
-            </tuv>
-        </tu>
+        
+        
         </body>
 </tmx>

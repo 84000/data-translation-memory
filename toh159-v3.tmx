@@ -5504,7 +5504,8 @@
             </tuv>
         </tu>
         <tu id="UT22084-059-002-TU-551">
-            <prop type="unmatched">v-1.0.13-2021</prop>
+            <prop type="location-id">UT22084-059-002-311</prop>
+            <prop type="revision">v-1.0.13-2021</prop>
             <tuv xml:lang="bo">
                 <seg>།།རྒྱ་གར་གྱི་མཁན་པོ་སུ་རེནྡྲ་བོ་དྷི་དང་། པྲཛྙཱ་བརྨ་དང་། ཞུ་ཆེན་གྱི་ལོ་ཙྪ་བ་བནྡེ་ཡེ་ཤེས་སྡེ་ལ་སོགས་པས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།།</seg>
             </tuv>
@@ -5513,25 +5514,16 @@
             </tuv>
         </tu>
         <tu id="UT22084-059-002-TU-552">
-            <prop type="unmatched">v-1.0.13-2021</prop>
+            <prop type="location-id">UT22084-059-002-312</prop>
+            <prop type="revision">v-1.0.13-2021</prop>
             <tuv xml:lang="bo">
                 <seg>།།ཤོ་ལོ་ཀ་སུམ་བརྒྱ་མཆིས་སོ།།</seg>
             </tuv>
-            
-        </tu>
-    <tu id="UT22084-059-002-TU-553">
-            <prop type="revision">v-1.0.11-2021</prop>
-            <prop type="location-id">UT22084-059-002-311</prop>
-            <tuv xml:lang="en">
-                <seg>It was translated, edited, and finalized by the Indian preceptors Surendrabodhi and Prajñāvarman, as well as the editor and translator Bandé Yeshé Dé and others.</seg>
-            </tuv>
-        </tu>
-        <tu id="UT22084-059-002-TU-554">
-            <prop type="revision">v-1.0.11-2021</prop>
-            <prop type="location-id">UT22084-059-002-312</prop>
             <tuv xml:lang="en">
                 <seg>It consists of three hundred stanzas.</seg>
             </tuv>
         </tu>
+    
+        
         </body>
 </tmx>

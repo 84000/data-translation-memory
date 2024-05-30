@@ -5304,7 +5304,8 @@
             </tuv>
         </tu>
         <tu id="UT22084-058-004-TU-531">
-            <prop type="unmatched">v-1.0.6-2021</prop>
+            <prop type="location-id">UT22084-058-004-142</prop>
+            <prop type="revision">v-1.0.4-2021</prop>
             <tuv xml:lang="bo">
                 <seg>འཐུན་པ་དང་མི་འཐུན་པའི་གཏམ་ཟད་པའམ། ངེས་པའི་ཚིག་མེད་པའི་གཏམ་ཟད་པའམ། སངས་རྒྱས་དང་། ཆོས་དང་དགེ་འདུན་གྱི་ཡོན་ཏན་གྱི་བསྔགས་པ་བརྗོད་པ་ཟད་པའམ། བདེན་པ་བསྟན་པའི་གཏམ་ཟད་པའམ། བྱང་ཆུབ་ཀྱི་ཕྱོགས་ཀྱི་ཆོས་བསྟན་པའི་གཏམ་ཟད་པའམ། ལས་ཀྱི་རྣམ་པར་སྨིན་པ་བསྟན་པའི་གཏམ་ཟད་པའམ།</seg>
             </tuv>
@@ -24086,12 +24087,6 @@
                 <seg>It was translated, proofed, and finalized by the Indian preceptors Jinamitra and Prajñāvarman and the editor-translator Bandé Yeshé Dé and others.</seg>
             </tuv>
         </tu>
-    <tu id="UT22084-058-004-TU-2409">
-            <prop type="revision">v-1.0.4-2021</prop>
-            <prop type="location-id">UT22084-058-004-662</prop>
-            <tuv xml:lang="en">
-                <seg>It was translated, proofed, and finalized by the Indian preceptors Jinamitra and Prajñāvarman and the editor-translator Bandé Yeshé Dé and others.</seg>
-            </tuv>
-        </tu>
+    
         </body>
 </tmx>

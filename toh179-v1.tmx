@@ -3,8 +3,10 @@
     <header creationtool="Olifant" changedate="20170418T103530Z" changeid="CloudedCat" segtype="block" adminlang="en-us" srclang="bo" o-tmf="tei" datatype="Text" eft:text-id="UT22084-060-008" eft:text-version="v-2.24.2-2020"> </header>
     <body>
         <tu id="UT22084-060-008-TU-1">
-           <prop type="folio">F.244.b</prop>
-           <tuv xml:lang="bo">
+            <prop type="folio">F.244.b</prop>
+            <prop type="location-id">translation</prop>
+            <prop type="revision">v-2.24.2-2020</prop>
+            <tuv xml:lang="bo">
                 <seg>འཕགས་པ་ཀུན་རྫོབ་དང་དོན་དམ་པའི་བདེན་པ་བསྟན་པ</seg>
             </tuv>
             <tuv xml:lang="en">
@@ -144,13 +146,14 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-14">
-           <prop type="folio">F.245.a</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.245.a</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-18</prop>
             <tuv xml:lang="bo">
                 <seg>བཅོམ་ལྡན་འདས་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ད་ལྟར་གང་ན་མཆིས་</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>“Blessed One, where is Mañjuśrī Kumārabhuta now?</seg>
+                <seg>“Blessed One, where is Mañjuśrī Kumārabhūta now?</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-15">
@@ -209,13 +212,14 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-20">
-           <prop type="folio">F.245.a</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.245.a</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-19</prop>
             <tuv xml:lang="bo">
                 <seg>འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པའང་ད་ལྟར་དེ་ན་འདུག་གོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>and Mañjuśrī Kumārabhuta is there now.”</seg>
+                <seg>and Mañjuśrī Kumārabhūta is there now.”</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-21">
@@ -230,13 +234,14 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-22">
-           <prop type="folio">F.245.a</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.245.a</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-20</prop>
             <tuv xml:lang="bo">
                 <seg>བཅོམ་ལྡན་འདས་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་ཅི་ནས་དེ་མཚན་མ་རིག་པས་འདིར་མཆི་བར་སེམས་པ་དེ་ལྟ་བུའི་མཚན་མ་ཞིག་མཛད་ན་ལེགས་སོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>“Blessed One, it would be wonderful if a sign were made such that Mañjuśrī Kumārabhuta, upon seeing it, would wish to return here.</seg>
+                <seg>“Blessed One, it would be wonderful if a sign were made such that Mañjuśrī Kumārabhūta, upon seeing it, would wish to return here.</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-23">
@@ -251,13 +256,14 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-24">
-           <prop type="folio">F.245.a</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.245.a</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-20</prop>
             <tuv xml:lang="bo">
                 <seg>བཅོམ་ལྡན་འདས་ཇི་ལྟར་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལས་ཐོས་པ་ལྟ་བུར་ཉན་ཐོས་དང་</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>Blessed One, that Dharma teachings such as those of Mañjuśrī Kumārabhuta are not to be heard from any of the hearers,</seg>
+                <seg>Blessed One, that Dharma teachings such as those of Mañjuśrī Kumārabhūta are not to be heard from any of the hearers,</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-25">
@@ -371,13 +377,14 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-35">
-           <prop type="folio">F.245.a</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.245.a</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-21</prop>
             <tuv xml:lang="bo">
                 <seg>ཞལ་གྱི་མཛོད་སྤུ་ནས་འོད་ཟེར་གཅིག་བཏང་སྟེ།</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>and sent out a beam of light from the ūrṇa hair on his brow.</seg>
+                <seg>and sent out a beam of light from the ūrṇā hair on his brow. </seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-36">
@@ -491,13 +498,14 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-46">
-           <prop type="folio">F.245.b</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.245.b</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-22</prop>
             <tuv xml:lang="bo">
                 <seg>བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཤཱཀྱ་ཐུབ་པ་དེས་ཞལ་གྱི་མཛོད་སྤུ་ནས་འོད་ཟེར་གཅིག་བཏང་བས།</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>The Blessed, thus-gone, worthy, perfect Buddha Śākyamuni sent out a beam of light from the ūrṇa hair on his brow,</seg>
+                <seg>The Blessed, thus-gone, worthy, perfect Buddha Śākyamuni sent out a beam of light from the ūrṇā hair on his brow,</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-47">
@@ -545,13 +553,14 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-51">
-           <prop type="folio">F.245.b</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.245.b</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-23</prop>
             <tuv xml:lang="bo">
                 <seg>འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་སྦྲན་པའི་ཕྱིར་རོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>“He did so in order to summon Mañjuśrī Kumārabhuta.</seg>
+                <seg>“He did so in order to summon Mañjuśrī Kumārabhūta.</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-52">
@@ -588,23 +597,25 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-55">
-           <prop type="folio">F.246.a</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.246.a</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-23</prop>
             <tuv xml:lang="bo">
                 <seg>འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་བལྟ་བ་དང་། ཆོས་ཉན་པར་འདོད་དོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>They all want to behold Mañjuśrī Kumārabhuta and hear him teach the Dharma.”</seg>
+                <seg>They all want to behold Mañjuśrī Kumārabhūta and hear him teach the Dharma.”</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-56">
-           <prop type="folio">F.246.a</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.246.a</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-24</prop>
             <tuv xml:lang="bo">
                 <seg>དེ་ནས་དེ་བཞིན་གཤེགས་པ་རིན་པོ་ཆེའི་ཏོག་གིས་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>The Thus-gone Ratnaketu then said to Mañjuśrī Kumārabhuta,</seg>
+                <seg>The Thus-gone Ratnaketu then said to Mañjuśrī Kumārabhūta,</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-57">
@@ -652,13 +663,14 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-61">
-           <prop type="folio">F.246.a</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.246.a</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-25</prop>
             <tuv xml:lang="bo">
                 <seg>དེ་ནས་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་བྱང་ཆུབ་སེམས་དཔའ་སྟོང་ཕྲག་བཅུ་དང་ལྷན་ཅིག་ཏུ་དེ་བཞིན་གཤེགས་པ་རིན་པོ་ཆེའི་ཏོག་གི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ།</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>So Mañjuśrī Kumārabhuta, along with ten thousand bodhisattvas, bowed at the feet of the Thus-gone Ratnaketu.</seg>
+                <seg>So Mañjuśrī Kumārabhūta, along with ten thousand bodhisattvas, bowed at the feet of the Thus-gone Ratnaketu.</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-62">
@@ -772,13 +784,14 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-72">
-           <prop type="folio">F.246.a</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.246.a</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-26</prop>
             <tuv xml:lang="bo">
                 <seg>འདི་ནི་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་འཇིག་རྟེན་གྱི་ཁམས་རིན་པོ་ཆེ་དང་ལྡན་པ་ནས་བྱང་ཆུབ་སེམས་དཔའ་སྟོང་ཕྲག་བཅུ་དང་འགྲོགས་ཏེ།</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>“Mañjuśrī Kumārabhuta, accompanied by ten thousand bodhisattvas,</seg>
+                <seg>“Mañjuśrī Kumārabhūta, accompanied by ten thousand bodhisattvas,</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-73">
@@ -804,23 +817,25 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-75">
-           <prop type="folio">F.246.b</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.246.b</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-27</prop>
             <tuv xml:lang="bo">
                 <seg>བཅོམ་ལྡན་འདས་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་དེ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དེ་དག་བདག་ཅག་གིས་བལྟའོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>“Blessed One, we would like to see Mañjuśrī Kumārabhuta and those bodhisattva great beings.”</seg>
+                <seg>“Blessed One, we would like to see Mañjuśrī Kumārabhūta and those bodhisattva great beings.”</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-76">
-           <prop type="folio">F.246.b</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.246.b</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-27</prop>
             <tuv xml:lang="bo">
                 <seg>དེ་ནས་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ། བྱང་ཆུབ་སེམས་དཔའ་སྟོང་ཕྲག་བཅུ་དང་ལྷན་ཅིག་ཏུ་བར་སྣང་ལས་བབས་ཏེ།</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>At that point, Mañjuśrī Kumārabhuta and the ten thousand bodhisattvas descended from the sky.</seg>
+                <seg>At that point, Mañjuśrī Kumārabhūta and the ten thousand bodhisattvas descended from the sky.</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-77">
@@ -835,13 +850,14 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-78">
-           <prop type="folio">F.246.b</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.246.b</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-27</prop>
             <tuv xml:lang="bo">
                 <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དེ་དག་དང་། འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་རང་རང་གི་རྫུ་འཕྲུལ་གྱིས་སྤྲུལ་པའི་སྟན་ལ་འཁོད་དོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>Mañjuśrī Kumārabhuta and the bodhisattva great beings each sat down on their own miraculously emanated seat.</seg>
+                <seg>Mañjuśrī Kumārabhūta and the bodhisattva great beings each sat down on their own miraculously emanated seat.</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-79">
@@ -878,13 +894,14 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-82">
-           <prop type="folio">F.246.b</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.246.b</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-28</prop>
             <tuv xml:lang="bo">
                 <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་མཆིད་ཀྱི་རྒྱུད་འགའ་ཞིག་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་སྨྲར་གསོལ།</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>so please ask Mañjuśrī Kumārabhuta to teach.”</seg>
+                <seg>so please ask Mañjuśrī Kumārabhūta to teach.”</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-83">
@@ -1790,13 +1807,14 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-165">
-           <prop type="folio">F.247.b</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.247.b</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-36</prop>
             <tuv xml:lang="bo">
                 <seg>འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པས་དོན་དམ་པའི་བདེན་པ་བསྟན་པ་འདི་མི་སྟོན་པའི་ཚུལ་གྱིས་བསྟན་པ་ན་</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>When Mañjuśrī Kumārabhuta had given this teaching on the ultimate truth without teaching,</seg>
+                <seg>When Mañjuśrī Kumārabhūta had given this teaching on the ultimate truth without teaching,</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-166">
@@ -3351,13 +3369,14 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-307">
-           <prop type="folio">F.250.a</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.250.a</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-50</prop>
             <tuv xml:lang="bo">
                 <seg>འཇམ་དཔལ་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རིན་པོ་ཆེའི་ཏོག་དེའི་ཉན་ཐོས་ཀྱི་དགེ་འདུན་དེ་ཅི་འདྲ།</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>Kumārabhuta, “Mañjuśrī, how is the spiritual community of hearers that belong to the Blessed, thus-gone, worthy, perfect Buddha Ratnaketu?”</seg>
+                <seg>“Mañjuśrī, how is the spiritual community of hearers that belong to the Blessed, thus-gone, worthy, perfect Buddha Ratnaketu?”</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-308">
@@ -3735,13 +3754,14 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-342">
-           <prop type="folio">F.251.a</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.251.a</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-53</prop>
             <tuv xml:lang="bo">
                 <seg>མི་སྒོམ་པའི་ཚུལ་གྱིས་སྟོབས་ཀྱང་སྒོམ་མོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>they train, without training, in the power‌s.</seg>
+                <seg>they train, without training, in the powers</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-343">
@@ -4306,13 +4326,14 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-394">
-           <prop type="folio">F.252.a</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.252.a</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-59</prop>
             <tuv xml:lang="bo">
                 <seg>འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པས་མི་དམིགས་པའི་ཚུལ་གྱིས་བསྟན་པ་འདི་བཤད་པ་ན་</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>When Mañjuśrī Kumārabhuta delivered this teaching in a manner beyond reference points,</seg>
+                <seg>When Mañjuśrī Kumārabhūta delivered this teaching in a manner beyond reference points,</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-395">
@@ -4426,13 +4447,14 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-405">
-           <prop type="folio">F.252.a</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.252.a</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-61</prop>
             <tuv xml:lang="bo">
                 <seg>ལྷའི་བུ་རབ་ཏུ་ཞི་བ་རྣམ་པར་དུལ་བའི་དབང་ཕྱུག་གིས་ཡང་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>The god Lord of Peace and Calm then asked Mañjuśrī Kumārabhuta,</seg>
+                <seg>The god Lord of Peace and Calm then asked Mañjuśrī Kumārabhūta,</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-406">
@@ -4722,89 +4744,41 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-432">
-           <prop type="folio">F.253.a</prop>
-           <prop type="location-id">UT22084-060-008-72</prop>
-            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="folio">F.253.a</prop>
+            <prop type="location-id">UT22084-060-008-72</prop>
+            <prop type="revision">v-2.24.2-2020</prop>
             <tuv xml:lang="bo">
-                <seg>ལྷའི་བུ་མདོར་ན་ཚད་དུ་གཏོགས་པ་ཚད་ཀྱི་ཆོས་ཀྱིས་དྲངས་པ་ནི་ཉན་ཐོས་ཀྱི་འདུལ་བའོ། །</seg>
+                <seg>ལྷའི་བུ་མདོར་ན་ཚད་དུ་གཏོགས་པ་ཚད་ཀྱི་ཆོས་ཀྱིས་དྲངས་པ་ནི་ཉན་ཐོས་ཀྱི་འདུལ་བའོ། །​ཚད་དུ་གཏོགས་པ་མ་ཡིན་པ་ཚད་མེད་པའི་ཆོས་ཀྱིས་དྲངས་པ་ནི་ཀུན་རྫོབ་ཏུ་ན་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོའི་འདུལ་བའོ། །​</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>“Divine son, in short, the vinaya of the hearers is derived from a Dharma that is limited and confined.</seg>
+                <seg>“Divine son, in short, the vinaya of the hearers is derived from a Dharma that is limited and confined. However, relatively, the vinaya of the bodhisattva great beings follows a Dharma that is limitless and beyond measure.</seg>
             </tuv>
         </tu>
-        <tu id="UT22084-060-008-TU-433">
-           <prop type="folio">F.253.a</prop>
-           <prop type="location-id">UT22084-060-008-72</prop>
-            <prop type="revision">v-2.24.13-2023</prop>
-            <tuv xml:lang="bo">
-                <seg>ཚད་དུ་གཏོགས་པ་མ་ཡིན་པ་ཚད་མེད་པའི་ཆོས་ཀྱིས་དྲངས་པ་ནི་ཀུན་རྫོབ་ཏུ་ན་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོའི་འདུལ་བའོ། །</seg>
-            </tuv>
-            <tuv xml:lang="en">
-                <seg>However, relatively, the vinaya of the bodhisattva great beings follows a Dharma that is limitless and beyond measure.</seg>
-            </tuv>
-        </tu>
+        
         <tu id="UT22084-060-008-TU-434">
-           <prop type="folio">F.253.a</prop>
-           <prop type="location-id">UT22084-060-008-73</prop>
-            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="folio">F.253.a</prop>
+            <prop type="location-id">UT22084-060-008-73</prop>
+            <prop type="revision">v-2.24.2-2020</prop>
             <tuv xml:lang="bo">
-                <seg>ཚད་ཡོད་པའི་ཚུལ་ཁྲིམས་དང་།</seg>
+                <seg>ཚད་ཡོད་པའི་ཚུལ་ཁྲིམས་དང་། ཐོས་པ་དང་། ཏིང་ངེ་འཛིན་དང་། ཤེས་རབ་དང་། རྣམ་པར་གྲོལ་བ་དང་། རྣམ་པར་གྲོལ་བའི་ཡེ་ཤེས་མཐོང་བ་ཐོབ་པར་བྱེད་པ་ནི་ཉན་ཐོས་ཀྱི་འདུལ་བའོ། །​ཚད་ཡོད་པ་མ་ཡིན་པ། ཚད་མེད་པའི་ཡོན་ཏན་དང་ལྡན་ཞིང་། ཚད་མེད་པའི་ཚུལ་ཁྲིམས་དང་། ཐོས་པ་དང་། ཏིང་ངེ་འཛིན་དང་། ཤེས་རབ་དང་། རྣམ་པར་གྲོལ་བ་དང་། རྣམ་པར་གྲོལ་བའི་ཡེ་ཤེས་མཐོང་བ་ཐོབ་པར་བྱེད་པ་ནི་ཀུན་རྫོབ་ཏུ་ན་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོའི་རྣམ་པར་གྲོལ་བའོ། །​</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>“The vinaya of the hearers brings the attainment of limited discipline,</seg>
+                <seg>“The vinaya of the hearers brings the attainment of limited discipline, learning, absorption, knowledge, liberation, and vision of the wisdom of liberation. However, relatively, the vinaya of the bodhisattva great beings knows no bounds, possesses limitless qualities, and makes one attain limitless discipline, learning, absorption, knowledge, liberation, and vision of the wisdom of liberation.” </seg>
             </tuv>
         </tu>
-        <tu id="UT22084-060-008-TU-435">
-           <prop type="folio">F.253.a</prop>
-           <prop type="location-id">UT22084-060-008-73</prop>
-            <prop type="revision">v-2.24.13-2023</prop>
-            <tuv xml:lang="bo">
-                <seg>ཐོས་པ་དང་། ཏིང་ངེ་འཛིན་དང་། ཤེས་རབ་དང་། རྣམ་པར་གྲོལ་བ་དང་། རྣམ་པར་གྲོལ་བའི་ཡེ་ཤེས་མཐོང་བ་ཐོབ་པར་བྱེད་པ་ནི་ཉན་ཐོས་ཀྱི་འདུལ་བའོ། །</seg>
-            </tuv>
-            <tuv xml:lang="en">
-                <seg>learning, absorption, knowledge, liberation, and vision of the wisdom of liberation.</seg>
-            </tuv>
-        </tu>
-        <tu id="UT22084-060-008-TU-436">
-           <prop type="folio">F.253.a</prop>
-           <prop type="location-id">UT22084-060-008-73</prop>
-            <prop type="revision">v-2.24.13-2023</prop>
-            <tuv xml:lang="bo">
-                <seg>ཚད་མེད་པའི་ཡོན་ཏན་དང་ལྡན་ཞིང་། ཚད་ཡོད་པ་མ་ཡིན་པ།</seg>
-            </tuv>
-            <tuv xml:lang="en">
-                <seg>possesses limitless qualities,</seg>
-            </tuv>
-        </tu>
-        <tu id="UT22084-060-008-TU-437">
-           <prop type="folio">F.253.a</prop>
-           <prop type="location-id">UT22084-060-008-73</prop>
-            <prop type="revision">v-2.24.13-2023</prop>
-            <tuv xml:lang="bo">
-                <seg>ཚད་མེད་པའི་ཚུལ་ཁྲིམས་དང་། ཐོས་པ་དང་། ཏིང་ངེ་འཛིན་དང་། ཤེས་རབ་དང་། རྣམ་པར་གྲོལ་བ་དང་།</seg>
-            </tuv>
-            <tuv xml:lang="en">
-                <seg>and makes one attain limitless discipline, learning, absorption, knowledge, liberation,</seg>
-            </tuv>
-        </tu>
-        <tu id="UT22084-060-008-TU-438">
-           <prop type="folio">F.253.a</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
-            <tuv xml:lang="bo">
-                <seg>རྣམ་པར་གྲོལ་བའི་ཡེ་ཤེས་མཐོང་བ་ཐོབ་པར་བྱེད་པ་ནི་ཀུན་རྫོབ་ཏུ་ན་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོའི་རྣམ་པར་གྲོལ་བའོ། །</seg>
-            </tuv>
-            <tuv xml:lang="en">
-                <seg>and vision of the wisdom of liberation.” However, relatively, the vinaya of the bodhisattva great beings knows no bounds,</seg>
-            </tuv>
-        </tu>
+        
+        
+        
+        
         <tu id="UT22084-060-008-TU-439">
-           <prop type="folio">F.253.a</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.253.a</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-74</prop>
             <tuv xml:lang="bo">
                 <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་ལེགས་སོ། །ཞེས་བྱ་བ་བྱིན་ཏེ།</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>At this point, the Blessed One expressed his approval of Mañjuśrī Kumārabhuta: “Well said, Mañjuśrī!</seg>
+                <seg>At this point, the Blessed One expressed his approval of Mañjuśrī Kumārabhūta: “Well said, Mañjuśrī! </seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-440">
@@ -4831,13 +4805,13 @@
         </tu>
         <tu id="UT22084-060-008-TU-442">
            <prop type="folio">F.253.a</prop>
-           <prop type="location-id">UT22084-060-008-18</prop>
+           <prop type="location-id">UT22084-060-008-74</prop>
             <prop type="revision">v-2.24.13-2023</prop>
             <tuv xml:lang="bo">
                 <seg>འཇམ་དཔལ་འདི་ལྟ་སྟེ།</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>Mañjuśrī</seg>
+                <seg>Mañjuśrī,</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-443">
@@ -5072,13 +5046,14 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-464">
-           <prop type="folio">F.253.b</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.253.b</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-78</prop>
             <tuv xml:lang="bo">
                 <seg>དེ་ནས་ལྷའི་བུ་རབ་ཏུ་ཞི་བ་རྣམ་པར་དུལ་བའི་དབང་ཕྱུག་གིས་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>The god Lord of Peace and Calm asked Mañjuśrī Kumārabhuta,</seg>
+                <seg>The god Lord of Peace and Calm asked Mañjuśrī Kumārabhūta,</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-465">
@@ -6413,13 +6388,14 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-586">
-           <prop type="folio">F.255.b</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.255.b</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-96</prop>
             <tuv xml:lang="bo">
                 <seg>ཀུན་རྫོབ་ཏུ་ན་སྟོབས་རྣམས་ནི་ཉོན་མོངས་པ་ཐམས་ཅད་འཇོམས་པའི་སྒོའོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>On the relative level, the power‌s are a gateway to conquering all disturbing emotions.</seg>
+                <seg>On the relative level, the powers are a gateway to conquering all disturbing emotions.</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-587">
@@ -9195,13 +9171,14 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-839">
-           <prop type="folio">F.260.a</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.260.a</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-146</prop>
             <tuv xml:lang="bo">
                 <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>The Blessed One now addressed Mañjuśrī Kumārabhuta.</seg>
+                <seg>The Blessed One now addressed Mañjuśrī Kumārabhūta. </seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-840">
@@ -10041,13 +10018,14 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-916">
-           <prop type="folio">F.261.b</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.261.b</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-155</prop>
             <tuv xml:lang="bo">
                 <seg>བདེ་བར་གཤེགས་པ་དེ་མ་ལགས་སོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>Blissful One, they would not.”</seg>
+                <seg>Well-Gone One, they would not.”</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-917">
@@ -10304,13 +10282,14 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-940">
-           <prop type="folio">F.262.a</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.262.a</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-157</prop>
             <tuv xml:lang="bo">
                 <seg>བདེ་བར་གཤེགས་པ་དེ་མ་ལགས་སོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>Blissful One, it could not.”</seg>
+                <seg>Well-Gone One, it could not.”</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-941">
@@ -10545,13 +10524,14 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-962">
-           <prop type="folio">F.262.b</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.262.b</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-159</prop>
             <tuv xml:lang="bo">
                 <seg>བདེ་བར་གཤེགས་པ་ངོ་མཚར་ཏོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>Blissful One, that is amazing!</seg>
+                <seg>Well-Gone One, that is amazing!</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-963">
@@ -10856,118 +10836,21 @@
            <prop type="location-id">UT22084-060-008-161</prop>
             <prop type="revision">v-2.24.13-2023</prop>
             <tuv xml:lang="bo">
-                <seg>དེ་ནས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དེ་རྣམས་ཀྱིས།</seg>
+                <seg> བྱུག་པ་དང་། ཕྱེ་མ་དང་། ཆོས་གོས་དང་། གདུགས་དང་། རྒྱལ་མཚན་དང་། བ་དན་དང་། རྣམ་པར་རྒྱལ་བའི་བ་དོན་དང་བཅས་པའི་བླ་རེས། བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཤཱཀྱ་ཐུབ་པ་ལ་བླ་ན་མེད་པའི་མཆོད་པ་བྱས་ནས། </seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>The bodhisattva great beings then began to venerate the Blessed, Thus-gone, Worthy, Perfect Buddha Śākyamuni with exquisite offerings,</seg>
-            </tuv>
-        </tu>
-        <tu id="UT22084-060-008-TU-991">
-           <prop type="folio">F.263.a</prop>
-           <prop type="location-id">UT22084-060-008-161</prop>
-            <prop type="revision">v-2.24.13-2023</prop>
-            <tuv xml:lang="bo">
-                <seg>ལྷའི་མེ་ཏོག་དང་།</seg>
-            </tuv>
-            <tuv xml:lang="en">
-                <seg>such as divine flowers,</seg>
-            </tuv>
-        </tu>
-        <tu id="UT22084-060-008-TU-992">
-           <prop type="folio">F.263.a</prop>
-           <prop type="location-id">UT22084-060-008-161</prop>
-            <prop type="revision">v-2.24.13-2023</prop>
-            <tuv xml:lang="bo">
-                <seg>སྤོས་དང་།</seg>
-            </tuv>
-            <tuv xml:lang="en">
-                <seg>fragrant herbs,</seg>
-            </tuv>
-        </tu>
-        <tu id="UT22084-060-008-TU-993">
-           <prop type="folio">F.263.b</prop>
-           <prop type="location-id">UT22084-060-008-161</prop>
-            <prop type="revision">v-2.24.13-2023</prop>
-            <tuv xml:lang="bo">
-                <seg>བདུག་པ་དང་། ཕྲེང་བ་དང་།</seg>
-            </tuv>
-            <tuv xml:lang="en">
-                <seg>incense, flower garlands,</seg>
-            </tuv>
-        </tu>
-        <tu id="UT22084-060-008-TU-994">
-           <prop type="folio">F.263.b</prop>
-           <prop type="location-id">UT22084-060-008-161</prop>
-            <prop type="revision">v-2.24.13-2023</prop>
-            <tuv xml:lang="bo">
-                <seg>བྱུག་པ་དང་། ཕྱེ་མ་དང་།</seg>
-            </tuv>
-            <tuv xml:lang="en">
-                <seg>unguents, powders,</seg>
-            </tuv>
-        </tu>
-        <tu id="UT22084-060-008-TU-995">
-           <prop type="folio">F.263.b</prop>
-           <prop type="location-id">UT22084-060-008-161</prop>
-            <prop type="revision">v-2.24.13-2023</prop>
-            <tuv xml:lang="bo">
-                <seg>ཆོས་གོས་དང་། གདུགས་དང་།</seg>
-            </tuv>
-            <tuv xml:lang="en">
-                <seg>robes, parasols,</seg>
-            </tuv>
-        </tu>
-        <tu id="UT22084-060-008-TU-996">
-           <prop type="folio">F.263.b</prop>
-           <prop type="location-id">UT22084-060-008-161</prop>
-            <prop type="revision">v-2.24.13-2023</prop>
-            <tuv xml:lang="bo">
-                <seg>རྒྱལ་མཚན་དང་། བ་དན་དང་།</seg>
-            </tuv>
-            <tuv xml:lang="en">
-                <seg>standards, banners,</seg>
-            </tuv>
-        </tu>
-        <tu id="UT22084-060-008-TU-997">
-           <prop type="folio">F.263.b</prop>
-           <prop type="location-id">UT22084-060-008-161</prop>
-            <prop type="revision">v-2.24.13-2023</prop>
-            <tuv xml:lang="bo">
-                <seg>རྣམ་པར་རྒྱལ་བའི་བ་དོན་དང་བཅས་པའི་བླ་རེས།</seg>
-            </tuv>
-            <tuv xml:lang="en">
-                <seg>and canopies with victory banners.</seg>
+                <seg>The bodhisattva great beings then began to venerate the Blessed, Thus-gone, Worthy, Perfect Buddha Śākyamuni with exquisite offerings, such as divine flowers, fragrant herbs, incense, flower garlands, unguents, powders, robes, parasols, standards, banners, and canopies with victory banners.</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-998">
-           <prop type="folio">F.263.b</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.263.b</prop>
+            <prop type="revision">v-2.24.2-2020</prop>
+            <prop type="location-id">UT22084-060-008-161</prop>
             <tuv xml:lang="bo">
-                <seg>བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཤཱཀྱ་ཐུབ་པ་ལ་བླ་ན་མེད་པའི་མཆོད་པ་བྱས་ནས།</seg>
+                <seg>འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ། །​འཇམ་དཔལ་བདག་ཅག་འཇིག་རྟེན་གྱི་ཁམས་རིན་པོ་ཆེ་དང་ལྡན་པ་ཞེས་བྱ་བར་འདོང་ངོ་། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>They addressed Mañjuśrī Kumārabhuta.</seg>
-            </tuv>
-        </tu>
-        <tu id="UT22084-060-008-TU-999">
-           <prop type="folio">F.263.b</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
-            <tuv xml:lang="bo">
-                <seg>འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ། །</seg>
-            </tuv>
-            <tuv xml:lang="en">
-                <seg>“Mañjuśrī,” they said,</seg>
-            </tuv>
-        </tu>
-        <tu id="UT22084-060-008-TU-1000">
-           <prop type="folio">F.263.b</prop>
-           <prop type="location-id">UT22084-060-008-162</prop>
-            <prop type="revision">v-2.24.13-2023</prop>
-            <tuv xml:lang="bo">
-                <seg>འཇམ་དཔལ་བདག་ཅག་འཇིག་རྟེན་གྱི་ཁམས་རིན་པོ་ཆེ་དང་ལྡན་པ་ཞེས་བྱ་བར་འདོང་ངོ་། །</seg>
-            </tuv>
-            <tuv xml:lang="en">
-                <seg>“we will now proceed to Jewel World.”</seg>
+                <seg>They addressed Mañjuśrī Kumārabhūta. “Mañjuśrī,” they said, “we will now proceed to Jewel World.”</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-1001">
@@ -11290,13 +11173,14 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-1030">
-           <prop type="folio">F.264.a</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.264.a</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-164</prop>
             <tuv xml:lang="bo">
                 <seg>དེ་ནས་དེའི་ཚེ་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པས་ཅི་ནས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་འདི་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་རིན་པོ་ཆེའི་ཏོག་གི་འཇིག་རྟེན་གྱི་ཁམས་རིན་པོ་ཆེ་དང་ལྡན་པ་ཞེས་བྱ་བ་དེ་ཅི་འདྲ་བ་དེ་འདྲ་བར་ལྷག་ཆད་མེད་པར་སྣང་བ་དེ་ལྟ་བུར་བསམ་པ་རབ་ཏུ་རྫོགས་ནས་དེ་འདྲ་བར་ཏིང་ངེ་འཛིན་ལ་སྙོམས་པར་ཞུགས་སོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>With these words, Mañjuśrī Kumārabhuta caused this trichiliocosm to appear precisely, without any difference, like the Jewel World of the Blessed, Thus-gone Ratnaketu.</seg>
+                <seg>With these words, Mañjuśrī Kumārabhūta caused this trichiliocosm to appear precisely, without any difference, like the Jewel World of the Blessed, Thus-gone Ratnaketu.</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-1031">
@@ -11421,13 +11305,14 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-1042">
-           <prop type="folio">F.264.a</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.264.a</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-165</prop>
             <tuv xml:lang="bo">
                 <seg>བཅོམ་ལྡན་འདས་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པས་བདག་ཅག་ཁྲིད་དོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>“Blessed One, Mañjuśrī Kumārabhuta led us.”</seg>
+                <seg>“Blessed One, Mañjuśrī Kumārabhūta led us.”</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-1043">
@@ -11442,23 +11327,25 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-1044">
-           <prop type="folio">F.264.a</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.264.a</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-165</prop>
             <tuv xml:lang="bo">
                 <seg>རིགས་ཀྱི་བུ་ཁྱེད་ནི་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པས་མ་འོངས་མ་སོང་བའི་ཚུལ་གྱིས་ཕྱིན་པར་བྱས་སོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>“Children of noble family, Mañjuśrī Kumārabhuta has brought you here without coming and going.”</seg>
+                <seg>“Children of noble family, Mañjuśrī Kumārabhūta has brought you here without coming and going.”</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-1045">
-           <prop type="folio">F.264.a</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.264.a</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-165</prop>
             <tuv xml:lang="bo">
                 <seg>དེ་ནས་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དེ་དག་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ། །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>Mañjuśrī Kumārabhuta told the bodhisattva great beings.</seg>
+                <seg>Mañjuśrī Kumārabhūta told the bodhisattva great beings.</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-1046">
@@ -11539,8 +11426,9 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-1053">
-           <prop type="folio">F.264.b</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.264.b</prop>
+            <prop type="location-id">UT22084-060-008-167</prop>
+            <prop type="revision">v-2.24.2-2020</prop>
             <tuv xml:lang="bo">
                 <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཤཱཀྱ་ཐུབ་པས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དེ་དག་ལ་བཀའ་སྩལ་པ།</seg>
             </tuv>
@@ -11549,8 +11437,9 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-1054">
-           <prop type="folio">F.264.b</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.264.b</prop>
+            <prop type="location-id">UT22084-060-008-167</prop>
+            <prop type="revision">v-2.24.2-2020</prop>
             <tuv xml:lang="bo">
                 <seg>རིགས་ཀྱི་བུ་དག་འདི་ལྟ་སྟེ། དཔེར་ན་</seg>
             </tuv>
@@ -11691,13 +11580,14 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-1067">
-           <prop type="folio">F.264.b</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.264.b</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-167</prop>
             <tuv xml:lang="bo">
                 <seg>ཨ་མྲ་གར་བ་དང་། སྤུག་དང་།</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>The list also includes one type of stone cat’s eye,</seg>
+                <seg>cat’s eye,</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-1068">
@@ -12317,13 +12207,14 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-1124">
-           <prop type="folio">F.265.a</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.265.a</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-168</prop>
             <tuv xml:lang="bo">
                 <seg>སྟོབས་ལྔ་དང་།</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>the five power‌s,</seg>
+                <seg>the five powers</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-1125">
@@ -12646,101 +12537,14 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-1153">
-           <prop type="folio">F.265.b</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
-            <tuv xml:lang="bo">
-                <seg>བཅོམ་ལྡན་འདས་སེམས་ཅན་ཐམས་ཅད་འདི་ལྟ་བུའི་སེང་གེའི་སྒྲ།</seg>
-            </tuv>
-            <tuv xml:lang="en">
-                <seg>“Blessed One, a lion’s roar,</seg>
-            </tuv>
-        </tu>
-        <tu id="UT22084-060-008-TU-1154">
-           <prop type="folio">F.265.b</prop>
-           <prop type="location-id">UT22084-060-008-170</prop>
+            <prop type="folio">F.265.b</prop>
             <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-170</prop>
             <tuv xml:lang="bo">
-                <seg>བྱེ་བྲག་ཏུ་འཕགས་པའི་སྒྲ།</seg>
+                <seg>བཅོམ་ལྡན་འདས་སེམས་ཅན་ཐམས་ཅད་འདི་ལྟ་བུའི་སེང་གེའི་སྒྲ། བྱེ་བྲག་ཏུ་འཕགས་པའི་སྒྲ། ཁྱུ་མཆོག་གི་སྒྲ། སྐྱེས་བུ་ཆེན་པོའི་སྒྲ། ཡང་དག་པའི་སྒྲ། དེ་ཁོ་ནའི་སྒྲ། མི་དམིགས་པའི་སྒྲ། དོན་དམ་པའི་སྒྲ། མི་དམིགས་པའི་ཚུལ་གྱིས་འབྱིན་པར་གྱུར་ཅིག །</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>an especially exalted sound,</seg>
-            </tuv>
-        </tu>
-        <tu id="UT22084-060-008-TU-1155">
-           <prop type="folio">F.265.b</prop>
-           <prop type="location-id">UT22084-060-008-170</prop>
-            <prop type="revision">v-2.24.13-2023</prop>
-            <tuv xml:lang="bo">
-                <seg>ཁྱུ་མཆོག་གི་སྒྲ།</seg>
-            </tuv>
-            <tuv xml:lang="en">
-                <seg>the sound of the supreme leader,</seg>
-            </tuv>
-        </tu>
-        <tu id="UT22084-060-008-TU-1156">
-           <prop type="folio">F.265.b</prop>
-           <prop type="location-id">UT22084-060-008-170</prop>
-            <prop type="revision">v-2.24.13-2023</prop>
-            <tuv xml:lang="bo">
-                <seg>སྐྱེས་བུ་ཆེན་པོའི་སྒྲ།</seg>
-            </tuv>
-            <tuv xml:lang="en">
-                <seg>the sound of a great being,</seg>
-            </tuv>
-        </tu>
-        <tu id="UT22084-060-008-TU-1157">
-           <prop type="folio">F.265.b</prop>
-           <prop type="location-id">UT22084-060-008-170</prop>
-            <prop type="revision">v-2.24.13-2023</prop>
-            <tuv xml:lang="bo">
-                <seg>ཡང་དག་པའི་སྒྲ།</seg>
-            </tuv>
-            <tuv xml:lang="en">
-                <seg>a sound of the genuine,</seg>
-            </tuv>
-        </tu>
-        <tu id="UT22084-060-008-TU-1158">
-           <prop type="folio">F.265.b</prop>
-           <prop type="location-id">UT22084-060-008-170</prop>
-            <prop type="revision">v-2.24.13-2023</prop>
-            <tuv xml:lang="bo">
-                <seg>དེ་ཁོ་ནའི་སྒྲ།</seg>
-            </tuv>
-            <tuv xml:lang="en">
-                <seg>the sound of thatness,</seg>
-            </tuv>
-        </tu>
-        <tu id="UT22084-060-008-TU-1159">
-           <prop type="folio">F.265.b</prop>
-           <prop type="location-id">UT22084-060-008-170</prop>
-            <prop type="revision">v-2.24.13-2023</prop>
-            <tuv xml:lang="bo">
-                <seg>མི་དམིགས་པའི་སྒྲ།</seg>
-            </tuv>
-            <tuv xml:lang="en">
-                <seg>a sound beyond reference point,</seg>
-            </tuv>
-        </tu>
-        <tu id="UT22084-060-008-TU-1160">
-           <prop type="folio">F.265.b</prop>
-           <prop type="location-id">UT22084-060-008-170</prop>
-            <prop type="revision">v-2.24.13-2023</prop>
-            <tuv xml:lang="bo">
-                <seg>དོན་དམ་པའི་སྒྲ།</seg>
-            </tuv>
-            <tuv xml:lang="en">
-                <seg>the sound of the ultimate.”</seg>
-            </tuv>
-        </tu>
-        <tu id="UT22084-060-008-TU-1161">
-           <prop type="folio">F.265.b</prop>
-           <prop type="location-id">UT22084-060-008-170</prop>
-            <prop type="revision">v-2.24.13-2023</prop>
-            <tuv xml:lang="bo">
-                <seg>མི་དམིགས་པའི་ཚུལ་གྱིས་འབྱིན་པར་གྱུར་ཅིག །</seg>
-            </tuv>
-            <tuv xml:lang="en">
-                <seg>in a manner beyond reference point, please emit your sound to all beings:</seg>
+                <seg>“Blessed One, in a manner beyond reference point, please emit your sound to all beings: a lion’s roar, an especially exalted sound, the sound of the supreme leader, the sound of a great being, a sound of the genuine, the sound of thatness, a sound beyond reference point, the sound of the ultimate.”</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-1162">
@@ -12832,13 +12636,14 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-1170">
-           <prop type="folio">F.265.b</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.265.b</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-172</prop>
             <tuv xml:lang="bo">
                 <seg>འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་སྟན་དེ་ལ་འདུག་སྟེ་མ་ལངས་པར་འདི་འདྲ་བའི་ཏིང་ངེ་འཛིན་ལ་མཉམ་པར་བཞག་སྟེ།</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>Mañjuśrī Kumārabhuta did not get up, but remained on his seat, resting evenly in absorption.</seg>
+                <seg>Mañjuśrī Kumārabhūta did not get up, but remained on his seat, resting evenly in absorption.</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-1171">
@@ -13227,13 +13032,14 @@
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-1206">
-           <prop type="folio">F.266.a</prop>
-           <prop type="unmatched">v-2.24.13-2023</prop>
+            <prop type="folio">F.266.a</prop>
+            <prop type="revision">v-2.24.13-2023</prop>
+            <prop type="location-id">UT22084-060-008-174</prop>
             <tuv xml:lang="bo">
                 <seg>དེ་ནས་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ཏིང་ངེ་འཛིན་དེ་ལས་ལངས་ཏེ།</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>Now Mañjuśrī Kumārabhuta emerged from his absorption.</seg>
+                <seg>Now Mañjuśrī Kumārabhūta emerged from his absorption.</seg>
             </tuv>
         </tu>
         <tu id="UT22084-060-008-TU-1207">
@@ -13403,7 +13209,7 @@
         </tu>
         <tu id="UT22084-060-008-TU-1222">
            <prop type="folio">F.266.b</prop>
-           <prop type="location-id">UT22084-060-008-18</prop>
+           <prop type="location-id">UT22084-060-008-176</prop>
             <prop type="revision">v-2.24.13-2023</prop>
             <tuv xml:lang="bo">
                 <seg>བཅོམ་ལྡན་འདས་</seg>
@@ -13601,7 +13407,7 @@
         </tu>
         <tu id="UT22084-060-008-TU-1240">
            <prop type="folio">F.266.b</prop>
-           <prop type="location-id">UT22084-060-008-27</prop>
+           <prop type="location-id">UT22084-060-008-73</prop>
             <prop type="revision">v-2.24.13-2023</prop>
             <tuv xml:lang="bo">
                 <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དེ་དག་དང་།</seg>

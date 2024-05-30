@@ -97,12 +97,13 @@
             </tuv>
         </tu>
         <tu id="UT22084-062-002-TU-10">
-            <prop type="unmatched">v-1.0.6-2022</prop>
+            <prop type="location-id">UT22084-062-002-19</prop>
+            <prop type="revision">v-1.0.6-2022</prop>
             <tuv xml:lang="bo">
                 <seg>བླ་ན་མེད་པའི་ཡེ་ཤེས་ཀྱི་ལམ་ལས་ཕྱིར་མི་ལྡོག་པའོ་ཞེས་བགྱི་བར་བདག་གིས་འཚལ་བར་འགྱུར་བ་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཀྱི་ངེས་པ་དང་མ་ངེས་པར་འགྲོ་བའི་ཕྱག་རྒྱ་ལ་འཇུག་པ་ཞེས་བགྱི་བའི་ཆོས་ཀྱི་རྣམ་གྲངས་བསྟན་དུ་གསོལ།</seg>
             </tuv>
             <tuv xml:lang="en">
-                <seg>And how may can evaluate whether, for those bodhisattvas, it is certain that they will attain unsurpassable, perfect awakening, and they will not turn back from the path leading to unsurpassable wisdom? Please teach the Dharma discourse that is called evaluating whether a bodhisattva’s progress is certain or uncertain, so that I will understand it.”</seg>
+                <seg>And how can one evaluate whether, for those bodhisattvas, it is certain that they will attain unsurpassable, perfect awakening, and they will not turn back from the path leading to unsurpassable wisdom? Please teach the Dharma discourse that is called evaluating whether a bodhisattva’s progress is certain or uncertain, so that I will understand it.”</seg>
             </tuv>
         </tu>
         <tu id="UT22084-062-002-TU-11">
@@ -2405,12 +2406,6 @@
                 <seg>This was translated, checked, and finalized by the Indian preceptors Prajñāvarma and Surendrabodhi and the chief editor-translator, the monk Yeshé Dé, and others.</seg>
             </tuv>
         </tu>
-    <tu id="UT22084-062-002-TU-241">
-            <prop type="revision">v-1.0.3-2022</prop>
-            <prop type="location-id">UT22084-062-002-19</prop>
-            <tuv xml:lang="en">
-                <seg>And how can one evaluate whether, for those bodhisattvas, it is certain that they will attain unsurpassable, perfect awakening, and they will not turn back from the path leading to unsurpassable wisdom? Please teach the Dharma discourse that is called evaluating whether a bodhisattva’s progress is certain or uncertain , so that I will understand it.” milestone:UT</seg>
-            </tuv>
-        </tu>
+    
         </body>
 </tmx>

@@ -387,11 +387,14 @@
             </tuv>
         </tu>
         <tu id="UT22084-074-003-TU-40">
-            <prop type="unmatched">v-1.0.5-2022</prop>
+            <prop type="location-id">UT22084-074-003-83</prop>
+            <prop type="revision">v-1.0.3-2022</prop>
             <tuv xml:lang="bo">
                 <seg>།།ཀུན་ཏུ་རྒྱུ་སེན་རིངས་ཀྱིས་ཞུས་པའི་མདོ་རྫོགས་སོ།། །།བཀའ་དང་པོར་གཏོགས་སོ།།</seg>
             </tuv>
-            
+            <tuv xml:lang="en">
+                <seg>This completes “The Sūtra of the Questions of Dīrghanakha the Wandering Mendicant.” It is included among the teachings of the first turning.</seg>
+            </tuv>
         </tu>
     </body>
 </tmx>

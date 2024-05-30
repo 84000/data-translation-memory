@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="linguae-dharmae/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-094-020" eft:text-version="v-1.0.3-2023"/>
+<body>
+<tu id="UT22084-094-020-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.236.a"/>༄༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་སརྦ་ཀརྨ་ཨཱ་བ་ར་ཎ་བི་ཤོ་དྷ་ནི་ནཱ་མདྷཱ་ར་ཎཱི། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-094-020-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ལས་ཀྱི་སྒྲིབ་པ་ཐམས་ཅད་རྣམ་པར་སྦྱོང་བ་ཞེས་བྱ་བའི་གཟུངས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Noble Dhāraṇī Purifying All Karmic Obscurations</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-020-TU-3">
+    <prop type="location-id">UT22084-094-020-58</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མི་འཁྲུགས་པ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-020-58"/>Obeisance to the Blessed Akṣobhya!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-020-TU-4">
+    <prop type="location-id">UT22084-094-020-58</prop>
+    <tuv xml:lang="bo">
+                <seg>ན་མོ་རཏྣ་ཏྲ་ཡཱ་ཡ། ཨོཾ་ཀཾ་ཀ་ནི་ཀཾ་ཀ་ནི། རོ་ཙ་ནི་རོ་ཙ་ནི། ཏྲོ་ཊ་ནི་ཏྲོ་ཊ་ནི། ཏྲཱ་ས་ནི་ཏྲཱ་ས་ནི། པྲ་ཏི་ཧ་ན་པྲ་ཏི་ཧ་ན། སརྦ་ཀརྨ་པ་རཾ་པ་རཱ་ཎི་མེ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>namo ratna­trayāya | oṃ kaṅkani kaṅkani rocani rocani troṭani troṭani trāsani trāsani pratihana pratihana sarva­karma­param­parāṇi me svāhā |</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-020-TU-5">
+    <prop type="location-id">UT22084-094-020-62</prop>
+    <tuv xml:lang="bo">
+                <seg>གཟུངས་སྔགས་འདིའི་ཆོག་ནི་འདི་ཡིན་ཏེ། རྟག་ཏུ་བཟླས་བརྗོད་བྱས་ན་ལས་གཅིག་ནས་གཅིག་ཏུ་བརྒྱུད་པ་ཐམས་ཅད་རྣམ་པར་དག་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-020-62"/>The application of this dhāraṇī is as follows: If one recites it constantly, the entire succession of karma will be purified one by one.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-020-TU-6">
+    <prop type="location-id">UT22084-094-020-62</prop>
+    <tuv xml:lang="bo">
+                <seg>དུས་གསུམ་དུ་བཟླས་བརྗོད་བྱས་ན་མཚམས་མེད་པ་ལྔ་ཡང་བྱང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one recites it at the three junctures of the day, even the five sins of immediate retribution will be purified.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-020-TU-7">
+    <prop type="location-id">UT22084-094-020-62</prop>
+    <tuv xml:lang="bo">
+                <seg>ལན་ཅིག་བཟླས་བརྗོད་བྱས་ན་ལྟས་ངན་པ་དང་། རྨི་ལམ་ངན་པ་དང་བཀྲ་མི་ཤིས་པ་རྣམས་མེད་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one recites it once, bad omens, bad dreams, and inauspicious events will disappear.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-020-TU-8">
+    <prop type="location-id">UT22084-094-020-62</prop>
+    <tuv xml:lang="bo">
+                <seg>ལུས་ལ་འཆང་ངམ་གླེགས་བམ་ལ་བྲིས་ནས་མགུལ་དུ་ཐོགས་ཏེ་འཆང་ན་དེ་ལ་དུས་མ་ཡིན་པར་འཆི་བ་རྣམས་གཏན་དུ་འབྱུང་བར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one holds it on one’s body or writes it into a booklet and wears it tied around one’s neck, one will never experience any of the untimely deaths.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-020-TU-9">
+    <prop type="location-id">UT22084-094-020-62</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་ཞིག་སྙིང་རྗེས་ནོན་ཏེ་རི་དགས་དང་བྱ་དང་མི་དང་མི་མ་ཡིན་པ་རྣམས་ཀྱང་རུང་སྟེ། འཆི་བའི་རྣ་ཁུང་དུ་བརྗོད་ན་དེ་ངན་སོང་དུ་འགྲོ་བར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one is overcome with compassion and recites it into the ears of a moribund beast, bird, human, or nonhuman being, that being will not be reborn in the unfavorable destinies.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-020-TU-10">
+    <prop type="location-id">UT22084-094-020-72</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡང་ན་ཤི་སྟེ་དུས་ལས་འདས་ན་ཤི་འཕོས་པའི་མིང་ནས་སྨོས་ཏེ་དེའི་ཕྱིར་བྱམས་པ་དང་སྙིང་རྗེས་ལན་བརྒྱའམ་སྟོང་ངམ་འབུམ་བརྗོད་ན་སེམས་ཅན་དེ་སེམས་ཅན་དམྱལ་བར་སྐྱེས་སུ་ཟིན་ཀྱང་དེའི་མོད་ལ་ཐར་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-020-72"/>Moreover, if somebody has died some time ago and one recites it one hundred, one thousand, or one hundred thousand times, with friendly kindness and compassion, in the name of the dead person, that sentient being will be liberated at that very moment, even if they have already been born in the hells.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-020-TU-11">
+    <prop type="location-id">UT22084-094-020-74</prop>
+    <tuv xml:lang="bo">
+                <seg>སའམ་ཏིལ་ལམ་ཡུངས་ཀར་རམ་ཆུ་གང་ཡང་རུང་བ་ལ་བཟླས་བརྗོད་བྱས་ཏེ་ཤི་བའི་ལུས་ལ་གཏོར་རམ། ཁྲུས་བྱས་ནས་དེའི་འོག་ཏུ་བསྲེག་པའམ། ཡང་ན་མཆོད་རྟེན་གྱི་ནང་དུ་བཅུག་སྟེ་བཞག་ལ། རིག་སྔགས་ཀྱང་བྲིས་ཏེ་<tei:ref folio="F.236.b"/>མགོ་བོ་ལ་བཏགས་ན་དེ་ངན་སོང་དུ་སྐྱེས་པ་ཡང་ཞག་བདུན་གྱིས་གདོན་མི་ཟ་བར་ཐར་ཏེ་བདེ་འགྲོ་མཐོ་རིས་ཀྱི་འཇིག་རྟེན་དུ་སྐྱེ་བར་འགྱུར་བའམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-020-74"/>If one recites it over some earth, or sesame seeds, or mustard seeds, or water and scatters that over the corpse, or washes the corpse, and then has it cremated, or places it for keeping in a caitya, or if one writes the spell and places it on their head, that person will certainly be liberated in seven days, even if already born in an unfavorable destiny.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-020-TU-12">
+    <prop type="location-id">UT22084-094-020-74</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡང་ན་རང་གི་སྨོན་ལམ་གྱི་དབང་གིས་སྐྱེ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That person will be reborn in a favorable destiny, among the gods, or wherever the aspirational prayer wished.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-020-TU-13">
+    <prop type="location-id">UT22084-094-020-78</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་ཞིག་ཟླ་བ་ཉ་བའི་ཚེ་ཁྲུས་བྱས་ལ་གཙང་མར་བྱས་ཏེ་དུས་གསུམ་དུ་གོས་བརྗེ་ཞིང་ཁ་ཟས་མི་ཟ་བའམ་ཡང་ན་ཟས་དཀར་བག་བཟའ་ཞིང་སྐུ་གདུང་དང་ལྡན་པའི་མཆོད་རྟེན་སྐོར་བཞིན་དུ་གང་གི་མིང་དང་ལྡན་པས་ལན་འབུམ་བཟླས་བརྗོད་བྱས་ན་དེ་ངན་སོང་ནས་ཐར་ཏེ་གནས་གཙང་མའི་ལྷའི་རིས་སུ་སྐྱེས་ནས་སྒྲུབ་པ་པོའི་ཐད་དུ་འོངས་ཏེ་མཆོད་པ་བྱེད་ཅིང་ལུས་ཀྱང་སྟོན་ལ་ལེགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-020-78"/>If one undergoes purification by ritually bathing throughout the waxing fortnight of the moon, changes clothes three times a day, fasts or eats white meals, and recites the spell one hundred thousand times in the name of a dead person, while circumambulating a caitya containing a relic, that person will be liberated from the lower realms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-020-TU-14">
+    <prop type="location-id">UT22084-094-020-78</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞེས་བྱ་བ་ཡང་བྱིན་ནས་ལན་གསུམ་བསྐོར་བ་བྱས་ཏེ་མི་སྣང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That person will then be reborn among the gods of the Pure Abodes and appear in front of the practitioner, perform worship, manifest his own appearance, congratulate the practitioner, circumambulate him three times, and then finally disappear.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-020-TU-15">
+    <prop type="location-id">UT22084-094-020-83</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་མིང་བྲིས་ལ་གཟུངས་སྔགས་བཟླས་བརྗོད་བྱེད་ཅིང་མཆོད་རྟེན་འབུམ་བྱས་ལ་གདུགས་དང་། རྒྱལ་མཚན་དང་། བ་དན་ལ་སོགས་པས་ལེགས་པར་མཆོད་ནས་རྒྱ་མཚོ་ཆེན་པོ་དང་། ཡང་ན་ཆུ་ཀླུང་དུ་བཏང་ན་དེས་སེམས་ཅན་དམྱལ་བ་ལ་སོགས་པ་ནས་ཐར་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-020-83"/>If one writes down a dead person’s name, recites the spell, and creates one hundred thousand caityas worshiped with parasols, banners, streamers, and so on, and casts them into the sea or a great river, then that person will be liberated from the hells, and so on.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-020-TU-16">
+    <prop type="location-id">UT22084-094-020-87</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡང་ན་དེ་ལྟར་མཆོད་པ་བྱས་ནས་མཇུག་ཏུ་ལམ་གྱི་བཞི་མདོར་མཆོད་རྟེན་ཆེན་པོ་བྱས་ཏེ། གདུགས་དང་། རྒྱལ་མཚན་དང་། བ་དན་ལ་སོགས་པས་ལེགས་པར་མཆོད་ལ་འཕགས་པའི་དགེ་འདུན་ལ་ཡང་མཆོད་སྟོན་གསོལ་ནས་ཡོན་ཡང་ཕུལ་ཏེ་ལེགས་པར་མཆོད་ནས་འདི་ཆེ་གེ་མོ་ཞིག་གི་དགེ་བའི་རྩ་བར་གྱུར་ཅིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-020-87"/>Alternatively, having performed worship in the same way, if at the end one constructs a great caitya at a crossroads, worships it with parasols, banners, streamers, and so on, and then offers a meal and makes donations to the noble monastic community in worship—as well as proclaims, “May this become a root of merit for so-and-so!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-020-TU-17">
+    <prop type="location-id">UT22084-094-020-87</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ཁོ་ནས་བདེ་འགྲོ་མཐོ་རིས་ཀྱི་འཇིག་རྟེན་དུ་སྐྱེ་བར་གྱུར་ཅིག་ཅེས་ཀྱང་ཤེས་པར་བྱས་ན་དེ་ཁོ་ན་བཞིན་དུ་སྐྱེས་ནས་ལུས་ཀྱང་སྟོན་ཅིང་ལེགས་སོ་ཞེས་བྱ་བ་ཡང་བྱིན་ནས་མི་སྣང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Indeed, by this, may he attain a favorable rebirth among the gods!”—that person will be reborn there, manifest his own appearance, offer one congratulations, and then disappear.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-020-TU-18">
+    <prop type="location-id">UT22084-094-020-92</prop>
+    <tuv xml:lang="bo">
+                <seg>མཚམས་མེད་པ་ལྔ་བྱེད་པའམ། དམ་པའི་ཆོས་སྤོང་བའམ། འཕགས་པ་ལ་སྐུར་པ་བཏབ་པ་ཡང་རུང་སྟེ་འཆི་ཀར་རྩིག་པ་ལ་གཟུངས་སྔགས་འདི་བྲིས་པ་མཐོང་ན། དེའི་ལས་ཀྱི་སྒྲིབ་པ་ཐམས་ཅད་ཟད་པར་འགྱུར་ན། འདོན་པ་དང་བཟླས་བརྗོད་བྱེད་པ་ལྟ་ཅི་སྨོས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-020-92"/>Whether one has committed the five sins of immediate retribution, or whether one is an apostate of the true Dharma, or whether one has disrespected the noble ones, if one sees this dhāraṇī, say, written on a wall at the time of death, all one’s karmic obscurations will cease, how much more so if one chants and recites it!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-020-TU-19">
+    <prop type="location-id">UT22084-094-020-92</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་དེ་ཉིད་བྱོན་ནས་འདི་སྐད་དུ་རིགས་ཀྱི་བུ་ཚུར་དའི་གན་དུ་ཤོག་ཅེས་ཀྱང་གསུང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That very tathāgata shall come to one and say “Noble son! Come to me!”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-020-TU-20">
+    <prop type="location-id">UT22084-094-020-95</prop>
+    <tuv xml:lang="bo">
+                <seg>​འཕགས་པ་ལས་ཀྱི་སྒྲིབ་པ་ཐམས་ཅད་རྣམ་པར་སྦྱོང་བ་ཞེས་བྱ་བའི་གཟུངས་རྫོགས་སོ།​། །​།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-020-95"/>Here ends “The Noble Dhāraṇī ‘Purifying All Karmic Obscurations’.”</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>
