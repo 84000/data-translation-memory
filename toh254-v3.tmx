@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="linguae-dharmae/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-066-012" eft:text-version="v-1.0.6-2023"/>
+<body>
+<tu id="UT22084-066-012-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.70.b"/>༄༅༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་དྷརྨ་ཀེ་ཏུ་མ་ཧཱ་ཡཱ་ན་སཱུ་ཏྲ། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-066-012-TU-2">
+    <prop type="location-id">UT22084-066-012-76</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་མདོ་ཐེག་པ་ཆེན་པོའོ། །སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Noble Mahāyāna Sūtra of Dharmaketu<tei:milestone xml:id="UT22084-066-012-76"/> Homage to all buddhas and bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-012-TU-3">
+    <prop type="location-id">UT22084-066-012-78</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-012-78"/>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-012-TU-4">
+    <prop type="location-id">UT22084-066-012-78</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མཉན་ཡོད་ན་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན་བཞུགས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One was staying in Śrāvastī, in Prince Jeta’s Grove, Anātha­piṇḍada’s park.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-012-TU-5">
+    <prop type="location-id">UT22084-066-012-78</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཚེ་འཁོར་དེར་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་ཀྱི་རྒྱལ་མཚན་ཞེས་བྱ་བ་འདུག་པ་སྟན་ལས་ལངས་ཏེ། བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་དུ་དང་ལྡན་ན་མྱུར་དུ་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སུ་འགྱུར་བ་ལགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>At that time, a bodhisattva named Dharmaketu who was present in his retinue rose from his seat and addressed this question to the Blessed One: “Blessed One, which are the qualities that bodhisattvas must possess to become unsurpassed, perfect, and completely awakened buddhas quickly?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-012-TU-6">
+    <prop type="location-id">UT22084-066-012-79</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རིགས་ཀྱི་བུ་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་བཅུ་དང་ལྡན་ན་མྱུར་དུ་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སུ་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-012-79"/>The Blessed One replied, “Noble child, there are ten qualities that bodhisattvas should possess to become unsurpassed, perfect, and completely awakened buddhas quickly.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-012-TU-7">
+    <prop type="location-id">UT22084-066-012-79</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅུ་གང་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What are those ten?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-012-TU-8">
+    <prop type="location-id">UT22084-066-012-80</prop>
+    <tuv xml:lang="bo">
+                <seg>འདིར་བྱང་ཆུབ་སེམས་དཔའ་དད་པ་དང་ལྡན་པར་བྱ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are as follows:<tei:milestone xml:id="UT22084-066-012-80"/> “The bodhisattvas have faith.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-012-TU-9">
+    <prop type="location-id">UT22084-066-012-80</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་ཀྱི་སེམས་དང་ལྡན་པར་བྱ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They have bodhicitta.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-012-TU-10">
+    <prop type="location-id">UT22084-066-012-80</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་བའི་བཤེས་གཉེན་ཡོངས་སུ་མི་གཏང་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They do not forsake their spiritual mentors.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-012-TU-11">
+    <prop type="location-id">UT22084-066-012-80</prop>
+    <tuv xml:lang="bo">
+                <seg>དགོན་པར་བསྟེན་ཅིང་འདུ་འཛི་སྤང་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They dwell in seclusion and abandon worldly distractions.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-012-TU-12">
+    <prop type="location-id">UT22084-066-012-80</prop>
+    <tuv xml:lang="bo">
+                <seg>བླ་མ་དང་མཁན་པོའི་<tei:ref folio="F.71.a"/>གདམས་ངག་ཡོངས་སུ་སྩལ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They seek out the oral instructions of gurus and preceptors.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-012-TU-13">
+    <prop type="location-id">UT22084-066-012-80</prop>
+    <tuv xml:lang="bo">
+                <seg>སྙིང་རྗེ་དང་ལྡན་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They have compassion.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-012-TU-14">
+    <prop type="location-id">UT22084-066-012-80</prop>
+    <tuv xml:lang="bo">
+                <seg>མང་དུ་ཐོས་པ་དང་ལྡན་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are learned in many teachings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-012-TU-15">
+    <prop type="location-id">UT22084-066-012-80</prop>
+    <tuv xml:lang="bo">
+                <seg>ཏིང་ངེ་འཛིན་དང་ལྡན་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They have meditative concentration.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-012-TU-16">
+    <prop type="location-id">UT22084-066-012-80</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚུལ་ཁྲིམས་དང་ལྡན་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They have ethical conduct.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-012-TU-17">
+    <prop type="location-id">UT22084-066-012-80</prop>
+    <tuv xml:lang="bo">
+                <seg>བརྩོན་འགྲུས་ཕུན་སུམ་ཚོགས་པས་དོན་མ་ལུས་པར་བསྒྲུབ་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Through unparalleled joyous effort, they accomplish every one of their aims.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-012-TU-18">
+    <prop type="location-id">UT22084-066-012-82</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང་། བྱང་ཆུབ་སེམས་དཔའ་ཆོས་ཀྱི་རྒྱལ་མཚན་དང་། ཐམས་ཅད་དང་ལྡན་པའི་འཁོར་དེ་དག་བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-012-82"/>The Blessed One spoke these words, and the bodhisattva Dharmaketu and all those in that retinue praised what the Blessed One had said.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-066-012-TU-19">
+    <prop type="location-id">UT22084-066-012-84</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ཆོས་ཀྱི་རྒྱལ་མཚན་གྱི་མདོ་རྫོགས་སོ།​། །​།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-066-012-84"/>This concludes the noble “Sūtra of Dharmaketu.”</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

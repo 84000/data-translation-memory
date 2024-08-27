@@ -1,0 +1,929 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="linguae-dharmae/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-055-002" eft:text-version="v-1.0.6-2023"/>
+<body>
+<tu id="UT22084-055-002-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.171.a"/>༄༅༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་དྷརྨ་ཏཱ་སྭ་བྷཱ་ཝ་ཤཱུ་ནྱ་ཏཱ་ཨ་ཙ་ལ་པྲ་ཏི་སརྦ་ཨཱ་ལོ་ཀ་སཱུ་ཏྲ། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ཆོས་ཉིད་རང་གི་ངོ་བོ་སྟོང་པ་ཉིད་ལས་མི་གཡོ་བར་ཐ་དད་པར་ཐམས་ཅད་ལ་སྣང་བའི་མདོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Noble Sūtra Appearing Differently to All While Not Departing from Emptiness, the Essence of the True Nature of Things</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-3">
+    <prop type="location-id">UT22084-055-002-116</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-116"/>Homage to all buddhas and bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-4">
+    <prop type="location-id">UT22084-055-002-119</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-119"/>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-5">
+    <prop type="location-id">UT22084-055-002-119</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་རི་དགས་ཀྱི་རྒྱལ་པོའི་ཆོས་ཀྱི་ཁང་པ་ན་ཡེ་ཤེས་ཀྱི་ཁྱད་པར་ལས་གྲུབ་པའི་རིན་པོ་ཆེ་སྣ་ཚོགས་ཀྱི་ཁྲི་ཆེན་པོ་བཤམས་པ་ལ། ཆོས་ཉིད་རང་གི་ངོ་བོ་ཉིད་ཇི་ལྟ་བ་ལས་མི་གཡོ་བར་བཞུགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>At the Dharma Abode of the King of Deer, upon a great throne of various precious substances arising from the qualities of his wisdom, the Blessed One was seated without departing from the essence of the true nature of things just as it is.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-6">
+    <prop type="location-id">UT22084-055-002-121</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཚེ་གནས་དེར་བྱང་ཆུབ་སེམས་དཔའ་ཆེན་པོ་ཚད་མེད་གྲངས་མེད་པ་དག་ཀྱང་འདུས། ལྷ་དང་མི་དང་ལྷ་མ་ཡིན་ལ་སོགས་པ་འཁོར་ཕལ་པོ་ཆེ་ཐམས་ཅད་ཀྱང་འདུས་པར་གྱུར་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-121"/>At that time, limitless, innumerable great bodhisattvas and a great host of gods, humans, asuras, and others were also assembled at that place.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-7">
+    <prop type="location-id">UT22084-055-002-121</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་འཁོར་འདུས་པ་ཐམས་ཅད་ཀྱིས་བཅོམ་ལྡན་འདས་ལ་ཡང་དང་ཡང་དུ་བསྐོར་བ་བྱེད་ཅིང་ཕྱག་འཚལ་ཏེ་རང་རང་གི་ཕྱོགས་ཕྱོགས་སུ་འདུག་སྟེ་མཆོད་པའི་མཆོག་ཐམས་ཅད་ཀྱིས་མཆོད་པར་བྱེད། བསྟི་སྟང་དུ་བྱེད། རི་མོར་བྱེད་པ་ལ་ཡིད་སྐྱོ་བར་མི་བྱེད་དེ། ཆོས་ཉན་པར་བརྩམས་ཏེ་མགོ་བཏུད་ནས་འདུག་པར་གྱུར་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Those gathered there all made repeated circumambulations of and prostrations toward the Blessed One, then each took their place and, having paid respectful homage, given veneration, and made excellent offerings, with their heads bowed, they began to listen to the Dharma without weariness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-8">
+    <prop type="location-id">UT22084-055-002-122</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཚེ་བཅོམ་ལྡན་འདས་ནི་རྣམ་གྲངས་དང་དབྱེ་བའི་ཆོས་ལ་རྟོག་པར་མི་མཛད་ཀྱང་སྨོན་ལམ་དང་ཐུགས་རྗེའི་བྱིན་གྱི་རླབས་ཀྱིས་འཁོར་རྣམས་ཀྱི་སོ་སོར་སོ་སོའི་མོས་པ་དང་བསམ་པ་ཇི་ལྟ་བ་བཞིན་དུ་གསུང་སྒྲོག་པར་སྣང་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-122"/>At that time, although the Blessed One formed no thought of teaching a formulation or elucidation of the Dharma, by the power of his compassion and vow, everyone in that audience heard him speak according to their own individual inclinations and attitudes.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-9">
+    <prop type="location-id">UT22084-055-002-122</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ནི་བདག་ལ་ཆོས་སྟོན་ཏེ། གཞན་དག་ལ་ནི་མ་ཡིན་ནོ་སྙམ་མོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They thought, “The Blessed One is teaching the Dharma to me, not to others.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-10">
+    <prop type="location-id">UT22084-055-002-124</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཡང་འཁོར་ཕལ་པོ་ཆེ་དེ་དག་ལས་ཀྱང་ཁ་ཅིག་གིས་ནི་ཇི་ལྟར་སྣང་བ་བཞིན་དུ་ཡོད་པའི་ཆོས་སྟོན་ཏོ་སྙམ་སྟེ། དེ་ལ་ངེས་པར་འཛིན་ཅིང་རྟོག་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-124"/>And so, some among that great gathering thought, (1) “He teaches the Dharma that things are just as they appear,” and taking it as certain, they formed that notion.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-11">
+    <prop type="location-id">UT22084-055-002-126</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁ་ཅིག་གིས་ནི་ཆོས་ཐམས་ཅད་སེམས་ཙམ་ལས་མ་གཏོགས་པར་གཞན་མེད་པའི་ཆོས་སྟོན་ཏོ་སྙམ་སྟེ། དེ་ལ་ངེས་པར་འཛིན་ཅིང་རྟོག་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-126"/>Some thought, (2) “He teaches the Dharma that all things are nothing other than mind alone,” and taking it as certain, they formed that notion.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-12">
+    <prop type="location-id">UT22084-055-002-128</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁ་ཅིག་གིས་ནི་སེམས་ཉིད་ཀྱང་མ་སྐྱེས་པ་ཡིན་པར་བདག་ཅག་ལ་ཆོས་སྟོན་ཏོ་སྙམ་སྟེ། དེ་ལ་ངེས་པར་འཛིན་ཅིང་རྟོག་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-128"/>Some thought, (3) “He teaches us the Dharma that even mind itself is unborn,” and taking it as certain, they formed that notion.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-13">
+    <prop type="location-id">UT22084-055-002-130</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁ་ཅིག་གིས་ནི་ཆོས་ཐམས་<tei:ref folio="F.171.b"/>ཅད་སྒྱུ་མ་བཞིན་དུ་སྣང་ཞིང་སྒྱུ་མ་བཞིན་དུ་མ་གྲུབ་པའི་ཆོས་སྟོན་ཏོ་སྙམ་སྟེ། དེ་ལ་ངེས་པར་འཛིན་ཅིང་རྟོག་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-130"/>Some thought, (4) “He teaches the Dharma that all things appear like illusions and, like illusions, do not exist,” and taking it as certain, they formed that notion.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-14">
+    <prop type="location-id">UT22084-055-002-132</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁ་ཅིག་གིས་ནི་ཆོས་ཐམས་ཅད་རང་བཞིན་གྱིས་མ་སྐྱེས་པ། ངོ་བོ་ཉིད་ཀྱིས་མི་གནས་པ། ལས་དང་བྱ་བའི་མཐའ་ཐམས་ཅད་དང་བྲལ་བ་རྟོག་པ་དང་རྟོག་པའི་ཡུལ་ལས་འདས་པ། ཐོག་མ་མེད་པའི་དུས་ནས་སྤྲོས་པ་རྣམ་པར་དག་པའི་ཆོས་སྟོན་ཏོ་སྙམ་སྟེ། དེ་ལ་ངེས་པར་འཛིན་ཅིང་རྟོག་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-132"/>Some thought, (5) “He teaches the Dharma that all things are by nature unborn, by essence nonabiding, and being without all delimitations of action and activity, transcend concepts and the objects of conceptualization, and are completely free of elaboration from beginningless time,” and taking it as certain, they formed that notion.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-15">
+    <prop type="location-id">UT22084-055-002-135</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཆོས་ཉིད་རང་གི་ངོ་བོ་ཉིད་ཇི་ལྟ་བ་ལས་མི་གཡོ་བར་བཞུགས་པ་དེ་ལས་སྙིང་རྗེ་དང་ལྡན་པའི་སྐུར་བྱས་ནས་འཁོར་འདུས་པ་དེ་དག་གི་ལྟ་བ་ཐ་དད་པར་གྱུར་པའི་རྟོག་པའི་མུན་པ་སེལ་བ་ཞེས་བྱ་བའི་འོད་ཟེར་ལྗགས་ཀྱི་དབང་པོ་ལས་སྤྲོས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-135"/>Then, without departing from the essence of the true nature of things just as they are, the Blessed One took on a compassionate form, and light rays called clearing the darkness of conceptualization from those assembled who have different views shone forth from his tongue.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-16">
+    <prop type="location-id">UT22084-055-002-135</prop>
+    <tuv xml:lang="bo">
+                <seg>འོད་ཟེར་དེས་ཕྱོགས་བཅུ་ཐམས་ཅད་སྣང་བར་བྱས་ནས་འཁོར་དེ་ན་བྱང་ཆུབ་སེམས་དཔའ་འཇམ་དཔལ་འདུག་པར་གྱུར་པ་ལ་བསྐུལ་བས་བྱང་ཆུབ་སེམས་དཔའ་འཇམ་དཔལ་གྱིས་འཁོར་ཕལ་མོ་ཆེའི་རྟོག་པ་ལྔ་པོ་ཐ་དད་པར་གྱུར་པ་སེམས་ཀྱིས་ཤེས་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The light rays were visible in all ten directions, and this roused the bodhisattva Mañjuśrī, who was there in that audience.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-17">
+    <prop type="location-id">UT22084-055-002-135</prop>
+    <tuv xml:lang="bo">
+                <seg>ཅིའི་ཕྱིར་ཆོས་ཐམས་ཅད་ཀྱི་གཞི་གཅིག་ལ་ལྟ་བ་དང་མོས་པ་ཐ་དད་པར་གྱུར་སྙམ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Being aware that most of the audience held the five different understandings, the bodhisattva Mañjuśrī thought, “Why are there different views and beliefs regarding a single basis of all things?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-18">
+    <prop type="location-id">UT22084-055-002-135</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གིས་བཅོམ་ལྡན་འདས་ལ་ཞུ་བར་བྱའོ་སྙམ་པ་དང་འོད་ཟེར་དེ་དག་བཅོམ་ལྡན་འདས་ཀྱི་ལྗགས་ཀྱི་དབང་པོ་ལ་སླར་འདུས་པར་གྱུར་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I will ask the Blessed One.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-19">
+    <prop type="location-id">UT22084-055-002-137</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ལ་བྱང་ཆུབ་སེམས་དཔའ་འཇམ་དཔལ་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་བཅོམ་ལྡན་འདས་ནི་རྣམ་གྲངས་དང་དབྱེ་བའི་ཆོས་ལ་རྟོག་པར་མི་མཛད་ཀྱང་འཁོར་འདུས་པ་འདི་དག་མོས་པ་དང་རྟོག་པ་ཐ་དད་པ་འདི་ཅི་ལས་གྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-137"/>When those light rays had gathered back again into the tongue of the Blessed One, the bodhisattva Mañjuśrī asked the Blessed One, “Although the Blessed One formed no thought of teaching a formulation or elucidation of the Dharma, why, Blessed One, do those assembled here have different beliefs and notions?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-20">
+    <prop type="location-id">UT22084-055-002-137</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཆོས་ལ་བརྟག་པའི་མཐའ་ལྔ་པོ་འདི་དག་ཀུན་ཡང་དག་པ་ལགས་སམ། འོན་ཏེ་ཁ་ཅིག་ནི་ཡང་དག་པ་ལགས་ལ་ཁ་ཅིག་ནི་ཡང་དག་པ་མ་ལགས་སམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Blessed One, are these five analytic positions concerning things all correct, or are some correct and some incorrect?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-21">
+    <prop type="location-id">UT22084-055-002-137</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཆོས་ལ་བརྟག་པའི་མཐའ་ལྔ་པོ་འདི་དག་གིས་རྣམ་པར་གྲོལ་བ་ཐོབ་པར་མཚུངས་ལགས་སམ། བཅོམ་ལྡན་འདས་ཆོས་ལ་བརྟག་པའི་མཐའ་ལྔ་པོ་འདི་དག་ལ་གང་ཟག་གི་རིགས་ནི་མཆིས་ལགས་སམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Are these five analytic positions concerning things equal when it comes to the attainment of complete liberation, or, Blessed One, do these five analytic positions relate to different types of persons?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-22">
+    <prop type="location-id">UT22084-055-002-137</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཆོས་ལ་བརྟག་པའི་མཐའ་ལྔ་པོ་འདི་དག་ལ་ཐ་དད་པར་སྣང་བའི་འཐུན་པའི་དཔེ་<tei:ref folio="F.172.a"/>ནི་ཇི་ལྟར་ལགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Is there some suitable analogy, Blessed One, for how these five analytic positions appear different?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-23">
+    <prop type="location-id">UT22084-055-002-137</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཆོས་ལ་བརྟག་པའི་མཐའ་ལྔ་པོ་འདི་དག་ལྟར་སོ་སོར་རྟོག་པའི་གང་ཟག་མ་འོངས་པའི་དུས་ན་ཡང་འབྱུང་བར་འགྱུར་བ་ལགས་སམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the future, Blessed One, will there still be people who will understand things according to each of these five analytic positions?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-24">
+    <prop type="location-id">UT22084-055-002-137</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཆོས་ལ་བརྟག་པའི་མཐའ་ལྔ་པོ་འདི་དག་ལ་སློབ་པའི་གང་ཟག་རྣམས་དོན་ལགས་པ་དང་མ་ལགས་པར་རྩོད་པར་མི་འགྱུར་ལགས་སམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Blessed One, will people who train in these five analytic positions argue about what they do and do not mean?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-25">
+    <prop type="location-id">UT22084-055-002-137</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་འཁོར་འདུས་པ་འདི་དག་གི་ཐེ་ཚོམ་གྱི་དྲ་བ་བཅད་པའི་སླད་དུ་བདག་ལ་བཤད་དུ་གསོལ། དེ་སྐད་ཅེས་གསོལ་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Blessed One, so as to banish the doubts of those gathered here, please explain.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-26">
+    <prop type="location-id">UT22084-055-002-140</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་ཁྱོད་འདི་སྐད་དུ་བཅོམ་ལྡན་འདས་ནི་རྣམ་གྲངས་དང་དབྱེ་བའི་ཆོས་ལ་རྟོག་པར་མི་མཛད་ཀྱང་འཁོར་འདུས་པ་འདི་དག་འདི་ལྟར་མོས་པ་དང་རྟོག་པ་ཐ་དད་པ་ཅི་ལས་གྱུར་ཞེས་ཟེར་བ་ནི་སྦྱངས་པ་དང་མ་སྦྱངས་པའི་དབང་ལས་ཤེས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-140"/>This is what he said, and the Blessed One replied, “Mañjuśrī, you asked, ‘Although the Blessed One formed no thought of teaching a formulation or elucidation of the Dharma, why do those assembled here have different beliefs and notions?’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-27">
+    <prop type="location-id">UT22084-055-002-140</prop>
+    <tuv xml:lang="bo">
+                <seg>མོས་པ་ཆེ་ཆུང་ལས་གྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Regarding that, because of their purification through practice, or lack thereof, there are those with greater or lesser degrees of understanding and aptitude.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-28">
+    <prop type="location-id">UT22084-055-002-140</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་རྣམས་ནི་སྦྱངས་པ་དང་བསགས་པ་དཔག་ཏུ་མེད་པས་རྩོལ་བ་མེད་པར་ཆོས་ཉིད་རང་གི་ངོ་བོ་ཉིད་ཇི་ལྟ་བ་ལས་མི་གཡོ་བ་གཅིག་པུ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Because buddhas have purification and accumulation that is limitless, they remain at all times, effortlessly, without departing from the essence of the true nature of things just as they are.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-29">
+    <prop type="location-id">UT22084-055-002-140</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ནི་སངས་རྒྱས་ཐམས་ཅད་ཀྱི་སྤྱོད་ཡུལ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This is the experiential domain of all buddhas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-30">
+    <prop type="location-id">UT22084-055-002-140</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆེར་སྦྱངས་པ་དང་ཅུང་ཟད་སྦྱངས་པ་རྣམས་ཀྱི་ནི་ཡང་དག་པ་ཡིན་པ་དང་མ་ཡིན་པ་བརྒྱུད་པ་ལས་ཐོབ་པ་སྟེ། དེའི་ཕྱིར་ན་མོས་པ་དང་རྟོག་པ་ཐ་དད་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Since those of greater purification and those of just a little purification similarly acquire that which is correct and that which is incorrect from their lineage, they will have different beliefs and notions.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-31">
+    <prop type="location-id">UT22084-055-002-142</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་ཁྱོད་འདི་སྐད་དུ་ཆོས་ལ་བརྟག་པའི་མཐའ་ལྔ་པོ་འདི་དག་ཀུན་ཡང་དག་པ་ལགས་སམ། འོན་ཏེ་ཁ་ཅིག་ནི་ཡང་དག་པ་ལགས་ལ་ཁ་ཅིག་ནི་ཡང་དག་པ་མ་ལགས་སམ་ཞེས་ཟེར་བ་ནི་ཆོས་ལ་བརྟག་པའི་མཐའ་ལྔ་པོ་འདི་དག་ཐམས་ཅད་ཀྱང་ཡང་དག་པ་ཡིན་པར་གཟུང་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-142"/>“Mañjuśrī, you asked, ‘Are these five analytic positions concerning things all correct, or are some correct and some incorrect?’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-32">
+    <prop type="location-id">UT22084-055-002-142</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁ་ཅིག་གིས་ནི་ཆོས་ཐམས་ཅད་ཇི་ལྟར་སྣང་བ་བཞིན་དུ་ཡོད་པའི་ཆོས་སྟོན་ཏོ་སྙམ་པ་ཡང་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Regarding that, when all of these five analytic positions concerning things are taken as correct, there are some who think that the Dharma that has been taught is that all things exist just as they appear.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-33">
+    <prop type="location-id">UT22084-055-002-142</prop>
+    <tuv xml:lang="bo">
+                <seg>ཅིའི་ཕྱིར་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Why?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-34">
+    <prop type="location-id">UT22084-055-002-142</prop>
+    <tuv xml:lang="bo">
+                <seg>འབྱུང་བ་བཞི་དང་དེས་བྱས་པ་རྣམས་ནི་ཐ་དད་དུ་སྒྱུ་མ་བཞིན་དུ་ཡོད་པའི་ཕྱིར་རོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This is because the four elements and what they produce exist like different illusions.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-35">
+    <prop type="location-id">UT22084-055-002-143</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁ་ཅིག་གིས་ནི་ཆོས་ཐམས་ཅད་ནི་སེམས་ཙམ་ལས་མ་གཏོགས་པ་གཞན་མེད་པའི་ཆོས་སྟོན་ཏོ་སྙམ་པ་ཡང་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-143"/>“There are also some who think that the Dharma that has been taught is that all things are nothing other than mind alone.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-36">
+    <prop type="location-id">UT22084-055-002-143</prop>
+    <tuv xml:lang="bo">
+                <seg>ཅིའི་ཕྱིར་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Why?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-37">
+    <prop type="location-id">UT22084-055-002-143</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་སྣ་ཚོགས་སུ་འདོགས་པ་རྣམས་རྟག་པ་ཐེར་ཟུག་ཏུ་བརྟགས་པའི་བག་ཆགས་སེམས་ལ་<tei:ref folio="F.172.b"/>བཞག་པའི་མཐུས་དུས་ཐམས་ཅད་དུ་བདག་དང་ཆོས་རྣམས་སུ་སྣང་བ་ཐ་སྙད་ཙམ་དུ་སྣང་ཡང་དོན་དུ་རང་བཞིན་མེད་དེ། སེམས་ཙམ་ལས་མེད་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This is because the habitual tendencies of the mind to assign permanence to various imputed things make it appear that those things persist through time as a self or as a thing, even though they are merely conventional designations that in reality are without intrinsic nature and do not exist beyond mere mind.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-38">
+    <prop type="location-id">UT22084-055-002-144</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁ་ཅིག་གིས་ནི་སེམས་ཉིད་ཀྱང་མ་སྐྱེས་པ་ཡིན་པར་བདག་ཅག་ལ་ཆོས་སྟོན་ཏོ་སྙམ་པ་ཡང་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-144"/>“There are also some who think that the Dharma taught to us is that even mind itself is unborn.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-39">
+    <prop type="location-id">UT22084-055-002-144</prop>
+    <tuv xml:lang="bo">
+                <seg>ཅིའི་ཕྱིར་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Why?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-40">
+    <prop type="location-id">UT22084-055-002-144</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལ་དབྱིབས་སམ། ཁ་དོག་གམ། དུས་གསུམ་འམ། མཐའ་དབུས་མེད་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This is because it has no form or color, no past, present, or future, and no center or edges.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-41">
+    <prop type="location-id">UT22084-055-002-145</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁ་ཅིག་གིས་ནི་ཆོས་ཐམས་ཅད་སྒྱུ་མ་བཞིན་དུ་སྣང་ཞིང་སྒྱུ་མ་བཞིན་དུ་མ་གྲུབ་པའི་ཆོས་སྟོན་ཏོ་སྙམ་པ་ཡང་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-145"/>“There are also some who think that the Dharma that has been taught is that all things appear like illusions and, like illusions, do not exist.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-42">
+    <prop type="location-id">UT22084-055-002-145</prop>
+    <tuv xml:lang="bo">
+                <seg>ཅིའི་ཕྱིར་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Why?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-43">
+    <prop type="location-id">UT22084-055-002-145</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་ནི་རྒྱུ་རྐྱེན་ལས་སྐྱེ་ཞིང་འབྱུང་བའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This is because all things arise from causes and conditions.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-44">
+    <prop type="location-id">UT22084-055-002-146</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁ་ཅིག་གིས་ནི་ཆོས་ཐམས་ཅད་རང་བཞིན་གྱི་མ་སྐྱེས་པ། ངོ་བོ་ཉིད་ཀྱིས་མི་གནས་པ། ལས་དང་བྱ་བའི་མཐའ་ཐམས་ཅད་དང་བྲལ་བ། རྟོག་པ་དང་རྟོག་པའི་ཡུལ་ལས་འདས་པ། ཐོག་མ་མེད་པའི་དུས་ནས་སྤྲོས་པ་རྣམ་པར་དག་པའི་ཆོས་སྟོན་ཏོ་སྙམ་པ་ཡང་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-146"/>“There are also some who think that the Dharma that has been taught is that all things are inherently unborn, essentially nonabiding, and, being without all delimitations of action and activity, they transcend concepts and the objects of conceptualization, and are completely free of elaboration from beginningless time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-45">
+    <prop type="location-id">UT22084-055-002-146</prop>
+    <tuv xml:lang="bo">
+                <seg>ཅིའི་ཕྱིར་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Why?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-46">
+    <prop type="location-id">UT22084-055-002-146</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་ཀྱི་རང་གི་ངོ་བོ་ཉིད་ཕྱིན་ཅི་མ་ལོག་པ་དེ་ཡིན་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This is because that is the essential nature of all things without any distortion.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-47">
+    <prop type="location-id">UT22084-055-002-147</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་ཡང་ཁ་ཅིག་ཡང་དག་པ་མ་ཡིན་པར་ཡང་བཟུང་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-147"/>“Mañjuśrī, there are also some who have not grasped the positions correctly.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-48">
+    <prop type="location-id">UT22084-055-002-147</prop>
+    <tuv xml:lang="bo">
+                <seg>སྦྱངས་པ་ཆུང་བ། མོས་པ་དམན་པ། ཤེས་རབ་ཞན་པ་དག་གིས་རྟོག་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These are the understandings of those of lesser purification, inferior aptitude, and poor discernment.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-49">
+    <prop type="location-id">UT22084-055-002-147</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁ་ཅིག་སྦྱངས་པ་དང་མོས་པ་དང་ཤེས་རབ་འབྲིང་བ་རྣམས་ཀྱིས་རྟོགས་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There are also some of middling purification, aptitude, and discernment who have such understandings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-50">
+    <prop type="location-id">UT22084-055-002-147</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷག་མ་ནི་ཡང་དག་པ་སྟེ་མཆོག་ཏུ་གྱུར་པའི་རྟོགས་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The rest are correct in their understanding, which is excellent.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-51">
+    <prop type="location-id">UT22084-055-002-149</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་ཁྱོད་འདི་སྐད་དུ་ཆོས་ལ་བརྟག་པའི་མཐའ་ལྔ་པོ་འདི་དག་གིས་རྣམ་པར་གྲོལ་བ་ཐོབ་པར་མཚུངས་སམ་ཟེར་བ་ནི་ཤེས་རབ་མཆོག་ཏུ་གྱུར་པའི་རྟོགས་པ་ཡང་དག་པ་ལས་ལྷག་མ་བཞི་པོ་གཅིག་ལ་གཅིག་བརྒྱུད་པའི་ཁྱད་པར་གྱིས་ཉེ་རིང་ཡོད་ཀྱང་རྣམ་པར་གྲོལ་བ་འཐོབ་པར་མཚུངས་པར་བལྟའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-149"/>“Mañjuśrī, you asked, ‘Are these five analytic positions concerning things equal when it comes to the attainment of complete liberation?’ Regarding that, apart from the correct understanding of those whose discernment is excellent, the other four positions, though sequentially distinct in terms of their proximity to the correct understanding, may be seen as equal when it comes to the attainment of complete liberation.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-52">
+    <prop type="location-id">UT22084-055-002-150</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་ཁྱོད་ཀྱིས་འདི་སྐད་དུ་ཆོས་ལ་བརྟག་པའི་མཐའ་ལྔ་པོ་འདི་དག་ལ་གང་ཟག་གི་རིགས་ནི་མཆིས་ལགས་སམ་ཞེས་ཟེར་བ་ནི་ཐེག་པ་ཆུང་ངུའི་རིགས་དང་ཐེག་པ་ཆེན་པོའི་རིགས་གཉིས་ཀས་ཆོས་ལ་བརྟག་པའི་མཐའ་ལྔ་ལས་བཞི་ལས་བརྒྱུད་ནས་ལྷག་མ་གཅིག་ཏུ་ཡང་དག་པ་ཕྱིན་ཅི་མ་ལོག་པ་སངས་རྒྱས་ཀྱི་སྤྱོད་ཡུལ་རྟོགས་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-150"/>“Mañjuśrī, you asked, ‘Are these five analytic positions concerning things for different kinds of people?’ Regarding that, once they have progressed through four of the five analytic positions concerning things, both those who follow the Lesser Vehicle and those who follow the Great Vehicle will realize that only the last one reflects the correct, undistorted experiential domain of the buddhas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-53">
+    <prop type="location-id">UT22084-055-002-151</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་ཁྱོད་ཀྱིས་འདི་སྐད་དུ་<tei:ref folio="F.173.a"/>ཆོས་ལ་བརྟག་པའི་མཐའ་ལྔ་པོ་འདི་དག་ལ་ཐ་དད་པར་སྣང་བའི་འཐུན་པའི་དཔེ་ནི་ཇི་ལྟར་ལགས་ཞེས་ཟེར་བ་ནི་ཆོས་ཀྱི་གཞི་གཅིག་ལ་ཐ་དད་པར་རྟོག་པའི་དཔེ་ནི་འཛམ་བུའི་གླིང་དུ་ཉི་མ་འཆར་བས་བསྟན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-151"/>“Mañjuśrī, you asked, ‘Is there a suitable analogy for how these five different analytic positions concerning things appear?’ Regarding that, the rising of the sun over Jambudvīpa is an analogy that illustrates how there are different understandings concerning the single basis of things.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-54">
+    <prop type="location-id">UT22084-055-002-151</prop>
+    <tuv xml:lang="bo">
+                <seg>འཛམ་བུའི་གླིང་དུ་ཉི་མ་འཆར་བ་དཔག་ཚད་བཞི་ཁྲིའི་ནམ་མཁའ་ལས་འཆར་བའི་ཚེ་མི་རྣམས་ཀྱིས་རང་གི་གྲོང་ཁྱེར་དང་རི་འདི་ལས་ཤར་བར་སོ་སོ་ནས་རྟོག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When the ascending sun rises over Jambudvīpa from the sky forty thousand yojanas away, everyone thinks that the sun is rising over their own town from their own mountain.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-55">
+    <prop type="location-id">UT22084-055-002-151</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་དུ་ད་ལྟར་གྱི་འཁོར་འདུས་པ་འདི་དག་གིས་ཆོས་ཀྱི་གཞི་གཅིག་ལ་སོ་སོར་རྟོག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the same way, everyone present at this gathering has their own notions concerning the single basis of things.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-56">
+    <prop type="location-id">UT22084-055-002-151</prop>
+    <tuv xml:lang="bo">
+                <seg>སོ་སོར་མཐོང་ངོ་། །སོ་སོར་འཛིན་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Everyone sees it in their own way, and everyone grasps it in their own way.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-57">
+    <prop type="location-id">UT22084-055-002-152</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་རྣམ་པར་མ་བརྟགས་པའི་ཚེ་རང་གི་གྲོང་ཁྱེར་གྱི་རི་ལས་མི་འཆར་བ་མ་ཡིན་པ་བཞིན་དུ་ཆོས་ལ་བརྟག་པའི་མཐའ་འདི་དག་ཀྱང་ཡང་དག་པ་ཕྱིན་ཅི་མ་ལོག་པ་སངས་རྒྱས་རྣམས་ཀྱི་སྤྱོད་ཡུལ་ལས་མ་ལྟོས་པ་གཞན་བཞི་པོ་དེ་བཞིན་དུ་སྣང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-152"/>“Just as one cannot say without analysis that the sun does not rise from the mountain of one’s own town, Mañjuśrī, in the same way, these other four analytic positions concerning things likewise appear—aside from the correct, undistorted experiential domain of the buddhas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-58">
+    <prop type="location-id">UT22084-055-002-153</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་རང་གི་གྲོང་ཁྱེར་གྱི་རི་དེ་ལས་ཡང་དག་པར་འཆར་བ་མ་ཡིན་པ་དེ་བཞིན་དུ་བཞི་པོ་ནི་རྟོགས་པའི་ཐབས་བློའི་རིམ་པ་ལ་དེ་ལྟར་སྣང་སྟེ། དོན་ཡང་དག་པ་ཉིད་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-153"/>“Just as it is not the case that the sun truly rises from the mountain of one’s own town, Mañjuśrī, in the same way, the four positions appear as stages of realization even though they do not convey the true meaning.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-59">
+    <prop type="location-id">UT22084-055-002-154</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་བརྟག་པ་ལྔ་པོ་འདི་དག་ལས་རྣམ་པར་གྲོལ་བ་མཚུངས་པ་ཐོབ་པའི་དཔེ་ནི་ནོར་བུ་རིན་པོ་ཆེས་བསྟན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-154"/>“How these five analyses are comparable with regard to attaining complete liberation, Mañjuśrī, may be illustrated by the analogy of valuable gems.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-60">
+    <prop type="location-id">UT22084-055-002-154</prop>
+    <tuv xml:lang="bo">
+                <seg>རིན་པོ་ཆེ་དེ་ཡང་སེམས་ཅན་རྣམས་ཀྱིས་བསྟེན་པའི་ལས་བྱས་པ་དང་མ་བྱས་པ་ཡོད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>For, with regard to valuing gems, too, there are those who rely on this work and those who do not.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-61">
+    <prop type="location-id">UT22084-055-002-154</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་ཟག་རྟོག་པ་མེད་པ་དང་ལོག་པར་རྟོག་པ་རྣམས་ནི་ཆོས་ལ་བརྟག་པའི་མཐའ་ལྔ་ལ་མི་བརྟེན་པ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>People with no notions and those with wrong notions, who do not depend on the five analytic views concerning things, are like those people who do not do this work and so do not find anything valuable.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-62">
+    <prop type="location-id">UT22084-055-002-154</prop>
+    <tuv xml:lang="bo">
+                <seg>རིན་པོ་ཆེ་བསྟེན་པའི་ལས་མ་བྱས་པའི་གང་ཟག་གིས་རིན་པོ་ཆེ་མ་རྙེད་པ་དང་དགོས་པ་མི་འབྱུང་བ་བཞིན་དུ་དེ་དག་ལ་མི་དཔྱོད་མི་སེམས་པས་ཁམས་གསུམ་ལས་མི་ཐར་བ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Those who find no meaning in them do not think to examine them, and thus they will not be liberated from the three realms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-63">
+    <prop type="location-id">UT22084-055-002-156</prop>
+    <tuv xml:lang="bo">
+                <seg>བསྟེན་པའི་ལས་བྱས་པ་ནི་ཁྱད་པར་དུ་བསགས་པ་དང་ཆེར་བསགས་པ་དང་ཅུང་ཟད་བསགས་པ་རྣམས་ལ་རིན་པོ་ཆེའི་དགོས་པ་ཡང་རིམ་པ་གསུམ་དུ་འབྱུང་བ་བཞིན་དུ་ཡང་དག་པ་ཕྱིན་ཅི་མ་ལོག་པ་དང་ལྷག་མ་བཞི་པོ་བརྒྱུད་པར་བརྟག་པ་ཐེག་པ་ཆེ་ཆུང་རིམ་པ་གསུམ་ཡང་དཔེ་རིམ་པ་བཞིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-156"/>“As for those who do such work, however, there are those who are specialist collectors, those who collect many, and those who collect just a few. Just as their gems will be valued in three tiers, so, too, may the correct and undistorted position, the other four positions, and the analyses of the Lesser Vehicle and Great Vehicle likewise be evaluated in three levels, as in the analogy.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-64">
+    <prop type="location-id">UT22084-055-002-159</prop>
+    <tuv xml:lang="bo">
+                <seg>ངས་བཤད་པའི་མདོ་སྡེ་བཅུ་གཉིས་དང་ཆོས་ལ་བརྟག་པའི་མཐའ་ལྔ་ཇི་ལྟ་བུ་ཡིན་པའི་དཔེ་ནི་རྒྱ་མཚོ་ལ་ཕྱོགས་བཞི་ནས་<tei:ref folio="F.173.b"/>ཆུ་འབབ་པས་བསྟན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-159"/>“An analogy to illustrate how I have expounded the twelve types of discourses and the five analytic positions concerning things is the way that rivers descend in four directions from the great lake.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-65">
+    <prop type="location-id">UT22084-055-002-159</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱོགས་བཞི་ནས་ཆུ་བོ་བཞི་ཡན་ལག་མང་པོ་དང་བཅས་པ་ཕྱོགས་བཞི་ནས་བབ་ཀྱང་གཞི་རྒྱ་མཚོ་ཆེན་པོ་ལས་བབ་པར་འདྲ་བས་རྒྱ་མཚོ་ནི་ཕྱོགས་བཞི་ནས་འབབ་པའི་ཆུ་ཐམས་ཅད་ཀྱི་གཞི་ཡིན་ནོ། །སྤྱི་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Although the four rivers, each with many tributaries, descend in four directions, they are united in descending from the great lake, and thus the great lake is the foundation of all the rivers flowing in the four directions—it is what they have in common.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-66">
+    <prop type="location-id">UT22084-055-002-159</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་དུ་ཆོས་ལ་བརྟག་པའི་མཐའ་ལྔ་ཐ་དད་ཀྱང་ངས་མདོ་སྡེ་བཅུ་གཉིས་བཤད་པ་ལ་རྟེན་པ་ཡིན་པས་མདོ་སྡེ་བཅུ་གཉིས་ནི་གཞི་ཡིན་ནོ། །སྤྱི་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the same way, though the five analytic positions concerning things are different, they are reliant upon the twelve types of discourses that I have expounded, and thus the twelve types of discourses are their foundation—are what they have in common.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-67">
+    <prop type="location-id">UT22084-055-002-163</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་ཁྱོད་འདི་སྐད་དུ་ཆོས་ལ་བརྟག་པའི་མཐའ་ལྔ་པོ་འདི་དག་ལྟར་སོ་སོར་རྟོག་པའི་གང་ཟག་མ་འོངས་པའི་དུས་ན་ཡང་འབྱུང་བར་འགྱུར་བ་ལགས་སམ་ཞེས་ཟེར་བ་ནི་ད་ལྟར་ངས་ཆོས་རྣམས་ཀྱི་རང་གི་ངོ་བོ་ཉིད་ཇི་ལྟ་བ་བཞིན་དུ་སྟོན་པ་ན་ཡང་འཁོར་འདུས་པ་རྣམས་ལ་རྟོག་པ་འདི་ལྟ་བུར་ཐ་དད་པར་གྱུར་ན་ང་མྱ་ངན་ལས་འདས་ནས་ཐ་དད་པར་འགྱུར་བ་ལྟ་ཅི་སྨོས་ཏེ་ཆེས་མང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-163"/>“Mañjuśrī, you asked, ‘In the future, will there still be people who will understand things according to each of these five analytic positions?’ Regarding that, if, while I am still teaching on the essence of things just as they are, there are those in the assembled audience who acquire different notions in this way, then, after I have passed beyond suffering, there will not only be such differences, there will be many more!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-68">
+    <prop type="location-id">UT22084-055-002-163</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་ང་མྱ་ངན་ལས་འདས་ནས་ལོ་ལྔ་བརྒྱ་དང་དགུ་བརྒྱ་དང་སྟོང་དགུ་བརྒྱ་དང་ཉིས་སྟོང་དང་ཉིས་སྟོང་ལྔ་བརྒྱའི་བར་དུ་ཆོས་ལ་བརྟག་པའི་མཐའ་ལྔ་པོ་འདི་དག་ལ་སོ་སོར་རྟོག་པའི་གང་ཟག་རིམ་པར་འབྱུང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Mañjuśrī, for five hundred years after I have passed beyond suffering, and for nine hundred, and for one thousand nine hundred, and for two thousand, and for two thousand five hundred years, there will still be successive generations of people with their own notions regarding these five analytic positions concerning things.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-69">
+    <prop type="location-id">UT22084-055-002-164</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་ཁྱོད་འདི་སྐད་དུ་ཆོས་ལ་བརྟག་པའི་མཐའ་ལྔ་པོ་འདི་དག་ལ་སློབ་པའི་གང་ཟག་རྣམས་དོན་ལགས་པ་དང་མ་ལགས་པར་རྩོད་པར་མི་འགྱུར་ལགས་སམ་ཞེས་ཟེར་བ་ནི་མ་འོངས་པའི་དུས་ང་མྱ་ངན་ལས་འདས་ནས་ལོ་ལྔ་བརྒྱ་ནས་རྩོད་པར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-164"/>“Mañjuśrī, you asked, ‘Will people who train in these five analytic positions concerning things argue about what they do and do not mean?’ Indeed, in the future, once I have passed beyond suffering, they will argue for five hundred years.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-70">
+    <prop type="location-id">UT22084-055-002-164</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཚེ་གང་ཟག་རྣམས་མོས་པ་དང་ཤེས་རབ་ཆེ་ཆུང་གི་དབང་གིས་དོན་མ་ནོར་བར་རྟོགས་མ་རྟོགས་ཀྱི་བྱེ་བྲག་མེད་པར་བདག་ཉིད་ཀྱི་དོན་མ་ཡིན་པ་ལ་ཡིན་ངེས་པར་བྱས་ཏེ། གཞན་གྱི་དོན་ཡིན་པ་ཡང་མ་ཡིན་པར་བསྒྲུབས་ནས་རྩོད་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>At that time, because of the greater or lesser level of people’s aptitude and discernment, and irrespective of whether or not they have understood the undistorted meaning, they will be sure about what is not the true meaning, and having established what is and is not the meaning espoused by others, they will argue.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-71">
+    <prop type="location-id">UT22084-055-002-164</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞན་དྲུང་ན་འཁོད་ཅིང་ཉན་པ་རྣམས་ཀྱིས་ཀྱང་དོན་བཞིན་དུ་ཕྱོགས་འཛིན་པར་མི་བྱེད་ཀྱི། ཡུལ་གྱིས་བསྡུས་པ་དང་གཉེན་གྱི་ཕྱོགས་འཛིན་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And when they present their arguments in front of others, those who listen to them, even without intending to be adherents of positions, will become adherents of positions based on their regional affiliations and kinship.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-72">
+    <prop type="location-id">UT22084-055-002-165</prop>
+    <tuv xml:lang="bo">
+                <seg>དོན་མ་ནོར་བར་ཤེས་པ་རྣམས་ཀྱིས་ཀྱང་མི་ཤེས་པ་རྣམས་ལ་བསྟན་པར་བྱ་བའི་ཕྱིར་མི་རྩོད་ཀྱི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-165"/>“Even those who know the undistorted meaning will argue, not for the sake of teaching those who do not know, but for the sake of disheartening and dissecting the views of others.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-73">
+    <prop type="location-id">UT22084-055-002-165</prop>
+    <tuv xml:lang="bo">
+                <seg>སྨ་དབབ་པ་དང་ཤེད་གཅད་པའི་ཕྱིར་རྩོད་དེ། ཁྱོད་ཀྱི་དོན་གྱི་ངོ་བོ་ཇི་ལྟར་མཐོང་བ་སྨྲོས་ཞེས་དྲིས་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will demand, ‘Explain how you see the essence of your meaning!’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-74">
+    <prop type="location-id">UT22084-055-002-165</prop>
+    <tuv xml:lang="bo">
+                <seg>དེས་སྨྲས་པ་དང་། དོན་མ་ནོར་ཡང་མདོ་སྡེ་གཞན་<tei:ref folio="F.174.a"/>ལ་བརྩམས་ནས་སྨྲ་བར་འགྱུར་རོ། །ཁྱོད་འདི་སྐད་ཟེར་ཞེས་ནོར་བ་གཞན་ལ་སྒྲོགས་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Although the answers may not be wrong, they will be disputed based on other discourses, and with cries of, ‘You said this,’ they will proclaim the mistakes of others.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-75">
+    <prop type="location-id">UT22084-055-002-165</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་ཉིད་ལས་མ་གཏོགས་པ་གཞན་གྱིས་མ་ཤེས་ན་ཅི་མ་རུང་སྙམ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will think, ‘How pleasant it is when others do not know, and I alone know.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-76">
+    <prop type="location-id">UT22084-055-002-165</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་ཀྱི་ཕྱིར་མ་ཡིན་གྱི་ཟང་ཟིང་གི་ཕྱིར་སྒྲོགས་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will proclaim such things not for the sake of enlightenment, but for the sake of material things.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-77">
+    <prop type="location-id">UT22084-055-002-166</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-166"/>This is what he said.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-78">
+    <prop type="location-id">UT22084-055-002-166</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་ཆོས་ལ་བརྟག་པའི་མཐའ་ལྔ་པོ་འདི་དག་ཆོས་ཀྱི་གཞི་གཅིག་ལ་ཐ་དད་པར་གྱུར་ན་ཆོས་ཀྱི་གཞི་དེ་ནི་གང་ལགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then Mañjuśrī asked, “Blessed One, if these five analytic positions concerning things, though different, rest on a single basis of things, then what is that basis of things?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-79">
+    <prop type="location-id">UT22084-055-002-166</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལ་ཇི་ལྟར་བརྟགས་ན་ནི་འཁྲུལ་པ་ལགས། དེའི་མ་ནོར་བའི་རང་གི་ངོ་བོ་ནི་གང་ལགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If whichever way one examines, one is still deluded, then what is the unmistaken essence?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-80">
+    <prop type="location-id">UT22084-055-002-167</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། འཇམ་དཔལ་གཞི་ནི་ཕུང་པོ་རྣམས་སོ། །འབྱུང་བ་རྣམས་སོ། །ཁམས་དང་སྐྱེ་མཆེད་རྣམས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-167"/>The Blessed One replied, “Mañjuśrī, the basis is the aggregates, the elements, the constituents, and the sense fields.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-81">
+    <prop type="location-id">UT22084-055-002-167</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དག་སྒྱུ་མ་བཞིན་ཐ་སྙད་ཙམ་དུ་སྣང་བ་ལས་རྟག་པ་དང་ཐེར་ཟུག་ཏུ་བཟུང་ན་འཁྲུལ་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>However, one will be mistaken if one takes even these things as permanent and unchanging, since they too are like illusions and are merely conventional designations.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-82">
+    <prop type="location-id">UT22084-055-002-167</prop>
+    <tuv xml:lang="bo">
+                <seg>རང་བཞིན་སྐྱེ་བ་མེད་པ་ལ་དངོས་པོ་ཐ་སྙད་དུ་སྣང་བ་བསལ་ནས་མེད་པར་བརྟགས་ན་ཡང་འཁྲུལ་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one examines what is inherently unborn without being clear about its appearance as a conventional designation, one will also be mistaken.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-83">
+    <prop type="location-id">UT22084-055-002-167</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་གཞི་མ་ནོར་བའི་རང་གིས་ངོ་བོ་ནི་ཆོས་དེ་དག་གི་རང་བཞིན་སྐྱེ་བ་མེད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The basis, the unmistaken essence, is the inherently unborn state of those things.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-84">
+    <prop type="location-id">UT22084-055-002-169</prop>
+    <tuv xml:lang="bo">
+                <seg>གསོལ་པ། འོ་ན་ཡུལ་འཁྲུལ་པའི་གཞི་མ་མཆིས་ན་ཡུལ་འཁྲུལ་པ་སྣང་ཞེས་བྱ་བ་ཇི་ལྟ་བུ་ལགས། བཀའ་སྩལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-169"/>Mañjuśrī asked, “If the basis of delusory sensory objects does not exist, then how is it that there is what is known as the appearance of delusory sensory objects?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-85">
+    <prop type="location-id">UT22084-055-002-170</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་སྒྱུ་མ་བཞིན་ཐ་སྙད་ཙམ་དུ་སྣང་ཞིང་ཡོད་པ་དེ་སེམས་འཁྲུལ་པས་སྣང་བར་ནི་མི་བཟུང་གི །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-170"/>The Buddha replied, “Understand that things are like illusions, merely conventional designations that are perceived by the deluded mind as existing.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-86">
+    <prop type="location-id">UT22084-055-002-170</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་དེ་དག་གི་རང་བཞིན་སྐྱེ་བ་མེད་པར་མ་ཤེས་ནས་རྟག་པ་ཐེར་ཟུག་ཏུ་བཟུང་བའི་འཁྲུལ་པའི་སྣང་བ་ལ་སེམས་འཁྲུལ་པ་ཡུལ་དུ་སྣང་བར་ཟུང་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Not apprehending this, and not understanding that things are inherently unborn, objects of perception that appear to the deluded mind as deluded perceptions are seized upon as permanent and unchanging things.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-87">
+    <prop type="location-id">UT22084-055-002-170</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཅིའི་ཕྱིར་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Why must you understand this?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-88">
+    <prop type="location-id">UT22084-055-002-170</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་རྣམས་ལ་གང་གིས་རྟག་པ་དང་ཐེར་ཟུག་ཏུ་བཟུང་ན་འཁོར་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Because one remains in saṃsāra if one takes things as permanent and unchanging.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-89">
+    <prop type="location-id">UT22084-055-002-170</prop>
+    <tuv xml:lang="bo">
+                <seg>འཁོར་བར་གྱུར་ན་ཕུང་པོ་དང་ཁམས་དང་སྐྱེ་མཆེད་རྣམས་ཡོད་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one is in saṃsāra, the aggregates, the constituents, and the sense fields will exist.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-90">
+    <prop type="location-id">UT22084-055-002-170</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཡོད་ན་བདེ་བ་དང་སྡུག་བསྔལ་རྣམས་མྱོང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If these exist, there will be the experience of joy and sorrow.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-91">
+    <prop type="location-id">UT22084-055-002-170</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་གིས་ཆོས་རྣམས་ཀྱི་རང་བཞིན་སྐྱེ་བ་མེད་པ་ཤེས་ནས་ཆོས་རྣམས་ཀྱི་དངོས་པོ་རྟག་པ་ཐེར་ཟུག་དང་། མེད་པ་དང་ཆད་པའི་མཐའ་གཉིས་པོ་བསལ་ན་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>However, if one is aware that things are inherently unborn, and one has cleared away both the extremes—of permanent unchanging substantiality and of the nonexistence and negation of things— then one will reach the highest perfect and complete awakening.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-92">
+    <prop type="location-id">UT22084-055-002-170</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཐོབ་པ་དང་མཚན་དང་དཔེ་བྱད་དང་སངས་རྒྱས་ཀྱི་ཞིང་ཡོངས་སུ་དག་པར་སྣང་བར་འགྱུར་རོ། །<tei:ref folio="F.174.b"/>
+                </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With that, the attainments, the major and minor marks, and the buddhafields in their complete perfection will appear.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-93">
+    <prop type="location-id">UT22084-055-002-172</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་མདོར་ན་ཆོས་ཀྱི་རང་བཞིན་སྐྱེ་བ་མེད་པར་མ་ཤེས་ནས་ཆོས་རྣམས་ལ་རྟག་པ་དང་ཐེར་ཟུག་ཏུ་བཟུང་བས་འཁོར་བར་གྱུར་ནས། ཆོས་རྣམས་སྣང་བ་ལ་སེམས་འཁྲུལ་པ་སྣང་ཞེས་བྱའི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-172"/>“In brief, Mañjuśrī, not understanding the inherently unborn nature of things, grasping to things as permanent and unchanging, and being in saṃsāra—this is what is known as the perception of the deluded mind toward the appearance of things.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-94">
+    <prop type="location-id">UT22084-055-002-172</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐོག་མ་ནམ་མཁའ་ལྟ་བུ་མེད་པ་ལས་སེམས་འཁྲུལ་པའི་མཐུས་ཆོས་རྣམས་སྣང་བ་ནི་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>However, it is not the case that things appear from nothingness, like primordial space, by the power of the deluded mind alone.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-95">
+    <prop type="location-id">UT22084-055-002-172</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་མཐོང་བ་དག་པ་དང་མ་དག་པ་གཉིས་ཀྱིས་འཁོར་བ་དང་མྱ་ངན་ལས་འདས་པར་སྣང་བ་ལ་ཡང་ཡུལ་ནི་སེམས་སྣང་བ་ཡིན་ཞེས་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Even in the perception of saṃsāra and nirvāṇa, by means of pure and impure vision, Mañjuśrī, the object of perception is known as an appearance to the mind.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-96">
+    <prop type="location-id">UT22084-055-002-173</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང་། འཁོར་འདུས་པ་དེ་དག་ཐམས་ཅད་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-173"/>This is what he taught, and the audience gathered there rejoiced and greatly praised what the Blessed One had said.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-97">
+    <prop type="location-id">UT22084-055-002-174</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཉིད་རང་གི་ངོ་བོ་ཉིད་ལས་མི་གཡོ་བར་ཐ་དད་པར་ཐམས་ཅད་སྣང་བའི་མདོ་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-174"/>This concludes “The Sūtra on All Things Appearing Differently While Not Departing from the Essence of the True Nature of Things.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-055-002-TU-98">
+    <prop type="location-id">UT22084-055-002-176</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་དཱ་ན་ཤཱི་ལ་དང་བན་དེ་ཡེ་ཤེས་སྡེས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ། །དཱ་ན་ཤཱི་ལའི་ཞལ་ནས་སྡེ་སྣོད་ཀྱི་བསྟན་བཅོས་དང་དབུ་མའི་ལྟ་བ་ཐ་དད་རྣམས་འདི་ལས་འཕྲོས་པ་ཡིན་གསུང་སྐད།​།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-055-002-176"/>Translated, edited, and finalized by the Indian preceptor Dānaśīla and Bandé Yeshé Dé. It is said that Dānaśīla himself said that the piṭaka treatises and different views of Madhyamaka developed from this.</seg>
+            </tuv>
+</tu>
+
+
+</body>
+</tmx>

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="linguae-dharmae/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-091-039" eft:text-version="v-1.0.2-2023"/>
+<body>
+<tu id="UT22084-091-039-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.126.a"/>༄༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་མཉྫུ་ཤྲཱི་ནཱ་མ་ཨཥྚ་ཤ་ཏ་ཀན། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-091-039-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་བརྒྱ་རྩ་བརྒྱད་པ་ཞེས་བྱ་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Noble One Hundred and Eight Names of Mañjuśrī</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-039-TU-3">
+    <prop type="location-id">UT22084-091-039-70</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-039-70"/>Homage to the youthful Mañjuśrī!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-039-TU-4">
+    <prop type="location-id">UT22084-091-039-74</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤིན་ཏུ་དང་བའི་སེམས་ཀྱིས་སུ། །ཐུབ་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ། །སངས་རྒྱས་རྣམས་ཀྱིས་བསྔགས་པ་ཡི། །མཚན་རྣམས་འདིར་ནི་བརྗོད་པར་བགྱི། །གཟུགས་མཛེས་གཟུགས་དང་ལྡན་པ་སྟེ། །གཟུགས་རྣམས་ཀུན་གྱི་བླ་ན་མེད། །མཚན་རྣམས་ཐམས་ཅད་ཀུན་ཏུ་རྫོགས། །འཇམ་དཔལ་དཔལ་གྱི་དམ་པ་<tei:ref folio="F.126.b"/>ལགས། །བསམ་གྱིས་མི་ཁྱབ་བསམ་དང་བྲལ། །མཐུ་རྩལ་བསམ་ཡས་རྨད་དུ་བྱུང་། །སྐུ་གསུང་ཕྲིན་ལས་བསམ་མི་ཁྱབ། །དེ་བཞིན་ཐུགས་ཀྱང་བསམ་མི་ཁྱབ། །སྟོང་ཉིད་བསྒོམས་པའི་བདག་ཉིད་ཅན། །སྟོང་པའི་ཆོས་དང་ཡང་དག་ལྡན། །སྟོང་པ་ཉིད་ལ་ལྷག་པར་མོས། །སྲིད་པ་གསུམ་པོ་སྟོང་པར་སྟོན། །ཐམས་ཅད་མཁྱེན་ཅིང་ཐམས་ཅད་གཟིགས། །ས་རྣམས་ཀུན་གྱི་བདག་དང་ལྡན། །སེམས་ཅན་ཀུན་གྱི་མཆོག་ཏུ་གྱུར། །སེམས་ཅན་ཀུན་གྱིས་ཕྱག་བགྱིས་པ། །ངན་འགྲོ་ཀུན་དང་དེ་བཞིན་དུ། །མུ་སྟེགས་ཅན་རྣམས་ཐམས་ཅད་འཇོམས། །ཕས་ཀྱི་རྒོ་ལ་བ་ཚར་གཅོད་པ། །སྨྲ་བའི་སེང་གེ་མི་ཡི་མཆོག །དུལ་ཞིང་ཉོན་མོངས་རྣམས་དང་བྲལ། །སྒྲིབ་པ་དྲི་མ་ཀུན་མི་མངའ། །སེམས་ཅན་ཐམས་ཅད་ཡོངས་སུ་སྐྱོབ། །གྲོལ་ཞིང་འཇིག་རྟེན་གྲོལ་མཛད་པ། །རལ་པ་མུན་ཛ་བརྟུལ་ཞུགས་ཅན། །ཚངས་པ་ཚངས་པའི་གནས་ན་བཞུགས། །བགྲང་ནོར་ཐོགས་ཤིང་ཕྱག་མཁར་བསྣམས། །དག་ཅིང་དག་ལ་རྣམས་དང་ལྡན། །འཇམ་པའི་དབྱངས་ཅན་མངའ་དབང་མཛད། །པདྨ་ལས་འཁྲུངས་པདྨའི་སྤྱན། །པདྨའི་ཟེ་བའི་ཁ་དོག་འདྲ། །བཞུགས་པའི་གདན་ཁྲི་པདྨ་ལགས། །གཙང་མ་ཨུཏྤལ་སྔོན་པོ་བསྣམས། །བསམ་དག་ཞི་བའི་ཐུགས་དང་ལྡན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With a pure heart, Bowing my head to the Sage, Here I will recite the names The buddhas have praised.<tei:milestone xml:id="UT22084-091-039-74"/>Beautiful in form, physically handsome, Yours unexcelled among all bodies, All attributes complete, Mañjuśrī, gloriously excellent,<tei:milestone xml:id="UT22084-091-039-76"/> Inconceivable, free from thought, Heroic, beyond thought, wondrous, Inconceivable in body, speech, and deed, And inconceivable in mind, too,<tei:milestone xml:id="UT22084-091-039-77"/> Meditation-on-emptiness in essence, Endowed with empty qualities, Ardent in devotion to emptiness, Teaching the emptiness of all three existences,<tei:milestone xml:id="UT22084-091-039-79"/> All knowing and all seeing, Powerful lord over all lands, Supreme among all sentient beings, The one to whom all sentient beings have paid homage,<tei:milestone xml:id="UT22084-091-039-82"/> Vanquisher of all states of misery And all who propound misleading views, Defeater of opponents, Lion of speech, supreme among humans,<tei:milestone xml:id="UT22084-091-039-84"/> Free from defiling passions and afflictions, One without obscuration or taint, Rescuer of all sentient beings, Liberated and world liberator, Practicing the ascetic discipline of wearing dreadlocks and muñja, Brahmā, dwelling in the abode of Brahmā, Holding a rosary and bearing a staff, Pure and endowed with the purities,<tei:milestone xml:id="UT22084-091-039-92"/> Gentle voiced, exercising dominion, Lotus born and lotus eyed,<tei:milestone xml:id="UT22084-091-039-96"/> Your color lotus-anther-like, Lotus throned, Immaculate, bearing a blue lotus, Your intention pure, your mind at peace,<tei:milestone xml:id="UT22084-091-039-99"/> You are a buddha and a pratyekabuddha.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-039-TU-5">
+    <prop type="location-id">UT22084-091-039-100</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྱོད་ནི་སངས་རྒྱས་རང་སངས་རྒྱས། །ཁྱོད་ནི་དང་པོའི་སངས་རྒྱས་ལགས། །རྫུ་འཕྲུལ་ལྡན་ཞིང་མངའ་དབང་བརྙེས། །བདེན་པ་བཞི་དག་སྟོན་པ་པོ། །འཇིག་རྟེན་སྐྱོང་བ་སྤྱན་སྟོང་མངའ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You are the Ādibuddha, Endowed with miraculous power, possessing dominion, The teacher of the four truths,<tei:milestone xml:id="UT22084-091-039-100"/> The protector of the world, thousand eyed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-039-TU-6">
+    <prop type="location-id">UT22084-091-039-100</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྱོད་ནི་དབང་ཕྱུག་སྐྱེ་དགུའི་བདག །ཁྱོད་ནི་ཞི་བའི་སེམས་ཅན་རྣམས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You are Īśvara, you are the lord of all beings, And you are Śiva the tamer of sentient beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-039-TU-7">
+    <prop type="location-id">UT22084-091-039-104</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་གྱི་མངའ་བདག་ཡོན་ཏན་གཙོ། །ཁྱོད་ནི་ཁྱུ་མཆོག་སྐྱེ་དགུའི་གཙོ། །ཐུ་བོ་དེ་བཞིན་ཚེ་རབས་དགོངས། །རྣམ་པར་འདྲེན་དང་འདུལ་མཛད་པ། །རྒྱལ་སྲས་རྒྱལ་བ་ཉིད་ལས་འཁྲུངས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Sovereign of all who is foremost in virtue,<tei:milestone xml:id="UT22084-091-039-104"/> You are the dominant bull, the foremost being, The preeminent, the one who remembers past lives, The leader, the tamer, The victor’s child, the one born from the Victor himself.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-039-TU-8">
+    <prop type="location-id">UT22084-091-039-107</prop>
+    <tuv xml:lang="bo">
+                <seg>འོད་ཟེར་སྟོང་ལྡན་ཉི་མ་ཁྱོད། །ཟླ་བ་དང་ནི་ཕུར་བུའང་ཁྱོད། །རྣམ་ཐོས་བུ་དང་ཆུ་ལྷའང་ལགས། །དབང་ཕྱུག་ཆེ་ཁྱོད་ཁྱབ་འཇུག་ཁྱོད། །ཀླུ་ཡི་རྒྱལ་པོ་མཐའ་ཡས་ཁྱོད། །<tei:ref folio="F.127.a"/>དེ་བཞིན་སྡེ་དཔོན་སྐེམས་བྱེད་ལགས། །ལྷ་མིན་དབང་པོ་ཐགས་ཟངས་རིས། །མིག་དམར་གཟའ་ལག་པ་བ་སངས། །སྤེན་པ་དཔའ་བོ་ལྷ་ཀུན་ལགས། །ལྷ་རྣམས་ཀུན་གྱིས་ཕྱག་བགྱིས་པ། །འཇིག་རྟེན་ཆོས་ཀྱི་དྲི་མ་བྲལ། །ཁྱོད་ནི་འཇིག་རྟེན་གང་ཟག་མཆོག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-039-107"/>You are the thousand-rayed sun, You are the moon and Jupiter, You are Vaiśravaṇa and Varuṇa, You are Maheśvara, you are Viṣṇu,<tei:milestone xml:id="UT22084-091-039-111"/> You are Ananta king of nāgas, And, similarly, you are Skanda the commander, Vemacitra the lord of asuras, Mars, Mercury, Venus,<tei:milestone xml:id="UT22084-091-039-116"/> Saturn, all the heroic deities, The one to whom all gods paid homage, Untainted by worldly things.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-039-TU-9">
+    <prop type="location-id">UT22084-091-039-118</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་མཁྱེན་པ་འཇིག་རྟེན་རིག །ཡེ་ཤེས་ཅན་གྱི་དམ་མཆོག་པ། །དམ་པ་སྦྱིན་དང་གནས་དང་སྐྱབས། །བདུད་ཀྱི་ལས་ཀྱིས་ཡོངས་མི་རྫི། །ཁ་ན་མ་ཐོ་མི་མངའ་ཟབ། །དགེ་བའི་བཤེས་གཉེན་ཀུན་ཏུ་གྲགས། །ཁྱོད་ནི་སྨན་པ་ཟུག་རྔུ་འབྱིན། །མི་འདུལ་ཁ་ལོ་སྒྱུར་བའི་མཆོག །བློ་གྲོས་ལྡན་ཞིང་རྟོགས་དང་ལྡན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You are the person supreme in the worlds,<tei:milestone xml:id="UT22084-091-039-118"/> Knower of worlds, realizer of worlds, Holiest of the wise, Bestower of boons, abode, and refuge, Beyond the reach of Māra’s works, <tei:milestone xml:id="UT22084-091-039-120"/>Devoid of misdeed, profound, The renowned spiritual friend.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-039-TU-10">
+    <prop type="location-id">UT22084-091-039-122</prop>
+    <tuv xml:lang="bo">
+                <seg>བློ་དང་ལྡན་ཞིང་མཁས་པ་ལགས། །ཁྱོད་ནི་བསོད་ནམས་དཔག་བསམ་ཤིང་། །བྱང་ཆུབ་ཡན་ལག་མེ་ཏོག་བརྒྱན། །རྣམ་གྲོལ་འབྲས་བུ་ཕུན་སུམ་ཚོགས། །ལུས་ཅན་ཀུན་གྱི་མཆོག་ཏུ་གྱུར། །ཡིད་དུ་འོང་ཞིང་ཡིད་འཕྲོག་པ། །སྡིག་པ་མི་མངའ་ཚངས་པར་སྤྱོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You are the physician who removes thorns, The supreme charioteer of humans to be tamed,<tei:milestone xml:id="UT22084-091-039-122"/> Astute and realized, Intelligent and adept, You are possessed of merit, the wish-fulfilling tree, Adorned with the blossoms of the factors of awakening,<tei:milestone xml:id="UT22084-091-039-126"/> Replete with liberation’s fruit, The supreme embodied being, Lovely and captivating, Faultless and chaste.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-039-TU-11">
+    <prop type="location-id">UT22084-091-039-129</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྱོད་ནི་མཇུག་རིངས་གཟའ་མཆོག་ལགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-039-129"/>You are the comet and the greatest of heavenly bodies.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-039-TU-12">
+    <prop type="location-id">UT22084-091-039-129</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྱོད་ནི་དྲང་སྲོང་ཐུབ་པ་མཆོག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You are the seer foremost among sages.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-039-TU-13">
+    <prop type="location-id">UT22084-091-039-129</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྱོད་ནི་རྒྱལ་ཚབ་དབང་བསྐུར་བ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You have been consecrated as crown prince.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-039-TU-14">
+    <prop type="location-id">UT22084-091-039-130</prop>
+    <tuv xml:lang="bo">
+                <seg>ས་བཅུའི་མངའ་བདག་གཙོ་བོ་ལགས། །དེད་དཔོན་འགྲོ་བ་རྣམས་ཀྱི་གཙོ། །མྱ་ངན་འདས་པ་མཆོག་སྟོན་བཞིན། །ཁྱོད་ནི་ནམ་མཁའ་ས་ཆུ་བཞིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Foremost sovereign of the ten bhūmis, <tei:milestone xml:id="UT22084-091-039-130"/>Caravan leader, best of beings, Revealing supreme nirvāṇa, You are like the sky, earth, and water.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-039-TU-15">
+    <prop type="location-id">UT22084-091-039-130</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྱོད་ནི་མེ་དང་རླུང་ལྟ་བུ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You are like fire and wind.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-039-TU-16">
+    <prop type="location-id">UT22084-091-039-132</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྱོད་ནི་ཡིད་བཞིན་ནོར་བུ་ལྟར། །སེམས་ཅན་རེ་བ་ཀུན་རྫོགས་མཛད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-039-132"/>You are like a wish-fulfilling jewel, Fulfilling the hopes of sentient beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-039-TU-17">
+    <prop type="location-id">UT22084-091-039-132</prop>
+    <tuv xml:lang="bo">
+                <seg>འབྱུང་པོ་ཀུན་གྱིས་ཕྱག་བགྱིས་པ། །རིན་ཆེན་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>O you to whom all living beings pay homage— Precious one, we bow to you.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-039-TU-18">
+    <prop type="location-id">UT22084-091-039-136</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་གྱིས་ནི་བཀའ་སྩལ་པ། །ཨོཾ་བཱ་ཀྱེ་དྃ་ན་མཿསྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-039-136"/>Mañjuśrī spoke, saying oṃ vākyedaṃ namaḥ svāhā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-039-TU-19">
+    <prop type="location-id">UT22084-091-039-136</prop>
+    <tuv xml:lang="bo">
+                <seg>ཇི་སྐད་སྨོས་པའི་མཚན་རྣམས་དང་། །རིག་སྔགས་བཅས་པར་འཛིན་ན་ནི། །སྡིག་འགྱུར་རྣམ་དག་རབ་ཏུ་ཐོབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one retains the names thus spoken Together with the vidyāmantra, One accomplishes the purification of one’s sins.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-039-TU-20">
+    <prop type="location-id">UT22084-091-039-137</prop>
+    <tuv xml:lang="bo">
+                <seg>བརྒྱ་ལས་རྩ་བརྒྱད་ལྷག་པའི་མཚན། །སྐྱེས་བུ་དུས་གསུམ་སུ་ཀློག་པ། །དེ་འདོད་བསམ་དགུ་ཡིད་བཞིན་དུ། །གདོན་མི་ཟ་བར་འགྲུབ་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-039-137"/>A person who recites, three times a day, These eight-more-than-a-hundred names Is certain to attain their many wishes In just the way they want them.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-039-TU-21">
+    <prop type="location-id">UT22084-091-039-139</prop>
+    <tuv xml:lang="bo">
+                <seg>བཟང་པོའི་མཚན་རྣམས་དྲན་ན་ནི། །མཚམས་མེད་སྐལ་བ་མཉམ་པ་ཡི། །ལས་རྣམས་མི་བཟད་གང་བྱས་པ། །དེ་དག་ཐམས་ཅད་མྱུར་དུ་བྱང་། །<tei:ref folio="F.127.b"/>
+                </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-039-139"/>If they recollect the felicitous names, Any terrible acts that have been performed That equal those of immediate retribution Will be swiftly purified.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-039-TU-22">
+    <prop type="location-id">UT22084-091-039-140</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་ཕ་རོལ་འཕོ་བ་དང་། །འཇིགས་པ་ཆེན་པོ་འབྱུང་བའི་ཚེ། །སེམས་ཅན་དག་པས་དྲན་བྱས་ན། །འཇམ་པའི་དབྱངས་ཀྱང་ཐོབ་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-039-140"/>Remembering thus when great frights arise In transition to the world beyond, Those purified sentient beings Will directly encounter Mañjughoṣa.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-039-TU-23">
+    <prop type="location-id">UT22084-091-039-142</prop>
+    <tuv xml:lang="bo">
+                <seg>བློ་དང་ལྡན་པས་དྲན་བྱས་ཏེ། །ངེས་པར་གནས་ནས་སུ་ཀློག་པ། །སངས་རྒྱས་ཉིད་ནི་འདོད་ན་ཡང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-039-142"/>The intelligent who, upon remembering, Compose themselves and recite Will attain buddhahood if they so desire.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-039-TU-24">
+    <prop type="location-id">UT22084-091-039-142</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐོབ་འགྱུར་འདི་ལ་ཐེ་ཚོམ་མེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Of this there is no doubt.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-039-TU-25">
+    <prop type="location-id">UT22084-091-039-144</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་བརྒྱ་རྩ་བརྒྱད་པ་རྫོགས་སོ།​།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-039-144"/>This concludes the noble “One Hundred and Eight Names of Mañjuśrī.”</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>
