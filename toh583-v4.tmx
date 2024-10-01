@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="monlam-ai/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-090-027" eft:text-version="v-1.0.2-2023"/>
+<body>
+<tu id="UT22084-090-027-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg/>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-027-translation"/>The Dhāraṇī for Retaining the Perfection of Wisdom in a Hundred Thousand Lines</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-027-TU-2">
+    <prop type="location-id">UT22084-090-027-65</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.204.a"/>༄༅། །བཅོམ་ལྡན་འདས་མ་འཕགས་མ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-027-65"/>Homage to the Bhagavatī, the Perfection of Wisdom.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-027-TU-3">
+    <prop type="location-id">UT22084-090-027-68</prop>
+    <tuv xml:lang="bo">
+                <seg>ཏདྱ་ཐཱ། ཨོྃ་མུ་ནི་དྷརྨེ། སཾ་གྲ་ཧ་དྷརྨེ། ཨ་ནུ་གྲ་ཧ་དྷརྨེ། བི་མུགྟི་དྷརྨེ། ས་དཱ་ཨཱ་ནུ་གྲ་ཧ་དྷརྨེ། བཻ་ཤྲ་བ་ཎ་པ་རི་བརྟི་ཏ་དྷརྨེ། སརྦ་ཀཱརྱ་པ་རི་པྲ་མ་ཎ་དྷརྨེ། ས་མ་ཏཱ་པ་རི་བརྟ་ན་དྷརྨེ་སྭཱ་ཧཱ། ཨོཾ་པྲཛྙེ་ཤྲུ་ཏི་སྨྲྀ་ཏི་བི་ཛ་ཡེ། དྷཱིཿདྷཱ་ར་ཎཱི་ཡེ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-027-68"/>tadyathā | oṃ munidharme saṃgrahadharme vimuktidharme sadā anugrahadharme vaiśravaṇa parivartata | dharme sarvakārya paripramāṇadharme samatāparivartanadharme svāhā |<tei:milestone xml:id="UT22084-090-027-70"/> oṃ prajñā śruti smṛti vijaye dhīḥ dhāraṇīye svāhā |</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-027-TU-4">
+    <prop type="location-id">UT22084-090-027-72</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་བཟུང་བས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་བརྒྱ་པ་གཟུང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-027-72"/>By taking up this dhāraṇī, one will retain The Perfection of Wisdom in a Hundred Thousand Lines.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-027-TU-5">
+    <prop type="location-id">UT22084-090-027-74</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་བརྒྱ་པ་གཟུང་བར་འགྱུར་བའི་གཟུངས་རྫོགས་སོ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-027-74"/>This completes “The Dhāraṇī for Retaining the Perfection of Wisdom in a Hundred Thousand Lines.”</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>

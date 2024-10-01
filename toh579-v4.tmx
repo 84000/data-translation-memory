@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="monlam-ai/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-090-023" eft:text-version="v-1.0.3-2023"/>
+<body>
+<tu id="UT22084-090-023-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.203.a"/>༄༅། །ཕ་རོལ་ཏུ་ཕྱིན་པ་དྲུག་གི་སྙིང་པོའི་གཟུངས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-023-translation"/>The Dhāraṇī of the Essence of the Six Perfections</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-023-TU-2">
+    <prop type="location-id">UT22084-090-023-46</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ཡུམ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-023-46"/>Homage to the Noble Mother, Prajñāpāramitā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-023-TU-3">
+    <prop type="location-id">UT22084-090-023-46</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the Buddha.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-023-TU-4">
+    <prop type="location-id">UT22084-090-023-46</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the Dharma.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-023-TU-5">
+    <prop type="location-id">UT22084-090-023-46</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་འདུན་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the Saṅgha.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-023-TU-6">
+    <prop type="location-id">UT22084-090-023-46</prop>
+    <tuv xml:lang="bo">
+                <seg>ན་མོ་དྷརྨ་ཀཱ་ཡ། སཾ་བྷོ་ག་ཀཱ་ཡ། ནིརྨཱ་ཎ་ཀཱ་ཡ། ཏདྱ་ཐཱ། དཱ་ན་པཱ་ར་མི་ཏཱ། ཤཱི་ལ་པཱ་ར་མི་ཏཱ། ཀྵཱནྟི་པཱ་ར་མི་ཏཱ། བཱིརྱ་པཱ་ར་མི་ཏཱ། དྷྱཱ་ན་པཱ་ར་མི་ཏཱ། པྲཛྙཱ་པཱ་ར་མི་ཏཱ། སརྦ་དྷརྨ་ཤཱུ་ནྱ་ཏཱ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>namo dharmakāya saṃbhogakāya nirmāṇakāya | tadyathā | dānapāramitā śīlapāramitā kṣāntipāramitā vīryapāramitā dhyānapāramitā prajñāpāramitā sarvadharmaśunyatā svāhā |</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-023-TU-7">
+    <prop type="location-id">UT22084-090-023-51</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་བཟུང་བས་ཕ་རོལ་ཏུ་ཕྱིན་པ་དྲུག་གཟུང་བར་འགྱུར་རོ། །སྟོང་པ་ཉིད་ཡིད་ལ་བྱས་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-023-51"/>By taking this up, one will retain the six perfections, and emptiness will have been established in one’s mind.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-023-TU-8">
+    <prop type="location-id">UT22084-090-023-51</prop>
+    <tuv xml:lang="bo">
+                <seg>རྟག་ཏུ་བཟླས་བརྗོད་བྱས་ན་ཆོས་ཐམས་ཅད་ཀྱི་མདོ་དང་རྒྱས་པ་ཤེས་པར་འགྱུར་རོ། །མཚམས་མེད་པ་ལྔ་བྱང་བར་འགྱུར་རོ། །ལྟས་ངན་པ་ཐམས་ཅད་ཀྱང་མི་སྡིག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When one verbally recites this constantly, one will understand all the aphoristic and extensive teachings, one will purify the five deeds of immediate retribution, and one will also overcome all bad views.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-023-TU-9">
+    <prop type="location-id">UT22084-090-023-53</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕ་རོལ་ཏུ་ཕྱིན་པ་དྲུག་གི་སྙིང་པོའི་གཟུངས་<tei:ref folio="F.203.b"/>རྫོགས་སོ།​།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-023-53"/>This completes “The Dhāraṇī of the Essence of the Six Perfections.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-023-TU-10">
+    <prop type="location-id">UT22084-090-023-53</prop>
+    <tuv xml:lang="bo">
+                <seg/>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+</body>
+</tmx>

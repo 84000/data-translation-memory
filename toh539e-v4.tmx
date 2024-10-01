@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="monlam-ai/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-088-034" eft:text-version="v-1.0.3-2023"/>
+<body>
+<tu id="UT22084-088-034-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg/>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-034-translation"/>The Dhāraṇī of the Polished Gem</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-034-TU-2">
+    <prop type="location-id">UT22084-088-034-29</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.100.b"/>དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-034-29"/>Homage to the Three Jewels.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-034-TU-3">
+    <prop type="location-id">UT22084-088-034-29</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོྃ་སྨ་ར་སྨ་ར། བི་སྨ་ན་སྐ་ར་མ་ཧཱ་ཛ་བ་ཧཱུྃ་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>oṃ smara smara| vismanaskara mahājava hūṃ|</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-034-TU-4">
+    <prop type="location-id">UT22084-088-034-32</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞེས་བརྗོད་ཅིང་རིན་པོ་ཆེ་བརྡར་བས་</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-034-32"/>Say this as a gem is polished.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-034-TU-5">
+    <prop type="location-id">UT22084-088-034-32</prop>
+    <tuv xml:lang="bo">
+                <seg>རིན་པོ་ཆེའི་གདུགས་དང་རྒྱལ་མཚན་ལ་སོགས་པའི་ཆར་དཔག་ཏུ་མེད་པ་ནམ་མཁའི་ཁམས་གང་བར་བསམ་ལ་དབུལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Imagine that by doing this a boundless rain of jeweled parasols, banners, and the like fills the whole of the sky, and offer this.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-034-TU-6">
+    <prop type="location-id">UT22084-088-034-33</prop>
+    <tuv xml:lang="bo">
+                <seg>རིན་པོ་ཆེ་བརྡར་བའི་གཟུངས་རྫོགས་སོ།​། །​།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-034-33"/>This completes “The Dhāraṇī of the Polished Gem.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-034-TU-7">
+    <prop type="location-id">UT22084-088-034-33</prop>
+    <tuv xml:lang="bo">
+                <seg/>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+</body>
+</tmx>

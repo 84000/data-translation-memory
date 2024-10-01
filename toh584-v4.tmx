@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="monlam-ai/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-090-028" eft:text-version="v-1.0.2-2023"/>
+<body>
+<tu id="UT22084-090-028-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg/>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-028-translation"/>The Dhāraṇī for Retaining the Noble Avatamsaka</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-028-TU-2">
+    <prop type="location-id">UT22084-090-028-44</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.204.a"/>༄༅། །དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-028-44"/>Homage to the Three Jewels.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-028-TU-3">
+    <prop type="location-id">UT22084-090-028-44</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་ནྠཱཾ་ན་མཿསརྦ་བུད་དྷཱ་ནཱཾ། ཨོཾ་མཱཾ། བྷྲཱུཾ་མཱུཾ། ཏདྱ་ཐཱ། ཨོཾ་བྲཱུཾ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>oṃ nthiṃ | nāmaḥ sarvabuddhānām | oṃ māṃ bhrūṃ mūṃ | tadyathā | oṃ bhrūm |</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-028-TU-4">
+    <prop type="location-id">UT22084-090-028-48</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་བཟུང་བས་འཕགས་པ་ཕལ་པོ་ཆེ་གཟུང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-028-48"/>By taking up this dhāraṇī, one will retain the noble Avataṃsaka.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-028-TU-5">
+    <prop type="location-id">UT22084-090-028-48</prop>
+    <tuv xml:lang="bo">
+                <seg>འདྲི་བ་དང་། ཀློག་པ་ཡང་དེ་དང་འདྲའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One will be like someone who has written it and recited it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-028-TU-6">
+    <prop type="location-id">UT22084-090-028-49</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ཕལ་པོ་ཆེ་གཟུང་བར་འགྱུར་བའི་གཟུངས་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-028-49"/>This completes “The Dhāraṇī for Retaining the Noble Avataṃsaka.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-028-TU-7">
+    <prop type="location-id">UT22084-090-028-49</prop>
+    <tuv xml:lang="bo">
+                <seg/>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+</body>
+</tmx>

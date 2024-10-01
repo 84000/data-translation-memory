@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="linguae-dharmae/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-072-022" eft:text-version="v-1.0.3-2023"/>
+<body>
+<tu id="UT22084-072-022-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.201.a"/>༄༅༅། །རྒྱ་གར་སྐད་དུ། པྲ་སེ་ན་ཛི་ཏ་གཱ་ཐཱ། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>གསལ་རྒྱལ་གྱི་ཚིགས་སུ་བཅད་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-translation"/>Verses for Prasenajit</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-3">
+    <prop type="location-id">UT22084-072-022-76</prop>
+    <tuv xml:lang="bo">
+                <seg>དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-76"/>Homage to the Three Jewels.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-4">
+    <prop type="location-id">UT22084-072-022-76</prop>
+    <tuv xml:lang="bo">
+                <seg>།རྒྱལ་པོ་གསལ་རྒྱལ་གདུགས་དང་ཅོད་པན་དང་། །རྔ་ཡབ་རལ་གྲི་ནོར་བུ་ལྷམ་བཞག་སྟེ། །ཐལ་མོ་སྦྱར་ཏེ་ལེགས་པར་ཕྱག་འཚལ་ནས། །འཇིག་རྟེན་མགོན་པོ་ལ་ནི་ཞུ་བ་ཞུས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>After setting aside his parasol, crown, Fly whisk, sword, and bejeweled shoes, And joining his palms and bowing properly, King Prasenajit asked the Protector of the World a question:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-5">
+    <prop type="location-id">UT22084-072-022-79</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕན་པར་དགོངས་པ་ཐུགས་རྗེའི་བདག་ཉིད་ཅན། །དེ་བཞིན་གཤེགས་རྣམས་མྱ་ངན་འདས་པ་ན། །མཆོད་པ་བགྱིས་པས་བློ་མཆོག་ཇི་ལྟ་བུར། །སྲིད་པ་གཞན་དུ་མི་རྣམས་བདེ་བ་འཐོབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-79"/>“How, O supreme mind, do people attain happiness in other lives, By making offerings to the thus-gone ones, Who, intent on helping and compassionate by nature, Have entered nirvāṇa?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-6">
+    <prop type="location-id">UT22084-072-022-81</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་<tei:ref folio="F.201.b"/>མི་ཡི་སེང་གེ་སྔ་ཕྱིའི་མཐའི། །ཆོས་རྣམས་ཀུན་ལ་མངོན་སུམ་སྤྱད་གྱུར་པས། །ཀུན་དགའ་བཟང་པོ་ཡི་ནི་མངོན་སུམ་དུ། །གསལ་རྒྱལ་ཞུས་ལན་འདི་དག་བཀའ་སྩལ་པ། །ཇི་ལྟར་རྒྱལ་བ་དག་ལ་མི་རྣམས་ཀྱིས། །མཆོད་པ་བྱས་པས་སྲིད་པ་གཞན་དག་ཏུ། །རྣམ་སྨིན་འདོད་པ་སྣ་ཚོགས་ཅི་ཐོབ་པ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-81"/>Since the Blessed One, a lion among men, Has the eye of direct perception on all things, past and future, He provided these answers to Prasenajit’s question, In the presence of Ānandabhadra:<tei:milestone xml:id="UT22084-072-022-83"/> “How, by worshiping the victors, Do people, in other lives, Obtain the various rewards they desire?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-7">
+    <prop type="location-id">UT22084-072-022-81</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞུས་པའི་དོན་དེ་རྒྱལ་པོས་མཉན་པར་གྱིས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Listen, O King, to the answer to your question!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-8">
+    <prop type="location-id">UT22084-072-022-86</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱི་མཆོད་རྟེན་རྣམས་དང་ནི། །སྐུ་གཟུགས་རྣམས་ལ་རྡུལ་ཕྲན་ཅི་སོང་བ། །དེ་ཡི་གྲངས་སྙེད་དེ་བྱེད་མི་རྣམས་ཀྱིས། །ལྷ་ཡུལ་ས་སྟེངས་ངེས་པར་རྒྱལ་སྲིད་འཐོབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-86"/>“However many particles make up stūpas and images of the Blessed One, As numerous as those shall be the kingdoms assuredly attained, In heaven and on earth, By people who construct them.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-9">
+    <prop type="location-id">UT22084-072-022-88</prop>
+    <tuv xml:lang="bo">
+                <seg>གཟུགས་དང་གཟུགས་མེད་ཁམས་ཀྱི་ཏིང་ངེ་འཛིན། །ཕུན་སུམ་ཚོགས་པའི་ས་མཆོག་ཀུན་མྱོང་ནས། །ཐ་མར་སྐྱེ་དང་རྒལ་སོགས་པ་ཡི། །སྡུག་བསྔལ་མེད་པའི་སངས་རྒྱས་གོ་འཕང་འཐོབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-88"/>“Having experienced all the supreme levels of perfect Meditative absorption of the form and formless realms, Ultimately, they will obtain the state of buddhahood, Which is free from the suffering of birth, old age, and so on.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-10">
+    <prop type="location-id">UT22084-072-022-89</prop>
+    <tuv xml:lang="bo">
+                <seg>སུ་དག་འདིར་ནི་རྒྱལ་བའི་གཟུགས་བྱེད་པ། །དེ་དག་གཟུགས་བཟང་ཡིད་འོང་ཡོན་ཏན་ལྡན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-89"/>“Those who produce an image of the Victor here, They will possess beauty, charm, and good qualities.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-11">
+    <prop type="location-id">UT22084-072-022-89</prop>
+    <tuv xml:lang="bo">
+                <seg>དབང་པོ་བསྡམས་ཤིང་འོད་འབར་ཉི་མ་བཞིན། །འཇིག་རྟེན་དག་ན་མིག་ཏུ་སྡུག་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Their senses restrained, brilliant as the sun, They will become beautiful for all the world to behold.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-12">
+    <prop type="location-id">UT22084-072-022-91</prop>
+    <tuv xml:lang="bo">
+                <seg>སུ་དག་བདེ་བར་གཤེགས་པའི་གཟུགས་བྱེད་པ། །དེ་ཡི་ལུས་ནི་དྲི་མ་མེད་པ་དང་། །པད་མའི་སྙིང་པོ་ལྟ་བུར་འཇམ་ཞིང་ཡངས། །ནད་དང་མྱ་ངན་སྡུག་བསྔལ་འཇིགས་ལས་ཐར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-91"/>“Those who produce an image of the Sugata, Their bodies will be unblemished, Soft, and wide—like the calyx of a lotus— Free from fear, disease, sorrow, and pain.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-13">
+    <prop type="location-id">UT22084-072-022-93</prop>
+    <tuv xml:lang="bo">
+                <seg>སུ་ཞིག་འཇིག་རྟེན་མགོན་པོའི་གཟུགས་བྱེད་པ། །བྲན་དུ་མི་སྐྱེ་མངག་གཞུག་སྐྱེ་མི་འགྱུར། །དབུལ་བོར་མི་འགྱུར་རིགས་དམན་མི་འགྱུར་ཞིང་། །དབང་པོ་རྣམས་ཀྱང་ཉམས་པར་ཡང་མི་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-93"/>“Someone who produces an image of the Protector of the World Will not be born a slave or a servant; They will not become a beggar or an outcast, And their sense faculties, moreover, will not be deficient.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-14">
+    <prop type="location-id">UT22084-072-022-94</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐུབ་དབང་མཆོད་རྟེན་བྱེད་པའི་མི་རྣམས་ནི། །མྱ་ངན་ཡོངས་མེད་ལུས་ཀུན་བརྟན་པ་དང་། །ལོངས་སྤྱོད་མཆོག་ལྡན་རིན་ཆེན་མཛོད་མང་ལྡན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-94"/>“People who build a stūpa of the Lord of Sages Will be utterly unafflicted, their entire body strong, With superior resources and many jewel treasuries.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-15">
+    <prop type="location-id">UT22084-072-022-94</prop>
+    <tuv xml:lang="bo">
+                <seg>དགྲ་ཡི་ཚོགས་རྣམས་ཀྱང་ནི་ཐུབ་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will also be able to defeat throngs of enemies.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-16">
+    <prop type="location-id">UT22084-072-022-95</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་བའི་མཆོད་རྟེན་སྲོག་ཤིང་ཕུལ་བ་ཡིས། །ཆོས་དང་རྗེས་འཐུན་ཆོས་ལ་སྒྲུབ་པ་དང་། །ཚུལ་ཁྲིམས་ཐོས་དང་བཟོད་པའི་མཆོག་དང་ལྡན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-95"/>“By offering the central pillar within a stūpa of the Victor, They will accomplish the Dharma and what accords with it, And they will possess supreme morality, learning, and forbearance.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-17">
+    <prop type="location-id">UT22084-072-022-95</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་དག་ན་དོན་ཀུན་འགྲུབ་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In every world, they will accomplish all their goals.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-18">
+    <prop type="location-id">UT22084-072-022-97</prop>
+    <tuv xml:lang="bo">
+                <seg>མཆོད་རྟེན་མཆོག་ལ་གདུགས་བརྩེགས་ཕུལ་བ་ཡིས། །ལྷ་དང་མི་ཡི་ནང་ན་སྐྱེ་བ་དང་། །སྲེད་མེད་བུ་ཡི་ལུས་འདྲ་ལུས་ཀུན་བརྟན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-97"/>“By offering the tiered parasol spire, They will be reborn among gods and humans, And like Nārāyaṇa’s body, their entire body will be strong.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-19">
+    <prop type="location-id">UT22084-072-022-97</prop>
+    <tuv xml:lang="bo">
+                <seg>བཀུར་སྟི་བྱ་བའི་ཡོན་ཏན་ལྡན་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will become someone with qualities that command respect.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-20">
+    <prop type="location-id">UT22084-072-022-98</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐུབ་དབང་མཆོད་རྟེན་རྡོ་ཐལ་བྱུགས་པ་ཡིས། །ལྷ་<tei:ref folio="F.202.a"/>མིའི་འཇིག་རྟེན་དག་ན་ཚེ་རིང་ཞིང་། །ལུས་སེམས་ནད་དང་མྱ་ངན་བྱེད་སྤངས་ཏེ། །རྟག་ཏུ་སྐྱིད་ཅིང་ནོར་གྱིས་ཕྱུག་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-98"/>“By coating a stūpa of the Lord of Sages with whitewash, They will have a long life in the worlds of gods and humans, Their body and mind will be freed from disease and distress, And they will be constantly happy and wealthy.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-21">
+    <prop type="location-id">UT22084-072-022-100</prop>
+    <tuv xml:lang="bo">
+                <seg>གསེར་དངུལ་སྤ་བའི་གླེགས་མོས་གཡོགས་པ་ཡི། །ཐུབ་པའི་དབང་པོའི་མཆོད་རྟེན་བྱས་པ་ཡིས། །མི་རྣམས་སྲིད་པའི་ཁྱད་པར་གཞན་དག་ཏུ། །ལུས་མཁྲེགས་འོད་ཀྱང་འབར་ཞིང་མཛེས་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-100"/>“After causing a stūpa of the Lord of Sages To be covered with resplendent strips of gold and silver, People in other, different existences Will have bodies that are firm and luminous as well as radiant and beautiful.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-22">
+    <prop type="location-id">UT22084-072-022-102</prop>
+    <tuv xml:lang="bo">
+                <seg>སུ་དག་ལ་ལ་མཆོད་རྟེན་སྐུ་གཟུགས་ལ། །དད་པའི་སེམས་ཀྱིས་བླ་རེ་འབུལ་བྱེད་པ། །དེ་དག་ས་སྟེང་རྒྱ་མཚོའི་མཐས་ཀླས་པ། །མ་ལུས་གནོད་མེད་རྒྱལ་གཅིག་དབང་བྱེད་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-102"/>“Whoever, with a faithful mind, Offers a canopy to a stūpa or statue, Will rule, entirely and unhindered, as the sole victor Over the earth, boundless as the shores of the ocean.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-23">
+    <prop type="location-id">UT22084-072-022-103</prop>
+    <tuv xml:lang="bo">
+                <seg>བདེ་གཤེགས་མཆོད་རྟེན་དག་ལ་དགའ་བཞིན་དུ། །རྣམ་མང་རྒྱ་ཆེན་གདུགས་ནི་བཏགས་པ་ཡིས། །ལྷ་མིའི་འཇིག་རྟེན་དག་ན་གདུགས་འདྲ་བར། །ལྷ་དང་མི་ཡི་དབང་པོ་ལྟ་བུར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-103"/>“By joyfully setting up Many kinds of broad parasols at stūpas of the Sugata, In worlds of gods and humans they will become like parasols, Just like lords of gods and lords of humans.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-24">
+    <prop type="location-id">UT22084-072-022-105</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་རྣམས་སུ་དག་སྐུ་གདུང་སྙིང་པོ་ཅན། །དྲི་མེད་བསོད་ནམས་འབྱུང་གནས་གྱུར་པ་ལ། །བ་དན་མཛེས་པ་སྣ་ཚོགས་འདོགས་པ་དག །མཐུ་དང་ལྡན་ཞིང་སྲིད་གསུམ་མཆོད་གནས་འགྱུར། །བདེ་གཤེགས་མཆོད་རྟེན་ཅོད་པན་བཏགས་པ་ཡིས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-105"/>“People who hang various beautiful banners On reliquaries that have become pure sources of merit Will come to possess power And become objects of worship in the three realms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-25">
+    <prop type="location-id">UT22084-072-022-106</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་དབང་དཔལ་དང་ལྷ་དབང་དཔལ་ཐོབ་ཅིང་། །བདེ་བའི་མཆོག་ཀྱང་ཉམས་སུ་མྱོང་གྱུར་ནས། །རྣམ་པར་གྲོལ་བའི་ཅོད་པན་ཁྱད་པར་འཐོབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-106"/>“By putting a crown on a stūpa of the Sugata, They will obtain the fortune of the lord of humans and the fortune of the lord of gods; And then, having experienced supreme bliss, They will obtain the special crown of liberation.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-26">
+    <prop type="location-id">UT22084-072-022-109</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་བའི་མཆོད་རྟེན་དག་ལ་དྲིལ་ཕུལ་བས། །ཚིག་བཙན་གྲགས་པ་ཆེན་པོ་དག་དང་ལྡན། །ཚངས་པའི་སྒྲ་དབྱངས་ཡིད་འོང་སྐྱེ་བ་དྲན། །དེ་དག་གིས་ནི་རྒྱན་རྣམས་སྣ་ཚོགས་འཐོབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-109"/>“By offering bells to stūpas of the Victor, They will have compelling speech and great fame, The pleasant, melodious voice of Brahmā, and recall of previous lives, And they will obtain various adornments.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-27">
+    <prop type="location-id">UT22084-072-022-113</prop>
+    <tuv xml:lang="bo">
+                <seg>མཁས་པ་སུ་དག་བདེ་གཤེགས་མཆོད་རྟེན་ལ། །དད་པའི་སེམས་ཀྱིས་ཕྲེང་བ་འདོགས་བྱེད་པ། །གསེར་ཕྲེང་རིན་ཆེན་མང་པོས་ལེགས་སྤྲས་པ། །བསོད་ནམས་ལས་ལྡན་དེ་ཡི་མགོ་ལ་ཐོགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-113"/>“Whichever wise person, with a faithful mind, Hangs a garland at a stūpa of the Sugata, That meritorious person will, over their head, Wear many precious golden garlands.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-28">
+    <prop type="location-id">UT22084-072-022-114</prop>
+    <tuv xml:lang="bo">
+                <seg>སྟོན་པའི་མཆོད་རྟེན་དག་ལ་རྒྱན་འཕྱང་འདོགས། །དེ་དག་དོ་ཤལ་རྒྱན་ཕྲེང་ནོར་བུ་དང་། །གདུ་བུ་དག་དང་དཔུང་རྒྱན་མཆོག་རྣམས་ཀྱིས། །ལུས་བརྒྱན་འཇིག་རྟེན་དག་ན་རྒྱུ་བར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-114"/>“Those who drape ornaments on stūpas of the Teacher Will go about the world adorned With multistranded necklaces, collar necklaces, Bracelets, and the finest armlets.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-29">
+    <prop type="location-id">UT22084-072-022-116</prop>
+    <tuv xml:lang="bo">
+                <seg>སུ་དག་བདེ་བར་གཤེགས་པའི་མཆོད་རྟེན་ལ། །ས་དང་ལྕི་བས་ཉུག་པ་དེ་དག་ནི། །ལྷ་དང་མིར་སྐྱེ་ལུས་མདོག་སྡུག་པ་དང་། །རྣམ་དག་རྨ་མེད་བདེ་དང་ལྡན་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-116"/>“Those who smear earth and cow dung On a stūpa of the Sugata Will be happy and born among gods and humans, With bodies that are beautiful, utterly pure, and flawless.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-30">
+    <prop type="location-id">UT22084-072-022-118</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐུབ་དབང་མཆོད་རྟེན་བྱི་དོར་བྱས་པ་ཡིས། །<tei:ref folio="F.202.b"/>ཤིན་ཏུ་བལྟ་ན་སྡུག་ཅིང་མིག་ཏུ་མཛེས། །བྱད་བཞིན་བཟང་ཞིང་པད་མོའི་མདོག་དང་ལྡན། །སྲིད་པའི་སྐྱོན་རྣམས་དང་ཡང་འབྲལ་བར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-118"/>“By sweeping around a stūpa of the Lord of Sages, They will be very pleasant to see, beautiful to the eye, With a fine countenance, lotus-hued, And free from the flaws of craving.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-31">
+    <prop type="location-id">UT22084-072-022-120</prop>
+    <tuv xml:lang="bo">
+                <seg>སུ་དག་སྤོས་མཆོག་སྦྱར་བའི་འབྲུ་མར་གྱིས། །བདེ་བར་གཤེགས་པའི་མཆོད་རྟེན་ཉུག་བྱེད་པ། །དེ་དག་སྤོས་ཀྱིས་མཆོད་ཅིང་ཙན་དན་གྱིས། །ལུས་བྱུགས་ཉི་མའི་འོད་དང་འདྲ་བར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-120"/>“Whoever smears a stūpa of the Sugata With oil mixed with the best fragrances Will be worshiped with incense, And their body, anointed with sandalwood, will be like the rays of the sun.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-32">
+    <prop type="location-id">UT22084-072-022-121</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་རྣམས་གང་དག་ཐུབ་དབང་མཆོད་རྟེན་ལ། །སྤོས་ཆུ་གཙང་ཞིང་དང་བས་ཁྲུས་གསོལ་བ། །དེ་དག་ལུས་ལ་དྲི་མ་མེད་པ་དང་། །གདུང་བ་མེད་ཅིང་མདོག་འཇམ་མྱ་ངན་མེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-121"/>“Whoever washes a stūpa of the Lord of Sages With scented water, clean and clear, Will have an unblemished body, free of pain, With a soft complexion, free of sorrow.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-33">
+    <prop type="location-id">UT22084-072-022-122</prop>
+    <tuv xml:lang="bo">
+                <seg>སུ་ཞིག་སངས་རྒྱས་མཆོད་རྟེན་སྐུ་གཟུགས་ཁང་། །ཚོན་རྩི་སྣ་ཚོགས་དག་གིས་མཛེས་བྱེད་པ། །དེ་ནི་བདེ་གཤེགས་མངའ་བའི་ཡོན་ཏན་རྣམས། །སྣ་ཚོགས་ལྡན་པ་ཀུན་གྱིས་བརྩེགས་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-122"/>“One who beautifies, with various paints, The shrines at a stūpa of the Buddha Will become enveloped in All the various qualities of the Sugata.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-34">
+    <prop type="location-id">UT22084-072-022-125</prop>
+    <tuv xml:lang="bo">
+                <seg>སུ་དག་དཔྱིད་ཀའི་དུས་སུ་གཙང་མའི་ཆུས། །མཆོད་རྟེན་ཉེ་འཁོར་རྡུལ་རྣམས་ཞི་བྱེད་པ། །དེ་ལ་བུད་མེད་རྣམས་ནི་དགའ་བཞིན་དུ། །རྡུལ་ཡབ་གསེར་གྱི་ཡུ་བ་ཅན་གྱིས་གཡོབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-125"/>“Those who, in the springtime, settle all the dust around a stūpa with clean water, For them, women will joyfully wave away dust With golden-handled fans.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-35">
+    <prop type="location-id">UT22084-072-022-127</prop>
+    <tuv xml:lang="bo">
+                <seg>དཀོན་མཆོག་གསུམ་ཕྱིར་མི་རྣམས་གང་དག་གིས། །འཕགས་པ་དགྱེས་པའི་དཀྱིལ་འཁོར་བྱས་པས་ནི། །རྐང་ལག་སོར་མོ་དྲ་བར་འབྲེལ་བ་དང་། །ཡན་ལག་ཐམས་ཅད་ཀྱང་ནི་སྐྱོན་མེད་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-127"/>“Whoever, for the sake of the Three Jewels, Creates a mandala that delights the noble ones Will have hands and feet with webbed fingers and toes, And every limb, too, will be flawless.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-36">
+    <prop type="location-id">UT22084-072-022-128</prop>
+    <tuv xml:lang="bo">
+                <seg>སུ་དག་དཀོན་མཆོག་གསུམ་ལ་མེ་ཏོག་དང་། །འབྲས་བུ་གསར་ཐོག་བྱུང་བ་འབུལ་བྱེད་པ། །དེ་དག་འགྲོ་བ་རྣམས་སུ་འཁོར་བ་ན། །རོ་མཆོག་ཀུན་ཐོབ་མི་རྫི་སྟོབས་དང་ལྡན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-128"/>“Whoever offers flowers to the Three Jewels, Along with freshly grown fruit, Will, as they transmigrate among beings, Obtain every supreme taste and possess indominable might.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-37">
+    <prop type="location-id">UT22084-072-022-130</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྲེང་བ་མེ་ཏོག་རྒྱ་ཆེན་ཆར་རྣམས་ཀྱིས། །སུ་དག་འདིར་ནི་རྒྱལ་བའི་གཟུགས་ལ་མཆོད། །དེ་དག་ལྷ་དང་མི་ཡི་འཇིག་རྟེན་དུ། །ཆ་བྱད་ཡིད་འོང་སྣ་ཚོགས་ལེགས་པར་བརྒྱན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-130"/>“Whoever venerates a statue of the Victor here With vast garlands and cascades of flowers Will, among the worlds of gods and humans, Be well dressed in various, attractive garments.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-38">
+    <prop type="location-id">UT22084-072-022-132</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་མཆོད་རྟེན་དག་ལ་དྲི་ཞིམ་ཕུལ། །བདུག་སྤོས་རྒྱ་ཆེན་མང་པོ་ལྡན་སྦྱར་དང་། །ཨ་ག་རུ་ཡི་བདུག་སྤོས་ཕུལ་བ་ཡིས། །དེ་ཡི་ལུས་ཀུན་སྤོས་ངད་ལྡན་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-132"/>“Those who offer fragrances at stūpas of the Buddha, With infusions of many and various types of incense, As well as agarwood incense, Will have their entire body perfumed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-39">
+    <prop type="location-id">UT22084-072-022-133</prop>
+    <tuv xml:lang="bo">
+                <seg>སུ་དག་བདེ་བར་གཤེགས་པའི་མཆོད་རྟེན་ལ། །དགའ་བཞིན་རྔ་ཡབ་རྣམས་ནི་འབུལ་བྱེད་པ། །ཐུགས་དགའ་རྒྱལ་རྣམས་སྙིང་རྗེ་རྔ་ཡབ་ཐོགས། །ཆེ་བ་དེ་ལ་ཆེར་ཡང་གཡོབ་པར་བྱེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-133"/>“Whoever joyfully donates yak-tail fans To a stūpa of the Sugata, That eminent one will also be fanned significantly By the joyful mind, the yak-tail fan, that is the compassion of the victors.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-40">
+    <prop type="location-id">UT22084-072-022-134</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤིན་ཏུ་དྲི་མེད་ཟླ་བ་ཉ་འདྲ་བའི། །མེ་ལོང་སྡུ་གུ་ཐམས་ཅད་མཁྱེན་ལ་འབུལ། །དེ་དག་ཚེ་རབས་བརྒྱུད་པ་རྣམས་སུ་ཡང་། །ལྷ་མི་རྣམས་ཀྱིས་བལྟ་བར་འོས་པར་<tei:ref folio="F.203.a"/>འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-134"/>“Whoever offers to the omniscient one a delightful mirror, Totally stainless, like the full moon, Will, amid their series of rebirths, Be suitable to gaze at by gods and men.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-41">
+    <prop type="location-id">UT22084-072-022-135</prop>
+    <tuv xml:lang="bo">
+                <seg>སུ་དག་བདེ་བར་གཤེགས་པའི་མཆོད་རྟེན་ལ། །མཆོད་པའི་ཁྱད་པར་ཅི་ཡོད་ཅི་འབྱོར་པ། །འཚམ་པར་འབུལ་བྱེད་དེ་དག་དྲི་མེད་ཅིང་། །མྱ་ངན་མེད་པའི་བླ་མེད་བྱང་ཆུབ་འཐོབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-135"/>“Those who offer to the stūpa of the Sugata Whatever special offerings they have and can afford, Accordingly will attain unsurpassable awakening, Which is stainless and devoid of sorrow.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-42">
+    <prop type="location-id">UT22084-072-022-136</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་རྣམས་གང་དག་སངས་རྒྱས་མཆོད་རྟེན་ནམ། །སྐུ་གཟུགས་དག་ལ་མགོས་བཏུད་གུས་ཕྱག་འཚལ། །དེ་དག་ལྷ་རྣམས་དང་ནི་མི་རྣམས་ཀྱིས། །ཆེར་ཡང་ཆེ་བར་བཀུར་བའི་གནས་སུ་འགྱུར། །སུ་ཞིག་དད་པས་ཐུབ་པའི་མཆོད་རྟེན་ནམ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-136"/>“Whoever pays homage to stūpas or statues of the Buddha, Respectfully bowing their heads, Will, among gods and humans, Occupy a place of greater and greater esteem.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-43">
+    <prop type="location-id">UT22084-072-022-137</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐུ་གཟུགས་དག་ལ་སྐོར་བ་བྱེད་པ་དེ། །ཕྱི་མའི་ཚེ་ལ་དགྲ་ཆེན་རྣམས་ཀྱིས་བཏུད། །བཟང་པོའི་སྣོད་འགྱུར་ཡོན་ཏན་རྣམས་དང་ལྡན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-137"/>“Those who, with devotion, circumambulate Stūpas or statues of the Sage Will have their enemies bow to them in future lives And they will become a fine vessel, full of virtues.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-44">
+    <prop type="location-id">UT22084-072-022-138</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་རྣམས་སུ་དག་དགའ་བཞིན་གུས་པ་ཡིས། །བླ་མེད་མཆོད་རྟེན་རྣམས་དང་སྐུ་གཟུགས་ལ། །ལུས་ཀྱི་ལས་རྣམས་བྱེད་པ་དེ་དག་ནི། །སྲིད་པ་ཀུན་ཏུ་མཛོད་རྣམས་ཤིན་ཏུ་རྒྱས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-138"/>“Those who, with joyful devotion, Perform physical activities At stūpas and statues of the Unsurpassed One Will have abundant riches in every lifetime.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-45">
+    <prop type="location-id">UT22084-072-022-140</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་བའི་མཆོད་རྟེན་རོལ་མོའི་སྒྲ་ཕུལ་བས། །ཟབ་ཅིང་རིགས་པའི་སྤོབས་པ་ཕུན་སུམ་ཚོགས། །ཡན་ལག་ལྔ་རྫོགས་ཡིད་འོང་ཚིག་དང་ལྡན། །སྒྲ་སྐད་དག་གིས་འཇིག་རྟེན་འགེངས་པར་བྱེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-140"/>“By offering musical sounds to a stūpa of the Victor, They will have perfect eloquence, profound and coherent— With charming words, complete with the five attributes, The sound of their voices will fill the world.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-46">
+    <prop type="location-id">UT22084-072-022-141</prop>
+    <tuv xml:lang="bo">
+                <seg>སུ་དག་རྒྱལ་བའི་གདུང་ལྡན་སྟོད་བྱེད་པ། །དེ་དག་གླིང་བུའི་སྒྲ་དང་གླུ་སྙན་དང་། །སྒྲ་སྙན་ཡིད་དུ་འོང་བ་ཐོབ་པ་དང་། །སོ་སོ་ཡང་དག་རིག་པའང་ཐོབ་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-141"/>“Whoever extols the reliquary of the Victor Will hear the sounds of flutes and singing, As well as pleasant, charming sounds, And will obtain correct discernment.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-47">
+    <prop type="location-id">UT22084-072-022-142</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་རྣམས་གང་དག་རྩྭ་ཤིང་སོ་ཕག་གིས། །འཇིག་རྟེན་བླ་མའི་སྤྱི་གབ་རིག་པས་བྱེད། །ཡང་ན་གཞན་དག་བྱེད་དུ་འཇུག་ཀྱང་རུང་། །དེ་དག་འགྲོ་བ་རྣམས་ཀྱི་སྐྱབས་འདྲར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-142"/>“People who suitably cover the head of the World’s Superior With grass or bricks, Or inspire others to do so—either way, They will be like a refuge for all beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-48">
+    <prop type="location-id">UT22084-072-022-144</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་རྣམས་གང་དག་རྒྱལ་བའི་གཙང་ཁང་བྱེད། །དེ་དག་འགྲོ་བ་རྣམས་སུ་འཁོར་བ་ན། །ལྷ་དབང་གནས་འདྲའི་ཁང་ཁྱིམ་འོད་འབར་བ། །དུས་ཚིགས་ཀུན་ཏུ་བདེ་ལྡན་ཐོབ་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-144"/>“People who construct a temple to the Victor Will, as they transmigrate among beings, Obtain a splendorous home like the abode of the lord of gods And happiness across all seasons of the year.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-49">
+    <prop type="location-id">UT22084-072-022-145</prop>
+    <tuv xml:lang="bo">
+                <seg>མཐོ་རིས་ལས་བཟང་འབྲས་བུའི་གནས་རྣམས་སུ། །བསྐལ་པར་དགའ་བྱེད་རྟག་ཏུ་དགའ་བཞིན་དུ། །རྩེན་པར་བྱེད་ཅིང་མྱ་ངན་མེད་པ་དང་། །ཐ་མར་ཞི་བའི་གོ་འཕང་ཐོབ་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-145"/>“In the higher realms, states that are the result of excellent karma, Like Constant Happiness, where one is happy for an eon, They will frolic, lack sorrow, And finally obtain a state of peace.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-50">
+    <prop type="location-id">UT22084-072-022-146</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་དག་འཇའ་ཁུགས་འདྲ་བའི་རྟ་བབས་མཛེས། །ཐུབ་པའི་ཆབ་སྒོར་སྦྲེང་བྱེད་དེ་དག་ནི། །སྲིད་པ་གཞན་དུ་ཁང་ཁྱིམ་སྒོ་དང་བཅས། །རྣམ་པར་བརྒྱན་པ་རྣམས་ནི་ཐོབ་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-146"/>“Whoever erects a main gate to the Sage— A beautiful archway like the bend of a rainbow— Will, in other lives, obtain mansions With doors completely decorated.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-51">
+    <prop type="location-id">UT22084-072-022-147</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་རྣམས་གང་དག་སྟོན་པའི་སྐུ་གདུང་ཁང་། །བསྲུང་ཕྱིར་དད་པས་འོབས་དང་སྒོ་འཛུགས་<tei:ref folio="F.203.b"/>པ། །དེ་དག་ཚེ་རབས་གཞན་དུ་དགྲ་རྣམས་ཀྱིས། །དཔལ་ཡོན་རྣམས་དང་དབྲལ་བར་ཡོང་མི་ནུས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-147"/>“Whichever people who, out of devotion And in order to protect the teacher’s reliquary, Establish a moat and a gate, Their enemies in other lives will not be able to rend them from their glorious qualities.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-52">
+    <prop type="location-id">UT22084-072-022-148</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་རྣམས་སུ་དག་མཆོད་རྟེན་རྙིང་པ་རྣམས། །གཞན་གྱི་ངོར་བྱེད་མ་ཡིན་རང་གི་བློས། །རལ་ཚེམས་བྱེད་པའི་སྐྱེ་བོ་དེ་དག་ནི། །ལུས་བཟང་ཡོན་ཏན་དམ་པས་བརྒྱན་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-148"/>“Whoever mends cracks in old stūpas, Not acting on another’s behalf But of their own accord, Will become adorned with a fine body and the best qualities.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-53">
+    <prop type="location-id">UT22084-072-022-149</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་བའི་མཆོད་རྟེན་མེ་ཏོག་རྙིང་བསལ་བས། །འདོད་ཆགས་ཆགས་མེད་ཞེ་སྡང་སྡང་མི་འགྱུར། །གཏི་མུག་རྨོངས་མེད་ལྟ་ངན་ཆགས་མི་འགྱུར། །མི་རྣམས་རབ་ཏུ་དགའ་ཞིང་སྐྱིད་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-149"/>“By clearing away wilted flowers from a stūpa of the Victor, Without being impassioned by desire or becoming hostile in anger, Without being deluded in ignorance or becoming engrossed in wrong views, People will become very joyful and happy.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-54">
+    <prop type="location-id">UT22084-072-022-151</prop>
+    <tuv xml:lang="bo">
+                <seg>སུ་དག་གླང་ཆེན་དྲིལ་སྤྱངས་སྤ་བར་བརྒྱན། །དུལ་བའི་རྟ་དང་སྦྱར་བའི་ཤིང་རྟ་དག །སྟོན་པ་དང་ནི་འཕགས་པའི་ཚོགས་ལ་འབུལ། །དེ་དག་བླ་མེད་ཐེག་ཆེན་ཐོབ་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-151"/>“Whoever offers elephants bedecked with hanging bells And chariots harnessed to tamed horses To the Teacher and the community of noble ones Will obtain the unsurpassed Great Vehicle.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-55">
+    <prop type="location-id">UT22084-072-022-153</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐྱེ་བོ་སུ་དག་འཇིག་རྟེན་མགོན་པོ་ལ། །རིན་ཆེན་འབར་བ་ཡིད་དང་འཐད་པ་རྣམས། །འབུལ་བ་དེ་དག་རིན་ཆེན་བདུན་པོ་དང་། །བྱང་ཆུབ་ཡན་ལག་རིན་ཆེན་དྲི་མེད་འཐོབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-153"/>“Those beings who offer sparkling, choice gems To the Protector of the World Will obtain the seven precious jewels And the precious, pure factors of awakening.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-56">
+    <prop type="location-id">UT22084-072-022-154</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་བའི་མཆོད་རྟེན་ལ་ནི་གོས་ཕུལ་བས། །བསོད་ནམས་བྱམས་པའི་ངོ་ཚའི་གོས་གྱོན་ཏེ། །དགའ་ཞིང་ཡོན་ཏན་ཀུན་ལྡན་སེར་སྣ་མེད། །མདོག་ཀྱང་འཇམ་ཞིང་ཁ་དོག་གསེར་འདྲར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-154"/>“By offering clothing to a stūpa of the Victor, While wearing the clothes of modesty—by this meritorious act They will be joyful, endowed with all virtues, unselfish, As well as smooth skinned and golden hued.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-57">
+    <prop type="location-id">UT22084-072-022-156</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔེ་མེད་མཆོད་རྟེན་མར་མེ་ཕུལ་བ་ཡིས། །ཨུད་པལ་སྔོན་པོ་ཁ་བྱེ་འདབ་འདྲའི་མིག །གསལ་ཞིང་སྡུག་ལ་མིག་གི་དཀྱུས་རིང་མཛེས། །དྲི་མ་མེད་པའི་ལྷ་ཡི་མིག་དང་ལྡན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-156"/>“By offering a butter lamp at a stūpa of the Incomparable One, They will have eyes like fully blossomed blue lotuses, Clear, attractive, elongated, and beautiful, And they will have the unblemished divine eye.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-58">
+    <prop type="location-id">UT22084-072-022-158</prop>
+    <tuv xml:lang="bo">
+                <seg>སུ་དག་མཆོད་རྟེན་མར་མེ་དང་རབ་འབུལ། །དེ་དག་མིག་ཏུ་སྡུག་ཅིང་མཛོད་རབ་རྒྱས། །མིག་གི་དཀྱུས་རིང་མཐོན་ཀའི་མདོག་དང་ལྡན། །སྐྱེས་པ་བུད་མེད་དག་གིས་བལྟ་བར་འོས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-158"/>“Whoever offers rows of butter lamps at a stūpa Will have attractive eyes like fully developed lotus buds, Elongated and sapphire hued, Worthy of men’s and women’s admiration.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-59">
+    <prop type="location-id">UT22084-072-022-161</prop>
+    <tuv xml:lang="bo">
+                <seg>མཚན་མོ་ཐུབ་ཆེན་སྤྱན་སྔར་ཐལ་སྦྱར་འཁོད། །འབྱོར་དང་མཚན་མ་མར་མེའི་སྡོང་བུ་འབུ་འབུལ། །དེ་དག་སྲིད་པ་གཞན་དུ་འབྲས་བུར་ལྡན། །རིན་ཆེན་རགས་པའི་འོད་ལྡན་ལུས་ཀྱང་འཐོབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-161"/>“At night, those who sit, palms joined, before the Great Sage And offer wicks for butter lamps according to their means Will gain rewards in other lives, And obtain a body with the luster of a large gem.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-60">
+    <prop type="location-id">UT22084-072-022-163</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་ལ་ཕུལ་བའི་མར་མེ་འཆི་བ་ན། །དགའ་བའི་སེམས་ཀྱིས་འདིར་ནི་དགའ་བཞིན་དུ། །སྙིང་པོ་སྐུལ་བར་བྱེད་པ་དེ་དག་ནི། །སྤྱན་ལྔ་དག་ཀྱང་ངེས་པར་འཐོབ་པར་འགྱུར། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-163"/>“If, when butter lamps offered to the Victor die out, Joyful minds become delighted at this And revive the wicks, They will also surely obtain fivefold vision.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-61">
+    <prop type="location-id">UT22084-072-022-164</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་རྣམས་གང་དག་དགེ་བའི་སེམས་ལྡན་པས། །རྒྱལ་བའི་མཆོད་རྟེན་གཞན་གྱིས་བྱས་པ་ལ། །རྗེས་སུ་ཡི་རངས་དོན་དེ་མ་བྱས་ཀྱང་། །མདོར་ན་དེ་དག་གིས་ཀྱང་བྱས་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-164"/>“Some people, those with virtuous minds, Rejoice in the deeds done by others at a stūpa of the Victor, And even though such deeds are not done by them, In essence it is as if they also perform those deeds.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-62">
+    <prop type="location-id">UT22084-072-022-165</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚུལ་ཁྲིམས་ལྡན་པ་ཕྱོགས་<tei:ref folio="F.204.a"/>ནས་ལྷགས་པ་ལ། །སུ་དག་དགའ་བཞིན་མལ་སྟན་སྦྱིན་བྱེད་པའི། །མི་རྣམས་འགྲོ་བ་དག་ཏུ་འཁོར་བ་ན། །གསེར་གྱི་ཁྲི་དང་སྟན་གྱི་མཆོག་རྣམས་འཐོབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-165"/>“Whoever joyfully gives bedding and seats To those who come from morally disciplined communities, Such a person, while cycling through the realms of existence, Will obtain a lion’s throne and the best of seats.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-63">
+    <prop type="location-id">UT22084-072-022-167</prop>
+    <tuv xml:lang="bo">
+                <seg>སུ་དག་རབ་ཏུ་བྱུང་དང་འཚམ་པ་ཡི། །ཁ་ཟས་བཟང་པོ་དགེ་འདུན་སྦྱིན་བྱེད་པ། །དེ་དག་འཁོར་བའི་དགོན་པར་གནས་པ་ན། །ཁ་ཟས་ཁ་དོག་རོ་ལ་སོགས་ལྡན་འཐོབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-167"/>“Those who give to the saṅgha Fine food fitting for a renunciant Will, amid the wilderness of cyclic existence, Obtain food rich in color, taste, and so on.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-64">
+    <prop type="location-id">UT22084-072-022-168</prop>
+    <tuv xml:lang="bo">
+                <seg>སུ་དག་རབ་ཏུ་བྱུང་དང་འཚམ་པ་ཡི། །བཏུང་བ་རྒྱ་ཆེན་དགེ་འདུན་སྦྱིན་བྱེད་པ། །དེ་དག་འཁོར་བའི་དགོན་པར་གནས་པ་ན། །བཏུང་བ་ཁ་དོག་རོ་ལ་སོགས་པ་འཐོབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-168"/>“Those who give to the saṅgha Ample drink fitting for a renunciant Will, amid the wilderness of cyclic existence, Obtain drink rich in color, taste, and so on.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-65">
+    <prop type="location-id">UT22084-072-022-169</prop>
+    <tuv xml:lang="bo">
+                <seg>སུ་དག་འཇིག་རྟེན་བླ་མས་གསུངས་པ་ཡི། །དམ་ཆོས་ཚུལ་བཟང་ཐོས་ནས་ཉམས་སུ་ལེན། །དེ་དག་ཉོན་མོངས་ཆུ་རླབས་རབ་འཇིགས་པའི། །སྲིད་པའི་རྒྱ་མཚོ་མྱུར་དུ་རྒལ་བར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-169"/>“Those who practice the excellent way of the holy Dharma, Having heard it proclaimed by the World’s Teacher, Will swiftly cross the ocean of existence Amid the most frightening waves of afflictive emotions.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-66">
+    <prop type="location-id">UT22084-072-022-170</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་པོ་དགེ་བའི་ལས་འདི་ཐམས་ཅད་ནི། །འཁོར་བའི་བདེ་བ་སྣ་ཚོགས་སྨིན་གྱུར་ནས། །སངས་རྒྱས་ཀྱི་ནི་བྱང་ཆུབ་དམ་པ་ཡི། །འབྲས་བུ་བདེ་བླག་ཁོ་ནར་ཐོབ་པར་འགྱུར། །དེ་ནས་རྒྱལ་པོ་དགའ་མདངས་ལྡན་པ་ཡིས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-170"/>“O King, since all these virtuous deeds Ripen into various worldly pleasures, Then the fruit that is the sublime awakening of the buddhas Will be just as easy to attain.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-67">
+    <prop type="location-id">UT22084-072-022-171</prop>
+    <tuv xml:lang="bo">
+                <seg>དྲང་སྲོང་དགེ་འདུན་བསྐོར་བ་བྱས་ནས་ཀྱང་། །ཐུབ་དབང་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ། །རྒྱལ་པོ་རྒྱལ་བྱེད་ཚལ་ནས་བྱུང་བར་གྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-171"/>Then, after the king, radiant with joy, circumambulated the sage and the saṅgha and bowed down his head at the feet of the Lord of Sages, he departed the Jeta Grove.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-022-TU-68">
+    <prop type="location-id">UT22084-072-022-172</prop>
+    <tuv xml:lang="bo">
+                <seg>གསལ་རྒྱལ་གྱི་ཚིགས་སུ་བཅད་པ་རྫོགས་སོ།​།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-022-172"/>“Verses for Prasenajit” is complete.</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

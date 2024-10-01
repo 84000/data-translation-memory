@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="monlam-ai/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-090-025" eft:text-version="v-1.0.2-2023"/>
+<body>
+<tu id="UT22084-090-025-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg/>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-025-translation"/>The Dhāraṇī for Obtaining the Ten Perfections</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-025-TU-2">
+    <prop type="location-id">UT22084-090-025-44</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.203.b"/>༄༅། །ཕ་རོལ་ཏུ་ཕྱིན་པ་བཅུའི་སྙིང་པོ་འདི་ལན་ཅིག་ཐོས་པས་ཕ་རོལ་ཏུ་ཕྱིན་པ་བཅུ་ཐོབ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-025-44"/>By hearing this essence mantra of the ten perfections, even one time, one will obtain the ten perfections:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-025-TU-3">
+    <prop type="location-id">UT22084-090-025-46</prop>
+    <tuv xml:lang="bo">
+                <seg>ན་མཿསརྦ་ཏཱ་ནཱཾ་ཏ་ཐཱ་ག་ཏཱ་ནཱཾ། ད་ཤ་པཱ་ར་མི་ཏཱ་པ་རི་པཱུ་ར་ཀཱ་ནཱཾ་ཧཱི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-025-46"/>namas saptānām tathāgatānām daśapāramitāparipūrakānām hrīḥ |</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-025-TU-4">
+    <prop type="location-id">UT22084-090-025-49</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕ་རོལ་ཏུ་ཕྱིན་པ་བཅུ་ཐོབ་པར་འགྱུར་བའི་གཟུངས་རྫོགས་སོ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-025-49"/>This completes “The Dhāraṇī for Obtaining the Ten Perfections.”</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>
