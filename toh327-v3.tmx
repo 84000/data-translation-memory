@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="linguae-dharmae/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-072-027" eft:text-version="v-1.0.2-2023"/>
+<body>
+<tu id="UT22084-072-027-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.253.b"/>༄༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་སཏྤུ་རུ་ཥ་སཱུ་ཏྲ། །བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་སྐྱེས་བུ་དམ་པའི་མདོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-027-translation"/>The Noble Sūtra The Good Person</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-3">
+    <prop type="location-id">UT22084-072-027-101</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-027-101"/>Homage to the noble youthful Mañjuśrī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-4">
+    <prop type="location-id">UT22084-072-027-101</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-5">
+    <prop type="location-id">UT22084-072-027-101</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མཉན་ཡོད་ན་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན་བཞུགས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Bhagavān was residing in Prince Jeta’s Grove, Anāthapiṇḍada’s park at Śrāvastī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-6">
+    <prop type="location-id">UT22084-072-027-101</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དགེ་སློང་རྣམས་ལ་བཀའ་སྩལ་པ། དགེ་སློང་དག་ལྔ་པོ་འདི་དག་ནི་སྐྱེས་བུ་དམ་པའི་སྦྱིན་པ་དག་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then the Bhagavān said to the monks, “Monks, these five are the gifts of good people.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-7">
+    <prop type="location-id">UT22084-072-027-101</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྔ་གང་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What are the five?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-8">
+    <prop type="location-id">UT22084-072-027-101</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་སྐྱེས་བུ་དམ་པ་ནི་དད་པས་སྦྱིན་པ་སྦྱིན་པར་བྱེད་པ་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Monks, good people give gifts with trust.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-9">
+    <prop type="location-id">UT22084-072-027-101</prop>
+    <tuv xml:lang="bo">
+                <seg>གུས་པར་བྱས་ཏེ་རང་གི་ལག་པ་ནས་དང་། དུས་སུ་གཞན་དག་ལ་མི་གནོད་པར་སྦྱིན་པ་སྦྱིན་པར་བྱེད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They give gifts respectfully, with their own hands, at the right time, and without harming others.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-10">
+    <prop type="location-id">UT22084-072-027-105</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དད་པས་སྦྱིན་པ་བྱིན་པའི་འབྲས་བུ་རྣམ་པར་སྨིན་པ་འདོད་པར་བྱ་བ་གང་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-027-105"/>“Monks, what karmic results should good people expect from giving gifts with trust?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-11">
+    <prop type="location-id">UT22084-072-027-105</prop>
+    <tuv xml:lang="bo">
+                <seg>དད་པས་སྦྱིན་པ་བྱིན་པས་ཕྱུག་པོར་འགྱུར་བ་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>By giving gifts with trust, they become rich.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-12">
+    <prop type="location-id">UT22084-072-027-105</prop>
+    <tuv xml:lang="bo">
+                <seg>ནོར་མང་བ་དང་། ལོངས་སྤྱོད་ཆེ་བ་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They have abundant riches and great wealth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-13">
+    <prop type="location-id">UT22084-072-027-105</prop>
+    <tuv xml:lang="bo">
+                <seg>ནོར་གྱི་ཡོ་བྱད་མང་བ་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They have abundant precious materials.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-14">
+    <prop type="location-id">UT22084-072-027-105</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་དབང་བའི་སློང་ཆེ་བ་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They have many properties.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-15">
+    <prop type="location-id">UT22084-072-027-105</prop>
+    <tuv xml:lang="bo">
+                <seg>ནོར་དང་། འབྲུ་དང་། དབྱིག་དང་། གསེར་དང་། མཛོད་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They have abundant riches, grains, jewels, gold, depositories, and reserves.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-16">
+    <prop type="location-id">UT22084-072-027-105</prop>
+    <tuv xml:lang="bo">
+                <seg>བང་བའི་ཚོགས་མང་བ་ཡིན། བྲན་དང་། བྲན་མོ་དང་། ལས་བྱེད་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They have many servants, maids, workers, and casual laborers.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-17">
+    <prop type="location-id">UT22084-072-027-105</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞོ་ཤས་འཚོ་བ་མང་བ་ཡིན། མཛའ་བོ་དང་། བློན་པོ་དང་། ཉེ་དུ་དང་། སྣག་གི་གཉེན་མཚམས་མང་བ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They have many friends, ministers, kinsmen, and relatives.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-18">
+    <prop type="location-id">UT22084-072-027-105</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དད་པས་སྦྱིན་པ་བྱིན་པའི་འབྲས་བུ་རྣམ་པར་སྨིན་པ་དེ་ལྟ་བུ་འདོད་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Monks, they should expect such karmic results from giving gifts with trust.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-19">
+    <prop type="location-id">UT22084-072-027-106</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་གུས་པར་བྱས་ཏེ། སྦྱིན་པ་བྱིན་པའི་འབྲས་བུ་རྣམ་པར་སྨིན་པ་འདོད་པར་བྱ་བ་གང་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-027-106"/>“Monks, what karmic results should good people expect from giving gifts respectfully?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-20">
+    <prop type="location-id">UT22084-072-027-106</prop>
+    <tuv xml:lang="bo">
+                <seg>གུས་པར་བྱས་ཏེ་སྦྱིན་པ་བྱིན་པས་ཕྱུག་པོར་འགྱུར་བ་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>By giving gifts respectfully, they become rich.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-21">
+    <prop type="location-id">UT22084-072-027-106</prop>
+    <tuv xml:lang="bo">
+                <seg>མཛའ་བོ་དང་། བློན་པོ་དང་། ཉེ་དུ་དང་། སྣག་གི་གཉེན་མཚམས་མང་བ་ཡིན་པའི་བར་སྔ་མ་བཞིན་ནོ། །བུ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They have many friends, ministers, kinsmen, and relatives, as before.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-22">
+    <prop type="location-id">UT22084-072-027-106</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆུང་མ་དག་དང་། བྲན་དང་། བྲན་མོ་དང་ལས་བྱེད་པ་དང་། ཞོ་ཤས་འཚོ་བ་དང་། མཛའ་བོ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Children, wives, servants, maids, workers, casual laborers, friends, ministers, kinsmen, and relatives also pay them respect.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-23">
+    <prop type="location-id">UT22084-072-027-106</prop>
+    <tuv xml:lang="bo">
+                <seg>བློན་པོ་དང་། ཉེ་དུ་དང་། སྣག་གི་གཉེན་མཚམས་དག་གིས་ཀྱང་གུས་པར་བྱས་པར་འགྱུར་བ་ཡིན་ཏེ། དགེ་སློང་དག་གུས་པར་བྱས་ཏེ་སྦྱིན་པ་བྱིན་པའི་འབྲས་བུ་རྣམ་པར་སྨིན་པ་<tei:ref folio="F.254.a"/>དེ་ལྟ་བུ་འདོད་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Monks, they should expect such karmic results from giving gifts respectfully.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-24">
+    <prop type="location-id">UT22084-072-027-107</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་རང་གི་ལག་པ་ནས་སྦྱིན་པ་བྱིན་པའི་འབྲས་བུ་རྣམ་པར་སྨིན་པ་འདོད་པར་བྱ་བ་གང་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-027-107"/>“Monks, what karmic results should good people expect from giving gifts with their own hands?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-25">
+    <prop type="location-id">UT22084-072-027-107</prop>
+    <tuv xml:lang="bo">
+                <seg>རང་གི་ལག་པ་ནས་སྦྱིན་པ་བྱིན་པས་ཕྱུག་པོར་གྱུར་པ་ནས། མཛའ་བོ་དང་། བློན་པོ་དང་། ཉེ་དུ་དང་། སྣག་གི་གཉེན་མཚམས་མང་བ་ཡིན་པའི་བར་སྔ་མ་བཞིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>By giving gifts with their own hands, they become rich and then have many friends, ministers, kinsmen, and relatives, as before.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-26">
+    <prop type="location-id">UT22084-072-027-107</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཁྱིམ་གྱི་ལོངས་སྤྱོད་རྒྱ་ཆེན་པོ་དག་ལ་ཡང་སེམས་འཇུག་པ་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They also enjoy the great wealth of householders.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-27">
+    <prop type="location-id">UT22084-072-027-107</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟས་ཀྱི་ལོངས་སྤྱོད་རྒྱ་ཆེན་པོ་དག་དང་། ཐེག་པའི་ལོངས་སྤྱོད་རྒྱ་ཆེན་པོ་དག་དང་། གོས་ཀྱི་ལོངས་སྤྱོད་རྒྱ་ཆེན་པོ་དག་དང་། མལ་ཆའི་ལོངས་སྤྱོད་རྒྱ་ཆེན་པོ་དག་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They enjoy an enormous wealth of food, an enormous wealth of animal-drawn carts, an enormous wealth of clothes, and an enormous wealth of bedding.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-28">
+    <prop type="location-id">UT22084-072-027-107</prop>
+    <tuv xml:lang="bo">
+                <seg>གཟུགས་དང་། སྒྲ་དང་། དྲི་དང་། རོ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They enjoy forms, sounds, smells, tastes, and tangibles.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-29">
+    <prop type="location-id">UT22084-072-027-107</prop>
+    <tuv xml:lang="bo">
+                <seg>རེག་བྱ་རྒྱ་ཆེན་པོ་དག་ལ་ཡང་སེམས་འཇུག་པ་ཡིན་ཏེ། །དགེ་སློང་དག་རང་གི་ལག་པ་ནས་སྦྱིན་པ་བྱིན་པའི་འབྲས་བུ་རྣམ་པར་སྨིན་པ་དེ་ལྟ་བུ་འདོད་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Monks, they should expect such karmic results from giving gifts with their own hands.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-30">
+    <prop type="location-id">UT22084-072-027-108</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དུས་སུ་སྦྱིན་པ་བྱིན་པའི་འབྲས་བུ་རྣམ་པར་སྨིན་པ་འདོད་པར་བྱ་བ་གང་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-027-108"/>“Monks, what karmic results should good people expect from giving gifts at the right time?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-31">
+    <prop type="location-id">UT22084-072-027-108</prop>
+    <tuv xml:lang="bo">
+                <seg>དུས་སུ་སྦྱིན་པ་བྱིན་པས་ཕྱུག་པོར་འགྱུར་བ་ཡིན་པ་ནས། མཛའ་བོ་དང་། བློན་པོ་དང་། ཉེ་དུ་དང་། སྣག་གི་གཉེན་མཚམས་མང་པོའི་བར་སྔ་མ་བཞིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>By giving gifts at the right time, they become rich and then have many friends, ministers, kinsmen, and relatives, as before.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-32">
+    <prop type="location-id">UT22084-072-027-108</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ནོར་དག་ཀྱང་དུས་སུ་ཐོབ་པ་དང་། མང་ཞིང་འཐུན་པ་མངོན་དུ་འབྱུང་བ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They also receive jewels accumulated in great numbers.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-33">
+    <prop type="location-id">UT22084-072-027-108</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དུས་སུ་སྦྱིན་པ་བྱིན་པའི་འབྲས་བུ་རྣམ་པར་སྨིན་པ་དེ་ལྟ་བུ་འདོད་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Monks, they should expect such karmic results from giving gifts at the right time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-34">
+    <prop type="location-id">UT22084-072-027-109</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་གཞན་ལ་མི་གནོད་པར་སྦྱིན་པ་བྱིན་པའི་འབྲས་བུ་རྣམ་པར་སྨིན་པ་འདོད་པར་བྱ་བ་གང་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-027-109"/>“Monks, what karmic results should good people expect from giving gifts without harming others?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-35">
+    <prop type="location-id">UT22084-072-027-109</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞན་ལ་མི་གནོད་པར་སྦྱིན་པ་བྱིན་པས་ཕྱུག་པོར་འགྱུར་བ་ཡིན་པ་ནས། མཛའ་བོ་དང་། བློན་པོ་དང་། ཉེ་དུ་དང་། སྣག་གི་གཉེན་མཚམས་མང་བའི་བར་སྔ་མ་བཞིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>By giving gifts without harming others, they become rich and then have many friends, ministers, kinsmen, and relatives, as before.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-36">
+    <prop type="location-id">UT22084-072-027-109</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ལོངས་སྤྱོད་གང་དག་བརྩོན་འགྲུས་བརྩམས་པས་ཐོབ་པ་ལགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They obtain whatever wealth they wish for through diligence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-37">
+    <prop type="location-id">UT22084-072-027-109</prop>
+    <tuv xml:lang="bo">
+                <seg>མཐུས་བསྒྲུབས་པ་རྔུལ་ཞིང་དྲི་མ་ཆགས་ཆགས་སུ་བསྒྲུབས་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is achieved with power; it is achieved without sweating, and while a pleasant aroma pervades.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-38">
+    <prop type="location-id">UT22084-072-027-109</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་དང་ལྡན་པ་ཆོས་ཀྱིས་ཐོབ་པ་དེ་དག་ལ་ཡང་རྒྱལ་པོའམ། རྐུན་པོའམ། མེའམ། ཆུའམ། མི་མཛའ་བ་བགོ་སྐལ་ལ་སྤྱོད་པ་འམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Those things obtained by Dharma practitioners through the Dharma are not obstructed by kings, thieves, fire, water, unfriendly people, the sharing of goods, or any other activity.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-39">
+    <prop type="location-id">UT22084-072-027-109</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་ལས་ཀྱང་བར་ཆད་མི་འབྱུང་བ་ཡིན་ཏེ། གཞན་ལ་མི་གནོད་པར་སྦྱིན་པ་བྱིན་པའི་འབྲས་བུ་རྣམ་པར་སྨིན་པ་འདི་ལ་འདོད་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They should expect such karmic results from giving gifts without harming others.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-40">
+    <prop type="location-id">UT22084-072-027-112</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་<tei:ref folio="F.254.b"/>འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ཏེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-027-112"/>Thus spoke the Bhagavān.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-41">
+    <prop type="location-id">UT22084-072-027-113</prop>
+    <tuv xml:lang="bo">
+                <seg>བདེ་བར་གཤེགས་པས་དེ་སྐད་ཅེས་གསུངས་ནས་འདི་ལྟར་སྟོན་པས་གཞན་ཡང་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །དད་ཅིང་གུས་པར་བྱས་ཏེ་རང་གི་ལག་པ་ནས། །དུས་སུ་གནོད་པ་མེད་པར་མཁས་པ་སྦྱིན་པ་བྱེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>After the Sugata had said this, the Teacher accordingly spoke again:<tei:milestone xml:id="UT22084-072-027-113"/> “The wise ones give with trust, respectfully, with their own hands, At the right time, and without harming others.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-42">
+    <prop type="location-id">UT22084-072-027-113</prop>
+    <tuv xml:lang="bo">
+                <seg>སྦྱིན་པ་རྒྱ་ཆེ་བ་དང་ཆེན་པོ་འདིར་བྱིན་ནས། །ཀུན་བགེད་བྱེད་པ་དེ་ནི་བཟང་འགྲོར་འགྲོ་བ་ཡིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>After giving vast and great gifts, They who always give in this way take fortunate rebirths.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-43">
+    <prop type="location-id">UT22084-072-027-114</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས་དགེ་སློང་དེ་དག་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-027-114"/>When the Bhagavān spoke thus, the monks rejoiced and praised what the Bhagavān had said.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-44">
+    <prop type="location-id">UT22084-072-027-115</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་སྐྱེས་བུ་དམ་པའི་མདོ་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-027-115"/>The Noble Sūtra on the Good Person is complete.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-027-TU-45">
+    <prop type="location-id">UT22084-072-027-116</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་དྷརྨཱ་ཀ་ར་དང་། ལོ་ཙྪ་བ་བན་དེ་བཟང་སྐྱོང་གིས་བསྒྱུར། བན་དེ་དཔལ་བརྩེགས་ཀྱིས་ཞུ་ཆེན་བགྱིས།​།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-027-116"/>Translated by the Indian preceptor Dharmākara and the translator Bandé Zangkyong, and revised by Bandé Paltsek.</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

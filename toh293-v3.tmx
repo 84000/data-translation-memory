@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="linguae-dharmae/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-071-007" eft:text-version="v-1.0.3-2023"/>
+<body>
+<tu id="UT22084-071-007-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.265.b"/>༄༅༅། །རྒྱ་གར་སྐད་དུ། དྷྭ་ཛཱ་གྲ་ན་ནཱ་མ་མ་ཧཱ་སཱུ་ཏྲཾ། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-071-007-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>མདོ་ཆེན་པོ་རྒྱལ་མཚན་དམ་པ་ཞེས་བྱ་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-007-translation"/>The Mahāsūtra The Crest Insignia (2)</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-007-TU-3">
+    <prop type="location-id">UT22084-071-007-86</prop>
+    <tuv xml:lang="bo">
+                <seg>དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-007-86"/>Homage to the Three Jewels.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-007-TU-4">
+    <prop type="location-id">UT22084-071-007-89</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-007-89"/>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-007-TU-5">
+    <prop type="location-id">UT22084-071-007-89</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མཉན་ཡོད་ན། རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན་བཞུགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One was staying in Śrāvastī, in Jeta Grove, the park of Anāthapiṇḍada.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-007-TU-6">
+    <prop type="location-id">UT22084-071-007-89</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དགེ་སློང་རྣམས་ལ་བཀའ་སྩལ་པ། དགེ་སློང་དག་གལ་ཏེ་ཁྱེད་ཅག་དགོན་པ་ན་འདུག་ཀྱང་རུང་། ཤིང་དྲུང་ན་འདུག་ཀྱང་རུང་། །ཁྱིམ་སྟོང་པ་ན་འདུག་ཀྱང་རུང་སྟེ། འཇིགས་པའམ། བག་ཚ་བའམ། སྤུ་ཟིང་ཞེས་བྱེད་པ་སྐྱེ་བར་གྱུར་ན། དེའི་ཚེ་ཁྱེད་ཀྱིས་འདི་ལྟར་བཅོམ་ལྡན་འདས་དེ་ནི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རིག་པ་དང་ཞབས་སུ་ལྡན་པ། བདེ་བར་གཤེགས་པ། འཇིག་རྟེན་མཁྱེན་པ། སྐྱེས་བུ་གདུལ་བྱའི་ཁ་ལོ་སྒྱུར་བ་བླ་ན་མེད་པ། ལྷ་དང་མི་རྣམས་ཀྱི་སྟོན་པ། སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཡིན་ནོ་ཞེས་ང་རྣམ་<tei:ref folio="F.266.a"/>པ་ལས་ཡང་དག་པར་རྗེས་སུ་དྲན་པར་གྱིས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One addressed the monks, saying, “Monks, whether you stay in the wilderness, under a tree, or in an empty house, in the event that you experience fear, trepidation, or terror, you should recollect me thus through these epithets: ‘The Blessed One is a thus-gone one, a worthy one, a perfectly awakened one, a learned and virtuous one, a well-gone one, a knower of the world, an unsurpassed leader of those to be trained, a teacher of gods and humans, an awakened one, and a blessed one.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-007-TU-7">
+    <prop type="location-id">UT22084-071-007-89</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཚེ་ཁྱེད་ཀྱིས་ང་རྣམ་པ་ལས་ཡང་དག་པར་རྗེས་སུ་དྲན་པར་བྱས་ན་འཇིགས་པའམ། བག་ཚ་བའམ། སྤུ་ཟིང་ཞེས་བྱེད་པ་འབྱུང་བར་འགྱུར་བ་གང་ཡིན་པ་དེ་མེད་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If at that time you recollect me through these epithets, then whatever fear, trepidation, or terror you are experiencing will subside.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-007-TU-8">
+    <prop type="location-id">UT22084-071-007-91</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་སྔོན་ལྷ་དང་། ལྷ་མ་ཡིན་གྱི་གཡུལ་ཉེ་བར་གནས་པར་གྱུར་ན། ལྷའི་དབང་པོ་བརྒྱ་བྱིན་གྱིས་སུམ་ཅུ་རྩ་གསུམ་པའི་ལྷ་རྣམས་ལ་སྨྲས་པ། གྲོགས་པོ་དག་གལ་ཏེ་ཁྱེད་ཅག་ལྷ་དང་ལྷ་མ་ཡིན་གྱི་གཡུལ་དུ་ཞུགས་པ་ན། འཇིགས་པའམ། བག་ཚ་བའམ། སྤུ་ཟིང་ཞེས་བྱེད་པ་སྐྱེ་བར་གྱུར་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-007-91"/>“Monks, previously, when a battle between the gods and the asuras was about to break out, Śakra, the king of the gods, called out to the gods of the Heaven of the Thirty-Three, saying, ‘If friends, when you go into the battle between the gods and the asuras, you experience fear, trepidation, or terror, you should at that time recall my crest insignia Vaijayanta.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-007-TU-9">
+    <prop type="location-id">UT22084-071-007-91</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཚེ་ཁྱེད་ཀྱིས་ངའི་རྒྱལ་མཚན་མཆོག་རྣམ་པར་རྒྱལ་བྱེད་ཡང་དག་པར་རྗེས་སུ་དྲན་པར་གྱིས་ཤིག །དེའི་ཚེ་ཁྱེད་ཀྱིས་ངའི་རྒྱལ་མཚན་མཆོག་རྣམ་པར་རྒྱལ་བྱེད་ཡང་དག་པར་རྗེས་སུ་དྲན་པར་བྱས་ན་འཇིགས་པའམ། བག་ཚ་བའམ། སྤུ་ཟིང་ཞེས་བྱེད་པ་འབྱུང་བར་འགྱུར་བ་གང་ཡིན་པ་དེ་མེད་པར་འགྱུར་རོ། །དགེ་སློང་དག་དེ་བཞིན་དུ་གལ་ཏེ་ཁྱེད་ཅག་ཀྱང་དགོན་པ་ན་འདུག་ཀྱང་རུང་། ཤིང་དྲུང་ན་འདུག་ཀྱང་རུང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If at that time you recollect my crest insignia Vaijayanta, whatever fear, trepidation, or terror you are experiencing will subside.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-007-TU-10">
+    <prop type="location-id">UT22084-071-007-92</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྱིམ་སྟོང་པ་ན་འདུག་ཀྱང་རུང་སྟེ། འཇིགས་པའམ། བག་ཚ་བའམ། སྤུ་ཟིང་ཞེས་བྱེད་པ་སྐྱེ་བར་གྱུར་ན། དེའི་ཚེ་ཁྱེད་ཀྱིས་འདི་ལྟར་བཅོམ་ལྡན་འདས་དེ་ནི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རིག་པ་དང་ཞབས་སུ་ལྡན་པ། བདེ་བར་གཤེགས་པ། འཇིག་རྟེན་མཁྱེན་པ། སྐྱེས་བུ་གདུལ་བྱའི་ཁ་ལོ་སྒྱུར་བ་བླ་ན་མེད་པ། ལྷ་དང་མི་རྣམས་ཀྱི་སྟོན་པ། སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཡིན་ནོ་ཞེས་ང་རྣམ་པ་ལས་ཡང་དག་པར་རྗེས་སུ་དྲན་པར་གྱིས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-007-92"/>“Monks, similarly, whether in the wilderness, under a tree, or in an empty house, in the event that you experience fear, trepidation, or terror, you should recollect me thus through these epithets: ‘The Blessed One is a thus-gone one, a worthy one, a perfectly awakened one, a learned and virtuous one, a well-gone one, a knower of the world, an unsurpassed leader of those to be trained, a teacher of gods and humans, an awakened one, and a blessed one.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-007-TU-11">
+    <prop type="location-id">UT22084-071-007-92</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དེའི་ཚེ་ཁྱེད་ཀྱིས་ང་རྣམ་པ་ལས་ཡང་དག་པར་རྗེས་སུ་དྲན་པར་བྱས་ན། འཇིགས་པའམ། བག་ཚ་བའམ། སྤུ་ཟིང་ཞེས་བྱེད་པ་འབྱུང་བར་འགྱུར་བ་གང་ཡིན་པ་དེ་མེད་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Monks, if at that time you recollect me through these epithets, whatever fear, trepidation, or terror you are experiencing will subside.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-007-TU-12">
+    <prop type="location-id">UT22084-071-007-93</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་ལྷའི་དབང་པོ་བརྒྱ་བྱིན་དེ་ནི་ད་དུང་འདོད་ཆགས་དང་བཅས། ཞེ་སྡང་དང་བཅས། གཏི་མུག་དང་བཅས་ཤིང་སྐྱེ་བ་དང་། རྒ་བ་དང་། ན་བ་དང་། འཆི་བ་དང་། མྱ་<tei:ref folio="F.266.b"/>ངན་དང་། སྨྲེ་སྔགས་འདོན་པ་དང་། སྡུག་བསྔལ་བ་དང་། ཡིད་མི་བདེ་བ་དང་། འཁྲུག་པ་དག་ལས་ཡོངས་སུ་མཐར་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-007-93"/>“Monks, Śakra, the lord of the gods, still has desire, hatred, and delusion, and he is not liberated from birth, old age, sickness, death, sorrow, lamentation, suffering, unhappiness, and disturbance.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-007-TU-13">
+    <prop type="location-id">UT22084-071-007-93</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇིགས་པ་ཡོད། བག་ཚ་བ་ཡོད། དངངས་པ་ཡོད། འབྲོས་པ་ཡོད་ཅིང་། དེ་ནི་ལན་འགའ་འཇིགས་པར་ཡང་འགྱུར་བག་ཚ་བར་ཡང་འགྱུར། དངངས་པར་ཡང་འགྱུར། འབྲོས་པར་ཡང་འགྱུར་ཏེ། དགེ་སློང་དག་ད་དུང་འདོད་ཆགས་དང་བཅས། ཞེ་སྡང་དང་བཅས། གཏི་མུག་དང་བཅས་ཤིང་། སྐྱེ་བ་དང་། རྒ་བ་དང་། ན་བ་དང་། འཆི་བ་དང་། མྱ་ངན་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He also experiences fear, trepidation, alarm, and cowardice.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-007-TU-14">
+    <prop type="location-id">UT22084-071-007-93</prop>
+    <tuv xml:lang="bo">
+                <seg>སྨྲེ་སྔགས་འདོན་པ་དང་། སྡུག་བསྔལ་བ་དང་། ཡིད་མི་བདེ་བ་དང་། འཁྲུག་པ་དག་ལས་ཡོངས་སུ་མ་ཐར་ལ། འཇིགས་པ་ཡོད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Several times has he experienced fear, trepidation, alarm, and cowardice.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-007-TU-15">
+    <prop type="location-id">UT22084-071-007-93</prop>
+    <tuv xml:lang="bo">
+                <seg>བག་ཚ་བ་ཡོད། དངངས་པ་ཡོད། འབྲོས་པ་ཡོད་པའི་ལྷའི་དབང་པོ་བརྒྱ་བྱིན་དེའི་ཚིག་ཀྱང་སུམ་ཅུ་རྩ་གསུམ་པའི་ལྷ་རྣམས་དད་པས་མཉན་པར་བྱ་བར་སེམས་ཤིང་ཚིག་བཞིན་དུ་བྱ་བར་སེམས་ན། དགེ་སློང་དག་ང་ནི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འདོད་ཆགས་དང་བྲལ་བ། ཞེ་སྡང་དང་བྲལ་བ། གཏི་མུག་དང་བྲལ་བ། སྐྱེ་བ་དང་། རྒ་བ་དང་། ན་བ་དང་། འཆི་བ་དང་། མྱ་ངན་དང་། སྨྲེ་སྔགས་འདོན་པ་དང་། སྡུག་བསྔལ་བ་དང་། ཡིད་མི་བདེ་བ་དང་། འཁྲུག་པ་དག་ལས་ཡོངས་སུ་ཐར་བ། འཇིགས་པ་མེད། བག་ཚ་བ་མེད། དངངས་པ་མེད། འབྲོས་པ་མེད་པ་ཡིན་པས་དགེ་སློང་དག་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འདོད་ཆགས་དང་བྲལ་བ། ཞེ་སྡང་དང་བྲལ་བ། གཏི་མུག་དང་བྲལ་བ། སྐྱེ་བ་དང་། རྒ་བ་དང་། ན་བ་དང་། འཆི་བ་དང་། མྱ་ངན་དང་། སྨྲེ་སྔགས་འདོན་པ་དང་། སྡུག་བསྔལ་བ་དང་། ཡིད་མི་བདེ་བ་དང་། འཁྲུག་པ་དག་ལས་ཡོངས་སུ་ཐར་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Monks, the gods in the Heaven of the Thirty-Three confidently regard the words of Śakra, the lord of the gods—who still possesses desire, hatred, and delusion, who is not liberated from birth, old age, sickness, death, sorrow, lamentation, suffering, unhappiness, and disturbance, and who experiences fear, trepidation, alarm, and cowardice—as something to be heard and obeyed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-007-TU-16">
+    <prop type="location-id">UT22084-071-007-93</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇིགས་པ་མེད་པ། བག་ཚ་བ་མེད་པ། དངངས་པ་མེད་པ། འབྲོས་པ་མེད་པ། ངའི་ཚིག་མཉན་པར་བྱ་བ་དང་། གཏམས་པ་བཞིན་བྱ་བ་དང་། རྗེས་སུ་བསྟན་པ་བཞིན་བྱ་བ་དེ་ནི་བྱ་བའི་གནས་ཡིན་ནོ། །བཅོམ་<tei:ref folio="F.267.a"/>ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ཏེ། བདེ་བར་གཤེགས་པས་དེ་སྐད་གསུངས་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Considering that, given that I am a thus-gone one, a worthy one, a perfectly awakened one—one who is without desire, hatred, and delusion, one who is liberated from birth, old age, sickness, death, sorrow, lamentation, suffering, unhappiness, and disturbance, and one who does not experience fear, trepidation, alarm, or cowardice—these words of mine are worthy of being heeded, of what they say to be put into practice, and of being propagated accordingly.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-007-TU-17">
+    <prop type="location-id">UT22084-071-007-94</prop>
+    <tuv xml:lang="bo">
+                <seg>སྟོན་པས་གཞན་ཡང་འདི་སྐད་བཀའ་སྩལ་ཏོ། །དགོན་པ་དང་ནི་ཤིང་དྲུང་དང་། །ཁྱིམ་སྟོང་དག་ཏུ་འཇིག་རྟེན་གཙོ། །རྣམ་པར་འདྲེན་པ་རྫོགས་སངས་རྒྱས། །རྗེས་སུ་དྲན་གྱིས་དགེ་སློང་དག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-007-94"/>This is what the Blessed One said, and the Well-Gone One having spoken those words, the Teacher continued:<tei:milestone xml:id="UT22084-071-007-96"/> “In the wilderness, under a tree, Or in an empty house, monks, You should recollect the Leader of the World, the Guide, The Perfectly Awakened One.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-007-TU-18">
+    <prop type="location-id">UT22084-071-007-98</prop>
+    <tuv xml:lang="bo">
+                <seg>གལ་ཏེ་རྣམ་འདྲེན་འཇིག་རྟེན་གཙོ། །རྫོགས་སངས་རྒྱས་པ་མི་དྲན་ན། །འདོད་ཆགས་བྲལ་བ་རྣམས་ཀྱི་མཆོག །ཆོས་དེ་རྗེས་སུ་དྲན་པར་གྱིས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-007-98"/>“If you do not recollect the Leader of the World, the Guide, the Perfectly Awakened One, You should recollect the Dharma, The best of what is free from desire.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-007-TU-19">
+    <prop type="location-id">UT22084-071-007-99</prop>
+    <tuv xml:lang="bo">
+                <seg>གལ་ཏེ་འདོད་ཆགས་བྲལ་བའི་མཆོག །ཆོས་དེ་རྗེས་སུ་མི་དྲན་ན། །དགེ་འདུན་བླ་མེད་བསོད་ནམས་ཞིང་། །དེ་ནི་རྗེས་སུ་དྲན་པར་གྱིས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-007-99"/>“If you do not recollect the Dharma, The best of what is free from desire, You should recollect the Saṅgha, That unsurpassable field of merit.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-007-TU-20">
+    <prop type="location-id">UT22084-071-007-100</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཆོས་དང་དགེ་འདུན་རྣམས། །དེ་ལྟར་རྗེས་སུ་དྲན་བྱས་ན། །འཇིགས་དང་བག་ཚ་སྤུ་ལྡང་བ། །མེད་པར་འགྱུར་རོ་དགེ་སློང་དག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-007-100"/>“If the Buddha, the Dharma, and the Saṅgha Are recollected in this way, Then fear, trepidation, and terror Will subside, monks.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-007-TU-21">
+    <prop type="location-id">UT22084-071-007-101</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇིགས་པས་སྐྲག་པའི་མི་མང་པོ། །རི་དང་ནགས་ཚལ་རྣམས་དག་དང་། །ཀུན་དགའ་མཆོད་པའི་ལྗོན་ཤིང་ལ། །སྐྱབས་སུ་འགྲོ་བར་གང་བྱེད་པ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-007-101"/>Many are those, when frightened by terrors, Who will go to seek refuge In mountains and forests, Or worship shrines in trees and groves.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-007-TU-22">
+    <prop type="location-id">UT22084-071-007-105</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནི་སྐྱབས་གཙོ་མ་ཡིན་ཞིང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-007-105"/>“But no such place can be a principal refuge.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-007-TU-23">
+    <prop type="location-id">UT22084-071-007-105</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནི་སྐྱབས་མཆོག་མ་ཡིན་ཏེ། །སྐྱབས་དེ་དག་ལ་རྟེན་བྱེད་པ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are not the supreme refuge.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-007-TU-24">
+    <prop type="location-id">UT22084-071-007-105</prop>
+    <tuv xml:lang="bo">
+                <seg>སྡུག་བསྔལ་ཀུན་ལས་གྲོལ་མི་འགྱུར། །གང་དག་སངས་རྒྱས་ཆོས་དང་ནི། །དགེ་འདུན་དག་ལ་སྐྱབས་སོང་བ། །སྡུག་བསྔལ་སྡུག་བསྔལ་ཀུན་འབྱུང་དང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Going to such places for refuge Will not liberate such people from all suffering.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-007-TU-25">
+    <prop type="location-id">UT22084-071-007-106</prop>
+    <tuv xml:lang="bo">
+                <seg>སྡུག་བསྔལ་ཡང་དག་འགགས་པ་དང་། །བདེ་ཞིང་མྱ་ངན་འདས་འགྲོ་བའི། །འཕགས་ལམ་ཡན་ལག་བརྒྱད་པ་ཡི། །འཕགས་པའི་བདེན་པ་བཞི་པོ་དག །ཤེས་རབ་ཀྱིས་ནི་ལེགས་མཐོང་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-007-106"/>“But for those who have gone for refuge In the Buddha, the Dharma, and the Saṅgha, For them the truths of suffering, of the origin of suffering, Of the complete cessation of suffering, <tei:milestone xml:id="UT22084-071-007-107"/>“And of the eightfold path of the noble ones That leads to happiness and nirvāṇa— These four truths of the noble ones They will clearly see through their discernment.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-007-TU-26">
+    <prop type="location-id">UT22084-071-007-108</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནི་སྐྱབས་ཀྱི་གཙོ་བོ་དང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-007-108"/>“That is the principal refuge.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-007-TU-27">
+    <prop type="location-id">UT22084-071-007-108</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནི་སྐྱབས་ཀྱི་མཆོག་ཡིན་ཏེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That is the supreme refuge.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-007-TU-28">
+    <prop type="location-id">UT22084-071-007-108</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐྱབས་དེ་དག་ལ་བརྟེན་བྱས་ན། །སྡུག་བསྔལ་ཀུན་ལས་གྲོལ་བར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If you rely on these for refuge, You will be freed from all suffering.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-007-TU-29">
+    <prop type="location-id">UT22084-071-007-109</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། །དགེ་སློང་དེ་དག་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-007-109"/>When the Blessed One had spoken these words, the monks were delighted and praised what the Blessed One had said.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-007-TU-30">
+    <prop type="location-id">UT22084-071-007-110</prop>
+    <tuv xml:lang="bo">
+                <seg>མདོ་ཆེན་པོ་རྒྱལ་མཚན་དམ་པ་ཞེས་བྱ་བ་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-007-110"/>This completes the Mahāsūtra “The Crest Insignia.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-007-TU-31">
+    <prop type="location-id">UT22084-071-007-111</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་ཛི་ན་མི་ཏྲ་དང་། པྲཛྙཱ་ཝརྨ་དང་། ཞུ་ཆེན་གྱི་ལོཙྪ་བ་བན་དེ་ཡེ་ཤེས་སྡེ་ལ་སོགས་པས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།​། །​།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-007-111"/>Translated, edited, and finalized by the Indian preceptors Jinamitra and Prajñāvarman, the senior editor-translator Bandé Yeshé Dé, and others.</seg>
+            </tuv>
+</tu>
+</body>
+</tmx>

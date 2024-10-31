@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="monlam-ai/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-088-015" eft:text-version="v-1.0.1-2023"/>
+<body>
+<tu id="UT22084-088-015-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.59.a"/>༄༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་པྲ་ཏཱི་ཏྱ་ས་མུཏྤཱ་ད་ཧྲྀ་ད་ཡ་ནཱ་མ། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-088-015-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་རྟེན་ཅིང་འབྲེལ་པར་འབྱུང་བའི་སྙིང་པོ་ཞེས་བྱ་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-015-translation"/>The Noble Essence of Dependent Arising</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-015-TU-3">
+    <prop type="location-id">UT22084-088-015-64</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་བཅོམ་ལྡན་འདས་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-015-64"/>Homage to the blessed Buddha!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-015-TU-4">
+    <prop type="location-id">UT22084-088-015-64</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་གང་རྒྱུས་འབྱུང་དེ་དག་གི། །རྒྱུ་དང་དེ་འགོག་གང་ཡིན་པ། །དེ་བཞིན་གཤེགས་པས་བཀའ་སྩལ་ཏེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>“The Tathāgata explained the cause Of dharmas that arise from causes, And he taught their cessation.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-015-TU-5">
+    <prop type="location-id">UT22084-088-015-64</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སྦྱོང་ཆེན་པོ་འདི་སྐད་གསུངས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thus the Great Śramaṇa has instructed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-015-TU-6">
+    <prop type="location-id">UT22084-088-015-68</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡེ་དྷརྨཱ་ཧེ་ཏུ་པྲ་བྷ་བཱ་ཧེ་ཏུན་ཏེ་ཥཱནྟ་ཐཱ་ག་ཏོ་ཧྱ་བ་དཏ། ཏེ་ཥཱཉྩ་ཡོ་ནི་རོ་དྷ་ཨེ་བཾ་བཱ་དཱི་མ་ཧཱ་ཤྲ་མ་ཎཿ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-015-68"/>ye dharmā hetuprabhavā hetuṃ teṣāṃ tathāgato hy avadat | teṣāṃ ca yo nirodha evaṃvādī mahāśramaṇaḥ ||</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-015-TU-7">
+    <prop type="location-id">UT22084-088-015-69</prop>
+    <tuv xml:lang="bo">
+                <seg>སྙིང་པོ་འདི་ལན་གཅིག་བརྗོད་པས་སྡིག་པ་ཐམས་ཅད་བྱང་བར་འགྱུར་རོ། །མི་མཐུན་པའི་ཕྱོགས་ཐམས་ཅད་ཞི་ཞིང་བཟློག་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-015-69"/>By reciting this essence once, all negative actions will be purified and all adverse conditions will be pacified and averted.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-015-TU-8">
+    <prop type="location-id">UT22084-088-015-69</prop>
+    <tuv xml:lang="bo">
+                <seg>དངོས་པོ་གང་ལ་དམིགས་ཏེ་བརྗོད་ན་སངས་རྒྱས་ཀྱི་སྐུའམ། མཆོད་རྟེན་དུ་བྱས་པར་འགྱུར་མཆོད་པ་གང་ལ་དམིགས་ཏེ། བརྗོད་ན་འཇིག་རྟེན་གྱི་ཁམས་གང་བཅོམ་ཕུལ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Any object that one envisions while reciting it will become the body of the Buddha or a stūpa, and any offering one envisions while reciting it will be offered as if they fill an entire world realm.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-015-TU-9">
+    <prop type="location-id">UT22084-088-015-72</prop>
+    <tuv xml:lang="bo">
+                <seg>རྟེན་ཅིང་འབྲེལ་པར་འབྱུང་བའི་སྙིང་པོ་རྫོགས་སོ།​།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-015-72"/>The Essence of Dependent Arising is complete.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-015-TU-10">
+    <prop type="location-id">UT22084-088-015-72</prop>
+    <tuv xml:lang="bo">
+                <seg/>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+</body>
+</tmx>
