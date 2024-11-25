@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="monlam-ai/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-094-009" eft:text-version="v-1.0.4-2023"/>
+<body>
+<tu id="UT22084-094-009-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.224.b"/>༄༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་ཡ་ཨོ་བ་ཏཱི་དྷཱ་ར་ཎཱི། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-094-009-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་གྲགས་ལྡན་མའི་གཟུངས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-009-translation"/>The Noble Yaśovatī Dhāraṇī</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-009-TU-3">
+    <prop type="location-id">UT22084-094-009-61</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-009-61"/>Homage to all buddhas and bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-009-TU-4">
+    <prop type="location-id">UT22084-094-009-133</prop>
+    <tuv xml:lang="bo">
+                <seg>ན་མོ་རཏྣ་ཏྲ་ཡཱ་ཡ། ན་མ་ཨཱརྱཱ་བ་ལོ་ཀི་ཏེ་ཤྭ་རཱ་ཡ། བོ་དྷི་སཏྭཱ་ཡ། མ་ཧཱ་སཏྭཱ་ཡ། ཏདྱ་ཐཱ། ཛྭ་རེ་མ་ཧཱ་ཛྭ་རེ། དུ་ཁེ་མུཀྟི་སུ་སཾ་པནྣེ། མ་ཧཱ་སཾ་པནྣེ། སཾ་པཏྟི། མ་ཧཱ་སཾ་པཏྟི། ཀ་སེ་མ་ཧཱ་ཀ་སེ། ཀཙྪ་ཛྭ་ར་མུགྟེ་སི་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-009-133"/>namo ratna­trayāya | nama āryāvalokiteśvarāya­ bodhisattvāya mahā­sattvāya | <tei:milestone xml:id="UT22084-094-009-64"/>tadyathā | jvare mahājvare dukhe mukti­susampanne mahā­sampanne sampatti mahā­sampatti kase mahā­kase kacchajvaramuktesi svāhā ||</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-009-TU-5">
+    <prop type="location-id">UT22084-094-009-65</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐུད་པའམ་ཆུ་ལ་ལན་གསུམ་སྔགས་ན་རིམས་ལས་ཐར་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-009-65"/>If one incants a cord or some water with this mantra three times, it will cure fever.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-009-TU-6">
+    <prop type="location-id">UT22084-094-009-66</prop>
+    <tuv xml:lang="bo">
+                <seg>ན་མོ་རཏྣ་ཏྲ་ཡཱ་ཡ། ན་མ་ཨཱརྱཱ་བ་ལོ་ཀི་ཏེ་ཤྭ་རཱ་ཡ། བོ་དྷི་སཏྭཱ་ཡ། མ་ཧཱ་སཏྭཱ་ཡ། ཏདྱ་ཐཱ། ཙི་ལི་ཙི་ལི། མི་ལི་མི་ལི། རཀྵ་རཀྵ་མཱཾ། ཨཱརྱཱ་བ་ལོ་ཀི་ཏེ་ཤྭ་ར་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-009-66"/>namo ratna­trayāya | nama āryāvalokiteśvarāya­ bodhisattvāya mahā­sattvāya |<tei:milestone xml:id="UT22084-094-009-67"/> tadyathā | cili cili mili mili rakṣa rakṣa māṃ āryāvalokiteśvara svāhā ||</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-009-TU-7">
+    <prop type="location-id">UT22084-094-009-68</prop>
+    <tuv xml:lang="bo">
+                <seg>གདོན་ཐམས་ཅད་ལ་ཚོན་སྣ་ལྔའི་སྐུད་པའམ་སྐུད་པ་དམར་པོ་ལ་ལན་གསུམ་དུ་སྔགས་ཏེ་མདུད་པ་གསུམ་བོར་ལ་བཅིངས་ན་བར་དུ་གཅོད་པ་ཞི་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-009-68"/>For all manner of grahas, one should incant a red cord or a cord spun with five-colored thread with this mantra three times while tying three knots in it, and it will pacify obstacles.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-009-TU-8">
+    <prop type="location-id">UT22084-094-009-69</prop>
+    <tuv xml:lang="bo">
+                <seg>ན་མོ་རཏྣ་ཏྲ་ཡཱ་ཡ། ན་མ་ཨཱརྱཱ་བ་ལོ་ཀི་ཏེ་ཤྭ་རཱ་ཡ། བོ་དྷི་སཏྭཱ་ཡ། མ་ཧཱ་སཏྭ་ཡ། ཏདྱ་ཐཱ། ཀི་ལི་ཀི་ལི། ཙི་ལི་ཙི་ལི། ནི་གི་ལེ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-009-69"/>namo ratnatrayāya | nama āryāvalokiteśvarāya­ bodhisattvāya mahā­sattvāya | <tei:milestone xml:id="UT22084-094-009-70"/>tadyathā | kili kili cili cili nigile svāhā ||</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-009-TU-9">
+    <prop type="location-id">UT22084-094-009-71</prop>
+    <tuv xml:lang="bo">
+                <seg>འབྲུ་མར་ལ་ལན་གསུམ་སྔགས་ཏེ་བསྐུས་ན་སྐྲན་འཚོའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-009-71"/>If one incants sesame oil with this mantra three times and applies it as an ointment, it will treat swelling.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-009-TU-10">
+    <prop type="location-id">UT22084-094-009-72</prop>
+    <tuv xml:lang="bo">
+                <seg>ན་མོ་རཏྣ་ཏྲ་ཡཱ་ཡ། ན་མ་ཨཱརྱཱ་བ་ལོ་ཀི་ཏེ་ཤྭ་རཱ་ཡ། བོ་དྷི་སཏྭཱ་ཡ། མ་ཧཱ་སཏྭཱ་ཡ། ཏདྱ་ཐཱ། ས་རེ་ས་རེ། བི་ས་རེ་བི་ས་རེ། ས་ར་ནཱ་ཤ་ནི་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-009-72"/>namo ratnatrayāya | nama āryāvalokiteśvarāya­ bodhisattvāya mahā­sattvāya | <tei:milestone xml:id="UT22084-094-009-73"/>tadyathā | sare sare visare visare saranāśani svāhā ||</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-009-TU-11">
+    <prop type="location-id">UT22084-094-009-74</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤི་བའི་རྣ་བར་ལན་གསུམ་བཟླས་ན་སོས་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-009-74"/>If one recites this mantra in the ear of a dead being, they will be revived.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-009-TU-12">
+    <prop type="location-id">UT22084-094-009-75</prop>
+    <tuv xml:lang="bo">
+                <seg>ན་མོ་རཏྣ་ཏྲ་ཡཱ་ཡ། ན་མ་ཨཱརྱཱ་བ་ལོ་ཀི་ཏེ་ཤ་རཱ་ཡ། བོ་དྷི་སཏྭཱ་ཡ། མ་ཧཱ་སཏྭཱ་ཡ། ཏདྱ་ཐཱ། ནི་སི་རེ་ནི་སི་རེ། ཀ་ལ་མི་མི་རེ། ཀ་ལ་རི་ཙི་རཱི། པ་ཙི་ལེ་སྭཱ་ཧཱ། ལྤ་བ་དང་། ལྐོག་མའི་ལྷ་གོར་ན་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-009-75"/>namo ratna­trayāya | nama āryāvalokiteśvarāya­ bodisattvāya mahā­sattvāya | <tei:milestone xml:id="UT22084-094-009-76"/>tadyathā |nisire nisire kalanimire kalaricirī vacile svāhā ||</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-009-TU-13">
+    <prop type="location-id">UT22084-094-009-77</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྕེ་ཀྱི་བ་ན་བ་དང་། གདོན་ནད་ཐམས་ཅད་ལ་འཇི་བ་ལ་ལན་གསུམ་དུ་སྔགས་ཏེ་བསྐུས་ན་ཕན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-009-77"/>For goiters, any illness of the throat, illnesses of the tongue, and all manner of grahas, incant some clay with this mantra three times, apply it as an ointment, and it will help.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-009-TU-14">
+    <prop type="location-id">UT22084-094-009-79</prop>
+    <tuv xml:lang="bo">
+                <seg>ན་མོ་རཏྣ་ཏྲ་ཡཱ་ཡ། ན་མ་ཨཱརྱཱ་བ་ལོ་ཀི་ཏེ་ཤྭ་རཱ་ཡ། བཛྲ་པཱ་ཎིདྷྱ་མ། ཨོཾ་ཨོཾ་ཀྲཱ་རཱ་པྲ་བྷ་བེ། བྷ་ག་བ་ཏི་བུདྡྷེ། པྲ་ཏི་བུདྡྷེ། ཨུདྡྷེ། ཤཱནྟི་ཀ་རི། ཧ་ན་ཧ་ན། <tei:ref folio="F.225.a"/>མ་མ་པཱ་པ་མཾ། ད་ཧ་ད་ཧ། མ་མ་པཱ་པ་དཾ། པ་ཙ་པ་ཙ། མ་མ་པཱ་པ་ཀཾ། ཨོཾ་ཨོ་ཌེ། གྲ་ས་གྲ་ས། རི་ཏེ་ཌེ་རི་ཏེ་ཌེ། ཤཱནྟིཾ་ཀ་རཱི་ཡེ་སྭཱ་ཧཱ། ཤུ་བྷ་ཀ་རཱི་ཡེ་སྭཱ་ཧཱ། ཀྵེ་མ་ཀ་རི་ཡ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-009-79"/>namo ratnatrayāna | nama āryāvalokiteśvarāya vajra­pāṇidhyam oṁ oṁ krāraprabhave bhagavati buddhe pratibuddhe śuddhe śāntikiri hana hana mama pāpam daha daha mama pāpadaṃ paca paca mama pāpakaṃ | oṁ oḍe grasa grasa riteḍe riteḍe śāntīṃ karīya svāhā | śubhakarīya svāhā | kṣemakarīya svāhā ||</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-009-TU-15">
+    <prop type="location-id">UT22084-094-009-82</prop>
+    <tuv xml:lang="bo">
+                <seg>རིམས་ནད་ཀྱིས་བཏབ་པ་ལ་བྱ་བ་པ་བྱས་ན་རིམས་ནད་སོས་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-009-82"/>When one has contracted a disease, the disease will be cured by reciting this mantra while bathing.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-009-TU-16">
+    <prop type="location-id">UT22084-094-009-82</prop>
+    <tuv xml:lang="bo">
+                <seg>སྨན་ལ་སྔགས་ཀྱིས་བཏབ་སྟེ་བླུད་ན་ནད་པ་སོས་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one takes medicine that has been incanted with this mantra, the illness will be cured.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-009-TU-17">
+    <prop type="location-id">UT22084-094-009-82</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟས་ལ་སྔགས་ཀྱིས་བཏབ་སྟེ་ཟོས་ན་དུག་མི་གནོད་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one eats food that has been incanted with this mantra, one will not be harmed by poison.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-009-TU-18">
+    <prop type="location-id">UT22084-094-009-82</prop>
+    <tuv xml:lang="bo">
+                <seg>འབྱུང་པོའི་གདོན་གྱིས་ཟིན་པ་རྣམས་ལ་བུ་མོས་བཀལ་བའི་སྐུད་པ་ལ་ལན་ཉི་ཤུ་རྩ་གཅིག་སྔགས་ཏེ་བཅིངས་ན་ཐར་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>For those who are possessed by any kind of bhūtagraha, one should take a thread spun by a young girl, incant it with the mantra twenty-one times, and tie it to them. They will then be released.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-009-TU-19">
+    <prop type="location-id">UT22084-094-009-83</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་གྲགས་ལྡན་མའི་གཟུངས་རྫོགས་སོ།​།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-009-83"/>This concludes “The Yaśovatī Dhāraṇī.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-009-TU-20">
+    <prop type="location-id">UT22084-094-009-83</prop>
+    <tuv xml:lang="bo">
+                <seg/>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+</body>
+</tmx>
