@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-093-017" eft:text-version="v-1.0.1-2023"/>
+<body>
+<tu id="UT22084-093-017-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.164.b"/>༄༅། །རྒྱ་གར་སྐད་དུ། སིཾ་ཧ་ནཱ་ད་ཏནྟྲ་ནཱ་མ། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-093-017-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>སེང་གེ་སྒྲའི་རྒྱུད་ཅེས་བྱ་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-093-017-translation"/>The Siṃhanāda Tantra</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-017-TU-3">
+    <prop type="location-id">UT22084-093-017-62</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་པདྨ་གསུང་གི་ལྷ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-093-017-62"/>Homage to the blessed Lotus Lord of Speech.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-017-TU-4">
+    <prop type="location-id">UT22084-093-017-62</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-017-TU-5">
+    <prop type="location-id">UT22084-093-017-62</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་པདྨའི་དབང་ཕྱུག་དུ་བསྒྱུར་ཏེ་རྡོ་རྗེའི་གདན་ལ་བཞུགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One, transformed into Padmeśvara, was residing at Vajrāsana.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-017-TU-6">
+    <prop type="location-id">UT22084-093-017-62</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་གསང་བའི་བདག་པོས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་བསོད་ནམས་དང་ཡེ་ཤེས་ཀྱི་ཚོགས་དང་ལམ་རྣམས་ཇི་ལྟར་སྦྱང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Lord of Guhyakas said to the Blessed One, “Blessed One, how does one train in the accumulation of merit and wisdom, and in the path?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-017-TU-7">
+    <prop type="location-id">UT22084-093-017-65</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨེ་མ་ཧོ་སེམས་ཅན་རྣམས་ལ་སྙིང་བརྩེ་བའི་མཆོག་སྤྱན་རས་གཟིགས་སེང་གེ་སྒྲ་ཞེས་བྱ་བ་ཡོད་དེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-093-017-65"/>The Blessed One answered, “Amazing! There is someone called Avalokiteśvara Siṃhanāda, who has supreme love and compassion for beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-017-TU-8">
+    <prop type="location-id">UT22084-093-017-65</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཡིས་སྨོན་ལམ་སྦྱང་བ་དང་། བསོད་ནམས་དང་ཡེ་ཤེས་ཀྱི་ཚོགས་བསགས་པར་ཡིད་ལ་བྱས་སོ། །དེ་ནས་བཅོམ་ལྡན་འདས་པདྨའི་དབང་ཕྱུག་ལངས་ཏེ། གསང་སྔགས་ཀྱི་ཚིག་འདི་དག་སྨྲས་སོ། །ན་མོ་རཏྣ་ཏྲ་ཡཱ་ཡ། ན་མ་ཨཱརྱཱ་བ་ལོ་ཀི་ཏེ་ཤྭ་རཱ་ཡ། བོ་དྷི་ས་ཏྭཱ་ཡ། མ་ཧཱ་སཏྭཱ་ཡ། མ་ཧཱ་ཀཱ་རུ་ཎི་ཀཱ་ཡ། ཏདྱ་ཐཱ། ཨོྃ་ཨ་ཀ་ཊེ། བི་ཀ་ཊེ། ནི་ཀ་ཊེ། ཀ་ཊཾ་ཀ་ཊེ། ཀ་རོ་ཊེ། ཀ་རོ་ཀཾ་ཊེ། བཱི་རྱཻ་སྭཱ་ཧཱ། ཨོྃ་ཨཱཿཧྲཱིཿསིཾ་ཧ་ནཱ་ད་ཧཱུྃ། བྲུྃ་ཨཱྃ་ཛྲཱིཾ་ཁྃ་ཧཱུྃ། ཨོྃ་ཨཱཿཧཱུྃ། ཨོྃ་བ་ལི་ན་བྷུཉྫ་ཛི་བ་པུཥྤེ་དྷཱུ་པེ་ཧཱུྃ། སརྦ་ཨ་མྲྀ་ཏེ་ཧཱུྃ། ཨོྃ་བ་ཏ་ལི། མ་ཧཱ་བ་ཏ་ལི། ཧཱུྃ་<tei:ref folio="F.165.a"/>ཧཱུྃ་ཧཱུྃ་ཛཿསྭཱ་ཧཱ། ཨོྃ་བྷཀྵ་བྷཀྵ། ས་མ་ཡ་ཏིཥྛ་ཛཾ་ཧཱུྃ་ཕཊ་སྭཱ་ཧཱ། ཨོྃ་ཨ་ཏ་པྲ་ཏི་ཧཱུྃ་ཕཊ། སྲི་ཏི་ཀ་ར་ཧཱུྃ་ཕཊ། ཨོྃ་བ་རུ་ཎ་ཨཱ་གཙྪ་ཡ། ཨཱགཙྪ་ཡ། མ་ཧཱ་ནཱ་ག་གི་ས་ཏི་སརྦེ་བྷུར་ཕུཿཕུཿཕུཿསྭཱ་ཧཱ། ཨོྃ་བྷ་ག་བ་ཏི་ཤྲུ་ཏི་སྨྲྀ་ཏི་ས་མ་བ་ཏི། ས་ར་མ་ཏི་སིདྡྷི་སྭཱ་ཧཱ། ཨོྃ་ཨཱཿཧྲཱིཿཧཱུྃ་སྭཱ་ཧཱ། ཕུཿཧྲཱིཿཨོྃ་སིཾ་ཧ་ནཱ་ད་ཧཱུྃ་ཕཊ་ཕཊ། ནཱ་ག་དུ་པ་ལ་མཱ་ར་ཡ་ཕཊ། ཛྭཱ་ལ་ཛྭཱ་ལ་ཧཱུྃ་ཕཊ། ཨོྃ་ཨ་བིགྷྣནྟ་ཀྲྀ་ཏ་ཧཱུྃ། ཨོྃ་ཨགྣ་ཡེ་ཨ་ཏི་བྱ། ཨ་བྷི་ས་མ་ཡ་བི་ཤ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One should contemplate how he previously trained on the path and gathered the accumulations of merit and wisdom.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-017-TU-9">
+    <prop type="location-id">UT22084-093-017-67</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་ཧཱ་ཤྲི་ཡེ་ཧ་བྱ། ཀ་བྱ་མ་ཧཱ་ནི་ཡ་སྭཱ་ཡཱ། ཨོྃ་བྷ་བ་ཀ་ཨགྣ་ཡེ། ཤཱནྟིཾ་ཀུ་རུ་ཡ་སྭཱ་ཧཱ། ཨཱཿཧྲཱིཿསིཾ་ཧ་ནཱ་ད་བཛྲ་ཙཀྲ་བརྟ་ལོ་ཀི་ཀ་བྲུྃ་བྲུྃ་བྲུྃ། ལོ་ཀོཏྟ་ར་ཎི་སིཾ་ཧ་ནཱ་ད་བྲུྃ་བྲུྃ་བྲུྃ་ཧཱུྃ་ན་ཧཱུྃ་ན། སིཾ་ཧ་ནཱ་ད་བྲུྃ་བྲུྃ་བྲུྃ་ཧཱུྃ་ཧཱུྃ་ཧཱུྃ་སྭཱ་ཧཱ། གསང་བའི་བདག་པོ་འདི་ནི་མཎྜལ་གྱི་བསྒྲུབ་པ་ཞེས་བྱ་བའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-093-017-67"/>Then the blessed Padmeśvara rose and pronounced this secret mantra: <tei:milestone xml:id="UT22084-093-017-68"/>namo ratna trayāya | nama āryāvalokiteśvarāya bodhisattvāya mahasattvāya mahākāruṇikāya ||<tei:milestone xml:id="UT22084-093-017-69"/> tadyathā | oṁ akaṭe vikaṭe nikaṭe kaṭaṃkaṭe karoṭe karokaṃṭe vīryai svāhā | oṁ āḥ hrīḥ siṃhanāda hūṁ | bruṁ āṁ jrīṁ khaṁ hūṁ | oṁ āḥ hūṃ | oṁ balīn bhuñja jiva puśpe dhūpe hūṁ | sarvāmṛte hūṁ | oṁ vatali mahā­vatali hūṁ hūṁ hūṁ jaḥ svāhā | oṁ bhakṣa bhakṣa samaya tiṣṭha jaṃ hūṁ phaṭ svāhā | oṁ taprati hūṁ phaṭ | sritikara hūṁ phaṭ | oṁ varuṇa āgacchaya āgacchaya mahānāga gisati sarve bhuraḥ phuḥ phuḥ phuḥ svāhā | oṁ bhagavati śruti­smṛti­samavati saramati siddhi svāhā | oṁ āḥ hrīḥ hūṃ svāhā | phuḥ hrīḥ | oṁ siṃhanāda hūṁ phaṭ phaṭ | nāgadupali māraya phaṭ | jvāla jvāla hūṁ phaṭ | oṁ āḥvighnāntakṛt hūṁ | oṁ agnaye ativya abhisamayaviśa mahāśriye havyakavyam ahanīya svāhā | oṁ bhavaka agnaye śāntiṃ kuru svāhā | oṁ hrīḥ siṃhanāda vajra­cakra­vartalokika bruṁ bruṁ bruṁ | lokottarāṇi siṃhanāda bruṁ bruṁ bruṁ hūṁ na hūṁ na siṃhanāda bruṁ bruṁ bruṁ hūṁ hūṁ hūṁ svāhā ||<tei:milestone xml:id="UT22084-093-017-78"/> “Lord of Guhyakas, this is called the accomplishment of the maṇḍala.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-017-TU-10">
+    <prop type="location-id">UT22084-093-017-67</prop>
+    <tuv xml:lang="bo">
+                <seg>གསད་པ་དང་། ཕྱིར་ལྡོག་པ་དང་། དགུག་པ་དང་། བཅིང་བ་དང་། ཞི་བའི་ལས་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It includes the ritual actions of killing, averting, summoning, binding, and pacifying.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-017-TU-11">
+    <prop type="location-id">UT22084-093-017-67</prop>
+    <tuv xml:lang="bo">
+                <seg>ནང་པར་བའི་ལྕི་བས་ལམ་ལྷུང་བས་མཎྜལ་བྱས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the morning, make a maṇḍala with cow dung that has not fallen to the ground.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-017-TU-12">
+    <prop type="location-id">UT22084-093-017-67</prop>
+    <tuv xml:lang="bo">
+                <seg>མངར་གསུམ་ལག་པའི་མཐིལ་དུ་མཉེས་པས་ཀླུའི་ཞེ་སྡང་ཞི་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Please the nāgas by holding the three sweet substances in the palm of your hand. This pacifies the anger of the nāgas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-017-TU-13">
+    <prop type="location-id">UT22084-093-017-79</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ནི་ཀླུའི་སྡེ་དཔོན་ཞེས་བྱ་སྟེ། །སེང་གེའི་སྟེང་དུ་ཟླ་བ་ལ། །རྒྱལ་པོ་རོལ་བའི་སྟབས་ཀྱིས་བཞུགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-093-017-79"/>“Called a leader of nāgas, He is seated in the posture of royal ease On a moon disc atop a lion.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-017-TU-14">
+    <prop type="location-id">UT22084-093-017-79</prop>
+    <tuv xml:lang="bo">
+                <seg>གཡས་ན་ཐོད་མཚན་རྩེ་གསུམ་ལ། །དྲག་པོའི་རྒྱལ་རིགས་དབང་དུ་བསྡུས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>At his right is a skull-bearing trident, Which brings hostile kṣatriyas under his control.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-017-TU-15">
+    <prop type="location-id">UT22084-093-017-79</prop>
+    <tuv xml:lang="bo">
+                <seg>པདྨའི་རྩེ་ལ་ཐོད་པ་ནི། །འཕྲིན་ལས་བཞི་ལྡན་ཀུ་མུ་ད། །ཤེས་རབ་སྦྱོར་བའི་རལ་གྲིར་བཅས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Atop a lotus sits a skull cup, A water lily imbued with the four activities, And a sword infused with wisdom.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-017-TU-16">
+    <prop type="location-id">UT22084-093-017-81</prop>
+    <tuv xml:lang="bo">
+                <seg>དཀའ་ཐུབ་ལྡན་པའི་སྐུ་དེ་ལ། །རིགས་ལྔས་རྣམ་པར་བརྒྱན་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-093-017-81"/>“His body, in the guise of an ascetic, Is adorned by the five families.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-017-TU-17">
+    <prop type="location-id">UT22084-093-017-81</prop>
+    <tuv xml:lang="bo">
+                <seg>གསུམ་དང་ལྔ་ནི་མདུན་དུ་འཕྱང་། །རྩེ་མོར་འོད་དཔག་མེད་པས་བརྒྱན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The three and five hang down in front, And his crown is adorned with Amitābha.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-017-TU-18">
+    <prop type="location-id">UT22084-093-017-81</prop>
+    <tuv xml:lang="bo">
+                <seg>སེང་གེའི་ཆ་ལས་བྱུང་བ་ཡིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He has arisen from the qualities of a lion.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-017-TU-19">
+    <prop type="location-id">UT22084-093-017-84</prop>
+    <tuv xml:lang="bo">
+                <seg>འདམ་སྐྱེས་དམར་པོའི་ལོ་མ་གཉིས། །པདྨ་བཞི་ལ་སྔགས་བཞི་ལྡན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-093-017-84"/>“There are two-petaled red lotuses And four lotuses with four mantras.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-017-TU-20">
+    <prop type="location-id">UT22084-093-017-84</prop>
+    <tuv xml:lang="bo">
+                <seg>རང་ལུས་འོག་ནས་ཐལ་མོ་སྦྱོར། །སྐུ་ལ་འདུད་ཅིང་འཕྲིན་ལས་བྱེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Your own body stands below with palms joined, Bowing to his body and performing the activities.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-017-TU-21">
+    <prop type="location-id">UT22084-093-017-86</prop>
+    <tuv xml:lang="bo">
+                <seg>རྡོ་རྗེའི་གདན་ལ་མི་བསྐྱོད་པའི། །ཐུགས་ཀ་ནས་ནི་སྔགས་འོད་འདོན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-093-017-86"/>“The mantra emits light from the heart Of Akṣobhya who sits at the vajra seat.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-017-TU-22">
+    <prop type="location-id">UT22084-093-017-86</prop>
+    <tuv xml:lang="bo">
+                <seg>སྤྲོ་བ་གསུམ་དུ་ལྡན་པའི་སྔགས། །ཉི་ཤུ་རྩ་གཅིག་གདོན་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You should recite twenty-one times The mantra endowed with the three joys.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-017-TU-23">
+    <prop type="location-id">UT22084-093-017-88</prop>
+    <tuv xml:lang="bo">
+                <seg>གསང་བའི་བདག་པོ་རྒྱུད་འདི་ལ་སྨོད་པའི་སེམས་ཅན་དེ་ནི་སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་སྨོད་པ་ཡིན་ནོ། །གསང་བའི་བདག་པོ་རྒྱུད་འདི་ཉན་པ་དང་། སེམས་པ་དང་། མཆོད་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-093-017-88"/>“Lord of Guhyakas, whoever deprecates this tantra deprecates all buddhas and bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-017-TU-24">
+    <prop type="location-id">UT22084-093-017-88</prop>
+    <tuv xml:lang="bo">
+                <seg>འཆང་བ་དང་། ཐ་ན་འདི་ལ་མོས་<tei:ref folio="F.165.b"/>པའི་སེམས་ཅན་དེ་དག་ལ་རྒྱལ་ཆེན་བཞིའི་ལྷ་དང་། སུམ་ཅུ་རྩ་གསུམ་གྱི་ལྷ་དང་། ཚངས་པའི་བུ་དང་། ཚངས་ཆེན་རྣམས་ཀྱིས་བསྲུང་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Lords of Guhyakas, the gods of the Heaven of the Four Great Kings, the gods of the Heaven of the Thirty-Three, the brahmaputras, and the great brahmas will protect, guard, conceal, and always accompany any being who hears this tantra, thinks of it, worships it, upholds it, or even just takes an interest in it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-017-TU-25">
+    <prop type="location-id">UT22084-093-017-88</prop>
+    <tuv xml:lang="bo">
+                <seg>བསྐྱབ་པ་དང་། སྦ་བ་དང་། ཀུན་ཏུ་རྗེས་སུ་འབྲང་བར་བྱེད་དེ། དེ་བས་ཆེས་ལྷག་པའི་སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་བུ་ལ་མས་སྲུང་བ་བཞིན་དུ་བསྲུང་བར་འགྱུར་རོ། །བདུད་ཀྱི་བར་དུ་གཅད་པར་མི་ནུས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>All the buddhas and bodhisattvas, who are greatly superior to those gods, will protect such beings just as a mother protects her child and the māras will never be able to obstruct them.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-017-TU-26">
+    <prop type="location-id">UT22084-093-017-88</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་ཤི་འཕོས་ནས་ནུབ་ཕྱོགས་བདེ་བ་ཅན་དུ་པདྨོ་ལས་སྐྱེ་བར་འགྱུར་རོ། །མངལ་གྱི་སྡུག་བསྔལ་ལས་ཐར་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When they die, they will take birth in lotuses in the western realm of Sukhāvatī, freed from the pain of the womb.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-017-TU-27">
+    <prop type="location-id">UT22084-093-017-88</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚེ་འདིར་མེ་དང་ཆུའི་འཇིགས་པ་ལས་ཐར་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In this life, they will be freed from any fear of fire or water.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-017-TU-28">
+    <prop type="location-id">UT22084-093-017-88</prop>
+    <tuv xml:lang="bo">
+                <seg>འདིར་ནི་མདོ་ཙམ་སྨོས་སུ་ཟད་ཀྱི། དེ་མ་ཡིན་པ་གང་འདོད་པ་ཐམས་ཅད་བསམ་པ་ཡིད་བཞིན་དུ་འགྲུབ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Here I have only briefly stated the benefits, but apart from these all that is wished for will be fulfilled exactly as desired.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-017-TU-29">
+    <prop type="location-id">UT22084-093-017-89</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་རྒྱུད་འདི་ལ་གནོད་པ་དང་། འཚེ་བ་དང་། ཚུལ་བཞིན་མ་ཡིན་པ་ཡིད་ལ་བྱེད་ན། དེ་ལ་ལྷའི་བུ་དང་། ཀླུའི་བུ་ཁྱེད་རྣམས་ཀྱིས་བསྲུང་བར་གྱིས་ཤིག་ཅེས་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-093-017-89"/>“If someone damages this tantra, is hostile toward it, or thinks about it improperly, you gods and nāgas must protect it!”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-017-TU-30">
+    <prop type="location-id">UT22084-093-017-90</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་གསང་བའི་བདག་པོ་དང་། ཚངས་རིས་ཀྱི་ལྷའི་བུ་དེ་དག་རབ་ཏུ་དགའ་ནས་ཚུལ་བཞིན་དུ་ཁས་བླང་བར་བྱས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-093-017-90"/>The Lord of Guhyakas along with the gods of the Realm of Brahma were delighted and agreed to this.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-017-TU-31">
+    <prop type="location-id">UT22084-093-017-91</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་གཞན་བསྲུང་བའི་ཕྱིར་བདག་ས་དཀར་པོ་ལ་ལན་དུ་མར་བསྔགས་ན་བར་ཆད་ཐམས་ཅད་ཞི་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-093-017-91"/>Additionally, in order to protect others, if one incants white earth many times, all obstacles will be pacified.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-017-TU-32">
+    <prop type="location-id">UT22084-093-017-92</prop>
+    <tuv xml:lang="bo">
+                <seg>སེང་གེ་སྒྲའི་རྒྱུད་ཅེས་བྱ་བ་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-093-017-92"/>This concludes “The Siṃhanāda Tantra.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-017-TU-33">
+    <prop type="location-id">UT22084-093-017-93</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་པཎྜི་ཏ་པྲཛྙཱ་ཀཱ་ར་དང་། བོད་ཀྱི་ལོཙྪ་བ་འགོས་ཁུག་པ་ལྷས་བཙས་ཀྱིས་ཞུས་ཤིང་བསྒྱུར་ཏེ་གཏན་ལ་ཕབ་པ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-093-017-93"/>It was edited, translated, and finalized by the Indian preceptor Prajñākāra and the Tibetan translator Gö Khukpa Lhetse.</seg>
+            </tuv>
+</tu>
+
+
+</body>
+</tmx>

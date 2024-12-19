@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-071-013" eft:text-version="v-1.0.1-2023"/>
+<body>
+<tu id="UT22084-071-013-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.303.b"/>༄༅༅། །རྒྱ་གར་སྐད་དུ། གཎ་ཌཱི་ས་མ་ཡ་སཱུ་ཏྲ། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>གཎ་ཌཱིའི་དུས་ཀྱི་མདོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-013-translation"/>The Sūtra on the Timings for the Gaṇḍī</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-3">
+    <prop type="location-id">UT22084-071-013-67</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-013-67"/>Homage to the blessed Youthful Mañjuśrī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-4">
+    <prop type="location-id">UT22084-071-013-112</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-013-112"/>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-5">
+    <prop type="location-id">UT22084-071-013-112</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་རྒྱལ་པོའི་ཁབ་ཀྱི་འོད་མའི་ཚལ་བྱ་ཀ་ལན་དཀའི་གནས་ན་བཞུགས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One was staying in the Bamboo Grove, in the Kalandakanivāpa near Rājagṛha.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-6">
+    <prop type="location-id">UT22084-071-013-112</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དགེ་སློང་རྣམས་ལ་བོས་ཏེ་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One called forth the monks and delivered the following teaching.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-7">
+    <prop type="location-id">UT22084-071-013-112</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་ལ་ལོ་རྣམས་ཀྱི་དུས་བཤད་པར་བྱ་ཡིས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>“Monks, I will explain the times of the year to you.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-8">
+    <prop type="location-id">UT22084-071-013-112</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལེགས་པར་ཉོན་ཅིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Listen well.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-9">
+    <prop type="location-id">UT22084-071-013-70</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་རྣམས་དགུན་ཟླ་ར་བའི་ཟླ་བ་ཕྱེད་དང་པོ་ལ་ནི་རྐང་པ་བདུན་གཎ་ཌཱིའི་དུས་ཡིན་ལ། སོར་གྱིས་དམན་པའི་རྐང་པ་ཕྱེད་དང་ལྔ་ནི་དུས་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-013-70"/>“Monks, in the first half of the first winter month, seven feet is the time for the gaṇḍī; a fingerbreadth less than four and a half feet is not.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-10">
+    <prop type="location-id">UT22084-071-013-70</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟླ་བ་ཕྱེད་དང་གཉིས་པ་ལ་ནི་རྐང་པ་བརྒྱད་གཎ་ཌཱིའི་དུས་ཡིན་ལ། སོར་གྱིས་དམན་པའི་རྐང་པ་དྲུག་ནི་དུས་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the second half of that month, eight feet is the time for the gaṇḍī; a fingerbreadth less than six feet is not.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-11">
+    <prop type="location-id">UT22084-071-013-70</prop>
+    <tuv xml:lang="bo">
+                <seg>དགུན་ཟླ་འབྲིང་པོའི་ཟླ་བ་ཕྱེད་དང་པོ་ལ་ནི་རྐང་པ་དགུ་གཎ་ཌཱིའི་དུས་ཡིན་ལ། སོར་གྱིས་དམན་པའི་རྐང་པ་བདུན་ནི་དུས་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the first half of the middle winter month, nine feet is the time for the gaṇḍī; a fingerbreadth less than seven feet is not.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-12">
+    <prop type="location-id">UT22084-071-013-70</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟླ་བ་གཉིས་པ་ལ་ནི་རྐང་པ་བཅུ་གཎ་ཌཱིའི་དུས་ཡིན་ལ། སོར་གྱིས་དམན་པའི་རྐང་པ་བརྒྱད་ནི་དུས་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the second half of that month, ten feet is the time for the gaṇḍī; a fingerbreadth less than eight feet is not.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-13">
+    <prop type="location-id">UT22084-071-013-70</prop>
+    <tuv xml:lang="bo">
+                <seg>དགུན་ཟླ་ཐ་ཆུངས་ཀྱི་ཟླ་བ་ཕྱེད་དང་པོ་ལ་ནི་རྐང་པ་བཅུ་གཅིག་གཎ་ཌཱིའི་དུས་ཡིན་ལ། སོར་གྱིས་དམན་པའི་རྐང་པ་དགུ་ནི་དུས་མ་<tei:ref folio="F.304.a"/>ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the first half of the last winter month, eleven feet is the time for the gaṇḍī; a fingerbreadth less than nine feet is not.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-14">
+    <prop type="location-id">UT22084-071-013-70</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟླ་བ་ཕྱེད་གཉིས་པ་ལ་ནི་རྐང་པ་བཅུ་གཉིས་གཎ་ཌཱིའི་དུས་ཡིན་ལ། སོར་གྱིས་དམན་པའི་རྐང་པ་བཅུ་ནི་དུས་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the second half of that month, twelve feet is the time for the gaṇḍī; a fingerbreadth less than ten feet is not.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-15">
+    <prop type="location-id">UT22084-071-013-71</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔྱིད་ཟླ་ར་བ་ཕྱེད་དང་པོ་ལ་ནི་རྐང་པ་བཅུ་གཅིག་གཎ་ཌཱིའི་དུས་ཡིན་ལ། སོར་གྱིས་དམན་པའི་རྐང་པ་དགུ་ལ་ནི་དུས་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-013-71"/>“In the first half of the first month of spring, eleven feet is the time for the gaṇḍī; a fingerbreadth less than nine feet is not.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-16">
+    <prop type="location-id">UT22084-071-013-71</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟླ་བ་ཕྱེད་གཉིས་པ་ལ་ནི་རྐང་པ་བཅུ་གཎ་ཌཱིའི་དུས་ཡིན་ལ། སོར་གྱིས་དམན་པའི་རྐང་པ་བརྒྱད་ནི་དུས་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the second half of that month, ten feet is the time for the gaṇḍī; a fingerbreadth less than eight feet is not.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-17">
+    <prop type="location-id">UT22084-071-013-71</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔྱིད་ཟླ་འབྲིང་པོའི་ཟླ་བ་ཕྱེད་དང་པོ་ལ་ནི་རྐང་པ་དགུ་གཎ་ཌཱིའི་དུས་ཡིན་ལ། སོར་གྱིས་དམན་པའི་རྐང་པ་བདུན་ནི་དུས་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the first half of the middle month of spring, nine feet is the time for the gaṇḍī; a fingerbreadth less than seven feet is not.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-18">
+    <prop type="location-id">UT22084-071-013-71</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟླ་བ་ཕྱེད་གཉིས་པ་ལ་ནི་རྐང་པ་བརྒྱད་གཎཌཱིའི་དུས་ཡིན་ལ། སོར་གྱིས་དམན་པའི་རྐང་པ་དྲུག་ནི་དུས་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the second half of that month, eight feet is the time for the gaṇḍī; a fingerbreadth less than six feet is not.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-19">
+    <prop type="location-id">UT22084-071-013-71</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔྱིད་ཟླ་ཐ་ཆུངས་ཀྱི་ཟླ་བ་ཕྱེད་དང་པོ་ལ་ནི་རྐང་པ་བདུན་གཎ་ཌཱིའི་དུས་ཡིན་ལ། སོར་གྱིས་དམན་པའི་རྐང་པ་ལྔ་ནི་དུས་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>During the first half of the last month of spring, seven feet is the time for the gaṇḍī; a fingerbreadth less than five feet is not.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-20">
+    <prop type="location-id">UT22084-071-013-71</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟླ་བ་ཕྱེད་གཉིས་པ་ལ་ནི་རྐང་པ་དྲུག་གཎ་ཌཱིའི་དུས་ཡིན་ལ། སོར་གྱིས་དམན་པའི་རྐང་པ་བཞི་ནི་དུས་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the second half of that month, six feet is the time for the gaṇḍī; a fingerbreadth less than four feet is not.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-21">
+    <prop type="location-id">UT22084-071-013-72</prop>
+    <tuv xml:lang="bo">
+                <seg>དབྱར་ཟླ་ར་བ་ཕྱེད་དང་པོ་ལ་ནི་རྐང་པ་དྲུག་གཎ་ཌཱིའི་དུས་ཡིན་ལ། སོར་གྱིས་དམན་པའི་རྐང་པ་བཞི་ནི་དུས་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-013-72"/>“In the first half of the first month of summer, six feet is the time for the gaṇḍī; a fingerbreadth less than four feet is not.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-22">
+    <prop type="location-id">UT22084-071-013-72</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟླ་བ་ཕྱེད་གཉིས་པ་ལ་ནི་རྐང་པ་ལྔ་གཎ་ཌཱིའི་དུས་ཡིན་ལ། སོར་གྱིས་དམན་པའི་རྐང་པ་གསུམ་པ་ནི་དུས་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the second half of that month, five feet is the time for the gaṇḍī; a fingerbreadth less than three feet is not.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-23">
+    <prop type="location-id">UT22084-071-013-72</prop>
+    <tuv xml:lang="bo">
+                <seg>དབྱར་ཟླ་འབྲིང་པོའི་ཟླ་བ་ཕྱེད་དང་པོ་ལ་ནི་རྐང་པ་བཞི་གཎ་ཌཱིའི་དུས་ཡིན་ལ། སོར་གྱིས་དམན་པའི་རྐང་པ་གསུམ་ནི་དུས་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the first half of the middle month of summer, four feet is the time for the gaṇḍī; a fingerbreadth less than three feet is not.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-24">
+    <prop type="location-id">UT22084-071-013-72</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟླ་བ་ཕྱེད་གཉིས་པ་ལ་ནི་རྐང་པ་བཞི་གཎ་ཌཱིའི་དུས་ཡིན་ལ། སོར་གྱིས་དམན་པའི་རྐང་པ་གཉིས་པ་ནི་དུས་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the second half of that month, four feet is the time for the gaṇḍī; a fingerbreadth less than two feet is not.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-25">
+    <prop type="location-id">UT22084-071-013-72</prop>
+    <tuv xml:lang="bo">
+                <seg>དབྱར་ཟླ་ཐ་ཆུངས་ཀྱི་ཟླ་བ་ཕྱེད་དང་པོ་ལ་ནི་རྐང་པ་གསུམ་གཎ་ཌཱིའི་དུས་ཡིན་ལ། སོར་གྱིས་དམན་པའི་རྐང་པ་གཉིས་པ་ནི་དུས་མ་ཡིན་ནོ། །ཟླ་བ་ཕྱེད་གཉིས་པ་ལ་རྐང་པ་གསུམ་གཎ་ཌཱིའི་དུས་ཡིན་ལ། སོར་གྱིས་དམན་པའི་རྐང་པ་གཉིས་ནི་དུས་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the first half of the last summer month, three feet is the time for the gaṇḍī; a fingerbreadth less than two feet is not.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-26">
+    <prop type="location-id">UT22084-071-013-73</prop>
+    <tuv xml:lang="bo">
+                <seg>སྟོན་ཟླ་ར་བའི་ཟླ་བ་ཕྱེད་དང་པོ་ལ་ནི་རྐང་པ་གསུམ་གཎ་ཌཱིའི་དུས་ཡིན་ལ། སོར་གྱིས་དམན་པའི་རྐང་པ་ཕྱེད་དང་གསུམ་ནི་དུས་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-013-73"/>“In the first half of the first month of fall, three feet is the time for the gaṇḍī; a fingerbreadth less than two and a half feet is not.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-27">
+    <prop type="location-id">UT22084-071-013-73</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟླ་བ་ཕྱེད་གཉིས་པ་ལ་ནི་རྐང་པ་གཉིས་གཎ་ཌཱིའི་དུས་ཡིན་ལ། སོར་གྱིས་དམན་པའི་རྐང་པ་ཕྱེད་ནི་དུས་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the second half of that month, two feet is the time for the gaṇḍī; a fingerbreadth less than half a foot is not.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-28">
+    <prop type="location-id">UT22084-071-013-73</prop>
+    <tuv xml:lang="bo">
+                <seg>སྟོན་ཟླ་འབྲིང་པོའི་ཟླ་བ་ཕྱེད་དང་པོ་ལ་ནི་རྐང་པ་བཞི་གཎ་ཌཱིའི་དུས་ཡིན་ལ། སོར་གྱིས་དམན་པའི་རྐང་པ་གཉིས་ནི་དུས་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the first half of the middle month of fall, four feet is the time for the gaṇḍī; a fingerbreadth less than two feet is not.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-29">
+    <prop type="location-id">UT22084-071-013-73</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟླ་བ་ཕྱེད་གཉིས་པ་ལ་ནི་རྐང་པ་བཞི་གཎ་ཌཱིའི་<tei:ref folio="F.304.b"/>དུས་ཡིན་ལ། སོར་གྱིས་དམན་པའི་རྐང་པ་གཉིས་ནི་དུས་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the second half of that month, four feet is the time for the gaṇḍī; a fingerbreadth less than two feet is not.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-30">
+    <prop type="location-id">UT22084-071-013-73</prop>
+    <tuv xml:lang="bo">
+                <seg>སྟོན་ཟླ་ཐ་ཆུངས་ཀྱི་ཟླ་བ་ཕྱེད་དང་པོ་ལ་ནི་རྐང་པ་ལྔ་གཎ་ཌཱིའི་དུས་ཡིན་ལ། སོར་གྱིས་དམན་པའི་རྐང་པ་གསུམ་ནི་དུས་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the first half of the last month of fall, five feet is the time for the gaṇḍī; a fingerbreadth less than three feet is not.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-31">
+    <prop type="location-id">UT22084-071-013-73</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟླ་བ་ཕྱེད་གཉིས་པ་ལ་ནི་རྐང་པ་དྲུག་གཎ་ཌཱིའི་དུས་ཡིན་ལ། སོར་གྱིས་དམན་པའི་རྐང་པ་བཞི་ནི་དུས་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the second half of that month, six feet is the time for the gaṇḍī; a fingerbreadth less than four feet is not.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-32">
+    <prop type="location-id">UT22084-071-013-75</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། དགེ་སློང་དེ་དག་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-013-75"/>After the Blessed One spoke these words, the monks rejoiced and praised what the Blessed One had taught.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-33">
+    <prop type="location-id">UT22084-071-013-76</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་གཎ་ཌཱིའི་དུས་ཀྱི་མདོ་རྫོགས་སྷོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-013-76"/>This completes “The Sūtra on the Timings for the Gaṇḍī.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-013-TU-34">
+    <prop type="location-id">UT22084-071-013-77</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་དཱི་པཾ་ཀ་ར་ཤྲཱི་ཛྙཱ་ན་དང་། ལོཙྪ་བ་དགེ་སློང་དགེ་བའི་བློ་གྲོས་ཀྱིས་བསྒྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-013-77"/>Translated by the Indian preceptor Dīpaṃkara Śrījñāna and the translator monk Gewai Lodrö.</seg>
+            </tuv>
+</tu>
+
+
+</body>
+</tmx>

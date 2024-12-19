@@ -1,0 +1,2454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-091-068" eft:text-version="v-1.0.2-2023"/>
+<body>
+<tu id="UT22084-091-068-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.202.b"/>༄༅། །རྒྱ་གར་སྐད་དུ། ཤྲཱི་དེ་བཱི་ཀཱ་ལི་པྲ་མ་རཱ་ཛ་ཏནྟྲ་ཀཱ་ལི། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་ལྷ་མོ་ནག་མོའི་བསྟོད་པ་རྒྱལ་པོའི་རྒྱུད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-translation"/>The Sovereign Tantra “Praises to Śrīdevī Kālī”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-3">
+    <prop type="location-id">UT22084-091-068-71</prop>
+    <tuv xml:lang="bo">
+                <seg>རིག་སྔགས་དང་གསང་སྔགས་ཀྱི་མངའ་བདག་དཔལ་ཕྱག་ན་རྡོ་རྗེ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-71"/>Homage to glorious Vajrapāṇi, lord of vidyās and mantras.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-4">
+    <prop type="location-id">UT22084-091-068-71</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-5">
+    <prop type="location-id">UT22084-091-068-71</prop>
+    <tuv xml:lang="bo">
+                <seg>རི་རབ་ཀྱི་རྩེ་མོ་རྩུབ་འགྱུར་གྱི་ཚལ་ཆེན་པོ་ན་བཅོམ་ལྡན་འདས་དཔལ་དྲག་པོ་ཆེན་པོ་ཕྱག་ན་རྡོ་རྗེ་ལུས་བསྐལ་པའི་མེ་ལྟར་འབར་<tei:ref folio="F.203.a"/>བ། སྲིད་པ་གསུམ་ལས་རྣམ་པར་རྒྱལ་བ། ཉི་མ་སྟོང་གི་གཟི་བརྗིད་དང་ལྡན་ནས་བཞུགས་སོ། །འཁོར་ནི་བརྒྱ་བྱིན་དང་། ཤ་ཟ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the vast Pāruṣyaka grove on the summit of Mount Sumeru, the blessed and glorious great fierce one Vajrapāṇi—whose body blazes like the fire that consumes the world at the end of an eon, who is victorious over the threefold world, and who burns with the fire of a thousand suns—sat surrounded by a retinue including Śakra and a horde of piśācas, rākṣasas, and mātṛkās numbering in the billions.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-6">
+    <prop type="location-id">UT22084-091-068-71</prop>
+    <tuv xml:lang="bo">
+                <seg>སྲིན་པོ་དང་། མ་མོའི་ཚོགས་བྱེ་བ་དུང་ཕྱུར་གྱིས་བསྐོར་ཏེ་བཞུགས་སོ། །དེའི་ཚེ་ན་དཔལ་ཕྱག་ན་རྡོ་རྗེ་པདྨའི་གདན་ལ་བཞུགས་ཏེ་བཀའ་སྩལ་པ། ངའི་འཁོར་དུ་གཏོགས་པའི་ལྷ་མ་སྲིན་སྡེ་བརྒྱད་ཉོན་ཅིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Seated on a lotus, glorious Vajrapāṇi proclaimed, “Eight classes of divine and demonic beings in my retinue, listen to me!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-7">
+    <prop type="location-id">UT22084-091-068-71</prop>
+    <tuv xml:lang="bo">
+                <seg>འདོད་པའི་ཁམས་འདི་ན་བདུད་ཀྱི་མ་གཤིན་རྗེའི་སྲིང་མོ་ཞེས་བྱ་བ་རྒྱལ་ཚབ་ཆེན་པོ་སངས་རྒྱས་ཐམས་ཅད་ཀྱི་བསྟན་པ་འཛིན་པ་ཅིག་ཡོད་ཀྱིས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There is a great regent in this desire realm known as the mother of the demon and Yama’s sister.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-8">
+    <prop type="location-id">UT22084-091-068-71</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྱེད་ཀྱིས་དེ་ལ་མཆོད་པ་གྱིས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>She upholds the teachings of all the buddhas, so you should make offerings to her and praise her.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-9">
+    <prop type="location-id">UT22084-091-068-71</prop>
+    <tuv xml:lang="bo">
+                <seg>བསྟོད་པ་གྱིས་ཤིག །ངས་ཀྱང་ཁྱོད་ལ་བྱིན་གྱིས་བརླབ་པོ་ཞེས་བཀའ་སྩལ་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I give you my blessing!”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-10">
+    <prop type="location-id">UT22084-091-068-75</prop>
+    <tuv xml:lang="bo">
+                <seg>འཁོར་གྱི་ནང་ནས་ལྷའི་དབང་པོ་བརྒྱ་བྱིན་སྟན་ལས་ལངས་ཏེ་དཔལ་ལྷ་མོ་ནག་མོ་ལ་དགེ་བ་བཅུའི་སྒོ་ནས་བསྟོད་པ། སྔོན་འདས་བསྐལ་པ་དང་པོའི་ཕ་རོལ་ན། །དགེ་བཅུའི་ལས་ལ་སེམས་རབ་ཆེར་སྦྱངས་ནས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-75"/>Śakra, the lord of the gods, rose from his seat in the assembly and spoke the following verses praising Śrīdevī Kālī in terms of the ten virtuous actions:<tei:milestone xml:id="UT22084-091-068-76"/> “Long ago, before the first eon, you trained your mind extensively in the ten virtuous actions.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-11">
+    <prop type="location-id">UT22084-091-068-75</prop>
+    <tuv xml:lang="bo">
+                <seg>ལམ་གྱི་ཁྱད་པར་གོང་མ་རབ་རྫོགས་ཀྱང་། །མཐོ་རིས་སྐྱེས་པ་རྣམས་ལ་དགེ་བ་བཅུའི། །ཚུལ་གྱིས་དོན་མཛད་ཕྱི་རོལ་བསྒྱུར་བ་ཡི། །དཔལ་ལྡན་ལྷ་མོ་ཁྱོད་ལ་ཕྱག་འཚལ་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Since then, though you have perfected the most exalted of paths, You benefit beings in the higher realms through ten virtuous actions— Homage and praise to you, Śrīdevī who converts outsiders.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-12">
+    <prop type="location-id">UT22084-091-068-77</prop>
+    <tuv xml:lang="bo">
+                <seg>འདས་པའི་དུས་ན་སྲོག་གཅོད་རབ་སྤངས་པས། །སྐུ་ཚེ་རིང་ཞིང་གཟུགས་བྱད་ཕུན་སུམ་ཚོགས། །གཞན་གྱི་ལན་ཆགས་གནོད་པའི་རྐྱེན་དང་ལྡན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-77"/>“You gave up killing beings long ago, Attained a long life and wondrous form, And are free from karmic debt to others, the cause of harm.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-13">
+    <prop type="location-id">UT22084-091-068-77</prop>
+    <tuv xml:lang="bo">
+                <seg>འཆི་བདག་འཇོམས་མཛད་ཁྱོད་ལ་ཕྱག་འཚལ་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to you who has conquered the Lord of Death.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-14">
+    <prop type="location-id">UT22084-091-068-79</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་བྱིན་ལེན་སྤངས་ཚུལ་ལ་རབ་སྤངས་པས། །བསོད་ནམས་ཚོགས་ཀྱིས་ལོངས་སྤྱོད་ཕུན་སུམ་ཚོགས། །གཏེར་གྱི་ལོངས་སྤྱོད་མི་འགྲིབ་རབ་བརྟན་བརྙེས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-79"/>“Because you gave up taking what is not given, The accumulation of merit has brought you abundant prosperity, And you discovered an undiminishing, stable wealth of treasure.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-15">
+    <prop type="location-id">UT22084-091-068-79</prop>
+    <tuv xml:lang="bo">
+                <seg>སྦྱིན་པའི་གཏེར་འཆང་ཁྱོད་ལ་ཕྱག་འཚལ་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage and praise to you who bears the treasure of generosity.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-16">
+    <prop type="location-id">UT22084-091-068-81</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་ཚངས་སྤྱོད་པའི་བཀའ་རྣམས་བསྲུང་བ་དང་། །མངལ་གྱི་གྲོང་ཁྱེར་དམན་ལས་རྣམ་པར་འཕགས། །སྲིད་པའི་འདོད་ཆགས་རིང་དུ་སྤངས་པ་སྟེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-81"/>“You guard the teachings that warn against a lack of chastity, Have risen above the lowly city of the womb, And abandoned desire for existence long ago.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-17">
+    <prop type="location-id">UT22084-091-068-81</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སྦྱོང་ཆེན་མོ་ཁྱོད་ལ་ཕྱག་འཚལ་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage and praise to you, great female renunciant.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-18">
+    <prop type="location-id">UT22084-091-068-82</prop>
+    <tuv xml:lang="bo">
+                <seg>ཉོན་མོངས་བརྫུན་ཚིག་སྤངས་པའི་རྣམ་སྨིན་གྱིས། །གསུང་གི་དངོས་གྲུབ་འཇིག་རྟེན་འདུལ་བའི་གཙོ། །གསུང་མཆོག་རྣམ་དག་བརྙེས་པའི་རང་བཞིན་ཏེ།།<tei:ref folio="F.203.b"/>
+                </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-82"/>“As the result of abandoning the affliction of false words, You are a leader who tames the world with the accomplishment of speech, And have the nature of one who has attained pure, supreme speech.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-19">
+    <prop type="location-id">UT22084-091-068-82</prop>
+    <tuv xml:lang="bo">
+                <seg>བདེན་པར་གསུང་བ་ཁྱོད་ལ་ཕྱག་འཚལ་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage and praise to you who speak the truth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-20">
+    <prop type="location-id">UT22084-091-068-83</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྲ་མའི་སྐྱོན་སྤངས་མི་ཕྱེད་འཁོར་དང་ལྡན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-83"/>“You abandoned the fault of divisive speech and have an undivided retinue.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-21">
+    <prop type="location-id">UT22084-091-068-83</prop>
+    <tuv xml:lang="bo">
+                <seg>ཉིད་ལ་རྣམ་པར་དུལ་བའི་འཁོར་གྱིས་བསྐོར། །ལྷ་དང་ལྷ་མིན་བདེན་པས་འདུལ་མཛད་མ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>A disciplined retinue surrounds you And you tame gods and asuras with the truth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-22">
+    <prop type="location-id">UT22084-091-068-83</prop>
+    <tuv xml:lang="bo">
+                <seg>དཀར་མོའི་འཁོར་ཚོགས་ཁྱོད་ལ་ཕྱག་འཚལ་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to you who have gathered a pure retinue.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-23">
+    <prop type="location-id">UT22084-091-068-84</prop>
+    <tuv xml:lang="bo">
+                <seg>ངག་འཁྱལ་སྤངས་པའི་ཡོན་ཏན་སྦྱིན་པ་ཡིས། །ཏིང་འཛིན་རྩེ་གཅིག་མི་གཡོ་བར་ཆད་སྤངས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-84"/>“Gifted with the virtue of abandoning meaningless speech, You gave up disruptions to undistracted, single-pointed samādhi.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-24">
+    <prop type="location-id">UT22084-091-068-84</prop>
+    <tuv xml:lang="bo">
+                <seg>དགོས་འབྲེལ་ཚུལ་གྱིས་བསྟན་པ་སྐྱོང་མཛད་མ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You protect the teachings with your meaningful speech.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-25">
+    <prop type="location-id">UT22084-091-068-84</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱིས་པ་འདུལ་མཛད་ཁྱོད་ལ་ཕྱག་འཚལ་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage and praise to you, tamer of childish beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-26">
+    <prop type="location-id">UT22084-091-068-85</prop>
+    <tuv xml:lang="bo">
+                <seg>ང་རྒྱལ་ཁེངས་སེམས་སྤངས་པའི་ཡོན་ཏན་གྱིས། །ཞི་བའི་ཚིག་འཇམ་ལྷ་མོ་དབྱངས་སྙན་མ། །ཚིག་རྩུབ་གཤེ་བའི་གཉེན་པོ་བྱེད་པ་སྟེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-85"/>“By virtue of abandoning pride and conceit, Goddess, In a melodious voice, you speak gentle, peaceful words, That are an antidote to abusive, harsh speech.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-27">
+    <prop type="location-id">UT22084-091-068-85</prop>
+    <tuv xml:lang="bo">
+                <seg>ངག་རྩུབ་འདུལ་མཛད་ཁྱོད་ལ་ཕྱག་འཚལ་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage and praise to you, tamer of harsh speech.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-28">
+    <prop type="location-id">UT22084-091-068-86</prop>
+    <tuv xml:lang="bo">
+                <seg>རང་སེམས་བརྣབ་སེམས་སྤངས་པའི་ཁྱད་པར་ནི། །འཛིན་པའི་རྣམ་རྟོག་རྣམ་པར་སྤངས་པའི་རྟགས། །བདག་མེད་རྟགས་སུ་སེང་གེས་རྣ་བ་བརྒྱན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-86"/>“As a sign that you abandoned concepts of an apprehending subject And specifically abandoned covetousness in your own mind, The lion that symbolizes no-self adorns your ear.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-29">
+    <prop type="location-id">UT22084-091-068-86</prop>
+    <tuv xml:lang="bo">
+                <seg>བརྣབ་སེམས་སྤངས་པ་ཁྱོད་ལ་ཕྱག་འཚལ་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage and praise to you who have abandoned covetousness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-30">
+    <prop type="location-id">UT22084-091-068-87</prop>
+    <tuv xml:lang="bo">
+                <seg>གཟུང་བའི་ཡུལ་ལ་གནོད་སེམས་རྣམ་པར་སྤངས། །ཕྱི་རོལ་ཡུལ་འདི་གཉིས་མེད་ཆོས་སུ་གཟིགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-87"/>“You abandoned harmful intent toward apprehended objects And view external objects as nondual phenomena.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-31">
+    <prop type="location-id">UT22084-091-068-87</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་ལ་གནོད་སེམས་ཡང་དག་སྤངས་པའི་རྟགས། །སྦྲུལ་གྱི་རྣ་རྒྱན་ཅན་ལ་ཕྱག་འཚལ་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage and praise to you whose snake earring Is a sign of having fully abandoned such harmful intent.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-32">
+    <prop type="location-id">UT22084-091-068-88</prop>
+    <tuv xml:lang="bo">
+                <seg>ལོག་པར་ལྟ་བའི་ཆོས་ཕྱོགས་རྣམ་སྤངས་ཏེ། །སངས་རྒྱས་ཆོས་ལས་འཁྲུངས་པའི་གཟུགས་བརྙན་ཁྱོད། །ལྟ་བ་རྣམ་པར་དག་པའི་ངང་ཚུལ་ཅན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-88"/>“You abandoned religious doctrines based on the wrong view And took a form aligned with the Buddha’s doctrine— One that embodies the pure view.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-33">
+    <prop type="location-id">UT22084-091-068-88</prop>
+    <tuv xml:lang="bo">
+                <seg>སྤྲོས་བྲལ་དོན་དམ་སྟོན་ལ་ཕྱག་འཚལ་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage and praise to you who display the ultimate, free of conceptuality.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-34">
+    <prop type="location-id">UT22084-091-068-89</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་འདི་ན་ལས་གཉིས་དག་མ་དག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-89"/>“There are two types of action in this world: pure and impure.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-35">
+    <prop type="location-id">UT22084-091-068-89</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་དག་མི་དགེ་བཅུ་ལས་ངན་སོང་གྲུབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The ten impure, nonvirtuous actions lead to the lower realms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-36">
+    <prop type="location-id">UT22084-091-068-89</prop>
+    <tuv xml:lang="bo">
+                <seg>དག་པའི་དགེ་བ་བཅུ་ལས་མཐོ་རིས་གྲུབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The pure, virtuous actions lead to higher birth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-37">
+    <prop type="location-id">UT22084-091-068-90</prop>
+    <tuv xml:lang="bo">
+                <seg>ལས་འདི་དགེ་བ་དང་པོར་རབ་སྦྱངས་པས། །གོང་ནས་གོང་མའི་ས་ལ་རབ་གནས་ཀྱང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Because you first trained in the virtuous actions,<tei:milestone xml:id="UT22084-091-068-90"/> “You reside on progressively higher grounds.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-38">
+    <prop type="location-id">UT22084-091-068-90</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་བཅུའི་རྟགས་ནི་དམན་པའི་ཞིང་འདིར་བསྟན། །གདུག་པའི་ཚུལ་ཅན་འགྲོ་བ་འདྲེན་མཛན་མ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You teach the signs of the ten virtuous actions in this inferior realm, Adopting a malevolent guise to guide beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-39">
+    <prop type="location-id">UT22084-091-068-90</prop>
+    <tuv xml:lang="bo">
+                <seg>བསྟོད་པར་འོས་པ་ཁྱོད་ལ་ཕྱག་འཚལ་བསྟོད། །དེ་ནས་དཔལ་ལྷ་མོ་ནག་མོ་ཆེན་མོ་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage and praise to you who are worthy of praise.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-40">
+    <prop type="location-id">UT22084-091-068-91</prop>
+    <tuv xml:lang="bo">
+                <seg>གནོད་སྦྱིན་གྱི་རྒྱལ་པོ་རྣམ་ཐོས་སྲས་ཀྱིས་ལམ་རྣམ་པ་ལྔའི་ཚུལ་གྱིས་བསྟོད་པ། དམ་པ་རྣམས་ཀྱིས་བགྲོད་པའི་ཁྱད་པར་ནི། །ཚོགས་ཀྱིས་སྦྱངས་ནས་དོན་དམ་མཐོང་བ་ཡི། །གཉེན་པོ་ཡེ་ཤེས་<tei:ref folio="F.204.a"/>རིམ་པར་སྒོམ་པ་ལ། །མཐར་ཕྱིན་པ་ལ་གཤེགས་པའི་དོན་མཆོག་ལགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-91"/>Next, the yakṣa king Vaiśravaṇa praised Śrīdevī Mahākālī according to the system of the fivefold path:<tei:milestone xml:id="UT22084-091-068-92"/> “After purifying the accumulations On the unique path traveled by the holy ones And gradually cultivating the antidote, wisdom that sees the ultimate, Your supreme goal is to reach perfection.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-41">
+    <prop type="location-id">UT22084-091-068-93</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བས་ལྷ་མོ་ཁྱོད་ཀྱི་མཚན་ཉིད་ནི། །འདི་ལྟར་རབ་ལྡན་ཁྱོད་ཀྱི་ཁྱད་པར་ཏེ། །དང་པོའི་ཚོགས་ལས་ཡང་དག་རབ་བསགས་པས། །དང་པོའི་ས་ལས་སྦྱོར་བའི་ཏིང་འཛིན་བརྙེས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-93"/>“That is why, Goddess, such attributes, That you specifically possess, Show that you perfectly gathered the accumulations from the first And attained the samādhi related to the application from the first stage.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-42">
+    <prop type="location-id">UT22084-091-068-95</prop>
+    <tuv xml:lang="bo">
+                <seg>རབ་ཏུ་དགའ་བའི་ས་ལ་དོན་དམ་ནི། །རྣམ་པར་མི་རྟོག་སྐྱེ་མེད་ཚུལ་གྱིས་གཟིགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-95"/>“You saw the ultimate on the ground of Utter Joy As nonconceptual and unarisen.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-43">
+    <prop type="location-id">UT22084-091-068-96</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་ལྡན་བྱང་ཆུབ་སེམས་དཔའི་ཁྱད་པར་ནི། །རང་སེམས་ས་གཉིས་དག་ལ་རབ་བརྟེན་ནས། །དེ་བཞིན་ས་གསུམ་དག་པའི་ཕ་རོལ་སོན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then, with the unique qualities of a glorious bodhisattva, Relying on your own mind and the pure second ground, <tei:milestone xml:id="UT22084-091-068-96"/>“You likewise reached the end of the pure third ground.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-44">
+    <prop type="location-id">UT22084-091-068-96</prop>
+    <tuv xml:lang="bo">
+                <seg>རང་སེམས་བཞི་བའི་ས་ལ་ཆེར་བསྒོམས་པས། །ལྔ་པའི་ས་ལ་བསམ་གཏན་ཕ་རོལ་སོན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You further cultivated your mind on the fourth ground And perfected concentration on the fifth ground.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-45">
+    <prop type="location-id">UT22084-091-068-97</prop>
+    <tuv xml:lang="bo">
+                <seg>རང་སེམས་དྲུག་པའི་ས་ལ་ཆེར་སྦྱངས་པས། །བདུན་པ་ལ་ནི་ཐབས་ཀྱི་ཕ་རོལ་སོན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You further purified your mind on the sixth ground<tei:milestone xml:id="UT22084-091-068-97"/> “And perfected method on the seventh ground.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-46">
+    <prop type="location-id">UT22084-091-068-97</prop>
+    <tuv xml:lang="bo">
+                <seg>རང་སེམས་བརྒྱད་པ་ཉིད་ལ་ཆེར་བསྒོམས་པས། །དཔལ་ལྡན་ལྷ་མོ་ནག་མོ་སྨོན་ལམ་ཉིད། །དགུ་པ་ལ་ཡང་སྟོབས་ཀྱི་ཡོན་ཏན་སྒྲུབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You further cultivated your mind on the eighth And, as Śrīdevī Kālī, made aspirations And attained the quality of power on the ninth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-47">
+    <prop type="location-id">UT22084-091-068-98</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཡི་སྟོབས་ཀྱིས་ཡེ་ཤེས་འཕེན་པར་འགྲུབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-98"/>“That power will propel you on to wisdom.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-48">
+    <prop type="location-id">UT22084-091-068-98</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་དག་རྣམ་པར་རྫོགས་པར་བྱས་ནས་ནི། །སངས་རྒྱས་ས་ལ་སྨིན་པའི་སྨོན་ལམ་ཅན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>After you perfected these grounds, You aspired to reach fruition on the ground of a buddha.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-49">
+    <prop type="location-id">UT22084-091-068-99</prop>
+    <tuv xml:lang="bo">
+                <seg>ས་བརྒྱད་ནོན་པས་གཞོན་ནུའི་ཚུལ་འཆང་མ། །འགྲོ་བ་འདུལ་ཕྱིར་དྲག་མོའི་ཚུལ་སྟོན་ཅིང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You have a youthful form because you traversed the eighth ground <tei:milestone xml:id="UT22084-091-068-99"/>“And appear in a fierce form to tame beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-50">
+    <prop type="location-id">UT22084-091-068-99</prop>
+    <tuv xml:lang="bo">
+                <seg>གདུག་པ་འདུལ་མཛད་ཁྱོད་ལ་ཕྱག་འཚལ་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage and praise to you, tamer of wicked beings!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-51">
+    <prop type="location-id">UT22084-091-068-99</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་ཀྱང་ཁྱོད་ཀྱི་ལམ་ལྟར་མྱུར་འགྲུབ་ཤོག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>May I complete the path as quickly as you!”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-52">
+    <prop type="location-id">UT22084-091-068-100</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་མིའམ་ཅིའི་རྒྱལ་པོ་ལྗོན་པ་རྟ་མགོ་ཅན་གྱིས་དཔལ་ལྷ་མོ་ནག་མོ་ཆེན་མོ་ལ་གཉིས་སུ་མེད་པའི་སྒོ་ནས་བསྟོད་པ། དཔལ་ལྡན་ལྷ་མོ་གཉིས་སུ་མེད་པ་སྟེ། །དོན་དམ་སྤྲོས་བྲལ་ཆོས་ཉིད་འདི་ལས་བཙལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-100"/>Next, the horse-headed kinnara king Druma praised Śrīdevī Mahākālī in terms of nonduality:<tei:milestone xml:id="UT22084-091-068-101"/> “Śrīdevī, you are nondual; You are found within this ultimate, nonconceptual basic reality.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-53">
+    <prop type="location-id">UT22084-091-068-100</prop>
+    <tuv xml:lang="bo">
+                <seg>དོན་དམ་ཀུན་རྫོབ་གཉིས་སུ་མེད་པས་བདེན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You are true because the ultimate and relative are not two.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-54">
+    <prop type="location-id">UT22084-091-068-100</prop>
+    <tuv xml:lang="bo">
+                <seg>འཁོར་བ་མྱང་འདས་གཉིས་སུ་མེད་པས་ཟབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You are profound because saṃsāra and nirvāṇa are not two.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-55">
+    <prop type="location-id">UT22084-091-068-102</prop>
+    <tuv xml:lang="bo">
+                <seg>སེམས་ཅན་སངས་རྒྱས་གཉིས་སུ་མེད་པས་འཕགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-102"/>“You are exalted because ordinary beings and buddhas are not two.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-56">
+    <prop type="location-id">UT22084-091-068-102</prop>
+    <tuv xml:lang="bo">
+                <seg>ལས་དང་རྣམ་སྨིན་གཉིས་སུ་མེད་པས་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I praise you because action and result are not two.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-57">
+    <prop type="location-id">UT22084-091-068-102</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱུ་དང་འབྲས་བུ་གཉིས་སུ་མེད་པས་སྨིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You are the result because cause and effect are not two.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-58">
+    <prop type="location-id">UT22084-091-068-103</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡུལ་དང་ཡུལ་ཅན་གཉིས་མེད་གཅིག་གི་དང་། །སྤྲོས་དང་སྤྲོས་མེད་དོན་དམ་དབྱིངས་ཀྱིས་བསྡུས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-103"/>“You are the single state, the nonduality of subject and object, The ultimate space that subsumes conceptuality and its absence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-59">
+    <prop type="location-id">UT22084-091-068-103</prop>
+    <tuv xml:lang="bo">
+                <seg>བསོད་ནམས་ཡེ་ཤེས་གཉིས་མེད་ཚོགས་ཆེན་ཏེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You are the great accumulation of nondual merit and wisdom.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-60">
+    <prop type="location-id">UT22084-091-068-103</prop>
+    <tuv xml:lang="bo">
+                <seg>མཐོང་དང་དམ་པ་གཉིས་མེད་དག་པས་བསྟོད། །<tei:ref folio="F.204.b"/>
+                </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I praise you as the pure nonduality of the perceptible and the ultimate.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-61">
+    <prop type="location-id">UT22084-091-068-105</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་དང་གཞན་གྱི་ཆོས་ནི་ངང་ཚུལ་གཅིག །གཟུང་དང་འཛིན་པ་གཉིས་མེད་ཟབ་མོའི་མཐུ། །མཐོ་རིས་ངན་སོང་གཉིས་བྲལ་དག་པའི་ཞིང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-105"/>“You are the single expression of the phenomena of self and other, The profound power of the nonduality of apprehended and apprehender, And the purified field, free from both higher and lower rebirth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-62">
+    <prop type="location-id">UT22084-091-068-105</prop>
+    <tuv xml:lang="bo">
+                <seg>བཟང་ངན་གཉིས་མེད་རང་བཞིན་གཅིག་གིས་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I praise you as the single nondual nature of good and bad.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-63">
+    <prop type="location-id">UT22084-091-068-106</prop>
+    <tuv xml:lang="bo">
+                <seg>བསྐྱེད་མེད་རྫོགས་པ་གཉིས་མེད་ལྷུན་གྲུབ་མཆོག །སེམས་དང་ཕུང་པོ་གཉིས་མེད་སེམས་ཉིད་དེ། །སྒྲུབ་དང་བསྒྲུབ་བྱ་གཉིས་མེད་གྲུབ་པའི་ངང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-106"/>“You are supreme as unproduced, complete, spontaneously present nonduality, The mind itself in which mind and the aggregates are not separate, The state in which one attains the nonduality of practice and its goal.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-64">
+    <prop type="location-id">UT22084-091-068-106</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གཞན་གཉིས་མེད་ཚུལ་མཆོག་གཅིག་གིས་བསྐྱོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I praise you as the supreme expression of the nonduality of self and other.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-65">
+    <prop type="location-id">UT22084-091-068-108</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡབ་དང་ཡུམ་མཁའ་གཉིས་མེད་བྱང་ཆུབ་སེམས། །ཐབས་དང་ཤེས་རབ་གཉིས་སུ་མེད་པའི་དོན། །སྟོང་དང་མི་སྟོང་གཉིས་མེད་ཞི་བའི་ངང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-108"/>“You are bodhicitta, the nondual space of male and female, The nondual object of method and wisdom, And the peaceful state in which empty and not empty are inseparable.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-66">
+    <prop type="location-id">UT22084-091-068-108</prop>
+    <tuv xml:lang="bo">
+                <seg>གྱུར་དང་འགྱུར་མེད་རྩོལ་བྲལ་ཕྱག་འཚལ་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage and praise to you, effortlessly changeable and unchanging.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-67">
+    <prop type="location-id">UT22084-091-068-109</prop>
+    <tuv xml:lang="bo">
+                <seg>སྒྲ་ཚིག་གཉིས་མེད་བརྗོད་པ་མེད་པའི་ངང་། །ལུས་ངག་གཉིས་མེད་སེམས་ཉིད་གཅིག་གི་ཚུལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-109"/>“You are the ineffable state, the nonduality of word and sound, The singular mode of the mind itself, inseparable from body and mind.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-68">
+    <prop type="location-id">UT22084-091-068-109</prop>
+    <tuv xml:lang="bo">
+                <seg>རྩོལ་བྱེད་རྩོལ་བྱ་གཉིས་མེད་དོན་གཅིག་པས། །རྣམ་པར་སྤྲོས་མེད་དོན་དམ་དབྱིངས་ཀྱིས་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Because you are the single object, the nonduality of effort and its goal, I praise you as the ultimate realm devoid of conceptuality.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-69">
+    <prop type="location-id">UT22084-091-068-110</prop>
+    <tuv xml:lang="bo">
+                <seg>མུ་སྟེགས་སངས་རྒྱས་གཉིས་མེད་ཚུལ་གཅིག་པས། །དབྱིངས་དང་ཡེ་ཤེས་གཉིས་མེད་དོན་རྟོགས་ཏེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-110"/>“Since there is one system in which Buddhists and non-Buddhists are not two, You have realized that the phenomenal world and wisdom are nondual.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-70">
+    <prop type="location-id">UT22084-091-068-110</prop>
+    <tuv xml:lang="bo">
+                <seg>སྲིད་དང་རྣམ་གྲོལ་ཡང་དག་དོན་གཅིག་པས། །ཐམས་ཅད་གཉིས་མེད་སྐུ་ལ་ཕྱག་འཚལ་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Since existence and liberation are one true reality, I praise and honor you as the nondual body of everything.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-71">
+    <prop type="location-id">UT22084-091-068-112</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱི་དང་ནང་མེད་གཉིས་མེད་གཅིག་གི་ངང་། །སེམས་ལྡན་སེམས་མེད་རྣམ་དག་ཞི་བའི་ཚུལ། །སྣང་དང་མི་སྣང་གཉིས་མེད་གཅིག་གིས་མཐོང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-112"/>“You are the single state of nonduality in which internal and external do not exist, The pure peaceful mode of sentience and insentience, And are seen as singular, the nonduality of the apparent and unapparent.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-72">
+    <prop type="location-id">UT22084-091-068-112</prop>
+    <tuv xml:lang="bo">
+                <seg>གཉིས་མེད་དོན་མཆོག་ཁྱོད་ལ་ཕྱག་འཚལ་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage and praise to you, the supreme nondual referent.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-73">
+    <prop type="location-id">UT22084-091-068-113</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་དག་རྣམས་ནི་དོན་དམ་ཟབ་མོའི་ཚུལ། །སྤྲོས་པ་མེད་པའི་དོན་དང་འབྲེལ་པ་སྟེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-113"/>“All of this is the profound expression of the ultimate And is concerned with a referent free of conceptuality.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-74">
+    <prop type="location-id">UT22084-091-068-113</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་རྣམས་ལྷ་མོ་ཁྱོད་ཀྱི་ཐུགས་ལ་གསལ། །འདི་ལྟར་བསྟོད་པས་བདག་ཀྱང་ཁྱོད་ལྟར་ཤོག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>All of this illuminates your mind, Goddess— Through this praise, may I also become like you.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-75">
+    <prop type="location-id">UT22084-091-068-114</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཚེ་དེའི་དུས་ན་དྲི་ཟའི་རྒྱལ་པོ་ཟུར་ཕུད་ལྔ་པས་དཔལ་ལྷ་མོ་ལ་ཕྲིན་ལས་ཀྱི་སྒོ་ནས་བསྟོད་པ། སེམས་ཉིད་ཕྲིན་ལས་རྣམ་བཞིའི་ཁྱད་པར་ནི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-114"/>At that point, the gandharva king Pañcaśikha praised Śrīdevī in terms of her ritual activity: <tei:milestone xml:id="UT22084-091-068-115"/>“The mind itself is distinguished as the four ritual activities.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-76">
+    <prop type="location-id">UT22084-091-068-114</prop>
+    <tuv xml:lang="bo">
+                <seg>སེམས་ཉིད་གུད་ན་མེད་ཅིང་སེམས་ཀྱང་མེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are nothing other than mind itself but are devoid of mind.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-77">
+    <prop type="location-id">UT22084-091-068-114</prop>
+    <tuv xml:lang="bo">
+                <seg>དོན་དམ་སྤྲོས་བྲལ་ཁ་དོག་གཟུགས་ཀྱང་མེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Ultimately, the mind itself is free of conceptuality and lacks color and form.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-78">
+    <prop type="location-id">UT22084-091-068-114</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་རྫོབ་སྒྱུ་མ་ཙམ་དུ་རང་གི་སེམས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Conventionally, it is one’s own mind as mere illusion.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-79">
+    <prop type="location-id">UT22084-091-068-116</prop>
+    <tuv xml:lang="bo">
+                <seg>མཐུན་པར་བསྟན་པའི་ཞི་བའི་དཔལ་ལྷ་མོ། །ཞི་མཛད་ཞི་འགྱུར་ཞི་བའི་ངང་ཚུལ་ཅན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-116"/>“Glorious pacifying goddess who is widely extolled, You pacify, are pacifying, and have a pacifying nature.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-80">
+    <prop type="location-id">UT22084-091-068-116</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞི་བའི་<tei:ref folio="F.205.a"/>འཁོར་གྱིས་བསྐོར་བའི་གཙོ་མོ་ནི། །རྟགས་ཀྱི་སྐུ་མདོག་དཀར་མོ་ཤིན་ཏུ་དངས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You are a queen surrounded by a peaceful retinue And have white physical marks that shine brightly.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-81">
+    <prop type="location-id">UT22084-091-068-118</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་དུ་ཞི་མཛད་ཁྱོད་ལ་ཕྱག་འཚལ་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-118"/>“Homage and praise to you, all-pacifying goddess.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-82">
+    <prop type="location-id">UT22084-091-068-118</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གི་དགྲ་དང་ནད་རྣམས་ཞི་བར་མཛོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Please pacify my enemies and illnesses.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-83">
+    <prop type="location-id">UT22084-091-068-119</prop>
+    <tuv xml:lang="bo">
+                <seg>མཐུན་པར་བསྟན་པའི་རྒྱས་པའི་དཔལ་ལྷ་མོ། །རྒྱས་མཛད་རྒྱས་འགྱུར་རྒྱས་པའི་ངང་ཚུལ་ཅན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-119"/>“Glorious enriching goddess who is widely extolled, You enrich, are enriching, and have an enriching nature.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-84">
+    <prop type="location-id">UT22084-091-068-119</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱས་པའི་འཁོར་གྱིས་བསྐོར་བའི་གཙོ་མོ་ནི། །རྟགས་ཀྱི་སྐུ་མདོག་སེར་མོ་ཤིན་ཏུ་བརྗིད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You are a queen surrounded by an enriching retinue And have golden physical marks that are intensely majestic.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-85">
+    <prop type="location-id">UT22084-091-068-120</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་དུ་རྒྱས་མཛད་མ་ལ་ཕྱག་འཚལ་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-120"/>“Homage and praise to you, all-enriching goddess.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-86">
+    <prop type="location-id">UT22084-091-068-120</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གི་བསོད་ནམས་ཡེ་ཤེས་རྒྱས་པར་མཛོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Please increase my merit and wisdom.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-87">
+    <prop type="location-id">UT22084-091-068-121</prop>
+    <tuv xml:lang="bo">
+                <seg>མཐུན་པར་བསྟན་པའི་དབང་མོ་དཔལ་ལྷ་མོ། །དབང་མཛད་དབང་བསྒྱུར་དབང་གི་ངང་ཚུལ་ཅན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-121"/>“Glorious enthralling goddess who is widely extolled, You enthrall, are enthralling, and have an enthralling nature.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-88">
+    <prop type="location-id">UT22084-091-068-121</prop>
+    <tuv xml:lang="bo">
+                <seg>དབང་གི་འཁོར་གྱིས་བསྐོར་བའི་གཙོ་མོ་ནི། །རྟགས་ཀྱི་སྐུ་མདོག་དམར་མོ་ཤིན་ཏུ་བརྗིད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You are a queen surrounded by an enthralling retinue And have red physical marks that are intensely majestic.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-89">
+    <prop type="location-id">UT22084-091-068-122</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་དུ་དབང་མཛད་ཁྱོད་ལ་ཕྱག་འཚལ་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-122"/>“Homage and praise to you, all-enthralling goddess.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-90">
+    <prop type="location-id">UT22084-091-068-122</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གི་ནད་དང་དགྲ་རྣམས་དབང་དུ་མཛོད། །མཐུན་པར་བསྟན་པའི་དྲག་མོ་དཔལ་ལྷ་མོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Please bring my illnesses and enemies under your control.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-91">
+    <prop type="location-id">UT22084-091-068-123</prop>
+    <tuv xml:lang="bo">
+                <seg>དྲག་མཛད་དྲག་འགྱུར་དྲག་མོའི་ངང་ཚུལ་ཅན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-123"/>“Glorious wrathful goddess who is widely extolled, You bring wrath, are wrathful, and have a wrathful nature.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-92">
+    <prop type="location-id">UT22084-091-068-123</prop>
+    <tuv xml:lang="bo">
+                <seg>དྲག་མོའི་འཁོར་གྱིས་བསྐོར་བའི་གཙོ་མོ་ནི། །རྟགས་ཀྱི་སྐུ་མདོག་ནག་མོ་ཤིན་ཏུ་བརྗིད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You are a queen surrounded by a wrathful retinue And have dark physical marks that are intensely majestic.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-93">
+    <prop type="location-id">UT22084-091-068-124</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་དུ་དྲག་མཛད་ཁྱོད་ལ་ཕྱག་འཚལ་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-124"/>“Homage and praise to you, all-wrathful goddess.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-94">
+    <prop type="location-id">UT22084-091-068-124</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གི་ནད་དང་དགྲ་རྣམས་དྲག་མོས་སོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Please kill my illnesses and enemies with your wrath.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-95">
+    <prop type="location-id">UT22084-091-068-125</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྱོད་ཀྱི་རང་བཞིན་ཅིར་ཡང་མ་གྲུབ་ལ། །འདི་ལྟར་འཛིན་ཉིད་ཅིར་ཡང་སྣང་བ་ནི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-125"/>“Your true nature is not established in any way, But you can appear with any of these characteristics.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-96">
+    <prop type="location-id">UT22084-091-068-125</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྲིན་ལས་རྣམ་བཞིས་འགྲོ་དོན་མཛད་པ་ལགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This is what allows the four ritual activities to benefit beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-97">
+    <prop type="location-id">UT22084-091-068-125</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་ཀྱང་ལས་བཞི་རང་བཞིན་ལྷུན་གྲུབ་ནས། །ཁྱོད་ལྟར་གཞན་གྱི་དོན་ལ་བརྩོན་པར་ཤོག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>May I spontaneously accomplish the nature of the four ritual activities And strive to benefit others just as you do.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-98">
+    <prop type="location-id">UT22084-091-068-127</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་དཔལ་ལྷ་མོ་ནག་མོ་ལ་ཀླུའི་རྒྱལ་པོ་དགའ་བོས་སྐུའི་ཡོན་ཏན་གྱི་སྒོ་ནས་བསྟོད་པ། གསང་སྔགས་རྣལ་འབྱོར་གྲུབ་པའི་བདག་ཉིད་མ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-127"/>Next, the nāga king Nanda praised Śrīdevī Kālī in terms of her physical features: <tei:milestone xml:id="UT22084-091-068-128"/>“You are identical with the accomplishment of mantra-yoga.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-99">
+    <prop type="location-id">UT22084-091-068-129</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡོན་ཏན་རྣམས་ཀྱི་སྐུ་མདོག་ཕྱག་མཚན་ནི། །དོན་དུ་སྣང་བ་མེད་ཀྱང་གདུལ་བྱའི་ཕྱིར། །རྟགས་ཀྱི་ཕྱག་རྒྱ་འདི་ལྟར་བསྟན་པའོ། །ཁམས་གསུམ་གདུལ་ཕྱིར་གདན་དུ་བོང་བུ་ཞོན། །མྱ་ངན་མི་འདའི་རྟགས་སུ་ལྕགས་སྒྲོག་མངའ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The colors and forms of your physical attributes Are insubstantial but, in order to tame beings, Are taught using these symbolic features:<tei:milestone xml:id="UT22084-091-068-129"/> “You ride a donkey because you tame the three realms And wear shackles to symbolize that you will not pass into nirvāṇa.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-100">
+    <prop type="location-id">UT22084-091-068-129</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་དོན་ལྷུན་གྲུབ་གླང་ཆེན་ཀོ་བས་བརྒྱན། །གཞན་དོན་ཕུན་སུམ་ཚོགས་ཕྱིར་རེ་ལྡེས་དཀྲིས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You are draped with an elephant hide to show you spontaneously accomplish your own benefit And are wrapped with a pelt to show that you fulfill the benefit of others.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-101">
+    <prop type="location-id">UT22084-091-068-130</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་ལྡན་སྤྱི་གཙུག་ཟླ་རྒྱས་<tei:ref folio="F.205.b"/>གསལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-130"/>“A full moon illuminates your crown because you possess bodhicitta.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-102">
+    <prop type="location-id">UT22084-091-068-130</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤེས་རབ་རྟོགས་ཕྱིར་ལྟེ་བ་ཉི་མས་བརྒྱན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>A sun adorns your stomach because you have realized insight.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-103">
+    <prop type="location-id">UT22084-091-068-130</prop>
+    <tuv xml:lang="bo">
+                <seg>དུག་གསུམ་སྡོང་པོ་གཅོད་པའི་རལ་གྲི་དང་། །བསོད་ནམས་གཏེར་གྱི་ཕྱག་མཚན་ནེའུ་ལེ་བསྣམས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You hold a sword that cuts the stalk of the three poisons And a mongoose symbolizes your treasure of merit.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-104">
+    <prop type="location-id">UT22084-091-068-131</prop>
+    <tuv xml:lang="bo">
+                <seg>དབང་དྲག་རྫོགས་ཕྱིར་རལ་པ་ཁམ་ནག་སྤྲུག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-131"/>“Your disheveled, deep yellow locks indicate your perfection of enthralling and wrathful rites.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-105">
+    <prop type="location-id">UT22084-091-068-131</prop>
+    <tuv xml:lang="bo">
+                <seg>ཉོན་མོངས་འདྲེན་ཕྱིར་རྣོ་དཔལ་མཆེ་བ་གཙིགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You bare your sharp fangs, symbolizing the removal of afflictions.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-106">
+    <prop type="location-id">UT22084-091-068-131</prop>
+    <tuv xml:lang="bo">
+                <seg>འཁོར་བ་ལྗགས་ལ་གཏར་ཕྱིར་རྐན་སྒྲ་བརྡེབ། །གདུག་པ་ཞེ་ལ་གནོད་ཕྱིར་སྡང་མིག་བགྲད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You click your palate because the blood of saṃsāra is on your tongue And you have a wide, angry glare because you harm hateful, wicked beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-107">
+    <prop type="location-id">UT22084-091-068-132</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐམས་ཅད་དབང་དུ་སྡུད་ཕྱིར་སྤྱན་རྩ་དམར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-132"/>“Your eyes are bloodshot because you enthrall everything.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-108">
+    <prop type="location-id">UT22084-091-068-132</prop>
+    <tuv xml:lang="bo">
+                <seg>སྙོམས་པའི་ཚོགས་མཆོག་མི་འགྱུར་སྐུ་མདོག་གནག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You have a dark complexion to show your supreme, unwavering store of equanimity.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-109">
+    <prop type="location-id">UT22084-091-068-132</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་མོ་འདུལ་ཕྱིར་དུར་ཁྲོད་རྒྱན་གྱིས་བརྒྱན། །སྐུ་གསུང་ཐུགས་རྟགས་ཕྱག་རྒྱ་ཁ་ཊྭཱྃ་གསོར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You wear charnel ground ornaments because you tame the mātṛkās And you brandish a khaṭvāṅga, symbolizing body, speech, and mind.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-110">
+    <prop type="location-id">UT22084-091-068-134</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐུ་གསུམ་རྫོགས་བྱེད་ཐོད་པའི་ཕྲེང་བས་བརྒྱན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-134"/>“You wear a garland of skulls because you have perfected the three bodies.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-111">
+    <prop type="location-id">UT22084-091-068-134</prop>
+    <tuv xml:lang="bo">
+                <seg>དྲག་པོ་མྱུར་མགྱོགས་བསྟན་ཕྱིར་ཚུབ་མས་བརྒྱན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You are adorned with a whirlwind to indicate your swift wrath.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-112">
+    <prop type="location-id">UT22084-091-068-134</prop>
+    <tuv xml:lang="bo">
+                <seg>ཉོན་མོངས་སྲེག་ཕྱིར་མེ་དཔུང་ནང་ན་བཞུགས། །འདོད་ཁམས་སྐྱོང་ཕྱིར་ཡོངས་འདུའི་ཤིང་ལ་བརྟེན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You stand within a blazing fire because you have burned up the afflictions And you lean against the pāriyātraka tree because you protect the desire realm.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-113">
+    <prop type="location-id">UT22084-091-068-135</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་མིན་འདུལ་ཕྱིར་རྫོང་གི་དཀའ་ཟློག་མ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-135"/>“You are the impenetrable goddess of the fortress because you tamed the asuras.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-114">
+    <prop type="location-id">UT22084-091-068-135</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔའ་བརྟན་བསྟན་ཕྱིར་སྟག་གི་ཤམ་ཐབས་བསྣམས། །བསྟན་པ་བསྲུང་ཕྱིར་དྲག་མོའི་ཆ་ལུགས་རྫོགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You wear a tiger skin skirt to show your steadfast courage And the complete set of wrathful attire because you protect the teachings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-115">
+    <prop type="location-id">UT22084-091-068-137</prop>
+    <tuv xml:lang="bo">
+                <seg>ང་རྒྱལ་དབང་བསྡུད་བདག་མེད་སྒྲ་སྒྲོགས་ཕྱིར། །ཐབས་ཀྱི་སྙན་ཆ་གཡས་པ་སེང་གེས་བརྒྱན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-137"/>“Since the roar of no-self shows a mastery of pride, A lion adorns your right earring, symbolizing method.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-116">
+    <prop type="location-id">UT22084-091-068-137</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞེ་སྡང་དབང་འདུལ་དུག་ཆེན་འདུལ་བའི་ཕྱིར། །ཤེས་རབ་སྙན་ཆ་གཡོན་པ་སྦྲུལ་གྱིས་བརྒྱན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Since you have tempered the power of anger and tamed the great poison, A snake adorns your left earring, symbolizing insight.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-117">
+    <prop type="location-id">UT22084-091-068-138</prop>
+    <tuv xml:lang="bo">
+                <seg>འདུ་བྱེད་མི་རྟག་རྟགས་སུ་དྲིལ་བུ་སྒྲོགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-138"/>“You ring a bell, symbolizing the impermanence of compounded phenomena.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-118">
+    <prop type="location-id">UT22084-091-068-138</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆགས་ཕྱིར་རྔམ་མཛད་རཀྟའི་རྦ་ཀློང་འཐུང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Because you stoke rage toward attachment, you drink waves of blood.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-119">
+    <prop type="location-id">UT22084-091-068-138</prop>
+    <tuv xml:lang="bo">
+                <seg>དམ་ཚིག་བསྲུང་ཕྱིར་ཞིང་ལྤགས་རྒྱན་དུ་མཛད། །ཐ་དད་ལས་རྣམས་འདུལ་ཕྱིར་རྨ་བྱའི་འཕྲུ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You wear tree bark as adornment because you guard your samaya And a peacock crown ornament since you govern the different ritual actions.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-120">
+    <prop type="location-id">UT22084-091-068-140</prop>
+    <tuv xml:lang="bo">
+                <seg>ཉོན་མོངས་སྒྲིབ་པའི་ཚོགས་རྣམས་རབ་སྦྱངས་ནས། །ཡེ་ཤེས་རིག་པའི་ཚོགས་རྣམས་ཤར་བའི་ཕྱིར། །རང་བཞིན་གནས་མཆོག་བྱང་ཤར་མཚམས་ན་བརྟེན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-140"/>“Because you purified the collection of afflictive obscurations And your wisdom manifests as the body of vidyās, You stand firm in the northeast, the supreme natural abode.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-121">
+    <prop type="location-id">UT22084-091-068-140</prop>
+    <tuv xml:lang="bo">
+                <seg>དབུ་མའི་ས་ལ་གནས་ཕྱིར་དྲེའུ་ལ་ཞོན། །ཉོན་མོངས་གདུག་པ་འདུལ་ཕྱིར་མ་ཡི་ཚུལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You ride a donkey because you abide in the middle way And you take the guise of a mother because you tame the wicked afflictions.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-122">
+    <prop type="location-id">UT22084-091-068-140</prop>
+    <tuv xml:lang="bo">
+                <seg>མཁའ་འགྲོ་མ་མོ་ཁྱོད་ལ་ཕྱག་འཚལ་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage and praise to you, mother of ḍākinīs!”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-123">
+    <prop type="location-id">UT22084-091-068-143</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་གྲུལ་བུམ་གྱི་རྒྱལ་པོ་སྦྲུལ་མགོ་དགུ་པས་དཔལ་ལྷ་མོ་ནག་མོ་ལ་སྐུ་གསུང་ཐུགས་ཀྱི་སྒོ་ནས་བསྟོད་པ། དོན་དམ་གཉིས་མེད་བྱང་ཆུབ་སེམས་ཡིན་ཡང་། །སྲིད་གསུམ་གདུལ་ཕྱིར་རྟགས་ཀྱི་ཕྱག་རྒྱ་ནི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-143"/>Next, the kumbhāṇḍa king Nine-Headed Snake praised Śrīdevī in terms of body, speech, and mind: <tei:milestone xml:id="UT22084-091-068-145"/>“Though bodhicitta is ultimately nondual, Her symbolic attributes are the three existences.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-124">
+    <prop type="location-id">UT22084-091-068-143</prop>
+    <tuv xml:lang="bo">
+                <seg>རང་སེམས་<tei:ref folio="F.206.a"/>རྣམ་དག་དྲག་པོའི་གཞལ་ཡས་ཁང་། །རཀྟ་ཁྲག་གི་རྒྱ་མཚོ་འཁྱིལ་པ་ལས། །ཀེང་རུས་ཐོད་ཕྲེང་ཞིང་གི་པགས་པས་བརྒྱན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Her pure mind is the wrathful palace, Which emerges from the ocean of blood that surrounds it And is adorned with skeletons, skull garlands, and flayed skin.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-125">
+    <prop type="location-id">UT22084-091-068-146</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐུ་མདོག་གནག་ལ་རབ་འཇིགས་ཁྲོ་མོ་རྒྱལ། །སྔོན་མོ་རལ་པ་འཛིངས་མའི་སྤྲུལ་པ་འགྱེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-146"/>“The wrathful queen is utterly terrifying in her dark body, Sending forth emanations of female beings with shaggy blue locks.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-126">
+    <prop type="location-id">UT22084-091-068-147</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐུ་ཡི་སྤྲུལ་པ་དཔལ་ལྡན་རེ་མ་ཛུ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-147"/>“Glorious Remaju is her body emanation.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-127">
+    <prop type="location-id">UT22084-091-068-147</prop>
+    <tuv xml:lang="bo">
+                <seg>གྲུ་གསུམ་སེར་ནག་ཞལ་གྱི་དབྱིངས་སུ་བཞེངས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>She arises within a triangular, dark yellow expanse.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-128">
+    <prop type="location-id">UT22084-091-068-147</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡོན་ཏན་རྒྱས་མཛད་སེར་མོ་མཁའ་ལ་བཞད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>She enhances good qualities, is yellow, and laughs at the sky.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-129">
+    <prop type="location-id">UT22084-091-068-147</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྲིན་ལས་རྒྱས་པ་ཐམས་ཅད་ཉེ་བར་མཛོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>May she perfectly carry out all enriching rites!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-130">
+    <prop type="location-id">UT22084-091-068-149</prop>
+    <tuv xml:lang="bo">
+                <seg>གསུང་གི་སྤྲུལ་པ་དཔལ་ལྡན་རེ་མ་ཏི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-149"/>“Glorious Remati is her speech emanation.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-131">
+    <prop type="location-id">UT22084-091-068-149</prop>
+    <tuv xml:lang="bo">
+                <seg>གྲུ་གསུམ་དམར་ནག་ཞལ་གྱི་དབྱིངས་ནས་བཞེངས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>She arises within a triangular, red expanse.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-132">
+    <prop type="location-id">UT22084-091-068-149</prop>
+    <tuv xml:lang="bo">
+                <seg>དམར་མོ་ཆེན་མོ་དམར་ཆེན་གཏུམ་མ་སྟེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>She is the great red one, the great red Caṇḍālī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-133">
+    <prop type="location-id">UT22084-091-068-149</prop>
+    <tuv xml:lang="bo">
+                <seg>དབང་གི་ཕྲིན་ལས་ཐམས་ཅད་གྲུབ་པར་མཛོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>May she render all enthralling rites effective!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-134">
+    <prop type="location-id">UT22084-091-068-149</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐུ་གསུང་ཐུགས་ལྡན་སྤྲུལ་པ་རྒྱ་མཚོ་མ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>“Samudrā is her emanation of body, speech, and mind.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-135">
+    <prop type="location-id">UT22084-091-068-149</prop>
+    <tuv xml:lang="bo">
+                <seg>དྲག་པོ་འཇོམས་མཛད་བདུད་དཔུང་ཟིལ་གྱིས་གནོན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>She destroys Rudra and subdues the army of māras.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-136">
+    <prop type="location-id">UT22084-091-068-149</prop>
+    <tuv xml:lang="bo">
+                <seg>འགྲོ་དྲུག་སྒྲོལ་མཛད་སེམས་ཅན་ཀུན་གྱི་མ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>She liberates the six realms and is the mother of beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-137">
+    <prop type="location-id">UT22084-091-068-149</prop>
+    <tuv xml:lang="bo">
+                <seg>བསྟན་པ་རྒྱས་མཛད་མ་ལ་ཕྱག་འཚལ་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage and praise to the goddess who spreads the teachings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-138">
+    <prop type="location-id">UT22084-091-068-149</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གི་ལུས་ངག་ཡིད་གསུམ་བྱིན་གྱིས་རློབས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Please bless my body, speech, and mind.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-139">
+    <prop type="location-id">UT22084-091-068-150</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་དཔལ་ལྷ་མོ་ལ་ལྷ་མ་ཡིན་གྱི་རྒྱལ་པོ་ཐགས་ཟངས་རིས་ཀྱིས་དོན་དམ་པའི་སྒོ་ནས་བསྟོད་པ། སྤྲོས་བྲལ་འོད་གསལ་ཡང་དག་ཞི་བའི་ངང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-150"/>Next, the asura king Vemacitra praised Śrīdevī in terms of the ultimate:<tei:milestone xml:id="UT22084-091-068-151"/> “You are the state of perfect quiescence, luminous and free of conceptuality.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-140">
+    <prop type="location-id">UT22084-091-068-150</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐུགས་ཀྱི་ཐུགས་མཆོག་རྣམ་དག་བདེན་པའི་ཡུམ། །གདོད་ནས་གཉིས་མེད་ནམ་མཁའི་སྙིང་པོ་ནི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You are the true mother, the pure, supreme heart essence, And the essence of primordially nondual space.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-141">
+    <prop type="location-id">UT22084-091-068-150</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་ལྡན་ཁྱོད་ཀྱི་རང་བཞིན་ཁྱད་པར་གསལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Glorious one, your nature is exceedingly clear.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-142">
+    <prop type="location-id">UT22084-091-068-152</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟར་རྣམ་དག་བརྗོད་མེད་ངོ་བོ་ལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-152"/>“This essential nature is utterly pure and ineffable.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-143">
+    <prop type="location-id">UT22084-091-068-152</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱིས་པ་རྣམས་ཀྱིས་བསྟོད་པ་བྱེད་པ་ལྟུང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Praises to it composed by the naïve fall short.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-144">
+    <prop type="location-id">UT22084-091-068-152</prop>
+    <tuv xml:lang="bo">
+                <seg>བླུན་པོ་རྣམས་ཀྱིས་དངོས་པོར་རབ་བརྟགས་ནས། །གཟུགས་ཅན་ཚུལ་དུ་གང་ཞིག་བསྟོད་པའི་ཚིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Fools imagine you to be substantial And speak words of praise as if you have a physical form.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-145">
+    <prop type="location-id">UT22084-091-068-153</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་བའི་དོན་ཡང་ཐུགས་ཆུད་ཁྱོད་ཉིད་ལ། །ཚིག་དང་ཡི་གེའི་སྒོ་ནས་བསྟོད་པ་རྣམས། །ནམས་ཀྱང་གྲོལ་བར་འགྱུར་བའི་ཆོས་ཉིད་མིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-153"/>“But any praise based on words and letters, Directed to you, who is fixed upon the Victor’s truth, Is never the true reality of liberation.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-146">
+    <prop type="location-id">UT22084-091-068-153</prop>
+    <tuv xml:lang="bo">
+                <seg>གདོད་ནས་གཉིས་མེད་བདེ་ཆེན་མ་རྟོགས་པར། །ཁྱོད་ཀྱི་སྨོན་ལམ་རྟགས་ཀྱི་ཆོ་འཕྲུལ་ལ། །དོན་དུ་བཟུང་ནས་གང་ཞིག་བསྟོད་པ་རྣམས། །ཁྱོད་ལ་བརྟེན་ནས་ཐམས་ཅད་ལྟུང་བར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When primordial nondual great bliss has not been realized, Praise inspired by you will always fall short, When it takes you to be a symbolic emanation of your aspirations.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-147">
+    <prop type="location-id">UT22084-091-068-158</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་ཞིག་སྐྱེ་བ་མེད་པར་ཤེས་པ་དང་། །གདོད་ནས་གཉིས་མེད་སྙིང་པོ་བསྒོམས་ནུས་ན། །གང་ཟག་དེས་<tei:ref folio="F.206.b"/>ནི་ཁྱོད་ཉིད་བསྟོད་པ་ཡིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-158"/>“A person who understands nonarising And can meditate on the essence of primordial nonduality Is someone who truly praises you.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-148">
+    <prop type="location-id">UT22084-091-068-159</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྱོད་ཀྱི་གཟུགས་དང་ཁ་དོག་འཛིན་པ་ཡིས། །བསྐལ་པ་གྲངས་མེད་འདས་པར་རབ་བལྟས་ཀྱང་། །ཁྱོད་ཀྱི་གཟུགས་དང་ཁ་དོག་མཐོང་མི་ནུས། །གང་ཞིག་གཟུགས་སུ་མི་འཛིན་རྣམས་ཀྱིས་མཐོང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-159"/>“Those who grasp at your form and color Might gaze upon you for countless eons And still not be able to see your form and color, While those who do not grasp at form will see.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-149">
+    <prop type="location-id">UT22084-091-068-160</prop>
+    <tuv xml:lang="bo">
+                <seg>སྒྲ་དང་ཚིག་དང་བརྗོད་པ་ཐམས་ཅད་ཀྱིས། །ཁྱོད་ནི་བོས་ཀྱང་བསྐལ་པར་མི་ཐོས་ཏེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-160"/>“They will use all manner of sounds, words, and expressions, To call out to you for an eon, but you will not hear.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-150">
+    <prop type="location-id">UT22084-091-068-160</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་དག་སྤངས་པའི་རྣལ་འབྱོར་དེ་ཡིས་ནི། །ཁྱོད་ཀྱང་བོས་ལ་དེ་ཡང་ཁྱོད་ཀྱིས་ཐོས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>However, you will hear the call of those yogins, Who have abandoned such things.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-151">
+    <prop type="location-id">UT22084-091-068-161</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་ཞིག་ལུས་ངག་དགེ་བས་ཁྱོད་བསྒྲུབས་པའི། །བླུན་པོ་དེ་ཡིས་ནམས་ཀྱང་ཁྱོད་ཉིད་སྤངས། །ལུས་ངག་སྤངས་པའི་སེམས་ཀྱིས་ཁྱོད་མཆོད་ནས། །མཆོད་ན་དངོས་གྲུབ་དེ་ཡིས་གཏེར་ཐོབ་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-161"/>“A fool who has accomplished your practice Through the virtues of body and speech will always forsake you, While one who worships you with a mind that rejects body and speech Will attain the treasure of accomplishment when they worship.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-152">
+    <prop type="location-id">UT22084-091-068-161</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྱོད་ནི་རྒྱལ་པོ་མང་པོའི་ཡོན་ཏན་སྡུད། །ཆོས་ཀྱི་དབྱིངས་ན་རྒྱལ་བ་རྣམས་དང་མཇལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>“You epitomize the qualities of the multitudes of victors And commune with the victors in the dharmadhātu.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-153">
+    <prop type="location-id">UT22084-091-068-161</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟབ་མོ་དབུ་མའི་རང་བཞིན་སྟོན་པའི་ཕྱིར། །མི་མཇེད་འཇིག་རྟེན་ཤིན་ཏུ་རྩུབ་པ་འདིར། །ཕྱི་རོལ་ཚུལ་གྱིས་ཐམས་ཅད་འདྲེན་མཛད་མ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Because you display the nature of the profound middle way, You take on a non-Buddhist form to guide all beings In this exceedingly harsh Sahā world.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-154">
+    <prop type="location-id">UT22084-091-068-164</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྱོད་ཀྱི་སྐུ་ནི་འདི་ལྟར་རབ་བརྟགས་པ། །སྒྲིབ་པ་མང་པོ་སྟོང་ཉིད་ངང་དུ་གཤེགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-164"/>“Your body, imagined in this way, Has reached the state of being empty of the manifold obscurations.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-155">
+    <prop type="location-id">UT22084-091-068-164</prop>
+    <tuv xml:lang="bo">
+                <seg>སྟོང་ཉིད་དམ་པ་སྟོང་པ་ཡང་དག་ཁྱོད། །སྟོང་པ་གཉིས་མེད་ཤེས་པ་རྣམས་ཀྱིས་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You, supreme emptiness and truly empty, Are praised by those who understand the empty and nondual.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-156">
+    <prop type="location-id">UT22084-091-068-165</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟར་བསྟོད་ན་བསྟོད་པར་འགྱུར་གྲང་བས། །ཁྱོད་ནི་བསྟོད་པའི་ཡུལ་ཅན་མ་ཡིན་ཡང་། །བྱིས་པ་དྲང་ཕྱིར་དོན་ལ་འདི་ལྟར་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-165"/>“To praise you in this way counts as a form of praise, And though you are not an object of praise, I praise you like this to guide naive people.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-157">
+    <prop type="location-id">UT22084-091-068-166</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ནམ་མཁའ་ལྡིང་གི་རྒྱལ་པོ་རྡོ་རྗེ་གསེར་མིག་ཅན་གྱིས་དཔལ་ལྷ་མོ་ལ་བསྟོད་པ། དཔལ་ལྡན་ལྷ་མོ་དཔག་པར་དཀའ་བའི་དོན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-166"/>Next, the king of garuḍas Vajra Golden Eyes praised Śrīdevī: <tei:milestone xml:id="UT22084-091-068-167"/>“Śrīdevī, your import is difficult to fathom.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-158">
+    <prop type="location-id">UT22084-091-068-166</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐབས་ཀྱི་ཆོ་འཕྲུལ་ནམ་མཁའི་མཁའ་ལ་སྤྱོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Your skillful emanations move through the sky.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-159">
+    <prop type="location-id">UT22084-091-068-166</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའི་སྤྲུལ་པ་ཁྱོད་ཉིད་ལ། །སྒོ་གསུམ་རྡུལ་སྙེད་དབྱངས་ཀྱིས་ཕྱག་འཚལ་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I revere and praise you as an emanation of a bodhisattva, With melodies, numerous as grains of dust, from my three doors.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-160">
+    <prop type="location-id">UT22084-091-068-168</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གིས་ཁྱོད་ནི་མཆོད་པས་མ་བསྒྲིབས་ཀྱང་། །དཔལ་ལྡན་དངོས་གྲུབ་དམ་པ་ཐོབ་བྱའི་ཕྱིར། །འདོད་པའི་ཡོན་ཏན་མཁའ་ལ་ཆར་འབབ་པས། །མཆོད་པའི་ཚོགས་འདིས་དབང་པོ་རྒྱལ་གྱུར་ཅིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-168"/>“Though you are untainted by the offerings I make, May objects pleasing to the senses fall from the sky like rain, Glorious One, so that the sublime accomplishment may be attained— And may these abundant offerings conquer the senses.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-161">
+    <prop type="location-id">UT22084-091-068-169</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་ལྡན་ཁྱོད་ནི་དགེ་སྡིག་བདག་པོ་སྟེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-169"/>“Glorious One, you have dominion over good and evil.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-162">
+    <prop type="location-id">UT22084-091-068-169</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གི་ལུས་ངག་ཡིད་ཀྱི་སྡིག་པའི་ཚོགས། །ཁྱོད་ཀྱི་ཐད་དུ་འགྱོད་པས་རབ་<tei:ref folio="F.207.a"/>བཤགས་ན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I regretfully confess before you All of my wicked bodily, verbal, and mental acts.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-163">
+    <prop type="location-id">UT22084-091-068-169</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐུགས་རྗེའི་ཤུགས་ཀྱིས་སྒྲིབ་པ་བྱང་བར་མཛོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Out of compassion, please purify my obscurations.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-164">
+    <prop type="location-id">UT22084-091-068-170</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྱོད་ཀྱི་ཁྱད་པར་ཡོངས་སུ་འཕགས་པ་ནི། །འགྲོ་བའི་དོན་མཛད་བདག་དོན་ཕུན་སུམ་ཚོགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-170"/>“You are particularly exalted for the benefit you bring beings And the abundant prosperity benefits you bring yourself.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-165">
+    <prop type="location-id">UT22084-091-068-170</prop>
+    <tuv xml:lang="bo">
+                <seg>དགའ་མཐུན་ཕྲག་དོག་མེད་པའི་སྤྲོས་པ་ནི། །རྗེས་སུ་ཡི་རང་ཁྱོད་ཀྱི་རྒྱུད་ལ་འབུལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I rejoice and offer harmonious joy free of envy, To the continuity of your being.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-166">
+    <prop type="location-id">UT22084-091-068-171</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟར་ཡོན་ཏན་ལྡན་པའི་སྐུ་མཆོག་ནི། །ནག་མོ་བཟང་པོ་འཇིགས་པའི་མཐུ་སྟོབས་ཀྱིས། །ཕྱོགས་བཅུ་དུས་གསུམ་ཀུན་དུ་འགྲོ་དོན་ལ། །སྒྱུ་འཕྲུལ་དྲ་བའི་ཚུལ་གྱིས་བསྐུལ་བར་སྤོབས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-171"/>“Beautiful Kālī, whose supreme body has Such wonderful qualities, I implore you— Use your terrifying power as the web of illusion To benefit beings throughout the three times and ten directions.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-167">
+    <prop type="location-id">UT22084-091-068-172</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡང་དག་ཁྱོད་ཀྱི་ཡོན་ཏན་སྐུ་མཆོག་ནི། །གདུག་པ་འདུལ་ཞིང་བསྟན་པ་བསྲུང་བའི་ཕྱིར། །སེམས་ཅན་ཟད་པར་མ་གྱུར་བར་དུ་ནི། །མྱ་ངན་མི་འདའ་བཞུགས་པར་གསོལ་བ་གདབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-172"/>“I request that your supreme body with its unique qualities Remain without passing into nirvāṇa As long as beings endure, To tame wicked beings and protect the teachings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-168">
+    <prop type="location-id">UT22084-091-068-173</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟར་ཕྱག་འཚལ་མཆོད་ནས་བཤགས་པ་དང་། །རྗེས་སུ་ཡི་རང་བསྐུལ་ཞིང་གསོལ་བཏབ་ནས། །དགེ་བ་འདི་ཡིས་ངན་སོང་སྟོངས་གྱུར་ཏེ། །ཐམས་ཅད་ཚོགས་རྫོགས་བྱང་ཆུབ་ཆེན་པོར་བསྔོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-173"/>“May the virtue from this homage, confession, Rejoicing, encouragement, and requesting Empty the lower realms—I dedicate it so that all Will perfect the accumulations and reach great awakening.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-169">
+    <prop type="location-id">UT22084-091-068-174</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་དཔལ་ལྡན་ལྷ་མོ་ལ་ནམ་མཁའི་ལྷ་བྲན་རྣམས་ཀྱིས་བསྟོད་པ། བསྐལ་པ་མེ་ལྟར་འབར་བའི་ཀློང་དཀྱིལ་ན། །རླུང་ནག་དགུ་པའི་ཀློང་འཁྱིལ་ཕོ་བྲང་ནས། །མ་གཅིག་འདོད་པའི་ཁམས་ཀྱི་དབང་ཕྱུག་མ། །བདུད་ཀྱི་ཡུམ་ལ་གཤིན་རྗེའི་ལྕམ་གཅིག་མ། །དཔལ་ལྡན་ལྷ་མོ་ནག་མོ་རེ་མ་ཏི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-174"/>Next, the attendants of the sky god praised Śrīdevī:<tei:milestone xml:id="UT22084-091-068-175"/> “From a palace in the middle of a swirling expanse of nine dark winds, At the center of a vast blaze like the fire at the end of an eon, You emerge as the sole mother, sovereign goddess of the desire realm, The mother of the demon, and Yama’s only sister.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-170">
+    <prop type="location-id">UT22084-091-068-177</prop>
+    <tuv xml:lang="bo">
+                <seg>ནག་མོ་ཟ་བྱེད་རྔམ་པའི་མཆེ་བ་ཅན། །མཐིང་ནག་གཅེར་བུ་ཁྲག་གི་རལ་པ་ཅན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-177"/>“You are Śrīdevī, the black Remati, The black devourer with awesome fangs, Dark black, naked, and with bloody locks.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-171">
+    <prop type="location-id">UT22084-091-068-178</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྱོད་ཀྱི་སྐུ་མདོག་ནག་མོར་བཞུགས་པ་ནི། །དོན་དམ་དབྱིངས་ཀྱིས་བསྐྱོད་པ་མེད་པའི་རྟགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-178"/>“Your appearance with a black body Symbolizes not being agitated by ultimate space.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-172">
+    <prop type="location-id">UT22084-091-068-178</prop>
+    <tuv xml:lang="bo">
+                <seg>དབུ་སྐྲ་གཡས་ནས་གཡོན་དུ་འཁྱིལ་པ་ནི། །ཡུམ་གྱི་མཁའ་ལ་སྤྲུལ་པ་འགྱེད་པའི་རྟགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The leftward curl of your hair Symbolizes sending emanations into a mother’s womb.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-173">
+    <prop type="location-id">UT22084-091-068-179</prop>
+    <tuv xml:lang="bo">
+                <seg>དབུ་གཙུག་རལ་པ་གཅིག་ཏུ་འཁྱིལ་པ་ནི། །དོན་དམ་དགོངས་སྤྱོད་གཅིག་ཏུ་མཛད་པའི་རྟགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-179"/>“The locks on your head are braided as one, Symbolizing that you combine recognition of the ultimate with action.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-174">
+    <prop type="location-id">UT22084-091-068-179</prop>
+    <tuv xml:lang="bo">
+                <seg>རལ་པའི་གསེབ་ནས་མེ་སྟག་འཕྲོ་བ་ནི། །ཐུགས་ཀྱི་སྤྲུལ་པ་ཕྱོགས་བཅུར་འགྱེད་པའི་རྟགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The sparks that fly from your locks Symbolize sending mind emanations throughout the ten directions.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-175">
+    <prop type="location-id">UT22084-091-068-180</prop>
+    <tuv xml:lang="bo">
+                <seg>དབུ་ལ་ཐོད་རློན་ཕྲེང་བ་བཅིངས་པ་ནི། །ཐུགས་རྗེས་སྤྲུལ་སྐུས་འགྲོ་དོན་མཛད་པའི་རྟགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-180"/>“The garland of fresh skulls tied around your head Symbolizes your compassionate benefit to beings with your emanation body.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-176">
+    <prop type="location-id">UT22084-091-068-180</prop>
+    <tuv xml:lang="bo">
+                <seg>སྙན་ཆ་གཡས་ན་སེང་གེ་མཆོང་བ་ནི། །སྨན་མོ་ཐམས་ཅད་ཟིལ་<tei:ref folio="F.207.b"/>གྱིས་གནོན་པའི་རྟགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The pouncing lion on your right earring Symbolizes your subjugation of all menmos.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-177">
+    <prop type="location-id">UT22084-091-068-181</prop>
+    <tuv xml:lang="bo">
+                <seg>གཡོན་ན་སྦྲུལ་མགོའི་གདེངས་ཀ་འཕྱར་བ་ནི། །ཞེ་སྡང་མ་སྤངས་དབྱིངས་སུ་དག་པའི་རྟགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-181"/>“The serpent with a flared hood on your left earring Symbolizes purity within the expanse where anger is not abandoned.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-178">
+    <prop type="location-id">UT22084-091-068-181</prop>
+    <tuv xml:lang="bo">
+                <seg>སྙན་ཆ་གསེར་གྱི་དྲིལ་བུ་འཁྲོལ་བ་ནི། །སངས་རྒྱས་ཀུན་ལ་བསྙེན་སྒྲུབ་བྱེད་པའི་རྟགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The ringing golden bells on your earrings Symbolize your worship and accomplishment of all the buddhas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-179">
+    <prop type="location-id">UT22084-091-068-182</prop>
+    <tuv xml:lang="bo">
+                <seg>སྤྱན་རྩ་དམར་ལ་སྡང་མིག་བགྲད་པ་ནི། །སྲིད་གསུམ་རྣལ་འབྱོར་དམ་ཚིག་གཟིགས་པའི་རྟགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-182"/>“The wide-eyed glare of your bloodshot eyes Symbolizes that you observe the samayas of yogins in the three existences.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-180">
+    <prop type="location-id">UT22084-091-068-182</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞལ་གྱི་དྲག་པོ་ཧོམ་ཁུང་གདེངས་པ་ནི། །བསྟན་པ་འཇིག་པའི་རུ་དྲ་སྒྲོལ་བའི་རྟགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The fierce open fire pit of your mouth Symbolizes the liberation of Rudra, destroyer of the teachings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-181">
+    <prop type="location-id">UT22084-091-068-183</prop>
+    <tuv xml:lang="bo">
+                <seg>རྣོ་གདུག་མཆེ་བ་ཟུར་གསུམ་གཙིགས་པ་ནི། །བསྒྲལ་བའི་ཞིང་བཅུ་ས་ལ་སྒྲོལ་བའི་རྟགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-183"/>“Bearing your sharp and poisonous triangular fangs Symbolizes liberating the ten targets for liberation onto the bodhisattva levels.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-182">
+    <prop type="location-id">UT22084-091-068-183</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐུ་ལ་ཞིང་ལྤགས་གཡང་གཞི་གསོལ་བ་ནི། །ཡང་དག་ཆོས་དང་དོན་དང་ལྡན་པའི་རྟགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Dressing in human skin and an antelope hide Symbolizes that you possess the true Dharma and its meaning.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-183">
+    <prop type="location-id">UT22084-091-068-184</prop>
+    <tuv xml:lang="bo">
+                <seg>གླང་ཆེན་ཀོ་རློན་སྣམ་ཕྱེད་དཀྲིས་པ་ནི། །ཐེག་པ་མཆོག་གི་དོན་དང་ལྡན་པའི་རྟགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-184"/>“Being wrapped in a fresh elephant hide Symbolizes that you possess the meaning of the supreme vehicle.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-184">
+    <prop type="location-id">UT22084-091-068-184</prop>
+    <tuv xml:lang="bo">
+                <seg>རེ་ལྡེ་ནག་པོ་སྣམ་ཕྱེད་དཀྲིས་པ་ནི། །འཇིག་རྟེན་འདི་ན་ཆེ་བཙན་ལྡན་པའི་རྟགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That you wear black felt Symbolizes your majesty in this world.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-185">
+    <prop type="location-id">UT22084-091-068-185</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྟེ་བའི་ཁུང་ནས་ཉི་མ་འཆར་བ་ནི། །སྡུག་བསྔལ་རྒྱ་མཚོ་གཏིང་ནས་སྐེམས་པའི་རྟགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-185"/>“The sun shining from your navel Symbolizes drying the ocean of suffering to its depths.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-186">
+    <prop type="location-id">UT22084-091-068-185</prop>
+    <tuv xml:lang="bo">
+                <seg>སྤྱི་བོ་གཙུག་ནས་ཟླ་བ་འཆར་བ་ནི། །དུག་གསུམ་མ་རིག་མུན་པ་སེལ་བའི་རྟགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The moon shining from the crown of your head Symbolizes clearing away the three poisons’ dark ignorance.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-187">
+    <prop type="location-id">UT22084-091-068-186</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞབས་ལ་དབང་གི་ལྕགས་སྒྲོག་འཁྲིལ་བ་ནི། །ཐབས་དང་ཤེས་རབ་ཟུང་དུ་འབྲེལ་བའི་རྟགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-186"/>“The restraining shackles clasping your feet Symbolize the unification of method and insight.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-188">
+    <prop type="location-id">UT22084-091-068-186</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱག་གཡས་ཤང་ལང་ནག་པོ་བསྣམས་པ་ནི། །སྡུག་བསྔལ་སྐྱེ་ཤི་རྩད་ནས་གཅོད་པའི་རྟགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That you wield a black sword in your right hand Symbolizes the eradication of suffering, birth, and death.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-189">
+    <prop type="location-id">UT22084-091-068-187</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱག་གཡོན་ཐོད་རློན་དམར་ཆེན་འཐུང་བ་ནི། །འཁོར་བའི་སྡུག་བསྔལ་ཁྲག་ལྟར་འཐུང་བའི་རྟགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-187"/>“That you drink human blood from a fresh skull in your left hand Symbolizes drinking the suffering of saṃsāra like blood.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-190">
+    <prop type="location-id">UT22084-091-068-187</prop>
+    <tuv xml:lang="bo">
+                <seg>བོང་བུ་གྭ་པ་ཕྱིན་ཕྱོགས་ཞོན་པ་ནི། །ལོག་པར་ལྟ་བའི་སེམས་ཅན་སྒྲོལ་བའི་རྟགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That you ride sideways on a white-faced donkey Symbolizes liberating beings who hold wrong views.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-191">
+    <prop type="location-id">UT22084-091-068-188</prop>
+    <tuv xml:lang="bo">
+                <seg>སྲིན་པོའི་ཨོག་མས་སྔ་རུ་བྱས་པ་ནི། །སྲིན་ཡུལ་ལང་ཀ་པུ་ར་འདུལ་བའི་རྟགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-188"/>“The front of your saddle is made from a rākṣasa’s throat, Symbolizing the taming of Laṅkapura in the realm of the rākṣasas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-192">
+    <prop type="location-id">UT22084-091-068-188</prop>
+    <tuv xml:lang="bo">
+                <seg>སྦྲུལ་ནག་ཆུན་པོས་གོང་སྨེད་བྱས་པ་ནི། །ཞེ་སྡང་དབང་གིས་བགེགས་རིགས་འཇོམས་པའི་རྟགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The upper and lower bridle, made of a large black snake, Symbolizes your anger that conquers the classes of obstructing beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-193">
+    <prop type="location-id">UT22084-091-068-189</prop>
+    <tuv xml:lang="bo">
+                <seg>རུ་སྦལ་ནག་པོའི་ཕོག་བུ་བཏང་བ་ནི། །ཀླུ་བདུད་ནག་པོ་དམ་ལ་བཏགས་པའི་རྟགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-189"/>“Swinging your riding crop made out of black tortoiseshell Symbolizes binding the black nāgas and māras under oath.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-194">
+    <prop type="location-id">UT22084-091-068-189</prop>
+    <tuv xml:lang="bo">
+                <seg>སྔ་ཤ་གཡས་པ་བདུད་ཀྱི་ཁྲམ་བམ་ནི། །དམ་ཚིག་ཉམས་པ་ཁྲམ་ལ་འདེབས་པའི་རྟགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The cross of the māras on the right saddle strap Symbolizes pinning those who violate the samayas to a cross.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-195">
+    <prop type="location-id">UT22084-091-068-191</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱི་ཤར་ནད་ཀྱི་རྐྱལ་པ་བཏགས་པ་ནི། །བསྟན་པ་འདི་ལ་གནོད་<tei:ref folio="F.208.a"/>པའི་དགྲ་བོ་ལ། །ནད་ཀ་འབེབས་ཤིང་དལ་ཁ་སྒྱུར་བའི་རྟགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-191"/>“The satchel of diseases that hangs on the rear saddle straps Symbolizes averting misfortune and bringing disease down On those who would harm this teaching.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-196">
+    <prop type="location-id">UT22084-091-068-192</prop>
+    <tuv xml:lang="bo">
+                <seg>དོན་དམ་བཅུད་ཀྱི་རྟགས་སུ་ཞག་གི་ཟོར་རིས་བཏང་། །ཐུགས་རྗེ་ཆགས་པའི་རྟགས་སུ་རཀྟའི་ཐིག་ལེས་བརྒྱན། །འདུལ་བྱེད་ཕྲིན་ལས་རྟགས་སུ་ཐལ་བའི་མཚན་མས་བཏབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-192"/>“You exude drops of fat that symbolize the nectar of the ultimate, Are ornamented with drops of blood symbolizing your fondness for compassion, And are imprinted with an ash mark symbolizing your activities to tame beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-197">
+    <prop type="location-id">UT22084-091-068-193</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་མོ་འབུམ་ཕྲག་བྲན་དུ་འཁོལ་བ་ནི། །ཁམས་གསུམ་ཁྱབ་པར་ཕྲིན་ལས་མཛད་པའི་རྟགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-193"/>“The myriad mātṛkās bound to you in service Symbolize the activities you perform, which pervade the three realms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-198">
+    <prop type="location-id">UT22084-091-068-193</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་གཅིག་ཁ་ནས་མེ་འབར་རྒྱ་མཚོ་སྐེམས། །རྡོ་རྗེ་འཕྱར་བས་རི་རབ་ཚོགས་བོར་འཕེན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The fire blazing from your mouth, sole mother, dries up the oceans, And by raising your vajra you hurl the Sumeru mountain range.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-199">
+    <prop type="location-id">UT22084-091-068-194</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གིས་བརྩོན་པར་ལྷ་མོ་ཁྱོད་ལ་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-194"/>I fervently praise you, Goddess!”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-200">
+    <prop type="location-id">UT22084-091-068-195</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ཡང་གཤིན་རྗེ་ནག་པོས་དཔལ་ལྷ་མོ་ལ་ཆེ་བའི་ཡོན་ཏན་གྱི་སྒོ་ནས་བསྟོད་པ། ལྷ་མོ་དཔལ་ལྡན་མཁའ་འགྲོ་ནག་མོ་ཁྱོད་ལ་ནི། །རྒྱུན་དུ་ཏིལ་མར་གྱིས་བྱུགས་ལན་བུ་གཅིག་མ་སྟེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-195"/>Next, Black Yama praised the great goddess in terms of her superior qualities:<tei:milestone xml:id="UT22084-091-068-196"/> “Goddess, glorious black ḍākinī, your single braid is perpetually saturated with sesame oil.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-201">
+    <prop type="location-id">UT22084-091-068-195</prop>
+    <tuv xml:lang="bo">
+                <seg>རོ་ཉེ་རྣ་ཆས་བསྒྱིངས་ཤིང་ཆ་ལུགས་མང་པོ་འཆང་བྱེད་མ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You are poised seductively wearing lead earrings and you bear many ornaments.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-202">
+    <prop type="location-id">UT22084-091-068-195</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱན་དུ་རྐང་སྒྲོག་ལྕགས་ལ་བྱས་པ་གཅིག་གིས་རྐང་ལ་མཛེས་པར་བརྒྱན་པ་སྟེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>A single iron shackle beautifully adorns your feet as anklets.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-203">
+    <prop type="location-id">UT22084-091-068-195</prop>
+    <tuv xml:lang="bo">
+                <seg>མཚན་མོ་བོང་བུ་ཞོན་ནས་འགྲོ་བ་དེ་ནི་ནག་མོ་ཁྱོད་ཉིད་ཡིན་པར་ཤེས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You are known as Kālī, the one who rides around at night on a donkey.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-204">
+    <prop type="location-id">UT22084-091-068-195</prop>
+    <tuv xml:lang="bo">
+                <seg>རལ་པས་བདག་ཉིད་མཛེས་པར་བརྒྱན་ཏེ་ཁྱོད་ཀྱི་སྤྱོད་པ་མཚོ་ཆེན་དོན་དག་སུ་ཡིས་ཤེས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Beautifully adorned with locks as you are, who can fathom the import of the great ocean of your behavior?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-205">
+    <prop type="location-id">UT22084-091-068-195</prop>
+    <tuv xml:lang="bo">
+                <seg>འཁོར་བ་འཇིག་པའི་ཚེ་ན་མི་རུས་དག་ལ་ཁྲག་དང་ཞག་འཛག་དུ་བ་ཐུལ་བ་ན། །ནག་མོ་མཆེ་བ་མི་བཟད་ཁྱོད་ཀྱི་ཞལ་དུ་འགྲོ་ཀུན་སྐད་ཅིག་ཙམ་དུ་ཞུགས་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When saṃsāra is destroyed, when smoke billows from the blood and fat dripping from human bones, then, Kālī, all beings will instantly fall into your mouth—into your unbearable fangs.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-206">
+    <prop type="location-id">UT22084-091-068-199</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་མོ་ལག་ན་མི་ཐོད་ཐོགས་པ་ཁྱོད་ནི་རྣལ་འབྱོར་གྲུབ་པའི་རྣལ་འབྱོར་ཅན་དུ་དུར་ཁྲོད་དགྱེས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-199"/>“Goddess, you hold a human skull in your hand, reveling in the charnel ground while immersed in the accomplishment of yoga.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-207">
+    <prop type="location-id">UT22084-091-068-199</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྱོད་ནི་གཡོག་བཅས་མྱ་ངན་མེད་ཅིང་འཆི་བའི་འཇིགས་པ་མེད་པར་དྲིལ་བུའི་སྒྲ་ཡང་སྒྲོགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You and your attendants have no sorrow and ring your bells with no fear of death.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-208">
+    <prop type="location-id">UT22084-091-068-199</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྱོད་ནི་དཔའ་བོ་དག་གི་མགོ་བཅད་གཡུལ་དུ་མཚོན་གྱིས་བསད་པ་ཡི། །མགོ་ཕྲེང་ལག་ན་ཐོགས་ཤིང་གར་སྟབས་སྐོར་ཞིང་ལག་པ་བརྐྱང་བསྐུམ་ཆེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You hold a garland of heads—the severed heads of heroes cut down by swords in battle—as you dance in a circle, arms extending and retracting mightily.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-209">
+    <prop type="location-id">UT22084-091-068-199</prop>
+    <tuv xml:lang="bo">
+                <seg>རྐུབ་ཚོས་ཆེ་ལ་ཀླུ་དབང་གཤིབས་པའི་སྐ་རགས་བཅིངས་ཤིང་ལག་ན་མདུང་དང་བ་དན་ཐོགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>A belt made of woven nāga lords is tied around your broad hips and you brandish a spear and standard in your hand.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-210">
+    <prop type="location-id">UT22084-091-068-199</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྲག་གི་ཆང་གིས་ར་རོ་མྱོས་ཏེ་མིག་རྩ་དམར་པོར་བྱས་ནས་མཚན་མོ་དུར་ཁྲོད་རྒྱུ་བ་འབྱུང་པོ་ཕལ་ཆེན་ཀུན་གྱིས་མཐོང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Your eyes are bloodshot from being intoxicated with the liquor of blood and you are watched by the host of bhūtas who wander cremation grounds at night.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-211">
+    <prop type="location-id">UT22084-091-068-199</prop>
+    <tuv xml:lang="bo">
+                <seg>རྐང་པའི་གོས་ནི་ཀོ་རློན་མཚན་པས་དྲངས་པས་སྣམ་གྱི་ཕྱེད་ནི་རེ་ལྡེས་དཀྲིས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Your leggings are made from fresh hidesand you are wrapped in a felt shawl.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-212">
+    <prop type="location-id">UT22084-091-068-199</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་ཡི་རྒྱུ་མ་སར་<tei:ref folio="F.208.b"/>པའི་སྦུབས་ཀྱིས་ཞལ་གྱི་ཟླ་བ་བརྒྱན་ཅིང་ཁྲག་དང་ཞག་གི་ཚོམ་བུས་ཐིག་ལེར་བརྒྱན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Your moon-like face is graced with a hood of fresh human intestines and your forehead mark is made of a clump of blood and fat.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-213">
+    <prop type="location-id">UT22084-091-068-199</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་ཡི་ཤ་ལ་སོ་སོར་ཆེམ་ཆེམ་ཟ་ཡིན་མི་རོ་དག་གི་ཅོད་པན་མགོ་ལ་བརྒྱན་པ་སྟེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You gnash noisily on bits of human flesh and wear a crown of human corpses on your head.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-214">
+    <prop type="location-id">UT22084-091-068-201</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་ལ་སྐྱོབ་པའི་དྲག་མོ་མི་ཤ་ཐོགས་པ་ཁྱོད་ནི་སྔ་ནས་མ་མཐོང་གཟོད་མཐོང་ན། །བདུད་དང་སྲིན་མོ་མ་མོ་རྣམས་ཀྱང་མིག་རྩ་རིག་རིག་དངང་ཞིང་ཁྱོད་ལ་འདུད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-201"/>“Wrathful protector of mine, with human flesh in hand, the eyes of māras, rākṣasīs, and mātṛkās who see you now for the first time quiver and bulge as they bow to you.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-215">
+    <prop type="location-id">UT22084-091-068-201</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་མོ་བཟང་མོ་ལུས་མདོག་གནག་ཅིང་བཟོད་པར་དཀའ་བ་ཁྱོད་ལ་བརྒྱ་བྱིན་ལ་སོགས་པས། །བསྟོད་པ་བྱེད་པའི་གཤིན་རྗེའི་རྒྱལ་པོ་ཉིད་ཀྱང་རྟག་ཏུ་འདུད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Beautiful Goddess, your body is black and you are so overwhelming even I, Yamarāja, praised by Śakra and the rest, always bow to you.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-216">
+    <prop type="location-id">UT22084-091-068-201</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་རྣམས་དང་ནི་འགྲོ་བ་མ་ལུས་འཇུག་བརྟུལ་བས་ན་རྣ་བ་ཡ་གཅིག་ལ། །བྲང་གིས་འགྲོ་བ་སྦྲུལ་མགོ་གདེངས་ཀ་སྟོང་དང་ལྡན་ཞིང་གཅིག་གིས་རྒྱབ་ནས་རྒྱན་དུ་བྱས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Because you bring an end to all gods and beings, an uraga with a thousand hooded heads adorns one of your ears from behind and an incomparable lion is fastened to the other ear.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-217">
+    <prop type="location-id">UT22084-091-068-201</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡ་གཅིག་ལ་ནི་སེང་གེ་མཚུངས་མེད་ཐོགས་ཤིང་རྒྱ་མཚོ་བསྐོར་ཞིང་ས་གཞི་གནོན་པ་ས་སྟེང་གི། །ཕྱོགས་ནས་རྒྱུ་བའི་ཉི་མ་ཟླ་བ་ལྷ་མོ་ཁྱོད་ཀྱི་ལྟེ་ནས་འཆར་ཞིང་སྲིད་གསུམ་ཟིལ་གྱིས་གནོན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You are surrounded by an ocean, trample the earth, and the sun and moon that course over the earth rise from your navel. Goddess, you conquer the three existences.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-218">
+    <prop type="location-id">UT22084-091-068-203</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱ་མཚོ་ཀློང་ནས་མེ་འབར་ཆུ་རྣམས་སྐེམས་པར་བྱེད་པར་ནུས་པའི་བུད་མེད་ཐམས་ཅད་ཞི་མཛད་མ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-203"/>You are the all-pacifying woman who is able to dry up all waters with the fire that blazes from the vast ocean.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-219">
+    <prop type="location-id">UT22084-091-068-203</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་ཆེན་སྐུ་དང་འཚམ་པར་བཞུགས་པའི་དཀའ་ཟློག་ནག་མོ་མི་ནད་ཕྱུགས་ནད་ཀུན་ལ་འཇིགས་པ་མེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Black Durgā, whose form resembles that of Mahādeva, you do not fear any human or animal disease.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-220">
+    <prop type="location-id">UT22084-091-068-205</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་གཅིག་ཁྱོད་ཉིད་ལ་ནི་བདག་ནི་གུས་པར་ཕྱག་འཚལ་མཆོད་ཅིང་བསྟོད་པར་བགྱི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-205"/>“I respectfully offer homage and praise to you, sole mother.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-221">
+    <prop type="location-id">UT22084-091-068-206</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་དཔལ་ལྷ་མོ་ནག་མོ་ལ་བྲམ་ཟེ་མཆོག་སྲེད་ཀྱིས་ཀུན་རྫོབ་ཀྱི་བདེན་པ་བརྟེན་པར་བསྟོད་པ། མ་གཅིག་ལྷ་མོ་དཔལ་ལྷ་མོ། །རྡོ་རྗེ་ལྷ་མོ་ནག་མོ་ཆེ། །མཐུ་ཆེན་ཁྱོད་ལ་ཕྱག་འཚལ་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-206"/>Next, the brahmin Vararuci praised Śrīdevī Kālī in terms of the relative truth:<tei:milestone xml:id="UT22084-091-068-207"/> “Homage and praise to you, Sole mother, goddess, Śrīdevī, Vajra goddess Kālī, great and powerful.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-222">
+    <prop type="location-id">UT22084-091-068-206</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གིས་བཙུན་པར་ཁྱོད་བསྟོད་ཀྱིས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>May my reverent praise to you Bring supremely good fortune and desired riches.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-223">
+    <prop type="location-id">UT22084-091-068-208</prop>
+    <tuv xml:lang="bo">
+                <seg>བཀྲ་ཤིས་མཆོག་གྲུབ་སེམས་གཏེར་གནས། །ཡིད་མྱུར་གཟུགས་ཆེན་ཀུན་དུ་གྲགས། །མ་མོར་གྲགས་ཤིང་འཇིག་རྟེན་སྐྱོང་། །དཔའ་བརྟུལ་དྲག་སྤྱོད་བརྩོན་འགྲུས་ཆེ། །འཐབ་མོ་གཡུལ་ལས་རྟག་ཏུ་རྒྱལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-208"/>“Your swift mind and great form are known far and wide, You are a renowned mātṛkā, a world protector, A fierce warrior with great perseverance, Who is always victorious on the battlefield.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-224">
+    <prop type="location-id">UT22084-091-068-208</prop>
+    <tuv xml:lang="bo">
+                <seg>གཤིན་རྗེའི་སྲིང་མོ་ཡིན་པར་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Praise to you, Yama’s sister.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-225">
+    <prop type="location-id">UT22084-091-068-209</prop>
+    <tuv xml:lang="bo">
+                <seg>གོས་སུ་དར་གོས་སྔོན་པོ་གསོལ། །སྡུག་དང་མི་སྡུག་ཆ་ལུགས་འཆང་། །སྤྱན་མིག་མཐོང་ན་མི་སྡུག་ཀུན་དུ་སྡང་། །དད་ཅིད་ཚོགས་པའི་མི་རྣམས་སྡུད། །<tei:ref folio="F.209.a"/>
+                </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-209"/>“You are dressed in blue silk, Wear adornments both beautiful and hideous, Have eyes that are hideous and enraged, Are faithful, and gather people in the assembly.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-226">
+    <prop type="location-id">UT22084-091-068-211</prop>
+    <tuv xml:lang="bo">
+                <seg>རེས་འགའ་རི་བྲག་ཟབ་མོར་གནས། །རེས་འགའ་ཚལ་དང་ཤིང་ལ་གནས། །རེས་འགའ་དུར་ཁྲོད་དབུས་ན་གནས། །ལྷ་མོའི་གནས་རྟེན་དེ་རུ་འཆའ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-211"/>“Sometimes you dwell deep in the mountains, Sometimes you dwell in forests and trees, And sometimes you dwell in the middle of a charnel ground Where shrines of the goddess have been built.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-227">
+    <prop type="location-id">UT22084-091-068-212</prop>
+    <tuv xml:lang="bo">
+                <seg>གནས་དེ་རི་དང་ཚལ་དགོན་དུ། །རྟག་ཏུ་ལྷ་མོ་ཁྱོད་བསྟོད་ན། །དེ་ཡིས་དགོངས་པ་སྐོང་བར་བྱེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-212"/>“When, people continually praise you, Goddess, In those places, in remote mountains and forests, You are compelled to fulfill their intentions.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-228">
+    <prop type="location-id">UT22084-091-068-212</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གིས་རྟག་ཏུ་བསྟོད་བྱས་ན། །བདག་གི་བསམ་པ་འགྲུབ་པར་མཛོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When I continually praise you, Please fulfill my wishes as well.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-229">
+    <prop type="location-id">UT22084-091-068-213</prop>
+    <tuv xml:lang="bo">
+                <seg>རྨ་བྱའི་སྒྲོ་ལ་རྒྱལ་མཚན་བྱས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-213"/>“Your banner is made of peacock feathers.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-230">
+    <prop type="location-id">UT22084-091-068-213</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་ཞིག་རྟག་བསྟེན་སྲུང་བར་བྱེད། །གནག་ལུག་ཕྱུགས་རྣམས་འཕེལ་བར་བྱེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You protect those who continually serve you And cause livestock to flourish.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-231">
+    <prop type="location-id">UT22084-091-068-214</prop>
+    <tuv xml:lang="bo">
+                <seg>སེང་གེ་སྟག་དང་སྤྱང་ཀི་ཡིས། །རྟག་ཏུ་ཀུན་ནས་བསྐོར་ནས་ཀྱང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-214"/>“You are constantly surrounded on all sides By lions, tigers, and wolves.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-232">
+    <prop type="location-id">UT22084-091-068-214</prop>
+    <tuv xml:lang="bo">
+                <seg>རྡོ་རྗེ་དྲིལ་ཆེན་སྙན་པར་སྒྲོགས། །བྱིན་ཏེ་དྲིལ་ཆེན་སྙན་པར་སྒྲོགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You ring the great vajra bell And grant boons as the great bell rings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-233">
+    <prop type="location-id">UT22084-091-068-215</prop>
+    <tuv xml:lang="bo">
+                <seg>ལན་འགའ་ལག་ན་ཏྲི་ཤཱུ་ལ་ཐོགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-215"/>“Sometimes you hold a trident in your hand.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-234">
+    <prop type="location-id">UT22084-091-068-215</prop>
+    <tuv xml:lang="bo">
+                <seg>ལན་འགའ་ཉི་ཟླའི་རུ་མཚོན་ཕྱར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Sometimes you raise a sun and moon standard.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-235">
+    <prop type="location-id">UT22084-091-068-216</prop>
+    <tuv xml:lang="bo">
+                <seg>མར་གྱི་ཚེས་དགུ་བཅུ་གཅིག་ན། །དེ་ཡི་དུས་སུ་མཆོད་བྱས་ན། །ལྷ་མོ་ཁྱོད་ལས་ལྷག་པ་མེད། །བདུད་འདུལ་ལྷ་མིན་སྲིན་མོར་སྟོན། །དགྲ་དང་འཐབ་ཚེ་རྒྱལ་བར་བྱེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-216"/>“If someone worships you during the waning moon On either the ninth or eleventh day, You, goddess whom none surpass, The tamer of māras, teacher of asuras and rākṣasīs, Grant them victory over their enemies and in battle.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-236">
+    <prop type="location-id">UT22084-091-068-217</prop>
+    <tuv xml:lang="bo">
+                <seg>བུད་མེད་ནང་ན་མཆོག་ཡིན་ཏེ། །ཚིག་དབང་འཇིག་རྟེན་མགོན་པོ་འདྲ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-217"/>“You are supreme among women, Like the world-protecting Vāgīśvarī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-237">
+    <prop type="location-id">UT22084-091-068-217</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་པོའི་ཁབ་ན་པདྨ་འདྲ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You are like a lotus in a king’s palace.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-238">
+    <prop type="location-id">UT22084-091-068-217</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞལ་བཟང་ཟླ་བ་ཉ་བ་འདྲ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Your beautiful face is like a full moon.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-239">
+    <prop type="location-id">UT22084-091-068-217</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆུ་ལ་རྒལ་ན་གྲུ་ཟམ་འདྲ། །ཕོངས་པ་རྣམས་ཀྱི་གཉེན་བཤེས་འདྲ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You are like a ferry to cross water And like a beloved friend to the poor.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-240">
+    <prop type="location-id">UT22084-091-068-219</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་དང་ལྷ་མིན་གཡུལ་འགྱེད་ཚེ། །ལྷ་མོ་ཁྱོད་ཀྱི་ལྟེ་བ་ལ། །ལྷ་རྣམས་ཀུན་གྱི་རྫོང་བཅས་ནས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-219"/>“When the gods and asuras battled, You made a fortress for the gods Within your own navel, Goddess.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-241">
+    <prop type="location-id">UT22084-091-068-219</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་དམག་དཀར་པོ་རྒྱལ་བར་བྱས། །ལྷ་མ་ཡིན་རྣམས་ཕམ་པར་བྱེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You brought victory to the pure army of the gods And defeated the asuras.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-242">
+    <prop type="location-id">UT22084-091-068-219</prop>
+    <tuv xml:lang="bo">
+                <seg>ལག་ན་མདུང་དམར་ཆེམས་སེ་ཆེམས། །རུ་མཚོན་བ་དན་མེ་ལྟར་འབར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You rattle the bloody spear you wield And your banner and standard blaze like fire.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-243">
+    <prop type="location-id">UT22084-091-068-220</prop>
+    <tuv xml:lang="bo">
+                <seg>དགྲ་འདུལ་གཡུལ་བཟློག་ཁྱེད་ལ་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-220"/>“Praise to you who tames enemies and averts war!”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-244">
+    <prop type="location-id">UT22084-091-068-221</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་དྲང་སྲོང་ཆེན་པོ་ཀོའུ་དི་ནྱས་དཔལ་ལྷ་མོ་ལ་དཔེ་བྱད་ཀྱི་སྒོ་ནས་བསྟོད་པ། འཇིག་རྟེན་གཙོ་ལ་རྟག་ཏུ་གུས་ཕྱག་འཚལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-221"/>Next, the great ṛṣi Kauṇḍinya praised Śrīdevī in terms of her physical attributes:<tei:milestone xml:id="UT22084-091-068-222"/> “I offer constant, respectful homage to the sovereign leader of the world.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-245">
+    <prop type="location-id">UT22084-091-068-223</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་རྣམས་ནང་ན་ཁྱོད་ནི་རྟག་ཏུ་མཆོག་ཡིན་ཏེ། །འཇིག་རྟེན་གསུམ་པོ་ཐམས་ཅད་ཁྱོད་ལ་བསྟོད། །བྱད་བཞིན་སྡུག་མཛེས་ཀུན་གྱིས་བལྟ་བར་མོས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-223"/>“You have always been supreme among mothers, The entire triple world praises you, And everyone longs to see your beautiful face.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-246">
+    <prop type="location-id">UT22084-091-068-223</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡོན་ཏན་རྣམ་པ་སྣ་ཚོགས་ལུས་རབ་བརྒྱན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Your body is adorned with various wonderful features.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-247">
+    <prop type="location-id">UT22084-091-068-224</prop>
+    <tuv xml:lang="bo">
+                <seg>མིག་ཡངས་འདམ་སྐྱེས་སྔོན་པོའི་འདབ་མ་འདྲ། །བསོད་ནམས་ཡེ་<tei:ref folio="F.209.b"/>ཤེས་སྣང་བ་གྲགས་པས་བརྒྱན། །དཔེར་ན་རིན་ཐང་མེད་པའི་ནོར་བུ་འདྲ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-224"/>“Your eyes are broad like the petals of a blue lotus, You are adorned with the famous light of merit and wisdom, And you are just like a priceless jewel.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-248">
+    <prop type="location-id">UT22084-091-068-224</prop>
+    <tuv xml:lang="bo">
+                <seg>དེང་བདག་པདྨོ་ཁྱོད་ལ་བསྔགས་པས་ཀྱང་། །སེམས་ལ་བསམ་པ་ཐམས་ཅད་འགྲུབ་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Because I have praised you now, Lotus lady, My mind’s every wish will be fulfilled.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-249">
+    <prop type="location-id">UT22084-091-068-225</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡང་དག་ཡེ་ཤེས་གྱ་ནོམ་བཀྲ་ཤིས་པ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-225"/>“Your wisdom is perfect and your good fortune abundant.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-250">
+    <prop type="location-id">UT22084-091-068-225</prop>
+    <tuv xml:lang="bo">
+                <seg>པདྨ་ལྟ་བུར་ཤིན་ཏུ་རྣམ་པར་དག །ལུས་མདོག་རབ་མཛེས་ཀུན་གྱིས་ལྟ་བར་མོས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You are perfectly pure like a lotus And all long to see your body’s beautiful hue.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-251">
+    <prop type="location-id">UT22084-091-068-225</prop>
+    <tuv xml:lang="bo">
+                <seg>མཚན་མ་ཡོན་ཏན་རྣམ་པ་སྣ་ཚོགས་བརྒྱན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You are adorned with various marks and features.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-252">
+    <prop type="location-id">UT22084-091-068-226</prop>
+    <tuv xml:lang="bo">
+                <seg>དྲི་མེད་ཡེ་ཤེས་ཀུན་ཏུ་རབ་མཛེས་པ། །དྲན་པ་རྣམས་ཀྱི་ནང་ན་མཆོག་ཏུ་གྱུར། །ཅི་ལྟར་སེང་གེ་གཅན་གཟན་མཆོག་གྱུར་བཞིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-226"/>“You are beautified by your stainless wisdom, Are supreme among all objects of recollection, And, like a lion, are supreme among predators.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-253">
+    <prop type="location-id">UT22084-091-068-227</prop>
+    <tuv xml:lang="bo">
+                <seg>བསྔགས་བསྟོད་ཚིག་ནི་འདི་ལས་འབྱུང་བ་ཡིས། །བསམ་པའི་དངོས་པོ་ཐམས་ཅད་གྲུབ་པར་ཤོག །ཅེས་བསྟོད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-227"/>“As a result of these verses of praise, May all that is desired be attained.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-254">
+    <prop type="location-id">UT22084-091-068-228</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་དཔལ་ཕྱག་ན་རྡོ་རྗེས་འདུས་པ་རྣམས་ལ་བཀའ་སྩལ་པ། ཁྱེད་ཀྱིས་དཔལ་ལྷ་མོ་ལ་བསྟོད་པ་ལེགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-228"/>Then, glorious Vajrapāṇi addressed the gathering: “Your praises to Śrīdevī are wonderful.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-255">
+    <prop type="location-id">UT22084-091-068-228</prop>
+    <tuv xml:lang="bo">
+                <seg>ང་ཡང་བསྟོད་པ་འདི་དག་གི་དོན་སྒོམས་ཤིག །ཡིད་ལ་རྟག་ཏུ་ཟློས་ཅིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I too will reflect on the meaning of these praises and constantly recite them mentally.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-256">
+    <prop type="location-id">UT22084-091-068-228</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་མོ་འདི་ལ་བསྟོད་པ་ནི་ང་ལ་བསྟོད་པ་ཡིན་ནོ། །སངས་རྒྱས་ཐམས་ཅད་ལ་བསྟོད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>To praise this goddess is to praise me and to praise all the buddhas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-257">
+    <prop type="location-id">UT22084-091-068-228</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་མོ་དེས་ཀྱང་མི་འདི་སྲུང་བར་བྱེད་དོ། །སྐྱོབ་པར་བྱེད་དོ། །ཅི་འདོད་པའི་དངོས་གྲུབ་སྟེར་རོ་ཞེས་བཀའ་སྩལ་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The goddess protects and defends such a person and grants whatever accomplishments they desire.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-258">
+    <prop type="location-id">UT22084-091-068-229</prop>
+    <tuv xml:lang="bo">
+                <seg>འཁོར་དེ་རྣམས་རབ་ཏུ་དགའ་ནས་བཅོམ་ལྡན་འདས་ཕྱག་ན་རྡོ་རྗེ་ལ་རྒྱན་གྱི་ཆར་ཆེན་པོ་ཕབ་ནས་སོ་སོའི་གནས་སུ་འཁོད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-229"/>When he finished speaking, the assembly was delighted and a great torrent of ornaments rained down on blessed Vajrapāṇi. They then returned to their respective abodes.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-068-TU-259">
+    <prop type="location-id">UT22084-091-068-230</prop>
+    <tuv xml:lang="bo">
+                <seg>བསྟོད་པའི་རྒྱལ་པོའི་རྒྱུད་རྫོགས་སོ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-068-230"/>This concludes “The Sovereign Tantra of Praises.”</seg>
+            </tuv>
+</tu>
+
+
+</body>
+</tmx>

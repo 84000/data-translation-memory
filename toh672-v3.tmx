@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-091-069" eft:text-version="v-1.0.2-2023"/>
+<body>
+<tu id="UT22084-091-069-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.209.b"/>༄༅། །རྒྱ་གར་སྐད་དུ། ཤྲཱི་དེ་བཱི་ཀཱ་ལཱི་ནཱ་མ་ཨཥྚ་ཤ་ཏ་ཀ། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་ལྷ་མོ་ནག་མོའི་མཚན་བརྒྱ་རྩ་བརྒྱད་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-069-translation"/>Śrīdevī Kālī’s One Hundred and Eight Names</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-3">
+    <prop type="location-id">UT22084-091-069-67</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-069-67"/>Homage to all buddhas and bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-4">
+    <prop type="location-id">UT22084-091-069-67</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུ་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-5">
+    <prop type="location-id">UT22084-091-069-67</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་བྱ་རྒོད་ཀྱི་ཕུང་པོའི་རི་ལ་བཞུགས་ཏེ། རྒྱུ་དང་འབྲས་བུའི་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་བདེན་པའི་མཚན་རྣམས་སྟོན་པར་མཛད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One was dwelling on Vulture Peak Mountain, where he was delivering a teaching on correct names to all causal and resultant bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-6">
+    <prop type="location-id">UT22084-091-069-67</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཚེ་དཔལ་ལྷ་མོ་ནག་མོ་ཆེན་མོ་ཡང་བཅོམ་ལྡན་འདས་ཀྱི་ཐད་དུ་སོང་སྟེ་ལན་གསུམ་བསྐོར་བ་བྱས་ནས་བཅོམ་ལྡན་འདས་ཀྱི་སྤྱན་སྔར་ཕྱོགས་གཅིག་ཏུ་འདུག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>At that time, Śrīdevī Mahākālī approached the Blessed One, circled him three times, and sat to one side in the presence of the Blessed One.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-7">
+    <prop type="location-id">UT22084-091-069-67</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བྱང་ཆུབ་སེམས་<tei:ref folio="F.210.a"/>དཔའ་སེང་གེའི་བརྩོན་འགྲུས་ཀྱིས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་བྱང་ཆུབ་སེམས་དཔའ་སྲིན་མོའི་ཆ་ལུགས་ཀྱིས་འཇིག་རྟེན་པའི་དོན་མཛད་པའི་མཚན་གྱི་རྣམ་གྲངས་ཇི་ལྟ་བུ་ལགས་ཞེས་གསོལ་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The bodhisattva Virility of a Lion asked the Blessed One, “Blessed One, what are the different names of this bodhisattva who acts for the benefit of the world while adorned as a rākṣasī?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-8">
+    <prop type="location-id">UT22084-091-069-70</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བྱང་ཆུབ་སེམས་དཔའ་སེང་གེ་བརྩོན་འགྲུས་ལ་དགོངས་ནས་དཔལ་ལྷ་མོ་ནག་མོ་ལ་གཟིགས་ཏེ་འདི་སྐད་ཅེས་གསུངས་སོ། །ཐོས་བསམ་སྒོམ་ལ་ཆེར་གནས་པའི། །རྒྱུ་འབྲས་རྐྱེན་གྱི་བདག་ཉིད་ཅན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-069-70"/>The Blessed One considered the bodhisattva Virility of a Lion, looked at Śrīdevī Kālī, and said: <tei:milestone xml:id="UT22084-091-069-279"/>“You are identified as the cause, effect, and conditions That are paramount for listening, contemplating, and meditating.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-9">
+    <prop type="location-id">UT22084-091-069-70</prop>
+    <tuv xml:lang="bo">
+                <seg>འགྲོ་ལ་ཕན་མཛད་མཁས་པའི་མཆོག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Supreme among the wise, you benefit beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-10">
+    <prop type="location-id">UT22084-091-069-70</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་ལྡན་ལྷ་མོ་ནག་མོ་འཕགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You are the exalted Śrīdevī Kālī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-11">
+    <prop type="location-id">UT22084-091-069-280</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་སྤྲུལ་པ་སྟེ། །ས་ལྟར་བརྟན་པའི་གཞིར་གྱུར་པ། །ཡོན་ཏན་སྡུད་བྱེད་ཆུ་དང་འདྲ། །བྱང་ཆུབ་སྨིན་བྱེད་མེ་ལྟ་བུ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-069-280"/>“You are a bodhisattva emanation, A foundation as stable as the earth, You gather good qualities like water, And cause awakening to ripen, like fire.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-12">
+    <prop type="location-id">UT22084-091-069-281</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་བའི་འདུ་བྱེད་རླུང་ལྟར་གཡོ། །ཤེས་རབ་རྣམ་དག་ནམ་མཁའ་སྟེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-069-281"/>“You gather virtue like the blowing wind And your insight is pure, like space.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-13">
+    <prop type="location-id">UT22084-091-069-281</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྱོད་ནི་འབྱུང་བ་ཆེན་པོ་འདྲ། །འབྱུང་པོ་ཕལ་ཆེན་རྣམས་ཀྱིས་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thus are you like the great elements, Praised by great hosts of beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-14">
+    <prop type="location-id">UT22084-091-069-282</prop>
+    <tuv xml:lang="bo">
+                <seg>བསོད་ནམས་ཡེ་ཤེས་རབ་བསགས་པའི། །ལས་དང་རྣམ་སྨིན་དག་ལ་མཁས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-069-282"/>“You know the actions and ripenings For accumulating merit and wisdom.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-15">
+    <prop type="location-id">UT22084-091-069-282</prop>
+    <tuv xml:lang="bo">
+                <seg>ང་རྒྱལ་གཟུགས་ཀྱིས་འདུལ་བ་གོམས། །ཤེས་རབ་སྙིང་རྗེའི་ལམ་དུ་འགྲོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You know how to tame with your prideful form And travel the path of insight and compassion.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-16">
+    <prop type="location-id">UT22084-091-069-283</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྱོད་ནི་བུམ་པ་བཟང་ལྟ་བུ། །དཔེར་ན་ཡིད་བཞིན་ནོར་བུའི་ཆུ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-069-283"/>“You are like a beautiful vessel With water like a wish-fulfilling jewel.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-17">
+    <prop type="location-id">UT22084-091-069-283</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་ལ་ཕན་པའི་དཔག་བསམ་ཤིང་། །ཉི་མ་འདྲ་བར་ཁྱོད་ལ་གསལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You are a wish-fulfilling tree that benefits all And have a radiance like the sun.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-18">
+    <prop type="location-id">UT22084-091-069-284</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟླ་ལྟར་གསལ་བའི་ཐུགས་མངའ་ཞིང་། །མིང་ནི་རི་བོང་རྭ་དང་འདྲ། །རང་གི་རྒྱུད་ནི་འཁོར་ལོ་འདྲ། །ཨུ་དུམ་བཱར་ལྟར་ཁྱོད་དཀོན་ཡང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-069-284"/>“Your mind shines like the moon, Your name is like the horns of a rabbit, Your mental continuum is like a circle, And you are rare like an udumbara flower.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-19">
+    <prop type="location-id">UT22084-091-069-285</prop>
+    <tuv xml:lang="bo">
+                <seg>བདུད་རྩི་ལྟ་བུར་ཡོངས་ཚིམ་མཛད། །འགྲོ་བ་ཀུན་གྱི་བདག་མོ་ལགས། །རང་བཞིན་མེད་པའི་ཆོས་ཀྱང་སྟོན། །ཆུ་དང་ནམ་མཁའི་ཚུབ་མ་ལྟར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-069-285"/>“You completely satisfy like amṛta, Are the ruler of all beings, Teach that there is no inherent nature, And are like a storm of water and sky.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-20">
+    <prop type="location-id">UT22084-091-069-286</prop>
+    <tuv xml:lang="bo">
+                <seg>གདུལ་བྱའི་སྲིད་གསུམ་ཅིས་ཀྱང་འདུལ། །དུས་གསུམ་རྒྱལ་བའི་བསྟན་པ་སྐྱོང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-069-286"/>“You use any means to tame disciples in the three existences And protect the teachings of the victors of the three times.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-21">
+    <prop type="location-id">UT22084-091-069-286</prop>
+    <tuv xml:lang="bo">
+                <seg>དམ་པ་རྣམས་དང་ཡང་དག་གཅིག །དམ་པ་རྣམས་ཀྱི་ལམ་དུ་འགྲོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You are truly one with holy beings And travel the path of the holy ones.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-22">
+    <prop type="location-id">UT22084-091-069-287</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་མོ་མ་མོ་གནོད་སྦྱིན་མོ། །སྲིན་མོ་ཀླུ་མོ་ཤ་ཟ་མོ། །གདུག་མོ་འབྱུང་མོ་གྲུལ་བུམ་མོ། །དྲག་མོ་རྔམ་ཚུལ་གློག་འགྱུ་མ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-069-287"/>“You are a goddess, mātṛkā, yakṣiṇī, Rākṣasī, nāgī, piśācī, Vyāḍā, bhūtā, kumbhāṇḍā, Rudrā, and ravenous vidyutā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-23">
+    <prop type="location-id">UT22084-091-069-288</prop>
+    <tuv xml:lang="bo">
+                <seg>རླུང་མོ་ནག་མོ་འཇིགས་བྱེད་མ། །མཁའ་འགྲོ་གཏུམ་མོ་ཞིང་སྒྲོལ་མ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-069-288"/>“You are a wind goddess, Kālī, Bhairavī, A ḍākinī, Caṇḍālī, and Tārā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-24">
+    <prop type="location-id">UT22084-091-069-288</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞི་རྒྱས་དབང་དང་དྲག་པོས་འདུལ། །<tei:ref folio="F.210.b"/>དཀར་སེར་ལྗང་ནག་དམར་ཡང་སྟོན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You tame through rites of pacifying, enriching, enthralling, and assault, And display the colors white, yellow, green, black, and red.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-25">
+    <prop type="location-id">UT22084-091-069-289</prop>
+    <tuv xml:lang="bo">
+                <seg>རྣམ་པ་བརྒྱད་ཀྱི་དབྱིབས་ཀྱང་འབྱུང་། །འགྲོ་བ་དྲུག་པོའི་ཚུལ་ཡང་སྟོན། །ཕུང་པོ་ལྔ་ཡང་བརྗོད་པར་ནུས། །དབང་པོ་ཚིམ་བྱེད་ཡུལ་ལྔའང་སྟོན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-069-289"/>“You appear in eight different forms, Teach in a way suitable for beings in the six realms, Are able to explain the five aggregates, Satisfy the senses, and teach the five sense objects.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-26">
+    <prop type="location-id">UT22084-091-069-290</prop>
+    <tuv xml:lang="bo">
+                <seg>རྟེན་ཅིང་འབྲེལ་བའི་སྤྱོད་པ་མཁས། །ཡུལ་ཅན་རྣམས་ནི་གསོད་ལ་མཁས། །དེ་བཞིན་ངག་རྣམས་གསོད་པ་དང་། །ལུས་ཅན་རྣམས་ནི་གསོད་ལ་བརྩོན། །སེམས་ནི་གསོད་པ་མེད་ལ་མཁས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-069-290"/>“You understand the workings of dependent origination, Are skilled in severing the sense organs, Are similarly skilled in killing all enemies, And strive to kill all embodied beings While knowing well that the mind is not killed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-27">
+    <prop type="location-id">UT22084-091-069-292</prop>
+    <tuv xml:lang="bo">
+                <seg>འཁོར་བ་ལས་ནི་རིང་དུ་སོང་། །དེ་བཞིན་གཤེགས་པས་ལུང་བསྟན་ཏེ། །བྱང་ཆུབ་སེམས་དཔའི་མཚན་རྣམས་དང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-069-292"/>“You are far removed from saṃsāra, With the attributes of a bodhisattva, And have been prophesied by the thus-gone ones.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-28">
+    <prop type="location-id">UT22084-091-069-292</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་སྐྱོང་མཛད་དཔལ་ལྡན་མ། །དམ་ཆོས་འཛིན་པ་རྣམས་ལ་བྱམས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Glorious Lady who protects the world, You are a friend to those who preserve the holy Dharma.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-29">
+    <prop type="location-id">UT22084-091-069-293</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་ཨཱཿཧཱུྃ་ཤྲཱི་དེ་བི་ཀཱ་ལི་ས་མ་ཡ་ཛཿཌཱ་གི་ནཱེ་ཌཱ་ཡ་ས་མ་ཡ་སྭཱ་ཧཱ། མིང་བརྒྱ་རྩ་བརྒྱད་གང་འཛིན་པ། །ཡོན་ཏན་བརྒྱ་རྩ་བརྒྱད་ཀྱང་འཐོབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-069-293"/>oṁ āḥ hūṁ śrīdevi kāli samayaja­ḍākinīḍāya samaya svāhā<tei:milestone xml:id="UT22084-091-069-295"/> “Those who grasp these one hundred and eight names Will also attain one hundred and eight qualities.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-30">
+    <prop type="location-id">UT22084-091-069-293</prop>
+    <tuv xml:lang="bo">
+                <seg>དམྱལ་བའི་སྡུག་བསྔལ་མྱོང་མི་འགྱུར། །ཡི་དགས་གནས་སུ་མི་སྐྱེ་ཞིང་། །བྱོལ་སོང་སྐྱེ་བས་ཐོགས་མི་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will not experience the suffering of hell, Will not take birth in the preta realm, And will never be burdened with an animal birth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-31">
+    <prop type="location-id">UT22084-091-069-296</prop>
+    <tuv xml:lang="bo">
+                <seg>ལུས་འཕགས་གནས་སུ་སྐྱེས་པ་ན། །ཐོག་ལ་སོགས་པ་མི་འབབ་ཅིང་། །སྒྲ་མི་སྙན་དུ་རླུང་གིས་མིན། །དེ་བཞིན་བ་ལང་སྤྱོད་དུ་ཡང་། །ཆུ་དང་རླབས་ཀྱིས་ཁྱེར་མི་ནུས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-069-296"/>“If they are born in the land of Videha, They will not be struck by lightning and the like, They will not be affected by wind in Uttarakuru, And the rivers and floods in Godānīya Will not be able to sweep them away.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-32">
+    <prop type="location-id">UT22084-091-069-297</prop>
+    <tuv xml:lang="bo">
+                <seg>འཛམ་བུའི་གླིང་དུ་གང་སྐྱེས་པ། །སྣ་ཚོགས་གནོད་པས་ཉེན་མི་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-069-297"/>“Those who are born in Jambudvīpa, Will not be threatened by its many dangers.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-33">
+    <prop type="location-id">UT22084-091-069-297</prop>
+    <tuv xml:lang="bo">
+                <seg>འདོད་པའི་ལྷ་རྣམས་གནས་སུ་ཡང་། །སྐྱེས་ནས་ཆོས་ལ་དགའ་བར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When born among the gods of the desire realm, They will delight in the Dharma.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-34">
+    <prop type="location-id">UT22084-091-069-298</prop>
+    <tuv xml:lang="bo">
+                <seg>བསམ་གཏན་བཞི་ཡི་སྐྱེ་གནས་སུ། །ཚད་མེད་བཞི་ནི་འཕེལ་བར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-069-298"/>“For those who are born in the four dhyāna states, The four immeasurables will increase.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-35">
+    <prop type="location-id">UT22084-091-069-298</prop>
+    <tuv xml:lang="bo">
+                <seg>གཟུགས་མེད་གནས་ནི་བཞི་པོར་ཡང་། །དོན་མེད་ན་ནི་མི་སྐྱེ་སྟེ། །འདུ་ཤེས་མེད་པར་ནམས་ཀྱང་མིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the four formless realms There are no referents and there is no birth, But still they will not lack perception.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-36">
+    <prop type="location-id">UT22084-091-069-299</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་བཞུགས་པའི་གནས་རྣམས་སུ། །ཁམས་གསུམ་ཚུལ་གྱིས་བདག་དོན་སྤྱོད། །རྟག་ཏུ་ཡུལ་ལ་ཆགས་མི་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-069-299"/>“In the abodes of the noble ones, They will serve their own purpose in the manner of the three realms, All without attachment to objects as permanent.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-37">
+    <prop type="location-id">UT22084-091-069-299</prop>
+    <tuv xml:lang="bo">
+                <seg>སེམས་ལ་འཛིན་པར་མི་བྱེད་དེ། །ཉོན་མོངས་རྩ་བ་དྲུག་པོ་དང་། །དེ་བཞིན་ཉེ་བ་ཉི་ཤུ་དང་། །མཚམས་མེད་ལྔ་ཡང་བྱང་བར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will not grasp at thought And will purify the six root afflictions, The twenty derivative afflictions, And even the five inexpiable acts.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-38">
+    <prop type="location-id">UT22084-091-069-300</prop>
+    <tuv xml:lang="bo">
+                <seg>བསྐལ་པ་གྲངས་མེད་མང་པོར་ཡང་། །མི་ཁོམ་བརྒྱད་དུ་སྐྱེ་མི་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-069-300"/>“They will not be born in the eight unfavorable conditions For many incalculable eons.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-39">
+    <prop type="location-id">UT22084-091-069-300</prop>
+    <tuv xml:lang="bo">
+                <seg>མུ་སྟེགས་རྩོད་པ་བཟློག་པ་དང་། །མཐུ་སྟོབས་ཕུན་སུམ་ཚོགས་ལྡན་ཞིང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will refute the critiques of non-Buddhists And possess exceptional power.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-40">
+    <prop type="location-id">UT22084-091-069-301</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚེ་རིང་ནད་མེད་དཔལ་དང་ལྡན། །སྡུག་མེད་བསྐལ་པ་མང་<tei:ref folio="F.211.a"/>པོར་ཡང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-069-301"/>“They will have a long life, good health, and good fortune, And not experience hardship for many eons.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-41">
+    <prop type="location-id">UT22084-091-069-301</prop>
+    <tuv xml:lang="bo">
+                <seg>ནམས་ཀྱང་འཁོར་བར་མི་ལྟུང་ཞིང་། །མྱ་ངན་འདས་པ་ཐོབ་བྱའི་ཕྱིར། །ཉན་ཐོས་ས་རྣམས་ནོན་པ་དང་། །རྟེན་འབྲེལ་བཅུ་གཉིས་ཤེས་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will never fall in saṃsāra, But in order to attain nirvāṇa Will traverse the grounds of the śrāvakas And understand the twelve links of dependent origination.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-42">
+    <prop type="location-id">UT22084-091-069-302</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའི་ས་རྣམས་ནི། །རབ་དགའ་དྲི་མེད་འོད་བྱེད་འཕྲོ། །སྦྱང་དཀའ་མངོན་འགྱུར་རིང་དུ་སོང་། །མི་གཡོ་ལེགས་པ་ཆོས་ཀྱི་སྤྲིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-069-302"/>“They will traverse the bodhisattva grounds: Joyful, Stainless, Illuminating, Radiant, Difficult to Conquer, Manifest, Far Reaching, Unwavering, Eminence, and Cloud of Dharma.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-43">
+    <prop type="location-id">UT22084-091-069-303</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ས་ཆེན་བླ་ན་མེད། །བཅུ་གཉིས་པོ་ཡང་ཐོབ་འགྱུར་ཏེ། །ཀུན་དུ་འོད་དང་བདུད་རྩི་འོད། །ནམ་མཁའི་འོད་དང་རྡོ་རྗེའི་འོད། །རིན་ཆེན་འོད་དང་པདྨའི་འོད། །ལས་ཀྱི་འོད་དང་དཔེ་མེད་ས། །དཔལ་ལྡན་ས་དང་ཤེས་རབ་འོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-069-303"/>“They will complete the twelve unsurpassed great grounds of a buddha: Universal Light, Light of Immortality, Light of Space, Vajra Light, Jeweled Light, Lotus Light, Light of Karma, the Incomparable Ground, The Glorious Ground, Light of Insight, Omniscience, and Self-Reflexive Awareness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-44">
+    <prop type="location-id">UT22084-091-069-303</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐམས་ཅད་མཁྱེན་དང་རང་རིག་སྟེ། །བཅུ་གཉིས་སངས་རྒྱས་ས་རྣམས་ཀྱང་། །འདི་ཚེ་བྱུང་ན་མྱུར་དུ་ཐོབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The twelve buddha grounds Will be quickly completed as they occur.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-45">
+    <prop type="location-id">UT22084-091-069-304</prop>
+    <tuv xml:lang="bo">
+                <seg>ས་རྣམས་མ་ཐོབ་པར་དུ་ཡང་། །འགྲོ་བ་རྣམས་ལ་ཕན་པ་དང་། །ཤེས་རབ་སྙིང་རྗེ་ལྡན་གྱུར་ཅིང་། །ཆོས་ལ་དགའ་བ་རྣམས་ཀྱིས་བསྲུང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-069-304"/>“Even when these levels are not yet attained, They will benefit beings, Come to possess insight and compassion, And be protected by those who delight in the Dharma.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-46">
+    <prop type="location-id">UT22084-091-069-304</prop>
+    <tuv xml:lang="bo">
+                <seg>དངོས་གྲུབ་ཐོབ་སྟེ་དེ་བཞིན་གཤེགས། །རིན་ཆེན་ལས་བྱུང་ཐོབ་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will attain siddhi And become thus-gone ones born from jewels.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-47">
+    <prop type="location-id">UT22084-091-069-305</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་ལྡན་བྱང་ཆུབ་སེམས་དཔའ་དང་། །དཔལ་ལྡན་ལྷ་མོ་ནག་མོ་ཡི། །མིང་བརྒྱ་རྩ་བརྒྱད་གང་འཛིན་པ། །ཡོན་ཏན་བརྒྱ་རྩ་བརྒྱད་ཐོབ་སྟེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-069-305"/>“Those who bear in mind The one hundred and eight names Of the glorious bodhisattva, Śrīdevī Kālī, Will attain one hundred and eight qualities.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-48">
+    <prop type="location-id">UT22084-091-069-305</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐུ་གསུང་ཐུགས་ནི་གྲུབ་ནས་ཀྱང་། །ཁམས་གསུམ་ཆོས་ཀྱི་རྒྱལ་པོར་འགྱུར། །ཞེས་གསུངས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will perfect their body, speech, and mind, And become dharma kings of the three realms.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-49">
+    <prop type="location-id">UT22084-091-069-189</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའི་འཁོར་དེ་དག་དང་། དཔལ་ལྷ་མོ་ནག་མོ་ཆེན་མོ་རྣམས་ངོ་མཚར་དུ་གྱུར་ཏེ། །བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་རྗེས་སུ་ཡི་རང་ཞིང་མངོན་པར་བསྟོད་དོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-069-189"/>When this was said, Śrīdevī Mahākālī and those in the assembly of bodhisattvas were amazed, and rejoiced and praised the words of the Blessed One.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-069-TU-50">
+    <prop type="location-id">UT22084-091-069-190</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་ལྷ་མོ་ནག་མོ་ཆེན་མོའི་མཚན་བརྒྱ་རྩ་བརྒྱད་པ་ཡོན་ཏན་དང་བཅས་པ་རྫོགས་སོ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-069-190"/>This concludes “Śrīdevī Kālī’s One Hundred and Eight Names and Her Qualities.”</seg>
+            </tuv>
+</tu>
+
+
+</body>
+</tmx>

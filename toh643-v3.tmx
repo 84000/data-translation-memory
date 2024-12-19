@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-091-040" eft:text-version="v-1.0.1-2023"/>
+<body>
+<tu id="UT22084-091-040-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.127.b"/>༄༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་མཻ་ཏྲི་པྲ་ཏི་ཛྙཱ་ནཱ་མ་དྷཱ་ར་ཎཱི། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-091-040-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་བྱམས་པས་དམ་བཅས་པ་ཞེས་བྱ་བའི་གཟུངས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-040-translation"/>The Noble Dhāraṇī Maitreya’s Pledge</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-040-TU-3">
+    <prop type="location-id">UT22084-091-040-67</prop>
+    <tuv xml:lang="bo">
+                <seg>དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-040-67"/>Homage to the Three Jewels.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-040-TU-4">
+    <prop type="location-id">UT22084-091-040-67</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་བ་བྱམས་པ་ལ་ཕྱག་འཚལ་ལོ། །ན་མོ་རཏྣ་ཏྲ་ཡཱ་ཡ། ན་མོ་བྷ་ག་བ་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to Maitreya the Victorious One.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-040-TU-5">
+    <prop type="location-id">UT22084-091-040-69</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤཱཀྱ་མུ་ན་ཡེ། ཏ་ཐཱ་ག་ཏཱ་ཡ། ཨརྷ་ཏེ་སཾ་མྱཀྶཾ་བུདྡྷཱ་ཡ། ཏདྱ་ཐཱ། ཨོཾ་ཨ་ཛི་ཏེ། ཨ་ཛི་ཏེ། ཨ་པ་རཱ་ཛི་ཏེ། ཨ་ཛི་ཏན་ཛ་ཡ། ཧ་ར་ཧ་ར། མཻ་ཏྲི་ཨ་བ་ལོ་ཀི་ཏེ། ཀ་ར་ཀ་ར། མ་ཧཱ་ས་མ་ཡ་སིདྡྷེ། བྷ་ར་བྷ་ར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-040-69"/>namo ratna trayāya | namo bhagavate | śākyamunaye | tathāgatāya | arhate samyaksaṃ­buddhāya | tadyathā | oṃ ajite ajite | aparājite | ajitaṃ jaya | hara hara | maitri avalokite | kara kara | mahā­samaya­siddhe | bhara bhara | mahābodhi­maṇḍabīje | smara smara | asmakaṃ samaya bodhi bodhi | mahābodhi svāhā | | This was the root mantra.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-040-TU-6">
+    <prop type="location-id">UT22084-091-040-73</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་ཧཱ་བོ་དྷི་མཎྜ་བཱི་ཛེ། སྨར་སྨར། ཨསྨ་ཀཾ་ས་མ་ཡ་བོ་དྷི་བོ་དྷི། མ་ཧཱ་བོ་དྷི་སྭཱ་ཧཱ། རྩ་བའི་གསང་སྔགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-040-73"/>oṃ mohi mohi | mahāmohi svāhā | | This was the heart mantra.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-040-TU-7">
+    <prop type="location-id">UT22084-091-040-76</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་མོ་ཧི་མོ་ཧི། མ་ཧཱ་མོ་ཧི་སྭཱ་ཧཱ། སྙིང་པོའོ། །ཨོཾ་མུ་ནི་མུ་ནི་སྨ་ར་སྭཱ་ཧཱ། ཉེ་བའི་སྙིང་པོའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-040-76"/>oṃ muni muni smara svāhā | | This was the auxiliary heart mantra.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-040-TU-8">
+    <prop type="location-id">UT22084-091-040-78</prop>
+    <tuv xml:lang="bo">
+                <seg>གཟུངས་འདི་ཉན་པ་ཙམ་དང་། ཀློག་པ་དང་། ཁ་ཏོན་བྱེད་པ་དང་། ཚུལ་བཞིན་ཡིད་ལ་སེམས་པ་དང་། བསྒོམ་པ་ཙམ་གྱིས་གང་གི་ཚེ་བདག་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པར་གྱུར་པ་ན། བདག་གིས་སེམས་ཅན་དེ་ངེས་པར་བཙལ་བར་བགྱི་སྟེ། བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་ལུང་བསྟན་པར་བགྱིའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-040-78"/>“Once I have fully awakened to unsurpassed and perfectly complete enlightenment, I will be certain to search out any being who simply hears, recites, chants, correctly contemplates, or meditates on this dhāraṇī and offer them a prophecy for unsurpassed and perfectly complete enlightenment.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-040-TU-9">
+    <prop type="location-id">UT22084-091-040-78</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐ་ན་དུད་འགྲོའི་སྐྱེ་གནས་སུ་གྱུར་པའི་རི་དགས་དང་། བྱ་རྣམས་ཀྱི་རྣ་ཁུང་དུ་སྒྲོགས་པར་བྱེད་ན། དེ་དག་ཀྱང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་ལུང་བསྟན་པ་འཐོབ་བོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Even if this dhāraṇī is recited into the ear of a deer or bird from the animal realm, they will also receive a prophecy for unsurpassed and perfectly complete enlightenment.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-040-TU-10">
+    <prop type="location-id">UT22084-091-040-78</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ཐོས་པ་ཙམ་གྱིས་ནམ་དུ་ཡང་ངན་སོང་དུ་འགྲོ་བར་མི་འགྱུར་རོ། །ངན་སོང་གི་དྲི་མས་ཀྱང་མི་གོས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Whoever merely hears this will never go to the lower realms, nor will they be stained by the dirt of the lower realms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-040-TU-11">
+    <prop type="location-id">UT22084-091-040-78</prop>
+    <tuv xml:lang="bo">
+                <seg>མའི་མངལ་དུ་ཡང་མི་སྐྱེའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will not be reborn in a mother’s womb.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-040-TU-12">
+    <prop type="location-id">UT22084-091-040-78</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷའི་བསྐལ་པ་སྟོང་དུ་འཁོར་ལོས་སྒྱུར་<tei:ref folio="F.128.a"/>བའི་རྒྱལ་པོར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will become a universal monarch for a thousand divine eons.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-040-TU-13">
+    <prop type="location-id">UT22084-091-040-78</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་བ་བཅུའི་ལས་ཀྱི་ལམ་དང་ལྡན་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will inhabit the path of the ten virtuous actions.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-040-TU-14">
+    <prop type="location-id">UT22084-091-040-78</prop>
+    <tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་བསམས་ཤིང་དོན་དུ་གཉེར་བའི་ལོངས་སྤྱོད་འགྲུབ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Whichever material enjoyments they wish for and seek will appear for them.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-040-TU-15">
+    <prop type="location-id">UT22084-091-040-78</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་བདག་གིས་ཀྱང་སེམས་ཅན་དེ་བསྐྱུད་པར་མི་བགྱི་ལགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I, a blessed one, will never forget that being.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-040-TU-16">
+    <prop type="location-id">UT22084-091-040-78</prop>
+    <tuv xml:lang="bo">
+                <seg>ངེས་པར་བདག་བྱང་ཆུབ་ཀྱི་སྙིང་པོ་ལ་མཆིས་ནས། དེ་ཇི་ལྟར་གྱུར་ཀྱང་རུང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་ལུང་བསྟན་པར་བགྱིའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Having reached the seat of awakening, I will absolutely provide them, no matter who they are, a prophecy for unsurpassed and perfectly complete enlightenment.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-040-TU-17">
+    <prop type="location-id">UT22084-091-040-79</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་བྱམས་པས་དམ་བཅས་པ་ཞེས་བྱ་བའི་གཟུངས་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-040-79"/>This completes The Noble Dhāraṇī “Maitreya’s Pledge.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-040-TU-18">
+    <prop type="location-id">UT22084-091-040-80</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་བཛྲ་པཱ་ཎི་དང་། བོད་ཀྱི་ལོ་ཙྪ་བ་དགེ་སློང་ཆོས་ཀྱི་ཤེས་རབ་ཀྱིས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-040-80"/>Translated, edited, and finalized by the Indian preceptor Vajrapāṇi and the Tibetan translator-monk Chökyi Sherap.</seg>
+            </tuv>
+</tu>
+
+
+</body>
+</tmx>

@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-072-034" eft:text-version="v-1.0.1-2023"/>
+<body>
+<tu id="UT22084-072-034-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.268.a"/>༄༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་ནནྡི་ཀཾ་སཱུ་ཏྲ། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་དགའ་བ་ཅན་གྱི་མདོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-034-translation"/>The Noble Sūtra of Nandika</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-3">
+    <prop type="location-id">UT22084-072-034-46</prop>
+    <tuv xml:lang="bo">
+                <seg>དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-034-46"/>Homage to the Three Jewels.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-4">
+    <prop type="location-id">UT22084-072-034-46</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-5">
+    <prop type="location-id">UT22084-072-034-46</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་རྒྱལ་པོའི་ཁབ་བྱ་རྒོད་ཕུང་པོའི་རི་ལ་དགེ་སློང་སྟོང་ཉིས་བརྒྱ་ལྔ་བཅུའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོས་ཡོངས་སུ་བསྐོར་ཅིང་མདུན་གྱིས་བལྟས་ཏེ། ཐབས་ཅིག་ཏུ་བཞུགས་ནས་ཆོས་སྟོན་ཏེ། ཐོག་མར་དགེ་བ། བར་དུ་དགེ་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Bhagavān was dwelling at the Vulture Peak Mountain in Rājagṛha, together with a large saṅgha of one thousand two hundred and fifty monks who surrounded and honored him as he taught the Dharma.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-6">
+    <prop type="location-id">UT22084-072-034-46</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐ་མར་དགེ་བ། དོན་བཟང་པོ། །ཚིག་འབྲུ་བཟང་པོ། །མ་འདྲེས་པ། ཡོངས་སུ་རྫོགས་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He expounded that which is good in the beginning, good in the middle, good in the end, excellent in meaning, excellent in words, unique, perfect, completely pure, thoroughly refined, and concerns pure conduct.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-7">
+    <prop type="location-id">UT22084-072-034-52</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡོངས་སུ་དག་པ། ཡོངས་སུ་བྱང་བ། ཚངས་པར་སྤྱོད་པ་ཡང་དག་པར་རབ་ཏུ་སྟོན་ཏོ། །དེ་ནས་ཡང་དེའི་ཚེ་དགེ་བསྙེན་དགའ་བ་ཅན་འཁོར་དགེ་བསྙེན་ལྔ་བརྒྱ་དང་རྒྱལ་པོའི་ཁབ་ཀྱི་གྲོང་ཁྱེར་ཆེན་པོ་ནས་བྱུང་སྟེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-034-52"/>At that time, the layman Nandika and a retinue of five hundred lay practitioners departed from the great city of Rājagṛha, and went to where the Bhagavān was.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-8">
+    <prop type="location-id">UT22084-072-034-52</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་<tei:ref folio="F.268.b"/>འདས་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས་བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ནས། བཅོམ་ལྡན་འདས་ལ་ལན་གསུམ་བསྐོར་བ་བྱས་ཏེ་ཕྱོགས་གཅིག་ཏུ་འདུག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He bowed his head to the Bhagavān’s feet, circumambulated the Bhagavān three times, and sat down to one side.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-9">
+    <prop type="location-id">UT22084-072-034-52</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་དགེ་བསྙེན་ལྔ་བརྒྱ་པོ་དེ་དག་གིས་ཀྱང་བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་ཕྱག་འཚལ་ནས་ཕྱོགས་གཅིག་ཏུ་འཁོད་དོ། །ཕྱོགས་གཅིག་ཏུ་འཁོད་ནས་དགེ་བསྙེན་དགའ་བ་ཅན་གྱིས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then, those five hundred lay practitioners also bowed their heads to the Bhagavān’s feet and sat down to one side.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-10">
+    <prop type="location-id">UT22084-072-034-52</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་མཁྱེན་ཅིང་གཟིགས་པས་དགེ་བསྙེན་གྱི་བསླབ་པའི་གཞི་ལྔ་པོ་གང་དག་བཅས་པ་དེ་དག་ལས་འདའ་བར་བགྱིད་པ་དེའི་རྣམ་པར་སྨིན་པ་ཇི་ལྟ་བུར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then the layman Nandika asked the Bhagavān, “What sort of ripening will arise for those who violate the five basic precepts of a lay practitioner as prescribed by the bhagavān, the tathāgata, the arhat, the perfectly awakened Buddha who knows and sees?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-11">
+    <prop type="location-id">UT22084-072-034-58</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་སྐད་ཅེས་གསོལ་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་དགེ་བསྙེན་དགའ་བ་ཅན་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །དགའ་བ་ཅན་ཁྱོད་དེ་བཞིན་གཤེགས་པ་ལ་དོན་འདི་ཡོངས་སུ་ཞུ་བར་སེམས་པ་གང་ཡིན་པ་ལེགས་སོ་ལེགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-034-58"/>The Bhagavān answered the layman Nandika, “Nandika, it is excellent that you have thought to ask the Tathāgata about this matter.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-12">
+    <prop type="location-id">UT22084-072-034-58</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྱོད་ཀྱི་བློ་རྒྱ་ཆེ་སྟེ་དཔྱོད་པ་བཟང་ངོ་། །སྤོབས་པ་དགེའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Your intellect is vast, your consideration is fine, and your eloquence is excellent.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-13">
+    <prop type="location-id">UT22084-072-034-58</prop>
+    <tuv xml:lang="bo">
+                <seg>དགའ་བ་ཅན་དེའི་ཕྱིར་ཉེས་དམིགས་བཅུ་ཞེས་བྱ་བའི་ཆོས་ཀྱི་རྣམ་གྲངས་བཤད་པར་བྱ་ཡིས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, Nandika, I shall teach the Dharma discourse called The Ten Negative Consequences.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-14">
+    <prop type="location-id">UT22084-072-034-58</prop>
+    <tuv xml:lang="bo">
+                <seg>ལེགས་པར་རབ་ཏུ་ཉོན་ལ་ཡིད་ལ་ཟུང་ཤིག་དང་ངས་ཁྱོད་ལ་བཤད་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Listen well and duly and take it to heart! I shall explain it to you.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-15">
+    <prop type="location-id">UT22084-072-034-61</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལེགས་སོ་ལེགས་སོ་ཞེས་གསོལ་ནས་དགེ་བསྙེན་དགའ་བ་ཅན་བཅོམ་ལྡན་འདས་ལ་ཉན་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-034-61"/>“Excellent, Bhagavān,” said the layman Nandika, and he listened to the Bhagavān.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-16">
+    <prop type="location-id">UT22084-072-034-62</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །དགའ་བ་ཅན་སྲོག་གཅོད་པའི་ཉེས་དམིགས་བཅུ་ནི་འདི་དག་ཡིན་པར་རིག་པར་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-034-62"/>The Bhagavān said, “Nandika, these ten negative consequences of killing should be known.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-17">
+    <prop type="location-id">UT22084-072-034-62</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅུ་པོ་དག་གང་ཞེ་ན། འདི་ལྟ་སྟེ། ཚེ་འདི་ལ་འཁོན་སྐྱེད་པ་དང་། སྐྱེ་བ་གཞན་རྣམས་སུ་ཡང་འཁོན་དང་རྗེས་སུ་འབྲེལ་པར་འགྱུར་བ་དང་། སྐྱེ་བོ་མང་པོ་དག་གིས་ཡིད་མི་བརྟན་པར་འགྱུར་བ་དང་། སྡིག་པའི་རྨི་ལམ་མཐོང་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What are the ten?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-18">
+    <prop type="location-id">UT22084-072-034-62</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་ཀྱང་འཇིགས་པ་སྐྱེ་ཞིང་སེམས་ཅན་རྣམས་ཀྱང་དེ་ལ་འཇིགས་པ་སྐྱེ་བ་དང་། བདེ་བར་ཉལ་ཡང་སྡུག་བསྔལ་བར་སད་པ་དང་། སྡིག་པ་རྣམ་པར་སེམས་པ་དང་། རྨོངས་པ་དང་བཅས་པར་འཆི་བའི་དུས་བྱེད་པ་<tei:ref folio="F.269.a"/>དང་། ཚེ་ཐུང་བར་འགྱུར་བའི་ལས་བྱས་ཤིང་བསགས་པས་ལུས་ཞིག་སྟེ་ཤི་ནས་ཀྱང་ངན་སོང་ངན་འགྲོ་ལོག་པར་ལྟུང་བ་སེམས་ཅན་དམྱལ་བ་དག་ཏུ་སྐྱེ་ཞིང་། གལ་ཏེ་དེ་ནས་ཤི་འཕོས་ཏེ་འདིར་མི་རྣམས་དང་སྐལ་བ་མཉམ་པར་སྐྱེས་ན་ཡང་དེ་གང་དང་གང་དུ་སྐྱེས་པ་དེ་དང་དེར་ཚེ་ཐུང་བར་འགྱུར་ཞིང་ནད་མང་བར་ཡང་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are as follows: (1) in this life one will beget hostility and also in other lives one will continue to experience hostility; (2) one will not be trusted by many beings; (3) one will have nightmares; (4) one will experience fear and others will be fearful of you; (5) even after going to sleep comfortably, one will wake up in distress; (6) one will think of evil things; (7) one will be confused at the time of death; (8) since one will commit and accumulate deeds leading to a short life, (9) after the dissolution of the body and death, one will fall into the lower realms, the bad destinations, and be reborn in the hells; (10) even if, after dying and transmigrating from there, one is born in this world as a human, no matter where one is born, one will have a short life and also many illnesses.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-19">
+    <prop type="location-id">UT22084-072-034-62</prop>
+    <tuv xml:lang="bo">
+                <seg>དགའ་བ་ཅན་སྲོག་གཅོད་པའི་ཉེས་དམིགས་བཅུ་པོ་དེ་དག་ཡིན་པར་རིག་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Nandika, these ten negative consequences of killing should be known.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-20">
+    <prop type="location-id">UT22084-072-034-68</prop>
+    <tuv xml:lang="bo">
+                <seg>དགའ་བ་ཅན་མ་བྱིན་པར་ལེན་པའི་ཉེས་དམིགས་བཅུ་ནི་འདི་དག་ཡིན་པར་རིག་པར་བྱ་སྟེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-034-68"/>“Nandika, these ten negative consequences of taking what is not given should be known.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-21">
+    <prop type="location-id">UT22084-072-034-68</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅུ་པོ་དག་གང་ཞེ་ན། འཁོན་ཆེན་པོར་འགྱུར་བ་དང་། བག་ཚ་བ་ཆེན་པོར་འགྱུར་བ་དང་། དུས་མ་ཡིན་པར་འགྲོ་བར་འགྱུར་བ་དང་། ཕྱེ་མ་རེད་ཀྱི་དུས་སུ་འགྲོ་བར་འགྱུར་བ་དང་། སྡིག་པའི་གྲོགས་པོས་ཡོངས་སུ་ཟིན་པར་འགྱུར་བ་དང་། དགེ་བའི་བཤེས་གཉེན་ཀྱིས་ཡོངས་སུ་སྤངས་པར་འགྱུར་བ་དང་། ཚུལ་ཁྲིམས་འཆལ་བར་འགྱུར་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What are the ten?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-22">
+    <prop type="location-id">UT22084-072-034-68</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་པོས་གནོད་པར་འགྱུར་བ་དང་། ཆོམ་རྐུན་གྱིས་གནོད་པར་འགྱུར་བ་དང་། ཆད་པས་གཅོད་པས་གནོད་པར་འགྱུར་ཏེ། ལོངས་སྤྱོད་ཀྱིས་ཕོངས་པར་འགྱུར་བའི་ལས་བྱས་ཤིང་བསགས་པས་ལུས་ཞིག་སྟེ་ཤི་བའི་འོག་ཏུ་ངན་སོང་ངན་འགྲོ་ལོག་པར་ལྟུང་བ་སེམས་ཅན་དམྱལ་བ་དག་ཏུ་སྐྱེ་ཞིང་། གལ་ཏེ་དེ་ནས་ཤི་འཕོས་ཏེ་འདིར་མི་རྣམས་དང་སྐལ་བ་མཉམ་པར་སྐྱེས་ན་ཡང་དེ་གང་དང་གང་དུ་སྐྱེས་པ་དེ་དང་དེར་དབུལ་པོར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>(1) One will incur great hostility; (2) one will be highly anxious; (3) one will act at the wrong time, one will act late in the day; (4) one will be surrounded by non-virtuous friends; (5) one will be abandoned by virtuous friends; (6) one will have faulty discipline; (7) one will be troubled by kings, by thieves, and by punishments; (8) since one will commit and accumulate deeds leading to the loss of wealth, (9) after the dissolution of the body and death, one will fall into the lower realms, the bad destinations, and be reborn in the hells; (10) even if, after dying and transmigrating from there, one is born in this world as a human, no matter where one is born, one will be poor.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-23">
+    <prop type="location-id">UT22084-072-034-68</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ལོངས་སྤྱོད་དུ་འགྱུར་བ་གང་ཡིན་པ་འབད་པ་ཆེན་པོས་རྔུལ་ཞིང་དྲི་མ་ཆགས་ཆགས་སུ་རྐང་ལག་གི་མཐུས་བསྒྲུབས་པ་དེ་དག་གནོད་པ་ལྔས་གནོད་པར་འགྱུར་ཏེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The wealth one has obtained, acquired with great effort, by the sweat of one’s brow, through the strength of one’s arms and legs, will be threatened by the five troubles.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-24">
+    <prop type="location-id">UT22084-072-034-68</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྔ་པོ་དག་གང་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What are the five?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-25">
+    <prop type="location-id">UT22084-072-034-68</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་པོ་དང་། མེ་དང་། ཆུ་དང་། བགོ་སྐལ་ལ་སྤྱོད་པ་མི་མཛའ་བ་དང་། སྦས་པ་དག་གིས་དེ་ཆུད་ཟ་བར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One’s property will be laid waste by kings, fire, water, disgruntled heirs, and secrets.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-26">
+    <prop type="location-id">UT22084-072-034-68</prop>
+    <tuv xml:lang="bo">
+                <seg>དགའ་བ་ཅན་མ་བྱིན་པར་ལེན་པའི་ཉེས་དམིགས་བཅུ་ནི་དེ་དག་ཡིན་པར་རིག་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Nandika, these ten negative consequences of taking what is not given should be known.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-27">
+    <prop type="location-id">UT22084-072-034-80</prop>
+    <tuv xml:lang="bo">
+                <seg>དགའ་བ་ཅན་འདོད་པས་ལོག་པར་གཡེམ་པའི་ཉེས་དམིགས་བཅུ་ནི་འདི་དག་ཡིན་པར་རིག་པར་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-034-80"/>“Nandika, these ten negative consequences of sexual misconduct should be known.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-28">
+    <prop type="location-id">UT22084-072-034-80</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅུ་པོ་དག་གང་ཞེ་ན། <tei:ref folio="F.269.b"/>གང་དག་གི་ཆུང་མ་ཁ་དྲངས་པས་དེ་དག་དང་དེ་འཁོན་དང་བཅས་པར་འགྱུར་བ་དང་། ཆུང་མ་དང་རྩོད་པར་འགྱུར་བ་དང་། དེའི་མི་དགེ་བའི་ཆོས་མངོན་པར་འཕེལ་བ་དང་། དེའི་དགེ་བའི་ཆོས་ཡོངས་སུ་འགྲིབ་པ་དང་། དེ་བདག་ཉིད་མ་ཞི་བར་འགྱུར་བ་དང་། དེའི་བུ་དང་ཆུང་མ་མ་བསྲུངས་པར་འགྱུར་བ་དང་། དེའི་ནོར་མ་སྦས་མ་བསྲུངས་པར་འགྱུར་བ་དང་། དེའི་ཁྱིམ་མ་སྦས་མ་བསྲུངས་པར་འགྱུར་བ་དང་། དེའི་སྲོག་མ་སྦས་མ་བསྲུངས་པར་འགྱུར་བ་དང་། དེའི་མཛའ་བཤེས་དང་། ཉེ་དུ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What are the ten?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-29">
+    <prop type="location-id">UT22084-072-034-80</prop>
+    <tuv xml:lang="bo">
+                <seg>སྣག་གི་གཉེན་མཚམས་དང་། བློན་པོ་དག་ཡིད་འབེབས་པར་མི་འགྱུར་བ་དང་། འགྲན་ཟླ་དང་བཅས་པར་འགྱུར་བའི་ལས་བྱས་ཤིང་བསགས་པས་ལུས་ཞིག་སྟེ་ཤི་ནས་ངན་སོང་ངན་འགྲོ་ལོག་པར་ལྟུང་བ་སེམས་ཅན་དམྱལ་བ་དག་ཏུ་སྐྱེ་ཞིང་། གལ་ཏེ་དེ་ནས་ཤི་འཕོས་ཏེ་འདིར་མི་རྣམས་དང་སྐལ་བ་མཉམ་པར་སྐྱེས་ནས་གལ་ཏེ་བུད་མེད་དུ་གྱུར་ན་ཡང་འགྲན་ཟླ་དང་བཅས་པའི་ཁྱོ་རྙེད་པར་འགྱུར་རོ། །ཅི་སྟེ་སྐྱེས་པར་གྱུར་ན་དེའི་བུ་དང་ཆུང་མ་མ་བསྲུངས་པར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>(1) One will experience the hostility of those whose spouses one has led astray; (2) one will quarrel with one’s spouse; (3) one’s non-virtuous qualities will increase and one’s virtuous qualities will decrease; (4) one will have no peace; (5) one’s son and wife will be unprotected; (6) one’s wealth will be unguarded and unprotected, one’s house will be unguarded and unprotected, and one’s life will be unguarded and unprotected; (7) one will not be trusted by one’s friends, relatives, kinsmen, and ministers; (8) since one will commit and accumulate deeds leading to rivalry, (9) after the dissolution of the body and death, one will fall into the lower realms, the bad destinations, and be reborn in the hells; (10) even if, after dying and transmigrating from there, one is born in this world as a human and becomes a woman, she will have a husband who has rival women, and if one becomes a man, he will not be able to protect his son and wife.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-30">
+    <prop type="location-id">UT22084-072-034-80</prop>
+    <tuv xml:lang="bo">
+                <seg>དགའ་བ་ཅན་འདོད་པས་ལོག་པར་གཡེམ་པའི་ཉེས་དམིགས་བཅུ་ནི་དེ་དག་ཡིན་པར་རིག་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Nandika, these ten negative consequences of sexual misconduct should be known.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-31">
+    <prop type="location-id">UT22084-072-034-87</prop>
+    <tuv xml:lang="bo">
+                <seg>དགའ་བ་ཅན་བརྫུན་དུ་སྨྲ་བའི་ཉེས་དམིགས་བཅུ་ནི་འདི་དག་ཡིན་པར་རིག་པར་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-034-87"/>“Nandika, these ten negative consequences of telling lies should be known.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-32">
+    <prop type="location-id">UT22084-072-034-87</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅུ་པོ་དག་གང་ཞེ་ན། དེའི་ཁ་ནས་རྣག་མནམ་པར་འགྱུར་བ་དང་། དེའི་ལུས་སྲུང་བའི་ལྷས་འཕང་བ་དང་། མི་མ་ཡིན་པས་གླགས་རྙེད་པར་འགྱུར་བ་དང་། བདེན་པར་སྨྲས་ཀྱང་དེའི་ཚིག་ལ་མ་དད་པར་འགྱུར་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What are the ten?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-33">
+    <prop type="location-id">UT22084-072-034-87</prop>
+    <tuv xml:lang="bo">
+                <seg>དགོས་པ་བྱུང་ཡང་འདི་ལ་མཁས་པ་རྣམས་ཡོངས་སུ་འདྲི་བར་མི་སེམས་པ་དང་། ཡང་དག་པ་མ་ཡིན་པའི་མི་སྙན་པ་རྒྱ་ཆེར་སྒྲོགས་པར་འགྱུར་བ་དང་། ཕྱིར་ལྡང་བའི་འོས་མ་ཡིན་པར་འགྱུར་བ་དང་། སྡུག་བསྔལ་ཞིང་ཡིད་མི་བདེ་བར་འགྱུར་བ་དང་། མི་སྙན་པ་བརྗོད་པ་མང་བར་འགྱུར་བའི་ལས་བྱས་ཤིང་བསགས་པས་ལུས་ཞིག་སྟེ་ཤི་ནས་ངན་སོང་ངན་འགྲོ་ལོག་པར་ལྟུང་བ་སེམས་ཅན་དམྱལ་བ་དག་ཏུ་སྐྱེ་ཞིང་། གལ་ཏེ་དེ་ནས་ཤི་འཕོས་<tei:ref folio="F.270.a"/>ཏེ་འདིར་མི་རྣམས་དང་། སྐལ་བ་མཉམ་པར་སྐྱེས་ན་ཡང་དེ་གང་དང་གང་དུ་སྐྱེས་པ་དེ་དང་དེར་མི་སྙན་པ་བརྗོད་པ་མང་པོར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>(1) One’s mouth will be foul-smelling; (2) one will be abandoned by the protective deities of the body and will become vulnerable to non-humans; (3) even when one speaks the truth, one’s words will be distrusted; (4) even when one’s assistance is needed, the learned will not think of asking; (5) untrue calumnies about oneself will spread; (6) one will be unworthy of respect; (7) one will experience suffering and sadness; (8) since one will commit and accumulate deeds leading to many false accusations, (9) after the dissolution of the body and death, one will fall into the lower realms, the bad destinations, and be reborn in the hells; (10) even if, after transmigrating from there, one is born in this world as a human, no matter where one is born, one will face many false accusations.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-34">
+    <prop type="location-id">UT22084-072-034-87</prop>
+    <tuv xml:lang="bo">
+                <seg>དགའ་བ་ཅན་བརྫུན་དུ་སྨྲ་བའི་ཉེས་དམིགས་བཅུ་ནི་དེ་དག་ཡིན་པར་རིག་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Nandika, these ten negative consequences of telling lies should be known.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-35">
+    <prop type="location-id">UT22084-072-034-92</prop>
+    <tuv xml:lang="bo">
+                <seg>དགའ་བ་ཅན་འབྲུའི་ཆང་དང་བཅོས་པའི་ཆང་བག་མེད་པའི་གནས་ཀྱི་ཉེས་དམིགས་སུམ་ཅུ་རྩ་ལྔ་ནི་འདི་དག་ཡིན་པར་རིག་པར་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-034-92"/>“Nandika, these thirty-five negative consequences of drinking spirituous liquors and intoxicants, which are the cause of heedlessness, should be known.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-36">
+    <prop type="location-id">UT22084-072-034-92</prop>
+    <tuv xml:lang="bo">
+                <seg>སུམ་ཅུ་རྩ་ལྔ་པོ་དག་གང་ཞེ་ན། ཚེ་འདི་ལ་ནོར་ཟད་པ་དང་། ནད་རྣམས་རྒྱས་པར་བྱེད་པ་དང་། འཐབ་པ་དང་རྩོད་པ་སྐྱེད་པ་དང་། དོན་མེད་པ་ལ་ལྟ་བ་དང་། གྲགས་པ་མ་ཡིན་པ་ཀུན་དུ་འབྱུང་བར་བྱེད་པ་དང་། ཤེས་རབ་ཉམ་ཆུང་བར་བྱེད་པ་དང་། ལོངས་སྤྱོད་ཐོབ་པ་མི་འཐོབ་པར་འགྱུར་བ་དང་། ལོངས་སྤྱོད་ཐོབ་པ་ཡོངས་སུ་ཟད་ཅིང་ཡོངས་སུ་གཏུགས་པར་འགྱུར་བ་དང་། གསང་མི་ཐུབ་པར་འགྱུར་བ་དང་། དེ་ལས་ཀྱི་མཐའ་ཡོངས་སུ་འགྲིབ་པ་དང་། མཐུ་སྟོབས་ཆུང་ངུར་བྱེད་པར་འགྱུར་བ་དང་། མར་མི་འཛིན་པར་འགྱུར་བ་དང་། ཕར་མི་འཛིན་པར་འགྱུར་བ་དང་། དགེ་སྦྱོང་དུ་མི་འཛིན་པར་འགྱུར་བ་དང་། བྲམ་ཟེར་མི་འཛིན་པར་འགྱུར་བ་དང་། རིགས་ཀྱི་གཙོ་བོ་ལ་བསྙེན་བཀུར་མེད་པར་འགྱུར་བ་དང་། སངས་རྒྱས་ལ་མི་གུས་པར་འགྱུར་བ་དང་། ཆོས་ལ་མི་གུས་པར་འགྱུར་བ་དང་། དགེ་འདུན་ལ་མི་གུས་པར་འགྱུར་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What are these thirty-five?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-37">
+    <prop type="location-id">UT22084-072-034-92</prop>
+    <tuv xml:lang="bo">
+                <seg>བསླབ་པ་ཡང་དག་པར་བླངས་པ་ལ་མི་གུས་པར་འགྱུར་བ་དང་། ཚུལ་ཁྲིམས་འཆལ་པར་འགྱུར་བ་དང་། དབང་པོའི་སྒོ་མ་བསྡམས་པར་འགྱུར་བ་དང་། བག་མེད་པར་ཤིན་ཏུ་བུད་མེད་དོན་དུ་གཉེར་བ་དང་། ཉེ་དུ་དང་སྣག་གི་གཉེན་མཚམས་དང་མཛའ་བཤེས་དང་བློན་པོ་དག་གིས་སྤོང་བར་འགྱུར་བ་དང་། སྐྱེ་བོ་མང་པོ་དག་གི་ཡིད་དུ་མི་འོང་བར་འགྱུར་བ་དང་། སྐྱེ་བོ་མང་པོ་དག་དང་མི་འཐུན་པར་འགྱུར་བ་དང་། ཆོས་མ་ཡིན་པར་སྤྱོད་པར་འགྱུར་བ་དང་། ཆོས་མ་ཡིན་པ་ཡོངས་སུ་འཛིན་པར་འགྱུར་བ་དང་། དམ་པའི་ཆོས་ཡོངས་སུ་སྤོང་བར་འགྱུར་བ་དང་། ངོ་ཚ་ཤེས་པ་དང་། ཁྲེལ་ཡོད་པ་ཡོངས་སུ་སྤོང་<tei:ref folio="F.270.b"/>བར་འགྱུར་བ་དང་། མི་མཛའ་བ་དག་དང་གནས་ཀྱང་མཁས་པ་རྣམས་ཡོངས་སུ་འདྲི་བར་མི་སེམས་པ་དང་། བག་མེད་པ་ཉམ་བག་ཏུ་སྤྱོད་པར་འགྱུར་བ་དང་། དེ་བཞིན་གཤེགས་པའི་གསུང་རབ་ལ་ཀུན་ནས་མི་གནས་པ་དང་། མྱ་ངན་ལས་འདས་པ་ལས་ཐག་རིང་དུ་འགྱུར་བ་དང་། སྨྱོན་པར་འགྱུར་བའི་ལས་བྱས་ཤིང་བསགས་པས་ལུས་ཞིག་སྟེ་ཤི་ནས་ངན་སོང་ངན་འགྲོ་ལོག་པར་ལྟུང་བ་སེམས་ཅན་དམྱལ་བ་དག་ཏུ་སྐྱེ་ཞིང་། གལ་ཏེ་དེ་ནས་ཤི་འཕོས་ཏེ་འདིར་མི་རྣམས་དང་སྐལ་བ་མཉམ་པར་སྐྱེས་ན་ཡང་དེ་གང་དང་གང་དུ་སྐྱེས་པ་དེ་དང་དེར་སྨྱོན་པར་འགྱུར་ཞིང་དྲན་པ་མི་གསལ་བར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>(1) In this life one’s wealth will be depleted; (2) illnesses will increase; (3) quarrels and disputes will arise; (4) one will pay attention to that which is meaningless; (5) bad reputation will arise; (6) wisdom will weaken; (7) wealth will not be obtained, and whatever wealth has already been obtained will diminish and come to an end; (8) one will be unable to keep secrets; (9) one’s efficiency will wane; (10) one’s strength will be diminished; (11) one will neglect one’s mother; (12) one will neglect one’s father; (13) one will neglect śramaṇas; (14) one will neglect brahmins; (15) one will not honor the head of the family; (16) one will disrespect the Buddha; (17) one will disrespect the Dharma; (18) one will disrespect the Saṅgha; (19) one will disrespect engagement in the trainings and have faulty discipline; (20) the sense doors will be unguarded; (21) one will become extremely heedless toward women; (22) one will be rejected by relatives, kinsmen, friends, and ministers; (23) one will be considered unattractive by many people; (24) one will become unpleasant to many people; (25) one’s actions will be at odds with Dharma; (26) one will uphold that which is not Dharma; (27) one will abandon the true Dharma; (28) one will abandon modesty and decency; (29) even when enemies are present, the learned will not think of asking one for assistance; (30) one will act heedlessly and with negligence; (31) one will not abide by the teaching of the Tathāgata; (32) one will be far from nirvāṇa; (33) since one will commit and accumulate deeds leading to insanity, (34) after the dissolution of the body and death, one will fall into the lower realms, the bad destinations, and be reborn in the hells; (35) even if, after dying and transmigrating from there, one is born in this world as a human, no matter where one is born, one will be mad and have a blurry memory.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-38">
+    <prop type="location-id">UT22084-072-034-92</prop>
+    <tuv xml:lang="bo">
+                <seg>དགའ་བ་ཅན་འབྲུའི་ཆང་དང་བཅོས་པའི་ཆང་བག་མེད་པའི་གནས་ཀྱི་ཉེས་དམིགས་ནི་སུམ་ཅུ་རྩ་ལྔ་པོ་དེ་དག་ཡིན་པར་རིག་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Nandika, these thirty-five negative consequences of spirituous liquors and intoxicants, which are the cause of heedlessness, should be known.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-39">
+    <prop type="location-id">UT22084-072-034-109</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-034-109"/>Thus spoke the Bhagavān.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-40">
+    <prop type="location-id">UT22084-072-034-110</prop>
+    <tuv xml:lang="bo">
+                <seg>བདེ་བར་གཤེགས་པས་དེ་སྐད་གསུངས་ནས། སྟོན་པས་གཞན་ཡང་འདི་སྐད་བཀའ་སྩལ་ཏོ། །སྲོག་གཅོད་རྡེག་དང་འཆིང་བ་རྣམ་སྤངས་ཏེ། །སེམས་ཅན་དག་ལ་ཕན་ཞིང་སྙིང་བརྩེ་བ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>After the Sugata had spoken thus, the Teacher added:<tei:milestone xml:id="UT22084-072-034-110"/> “Being beneficial and compassionate to sentient beings, One must abandon killing, beating, and binding.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-41">
+    <prop type="location-id">UT22084-072-034-110</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གི་ཚེ་སྐྱབས་དགའ་བ་ཇི་ལྟ་བར། །དེ་བཞིན་གཞན་རྣམས་ཀྱི་ནི་སྲོག་ཀྱང་བསྲུང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the same way that you protect your own beloved life, Protect the lives of others too!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-42">
+    <prop type="location-id">UT22084-072-034-113</prop>
+    <tuv xml:lang="bo">
+                <seg>སྡུག་བསྔལ་མང་པོས་བསགས་པ་གཞན་གྱི་ནོར། །མ་བྱིན་དེ་ལ་ཡིད་ཀྱང་བསམ་མི་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-034-113"/>“Others have accumulated their wealth with great difficulty, So one should not even think about that which is not given.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-43">
+    <prop type="location-id">UT22084-072-034-113</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་གྱིས་མཐོང་དགའ་དང་བྲལ་འགྱུར་ཞིང་། །གཞན་ཡང་དེ་བཞིན་ཕན་པར་གནས་པར་གྱིས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Having experienced separation from what one loves in the world, Just so, one should be steady for the benefit of others.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-44">
+    <prop type="location-id">UT22084-072-034-115</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞན་གྱི་བུད་མེད་རྒྱན་གྱིས་བརྒྱན་པ་དག །མེ་ལྕེ་འབར་བ་བཞིན་དུ་ཡོངས་སྤོངས་ལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-034-115"/>“One should avoid others’ adorned spouses Like a burning flame.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-45">
+    <prop type="location-id">UT22084-072-034-115</prop>
+    <tuv xml:lang="bo">
+                <seg>རང་གི་ཆུང་མ་རྙེད་པས་ཆོག་པར་བྱོས། །འདོད་རྒྱུ་དུག་དང་འདྲ་བ་མ་སྤྱོད་ཅིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One should be content with the spouse one has found, And not engage, out of lust, in that which is like poison.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-46">
+    <prop type="location-id">UT22084-072-034-118</prop>
+    <tuv xml:lang="bo">
+                <seg>རང་གི་དོན་དང་གཞན་གྱི་དོན་ཆེད་དུ། །སུས་ཀྱང་ཤེས་བཞིན་བརྫུན་དག་མ་སྨྲ་བར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-034-118"/>“One should not knowingly speak falsehood, Neither for the sake of oneself nor for the sake of others.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-47">
+    <prop type="location-id">UT22084-072-034-118</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞན་ལ་མི་གནོད་གཞན་ལ་མི་གདུང་བར། །བརྟགས་ཏེ་འཇམ་པོའི་ཚིག་གིས་སྨྲ་བར་གྱིས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Neither hurting nor troubling others, And having pondered, one should speak with gentle words.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-48">
+    <prop type="location-id">UT22084-072-034-119</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆང་འཐུང་བ་ལ་མངོན་པར་དགའ་བའི་མི། །བདག་ལ་ཕན་དང་གཞན་ལ་བདེ་མི་ནུས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-034-119"/>“A person who is fond of drinking alcohol cannot bring about their own benefit or others’ happiness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-49">
+    <prop type="location-id">UT22084-072-034-119</prop>
+    <tuv xml:lang="bo">
+                <seg>རྨོངས་དང་མདོག་ངན་བྱེད་པ་ཆང་ཡིན་ཏེ། །ཇི་ལྟར་ཧ་ལའི་དུག་བཞིན་<tei:ref folio="F.271.a"/>དེ་མི་བཏུང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Spirits cause bewilderment and a bad complexion— One should not drink that which is like halāhala poison.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-50">
+    <prop type="location-id">UT22084-072-034-120</prop>
+    <tuv xml:lang="bo">
+                <seg>སྲོག་ཆགས་མི་གསོད་གཞན་གྱི་ནོར་མི་འཕྲོག །བརྫུན་དུ་མི་སྨྲ་ཆང་ཡང་མི་བཏུང་ཞིང་། །གཞན་གྱི་ཆུང་མ་ཡིད་ལའང་མི་འདོད་པ། །མཐོ་རིས་གང་འདོད་ཁྱིམ་དུ་འཇུག་པ་བཞིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-034-120"/>“If one wishes to enter the higher realms as easily as entering a house, One must not kill living beings, nor steal the property of others, Nor tell lies, nor drink alcohol, Nor seek, even in thought, the spouse of another.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-51">
+    <prop type="location-id">UT22084-072-034-122</prop>
+    <tuv xml:lang="bo">
+                <seg>གོས་དཀར་གྱོན་པ་ཁྱིམ་པ་རྣམས་ཀྱིས་ནི། །ཁྱིམ་གནས་རྣམས་ཀྱི་བསླབ་པ་འདི་ཡིན་ཏེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-034-122"/>“These are the precepts of householders Who wear white clothes and dwell at home.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-52">
+    <prop type="location-id">UT22084-072-034-122</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་བས་དེ་གང་རབ་ཏུ་བྱུང་རྣམས་ཀྱི། །བསླབ་གཞིའི་ཆོས་ནི་རབ་ཏུ་བསྟན་པ་ཡིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Beyond this, there is the teaching about the basic precepts, Taught by the Victorious One for renunciates.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-53">
+    <prop type="location-id">UT22084-072-034-124</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་དགེ་བསྙེན་དགའ་བ་ཅན་བཅོམ་ལྡན་འདས་ལ་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ཐོས་ནས་དགའ་ཞིང་མགུ་ལ་ཡི་རངས་ཏེ། རབ་ཏུ་དགའ་བ་དང་། བདེ་བ་དང་། ཡིད་བདེ་བ་སྐྱེས་ནས་སྟན་ལས་ལངས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-034-124"/>The layman Nandika, having heard this teaching in the presence of the Bhagavān, was pleased, delighted, overjoyed, glad, full of happiness and cheerfulness of mind.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-54">
+    <prop type="location-id">UT22084-072-034-124</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ། བཅོམ་ལྡན་འདས་ལ་ལན་གསུམ་བསྐོར་བ་བྱས་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He rose from his seat, bowed his head to the Bhagavān’s feet, and circumambulated the Bhagavān three times.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-55">
+    <prop type="location-id">UT22084-072-034-124</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་ལ་མངོན་པར་དགའ་ནས་རྗེས་སུ་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱི་སྤྱན་སྔ་ནས་སོང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Delighted, he rejoiced at what the Bhagavān had said and departed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-56">
+    <prop type="location-id">UT22084-072-034-126</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང་། དགེ་སློང་དེ་དག་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-034-126"/>When the Bhagavān had spoken thus, the monks rejoiced and praised his words.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-57">
+    <prop type="location-id">UT22084-072-034-128</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་དགའ་བ་ཅན་གྱི་མདོ་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-034-128"/>Thus ends “The Sūtra of Nandika.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-034-TU-58">
+    <prop type="location-id">UT22084-072-034-129</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་ཤཱཀྱ་སིང་ཧ་དང་། ལོ་ཙྪ་བ་བན་དེ་བྱིན་གྱི་སྙིང་པོས་བསྒྱུར་ཏེ། ཞུ་ཆེན་གྱི་ལོ་ཙྪ་བ་བན་དེ་དེ་བ་ཙན་དྲས་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-034-129"/>Translated by the Indian preceptor Śākyasiṃha and the translator Bandé Jingyi Nyingpo, and edited and finalized by the chief editor and translator Bandé Devacandra.</seg>
+            </tuv>
+</tu>
+
+
+</body>
+</tmx>

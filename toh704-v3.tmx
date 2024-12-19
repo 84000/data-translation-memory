@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-093-019" eft:text-version="v-1.0.2-2023"/>
+<body>
+<tu id="UT22084-093-019-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.171.a"/>༄༅། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-093-019-TU-2">
+    <prop type="location-id">UT22084-093-019-68</prop>
+    <tuv xml:lang="bo">
+                <seg>ན་མོ་རཏྣ་ཏྲ་ཡཱ་ཡ། ན་མ་ཨཱརྱཱ་བ་ལོ་ཀི་ཏེ་ཤྭ་རཱ་ཡ། བོ་དྷི་སཏྭཱ་ཡ། མ་ཧཱ་སཏྭཱ་ཡ། མ་ཧཱ་ཀཱ་རུ་ཎི་ཀཱ་ཡ། ཏདྱ་ཐཱ། ཨོྃ་ཨ་ཀ་ཊེ། བི་ཀ་ཊེ། ནི་ཀ་ཊེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-093-019-translation"/>The Dhāraṇī of Siṃhanāda<tei:milestone xml:id="UT22084-093-019-68"/> namo ratna­trayāya | nama āryāvalokiteśvarāya bodhi­sattvāya mahā­sattvāya mahā­kāruṇikāya | tadyathā | oṃ akaṭe vikaṭe nikaṭe kaṭaṃkaṭe karoṭe karoṭavīrye svāhā ||<tei:milestone xml:id="UT22084-093-019-73"/> In front of the Blessed One, make eight individual maṇḍalas out of cow dung that has not fallen to the ground.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-019-TU-3">
+    <prop type="location-id">UT22084-093-019-68</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀ་ཏཾ་ཀ་ཊེ། ཀ་རོ་ཊེ། ཀ་རོ་ཊ། བཱིརྱེ་སྭཱ་ཧཱ། བཅོམ་ལྡན་འདས་དེའི་སྤྱན་སྔར་བའི་ལྕི་བ་ས་ལ་མ་ལྷུང་བས་སོ་སོར་མཎྜལ་བརྒྱད་བྱས་ལ་མཎྜལ་རེ་རེ་ལ་ལན་བཅུ་གསུམ་གྱི་བར་དུ་བཟླས་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Recite this thirteen times at each maṇḍala, then incant the resulting dung with the mantra.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-019-TU-4">
+    <prop type="location-id">UT22084-093-019-68</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྕི་བ་ལྷག་མ་ལ་སྔགས་བཟླས་ཏེ་ནད་པ་ལ་ཉེ་བར་བྱུགས་ན་ནད་ཐམས་ཅད་ཞི་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When it is smeared on a sick person, all illnesses will be cured.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-019-TU-5">
+    <prop type="location-id">UT22084-093-019-75</prop>
+    <tuv xml:lang="bo">
+                <seg>གལ་ཏེ་ཉི་མ་བདུན་ནམ། བཅུ་གསུམ་མམ། ཉི་ཤུ་རྩ་གཅིག་གིས་འགྲུབ་སྟེ། མཚམས་མེད་པ་ལྔ་བྱས་པ་ནི་མ་ཡིན་ནོ། །དེ་ལྟར་མ་གྲུབ་ན་བདག་གིས་མཚམས་མེད་པ་ལྔ་བྱས་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-093-019-75"/>If this is not successful after seven, thirteen, or twenty-one days, even for someone who has carried out the five deeds of immediate retribution, then I myself will have carried out the five deeds of immediate retribution.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-019-TU-6">
+    <prop type="location-id">UT22084-093-019-78</prop>
+    <tuv xml:lang="bo">
+                <seg>སེང་གེ་སྒྲའི་གཟུངས་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-093-019-78"/>This completes the “Dhāraṇī of Siṃhanāda.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-019-TU-7">
+    <prop type="location-id">UT22084-093-019-79</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་<tei:ref folio="F.171.b"/>པོ་ངག་གི་དབང་ཕྱུག་དང་། ཀློགས་སྐྱ་ཤེས་རབ་བརྩེགས་ཀྱིས་བསྒྱུར་བའོ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-093-019-79"/>It was translated by the Indian preceptor Vāgīśvara and Lokya Sherab Tsek.</seg>
+            </tuv>
+</tu>
+
+
+</body>
+</tmx>

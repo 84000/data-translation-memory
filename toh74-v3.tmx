@@ -1,0 +1,1436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-043-011" eft:text-version="v-1.0.2-2023"/>
+<body>
+<tu id="UT22084-043-011-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.216.a"/>༄༅། །འཕགས་པ་དཀོན་མཆོག་བརྩེགས་པ་ཆེན་པོའི་ཆོས་ཀྱི་རྣམ་གྲངས་ལེའུ་སྟོང་ཕྲག་བརྒྱ་པ་ལས་ལེའུ་སུམ་ཅུ་པ་སྟེ་བུ་མོ་བློ་གྲོས་བཟང་མོས་ཞུས་པ་ལུང་བསྟན་པ། བམ་པོ་ཕྱེད་པ། རྒྱ་གར་སྐད་དུ། ཨཱརྱ་སུ་མ་ཏི་དཱ་རི་ཀ་པྲྀ་ཙྪཱ་ནཱ་མ་མ་ཧཱ་ཡཱ་ན་སཱུ་ཏྲ། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-2">
+    <prop type="location-id">UT22084-043-011-69</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་བུ་མོ་བློ་གྲོས་བཟང་མོས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-translation"/>The Noble Mahāyāna Sūtra The Inquiry of the Girl Sumati<tei:milestone xml:id="UT22084-043-011-69"/> Homage to all buddhas and bodhisattvas!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-3">
+    <prop type="location-id">UT22084-043-011-70</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-70"/>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-4">
+    <prop type="location-id">UT22084-043-011-70</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་རྒྱལ་པོའི་ཁབ་ན་བྱ་རྒོད་ཀྱི་ཕུང་པོའི་རི་ལ་དགེ་སློང་སྟོང་ཉིས་བརྒྱ་ལྔ་བཅུའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་། བྱང་ཆུབ་སེམས་དཔའ་ཁྲིའི་བྱང་ཆུབ་སེམས་དཔའི་དགེ་འདུན་ཆེན་པོ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Bhagavān was residing on Vulture Peak at Rājagṛha together with a large community of twelve hundred and fifty monks and a large community of ten thousand bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-5">
+    <prop type="location-id">UT22084-043-011-73</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཚེ་རྒྱལ་པོའི་ཁབ་ཀྱི་གྲོང་ཁྱེར་ཆེན་པོ་ན་ཁྱིམ་བདག་དྲག་ཤུལ་ཅན་གྱི་བུ་མོ་བློ་གྲོས་བཟང་མོ་ཞེས་བྱ་བ་བཙས་ནས་ལོ་བརྒྱད་ལོན་པ་འདྲ་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-73"/>At that time, in the great city of Rājagṛha, there lived a girl named Sumati who was the daughter of the householder Ugra.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-6">
+    <prop type="location-id">UT22084-043-011-73</prop>
+    <tuv xml:lang="bo">
+                <seg>གཟུགས་བཟང་བ། མཛེས་པ། བལྟ་ན་སྡུག་པ། ཁ་དོག་བཟང་པོ་རྒྱས་པ་མཆོག་དང་ལྡན་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>She was about eight years old, had a graceful appearance, was beautiful and pleasant to behold, had a fine complexion, and was well proportioned.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-7">
+    <prop type="location-id">UT22084-043-011-73</prop>
+    <tuv xml:lang="bo">
+                <seg>སྔོན་གྱི་རྒྱལ་བ་ལ་ལྷག་པར་བྱ་བ་བྱས་པ། དགེ་བའི་རྩ་བ་བསྐྱེད་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the past, she had served the victors and generated roots of virtue.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-8">
+    <prop type="location-id">UT22084-043-011-73</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་འབུམ་ཕྲག་བྱེ་བ་ཁྲག་ཁྲིག་བརྒྱ་སྟོང་མང་པོ་ལ་བསྙེན་བཀུར་བྱས་པ། སངས་རྒྱས་འབུམ་ཕྲག་བྱེ་བ་ཁྲག་ཁྲིག་དཔག་ཏུ་མེད་པ་ལ་དགེ་བའི་རྩ་བ་བསྐྱེད་པ་ཞིག་འདུག་པ་དེ་འཁོར་དང་བཅས་པ་བྱ་རྒོད་ཀྱི་ཕུང་པོའི་རི་ག་ལ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>She had venerated many hundreds and thousands of millions and billions of buddhas and accumulated roots of virtue in the company of countless millions upon billions upon trillions of buddhas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-9">
+    <prop type="location-id">UT22084-043-011-74</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས་བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-74"/>Together with her retinue, she went to Vulture Peak where the Bhagavān was residing and bowed down with her head at his feet.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-10">
+    <prop type="location-id">UT22084-043-011-75</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལ་ལན་གསུམ་བསྐོར་བ་བྱས་ནས་བཅོམ་ལྡན་འདས་ཀྱི་སྤྱན་སྔར་འདུག་སྟེ་བཅོམ་ལྡན་འདས་ལ་ཚིགས་སུ་བཅད་དེ་གསོལ་པ། གལ་ཏེ་སྐབས་ཕྱེ་བདག་གིས་ནི། །རྫོགས་པའི་སངས་རྒྱས་རྐང་གཉིས་མཆོག །འཇིག་རྟེན་སྣང་བར་མཛད་པ་ལ། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་གང་ཞུ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then, after walking around the Bhagavān three times, keeping him on her right, she sat down in front of him and addressed him in verse: <tei:milestone xml:id="UT22084-043-011-75"/>“If I may, I would like to ask the perfect Buddha, The best of those who walk on two feet, The one who illuminates the world: What are the practices of a bodhisattva?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-11">
+    <prop type="location-id">UT22084-043-011-76</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། །ཡིད་ལ་ཅི་འདོད་ཐམས་ཅད་ནི། །བུ་མོ་ཁྱོད་ཀྱིས་དྲི་བར་གྱིས། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ཀུན། །ཅི་<tei:ref folio="F.216.b"/>འདྲ་ཁྱོད་ལ་བསྟན་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-76"/>The Bhagavān replied:<tei:milestone xml:id="UT22084-043-011-77"/> “Girl, ask whatever you like, And I will explain to you All the practices of a bodhisattva, Just as your heart desires.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-12">
+    <prop type="location-id">UT22084-043-011-78</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ལ་བུ་མོ་བློ་གྲོས་བཟང་མོས་ཚིགས་སུ་བཅད་དེ་གསོལ་པ། གང་གིས་སུ་ནི་མཛེས་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-78"/>Thereupon the girl Sumati addressed the Bhagavān with these verses:<tei:milestone xml:id="UT22084-043-011-79"/> “How does one become beautiful?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-13">
+    <prop type="location-id">UT22084-043-011-78</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་གིས་ནོར་ནི་ཆེ་བ་དང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How does one become wealthy?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-14">
+    <prop type="location-id">UT22084-043-011-78</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་ཕྱེད་འཁོར་དང་ལྡན་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How does one come to have a united assembly?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-15">
+    <prop type="location-id">UT22084-043-011-78</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐུབ་པས་འདི་ནི་བདག་ལ་གསུངས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Would the Sage teach me this?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-16">
+    <prop type="location-id">UT22084-043-011-80</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཀྱི་རྒྱལ་པོའི་སྤྱན་སྔར་ནི། །གང་གིས་རྫུས་ཏེ་སྐྱེ་འགྱུར་ཞིང་། །འདབ་མ་སྟོང་ལྡན་པདྨ་ལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-80"/>“How does one become spontaneously reborn In the presence of the King of Dharma, Where one comes into being sitting upon A thousand-petaled lotus?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-17">
+    <prop type="location-id">UT22084-043-011-81</prop>
+    <tuv xml:lang="bo">
+                <seg>མཆིས་པར་ཡང་ནི་གདའ་བ་དང་། །ཞིང་རྣམས་བྱེ་བ་དཔག་ཡས་པར། །སངས་རྒྱས་ཕྱག་བགྱིར་མཆི་བ་ཡི། །རྫུ་འཕྲུལ་ཕ་རོལ་ཕྱིན་འགྱུར་བའི། །སྤྱོད་པ་རྒྱལ་བས་ལུང་བསྟན་གསོལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-81"/>“Would the Victor teach the practices by which One comes to possess the perfections and superhuman powers, And by which one goes to myriad realms without measure In order to pay homage to the buddhas?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-18">
+    <prop type="location-id">UT22084-043-011-82</prop>
+    <tuv xml:lang="bo">
+                <seg>དགྲ་ཟླ་མ་མཆིས་གང་གིས་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-82"/>“What makes one free from enemies?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-19">
+    <prop type="location-id">UT22084-043-011-82</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚིག་ཀྱང་བཙུན་པར་འགྱུར་བ་དང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What gives weight to one’s words?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-20">
+    <prop type="location-id">UT22084-043-011-82</prop>
+    <tuv xml:lang="bo">
+                <seg>ལས་ཀྱི་སྒྲིབ་པ་མ་མཆིས་དང་། །བདུད་ཀྱི་ལས་ཀུན་མ་མཆིས་དང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How can one face no hindrance from karma, And encounter none of Māra’s work?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-21">
+    <prop type="location-id">UT22084-043-011-83</prop>
+    <tuv xml:lang="bo">
+                <seg>འཆི་བའི་དུས་ནི་བགྱིད་པ་ན། །མངོན་སུམ་སངས་རྒྱས་མཐོང་བ་དང་། །དེ་ལས་ཆོས་ཀྱང་ཉན་པ་དང་། །སྡུག་བསྔལ་ཚོར་བ་མྱོང་མི་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-83"/>“When the time of death has come, How can one see the Buddha directly, And also hear the Dharma from him, And not experience the feeling of suffering?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-22">
+    <prop type="location-id">UT22084-043-011-84</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་སྐད་ཅེས་གསོལ་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་བུ་མོ་བློ་གྲོས་བཟང་མོ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །བུ་མོ་ཁྱོད་ཀྱིས་དེ་བཞིན་གཤེགས་པ་ལ་དོན་འདི་དྲི་བར་སེམས་པ་ལེགས་སོ་ལེགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-84"/>When she had said this, the Bhagavān replied to the girl Sumati, “Girl, your intention to ask the Tathāgata about this topic is excellent!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-23">
+    <prop type="location-id">UT22084-043-011-84</prop>
+    <tuv xml:lang="bo">
+                <seg>བུ་མོ་དེའི་ཕྱིར་ལེགས་པར་རབ་ཏུ་ཉོན་ལ་ཡིད་ལ་ཟུང་ཤིག་དང་ངས་བཤད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is excellent! Therefore, girl, listen carefully and pay close attention, and I will explain it to you.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-24">
+    <prop type="location-id">UT22084-043-011-85</prop>
+    <tuv xml:lang="bo">
+                <seg>བུ་མོ་བློ་གྲོས་བཟང་མོས་བཅོམ་ལྡན་འདས་ལེགས་སོ་ཞེས་གསོལ་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-85"/>The girl Sumati replied, “Excellent, Bhagavān!”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-25">
+    <prop type="location-id">UT22084-043-011-86</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱི་ལྟར་ཉན་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་དེ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །བུ་མོ་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་བཞི་དང་ལྡན་ན་མཛེས་པར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>and she listened accordingly as the Bhagavān taught her: <tei:milestone xml:id="UT22084-043-011-86"/>“Girl, there are four dharmas, the possession of which causes a bodhisattva to become beautiful.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-26">
+    <prop type="location-id">UT22084-043-011-86</prop>
+    <tuv xml:lang="bo">
+                <seg>བཞི་གང་ཞེ་ན། འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What are these four?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-27">
+    <prop type="location-id">UT22084-043-011-86</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐ་ན་དགྲ་ལ་ཡང་ཁྲོ་བར་མི་བྱེད་པ་དང་། བྱམས་པ་ལ་གནས་པ་དང་། ཆོས་འདོད་པ་དང་། དེ་བཞིན་གཤེགས་པའི་སྐུ་གཟུགས་བྱེད་དུ་འཇུག་པ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are (1) one does not act out of anger, even at an enemy; (2) one becomes established in love; (3) one desires the Dharma, and (4) one causes figures to be made of the tathāgatas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-28">
+    <prop type="location-id">UT22084-043-011-86</prop>
+    <tuv xml:lang="bo">
+                <seg>བུ་མོ་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་བཞི་པོ་དེ་དག་དང་ལྡན་ན་མཛེས་པར་འགྱུར་རོ། །དེ་ལ་འདི་སྐད་ཅེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Girl, these are the four dharmas the possession of which causes a bodhisattva to become beautiful.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-29">
+    <prop type="location-id">UT22084-043-011-87</prop>
+    <tuv xml:lang="bo">
+                <seg>གནོད་པའི་རྩ་བ་ཁྲོ་བ་འཕེལ་མི་བྱེད། །བྱམས་ལ་གནས་པར་བྱེད་དང་ཆོས་འདོད་དང་། །དེ་བཞིན་གཤེགས་པའི་<tei:ref folio="F.217.a"/>སྐུ་གཟུགས་བྱས་ན་ནི། །མཛེས་པར་འགྱུར་ཏེ་བལྟ་བར་འོས་པ་ཡིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-87"/>“About this, it can also be said: <tei:milestone xml:id="UT22084-043-011-88"/>“If one does not allow anger, the root of harm, to grow, Dwells in loving kindness, desires the Dharma, And has figures made of the tathāgatas, One becomes beautiful, worthy to behold.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-30">
+    <prop type="location-id">UT22084-043-011-89</prop>
+    <tuv xml:lang="bo">
+                <seg>བུ་མོ་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་བཞི་དང་ལྡན་ན་ནོར་ཆེ་བར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-89"/>“Girl, there are four dharmas the possession of which causes a bodhisattva to become very wealthy.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-31">
+    <prop type="location-id">UT22084-043-011-89</prop>
+    <tuv xml:lang="bo">
+                <seg>བཞི་གང་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What are these four?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-32">
+    <prop type="location-id">UT22084-043-011-89</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ། དུས་སུ་སྦྱིན་པ་དང་། འགྱོད་པ་མེད་པར་སྦྱིན་པ་དང་། ཡིད་དུ་འོང་བ་སྦྱིན་པ་དང་། རྣམ་པར་སྨིན་པ་མི་རེ་བར་སྦྱིན་པ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are (1) giving at the right time, (2) giving without regret, (3) giving with joy, and (4) giving without expecting a result.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-33">
+    <prop type="location-id">UT22084-043-011-89</prop>
+    <tuv xml:lang="bo">
+                <seg>བུ་མོ་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་བཞི་པོ་དེ་དག་དང་ལྡན་ན་ནོར་ཆེ་བར་འགྱུར་རོ། །དེ་ལ་འདི་སྐད་ཅེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Girl, these are the four dharmas the possession of which causes a bodhisattva to become very wealthy.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-34">
+    <prop type="location-id">UT22084-043-011-91</prop>
+    <tuv xml:lang="bo">
+                <seg>དུས་སུ་བྱིན་དང་འགྱོད་པ་མེད་པ་དང་། ཡིད་འོང་སྦྱིན་དང་རྣམ་སྨིན་མི་རེ་བ། །དཔའ་བོ་རྣམས་ནི་ལས་འདི་བྱས་པས་ན། །རྟག་ཏུ་ལོངས་སྤྱོད་ཆེན་པོ་ཐོབ་པ་ཡིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-91"/>“About this, it can also be said:<tei:milestone xml:id="UT22084-043-011-92"/> “Giving at the right time, without regret, Giving joyfully and without expecting a result— When heroic ones perform such actions, They will always obtain great wealth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-35">
+    <prop type="location-id">UT22084-043-011-93</prop>
+    <tuv xml:lang="bo">
+                <seg>བུ་མོ་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་བཞི་དང་ལྡན་ན་འཁོར་མི་ཕྱེད་པར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-93"/>“Girl, there are four dharmas the possession of which causes a bodhisattva to have a united assembly.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-36">
+    <prop type="location-id">UT22084-043-011-93</prop>
+    <tuv xml:lang="bo">
+                <seg>བཞི་གང་ཞེ་ན། འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What are these four?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-37">
+    <prop type="location-id">UT22084-043-011-93</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྲ་མའི་ཚིག་སྤངས་པ་དང་། སེམས་ཅན་ལོག་པར་ལྟ་བ་རྣམས་ཡང་དག་པའི་ལྟ་བ་ཡང་དག་པར་འཛིན་དུ་འཇུག་ཅིང་འཇོག་པར་བྱེད་པ་དང་། དམ་པའི་ཆོས་འཇིག་པའི་ཚེ་དམ་པའི་ཆོས་སྲུང་བ་དང་། སེམས་ཅན་རྣམས་སངས་རྒྱས་ཀྱི་བྱང་ཆུབ་ཡང་དག་པར་འཛིན་དུ་འཇུག་ཅིང་འཇོག་པར་བྱེད་པ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are (1) one abstains from divisive speech; (2) one causes beings with mistaken views to grasp the correct view properly and maintain it; (3) one preserves the true Dharma at the time of the destruction of the true Dharma; and (4) one causes beings to grasp properly and maintain the awakening of the buddhas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-38">
+    <prop type="location-id">UT22084-043-011-93</prop>
+    <tuv xml:lang="bo">
+                <seg>བུ་མོ་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་བཞི་པོ་དེ་དག་དང་ལྡན་ན་འཁོར་མི་ཕྱེད་པར་འགྱུར་རོ། །དེ་ལ་འདི་སྐད་ཅེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Girl, these are the four dharmas the possession of which causes a bodhisattva to have a united assembly.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-39">
+    <prop type="location-id">UT22084-043-011-94</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྲ་མ་དེ་བཞིན་ལོག་པར་ལྟ་བ་སྤོང་། །དམ་ཆོས་འཇིག་པའི་ཚེ་ན་སྲུང་བ་བྱེད། །སེམས་ཅན་བྱང་ཆུབ་ཡང་དག་འཛིན་འཇུག་ན། །འཁོར་རྣམས་མི་ཕྱེད་ཕུན་སུམ་ཚོགས་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-94"/>“About this, it can also be said:<tei:milestone xml:id="UT22084-043-011-95"/> “If one abstains from divisive speech and wrong views, One preserves the Dharma at the time of its destruction, And one causes beings to grasp awakening properly, One’s assembly will be united, and it will thrive.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-40">
+    <prop type="location-id">UT22084-043-011-96</prop>
+    <tuv xml:lang="bo">
+                <seg>བུ་མོ་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་བཞི་དང་ལྡན་ན། སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཀྱི་ཐད་དུ་རིན་པོ་ཆེ་ཆེན་པོའི་པདྨ་ལས་རྫུས་ཏེ་སྐྱེ་བར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-96"/>“Girl, there are four dharmas the possession of which causes a bodhisattva to be reborn spontaneously from a lotus of precious substances in the presence of the buddhas, the bhagavāns.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-41">
+    <prop type="location-id">UT22084-043-011-96</prop>
+    <tuv xml:lang="bo">
+                <seg>བཞི་གང་ཞེ་ན། འདི་ལྟ་སྟེ། ཕྱེ་མ་འམ། མེ་ཏོག་ཨུད་པ་ལ་འམ། པདྨ་འམ། ཀུ་མུ་དའམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What are these four?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-42">
+    <prop type="location-id">UT22084-043-011-96</prop>
+    <tuv xml:lang="bo">
+                <seg>པདྨ་དཀར་པོས་ལག་པ་བཀང་སྟེ། དེ་བཞིན་གཤེགས་པའི་སྐུ་གཟུགས་སམ། དེ་བཞིན་གཤེགས་པའི་མཆོད་རྟེན་ལ་འབུལ་བ་དང་། གཞན་དག་ལ་ཡང་གནོད་སེམས་མི་སྐྱེད་པ་དང་། དེ་བཞིན་གཤེགས་པའི་སྐུ་གཟུགས་པདྨའི་གདན་<tei:ref folio="F.217.b"/>ལ་བཞུགས་པ་བྱེད་དུ་འཇུག་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are (1) offering handfuls of powders, blue lotus flowers, red lotuses, white water lilies, and white lotuses to a figure of the Tathāgata or a stūpa of the Tathāgata; (2) not giving rise to harmful thoughts toward others; (3) causing figures to be made of the Tathāgata seated on a lotus; and (4) having strong faith in the certainty of the awakening of the Buddha.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-43">
+    <prop type="location-id">UT22084-043-011-96</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཀྱི་བྱང་ཆུབ་ལ་ངེས་པ་རྒྱ་ཆེར་མོས་པ་སྟེ། བུ་མོ་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་བཞི་པོ་དེ་དག་དང་ལྡན་ན་སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཀྱི་ཐད་དུ་རིན་པོ་ཆེ་ཆེན་པོའི་པདྨ་ལས་རྫུས་ཏེ་སྐྱེ་བར་འགྱུར་རོ། །དེ་ལ་འདི་སྐད་ཅེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Girl, these are the four dharmas the possession of which causes a bodhisattva to be reborn spontaneously from a lotus of precious substances in the presence of the buddhas, the bhagavāns.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-44">
+    <prop type="location-id">UT22084-043-011-259</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱེ་མ་མེ་ཏོག་བཀང་སྟེ་འབུལ་བ་དང་། །གནོད་སེམས་སྤོང་ཞིང་སྐུ་གཟུགས་བྱེད་པ་དང་། །མོས་པ་རྒྱ་ཆེན་ལ་ནི་གནས་བྱེད་ན། །རྒྱལ་བ་དག་གི་ཐད་དུ་རྫུས་ཏེ་སྐྱེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-259"/>“About this, it can also be said:<tei:milestone xml:id="UT22084-043-011-98"/> “One who offers handfuls of powders and flowers, Abstains from thoughts of harm, makes figures, And is established in strong faith Is reborn spontaneously in the presence of the victors.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-45">
+    <prop type="location-id">UT22084-043-011-99</prop>
+    <tuv xml:lang="bo">
+                <seg>བུ་མོ་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་བཞི་དང་ལྡན་ན་རྫུ་འཕྲུལ་གྱིས་སངས་རྒྱས་ཀྱི་ཞིང་ནས་སངས་རྒྱས་ཀྱི་ཞིང་དུ་འགྲོ་བར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-99"/>“Girl, there are four dharmas the possession of which enables a bodhisattva to go by means of superhuman powers from one buddha realm to another buddha realm.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-46">
+    <prop type="location-id">UT22084-043-011-99</prop>
+    <tuv xml:lang="bo">
+                <seg>བཞི་གང་ཞེ་ན། འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What are these four?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-47">
+    <prop type="location-id">UT22084-043-011-99</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞན་དག་གི་དགེ་བའི་རྩ་བའི་བར་ཆད་མི་བྱེད་པ་དང་། གཞན་དག་ཆོས་ཉན་པ་ལ་བར་ཆད་མི་བྱེད་པ་དང་། དེ་བཞིན་གཤེགས་པའི་མཆོད་རྟེན་དག་ལ་མར་མེ་འབུལ་བ་དང་། ཏིང་ངེ་འཛིན་སྒོམ་པ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are (1) not interfering with others’ roots of virtue, (2) not interfering as others hear the Dharma, (3) offering butter lamps to the stūpas of the Tathāgata, and (4) cultivating meditative concentration.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-48">
+    <prop type="location-id">UT22084-043-011-99</prop>
+    <tuv xml:lang="bo">
+                <seg>བུ་མོ་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་བཞི་པོ་དེ་དག་དང་ལྡན་ན་རྫུ་འཕྲུལ་གྱིས་སངས་རྒྱས་ཀྱི་ཞིང་ནས་སངས་རྒྱས་ཀྱི་ཞིང་དུ་འགྲོ་བར་འགྱུར་རོ། །དེ་ལ་འདི་སྐད་ཅེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Girl, these are the four dharmas the possession of which enables a bodhisattva to go by means of superhuman powers from one buddha realm to another buddha realm.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-49">
+    <prop type="location-id">UT22084-043-011-100</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་བ་དག་གི་བར་ཆད་མི་བྱེད་དང་། །གཞན་གྱི་ཆོས་གཏམ་དག་ལ་མི་སྨོད་དང་། །རྒྱལ་བའི་མཆོད་རྟེན་དག་ལ་མར་མེ་འབུལ། །ཏིང་འཛིན་བསྒོམས་པས་དེ་ནི་ཞིང་དུ་འགྲོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-100"/>“About this, it can also be said:<tei:milestone xml:id="UT22084-043-011-101"/> “Those who do not interfere with virtue, Do not criticize the Dharma teachings of others, Do offer butter lamps to stūpas of the Tathāgata, And cultivate meditative concentration will go to buddha realms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-50">
+    <prop type="location-id">UT22084-043-011-102</prop>
+    <tuv xml:lang="bo">
+                <seg>བུ་མོ་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་བཞི་དང་ལྡན་ན་དགྲ་ཟླ་མེད་པར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-102"/>“Girl, there are four dharmas the possession of which makes a bodhisattva free from enemies.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-51">
+    <prop type="location-id">UT22084-043-011-102</prop>
+    <tuv xml:lang="bo">
+                <seg>བཞི་གང་ཞེ་ན། འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What are these four?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-52">
+    <prop type="location-id">UT22084-043-011-102</prop>
+    <tuv xml:lang="bo">
+                <seg>གཡོ་མེད་པར་དགེ་བའི་བཤེས་གཉེན་དག་ལ་སྟེན་པ་དང་། དགེ་བའི་རྩ་བ་ལ་སེར་སྣ་མི་བྱེད་པ་དང་། གཞན་གྱི་རྙེད་པ་ལ་དགའ་བ་དང་། བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཀྱི་བྱ་བ་དང་གནས་པ་ཐམས་ཅད་ལ་ཁོང་ཁྲོ་བར་མི་བྱེད་ཅིང་མི་སྙན་པ་མི་སྒྲོགས་པ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are (1) one relies upon spiritual friends without any deceit, (2) one does not covet roots of virtue, (3) one feels joy in others’ gains, and (4) one does not give rise to anger or spread criticism about any of the states or deeds of bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-53">
+    <prop type="location-id">UT22084-043-011-102</prop>
+    <tuv xml:lang="bo">
+                <seg>བུ་མོ་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་བཞི་པོ་དེ་དག་དང་ལྡན་ན་དགྲ་ཟླ་མེད་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Girl, these are the four dharmas the possession of which makes a bodhisattva free from enemies.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-54">
+    <prop type="location-id">UT22084-043-011-105</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལ་འདི་སྐད་ཅེས་བྱ་སྟེ། དགེ་བའི་བཤེས་གཉེན་རྣམས་ལ་དེ་གཡོ་མེད། །གཞན་གྱི་རྙེད་ལ་དགའ་ཞིང་སེར་སྣ་མེད། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་ལ་མི་སྨོད་ན། །རྟག་ཏུ་དགྲ་ཟླ་མེད་པར་སྤྱོད་པར་འགྱུར། །<tei:ref folio="F.218.a"/>
+                </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-105"/>“About this, it can also be said:<tei:milestone xml:id="UT22084-043-011-106"/> “Having no deceit toward spiritual friends, Feeling joy and not envy toward others’ gains, And not criticizing the conduct of bodhisattvas, One will always be without enemies.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-55">
+    <prop type="location-id">UT22084-043-011-108</prop>
+    <tuv xml:lang="bo">
+                <seg>བུ་མོ་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་བཞི་དང་ལྡན་ན་ཚིག་བཙུན་པར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-108"/>“Girl, there are four dharmas the possession of which gives weight to a bodhisattva’s words.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-56">
+    <prop type="location-id">UT22084-043-011-108</prop>
+    <tuv xml:lang="bo">
+                <seg>བཞི་གང་ཞེ་ན། འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What are these four?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-57">
+    <prop type="location-id">UT22084-043-011-108</prop>
+    <tuv xml:lang="bo">
+                <seg>ཇི་སྐད་སྨྲས་པ་དེ་བཞིན་བྱེད་པ་དང་མཛའ་བོ་དག་ལ་ཡོད་པའི་རང་བཞིན་མི་འཆབ་པ་དང་། ཀླན་ཀ་མི་ཚོལ་བར་ཆོས་ཉན་པ་དང་། གཞན་ཆོས་སྨྲ་བ་དག་ལ་དཔྱ་སྐུར་མི་བྱེད་པ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are (1) doing what one says one will do, (2) not hiding one’s nature from friends, (3) listening to teachings without looking for faults, and (4) not slandering other teachers of the Dharma.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-58">
+    <prop type="location-id">UT22084-043-011-108</prop>
+    <tuv xml:lang="bo">
+                <seg>བུ་མོ་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་བཞི་པོ་དེ་དག་དང་ལྡན་ན་ཚིག་བཙུན་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Girl, these are the four dharmas the possession of which gives weight to a bodhisattva’s words.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-59">
+    <prop type="location-id">UT22084-043-011-110</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལ་འདི་སྐད་ཅེས་བྱ་སྟེ། ཇི་སྐད་སྨྲས་པ་དེ་བཞིན་བྱེད་པ་དང་། །མཛའ་ལ་ཡོད་པའི་རང་བཞིན་མི་འཆབ་ཅིང་། །ཀླན་ཀ་མི་ཚོལ་ཆོས་ནི་ཉན་བྱེད་ན། །འཇིགས་པ་མེད་ཅིང་ཚིག་ཀྱང་བཙུན་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-110"/>“About this, it can also be said:<tei:milestone xml:id="UT22084-043-011-111"/> “If one does what one says one will do, Does not hide one’s nature from friends, And listens to teachings without looking for faults, One will have no fear and also one’s words will have weight.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-60">
+    <prop type="location-id">UT22084-043-011-112</prop>
+    <tuv xml:lang="bo">
+                <seg>བུ་མོ་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་བཞི་དང་ལྡན་ན་ལས་ཀྱི་སྒྲིབ་པ་མེད་པར་འགྱུར་ཞིང་། །ཡོངས་སུ་དག་པ་ཡང་མྱུར་དུ་རྟོགས་པར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-112"/>“Girl, there are four dharmas the possession of which causes a bodhisattva to face no hindrance from karma and also quickly realize purity.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-61">
+    <prop type="location-id">UT22084-043-011-112</prop>
+    <tuv xml:lang="bo">
+                <seg>བཞི་གང་ཞེ་ན། འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What are these four?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-62">
+    <prop type="location-id">UT22084-043-011-112</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷག་པའི་བསམ་པ་བསྒྲུབས་པས་སྡོམ་པ་གསུམ་ཡང་དག་པར་ལེན་པ་དང་། མདོ་སྡེ་ཟབ་མོ་རྣམས་མི་སྤོང་བ་དང་། སེམས་དང་པོ་བསྐྱེད་པའི་བྱང་ཆུབ་སེམས་དཔའ་ལ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་དུ་འདུ་ཤེས་སྐྱེད་པ་དང་། སེམས་ཅན་ཐམས་ཅད་ལ་བྱམས་པ་སྒོམ་པ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are (1) one fully takes up the three vows with the establishment of one’s ambition, (2) one does not disdain the profound sūtras, (3) one considers a bodhisattva who has conceived the aspiration for awakening for the first time to be none other than the Omniscient One, and (4) one cultivates love for all beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-63">
+    <prop type="location-id">UT22084-043-011-112</prop>
+    <tuv xml:lang="bo">
+                <seg>བུ་མོ་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་བཞི་པོ་དེ་དག་དང་ལྡན་ན་ལས་ཀྱི་སྒྲིབ་པ་མེད་པར་འགྱུར་ཞིང་ཡོངས་སུ་དག་པ་ཡང་མྱུར་དུ་རྟོགས་པར་འགྱུར་རོ། །དེ་ལ་འདི་སྐད་ཅེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Girl, these are the four dharmas the possession of which causes a bodhisattva to face no hindrance from karma and also quickly realize purity.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-64">
+    <prop type="location-id">UT22084-043-011-114</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷག་པའི་བསམ་པས་སྡོམ་པ་གསུམ་ལ་གནས། །མདོ་སྡེ་ཟབ་མོ་རྣམས་ལ་རྟག་ཏུ་མོས། །སངས་རྒྱས་སྲས་ལ་ཐམས་ཅད་མཁྱེན་ལྟར་ལྟ། །སེམས་ཅན་རྣམས་ལ་བྱམས་པས་ལས་དག་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-114"/>“About this, it can also be said:<tei:milestone xml:id="UT22084-043-011-115"/> “Abiding by the three vows with ambition, Always being interested in the profound sūtras, Seeing the Buddha’s progeny as the Omniscient One, And having love for beings, one’s karma becomes pure.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-65">
+    <prop type="location-id">UT22084-043-011-116</prop>
+    <tuv xml:lang="bo">
+                <seg>བུ་མོ་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་བཞི་དང་ལྡན་ན་བདུད་ཀྱི་ལས་མེད་པར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-116"/>“Girl, there are four dharmas the possession of which causes a bodhisattva to encounter none of Māra’s work.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-66">
+    <prop type="location-id">UT22084-043-011-116</prop>
+    <tuv xml:lang="bo">
+                <seg>བཞི་གང་ཞེ་ན། འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What are these four?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-67">
+    <prop type="location-id">UT22084-043-011-116</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་མཉམ་པ་ཉིད་དུ་སྒོམ་པ་དང་། བརྩོན་འགྲུས་བརྩམས་པ་དང་། སངས་རྒྱས་རྗེས་སུ་དྲན་པ་སྒོམ་པ་དང་། དགེ་བའི་རྩ་བ་ཡོངས་སུ་སྔོ་བ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are (1) meditating on the sameness of all things, (2) undertaking heroic effort, (3) meditating on the recollection of the Buddha, and (4) dedicating the roots of virtue.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-68">
+    <prop type="location-id">UT22084-043-011-116</prop>
+    <tuv xml:lang="bo">
+                <seg>བུ་མོ་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་བཞི་པོ་དེ་དག་དང་ལྡན་ན་བདུད་ཀྱི་ལས་མེད་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Girl, these are the four dharmas the possession of which causes a bodhisattva to encounter none of Māra’s work.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-69">
+    <prop type="location-id">UT22084-043-011-118</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལ་འདི་སྐད་ཅེས་བྱ་སྟེ། ཆོས་རྣམས་ལ་ནི་ཆོས་ཀྱི་ཚུལ་རྟོགས་<tei:ref folio="F.218.b"/>ལ། །བརྩོན་འགྲུས་བརྩམས་ཤིང་སངས་རྒྱས་རྗེས་སུ་དྲན། །ཡོངས་སུ་སྔོ་ཞིང་བཤགས་དང་ཕྱག་འཚལ་བ། །དེ་ལ་བདུད་ཀྱིས་གླགས་ནི་རྙེད་མི་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-118"/>“About this, it can also be said:<tei:milestone xml:id="UT22084-043-011-119"/> “One who realizes the principle of dharma toward all things, Undertakes heroic effort, recollects the Buddha, And makes dedication, confession, and veneration— Māra will not find any opportunity to harm such a person.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-70">
+    <prop type="location-id">UT22084-043-011-120</prop>
+    <tuv xml:lang="bo">
+                <seg>བུ་མོ་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་བཞི་དང་ལྡན་ན་འཆི་བའི་དུས་ཀྱི་ཚེ་མདུན་དུ་སངས་རྒྱས་བཞུགས་ཤིང་དེ་ལས་ཆོས་ཀྱང་ཉན་ལ་སྡུག་བསྔལ་ཡང་མྱོང་བར་མི་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-120"/>“Girl, there are four dharmas a bodhisattva’s possession of which causes the Buddha to appear in the presence of that bodhisattva at the time of death and, at that time, to hear the Dharma from him, and also not to experience any suffering.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-71">
+    <prop type="location-id">UT22084-043-011-120</prop>
+    <tuv xml:lang="bo">
+                <seg>བཞི་གང་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What are these four?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-72">
+    <prop type="location-id">UT22084-043-011-120</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ། གཞན་དག་གི་བསམ་པ་ཡོངས་སུ་རྫོགས་པར་བྱེད་པ་དང་། མོས་པ་མང་བ་དང་། བྱང་ཆུབ་སེམས་དཔའི་སྦྱིན་པ་བཀོད་པ་སྣ་ཚོགས་ཉེ་བར་སྒྲུབ་པ་དང་། དཀོན་མཆོག་གསུམ་མཆོད་པ་ལ་བརྩོན་པ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are (1) fulfilling the wishes of others, (2) having great devotion, (3) gathering together a diverse array of the generosity of a bodhisattva, and (4) endeavoring to make offerings to the Three Jewels.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-73">
+    <prop type="location-id">UT22084-043-011-120</prop>
+    <tuv xml:lang="bo">
+                <seg>བུ་མོ་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་བཞི་པོ་དེ་དག་དང་ལྡན་ན་འཆི་བའི་དུས་ཀྱི་ཚེ་མདུན་དུ་སངས་རྒྱས་བཞུགས་ཤིང་དེ་ལས་ཆོས་ཀྱང་ཉན་ལ་སྡུག་བསྔལ་ཡང་མྱོང་བར་མི་འགྱུར་རོ། །དེ་ལ་འདི་སྐད་ཅེས་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Girl, these are the four dharmas a bodhisattva’s possession of which causes the Buddha to appear in the presence of that bodhisattva at the time of death and, at that time, to hear the Dharma from him, and also not to experience any suffering.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-74">
+    <prop type="location-id">UT22084-043-011-121</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནི་གཞན་གྱི་བསམ་པ་རྫོགས་བྱེད་ཅིང་། །མོས་པ་དང་ནི་སྦྱིན་པ་རྒྱ་ཆེ་བ། །མཁས་པ་དེ་ནི་རྟག་ཏུ་སྦྱིན་པར་བྱེད། །དེ་ཕྱིར་དེ་མདུན་དེ་བཞིན་གཤེགས་པ་བཞུགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-121"/>“About this, it can also be said:<tei:milestone xml:id="UT22084-043-011-122"/> “Those who fulfill the wishes of others, Have devotion and great generosity, And always make offerings to the wise— The Tathāgata appears to such people as a result.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-75">
+    <prop type="location-id">UT22084-043-011-123</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས་བཅོམ་ལྡན་འདས་ལ་བུ་མོ་བློ་གྲོས་བཟང་མོས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཙུན་པ་བཅོམ་ལྡན་འདས་བྱང་ཆུབ་སེམས་དཔའི་བསླབ་པ་ཇི་སྐད་བཅས་པ་འདི་དག་ལ་བདག་གིས་བསླབ་པར་འཚལ་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-123"/>After the Bhagavān had spoken thus, the girl Sumati said this to him: “Venerable Bhagavān, I want to train in the precepts of a bodhisattva exactly as you have taught them.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-76">
+    <prop type="location-id">UT22084-043-011-123</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་གལ་ཏེ་བདག་གིས་བཞི་པ་བཅུ་པོ་ཇི་སྐད་དུ་བཀའ་སྩལ་པ་འདི་དག་ལས་ཆོས་གཅིག་ཅིག་མ་སྤྱད་ན་ཡང་བདག་གིས་དེ་བཞིན་གཤེགས་པའི་སྐུ་བསླུས་པར་གྱུར་ཅིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Should I fail to practice even a single dharma from among these ten sets of four, exactly as you have taught them, Bhagavān, then I would be deceiving the figure of the Tathāgata.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-77">
+    <prop type="location-id">UT22084-043-011-124</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་གནས་བརྟན་མཽད་གལ་གྱི་བུ་ཆེན་པོས་བུ་མོ་བློ་གྲོས་བཟང་མོ་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ། །བུ་མོ་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཀྱི་སྤྱོད་པ་ནི་ཉམས་འོག་ཏུ་ཆུད་པར་དཀའ་ན་ཁྱོད་འདི་ལྟ་བུ་ཡང་དག་པར་ལེན་པར་བྱེད་ན། །ཅི་ཁྱོད་ཀྱིས་སེམས་ལ་དབང་ཐོབ་བམ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-124"/>The elder, the great Maudgalyāyana, then spoke to the girl Sumati in this way: “Girl, given that the conduct of the bodhisattvas is difficult to comprehend, have you attained mastery over your mind when you take it upon yourself to act fully in this way?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-78">
+    <prop type="location-id">UT22084-043-011-126</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་སྐད་ཅེས་སྨྲས་ནས་བུ་མོ་བློ་གྲོས་བཟང་མོས་ཚེ་དང་ལྡན་པ་མཽད་གལ་གྱི་བུ་ཆེན་པོ་ལ། འདི་སྐད་ཅེས་སྨྲས་སོ། །བཙུན་པ་མཽད་གལ་གྱི་བུ་བདེན་པ་དང་བདེན་པའི་ཚིག་<tei:ref folio="F.219.a"/>གང་གིས་བདག་གིས་ཆོས་ཐམས་ཅད་ཡོངས་སུ་རྫོགས་པར་བྱེད་པར་འགྱུར་བའི་བདེན་པ་དང་བདེན་པའི་ཚིག་དེས་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་འདི་རྣམ་པ་དྲུག་ཏུ་གཡོས་ཏེ་ལྷའི་མེ་ཏོག་གི་ཆར་འབབ་པར་གྱུར་ཅིག །མ་དཀྲོལ་བར་ཡང་སིལ་སྙན་གྱི་སྒྲ་འབྱུང་བར་གྱུར་ཅིག་ཅེས་བྱས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-126"/>The girl Sumati replied to the venerable one, the great Maudgalyāyana, “By the truth and by these words of truth, Venerable Maudgalyāyana, that is, by the truth and the words of truth that I will realize all these dharmas, may this cosmos of a billion worlds shake in six different ways, may there be a shower of heavenly flowers, and may the sound of musical instruments spontaneously arise!”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-79">
+    <prop type="location-id">UT22084-043-011-127</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བུ་མོ་བློ་གྲོས་བཟང་མོས་དེ་ལྟར་བདེན་པའི་བྱིན་བརླབས་བྱས་མ་ཐག་ཏུ་དེའི་མོད་ལ་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་འདི་རྣམ་པ་དྲུག་ཏུ་གཡོས་ཏེ། ལྷའི་མེ་ཏོག་གི་ཆར་བབ་པར་གྱུར་ཅིང་། མ་དཀྲོལ་བར་ལྷའི་སིལ་སྙན་གྱི་སྒྲ་ཡང་བྱུང་བར་གྱུར་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-127"/>Thereafter, as soon as the girl Sumati had made the truthful resolution, at that moment the cosmos of a billion worlds shook in six different ways, a shower of heavenly flowers fell, and the sound of musical instruments spontaneously arose.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-80">
+    <prop type="location-id">UT22084-043-011-128</prop>
+    <tuv xml:lang="bo">
+                <seg>བཙུན་པ་མཽད་གལ་གྱི་བུ་བདེན་པ་དང་བདེན་པའི་ཚིག་གང་གིས། ད་ལྟར་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཤཱཀྱ་ཐུབ་པ་ཇི་ལྟ་བ་དེ་བཞིན་དུ་མ་འོངས་པའི་དུས་ན་བདག་དེ་བཞིན་གཤེགས་པར་འགྱུར་ཞིང་། སངས་རྒྱས་ཀྱི་ཞིང་དེར་བདག་ལ་བདུད་ཀྱང་འབྱུང་བར་མི་འགྱུར་བ་དང་། ངན་སོང་རྣམས་ཀྱི་མིང་ཡང་མེད་པ་དང་། བུད་མེད་ཀྱི་སྐྱོན་རྣམས་མེད་པར་འགྱུར་བའི་བདེན་པ་དང་བདེན་པའི་ཚིག་དེས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-128"/>“Venerable Maudgalyāyana,” she said, “by the truth and by these words of truth—that is, by the truth and by these words of truth to the effect that I will become a tathāgata in the future just like the present tathāgata, arhat, perfect and completely awakened Buddha Śākyamuni, and that in that buddha realm, Māra will not appear to me, not even the name of the lower realms of rebirth will arise there, and the faults of women will not exist there—may this assembly become golden in color!”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-81">
+    <prop type="location-id">UT22084-043-011-130</prop>
+    <tuv xml:lang="bo">
+                <seg>འཁོར་འདི་གསེར་གྱི་ཁ་དོག་ཅན་དུ་གྱུར་ཅིག །བུ་མོ་བློ་གྲོས་བཟང་མོས་ཚིག་དེ་སྐད་ཅེས་སྨྲས་མ་ཐག་ཏུ་དེའི་མོད་ལ་ཐམས་ཅད་དང་ལྡན་པའི་འཁོར་དེ་གསེར་གྱི་ཁ་དོག་ཅན་དུ་གྱུར་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-130"/>As soon as the girl Sumati uttered these words, at that same moment, the entire assembly became golden in color.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-82">
+    <prop type="location-id">UT22084-043-011-131</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ཚེ་དང་ལྡན་པ་མཽད་གལ་གྱི་བུ་ཆེན་པོ་སྟན་ལས་ལངས་ཏེ་ཆོས་གོས་ཕྲག་པ་གཅིག་ཏུ་བགོས་ནས་པུས་མོ་གཡས་པའི་ལྷ་ང་ས་ལ་བཙུགས་ཏེ། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་བདག་ནི་སེམས་དང་པོ་བསྐྱེད་པ་ནས་བཟུང་སྟེ་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-131"/>Thereafter, the great Maudgalyāyana, the highly respected one, arose from his seat, draped his upper robe on one shoulder, knelt on his right knee, and with his palms joined together in a gesture of respect, he bowed to the Bhagavān and said this to him, “I bow to all the bodhisattvas, Bhagavān, beginning with those who have conceived the aspiration for awakening for the first time.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-83">
+    <prop type="location-id">UT22084-043-011-132</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པས་བུ་མོ་བློ་གྲོས་བཟང་མོ་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ། །བློ་གྲོས་བཟང་མོ་ཁྱོད་ཆོས་གང་ལ་གནས་ཏེ་བདེན་པའི་བྱིན་གྱི་རླབས་འདི་བྱས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-132"/>Thereupon, Mañjuśrī Kumārabhūta asked the girl Sumati, “Based upon which dharma, Sumati, did you make this truthful resolution?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-84">
+    <prop type="location-id">UT22084-043-011-133</prop>
+    <tuv xml:lang="bo">
+                <seg>བློ་གྲོས་བཟང་མོས་སྨྲས་པ། འཇམ་<tei:ref folio="F.219.b"/>དཔལ་ཆོས་ཀྱི་དབྱིངས་ནི་གནས་པ་མ་མཆིས་པས་དེ་ལ་གནས་པར་མི་ནུས་ཏེ་འདི་ལ་དྲི་བ་མ་མཆིས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-133"/>“Mañjuśrī,” Sumati replied, “Since the dharmadhātu has no basis, nothing can be based upon it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-85">
+    <prop type="location-id">UT22084-043-011-133</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་གྱིས་སྨྲས་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, there is no question about it.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-86">
+    <prop type="location-id">UT22084-043-011-134</prop>
+    <tuv xml:lang="bo">
+                <seg>བློ་གྲོས་བཟང་མོ་བྱང་ཆུབ་ཅེས་བྱ་བ་འདི་གང་གི་ཚིག་བླ་དགས་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-134"/>“Sumati, to what does the term awakening refer?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-87">
+    <prop type="location-id">UT22084-043-011-134</prop>
+    <tuv xml:lang="bo">
+                <seg>བློ་གྲོས་བཟང་མོས་སྨྲས་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Mañjuśrī་ asked.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-88">
+    <prop type="location-id">UT22084-043-011-135</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་བྱང་ཆུབ་ཅེས་བགྱི་བ་ནི་རྣམ་པར་མི་རྟོག་པའི་ཆོས་ཀྱི་ཚིག་བླ་དགས་སོ། །འཇམ་དཔལ་གྱིས་སྨྲས་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-135"/>“Mañjuśrī,” Sumati replied, “the term awakening refers to a dharma that is not conceptualized.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-89">
+    <prop type="location-id">UT22084-043-011-136</prop>
+    <tuv xml:lang="bo">
+                <seg>བློ་གྲོས་བཟང་མོ་འདི་ལྟར་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་བྱ་བ་འདི་གང་གི་ཚིག་བླ་དགས་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-136"/>Mañjuśrī asked, “Sumati, to what does the term bodhisattva refer?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-90">
+    <prop type="location-id">UT22084-043-011-137</prop>
+    <tuv xml:lang="bo">
+                <seg>བློ་གྲོས་བཟང་མོས་སྨྲས་པ། འཇམ་དཔལ་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་བགྱི་བ་ནི་ནམ་མཁའ་དང་མཉམ་པ་ཉིད་ཀྱི་ཆོས་ཀྱི་ཚིག་བླ་དགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-137"/>Sumati replied, “Mañjuśrī, the term bodhisattva refers to a dharma that has the same nature as space.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-91">
+    <prop type="location-id">UT22084-043-011-138</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་གྱིས་སྨྲས་པ། བློ་གྲོས་བཟང་མོ་ཅི་དེ་བཞིན་གཤེགས་པ་ཡང་བྱང་ཆུབ་ཀྱི་ཕྱིར་སྤྱོད་པ་མཛད་དམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-138"/>“Sumati,” Mañjuśrī asked, “did the Tathāgata also perform acts for the sake of awakening?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-92">
+    <prop type="location-id">UT22084-043-011-139</prop>
+    <tuv xml:lang="bo">
+                <seg>བློ་གྲོས་བཟང་མོས་སྨྲས་པ། འཇམ་དཔལ་དཔེར་ན་སྨིག་རྒྱུ་དང་བྲག་ཅས་བྱང་ཆུབ་ཀྱི་ཕྱིར་སྤྱོད་པ་དེ་བཞིན་དུ་དེ་བཞིན་གཤེགས་པས་ཀྱང་བྱང་ཆུབ་ཀྱི་ཕྱིར་སྤྱོད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-139"/>“Just as a mirage or an echo acts for the sake of awakening,” Sumati replied, “the Tathāgata acted in the same way for the sake of awakening.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-93">
+    <prop type="location-id">UT22084-043-011-140</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་གྱིས་སྨྲས་པ། བློ་གྲོས་བཟང་མོ་ཁྱོད་ཀྱིས་ཅི་ལས་བསམས་ཏེ་དེ་སྐད་ཅེས་སྨྲས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-140"/>“What were you thinking of, Sumati, when you said this?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-94">
+    <prop type="location-id">UT22084-043-011-140</prop>
+    <tuv xml:lang="bo">
+                <seg>བློ་གྲོས་བཟང་མོས་སྨྲས་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Mañjuśrī asked.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-95">
+    <prop type="location-id">UT22084-043-011-141</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་འདི་ལ་ཆོས་འགའ་ལ་ཡང་བསམ་པ་འམ། བསམ་པ་མ་ལགས་པ་མ་མཆིས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-141"/>“About this, Mañjuśrī,” Sumati replied, “I was neither thinking nor not thinking of any dharma whatsoever.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-96">
+    <prop type="location-id">UT22084-043-011-142</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་གྱིས་སྨྲས་པ། བློ་གྲོས་བཟང་མོ་བསམ་པ་དེ་ལྟ་བུ་ཡིན་དུ་ཟིན་ན་བྱིས་པ་ཐམས་ཅད་ཀྱང་བྱང་ཆུབ་ཏུ་འགྱུར་རོ། །བློ་གྲོས་བཟང་མོས་སྨྲས་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-142"/>“If it is as you think, Sumati,” Mañjuśrī said, “then every childish being would be awakened.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-97">
+    <prop type="location-id">UT22084-043-011-143</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་འདི་ཇི་སྙམ་དུ་དགོངས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-143"/>“What do you think, Mañjuśrī?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-98">
+    <prop type="location-id">UT22084-043-011-143</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱིས་པ་རྣམས་ཀྱང་གཞན་ལ་མཁས་པ་རྣམས་ཀྱང་གཞན་ཏེ་བྱང་ཆུབ་ཀྱང་གཞན་པར་དེ་ལྟར་གཟིགས་སམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Sumati replied. “Do you see childish beings as different from the wise, and awakening too as different from them?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-99">
+    <prop type="location-id">UT22084-043-011-143</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཅིའི་སླད་དུ་ཞེ་ན། འདི་ལྟ་སྟེ། ཆོས་ཀྱི་དབྱིངས་ཀྱི་ཚུལ་དུ་འདི་ནི་དབྱིངས་གཅིག་པ་ལགས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If you wonder why I say this, it is because the dharmadhātu contains only one constituent element.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-100">
+    <prop type="location-id">UT22084-043-011-143</prop>
+    <tuv xml:lang="bo">
+                <seg>བླང་བ་མ་མཆིས་ཤིང་དོར་བ་མ་མཆིས་ལ་སྒྲོ་བཏགས་པ་མ་མཆིས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When there is nothing to take up and nothing to cast away, there is nothing to superimpose on anything else.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-101">
+    <prop type="location-id">UT22084-043-011-144</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་གྱིས་སྨྲས་པ། བློ་གྲོས་བཟང་མོ་བཤད་པ་འདིའི་དོན་ཤེས་པ་ཇི་སྙེད་ཅིག་ཡོད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-144"/>Mañjuśrī asked, “Sumati, how many understand the meaning of what you have said?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-102">
+    <prop type="location-id">UT22084-043-011-145</prop>
+    <tuv xml:lang="bo">
+                <seg>བློ་གྲོས་བཟང་མོས་སྨྲས་པ། འཇམ་དཔལ་བཤད་པ་འདིའི་དོན་འཚལ་བ་ནི་སྒྱུ་མ་སྤྲུལ་པའི་སེམས་དང་སེམས་ལས་བྱུང་བ་ཇི་སྙེད་མཆིས་པ་དེ་སྙེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-145"/>Sumati replied, “Mañjuśrī, the number of those who understand the meaning of what I have said is equal in number to the minds and mental factors of illusory beings created by magic.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-103">
+    <prop type="location-id">UT22084-043-011-146</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་གྱིས་སྨྲས་པ། <tei:ref folio="F.220.a"/>བློ་གྲོས་བཟང་མོ་སྤྲུལ་པ་ཉིད་ཀྱང་མེད་ན་དེའི་སེམས་དང་སེམས་ལས་བྱུང་བ་ལྟ་ག་ལ་ཡོད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-146"/>“Sumati,” Mañjuśrī asked, “if illusory beings themselves do not even exist, how can their minds and mental factors exist?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-104">
+    <prop type="location-id">UT22084-043-011-147</prop>
+    <tuv xml:lang="bo">
+                <seg>བློ་གྲོས་བཟང་མོས་སྨྲས་པ། འཇམ་དཔལ་ཆོས་ཀྱི་དབྱིངས་ནི་མཆིས་པ་ཡང་མ་ལགས། མ་མཆིས་པ་ཡང་མ་ལགས་ཏེ། དེ་བཞིན་གཤེགས་པ་ཡང་དེ་དང་འདྲའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-147"/>“Mañjuśrī,” Sumati replied, “the dharmadhātu is neither existent nor nonexistent, and the Tathāgata is like that too.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-105">
+    <prop type="location-id">UT22084-043-011-148</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ལ་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་འདི་ལྟར་བུ་མོ་བློ་གྲོས་བཟང་མོ་འདི་ཟབ་མོའི་བཟོད་པ་དང་ལྡན་པ་ནི་ངོ་མཚར་ལགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-148"/>Mañjuśrī Kumārabhūta then said this to the Bhagavān: “The extent to which the girl Sumati has an acceptance of the profound is truly marvelous, Bhagavān!”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-106">
+    <prop type="location-id">UT22084-043-011-149</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། འཇམ་དཔལ་དེ་དེ་བཞིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-149"/>“It is just so, Mañjuśrī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-107">
+    <prop type="location-id">UT22084-043-011-149</prop>
+    <tuv xml:lang="bo">
+                <seg>ཇི་སྐད་སྨྲས་པ་དེ་བཞིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is just as you have said,” replied the Bhagavān.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-108">
+    <prop type="location-id">UT22084-043-011-149</prop>
+    <tuv xml:lang="bo">
+                <seg>བུ་མོ་བློ་གྲོས་བཟང་མོ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལ་ཡང་དག་པར་ཞུགས་ནས་བསྐལ་པ་སུམ་ཅུ་ལོན་པའི་འོག་ཏུ་གདོད་ངས་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་སེམས་བསྐྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>“Within thirty eons from the time that the girl Sumati became well established on the path to perfect and complete awakening, I first conceived the aspiration for unsurpassable, perfect, and complete awakening.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-109">
+    <prop type="location-id">UT22084-043-011-149</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྱོད་ཀྱང་བུ་མོ་བློ་གྲོས་བཟང་མོ་འདི་ཉིད་ཀྱིས་མི་སྐྱེ་བའི་ཆོས་ལ་ཞུགས་པར་བྱས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You, too, were introduced to the idea that things do not arise by this same girl, Sumati.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-110">
+    <prop type="location-id">UT22084-043-011-150</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་སྟན་ལས་ལངས་ཏེ་བུ་མོ་བློ་གྲོས་བཟང་མོ་ལ་ཕྱག་བྱས་ནས་ཚིག་འདི་སྐད་དུ་བདག་གིས་སློབ་དཔོན་ཡུན་རིང་མོ་ཞིག་ན་མཐོང་ཞེས་ཀྱང་སྨྲས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-150"/>At that point, Mañjuśrī Kumārabhūta rose from his seat, bowed to the girl Sumati, and spoke these words: “I am seeing my teacher after a long time.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-111">
+    <prop type="location-id">UT22084-043-011-151</prop>
+    <tuv xml:lang="bo">
+                <seg>བློ་གྲོས་བཟང་མོས་སྨྲས་པ། འཇམ་དཔལ་མ་རྟོག་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-151"/>“Do not form a concept, Mañjuśrī,” Sumati replied.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-112">
+    <prop type="location-id">UT22084-043-011-151</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཅིའི་ཕྱིར་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>“Why do I say this?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-113">
+    <prop type="location-id">UT22084-043-011-151</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་སྐྱེ་བའི་ཆོས་ལ་བཟོད་པ་ནི་རྣམ་པར་མི་རྟོག་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is because the acceptance of the fact that things do not arise is not something conceptual.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-114">
+    <prop type="location-id">UT22084-043-011-152</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་གྱིས་སྨྲས་པ། ཅིའི་ཕྱིར་སློབ་དཔོན་གྱིས་བུད་མེད་ཀྱི་ལུས་ལས་ད་དུང་མ་བསྒྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-152"/>Mañjuśrī asked, “Why has my teacher not yet transformed herself from her female body?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-115">
+    <prop type="location-id">UT22084-043-011-153</prop>
+    <tuv xml:lang="bo">
+                <seg>བློ་གྲོས་བཟང་མོས་སྨྲས་པ། འཇམ་དཔལ་འདི་ནི་བུད་མེད་དོ། །འདི་ནི་སྐྱེས་པའོ་ཞེས་བྱ་བ་དེ་ནི་དམིགས་པ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-153"/>“Mañjuśrī,” responded Sumati, “to say that ‘this is a woman’ or ‘this is a man’ implies an objective basis.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-116">
+    <prop type="location-id">UT22084-043-011-153</prop>
+    <tuv xml:lang="bo">
+                <seg>འོན་ཀྱང་ཁྱོད་ཀྱི་ཐེ་ཚོམ་མེད་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>However, your doubt should be removed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-117">
+    <prop type="location-id">UT22084-043-011-153</prop>
+    <tuv xml:lang="bo">
+                <seg>བདེན་པ་གང་གིས་བདག་མ་འོངས་པའི་དུས་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སུ་འགྱུར་བའི་བདེན་པ་དེས་བདག་སྐྱེས་པར་གྱུར་ཅིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>By the truth, that is, by the truth that I will become a tathāgata, a perfect and complete buddha in the future, may I become a man.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-118">
+    <prop type="location-id">UT22084-043-011-155</prop>
+    <tuv xml:lang="bo">
+                <seg>བུ་མོ་བློ་གྲོས་བཟང་མོས་ཚིག་དེ་སྐད་ཅེས་སྨྲས་མ་ཐག་ཏུ་དེའི་མོད་ལ་དེའི་བུད་མེད་ཀྱི་དངོས་པོ་མི་སྣང་བར་གྱུར་ནས་སྐྱེས་པར་རེད་དེ་ཆོས་གོས་ངུར་སྨྲིག་གྱོན་ནས་དེས་འདི་སྐད་དུ་བདེན་པ་གང་གིས་བདག་གིས་བྱང་ཆུབ་ཐོབ་པ་ན་དགེ་སློང་ཚུར་ཤོག་ཅེས་བྱས་པས་རབ་ཏུ་འབྱུང་བར་<tei:ref folio="F.220.b"/>འགྱུར་བ་དང་། བདག་གི་སངས་རྒྱས་ཀྱི་ཞིང་དེར་བདུད་ཀྱང་འབྱུང་བར་མི་འགྱུར་བ་དང་། ངན་སོང་གི་མིང་ཡང་མེད་པ་དང་། བུད་མེད་ཀྱི་སྐྱོན་རྣམས་ཀྱང་མེད་པར་འགྱུར་བའི་བདེན་པ་དང་བདེན་པའི་ཚིག་དེས་བདག་དགེ་སློང་བསྙེན་པར་རྫོགས་ནས་ལོ་སུམ་ཅུ་ལོན་པའི་སྤྱོད་ལམ་ཅི་འདྲ་བ་དེ་ལྟ་བུར་གྱུར་ཅིག་ཅེས་བྱས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-155"/>As soon as the girl Sumati uttered these words her female body vanished and she was transformed into a man wearing saffron-colored monastic robes, who then spoke these words: “By the truth that when I attain awakening, ordinations will occur through my utterance of the words ‘Come, monk,’ and no Māra will exist in my buddha realm, not even the name of the lower realms will exist there, and the faults of women will also not exist there—by that truth, and by those words of truth, may my demeanor become just like the demeanor of a monk who has been ordained for thirty years.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-119">
+    <prop type="location-id">UT22084-043-011-156</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་བློ་གྲོས་བཟང་པོས་ཚིག་འདི་སྐད་སྨྲས་མ་ཐག་ཏུ་དེའི་མོད་ལ་དགེ་སློང་བསྙེན་པར་རྫོགས་ནས་ལོ་སུམ་ཅུ་ལོན་པའི་སྤྱོད་ལམ་ཅི་འདྲ་བ་དེ་ལྟ་བུར་གྱུར་ཏོ། །འཇམ་དཔལ་བདེན་པ་དང་བདེན་པའི་ཚིག་གང་གིས་བདག་གི་སངས་རྒྱས་ཀྱི་ཞིང་དུ་སེམས་ཅན་རྣམས་ཀྱི་ལུས་གསེར་གྱི་ཁ་དོག་ལྟ་བུར་འགྱུར་བ་དང་། བསམ་པས་བཟའ་བ་དང་བཏུང་བ་འགྲུབ་པར་འགྱུར་ཏེ། གཞན་འཕྲུལ་དབང་བྱེད་ཀྱི་ལྷ་རྣམས་ཀྱི་ལོངས་སྤྱོད་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-156"/>As soon as these words had been uttered, the demeanor of the bodhisattva Sumati became just like that of someone who had been ordained as a monk for thirty years.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-120">
+    <prop type="location-id">UT22084-043-011-157</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡོངས་སུ་སྤྱོད་པ་ཇི་ལྟ་བ་བཞིན་དུ་འགྱུར་བ་དང་། །སངས་རྒྱས་ཀྱི་ཞིང་དེ་ན་ངན་སོང་གསུམ་ཡོངས་སུ་སྤངས་པར་འགྱུར་བ་དང་། རིན་པོ་ཆེ་སྣ་བདུན་གྱི་ཤིང་ལྗོན་པ་དང་། རིན་པོ་ཆེའི་དྲ་བས་ཡོངས་སུ་བསྐོར་ཅིང་རིན་པོ་ཆེ་སྣ་བདུན་གྱི་པདྨ་དག་གིས་རྒྱས་ལ་སྟེང་རིན་པོ་ཆེའི་བླ་རེ་བྲེས་ཏེ། འཇམ་དཔལ་གྱི་སངས་རྒྱས་ཀྱི་ཞིང་ཅི་འདྲ་བ་ཁོ་ན་དང་མཉམ་ཞིང་མི་ལྷག་པ་དེ་ལྟ་བུར་འགྱུར་བའི་བདེན་པ་དང་བདེན་པའི་ཚིག་དེས་འཁོར་འདི་གསེར་གྱི་ཁ་དོག་ཅན་དུ་གྱུར་ཅིག་ཅེས་བྱས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-157"/>“Mañjuśrī,” continued the bodhisattva Sumati, “by the truth and the words of truth—that beings in my buddha realm will have golden-colored bodies, food and drink will be acquired there merely by wishing for it, and the riches and enjoyments there will be just like those of the gods in the Heaven of Making Use of Others’ Emanations; In that buddha realm, the three lower realms will not be included; and the trees there will be made of seven precious substances, it will be surrounded by jeweled lattices, ornamented with lotuses made of seven precious substances and with jeweled canopies spread above, and that it will be a superior realm at least equal to the buddha realm of Mañjuśrī—by that truth and by those words of truth, may this assembly become golden in color.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-121">
+    <prop type="location-id">UT22084-043-011-158</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བྱང་ཆུབ་སེམས་དཔའ་བློ་གྲོས་བཟང་པོས་ཚིག་དེ་སྐད་སྨྲས་མ་ཐག་ཏུ་དེའི་མོད་ལ་ཐམས་ཅད་དང་ལྡན་པའི་འཁོར་དེ་གསེར་གྱི་ཁ་དོག་ཅན་དུ་གྱུར་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-158"/>As soon as the bodhisattva Sumati uttered these words, the entire assembly became golden in color.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-122">
+    <prop type="location-id">UT22084-043-011-159</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ས་བླའི་ལྷ་རྣམས་ཀྱི་ལྷའི་ལུས་ཀྱིས་གཅིག་ནས་གཅིག་ཏུ་སྒྲ་བསྒྲགས་ཤིང་སྐད་ཀྱིས་གོ་བར་བྱས་ཏེ། ཀྱེ་མ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བློ་གྲོས་བཟང་པོ་བྱང་ཆུབ་ཐོབ་པའི་སངས་རྒྱས་ཀྱི་ཞིང་གི་ཡོན་ཏན་བཀོད་པ་ནི་དེ་ལྟ་བུར་འགྱུར་རོ་ཞེས་ཆེད་དུ་བརྗོད་པ་འདི་ཆེད་དུ་བརྗོད་དོ། །དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་བཀའ་སྩལ་པ། འཇམ་དཔལ་བྱང་ཆུབ་སེམས་དཔའ་བློ་གྲོས་བཟང་པོ་འདི་ནི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རིག་པ་དང་<tei:ref folio="F.221.a"/>ཞབས་སུ་ལྡན་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-159"/>At that point, the divine multitude of sky-dwelling gods exclaimed and informed each other in these words: “O, the bodhisattva mahāsattva Sumati has just made an inspired utterance about the nature of the array of qualities of the buddha realm in which that bodhisattva will attain awakening!”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-123">
+    <prop type="location-id">UT22084-043-011-160</prop>
+    <tuv xml:lang="bo">
+                <seg>བདེ་བར་གཤེགས་པ། འཇིག་རྟེན་མཁྱེན་པ། སྐྱེས་བུ་འདུལ་བའི་ཁ་ལོ་སྒྱུར་བ་བླ་ན་མེད་པ། ལྷ་དང་མི་རྣམས་ཀྱི་སྟོན་པ། སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཡོན་ཏན་རིན་ཆེན་དཔལ་གྱི་སྙིང་པོ་ཞེས་བྱ་བ་འཇིག་རྟེན་དུ་འབྱུང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-160"/>The Bhagavān then said to Mañjuśrī Kumārabhūta, “Mañjuśrī, this bodhisattva Sumati will appear in the world as a tathāgata, an arhat, a perfect and complete buddha, perfect in knowledge and conduct, a sugata, a knower of the world, a supreme trainer of those who are ready to be trained, a teacher to gods and humans, a bhagavān, a buddha named Essence of Splendorous and Precious Qualities.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-124">
+    <prop type="location-id">UT22084-043-011-161</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བཀའ་སྩལ་པ་ན། སྲོག་ཆགས་བྱེ་བ་ཕྲག་སུམ་ཅུ་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལས་ཕྱིར་མི་ལྡོག་པ་ཉིད་ལ་ཡང་དག་པར་གནས་པར་གྱུར་ཏོ། །ལྷ་བྱེ་བ་ཕྲག་བརྒྱད་ཅུ་ནི་ཆོས་རྣམས་ལ་ཆོས་ཀྱི་མིག་རྡུལ་མེད་ཅིང་དྲི་མ་དང་བྲལ་བ་རྣམ་པར་དག་གོ །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-161"/>When the Bhagavān gave this Dharma discourse, three hundred million beings became established in the state of not turning back from unsurpassable, perfect, and complete awakening; eight hundred million gods purified the eye of Dharma with respect to things, so that it became spotless and free of impurities; and one hundred thousand beings had a direct realization of knowledge.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-125">
+    <prop type="location-id">UT22084-043-011-162</prop>
+    <tuv xml:lang="bo">
+                <seg>སྲོག་ཆགས་བརྒྱ་སྟོང་གིས་ནི་ཡེ་ཤེས་མངོན་པར་རྟོགས་པར་གྱུར་ཏོ། །བྱང་ཆུབ་སེམས་དཔའི་ཐེག་པ་པའི་དགེ་སློང་བྱང་ཆུབ་ཀྱི་སེམས་ལས་ཕྱིར་མི་ལྡོག་པར་འདོད་པ་ལྔ་སྟོང་ཙམ་ཡང་བྱང་ཆུབ་སེམས་དཔའ་བློ་གྲོས་བཟང་པོའི་ལྷག་པའི་བསམ་པ་རྟོགས་ཤིང་དགེ་བའི་རྩ་བའི་ཆེ་བ་ཉིད་མཐོང་ནས་དེ་དག་རང་རང་གི་བླ་གོས་བཅོམ་ལྡན་འདས་ཀྱི་སྐུ་ལ་གསོལ་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-162"/>Around five thousand monks on the bodhisattva path, who wished not to turn back from the aspiration for awakening, realized the ambition of the bodhisattva Sumati and saw the greatness of the bodhisattva’s roots of virtue.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-126">
+    <prop type="location-id">UT22084-043-011-162</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷག་པའི་བསམ་པས་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་ཡོངས་སུ་བསྔོས་ནས་ཚིག་འདི་སྐད་དུ་བཅོམ་ལྡན་འདས་བདག་ཅག་གི་དགེ་བའི་རྩ་བ་འདི་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་ངེས་པར་གྱུར་ཅིག་ཅེས་སྨྲས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>So, all of them put their monastic robes on the body of the Bhagavān, and with their ambition directed toward unsurpassable, perfect, and complete awakening, they made the following dedication: “Bhagavān, may our roots of virtue be certain to lead to unsurpassable, perfect, and complete awakening.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-127">
+    <prop type="location-id">UT22084-043-011-163</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དེ་དག་གིས་དགེ་བའི་རྩ་བ་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་ཡོངས་སུ་བསྔོས་མ་ཐག་ཏུ་བསྐལ་པ་དགུ་བཅུའི་འཁོར་བ་བསྙིལ་ཏེ་བོར་ནས་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལས་ཕྱིར་མི་ལྡོག་པར་གནས་པར་གྱུར་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-163"/>As soon as the monks dedicated their roots of virtue to unsurpassable, perfect, and complete awakening, after ninety eons of saṃsāra had passed and were left behind, they attained the state of not turning back from the unsurpassable, perfect, and complete awakening.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-128">
+    <prop type="location-id">UT22084-043-011-164</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དག་ཐམས་ཅད་ཀྱང་བཅོམ་ལྡན་འདས་ཀྱིས་ལུང་བསྟན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-164"/>The Bhagavān also made a prophecy for all of them.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-129">
+    <prop type="location-id">UT22084-043-011-164</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་དགེ་སློང་འདི་དག་ནི་བསྐལ་པ་བཅུ་གཉིས་ན་བསྐལ་པ་དྲི་མ་མེད་པའི་འོད་ཅེས་བྱ་བ་ལ་དེ་བཞིན་གཤེགས་པ་བཟོད་པར་དཀའ་བའི་སངས་རྒྱས་ཀྱི་ཞིང་འཇིག་རྟེན་གྱི་ཁམས་འོད་ཟེར་ཅན་དུ་བསྐལ་པ་གཅིག་ལ་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་བར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He said, “After twelve eons, Mañjuśrī, over the course of a single eon, an eon called Vimalaprabhāsa, all these monks will awaken to unsurpassable, perfect, and complete awakening. They will do so in the buddha realm of the Tathāgata Duṣprasaha in the world system called Mārīcī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-130">
+    <prop type="location-id">UT22084-043-011-164</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་སྤོབས་པའི་རྒྱན་ཅེས་བྱ་བར་ཐམས་ཅད་མིང་འཐུན་པར་འཇིག་རྟེན་དུ་འབྱུང་བར་<tei:ref folio="F.221.b"/>འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>All of them will appear as tathāgatas in that world and will have a single name: Adornment of Eloquence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-131">
+    <prop type="location-id">UT22084-043-011-168</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་དེ་ལྟར་ན་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ནི་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་དང་། ཉན་ཐོས་རྣམས་ལ་རྫུ་འཕྲུལ་ཆེན་པོ་བྱེད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-168"/>“In that way, Mañjuśrī, this Dharma discourse will cause bodhisattva mahāsattvas and śrāvakas to become great in the possession of superhuman powers.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-132">
+    <prop type="location-id">UT22084-043-011-169</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་རིགས་ཀྱི་བུ་འམ། རིགས་ཀྱི་བུ་མོ་བྱང་ཆུབ་འདོད་པ་གང་གིས་བསྐལ་པ་སྟོང་གི་བར་དུ་ཐབས་མཁས་པ་དང་མ་བྲལ་བས་ཕ་རོལ་ཏུ་ཕྱིན་པ་དྲུག་སྤྱད་ལ་གང་གིས་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་བྲིས་ནས་ཟླ་བ་ཕྱེད་ཀྱི་བར་དུ་ལན་རེ་བླགས་ན་བསོད་ནམས་ཀྱི་ཕུང་པོ་སྔ་མས་ནི་བསོད་ནམས་ཀྱི་ཕུང་པོ་འདིའི་བརྒྱའི་ཆར་ཡང་མི་ཕོད། སྟོང་གི་ཆ་དང་། བརྒྱ་སྟོང་གི་ཆ་དང་། བྱེ་བ་བརྒྱ་སྟོང་གི་ཆ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-169"/>“Even if sons and daughters from good families who aspire for awakening practice the six perfections with skillful means for a thousand eons, Mañjuśrī, their accumulation of merit will not equal even a hundredth, a thousandth, a hundred thousandth, or a thousand billionth of the merit accumulated by those who write down this Dharma discourse or listen to it even once during a half-month period.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-133">
+    <prop type="location-id">UT22084-043-011-169</prop>
+    <tuv xml:lang="bo">
+                <seg>གྲངས་དང་། བགྲང་བ་དང་། དཔེ་དང་རྒྱུར་ཡང་མི་བཟོད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>No reckoning, calculation, analogy, or account would suffice to describe it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-134">
+    <prop type="location-id">UT22084-043-011-169</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་དེ་བས་ན་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ཁྱོད་ལ་གཏད་ཀྱིས་ཁྱོད་འདུན་པར་གྱིས་ལ་སྔོན་གྱི་བྱང་ཆུབ་སེམས་དཔའི་སྨོན་ལམ་ལས་བྱུང་བའི་མདོ་འདི་ལྟ་བུ་འདི་མ་འོངས་པའི་དུས་ན་ཟུང་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, Mañjuśrī, I am entrusting this Dharma discourse to you. You should take an interest in it. Such a sūtra has arisen from the vows of bodhisattvas from the past. Hold on to it in future times.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-135">
+    <prop type="location-id">UT22084-043-011-169</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་ཆུབ་པར་གྱིས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Understand it thoroughly.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-136">
+    <prop type="location-id">UT22084-043-011-169</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོངས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Remember it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-137">
+    <prop type="location-id">UT22084-043-011-169</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤོད་ཅིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Teach it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-138">
+    <prop type="location-id">UT22084-043-011-169</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷོགས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Recite it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-139">
+    <prop type="location-id">UT22084-043-011-169</prop>
+    <tuv xml:lang="bo">
+                <seg>སྟོན་ཅིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Demonstrate it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-140">
+    <prop type="location-id">UT22084-043-011-169</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞན་དག་ལ་ཡང་རྒྱ་ཆེར་རབ་ཏུ་སྟོན་ཅིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Expound it extensively to others.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-141">
+    <prop type="location-id">UT22084-043-011-170</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་དཔེར་ན་འཁོར་ལོས་སྒྱུར་བའི་རྒྱལ་པོ་ཇི་སྲིད་དུ་གནས་པ་དེ་སྲིད་དུ་རིན་པོ་ཆེ་སྣ་བདུན་མེད་པར་མི་འགྱུར་ལ། འཁོར་ལོས་སྒྱུར་བའི་རྒྱལ་པོ་ཤི་ན་རིན་པོ་ཆེ་སྣ་བདུན་མེད་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-170"/>“Consider this analogy, Mañjuśrī. So long as a cakravartin king is alive, the seven treasures will not cease to exist, but when a cakravartin king dies, the seven treasures will cease to exist.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-142">
+    <prop type="location-id">UT22084-043-011-170</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་དེ་བཞིན་དུ་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལྟ་བུ་འདི་འཇིག་རྟེན་ན་ཇི་སྲིད་དུ་སྤྱོད་པ་དེ་སྲིད་དུ་དེ་བཞིན་གཤེགས་པའི་བྱང་ཆུབ་ཀྱི་ཡན་ལག་རིན་པོ་ཆེ་སྣ་བདུན་དང་། བྱང་ཆུབ་ཀྱི་ཕྱོགས་ཀྱི་ཆོས་ཀྱི་ཚུལ་ཐམས་ཅད་མེད་པར་མི་འགྱུར་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the same way, Mañjuśrī, so long as a Dharma discourse like this one is practiced in this world, that is how long the seven precious constitutive factors of the awakening of the Tathāgata and all the principles of the qualities that are conducive to awakening will not cease to exist.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-143">
+    <prop type="location-id">UT22084-043-011-170</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ལྟ་བུ་འདི་མེད་པར་གྱུར་ན་དམ་པའི་ཆོས་ནུབ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When a Dharma discourse like this one ceases to exist, then the true Dharma will disappear.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-144">
+    <prop type="location-id">UT22084-043-011-170</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་དེ་བས་ན་མདོ་སྡེ་རིན་པོ་ཆེ་འདི་ལྟ་བུ་འདི་ཡི་གེར་བྲི་བ་དང་། ལུང་འབོགས་པ་དང་། བཅང་བ་དང་། བཀླག་པ་དང་། གཞན་དག་ལ་ཡང་རྒྱ་ཆེར་རབ་ཏུ་བསྟན་པའི་ཕྱིར་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྣམས་ཀྱིས་བརྩོན་འགྲུས་བརྩམ་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, Mañjuśrī, bodhisattva mahāsattvas should undertake heroic efforts to write down the words of a treasure of a sūtra like this one, to explain it, to remember it, to recite it, and to expound it extensively to others.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-145">
+    <prop type="location-id">UT22084-043-011-170</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ནི་ངའི་རྗེས་སུ་བསྟན་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This is my instruction.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-146">
+    <prop type="location-id">UT22084-043-011-170</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱིས་འགྱོད་པ་ཅན་དུ་གྱུར་ཏ་རེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Do not feel regret in the future!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-147">
+    <prop type="location-id">UT22084-043-011-170</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ནི་རིགས་ཀྱི་བུ་འམ། རིགས་ཀྱི་བུ་མོ་བྱང་ཆུབ་འདོད་པ་ལ་ངས་བསྟན་པ་ཡིན་ནོ། །བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་<tei:ref folio="F.222.a"/>ཅེས་བཀའ་སྩལ་ནས་བྱང་ཆུབ་སེམས་དཔའ་བློ་གྲོས་བཟང་པོ་དང་། འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This is my instruction to sons and daughters from good families who aspire for awakening.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-148">
+    <prop type="location-id">UT22084-043-011-171</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐམས་ཅད་དང་ལྡན་པའི་འཁོར་དེ་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-171"/>This is what the Bhagavān said, and the bodhisattva Sumati, Mañjuśrī Kumārabhūta, the entire assembly, and the whole world with its gods, humans, asuras, and gandharvas rejoiced and praised what the Bhagavān had said.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-149">
+    <prop type="location-id">UT22084-043-011-172</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།འཕགས་པ་དཀོན་མཆོག་བརྩེགས་པ་ཆེན་པོའི་ཆོས་ཀྱི་རྣམ་གྲངས་ལེའུ་སྟོང་ཕྲག་བརྒྱ་པ་ལས་བུ་མོ་བློ་གྲོས་བཟང་མོས་ཞུས་པའི་ལེའུ་ཞེས་བྱ་སྟེ་སུམ་ཅུ་པ་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-172"/>This concludes “The Inquiry of the Girl Sumati,” the thirtieth of the one hundred thousand chapters of the Dharma discourse known as “The Noble Great Heap of Jewels.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-043-011-TU-150">
+    <prop type="location-id">UT22084-043-011-174</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་ཛི་ན་མི་ཏྲ་དང་། སུ་རེན་དྲ་བོ་དྷི་དང་། ཞུ་ཆེན་གྱི་ལོ་ཙྪ་བ་བན་དེ་ཡེ་ཤེས་སྡེ་ལ་སོགས་པས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-043-011-174"/>Translated, edited, and finalized by the Indian preceptors Jinamitra and Surendrabodhi, along with the chief editor and translator Bandé Yeshé Dé, and others.</seg>
+            </tuv>
+</tu>
+
+
+</body>
+</tmx>
