@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="monlam-ai/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-034-029" eft:text-version="v-1.0.3-2023"/>
+<body>
+<tu id="UT22084-034-029-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.282.a"/>༄༅༅། །རྒྱ་གར་སྐད་དུ། སཱུརྱ་སཱུ་ཏྲ། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-034-029-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>ཉི་མའི་མདོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Sūtra of the Sun</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-029-TU-3">
+    <prop type="location-id">UT22084-034-029-37</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་དཀོན་མཆོག་གསུམ་ལ་གུས་པས་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-029-37"/>Respectful homage to the noble Three Jewels!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-029-TU-4">
+    <prop type="location-id">UT22084-034-029-37</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-029-TU-5">
+    <prop type="location-id">UT22084-034-029-37</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མཉན་ཡོད་རྒྱལ་བྱེད་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན་བཞུགས་སོ། ། དེའི་ཚེ་ལྷའི་བུ་ཉི་མ། ལྷ་མ་ཡིན་གྱི་དབང་པོ་སྒྲ་གཅན་འཛིན་གྱིས་བཟུང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One was dwelling in the Jeta Grove, Anāthapiṇḍada’s park in Śrāvastī. At that time the god Sūrya was seized by Rāhu, lord of the asuras.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-029-TU-6">
+    <prop type="location-id">UT22084-034-029-37</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་<tei:ref folio="F.282.b"/>ལྷའི་བུ་ཉི་མས་བཅོམ་ལྡན་འདས་རྗེས་སུ་དྲན་པ་ཡིད་ལ་བྱས་ཏེ། དེའི་དུས་སུ་ཚིགས་སུ་བཅད་པ་འདི་གསོལ་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then the god Sūrya, recollecting and taking the Blessed One to heart, recited this verse:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-029-TU-7">
+    <prop type="location-id">UT22084-034-029-42</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དཔའ་བོ་དེ་ལ་འདུད། །ཐམས་ཅད་མྱུར་དུ་གྲོལ་བར་གྱིས། །བདག་འདིའི་ཁ་རུ་བཅུག་པས་ན། །བདག་ནི་ཁྱེད་ལ་སྐྱབས་སུ་མཆི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-029-42"/>“I bow to the heroic Buddha. May you swiftly liberate all beings! As I have come into confinement I take refuge in you.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-029-TU-8">
+    <prop type="location-id">UT22084-034-029-46</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ལྷའི་བུ་ཉི་མའི་ཆེད་དུ། ལྷ་མ་ཡིན་གྱི་དབང་པོ་སྒྲ་གཅན་འཛིན་ལ་ཚིགས་སུ་བཅད་པ་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-029-46"/>Then the Blessed One, for the sake of the god Sūrya, addressed Rāhu, lord of the asuras, with these verses:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-029-TU-9">
+    <prop type="location-id">UT22084-034-029-47</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་འཇིག་རྟེན་ལ་བརྩེ་བས། །དགྲ་བཅོམ་དེ་བཞིན་གཤེགས་པ་ལ། །ཉི་མ་སྐྱབས་སུ་སོང་བས་ན། །སྒྲ་གཅན་འཛིན་གྱིས་ཉི་མ་ཐོང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-029-47"/>“Since buddhas have compassion for the world, Sūrya took refuge In the Worthy One, the Tathāgata. Therefore, Rāhu, set the sun free!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-029-TU-10">
+    <prop type="location-id">UT22084-034-029-49</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་ཞིག་མུན་པ་སྣང་བས་གསལ་བར་བྱེད། །རྣམ་སྣང་དྲག་པོའི་གཟི་བརྗིད་དཀྱིལ་འཁོར་ཅན། །ནམ་མཁའི་ཉི་མ་སྒྲ་གཅན་སྒྲིབ་མ་བྱེད། །ཉི་མ་འདི་ནི་སྒྲ་གཅན་གྱིས་ཐོང་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-029-49"/>“The sun, circle of mighty splendor, Illuminates darkness with light. Rāhu, do not conceal the sun in the sky! Set this sun free, Rāhu!”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-029-TU-11">
+    <prop type="location-id">UT22084-034-029-51</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ལྷ་མ་ཡིན་གྱི་དབང་པོ་སྒྲ་གཅན་འཛིན་གྱིས་ལྷའི་བུ་ཉི་མ་གྲོལ་བར་བྱས་ནས། སྔར་གྱི་གཟུགས་བཞིན་དུ་གང་སུ་ཞིག་གིས་ལྷ་མ་ཡིན་གྱི་དབང་པོ་ཐགས་བཟངས་རིས་ཀྱི་དྲུང་དུ་སོང་ཞིང་སོང་ནས། སེམས་མི་དགའ་ཞིང་ཡི་མུག་པས་བ་སྤུ་ལངས་པར་གྱུར་ཏེ། ཕྱོགས་གཅིག་ཏུ་འདུག་གོ། ། ཕྱོགས་གཅིག་ཏུ་འདུག་ནས་ལྷ་མ་ཡིན་གྱི་དབང་པོ་སྒྲ་གཅན་འཛིན་ལ། ལྷ་མ་ཡིན་གྱི་དབང་པོ་ཐགས་བཟངས་རིས་ཀྱིས་ཚིགས་སུ་བཅད་པ་སྨྲས་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-029-51"/>Thereupon Rāhu, lord of the asuras, set the god Sūrya free and hurriedly approached Vemacitra, lord of the asuras. He then sat to one side, displeased, agitated, and with all his body hairs bristling. Vemacitra, lord of the asuras, now questioned Rāhu, lord of the asuras, in verse:</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-029-TU-12">
+    <prop type="location-id">UT22084-034-029-55</prop>
+    <tuv xml:lang="bo">
+                <seg>ཅི་ཕྱིར་ཡིད་ནི་སྐྲག་པར་གྱུར། ། སྒྲ་གཅན་འཛིན་གྱིས་ཉི་མ་ཐོང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-029-55"/>“Why, Rāhu, did you release The sun in such a fright?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-029-TU-13">
+    <prop type="location-id">UT22084-034-029-55</prop>
+    <tuv xml:lang="bo">
+                <seg>གཟུགས་ཀྱི་རྣམ་འགྱུར་ཀུན་དུ་ངན། །ཅི་ཕྱིར་འཇིགས་པས་འདི་རུ་ལྷགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You are a very miserable sight. Why did you approach in fear?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-029-TU-14">
+    <prop type="location-id">UT22084-034-029-57</prop>
+    <tuv xml:lang="bo">
+                <seg>དེས་སྨྲས་པ། སངས་རྒྱས་ཚིགས་བཅད་ཐོས་ནས་ནི། །བདག་གིས་ཉི་མ་མ་བཏང་ན། ། མགོ་བོ་ཚལ་པ་བདུན་འགས་ཤིང་། །འཚོ་བ་ལ་ནི་བདེ་བ་མེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-029-57"/>He replied:<tei:milestone xml:id="UT22084-034-029-59"/> “Had I, hearing the Buddha’s verse, Not then released the sun My head would have split into seven pieces And my life would be without happiness.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-029-TU-15">
+    <prop type="location-id">UT22084-034-029-61</prop>
+    <tuv xml:lang="bo">
+                <seg>།​ཉི་མའི་མདོ་རྫོགས་སྷོ།​།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-029-61"/>This concludes “The Sūtra of the Sun.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-029-TU-16">
+    <prop type="location-id">UT22084-034-029-61</prop>
+    <tuv xml:lang="bo">
+                <seg/>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+</body>
+</tmx>
