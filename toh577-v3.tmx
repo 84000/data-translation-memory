@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-090-021" eft:text-version="v-1.0.2-2023"/>
+<body>
+<tu id="UT22084-090-021-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.203.a"/>༄༅། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-090-021-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པའི་གཟུངས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-021-translation"/>The Dhāraṇī of “The Perfection of Wisdom in Twenty-Five Thousand Lines”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-021-TU-3">
+    <prop type="location-id">UT22084-090-021-44</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མ་ཡུམ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-021-44"/>Homage to the Blessed Lady, the Mother Perfection of Wisdom.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-021-TU-4">
+    <prop type="location-id">UT22084-090-021-47</prop>
+    <tuv xml:lang="bo">
+                <seg>ཏདྱ་ཐཱ། ཨོཾ་པྲཛྙཱཔྲཛྙེ། པྲཛྙཱ་ཨ་བ་བྷཱ་སེ། པྲ་ཛྙཱ་བ་ལོ་ཀ་ཏི་སརྦ་དྷ་རྨ་ཨནྡྷ་ཀ་ར་བྷི་དྷ་མ་ནི། སིདྡྷེ་སུ་སིདྡྷ། སིདྡྷྱནྟུ་མཱཾ་བྷ་ག་བ་ཏི། སརྦ་ཛྙཱ་ནས་ནྔྷ་རི། བྷ་ག་བ་ཏི་བད་ཚེ་ལ། པྲ་ས་ར་དྷེ་ཧསྟ་མ་མ་སུ་ཀ་ར། སིདྡྷི་སིདྡྷི། བུདྡྷ་བུདྡྷ། ཀཾ་པ་ཀཾ་པ། པཱ་ལ་པཱ་ལ། དྷ་ར་དྷ་ར། བ་ར་བ་ར། གརྫ་གརྫ། ཨཱ་གཙྪ་ཨཱ་གཙྪ་བ་ག་བ་ཏི་མཱ་བི་ལམྦ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-021-47"/>tadyathā—oṃ prajñe mahāprajñe prajñāvabhāse prajñāvalokite sarva­dharmān­dhakāra­vidhamane siddhe susiddhe sidhyantu māṃ bhagavati sarvajñānasaṃdhāre bhagavati vatsale prasāritahaste mama sukara siddhi siddhi buddha buddha kampa kampa pāla pāla dhara dhara vara vara garja garja āgaccha āgaccha bhagavati mā vilamba svāhā!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-021-TU-5">
+    <prop type="location-id">UT22084-090-021-57</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་བཟུང་བས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ་གཟུང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-021-57"/>By upholding this, one will have upheld The Perfection of Wisdom in Twenty-Five Thousand Lines.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-021-TU-6">
+    <prop type="location-id">UT22084-090-021-57</prop>
+    <tuv xml:lang="bo">
+                <seg>ལས་ཀྱི་སྒྲིབ་པ་ཐམས་ཅད་བྱང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>All karmic obscurations will be purified.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-021-TU-7">
+    <prop type="location-id">UT22084-090-021-59</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པའི་གཟུངས་རྫོགས་སོ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-021-59"/>Here ends “The Dhāraṇī of ‘The Perfection of Wisdom in Twenty-Five Thousand Lines.’ ”</seg>
+            </tuv>
+</tu>
+
+
+</body>
+</tmx>

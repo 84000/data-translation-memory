@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-101-079" eft:text-version="v-1.0.1-2023"/>
+<body>
+<tu id="UT22084-101-079-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.183.a"/>༄༅། །རྒྱ་གར་སྐད་དུ། སརྦ་དུཿབ་པྲ་ཤ་མ་ན་ཀ་ར་ནཱ་མ་དྷཱ་ར་ཎཱི། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-101-079-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>སྡུག་བསྔལ་ཐམས་ཅད་རབ་ཏུ་ཞི་བར་བྱེད་པ་ཞེས་བྱ་བའི་གཟུངས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-079-translation"/>The Dhāraṇī “Pacifying All Suffering”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-079-TU-3">
+    <prop type="location-id">UT22084-101-079-69</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་སྨྲ་བའི་སེང་གེ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-079-69"/>Homage to Mañjuśrī Vādisiṃha.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-079-TU-4">
+    <prop type="location-id">UT22084-101-079-691</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་<tei:ref folio="F.183.b"/>ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-079-691"/>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-079-TU-5">
+    <prop type="location-id">UT22084-101-079-691</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་རྡོ་རྗེའི་གདན་ན་འཁོར་ཐམས་ཅད་ལ་ཆོས་སྟོན་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One was teaching the Dharma to his full assembly at the Vajrāsana.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-079-TU-6">
+    <prop type="location-id">UT22084-101-079-691</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཕྱག་ན་རྡོ་རྗེས་གསོལ་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The bodhisattva great being Vajrapāṇi said to him, “O Blessed One!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-079-TU-7">
+    <prop type="location-id">UT22084-101-079-691</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀྱེ་ཀྱེ་བཅོམ་ལྡན་འདས་སེམས་ཅན་རྣམས་ཀྱི་སྡུག་བསྔལ་ཞི་བར་མཛད་དུ་གསོལ་ཞེས་ཞུས་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Please pacify the suffering of beings.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-079-TU-8">
+    <prop type="location-id">UT22084-101-079-72</prop>
+    <tuv xml:lang="bo">
+                <seg>རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་ལ་ལ་ཕྱི་ནང་གསང་བའི་སྡུག་བསྔལ་ཞི་བར་འདོད་པས་འཇམ་དཔལ་སྨྲ་བའི་སེང་གེ་ཟླ་བ་དྲུག་ཏུ་བསྒོམས་པའི་སྦྱོར་བས་ཨཱ་ལི་ཀཱ་ལི་ལས་བྱུང་བའི་སྔགས་འདི་བརྗོད་དོ། །ན་མོ་རཏྣ་ཏྲ་ཡཱ་ཡ། ན་མོ་མཉྫུ་ནཱ་ཐཱ་ཡ། ན་མོ་ཡ་མཱནྟ་ཀཱ་ཡ། ཏདྱ་ཐཱ། ཨོཾ་མཉྫུ་བྷ་ར། མཉྫུ་གྷོ་ཥ་ཧ་ན། ཧ་ན་ཧ་ན། ད་ཧ་ད་ཧ། པ་ཙ་པ་ཙ། བེ་ཙེ་བེ་ཙེ། བྷི་ཏ་བྷི་ཏ། ཨི་ཕུ་ཏ་ཨི་ཕུ་ཏ། ཧེ་ར་ཏེ་སོཏྟ་ནི། ན་མཿསོཏྟ་ནི། པྲི་པི་ཤ་ལེ་ཏང་། པྲི་ཏ་ཧ་ས་པྲ་བྷི་ན་ཏ་ཛ་ཡ། ཧཱུྃ་ཧཱུྃ་ཧཱུྃ་ཧཱུྃ། ཧེ་ར་ཏེ་སོཏྟ་ནི་ཧཱུྃ་ཕཊ་སྭཱ་ཧཱ། ཨོཾ་པཱ་གི་ཤྭ་རི་མུྃ། མཉྫུ་གྷོ་ཥ་ཧ་ན། བ་ཏི་སི་དྷོ་ཧ་རི་ནི་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-079-72"/>The Blessed One replied, “Sons or daughters of noble family who wish to pacify outer, inner, and secret suffering should apply themselves to meditation upon Mañjuśrī Vādisiṃha for six months while reciting this mantra, which is derived from the vowels and consonants of the alphabet:<tei:milestone xml:id="UT22084-101-079-73"/> namo ratnatrayāya | namo mañjunāthāya | namo yamāntakāya |<tei:milestone xml:id="UT22084-101-079-74"/> tadyathā | oṁ mañjubhara mañjughoṣa hana hana hana daha daha paca paca vece vece bhita bhita iphuta iphuta herate sottani namaḥ sottani pripiśale tang pritahasa prabhinata jaya hūṁ hūṁ hūṁ hūṁ herate sottani hūṁ phaṭ svāhā | oṁ vāgīśvari muṁ mañjughoṣa hana vatisidhoharini svāhā ||<tei:milestone xml:id="UT22084-101-079-75"/> “By reciting this mantra just once, they will obtain the dhāraṇī of longevity.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-079-TU-9">
+    <prop type="location-id">UT22084-101-079-72</prop>
+    <tuv xml:lang="bo">
+                <seg>སྔགས་དེ་ལན་ཅིག་བརྗོད་པས་མི་དེས་ཚེའི་གཟུངས་ཐོབ་བོ། །བཅུ་བརྗོད་ན་ཤེས་རབ་ཕྱོགས་མེད་དུ་འགྲོལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If they recite it ten times, they will be able to impartially elucidate wisdom.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-079-TU-10">
+    <prop type="location-id">UT22084-101-079-72</prop>
+    <tuv xml:lang="bo">
+                <seg>བརྒྱ་བརྗོད་ན་འཇིག་རྟེན་གྱི་ཁམས་ཐམས་ཅད་གཡོ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If they recite it a hundred times, the whole world system will tremble.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-079-TU-11">
+    <prop type="location-id">UT22084-101-079-72</prop>
+    <tuv xml:lang="bo">
+                <seg>སྟོང་བརྗོད་ན་འདོད་པ་ཐམས་ཅད་ཕུན་སུམ་ཚོགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If they recite it a thousand times, all desires will be fulfilled.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-079-TU-12">
+    <prop type="location-id">UT22084-101-079-72</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྲི་བརྗོད་ན་སྡུག་བསྔལ་ཐམས་ཅད་རབ་ཏུ་ཞིའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If they recite it ten thousand times, all suffering will be pacified.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-079-TU-13">
+    <prop type="location-id">UT22084-101-079-72</prop>
+    <tuv xml:lang="bo">
+                <seg>འབུམ་བརྗོད་ན་རྫོགས་པའི་སངས་རྒྱས་ཀྱི་ཞལ་མཐོང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If they recite it a hundred thousand times, they will behold the face of a perfect buddha.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-079-TU-14">
+    <prop type="location-id">UT22084-101-079-77</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཕྱག་ན་རྡོ་རྗེ་ལ་སོགས་པའི་འཁོར་ཐམས་ཅད་དགའ་ཞིང་མགུ་ནས་ཐལ་མོ་སྦྱར་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-079-77"/>When the Blessed One had finished speaking, the bodhisattva great being Vajrapāṇi along with all in the assembly were delighted, and respectfully joined their palms together and praised what the Blessed One had said.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-079-TU-15">
+    <prop type="location-id">UT22084-101-079-78</prop>
+    <tuv xml:lang="bo">
+                <seg>སྡུག་བསྔལ་ཐམས་ཅད་རབ་ཏུ་ཞི་བར་བྱེད་པ་ཞེས་བྱ་བའི་གཟུངས། བཅོམ་ལྡན་འདས་ཤཱཀྱ་ཐུབ་པའི་ཞལ་ནས་གསུངས་པ་རྫོགས་སྷོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-079-78"/>This completes The Dhāraṇī “Pacifying All Suffering” taught by the Blessed Śākyamuni.</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

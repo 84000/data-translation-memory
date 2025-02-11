@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-100-018" eft:text-version="v-1.0.2-2023"/>
+<body>
+<tu id="UT22084-100-018-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.87.a"/>༄༅། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-100-018-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg/>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-018-translation"/>The Essence Dhāraṇī of the Tathāgata Bhaiṣajyaguru</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-100-018-TU-3">
+    <prop type="location-id">UT22084-100-018-42</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་སྨན་གྱི་བླ་བཻ་ཌཱུརྱ་འོད་ཀྱི་རྒྱལ་པོ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-018-42"/>Homage to the thus-gone, worthy, perfectly awakened Bhaiṣajya­guru­vaiḍūrya­prabha­rāja.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-100-018-TU-4">
+    <prop type="location-id">UT22084-100-018-42</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོྃ་བྷཻ་ཥ་ཛྱེ་བྷཻ་ཥ་ཛྱེ་མ་ཧཱ་བྷཻ་ཥ་ཛྱེ་བྷཻ་ཥ་ཛྱ་རཱ་ས་མུཏྒ་ཏེ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>oṃ bhaiṣajye bhaiṣajye mahā­bhaiṣajye bhaiṣajyarāja­samudgate svāhā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-100-018-TU-5">
+    <prop type="location-id">UT22084-100-018-45</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་སྨན་གྱི་བླའི་སྙིང་པོའི་གཟུངས་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-100-018-45"/>This completes “The Essence Dhāraṇī of the Tathāgata Bhaiṣajyaguru.”</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

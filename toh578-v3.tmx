@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-090-022" eft:text-version="v-1.0.1-2023"/>
+<body>
+<tu id="UT22084-090-022-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.203.a"/>༄༅། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-090-022-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བརྒྱད་སྟོང་པའི་གཟུངས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-022-translation"/>The Dhāraṇī of “The Perfection of Wisdom in Eight Thousand Lines”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-022-TU-3">
+    <prop type="location-id">UT22084-090-022-43</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མ་ཡུམ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-022-43"/>Homage to the Blessed Lady, the Mother Perfection of Wisdom.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-022-TU-4">
+    <prop type="location-id">UT22084-090-022-46</prop>
+    <tuv xml:lang="bo">
+                <seg>ཏདྱ་ཐཱ། ཨོཾ་ཧྲཱིཿ ཤྲུ་ཏི་སྨྲྀ་ཏི་བི་ཛ་ཡེ་སྭཱ་ཧཱ། པྲཛྙཱ་པཱ་ར་མི་ཏཱ་ཡེ། སརྦ་དུརྒ་ཏི་ཤོ་དྷ་ཡ། རཱ་ཛཱ་ཡ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-022-46"/>tadyathā—oṃ hrīḥ śruti­smṛti­vijaye svāhā! prajñā­pāramitāyai sarva­durgati śodhaya rājāya svāhā!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-022-TU-5">
+    <prop type="location-id">UT22084-090-022-48</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་བཟུང་བས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བརྒྱད་སྟོང་པ་གཟུང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-022-48"/>By upholding this, one will have upheld The Perfection of Wisdom in Eight Thousand Lines.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-022-TU-6">
+    <prop type="location-id">UT22084-090-022-48</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྟས་ངན་པ་སྣ་ཚོགས་ཀྱང་བཟློག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It will block all kinds of negative omens.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-022-TU-7">
+    <prop type="location-id">UT22084-090-022-48</prop>
+    <tuv xml:lang="bo">
+                <seg>ལས་ཀྱི་སྒྲིབ་པ་དང་། ངན་སོང་ཐམས་ཅད་རྣམ་པར་སྦྱོང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>All karmic obscurations and unfavorable kinds of rebirth will be purified.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-022-TU-8">
+    <prop type="location-id">UT22084-090-022-50</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བརྒྱད་སྟོང་པའི་གཟུངས་རྫོགས་སོ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-022-50"/>Here ends “The Dhāraṇī of ‘The Perfection of Wisdom in Eight Thousand Lines.’ ”</seg>
+            </tuv>
+</tu>
+
+
+</body>
+</tmx>

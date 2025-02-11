@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-094-018" eft:text-version="v-1.0.1-2023"/>
+<body>
+<tu id="UT22084-094-018-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.235.a"/>༄༅། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-094-018-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་གྱི་ལྷ་མོའི་མཚན་བཅུ་གཉིས་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-018-translation"/>The Twelve Names of the Goddess Śrī</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-018-TU-3">
+    <prop type="location-id">UT22084-094-018-67</prop>
+    <tuv xml:lang="bo">
+                <seg>དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-018-67"/>Homage to the Three Jewels.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-018-TU-4">
+    <prop type="location-id">UT22084-094-018-67</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the noble Avalokiteśvara.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-018-TU-5">
+    <prop type="location-id">UT22084-094-018-67</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱག་ན་རྡོ་རྗེ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to Vajrapāṇi.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-018-TU-6">
+    <prop type="location-id">UT22084-094-018-67</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་ལྷ་མོ་ཆེན་མོ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the great goddess Śrī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-018-TU-7">
+    <prop type="location-id">UT22084-094-018-74</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-018-74"/>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-018-TU-8">
+    <prop type="location-id">UT22084-094-018-74</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་བདེ་བ་ཅན་གྱི་འཇིག་རྟེན་ན་བཞུགས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One was residing in the realm of Sukhāvatī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-018-TU-9">
+    <prop type="location-id">UT22084-094-018-74</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then the bodhisattva mahāsattva, the noble Avalokiteśvara, set out to where the Blessed One was residing.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-018-TU-10">
+    <prop type="location-id">UT22084-094-018-74</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་གཉིས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ་ཕྱོགས་གཅིག་ཏུ་འདུག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Having arrived, he bowed his head at the feet of the Blessed One, circumambulated the Blessed One thrice, and sat down on one side.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-018-TU-11">
+    <prop type="location-id">UT22084-094-018-74</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དཔལ་ལྷ་མོ་ཆེན་མོ་ཡང་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་དྲུང་དུ་ཕྱིན་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then the bodhisattva mahāsattva, the great goddess Śrī, also set out to where the Blessed One was residing.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-018-TU-12">
+    <prop type="location-id">UT22084-094-018-74</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་གཉིས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ་ཕྱོགས་གཅིག་ཏུ་འདུག་གོ། །དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དཔལ་ཆེན་མོ་ལ་གཟིགས་ནས། སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Having arrived, she bowed her head at the feet of the Blessed One and sat down on one side.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-018-TU-13">
+    <prop type="location-id">UT22084-094-018-75</prop>
+    <tuv xml:lang="bo">
+                <seg>སྤྱན་རས་གཟིགས་དབང་ཕྱུག་དགེ་སློང་ངམ། དགེ་སློང་མའམ། དགེ་བསྙེན་ནམ། དགེ་བསྙེན་མའམ། སེམས་ཅན་གང་སུ་ཡང་རུང་བས་དཔལ་ཆེན་<tei:ref folio="F.235.b"/>མོ་འདིའི་མིང་བཅུ་གཉིས་ཤེས་ཏེ། འཆང་བ་དང་། ཀློག་པ་དང་། སྒྲུབ་པར་བྱེད་པ་དང་། རྗོད་པར་ཡང་བྱེད་ན་དེ་དབུལ་པོ་སྤངས་ནས་ཕྱུག་པོ་ཆེན་པོར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-018-75"/>Then the Blessed One looked at Mahāśrī and said this to the noble Avalokiteśvara: “Avalokiteśvara, whosoever, including monks and nuns, laymen and laywomen, gets to know, upholds, recites, accomplishes, or speaks of the twelve names of Mahāśrī here will escape destitution and become very wealthy.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-018-TU-14">
+    <prop type="location-id">UT22084-094-018-77</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་འབྱུང་པོའི་ཚོགས་ཐམས་ཅད་ཀྱིས་ཀྱང་དེ་བཞིན་དུ་གྱུར་ཅིག་ཅེས་སྨྲས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-018-77"/>Then the entire host of spirits said, “May it be so!”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-018-TU-15">
+    <prop type="location-id">UT22084-094-018-79</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་ལྷ་མོ་ཆེན་མོའི་མིང་བཅུ་གཉིས་ནི་འདི་ལྟ་སྟེ། བཀྲ་ཤིས་མ། དཔལ་ལྡན་མ། པདྨའི་ཕྲེང་ཐོགས་མ། ནོར་བདག་མ། དཀར་ཤམ་མ། གྲགས་ཆེན་མ། པདྨ་སྤྱན་མངའ་མ། འོད་ཆེན་མ། བྱེད་པ་མོ། ཟས་སྦྱིན་མ། རིན་ཆེན་འོད་ལྡན་མ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-018-79"/>“These are the twelve names of the great goddess Śrī: “It is thus—Welfare, Splendor, She Who Is Wearing a Garland of Lotuses, Mistress of Wealth, White One, She of Great Fame, Lotus-Eyed One, She of Great Radiance, She Who Accomplishes, Bestower of Nourishment, She of Jewel-Like Gleam, Great Splendor.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-018-TU-16">
+    <prop type="location-id">UT22084-094-018-79</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་ཆེན་མོ་མ། སངས་རྒྱས་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to all buddhas!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-018-TU-17">
+    <prop type="location-id">UT22084-094-018-79</prop>
+    <tuv xml:lang="bo">
+                <seg>སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to Avalokiteśvara!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-018-TU-18">
+    <prop type="location-id">UT22084-094-018-79</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་ཆེན་མོ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the great goddess Śrī!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-018-TU-19">
+    <prop type="location-id">UT22084-094-018-79</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ། ཛི་ནི། གྷྲི་ཎི། དགོས་པ་ཐམས་ཅད་སྒྲུབ་པར་མཛད་མ། སི་མི་སི་མི། ནི་མི་ནི་མི། བདག་གི་མི་ཤེས་པ་ཐམས་ཅད་བསལ་བར་མཛོད་ཅིག་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is thus—jini ghriṇi, O Accomplisher of All Goals, simi simi nimi nimi, remove my destitution completely,svāhā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-018-TU-20">
+    <prop type="location-id">UT22084-094-018-85</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་ལ་མངོན་པར་དགའོ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-018-85"/>Thus spoke the Blessed One, and the bodhisattva, the noble Avalokiteśvara, was gladdened and praised the speech of the Blessed One.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-018-TU-21">
+    <prop type="location-id">UT22084-094-018-86</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་གྱི་ལྷ་མོ་ཆེན་མོའི་མཚན་བཅུ་གཉིས་པ་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-018-86"/>Here ends “The Twelve Names of the Great Goddess Śrī.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-018-TU-22">
+    <prop type="location-id">UT22084-094-018-87</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་ཛི་ན་མི་ཏྲ་དང་། ཞུ་ཆེན་གྱི་ལོ་ཙྪ་བ་བནྡེ་ཡེ་ཤེས་སྡེས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-018-87"/>This was translated, checked, and redacted by the Indian preceptor Jinamitra and the great editor-translator Bandé Yeshé Dé.</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

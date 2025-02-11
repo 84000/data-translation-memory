@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-072-019" eft:text-version="v-1.0.4-2023"/>
+<body>
+<tu id="UT22084-072-019-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.194.a"/>༄༅༅། །རྒྱ་གར་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨཱརྱ་ཨད་བྷུ་ཧ་དྷ་རྨ་པ་རྱཱ་ཡ་ནཱ་མ། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-019-translation"/>
+                </seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-3">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་རྨད་དུ་བྱུང་བ་ཞེས་བྱ་བའི་ཆོས་ཀྱི་རྣམ་གྲངས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Noble Marvelous Dharma Discourse</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-4">
+    <prop type="location-id">UT22084-072-019-92</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-019-92"/>Homage to all buddhas and bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-5">
+    <prop type="location-id">UT22084-072-019-92</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-6">
+    <prop type="location-id">UT22084-072-019-92</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་རྒྱལ་པོའི་ཁབ་ན་འོད་མའི་ཚལ་བྱ་ཀ་ལན་ད་ཀ་གནས་པ་ན་བཞུགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One was staying in Rājagṛha at the Bamboo Grove in the Kalandakanivāpa.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-7">
+    <prop type="location-id">UT22084-072-019-92</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་སྔ་དྲོའི་དུས་ཀྱི་ཚེ་ཆོས་གོས་དང་ཤམ་ཐབས་བགོས་ཏེ། ལྷུང་བཟེད་ཐོགས་ནས་རྒྱལ་པོའི་ཁབ་ཏུ་བསོད་སྙོམས་ཀྱི་ཕྱིར་ཞུགས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One morning, the venerable Ānanda donned his Dharma robe and lower garment, took up his alms bowl, and went into Rājagṛha on his alms round.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-8">
+    <prop type="location-id">UT22084-072-019-92</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་རྒྱལ་པོའི་ཁབ་ཀྱི་གྲོང་ཁྱེར་དུ་མཐར་ཆགས་སུ་བསོད་སྙོམས་སྤྱོད་པའི་ཚེ་ཕྱོགས་ཤིག་ན་ཁང་པ་བརྩེགས་པ་སྒོ་བརྒྱད་ཅུ་ཡོད་ལ། བྱུག་པས་བྱུགས་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>As he was making his alms round through the city of Rājagṛha, the venerable Ānanda noticed, in a certain direction, a multistoried palace with eighty gateways.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-9">
+    <prop type="location-id">UT22084-072-019-92</prop>
+    <tuv xml:lang="bo">
+                <seg>གདུགས་དང་རྒྱལ་མཚན་དང་བ་དན་བསྒྲེང་བ་དར་གྱི་ལྡ་ལྡི་མང་པོ་དཔྱངས་པ་ཞིག་མཐོང་ནས། དེ་འདི་སྙམ་དུ་སེམས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It was plastered inside and out; parasols, banners, and pennants were hoisted; and it was adorned with many silken tassels.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-10">
+    <prop type="location-id">UT22084-072-019-96</prop>
+    <tuv xml:lang="bo">
+                <seg>རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་དད་པ་གང་ལ་ལ་ཞིག་གིས་ཁང་པ་བརྩེགས་པ་འདི་ལྟ་བུ་བྱས་ཏེ། ཕྱོགས་བཞིའི་དགེ་སློང་གི་དགེ་འདུན་ལ་ཕུལ་བ་དང་། གང་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པའི་མཆོད་རྟེན་འཇི་བ་ལས་སྐྱུ་རུ་རའི་འབྲས་བུ་ཙམ་བྱས་ལ། ཁབ་ཙམ་གྱི་སྲོག་ཤིང་བཙུགས་ཏེ། རྒྱ་ཤུག་གི་ལོ་མ་ཙམ་གྱི་གདུགས་གསོལ་ནས། ནས་ཀྱི་འབྲུ་ཙམ་གྱི་སྐུ་གཟུགས་བྱས་ལ། ཡུངས་འབྲུ་ཙམ་གྱི་རིང་བསྲེལ་བཅུག་ན་དེ་གཉིས་ལས་བསོད་ནམས་ཤིན་ཏུ་ཆེ་བ་གང་ཡིན་སྙམ་མོ། །དེ་ཡང་འདི་སྙམ་དུ་སེམས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-019-96"/>Seeing this, the venerable Ānanda thought, “If a faithful son or daughter of good family were to construct such a building and offer it to the saṅgha of monks in the four directions, or if someone were to erect for a thus-gone, worthy, completely perfect buddha a stūpa the size of a gooseberry fruit, provide it with a central pillar the size of a needle and a parasol the size of a jujube leaf, commission a statue the size of a grain of barley, and place in there a relic the size of a mustard seed, which of these two would have the greater merit?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-11">
+    <prop type="location-id">UT22084-072-019-96</prop>
+    <tuv xml:lang="bo">
+                <seg>སྟོན་པ་ནི་བདག་གི་མངོན་སུམ་དུ་གྱུར། །བདེ་བར་གཤེགས་པ་ནི་བདག་གི་མངོན་སུམ་དུ་གྱུར་གྱིས། བཅོམ་ལྡན་འདས་ལ་བདག་གིས་དོན་འདི་ཉིད་གསོལ་ཏེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then it occurred to the venerable Ānanda, “Since the Teacher is here with me, the Well-Gone One is here with me, I should ask the Blessed One to clarify this matter.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-12">
+    <prop type="location-id">UT22084-072-019-96</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བདག་ལ་ཇི་སྐད་བསྟན་པ་བཞིན་དུ་གཟུང་བར་བྱའོ་སྙམ་མོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>As the Blessed One explains it, so I will remember it.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-13">
+    <prop type="location-id">UT22084-072-019-97</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་རྒྱལ་པོའི་ཁབ་ཏུ་བསོད་སྙོམས་བླངས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-019-97"/>Then the venerable Ānanda completed his alms rounds in the city of Rājagṛha and finished his meal.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-14">
+    <prop type="location-id">UT22084-072-019-97</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟས་ཀྱི་བྱ་བ་བྱས་ནས་བསོད་སྙོམས་ཀྱི་ཟས་ཕྱི་མ་སྤངས་ཏེ། ཆོས་གོས་དང་ལྷུང་བཟེད་བཞག་ནས་རྐང་པ་བཀྲུས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Since he was abstaining from accepting subsequent alms food, he put away his Dharma robe and alms bowl.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-15">
+    <prop type="location-id">UT22084-072-019-97</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་ནས་ཕྱིན་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He then washed his feet and went to see the Blessed One.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-16">
+    <prop type="location-id">UT22084-072-019-97</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ་<tei:ref folio="F.194.b"/>ཕྱོགས་གཅིག་ཏུ་འདུག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Once there, he prostrated at the Blessed One’s feet and sat down to one side.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-17">
+    <prop type="location-id">UT22084-072-019-98</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱོགས་གཅིག་ཏུ་འདུག་ནས་ཀྱང་བཅོམ་ལྡན་འདས་ལ་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཙུན་པ་བདག་འདིར་སྔ་དྲོའི་དུས་ཀྱི་ཚེ་ཆོས་གོས་དང་ཤམ་ཐབས་བགོས་ལྷུང་བཟེད་ཐོགས་ཏེ་རྒྱལ་པོའི་ཁབ་ཏུ་བསོད་སྙོམས་ཀྱི་སླད་དུ་ཞུགས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-019-98"/>Seated to one side, the venerable Ānanda addressed the Blessed One: “Honorable One, earlier this morning, I donned my Dharma robe and lower garment, took up my alms bowl, and went into Rājagṛha on my alms round.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-18">
+    <prop type="location-id">UT22084-072-019-98</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་པོའི་ཁབ་ཀྱི་གྲོང་ཁྱེར་དུ་མཐར་ཆགས་སུ་བསོད་སྙོམས་སྤྱོད་པའི་ཚེ་ཕྱོགས་ཤིག་ན་ཁང་པ་བརྩེགས་པ་ཆབ་སྒོ་བརྒྱད་ཅུ་མཆིས་ལ་བྱུག་པས་བྱུགས་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>As I went from one house to the next collecting alms in the city of Rājagṛha, I saw, in a certain direction, a multistoried palace with eighty gateways.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-19">
+    <prop type="location-id">UT22084-072-019-98</prop>
+    <tuv xml:lang="bo">
+                <seg>གདུགས་དང་རྒྱལ་མཚན་དང་བ་དན་བསྒྲེང་བ། གྱི་ལྡ་ལྡི་མང་པོ་དཔྱངས་པ་དག་མཐོང་ནས་འདི་སྙམ་དུ་བསམས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It was plastered inside and out; parasols, banners, and pennants were hoisted; and it was adorned with many silken tassels.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-20">
+    <prop type="location-id">UT22084-072-019-98</prop>
+    <tuv xml:lang="bo">
+                <seg>རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་དད་པ་གང་ལ་ལ་ཞིག་གིས་ཁང་པ་བརྩེགས་པ་འདི་ལྟ་བུ་བགྱིས་ཏེ། ཕྱོགས་བཞིའི་དགེ་སློང་གི་དགེ་འདུན་ལ་ཕུལ་བ་དང་། གང་གིས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་མྱ་ངན་ལས་འདས་པའི་མཆོད་རྟེན་འཇི་བ་ལས་སྐྱུ་རུ་རའི་འབྲས་བུ་ཙམ་བགྱིས་ལ་ཁབ་ཙམ་གྱི་སྲོག་ཤིང་བཙུགས་ཏེ། རྒྱ་ཤུག་གི་ལོ་མ་ཙམ་གྱི་གདུགས་གསོལ་ནས། ནས་ཀྱི་འབྲུ་ཙམ་གྱི་སྐུ་གཟུགས་བགྱིས་ལ་ཡུངས་འབྲུ་ཙམ་གྱི་རིང་བསྲེལ་སྩལ་ན་དེ་གཉིས་བསོད་ནམས་ཤིན་ཏུ་ཆེ་བ་གང་ལགས་སྙམ་མོ། །བདག་གིས་ཡང་འདི་སྙམ་དུ་བསམས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Seeing this, I thought to myself, ‘If a faithful son or daughter of good family were to offer such a building to the saṅgha in the four directions, or if someone were to erect for a thus-gone, worthy, completely perfect buddha, who has passed into parinirvāṇa, a stūpa the size of a gooseberry fruit made of clay, provide it with a central pillar the size of a needle and a parasol the size of a jujube leaf, commission a statue the size of a grain of barley, and place in there a relic the size of a mustard seed, which of these two would have the greater merit?’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-21">
+    <prop type="location-id">UT22084-072-019-98</prop>
+    <tuv xml:lang="bo">
+                <seg>སྟོན་པ་ནི་བདག་གི་མངོན་སུམ་དུ་གྱུར། བདེ་བར་གཤེགས་པ་ནི་བདག་གི་མངོན་སུམ་དུ་གྱུར་གྱིས། བཅོམ་ལྡན་འདས་ལ་བདག་གིས་དོན་འདི་ཉིད་གསོལ་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then it occurred to me, ‘Since the Teacher is here with me, the Well-Gone One is here with me, I should ask the Blessed One to clarify this matter.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-22">
+    <prop type="location-id">UT22084-072-019-98</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བདག་ལ་ཇི་སྐད་བསྟན་པ་བཞིན་དུ་གཟུང་བར་བགྱི་སྙམ་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>As the Blessed One explains it, so I will remember it.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-23">
+    <prop type="location-id">UT22084-072-019-98</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལ་བདག་དོན་འདི་ཉིད་ཞུ་ལགས་ན་ཐུགས་བརྩེ་བ་ཉེ་བར་བཟུང་སྟེ། བཅོམ་ལྡན་འདས་ཀྱིས་བདག་ལ་དོན་འདི་ཉིད་ལེགས་པར་བསྟན་དུ་གསོལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If I make this request to the Blessed One, may the Blessed One instruct me thoroughly on this matter by virtue of his compassionate mind.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-24">
+    <prop type="location-id">UT22084-072-019-100</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་སྐད་ཅེས་གསོལ་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །ཀུན་དགའ་བོ་ཁྱོད་སྐྱེ་བོ་མང་པོ་ལ་ཕན་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-019-100"/>When this request was thus made, the Blessed One replied to the venerable Ānanda, “Ānanda, you are dedicated to the welfare of many beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-25">
+    <prop type="location-id">UT22084-072-019-100</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐྱེ་བོ་མང་པོ་ལ་བདེ་བ་དང་། འཇིག་རྟེན་ལ་སྙིང་བརྩེ་བའི་ཕྱིར་ཞུགས་ནས་ལྷ་དང་མི་རྣམས་ལ་ཕན་པ་དང་། བདེ་བའི་དོན་གྱི་ཕྱིར་ཁྱོད་དེ་བཞིན་གཤེགས་པ་ལ་དོན་འདི་ཉིད་འདྲི་བར་སེམས་པ་ནི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is for the happiness of many beings, out of compassion for the world, and for the benefit, welfare, and happiness of gods and humans that you ask the Thus-Gone One about this issue.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-26">
+    <prop type="location-id">UT22084-072-019-100</prop>
+    <tuv xml:lang="bo">
+                <seg>ལེགས་སོ་ལེགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Excellent! Excellent!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-27">
+    <prop type="location-id">UT22084-072-019-100</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་<tei:ref folio="F.195.a"/>དགའ་བོ་དེའི་ཕྱིར་ལེགས་པར་རབ་ཏུ་ཉོན་ལ་ཡིད་ལ་ཟུང་ཤིག་དང་བཤད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, Ānanda, listen well and keep this in mind. I will explain.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-28">
+    <prop type="location-id">UT22084-072-019-102</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་འཛམ་བུ་གླིང་གི་གླིང་ནི་ཆུར་དཔག་ཚད་བདུན་སྟོང་། རྒྱར་ཡང་དཔག་ཚད་བདུན་སྟོང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-019-102"/>“Ānanda, the continent of Jambudvīpa is seven thousand leagues in length and width.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-29">
+    <prop type="location-id">UT22084-072-019-102</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་དུ་ནི་ཁ་ཚོན་ཆེ་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the north it is expansive.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-30">
+    <prop type="location-id">UT22084-072-019-102</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷོར་ནི་སོག་ཀར་འདུག་པ་དེ་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་དད་པ་གང་ལ་ལ་ཞིག་གིས་རིན་པོ་ཆེ་སྣ་བདུན་གྱི་རང་བཞིན་དུ་བྱས་ཏེ། རྒྱུན་དུ་ཞུགས་པ་རྣམས་དང་། ལན་ཅིག་ཕྱིར་འོང་བ་རྣམས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>To the south, it has the shape of an axe.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-31">
+    <prop type="location-id">UT22084-072-019-102</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱིར་མི་འོང་བ་རྣམས་དང་། དགྲ་བཅོམ་པ་རྣམས་དང་། རང་སངས་རྒྱས་རྣམས་དང་། ཕྱོགས་བཞིའི་དགེ་སློང་གི་དགེ་འདུན་ལ་ཕུལ་བ་བས་གང་གིས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་ན་ང་། རྫོགས་པའི་སངས་རྒྱས་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པའི་མཆོད་རྟེན་འཇི་བ་ལས་སྐྱུ་རུ་རའི་འབྲས་བུ་ཙམ་བྱས་ལ་ཁབ་ཙམ་གྱི་སྲོག་ཤིང་བཙུགས་ཏེ། རྒྱ་ཤུག་གི་ལོ་མ་ཙམ་གྱི་གདུགས་གསོལ་ནས། ནས་ཀྱི་འབྲུ་ཙམ་གྱི་སྐུ་གཟུགས་བྱས་ལ། ཡུངས་འབྲུ་ཙམ་གྱི་རིང་བསྲེལ་བཅུག་ན་དེ་ནི་དེ་བས་ཆེས་བསོད་ནམས་ཆེའོ་ཞེས་ང་སྨྲའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If it were made of the seven precious substances and a faithful son or daughter of good family were to offer it to all stream enterers, once-returners, non-returners, arhats, pratyekabuddhas, and the saṅgha in the four directions, or if someone were to erect for a thus-gone, worthy, completely perfect buddha, who has passed into parinirvāṇa, a stūpa the size of a gooseberry fruit made of clay, provide it with a central pillar the size of a needle and a parasol the size of a jujube leaf, commission a statue the size of a grain of barley, and place in there a relic the size of a mustard seed, I say, Ānanda, the merit of this one would be far greater than the former.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-32">
+    <prop type="location-id">UT22084-072-019-103</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་འཛམ་བུའི་གླིང་ལྟ་ཞོག་གི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-019-103"/>“Ānanda, leave aside the continent of Jambudvīpa.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-33">
+    <prop type="location-id">UT22084-072-019-103</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་ཤར་གྱི་ལུས་འཕགས་ཞེས་བྱ་བའི་གླིང་ཡོད་དེ་ཆུར་ནི་དཔག་ཚད་བརྒྱད་སྟོང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There is, Ānanda, an eastern continent named Pūrvavideha.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-34">
+    <prop type="location-id">UT22084-072-019-103</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱར་ཡང་དཔག་ཚད་བརྒྱད་སྟོང་སྟེ། ཀུན་ནས་ཟླ་གམ་ལྟ་བུར་གྲུབ་པ་དེ། རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་དད་པ་གང་ལ་ལ་ཞིག་གིས་རིན་པོ་ཆེ་སྣ་བདུན་གྱི་རང་བཞིན་དུ་བྱས་ཏེ། རྒྱུན་དུ་ཞུགས་པ་རྣམས་དང་། ལན་ཅིག་ཕྱིར་འོང་བ་རྣམས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is eight thousand leagues in length and width and it is shaped like a crescent.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-35">
+    <prop type="location-id">UT22084-072-019-103</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱིར་མི་འོང་བ་རྣམས་དང་། དགྲ་བཅོམ་པ་རྣམས་དང་། རང་སངས་རྒྱས་རྣམས་དང་། ཕྱོགས་བཞིའི་དགེ་སློང་གི་དགེ་འདུན་ལ་ཕུལ་བ་བས། གང་གིས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པའི་མཆོད་རྟེན་འཇི་བ་ལས་སྐྱུ་རུ་རའི་འབྲས་བུ་ཙམ་བྱས་ལ་ཁབ་ཙམ་གྱི་སྲོག་ཤིང་བཙུགས་ཏེ། རྒྱ་ཤུག་གི་ལོ་མ་ཙམ་གྱི་གདུགས་གསོལ་ནས། ནས་ཀྱི་འབྲུ་ཙམ་གྱི་སྐུ་གཟུགས་བྱས་ལ། ཡུངས་འབྲུ་ཙམ་གྱི་རིང་བསྲེལ་བཅུག་ན་དེ་ནི་དེ་བས་ཆེས་བསོད་ནམས་ཆེའོ་ཞེས་ང་སྨྲའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If it were made of the seven precious substances and a faithful son or daughter of good family were to offer it to all stream enterers, once-returners, non-returners, arhats, pratyekabuddhas, and the saṅgha in the four directions, or if someone were to create for a thus-gone, worthy, completely perfect buddha, who has passed into parinirvāṇa, a stūpa the size of a gooseberry fruit made of clay, provide it with a central pillar the size of a needle and a parasol the size of a jujube leaf, commission a statue the size of a grain of barley, and place in there a relic the size of a mustard seed, I say, Ānanda, the merit of this one would be far greater than the former.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-36">
+    <prop type="location-id">UT22084-072-019-105</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་འཛམ་བུའི་གླིང་ལྟ་<tei:ref folio="F.195.b"/>འང་ཞོག །ཤར་གྱི་ལུས་འཕགས་ཀྱི་གླིང་ལྟ་འང་ཞོག་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-019-105"/>“Ānanda, leave aside the continent of Jambudvīpa and the eastern continent of Pūrvavideha.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-37">
+    <prop type="location-id">UT22084-072-019-105</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་ནུབ་ཀྱི་བ་ལང་སྤྱོད་ཅེས་བྱ་བའི་གླིང་ཡོད་དེ་ཆུར་ནི་དཔག་ཚད་དགུ་སྟོང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There is, Ānanda, a continent named Avaragodānīya.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-38">
+    <prop type="location-id">UT22084-072-019-105</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞེང་ཡང་དཔག་ཚད་དགུ་སྟོང་སྟེ། ཀུན་ནས་ཟླ་བ་ཉ་བ་ལྟ་བུར་གྲུབ་པ་དེ་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་དད་པ་གང་ལ་ལ་ཞིག་གིས་རིན་པོ་ཆེ་སྣ་བདུན་གྱི་རང་བཞིན་དུ་བྱས་ཏེ། རྒྱུན་དུ་ཞུགས་པ་རྣམས་དང་། ལན་ཅིག་ཕྱིར་འོང་བ་རྣམས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is nine thousand leagues in length and width and it is shaped like a full moon.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-39">
+    <prop type="location-id">UT22084-072-019-105</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱིར་མི་འོང་བ་རྣམས་དང་། དགྲ་བཅོམ་པ་རྣམས་དང་། རང་སངས་རྒྱས་རྣམས་དང་། ཕྱོགས་བཞིའི་དགེ་སློང་གི་དགེ་འདུན་ལ་ཕུལ་བ་བས། གང་གིས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པའི་མཆོད་རྟེན་འཇི་བ་ལས་སྐྱུ་རུ་རའི་འབྲས་བུ་ཙམ་བྱས་ལ་ཁབ་ཙམ་གྱི་སྲོག་ཤིང་བཙུགས་ཏེ། རྒྱ་ཤུག་གི་ལོ་མ་ཙམ་གྱི་གདུགས་གསོལ་ནས། ནས་ཀྱི་འབྲུ་ཙམ་གྱི་སྐུ་གཟུགས་བྱས་ལ། ཡུངས་འབྲུ་ཙམ་གྱི་རིང་བསྲེལ་བཅུག་ན་དེ་ནི་དེ་བས་ཆེས་བསོད་ནམས་ཆེའོ་ཞེས་ང་སྨྲའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If it were made of the seven precious substances and a faithful son or daughter of good family were to offer it to the all stream enterers, once-returners, non-returners, arhats, pratyekabuddhas, and the saṅgha in the four directions, or if someone were to create for a thus-gone, worthy, completely perfect buddha, who has passed into parinirvāṇa, a stūpa the size of a gooseberry fruit made of clay, provide it with a central pillar the size of a needle and a parasol the size of a jujube leaf, commission a statue the size of a grain of barley, and place in there a relic the size of a mustard seed, I say, Ānanda, the merit of this one would be far greater than the former.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-40">
+    <prop type="location-id">UT22084-072-019-108</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་འཛམ་བུའི་གླིང་ལྟའང་ཞོག །ཤར་གྱི་ལུས་འཕགས་ཀྱི་གླིང་ལྟའང་ཞོག །ནུབ་ཀྱི་བ་ལང་སྤྱོད་ཀྱི་གླིང་ལྟའང་ཞོག་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-019-108"/>“Ānanda leave aside the continent of Jambudvīpa, the eastern continent of Pūrvavideha, and the western continent of Avaragodānīya.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-41">
+    <prop type="location-id">UT22084-072-019-108</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་བྱང་གི་སྒྲ་མི་སྙན་ཅེས་བྱ་བའི་གླིང་ཡོད་དེ། ཆུར་ནི་དཔག་ཚད་ཁྲི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There is, Ānanda, a continent named Uttarakuru.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-42">
+    <prop type="location-id">UT22084-072-019-108</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱར་ཡང་དཔག་ཚད་ཁྲི་སྟེ། ཀུན་ནས་གྲུ་བཞི་ལྷམ་པར་གྲུབ་པ་དེ་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་དད་པ་གང་ལ་ལ་ཞིག་གིས་རིན་པོ་ཆེ་སྣ་བདུན་གྱི་རང་བཞིན་དུ་བྱས་ཏེ། རྒྱུན་དུ་ཞུགས་པ་རྣམས་དང་། ལན་ཅིག་ཕྱིར་འོང་བ་རྣམས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is ten thousand leagues in length and width and is entirely square.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-43">
+    <prop type="location-id">UT22084-072-019-108</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱིར་མི་འོང་བ་རྣམས་དང་། དགྲ་བཅོམ་པ་རྣམས་དང་། རང་སངས་རྒྱས་རྣམས་དང་། ཕྱོགས་བཞིའི་དགེ་སློང་གི་དགེ་འདུན་ལ་ཕུལ་བ་བས། གང་གིས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པའི་མཆོད་རྟེན་འཇི་བ་ལས་སྐྱུ་རུ་རའི་འབྲས་བུ་ཙམ་བྱས་ལ་ཁབ་ཙམ་གྱི་སྲོག་ཤིང་བཙུགས་ཏེ། རྒྱ་ཤུག་གི་ལོ་མ་ཙམ་གྱི་གདུགས་གསོལ་ནས། ནས་ཀྱི་འབྲུ་ཙམ་གྱི་སྐུ་གཟུགས་བྱས་ལ། ཡུངས་འབྲུ་ཙམ་གྱི་རིང་བསྲེལ་བཅུག་ན་དེ་ནི་དེ་བས་བསོད་ནམས་ཆེའོ་ཞེས་ང་སྨྲའོ། །<tei:ref folio="F.196.a"/>
+                </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If it were made of the seven precious substances and a faithful son or daughter of good family were to offer it to all stream enterers, once-returners, non-returners, arhats, pratyekabuddhas, and the saṅgha in the four directions, or if someone were to create for a thus-gone, worthy, completely perfect buddha, who has passed into parinirvāṇa, a stūpa the size of a gooseberry fruit made of clay, provide it with a central pillar the size of a needle and a parasol the size of a jujube leaf, commission a statue the size of a grain of barley, and place in there a relic the size of a mustard seed, I say, Ānanda, the merit of this one would be far greater than the former.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-44">
+    <prop type="location-id">UT22084-072-019-110</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་འཛམ་བུའི་གླིང་ལྟའང་ཞོག །ཤར་གྱི་ལུས་འཕགས་ཀྱི་གླིང་ལྟའང་ཞོག །ནུབ་ཀྱི་བ་ལང་སྤྱོད་ཀྱི་གླིང་ལྟའང་ཞོག །བྱང་གི་སྒྲ་མི་སྙན་གྱི་གླིང་ལྟའང་ཞོག་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-019-110"/>“Ānanda, leave aside the continent of Jambudvīpa, the eastern continent of Pūrvavideha, the western continent of Avaragodānīya, and the northern continent of Uttarakuru.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-45">
+    <prop type="location-id">UT22084-072-019-110</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་ལྷའི་དབང་པོ་བརྒྱ་བྱིན་གྱི་ཁང་བཟང་རྣམ་པར་རྒྱལ་བྱེད་ཅེས་བྱ་བ་ཡོད་དེ། དེ་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་དད་པ་གང་ལ་ལ་ཞིག་གིས་རིན་པོ་ཆེ་སྣ་བདུན་གྱི་རང་བཞིན་དུ་བྱས་ཏེ། །རྒྱུན་དུ་ཞུགས་པ་རྣམས་དང་། ལན་ཅིག་ཕྱིར་འོང་བ་རྣམས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There is, Ānanda, the palace of Śakra, the lord of the gods, named Vaijayanta.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-46">
+    <prop type="location-id">UT22084-072-019-110</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱིར་མི་འོང་བ་རྣམས་དང་། དགྲ་བཅོམ་པ་རྣམས་དང་། རང་སངས་རྒྱས་རྣམས་དང་། ཕྱོགས་བཞིའི་དགེ་སློང་གི་དགེ་འདུན་ལ་ཕུལ་བ་བས། གང་གིས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པའི་མཆོད་རྟེན་འཇི་བ་ལས་སྐྱུ་རུ་རའི་འབྲས་བུ་ཙམ་བྱས་ལ་ཁབ་ཙམ་གྱི་སྲོག་ཤིང་བཙུགས་ཏེ། རྒྱ་ཤུག་གི་ལོ་མ་ཙམ་གྱི་གདུགས་གསོལ་ནས། ནས་ཀྱི་འབྲུ་ཙམ་གྱི་སྐུ་གཟུགས་བྱས་ལ་ཡུངས་འབྲུ་ཙམ་གྱི་རིང་བསྲེལ་བཅུག་ན་དེ་ནི་དེ་བས་ཆེས་བསོད་ནམས་ཆེའོ་ཞེས་ང་སྨྲའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If it were made of the seven precious substances and a faithful son or daughter of good family were to offer it to all stream enterers, once-returners, non-returners, arhats, pratyekabuddhas, and the saṅgha in the four directions, or if someone were to create for a thus-gone, worthy, completely perfect buddha, who has passed into parinirvāṇa, a stūpa the size of a gooseberry fruit made from clay, provide it with a central pillar the size of a needle and a parasol the size of a jujube leaf, commission a statue the size of a grain of barley, and place in there a relic the size of a mustard seed, I say, Ānanda, the merit of this one would be far greater than the former.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-47">
+    <prop type="location-id">UT22084-072-019-112</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་འཛམ་བུའི་གླིང་ལྟ་ཡང་ཞོག །ཤར་གྱི་ལུས་འཕགས་ཀྱི་གླིང་ལྟ་ཡང་ཞོག །ནུབ་ཀྱི་བ་ལང་སྤྱོད་ཀྱི་གླིང་ལྟ་ཡང་ཞོག །བྱང་གི་སྒྲ་མི་སྙན་གྱི་གླིང་ལྟ་ཡང་ཞོག །ལྷའི་དབང་པོ་བརྒྱ་བྱིན་གྱི་ཁང་བཟང་རྣམ་པར་རྒྱལ་བྱེད་ཅེས་བྱ་བ་ལྟ་ཡང་ཞོག་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-019-112"/>“Ānanda, leave aside the continent of Jambudvīpa, the eastern continent of Pūrvavideha, the western continent of Avaragodānīya, the northern continent of Uttarakuru, and the palace of Śakra, the lord of the gods, named Vaijayanta.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-48">
+    <prop type="location-id">UT22084-072-019-112</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱི་ཁམས་ཡོད་དེ། དེ་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་དད་པ་གང་ལ་ལ་ཞིག་གིས་རིན་པོ་ཆེ་སྣ་བདུན་གྱི་རང་བཞིན་དུ་བྱས་ཏེ། རྒྱུན་དུ་ཞུགས་པ་རྣམས་དང་། ལན་ཅིག་ཕྱིར་འོང་བ་རྣམས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There is, Ānanda, the three-thousandfold universe.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-49">
+    <prop type="location-id">UT22084-072-019-112</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱིར་མི་འོང་བ་རྣམས་དང་། དགྲ་བཅོམ་པ་རྣམས་དང་། རང་སངས་རྒྱས་རྣམས་དང་། ཕྱོགས་བཞིའི་དགེ་སློང་གི་དགེ་འདུན་ལ་ཕུལ་བ་བས། གང་གིས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པའི་མཆོད་རྟེན་འཇི་བ་ལས་སྐྱུ་རུ་རའི་འབྲས་བུ་ཙམ་བྱས་ལ་ཁབ་ཙམ་གྱི་སྲོག་ཤིང་བཙུགས་ཏེ། རྒྱ་ཤུག་གི་ལོ་མ་<tei:ref folio="F.196.b"/>ཙམ་གྱི་གདུགས་བྱས་ནས། ནས་ཀྱི་འབྲུ་ཙམ་གྱི་སྐུ་གཟུགས་བྱས་ལ་ཡུངས་འབྲུ་ཙམ་གྱི་རིང་བསྲེལ་བཅུག་ན་དེ་ནི་དེ་བས་ཆེས་བསོད་ནམས་ཆེའོ་ཞེས་ང་སྨྲའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If it were made of the seven precious substances and a faithful son or daughter of good family were to offer it to all the stream enterers, once-returners, non-returners, arhats, pratyekabuddhas, and the saṅgha in the four directions, or if someone were to create for a thus-gone, worthy, completely perfect buddha, who has passed into parinirvāṇa, a stūpa the size of a gooseberry fruit made of clay, provide it with a central pillar the size of a needle and a parasol the size of a jujube leaf, commission a statue the size of a grain of barley, and place in there a relic the size of a mustard seed, I say, Ānanda, the merit of this one would be far greater than the former.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-50">
+    <prop type="location-id">UT22084-072-019-113</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཅིའི་ཕྱིར་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-019-113"/>“Why is this so?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-51">
+    <prop type="location-id">UT22084-072-019-113</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་དེ་བཞིན་གཤེགས་པ་ནི་ཡེ་ཤེས་ཀྱིས་དཔག་ཏུ་མེད་པ། ཚུལ་ཁྲིམས་ཀྱིས་དཔག་ཏུ་མེད་པ། བཟོད་པས་དཔག་ཏུ་མེད་པ། བརྩོན་འགྲུས་ཀྱིས་དཔག་ཏུ་མེད་པ། བསམ་གཏན་གྱིས་དཔག་ཏུ་མེད་པ། ཤེས་རབ་ཀྱིས་དཔག་ཏུ་མེད་པ། བྱམས་པས་དཔག་ཏུ་མེད་པ། སྙིང་རྗེས་དཔག་ཏུ་མེད་པ། དགའ་བས་དཔག་ཏུ་མེད་པ། བཏང་སྙོམས་ཀྱིས་དཔག་ཏུ་མེད་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Ānanda, it is because a thus-gone one has immeasurable generosity, immeasurable discipline, immeasurable patience, immeasurable effort, immeasurable concentration, immeasurable insight, immeasurable loving-kindness, immeasurable compassion, immeasurable joy, and immeasurable equanimity.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-52">
+    <prop type="location-id">UT22084-072-019-113</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཀྱི་ཆོས་མ་འདྲེས་པ་བཅྭ་བརྒྱད་དང་། སྟོབས་བཅུ་དང་། མི་འཇིགས་པ་བཞི་དང་། སངས་རྒྱས་ཀྱི་ཆོས་དྲན་པ་ཉེ་བར་གཞག་པ་མ་འདྲེས་པ་གསུམ་དང་སྙིང་རྗེ་ཆེན་པོས་དཔག་ཏུ་མེད་པ་སྟེ། ཀུན་དགའ་བོ་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ནི་ཡོན་ཏན་དཔག་ཏུ་མེད་པ་དང་ལྡན་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Ānanda, possessing the eighteen unique qualities of a buddha, the ten powers of a thus-gone one, and the four types of fearlessness, a thus-gone, worthy, completely perfect buddha is endowed with immeasurable qualities.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-53">
+    <prop type="location-id">UT22084-072-019-115</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང་། ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་འདི་ལྟ་སྟེ། ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ནི་ངོ་མཚར་ལགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-019-115"/>When the Blessed One had spoken, the venerable Ānanda said to the Blessed One, “Blessed One, this Dharma discourse is indeed marvelous!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-54">
+    <prop type="location-id">UT22084-072-019-115</prop>
+    <tuv xml:lang="bo">
+                <seg>བདེ་བར་གཤེགས་པ་ངོ་མཚར་ལགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>O Well-Gone One, it is marvelous!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-55">
+    <prop type="location-id">UT22084-072-019-115</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཀྱི་རྣམ་གྲངས་འདིའི་མིང་ཅི་ལགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What is the name of this Dharma discourse?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-56">
+    <prop type="location-id">UT22084-072-019-115</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ཇི་ལྟར་གཟུང་བར་བགྱི། བཀའ་སྩལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How should it be remembered?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-57">
+    <prop type="location-id">UT22084-072-019-116</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་དེའི་ཕྱིར་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་རྨད་དུ་བྱུང་བའི་ཆོས་ཀྱི་རྣམ་གྲངས་ཞེས་བྱ་བར་ཟུང་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-019-116"/>The Buddha replied, “Ānanda, know this Dharma discourse as The Marvelous Dharma Discourse.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-58">
+    <prop type="location-id">UT22084-072-019-116</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བས་ན་ཆོས་ཀྱི་རྣམ་གྲངས་འདི་ནི། རྨད་དུ་བྱུང་བའི་ཆོས་ཀྱི་རྣམ་གྲངས་ཞེས་བྱ་བའི་ཚིག་བླ་དགས་སོ། །བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Hence, designate this marvelous Dharma discourse as The Marvelous Dharma Discourse.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-59">
+    <prop type="location-id">UT22084-072-019-118</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-019-118"/>The Blessed One having instructed thus, the monks and the venerable Ānanda rejoiced and thoroughly praised what the Blessed One had said.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-60">
+    <prop type="location-id">UT22084-072-019-120</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་རྨད་དུ་བྱུང་བའི་ཆོས་ཀྱི་རྣམ་གྲངས། རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-019-120"/>This concludes “The Noble Marvelous Dharma Discourse.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-019-TU-61">
+    <prop type="location-id">UT22084-072-019-121</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་ཛི་ན་མི་ཏྲ་དང་། སུ་རེན་དྲ་བོ་དྷི་དང་། ཞུ་ཆེན་གྱི་ལོ་ཙྪ་བ་བན་དེ་ཡེ་ཤེས་སྡེས་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-019-121"/>It was edited and finalized by the Indian preceptors Jinamitra and Surendrabodhi, as well as the great translator Bandé Yeshé Dé.</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

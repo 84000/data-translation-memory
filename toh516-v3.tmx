@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-088-010" eft:text-version="v-1.0.3-2023"/>
+<body>
+<tu id="UT22084-088-010-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.48.a"/>༄༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་པུཥྤ་ཀཱུ་ཊ་ནཱ་མ་དྷཱ་ར་ཎཱི། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་མེ་ཏོག་བརྩེགས་པ་ཞེས་བྱ་བའི་གཟུངས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-010-translation"/>The Noble Dhāraṇī Heap of Flowers</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-3">
+    <prop type="location-id">UT22084-088-010-58</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-010-58"/>Homage to all buddhas and bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-4">
+    <prop type="location-id">UT22084-088-010-58</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-5">
+    <prop type="location-id">UT22084-088-010-58</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མཚོ་ཆེན་པོ་མ་དྲོས་པ་ན། ཀླུའི་རྒྱལ་པོ་མ་དྲོས་<tei:ref folio="F.48.b"/>པའི་ཁང་པ་ན། དགེ་སློང་ལྔ་བརྒྱའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ། བྱང་ཆུབ་སེམས་དཔའི་ཚོགས་ཆེན་པོ་འཇིག་རྟེན་གྱི་ཁམས་གཞན་དང་གཞན་དག་ནས་འདུས་པ། བྱང་ཆུབ་སེམས་དཔའ་སྟོང་དུ་ཚང་བ་ཐམས་ཅད་ཀྱང་གཟུངས་ཐོབ་པ། ཏིང་ངེ་འཛིན་ཐོབ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One was residing on the shores of the great Lake Anavatapta, in the mansion of the nāga king Anavatapta, together with a great monastic retinue of five hundred monks and a great retinue of bodhisattvas, numbering an even thousand, gathered from various world-systems.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-6">
+    <prop type="location-id">UT22084-088-010-58</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐྱེ་བ་གཅིག་གིས་ཐོགས་པ། ས་བཅུ་ལ་རབ་ཏུ་གནས་པ། དེ་མ་ཐག་ཏུ་རྒྱལ་ཚབ་ཏུ་དབང་བསྐུར་བས་དབང་བསྐུར་བ། གོ་ཆ་ཆེན་པོ་བགོས་པ། སངས་རྒྱས་ཀྱི་ཡོན་ཏན་ཐམས་ཅད་ལ་ཐེ་ཙོམ་མེད་པ་ཤ་སྟག་དང་ཡང་ཐབས་ཅིག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Without exception, they all possessed dhāraṇī, possessed contemplation, had one rebirth remaining, were well established on the ten levels, were consecrated with the consecration of immediately being heirs apparent, had donned the great cuirass, and entertained no doubts regarding the qualities of a buddha.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-7">
+    <prop type="location-id">UT22084-088-010-61</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཚེ་ན་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་སེང་གེ་རྣམ་པར་རྩེ་ཞེས་བྱ་བ་འཁོར་དེ་ཉིད་དུ་འདུས་པར་གྱུར་ཏེ་འདུག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-010-61"/>At that time, the bodhisattva mahāsattva Siṃhavikrīḍita came and took a seat in that very retinue.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-8">
+    <prop type="location-id">UT22084-088-010-63</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་སེང་གེ་རྣམ་པར་རྩེ་སྟན་ལས་ལངས་ཏེ། བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས་པུས་མོ་གཡས་པའི་ལྷ་ངས་ལ་བཙུགས་ཏེ། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས། བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The bodhisattva mahāsattva Siṃhavikrīḍita then rose from his seat, placed his upper garment on one shoulder, placed his right kneecap on the ground, cupped his palms in reverence toward the Blessed One, and said to the Blessed One,<tei:milestone xml:id="UT22084-088-010-63"/> “Blessed One!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-9">
+    <prop type="location-id">UT22084-088-010-63</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་གང་གིས་དེ་བཞིན་གཤེགས་པ་ལ་མཆོད་པ་བགྱིས་ན་དེའི་བསོད་ནམས་ཇི་སྙེད་ཅིག་བསྐྱེད་པར་འགྱུར། དེ་སྐད་ཅེས་གསོལ་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How much merit does a son or daughter of noble family who performs worship to a thus-gone one accrue?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-10">
+    <prop type="location-id">UT22084-088-010-64</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་སེང་གེ་རྣམ་པར་རྩེ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །བཅོམ་ལྡན་འདས་རིགས་ཀྱི་བུའམ། རིགས་ཀྱི་བུ་མོ་གང་གིས་དེ་བཞིན་གཤེགས་པ་ལ་མཆོད་པ་བགྱི་ན་དེའི་བསོད་ནམས་ཇི་སྙེད་ཅིག་སྐྱེད་པར་འགྱུར་ཞེས་སེང་གེ་རྣམ་པར་རྩེ་ཁྱོད་དེ་སྐད་མ་ཟེར་ཅིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-010-64"/>The Blessed One replied to the bodhisattva mahāsattva Siṃhavikrīḍita, “Siṃhavikrīḍita, do not say ‘Blessed One, how much merit does a son or daughter of noble family who performs worship to a thus-gone one accrue?’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-11">
+    <prop type="location-id">UT22084-088-010-64</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཅིའི་ཕྱིར་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Why is that?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-12">
+    <prop type="location-id">UT22084-088-010-64</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་ནི་ཚུལ་ཁྲིམས་དཔག་ཏུ་མེད་པ། ཏིང་ངེ་འཛིན་དཔག་ཏུ་མེད་པ། ཤེས་རབ་དཔག་ཏུ་མེད་པ། རྣམ་པར་གྲོལ་བ་དཔག་ཏུ་མེད་པ། རྣམ་པར་གྲོལ་བའི་ཡེ་ཤེས་མཐོང་བ་དཔག་ཏུ་མེད་པ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>A thus-gone one is of immeasurable morality, immeasurable contemplation, immeasurable wisdom, immeasurable liberation, and immeasurable knowledge and vision of liberation.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-13">
+    <prop type="location-id">UT22084-088-010-64</prop>
+    <tuv xml:lang="bo">
+                <seg>སེང་གེ་རྣམ་པར་རྩེ་བ་གང་གི་ཕྱིར་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཡོན་ཏན་གྱི་ཚོགས་དཔག་ཏུ་མེད་པ་དང་ལྡན་པ་དེའི་ཕྱིར་དེ་ལ་མཆོད་<tei:ref folio="F.49.a"/>པའི་རྣམ་པར་སྨིན་པ་དེ་ཡང་དཔག་ཏུ་མེད་པར་ཤེས་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thus, Siṃhavikrīḍita, since a thus-gone, worthy, fully awakened, perfect buddha is endowed with immeasurable heaps of virtue, it follows that the fruition of performing worship to him is also immeasurable.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-14">
+    <prop type="location-id">UT22084-088-010-66</prop>
+    <tuv xml:lang="bo">
+                <seg>སེང་གེ་རྣམ་པར་རྩེ་བ་གང་ལ་ལ་དག་དེ་བཞིན་གཤེགས་པ་བཞུགས་ཀྱང་རུང་། ཡོངས་སུ་མྱ་ངན་ལས་འདས་ཀྱང་རུང་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-010-66"/>“It is like this, Siṃhavikrīḍita.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-15">
+    <prop type="location-id">UT22084-088-010-66</prop>
+    <tuv xml:lang="bo">
+                <seg>མཆོད་པ་བྱེད་པ་དེ་དག་ཐམས་ཅད་ནི་འདི་ལྟ་སྟེ། ཉན་ཐོས་ཀྱི་ཐེག་པའམ། རང་སངས་རྒྱས་ཀྱི་ཐེག་པའམ། །ཐེག་པ་ཆེན་པོའམ། ཐེག་པ་གསུམ་ལས་ཐེག་པ་གཅིག་གིས་ཡོངས་སུ་མྱ་ངན་ལས་འདའ་བར་འགྱུར་རོ། །སེང་གེ་རྣམ་པར་རྩེ་ཡང་གང་གིས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་མཐོང་ནས་སེམས་དང་བར་གྱུར་ལ། དད་པའི་སེམས་ཀྱིས་རྙེད་པ་དང་། ན་བཟའ་དང་། ཞལ་ཟས་དང་། གཟིམས་ཆ་དང་། སྙུན་གྱི་གསོས་སྨན་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Those who perform the worship of a thus-gone one, whether present or departed into complete nirvāṇa, will attain complete nirvāṇa through one of the three vehicles—the vehicle of śrāvakas, the vehicle of pratyekabuddhas, or the great vehicle.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-16">
+    <prop type="location-id">UT22084-088-010-66</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡོ་བྱད་དང་། བདེ་བར་སྦྱར་བ་ཐམས་ཅད་ཀྱིས་བསྟི་སྟང་དུ་བྱས་ཤིང་། རི་མོར་བྱས་ཏེ་མཆོད་ཅིང་རྗེད་ལ། རིམ་གྲོར་བྱས་པ་དང་། གང་ཞིག་གིས་དེ་བཞིན་གཤེགས་པ་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པའི་རིང་བསྲེལ་ཡུངས་འབྲུ་ཙམ་གྱི་མཆོད་རྟེན་ལ་མཆོད་པ་བྱས་པའི་རྣམ་པར་སྨིན་པ་ནི་མཉམ་པར་ཤེས་པར་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Moreover, Siṃhavikrīḍita, the fruition of merit is the same for a person whose mind becomes cleansed upon beholding the thus-gone, worthy, fully awakened, perfect buddha, and then with a cleansed mind honors, reveres, worships, and venerates him with profits, clothing, alms, bedding, medicinal herbs, implements, and various kinds of comforts, as for a person who worships a caitya containing a relic even as small as a mustard seed from a thus-gone one who has departed into complete nirvāṇa.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-17">
+    <prop type="location-id">UT22084-088-010-66</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱེ་བྲག་གམ་ཐ་དད་དུ་བྱ་བ་མེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There is no difference, no distinction whatsoever between them.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-18">
+    <prop type="location-id">UT22084-088-010-70</prop>
+    <tuv xml:lang="bo">
+                <seg>སེང་གེ་རྣམ་པར་རྩེ་བ་བྱང་ཆུབ་སེམས་དཔའ་ཁྱིམ་པ་གང་ཞིག་གིས་ཉན་ཐོས་དང་། རང་སངས་རྒྱས་དང་། དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམས་ལ་རིན་པོ་ཆེའི་ཕུང་པོ་རི་རབ་ཙམ་འབུལ་བར་ཕུལ་བ་བས་བྱང་ཆུབ་སེམས་དཔའ་གང་རབ་ཏུ་བྱུང་ནས་ཀཱཪྵཱ་པ་ཎ་གཅིག་ཙམ་དབུལ་བར་ཕུལ་ལ། ཕུལ་ནས་ཀྱང་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་ཡོངས་སུ་བསྔོས་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-010-70"/>“Suppose, Siṃhavikrīḍita, that a householder bodhisattva were to donate a heap of precious materials as tall as Mount Meru to śrāvakas, pratyekabuddhas, or thus-gone, worthy, fully awakened, perfect Buddhas, and suppose a bodhisattva who has gone forth were to donate a single coin and then generate the aspiration for unsurpassed perfect awakening.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-19">
+    <prop type="location-id">UT22084-088-010-70</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་བའི་རྩ་བ་སྔ་མ་དེས་དགེ་བའི་རྩ་བ་ཕྱི་མའི་བརྒྱའི་ཆར་ཡང་ཉེ་བར་མི་འགྲོ། སྟོང་གི་ཆ་དང་། འབུམ་གྱི་ཆ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The former roots of merit would not amount to even a hundredth of the latter—not a thousandth, not a hundred-thousandth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-20">
+    <prop type="location-id">UT22084-088-010-70</prop>
+    <tuv xml:lang="bo">
+                <seg>གྲངས་དང་། ཆ་དང་། བགྲང་བ་དང་། བསྐྲུན་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It would not even count as any part, any number worthy of consideration, simile, or approximation of any kind.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-21">
+    <prop type="location-id">UT22084-088-010-70</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱུར་ཡང་ཉེ་བར་མི་འགྲོ་བ་ནས་དཔེའི་བར་དུ་ཡང་མི་བཟོད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It would not even be close; it would not even compare.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-22">
+    <prop type="location-id">UT22084-088-010-72</prop>
+    <tuv xml:lang="bo">
+                <seg>སེང་གེ་རྣམ་པར་རྩེ་བ་གང་ཞིག་གིས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ལ་ལོ་གཅིག་གམ། ལོ་བརྒྱའམ། ལོ་སྟོང་ཡང་རུང་སྟེ། བདེ་བའི་ཡོ་བྱད་ཐམས་<tei:ref folio="F.49.b"/>ཅད་ཀྱིས་བསྙེན་བཀུར་བྱས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-010-72"/>“Suppose, Siṃhavikrīḍita, that a person were to honor a thus-gone, worthy, fully awakened, perfect Buddha with various comforts for a year, a century, or even a millennium.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-23">
+    <prop type="location-id">UT22084-088-010-72</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་ཞིག་གིས་དེ་བཞིན་གཤེགས་པ་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པའི་མཆོད་རྟེན་ལ་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱིས་ཡང་དག་པར་ཟིན་པས་དེ་བཞིན་གཤེགས་པ་མཆོད་པའི་ཕྱིར་མེ་ཏོག་འགའ་འབུལ་ལམ། ཆུ་སྙིམ་པ་གང་ཙམ་འཐོར་རམ། བྱུག་པའི་ཐིག་ལེ་འདྲིའམ། མེ་ཏོག་གི་ཉལ་ཉིལ་འཕྱག་གམ། བྱུག་པ་འབུལ་ལམ། སྤོས་འབུལ་ལམ། མེ་ཏོག་འབུལ་ལམ། བདུག་སྤོས་འབུལ་ལམ། ཕྲེང་བ་འབུལ་ལམ། རོལ་མོའི་སིལ་སྙན་འབུལ་ལམ། གདུགས་འབུལ་ལམ། དྲིལ་བུ་འབུལ་ལམ། དཔྱང་བ་འབུལ་ལམ། རྒྱལ་མཚན་འབུལ་ལམ། བ་དན་འབུལ་ལམ། དར་འབུལ་ལམ། མར་མེ་འབུལ་ཞིང་། ཕུལ་ནས་དགའ་བའི་སེམས་ཀྱིས་གོམ་པའི་གར་སྟབས་འགའ་བོར་ཏེ། སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་ལ་ཕྱག་འཚལ་ལོ་ཞེས་སྨྲ་བ་དེ་དག་ནི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And suppose that a person who has fully adopted the resolve of awakening were, with the intent of worshiping a thus-gone one, to offer a single flower, pour out a handful of water, apply a drop of fragrant pigment, remove withered flowers, or offer some unguent, incense, flowers, perfume, garlands, music, or a parasol, bell, hanging cloth, banner, flag, piece of cloth, or a lamp at a caitya of a thus-gone one who has departed into complete nirvāṇa, and after having made this offering were to say with a rejoicing heart at every step forward, ‘Homage to that Blessed Buddha.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-24">
+    <prop type="location-id">UT22084-088-010-72</prop>
+    <tuv xml:lang="bo">
+                <seg>སེང་གེ་རྣམ་པར་རྩེ་བསྐལ་པར་རམ། བསྐལ་པ་བརྒྱའམ། བསྐལ་པ་སྟོང་དུའམ། བསྐལ་པ་འབུམ་དུ་ཡང་ངན་འགྲོ་ལོག་པར་ལྟུང་བར་འགྲོ་བར་འགྱུར་བ་དེའི་གནས་མེད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is simply impossible, Siṃhavikrīḍita, that these people would fall into unfavorable rebirths for an eon, or a hundred eons, a thousand eons, or one-hundred thousand eons.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-25">
+    <prop type="location-id">UT22084-088-010-72</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལ་དོགས་པའམ། ཡིད་གཉིས་སམ། ཐེ་ཙོམ་ཟ་བར་མི་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Have no distrust, no doubts, and no uncertainty about this.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-26">
+    <prop type="location-id">UT22084-088-010-75</prop>
+    <tuv xml:lang="bo">
+                <seg>སེང་གེ་རྣམ་པར་རྩེ་མེ་ཏོག་བརྩེགས་པ་ཞེས་བྱ་བའི་གཟུངས་ཡོད་ཀྱིས་སྐྱེ་བོ་མང་པོ་ལ་ཕན་པ་དང་། སྐྱེ་བོ་མང་པོ་ལ་བདེ་བ་དང་། འཇིག་རྟེན་ལ་སྙིང་བརྩེ་བ་དང་། ལྷ་དང་། མིའི་སྐྱེ་བོ་ཕལ་པོ་ཆེའི་དོན་དང་། ཕན་པ་དང་། བདེ་བའི་ཕྱིར་དེ་བཤད་པར་བྱའོ། །སེང་གེ་རྣམ་པར་རྩེ་གང་ལ་ལ་ཞིག་མེ་ཏོག་བརྩེགས་པའི་གཟུངས་འདི་འཛིན་ཏམ། འཆང་ངམ། ཀློག་གམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-010-75"/>“Siṃhavikrīḍita, there is a dhāraṇī named Heap of Flowers that I will teach for the profit of many beings, for the happiness of many beings, to take pity on many people, for the benefit, profit, and happiness of a great many beings, gods and humans.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-27">
+    <prop type="location-id">UT22084-088-010-75</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡིད་ལ་བྱེད་དམ། ཀུན་ཆུབ་པར་བྱེད་དམ། གཞན་དག་ལ་ཡང་རྒྱ་ཆེར་ཡང་དག་པར་འཆད་པ་དེ་རྟག་ཏུ་ཚེ་རབས་དྲན་པར་འགྱུར། དེ་ངན་འགྲོ་ལོག་པར་ལྟུང་བར་མི་འགྱུར། དལ་བ་རྙེད་པར་འགྱུར། ནམ་དུ་ཡང་དཀོན་མཆོག་གསུམ་དང་མི་འབྲལ་བར་འགྱུར། ནམ་དུ་ཡང་དེ་བཞིན་གཤེགས་པ་དང་མི་འབྲལ་བར་འགྱུར། ནམ་དུ་ཡང་སངས་རྒྱས་རྗེས་སུ་དྲན་པ་དང་མི་འབྲལ་བར་འགྱུར། ནམ་དུ་ཡང་བྱང་ཆུབ་སེམས་<tei:ref folio="F.50.a"/>དཔའ་དང་མི་འབྲལ་བར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Siṃhavikrīḍita, whoever holds this dhāraṇī, Heap of Flowers, upholds it, recites it, memorizes it, masters it, or extensively explains it to others will invariably remember former births, will not fall into unfavorable rebirths, and will obtain ease.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-28">
+    <prop type="location-id">UT22084-088-010-75</prop>
+    <tuv xml:lang="bo">
+                <seg>ནམ་དུ་ཡང་བྱང་ཆུབ་ཀྱི་སེམས་དང་མི་འབྲལ་བར་འགྱུར། ནམ་དུ་ཡང་དབང་པོ་མ་ཚང་བར་མི་འགྱུར། ནམ་དུ་ཡང་རིགས་དམའ་བར་སྐྱེ་བར་མི་འགྱུར། སྤོབས་པ་སྣ་ཚོགས་ཟབ་མོ་ཕུན་སུམ་ཚོགས་པར་འགྱུར། ཕྱོགས་བཅུའི་འཇིག་རྟེན་གྱི་ཁམས་གྲངས་མེད་པ་དག་གི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་མཐོང་བར་འགྱུར་རོ། །ཏདྱ་ཐཱ། དྷཱ་ར་ཎཱི། དྷཱ་ར་ཎཱི། མུ་ནི་པྲ་བྷཱ་སྭ་རེ། སིདྡྷི་ཙཎྜེ་ནཱ་མ་ཙི་ནི་ཧེ་རི་ཨ་རོ་ག་བ་ཏི། བུདྡྷ་མ་ཏི་དྷརྱེ། ཨོཾ་ཀ་རེ་ཏེ་ག་ག་ར་ཏེ། ཏེ་ཛོ་བ་ཏི། པི་པུ་ལ་བུདྡྷེ། དྷརྨ་ཨ་བ་བྷཱ་སེ། ཨ་ཀྵ་ཡ་ཀལྤེ། ཀལྤ་བ་ཏི། ཨ་མྲྀ་ཏ་ཀལྤེ་ཧུ་ཏཱ་ཤ་ནེ། ཏེ་ཛོ་བ་ཏི། ནི་རྱ་སཾ་ཧཱི་ཏེ། ཏེ་ཛོ་གྲ་བཱ་ཏིཥྛི་ན་དྲ་ཡེ། ཏིཥྛི་ན་དྲ་ཡེ་བུནྡྷི་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will never be separated from the Three Jewels, will never be separated from the thus-gone ones, will never be separated from the act of calling the Buddha to mind, will never be separated from bodhisattvas, will never be separated from the resolve for awakening, will never be deficient in faculties, will never take birth in lower castes, will be endowed with profound fortunes of various talents, and will be able to behold the blessed buddhas of the innumerable world systems in the ten directions.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-29">
+    <prop type="location-id">UT22084-088-010-77</prop>
+    <tuv xml:lang="bo">
+                <seg>སེང་གེ་རྣམ་པར་རྩེ་གང་ལ་ལ་ཞིག་གིས་མེ་ཏོག་བརྩེགས་པའི་གཟུངས་འདིའི་མིང་དང་ཡི་གེ་དང་། ཚིག་མཐའ་དག་ཤེས་ཏེ། ཀུན་ཆུབ་པར་བྱེད་པ་དེ་དཔྱིད་ཟླ་ཐ་ཆུངས་དང་། དབྱར་ཟླ་ར་བ་དང་། སྟོན་ཟླ་ཐ་ཆུངས་ཀྱི་ཡར་ངོའི་ཚེས་བརྒྱད་ནས་བཟུང་ལ་བཅོ་ལྔའི་བར་དུ་སངས་རྒྱས་རྗེས་སུ་དྲན་པ་བསྒོམ་པར་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-010-77"/>tadyathā | dhāraṇi dhāraṇi muni­prabhāsvare siddhe caṇḍe nāmaci niheri arogavati buddha­matidhairye oṁkare tegagarate tejovate vipula­buddhe dharmāvabhāse akṣayakalpe kalpavati amṛtakalpe hutāśane tejovati nirya­saṃhīte tejogravā­tiṣṭhinadraye tiṣṭhi­nadraye buddhi svāhā ||<tei:milestone xml:id="UT22084-088-010-78"/> “Siṃhavikrīḍita, those who have fully learned and mastered the title, letters, and words of this dhāraṇī, Heap of Flowers, should call the Buddha to mind on the eight to fifteenth days of the waxing fortnight in either the last month of spring, the first month of summer, or the last month of autumn.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-30">
+    <prop type="location-id">UT22084-088-010-77</prop>
+    <tuv xml:lang="bo">
+                <seg>ཉིན་ལན་གསུམ་མཚན་ལན་གསུམ་བསམ་ཞིང་། དེ་བཞིན་གཤེགས་པ་རྩེ་གཅིག་ཏུ་ཡིད་ལ་བྱས་ལ། བཅོམ་ལྡན་འདས་ལ་སྤོས་དང་། མེ་ཏོག་དང་། མར་མེ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They should contemplate the Thus-Gone One three times a day and three times at night while concentrating one-pointedly, and worship the Blessed One with offerings of incense, flowers, lamps, and fragrance.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-31">
+    <prop type="location-id">UT22084-088-010-77</prop>
+    <tuv xml:lang="bo">
+                <seg>བདུག་སྤོས་ཀྱིས་མཆོད་ན་སངས་རྒྱས་བཅོམ་ལྡན་འདས་པདྨའི་སྙིང་པོའི་སེང་གེའི་ཁྲི་ལ་བཞུགས་ཤིང་ཆོས་ཀྱང་སྟོན་པ་བཅོ་ལྔ་མཐོང་བར་འགྱུར་རོ། །གཟུངས་རབ་ཏུ་ཐོབ་པར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Such persons will behold fifteen blessed buddhas teaching the Dharma while seated on a lion throne in the calyx of a lotus.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-32">
+    <prop type="location-id">UT22084-088-010-77</prop>
+    <tuv xml:lang="bo">
+                <seg>དྲན་པ་དང་ལྡན་པར་འགྱུར། བློ་གྲོས་དང་ལྡན་པར་འགྱུར། རྟོགས་པ་དང་ལྡན་པར་འགྱུར། བློ་དང་ལྡན་པར་འགྱུར། ཡོངས་སུ་མྱ་ངན་ལས་འདས་པའི་བར་དུ་ཚེ་རབས་དྲན་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will obtain dhāraṇīs and have good memory, dexterity of mind, quick understanding, intelligence, and will remember all their births until they reach complete nirvāṇa.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-33">
+    <prop type="location-id">UT22084-088-010-77</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐོས་པ་ཐམས་ཅད་དང་། བསྟན་བཅོས་ཐམས་ཅད་དང་། བཟོ་ཐམས་ཅད་དང་། ལས་ཐམས་ཅད་རབ་ཏུ་ཤེས་པར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Such persons will become proficient in all traditional learning, all treatises, all crafts, and all pursuits.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-34">
+    <prop type="location-id">UT22084-088-010-77</prop>
+    <tuv xml:lang="bo">
+                <seg>ཏིང་ངེ་འཛིན་ཐམས་ཅད་ཀྱང་དེའི་སེམས་ལས་རྣམ་པར་དག་པར་འགྱུར་ཏེ། འཕགས་པའི་བདེན་པ་བཞི་ནི་མ་གཏོགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>All kinds of contemplations will be established in their mind, except for the four truths of the noble ones.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-35">
+    <prop type="location-id">UT22084-088-010-77</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཅིའི་ཕྱིར་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Why is that?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-36">
+    <prop type="location-id">UT22084-088-010-77</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་དེ་དག་ནི་ཟག་པ་མེད་<tei:ref folio="F.50.b"/>པར་གཏོགས་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Because those dharmas pertain to the uncontaminated.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-37">
+    <prop type="location-id">UT22084-088-010-80</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་སེང་གེ་རྣམ་པར་རྩེ་དང་། བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་དང་། དགེ་སློང་དེ་དག་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-010-80"/>When the Blessed One finished speaking, the bodhisattva mahāsattva Siṃhavikrīḍita, the bodhisattvas, and the monks, together with a host of gods, humans, asuras, and gandharvas were gladdened and praised the speech of the Blessed One.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-010-TU-38">
+    <prop type="location-id">UT22084-088-010-81</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་མེ་ཏོག་བརྩེགས་པ་ཞེས་བྱ་བའི་གཟུངས་རྫོགས་སོ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-010-81"/>The Dhāraṇī “Heap of Flowers” is complete.</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

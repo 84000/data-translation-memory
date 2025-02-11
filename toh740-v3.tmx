@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-094-017" eft:text-version="v-1.0.1-2023"/>
+<body>
+<tu id="UT22084-094-017-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.234.b"/>༄༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་མ་ཧཱ་ལཀྵྨི་ཎཱི་སཱུ་ཏྲ། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-094-017-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་དཔལ་ཆེན་མོའི་མདོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-017-translation"/>The Noble Sūtra of Mahāśrī</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-017-TU-3">
+    <prop type="location-id">UT22084-094-017-58</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-017-58"/>Homage to all the buddhas and bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-017-TU-4">
+    <prop type="location-id">UT22084-094-017-62</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-017-62"/>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-017-TU-5">
+    <prop type="location-id">UT22084-094-017-62</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་བདེ་བ་ཅན་ན་བཞུགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One was residing in Sukhāvatī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-017-TU-6">
+    <prop type="location-id">UT22084-094-017-62</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then the bodhisattva mahāsattva, the noble Avalokiteśvara, set out to where the Blessed One was residing.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-017-TU-7">
+    <prop type="location-id">UT22084-094-017-62</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ནས། བཅོམ་ལྡན་འདས་ལ་བསྐོར་བ་ལན་གསུམ་བྱས་ཏེ་ཕྱོགས་གཅིག་ཏུ་འདུག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Having arrived, he bowed his head to the feet of the Blessed One, circumambulated the Blessed One thrice, and sat down on one side.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-017-TU-8">
+    <prop type="location-id">UT22084-094-017-63</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དཔལ་ཆེན་མོ་ལ་གཟིགས་ནས་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །དཔལ་ཆེན་མོའི་མཚན་བཅུ་གཉིས་པོ་འདི་དགེ་སློང་ངམ། དགེ་སློང་མའམ། དགེ་བསྙེན་ནམ། དགེ་བསྙེན་མའམ། དེ་མ་ཡིན་པ་གཞན་ཡང་རུང་སྟེ། གང་གིས་ཤེས་པ་དང་། གང་ལ་ལ་འཆང་བ་དང་། ཀློག་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-017-63"/>Then the Blessed One looked at Mahāśrī and said this to the noble Avalokiteśvara: “Whosoever, including monks and nuns, laymen and laywomen, gets to know, upholds, recites, writes down, or commissions to have written down these twelve names of Mahāśrī will escape destitution and become wealthy.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-017-TU-9">
+    <prop type="location-id">UT22084-094-017-64</prop>
+    <tuv xml:lang="bo">
+                <seg>འདྲི་བ་དང་། འདྲིར་འཇུག་པ་དེ་ནི་དབུལ་བ་བོར་ཏེ་ཕྱུག་པོར་འགྱུར་རོ། །དེ་ནས་འབྱུང་པོའི་ཚོགས་ཐམས་ཅད་ཀྱིས་དེ་ལྟར་གྱུར་ཅིག་ཅེས་ཀུན་ནས་གསོལ་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-017-64"/>Then the entire host of spirits said, “May it be so!”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-017-TU-10">
+    <prop type="location-id">UT22084-094-017-66</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དཔལ་ཆེན་མོའི་མཚན་བཅུ་གཉིས་པོ་བཀའ་སྩལ་པ་འདི་ལྟ་སྟེ། དཔལ་ལྡན་མ། བཀྲ་ཤིས་མ། པདྨའི་ཕྲེང་བ་ཅན། ནོར་གྱི་བདག་མོ། དཀར་མོ། གྲགས་པ་ཆེན་མོ། པདྨའི་སྤྱན། འོད་ཆེན་མོ། བྱེད་པ་མོ། ཟས་སྦྱིན་མ། རིན་པོ་ཆེ་རབ་ཏུ་སྦྱིན་མ། དཔལ་ཆེན་མོ། སྱཱད་ཡ་ཐེ་དཾ། ཛི་ནི། གྷྲི་ནི། སརྦ་ཨཪྠ་སཱ་དྷ་ནི། ཤ་ཤི་ནི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-017-66"/>Then the Blessed One spoke the twelve names of Mahāśrī: “It is thus—Splendor, Welfare, She Who Is Wearing a Garland of Lotuses, Mistress of Wealth, White One, She of Great Fame, Lotus-Eyed One, She of Great Radiance, She Who Accomplishes, Bestower of Nourishment, She of Jewel-Like Gleam, Great Splendor.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-017-TU-11">
+    <prop type="location-id">UT22084-094-017-70</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨ་ལཀྵྨི་ནི། མེ་ནཱ་ཤ་ཡ། སིདྡྷྱ་ནྟུ་མེ་མནྟྲ་པ་དཱཿསྭཱ་ཧཱ། ཨ་བྷྲྀ་ཀུ་ཊཱི་པ་ར་མ་སུ་བྷ་གེ་སྭཱ་ཧཱ། ལན་གསུམ་དུ་བརྗོད་པར་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>syād yathedam—jini ghriṇi sarvārtha­sādhani śaśini | alakṣmīṃ me nāśaya | sidhyantu me mantrapadāḥ svāhā | oṁ bhṛkuṭi paramasubhage svāhā |<tei:milestone xml:id="UT22084-094-017-70"/> “One should recite this three times.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-017-TU-12">
+    <prop type="location-id">UT22084-094-017-70</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་ལ་ལ་དུས་གསུམ་དུ་འདོན་པ་དེའི་མི་མཐུན་པའི་ཕྱོགས་ཐམས་ཅད་འཇིག་པར་འགྱུར་རོ། །སྐལ་བ་བཟང་པོ་དང་ལྡན་<tei:ref folio="F.235.a"/>པར་འགྱུར་རོ། །འབྱོར་པ་ཟད་མི་ཤེས་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Whosoever recites it at the three junctures of the day will have all their adversities destroyed and will become fortunate and of inexhaustible wealth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-017-TU-13">
+    <prop type="location-id">UT22084-094-017-70</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་དང་ཕྲད་དུ་འགྲོ་བའི་ཚེ་བཀླགས་ནས་ཕྲད་པར་བྱས་ན་མི་དེས་དེ་ལ་བུའི་འདུ་ཤེས་སྐྱེད་པར་འགྱུར་ཏེ་དགའ་བར་འགྱུར་ལ་ཇི་སྐད་བསྒོ་བ་བཞིན་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one recites this before going out to meet other people, those people will think of one as their son, they will be pleased, and they will do whatever one instructs.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-017-TU-14">
+    <prop type="location-id">UT22084-094-017-70</prop>
+    <tuv xml:lang="bo">
+                <seg>རྟག་ཏུ་རྒྱུན་མི་འཆད་པར་བཀླགས་ན་ཚངས་པ་དང་། བྲམ་ཟེས་དྲག་ཤུལ་གྱི་ལས་བྱས་ཀྱང་མི་ཚུགས་པར་འགྱུར་ལ། སངས་རྒྱས་མང་པོ་ལ་བསྙེན་བཀུར་བྱས་པར་ཡང་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one recites continuously, Brahmā and brahmins may perform aggressive rituals, but one will not be harmed; rather, it will be as if one had performed service to many buddhas.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-017-TU-15">
+    <prop type="location-id">UT22084-094-017-72</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། བྱང་ཆུབ་སེམས་དཔའ་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-017-72"/>Thus spoke the Blessed One, and the bodhisattva, the noble Avalokiteśvara, was gladdened and praised the speech of the Blessed One.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-017-TU-16">
+    <prop type="location-id">UT22084-094-017-73</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་དཔལ་ཆེན་མོའི་མདོ་རྫོགས་སོ།། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-017-73"/>Here ends the noble “Sūtra of Mahāśrī.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-094-017-TU-17">
+    <prop type="location-id">UT22084-094-017-74</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་ཛི་ན་མི་ཏྲ་དང་། ཞུ་ཆེན་གྱི་ལོ་ཙྪ་བ་བནྡེ་ཡེ་ཤེས་སྡེས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-094-017-74"/>This was translated, checked, and redacted by the Indian preceptor Jinamitra and the great editor-translator Bandé Yeshé Dé.</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>
