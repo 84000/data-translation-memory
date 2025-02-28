@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-083-019" eft:text-version="v-1.0.1-2023"/>
+<body>
+<tu id="UT22084-083-019-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg/>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-083-019-TU-2">
+    <prop type="location-id">UT22084-083-019-62</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.173.b"/>༄༅༅། །དཔལ་རྡོ་རྗེ་འཇིགས་བྱེད་ལ་ཕྱག་འཚལ་ལོ། །དེ་ནས་ཡང་དག་བཤད་བྱ་བ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-083-019-translation"/>The Myth Chapter<tei:milestone xml:id="UT22084-083-019-62"/> Homage to the glorious Vajrabhairava.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-019-TU-3">
+    <prop type="location-id">UT22084-083-019-64</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་ཉིད་ཀྱི་སྐུ་གསུང་ཐུགས། །རྡོ་རྗེ་རྣམས་ལས་བྱུང་བ་ཡི། །རྡོ་རྗེ་འཇིགས་བྱེད་ཆེན་པོ་ཡིས། །ལྷོ་ཕྱོགས་རྒྱ་མཚོའི་ཕར་རྒལ་ན། །དེ་ནས་གཤིན་རྗེའི་གྲོང་ཁྱེར་ནི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-083-019-64"/>“Now, I will explain How the great Vajrabhairava— He who has emerged from the vajras Of the Blessed One’s body, speech, and mind— Crossed the southern ocean And reached the city of Yama.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-019-TU-4">
+    <prop type="location-id">UT22084-083-019-65</prop>
+    <tuv xml:lang="bo">
+                <seg>ག་ལ་བ་ཡི་གནས་སུ་བྱོན། །མི་བཟད་ཞབས་ནི་བཅུ་དྲུག་གིས། །ལྕགས་མཁར་སྒོ་མེད་བཅུ་དྲུག་བརྫིས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-083-019-65"/>“With his overwhelming sixteen legs He trampled the sixteen gateless iron castles.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-019-TU-5">
+    <prop type="location-id">UT22084-083-019-65</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡེ་ཤེས་རྩེ་གཅིག་མཚན་མ་ཡིས། །དབུས་ཀྱི་ལྕགས་མཁར་ཆེན་པོ་བརྫིས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With his organ of single-pointed wisdom He pounded the great central iron castle.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-019-TU-6">
+    <prop type="location-id">UT22084-083-019-67</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཚེ་བདུད་ཆེན་ལས་བརྒྱལ་ནས། །ཧ་ཧ་ཧི་ཧིའི་སྒྲ་སྒྲོགས་པས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-083-019-67"/>“Once he gained victory over the great Māra, He roared ha ha hi hi.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-019-TU-7">
+    <prop type="location-id">UT22084-083-019-68</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཀྱི་རྒྱལ་པོ་ལ་སོགས་པ། །གཟིར་བཞིན་དུ་ནི་རབ་སྨྲས་པ། །དཔའ་བོ་ཆེན་པོ་ག་ལ་ཅི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Yama Dharmarāja and the rest, Feeling overwhelmed, said to him:<tei:milestone xml:id="UT22084-083-019-68"/> “ ‘Great hero, what is this?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-019-TU-8">
+    <prop type="location-id">UT22084-083-019-68</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔའ་བོའི་དགོས་པ་བདག་གིས་བགྱི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>We will do whatever you require, hero.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-019-TU-9">
+    <prop type="location-id">UT22084-083-019-68</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་ཅག་སྲོག་གི་སྙིང་པོ་རྣམས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>We likewise offer our essential life forces.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-019-TU-10">
+    <prop type="location-id">UT22084-083-019-68</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚུལ་བཞིན་འབུལ་གྱིས་དཔའ་བོས་བཞེས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Please accept them, hero.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-019-TU-11">
+    <prop type="location-id">UT22084-083-019-70</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་མ་སྲིན་ནི་སྡེ་བརྒྱད་ཀྱིས། །སྲོག་གི་ཡང་སྙིང་ཕུལ་བ་ནི། །གཤིན་རྗེས་ཡ་ཕུལ་མ་མོས་མ། །སྲིན་པོས་ར་ཕུལ་གནོད་སྦྱིན་ཀྵེ། །མི་ཡིས་ཎི་ཕུལ་ས་བདག་ས། །བཙན་གྱིས་ཙ་ཕུལ་བདུད་ཀྱིས་ད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-083-019-70"/>“The eight classes of beings also offered their essential life forces: Yama offered ya, the mātṛsma, The rākṣasas offered ra, the yakṣas kṣe, The humans offered ṇi, the earth lords sa, The tsen offered tsa, and the māras da.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-019-TU-12">
+    <prop type="location-id">UT22084-083-019-75</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་རྣམས་གཅིག་ཏུ་དྲིལ་བ་ནི། །བྲན་དུ་ཡང་ནི་ཁས་བླངས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-083-019-75"/>“They came together as one And promised to become his servants.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-019-TU-13">
+    <prop type="location-id">UT22084-083-019-75</prop>
+    <tuv xml:lang="bo">
+                <seg>གཏན་ཚིགས་ཆེན་པོ་དེ་ཡི་ཕྱིར། །ཡེ་ཤེས་ལྷ་ཡི་དགོངས་པ་དང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Due to this great declaration, They were well-regarded by the wisdom deity And gained a profound experience of service.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-019-TU-14">
+    <prop type="location-id">UT22084-083-019-130</prop>
+    <tuv xml:lang="bo">
+                <seg>བསྙེན་པ་ཉམས་འོག་རབ་ཆུད་ནས། །ལྷ་ཡི་བསྙེན་པ་ལ་ཆུད་ནས། །སྔོན་གྱི་ཐུགས་དམ་ལས་མི་འདའ། །མི་འགྲུབ་པ་ནི་མི་སྲིད་དོ། །ཡ་མ་རཱ་ཛ་ས་དོ་མེ་ཡ། །ཡ་མེ་དོ་རུ་ཎ་ཡོ་ད་ཡ། ཡ་ད་ཡོ་ནི་ར་ཡ་ཀྵེ་ཡ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-083-019-130"/>“After they gained this experience of serving the deity, They would never transgress their former oath And it became impossible for them to fail.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-019-TU-15">
+    <prop type="location-id">UT22084-083-019-78</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡཀྵེ་ཡཙྪ་ནི་རཱ་མ་ཡ། དེ་སྐད་ཅེས་ནི་སྨྲས་པ་དང་། །རྡོ་རྗེ་འཇིགས་བྱེད་ཆེན་པོ་ཡིས། །ཆོས་ཀྱི་རྒྱལ་པོ་ལ་སོགས་པ། །གཤིན་རྗེའི་ཕོ་ཉ་ཐམས་ཅད་ཀུན། །སྒྲོལ་བའི་<tei:ref folio="F.174.a"/>གིང་དུ་བྱིན་གྱིས་བརླབས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-083-019-78"/>‘ya ma rā ja sa do me ya | ya me do ru ṇa yo da ya | ya da yo ni ra yakṣe ya | yakṣe yaccha ni rā ma ya’ <tei:milestone xml:id="UT22084-083-019-80"/>“After saying this, The great Vajrabhairava Empowered Yama Dharmarāja And all of Yama’s messengers To become servants of liberation.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-019-TU-16">
+    <prop type="location-id">UT22084-083-019-82</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་དང་སྲིང་མོ་བུ་མོ་རྣམས། །འཁོར་བཅས་རྣམས་ལ་བཀའ་བསྒོ་བ། །ལྔ་བརྒྱ་དུས་ཀྱི་ཐ་མ་ལ། །ང་ཡི་བསྟན་པ་འབྱུང་བའི་ཚེ། །རྣལ་འབྱོར་རིག་འཛིན་ལྡན་པ་ལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-083-019-82"/>“To their mothers, sisters, daughters, And their retinues, he gave this command:<tei:milestone xml:id="UT22084-083-019-129"/> “ ‘In the final five hundred years During which my teachings appear, You must correctly carry out activities Of yogins and vidyādharas.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-019-TU-17">
+    <prop type="location-id">UT22084-083-019-84</prop>
+    <tuv xml:lang="bo">
+                <seg>བཀའ་བསྒོའི་ལས་རྣམས་ཚུལ་བཞིན་གྱིས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-083-019-84"/>They took this oath and were released from the oppression that afflicted them.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-019-TU-18">
+    <prop type="location-id">UT22084-083-019-86</prop>
+    <tuv xml:lang="bo">
+                <seg>ཅེས་པས་དམ་བཅས་པ་དང་མནན་བཞིན་དུ་མནའ་བོར་རོ། །གཏམ་རྒྱུད་ཀྱི་རྟོག་པ་རྫོགས་སོ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-083-019-86"/>The Myth Chapter is complete.</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

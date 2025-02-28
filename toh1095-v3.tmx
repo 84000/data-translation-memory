@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-101-151" eft:text-version="v-1.0.2-2023"/>
+<body>
+<tu id="UT22084-101-151-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.262.b"/>༄༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་བྷ་དྲ་ཙཱརྱ་པྲ་ཎིདྷཱ་ན་རཱ་ཛཱ། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-2">
+    <prop type="location-id">UT22084-101-151-29</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ། འཕགས་པ་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-151-translation"/>The Noble King of Prayers of Good Conduct<tei:milestone xml:id="UT22084-101-151-29"/> Homage to Noble Mañjuśrīkumārabhūta.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-3">
+    <prop type="location-id">UT22084-101-151-100</prop>
+    <tuv xml:lang="bo">
+                <seg>ཇི་སྙེད་སུ་དག་ཕྱོགས་བཅུའི་འཇིག་རྟེན་ན། །དུས་གསུམ་གཤེགས་པ་མི་ཡི་སེང་གེ་ཀུན། །བདག་གིས་མ་ལུས་དེ་དག་ཐམས་ཅད་ལ། །ལུས་དང་ངག་ཡིད་དང་བས་ཕྱག་བགྱིའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-151-100"/>However many lions among men there are In the three times, in the worlds in the ten directions, I pay homage to them all without exception, With purity of body, speech, and mind.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-4">
+    <prop type="location-id">UT22084-101-151-102</prop>
+    <tuv xml:lang="bo">
+                <seg>བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་སྟོབས་དག་གིས། །རྒྱལ་བ་ཐམས་ཅད་ཡིད་ཀྱིས་མངོན་སུམ་དུ། །ཞིང་གི་རྡུལ་སྙེད་ལུས་རབ་བཏུད་པ་ཡིས། །རྒྱལ་<tei:ref folio="F.263.a"/>བ་ཀུན་ལ་རབ་ཏུ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{1} <tei:milestone xml:id="UT22084-101-151-102"/>Thinking that all the jinas are before me, With the power of the prayer of good conduct, I bow down toward all the jinas With as many bodies as there are atoms in the realms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-5">
+    <prop type="location-id">UT22084-101-151-105</prop>
+    <tuv xml:lang="bo">
+                <seg>རྡུལ་གཅིག་སྟེང་ན་རྡུལ་སྙེད་སངས་རྒྱས་རྣམས། །སངས་རྒྱས་སྲས་ཀྱི་དབུས་ན་བཞུགས་པ་དག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{2} <tei:milestone xml:id="UT22084-101-151-105"/>There are as many buddhas as atoms within a single atom, Seated in the midst of bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-6">
+    <prop type="location-id">UT22084-101-151-105</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་ཆོས་ཀྱི་དབྱིངས་རྣམས་མ་ལུས་པ། །ཐམས་ཅད་རྒྱལ་བ་དག་གིས་གང་བར་མོས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I focus on the entire realm of phenomena, Without exception, being filled by jinas in that way.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-7">
+    <prop type="location-id">UT22084-101-151-107</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དག་བསྔགས་པ་མི་ཟད་རྒྱ་མཚོ་རྣམས། །དབྱངས་ཀྱི་ཡན་ལག་རྒྱ་མཚོའི་སྒྲ་ཀུན་གྱིས། །རྒྱལ་བ་ཀུན་གྱི་ཡོན་ཏན་རབ་བརྗོད་ཅིང་། །བདེ་བར་གཤེགས་པ་ཐམས་ཅད་བདག་གིས་བསྟོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{3}<tei:milestone xml:id="UT22084-101-151-107"/> I recite a praise of all the sugatas, Enumerating the qualities of all the jinas, With unending oceans of eulogies And the sound of oceans of every quality of voice.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-8">
+    <prop type="location-id">UT22084-101-151-108</prop>
+    <tuv xml:lang="bo">
+                <seg>མེ་ཏོག་དམ་པ་ཕྲེང་བ་དམ་པ་དང་། །སིལ་སྙན་རྣམས་དང་བྱུག་པ་གདུགས་མཆོག་དང་། །མར་མེ་མཆོག་དང་བདུག་པ་དམ་པ་ཡིས། །རྒྱལ་བ་དེ་དག་ལ་ནི་མཆོད་པར་བགྱི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{4}<tei:milestone xml:id="UT22084-101-151-108"/> I make an offering to those jinas Of perfect flowers, perfect garlands, Perfect music, ointments, and parasols, Perfect lights, and perfect incenses.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-9">
+    <prop type="location-id">UT22084-101-151-109</prop>
+    <tuv xml:lang="bo">
+                <seg>ན་བཟའ་དམ་པ་རྣམས་དང་དྲི་མཆོག་དང་། །ཕྱེ་མའི་ཕུར་མ་རི་རབ་མཉམ་པ་དང་། །བཀོད་པའི་ཁྱད་པར་འཕགས་པ་མཆོག་ཀུན་གྱིས། །རྒྱལ་བ་དེ་དག་ལ་ནི་མཆོད་པར་བགྱིད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{5}<tei:milestone xml:id="UT22084-101-151-109"/> I make offerings to those jinas Of perfect clothing and perfect perfumes, Pouches of scented powders equal to Mount Meru, And all perfect, sublime displays.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-10">
+    <prop type="location-id">UT22084-101-151-110</prop>
+    <tuv xml:lang="bo">
+                <seg>མཆོད་པ་གང་རྣམས་བླ་མེད་རྒྱ་ཆེ་བ། །དེ་དག་རྒྱལ་བ་ཐམས་ཅད་ལ་ཡང་མོས། །བཟང་པོ་སྤྱོད་ལ་དད་པའི་སྟོབས་དག་གིས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{6}<tei:milestone xml:id="UT22084-101-151-110"/> Offerings that are unsurpassable and exalted I am resolved to offer to all the jinas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-11">
+    <prop type="location-id">UT22084-101-151-112</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་བ་ཀུན་ལ་ཕྱག་འཚལ་མཆོད་པར་བགྱི། །འདོད་ཆགས་ཞེ་སྡང་གཏི་མུག་དབང་གིས་ན། །ལུས་དང་ངག་དང་དེ་བཞིན་ཡིད་ཀྱིས་ཀྱང་། །སྡིག་པ་བདག་གིས་བགྱིས་པ་ཅི་མཆིས་པ། །དེ་དག་ཐམས་ཅད་བདག་གིས་སོ་སོར་བཤགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I praise and make offerings to all the jinas Through the power of devotion to good conduct.{7}<tei:milestone xml:id="UT22084-101-151-112"/> Whatever bad actions I have done Under the power of desire, anger, and ignorance, With my body, speech, and mind, I make a confession of them all.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-12">
+    <prop type="location-id">UT22084-101-151-113</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱོགས་བཅུའི་རྒྱལ་བ་ཀུན་དང་སངས་རྒྱས་སྲས། །རང་རྒྱལ་རྣམས་དང་སློབ་དང་མི་སློབ་དང་། །འགྲོ་བ་ཀུན་གྱི་བསོད་ནམས་གང་ལ་ཡང་། །དེ་དག་ཀུན་གྱི་རྗེས་སུ་བདག་ཡི་རང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{8}<tei:milestone xml:id="UT22084-101-151-113"/> I am rejoicing in the entirety of merit In the ten directions that is created by beings, By practicing and accomplished pratyeka­buddhas, By the bodhisattvas, and by all the jinas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-13">
+    <prop type="location-id">UT22084-101-151-116</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་རྣམས་ཕྱོགས་བཅུའི་འཇིག་རྟེན་སྒྲོན་མ་དག །བྱང་ཆུབ་རིམ་པར་སངས་རྒྱས་མ་ཆགས་བརྙེས། །མགོན་པོ་དེ་དག་བདག་གིས་ཐམས་ཅད་ལ། །འཁོར་ལོ་བླ་ན་མེད་པ་བསྐོར་བར་བསྐུལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{9}<tei:milestone xml:id="UT22084-101-151-116"/> I make the request to all the lords, The lamps of the worlds in the ten directions, Who have attained without impediment the enlightenment of buddhahood, That they turn the unsurpassable wheel.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-14">
+    <prop type="location-id">UT22084-101-151-118</prop>
+    <tuv xml:lang="bo">
+                <seg>མྱ་ངན་འདས་སྟོན་གང་བཞེད་དེ་དག་ལ། །འགྲོ་བ་ཀུན་ལ་ཕན་ཞིང་བདེ་བའི་ཕྱིར། །བསྐལ་བ་ཞིང་གི་རྡུལ་སྙེད་བཞུགས་པར་ཡང་། །བདག་གིས་ཐལ་མོ་རབ་སྦྱར་གསོལ་བར་བགྱི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{10}<tei:milestone xml:id="UT22084-101-151-118"/> With palms placed together, I supplicate Those who wish to manifest passing into nirvāṇa That they remain for as many kalpas as there are atoms in the realms, For the benefit and happiness of all beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-15">
+    <prop type="location-id">UT22084-101-151-120</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱག་<tei:ref folio="F.263.b"/>འཚལ་བ་དང་མཆོད་ཅིང་བཤགས་པ་དང་། །རྗེས་སུ་ཡི་རང་བསྐུལ་ཞིང་གསོལ་བ་ཡིས། །དགེ་བ་ཅུང་ཟད་བདག་གིས་ཅི་བསགས་པ། །ཐམས་ཅད་བདག་གིས་བྱང་ཆུབ་ཕྱིར་བསྔོའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{11} <tei:milestone xml:id="UT22084-101-151-120"/>Whatever little virtue I have accumulated Through homage, offering, confession, Rejoicing, supplication, and entreating, I dedicate it all to enlightenment.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-16">
+    <prop type="location-id">UT22084-101-151-122</prop>
+    <tuv xml:lang="bo">
+                <seg>འདས་པའི་སངས་རྒྱས་རྣམས་དང་ཕྱོགས་བཅུ་ཡི། །འཇིག་རྟེན་དག་ན་གང་བཞུགས་མཆོད་པར་གྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{12}<tei:milestone xml:id="UT22084-101-151-122"/> May the buddhas of the past and those who are present In the worlds of the ten directions be offered to.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-17">
+    <prop type="location-id">UT22084-101-151-122</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་ཡང་མ་བྱོན་དེ་དག་རབ་མྱུར་བར། །བསམ་རྫོགས་བྱང་ཆུབ་རིམ་པར་སངས་རྒྱས་སྤྱོན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>May those in the future swiftly fulfill Their aspirations for the enlightenment of buddhahood.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-18">
+    <prop type="location-id">UT22084-101-151-123</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱོགས་བཅུ་ག་ལའི་ཞིང་རྣམས་ཇི་སྙེད་པ། །དེ་དག་རྒྱ་ཆེར་ཡོངས་སུ་དག་པར་གྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{13}<tei:milestone xml:id="UT22084-101-151-123"/> May the realms that are in the ten directions Become purified and sublime.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-19">
+    <prop type="location-id">UT22084-101-151-123</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་ཤིང་དབང་དྲུང་གཤེགས་རྒྱལ་བ་དང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>May they become filled with jinas, who have come To the Bodhi tree, the lord of trees, and with bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-20">
+    <prop type="location-id">UT22084-101-151-125</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་སྲས་ཀྱིས་རབ་ཏུ་གང་བར་ཤོག །ཕྱོགས་བཅུའི་སེམས་ཅན་གང་རྣམས་ཇི་སྙེད་པ། །དེ་དག་རྟག་ཏུ་ནད་མེད་བདེ་བར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{14}<tei:milestone xml:id="UT22084-101-151-125"/> However many beings there are in the ten directions, May they all be always happy and healthy.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-21">
+    <prop type="location-id">UT22084-101-151-125</prop>
+    <tuv xml:lang="bo">
+                <seg>འགྲོ་བ་ཀུན་གྱི་ཆོས་ཀྱིས་དོན་རྣམས་ནི། །མཐུན་པར་གྱུར་ཅིང་རེ་བའང་འགྲུབ་པར་ཤོག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>May all beings be successful in their Dharma goals, And may their wishes be fulfilled.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-22">
+    <prop type="location-id">UT22084-101-151-126</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སྤྱོད་པ་དག་ནི་བདག་སྤྱོད་ཅིང་། །འགྲོ་བ་ཀུན་ཏུ་སྐྱེ་བ་དྲན་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{15}<tei:milestone xml:id="UT22084-101-151-126"/> May I practice the conduct of enlightenment And remember my lives in all existences.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-23">
+    <prop type="location-id">UT22084-101-151-126</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚེ་རབས་ཀུན་ཏུ་འཆི་འཕོ་སྐྱེ་བ་ན། །རྟག་ཏུ་བདག་ནི་རབ་ཏུ་འབྱུང་བར་ཤོག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>May I always practice mendicancy In all my lifetimes of deaths and rebirths.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-24">
+    <prop type="location-id">UT22084-101-151-127</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་བ་ཀུན་གྱི་རྗེས་སུ་སློབ་གྱུར་ཏེ། །བཟང་པོ་སྤྱོད་པ་ཡོངས་སུ་རྫོགས་བྱེད་ཅིང་། །ཚུལ་ཁྲིམས་སྤྱོད་པ་དྲི་མེད་ཡོངས་དག་པར། །རྟག་ཏུ་མ་ཉམས་སྐྱོན་མེད་སྤྱོད་པར་ཤོག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{16}<tei:milestone xml:id="UT22084-101-151-127"/> Following the teaching of all the jinas And perfecting my good conduct, May I always practice stainless, pure, Correct conduct that is flawless and unblemished.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-25">
+    <prop type="location-id">UT22084-101-151-128</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་ཡི་སྐད་དང་ཀླུ་དང་གནོད་སྦྱིན་སྐད། །གྲུལ་བུམ་དག་དང་མི་ཡི་སྐད་རྣམས་དང་། །འགྲོ་བ་ཀུན་གྱི་སྒྲ་རྣམས་ཇི་ཙམ་པར། །ཐམས་ཅད་སྐད་དུ་བདག་གིས་ཆོས་བསྟན་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{17}<tei:milestone xml:id="UT22084-101-151-128"/> May I teach the Dharma in all languages, Whatever the languages of beings: Through the languages of devas, the languages of nāgas, The languages of yakṣas, kumbhāṇḍas, and humans.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-26">
+    <prop type="location-id">UT22084-101-151-129</prop>
+    <tuv xml:lang="bo">
+                <seg>དེས་ཤིང་ཕ་རོལ་ཕྱིན་ལ་རབ་བརྩོན་ཏེ། །བྱང་ཆུབ་སེམས་ནི་ནམ་ཡང་བརྗེད་མ་གྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{18}<tei:milestone xml:id="UT22084-101-151-129"/> May one who is gentle and dedicated to the perfections Never forget the aspiration to enlightenment.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-27">
+    <prop type="location-id">UT22084-101-151-129</prop>
+    <tuv xml:lang="bo">
+                <seg>སྡིག་པ་གང་རྣམས་སྒྲིབ་པར་གྱུར་པ་དག །དེ་དག་མ་ལུས་ཡོངས་སུ་བྱང་བར་ཤོག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>May the obscurations of bad karma Be purified without any remainder.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-28">
+    <prop type="location-id">UT22084-101-151-131</prop>
+    <tuv xml:lang="bo">
+                <seg>ལས་དང་ཉོན་མོངས་བདུད་ཀྱི་ལས་རྣམས་ལས། །གྲོལ་ཞིང་འཇིག་རྟེན་འགྲོ་བ་རྣམས་སུ་ཡང་། །ཇི་ལྟར་པདྨ་ཆུས་མི་ཆགས་པ་བཞིན། །ཉི་ཟླ་ནམ་མཁའ་ཐོགས་པ་མེད་ལྟར་སྤྱད། །ཞིང་གི་ཁྱོན་དང་ཕྱོགས་རྣམས་ཇི་ཙམ་པར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{19}<tei:milestone xml:id="UT22084-101-151-131"/> May my conduct, even in the worldly existences, Be free of karma, kleśas, and the actions of Māra, Just as the lotus is unstained by water And the sun and moon are unobstructed in the sky.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-29">
+    <prop type="location-id">UT22084-101-151-134</prop>
+    <tuv xml:lang="bo">
+                <seg>ངན་སོང་སྡུག་བསྔལ་རབ་ཏུ་ཞི་བར་བྱེད། །བདེ་བ་དག་ལ་འགྲོ་བ་ཀུན་འགོད་ཅིང་། །འགྲོ་བ་ཐམས་ཅད་ལ་ནི་ཕན་པར་སྤྱད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{20} <tei:milestone xml:id="UT22084-101-151-134"/>May I end all the sufferings of lower existences And establish all beings in happiness, Practicing a conduct that brings benefit to all beings Throughout the directions and the extent of realms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-30">
+    <prop type="location-id">UT22084-101-151-136</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་<tei:ref folio="F.264.a"/>ཆུབ་སྤྱོད་པ་ཡོངས་སུ་རྫོགས་བྱེད་ཅིང་། །སེམས་ཅན་རྣམས་ཀྱི་སྤྱོད་དང་མཐུན་པར་འཇུག །བཟང་པོ་སྤྱོད་པ་དག་ནི་རབ་སྟོན་ཅིང་། །མ་འོངས་བསྐལ་པ་ཀུན་ཏུ་སྤྱོད་པར་གྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{21}<tei:milestone xml:id="UT22084-101-151-136"/> May I practice this conduct in all future kalpas, Conforming with the conduct of beings, Perfecting the conduct of enlightenment, And teaching good conduct.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-31">
+    <prop type="location-id">UT22084-101-151-139</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གིས་སྤྱོད་དང་མཐུན་པར་གང་སྤྱོད་པ། །དེ་དག་དང་ནི་རྟག་ཏུ་འགྲོགས་པར་ཤོག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{22} <tei:milestone xml:id="UT22084-101-151-139"/>May I always be in the company of those Whose conduct is in harmony with my conduct.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-32">
+    <prop type="location-id">UT22084-101-151-139</prop>
+    <tuv xml:lang="bo">
+                <seg>ལུས་དང་ངག་རྣམས་དང་ནི་སེམས་ཀྱིས་ཀྱང་། །སྤྱོད་པ་དག་དང་སྨོན་ལམ་གཅིག་ཏུ་སྤྱད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>May my body, my speech, and also my mind Practice the same conduct and have the same prayer.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-33">
+    <prop type="location-id">UT22084-101-151-141</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་ལ་ཕན་པར་འདོད་པའི་གྲོགས་པོ་དག །བཟང་པོ་སྤྱོད་པ་རབ་ཏུ་སྟོན་པ་རྣམས། །དེ་དག་དང་ཡང་རྟག་ཏུ་ཕྲད་པར་ཤོག །དེ་དག་བདག་གིས་ནམ་ཡང་ཡིད་མི་དབྱུང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{23} <tei:milestone xml:id="UT22084-101-151-141"/>May I always associate With friends who wish to benefit me And teach me the correct conduct, And may I never displease them.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-34">
+    <prop type="location-id">UT22084-101-151-142</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་སྲས་ཀྱིས་བསྐོར་བའི་མགོན་པོ་རྣམས། །མངོན་སུམ་རྟག་ཏུ་བདག་གིས་རྒྱལ་བ་བལྟ། །མ་འོངས་བསྐལ་པ་ཀུན་ཏུ་མི་སྐྱོ་བར། །དེ་དག་ལ་ཡང་མཆོད་པ་རྒྱ་ཆེར་བགྱི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{24}<tei:milestone xml:id="UT22084-101-151-142"/> May I always see before me the jinas, The lords who are encircled by bodhisattvas, And may I make vast offerings to them, Without wearying, throughout all future kalpas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-35">
+    <prop type="location-id">UT22084-101-151-144</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་བ་རྣམས་ཀྱི་དམ་པའི་ཆོས་འཛིན་ཅིང་། །བྱང་ཆུབ་སྤྱོད་པ་ཀུན་ཏུ་སྣང་བར་བྱེད། །བཟང་པོ་སྤྱོད་པ་རྣམ་པར་སྤྱད་པ་ཡང་། །མ་འོངས་བསྐལ་པ་ཀུན་ཏུ་སྤྱད་པར་བགྱི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{28}<tei:milestone xml:id="UT22084-101-151-144"/> Keeping the good Dharma of the jinas, Expounding the conduct of enlightenment, And purifying the good conduct, May I practice that conduct in all future kalpas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-36">
+    <prop type="location-id">UT22084-101-151-146</prop>
+    <tuv xml:lang="bo">
+                <seg>སྲིད་པ་ཐམས་ཅད་དུ་ནི་འཁོར་བ་ན། །བསོད་ནམས་ཡེ་ཤེས་དག་ནི་མི་ཟད་རྙེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{26}<tei:milestone xml:id="UT22084-101-151-146"/> While circling through all existences, May I obtain inexhaustible merit and knowledge.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-37">
+    <prop type="location-id">UT22084-101-151-146</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐབས་དང་ཤེས་རབ་ཏིང་འཛིན་རྣམ་ཐར་དང་། །ཡོན་ཏན་ཀུན་གྱི་མི་ཟད་མཛོད་དུ་གྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>May I be an inexhaustible treasure of wisdom, Methods, samādhis, liberations, and all good qualities.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-38">
+    <prop type="location-id">UT22084-101-151-148</prop>
+    <tuv xml:lang="bo">
+                <seg>རྡུལ་གཅིག་སྟེང་ན་རྡུལ་སྙེད་ཞིང་རྣམས་ཏེ། །ཞིང་དེར་བསམ་གྱིས་མི་ཁྱབ་སངས་རྒྱས་རྣམས། །སངས་རྒྱས་སྲས་ཀྱི་དབུས་ན་བཞུགས་པ་ལ། །བྱང་ཆུབ་སྤྱད་པ་སྤྱོད་ཅིང་བལྟ་བར་བགྱི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{27}<tei:milestone xml:id="UT22084-101-151-148"/> There are realms as numerous as atoms in each atom, And while practicing the conduct of enlightenment, May I see in those realms countless buddhas Who are seated in the midst of bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-39">
+    <prop type="location-id">UT22084-101-151-149</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་མ་ལུས་ཐམས་ཅད་ཕྱོགས་སུ་ཡང་། །སྐྲ་ཙམ་ཁྱོན་ལ་དུས་གསུམ་ཚད་སྙེད་ཀྱིས། །སངས་རྒྱས་རྒྱ་མཚོ་ཞིང་རྣམས་རྒྱ་མཚོ་དང་། །བསྐལ་པ་རྒྱ་མཚོར་སྤྱོད་ཅིང་རབ་ཏུ་འཇུག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{28}<tei:milestone xml:id="UT22084-101-151-149"/> May I engage in practicing conduct for an ocean of kalpas Within every hair’s breadth in every direction, Without exception, in which there are an ocean Of buddhas of the three times, and an ocean of realms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-40">
+    <prop type="location-id">UT22084-101-151-150</prop>
+    <tuv xml:lang="bo">
+                <seg>གསུང་གཅིག་ཡན་ལག་རྒྱ་མཚོའི་སྒྲ་སྐད་ཀྱིས། །རྒྱལ་བ་ཀུན་དབྱངས་ཡན་ལག་རྣམ་དག་པ། །འགྲོ་བ་ཀུན་གྱི་བསམ་པ་ཇི་བཞིན་དབྱངས། །སངས་རྒྱས་གསུང་ལ་རྟག་ཏུ་འཇུག་པར་བགྱི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{29} <tei:milestone xml:id="UT22084-101-151-150"/>May I always comprehend the speech of the buddhas, Which, through having an ocean of languages in a single syllable, Has the purity of the aspects of the speech of all the jinas And words that accord with the aspirations of all beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-41">
+    <prop type="location-id">UT22084-101-151-154</prop>
+    <tuv xml:lang="bo">
+                <seg>དུས་གསུམ་གཤེགས་པ་རྒྱལ་བ་ཐམས་ཅད་དག །འཁོར་ལོའི་ཚུལ་རྣམས་རབ་ཏུ་བསྐོར་བ་ཡི། །དེ་དག་གི་ཡང་གསུང་དབྱངས་མི་ཟད་<tei:ref folio="F.264.b"/>ལ། །བློ་ཡི་སྟོབས་ཀྱིས་བདག་ཀྱང་རབ་ཏུ་འཇུག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{30}<tei:milestone xml:id="UT22084-101-151-154"/> May I comprehend, through the power of the mind, The unceasing sounds of the voices Of the jinas in the three times, Who are turning the wheel in various ways.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-42">
+    <prop type="location-id">UT22084-101-151-159</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་འོངས་བསྐལ་པ་ཐམས་ཅད་འཇུག་པར་ཡང་། །སྐད་ཅིག་གཅིག་གིས་བདག་ཀྱང་འཇུག་པར་བགྱི། །གང་ཡང་བསྐལ་བ་དུས་གསུམ་ཚད་དེ་དག །སྐད་ཅིག་ཆ་ཤས་ཀྱིས་ནི་ཞུགས་པར་སྤྱད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{31} <tei:milestone xml:id="UT22084-101-151-159"/>May I enter all the future kalpas, Entering them in a single instant, And in a fraction of an instant practice The conduct throughout the kalpas of the three times.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-43">
+    <prop type="location-id">UT22084-101-151-160</prop>
+    <tuv xml:lang="bo">
+                <seg>དུས་གསུམ་གཤེགས་པ་མི་ཡི་སེང་གེ་གང་། །དེ་དག་སྐད་ཅིག་གཅིག་ལ་བདག་གིས་བལྟ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{32}<tei:milestone xml:id="UT22084-101-151-160"/> May I in a single instant see The lions among humans in the three times.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-44">
+    <prop type="location-id">UT22084-101-151-160</prop>
+    <tuv xml:lang="bo">
+                <seg>རྟག་ཏུ་དེ་དག་གི་ནི་སྤྱོད་ཡུལ་ལ། །སྒྱུ་མར་གྱུར་བའི་རྣམ་ཐར་སྟོབས་ཀྱིས་འཇུག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Through the power of the liberation of being an illusion, May I always enter into their conduct.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-45">
+    <prop type="location-id">UT22084-101-151-162</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་ཡང་དུས་གསུམ་དག་གི་ཞིང་བཀོད་པ། །དེ་དག་རྡུལ་གཅིག་སྟེང་དུ་མངོན་པར་བསྒྲུབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{33}<tei:milestone xml:id="UT22084-101-151-162"/> May the displays of realms in the three times Be accomplished within a single atom.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-46">
+    <prop type="location-id">UT22084-101-151-162</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་མ་ལུས་ཕྱོགས་རྣམས་ཐམས་ཅད་དུ། །རྒྱལ་བ་དག་གི་ཞིང་རྣམས་བཀོད་ལ་འཇུག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>May I perceive such displays of the realms of the jinas That are in every direction without exception.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-47">
+    <prop type="location-id">UT22084-101-151-163</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་ཡང་མ་བྱོན་འཇིག་རྟེན་སྒྲོན་མ་རྣམས། །དེ་དག་རིམ་པར་འཚང་རྒྱ་འཁོར་ལོ་བསྐོར། །མྱ་ངན་འདས་པ་རབ་ཏུ་ཞི་མཐའ་སྟོན། །མགོན་པོ་ཀུན་གྱི་དྲུང་དུ་བདག་མཆིའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{34}<tei:milestone xml:id="UT22084-101-151-163"/> May I go into the presence of all those lords, Those future lamps of the world, who will successively Attain enlightenment, turn the wheel, And demonstrate the final peace of entering nirvāṇa.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-48">
+    <prop type="location-id">UT22084-101-151-164</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་ཏུ་མྱུར་བའི་རྫུ་འཕྲུལ་སྟོབས་རྣམས་དང་། །ཀུན་ནས་སྒོ་ཡི་ཐེག་པའི་སྟོབས་རྣམས་དང་། །ཀུན་ཏུ་ཡོན་ཏན་སྤྱོད་པའི་སྟོབས་རྣམས་དང་། །ཀུན་ཏུ་ཁྱབ་པ་བྱམས་པ་དག་གི་སྟོབས། །ཀུན་ནས་དགེ་བའི་བསོད་ནམས་སྟོབས་རྣམས་དང་། །ཆགས་པ་མེད་པར་གྱུར་པའི་ཡེ་ཤེས་སྟོབས། །ཤེས་རབ་ཐབས་དང་ཏིང་འཛིན་སྟོབས་དག་གིས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{35}<tei:milestone xml:id="UT22084-101-151-164"/> Through the power of miracles that has complete speed, Through the power of yānas that possesses every gateway, Through the power of conduct that has the complete qualities, Through the power of love that is universal, {36}<tei:milestone xml:id="UT22084-101-151-166"/> Through the power of merit that has complete goodness, Through the power of knowledge that is without impediment, Through the power of wisdom, methods, and samādhi, May I accomplish the power of enlightenment.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-49">
+    <prop type="location-id">UT22084-101-151-167</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སྟོབས་རྣམས་ཡང་དག་སྒྲུབ་པར་བྱེད། །ལས་ཀྱི་སྟོབས་རྣམས་ཡོངས་སུ་དག་བྱེད་ཅིང་། །ཉོན་མོངས་སྟོབས་རྣམས་ཀུན་ཏུ་འཇོམས་པར་བྱེད། །བདུད་ཀྱི་སྟོབས་རྣམས་སྟོབས་མེད་རབ་བྱེད་ཅིང་། །བཟང་པོ་སྤྱོད་པའི་སྟོབས་ནི་རྫོགས་པར་བགྱི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{37}<tei:milestone xml:id="UT22084-101-151-167"/> May I purify the power of karma, Destroy the power of the kleśas, Render powerless the power of the māras, And make complete all the powers of good conduct.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-50">
+    <prop type="location-id">UT22084-101-151-168</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞིང་རྣམས་རྒྱ་མཚོ་རྣམ་པར་དག་བྱེད་ཅིང་། །སེམས་ཅན་རྒྱ་མཚོ་དག་ནི་རྣམ་པར་འགྲོལ། །ཆོས་རྣམས་རྒྱ་མཚོ་རབ་ཏུ་མཐོང་བྱེད་ཅིང་། །ཡེ་ཤེས་རྒྱ་མཚོ་རབ་ཏུ་རྟོགས་པར་བྱེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{38}<tei:milestone xml:id="UT22084-101-151-168"/> May I purify an ocean of realms, Liberate an ocean of beings, See an ocean of the Dharma, And realize an ocean of knowledge.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-51">
+    <prop type="location-id">UT22084-101-151-170</prop>
+    <tuv xml:lang="bo">
+                <seg>སྤྱོད་པ་རྒྱ་མཚོ་རྣམ་པར་དག་བྱེད་ཅིང་། །སྨོན་ལམ་རྒྱ་མཚོ་རབ་ཏུ་རྫོགས་པར་བྱེད། །སངས་རྒྱས་རྒྱ་མཚོ་རབ་ཏུ་མཆོད་བྱེད་ཅིང་། །བསྐལ་པ་རྒྱ་མཚོར་མི་སྐྱོ་སྤྱད་པར་བགྱི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{39}<tei:milestone xml:id="UT22084-101-151-170"/> May I purify an ocean of conduct, Fulfill an ocean of prayers, Make offerings to an ocean of buddhas, And have tireless conduct for an ocean of kalpas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-52">
+    <prop type="location-id">UT22084-101-151-172</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་ཡང་དུས་གསུམ་གཤེགས་པ་རྒྱལ་བ་ཡི། །<tei:ref folio="F.265.a"/>བྱང་ཆུབ་སྤྱོད་པའི་སྨོན་ལམ་བྱེ་བྲག་རྣམས། །བཟང་པོ་སྤྱོད་པས་བྱང་ཆུབ་སངས་རྒྱས་ནས། །དེ་ཀུན་མ་ལུས་བདག་གིས་རྫོགས་པར་བགྱི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{40}<tei:milestone xml:id="UT22084-101-151-172"/> May I, through good conduct, realize enlightenment And fulfill, without exception, All the specific prayers of enlightened conduct That are made by the jinas in the three times.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-53">
+    <prop type="location-id">UT22084-101-151-173</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་བ་ཀུན་གྱི་སྲས་ཀྱི་ཐུ་བོ་པ། །གང་གི་མིང་ནི་ཀུན་ཏུ་བཟང་ཞེས་བྱ། །མཁས་པ་དེ་དང་མཚུངས་པར་སྤྱོད་པའི་ཕྱིར། །དགེ་བ་འདི་དག་ཐམས་ཅད་རབ་ཏུ་བསྔོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{41} <tei:milestone xml:id="UT22084-101-151-173"/>I dedicate all this virtue So that I may have the same conduct as that wise one, The eldest son of all the jinas, Whose name is Samanta­bhadra.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-54">
+    <prop type="location-id">UT22084-101-151-176</prop>
+    <tuv xml:lang="bo">
+                <seg>ལུས་དང་ངག་དང་ཡིད་ཀྱང་རྣམ་དག་ཅིང་། །སྤྱོད་པ་རྣམ་དག་ཞིང་རྣམས་ཡོངས་དག་དང་། །བསྔོ་བའང་བཟང་བོ་མཁས་པ་ཅི་འདྲ་བར། །དེ་འདྲར་བདག་ཀྱང་དེ་དང་མཚུངས་པར་ཤོག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{42} <tei:milestone xml:id="UT22084-101-151-176"/>Just as the good wise one made a dedication For a pure body, speech, and mind, A pure conduct, and a pure realm, May it be the same for me.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-55">
+    <prop type="location-id">UT22084-101-151-177</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་ནས་དགེ་བ་བཟང་པོ་སྤྱད་པའི་ཕྱིར། །འཇམ་དཔལ་གྱི་ནི་སྨོན་ལམ་སྤྱད་བར་བགྱི། །མ་འོངས་བསྐལ་བ་ཀུན་ཏུ་མི་སྐྱོ་བར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{43}<tei:milestone xml:id="UT22084-101-151-177"/> May I practice the conduct of Mañjuśrī’s prayer Of good conduct, for complete goodness, Without weariness throughout the kalpas to come.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-56">
+    <prop type="location-id">UT22084-101-151-177</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཡི་བྱ་བ་མ་ལུས་རྫོགས་པར་བགྱི། །སྤྱོད་པ་དག་ནི་ཚད་ཡོད་མ་གྱུར་ཅིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>May I complete all those activities without exception.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-57">
+    <prop type="location-id">UT22084-101-151-178</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡོན་ཏན་རྣམས་ཀྱང་ཚད་གཟུང་མེད་པར་ཤོག །སྤྱོད་པ་ཚད་མེད་པ་ལ་གནས་ནས་ཀྱང་། །དེ་དག་འཕྲུལ་པ་ཐམས་ཅད་འཚལ་བར་བགྱི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{44}<tei:milestone xml:id="UT22084-101-151-178"/> May there be no limit to that conduct; May there be no limit to those good qualities, And having maintained a conduct that has no limit, May I give rise to all those miraculous powers.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-58">
+    <prop type="location-id">UT22084-101-151-179</prop>
+    <tuv xml:lang="bo">
+                <seg>ནམ་མཁའི་མཐར་ཐུག་གྱུར་པ་ཇི་ཙམ་པར། །སེམས་ཅན་མ་ལུས་མཐའ་ཡང་དེ་བཞིན་ཏེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{45}<tei:milestone xml:id="UT22084-101-151-179"/> If there were an end to space, There would be an end to all beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-59">
+    <prop type="location-id">UT22084-101-151-179</prop>
+    <tuv xml:lang="bo">
+                <seg>ཇི་ཙམ་ལས་དང་ཉོན་མོངས་མཐར་གྱུར་པ། །བདག་གི་སྨོན་ལམ་མཐའ་ཡང་དེ་ཙམ་མོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Only when their karma and kleśas end Will my prayers also come to an end.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-60">
+    <prop type="location-id">UT22084-101-151-180</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་ཡང་ཕྱོགས་བཅུའི་ཞིང་རྣམས་མཐའ་ཡས་པ། །རིན་ཆེན་བརྒྱན་ཏེ་རྒྱལ་བ་རྣམས་ལ་ཕུལ། །ལྷ་དང་མི་ཡི་བདེ་བ་མཆོག་རྣམས་ཀྱང་། །ཞིང་གི་རྡུལ་སྙེད་བསྐལ་པར་ཕུལ་བ་བས། །གང་གིས་བསྔོ་བའི་རྒྱལ་པོ་འདི་ཐོས་ནས། །བྱང་ཆུབ་མཆོག་གིས་རྗེས་སུ་རབ་མོས་ཤིང་། །ལན་ཅིག་ཙམ་ཡང་དད་པ་སྐྱེད་པ་ནི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{46}<tei:milestone xml:id="UT22084-101-151-180"/> If someone offered to the jinas the endless realms In the ten directions adorned with jewels And the most excellent pleasures of devas and humans For kalpas as numerous as the atoms in a realm, {47}<tei:milestone xml:id="UT22084-101-151-181"/> Someone who has faith just once On hearing this king of dedications And aspires to attain perfect enlightenment Will have a higher, superior merit.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-61">
+    <prop type="location-id">UT22084-101-151-182</prop>
+    <tuv xml:lang="bo">
+                <seg>བསོད་ནམས་དམ་པའི་མཆོག་ཏུ་འདི་འགྱུར་རོ། །གང་གིས་བཟང་སྤྱོད་སྨོན་ལམ་འདི་བཏབ་པ། །དེས་ནི་ངན་སོང་ཐམས་ཅད་སྤངས་པར་འགྱུར། །དེས་ནི་གྲོགས་པོ་ངན་པ་སྤངས་པ་ཡིན། །སྣང་བ་མཐའ་ཡས་དེ་ཡང་དེས་མྱུར་མཐོང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{48} <tei:milestone xml:id="UT22084-101-151-182"/>Whoever recites this prayer of good conduct Will be free from all lower existences, Will be free from bad companions, And will quickly see Amitābha.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-62">
+    <prop type="location-id">UT22084-101-151-184</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དག་རྙེད་པ་རབ་རྙེད་བདེ་བར་འཚོ། །མི་ཚེ་འདིར་ཡང་དེ་དག་ལེགས་པར་འོངས། །ཀུན་ཏུ་བཟང་པོ་དེ་ཡང་ཅི་འདྲ་བར། །དེ་དག་རིང་པོར་མི་ཐོགས་དེ་བཞིན་འགྱུར། །<tei:ref folio="F.265.b"/>
+                </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{49}<tei:milestone xml:id="UT22084-101-151-184"/> They will have in this life the good fortune Of obtaining success, a happy life, And will soon become The same as Samanta­bhadra.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-63">
+    <prop type="location-id">UT22084-101-151-185</prop>
+    <tuv xml:lang="bo">
+                <seg>མཚམས་མེད་ལྔ་པོ་དག་གི་སྡིག་པ་རྣམས། །གང་གིས་མི་ཤེས་དབང་གིས་བྱས་པ་དག །དེ་ཡིས་བཟང་པོ་སྤྱོད་པ་འདི་བརྗོད་ན། །མྱུར་དུ་མ་ལུས་ཡོངས་སུ་བྱང་བར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{50}<tei:milestone xml:id="UT22084-101-151-185"/> If someone through the power of ignorance Has the bad karma of the five actions with immediate results, They will be purified of it, without any remainder Through reciting this prayer of good conduct.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-64">
+    <prop type="location-id">UT22084-101-151-188</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡེ་ཤེས་དང་ནི་གཟུགས་དང་མཚན་རྣམས་དང་། །རིགས་དང་ཁ་དོག་རྣམས་དང་ལྡན་པར་འགྱུར། །བདུད་དང་མུ་སྟེགས་མང་པོས་དེ་མི་ཐུབ། །འཇིག་རྟེན་གསུམ་པོ་ཀུན་ལའང་མཆོད་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{51}<tei:milestone xml:id="UT22084-101-151-188"/> They will have the wisdom, form, Features, family, and color, Be invincible to hosts of māras and tīrthikas, And be offered to by the entire three realms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-65">
+    <prop type="location-id">UT22084-101-151-189</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་ཤིང་དབང་དྲུང་དུ་དེ་མྱུར་འགྲོ། །སོང་ནས་སེམས་ཅན་ཕན་ཕྱིར་དེར་འདུག་སྟེ། །བྱང་ཆུབ་སངས་རྒྱས་འཁོར་ལོ་རབ་ཏུ་བསྐོར། །བདུད་རྣམས་སྡེ་དང་བཅས་པ་ཐམས་ཅད་འདུལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{52}<tei:milestone xml:id="UT22084-101-151-189"/> They will soon go to the Bodhi tree, the lord of trees, And having reached there be seated for the benefit of beings, Become enlightened in buddhahood, turn the wheel of the Dharma, And overpower Māra and his entire army.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-66">
+    <prop type="location-id">UT22084-101-151-190</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་ཡང་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་འདི། །འཆང་བ་དང་ནི་སྟོན་ཏམ་ཀློག་པ་ཡི། །དེ་ཡི་རྣམ་པར་སྨིན་པ་སངས་རྒྱས་མཁྱེན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{53}<tei:milestone xml:id="UT22084-101-151-190"/> The Buddha knows the result that ripens For the one who possesses, recites, Or teaches this prayer of good conduct.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-67">
+    <prop type="location-id">UT22084-101-151-190</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་མཆོག་ལ་སོམ་ཉི་མ་བྱེད་ཅིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Do not doubt the supreme enlightenment!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-68">
+    <prop type="location-id">UT22084-101-151-191</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་ཇི་ལྟར་མཁྱེན་ཅིང་དཔའ་བ་དང་། །ཀུན་ཏུ་བཟང་པོ་དེ་ཡང་དེ་བཞིན་ཏེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{57}<tei:milestone xml:id="UT22084-101-151-191"/> Just as the hero Mañjuśrī knows, In that way so does Samanta­bhadra.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-69">
+    <prop type="location-id">UT22084-101-151-191</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དག་གི་ནི་རྗེས་སུ་བདག་སློབ་ཅིང་། །དགེ་བ་འདི་དག་ཐམས་ཅད་རབ་ཏུ་བསྔོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In practicing in the same way as they do, I am dedicating all this merit.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-70">
+    <prop type="location-id">UT22084-101-151-194</prop>
+    <tuv xml:lang="bo">
+                <seg>དུས་གསུམ་གཤེགས་པ་རྒྱལ་བ་ཐམས་ཅད་ཀྱིས། །བསྔོ་བ་གང་ལ་མཆོག་ཏུ་བསྔགས་པ་དེས། །བདག་གི་དགེ་བའི་རྩ་བ་འདི་ཀུན་ཀྱང་། །བཟང་པོ་སྤྱོད་ཕྱིར་རབ་ཏུ་བསྔོ་བར་བགྱི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{55}<tei:milestone xml:id="UT22084-101-151-194"/> With the prayer that is praised as supreme By all the jinas in the three times, I am dedicating all this merit For the supreme good conduct.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-71">
+    <prop type="location-id">UT22084-101-151-195</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་ནི་འཆི་བའི་དུས་བྱེད་གྱུར་པ་ན། །སྒྲིབ་པ་ཐམས་ཅད་དག་ནི་ཕྱིར་བསལ་ཏེ། །མངོན་སུམ་སྣང་བ་མཐའ་ཡས་དེ་མཐོང་ནས། །བདེ་བ་ཅན་གྱི་ཞིང་དེར་རབ་ཏུ་འགྲོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{56}<tei:milestone xml:id="UT22084-101-151-195"/> When the time has come for me to die, May I dispel all obscurations, See Amitābha before me, And go to the Sukhāvatī realm.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-72">
+    <prop type="location-id">UT22084-101-151-196</prop>
+    <tuv xml:lang="bo">
+                <seg>དེས་སོང་ནས་ནི་སྨོན་ལམ་འདི་དག་ཀྱང་། །ཐམས་ཅད་མ་ལུས་མངོན་སུམ་འགྱུར་བར་ཤོག །དེ་དག་མ་ལུས་བདག་གིས་ཡོངས་སུ་བཀང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{57}<tei:milestone xml:id="UT22084-101-151-196"/> When I have gone there, may these prayers All become completely manifest.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-73">
+    <prop type="location-id">UT22084-101-151-196</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་ཇི་སྲིད་སེམས་ཅན་ཕན་པར་བགྱི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>May I fulfill them all without exception And benefit beings for as long as there are worlds.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-74">
+    <prop type="location-id">UT22084-101-151-197</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་བའི་དཀྱིལ་འཁོར་བཟང་ཞིང་དགའ་བ་དེར། །པདྨ་དམ་པ་ཤིན་ཏུ་མཛེས་ལས་སྐྱེས། །སྣང་བ་མཐའ་ཡས་རྒྱལ་ལས་མངོན་སུམ་དུ། །ལུང་བསྟན་པ་ཡང་བདག་གིས་དེར་ཐོབ་ཤོག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{58}<tei:milestone xml:id="UT22084-101-151-197"/> May I be born from a beautiful, perfect lotus In that pleasant, beautiful circle of the jinas, And there obtain my prophecy Directly from the Jina Amitābha.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-75">
+    <prop type="location-id">UT22084-101-151-198</prop>
+    <tuv xml:lang="bo">
+                <seg>དེར་ནི་བདག་གིས་ལུང་བསྟན་རབ་ཐོབ་ནས། །སྤྲུལ་པ་མང་པོ་བྱེ་བ་ཕྲག་བརྒྱ་ཡིས། །བློ་ཡི་སྟོབས་ཀྱིས་ཕྱོགས་<tei:ref folio="F.266.a"/>བཅུ་རྣམས་སུ་ཡང་། །སེམས་ཅན་རྣམས་ལ་ཕན་པ་མང་པོ་བགྱི། །བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་བཏབ་པ་ཡིས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{59}<tei:milestone xml:id="UT22084-101-151-198"/> Having obtained there the prophecy, May I through the power of mind Bring many benefits to beings in the ten directions Through many billions of emanations.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-76">
+    <prop type="location-id">UT22084-101-151-200</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་བ་ཅུང་ཟད་བདག་གིས་ཅི་བསགས་པ། །དེས་ནི་འགྲོ་བའི་དགེ་བའི་སྨོན་ལམ་རྣམས། །སྐད་ཅིག་གཅིག་གིས་ཐམས་ཅད་འབྱོར་བར་ཤོག །བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་བསྔོས་པ་ཡིས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{60}<tei:milestone xml:id="UT22084-101-151-200"/> May what little merit I have accumulated Through reciting the good conduct prayer Cause the virtuous prayers of beings All to be fulfilled in an instant.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-77">
+    <prop type="location-id">UT22084-101-151-202</prop>
+    <tuv xml:lang="bo">
+                <seg>བསོད་ནམས་དམ་པ་མཐའ་ཡས་གང་ཐོབ་དེས། །འགྲོ་བ་སྡུག་བསྔལ་ཆུ་བོར་བྱིང་བ་རྣམས། །འོད་དཔག་མེད་པའི་གནས་རབ་ཐོབ་པར་ཤོག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{61} <tei:milestone xml:id="UT22084-101-151-202"/>Through the sublime, endless merit attained By my dedicating the good conduct, May the beings drowning in a river of suffering Depart to the supreme residence of Amitābha.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-78">
+    <prop type="location-id">UT22084-101-151-37</prop>
+    <tuv xml:lang="bo">
+                <seg>སྨོན་ལམ་རྒྱལ་པོ་འདི་མཆོག་གཙོ་དེས་ནི། །འགྲོ་བ་མཐའ་ཡས་ཀུན་ལ་ཕན་བྱེད་ཅིང་། །ཀུན་ཏུ་བཟང་པོས་བརྒྱན་པའི་གཞུང་གྲུབ་ཅིང་། །ངན་སོང་རྒྱུད་གསུམ་མ་ལུས་སྟོངས་པར་ཤོག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>{62}<tei:milestone xml:id="UT22084-101-151-37"/> The principal excellence of this King of Prayers Brings benefit to all beings without end, And being a text ornamented by Samantabhadra, May the three lower realms, without exception, be emptied. {63}</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-151-TU-79">
+    <prop type="location-id">UT22084-101-151-39</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ་རྫོགས་སྷོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-151-39"/>This concludes “The Noble King of Prayers of Good Conduct.”</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

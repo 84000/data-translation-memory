@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-087-002" eft:text-version="v-1.0.2-2023"/>
+<body>
+<tu id="UT22084-087-002-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.157.a"/>༄༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་ཨཥྚ་དེ་བི་དྷཱ་ར་ཎཱི། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-087-002-TU-2">
+    <prop type="location-id">UT22084-087-002-52</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ལྷ་མོ་བརྒྱད་ཀྱི་གཟུངས། སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-087-002-translation"/>The Noble Dhāraṇī of the Eight Goddesses<tei:milestone xml:id="UT22084-087-002-52"/> Homage to all buddhas and bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-087-002-TU-3">
+    <prop type="location-id">UT22084-087-002-54</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ཕྱག་ན་རྡོ་རྗེས་དེ་བཞིན་གཤེགས་པའི་ཡུམ་སྡིག་པ་ཐམས་ཅད་བྱང་བར་མཛད་མ། ནད་ཐམས་ཅད་རབ་ཏུ་ཞི་བར་མཛད་མ། བགེགས་ཐམས་ཅད་རབ་ཏུ་འཇིག་པར་མཛད་མ། ཕུན་སུམ་ཚོགས་པ་ཐམས་ཅད་མཛད་མ། གཟུངས་སྔགས་ཆེན་མོའི་རྒྱལ་མོའི་མཆོག་འདི་གསུངས་སོ། །ན་མཿསརྦ་ཏ་ཐཱ་ག་ཏེ་བྷྱཿ། སརྦ་མུ་ཁེ་བྷྱཿ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-087-002-54"/>Then, Vajrapāṇi taught this supreme queen of great dhāraṇī mantras that is the mother of the thus-gone ones, that purifies all misdeeds, that cures all illnesses, that frightens off all vighnas, and that brings all manner of prosperity.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-087-002-TU-4">
+    <prop type="location-id">UT22084-087-002-55</prop>
+    <tuv xml:lang="bo">
+                <seg>སརྦ་ཐཱ་ཧེ་བུདྡྷ་མཱ་ཏ་རི། སརྦ་པཱ་པ་ནཱ་ཤ་ནི། གརྫ་གརྫ། བྷཉྫ་བྷཉྫ། མརྡ་མརྡ། གམྦྷ་རི། གམྦྷ་རི། ཧ་ས་ཧ་ས། ད་མ་ད་མ། མ་ཐ་མ་ཐ། ཡ། བི་དྷཱ་ནྶ་ཡ། བི་དྷཱ་ནྶ་ཡ། སརྦ་ཤ་ཏྲཱུན་ཏ་ར་མ་ཏི། བི་མ་ལེ། པཱུར་ཡ་པཱུར་ཡ། པྲ་ཏི་ཛྙཱ་ན། སརྦ་བུདྡྷ་པརྱཱུ་པ་སི་ཏི། བྷ་ག་བ་ཏི། ག་ན་ག་ན། ཛ་ཧི་ཛ་ཧི། བི་མ་ས་ནི། ཀྲ་མ་ཎི། དྷ་བ་ནི། ར་མ་ཎི། མཱ་ཏཾ་གི་སྭཱ་ཧཱ། བཅོམ་ལྡན་འདས་མ་ཡེ་ཤེས་ཆེན་པོར་དབང་བསྐུར་ལྡན་པ་ཞེས་བྱ་བའི་གཟུངས་སོ། །ནམཿསརྦ་ཏ་ཐཱ་ག་ཏེ་བྷྱཿ། སརྦ་མུ་ཁེ་བྷྱཿ། སརྦ་ཐཱ། ཨ་མ་རི། ཨ་མ་རི། ཏ་ཊ། བྷཉྫ། བྷཉྫ། ཛྷ་ཛྷ། མི་ཙི་མི་ཙི། སྥོ་ཊ་ཡ་སྥོ་ཊ་ཡ། མ་ཐ་མ་ཐ། དུརྡཱནྟ་ད་མ་ཀ་སྭཱ་ཧཱ། ན་མཿསརྦ་ཏ་ཐཱ་ག་ཏེ་བྷྱཿ། སརྦ་མུ་ཁེ་བྷྱཿ། སརྦ་ཐཱ། ཧེ་ཧེ། ཀི་ན་དེ། སརྦ་ཏ་ཐཱ་ག་ཏ་བྷ་ནེ་ཀེ །བྷྱོ་དྷི་ན་ད་ད། ཏྲཱ་ཊ་ཏྲཱ་ཊ། ཧཱུྃ་ཕཊ་ཧཱུྃ་ཕཊ། གརྫ་གརྫ། པ་ར་མ་ཏི། བི་ཧུ་རི་ཀེ་སྭཱ་ཧཱ། ན་མཿསརྦ་ཏ་ཐཱ་ག་ཏེ་བྷྱཿ། སརྦ་མུ་ཁེ་བྷྱཿ། སརྦ་ཐཱ། བྷ་ག་བ་ཏི་པྲཛྙཱ་པཱ་ར་མི་ཏེ་ཨ། སརྦ་པཱ་པ་ཀྵ་ཡྃ་ཀ་རི་ཛྙཱ་ན་ཨརྩི་སྥ་ར་ཎི། བྷཉྫ། བྷཉྫ། མ་ཐ་མ་ཐ། ད་མ་ད་མ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-087-002-55"/>namaḥ sarva­tathāgatebhyaḥ sarva­mukhebhyaḥ sarvathā he buddha­mātari sarva­pāpanāśani garja garja bhañja bhañja marda marda gambhari gambhari hasa hasa dama dama matha matha vidhvaṃsaya vidhvaṃsaya sarva­śatrūn taramati vimale pūraya pūraya prati­jñāna sarva­buddha­paryupasiti bhagavati gana gana jahi jahi vimasani kramaṇi dhavani ramaṇi mātaṅgi ge svāhā |<tei:milestone xml:id="UT22084-087-002-56"/> This is the blessed dhāraṇī called Consecrated in Great Gnosis.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-087-002-TU-5">
+    <prop type="location-id">UT22084-087-002-58</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨཱ་ན་ཡ་ཨཱ་ན་ཡ། ས་ར་ས་ར། མཱ་ར་ཡ་མཱ་ར་ཡ། སརྦ་བུདྡྷ་ཛ་ནེ་ཏྲཱི་ཡཻ་སྭཱ་ཧཱ། ན་མཿསརྦ་ཏ་ཐཱ་ག་ཏེ་བྷྱཿ། སརྦ་མུ་ཁེ་བྷྱཿ། སརྦ་ཐཱ། གརྫ་གརྫ། མ་ཐ་མ་ཐ། ད་མ་ད་མ། བྷཉྫ་བྷཉྫ། དུནྡུ་བྷི། སརྦ་ནིརྒྷོ་ཥེ། ཧ་ན་ཧ་ན། བི་དྷྭནྶ་ཡ། བི་དྷྭནྶ་ཡ། མོ་ཊ་ཡ་མོ་ཊ་ཡ། ད་ཧ་ད་ཧ། བི་ཕུ་ལ་ནིརྨ་ལ་ནི་རྫཱ་ཏེ། ཨཱ་ཧ་ར་ཨཱ་ཧ་ར། གཙྪ་གཙྪ། སརྦ་བུདྡྷ་པརྱུ་པས་ཏི་མ། མཱ་བི་ལམྦ་སྭཱ་ཧཱ། བཅོམ་ལྡན་འདས་མ་རྡོ་རྗེའི་དབྱིངས་ཀྱི་<tei:ref folio="F.157.b"/>དབང་ཕྱུག་མ་ཞེས་བྱ་བའི་གཟུངས་སོ། །ན་མཿསརྦ་ཏ་ཐཱ་ག་ཏེ་བྷྱཿ། སརྦ་མུ་ཁེ་བྷྱཿ། སརྦ་ཐཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-087-002-58"/>namaḥ sarva­tathāgatebhyaḥ sarva­mukhebhyaḥ sarvathā amari amari taṭa bhañja bhañja jha jha mici mici sphoṭaya sphoṭaya matha matha durdāntadamaka svāhā |<tei:milestone xml:id="UT22084-087-002-59"/> namaḥ sarva­tathāgatebhyaḥ sarva­mukhebhyā sarvathā he he kinade sarva­tathāgata­bhaneke bhodhiṃ dada trāṭa trāṭa hūṁ phaṭ hūṁ phaṭ garja garja paramati vihurike svāhā |<tei:milestone xml:id="UT22084-087-002-61"/> namaḥ sarva­tathāgatebhyaḥ sarva­mukhebhyaḥ sarvathā bhagavati prajñā­pāramite a sarva­pāpakṣayaṅkari jñānārcisparaṇi bhañja bhañja matha matha dama dama ānaya ānaya sara sara māraya māraya sarva­buddha­janetrīyai svāhā |<tei:milestone xml:id="UT22084-087-002-62"/> namaḥ sarva­tathāgatebhyaḥ sarva­mukhebhyaḥ sarvathā garja garja matha matha dama dama bhañja bhañja dundubhi sarva­nirghoṣe hana hana vidhvaṃsaya vidhvaṃsaya moṭaya moṭaya daha daha vipulanirma­lanirjāte āhara āhara gaccha gaccha sarva­buddha­paryupasatim mā vilamba svāhā | <tei:milestone xml:id="UT22084-087-002-63"/>This is the blessed dhāraṇī called Vajradhātvīśvarī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-087-002-TU-6">
+    <prop type="location-id">UT22084-087-002-64</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་བྷ་ག་བ་ཏི། སརྦ་ཏ་ཐཱ་ག་ཏ་ཛ་ནི་ཀ། པཱུ་ར་ཡ་པྲ་ཏི་ཛྙཱ་ན། ཏ་ཊ་ཏ་ཊ། མརྡ་མརྡ། ཨཱ་ཧ་ར་ཨཱ་ཧ་ར། ཧཱུྃ་ཧཱུྃ་ཛ་ཏི་སྭཱ་ཧཱ། བཅོམ་ལྡན་འདས་མ་སོ་སོར་འབྲང་བ་ཆེན་མོ་ཞེས་བྱ་བའི་གཟུངས་སོ། །ན་མཿསརྦ་ཏ་ཐཱ་ག་ཏེ་བྷྱཿ། སརྦ་མུ་ཁེ་བྷྱཿ། སརྦ་ཐཱ། ཧཱུྃ་ཧྲཱི། སརྦ་བུདྡྷ་མཱ་ཏི་རི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-087-002-64"/>namaḥ sarva­tathāgatebhyaḥ sarva­mukhebhyaḥ sarvathā oṁ bhagavati sarva­tathāgata­janika pūraya prati­jñāna taṭa taṭa marda marda āhara āhara hūṁ hūṁ jati svāhā |<tei:milestone xml:id="UT22084-087-002-65"/> This is the blessed dhāraṇī called Mahāpratisarā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-087-002-TU-7">
+    <prop type="location-id">UT22084-087-002-66</prop>
+    <tuv xml:lang="bo">
+                <seg>བྷཉྫ་བྷཉྫ། མ་ཐ་མ་ཐ། ད་མ་ནི་ད་མ་ནི། གརྒཱ་རི་གརྒཱ་རི་ཧྲཱི་སྭཱ་ཧཱ། བཅོམ་ལྡན་འདས་མ་རྡོ་རྗེ་མི་ཕམ་མ་ཞེས་བྱ་བའི་གཟུངས་སོ། །ན་མཿསརྦ་ཏ་ཐཱ་ག་ཏེ་བྷྱཿ། སརྦ་མུ་ཁེ་བྷྱཿ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-087-002-66"/>namaḥ sarva­tathāgatebhyaḥ sarva­mukhebhyaḥ sarvathā hūṁ hrī sarva­buddha­mātiri bhañja bhañja matha matha damani damani gargāri gargāri hrī svāhā |<tei:milestone xml:id="UT22084-087-002-67"/> This is the blessed dhāraṇī called Unconquered Vajra.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-087-002-TU-8">
+    <prop type="location-id">UT22084-087-002-68</prop>
+    <tuv xml:lang="bo">
+                <seg>སརྦ་ཐཱ། ཏྲཱ་ཊ་ཏྲཱ་ཊ། མུ་ཧུ་མུ་ཧུ། སརྦ་པཱ་པ་བི་ཤོ་དྷ་ནི་སྭཱ་ཧཱ། བཅོམ་ལྡན་འདས་མ་སྡིག་པ་ཐམས་ཅད་སྤོང་བ་ཞེས་བྱ་བའི་གཟུངས་སོ། །ན་མཿསརྦ་ཏ་ཐཱ་ག་ཏེ་བྷྱཿ། སརྦ་མུ་ཁེ་བྷྱཿ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-087-002-68"/>namaḥ sarva­tathāgatebhyaḥ sarva­mukhebhyaḥ sarvathā trāṭa trāṭa muhu muhu sarva­pāpaviśodhani svāhā |<tei:milestone xml:id="UT22084-087-002-69"/> This is the blessed dhāraṇī called the Relinquishing All Misdeeds.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-087-002-TU-9">
+    <prop type="location-id">UT22084-087-002-70</prop>
+    <tuv xml:lang="bo">
+                <seg>སརྦ་ཐཱ། དྷ་ཀ་དྷ་ཀ །མོ་ཊ་མོ་ཊ། ད་ཧ་ད་ཧ། སརྦ་ཏ་ཐཱ་ག་ཏཱ་ཛྙཱ་ན་ནིར་ཛཱ་ཏེ་སྭཱ་ཧཱ། བཅོམ་ལྡན་འདས་མ་གདུལ་དཀའ་མ་ཞེས་བྱ་བའི་གཟུངས་སོ། །ན་མཿསརྦ་ཏ་ཐཱ་ག་ཏེ་བྷྱཿ། སརྦ་མུ་ཁེ་བྷྱཿ། སརྦ་ཐཱ། ཧ་ཧ་མི་ཧུ་མི་ཧུ། ད་མ་ད་མ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-087-002-70"/>namaḥ sarva­tathāgatebhyaḥ sarva­mukhebhyaḥ sarvathā dhaka dhaka moṭa moṭa daha daha sarva­tathāgata­jñāna­nirjāte svāhā |<tei:milestone xml:id="UT22084-087-002-71"/> This is the blessed dhāraṇī called Durdāntā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-087-002-TU-10">
+    <prop type="location-id">UT22084-087-002-72</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁཱ་ཧི་ཁཱ་ཧི། དྷུ་ན་དྷུ་ན། མི་ཙི་མི་ཙི། དུར་དཱ་ན་ཏ་ད་མ་ནི་སྭཱ་ཧཱ། བཅོམ་ལྡན་འདས་མ་བདུད་ཐམས་ཅད་རྣམ་པར་འཇོམས་མ་ཞེས་བྱ་བའི་གཟུངས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-087-002-72"/>namaḥ sarva­tathāgatebhyaḥ sarva­mukhebhyaḥ sarvathā ha ha mihu mihu dama dama khāhi khāhi dhuna dhuna mici mici durdāntada­mani svāhā |<tei:milestone xml:id="UT22084-087-002-73"/> This is the blessed dhāraṇī called Destroying All Māras.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-087-002-TU-11">
+    <prop type="location-id">UT22084-087-002-74</prop>
+    <tuv xml:lang="bo">
+                <seg>ན་མཿསརྦ་ཏ་ཐཱ་ག་ཏེ་བྷྱཿ། སརྦ་མུ་ཁེ་བྷྱཿ། སརྦ་ཐཱ། མི་ཙི་མི་ཙི། གརྫ་གརྫ། སྥོ་ཊ་ཡ་སྥོ་ཊ་ཡ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-087-002-74"/>namaḥ sarva­tathāgatebhyaḥ sarva­mukhebhyaḥ sarvathā mici mici garja garja sphoṭaya sphoṭaya matha matha dama dama svāhā |<tei:milestone xml:id="UT22084-087-002-75"/> This is the blessed dhāraṇī called Anantamukhasādhakā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-087-002-TU-12">
+    <prop type="location-id">UT22084-087-002-76</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་ཐ་མ་ཐ། ད་མ་ད་མ་སྭཱ་ཧཱ། བཅོམ་ལྡན་འདས་མ་སྒོ་མཐའ་ཡས་སྒྲུབ་པ་ཞེས་བྱ་བའི་གཟུངས་སོ། །འཇམ་དཔལ་ཡེ་ཤེས་ཆེན་པོར་དབང་བསྐུར་བའི་དཀྱིལ་འཁོར་འདི་གང་གི་ལག་ན་གནས་པ་དེ་ཉོན་མོངས་པ་དང་བྲལ་བར་འགྱུར། འཇིགས་པ་དང་བྲལ་བར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-087-002-76"/>“Manjuśrī, anyone in whose hand the maṇḍala of consecration in great gnosis is placed will be free from afflictions and free from peril.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-087-002-TU-13">
+    <prop type="location-id">UT22084-087-002-76</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་གལ་ཏེ་ཆོམ་རྐུན་གྱི་ནང་ན་འདུག་གམ། སྲིན་པོའི་ནང་ན་འདུག་གམ། དགྲའི་ནང་ན་འདུག་གམ། འཐབ་པའི་ནང་ན་འདུག་ཀྱང་རུང་སྟེ། དེའི་ལུས་ལ་མཚོན་གྱིས་མི་ཚུགས་པར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Even if they find themselves in the midst of thieves, in the midst of rākṣasas, in the midst of enemies, or in the midst of conflict, their bodies will not be pierced by weapons, they will not be killed by thieves and rākṣasas and the like will not harm them.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-087-002-TU-14">
+    <prop type="location-id">UT22084-087-002-76</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོམ་རྐུན་གྱིས་བཅོམ་པར་མི་འགྱུར། སྲིན་པོ་ལ་སོགས་པས་གཙེ་བར་མི་འགྱུར། དེ་ལ་དུས་མ་ཡིན་པའི་འཆི་བའི་འཇིགས་པ་མི་འབྱུང་བར་འགྱུར། རྟག་ཏུ་དཔལ་དང་ལྡན་པར་འགྱུར། དེའི་སྡིག་པ་ཐམས་<tei:ref folio="F.158.a"/>ཅད་ཡོངས་སུ་བྱང་བར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will have no fear of dying an untimely death, they will always have good fortune, and all their misdeeds will be purified.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-087-002-TU-15">
+    <prop type="location-id">UT22084-087-002-76</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་བྱེ་བ་ཁྲག་ཁྲིག་ཕྲག་འབུམ་གྱིས་དགེ་བའི་རྩ་བ་བསགས་པ་ཡང་དེ་ཉིད་ལ་ཉིན་གཅིག་བཞིན་མངོན་དུ་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In a single day, they will come to possess the root of virtue equal to that accumulated by one hundred thousand one hundred million tens of millions of buddhas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-087-002-TU-16">
+    <prop type="location-id">UT22084-087-002-76</prop>
+    <tuv xml:lang="bo">
+                <seg>འཆི་བའི་དུས་ཀྱི་ཚེ་ཡང་སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཀྱིས་ཡོངས་སུ་ཟིན་པར་འགྱུར། ཤི་ནས་ཀྱང་བདེ་བ་ཅན་དུ་འགྲོ་བར་འགྱུར་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When their time of death has come, the buddhas and bodhisattvas will care for them, and, after they die, they will be born in Sukhāvatī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-087-002-TU-17">
+    <prop type="location-id">UT22084-087-002-77</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་འཛིན་པ་དང་། ཀློག་པ་དང་། ཡིད་ལ་བྱེད་པ་དང་། མི་གཏོང་བར་འཛིན་པ་ལྟ་ཅི་སྨོས་ཏེ། དེའི་སྒྲིབ་པ་ཐམས་ཅད་བྱང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-087-002-77"/>“Thus, it goes without saying that the obscurations of whoever upholds, recites, focuses upon, and maintains it without relenting will be purified.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-087-002-TU-18">
+    <prop type="location-id">UT22084-087-002-77</prop>
+    <tuv xml:lang="bo">
+                <seg>དེས་ངན་སོང་གི་སྒོ་རྣམས་བཅད་པར་འགྱུར་རོ། །དེ་ངན་སོང་དང་། ངན་འགྲོ་རྣམས་རྒྱང་བསྲིངས་པར་འགྱུར་རོ། །གང་ཞིག་ནང་པར་ལངས་ནས་སུ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will close the doors to the lower realms and they will be very far away from lower rebirths and the lower realms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-087-002-TU-19">
+    <prop type="location-id">UT22084-087-002-78</prop>
+    <tuv xml:lang="bo">
+                <seg>ལན་ཅིག་ཀློག་པར་བྱེད་པའི་མི། །སྲིད་པ་ཉམ་ངར་གང་བྱས་པ། །སྡིག་པ་ཀུན་ལས་གྲོལ་བར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-087-002-78"/>“Any person who recites it once In the morning when they wake, And who fears the next life, Will be free from all the misdeeds they have committed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-087-002-TU-20">
+    <prop type="location-id">UT22084-087-002-79</prop>
+    <tuv xml:lang="bo">
+                <seg>སྲིན་པོ་ལ་སོགས་ཆོམ་རྐུན་དང་། །མཚོན་དང་དགྲ་ཡིས་མི་ཚུགས་ཤིང་། །དུས་མིན་འཆི་ལས་རབ་ཏུ་ཐར། །རྟག་ཏུ་དཔལ་དང་ལྡན་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-087-002-79"/>“Rākṣasas and the like, thieves, Weapons, and enemies will not strike them, They will be liberated from untimely death, And they will always have good fortune.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-087-002-TU-21">
+    <prop type="location-id">UT22084-087-002-80</prop>
+    <tuv xml:lang="bo">
+                <seg>འཆི་བའི་དུས་ཀྱི་ཚེ་ན་ཡང་། །ངན་འགྲོ་རྣམས་ལས་བསྲིངས་འགྱུར་ཏེ། །སངས་རྒྱས་རྣམས་ཀྱིས་ཡོངས་བཟུང་ནས། །བདེ་བ་ཅན་དུ་སྐྱེ་བར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-087-002-80"/>“When their time of death has come, They will be very far from the lower realms, The buddhas will care for them, and They will be reborn in Sukhāvatī.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-087-002-TU-22">
+    <prop type="location-id">UT22084-087-002-81</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ་མངོན་པར་བསྟོད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-087-002-81"/>When he had said that, the world with its gods, humans, asuras, and gandharvas rejoiced and praised him.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-087-002-TU-23">
+    <prop type="location-id">UT22084-087-002-82</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ལྷ་མོ་བརྒྱད་ཀྱི་གཟུངས་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-087-002-82"/>This concludes “The Noble Dhāraṇī of the Eight Goddesses.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-087-002-TU-24">
+    <prop type="location-id">UT22084-087-002-83</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་ཤཱི་ལེནྡྲ་བོ་དྷི་དང་། ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ་བནྡེ་ཡེ་ཤེས་སྡེས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-087-002-83"/>This was translated, edited, and finalized by the Indian preceptor Śīlendrabodhi and the chief editor and translator Bandé Yeshé Dé.</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

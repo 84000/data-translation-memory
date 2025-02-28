@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-083-020" eft:text-version="v-1.0.2-2023"/>
+<body>
+<tu id="UT22084-083-020-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.174.a"/>༄༅༅། །རྒྱ་གར་སྐད་དུ། ཙྪུ་ཙྪུ་ན་དྷ་ར་ཀལྤ་ན་མཿ། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-2">
+    <prop type="location-id">UT22084-083-020-55</prop>
+    <tuv xml:lang="bo">
+                <seg>ཏེའུ་ལོ་པའི་ཆོ་ག་ཞེས་བྱ་བ་གཤིན་རྗེའི་གཤེད་པོ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-083-020-translation"/>The Rite of the Musk Shrew<tei:milestone xml:id="UT22084-083-020-55"/> Homage to Yamāri!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-3">
+    <prop type="location-id">UT22084-083-020-57</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ཙྪུ་ཙྪུ་ན་དྷ་རའི་ཆོ་ག་ཞིབ་མོ་བཤད་པར་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-083-020-57"/>“Now I will explain in detail the rite of the musk shrew.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-4">
+    <prop type="location-id">UT22084-083-020-58</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་ཏུ་ཏྲ་ཡ་མ་ཧེ་ཤ་ར་ཡོ་ག་པྲཏྟ་མ་ཡ། ཡོ་ག་སིདྡྷི། དཱ་ཧཱ་ནི་མེ་སྭཱ་ཧཱ། ཧཱུ་ཧ། ད་ཧ་ད་ཧ། པ་ཙ་པ་ཙ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-083-020-58"/>oṁ tu tra ya ma he śa ra yo ga pratta ma ya | yo ga siddhi | tā hā ni me svāhā | hū ha | da ha da ha | pa tsa pa tsa | ur dhi ya hūṁ phaṭ<tei:milestone xml:id="UT22084-083-020-60"/> “The ritual activity for this vidyāmantra is as follows.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-5">
+    <prop type="location-id">UT22084-083-020-58</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨུར་དྷི་ཡ་ཧཱུཾ་ཕཊ། རིག་སྔགས་འདིའི་བྱ་བའི་ཆོ་ག་ནི། །ཉིན་མཚན་དུ་མི་ཉལ་བར་དྲི་དང་མེ་ཏོག་དང་། བདུག་སྤོས་ཕུལ་ནས། གཏོར་མ་བཏང་སྟེ་སྟོང་ཕྲག་བརྒྱད་བཟླས་ན་འགྲུབ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>After not sleeping for one day and one night, one should make offerings of fragrance, flowers, and incense, perform a bali offering, and then recite the vidyāmantra eight thousand times.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-6">
+    <prop type="location-id">UT22084-083-020-58</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ལས་རྣམས་སུ་འགྱུར་བ་ནི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One will then be successful.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-7">
+    <prop type="location-id">UT22084-083-020-62</prop>
+    <tuv xml:lang="bo">
+                <seg>ཙྪུ་ཙྪུན་དྷ་ར་ཤི་བ་བླངས་ལ། པགས་པ་དང་རུས་པ་དང་། ཤ་དང་སྤུ་རྣམས་ཕྱེ་མར་བཏགས་ཏེ་སྟོང་ཕྲག་གཉིས་བཟླས་ནས་ཕྱེ་མ་དེ་དཔྲལ་བར་བྱུགས་ན་བདག་ཉིད་དགྲས་མི་མཐོང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-083-020-62"/>“Next are the ritual permutations: <tei:milestone xml:id="UT22084-083-020-63"/>“One should take a dead musk shrew, grind its skin, bones, meat, and fur into powder, and recite the vidyāmantra two thousand times. If one then rubs the powder onto one’s forehead, one will become invisible to one’s enemies.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-8">
+    <prop type="location-id">UT22084-083-020-64</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་མ་མ་ཧཱུ་པ་ཏི། ཕྱེ་མ་དེ་ལག་པ་ལ་བསྐུས་ནས་གང་ལ་རེག་པ་དེ་དབང་དུ་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-083-020-64"/>oṁ ma ma hū pa ti<tei:milestone xml:id="UT22084-083-020-66"/> “If one smears the powder on one’s hands, one can enthrall anyone one touches.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-9">
+    <prop type="location-id">UT22084-083-020-64</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱེ་མ་དེ་རྐང་པ་ལ་བསྐུས་ནས་དཔག་ཚད་བརྒྱར་སོང་ན་ཡང་ལྡོག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one smears the powder on one’s feet, one can walk a hundred yojanas and back.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-10">
+    <prop type="location-id">UT22084-083-020-64</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱེ་མ་དེ་ཉིད་ཀྱིས་དགྲའི་སྒོ་ལོགས་ལ་བསྐུས་ནས་ཁྱིམ་གྱི་སྒོར་སྟོང་ཕྲག་བརྒྱར་བཟླས་ན་སྐྲོད་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one smears the same powder on the entryway of an enemy’s house and recites the vidyāmantra one hundred thousand times at the door of the house, the enemy will be expelled.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-11">
+    <prop type="location-id">UT22084-083-020-64</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱེ་མ་དེ་དང་དུར་ཁྲོད་ཀྱི་རས་དགྲ་བོའི་སྒོ་རྩར་བཅད་ཅིང་སྦས་ན་དགྲ་བོའི་རིགས་རྣམས་འཇོམས་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one takes the powder and soil from a charnel ground, makes a small portion, and conceals it at an enemy’s door, the enemy’s family will be destroyed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-12">
+    <prop type="location-id">UT22084-083-020-64</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡང་ན་དགྲ་བོའི་རིགས་སྐྲོད་པར་འདོད་ན་ཙྪུ་ཙྪུན་དྷ་རའི་པགས་པ་ཕྱེ་མར་བཏགས་ལ། སྟོང་ཕྲག་བརྒྱད་ཡོངས་སུ་བཟླས་ནས་གཅིན་ཤུལ་གྱི་སས་བཀང་ནས་སྐུད་པ་སྔོན་པོས་བཅིངས་ཏེ་ནམ་མཁར་བཏེག་ན་གཅིན་འགགས་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Or, if one wishes to expel one’s enemy’s family, one should take the skin of a musk shrew, recite the vidyāmantra eight thousand times, fill the skin with soil from a place where someone has urinated, and tie it with a blue thread. When one ties it up in the air, the enemy’s urine will be blocked.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-13">
+    <prop type="location-id">UT22084-083-020-64</prop>
+    <tuv xml:lang="bo">
+                <seg>བཀྲོལ་ན་ནི་ཐར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When it is untied, the urine will be released.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-14">
+    <prop type="location-id">UT22084-083-020-70</prop>
+    <tuv xml:lang="bo">
+                <seg>ཙྪུ་ཙྪུན་དྷ་རའི་པགས་པ་ཕྱེ་མར་བཏགས་ནས་ལྷ་ཆེན་པོའི་མདུན་དུ་སྟོང་ཕྲག་བརྒྱད་བཟླས་ལ་ཡང་དྲི་དང་མེ་ཏོག་དང་བདུག་སྤོས་དང་གཏོར་མ་བཏང་སྟེ། སླར་ཡང་སྟོང་ཕྲག་བརྒྱད་བཟླས་ན་དེས་འགྲུབ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-083-020-70"/>“One should grind musk shrew skin into powder, recite the vidyāmantra eight thousand times in front of Mahādeva, and make offerings of fragrances, flowers, and incense, as well as a bali offering, and then again recite the vidyāmantra eight thousand times.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-15">
+    <prop type="location-id">UT22084-083-020-71</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱེ་མ་དེ་སྣའི་རྩེ་མོར་བསྐུས་ན་སྐྱེ་འགྲོ་ཐམས་ཅད་ལ་སྡུག་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One will then be successful.<tei:milestone xml:id="UT22084-083-020-71"/> “If one rubs that powder on the tip of one’s nose, one will be beloved to all beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-16">
+    <prop type="location-id">UT22084-083-020-71</prop>
+    <tuv xml:lang="bo">
+                <seg>མགོ་བོར་<tei:ref folio="F.174.b"/>བཞག་ན་དགྲ་ཐམས་ཅད་དང་འགྱེད་པའི་ལན་ཐེབས་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one applies it to one’s head, , one will be able to respond to all enemies and disputes.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-17">
+    <prop type="location-id">UT22084-083-020-71</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱེ་མ་དེ་ཉིད་རང་གི་སྙིང་གར་བསྐུས་ནས་དགྲ་ལ་བསྟན་ན་སྙིང་ན་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one anoints one’s heart with that same powder and displays it to an enemy, the enemy will feel burning in their heart.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-18">
+    <prop type="location-id">UT22084-083-020-71</prop>
+    <tuv xml:lang="bo">
+                <seg>སཱ་ལུའི་ཕྱེ་མ་ལ་གཟུགས་བྱས་ནས་ཕྱེ་མ་དེ་བསྐུས་ན་མཛེས་ཐེབས་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one makes an effigy from rice flour and smears it with the powder, the target will be afflicted with leprosy.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-19">
+    <prop type="location-id">UT22084-083-020-71</prop>
+    <tuv xml:lang="bo">
+                <seg>དུར་ཁྲོད་ཀྱི་ཐལ་བ་དང་བཅས་པས་དགྲ་བོའི་ཚོགས་ལ་གཏོར་ན་གང་གིས་མནན་པ་དང་མཐོང་བ་དེ་དག་ནད་ཀྱིས་ཐེབས་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one scatters the powder together with ashes from a cremation ground on a group of enemies, anyone who steps on it or sees it will be afflicted with disease.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-20">
+    <prop type="location-id">UT22084-083-020-71</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱེ་མ་དེ་ལ་ལན་སྟོང་བཟླས་ནས་གང་གི་མགོ་བོར་བླུགས་པ་དེ་དབང་དུ་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one incants the powder with the vidyāmantra one thousand times, one will enthrall anyone on whose head it is sprinkled.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-21">
+    <prop type="location-id">UT22084-083-020-71</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱེ་མ་དེ་ཐོད་པ་དང་ལྷན་ཅིག་སྒོ་ལོགས་སུ་བཞག་ན་དགྲ་བོ་དང་དབྱེ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one places the powder together with a skull at an enemy’s entryway, one will be separated from that enemy.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-22">
+    <prop type="location-id">UT22084-083-020-71</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱེ་མ་དེ་བུད་མེད་ཀྱི་ལག་པ་ལ་བསྐུས་ན་བུད་མེད་དེ་འཆི་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one rubs the powder on a woman’s hand, she will die.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-23">
+    <prop type="location-id">UT22084-083-020-71</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱེ་མ་དེ་གང་གི་སྒོར་སྦས་ན་སྐྲོད་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one conceals the powder at someone’s door, the person will be expelled.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-24">
+    <prop type="location-id">UT22084-083-020-71</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱེ་མ་དེ་ཤ་ཆེན་པོ་དང་བསྲེས་ནས་གང་གི་བཏུང་བར་སྦྱིན་ན་ཉི་མ་བདུན་གྱིས་འཆིའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one mixes the powder with human flesh and gives it to someone to drink, that person will die within seven days.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-25">
+    <prop type="location-id">UT22084-083-020-71</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱེ་མ་དེ་དགྲ་ལ་བྱིན་ལ་དགྲ་བོ་བཀྲེས་པ་དང་། །གཞང་འབྲུམ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one gives the powder to an enemy, that enemy will be afflicted by hunger, hemorrhoids, and diarrhea.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-26">
+    <prop type="location-id">UT22084-083-020-71</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚད་པས་ཐེབས་ནས་ཕྱི་ནས་ནི་རང་ཉིད་དགའ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Afterward, one will feel joyful.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-27">
+    <prop type="location-id">UT22084-083-020-71</prop>
+    <tuv xml:lang="bo">
+                <seg>ཙྪུ་ཙྪུན་དྷ་རའི་རུས་པ་བླངས་ནས་གང་གི་ཁྱིམ་དུ་སྦས་ན་འཆིའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one takes a musk shrew’s bones and hides them in someone’s house, that person will die.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-28">
+    <prop type="location-id">UT22084-083-020-80</prop>
+    <tuv xml:lang="bo">
+                <seg>ཙྪུ་ཙྪུན་དྷ་རའི་ཤ་དང་ཉའི་ཞག་དང་བཅས་པ་ལྷ་ལ་མཆོད་པ་བྱས་ནས་དུར་ཁྲོད་དུ་ཐོད་པའི་སྟེང་དུ་འདུག་ནས་ཐོད་པ་བཟུང་ལ་བཟླས་པ་བྱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-083-020-80"/>“One should offer musk shrew flesh and fish oil to the deity, sit on a skull in a charnel ground, and recite the vidyāmantra while holding a skull.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-29">
+    <prop type="location-id">UT22084-083-020-80</prop>
+    <tuv xml:lang="bo">
+                <seg>དུར་ཁྲོད་ཀྱི་སོལ་བ་ལ་ལན་སྟོང་དུ་བླུགས་ཅིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One should then pour the mixture onto charcoal from a charnel ground one thousand times and perform a fire offering.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-30">
+    <prop type="location-id">UT22084-083-020-80</prop>
+    <tuv xml:lang="bo">
+                <seg>སྦྱིན་སྲེག་བྱས་ན་འགྲུབ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One will then be successful.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-31">
+    <prop type="location-id">UT22084-083-020-83</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱེ་མ་དེ་ཚ་བ་གསུམ་དང་བསྲེས་པས་ལས་སུ་འགྱུར་བ་ནི། གང་གི་ཁྱིམ་དུ་བཞག་ན། དེ་ལ་མེའི་ཚ་བ་གསུམ་དང་འབྱུང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-083-020-83"/>“If one performs the rite by mixing the powder with the three hot substances and then places it in someone’s house, a fiery heat will be produced there.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-32">
+    <prop type="location-id">UT22084-083-020-83</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱེ་མ་དེ་སྐེ་ཚེ་དང་བསྲེས་པས་ཀྱང་ལས་དེ་ཉིད་དུ་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Mixing the powder with black mustard seeds will have the same effect.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-33">
+    <prop type="location-id">UT22084-083-020-83</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱེ་མ་དེ་དང་དུར་ཁྲོད་ཀྱི་སས་གཟུགས་བརྙན་བྱས་ཏེ་སྒོ་རྩར་སྦས་ན། ཕྲལ་དུ་ན་ཚས་གསོད་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one makes an effigy with the powder and soil from a charnel ground and buries it at the foot of someone’s door, that person will quickly be killed by illness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-34">
+    <prop type="location-id">UT22084-083-020-83</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱེ་མ་དེ་ལན་ཚྭ་དང་བསྲེས་ནས་གང་ལ་བརྡེག་པ་དེ་དབང་དུ་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one mixes the powder with salt, one will enthrall anyone one strikes with it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-35">
+    <prop type="location-id">UT22084-083-020-83</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱེ་མ་དེ་ཡུངས་ཀར་དང་བསྲེས་ནས་རྒྱལ་པོའི་སྒོ་ལ་གཏོར་ན། རྒྱལ་པོ་དབང་དུ་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one mixes the powder with white mustard seeds and scatter it on a king’s gate, the king will be enthralled.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-36">
+    <prop type="location-id">UT22084-083-020-86</prop>
+    <tuv xml:lang="bo">
+                <seg>ཙྪུ་ཙྪུན་དྷ་རའི་རྟོག་པ་ཞིབ་མོ་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-083-020-86"/>The detailed rite of the musk shrew is complete.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-020-TU-37">
+    <prop type="location-id">UT22084-083-020-87</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་དཱི་པྃ་ཀ་ར་དང་། བོད་ཀྱི་ལོཙྪ་བ་རྭ་རྡོ་རྗེ་གྲགས་ཀྱིས་བསྒྱུར་བའོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-083-020-87"/>This was translated by the Indian preceptor Dīpaṅkara and the Tibetan translator Ra Dorjé Drak.</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-057-002" eft:text-version="v-1.0.1-2023"/>
+<body>
+<tu id="UT22084-057-002-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.6.b"/>༄༅༅། །རྒྱ་གར་སྐད་དུ། གཱ་ཐཱ་དྭ་ཡ་དྷཱ་ར་ཎཱི། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-057-002-TU-2">
+    <prop type="location-id">UT22084-057-002-91</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚིགས་སུ་བཅད་པ་གཉིས་པའི་གཟུངས། འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-002-translation"/>The Two Stanza Dhāraṇī<tei:milestone xml:id="UT22084-057-002-91"/> Homage to Mañjuśrī Kumārabhūta.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-057-002-TU-3">
+    <prop type="location-id">UT22084-057-002-94</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་ནི་ཆོས་ལ་བརྙས་པ་དང་། །ལེ་ལོ་དང་ནི་ཅུང་ཟད་ཆོག་པར་འཛིན། །འདོད་ཆགས་དང་ནི་ང་རྒྱལ་སྤྱོད་པ་དང་། །འགྱོད་པ་དང་ནི་མ་ངེས་འབྱེད་པ་རྣམས། །སེམས་ཅན་རྣམས་ཀྱི་སྒྲིབ་པར་གྱུར་པ་སྟེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-002-94"/>Contempt toward the Buddha and the Dharma, Laziness, contentment with small amounts, Acting with desire and pride, Regret, and parting due to being uncertain—<tei:milestone xml:id="UT22084-057-002-97"/> Such are beings’ obscurations.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-057-002-TU-4">
+    <prop type="location-id">UT22084-057-002-94</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཡི་གཉེན་པོར་ཐེག་པ་མཆོག་བསྟན་པ། །དེ་ཡིས་བར་དུ་གཅོད་པ་དེ་དག་གི། །ཉེས་པ་ཐམས་ཅད་རབ་ཏུ་སྤང་བར་འགྱུར་རོ། །ཏདྱ་ཐཱ། ཨོཾ་བཛྲ་པྲ་ཀཱ་ར། བཛྲ་པྲ་ཀཱ་ར། བཛྲ་ཙཀྲ། དཾཥྚཱ་བྷ་ཡ་ན་ཀེ །ཨ་མ་ལེ། བི་མ་ལེ། ནིར་མ་ཙུ་ལུ་ཀེ ། ཙུ་ལུ་ཀེ །ཙུ་ལུ་ཙུ་ལུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The antidote is the teaching of the supreme vehicle Through which all the faults That cause hindrances are abandoned.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-057-002-TU-5">
+    <prop type="location-id">UT22084-057-002-98</prop>
+    <tuv xml:lang="bo">
+                <seg>སརྦ་བུད་དྷེ་སྭཱ་ཧཱ། །ཚིགས་སུ་བཅད་པ་གཉིས་པའི་གཟུངས་ལ་ནི། །ཚིག་གམ་དོན་གྱི་སྒོ་ནས་གང་སྦྱོར་བ། །སེམས་ཅན་དམ་པ་བློ་དང་ལྡན་པ་དེས། །ཕན་ཡོན་རྣམ་པ་བཅུ་དག་ཐོབ་པར་འགྱུར། །ཁམས་རྣམས་མཐའ་དག་རྒྱས་པར་འགྱུར་བ་དང་། །འཆི་བའི་ཚེ་ན་མཆོག་དགའ་དམ་པ་འཐོབ། །ཇི་ལྟར་འདོད་པ་བཞིན་དུ་སྐྱེ་བ་དང་། །ཐམས་ཅད་དུ་ནི་ཚེ་རབས་དྲན་པར་འགྱུར། །སངས་རྒྱས་རྣམས་དང་ཕྲད་པར་འགྱུར་བ་དང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-002-98"/>tadyathā | oṃ vajra­prakāra vajra­prakāra | vajra­cakra daṃṣṭrābhayānake| amale vimale | nirmale | culuke culuke| culu culu | sarva­buddhe svāhā ||<tei:milestone xml:id="UT22084-057-002-104"/> Whoever practices The Two Stanza Dhāraṇī, With respect to either the words or the meaning, Is a wise sublime being Who will attain ten benefits—<tei:milestone xml:id="UT22084-057-002-106"/> Complete development of the elements, Perfect joy at the moment of death, Rebirth according to one’s wish, Total recollection of former lives,<tei:milestone xml:id="UT22084-057-002-107"/> Meeting with buddhas, Hearing the supreme vehicle from them, Interest, along with intellect, The two gates, and swift awakening.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-057-002-TU-6">
+    <prop type="location-id">UT22084-057-002-110</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་དེ་དག་ལས་ནི་ཐེག་མཆོག་ཐོས། །མོས་པར་འགྱུར་བ་བློ་དང་བཅས་པ་དང་། །སྒོ་གཉིས་དང་ནི་བྱང་ཆུབ་མྱུར་དུ་ཐོབ། །ཚིགས་སུ་བཅད་པ་གཉིས་པའི་གཟུངས་རྫོགས་སོ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-057-002-110"/>Thus ends “The Two Stanza Dhāraṇī.”</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

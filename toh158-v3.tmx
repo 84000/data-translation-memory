@@ -1,0 +1,2316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-059-001" eft:text-version="v-1.0.1-2023"/>
+<body>
+<tu id="UT22084-059-001-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.1.b"/>༄༅༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་བྲཧྨ་པ་རི་པྲྀ་ཙྪཱ་ནཱ་མ་མ་ཧཱ་ཡཱ་ན་སཱུ་ཏྲ། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-2">
+    <prop type="location-id">UT22084-059-001-78</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ཚངས་པས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-translation"/>The Noble Mahāyāna Sūtra Brahmā’s Question<tei:milestone xml:id="UT22084-059-001-78"/> Homage to all the buddhas and bodhisattvas!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-3">
+    <prop type="location-id">UT22084-059-001-79</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-79"/>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-4">
+    <prop type="location-id">UT22084-059-001-79</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་གྲོང་ཁྱེར་ཡངས་པ་ན་ཚལ་ཆེན་པོའི་ཁང་པ་བརྩེགས་པའི་གནས་ན་དགེ་སློང་ཁྲི་ཉིས་སྟོང་གི་དགེ་འདུན་ཆེན་པོ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རབ་ཏུ་མང་པོ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Bhagavān was staying at Kūṭāgāraśālā in the great forest grove near Vaiśālī together with a great assembly of twelve thousand monks and a great many bodhisattva mahāsattvas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-5">
+    <prop type="location-id">UT22084-059-001-80</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་མི་ཉལ་ཙམ་གྱི་ནམ་གྱི་གུང་ཐུན་ལ་སྐྱིལ་མོ་ཀྲུང་བཅས་ནས་དྲན་པ་མངོན་དུ་བཞག་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-80"/>In the middle of the night, the Bhagavān sat awake in a cross-legged position, settled in mindfulness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-6">
+    <prop type="location-id">UT22084-059-001-80</prop>
+    <tuv xml:lang="bo">
+                <seg>རྟོག་པ་དང་བཅས་པ། དཔྱོད་པ་དང་བཅས་པའི་ཏིང་ངེ་འཛིན་ལས་སྐྱེས་པའི་དགའ་བ་དང་བདེ་བ་ཅན་བསམ་གཏན་དང་པོ་ལ་སྙོམས་པར་ཞུགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He entered the first meditative concentration, wherein joy and happiness arise from engaging in thought and scrutiny while in seclusion.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-7">
+    <prop type="location-id">UT22084-059-001-80</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་དེ་ལས་བཞེངས་ནས་རྟོག་པ་མེད་པ། དཔྱོད་པ་མེད་པའི་ཏིང་ངེ་འཛིན་ལས་སྐྱེས་པའི་<tei:ref folio="F.2.a"/>དགའ་བ་དང་བདེ་བ་ཅན་བསམ་གཏན་གཉིས་པ་ལ་སྙོམས་པར་ཞུགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Emerging from that, the Bhagavān entered the second meditative concentration, wherein joy and happiness arise from meditative absorption that involves no thought or scrutiny.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-8">
+    <prop type="location-id">UT22084-059-001-80</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་དེ་ལས་བཞེངས་ནས་དགའ་བའི་འདོད་ཆགས་དང་བྲལ་བ། བཏང་སྙོམས་པ་དྲན་པ་དང་ལྡན་པ། བདེ་བར་གནས་པ་བསམ་གཏན་གསུམ་པ་ལ་སྙོམས་པར་ཞུགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Emerging from that, the Bhagavān entered the third meditative concentration, wherein there is no attachment to joy, and one rests comfortably with mindfulness and equanimity.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-9">
+    <prop type="location-id">UT22084-059-001-80</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་དེ་ལས་བཞེངས་ནས་བདེ་བ་ཡང་སྤངས་ཏེ། སྔ་ནས་སྡུག་བསྔལ་ཡང་སྤངས་ཤིང་ཡིད་བདེ་བ་དང་ཡིད་མི་བདེ་བ་ཡང་ནུབ་པས་ཕྱིར་སྡུག་བསྔལ་ཡང་མེད་བདེ་བ་ཡང་མེད་པ་བཏང་སྙོམས་དང་དྲན་པ་ཡོངས་སུ་དག་པ་བསམ་གཏན་བཞི་པ་ལ་སྙོམས་པར་ཞུགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Emerging from that, the Bhagavān entered the fourth meditative concentration, wherein happiness is relinquished, and with suffering already having been relinquished, notions of mental comfort and mental discomfort subside and disappear, and there is only mindfulness and equanimity in which there is neither suffering nor happiness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-10">
+    <prop type="location-id">UT22084-059-001-83</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་བསམ་གཏན་བཞི་པ་ལས་བཞེངས་ནས་བསམ་གཏན་གསུམ་པ་ལ་ཞུགས་སོ། །བསམ་གཏན་གསུམ་པ་ལས་བཞེངས་ནས་བསམ་གཏན་གཉིས་པ་ལ་ཞུགས་སོ། །བསམ་གཏན་གཉིས་པ་ལས་བཞེངས་ནས་བསམ་གཏན་དང་པོ་ལ་ཞུགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-83"/>Then the Bhagavān emerged from the fourth concentration and entered the third concentration; he emerged from the third concentration and entered the second concentration; he emerged from the second concentration and entered the first concentration.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-11">
+    <prop type="location-id">UT22084-059-001-83</prop>
+    <tuv xml:lang="bo">
+                <seg>བསམ་གཏན་དང་པོ་ལས་བཞེངས་ནས་གདུལ་བྱ་ཇི་ལྟ་བ་བཞིན་དུ་སེམས་ཅན་ལ་གཟུགས་ཀྱི་ལུས་ཀུན་ཏུ་སྟོན་པ་ཞེས་བྱ་བའི་ཏིང་ངེ་འཛིན་ལ་སྙོམས་པར་ཞུགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And when he had emerged from the first concentration, he entered the meditative absorption called displaying physical forms to beings in accordance with disciples’ capacities.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-12">
+    <prop type="location-id">UT22084-059-001-83</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་གདུལ་བྱ་ཇི་ལྟ་བ་བཞིན་དུ་སེམས་ཅན་ལ་གཟུགས་ཀྱི་ལུས་ཀུན་ཏུ་སྟོན་པའི་ཏིང་ངེ་འཛིན་དེ་ལ་སྙོམས་པར་ཞུགས་མ་ཐག་ཏུ་དེ་ནས་སྐད་ཅིག་དེ་ལ་བཅོམ་ལྡན་འདས་ཤིན་ཏུ་ལྷམ་མེ་ལྷན་ནེ་ལྷང་ངེར་བཞུགས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>As soon as he entered the meditative absorption displaying physical forms to beings in accordance with disciples’ capacities, the Bhagavān immediately radiated light, clear and bright.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-13">
+    <prop type="location-id">UT22084-059-001-84</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པ་ཚངས་པའི་གནས་ན་འདུག་བཞིན་དུ་བཅོམ་ལྡན་འདས་ཤིན་ཏུ་ལྷམ་མེ་ལྷན་ནེ་ལྷང་ངེ་བ་དང་སྐྱེས་བུ་ཆེན་པོའི་མཚན་སུམ་ཅུ་རྩ་གཉིས་ཀྱིས་ལེགས་པར་བརྒྱན་པ་མཐོང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-84"/>Brahmā, lord of the Sahā world, dwelling in the brahmā abodes, saw the Bhagavān shining with great radiance, clear and bright, beautifully adorned with the thirty-two marks of a great being.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-14">
+    <prop type="location-id">UT22084-059-001-84</prop>
+    <tuv xml:lang="bo">
+                <seg>མཐོང་ནས་ཀྱང་ཚངས་པའི་འཇིག་རྟེན་ནས་མི་སྣང་བར་<tei:ref folio="F.2.b"/>གྱུར་ནས་ཐམས་ཅད་དང་ལྡན་པའི་ཚལ་ཆེན་པོ་འོད་ཀྱིས་སྣང་བར་བྱས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱི་སྤྱན་སྔར་ཧ་ཅང་ཡང་མི་རིང་བ་ཞིག་ཏུ་འདུག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When he saw this, he disappeared from the brahmā world and he appeared in the great forest, bathing it and everything in it in light, and he was seated before the Bhagavān, very close to him.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-15">
+    <prop type="location-id">UT22084-059-001-85</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པས་འདི་སྙམ་དུ་བསམས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-85"/>Then Brahmā, lord of the Sahā world, thought to himself, “It is difficult to approach and difficult to understand buddha bhagavāns.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-16">
+    <prop type="location-id">UT22084-059-001-85</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ནི་བསྙེན་པར་དཀའ་བ་རྣམ་པར་ཤེས་པ་དཀའ་བ་ཡིན་ན་བཅོམ་ལྡན་འདས་ཏིང་ངེ་འཛིན་ལ་སྙོམས་པར་ཞུགས་པ་ལ་བདག་གིས་ལུད་པ་བསལ་བའི་སྒྲའམ་སྨྲ་བ་ཙམ་གྱིས་བཞེངས་པར་གསོལ་བ་ནི་བདག་གི་ཆ་མ་ཡིན་གྱིས་བདག་གིས་ཚིགས་སུ་བཅད་པ་དག་གིས་བཅོམ་ལྡན་འདས་བཞེངས་པར་གསོལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Since the Bhagavān is immersed in meditative absorption, it would not be appropriate for me to rouse him from his meditation by making a noise like clearing my throat or saying something.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-17">
+    <prop type="location-id">UT22084-059-001-85</prop>
+    <tuv xml:lang="bo">
+                <seg>གོར་མ་ཆག་སྙམ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Instead, I should politely request the Bhagavān to emerge from his meditation by addressing him in verse.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-18">
+    <prop type="location-id">UT22084-059-001-86</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པས་བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས་འདུག་བཞིན་དུ་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་དེ་མགོ་བཏུད་ནས། བཅོམ་ལྡན་འདས་ལ་ཚིགས་སུ་བཅད་པ་དག་གིས་བཞེངས་པར་གསོལ་ཏོ། །མ་གོས་དྲི་མ་མ་མཆིས་རྣམ་པར་དག །ལྷ་དང་མི་མཆོག་རྣམས་དང་དྲི་ཟ་དང་། །ཀླུ་དང་ལྷ་མིན་རྣམས་ཀྱིས་ལེགས་མཆོད་པ། །སེམས་ཅན་སྨན་སླད་མགོན་པོ་ཁྱོད་ལ་མཆོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Assuring himself that this was the case, Brahmā, lord of the Sahā world, draped his upper robe over one shoulder, and with his palms joined, he bowed towards the Bhagavān and, with his head still bowed, he urged the Bhagavān to emerge from his meditation with the following verses:<tei:milestone xml:id="UT22084-059-001-86"/> “Lord, unsullied, unblemished, and immaculate, You are justly worshipped by gods, by the best of humans, By gandharvas, nāgas, and asuras as well, Worshipped in order to heal sentient beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-19">
+    <prop type="location-id">UT22084-059-001-87</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔེར་ན་རི་ནི་རབ་ཏུ་མི་གཡོས་དང་། །ཇི་ལྟར་རྒྱ་མཚོ་གཏིང་ནི་མི་དཔོགས་ལྟར། །བདུད་རྣམས་ཐམས་ཅད་ཀྱིས་ཀྱང་མི་གཡོས་ལ། །ཐུབ་པ་སྐྱེས་བུ་མཆོག་ནི་བསམ་གཏན་མཛད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-87"/>“Sage, Most Excellent of Humans, engaged in concentration, You are as unshakable as a mountain, As unfathomable as an ocean, And imperturbable, even by hordes of māras.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-20">
+    <prop type="location-id">UT22084-059-001-88</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟང་ཟིང་མི་མངའ་མཚན་མ་མི་མངའ་ཞིང་། །ཐ་དད་མི་མངའ་བརྟན་པ་མི་མངའ་ལ། །གནས་མི་མངའ་ཞིང་སྣང་བ་མི་མངའ་བའི། །ཐུབ་པ་སྐྱེས་བུ་དམ་པ་བསམ་གཏན་མཛད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-88"/>“Sage, Holy One, engaged in concentration, You are without material concern, without marks, Without distinctions, without reliance, Without location, and without appearance.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-21">
+    <prop type="location-id">UT22084-059-001-90</prop>
+    <tuv xml:lang="bo">
+                <seg>རྟོག་གེ་རྣམས་ཀྱི་ཡུལ་ནི་མ་ལགས་ཤིང་། །བྱིས་པ་རྣམས་ཀྱི་སྤྱོད་ཡུལ་མ་ལགས་པ། །སེམས་དང་སེམས་ལས་བྱུང་བས་རབ་འདས་པ། །བསམ་གཏན་ཕ་རོལ་གཤེགས་པ་བསམ་གཏན་མཛད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-90"/>“Your concentration is the perfection of concentration; It is beyond the scope of discursive thought, Beyond the scope of childlike beings, And it transcends the mind and mental factors.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-22">
+    <prop type="location-id">UT22084-059-001-91</prop>
+    <tuv xml:lang="bo">
+                <seg>མགོན་པོ་སེང་གེ་བཞིན་དུ་གསུང་ཡང་སྒྲོག །ཐུབ་པ་འབྲུག་བཞིན་སྒྲོག་པ་རབ་ཏུ་མཛད། །དཔའ་བོ་ཟླ་བ་བཞིན་དུ་རབ་ཏུ་མཛེས། །སེམས་ཅན་དཀོན་མཆོག་ཁྱོད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-91"/>“Lord whose speech is like the roar of a lion, Sage whose voice reverberates like thunder, Hero with the grace of the moon, Homage to you, O jewel for sentient beings.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-23">
+    <prop type="location-id">UT22084-059-001-92</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པས་བསྐུལ་བའི་ཚིགས་<tei:ref folio="F.3.a"/>སུ་བཅད་པ་འདི་དག་གིས་བསྐུལ་བར་ཐུགས་སུ་ཆུད་ནས་ཇི་ལྟར་སྐྱིལ་མོ་ཀྲུང་བཅས་པ་དེ་ཉིད་ཀྱི་ཏིང་ངེ་འཛིན་དེ་ལས་བཞེངས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-92"/>Thereupon, becoming aware of these verses of invocation uttered by Brahmā, lord of the Sahā world, the Bhagavān emerged from his meditative absorption while remaining cross-legged.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-24">
+    <prop type="location-id">UT22084-059-001-92</prop>
+    <tuv xml:lang="bo">
+                <seg>བཞེངས་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པ་ལ་སྦྲན་པའི་ཕྱིར་མགུར་བསལ་བའི་སྒྲ་མཛད་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Once he had emerged, the Bhagavān cleared his throat to summon Brahmā, lord of the Sahā world.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-25">
+    <prop type="location-id">UT22084-059-001-92</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པས་བཅོམ་ལྡན་འདས་ཏིང་ངེ་འཛིན་དེ་ལས་བཞེངས་ཏེ། ཇི་ལྟར་སྐྱིལ་མོ་ཀྲུང་བཅས་པ་དེ་ཉིད་ཀྱིས་བཞུགས་པ་མཐོང་ངོ་། །མཐོང་ནས་ཀྱང་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས། བཅོམ་ལྡན་འདས་ལ་ལན་གསུམ་བསྐོར་བ་བྱས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ནས་ཕྱོགས་གཅིག་ཏུ་འདུག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When Brahmā, lord of the Sahā world, saw that the Bhagavān had emerged from his absorption while remaining cross-legged, he approached the Bhagavān, circumambulated him three times, bowed his head at the feet of the Bhagavān, and sat down to one side.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-26">
+    <prop type="location-id">UT22084-059-001-93</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱོགས་གཅིག་ཏུ་འདུག་ནས་མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །གལ་ཏེ་ཞུས་ནས་ཞུ་བ་ལུང་བསྟན་པའི་སླད་དུ། བཅོམ་ལྡན་འདས་ཀྱིས་བདག་ལ་སྐབས་དབྱེ་བར་གནང་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ལ་བདག་ཕྱོགས་འགའ་ཞིག་ཞུ་ལགས་སོ། །དེ་སྐད་ཅེས་གསོལ་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-93"/>Once seated, Brahmā, lord of the Sahā world, said to the Bhagavān, “Were the Bhagavān to grant me a moment, I would like to request a teaching from the tathāgata, arhat, truly complete Buddha, regarding a certain point.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-27">
+    <prop type="location-id">UT22084-059-001-93</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །ཚངས་པ་ཞུ་བ་ལུང་བསྟན་པའི་ཕྱིར་དེ་བཞིན་གཤེགས་པས་རྟག་ཏུ་ཁྱོད་ལ་སྐབས་ཕྱེས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Bhagavān replied to Brahmā, lord of the Sahā world, “Brahmā, the Tathāgata always has time to grant you a teaching.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-28">
+    <prop type="location-id">UT22084-059-001-93</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚངས་པ་ཁྱོད་ཅི་དང་ཅི་འདོད་པ་དེ་བཞིན་གཤེགས་པ་ལ་ཞུས་ཤིག་དང་། ཞུས་པ་དེ་དང་དེ་ཉིད་ཀྱི་ལུང་བསྟན་པས་ངས་ཁྱོད་ཀྱི་སེམས་རངས་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Brahmā, you may ask the Tathāgata whatever you like, and I will oblige with a teaching that will delight you.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-29">
+    <prop type="location-id">UT22084-059-001-94</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་སྐབས་ཕྱེ་བས་མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དག་ཆོས་དུ་དང་ལྡན་ན་མྱུར་དུ་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་བ་ལགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-94"/>Granted the opportunity by the Bhagavān, Brahmā, lord of the Sahā world, asked the Bhagavān, “Bhagavān, do bodhisattva mahāsattvas require many dharmas to quickly reach the unsurpassable, truly complete awakening of buddhahood?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-30">
+    <prop type="location-id">UT22084-059-001-94</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་སྐད་ཅེས་གསོལ་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །ཚངས་པ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དག་ཆོས་གཅིག་དང་ལྡན་ན་མྱུར་དུ་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་<tei:ref folio="F.3.b"/>འཚང་རྒྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Bhagavān replied to Brahmā, lord of the Sahā world, “Brahmā, if bodhisattva mahāsattvas have just one dharma, they will quickly reach the unsurpassable, truly complete awakening of buddhahood.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-31">
+    <prop type="location-id">UT22084-059-001-94</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་གཅིག་གང་ཞེ་ན། འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What is that one dharma?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-32">
+    <prop type="location-id">UT22084-059-001-94</prop>
+    <tuv xml:lang="bo">
+                <seg>ལུས་ཀྱི་རྗེས་སུ་སོང་བའི་དྲན་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is mindfulness that observes the body.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-33">
+    <prop type="location-id">UT22084-059-001-94</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚངས་པ་བྱང་ཆུབ་སེམས་དཔའ་ལུས་ཀྱི་རྗེས་སུ་སོང་བའི་དྲན་པ་ཅི་ལྟ་བུ་ཡིན་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Brahmā, how do bodhisattvas mindfully observe the body?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-34">
+    <prop type="location-id">UT22084-059-001-94</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚངས་པ་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའ་ནི་འགྲོའོ་སྙམ་པའི་དྲན་པ་དང་ལྡན་པ་ཡིན་ཞིང་ཡང་དག་པར་ཇི་ལྟ་བ་བཞིན་དུ་རབ་ཏུ་ཤེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Brahmā, it is like this; when bodhisattvas think ‘I am going,’ they are mindful that they are going and recognize what they are doing exactly.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-35">
+    <prop type="location-id">UT22084-059-001-94</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྡོག་གོ་སྙམ་དུ་དྲན་པ་དང་ལྡན་པ་ཡིན་ཞིང་ཡང་དག་པར་ཇི་ལྟ་བ་བཞིན་དུ་རབ་ཏུ་ཤེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When they come back, they are mindful that they are coming back, and they recognize what they are doing exactly.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-36">
+    <prop type="location-id">UT22084-059-001-94</prop>
+    <tuv xml:lang="bo">
+                <seg>ཉལ་ལོ་སྙམ་པ་དང་། ལྡང་ངོ་སྙམ་པ་དང་། འཆག་གོ་སྙམ་པ་དང་། འདུག་གོ་སྙམ་དུ་དྲན་པ་དང་ལྡན་པ་ཡིན་ཞིང་ཡང་དག་པར་ཇི་ལྟ་བ་བཞིན་དུ་རབ་ཏུ་ཤེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When they lie down, stand, walk, or sit, they are mindful that they are lying down, standing, walking, or sitting, and they recognize what they are doing exactly.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-37">
+    <prop type="location-id">UT22084-059-001-95</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་གཅིག་པུ་དབེན་པར་འདུག་སྟེ་ནང་དུ་ཡང་དག་བཞག་ནས་འཁྲུག་པ་མེད་པའི་ཡིད་ཀྱིས་ལུས་འདི་ཉིད་ལ་འདི་ལྟ་སྟེ། ཀྱེ་མ་ལུས་འདི་ནི་མི་བརྟན་པ། མི་རྟག་པ། རང་བཞིན་གྱིས་ཉམ་ཆུང་བ། སྙིང་པོ་མེད་པ། ཐེར་ཟུག་མ་ཡིན་པ། རྣམ་པར་འཐོར་བའི་ཆོས་ཅན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-95"/>“Sitting alone in seclusion, absorbed inwardly, with a peaceful mind, they reflect on the body as follows: ‘Alas, the body is unstable, impermanent, and inherently weak.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-38">
+    <prop type="location-id">UT22084-059-001-95</prop>
+    <tuv xml:lang="bo">
+                <seg>རྣམ་པར་འཇིག་པའི་ཆོས་ཅན། རྟེན་ཅིང་འབྲེལ་པར་འབྱུང་བ། སྒྱུ་མ་དང་འདྲ་བ། ཟིལ་པའི་ཐིགས་པ་དང་འདྲ་བ། གཡོ་བ་མི་གནས་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is without essence, in constant flux, subject to disintegration, subject to destruction, dependently originated, like an illusion, and like a dewdrop.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-39">
+    <prop type="location-id">UT22084-059-001-95</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་གཙང་བ། རྣག་གི་དྲི་མ་ཅན། རླུང་དང་ཉི་མས་མཐར་ཐུག་པ། མཐར་འདུལ་བ། མཐར་རྡུལ་དུ་འགྱུར་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is unstable and impure, maculated with pus, eventually overcome by wind and sun, at the end reduced to dust, and ultimately repulsive.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-40">
+    <prop type="location-id">UT22084-059-001-95</prop>
+    <tuv xml:lang="bo">
+                <seg>ངན་སྐྱུགས་ཀྱི་མཐར་ཐུག་པ། ནད་མང་བ། གནོད་པ་ཅན། འགོ་བའི་ནད་མང་བ། ན་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is vulnerable to many diseases, full of malignancy, beset by headaches, and is by its nature ruined by illness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-41">
+    <prop type="location-id">UT22084-059-001-95</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇིག་པའི་ངང་ཅན། རུས་པ་བསོགས་པ། དྲི་ང་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This stinking, oozing pile of bones needs so much attentive care!’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-42">
+    <prop type="location-id">UT22084-059-001-96</prop>
+    <tuv xml:lang="bo">
+                <seg>འཛག་པ་ཅན་བསྒྲིམས་ཏེ་རིམ་གྲོ་བྱེད་དགོས་པ་ཡིན་པར་ཡང་དག་པའི་དྲན་པས་ཡང་དག་པར་ཇི་ལྟ་བ་བཞིན་དུ་སོ་སོར་རྟོག་གོ། །དེ་དེ་ལྟར་ཡང་དག་པའི་དྲན་པས་ལུས་ཀྱི་སྐྱོན་རྣམས་ཡང་དག་པར་ཇི་ལྟ་བ་བཞིན་དུ་རབ་ཏུ་ཤེས་པས་ལུས་ལ་ཆགས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-96"/>“By being mindful, bodhisattvas analyze these faults of the body exactly as they are.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-43">
+    <prop type="location-id">UT22084-059-001-96</prop>
+    <tuv xml:lang="bo">
+                <seg>ལུས་ལ་ཀུན་ཏུ་འདོད་ཆགས་དང་། ལུས་ལ་བདག་གི་ཉིད་ཡིན་པ་མི་བསྐྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In this way they are not attached to the body, they do not desire the body, and they do not grasp the body as theirs.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-44">
+    <prop type="location-id">UT22084-059-001-96</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལུས་ལ་མི་ལྟ་བས་སྲོག་ལ་ཆགས་པ་དང་། སྲོག་ལ་ཀུན་ཏུ་འདོད་ཆགས་དང་། སྲོག་ལ་བདག་གི་ཉིད་ཡིན་པ་མི་བསྐྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Because they do not esteem the body, they are not attached to life, they do not desire life, and they do not grasp life as theirs.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-45">
+    <prop type="location-id">UT22084-059-001-96</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལུས་དང་སྲོག་ལ་མི་ལྟ་བར་ཆོས་གོས་ངན་ངོན་དང་། ཁ་ཟས་ངན་ངོན་དང་། མལ་ཆ་དང་། སྟན་ངན་ངོན་དང་། ན་བའི་གསོས་སྨན་དང་། <tei:ref folio="F.4.a"/>
+                </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Without esteeming the body or life, they are content with the bare necessities when it comes to monastic robes, food, bedding, seating, medicines, and basic goods.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-46">
+    <prop type="location-id">UT22084-059-001-96</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡོ་བྱད་ངན་ངོན་ཙམ་དག་གིས་ཆོག་པར་འཛིན་པ་ཡིན་ནོ། །དེ་ཚངས་པ་མཚུངས་པར་སྤྱོད་པ་རྣམས་ཀྱི་བྱ་བ་གང་དག་ཡིན་པ་དོན་དང་ལྡན་པ་རྣམས་སམ། དགེ་བ་དང་ལྡན་པ་རྣམས་ཀྱང་དེ་དག་ལ་སྟོང་པར་བྱེད་དེ། ཡོངས་སུ་མི་སྐྱོ་ཞིང་ཡོངས་སུ་ཡིད་འཆད་པ་མེད་ལ་ཡོངས་སུ་སྐྱོ་བའི་སེམས་མི་བསྐྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Every activity undertaken by those engaged in the spiritual life—even those that are beneficial or virtuous—are seen as empty, yet they do not grow weary and they do not despair, and their minds are not burdened with melancholy.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-47">
+    <prop type="location-id">UT22084-059-001-97</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་མཁན་པོ་དང་སློབ་དཔོན་གྱི་གན་དུ་འགྲོ་ན་དྲན་པ་དང་ལྡན་ཞིང་འདི་སྙམ་དུ་སེམས་ཏེ། མཁན་པོ་དག་ནི་བསྙེན་པར་དཀའ་བའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-97"/>“When they go before preceptors or teachers, they are mindful and think, ‘To meet a preceptor is rare.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-48">
+    <prop type="location-id">UT22084-059-001-97</prop>
+    <tuv xml:lang="bo">
+                <seg>སློབ་དཔོན་དག་ནི་བསྙེན་པར་དཀའ་བ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>To meet a teacher is rare.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-49">
+    <prop type="location-id">UT22084-059-001-97</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་དེར་སོང་བ་ན་སྡིག་པ་མི་དགེ་བ་ཀུན་ཏུ་སྤྱོད་པ་འགའ་ཞིག་གིས་བདག་ལ་གླེངས་ཤིང་དྲན་པར་བྱས་ན་མི་རུང་ངོ་སྙམ་ནས་དེ་རྒྱུ་དེ་དང་རྐྱེན་དེ་དང་གཞི་དེས་བསླབ་པ་རྣམས་ལ་གུས་པ་བྱེད་པར་འགྱུར་ཏེ། རྟུན་པར་བྱེད་པ་དང་། ལེགས་པར་བྱ་བ་བྱེད་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If I were to go there, and they were to mention or make me recall some wrong or unwholesome deed that I have committed, that would be bad.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-50">
+    <prop type="location-id">UT22084-059-001-98</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞི་བ་རྣལ་དུ་བྱེད་པ་དང་། ཤིན་ཏུ་ཡོངས་སུ་མཐར་ཐུག་པར་བྱེད་པ་ཅན་དུ་འགྱུར་རོ། །དེ་ལ་བསླབ་པ་རྣམས་ལ་གུས་པ་བྱེད་པ་ཉིད་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-98"/>“That consideration is the cause, condition, and foundation for observing the precepts with respect, with scrupulousness, with wholesome deeds, with quiet composure, and with great thoroughness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-51">
+    <prop type="location-id">UT22084-059-001-98</prop>
+    <tuv xml:lang="bo">
+                <seg>རྟུན་པར་བྱེད་པ་ཉིད་དང་། ལེགས་པར་བྱ་བ་བྱེད་པ་ཉིད་དང་། ཞི་བ་རྣལ་དུ་བྱེད་པ་ཉིད་དང་། ཤིན་ཏུ་ཡོངས་སུ་མཐར་ཐུག་པར་བྱེད་པ་ཉིད་ཀྱིས་མཁན་པོ་དང་། སློབ་དཔོན་གྱི་གན་དུ་འགྲོ་བ་ན་བག་ཚ་བ་མེད་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Observing the precepts with respect, with scrupulousness, with wholesome deeds, with quiet composure, and with great thoroughness, they are able to go before preceptors and teachers without any anxiety or timidity.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-52">
+    <prop type="location-id">UT22084-059-001-98</prop>
+    <tuv xml:lang="bo">
+                <seg>བག་འཁུམས་པ་མེད་པར་འགྲོ་ཞིང་མི་འཇིགས་པ་དང་། ལྷན་ཅིག་ཏུ་བྱུང་བའི་རྒོད་པ་ཡང་མི་སྟོན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are fearless and do not even show their burgeoning excitement.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-53">
+    <prop type="location-id">UT22084-059-001-98</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཅིའི་ཕྱིར་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Why?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-54">
+    <prop type="location-id">UT22084-059-001-98</prop>
+    <tuv xml:lang="bo">
+                <seg>གུས་པ་དང་བཅས་ཤིང་ཞེ་ས་དང་བཅས་པ་ཡིན་ལ། རིགས་ཀྱི་བག་མ་བཞིན་དུ་འཛེམ་པ་དང་ལྡན་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Because they are respectful, deferential, and cautious, like a bride from a good family.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-55">
+    <prop type="location-id">UT22084-059-001-98</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལ་འཛེམ་པ་དང་ལྡན་པས་ལུས་ཀྱི་སྐྱོན་དང་། ལུས་ཀྱི་ཉེས་པར་སྤྱོད་པ་གང་དག་ཡིན་པ་དེ་དག་ཐམས་ཅད་ཀྱི་ཐམས་ཅད་དུ་ཡོངས་སུ་སྤོང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Because they are cautious, they avoid each and every kind of fault and misdeed of the body.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-56">
+    <prop type="location-id">UT22084-059-001-99</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚངས་པ་བྱང་ཆུབ་སེམས་དཔའ་ལུས་ཀྱི་སྐྱོན་དང་ལུས་ཀྱི་ཉེས་པར་སྤྱོད་པ་དེ་དག་གང་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-99"/>“Brahmā, what are the faults and misdeeds of the body for bodhisattvas?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-57">
+    <prop type="location-id">UT22084-059-001-99</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚངས་པ་སྲོག་གཅོད་པ་ནི་བྱང་ཆུབ་སེམས་དཔའི་ལུས་ཀྱི་སྐྱོན་དང་ལུས་ཀྱི་ཉེས་པར་སྤྱོད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Brahmā, killing is a fault and a misdeed of the body for bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-58">
+    <prop type="location-id">UT22084-059-001-99</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚངས་པ་མ་བྱིན་པར་ལེན་པ་དང་། མི་ཚངས་པར་སྤྱོད་པ་ནི་བྱང་ཆུབ་སེམས་དཔའི་ལུས་ཀྱི་སྐྱོན་དང་ལུས་ཀྱི་ཉེས་པར་སྤྱོད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Brahmā, for bodhisattvas taking what is not given and unchaste conduct are faults and misdeeds of the body.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-59">
+    <prop type="location-id">UT22084-059-001-99</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚངས་པ་བྱང་ཆུབ་སེམས་དཔའ་ཅི་ལྟར་ན་སྲོག་<tei:ref folio="F.4.b"/>གཅོད་པ་སྤོང་བ་ཡིན་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Brahmā, how do bodhisattvas renounce killing?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-60">
+    <prop type="location-id">UT22084-059-001-99</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚངས་པ་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའ་ནི་འདོད་ཆགས་ཀྱི་དབང་གིས་སྲོག་ཆགས་ཀྱི་སྲོག་གཅོད་པར་མི་བྱེད། ཞེ་སྡང་གི་དབང་དང་གཏི་མུག་གི་དབང་གིས་སྲོག་ཆགས་ཀྱི་སྲོག་གཅོད་པར་མི་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Brahmā, bodhisattvas do not kill living creatures under the sway of attachment, nor do they kill under the sway of hatred or delusion.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-61">
+    <prop type="location-id">UT22084-059-001-99</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་སེམས་ཅན་གཞན་དག་དང་གང་ཟག་གཞན་རྣམས་ལ་བདག་ཙམ་དུ་འདུ་ཤེས་པར་བྱེད་ཅིང་སྡུག་པ་ཙམ་དུ་འདུ་ཤེས་པར་བྱེད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They hold other sentient beings and other people dear, just as they hold themselves and those they love dear.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-62">
+    <prop type="location-id">UT22084-059-001-99</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་ཉིད་ཀྱིས་སེམས་ཅན་གཞན་དག་དང་། གང་ཟག་གཞན་རྣམས་ཀྱི་སྲོག་གཅོད་པར་མི་བྱེད་དོ། །གཞན་དག་ཀྱང་སྲོག་གཅོད་དུ་མི་འཇུག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They do not themselves kill other sentient beings or other people, nor do they cause others to kill, nor do they rejoice in any act of killing done by others.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-63">
+    <prop type="location-id">UT22084-059-001-99</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞན་དག་སྲོག་གཅོད་པ་ལ་ཡང་རྗེས་སུ་ཡི་རང་བར་མི་བྱེད་དོ། །བདག་གིས་ཀྱང་མི་གཅོད་དོ། །གཞན་དག་ཀྱང་གཅོད་དུ་མི་འཇུག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They do not themselves cut beings, nor do they cause others to cut them, nor do they rejoice in any cutting done by others.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-64">
+    <prop type="location-id">UT22084-059-001-99</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞན་དག་གཅོད་པ་ལ་ཡང་རྗེས་སུ་ཡི་རང་བར་མི་བྱེད་དོ། །བདག་ཀྱང་མི་རྡེག་གོ། །གཞན་དག་ཀྱང་རྡེག་ཏུ་མི་འཇུག་གོ། །གཞན་དག་རྡེག་པར་བྱེད་པ་ལ་ཡང་རྗེས་སུ་ཡི་རང་བར་མི་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They do not themselves strike, nor do they cause others to strike, nor do they rejoice when others strike.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-65">
+    <prop type="location-id">UT22084-059-001-100</prop>
+    <tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་ན་མ་བྱིན་པ་ལེན་པ་སྤོང་བ་ཡིན་ཞེ་ན། ཚངས་པ་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའ་ནི་སེམས་ཅན་རྣམས་ཀྱི་འཚོ་བའི་ཡོ་བྱད་གང་དག་ཡིན་པ་འདི་ལྟ་སྟེ། གསེར་དང་། ནོར་བུ་དང་། མུ་ཏིག་དང་། བཻ་དཱུརྱ་དང་། དུང་དང་། མན་ཤེལ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-100"/>“How do they renounce taking what is not given?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-66">
+    <prop type="location-id">UT22084-059-001-100</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱི་རུ་དང་། ས་ལེ་སྦྲམ་དང་། དངུལ་ལ་སོགས་པ་དང་། གོས་དང་། རྒྱན་གྱི་རྣམ་པ་དག་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Brahmā, bodhisattvas have no desire for the worldly possessions of beings, such as gold, jewels, pearls, beryl, conch shells, crystal, coral, gold dust, silver, and so on, or for clothing, adornments of various kinds, cattle, grain, stores, or for any kind of pleasing thing.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-67">
+    <prop type="location-id">UT22084-059-001-100</prop>
+    <tuv xml:lang="bo">
+                <seg>ནོར་དང་། འབྲུ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Since they do not even give them a thought, they do not steal or take them.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-68">
+    <prop type="location-id">UT22084-059-001-100</prop>
+    <tuv xml:lang="bo">
+                <seg>མཛོད་དང་། བདེ་བའི་རྣམ་པ་དེ་དག་ལ་ཆགས་པ་མི་སྐྱེད། དེ་དག་ལ་རྣམ་པར་རྟོག་པར་མི་བྱེད་ཅིང་རྐུ་འཕྲོག་མི་བྱེད་དོ། །རྐུ་འཕྲོག་བྱེད་དུ་མི་འཇུག་གོ། །རྐུ་འཕྲོག་བྱེད་པ་རྣམས་ལ་རྗེས་སུ་ཡི་རང་བར་མི་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They do not steal, nor do they cause others to steal, nor do they rejoice in the act of stealing.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-69">
+    <prop type="location-id">UT22084-059-001-100</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་གྲོང་ན་ཡོད་པའམ། དགོན་པ་ན་ཡོད་པ་མ་བྱིན་ཞིང་མ་གནང་བ་རྩྭའི་འདབ་མ་ཙམ་ཡང་ལེན་པར་མི་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Whether they are in a city or a remote place, they do not take anything, not even a blade of grass, that has not been given to them.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-70">
+    <prop type="location-id">UT22084-059-001-101</prop>
+    <tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་ན་མི་ཚངས་པར་སྤྱོད་པ་སྤོང་བ་ཡིན་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-101"/>“How do they renounce unchaste conduct?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-71">
+    <prop type="location-id">UT22084-059-001-101</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚངས་པ་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའ་དབང་པོ་རྣམས་ཀྱི་སྒོ་ལེགས་པར་བསྲུངས་ཤིང་གནས་པ་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Brahmā, bodhisattvas always protect the doors of their sense faculties.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-72">
+    <prop type="location-id">UT22084-059-001-101</prop>
+    <tuv xml:lang="bo">
+                <seg>ལེགས་པར་བསྡམས་པ་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are thoroughly restrained.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-73">
+    <prop type="location-id">UT22084-059-001-101</prop>
+    <tuv xml:lang="bo">
+                <seg>འཐུན་པའི་གནས་སུ་རྒྱུ་བ་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They only go to suitable places.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-74">
+    <prop type="location-id">UT22084-059-001-101</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤིན་ཏུ་བསྲུང་བའི་དྲན་པ་དང་ལྡན་པ་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are mindful to be well guarded.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-75">
+    <prop type="location-id">UT22084-059-001-101</prop>
+    <tuv xml:lang="bo">
+                <seg>རྟག་ཏུ་བསྲུང་བའི་དྲན་པ་དང་ལྡན་པ་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are mindful to always be guarded.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-76">
+    <prop type="location-id">UT22084-059-001-101</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དྲན་པས་ཡིད་ཀུན་ཏུ་<tei:ref folio="F.5.a"/>བསྲུང་བ་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And with such mindfulness, their minds are safeguarded.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-77">
+    <prop type="location-id">UT22084-059-001-101</prop>
+    <tuv xml:lang="bo">
+                <seg>ལུས་དང་ངག་ཤིན་ཏུ་བསྡམས་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They have control over their bodies and their speech.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-78">
+    <prop type="location-id">UT22084-059-001-101</prop>
+    <tuv xml:lang="bo">
+                <seg>འཐུན་པའི་གནས་སུ་རྒྱུ་ལ་དྲན་པ་དང་ལྡན་པ་ཡིན་ཞིང་འདི་སྙམ་དུ་ཡང་སེམས་བསྐྱེད་དོ། །མི་ཞིག་གིས་བྱེ་མ་ཞིབ་མོ་ཤིན་ཏུ་བསྲེགས་པ་ལག་པ་གཉིས་ཀྱི་སྙིམ་པས་བླངས་ཏེ་མིག་བཀང་བ་ནི་སླའི། ཆགས་པའི་སེམས་ཀྱིས་ཡུལ་གྱི་བཟང་མོ་ལ་ལྟ་བ་ནི་དེ་ལྟ་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Being mindful to visit only suitable places, they develop the outlook that it would be preferable to take burning hot sand in their cupped hands and pour it into their own eyes than to look at a beautiful local woman with lust.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-79">
+    <prop type="location-id">UT22084-059-001-101</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཅིའི་ཕྱིར་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Why?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-80">
+    <prop type="location-id">UT22084-059-001-101</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་ཡུལ་གྱི་བཟང་མོ་ལ་བལྟས་པས་ཡུན་རིང་པོར་ཕུང་ཞིང་བཅོམ་ལ་མ་རུང་བར་གྱུར་པའི་ཕྱིར་རོ་སྙམ་མོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Because they have the thought that looking at a beautiful local woman in such a way will lead to their ruin and downfall, and to being miserable for a long time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-81">
+    <prop type="location-id">UT22084-059-001-102</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དེ་ལྟར་ལུས་ལ་ལུས་ཀྱི་རྗེས་སུ་ལྟ་ཞིང་བཟའ་བ་དང་། བཏུང་བ་དང་། གནས་དང་། མལ་ཆ་དང་། སྟན་རྣམས་ལ་དྲན་པ་ལེགས་པར་གནས་པ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-102"/>“With physical observation of the body like this, they maintain proper mindfulness toward food, drink, lodging, bedding, and seating.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-82">
+    <prop type="location-id">UT22084-059-001-102</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དག་ལ་སྤྱོད་པ་ན་རོ་མྱོང་བར་མི་བྱེད་ཅིང་ཆགས་པའི་སེམས་མེད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They make use of these things, but they do not relish them and they are not attached to them.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-83">
+    <prop type="location-id">UT22084-059-001-102</prop>
+    <tuv xml:lang="bo">
+                <seg>གལ་ཏེ་དེ་ཡོངས་སུ་སྤྱོད་པ་ན་བདེ་བ་སྐྱེད་པ་ལྟ་ན་དེས་དེ་ལ་འདི་ལྟར་ཉེ་བར་བརྟག་པར་བྱ་སྟེ། བདེ་བར་སྣང་བ་འདི་ནི་བཟློག་པའི་སྒོ་ནས་སྡུག་བསྔལ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If they find themselves really relishing them, then they should reflect like this: ‘That which appears to be pleasurable turns out to be the opposite—suffering.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-84">
+    <prop type="location-id">UT22084-059-001-102</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁམས་གསུམ་པ་འདི་ན་འདུས་བྱས་ཀྱི་དངོས་པོ་བདེ་བ་གང་ཡང་མེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There is no conditioned entity in the three realms that can really bring happiness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-85">
+    <prop type="location-id">UT22084-059-001-102</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཅིའི་ཕྱིར་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Why?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-86">
+    <prop type="location-id">UT22084-059-001-102</prop>
+    <tuv xml:lang="bo">
+                <seg>འདུས་བྱས་མི་རྟག་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Because that which is conditioned is impermanent.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-87">
+    <prop type="location-id">UT22084-059-001-102</prop>
+    <tuv xml:lang="bo">
+                <seg>མཁས་པའི་རང་བཞིན་ཅན་དག་དངོས་པོ་མི་རྟག་པ་རྣམས་ལ་བདེ་བའི་འདུ་ཤེས་ཇི་ལྟར་སྐྱེད་སྙམ་དུ་བརྟག་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How can those who are intelligent by nature find happiness in impermanent things?’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-88">
+    <prop type="location-id">UT22084-059-001-103</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚངས་པ་གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་ཡོངས་སུ་སྤྱོད་པ་ན་སྡུག་བསྔལ་ཁོ་ན་སྐྱེ་བའི་བདེ་བ་ནི་མ་ཡིན་ཏེ། སྡུག་བསྔལ་དེས་ཀྱང་ཡོངས་སུ་གནོན་ཅིང་ཉོན་མོངས་ན་དེས་དེ་ལ་སེམས་འདི་ལྟར་ཉེ་བར་གཞག་པར་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-103"/>“Brahmā, if bodhisattvas are thoroughly engaged in practice and become oppressed by the sadness that ‘there is only suffering and no happiness,’ they should counter that affliction with the consideration that since this body requires regulation and development, it needs bribery for success.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-89">
+    <prop type="location-id">UT22084-059-001-103</prop>
+    <tuv xml:lang="bo">
+                <seg>ལུས་འདི་ནི་བསྒྲིམས་ཏེ་ཡོངས་སུ་བསྐྱེད་དགོས་པ། གསུག་གིས་བསྒྲུབ་དགོས་པ་སྟེ། འདི་ནི་སྡུག་བསྔལ་རྩོམ་པས་གཟུང་བར་མི་ནུས་ཀྱི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This body cannot be sustained with only painful exertion.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-90">
+    <prop type="location-id">UT22084-059-001-103</prop>
+    <tuv xml:lang="bo">
+                <seg>བདེ་བ་རྩོམ་པས་གཟུང་བ་བྱ་བ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It must be sustained with happy exertion.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-91">
+    <prop type="location-id">UT22084-059-001-103</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གི་ལུས་བརྟན་ཞིང་འཚོ་བ་འདིས་དགེ་བའི་ཆོས་རྣམས་བསྒྲུབ་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With a stable body through this life, one can achieve virtuous qualities.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-92">
+    <prop type="location-id">UT22084-059-001-103</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔེར་ན་རྙེད་པ་འདོད་པའི་ཚོང་པ་ཁུར་ཁལ་རྣམས་སྟོང་བྲན་བྱེད་བཅོས་ལེགས་བྱེད་པ་ནི་ཁུར་ཁལ་རྣམས་བརྒྱན་པའི་ཕྱིར་མ་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>By analogy, a merchant who seeks profit may hire a thousand porters and compensate them well.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-93">
+    <prop type="location-id">UT22084-059-001-103</prop>
+    <tuv xml:lang="bo">
+                <seg>བདེ་བར་བྱ་བའི་ཕྱིར་མ་ཡིན་གྱི་གཞན་དུ་ན་ཇི་ཙམ་དུ་ཁལ་བཀལ་བ་བསྐུར་བའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He does not do so in order to enrich the porters with adornments, or in order to make them happy, but rather to have the loads carried.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-94">
+    <prop type="location-id">UT22084-059-001-103</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་དུ་བྱང་ཆུབ་སེམས་དཔའ་ཁ་ཟས་ཟ་བ་ཡང་ལུས་བརྒྱན་པའི་ཕྱིར་ཟས་ཟ་བ་མ་ཡིན། ལུས་བདེ་བར་བྱ་བའི་ཕྱིར་<tei:ref folio="F.5.b"/>མ་ཡིན་ཏེ། གཞན་དུ་ན་ཇི་ཙམ་ལུས་དང་འབྲེལ་བའི་དགེ་བའི་ཕྱོགས་བསྒྲལ་བའི་ཕྱིར་རོ་སྙམ་དུ་སེམས་ཉེ་བར་གཞག་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Similarly, when bodhisattvas eat food, they do not eat in order to beautify the body or to please the body, but rather in order to be able to do those virtuous activities that require a body and that lead to liberation.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-95">
+    <prop type="location-id">UT22084-059-001-106</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚངས་པ་གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་དེ་བཞིན་གཤེགས་པས་གསུངས་པའི་གཉེན་པོས་སེམས་ཤེས་པར་བྱེད་མི་ནུས་ན། དེས་འདི་སྙམ་དུ་བསམ་པར་བྱ་སྟེ། སེམས་ཞེས་བྱ་བ་འདིས་ནི་མཐར་ཕྱིན་པར་དཀའ་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-106"/>“Brahmā, if bodhisattvas are not able to understand the mind with the antidotes taught by the Tathāgata, then they should reflect as follows: ‘that which we call “the mind” is difficult to perfect.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-96">
+    <prop type="location-id">UT22084-059-001-106</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་འཐུན་པར་འཛིན་པ། འཁོར་བ་ལ་མངོན་དུ་ཕྱོགས་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It grasps inappropriately.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-97">
+    <prop type="location-id">UT22084-059-001-106</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་བའི་ཕྱོགས་ལ་མི་ཕྱོགས་པ། ཡུལ་ལ་མངོན་དུ་ཕྱོགས་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is drawn toward saṃsāra and not toward that which is virtuous.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-98">
+    <prop type="location-id">UT22084-059-001-106</prop>
+    <tuv xml:lang="bo">
+                <seg>དབེན་པ་ལ་མི་ཕྱོགས་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is drawn toward society and not toward seclusion.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-99">
+    <prop type="location-id">UT22084-059-001-106</prop>
+    <tuv xml:lang="bo">
+                <seg>བདེ་བ་ལ་མངོན་དུ་ཕྱོགས་པ། སྡུག་བསྔལ་ལ་མི་ཕྱོགས་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is drawn toward pleasure and not toward suffering.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-100">
+    <prop type="location-id">UT22084-059-001-106</prop>
+    <tuv xml:lang="bo">
+                <seg>སྨྲ་བ་ལ་དགའ་བ་ལ་མངོན་དུ་ཕྱོགས་པ། དེ་ཁོ་ན་ལ་རྣམ་པར་ལྟ་བ་ལ་མི་ཕྱོགས་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is drawn toward the joy of speaking and not toward the view of reality.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-101">
+    <prop type="location-id">UT22084-059-001-106</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་གཙང་བ་ལ་མངོན་དུ་ཕྱོགས་པ། གཙང་བ་ལ་མི་ཕྱོགས་པ། གདུལ་དཀའ་བ། གཟུང་དཀའ་བ། གནས་མེད་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is drawn toward the impure and not toward the pure.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-102">
+    <prop type="location-id">UT22084-059-001-106</prop>
+    <tuv xml:lang="bo">
+                <seg>རྟེན་མེད་པ། གསོག །གསོབ། སྐད་ཅིག་པ། རྒྱུ་དང་རྐྱེན་ཚོགས་པ་ལས་བྱུང་བ་ཡིན་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is hard to control, it is hard to catch, for it is baseless, void, hollow, momentary, and arises from combinations of causes and conditions.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-103">
+    <prop type="location-id">UT22084-059-001-106</prop>
+    <tuv xml:lang="bo">
+                <seg>མཁས་པའི་རང་བཞིན་ཅན་སུ་ཞིག་འདི་ལྟ་བུའི་རང་བཞིན་ཅན་གྱི་སེམས་ཀྱི་དབང་དུ་འགྲོ་ཞིང་རྗེས་སུ་འཇུག་སྙམ་དུ་བསམ་མོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Who among those who are intelligent by nature would let themselves be led astray by the mind, which has such a nature?’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-104">
+    <prop type="location-id">UT22084-059-001-106</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དེ་ལྟར་སེམས་དྲན་པ་ཉེ་བར་གནས་པས་སེམས་གདུལ་བའི་ཕྱིར་ནན་ཏན་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They think in this way and, by developing awareness of the mind like this, they make effort to tame the mind.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-105">
+    <prop type="location-id">UT22084-059-001-107</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་སེར་སྣའི་སེམས་གདུལ་བའི་ཕྱིར་སྦྱིན་པ་སྦྱིན་པར་བྱེད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-107"/>“In order to tame the tendency toward miserliness, they practice giving.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-106">
+    <prop type="location-id">UT22084-059-001-107</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐ་ན་ཁམ་གཅིག་ཙམ་མམ། རྒྱ་ཤུག་ཙམ་མམ། མོན་སྲན་གྲེའུ་ཙམ་མམ། ཏིལ་འབྲུ་ཙམ་ཡང་རུང་། དེ་ཡང་ཐམས་ཅད་ལ་སྦྱིན་པར་བྱེད་ཀྱི། སྡུག་པ་རྣམས་ལ་མ་ཡིན། འདྲིས་པ་རྣམས་ལ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Even giving a single mouthful of food, just a berry, a bean, or a grain of sesame, is enough, so long as it is offered to anyone, and not just to those whom one already holds dear or with whom one is already acquainted.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-107">
+    <prop type="location-id">UT22084-059-001-110</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་འཆལ་བའི་ཚུལ་ཁྲིམས་ཀྱི་སེམས་གདུལ་བའི་ཕྱིར་ཚུལ་ཁྲིམས་བསྲུང་སྟེ། ལུས་དང་། ངག་དང་། ཡིད་ཀྱི་སྐྱོན་མེད་པར་བྱེད་པ་ཡིན། འདྲེན་མར་མི་བྱེད་པ་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-110"/>“In order to tame the tendency toward immoral conduct, they guard their discipline and do not commit misdeeds of body, speech, or mind.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-108">
+    <prop type="location-id">UT22084-059-001-110</prop>
+    <tuv xml:lang="bo">
+                <seg>ནག་ནོག་ཅན་དུ་མི་བྱེད་པ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They do not get mixed up with or stained by such faults.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-109">
+    <prop type="location-id">UT22084-059-001-110</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚུལ་ཁྲིམས་དེས་བདག་ལ་སྟོད་པར་མི་བྱེད། གཞན་ལ་སྨོད་པར་མི་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Also, those with moral discipline do not praise themselves or disparage others.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-110">
+    <prop type="location-id">UT22084-059-001-111</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་གནོད་སེམས་ཀྱི་སེམས་འདུལ་བའི་ཕྱིར་བཟོད་པ་སྒོམ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-111"/>“In order to tame the tendency toward ill will, they cultivate forbearance.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-111">
+    <prop type="location-id">UT22084-059-001-111</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་གྲོང་ངམ་གྲོང་རྡལ་དུ་ཞུགས་པ་ན་གཤེ་ཡང་ཅི་མི་སྙམ་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When they enter cities or towns, they take no notice of the abuse they receive.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-112">
+    <prop type="location-id">UT22084-059-001-111</prop>
+    <tuv xml:lang="bo">
+                <seg>བརྒྱབ་ཀྱང་རུང་རྡེག་ཀྱང་རུང་། སྡིགས་ཀྱང་རུང་། རྣམ་པར་འཇོམས་ཀྱང་རུང་། སྨོད་ཀྱང་<tei:ref folio="F.6.a"/>རུང་སྟེ་ཅི་མི་སྙམ་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Even if they are struck, beaten, threatened, overpowered, and insulted, they think nothing of it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-113">
+    <prop type="location-id">UT22084-059-001-111</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀྱེ་མ་དགེ་སྦྱོང་འདི་ནི་མགོ་རེག་ངན་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Even if they are harangued by local people, saying, ‘Oh these śrāmaṇas with shaved heads are bad!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-114">
+    <prop type="location-id">UT22084-059-001-111</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀྱེ་མ་དགེ་སྦྱོང་འདི་ནི་མགོ་རེག་མི་སྡུག་པ་ངན་པའོ་ཞེས་འཇིག་རྟེན་གྱིས་དཔྱས་ཀྱང་ཅི་མི་སྙམ་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Oh, these śrāmaṇas with ugly shaved heads are bad!’—they think nothing of it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-115">
+    <prop type="location-id">UT22084-059-001-111</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡང་དག་པར་མ་ཡིན་པས་སྐུར་ཀྱང་བཟོད་པར་བྱེད་ཅིང་དང་དུ་ལེན་ལ། ལས་བདག་གིར་བྱ་བ་ཉིད་ལ་རྟོན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Even when they are slandered with false accusations, they accept it with forbearance and remain focused on what they have to do.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-116">
+    <prop type="location-id">UT22084-059-001-111</prop>
+    <tuv xml:lang="bo">
+                <seg>བཟོད་པ་དེས་ཀྱང་བདག་ལ་སྟོད་པར་མི་བྱེད། གཞན་ལ་སྨོད་པར་མི་བྱེད་དོ། །དེ་ལེ་ལོའི་སེམས་གདུལ་བའི་ཕྱིར་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And those with forbearance do not praise themselves or disparage others.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-117">
+    <prop type="location-id">UT22084-059-001-113</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་ཀྱི་ཕྱོགས་ཀྱི་ཆོས་མ་ཐོབ་པ་རྣམས་ཐོབ་པར་བྱ་བའི་ཕྱིར་དང་། ཐོབ་པ་རྣམས་འཕེལ་བར་བྱ་བའི་ཕྱིར་དང་། འཕེལ་བ་རྣམས་ཡོངས་སུ་སྨིན་པར་བྱ་བའི་ཕྱིར་དང་། ཡོངས་སུ་སྨིན་པ་རྣམས་ཡང་དག་པར་གཟུང་བར་བྱ་བའི་ཕྱིར་དང་། ཡང་དག་པར་གཟུང་བ་རྣམས་རྣམ་པར་དབྱེ་བའི་ཕྱིར་བརྩོན་འགྲུས་རྩོམ་མོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-113"/>“In order to tame the tendency toward indolence, to attain those qualities oriented toward awakening that have not yet been attained, to develop those that have already been attained, to mature those that have been developed, to master those that have been matured, and to refine those that have been mastered, they apply effort.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-118">
+    <prop type="location-id">UT22084-059-001-113</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་སེམས་ཅན་གྱི་ཆེད་རྣམས་དང་སེམས་ཅན་གྱི་བྱ་བ་རྣམས་ལ་ཡོངས་སུ་མི་སྐྱོ་ཞིང་ཡོངས་སུ་ཡི་མི་ཆད་དེ། ཡོངས་སུ་སྐྱོ་བའི་སེམས་མི་སྐྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When acting for the sake of beings, they do not grow weary, they do not despair, and they do not lose heart.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-119">
+    <prop type="location-id">UT22084-059-001-113</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་གདོལ་པ་ལ་ཕན་གདགས་ཀྱང་རུང་། རྒྱལ་པོ་ལ་ཕན་གདགས་ཀྱང་རུང་། ཤིན་ཏུ་ལམ་རིང་པོར་ཡང་འགྲོ་སྟེ། ཐ་དད་པ་མི་དམིགས་ཤིང་རྒྱུན་མི་གཅོད་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Whether it is to benefit an outcaste or a king, they will always go the distance for them, without prejudice.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-120">
+    <prop type="location-id">UT22084-059-001-113</prop>
+    <tuv xml:lang="bo">
+                <seg>གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་སྡུག་བསྔལ་ཞིང་བཀྲེན་པའི་སེམས་ཅན་གྱི་དངོས་པོ་ཐམས་ཅད་ངན་པ་ཞིག་གིས་གཏམས་སམ། འབྱོར་ཅིང་ནོར་ཆེ་བ་གང་ཡང་རུང་བ་ཞིག་གིས་དངོས་པོ་བཟང་པོ་མཆོག་གྱ་ནོམ་པ་ཞིག་བསྟབས་ཀྱང་དེ་ལ་བྱང་ཆུབ་སེམས་དཔའ་སྙིང་བརྩེ་བའི་སེམས་བཞག་ལ་གུས་པར་བསྟོད་ཅིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Whether bodhisattvas are offered some base, second-rate object by a miserable and destitute person, or a supremely wonderful gift by a prosperous and wealthy person, bodhisattvas have compassion.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-121">
+    <prop type="location-id">UT22084-059-001-113</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡང་དག་པར་གཟེངས་བསྟོད་ལ། ཡང་དག་པར་འཛིན་དུ་གཞུག་ཅིང་དངོས་པོ་ངན་པ་དེ་བླང་བར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They praise them respectfully, encourage and reassure them, and accept the second-rate object.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-122">
+    <prop type="location-id">UT22084-059-001-113</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཅིའི་ཕྱིར་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Why?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-123">
+    <prop type="location-id">UT22084-059-001-113</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ། སྡུག་བསྔལ་བའི་སྦྱིན་པ་འདི་ནི་སྦྱིན་པ་བྱ་དཀའ་བ་ཡིན་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Because it is not an easy thing for a miserable person to give a gift.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-124">
+    <prop type="location-id">UT22084-059-001-114</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་རྣམ་པར་གཡེང་བའི་སེམས་གདུལ་བའི་ཕྱིར་བསམ་གཏན་ལ་བསམ་གཏན་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-114"/>“In order to tame the tendency toward distraction, they develop stable meditative concentration.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-125">
+    <prop type="location-id">UT22084-059-001-114</prop>
+    <tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་བསམ་གཏན་བྱེད་ཅེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How do they practice concentration?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-126">
+    <prop type="location-id">UT22084-059-001-114</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚངས་པ་འདི་ལ་བྱང་ཆུབ་སེམས་དཔའ་ནི་ཐོག་མ་ཁོ་ནར་ལུས་ལེགས་པར་བསྡམས་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Brahmā, first of all, bodhisattvas control their body well.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-127">
+    <prop type="location-id">UT22084-059-001-114</prop>
+    <tuv xml:lang="bo">
+                <seg>ལུས་དབེན་པར་གནས་པ་ཡིན་ནོ། །ལུས་ཀྱི་འདུ་འཛི་རྣམས་ཀྱང་<tei:ref folio="F.6.b"/>ཡོངས་སུ་སྤོང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Physically, they live in seclusion and avoid physical contact.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-128">
+    <prop type="location-id">UT22084-059-001-114</prop>
+    <tuv xml:lang="bo">
+                <seg>ལུས་ལ་ལྷག་པར་ཆགས་པ་ཡང་འདོར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They give up excessive attachment to the body.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-129">
+    <prop type="location-id">UT22084-059-001-114</prop>
+    <tuv xml:lang="bo">
+                <seg>ལུས་ལྕི་བ་འམ་ཡང་བ་ཡང་ཤེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When the body is lethargic or agitated, they are aware of it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-130">
+    <prop type="location-id">UT22084-059-001-114</prop>
+    <tuv xml:lang="bo">
+                <seg>ལུས་དང་འཐུན་པ་དང་། ལུས་འཚོ་བ་དང་། ལུས་ཀྱི་སྟོབས་ཀྱང་རབ་ཏུ་ཤེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They know what agrees with their body, what sustains it, and what makes it strong.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-131">
+    <prop type="location-id">UT22084-059-001-114</prop>
+    <tuv xml:lang="bo">
+                <seg>ངག་ལེགས་པར་བསྡམས་པ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Likewise, they control their speech well.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-132">
+    <prop type="location-id">UT22084-059-001-114</prop>
+    <tuv xml:lang="bo">
+                <seg>སྨྲ་བ་ཉུང་ཞིང་བརྗོད་པ་ཉུང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They speak little and their answers are short.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-133">
+    <prop type="location-id">UT22084-059-001-114</prop>
+    <tuv xml:lang="bo">
+                <seg>དོན་སྨྲ་བ་ཡིན་ཞིང་རིགས་པ་སྨྲ་བ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What they do say is meaningful and reasonable.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-134">
+    <prop type="location-id">UT22084-059-001-114</prop>
+    <tuv xml:lang="bo">
+                <seg>བྲེ་མོའི་གཏམ་ལ་དགའ་བ་ཡོངས་སུ་སྤོང་བ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They abandon any delight in frivolous talk.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-135">
+    <prop type="location-id">UT22084-059-001-114</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཡིད་ལེགས་པར་བསྡམས་པ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Likewise, they also control the mind well.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-136">
+    <prop type="location-id">UT22084-059-001-114</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་དགེ་བའི་རྣམ་པར་རྟོག་པ་ཐམས་ཅད་ཡོངས་སུ་སྤངས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They renounce all unwholesome thoughts.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-137">
+    <prop type="location-id">UT22084-059-001-115</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དེ་ལྟར་གནས་གསུམ་ཡོངས་སུ་དག་པས་སྔོན་པོ་དང་། སེར་པོ་དང་། དམར་པོ་དང་། དཀར་པོའི་གཟུགས་རྣམས་མི་སྣང་བར་བྱ་བའི་ཕྱིར་ནན་ཏན་བྱེད་དེ། དེ་དག་ལ་མཚན་མར་མི་འཛིན་མངོན་རྟགས་སུ་མི་འཛིན་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-115"/>“By purifying the three places in this way, they strive to make blue, yellow, red, and white visible forms disappear, not grasping at them as characteristics and not grasping at them as evidence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-138">
+    <prop type="location-id">UT22084-059-001-115</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱན་དང་གོས་ཀྱི་རྣམ་པ་སྣ་ཚོགས་དག་ལ་ཡང་མཚན་མར་མི་འཛིན་ཅིང་མངོན་རྟགས་སུ་མི་འཛིན་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They do not grasp onto the characteristics of adornments and clothing or take them as indications of some object.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-139">
+    <prop type="location-id">UT22084-059-001-115</prop>
+    <tuv xml:lang="bo">
+                <seg>གཟུགས་དང་། སྒྲ་དང་། དྲི་དང་། རོ་དང་། རེག་པ་སྣ་ཚོགས་པ་དག་ལ་ཡང་མཚན་མར་མི་འཛིན་ཅིང་མངོན་རྟགས་སུ་མི་འཛིན་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They do not grasp onto the characteristics of various visible forms, sounds, smells, tastes, and tangible objects, or take them as indications.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-140">
+    <prop type="location-id">UT22084-059-001-115</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐྱེས་པ་དང་། བུད་མེད་དང་། ཁྱེའུ་དང་། བུ་མོ་རྣམས་ལ་ཡང་མཚན་མར་མི་འཛིན་ཅིང་མངོན་རྟགས་སུ་མི་འཛིན་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They do not grasp onto the characteristics of men, women, boys, and girls, nor take them as indications.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-141">
+    <prop type="location-id">UT22084-059-001-118</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་གཅིག་པུ་དབེན་པར་འདུག་ནས་ནང་དུ་ཡང་དག་པར་འཇོག་ཅིང་སེམས་གནས་པར་བྱ་བའི་ཕྱིར་ནན་ཏན་བྱེད་དེ། མི་སྡུག་པ་ལ་དམིགས་པའམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-118"/>“They stay alone in seclusion, settle inwardly, and strive to make the mind stable.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-142">
+    <prop type="location-id">UT22084-059-001-118</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱམས་པ་ལ་དམིགས་པའམ། སྙིང་རྗེ་ལ་དམིགས་པའམ། ཡིད་འབྱུང་བར་འགྱུར་བ་གང་ཡང་རུང་བས་ཇི་ལྟར་ལུས་ཁེངས་པར་མི་འགྱུར་བ་དེ་ལྟར་དམིགས་པར་བྱེད་དེ། དབུགས་རྔུབ་པ་དང་འབྱུང་བ་མི་འགག་གོ། །རྒྱུན་རྣམས་ཀྱང་མི་འཆད་དོ་རླུང་འཁྲུག་པར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Whether taking repulsion as the object of meditation, loving-kindness as the object, or compassion as the object, any despondency that may arise is focused on in the same way, without any physical tension, and the flow of the in breath and the out breath is maintained without interruption so that the wind element is not disturbed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-143">
+    <prop type="location-id">UT22084-059-001-118</prop>
+    <tuv xml:lang="bo">
+                <seg>སེམས་ལོག་པར་རྣམ་པར་གཡེང་བར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Their minds do not veer off and get distracted.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-144">
+    <prop type="location-id">UT22084-059-001-118</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་འཆག་གམ། ཉལ་ལམ། འགྲེང་ངམ། འདུག་ཀྱང་དམིགས་པ་དེ་ཉིད་ཀྱིས་འདུག་གོ། །དེ་ཉིད་ལ་སེམས་གཏོད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Whether walking, lying, standing, or sitting, they stay with the object and they keep their mind focused on it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-145">
+    <prop type="location-id">UT22084-059-001-119</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚངས་པ་གང་གི་ཚེ། བྱང་ཆུབ་སེམས་དཔའ་དམིགས་པ་ལ་སེམས་བརྟན་པར་གྱུར་པ་དེའི་ཚེ་སེམས་ལ་སེམས་མཉམ་པར་འཇོག་སྟེ། སེམས་ཀྱིས་སེམས་<tei:ref folio="F.7.a"/>ཀྱང་མི་དམིགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-119"/>“Brahmā, once bodhisattvas have achieved stability of mind when focused on an object, they enter meditative equipoise on the mind, in which even the mind is not apprehended as an object by the mind.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-146">
+    <prop type="location-id">UT22084-059-001-119</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་གིས་མཉམ་པར་འཇོག་པ་དེ་ཡང་མི་དམིགས་སོ། །གང་གི་ཕྱིར་མཉམ་པར་འཇོག་པ་དེ་ཡང་མི་དམིགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The one who is in meditative equipoise is not apprehended and the purpose of meditative equipoise is not apprehended.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-147">
+    <prop type="location-id">UT22084-059-001-119</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་འདི་སྙམ་དུ་སེམས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They think to themselves, ‘Alas!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-148">
+    <prop type="location-id">UT22084-059-001-119</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀྱེ་མ་བྱིས་པ་སོ་སོའི་སྐྱེ་བོ་འདི་དག་ནི་གསོག་གི་ཆོས་རྣམས་དང་། གསོབ་ཀྱི་ཆོས་རྣམས་ལ་མངོན་པར་ཞེན་ཏོ་སྙམ་དུ་སེམས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Foolish ordinary people are fixated on worthless, hollow things.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-149">
+    <prop type="location-id">UT22084-059-001-119</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ནི་བྱང་ཆུབ་སེམས་དཔའ་ལྷག་མཐོང་ཞེས་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This is called the special insight of bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-150">
+    <prop type="location-id">UT22084-059-001-119</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་རྣམ་པར་མཐོང་བས་ཉོན་མོངས་པ་རྣམས་ཀུན་ཏུ་མི་འབྱུང་ཞིང་མི་འཇུག་པ་དེ་ནི་བྱང་ཆུབ་སེམས་དཔའ་ཞི་གནས་ཞེས་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With such insight, they neither engage with mental afflictions nor produce them anew. This is called the calm abiding of bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-151">
+    <prop type="location-id">UT22084-059-001-120</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚངས་པ་གཞན་ཡང་བྱང་ཆུབ་སེམས་དཔའ་གཅིག་པུ་དབེན་པར་འདུག་སྟེ་ནང་དུ་ཡང་དག་བཞག་ནས་མིང་དང་ཡི་གེ་ཇི་ལྟར་ཐོས་པ་རྣམས་ངེས་པའི་ཚིག་གི་གདགས་པས་ཡང་དག་པར་འཇོག་ཅིང་ཡི་གེ་དེ་དག་ལ་ཉེ་བར་རྟོགས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-120"/>“Brahmā, moreover, when bodhisattvas staying in seclusion are settled inwardly, they contemplate the names and letters they have heard and think about what is actually signified by words.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-152">
+    <prop type="location-id">UT22084-059-001-120</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དེ་ལྟར་ཉེ་བར་རྟོགས་པ་ན་ཡི་གེ་རྣམས་གསོག་དང་གསོབ་ཏུ་མཐོང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When they examine words in this way, they see that letters are worthless and hollow.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-153">
+    <prop type="location-id">UT22084-059-001-120</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཡི་གེ་རྣམ་པ་གསོག་དང་གསོབ་ཏུ་མཐོང་ནས་མིང་རྣམས་ཀྱང་གསོག་དང་གསོབ་ཏུ་མཐོང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Having seen that letters are worthless and hollow, they see that names are worthless and hollow.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-154">
+    <prop type="location-id">UT22084-059-001-120</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་ལ་མིང་དེ་འདོགས་པ་དེ་ཡང་གསོག་དང་གསོབ་ཏུ་མཐོང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They see that what is signified by a name is also worthless and hollow.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-155">
+    <prop type="location-id">UT22084-059-001-120</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལ་གཟུགས་གང་དང་གང་སྣང་བ་དེ་དང་དེ་ཡང་གསོག་དང་གསོབ་ཏུ་མཐོང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They see that any forms that may appear are worthless and hollow.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-156">
+    <prop type="location-id">UT22084-059-001-120</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་གསོག་དང་གསོབ་ཏུ་མཐོང་བས་ཡང་དག་པར་ཇི་ལྟ་བ་བཞིན་དུ་ཡོངས་སུ་ཤེས་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>By seeing them as worthless and hollow, they correctly understand them.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-157">
+    <prop type="location-id">UT22084-059-001-120</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡང་དག་པར་ཇི་ལྟ་བ་བཞིན་ཡོངས་སུ་ཤེས་པས་དེ་ལ་འདུས་བྱས་རྨི་ལམ་དང་འདྲ་བར་སྣང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Because they correctly understand them, conditioned phenomena come to appear as dreamlike.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-158">
+    <prop type="location-id">UT22084-059-001-120</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལ་བྱང་ཆུབ་སེམས་དཔའ་སོ་སོར་བརྟགས་ནས་སེམས་ཅན་ལ་ལྟ་བས་སྙིང་རྗེ་ཆེན་པོའི་སེམས་ཉེ་བར་བཞག་ནས་གནས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Having examined phenomena in this way, they rest with their minds firmly established in great compassion toward sentient beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-159">
+    <prop type="location-id">UT22084-059-001-121</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་འཆལ་པའི་ཤེས་རབ་ཀྱི་སེམས་གདུལ་བའི་ཕྱིར་ཤེས་རབ་སྒོམ་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-121"/>“In order to tame the tendency toward erroneous understanding, they cultivate wisdom.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-160">
+    <prop type="location-id">UT22084-059-001-121</prop>
+    <tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་སྒོམ་པར་བྱེད་ཅེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How do they cultivate it?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-161">
+    <prop type="location-id">UT22084-059-001-121</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཀུན་རྫོབ་ཀྱི་ཚུལ་དུ་བཤད་པ་འམ་དོན་དམ་པའི་ཚུལ་དུ་བཤད་པའི་མདོ་སྡེ་གང་དག་ཡིན་པ་དེ་དག་བརྗོད་པ་གསལ་ཞིང་ཟུར་ཕྱིན་པ་དག་གིས་མ་ནོར་བར་འཛིན་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They take as unerring all sūtras—whether expounded by means of relative truth or expounded by means of ultimate truth—that have been clearly and lucidly expressed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-162">
+    <prop type="location-id">UT22084-059-001-121</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་ནོར་བས་ཆོས་སྟོན་པ་ལས་བཟུང་ནས་ཀྱང་། །མ་ནོར་བའི་བསམ་པས་སེམས་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They reflect unerringly on what they have understood from the Dharma that has been unerringly taught therein.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-163">
+    <prop type="location-id">UT22084-059-001-121</prop>
+    <tuv xml:lang="bo">
+                <seg>སྒོམ་པའི་རྣལ་འབྱོར་ལ་ཡང་བརྩོན་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They apply themselves with effort to the yoga of meditation.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-164">
+    <prop type="location-id">UT22084-059-001-121</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཡེ་ཤེས་ཀྱི་སྟོབས་དང་ཤེས་རབ་ཀྱི་བྱེ་བྲག་གིས་སེམས་ཅན་མི་<tei:ref folio="F.7.b"/>དམིགས། སྲོག་མི་དམིགས། གསོབ་མི་དམིགས། སྐྱེས་བུ་མི་དམིགས། གང་ཟག་མི་དམིགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With the strength of gnosis and wisdom in particular, they do not apprehend sentient beings, they do not apprehend life, they do not apprehend hollowness, they do not apprehend people, they do not apprehend persons, they do not apprehend humankind, and they do not apprehend humanity.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-165">
+    <prop type="location-id">UT22084-059-001-123</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤེད་ལས་སྐྱེས་མི་དམིགས། ཤེད་བུ་མི་དམིགས་ཏེ། ཐམས་ཅད་ཀྱི་ཐམས་ཅད་དུ་ཆད་པར་ལྟ་བར་ཡང་མི་ལྷུང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-123"/>“Nevertheless, they do not fall into the view of nihilism about everything.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-166">
+    <prop type="location-id">UT22084-059-001-123</prop>
+    <tuv xml:lang="bo">
+                <seg>བཏགས་པའི་ཐ་སྙད་རྣམས་ལ་ཡང་ལེགས་པར་བསླབ་པ་ཡིན་ནོ། །དེ་ཟིན་པའི་སའི་ཁམས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They carefully study imputed designations.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-167">
+    <prop type="location-id">UT22084-059-001-123</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་ཟིན་པའི་སའི་ཁམས་ལ་ཡང་དག་པའི་ཤེས་རབ་ཀྱིས་ཚུལ་གཅིག་ཏུ་སོ་སོར་རྟོག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With correct wisdom, they analyze the inner earth element and the outer earth element as being one.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-168">
+    <prop type="location-id">UT22084-059-001-123</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟིན་པའི་ཆུའི་ཁམས་དང་། མེའི་ཁམས་དང་། རླུང་གི་ཁམས་དང་། མ་ཟིན་པ་ལ་ཡང་ཡང་དག་པའི་ཤེས་རབ་ཀྱིས་ཚུལ་གཅིག་ཏུ་སོ་སོར་རྟོག་སྟེ་དེ་གཉི་ག་ཡང་གསོག་ཉིད་དང་གསོབ་ཉིད་དུ་མཐོང་ཞིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With correct wisdom, they likewise analyze the inner water element, fire element, wind element, and their outer counterparts, as being one.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-169">
+    <prop type="location-id">UT22084-059-001-123</prop>
+    <tuv xml:lang="bo">
+                <seg>བེམས་པོ་ཉིད་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They see both kinds of elements as worthless and hollow.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-170">
+    <prop type="location-id">UT22084-059-001-123</prop>
+    <tuv xml:lang="bo">
+                <seg>སྙིང་པོ་མེད་པ་ཉིད་དང་། སྟོང་པ་ཉིད་དུ་མཐོང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They see them as inanimate, essenceless, and as emptiness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-171">
+    <prop type="location-id">UT22084-059-001-123</prop>
+    <tuv xml:lang="bo">
+                <seg>དེས་དེ་ལྟར་མཐོང་བས་ཇི་ལྟར་ཕྱི་རོལ་གྱི་ཁམས་རྣམས་ལ་མངོན་པར་ཆགས་པ་མེད་པ་དེ་ལྟར་ནང་གི་རྣམས་ལ་ཡང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Because they see them as such, just as they are not attached to the external elements, they are also not attached to the internal elements.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-172">
+    <prop type="location-id">UT22084-059-001-125</prop>
+    <tuv xml:lang="bo">
+                <seg>མིག་གི་རྣམ་པར་ཤེས་པ་དང་། གཟུགས་རྣམས་ལ་ཡང་ཡང་དག་པའི་ཤེས་རབ་ཀྱིས་ཚུལ་གཅིག་ཏུ་སོ་སོར་རྟོག་གོ། །རྣ་བའི་རྣམ་པར་ཤེས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-125"/>“With wisdom, they analyze visual consciousness and physical forms as being one.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-173">
+    <prop type="location-id">UT22084-059-001-125</prop>
+    <tuv xml:lang="bo">
+                <seg>སྒྲ་རྣམས་དང་། སྣའི་རྣམ་པར་ཤེས་པ་དང་། དྲི་རྣམས་དང་། ལྕེའི་རྣམ་པར་ཤེས་པ་དང་། རོ་རྣམས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With wisdom, they analyze auditory consciousness and sounds, olfactory consciousness and smells, gustatory consciousness and tastes, and tactile consciousness and tangible objects as being one.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-174">
+    <prop type="location-id">UT22084-059-001-126</prop>
+    <tuv xml:lang="bo">
+                <seg>ལུས་ཀྱི་རྣམ་པར་ཤེས་པ་དང་། རེག་བྱ་རྣམས་ལ་ཡང་ཡང་དག་པའི་ཤེས་རབ་ཀྱིས་ཚུལ་གཅིག་ཏུ་སོ་སོར་རྟོག་གོ། །དེའི་སའི་ཁམས་ལ་ནི་སྲ་བ་ཉིད་དུ་ཡང་རབ་ཏུ་ཤེས་ལ་གཤེར་བ་ཉིད་དང་། ཚ་བ་ཉིད་དང་། ཁོང་སྟོང་ཉིད་དུ་ཡང་རབ་ཏུ་ཤེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-126"/>“Regarding the earth element, they recognize its solidity but also recognize its wetness, heat, and insubstantiality.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-175">
+    <prop type="location-id">UT22084-059-001-126</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆུའི་ཁམས་ལ་གཤེར་བ་ཉིད་དུ་ཡང་རབ་ཏུ་ཤེས་ལ་སྲ་བ་ཉིད་དང་། ཚ་བ་ཉིད་དང་། ཁོང་སྟོང་ཉིད་དུ་ཡང་རབ་ཏུ་ཤེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Regarding the water element, they recognize its wetness but also recognize its solidity, heat, and insubstantiality.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-176">
+    <prop type="location-id">UT22084-059-001-126</prop>
+    <tuv xml:lang="bo">
+                <seg>མེའི་ཁམས་ལ་ཚ་བ་ཉིད་དུ་ཡང་རབ་ཏུ་ཤེས་ལ་སྲ་བ་ཉིད་དང་། གཤེར་བ་ཉིད་དང་། ཁོང་སྟོང་ཉིད་དུ་ཡང་རབ་ཏུ་ཤེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Regarding the fire element, they recognize its heat but also recognize its solidity, wetness, and insubstantiality.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-177">
+    <prop type="location-id">UT22084-059-001-126</prop>
+    <tuv xml:lang="bo">
+                <seg>རླུང་གི་ཁམས་ལ་གཡོ་བ་ཉིད་དུ་ཡང་རབ་ཏུ་ཤེས་ལ་ཡང་ཞིང་གཡོ་བ་ཉིད་དུ་ཡང་རབ་ཏུ་ཤེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Regarding the wind element, they recognize its motility and they also recognize its buoyant motility.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-178">
+    <prop type="location-id">UT22084-059-001-126</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནམ་མཁའི་ཁམས་ལ་ཁོང་སྟོང་ཉིད་དུ་ཡང་རབ་ཏུ་ཤེས་ལ་ཐམས་ཅད་དུ་ཡང་སོང་བ་ཉིད་དུ་ཡང་རབ་ཏུ་ཤེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Regarding the space element, they recognize its insubstantiality and they recognize that it pervades everything.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-179">
+    <prop type="location-id">UT22084-059-001-126</prop>
+    <tuv xml:lang="bo">
+                <seg>རྣམ་པར་ཤེས་པའི་ཁམས་ལ་སྒྱུ་མ་ལྟ་བུ་ཉིད་དུ་<tei:ref folio="F.8.a"/>ཡང་རབ་ཏུ་ཤེས་ལ་ཕྱིན་ཅི་ལོག་ཉིད་དུ་ཡང་རབ་ཏུ་ཤེས། ཕྱིན་ཅི་མ་ལོག་པ་ཉིད་ཡང་རབ་ཏུ་ཤེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They recognize the consciousness element as being like an illusion; they recognize it to be both mistaken and not mistaken.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-180">
+    <prop type="location-id">UT22084-059-001-126</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་མིག་གི་རྣམ་པར་ཤེས་པ་ལ་སྟོང་པ་ཉིད་དང་། གཟུགས་ལ་མི་རྟག་པ་ཉིད་དུ་ཡང་རབ་ཏུ་ཤེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They recognize the visual consciousness as emptiness and visible forms as impermanence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-181">
+    <prop type="location-id">UT22084-059-001-126</prop>
+    <tuv xml:lang="bo">
+                <seg>རྣ་བའི་རྣམ་པར་ཤེས་པ་ལ་སྟོང་པ་ཉིད་དང་། སྒྲ་ལ་མི་རྟག་པ་ཉིད་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They recognize the auditory consciousness as emptiness and sounds as impermanence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-182">
+    <prop type="location-id">UT22084-059-001-126</prop>
+    <tuv xml:lang="bo">
+                <seg>སྣའི་རྣམ་པར་ཤེས་པ་ལ་སྟོང་པ་ཉིད་དང་། དྲི་ལ་མི་རྟག་པ་ཉིད་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They recognize the olfactory consciousness as emptiness and smells as impermanence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-183">
+    <prop type="location-id">UT22084-059-001-126</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྕེའི་རྣམ་པརཤེས་པ་ལ་སྟོང་པ་ཉིད་དང་། རོ་ལ་མི་རྟག་པ་ཉིད་དང་། ལུས་ཀྱི་རྣམ་པར་ཤེས་པ་ལ་སྟོང་པ་ཉིད་དང་། རེག་བྱ་ལ་མི་རྟག་པ་ཉིད་དུ་ཡང་རབ་ཏུ་ཤེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They recognize the gustatory consciousness as emptiness and tastes as impermanence They recognize the tactile consciousness as emptiness and tangible objects as impermanence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-184">
+    <prop type="location-id">UT22084-059-001-127</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དེ་ལྟར་ཤེས་རབ་ལ་མཁས་པས་ཤིན་ཏུ་རྟོགས་པའི་ཤེས་རབ་དང་ལྡན་ཞིང་ཤེས་རབ་རྣོ་བ་དང་ལྡན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-127"/>“Learned in wisdom, they have the wisdom that fully realizes and the wisdom that is sharp.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-185">
+    <prop type="location-id">UT22084-059-001-127</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་དགེ་བའི་ཆོས་རྣམས་ཀྱང་རབ་ཏུ་ཤེས། དགེ་བའི་ཆོས་རྣམས་ཀྱང་རབ་ཏུ་ཤེས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They recognize those dharmas that are nonvirtuous and they recognize those dharmas that are virtuous.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-186">
+    <prop type="location-id">UT22084-059-001-127</prop>
+    <tuv xml:lang="bo">
+                <seg>ཉན་ཐོས་ཡང་དག་པར་འགྲུབ་པར་བྱེད་པའི་ཆོས་རྣམས་ཀྱང་རབ་ཏུ་ཤེས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They recognize the dharmas that bring hearers their attainment.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-187">
+    <prop type="location-id">UT22084-059-001-127</prop>
+    <tuv xml:lang="bo">
+                <seg>རང་སངས་རྒྱས་ཡང་དག་པར་འགྲུབ་པར་བྱེད་པའི་ཆོས་རྣམས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They recognize the dharmas that bring solitary realizers their attainment.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-188">
+    <prop type="location-id">UT22084-059-001-127</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་ཡང་དག་པར་འགྲུབ་པར་བྱེད་པའི་ཆོས་རྣམས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They recognize the dharmas that bring bodhisattvas their attainment.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-189">
+    <prop type="location-id">UT22084-059-001-127</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཉིད་ཡང་དག་པར་འགྲུབ་པར་བྱེད་པའི་ཆོས་རྣམས་ཀྱང་རབ་ཏུ་ཤེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They recognize the dharmas that bring buddhas their attainment.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-190">
+    <prop type="location-id">UT22084-059-001-128</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་མི་དགེ་བའི་ཆོས་རྣམས་ཀྱིས་རྣམ་པར་སྨིན་པ་ཆུང་ངུ་དང་། འབྲིང་དང་། ཆེན་པོ་སེམས་ཅན་དམྱལ་བ་རྣམས་དང་། དུད་འགྲོ་རྣམས་དང་། །ཡི་དགས་རྣམས་སུ་སྐྱེ་བ་ཡང་རབ་ཏུ་ཤེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-128"/>“They recognize how the weak, middling, and strong ripening of nonvirtuous dharmas leads to rebirth as ghosts, animals, and hell beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-191">
+    <prop type="location-id">UT22084-059-001-128</prop>
+    <tuv xml:lang="bo">
+                <seg>དེར་སྐྱེས་པ་རྣམས་ཀྱི་ཚོར་བ་ཆུང་ངུ་དང་། འབྲིང་དང་། ཆེན་པོ་ཡང་རབ་ཏུ་ཤེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They recognize the weak, middling, and strong feelings of beings who are reborn in those realms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-192">
+    <prop type="location-id">UT22084-059-001-128</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་བའི་ཆོས་རྣམས་ཀྱི་རྣམ་པར་སྨིན་པ་ཆུང་ངུ་དང་། འབྲིང་དང་། ཆེན་པོ་ལྷ་རྣམས་ཀྱི་ནང་དུའམ། མི་རྣམས་ཀྱི་ནང་དུ་སྨིན་པ་ཡང་རབ་ཏུ་ཤེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They recognize how the weak, middling, and strong ripening of virtuous dharmas leads to rebirth among gods or humans.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-193">
+    <prop type="location-id">UT22084-059-001-128</prop>
+    <tuv xml:lang="bo">
+                <seg>དེར་སྐྱེས་པ་རྣམས་ཀྱི་འབྲས་བུ་ཆུང་ངུ་དང་། འབྲིང་དང་། ཆེན་པོ་ཡང་རབ་ཏུ་ཤེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And they recognize how the karmic fruits for those reborn there may be weak, middling, and strong.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-194">
+    <prop type="location-id">UT22084-059-001-129</prop>
+    <tuv xml:lang="bo">
+                <seg>ཉན་ཐོས་ཡང་དག་པར་འགྲུབ་པར་བྱེད་པའི་ཆོས་རྣམས་ཀྱི་རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ་མངོན་དུ་བྱ་བ་དང་། ལན་ཅིག་ཕྱིར་འོང་བའི་འབྲས་བུ་མངོན་དུ་བྱ་བ་དང་། ཕྱིར་མི་འོང་བའི་འབྲས་བུ་མངོན་དུ་བྱ་བ་དང་། དགྲ་བཅོམ་པ་ཉིད་ཀྱི་འབྲས་བུ་མངོན་དུ་བྱ་བའི་རྣམ་པ་ཡང་རབ་ཏུ་ཤེས་སོ། །<tei:ref folio="F.8.b"/>
+                </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-129"/>“They recognize the dharmas that bring hearers their full attainment: actualizing the fruit of stream-entry, actualizing the fruit of being a once-returner, actualizing the fruit of being a non-returner, and actualizing the fruit of arhatship.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-195">
+    <prop type="location-id">UT22084-059-001-129</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤེས་རབ་ཀྱི་རྣམ་པར་གྲོལ་བ་ཉིད་དང་། གཉིས་ཀའི་ཆ་ལས་རྣམ་པར་གྲོལ་བ་ཡང་རབ་ཏུ་ཤེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They recognize both liberation through wisdom and the twofold liberation.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-196">
+    <prop type="location-id">UT22084-059-001-129</prop>
+    <tuv xml:lang="bo">
+                <seg>རང་སངས་རྒྱས་ཡང་དག་པར་འགྲུབ་པར་བྱེད་པའི་ཆོས་རྣམས་ཀྱིས་ཡང་དག་པར་འགྲུབ་པ་ཡང་རབ་ཏུ་ཤེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They recognize the dharmas that bring solitary realizers their full attainment.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-197">
+    <prop type="location-id">UT22084-059-001-129</prop>
+    <tuv xml:lang="bo">
+                <seg>འབྲས་བུ་དང་ཞི་བ་ཉིད་ཀྱང་རབ་ཏུ་ཤེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They recognize their karmic fruits and their peace.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-198">
+    <prop type="location-id">UT22084-059-001-129</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་ཡང་དག་པར་འགྲུབ་པར་བྱེད་པའི་ཆོས་རྣམས་ཀྱི་ཚོགས་ཀྱི་ལམ་ཡང་རབ་ཏུ་ཤེས་སོ། །ཡེ་ཤེས་ཀྱི་ལམ་ཡང་རབ་ཏུ་ཤེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They recognize the dharmas that bring bodhisattvas their full attainment: they recognize the path of accumulation and the path of gnosis.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-199">
+    <prop type="location-id">UT22084-059-001-129</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤེས་ནས་ཀྱང་ཚོགས་ཀྱི་ལམ་དང་ཡེ་ཤེས་ཀྱི་ལམ་ལ་བརྩོན་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Knowing them, they endeavor to progress on the path of accumulation and the path of gnosis.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-200">
+    <prop type="location-id">UT22084-059-001-131</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཉིད་ཡང་དག་པར་འགྲུབ་པར་བྱེད་པའི་ཆོས་རྣམས་ཀྱི་རྫུ་འཕྲུལ་ཆེ་བ་ཉིད་ཀྱང་རབ་ཏུ་ཤེས་སོ། །མཐུ་ཆེ་བ་ཉིད་དང་། དམ་པ་ཉིད་དང་། རབ་མཆོག་ཉིད་དང་། ཕུལ་དུ་བྱུང་བ་ཉིད་དང་། ཆེ་བ་ཉིད་དང་། ཉན་ཐོས་དང་། རང་སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་དང་། ཐུན་མོང་བ་ཡང་མ་ཡིན་ན། གཞན་སེམས་ཅན་ཐམས་ཅད་ལྟ་སྨོས་ཀྱང་ཅི་དགོས་པའི་ཐུན་མོང་མ་ཡིན་པ་ཉིད་ཀྱང་རབ་ཏུ་ཤེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-131"/>They recognize the dharmas that bring the full attainment of buddhahood: great miraculous manifestation, great power, holiness, excellence, preeminence, and greatness, which are not shared by any hearer, solitary realizer, and bodhisattva, not to mention other sentient beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-201">
+    <prop type="location-id">UT22084-059-001-132</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དེ་ལྟར་ཆོས་རྣམས་ལ་ཆོས་ཀྱི་རྗེས་སུ་ལྟ་ཞིང་དྲན་པ་ལེགས་པར་ཉེ་བར་གནས་པ་སྡིག་པའི་ཆོས་ཐམས་ཅད་དང་ནི་བྲལ། དགེ་བའི་ཆོས་ནི་ཡང་དག་པར་ཐོབ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-132"/>“In this way, they view all phenomena in accordance with the Dharma and properly maintain mindfulness, free from all sinful dharmas, and fully replete with virtuous dharmas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-202">
+    <prop type="location-id">UT22084-059-001-132</prop>
+    <tuv xml:lang="bo">
+                <seg>ལུས་ཀྱི་གནོད་པ་ནི་མེད། རྣམ་པར་ཤེས་པས་འཕངས་པ་ནི་མེད། སེམས་ཀྱིས་འཕངས་པ་ནི་མེད་ལ་ཆོས་རྣམས་ཀྱི་རྒྱུའི་ཚོགས་དང་འབྲས་བུ་ཡང་དག་པར་ཇི་ལྟ་བ་བཞིན་དུ་རབ་ཏུ་ཤེས་པས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They commit no bodily harm, they are not thrown off by consciousness, they are not thrown off by mind, for they understand the complex of causes and fruits of dharmas just as they are.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-203">
+    <prop type="location-id">UT22084-059-001-133</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔེར་ན་རྒྱ་མཚོའི་རླབས་བཞིན་དུ་དགེ་བའི་ཆོས་རྣམས་ཀྱིས་རྣམ་པར་འཕེལ་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-133"/>“By analogy, virtuous dharmas spread like ocean waves.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-204">
+    <prop type="location-id">UT22084-059-001-133</prop>
+    <tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་རྒྱ་མཚོའི་རླབས་འབྲི་ཞིང་ཡང་འབྱུང་བ་ལྟར། བྱང་ཆུབ་སེམས་དཔའ་ནི་ཆོས་རྣམས་ལས་དེ་ལྟ་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>But unlike ocean waves that come in only to recede again, for bodhisattvas, those dharmas do not recede.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-205">
+    <prop type="location-id">UT22084-059-001-133</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དཔེར་ན་ཟླ་བ་ཡར་གྱི་ངོའི་ཟླ་བའི་དཀྱིལ་འཁོར་དང་འདྲ་བར་དགེ་བའི་ཆོས་རྣམས་ཀྱིས་མངོན་པར་འཕེལ་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Rather the virtuous dharmas grow like the waxing moon.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-206">
+    <prop type="location-id">UT22084-059-001-133</prop>
+    <tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་མར་གྱི་ངོ་ལ་ཟླ་བའི་དཀྱིལ་འཁོར་འབྲི་བའི་ཆོས་ཅན་ཡིན་པ་ལྟར། བྱང་ཆུབ་སེམས་དཔའ་ནི་ཆོས་རྣམས་ལས་དེ་ལྟ་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>But unlike how the waning moon recedes, for bodhisattvas, those dharmas do not recede.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-207">
+    <prop type="location-id">UT22084-059-001-133</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔེར་ན་དབྱར་གྱི་དུས་ཀྱི་ཕུ་ཆུ་བྲུག་པ་ལྟར་དགེ་བའི་ཆོས་རྣམས་ཀྱིས་མངོན་པར་འཕེལ་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The virtuous dharmas grow like a raging torrent in the summertime.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-208">
+    <prop type="location-id">UT22084-059-001-133</prop>
+    <tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་ཕུ་ཆུ་<tei:ref folio="F.9.a"/>བྲུག་པ་དབྱར་གྱི་དུས་ཟད་ན་འབྲི་བའི་ཆོས་ཅན་ཡིན་པ་ལྟར། བྱང་ཆུབ་སེམས་དཔའ་ནི་ཆོས་རྣམས་ལས་དེ་ལྟ་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>But unlike a torrent that recedes when the summer is over, for bodhisattvas, those dharmas do not recede.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-209">
+    <prop type="location-id">UT22084-059-001-133</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚངས་པ་དེ་ལྟར་བསླབ་པའི་བྱང་ཆུབ་སེམས་དཔའ་ནི་མྱུར་དུ་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Brahmā, bodhisattvas who train in this way will soon completely awaken to unsurpassable, truly complete buddhahood.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-210">
+    <prop type="location-id">UT22084-059-001-134</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཚེ་བཅོམ་ལྡན་འདས་ཀྱིས་ཚིགས་སུ་བཅད་པ་འདི་དག་བཀའ་སྩལ་ཏོ། །ལུས་ཀྱི་སྐྱོན་རྣམས་རབ་ཤེས་ན། །ལུས་ཡོད་སྐྱོན་རྣམས་མི་སྟོན་ཏོ། །ལུས་ལ་དྲན་པ་ལེགས་གནས་ན། །སྐྱོན་མེད་ཞི་བའི་གནས་ཐོབ་བོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-134"/>Thereupon, the Bhagavān spoke these verses:<tei:milestone xml:id="UT22084-059-001-135"/> “When you recognize the faults of the body, You won’t rely on the faults that the body has; When you are mindful of the body, You will obtain a state of faultless peace.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-211">
+    <prop type="location-id">UT22084-059-001-137</prop>
+    <tuv xml:lang="bo">
+                <seg>ལུས་ཀྱི་སྐྱོན་རྣམས་མི་ཤེས་ན། །ལུས་ལ་ཡོད་པའི་སྐྱོན་མི་རྟོག །ལུས་ལ་དྲན་པ་མི་གནས་ན། །སྡུག་བསྔལ་བཟོད་དཀའ་གནས་ཐོབ་བོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-137"/>“When you don’t recognize the faults of the body, You won’t be aware of the faults the body has; When you are not mindful of the body, You will find suffering hard to bear.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-212">
+    <prop type="location-id">UT22084-059-001-138</prop>
+    <tuv xml:lang="bo">
+                <seg>སེམས་ཀྱི་སྐྱོན་རྣམས་རབ་ཤེས་ན། །སེམས་ཡོད་སྐྱོན་རྣམས་མི་སྟེན་ཏོ། །སེམས་ལ་དྲན་པ་ལེགས་གནས་ན། །སྐྱོན་མེད་ཞི་བའི་གནས་འཐོབ་བོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-138"/>“When you recognize the faults of the mind, You won’t rely on the faults that the mind has; When you are mindful of the mind, You will obtain a state of faultless peace.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-213">
+    <prop type="location-id">UT22084-059-001-139</prop>
+    <tuv xml:lang="bo">
+                <seg>སེམས་ཀྱི་སྐྱོན་རྣམས་མི་ཤེས་ན། །སེམས་ལ་ཡོད་པའི་སྐྱོན་མི་རྟོགས། །སེམས་ལ་དྲན་པ་མི་གནས་ན། །སྡུག་བསྔལ་བཟོད་དཀའ་གནས་འཐོབ་བོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-139"/>“When you do not recognize the faults of the mind, You won’t be aware of the faults the mind has; When you are not mindful of the mind, You will find suffering hard to bear.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-214">
+    <prop type="location-id">UT22084-059-001-140</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་བའི་ཆོས་རྣམས་སྟེན་བྱེད་ཅིང་། །མི་དགེ་ཆོས་རྣམས་མི་སྟེན་པ། །ཆོས་རྣམས་ལ་ནི་མཁས་པའི་མི། །སྐྱོན་མེད་ཞི་བའི་གནས་འཐོབ་བོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-140"/>“One who relies on virtuous dharmas, Will not rely on nonvirtuous dharmas; One who is skilled in the dharmas Will obtain a state of faultless peace.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-215">
+    <prop type="location-id">UT22084-059-001-141</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་བའི་ཆོས་རྣམས་མི་སྟེན་ཅིང་། །མི་དགེ་ཆོས་རྣམས་སྟེན་བྱེད་པ། །ཆོས་རྣམས་ལ་ནི་མི་མཁས་མི། །སྡུག་བསྔལ་བཟོད་དཀའ་གནས་འཐོབ་བོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-141"/>“One who does not rely on virtuous dharmas, Will rely on nonvirtuous dharmas; One who is not skilled in the dharmas Will find suffering hard to bear.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-216">
+    <prop type="location-id">UT22084-059-001-142</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པས་ལྷའི་མེ་ཏོག་མན་དཱ་ར་བ་དག་མངོན་པར་སྤྲུལ་ཏེ་བཅོམ་ལྡན་འདས་ལ་མངོན་པར་གཏོར་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-142"/>Then, Brahmā, lord of the Sahā world, conjured divine mandārava flowers and scattered them over the Bhagavān.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-217">
+    <prop type="location-id">UT22084-059-001-142</prop>
+    <tuv xml:lang="bo">
+                <seg>མངོན་པར་གཏོར་ནས་ཀྱང་བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་ལ་མངོན་པར་དགའ་ཞིང་རྗེས་སུ་ཡི་རངས་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Having strewn the flowers, he was delighted and rejoiced in what the Bhagavān had said.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-218">
+    <prop type="location-id">UT22084-059-001-142</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལ་ལན་གསུམ་བསྐོར་བ་བྱས་ཏེ་བཅོམ་ལྡན་འདས་ཀྱི་ཐད་ནས་སོང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He circumambulated the Bhagavān three times and then departed from the Bhagavān’s presence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-219">
+    <prop type="location-id">UT22084-059-001-143</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ནམ་ནངས་པར་མཁྱེན་ནས་དགེ་སློང་གི་དགེ་འདུན་གྱི་གུང་ལ་གདན་བཤམས་པ་ལ་བཞུགས་སོ། །བཞུགས་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-143"/>After that, aware that dawn was breaking, the Bhagavān took a seat that had been prepared for him amongst the assembly of monks.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-220">
+    <prop type="location-id">UT22084-059-001-143</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དགེ་སློང་རྣམས་ལ་བཀའ་སྩལ་པ། དགེ་སློང་དག་མ་དང་<tei:ref folio="F.9.b"/>འདིར་མི་ཉལ་ཙམ་གྱི་ནམ་གྱི་གུང་ཐུན་ལ་ང་གཅིག་པུ་དབེན་པར་འདུག་སྟེ་ནང་དུ་ཡང་དག་བཞག་ན་མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པས་ཐམས་ཅད་དང་ལྡན་པའི་ཚལ་ཆེན་པོ་འོད་ཀྱིས་སྣང་བར་བྱས་ནས་ང་ག་ལ་བ་དེར་འོངས་ཏེ་ཕྱིན་ནས་ང་ལ་མངོན་པར་བསྟོད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Once seated, the Bhagavān said to the monks, “Monks, last night in the middle of the night, not yet asleep, I was sitting alone in seclusion absorbed inwardly, when Brahmā, lord of the Sahā world, came before me, bathing this great forest and everything in it with light.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-221">
+    <prop type="location-id">UT22084-059-001-143</prop>
+    <tuv xml:lang="bo">
+                <seg>ལན་གསུམ་བསྐོར་བ་བྱས་ནས་ཕྱོགས་གཅིག་ཏུ་འདུག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He praised me, he circumambulated me three times, and he sat down to one side.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-222">
+    <prop type="location-id">UT22084-059-001-143</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱོགས་གཅིག་ཏུ་འདུག་ནས་མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པས་ང་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །གལ་ཏེ་ཞུས་ནས་ཞུ་བ་ལུང་བསྟན་པའི་སླད་དུ་བཅོམ་ལྡན་འདས་ཀྱིས་བདག་ལ་སྐབས་དབྱེ་བར་གནང་ན། བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ལ་བདག་ཕྱོགས་འགའ་ཞིག་ཞུ་ལགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Once seated, Brahmā, lord of the Sahā world, said to me, ‘Were the Bhagavān to grant me a moment, I would like to request a teaching from the tathāgata, arhat, truly complete Buddha, regarding a certain point.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-223">
+    <prop type="location-id">UT22084-059-001-143</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དེ་སྐད་ཅེས་གསོལ་པ་དང་། ངས་མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །ཚངས་པ་ཞུ་བ་ལུང་བསྟན་པའི་ཕྱིར་དེ་བཞིན་གཤེགས་པས་རྟག་ཏུ་ཁྱོད་ལ་སྐབས་ཕྱེས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Monks, this was his request, and I replied to Brahmā, lord of the Sahā world, ‘Brahmā, the Tathāgata always has time to grant you a teaching.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-224">
+    <prop type="location-id">UT22084-059-001-143</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚངས་པ་ཁྱོད་ཅི་དང་ཅི་འདོད་པ་ཞུས་ཤིག་དང་། ཞུས་པ་དེ་དང་དེ་ཉིད་ཀྱི་ལུང་བསྟན་པས་ངས་ཁྱོད་ཀྱི་སེམས་རངས་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Brahmā, ask the Tathāgata whatever you like, and I will oblige with a teaching that will delight you.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-225">
+    <prop type="location-id">UT22084-059-001-143</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ངས་སྐབས་ཕྱེ་བས་མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པས་ང་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དག་ཆོས་དུ་དང་ལྡན་ན། །མྱུར་དུ་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་ལགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Granted this opportunity, Brahmā, lord of the Sahā world, asked me, ‘Bhagavān, do bodhisattva mahāsattvas require many dharmas to quickly reach the unsurpassable, truly complete awakening of buddhahood?’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-226">
+    <prop type="location-id">UT22084-059-001-143</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དེ་སྐད་ཅེས་གསོལ་པ་དང་། ངས་མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །ཚངས་པ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་དག་ཆོས་གཅིག་དང་ལྡན་ན་མྱུར་དུ་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I replied to Brahmā, lord of the Sahā world, ‘Brahmā, if bodhisattva mahāsattvas have just one dharma, they will quickly reach the unsurpassable, truly complete awakening of buddhahood.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-227">
+    <prop type="location-id">UT22084-059-001-143</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་གཅིག་གང་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What is that one dharma?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-228">
+    <prop type="location-id">UT22084-059-001-143</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ་ལུས་ཀྱི་རྗེས་སུ་སོང་བའི་དྲན་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is mindfulness that observes the body.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-229">
+    <prop type="location-id">UT22084-059-001-143</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་ངས་མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པ་དེ་ལ་ལུས་ཀྱི་རྗེས་སུ་སོང་བ་དྲན་པའི་རྒྱུ་དང་། ལས་དང་འབྲས་བུ་ཡང་བསྟན་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then, monks, I taught Brahmā, lord of the Sahā world, the causes, practices, and results of mindfully observing the body.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-230">
+    <prop type="location-id">UT22084-059-001-144</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ལ་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-144"/>Then, Venerable Ānanda said to the Bhagavān, “Wonderful, wonderful!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-231">
+    <prop type="location-id">UT22084-059-001-144</prop>
+    <tuv xml:lang="bo">
+                <seg>ལེགས་སོ་ལེགས་སོ་བཅོམ་ལྡན་<tei:ref folio="F.10.a"/>འདས་ཀྱིས་མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པ་ལ་གང་བསྟན་པ་དེ་སྐྱེ་བོ་མང་པོ་ལ་སྨན་པ་དང་། སྐྱེ་བོ་མང་པོ་ལ་བདེ་བ་དང་། ལྷ་དང་མི་རྣམས་ཀྱི་དོན་དང་། སྨན་པ་དང་། བདེ་བར་བགྱི་བའི་སླད་དུ་བཤད་དུ་གསོལ་དགེ་སློང་སར་པ་རྣམས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Please tell us what the Bhagavān taught to Brahmā, lord of the Sahā world, for the benefit of many beings, for the happiness of many beings, for the benefit, health, and happiness of gods and humans!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-232">
+    <prop type="location-id">UT22084-059-001-144</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་འདུལ་བ་འདི་ལ་རབ་ཏུ་བྱུང་ནས་རིང་པོར་མ་ལགས་ཤིང་མཆིས་ནས་རིང་པོ་མ་ལགས་པ་རྣམས་དང་། ཐེག་པ་ཆེན་པོ་ལ་ཡང་དག་པར་ཞུགས་པའི་སྐྱེས་བུ་དམ་པ་འདི་དག་གིས་ཐོས་ན་དགའ་བ་དང་། དད་པ་ཐོབ་པར་འགྱུར། བསླབས་པ་དེ་ལ་ཡང་སྦྱོར་བར་བརྩོན་པར་གནས་པར་འགྱུར་ལགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When new monks, who have only recently gone forth in the Dharma and Vinaya and have not held it for long, or good people who have only recently entered the Mahāyāna, listen to it, they will be delighted, will gain faith, and will maintain their effort in adhering to their training.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-233">
+    <prop type="location-id">UT22084-059-001-144</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པ་ལ་གང་བཤད་པ་དེ་དགེ་སློང་དེ་དག་ལ་ཡང་བཤད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then the Bhagavān explained to the monks the explanation he had given to Brahmā, lord of the Sahā world.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-234">
+    <prop type="location-id">UT22084-059-001-145</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ལ་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་ལེགས་པར་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-145"/>Afterward, Venerable Ānanda said to the Bhagavān, “The Bhagavān has spoken well.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-235">
+    <prop type="location-id">UT22084-059-001-145</prop>
+    <tuv xml:lang="bo">
+                <seg>བདེ་བར་གཤེགས་པ་ལེགས་པར་བཀའ་སྩལ་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Sugata has spoken well.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-236">
+    <prop type="location-id">UT22084-059-001-145</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པས་མདོ་སྡེ་འདི་ལྟ་བུ་དག་ཡོངས་སུ་ཞུ་བའི་སླད་དུ་བཅོམ་ལྡན་འདས་ཀྱི་ཐད་དུ་མཆིས་ནས་ཞུས་པ་ཡང་ལེགས་པར་སྨྲས་པ་ལེགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Brahmā, lord of the Sahā world, also spoke well when he came before the Bhagavān to request such a discourse and asked him to teach.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-237">
+    <prop type="location-id">UT22084-059-001-145</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པས་གལ་ཏེ་དགེ་བའི་རྩ་བ་གཞན་མ་མཆིས་ན་ཡང་ཞུ་བ་ཞུས་པའི་མོད་ལས་སྐྱེས་པའི་དགེ་བའི་རྩ་བ་འདི་ཁོ་ནས་མྱུར་དུ་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་ལགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Bhagavān, even if Brahmā, lord of the Sahā world, possessed no root of virtue before, just by the root of virtue generated by requesting this discourse, he will quickly awaken to unsurpassable, truly complete awakening.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-238">
+    <prop type="location-id">UT22084-059-001-145</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཅིའི་སླད་དུ་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Why?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-239">
+    <prop type="location-id">UT22084-059-001-145</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་དགེ་བའི་རྩ་བ་དེའི་མཐའ་དང་མུ་ནི་ཉན་ཐོས་དང་རང་སངས་རྒྱས་ཐམས་ཅད་ཀྱིས་རྟོགས་པར་རྔོ་མི་ཐོགས་པའི་སླད་དུའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Because, Bhagavān, no hearer or solitary realizer is capable of realizing the limit and the end of this root of virtue.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-240">
+    <prop type="location-id">UT22084-059-001-145</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཅིའི་སླད་དུ་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Why?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-241">
+    <prop type="location-id">UT22084-059-001-145</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་འདི་ལྟར་མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པས་ཞུ་བ་འདི། སེམས་ཅན་ཐམས་ཅད་ཀྱི་སྤྱིའི་དོན་དུ་ཞུས་པའི་སླད་དུའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Because, Bhagavān, Brahmā, lord of the Sahā world, asked this question for the common benefit of all sentient beings.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-242">
+    <prop type="location-id">UT22084-059-001-146</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། ཀུན་དགའ་བོ་དེ་དེ་བཞིན་ཏེ། དེ་དེ་བཞིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-146"/>“Yes, Ānanda, it is as you say,” said the Bhagavān.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-243">
+    <prop type="location-id">UT22084-059-001-146</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ལ་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་ཆོས་ཀྱི་རྣམ་གྲངས་འདིའི་མིང་<tei:ref folio="F.10.b"/>ཅི་ལགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then Venerable Ānanda asked the Bhagavān, “Bhagavān, what is the name of this Dharma discourse?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-244">
+    <prop type="location-id">UT22084-059-001-146</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ཇི་ལྟར་གཟུང་བར་བགྱི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How should we remember it?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-245">
+    <prop type="location-id">UT22084-059-001-146</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། ཀུན་དགའ་བོ་དེའི་ཕྱིར་ཁྱོད་ཀྱིས་འདི་ཚངས་པས་ཞུས་པ་ཞེས་བྱ་བར་ཟུང་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Bhagavān replied, “You may remember it, Ānanda, as Brahmā’s Question.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-246">
+    <prop type="location-id">UT22084-059-001-146</prop>
+    <tuv xml:lang="bo">
+                <seg>དྲན་པ་ཉེ་བར་གཞག་པའི་ཚུལ་བསྟན་པ་ཞེས་བྱ་བར་ཡང་ཟུང་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You may remember it as The Teaching on the Applications of Mindfulness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-247">
+    <prop type="location-id">UT22084-059-001-146</prop>
+    <tuv xml:lang="bo">
+                <seg>བག་ཡོད་པའི་ཚུལ་བསྟན་པ་ཞེས་བྱ་བར་ཡང་ཟུང་ཤིག །བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You may remember it as The Teaching on Heedfulness.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-248">
+    <prop type="location-id">UT22084-059-001-147</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་དང་། དགེ་སློང་དེ་དག་དང་། བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་དང་། ཐམས་ཅད་དང་ལྡན་པའི་འཁོར་དེ་དག་དང་། ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-147"/>When the Bhagavān had finished speaking, Venerable Ānanda, the monks, the bodhisattvas, the entire retinue, and the entire world with its gods, humans, asuras, and gandharvas, rejoiced and praised what the Bhagavān had said.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-249">
+    <prop type="location-id">UT22084-059-001-148</prop>
+    <tuv xml:lang="bo">
+                <seg>དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ། །འཕགས་པ་ཚངས་པས་ཞུས་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-148"/>This concludes The Noble Mahāyānasūtra “Brahmā’s Question.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-059-001-TU-250">
+    <prop type="location-id">UT22084-059-001-149</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་ཛི་ན་མི་ཏྲ་དང་། ཞུ་ཞེན་གྱི་ལོ་ཙྭ་བ་བནྡེ་ཡེ་ཤེས་སྡེས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-059-001-149"/>Translated, edited, and finalized by the Indian preceptor Jinamitra and the chief editor and translator Bandé Yeshé Dé.</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

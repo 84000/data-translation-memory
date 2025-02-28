@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-072-023" eft:text-version="v-1.0.1-2023"/>
+<body>
+<tu id="UT22084-072-023-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.204.a"/>༄༅༅། །རྒྱ་གར་སྐད་དུ། ཨེ་ཀ་གཱ་ཐཱ། །བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-072-023-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚིགས་སུ་བཅད་པ་གཅིག་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-023-translation"/>The Single Stanza</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-023-TU-3">
+    <prop type="location-id">UT22084-072-023-84</prop>
+    <tuv xml:lang="bo">
+                <seg>དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-023-84"/>Homage to the Three Jewels!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-023-TU-4">
+    <prop type="location-id">UT22084-072-023-87</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐྱེས་བུ་ཁྱུ་མཆོག་ཁྱོད་འདྲའི་དགེ་སྦྱོང་ཆེན་པོ་གཞན་དག་ལྷ་ཡུལ་ས་ལ་མེད། །འཇིག་རྟེན་འདི་ནའང་ཡོད་པ་མ་ཡིན་རྣམ་ཐོས་བུ་ཡི་གནས་ནའང་ཡོད་མ་ཡིན། །ལྷ་ཡི་ཕོ་བྲང་གནས་མཆོག་དག་ནའང་ཡོད་མིན་ཕྱོགས་དང་ཕྱོགས་མཚམས་དག་ནའང་མེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-023-87"/>Foremost among humans, there is no other great ascetic like you, Neither in the heavenly lands, in this world, in Vaiśravaṇa’s abode, In the excellent abodes of the gods’ palaces, nor in the cardinal and intermediate directions.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-023-TU-5">
+    <prop type="location-id">UT22084-072-023-87</prop>
+    <tuv xml:lang="bo">
+                <seg>རི་དང་ནགས་སུ་བཅས་པའི་ས་སྟེང་རྒྱས་པ་ཀུན་ཏུ་ཡུལ་ཞིག་ག་ལ་ཡོད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How could there be another one like you on this vast earth with its mountains and forests?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-023-TU-6">
+    <prop type="location-id">UT22084-072-023-88</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚིགས་སུ་བཅད་པ་གཅིག་པ་རྫོགས་སོ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-023-88"/>Thus ends “The Single Stanza.”</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-088-028" eft:text-version="v-1.0.2-2023"/>
+<body>
+<tu id="UT22084-088-028-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg/>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-028-translation"/>The Noble Essence Dhāraṇī of Vairocana</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-028-TU-2">
+    <prop type="location-id">UT22084-088-028-62</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.99.b"/>དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-028-62"/>“Homage to the Three Jewels!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-028-TU-3">
+    <prop type="location-id">UT22084-088-028-62</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འཕགས་པ་རྣམ་པར་སྣང་མཛད་འོད་ཀྱི་རྒྱལ་པོ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the thus-gone, worthy, perfect buddha, noble Vairocana, the king of light!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-028-TU-4">
+    <prop type="location-id">UT22084-088-028-62</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནམ་མཁའི་སྙིང་པོ་ལ་ཕྱག་འཚལ་ལོ། །ཏདྱ་ཐཱ། ཀ་ལ་ཀ་ལ། ཀི་ལི་ཀི་ལི། བི་རི་བི་རི། ཧུ་རུ་ཧུ་རུ། བཻ་རོ་ཙ་ན་རསྨི་སཉྩོ་དི་ཏེ་ཨཱ་གཙྪ། ཨཱརྱ་ཨཱ་ཀཱ་ཤ་གརྦྷ་མ་ཧཱ་ཀཱ་རུ་ཎི་ཀཱ་པཱུ་ར་ཡ་ཧ་ཤཱ་ན། དྷཱ་ར་ཡ་བུདྡྷེ་བིཤྩ་ཡ་ན། ཙ་ར་ཙ་ར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the bodhisattva mahāsattva Ākāśagarbha!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-028-TU-5">
+    <prop type="location-id">UT22084-088-028-67</prop>
+    <tuv xml:lang="bo">
+                <seg>ཙི་རི་ཙི་རི་སྭཱ་ཧཱ། བཏོན་པས་འགྲུབ་སྟེ། མཚོན་ཆ་དང་། མེ་དང་། ཆུ་དང་། དུག་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-028-67"/>tadyathā| kala kala| kili kili| viri viri| huru huru| vairocana­raśmi­sañcodite āgaccha| āryākāśa­garbha mahā­kāruṇikā pūraya haśāna| dhāraya buddhe viścayana| cara cara| ciri ciri svāhā<tei:milestone xml:id="UT22084-088-028-69"/> By reciting it, this will be accomplished: weapons, fire, water, poison, poisoned food and drink, or kākhordas will not hurt one.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-028-TU-6">
+    <prop type="location-id">UT22084-088-028-67</prop>
+    <tuv xml:lang="bo">
+                <seg>དུག་སྦྱར་མ་དང་། བྱད་སྟེམས་རྣམས་ཀྱིས་མི་ཚུགས་སོ། །རྒྱལ་པོ་དང་། ཆོམ་རྐུན་ལ་སོགས་པ་ཐམས་ཅད་ཀྱིས་གླགས་མི་རྙེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One will not be harmed by a king, thieves, and so forth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-028-TU-7">
+    <prop type="location-id">UT22084-088-028-67</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་དུ་བྲིས་ཏེ་བཞག་པ་དེར་ཡམས་ཀྱི་ནད་དང་། གནོད་པ་དང་། འགོ་བའི་ནད་ཐམས་ཅད་མི་འབྱུང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Wherever this is written down and stored, epidemics, harm, and contagions will not arise.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-028-TU-8">
+    <prop type="location-id">UT22084-088-028-67</prop>
+    <tuv xml:lang="bo">
+                <seg>དྲི་མ་མེད་པའི་འོད་ཅེས་བྱ་བའི་ཏིང་ངེ་འཛིན་ཀྱང་འཐོབ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What is more, one will attain the samādhi called stainless light.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-028-TU-9">
+    <prop type="location-id">UT22084-088-028-72</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་རྣམ་པར་སྣང་མཛད་ཀྱི་སྙིང་པོ་ཞེས་བྱ་བའི་གཟུངས་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-028-72"/>The Noble Dhāraṇī “The Essence of Vairocana” is complete.</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

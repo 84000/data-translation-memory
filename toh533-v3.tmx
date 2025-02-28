@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-088-027" eft:text-version="v-1.0.2-2023"/>
+<body>
+<tu id="UT22084-088-027-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg/>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-088-027-TU-2">
+    <prop type="location-id">UT22084-088-027-60</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.99.b"/>དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཤཱཀྱ་ཐུབ་པ་ལ་པོ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-027-translation"/>The Noble Essence Dhāraṇī of Śākyamuni<tei:milestone xml:id="UT22084-088-027-60"/> Homage to the thus-gone, worthy, fully and perfectly awakened Śākyamuni!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-027-TU-3">
+    <prop type="location-id">UT22084-088-027-65</prop>
+    <tuv xml:lang="bo">
+                <seg>ཏདྱ་ཐཱ། མུ་ནི་མུ་ནི་མ་ཧཱ་མུ་ན་ཡེ་སྭཱ་ཧཱ། ལན་གཅིག་བཟླས་བརྗོད་བྱས་ན་བསྐལ་པ་བྱེ་བ་བརྒྱ་ཕྲག་བརྒྱད་ཁྲིའི་བར་དུ་སྡིག་པ་བྱས་པ་གང་ཡིན་པ་དེ་དག་ཐམས་ཅད་འབྱང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>tadyathā| muni muni mahā­munaye svāhā<tei:milestone xml:id="UT22084-088-027-65"/> When one has recited this once, whatever negative actions one has committed during eighty trillionkalpas, will all be purified.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-027-TU-4">
+    <prop type="location-id">UT22084-088-027-67</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ཤཱཀྱ་ཐུབ་པའི་སྙིང་པོའི་གཟུངས་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-027-67"/>The Noble Dhāraṇī of the Essence of Śākyamuni is complete.</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

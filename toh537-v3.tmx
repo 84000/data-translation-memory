@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-088-031" eft:text-version="v-1.0.1-2023"/>
+<body>
+<tu id="UT22084-088-031-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg/>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-088-031-TU-2">
+    <prop type="location-id">UT22084-088-031-60</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.100.a"/>སངས་རྒྱས་རིན་ཆེན་གཙུག་ཏོར་ཅན་ལ་ཕྱག་འཚལ་ལོ། །ན་མོ་རཏྣ་ཤི་ཁི་ནེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-031-translation"/>Recollecting the Names of the Buddha Ratnaśikhin<tei:milestone xml:id="UT22084-088-031-60"/> Homage to the Buddha Ratnaśikhin.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-031-TU-3">
+    <prop type="location-id">UT22084-088-031-62</prop>
+    <tuv xml:lang="bo">
+                <seg>ཏ་ཐཱ་ག་ཏཱ་ཡ། ཨརྷ་ཏེ་སམྱཀྶཾ་བུདྷཱ་ཡ། ཏདྱ་ཐཱ། རཏྣེ་རཏྣེ་རཏྣ་ཤི་ཁི་ནེ་སྭཱ་ཧཱ། འཆི་བའི་ཚེ་དྲན་ན་ངན་སོང་ཀུན་ལས་རྣམ་པར་གྲོལ་བར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-031-62"/>namo ratnaśikhine| tathāgatāya| arhate sam­yaksaṃ­buddhāya| tadyathā| ratne ratne ratna­śikhine svāhā|| <tei:milestone xml:id="UT22084-088-031-63"/>If someone remembers this at the moment of death, they will be freed from the lower realms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-031-TU-4">
+    <prop type="location-id">UT22084-088-031-62</prop>
+    <tuv xml:lang="bo">
+                <seg>འཆི་འཕོས་ནས་ཀྱང་སུམ་ཅུ་རྩ་གསུམ་གནམ་གྱི་ལྷར་སྐྱེའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When they do die and transmigrate, they will take birth as a god in the Heaven of the Thirty-Three.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-031-TU-5">
+    <prop type="location-id">UT22084-088-031-64</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་རིན་ཆེན་གཙུག་ཏོར་ཅན་གྱི་མཚན་རྗེས་སུ་དྲན་པ་རྫོགས་སོ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-031-64"/>This completes “Recollecting the Names of the Buddha Ratnaśikhin.”</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

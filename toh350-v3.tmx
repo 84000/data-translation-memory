@@ -1,0 +1,1210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-076-004" eft:text-version="v-1.0.1-2023"/>
+<body>
+<tu id="UT22084-076-004-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.50.a"/>༄༅༅། །རྒྱ་གར་སྐད་དུ། ཀ་ན་ཀ་བརྞ་པཱུརྦ་ཡོ་ག་ནཱ་མ། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-2">
+    <prop type="location-id">UT22084-076-004-132</prop>
+    <tuv xml:lang="bo">
+                <seg>གསེར་མདོག་གི་སྔོན་གྱི་སྦྱོར་བ་ཞེས་བྱ་བ། སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-translation"/>The Past Endeavor of Kanakavarṇa<tei:milestone xml:id="UT22084-076-004-132"/> Homage to all buddhas and bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-3">
+    <prop type="location-id">UT22084-076-004-133</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-133"/>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-4">
+    <prop type="location-id">UT22084-076-004-133</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན། དགེ་སློང་སྟོང་ཉིས་བརྒྱ་ལྔ་བཅུའི་དགེ་སློང་གི་དགེ་འདུན་ཆེན་པོ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་སོ། །བཅོམ་ལྡན་འདས་ལ་དགེ་སློང་དང་། དགེ་སློང་མ་དང་། དགེ་བསྙེན་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One was dwelling at Jetavana, Anāthapiṇḍada’s Park, together with a large monastic community of 1,250 monks.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-5">
+    <prop type="location-id">UT22084-076-004-134</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་བསྙེན་མ་དང་། རྒྱལ་པོ་དང་། བློན་པོ་ཆེན་པོ་དང་། མུ་སྟེགས་ཅན་སྣ་ཚོགས་དང་། དགེ་སྦྱོང་དང་། བྲམ་<tei:ref folio="F.50.b"/>ཟེ་དང་། སྤྱོད་པ་པ་དང་། ཀུན་དུ་རྒྱུ་དང་། ལྷ་དང་། ཀླུ་དང་། གནོད་སྦྱིན་དང་། དྲི་ཟ་དང་། ལྷ་མ་ཡིན་དང་། ནམ་མཁའ་ལྡིང་དང་། མི་འམ་ཅི་དང་། ལྟོ་འཕྱེ་ཆེན་པོ་རྣམས་ཀྱིས་བཀུར་སྟི་བྱས། བླ་མར་བྱས། རི་མོར་བྱས་ཤིང་མཆོད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-134"/>The Blessed One was respected, honored, revered, and venerated by monks, nuns, devoted laymen, devoted laywomen, kings, ministers, the various tīrthikas, ascetics, brahmins, practitioners, and wanderers, as well as by gods, nāgas, yakṣas, gandharvas, asuras, garuḍas, kinnaras, and mahoragas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-6">
+    <prop type="location-id">UT22084-076-004-134</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་ཆོས་གོས་དང་། ཞལ་ཟས་དང་། གཟིམས་ཆ་དང་། སྙུན་གྱི་རྐྱེན་སྨན་དང་། ལྷ་དང་མི་རྣམས་ཀྱི་ཡོ་བྱད་དམ་པ་རབ་ཏུ་མང་པོ་ཡང་བརྙེས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One received abundant and exquisite requisites—robes, alms, bedding and seating, and medicine in case of illness—both divine and human.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-7">
+    <prop type="location-id">UT22084-076-004-134</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དག་ལ་བཅོམ་ལྡན་འདས་རྗེས་སུ་ཆགས་པ་ཡང་མི་མངའ་སྟེ། པད་མ་ལ་ཆུ་མི་ཆགས་པ་དེ་བཞིན་ནོ། །བཅོམ་ལྡན་འདས་ཀྱི་རང་བཞིན་ནི་འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Yet, the Blessed One remained untainted by them, like a lotus untainted by water.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-8">
+    <prop type="location-id">UT22084-076-004-134</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱ་ཆེ་ཞིང་དགེ་ལ་གྲགས་པ་དང་སྒྲ་དང་ཚིགས་སུ་བཅད་པས་མངོན་པར་འཕགས་པ་སྟེ། འདི་ལྟར་བཅོམ་ལྡན་འདས་དེ། དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རིག་པ་དང་ཞབས་སུ་ལྡན་པ་བདེ་བར་གཤེགས་པ། འཇིག་རྟེན་མཁྱེན་པ། སྐྱེས་བུ་འདུལ་བའི་ཁ་ལོ་སྒྱུར་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One’s renown, fame, and acclaim, was vast, excellent, and exalted.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-9">
+    <prop type="location-id">UT22084-076-004-134</prop>
+    <tuv xml:lang="bo">
+                <seg>བླ་ན་མེད་པ། ལྷ་དང་མི་རྣམས་ཀྱི་སྟོན་པ་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ། ལྷ་དང་བཅས་པའི་འཇིག་རྟེན་དང་བདུད་དང་བཅས་པ་དང་ཚངས་པ་དང་བཅས་དགེ་སྦྱོང་དང་བྲམ་ཟེར་བཅས་པ་དང་ལྷ་དང་མིར་བཅས་པ་འདི་རྣམས་རང་གི་མངོན་པར་མཁྱེན་པས་མངོན་སུམ་དུ་མཁྱེན་པར་མཛད་ནས་དམ་པའི་ཆོས་སྟོན་ཏེ། ཐོག་མར་དགེ་བ། བར་དུ་དགེ་བ། ཐ་མར་དགེ་བ། དོན་བཟང་པོ། ཚིག་འབྲུ་བཟང་པོ། མ་འདྲེས་པ། ཡོངས་སུ་རྫོགས་པ། ཡོངས་སུ་དགེ་བ། རྣམ་པར་བྱང་བ། ཚངས་པར་སྤྱོད་པ། ཡང་དག་པར་རབ་ཏུ་སྟོན་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In this way, the Blessed One, the tathāgata, arhat, perfectly awakened one, accomplished in knowledge and conduct, the well gone one, the knower of the world, the unsurpassed guide for people to be tamed, the teacher of gods and humans, the Buddha, the Blessed One, having directly understood and clearly perceived this world with its gods, māras, brahmās, ascetics, brahmins, gods, and humans, was teaching the Dharma that is excellent in the beginning, excellent in the middle, and excellent in the end, fine in meaning and fine in expression, and was expounding the entire and complete spiritual life that is completely pure and completely clean.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-10">
+    <prop type="location-id">UT22084-076-004-140</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དགེ་སློང་རྣམས་ལ་བཀའ་སྩལ་པ། དགེ་སློང་དག་ཇི་ལྟར་ངས་སྦྱིན་པའི་འབྲས་བུ་དང་སྦྱིན་པ་ལ་འགེད་པའི་རྣམ་པར་སྨིན་པ་ཤེས་པ་ལྟར། སེམས་ཅན་རྣམས་ཀྱིས་ཀྱང་སྦྱིན་པའི་འབྲས་བུ་དང་སྦྱིན་པ་ལ་འགེད་པའི་རྣམ་པར་སྨིན་པ་ཤེས་པར་གྱིས་ཤིག །གང་འདི་ཁམ་ཕྱི་མའི་ཁམ་ཕྱི་མ་གཅིག་པོ་དེ་ཡང་། གཞན་དག་ལ་མ་བྱིན་མ་བགོས་པར་བདག་གིས་མི་བཟའ་བར་གྱིས་ཤིག །སེར་སྣའི་སེམས་ཀྱི་དྲི་མ་སྐྱེས་པས་ཀུན་ནས་དཀྲིས་<tei:ref folio="F.51.a"/>ཏེ་མ་འདུག་ཅིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-140"/>Then the Blessed One addressed the monks, “Monks, if beings were to know the fruit of giving and the karmic fruition of sharing gifts as I know the fruit of giving and the karmic fruition of sharing gifts, they would not eat even their last mouthful, their last morsel, themselves without giving, without sharing it with others, and the arisen defilement of selfishness would not remain in possession of their minds.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-11">
+    <prop type="location-id">UT22084-076-004-140</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་གང་གི་ཕྱིར་ཇི་ལྟར་ངས་སྦྱིན་པའི་འབྲས་བུ་དང་། སྦྱིན་པ་ལ་འགེད་པའི་རྣམ་པར་སྨིན་པ་ཤེས་པ་ལྟར། སེམས་ཅན་རྣམས་ནི་སྦྱིན་པའི་འབྲས་བུ་དང་སྦྱིན་པ་ལ་འགེད་པའི་རྣམ་པར་སྨིན་པ་མི་ཤེས་ཏེ། དེ་ལྟ་བས་ན་སེམས་ཅན་རྣམས་གང་འདི་ཁམ་ཕྱི་མའི་ཁམ་ཕྱི་མ་གཅིག་པོ་དེ་ཡང་། གཞན་དག་ལ་མ་བྱིན་མ་བགོས་པར་བདག་ཉིད་ཟ་བར་བྱེད། སེར་སྣའི་སེམས་ཀྱི་དྲི་མ་སྐྱེས་པས་ཀུན་ནས་དཀྲིས་ཏེ་འདུག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>But, monks, because beings do not know the fruit of giving and the karmic fruition of sharing gifts as I know the fruit of giving and the karmic fruition of sharing gifts, they eat even their last mouthful, their last morsel, themselves without giving, without sharing it with others, and the arisen defilement of selfishness remains in possession of their minds.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-12">
+    <prop type="location-id">UT22084-076-004-140</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཅིའི་ཕྱིར་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Why is this?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-13">
+    <prop type="location-id">UT22084-076-004-146</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་སྔོན་བྱུང་བ་འདས་པའི་དུས་ན། རྒྱལ་པོ་གསེར་མདོག་ཅེས་བྱ་བ། གཟུགས་བཟང་བ་མཛེས་པ་བལྟ་ན་སྡུག་པ་ཁ་དོག་བཟང་པོ་རྒྱས་པ་མཆོག་དང་ལྡན་པ་ཞིག་བྱུང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-146"/>“Previously, monks, in a past time, there was a king named Kanakavarṇa, who was handsome, beautiful, and pleasing to behold, being endowed with a sublime golden complexion.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-14">
+    <prop type="location-id">UT22084-076-004-146</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་པོ་གསེར་མདོག་དེ་ཕྱུག་སྟེ་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་ཞིང་བདག་དབང་བ་མང་བ་དང་། དབྱིག་དང་ཡོ་བྱད་མང་བ་དང་། ནོར་དང་། འབྲུ་དང་། ནོར་བུ་དང་། མུ་ཏིག་དང་། མན་ཤེལ་དང་། བྱི་རུ་མང་བ་དང་། གསེར་དང་། དངུལ་མང་བ་དང་། གླང་པོ་ཆེ་དང་། རྟ་དང་། བ་ལང་དང་། རྟ་རྒོད་མ་མང་བ་དང་། མཛོད་དང་། བང་བ་ཡོངས་སུ་གང་བ་ཞིག་བྱུང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That king Kanakavarṇa was rich, wealthy, and prosperous, having abundant possessions; abundant wealth and means; abundant riches, grains, gems, pearls, crystal, coral, gold, and silver; abundant elephants, horses, cows, and stud horses; and treasuries and storehouses that were completely filled.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-15">
+    <prop type="location-id">UT22084-076-004-150</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་པོ་གསེར་མདོག་གི་ཕོ་བྲང་གྲོང་ཁྱེར་གསེར་ཅན་ཞེས་བྱ་བར་བཏགས་ཏེ། ཆུར་ནི་ཤར་ནས་ནུབ་ཏུ་དཔག་ཚད་བཅུ་གཉིས་ཡོད་དོ། །ཞེང་ནི་ལྷོ་ནས་བྱང་དུ་དཔག་ཚད་བདུན་ཡོད་དེ། འབྱོར་པ་དང་། རྒྱས་པ་དང་། བདེ་བ་དང་། ལོ་ལེགས་པ་དང་། ཉམས་དགའ་ཞིང་སྐྱེ་བོ་དང་མི་མང་པོ་རྣམས་ཀྱིས་གང་ངོ་། །རྒྱལ་པོ་གསེར་མདོག་ལ་གྲོང་ཁྱེར་བརྒྱད་ཁྲི་ཡོད་དེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-150"/>“King Kanakavarṇa had a royal capital called Kanakāvatī that was twelve yojanas in length from east to west and seven yojanas wide from south to north.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-16">
+    <prop type="location-id">UT22084-076-004-150</prop>
+    <tuv xml:lang="bo">
+                <seg>འབྱོར་པ་དང་། རྒྱས་པ་དང་། བདེ་བ་དང་། ལོ་ལེགས་པ་དང་། ཉམས་དགའ་ཞིང་སྐྱེ་བོ་མང་པོ་དང་མི་མང་པོ་རྣམས་ཀྱིས་གང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It was prosperous, thriving, happy, well provisioned, pleasant, and bustling with many people.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-17">
+    <prop type="location-id">UT22084-076-004-150</prop>
+    <tuv xml:lang="bo">
+                <seg>གྲོང་ས་ཡ་ཕྲག་ལྔ་བདུན་འབུམ་ཡོད་དེ། འབྱོར་པ་དང་། རྒྱས་པ་དང་། བདེ་བ་དང་། ལོ་ལེགས་པ་དང་། ཉམས་དགའ་ཞིང་སྐྱེ་བོ་དང་མི་མང་པོ་རྣམས་ཀྱིས་གང་ངོ་། །རི་འོར་བ་དྲུག་ཁྲི་ཡོད་དེ། འབྱོར་པ་དང་། རྒྱས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>King Kanakavarṇa had eighty thousand such cities that were prosperous, thriving, happy, well provisioned, pleasant, and bustling with many people; five hundred and seventy million villages that were prosperous, thriving, happy, well provisioned, pleasant, and bustling with many people; and sixty thousand market towns that were prosperous, thriving, happy, well provisioned, pleasant, and bustling with many people.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-18">
+    <prop type="location-id">UT22084-076-004-150</prop>
+    <tuv xml:lang="bo">
+                <seg>བདེ་བ་དང་། ལོ་ལེགས་པ་དང་། ཉམས་དགའ་ཞིང་སྐྱེ་བོ་དང་མི་མང་པོ་རྣམས་ཀྱིས་གང་ངོ་། །རྒྱལ་པོ་གསེར་མདོག་གི་བློན་པོ་ཁྲི་བརྒྱད་སྟོང་ཡོད་དོ། །བུད་<tei:ref folio="F.51.b"/>མེད་སླས་ཉི་ཁྲི་ཡོད་པར་གྱུར་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And, King Kanakavarṇa had eighteen thousand courtiers and a retinue of twenty thousand attendant women.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-19">
+    <prop type="location-id">UT22084-076-004-153</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་རྒྱལ་པོ་གསེར་མདོག་ཆོས་དང་ལྡན་པའི་ཆོས་ཀྱི་རྒྱལ་པོའི་ཆོས་ཀྱིས་རྒྱལ་སྲིད་བྱེད་པར་གྱུར་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-153"/>“Monks, King Kanakavarṇa was righteous and he ruled his kingdom according to the Dharma as a Dharma king.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-20">
+    <prop type="location-id">UT22084-076-004-153</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་པོ་གསེར་མདོག་ཐམས་ཅད་སྦྱིན་པར་བྱེད་དེ། དེས་ཐ་ན་རང་གི་ལུས་ཀྱི་ཤ་མན་ཆད་ཡོངས་སུ་མི་གཏོང་བ་ཅི་ཡང་མེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He engaged in all acts of generosity and there was nothing that he had not given away, including the flesh of his own body.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-21">
+    <prop type="location-id">UT22084-076-004-153</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་དུས་ན་མི་རྣམས་ཀྱི་ཚེའི་ཚད་ལོ་བརྒྱད་ཁྲི་བཞི་སྟོང་ཐུབ་པར་གྱུར་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>During those times people would attain a lifespan of eighty-four thousand years.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-22">
+    <prop type="location-id">UT22084-076-004-155</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཚེ་དུས་གཞན་ཞིག་ན། རྒྱལ་པོ་གསེར་མདོག་གཅིག་པུ་དབེན་པར་ནང་དུ་ཡང་དག་འཇོག་ལ་ཞུགས་ནས། སེམས་ཀྱིས་སེམས་ཀྱི་ཡོངས་སུ་རྟོག་པ་འདི་སྙམ་དུ་སྐྱེས་ཏེ། གང་བདག་གིས་ངེས་པར་ཚོང་པ་ཐམས་ཅད་ལ་ནི། ལ་གཅན་དང་ཤོ་གམ་རྣམས་མི་དབབ་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-155"/>“Now, at one time, when King Kanakavarṇa was alone, having withdrawn in private, a deliberation arose in his mind: ‘Let me free all merchants from customs duties and transit fees.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-23">
+    <prop type="location-id">UT22084-076-004-155</prop>
+    <tuv xml:lang="bo">
+                <seg>འཛམ་བུའི་གླིང་གི་མི་ཐམས་ཅད་ལ་ནི་དཔྱ་དང་སྒྱུ་རྣམས་མི་དབབ་པར་བྱའོ་སྙམ་མོ། །དེ་ནས་རྒྱལ་པོ་གསེར་མདོག་གིས། རྩིས་པ་དང་། སྣ་ཆེན་པོ་ལ་གཏོགས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Let me free all the people of Jambudvīpa from taxes and fees.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-24">
+    <prop type="location-id">UT22084-076-004-156</prop>
+    <tuv xml:lang="bo">
+                <seg>བློན་པོ་དང་། སྒོ་བ་དང་། འཁོར་རྣམས་བོས་ཏེ། འདི་སྐད་ཅེས་སྨྲས་སོ། །དེང་ཕྱིན་ཅད་གྲོང་མི་དང་ཚོང་པ་ཐམས་ཅད་ལ་ལ་གཅན་དང་ཤོ་གམ་རྣམས་མི་དབབ་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-156"/>“King Kanakavarṇa thereupon summoned his accountants, ministers, courtiers, gatekeepers, and councilors, and announced to them, ‘As of today, sirs, all merchants should be freed from customs duties and transit fees.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-25">
+    <prop type="location-id">UT22084-076-004-156</prop>
+    <tuv xml:lang="bo">
+                <seg>འཛམ་བུའི་གླིང་གི་མི་ཐམས་ཅད་ལ་དཔྱ་དང་སྒྱུ་རྣམས་མི་དབབ་པར་བྱའོ་ཞེས་བསྒོའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>All the people of Jambudvīpa should be freed from taxes and fees.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-26">
+    <prop type="location-id">UT22084-076-004-158</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཐབས་འདིས་ལོ་མང་པོ་ཞིག་ཏུ་རྒྱལ་སྲིད་བྱེད་པ་ན། དུས་གཞན་ཞིག་གི་ཚེ་ལོ་བཅུ་གཉིས་ཀྱི་བར་དུ་ཆར་མི་འབབ་པའི་རྒྱུ་སྐར་ངན་པ་ཞིག་བྱུང་བར་གྱུར་ཏོ། །དེའི་ཚེ་བྲམ་ཟེ་མཚན་ཉིད་འདོན་པ་དང་། ལྟས་པ་དང་། མོ་བ་རྣམས་ས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-158"/>“While ruling his kingdom by these means for many years, at a certain time, the constellations became adverse such that it would not rain for twelve years.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-27">
+    <prop type="location-id">UT22084-076-004-158</prop>
+    <tuv xml:lang="bo">
+                <seg>བར་སྣང་གི་རྒྱུ་སྐར་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The brahmins who could understand the indications read the signs and did divinations.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-28">
+    <prop type="location-id">UT22084-076-004-158</prop>
+    <tuv xml:lang="bo">
+                <seg>གཟའ་དང་། པ་བ་སངས་རྒྱུ་བ་དག་དེ་ཐམས་ཅད་ཀྱི་མཚན་ཉིད་ཤེས་པར་བྱས་ནས། རྒྱལ་པོ་གསེར་མདོག་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས་རྒྱལ་པོ་གསེར་མདོག་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ། །ལྷ་མཁྱེན་པར་མཛོད་ཅིག །དགུང་ལོ་བཅུ་གཉིས་ཀྱི་བར་དུ་ཆར་མི་འབབ་པའི་རྒྱུ་སྐར་ངན་པ་དེ་བྱུང་བར་གྱུར་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Having observed this in the movements of the constellations and the planet Venus, they went to King Kanakavarṇa and said, ‘Your Majesty, please know that the constellations have become adverse such that it will not rain for twelve years.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-29">
+    <prop type="location-id">UT22084-076-004-162</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་རྒྱལ་པོ་གསེར་མདོག་དངོས་པོ་བསྒྲགས་པ་དེ་ཐོས་ནས། རབ་ཏུ་ངུས་ཏེ་མཆི་མ་ཕྱུང་ནས་ཨེ་མའོ་ངའི་འཛམ་བུའི་གླིང་གི་མི་རྣམས། ཨེ་མའོ་ཨེ་མའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-162"/>“Upon hearing this news, King Kanakavarṇa broke down in tears, ‘Oh, my people of Jambudvīpa!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-30">
+    <prop type="location-id">UT22084-076-004-162</prop>
+    <tuv xml:lang="bo">
+                <seg>ངའི་འཛམ་བུའི་གླིང་གི་མི་རྣམས་ཨེ་མའོ་ཨེ་མའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Oh, my people of Jambudvīpa!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-31">
+    <prop type="location-id">UT22084-076-004-162</prop>
+    <tuv xml:lang="bo">
+                <seg>ངའི་འཛམ་བུའི་གླིང་འབྱོར་པ་དང་། རྒྱས་པ་དང་། བདེ་<tei:ref folio="F.52.a"/>བ་དང་། ལོ་ལེགས་པ་དང་། ཉམས་དགའ་ཞིང་སྐྱེ་བོ་དང་མི་མང་པོས་གང་བ་རྣམས་རིང་པོར་མི་ཐོགས་པ་ཉིད་དུ་སྟོང་ཞིང་མི་དང་འབྲལ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Oh, my Jambudvīpa that is prosperous, thriving, happy, well provisioned, pleasant, and bustling with many people—before long you will be empty and bereft of people!’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-32">
+    <prop type="location-id">UT22084-076-004-164</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་རྒྱལ་པོ་གསེར་མདོག་ཡུད་ཙམ་ཞིག་མྱ་ངན་དང་སྨྲེ་སྔགས་འདོན་པ་སངས་ནས། འདི་སྙམ་དུ་གྱུར་ཏེ། གང་འདི་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བ་དེ་དག་ནི་འཚོ་བར་ནུས་ཀྱི། གང་འདི་དབུལ་ཞིང་ནོར་ཉུང་ལ་བཟའ་བཏུང་དང་། ལོངས་སྤྱོད་ཆུང་བ་དེ་དག་ནི། ཅི་ལྟར་བྱེད་ཅིག་གུ །དེ་འདི་སྙམ་དུ་གྱུར་ཏེ། བདག་གིས་ངེས་པར་འཛམ་བུའི་གླིང་གི་ཟས་ལ་སོགས་པ་ཐམས་ཅད་བསྡུ་བར་བྱའོ། །ཟས་ལ་སོགས་པ་བསྡུས་ཏེ། གྲོང་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-164"/>“After weeping sorrowfully for a moment, King Kanakavarṇa thought, ‘Those who are rich, wealthy, and prosperous will be able to support themselves, but those who are poor, with little wealth, and with little to eat and drink—how will they survive?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-33">
+    <prop type="location-id">UT22084-076-004-164</prop>
+    <tuv xml:lang="bo">
+                <seg>གྲོང་ཁྱེར་དང་། གྲོང་རྡལ་དང་། རྒྱལ་པོའི་ཕོ་བྲང་འཁོར་ཐམས་ཅད་དུ་བང་བ་གཅིག་བརྩིག་པར་བྱའོ། །བང་བ་གཅིག་བརྩིགས་ཏེ། འཛམ་བུའི་གླིང་གི་མི་ཐམས་ཅད་བཟའ་བ་མཉམ་པར་བགོ་བར་བྱའོ་སྙམ་མོ། །དེ་ནས་རྒྱལ་པོ་གསེར་མདོག་གིས། རྩིས་པ་དང་། སྣ་ཆེན་པོ་ལ་གཏོགས་པ་དང་། བློན་པོ་དང་། སྒོ་བ་དང་། འཁོར་རྣམས་བོས་ཏེ། འདི་སྐད་ཅེས་སྨྲས་སོ། །གྲོང་གི་གཙོ་བོ་དག་ཁྱེད་རྣམས་དེང་ལ་འཛམ་བུའི་གླིང་གི་ཟས་ལ་སོགས་པ་ཐམས་ཅད་སྡུས་ཤིག །ཟས་ལ་སོགས་པ་བསྡུས་ཏེ། གཅོལ་ལ་གྲོངས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Let me collect all the foodstuffs in Jambudvīpa, build a storehouse for all the villages, cities, and market towns, as well as for the royal capital, and distribute an equal share to all the people of Jambudvīpa.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-34">
+    <prop type="location-id">UT22084-076-004-166</prop>
+    <tuv xml:lang="bo">
+                <seg>གཅལ་ཏེ་བགྲངས་ནས། གྲོང་དང་། གྲོང་ཁྱེར་དང་། གྲོང་རྡལ་དང་། རྒྱལ་པོའི་ཕོ་བྲང་འཁོར་ཐམས་ཅད་དུ་བང་བ་བཟང་པོ་གཅིག་རྩིགས་ཤིག་ཅེས་བསྒོའོ། །དེ་ནས་རྩིས་པ་དང་སྣ་ཆེན་པོ་ལ་གཏོགས་པ་དང་། བློན་པོ་དང་། སྒོ་བ་དང་། འཁོར་རྣམས་ཀྱིས་རྒྱལ་པོ་གསེར་མདོག་གི་ལྟར་མཉན་ནས། འཛམ་བུའི་གླིང་གི་ཟས་ལ་སོགས་པ་ཐམས་ཅད་བསྡུས་སོ། །ཟས་ལ་སོགས་པ་བསྡུས་ནས། གཅལ་བགྲངས་ཏེ། གྲོང་དང་། གྲོང་ཁྱེར་དང་། གྲོང་རྡལ་དང་། རྒྱལ་པོའི་ཕོ་བྲང་འཁོར་རྣམས་སུ་བང་བ་གཅིག་བྱས་ནས་བླུགས་སོ། །བང་བ་གཅིག་བྱས་ནས་བླུགས་ཏེ། རྒྱལ་པོ་གསེར་མདོག་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས། རྒྱལ་པོ་གསེར་མདོག་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ། །ལྷ་མཁྱེན་པར་མཛོད་ཅིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-166"/>“King Kanakavarṇa then summoned his accountants, ministers, courtiers, gatekeepers, and councilors, and ordered, ‘Sirs, go and collect all the foodstuffs in Jambudvīpa, count them and measure them out, and place them in a storehouse for all the villages, cities, and market towns, as well as for the royal capital.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-35">
+    <prop type="location-id">UT22084-076-004-167</prop>
+    <tuv xml:lang="bo">
+                <seg>གྲོང་དང་། གྲོང་ཁྱེར་དང་། གྲོང་<tei:ref folio="F.52.b"/>རྡལ་དང་། རྒྱལ་པོའི་ཕོ་བྲང་འཁོར་ཐམས་ཅད་ཀྱི་ཟས་ལ་སོགས་པ་བསྡུས་སོ། །བསྡུས་ནས་ཀྱང་གཅལ་ཞིང་བགྲངས་ལགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-167"/>“The accountants, ministers, courtiers, gatekeepers, and councilors did as King Kanakavarṇa had ordered, and when they had stored the foodstuffs in the storehouse, they went to King Kanakavarṇa and said, ‘Your Majesty, please know that the foodstuffs from all the villages, cities, and market towns, as well as from the royal capital, have all been collected, counted, measured out, and stored in a storehouse for all the villages, cities, and market towns, as well as for the royal capital.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-36">
+    <prop type="location-id">UT22084-076-004-167</prop>
+    <tuv xml:lang="bo">
+                <seg>གཅལ་ཞིང་བགྲངས་ནས། གྲོང་དང་། གྲོང་ཁྱེར་དང་། གྲོང་རྡལ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What does Your Majesty deem fit now?’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-37">
+    <prop type="location-id">UT22084-076-004-168</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་པོའི་ཕོ་བྲང་འཁོར་ཐམས་ཅད་དུ་བང་བ་བགྱིས་ནས་སྩལ་ལགས་ཀྱིས། ཁྱོད་གང་གི་དུས་ཉིད་དགོངས་སམ། དེ་ནས་རྒྱལ་པོ་གསེར་མདོག་གིས་གྲངས་པ་དང་། རྩིས་པ་དང་ཡི་གེ་པའི་མི་རྣམས་བོས་ནས་འདི་སྐད་ཅེས་སྨྲས་སོ། །གྲོང་གི་གཙོ་བོ་དག་ཁྱེད་རྣམས་དེང་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-168"/>“King Kanakavarṇa then summoned his counters, accountants, and scribes and ordered, ‘Sirs, go and count all the people of Jambudvīpa.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-38">
+    <prop type="location-id">UT22084-076-004-168</prop>
+    <tuv xml:lang="bo">
+                <seg>འཛམ་བུའི་གླིང་གི་མི་ཐམས་ཅད་གྲོངས་ཤིག །ང་མན་ཆད་ལེགས་པར་གྲོངས་ལ། འཛམ་བུའི་གླིང་གི་མི་ཐམས་ཅད་ཀྱི་བཟའ་བ་ལེགས་པར་མཉམ་པར་བགོ་བར་གྱིས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Having properly counted everyone starting with myself, properly distribute an equal share of food to all the people of Jambudvīpa.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-39">
+    <prop type="location-id">UT22084-076-004-171</prop>
+    <tuv xml:lang="bo">
+                <seg>གྲངས་པ་དང་རྩིས་པ་དང་ཡི་གེ་པའི་མི་རྣམས་ཀྱིས་རྒྱལ་པོ་གསེར་མདོག་གི་ལྟར་མཉན་ནས། འཛམ་བུའི་གླིང་གི་མི་ཐམས་ཅད་ལེགས་པར་བགྲངས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-171"/>“The counters, accountants, and scribes obeyed and they properly counted all the people of Jambudvīpa.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-40">
+    <prop type="location-id">UT22084-076-004-171</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་པོ་གསེར་མདོག་མན་ཆད་ལེགས་པར་བགྲངས་ནས། འཛམ་བུའི་གླིང་གི་མི་ཐམས་ཅད་ལ་བཟའ་བ་མཉམ་པར་འགེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When they had properly counted everyone, starting with King Kanakavarṇa, they assigned an equal share of food to all the people of Jambudvīpa.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-41">
+    <prop type="location-id">UT22084-076-004-173</prop>
+    <tuv xml:lang="bo">
+                <seg>ལོ་བཅུ་གཅིག་གི་བར་དུ་ནི་ཤི་བ་མེད་དོ། །ལོ་བཅུ་གཉིས་པ་བྱུང་བའི་ཚེ་ཟླ་བ་གཅིག་ལ་དེར་མང་དུ་སྐྱེས་པ་དང་བུད་མེད་དང་ཁྱེའུ་དང་བུ་མོ་རྣམས་བཀྲེས་པ་དང་སྐོམ་པས་ཤིའོ། །ལོ་བཅུ་གཉིས་པ་བྱུང་བའི་ཚེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-173"/>“For eleven years everyone survived, but during the first month of the twelfth year, many men, women, and children began to die from hunger and thirst.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-42">
+    <prop type="location-id">UT22084-076-004-173</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟླ་བ་ལྷག་མ་གཉིས་དང་། གསུམ་དང་། བཞི་དང་། ལྔ་དང་། བཅུ་གཅིག་གི་བར་དུ་དེར་མང་དུ་སྐྱེས་པ་དང་བུད་མེད་དང་ཁྱེའུ་དང་བུ་མོ་རྣམས་ཤི་བར་གྱུར་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>As the second, third, fourth, and fifth months passed, many more men, women, and children died.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-43">
+    <prop type="location-id">UT22084-076-004-173</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཚེ་ན་འཛམ་བུའི་གླིང་གི་ཟས་ལ་སོགས་པ་ཐམས་ཅད་ཡོངས་སུ་ཟད་དེ། །གཞན་དུ་ན་རྒྱལ་པོ་གསེར་མདོག་ལ་ཟས་ཀྱི་ལྷག་མ་བྲེའུ་ཆུང་གང་ཞིག་ཡོད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This went on until the eleventh month, when all the food in Jambudvīpa had been exhausted, apart from a single measure of food left for King Kanakavarṇa.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-44">
+    <prop type="location-id">UT22084-076-004-176</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཚེ་དུས་གཞན་ཞིག་ན། བསྐལ་པ་བཞི་བཅུར་སྤྱོད་པའི་བྱང་ཆུབ་སེམས་དཔའ་ཞིག་མི་མཇེད་ཀྱི་འཇིག་རྟེན་གྱི་ཁམས་འདིར་ཕྱིན་པར་གྱུར་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-176"/>“Now, at that time, there was a bodhisattva who had been embarked upon the path for forty eons and who had reached this Sahā world.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-45">
+    <prop type="location-id">UT22084-076-004-176</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་དེས་གཞན་ཞིག་ཏུ། ནགས་ཁྲོད་ཞིག་ན། བུ་དང་མ་གཉིས་ཉལ་པོ་བྱེད་པ་ཞིག་མཐོང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That bodhisattva saw, somewhere in a forest, a son having sexual intercourse with his mother.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-46">
+    <prop type="location-id">UT22084-076-004-176</prop>
+    <tuv xml:lang="bo">
+                <seg>མཐོང་ནས་ཀྱང་འདི་སྙམ་དུ་གྱུར་ཏེ། ཨེ་མའོ་ཉོན་མོངས་སོ། །སེམས་ཅན་འདི་དག་ནི་ཉོན་མོངས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Seeing this, he thought, ‘Oh, how defiled, how defiled these beings are!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-47">
+    <prop type="location-id">UT22084-076-004-176</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་གི་ཚེ་<tei:ref folio="F.53.a"/>ཟླ་བ་དགུ་རུམ་དེ་ཉིད་དུ་གནས་ལ། དེ་ཉིད་ཀྱི་ནུ་མ་ལ་འཐུངས་ནས། དེ་ཉིད་དུ་དེ་ལྟར་བྱེད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It was in her womb that he stayed for nine months and it was from her breasts that he drank—and now he does this here!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-48">
+    <prop type="location-id">UT22084-076-004-176</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་འདྲ་བའི་སེམས་ཅན་ཆོས་མ་ཡིན་པའི་འདོད་ཆགས་ཀྱིས་ཞེན་པ། ལོག་པར་ལྟ་བ་འདོད་པ་མི་བཟད་པས་ཟིལ་གྱིས་ནོན་པ། ཕར་མི་འཛིན་པ། མར་མི་འཛིན་པ། དགེ་སྦྱོང་དུ་མི་འཛིན་པ། བྲམ་ཟེར་མི་འཛིན་པ། རིགས་ཀྱི་རྒན་རབས་ལ་བཀུར་སྟི་མི་བྱེད་པ་རྣམས་ཀྱིས་བདག་ཆོག་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I’ve had enough of such beings who are driven by craven desires not in keeping with the Dharma, who have wrong views, who are overcome by unbearable lust, who do not honor their fathers, their mothers, monks, or brahmins, and who do not respect the elders of their family.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-49">
+    <prop type="location-id">UT22084-076-004-176</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་འདྲ་བའི་སེམས་ཅན་རྣམས་ཀྱི་དོན་དུ། བྱང་ཆུབ་ཀྱི་སྤྱོད་པ་སྤྱད་པར་སུ་ཞིག་སྤྲོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Who would bother to practice the conduct of a bodhisattva for the sake of such beings?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-50">
+    <prop type="location-id">UT22084-076-004-176</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་ནི་ངེས་པར་བདག་གཅིག་པུའི་དོན་བསྒྲུབ་པོ་སྙམ་མོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Surely I should practice for my own sake alone.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-51">
+    <prop type="location-id">UT22084-076-004-181</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བྱང་ཆུབ་སེམས་དཔའ་དེ་གཞན་དུ་ཤིང་ལྗོན་པའི་དྲུང་ག་ན་བ་དེར་སོང་སྟེ་ཕྱིན་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-181"/>“Then the bodhisattva went to a tree and sat down at its base.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-52">
+    <prop type="location-id">UT22084-076-004-181</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤིང་ལྗོན་པའི་དྲུང་དེར་སྐྱིལ་མོ་ཀྲུང་བཅས་ནས་ལུས་བསྲང་སྟེ། དགའ་བ་དང་བདེ་བ་དང་དྲན་པ་མངོན་དུ་བཞག་ནས་འདུག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Having crossed his legs and made his body upright, he established mindfulness to the fore.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-53">
+    <prop type="location-id">UT22084-076-004-181</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བྱང་ཆུབ་སེམས་དཔའ་དེ་ཉེ་བར་ལེན་པའི་ཕུང་པོ་ལྔ་རྣམས་ལ། སྐྱེ་བ་དང་འཇིག་པར་རྗེས་སུ་ལྟ་ཞིང་གནས་ཏེ། འདི་ནི་གཟུགས་ཏེ། གཟུགས་འདི་ནི་སྐྱེ་བའོ། །གཟུགས་འདི་ནི་འཇིག་པའོ། །འདི་ནི་ཚོར་བ། འདི་ནི་འདུ་ཤེས། འདི་ནི་འདུ་བྱེད། འདི་ནི་རྣམ་པར་ཤེས་པ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He then dwelled on observing the arising and passing away of the five aggregates that are subject to clinging: ‘This is form, this is the arising of form, this is the vanishing of form; this is feeling; this is perception; these are conditionings; this is consciousness, this is the arising of consciousness, this is the vanishing of consciousness.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-54">
+    <prop type="location-id">UT22084-076-004-181</prop>
+    <tuv xml:lang="bo">
+                <seg>རྣམ་པར་ཤེས་པ་འདི་ནི་སྐྱེ་བའོ། །རྣམ་པར་ཤེས་པ་འདི་ནི་འཇིག་པའོ་ཞེས་དེ་ཉེ་བར་ལེན་པའི་ཕུང་པོ་ལྔ་པོ་འདི་རྣམས་ལ་སྐྱེ་བ་དང་འཇིག་པར་རྗེས་སུ་ལྟ་ཞིང་གནས་སོ། །གང་ཅུང་ཟད་སྐྱེ་བའི་ཆོས་དེ་ཐམས་ཅད་ནི། ཡུན་མི་རིང་བ་ཉིད་དུ་འགག་པའི་ཆོས་ཡིན་ནོ་ཞེས་བྱ་བར་རིག་ནས། དེ་ཉིད་དུ་རང་བྱང་ཆུབ་རྗེས་སུ་ཐོབ་བོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>As he remained like this, observing the arising and passing away of the five aggregates that are subject to clinging, before long, he realized that whatever is of the nature to arise is all of the nature to cease, and right there he reached individual awakening.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-55">
+    <prop type="location-id">UT22084-076-004-184</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་རང་སངས་རྒྱས་དེའི་རྐྱེན་ཇི་ལྟ་བ་བཞིན་གྱིས། ཆོས་ཐོབ་པ་མཐོང་ནས། དེའི་ཚེ་ཚིགས་སུ་བཅད་པ་འདི་དག་སྨྲས་པ། ཡང་དག་བསྙེན་ནས་ཆགས་གྱུར་ལ། །ཆགས་ལས་སྡུག་བསྔལ་འདི་བྱུང་སྟེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-184"/>“Thereupon, after beholding the dharmas attained according to their conditions, on that occasion the blessed pratyekabuddha spoke this verse:<tei:milestone xml:id="UT22084-076-004-187"/> Keeping close company, one comes to have attachments; It is from attachment that this suffering comes about.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-56">
+    <prop type="location-id">UT22084-076-004-184</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆགས་ལ་སྡུག་བསྔལ་འདི་འཇུག་པས། །དེ་ཕྱིར་མཁས་པས་ཆགས་སུན་ཕྱུང་། །བསེ་རུ་ལྟ་བུར་གཅིག་པུ་སྤྱད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Realizing the danger coming from attachment, One should move alone like a rhinoceros.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-57">
+    <prop type="location-id">UT22084-076-004-194</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་རང་སངས་རྒྱས་དེ་འདི་སྙམ་དུ་གྱུར་ཏེ། བདག་གིས་སེམས་ཅན་རྣམས་ཀྱི་ཕྱིར་དཀའ་བ་མང་ཞིག་སྤྱད་པས་ན་སུལ་<tei:ref folio="F.53.b"/>ཡང་ཕན་པ་བྱས་པ་མ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-194"/>“Then the blessed pratyekabuddha thought, ‘I have performed many difficult deeds for the sake of sentient beings, but no one has yet been benefitted.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-58">
+    <prop type="location-id">UT22084-076-004-194</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གིས་དེང་སུ་ཞིག་ལ་སྙིང་བརྩེ་བར་བྱ་ཞིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>To whom should I now extend my compassion?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-59">
+    <prop type="location-id">UT22084-076-004-194</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གིས་དེང་སུ་ཞིག་ལ་བསོད་སྙོམས་བླངས་ཏེ། ཡོངས་སུ་བཟའ་བར་བྱ་སྙམ་མོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Whose alms should I now receive and eat?’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-60">
+    <prop type="location-id">UT22084-076-004-195</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་རང་སངས་རྒྱས་དེ་མི་ལས་ཤིན་ཏུ་འདས་པའི་ལྷའི་སྤྱན་གྱིས་འཛམ་བུའི་གླིང་འདི་ཀུན་དུ་བལྟས་པ་དང་། བཅོམ་ལྡན་འདས་རང་སངས་རྒྱས་དེས་འཛམ་བུའི་གླིང་གི་ཟས་ལ་སོགས་པ་ཡོངས་སུ་ཟད་པར་མཐོང་སྟེ། གཞན་དུ་ན་རྒྱལ་པོ་གསེར་མདོག་ལ་ཟས་ཀྱི་ལྷག་མ་བྲེའུ་ཆུང་གང་ཞིག་ཡོད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-195"/>“The blessed pratyekabuddha surveyed the whole of Jambudvīpa with his superhuman divine vision, and he saw that all the food in Jambudvīpa had been exhausted apart from a single measure of food left for King Kanakavarṇa.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-61">
+    <prop type="location-id">UT22084-076-004-195</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་འདི་སྙམ་དུ་གྱུར་ཏེ། བདག་གིས་ངེས་པར་རྒྱལ་པོ་གསེར་མདོག་ལ་སྙིང་བརྩེ་བར་བྱ་ཞིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He then thought, ‘Let me extend my compassion to King Kanakavarṇa.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-62">
+    <prop type="location-id">UT22084-076-004-195</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གིས་ངེས་པར་རྒྱལ་པོ་གསེར་མདོག་ལ་ཟས་ཀྱི་ལྷག་མ་བྲེའུ་ཆུང་གང་ཞིག་ཡོད་པ་ལས་བླངས་ཏེ་ཡོངས་སུ་བཟའ་བར་བྱའོ་སྙམ་མོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Let me receive and eat the single measure of food that is left for King Kanakavarṇa.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-63">
+    <prop type="location-id">UT22084-076-004-198</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་རང་སངས་རྒྱས་དེ། དེའི་རྫུ་འཕྲུལ་འདི་ལྟ་བུས་ནམ་མཁའ་ལ་མངོན་སུམ་དུ་སོང་སྟེ། ལུས་སྣང་བར་བྱ་བཞིན་དུ་རྫུ་འཕྲུལ་གྱིས་རྒྱལ་པོའི་ཕོ་བྲང་གསེར་ཅན་གང་ན་བ་དེར་སོང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-198"/>“Then the blessed pratyekabuddha, by such miraculous ability of his, rose up into the sky, and, like a bird in bodily appearance, through his miraculous ability, proceeded to the royal capital Kanakāvatī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-64">
+    <prop type="location-id">UT22084-076-004-200</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཚེ་རྒྱལ་པོ་གསེར་མདོག་བློན་པོ་ལྔ་སྟོང་ཙམ་དང་། ཁང་བཟངས་ཀྱི་སྟེང་ན་འཁོད་པར་གྱུར་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-200"/>“At that time King Kanakavarṇa was on the palace terrace, accompanied by five thousand courtiers.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-65">
+    <prop type="location-id">UT22084-076-004-200</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་རང་སངས་རྒྱས་དེ། རྒྱང་རིང་པོ་ནས་འདི་ལྟར་འོང་བ་ན། སྣ་ཆེན་པོ་ལ་གཏོགས་པ་གཅིག་གིས་མཐོང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One minister saw the blessed pratyekabuddha coming from a distance.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-66">
+    <prop type="location-id">UT22084-076-004-200</prop>
+    <tuv xml:lang="bo">
+                <seg>མཐོང་ནས་སྣ་ཆེན་པོ་ལ་གཏོགས་པ་དག་བོས་ནས། གྲོང་གི་གཙོ་བོ་དག་ལྟོས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Seeing this, he called the other ministers, ‘Look, sirs, look!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-67">
+    <prop type="location-id">UT22084-076-004-200</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟར་རྒྱང་རིང་པོ་ནས་བྱ་དམར་པོ་འཕུར་བ་ཞིག་འོང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>From the distance, a red-winged bird is coming toward us here!’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-68">
+    <prop type="location-id">UT22084-076-004-201</prop>
+    <tuv xml:lang="bo">
+                <seg>སྣ་ཆེན་པོ་ལ་གཏོགས་པ་གཉིས་པས་སྨྲས་པ། གྲོང་གི་གཙོ་བོ་དག་འདི་ནི་བྱ་དམར་པོ་འཕུར་བ་མ་ཡིན་གྱི། འདི་ནི་སྲིན་པོ་མདངས་འཕྲོག་པ་ཞིག་འོང་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-201"/>“Another minister said, ‘Sirs, this is not a red-winged bird—it’s a life-robbing demon that is coming here!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-69">
+    <prop type="location-id">UT22084-076-004-201</prop>
+    <tuv xml:lang="bo">
+                <seg>འདིས་ནི་དེང་བདག་ཅག་ཟོས་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is now going to devour us!’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-70">
+    <prop type="location-id">UT22084-076-004-202</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་རྒྱལ་པོ་གསེར་མདོག་ལག་པ་གཉིས་ཀས་བཞིན་ལེགས་པར་ཕྱིས་ཏེ། སྣ་ཆེན་པོ་རྣམས་ལ་སྨྲས་པ། གྲོང་གི་གཙོ་བོ་དག་འདི་ནི་བྱ་དམར་པོ་འཕུར་བ་མ་ཡིན་ལ། སྲིན་པོ་མདངས་འཕྲོག་པ་ཡང་མ་ཡིན་ནོ། །འདི་ནི་དྲང་སྲོང་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-202"/>“Then King Kanakavarṇa rubbed his face with both hands and said to the ministers, ‘Sirs, this is not a red-winged bird, nor is it a life-robbing demon—it’s a sage who is coming out of compassion for us!’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-71">
+    <prop type="location-id">UT22084-076-004-203</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་ཅག་ལ་སྙིང་བརྩེ་བའི་ཕྱིར་འོང་ངོ་། །དེ་ནས་བཅོམ་ལྡན་འདས་རང་སངས་རྒྱས་དེ། རྒྱལ་པོ་གསེར་མདོག་གི་ཁང་བཟངས་ཀྱི་སྟེང་དུ་བབས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-203"/>“Thereupon that blessed pratyekabuddha alighted on top of King Kanakavarṇa’s palace.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-72">
+    <prop type="location-id">UT22084-076-004-203</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་རྒྱལ་པོ་གསེར་མདོག་<tei:ref folio="F.54.a"/>ལངས་ནས་བཅོམ་ལྡན་འདས་རང་སངས་རྒྱས་དེ་བསུས་ནས། བཅོམ་ལྡན་འདས་རང་སངས་རྒྱས་དེའི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ། སྟན་བཤམས་པ་ལ་བཞུགས་པར་གསོལ་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Rising from his seat, King Kanakavarṇa welcomed the blessed pratyekabuddha, bowed his head at the feet of the blessed pratyekabuddha, and invited him to sit on a seat that had been prepared.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-73">
+    <prop type="location-id">UT22084-076-004-203</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་རྒྱལ་པོ་གསེར་མདོག་གིས། བཅོམ་ལྡན་འདས་རང་སངས་རྒྱས་དེ་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ། །དྲང་སྲོང་ཅིའི་ཕྱིར་འདིར་བྱོན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>King Kanakavarṇa then asked the blessed pratyekabuddha, ‘Sage, for what purpose have you come here?’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-74">
+    <prop type="location-id">UT22084-076-004-204</prop>
+    <tuv xml:lang="bo">
+                <seg>དྲང་སྲོང་གིས་སྨྲས་པ། རྒྱལ་པོ་ཆེན་པོ་ཟས་ཀྱི་ཕྱིར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-204"/>“‘For the purpose of food, great king,’ the sage replied.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-75">
+    <prop type="location-id">UT22084-076-004-205</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་རྒྱལ་པོ་གསེར་མདོག་རབ་ཏུ་ངུས་ཏེ་མཆི་མ་ཕྱུང་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-205"/>“Upon this, King Kanakavarṇa was very distraught, and weeping, he cried, ‘Oh, how poor I am!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-76">
+    <prop type="location-id">UT22084-076-004-205</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨེ་མའོ་བདག་དབུལ་ཏེ་འདི་ལྟར་འཛམ་བུའི་གླིང་གི་དབང་ཕྱུག་དམ་པ་བྱས་ཀྱིས་ཀྱང་དྲང་སྲོང་གཅིག་ལ་བསོད་སྙོམས་དབུལ་བར་མ་ནུས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Even though I have dominion over Jambudvīpa, I am not able to provide alms to even a single sage!’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-77">
+    <prop type="location-id">UT22084-076-004-206</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་རྒྱལ་པོའི་ཕོ་བྲང་གསེར་ཅན་ན་གནས་པའི་ལྷ་དེས། རྒྱལ་པོ་གསེར་མདོག་ལ་ཚིགས་སུ་བཅད་དེ་སྨྲས་པ། ཅི་ཞིག་སྡུག་བསྔལ་ཡིན་ཞེ་ན་ནི་དབུལ་བའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-206"/>“Then the deity of the royal capital Kanakāvatī uttered this verse to King Kanakavarṇa: What is suffering?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-78">
+    <prop type="location-id">UT22084-076-004-206</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤིན་ཏུ་སྡུག་བསྔལ་གང་ཡིན་དབུལ་བ་དེ་ཉིད་དེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is to be poor. What is greater suffering?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-79">
+    <prop type="location-id">UT22084-076-004-206</prop>
+    <tuv xml:lang="bo">
+                <seg>དབུལ་བ་དག་ནི་ནང་ན་ཤི་དང་མཚུངས་པར་གྱུར་པ་སྟེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is poverty itself. To be in poverty is the same as death.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-80">
+    <prop type="location-id">UT22084-076-004-206</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་ནི་ཤི་ཡང་བླ་ཡི་དབུལ་བ་མི་འདོད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I would not choose poverty over death!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-81">
+    <prop type="location-id">UT22084-076-004-213</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་རྒྱལ་པོ་གསེར་མདོག་གིས་མཛོད་པ་བོས་ནས། འདི་སྐད་ཅེས་སྨྲས་སོ། །གྲོང་གི་གཙོ་བོ་ཁྱིམ་ན་བཟའ་བ་ཅུང་ཟད་ཡོད་ན་དྲང་སྲོང་འདི་ལ་དབུལ་བར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-213"/>“King Kanakavarṇa then summoned the person in charge of the storehouse and asked, ‘Sir, is there any food in the house that I could offer to this sage?’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-82">
+    <prop type="location-id">UT22084-076-004-214</prop>
+    <tuv xml:lang="bo">
+                <seg>དེས་སྨྲས་པ། གང་ལྷ་ཉིད་མཁྱེན་པ་ལགས་ཏེ། འཛམ་བུའི་གླིང་གི་ཟས་ལ་སོགས་པ་ཐམས་ཅད་ཡོངས་སུ་བས་སོ། །གཞན་དུ་ན་ལྷ་ཉག་གཅིག་བཤོས་ཀྱི་ལྷག་མ་བྲེའུ་ཆུང་གང་ཞིག་མཆིས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-214"/>“‘Your Majesty,’ he replied, ‘Please know that all the food in Jambudvīpa has been exhausted apart from a single measure of food that remains for Your Majesty.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-83">
+    <prop type="location-id">UT22084-076-004-215</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་རྒྱལ་པོ་གསེར་མདོག་འདི་སྙམ་དུ་གྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-215"/>“King Kanakavarṇa thought, ‘If I eat it, I will live.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-84">
+    <prop type="location-id">UT22084-076-004-215</prop>
+    <tuv xml:lang="bo">
+                <seg>གལ་ཏེ་ཟོས་ན་ནི་འཚོ་ཅི་སྟེ་མ་ཟོས་ན་ནི་འཆིའོ་སྙམ་མོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If I do not eat it, I will die.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-85">
+    <prop type="location-id">UT22084-076-004-215</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཡང་འདི་སྙམ་དུ་གྱུར་ཏེ། གལ་ཏེ་ཟོས་ཀྱང་ངེས་པར་བདག་འཆི་བར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>But then he thought, ‘Even if I eat it, I will certainly come to die—enough of this life of mine!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-86">
+    <prop type="location-id">UT22084-076-004-215</prop>
+    <tuv xml:lang="bo">
+                <seg>འཚོ་བས་ཆོག་གིས་ཇི་ལྟར་ན་འདི་འདྲ་བའི་དྲང་སྲོང་ཚུལ་ཁྲིམས་དང་ལྡན་པ་དགེ་བའི་ཆོས་ཅན་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How could such a virtuous and excellent sage leave my house today with an alms bowl as pristine as before he entered?’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-87">
+    <prop type="location-id">UT22084-076-004-218</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་རྒྱལ་པོ་གསེར་མདོག་གིས་རྩིས་པ་དང་། སྣ་ཆེན་པོ་ལ་གཏོགས་པ་དང་། སྒོ་བ་དང་། འཁོར་རྣམས་བསྡུས་ནས་འདི་སྐད་ཅེས་སྨྲས་སོ། །གྲོང་གི་གཙོ་བོ་དག་ཀྱི་ཧུད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-218"/>“King Kanakavarṇa then gathered his accountants, ministers, courtiers, gatekeepers, and councilors, and said, ‘Please rejoice, sirs!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-88">
+    <prop type="location-id">UT22084-076-004-218</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ནི་གསེར་མདོག་གི་སྦྱིན་པ་གཏོང་བ་ཐ་མ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This is King Kanakavarṇa’s final act of charity.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-89">
+    <prop type="location-id">UT22084-076-004-218</prop>
+    <tuv xml:lang="bo">
+                <seg>རྗེས་སུ་ཡི་རང་བར་གྱིས་ཤིག །དགེ་བའི་རྩ་བ་འདིས་<tei:ref folio="F.54.b"/>འཛམ་བུའི་གླིང་གི་མི་ཐམས་ཅད་ཀྱི་དབུལ་བ་ཡང་དག་པར་གཅོད་པར་གྱུར་ཅིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>By this root of virtue, may there be a complete end to poverty for all the people of Jambudvīpa.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-90">
+    <prop type="location-id">UT22084-076-004-220</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་རྒྱལ་པོ་གསེར་མདོག་གིས་ཟས་བྲེའུ་ཆུང་གང་ཡོད་པ་དེ། བཅོམ་ལྡན་འདས་རང་སངས་རྒྱས་དེའི་ལྷུང་བཟེད་དུ་བླུགས་ནས། བཅོམ་ལྡན་འདས་རང་སངས་རྒྱས་དེའི་ལག་པ་གཡས་པར་ལྷུང་བཟེད་བྱིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-220"/>“Thereupon King Kanakavarṇa put all there was of the measure of food into the bowl of that blessed pratyekabuddha and gave the bowl into the blessed pratyekabuddha’s right hand.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-91">
+    <prop type="location-id">UT22084-076-004-222</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་རང་སངས་རྒྱས་ཀྱི་ལུས་ཀྱིས་ཆོས་སྟོན་པ་ནི་ཆོས་ཉིད་དེ་ཚིག་གིས་ནི་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-222"/>“Now, it is in the nature of things that blessed pratyekabuddhas teach the Dharma bodily, not verbally.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-92">
+    <prop type="location-id">UT22084-076-004-222</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་རང་སངས་རྒྱས་དེ་རྒྱལ་པོ་གསེར་མདོག་གི་བསོད་སྙོམས་བླངས་ནས། འདི་ལྟར་རྫུ་འཕྲུལ་གྱིས་ནམ་མཁའ་ལ་སོང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>So the blessed pratyekabuddha received the alms from King Kanakavarṇa and, in this way by miraculous ability, departed into the sky.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-93">
+    <prop type="location-id">UT22084-076-004-222</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་རྒྱལ་པོ་གསེར་མདོག་ཐལ་མོ་སྦྱར་ནས། མིག་རྒྱང་གིས་སོད་དག་གི་བར་དུ་མིག་མི་འཛུམས་པར་བལྟས་སོ། །དེ་ནས་རྒྱལ་པོ་གསེར་མདོག་གིས། རྩིས་པ་དང་སྣ་ཆེན་པོ་ལ་གཏོགས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With folded hands, King Kanakavarṇa stood looking on, without blinking, until he had passed from sight.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-94">
+    <prop type="location-id">UT22084-076-004-227</prop>
+    <tuv xml:lang="bo">
+                <seg>བློན་པོ་དང་། སྒོ་བ་དང་། འཁོར་རྣམས་བོས་ནས་འདི་སྐད་ཅེས་སྨྲས་སོ། །གྲོང་གི་གཙོ་བོ་དག་རང་རང་གི་གནས་ཇི་ལྟ་བ་བཞིན་དེངས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-227"/>“Then King Kanakavarṇa summoned his accountants, ministers, courtiers, gatekeepers, and councilors, and said, ‘Sirs, go to your respective homes.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-95">
+    <prop type="location-id">UT22084-076-004-227</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁང་བཟངས་འདིར་བཀྲེས་པ་དང་སྐོམ་པས་འཆི་བའི་དུས་མ་བྱེད་ཅིག །དེ་དག་གིས་སྨྲས་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Please do not end your time by dying from hunger and thirst here at the palace.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-96">
+    <prop type="location-id">UT22084-076-004-228</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་གི་ཚེ་ལྷའི་དཔལ་དང་སྐུ་སྐལ་དང་ལྡན་པར་གྱུར་པ་དེའི་ཚེ། བདག་ཅག་ལྷའི་ཞབས་འབྲིང་ན་རྩེ་ཞིང་དགའ་ལ་ལོངས་སྤྱོད་པ་ལགས་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-228"/>“They replied, ‘When Your Majesty possessed wealth and good fortune, we amused and enjoyed ourselves together with Your Majesty.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-97">
+    <prop type="location-id">UT22084-076-004-228</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ་བདག་ཅག་ལྷའི་དུས་ཕྱི་མ་དང་དུས་ཚོད་ཕྱི་མ་ཡོངས་སུ་གཏང་བ་ག་ལ་ཞིག་བཟོད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How could we now abandon Your Majesty at the end, at this final hour?’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-98">
+    <prop type="location-id">UT22084-076-004-229</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་རྒྱལ་པོ་གསེར་མདོག་རབ་ཏུ་ངུས་ཏེ་མཆི་མ་ཕྱུང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-229"/>“Then, King Kanakavarṇa broke down in tears and wept.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-99">
+    <prop type="location-id">UT22084-076-004-229</prop>
+    <tuv xml:lang="bo">
+                <seg>མཆི་མ་དེ་ལེགས་པར་ཕྱིས་ནས་རྩིས་པ་དང་སྣ་ཆེན་པོ་ལ་གཏོགས་པ་དང་བློན་པོ་དང་སྒོ་བ་དང་འཁོར་རྣམས་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ། །གྲོང་གི་གཙོ་བོ་དག་རང་རང་གི་གནས་ཇི་ལྟ་བ་བཞིན་དེངས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Wiping away his tears, he again said to his accountants, ministers, courtiers, gatekeepers, and councilors, ‘Sirs, go to your respective homes.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-100">
+    <prop type="location-id">UT22084-076-004-229</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐམས་ཅད་ཀྱིས་ཁང་བཟངས་འདིར་བཀྲེས་པ་དང་སྐོམ་པ་དག་གིས་འཆི་བའི་དུས་མ་བྱེད་ཅིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>All of you, please do not end your time by dying from hunger and thirst here at the palace.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-101">
+    <prop type="location-id">UT22084-076-004-230</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་རྩིས་པ་དང་སྣ་ཆེན་པོ་ལ་གཏོགས་པ་དང་བློན་པོ་དང་། སྒོ་བ་དང་འཁོར་རྣམས་རབ་ཏུ་ངུས་ཏེ་མཆི་མ་ཕྱུང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-230"/>“At this, the accountants, ministers, courtiers, gatekeepers, and councilors also broke down in tears and wept.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-102">
+    <prop type="location-id">UT22084-076-004-230</prop>
+    <tuv xml:lang="bo">
+                <seg>མཆི་མ་ལེགས་པར་ཕྱིས་ནས། རྒྱལ་པོ་གསེར་མདོག་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས་རྒྱལ་པོ་གསེར་མདོག་གི་རྐང་པ་གཉིས་ལ་ཕྱག་འཚལ་ཏེ། ཐལ་མོ་སྦྱར་ནས། རྒྱལ་པོ་གསེར་མདོག་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ། །བདག་ཅག་གིས་ལྷའི་ཞལ་ལྟ་བའི་ཕྱི་མ་དེང་ལགས་ཏེ། <tei:ref folio="F.55.a"/>
+                </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Wiping away their tears, they approached King Kanakavarṇa, bowed their heads at his feet, and with folded hands said to King Kanakavarṇa, ‘Today is our last sight of Your Majesty.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-103">
+    <prop type="location-id">UT22084-076-004-230</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་ཅག་གིས་གང་ཅུང་ཟད་ལྷའི་བཀའ་ལ་འགལ་བ་ཅི་བགྱིས་པ་བཟོད་པར་གསོལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Please forgive us for anything we have done contrary to Your Majesty’s instruction.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-104">
+    <prop type="location-id">UT22084-076-004-232</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ་བཅོམ་ལྡན་འདས་རང་སངས་རྒྱས་དེས་བསོད་སྙོམས་དེ་ཡོངས་སུ་ཟོས་སོ། །དེ་ནས་སྐད་ཅིག་དེ་ཉིད་ལ་ཕྱོགས་བཞི་ཀུན་ནས་སྤྲིན་སྟུག་པོ་བཞི་ལངས་སོ། །རླུང་གྲང་བ་ཡང་ལངས་ཏེ། དེའི་ཚེ་འཛམ་བུའི་གླིང་ཕྱགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-232"/>“But just as that blessed pratyekabuddha finished eating the alms, at that very moment, four masses of clouds emerged from all four directions, and cool winds began to blow that swept Jambudvīpa clean.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-105">
+    <prop type="location-id">UT22084-076-004-232</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་དེའི་དུས་ཀྱི་བྱེ་བྲག་ལ་བཅའ་བར་བྱ་བ་དང་། བཟའ་བར་བྱ་བ་རྣམ་པ་སྣ་ཚོགས་ཀྱི་ཆར་བབ་སྟེ། བཟའ་བར་བྱ་བའི་དངོས་པོ་འདི་ལྟ་བུ་འབྲས་ཆན་དང་། ཕྱེ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And then, during the second half of that day, it rained various kinds of foods and edible things.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-106">
+    <prop type="location-id">UT22084-076-004-232</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟན་དྲོན་དང་། ཤ་དང་། ཉ་ཤ་དང་། བཟའ་བར་བྱ་བའི་དངོས་པོ་འདི་ལྟ་བུ། བཅའ་བར་བྱ་བ་ལ་ཕུག་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There were foods such as boiled rice, sattu, khichri, meat, and fish.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-107">
+    <prop type="location-id">UT22084-076-004-232</prop>
+    <tuv xml:lang="bo">
+                <seg>བཟའ་བར་བྱ་བ་ལོ་མ་དང་། བཟའ་བར་བྱ་བ་མེ་ཏོག་དང་། བཟའ་བར་བྱ་བ་འབྲས་བུ་དང་། བཟའ་བར་བྱ་བ་ཏིལ་དང་། བཟའ་བར་བྱ་བ་ཏིལ་མར་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There were edible things such as edible roots, stalks, leaves, flowers, fruits, sesame, sesame oil, jaggery, and cane sugar.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-108">
+    <prop type="location-id">UT22084-076-004-232</prop>
+    <tuv xml:lang="bo">
+                <seg>བཟའ་བར་བྱ་བ་བུར་མར་དང་། བཟའ་བར་བྱ་བ་ཁ་ར་དང་། གཞན་ཡང་བཟའ་བར་བྱ་བ་དང་། བཅའ་བར་བྱ་བ་དང་། མྱང་བར་བྱ་བ་རྣམ་པ་མང་པོའི་བཟའ་བ་དག་གི་ཆར་བབ་བོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And there were many other kinds of foods, edible things, and delicacies that rained down.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-109">
+    <prop type="location-id">UT22084-076-004-239</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་རྒྱལ་པོ་གསེར་མདོག་མགུ་ལ་དགའ་ཞིང་ཡི་རངས་ཏེ། རབ་ཏུ་དགའ་ནས་དགའ་བ་དང་ཡིད་བདེ་བ་སྐྱེས་ཏེ། རྩིས་པ་དང་སྣ་ཆེན་པོ་ལ་གཏོགས་པ་དང་བློན་པོ་དང་སྒོ་བ་དང་འཁོར་རྣམས་བོས་ནས་འདི་སྐད་ཅེས་སྨྲས་སོ། །གྲོང་གི་གཙོ་བོ་དག་ལྟོས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-239"/>“King Kanakavarṇa was thrilled, exalted, and elated, and as he rejoiced, full of rapture and gladness, he said to his accountants, ministers, courtiers, gatekeepers, and councilors, ‘Look, sirs!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-110">
+    <prop type="location-id">UT22084-076-004-239</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀྱེ་མ་དེང་བསོད་སྙོམས་གཅིག་ཕུལ་བའི་མྱུ་གུ་བྱུང་བར་གྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Right now the sprout of giving that single portion of alms has appeared!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-111">
+    <prop type="location-id">UT22084-076-004-239</prop>
+    <tuv xml:lang="bo">
+                <seg>འབྲས་བུ་དང་ལོ་མ་དང་མེ་ཏོག་ནི་ཕྱིས་འབྱུང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Fruits, leaves, and flowers will come later!’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-112">
+    <prop type="location-id">UT22084-076-004-241</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ཉི་མ་གཉིས་པ་ལ་ཉིན་བདུན་དུ་ནོར་དང་འབྲུའི་ཆར་རབ་ཏུ་བབ་བོ། །འདི་ལྟ་སྟེ་ཏིལ་དང་། འབྲས་ཐུག་པོ་ཆེ་དང་། མོན་སྲན་གྲེའུ་དང་། མོན་སྲན་དཀར་རུ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-241"/>“On the second day, a week-long rain of goods and grains began.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-113">
+    <prop type="location-id">UT22084-076-004-241</prop>
+    <tuv xml:lang="bo">
+                <seg>ནས་དང་། གྲོ་དང་། སྲན་ཆུང་དང་། འབྲས་སཱ་ལུ་དང་། འབྲུའི་རིགས་ཐམས་ཅད་དང་ཞག་བདུན་དུ་མར་སར་གྱི་ཆར་བབ་བོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>For seven days it rained sesame, rice, mung beans, black gram, barley, wheat, lentils, white rice, and all types of grains.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-114">
+    <prop type="location-id">UT22084-076-004-241</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞག་བདུན་དུ་ཏིལ་མར་གྱི་ཆར་བབ་བོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>For seven days it rained ghee.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-115">
+    <prop type="location-id">UT22084-076-004-241</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞག་བདུན་དུ་བེའུ་རས་ཀྱི་ཆར་བབ་བོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>For seven days it rained sesame oil. For seven days it rained cotton cloth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-116">
+    <prop type="location-id">UT22084-076-004-241</prop>
+    <tuv xml:lang="bo">
+                <seg>ཞག་བདུན་དུ་ཟས་རྣམ་པ་སྣ་ཚོགས་ཀྱི་ཆར་བབ་བོ། །ཞག་བདུན་དུ་རིན་པོ་ཆེ་སྣ་བདུན་ལ། གསེར་དང་། དངུལ་དང་། ཤེལ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>For seven days it rained various kinds of materials.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-117">
+    <prop type="location-id">UT22084-076-004-241</prop>
+    <tuv xml:lang="bo">
+                <seg>བཻ་དཱུརྱ་དང་། མུ་ཏིག་དམར་པོ་དང་། <tei:ref folio="F.55.b"/>རྡོའི་སྙིང་པོ་དང་། སྤུག་རྣམས་ཏེ། རིན་པོ་ཆེ་སྣ་བདུན་པོ་འདི་དག་གི་ཆར་བབ་བོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And for seven days it rained the seven precious substances, namely, gold, silver, crystal, beryl, ruby, emerald, and sapphire.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-118">
+    <prop type="location-id">UT22084-076-004-244</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་པོ་གསེར་མདོག་གི་མཐུས། འཛམ་བུའི་གླིང་གི་མི་ཐམས་ཅད་ཀྱི་དབུལ་བ་ཡང་དག་པར་བཅད་པར་གྱུར་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-244"/>“So, by the power of King Kanakavarṇa, there was a complete end to poverty for all the people of Jambudvīpa.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-119">
+    <prop type="location-id">UT22084-076-004-245</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དེའི་ཚེ་དེའི་དུས་ན། རྒྱལ་པོར་གྱུར་པ་དེ་གཞན་ཞིག་ཡིན་སྙམ་དུ་ཁྱེད་ཀྱིས་སོམ་ཉི་དང་ཡིད་གཉིས་སུ་མི་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-245"/>“Monks, you might be uncertain or in doubt, thinking that it was someone else who was King Kanakavarṇa at that time, at that moment.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-120">
+    <prop type="location-id">UT22084-076-004-245</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དེའི་ཚེ་དེའི་དུས་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>But, monks, it should not be seen in this way.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-121">
+    <prop type="location-id">UT22084-076-004-245</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་པོ་གསེར་མདོག་ཅེས་བྱ་བ་བྱུང་བ་དེ་ནི། ང་ཉིད་ཡིན་པར་བལྟ་བར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I was that king named Kanakavarṇa at that time, at that moment.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-122">
+    <prop type="location-id">UT22084-076-004-247</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་རྣམ་གྲངས་དེས་ཀྱང་འདི་ལྟར་རིག་པར་བྱ་སྟེ། ཇི་ལྟར་ངས་སྦྱིན་པའི་འབྲས་བུ་དང་སྦྱིན་པ་ལ་འགེད་པའི་རྣམ་པར་སྨིན་པ་ཤེས་པ་ལྟར། སེམས་ཅན་རྣམས་ཀྱིས་ཀྱང་སྦྱིན་པའི་འབྲས་བུ་དང་སྦྱིན་པ་ལ་འགེད་པའི་རྣམ་པར་སྨིན་པ་ཤེས་པར་གྱིས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-247"/>“Monks, through this teaching, this should be understood: One should know the fruit of giving and the karmic fruition of sharing gifts as I know the fruit of giving and the karmic fruition of sharing gifts.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-123">
+    <prop type="location-id">UT22084-076-004-247</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་ཁམ་ཕྱི་མའི་ཁམ་ཕྱི་མ་གཅིག་པོ་དེ་ཡང་གཞན་དག་ལ་མ་བྱིན་མ་བགོས་པར་བདག་གི་བར་མི་བྱའོ། །སེར་སྣའི་སེམས་ཀྱི་དྲི་མ་སྐྱེས་པ་ཀུན་ནས་དཀྲིས་ཏེ་འདུག་པར་མི་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One should not eat the last mouthful, the last morsel, oneself—without giving it or sharing it with others—and the arisen defilement of selfishness will not remain in possession of one’s mind.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-124">
+    <prop type="location-id">UT22084-076-004-247</prop>
+    <tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་ངས་ཤེས་པ་དེ་བཞིན་དུ། འདི་ལྟར་སེམས་ཅན་དག་གི་སྦྱིན་པ་དང་སྦྱིན་པ་ལ་འགེད་པའི་རྣམ་པར་སྨིན་པ་མི་ཤེས་ཏེ། དེ་ལྟ་བས་ན་སེམས་ཅན་དག་གང་ཁམ་ཕྱི་མ་ཕྱི་མའི་ཁམ་གཅིག་པོ་དེ་ཡང་གཞན་དག་ལ་མ་བྱིན་མ་བགོས་པར་བདག་ཉིད་ཀྱིས་བཟའ་བར་མི་བྱའོ། །སེར་སྣའི་སེམས་ཀྱི་དྲི་མ་སྐྱེས་པས་ཀུན་ནས་དཀྲིས་ཏེ་འདུག་པར་མི་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>But because beings do not know the fruit of giving and the karmic fruition of sharing gifts as I know the fruit of giving and the karmic fruition of sharing gifts, they eat even their last mouthful, their last morsel, themselves—without giving, without sharing it with others—and the arisen defilement of selfishness remains in possession of their minds.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-125">
+    <prop type="location-id">UT22084-076-004-251</prop>
+    <tuv xml:lang="bo">
+                <seg>སྔོན་གྱི་དགེ་དང་མི་དགེ་བྱས་པ་ཆུད་མི་ཟ། །མཁས་པ་དག་ལ་བརྟེན་པ་ཆུད་ནི་མི་ཟ་སྟེ། །འཕགས་པའི་སྐྱེ་བོས་ལེགས་པར་བཤད་པ་ཆུད་མི་ཟ། །བྱས་པ་གཟོ་ལ་བྱས་པ་རྣམས་ཀྱང་ཆུད་མི་ཟ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-251"/>Past deeds, virtuous or unvirtuous, do not perish, To have attended upon the wise does not perish, What is well said by the noble does not perish, What is done for the grateful does not perish.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-126">
+    <prop type="location-id">UT22084-076-004-257</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-257"/>This is what the Blessed One said.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-127">
+    <prop type="location-id">UT22084-076-004-257</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་དེ་དག་དང་དགེ་སློང་དེ་དག་དང་ལྷ་དང་མི་དང་ལྷ་མ་ཡིན་དང་དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Elated, the bodhisattvas, monks, and the world with its gods, humans, asuras, and gandharvas rejoiced at what the Blessed One had said.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-076-004-TU-128">
+    <prop type="location-id">UT22084-076-004-259</prop>
+    <tuv xml:lang="bo">
+                <seg>གསེར་མདོག་གི་སྔོན་གྱི་སྦྱོར་བ་ཞེས་བྱ་བ་རྫོགས་སོ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-076-004-259"/>This concludes “The Past Endeavor of Kanakavarṇa.”</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

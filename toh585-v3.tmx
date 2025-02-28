@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-090-029" eft:text-version="v-1.0.3-2023"/>
+<body>
+<tu id="UT22084-090-029-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg/>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-029-translation"/>The Noble Quintessence of “The Stem Array”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-029-TU-2">
+    <prop type="location-id">UT22084-090-029-58</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.204.a"/>དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-029-58"/>Homage to the Three Jewels.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-029-TU-3">
+    <prop type="location-id">UT22084-090-029-61</prop>
+    <tuv xml:lang="bo">
+                <seg>ན་མཿས་མནྟཱ་བུད་དྷཱ་ནཱཾ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-029-61"/>namaḥ samanta­buddhānām apratihata­śāsanānām!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-029-TU-4">
+    <prop type="location-id">UT22084-090-029-61</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨ་པྲ་ཏི་ཧ་ཏ་ཤཱ་ས་ནཱ་ནཱཾ། ཨོྃ་ཀི་ཎི་ཀི་ཎི་ཏ་ཏཱ་ག་ཏ་ཨུཏྦྷ་བ་ཤཱནྟེ་བ་ར་དེ། ཨུཏྟ་མ་ཨུཏྟ་མ་ཏ་ཐཱ་ག་ཏ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>oṃ kiṇi kiṇi tathāgatodbhava­śānte varade uttamottama­tathāgatodbhave hūṃ phaṭ svāhā!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-029-TU-5">
+    <prop type="location-id">UT22084-090-029-66</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨུཏྦྷ་བ་ཧཱུྃ་ཕཊ་སྭཱ་ཧཱ། འདི་བཟུང་བས་འཕགས་པ་སྡོང་པོ་བཀོད་པའི་མདོ་ཐམས་ཅད་རྫོགས་པར་བཀླགས་ཤིང་ཁ་ཏོན་དུ་བྱས་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-029-66"/>By upholding this, one will have read and recited the entire Noble Stem Array Sūtra in full.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-029-TU-6">
+    <prop type="location-id">UT22084-090-029-68</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་དང་འཇིག་རྟེན་ལས་འདས་བ་ཐམས་ཅད་ཀྱི་དཀྱིལ་འཁོར་དང་། དམ་ཚིག་ཤེས་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-029-68"/>One will become knowledgeable in all maṇḍalas and vows, both worldly and transcendental.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-029-TU-7">
+    <prop type="location-id">UT22084-090-029-68</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱག་རྒྱ་རྣམས་ཀྱང་ཤེས་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One will also know the hand gestures.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-029-TU-8">
+    <prop type="location-id">UT22084-090-029-70</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་སྡོང་པོ་བཀོད་པའི་སྙིང་པོ་རྫོགས་སོ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-029-70"/>Here ends “The Quintessence of ‘The Stem Array.’ ”</seg>
+            </tuv>
+</tu>
+
+
+</body>
+</tmx>

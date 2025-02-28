@@ -1,0 +1,3461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-071-002" eft:text-version="v-1.0.7-2023"/>
+<body>
+<tu id="UT22084-071-002-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.230.a"/>༄༅། །རྒྱ་གར་སྐད་དུ། མཱ་ཡཱ་ཛཱ་ལཾ་ནཱ་མ་མ་ཧཱ་སཱུ་ཏྲཾ། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-2">
+    <prop type="location-id">UT22084-071-002-71</prop>
+    <tuv xml:lang="bo">
+                <seg>མདོ་ཆེན་པོ་སྒྱུ་མའི་དྲ་བ་ཞེས་བྱ་བ། དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-translation"/>The Mahāsūtra “Illusion’s Net”<tei:milestone xml:id="UT22084-071-002-71"/> Homage to the Three Jewels.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-3">
+    <prop type="location-id">UT22084-071-002-711</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-711"/>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-4">
+    <prop type="location-id">UT22084-071-002-711</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མཉན་དུ་ཡོད་པ་ན་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ། མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན་བཞུགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One was staying in Śrāvastī, in Prince Jeta’s Grove, Anāthapiṇḍada’s Park.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-5">
+    <prop type="location-id">UT22084-071-002-712</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དགེ་སློང་རྣམས་ལ་བཀའ་སྩལ་པ། དགེ་སློང་དག་ལྷག་པའི་ཚུལ་ཁྲིམས་ཀྱི་བསླབ་པ་ཡོད་ལ། ལྷག་པའི་སེམས་མེད་ཅིང་། ལྷག་པའི་ཤེས་རབ་མེད་པ་དང་། ལྷག་པའི་ཚུལ་ཁྲིམས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He addressed the monks as follows:<tei:milestone xml:id="UT22084-071-002-712"/> “Monks, one may possess the training in superior discipline but lack superior contemplation and superior wisdom, and one may possess the training in superior discipline and superior contemplation but lack superior wisdom.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-6">
+    <prop type="location-id">UT22084-071-002-712</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷག་པའི་སེམས་ཀྱི་བསླབ་པ་ཡོད་ལ། ལྷག་པའི་ཤེས་རབ་མེད་པ་ཡང་ཡོད་དེ། འཕགས་པ་ཉན་ཐོས་ལྷག་པའི་ཤེས་རབ་ལ་བརྩོན་པའི་རྗེས་སུ་སྦྱོར་བ་ལ་གནས་ན་ལྷག་པའི་ཚུལ་ཁྲིམས་དང་། ལྷག་པའི་སེམས་ཀྱི་བསླབ་པའི་བསྒོམ་པ་ཡོངས་སུ་རྫོགས་པར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>However, when a noble hearer is established in the practice of striving for superior wisdom, the cultivation of superior discipline and superior contemplation will be perfected.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-7">
+    <prop type="location-id">UT22084-071-002-712</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དེ་ལྟར་ན། འདི་ལ་འཕགས་པ་ཉན་ཐོས་ལྷག་པའི་ཤེས་རབ་ལ་སྦྱོར་བར་རྗེས་སུ་ཞུགས་པ་ལ་གནས་པ་ནི་ཤེས་རབ་ཀྱིས་འཚོ་བ་རྣམས་ཀྱི་ནང་ན་བླ་ན་མེད་པས་འཚོ་བ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thus, monks, noble hearers who remain engaged in practicing superior wisdom are supported by wisdom, which among all supports is unsurpassed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-8">
+    <prop type="location-id">UT22084-071-002-76</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་ཇི་ལྟར་ན་འཕགས་པ་ཉན་ཐོས་ལྷག་པའི་ཤེས་རབ་ལ་སྦྱོར་བར་རྗེས་སུ་ཞུགས་པ་ལ་གནས་པ། ཤེས་རབ་ཀྱིས་འཚོ་བ་རྣམས་ཀྱི་ནང་ན་བླ་ན་མེད་པས་འཚོ་བ་ཡིན་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-76"/>“Monks, how are noble hearers who remain engaged in practicing superior wisdom supported by wisdom, which among all supports is unsurpassed?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-9">
+    <prop type="location-id">UT22084-071-002-76</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་འདི་ལ་འཕགས་པ་ཉན་ཐོས་ལྷག་པའི་ཤེས་རབ་ལ་སྦྱོར་བར་རྗེས་སུ་ཞུགས་པ་ལ་གནས་པ་ནི་བདག་སྔོན་མིག་གིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་གཟུགས་ཡིད་བདེ་བའི་གནས་ལྟ་བུ་དག་ལ་ནི་རྗེས་སུ་ཆགས་ཤིང་གནས་པར་གྱུར་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Monks, noble hearers who remain engaged in practicing superior wisdom consider the following to conduct a thorough analysis: ‘Formerly, I became and remained attached to pleasant forms perceived by the eyes.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-10">
+    <prop type="location-id">UT22084-071-002-76</prop>
+    <tuv xml:lang="bo">
+                <seg>མིག་གིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་གཟུགས་ཡིད་མི་བདེ་བའི་གནས་ལྟ་བུ་དག་ལ་ནི་ཁོང་ཁྲོ་བ་དང་ལྡན་ཞིང་གནས་པར་གྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I became and remained averse to unpleasant forms perceived by the eyes.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-11">
+    <prop type="location-id">UT22084-071-002-76</prop>
+    <tuv xml:lang="bo">
+                <seg>མིག་གིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་གཟུགས་བཏང་སྙོམས་ཀྱི་གནས་ལྟ་བུ་དག་ལ་ནི་སོ་སོར་བརྟགས་པ་མ་ཡིན། སོ་སོར་བརྟགས་པ་མ་ཡིན་པའི་བཏང་སྙོམས་སུ་གནས་པར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I became and remained thoughtlessly indifferent to neutral forms perceived by the eyes.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-12">
+    <prop type="location-id">UT22084-071-002-76</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་བདག་ཡུན་རིང་བོ་ནས་འདི་ལ་རྗེས་སུ་སློབ་ཅིང་རྗེས་སུ་བྱེད་པ་ན་རྒ་བ་དང་། འཆི་བ་ཉམས་སུ་མྱོང་ཞིང་། སྔོན་གྱི་མཐའ་མི་མངོན་<tei:ref folio="F.230.b"/>པར་གྱུར་པས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I have trained myself and behaved in this way for a long time, and so I have experienced old age and death.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-13">
+    <prop type="location-id">UT22084-071-002-76</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གིས་ད་ནི་མིག་གིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་གཟུགས་དག་ལ་སྔོན་ཇི་ལྟ་བ་དེ་ལྟར་བསླབ་པར་མི་བྱ་ཞིང་། བདག་གིས་མིག་གིས་རྣམ་པར་ཤེས་པར་བྱ་བ་འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་གཟུགས་དག་ལ་ལོག་པར་མོས་པའམ། འདུ་ཤེས་ཕྱིན་ཅི་ལོག་གམ། སེམས་ཕྱིན་ཅི་ལོག་གམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The past is gone, so today I will no longer train myself as I did before regarding forms perceived by the eyes.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-14">
+    <prop type="location-id">UT22084-071-002-76</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྟ་བ་ཕྱིན་ཅི་ལོག་ཏུ་གྱུར་པ་འདི་ལྟ་སྟེ། བརྣབ་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པ་དང་། གནོད་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པ་དང་། ཚུལ་ཁྲིམས་དང་བརྟུལ་ཞུགས་མཆོག་ཏུ་འཛིན་པའི་ཚོགས་ཀྱི་མདུད་པ་དང་། འདི་བདེན་ནོ་སྙམ་དུ་མངོན་པར་ཞེན་ཅིང་མཆོག་ཏུ་འཛིན་པའི་ཚོགས་ཀྱི་མདུད་པ་གང་དག་ཡིན་པ་དེ་དག་སྤང་བའི་ཕྱིར་བསླབ་པར་བྱ་ཞིང་དེ་དག་སྤངས་པར་གྱུར་ཅིག་ཅེས་དེ་ལྟར་སོ་སོར་རྟོག་པར་བྱེད་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I must train myself to abandon mistaken beliefs, wrong ideas, incorrect thoughts, and incorrect views regarding past, future, and present forms I perceive with the eyes, such as the psychophysical bonds of covetousness, malice, a sense of moral and ascetic supremacy, and thinking, “This is the truth,” and clinging to it as real—and then I must abandon them.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-15">
+    <prop type="location-id">UT22084-071-002-80</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་འོན་ཀྱང་འདི་ན་ཁ་ཅིག་ལ་ནི་མིག་གིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་གཟུགས་དེ་དག་ཉིད་ཡིད་དུ་འོང་བར་འགྱུར་ལ། གཞན་དག་ལ་ནི་དེ་དག་ཉིད་ཡིད་དུ་མི་འོང་བར་འགྱུར་བ་ཡང་ཡོད་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-80"/>“Moreover, monks, the very same forms perceived by the eyes may be pleasant to some but unpleasant to others.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-16">
+    <prop type="location-id">UT22084-071-002-80</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དག་ལ་ཡང་དུས་ལ་ལར་ནི་ཡིད་བདེ་བའི་གནས་ལྟ་བུ་དག་ཏུ་འགྱུར་ཞིང་། དུས་ལ་ལར་ནི་ཡིད་མི་བདེ་བའི་གནས་ལྟ་བུ་དག་ཏུ་འགྱུར། དུས་ལ་ལར་ནི་བཏང་སྙོམས་ཀྱི་གནས་ལྟ་བུ་དག་ཏུ་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Sometimes they will be pleasant to them, sometimes they will be unpleasant, and sometimes they will be neutral.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-17">
+    <prop type="location-id">UT22084-071-002-80</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དེ་དེ་ལྟར་ན་འདི་ལ་སེམས་ཅན་རྣམས་ཡུན་རིང་པོ་ནས་སེམས་ཀྱིས་བསྒྲིབས་ཤིང་། སེམས་ཀྱིས་བྲིད། སེམས་ཀྱིས་བསླུས་ནས་ཉེས་དམིགས་སུ་མི་མཐོང་ཞིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Monks, beings have been obscured by their minds in this way for a long time, and since they have been deceived and duped by their minds, they do not recognize the error.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-18">
+    <prop type="location-id">UT22084-071-002-80</prop>
+    <tuv xml:lang="bo">
+                <seg>ངེས་པར་འབྱུང་བ་རབ་ཏུ་མི་ཤེས་ཏེ། བདུད་སྡིག་ཅན་ཇི་ལྟར་འདོད་པ་བཞིན་བྱེད་དུ་འཇུག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They have no conception of renunciation, and evil Māra forces them to do whatever he desires.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-19">
+    <prop type="location-id">UT22084-071-002-81</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དགེ་སྦྱོང་ངམ། བྲམ་ཟེ་གང་དག་ཁ་ཅིག་མིག་གིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་གཟུགས་འདི་དག་ཉིད་བདེན་པ་དང་གནས་པའི་སྒོ་ནས་མ་མཐོང་ཞིང་། ཇི་ལྟར་རང་རང་ལོག་པར་མོས་པ་དག་ལ་ནན་གྱིས་བཟུང་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-81"/>“Monks, some śramaṇas and brāhmaṇas do not see those forms that are perceived by the eyes as they truly and really are, so they stubbornly hold on to their own mistaken beliefs.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-20">
+    <prop type="location-id">UT22084-071-002-81</prop>
+    <tuv xml:lang="bo">
+                <seg>མངོན་པར་ཞེན་པར་བྱས་ནས་འདི་ཉིད་བདེན་གྱི་གཞན་ནི་བརྫུན་པའོ་ཞེས་རྗེས་སུ་ཐ་སྙད་འདོགས་པར་བྱེད་པ་དེ་དག་ནི་མིག་གིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་གཟུགས་ཡིད་བདེ་བའི་གནས་ལྟ་བུ་དག་ལ་རྗེས་སུ་ཆགས་ཤིང་གནས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They cling to them as real, thinking, ‘This is true, and anything else is false,’ and they conduct themselves accordingly. They become and remain attached to pleasant forms perceived by the eyes.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-21">
+    <prop type="location-id">UT22084-071-002-81</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སྦྱོང་དང་བྲམ་ཟེ་བརྣབ་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པས་ཀུན་ནས་སུན་ཕྱུང་བ། <tei:ref folio="F.231.a"/>
+                </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These śramaṇas and brāhmaṇas are completely corrupted by the psychophysical bond of covetousness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-22">
+    <prop type="location-id">UT22084-071-002-81</prop>
+    <tuv xml:lang="bo">
+                <seg>རྗེས་སུ་ཆགས་པའི་ཀུན་དུ་སྦྱོར་བ་དང་ལྡན་པ་དེ་དག་ཀྱང་བདུད་སྡིག་ཅན་ཇི་ལྟར་འདོད་པ་བཞིན་བྱེད་དུ་འཇུག་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are entangled in attachment, and so they too are forced to do whatever evil Māra desires.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-23">
+    <prop type="location-id">UT22084-071-002-82</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དགེ་སྦྱོང་ངམ་བྲམ་ཟེ་གང་དག་ཁ་ཅིག་མིག་གིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་གཟུགས་འདི་དག་ཉིད་བདེན་པ་དང་གནས་པའི་སྒོ་ནས་མ་མཐོང་ཞིང་ཇི་ལྟར་རང་རང་ལོག་པར་མོས་པ་དག་ལ་ནན་གྱིས་བཟུང་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-82"/>“Monks, some śramaṇas and brāhmaṇas do not see those forms that are perceived by the eyes as they truly and really are, so they stubbornly hold on to their own mistaken beliefs.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-24">
+    <prop type="location-id">UT22084-071-002-82</prop>
+    <tuv xml:lang="bo">
+                <seg>མངོན་པར་ཞེན་པར་བྱས་ནས་འདི་ཉིད་བདེན་གྱི་གཞན་ནི་བརྫུན་པའོ་ཞེས་རྗེས་སུ་ཐ་སྙད་འདོགས་པར་བྱེད་པ་དེ་དག་ནི་མིག་གིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་གཟུགས་ཡིད་མི་བདེ་བའི་གནས་ལྟ་བུ་དག་ལ་ཁོང་ཁྲོ་བ་དང་ལྡན་པར་གནས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They cling to them as real, thinking, ‘This is true, and anything else is false,’ and they conduct themselves accordingly. They remain averse to unpleasant forms perceived by the eyes.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-25">
+    <prop type="location-id">UT22084-071-002-82</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སྦྱོང་དང་བྲམ་ཟེ་གནོད་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པས་ཀུན་ནས་སུན་ཕྱུང་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These śramaṇas and brāhmaṇas are completely corrupted by the psychophysical bond of malice.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-26">
+    <prop type="location-id">UT22084-071-002-82</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁོང་ཁྲོ་བའི་ཀུན་དུ་སྦྱོར་བ་དང་ལྡན་པ་དེ་དག་ཀྱང་བདུད་སྡིག་ཅན་ཇི་ལྟར་འདོད་པ་བཞིན་དུ་བྱེད་དུ་འཇུག་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are entangled in aversion, and so they too are forced to do whatever evil Māra desires.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-27">
+    <prop type="location-id">UT22084-071-002-83</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དགེ་སྦྱོང་ངམ་བྲམ་ཟེ་གང་དག་ཁ་ཅིག་མིག་གིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་གཟུགས་འདི་དག་ཉིད་བདེན་པ་དང་གནས་པའི་སྒོ་ནས་མ་མཐོང་ཞིང་ཇི་ལྟར་རང་རང་ལོག་པར་མོས་པ་དག་ལ་ནན་གྱིས་བཟུང་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-83"/>“Monks, some śramaṇas and brāhmaṇas do not see those forms that are perceived by the eyes as they truly and really are, so they stubbornly hold on to their own mistaken beliefs.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-28">
+    <prop type="location-id">UT22084-071-002-83</prop>
+    <tuv xml:lang="bo">
+                <seg>མངོན་པར་ཞེན་པར་བྱས་ནས་འདི་ཉིད་བདེན་གྱི་གཞན་ནི་བརྫུན་པའོ་ཞེས་རྗེས་སུ་ཐ་སྙད་འདོགས་པར་བྱེད་པ་དེ་དག་ནི་མིག་གིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་གཟུགས་བཏང་སྙོམས་ཀྱི་གནས་ལྟ་བུ་དག་ལ་སོ་སོ་སོ་སོར་བརྟགས་པ་མ་ཡིན་པའི་བཏང་སྙོམས་སུ་གནས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They cling to them as real, thinking, ‘This is true, and anything else is false,’ and they conduct themselves accordingly. They remain thoughtlessly indifferent to neutral forms perceived by the eyes.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-29">
+    <prop type="location-id">UT22084-071-002-83</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སྦྱོང་ངམ་བྲམ་ཟེ་འདི་བདེན་ནོ་སྙམ་དུ་མངོན་པར་ཞེན་ཅིང་མཆོག་ཏུ་འཛིན་པའི་ཚོགས་ཀྱི་མདུད་པས་ཀུན་ནས་སུན་ཕྱུང་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These śramaṇas and brāhmaṇas are completely corrupted by the psychophysical bond of thinking, ‘This is the truth,’ and clinging to it as real.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-30">
+    <prop type="location-id">UT22084-071-002-83</prop>
+    <tuv xml:lang="bo">
+                <seg>ང་རྒྱལ་གྱི་ཀུན་དུ་སྦྱོར་བ་དང་ལྡན་པ་དེ་དག་ཀྱང་བདུད་སྡིག་ཅན་ཇི་ལྟར་འདོད་པ་བཞིན་བྱེད་དུ་འཇུག་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are entangled in pride, and so they too are forced to do whatever evil Māra desires.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-31">
+    <prop type="location-id">UT22084-071-002-85</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-85"/>“Here is an analogy, monks.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-32">
+    <prop type="location-id">UT22084-071-002-85</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔེར་ན་མི་སྨྱོན་པ་སེམས་གཡེངས་པ་ནི་གཅེར་བུར་དེ་དང་དེ་དག་ཏུ་འཁྱམ་པར་བྱེད་ཅིང་། དེ་དེས་མངོན་པར་དགའ་བར་བྱེད་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>An insane person who is mentally disturbed may wander around naked, take great joy in doing so, and not see any fault in it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-33">
+    <prop type="location-id">UT22084-071-002-85</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལ་ཉེས་དམིགས་སུ་མ་མཐོང་བ་ལས་གང་གི་ཚེ་དེས་རང་གི་སེམས་ཕྱིར་ཐོབ་པ་དེའི་ཚེ་དེ་སྔོན་གྱི་སྨྱོན་པའི་སྤྱོད་པ་དང་། སེམས་གཡེངས་པའི་སྤྱོད་པ་དང་། གཅེར་བུའི་སྤྱོད་པ་པ་དེས་གདུང་བར་བྱེད། ངོ་ཚ་བར་བྱེད། གནོང་བར་བྱེད་ཅིང་། རྣམ་པར་སྨོད་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then, when they come back to their senses, the fact that they had previously conducted themselves as an insane person, behaved like someone who is mentally disturbed, and wandered around naked brings them distress, shame, remorse, and disgust.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-34">
+    <prop type="location-id">UT22084-071-002-86</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དེ་བཞིན་དུ་འཕགས་པ་ཉན་ཐོས་ཐོས་པ་དང་ལྡན་པ་<tei:ref folio="F.231.b"/>ཡང་། འཕགས་པའི་འཇིག་རྟེན་ལས་འདས་པའི་ཤེས་རབ་འདི་ཉིད་ཐོབ་ནས་སྔོན་གྱི་བྱིས་པའི་སྤྱོད་པ་དང་། རྨོངས་པའི་སྤྱོད་པ་དང་། ཤེས་རབ་འཆལ་པའི་སྤྱོད་པ་དེས་གདུང་བར་བྱེད། ངོ་ཚ་བར་བྱེད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-86"/>“Monks, in the same way, for noble hearers who are learned and have obtained noble, supramundane wisdom, their previous childish, deluded, and confused behavior brings them distress, shame, remorse, and disgust.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-35">
+    <prop type="location-id">UT22084-071-002-86</prop>
+    <tuv xml:lang="bo">
+                <seg>གནོང་བར་བྱེད་ཅིང་། རྣམ་པར་སྨོད་པར་བྱེད་ལ། དེ་འདི་སྙམ་དུ་སེམས་ཏེ། བདག་གིས་ནི་སྔོན་མི་རྟག་པ་ཁོ་ན་ལ་རྟག་པར་བསམས་ཤིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They think, ‘Formerly, I thought there was permanence where there is only impermanence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-36">
+    <prop type="location-id">UT22084-071-002-86</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གིས་སྡུག་བསྔལ་བ་ཁོ་ན་ལ་ནི་བདེ་བར་བསམས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I thought there was happiness where there is only suffering.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-37">
+    <prop type="location-id">UT22084-071-002-86</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གིས་མི་གཙང་བ་ཁོ་ན་ལ་ནི་གཙང་བར་བསམས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I thought there was purity where there is only impurity.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-38">
+    <prop type="location-id">UT22084-071-002-86</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གིས་བདག་མེད་པ་ཁོ་ན་ལ་ནི་བདག་ཏུ་བསམས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I thought there was a self where there is only the absence of a self.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-39">
+    <prop type="location-id">UT22084-071-002-86</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་ན་བདག་ནི་སྔོན་མི་རྟག་པ་ལ་རྟག་པར་འདུ་ཤེས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In this way, formerly, I perceived impermanence as permanence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-40">
+    <prop type="location-id">UT22084-071-002-86</prop>
+    <tuv xml:lang="bo">
+                <seg>སྡུག་བསྔལ་བ་ལ་བདེ་བར་འདུ་ཤེས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I perceived suffering as happiness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-41">
+    <prop type="location-id">UT22084-071-002-86</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་གཙང་བ་ལ་གཙང་བར་འདུ་ཤེས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I perceived impurity as purity.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-42">
+    <prop type="location-id">UT22084-071-002-86</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་མེད་པ་ལ་བདག་ཏུ་འདུ་ཤེས་པར་གྱུར་ཏོ་སྙམ་དུ་སེམས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I perceived the absence of a self as a self.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-43">
+    <prop type="location-id">UT22084-071-002-88</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་འདི་ལྟ་སྟེ། དཔེར་ན་སྒྱུ་མ་མཁན་ནམ་སྒྱུ་མ་མཁན་གྱི་སློབ་མ་མཁས་པ་ཞིག་ལམ་པོ་ཆེའི་བཞི་མདོར་འདུག་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-88"/>“Here is an analogy, monks.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-44">
+    <prop type="location-id">UT22084-071-002-88</prop>
+    <tuv xml:lang="bo">
+                <seg>སྒྱུ་མ་རྣམ་པ་བཞི་པོ་འདི་ལྟ་སྟེ། གླང་པོ་ཆེའི་ཚོགས་དང་། རྟ་པའི་ཚོགས་དང་། ཤིང་རྟའི་ཚོགས་དང་། དཔུང་བུ་ཆུང་གི་ཚོགས་དག་བྱས་ཏེ། རྣམ་པར་བསྟན་པར་གྱུར་ན། དེ་ལ་སེམས་ཅན་བྱིས་པའི་རང་བཞིན་ཅན་དང་། རྨོངས་པའི་རང་བཞིན་ཅན་དང་། ཤེས་རབ་འཆལ་པའི་རང་བཞིན་ཅན་གང་དག་ཡིན་པ་དེ་དག་ནི་འདི་སྙམ་དུ་སེམས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>A magician or a skilled magician’s apprentice sits at a major crossroads and creates the following four magical illusions: an elephant division, a cavalry division, a chariot division, and an infantry division.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-45">
+    <prop type="location-id">UT22084-071-002-88</prop>
+    <tuv xml:lang="bo">
+                <seg>གླང་པོ་ཆེའི་ཚོགས་དང་། རྟ་པའི་ཚོགས་དང་། ཤིང་རྟའི་ཚོགས་དང་། དཔུང་བུ་ཆུང་གི་ཚོགས་གང་སྣང་བ་འདི་ནི་བདེན་པ་དང་གནས་པའི་སྒོ་ནས་ཡོད་དོ་སྙམ་དུ་སེམས་སོ། །སེམས་ཅན་བྱིས་པའི་རང་བཞིན་ཅན་མ་ཡིན་པ་དང་། རྨོངས་པའི་རང་བཞིན་ཅན་མ་ཡིན་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Once these are displayed, beings who have a childish, deluded, and confused disposition think, ‘There is an elephant division, a cavalry division, a chariot division, and an infantry division that are visible, real and present here.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-46">
+    <prop type="location-id">UT22084-071-002-89</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤེས་རབ་དང་ལྡན་པའི་རང་བཞིན་ཅན་གང་དག་ཡིན་པ་དེ་དག་ནི་འདི་སྙམ་དུ་སེམས་ཏེ། གླང་པོ་ཆེའི་ཚོགས་དང་། རྟ་པའི་ཚོགས་དང་། ཤིང་རྟའི་ཚོགས་དང་། དཔུང་བུ་ཆུང་གི་ཚོགས་དག་སྣང་བ་འདི་ནི་བདེན་པ་དང་གནས་པའི་སྒོ་ནས་ཡོད་པ་མ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-89"/>“Beings whose disposition is insightful instead of childish or deluded think, ‘There is no elephant division, cavalry division, chariot division, or infantry division that are visible, real and present here.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-47">
+    <prop type="location-id">UT22084-071-002-89</prop>
+    <tuv xml:lang="bo">
+                <seg>སྒྱུ་མར་བྱས་པ་འདི་འབའ་ཞིག་ཡོད་དོ། །མིག་སླུ་བར་བྱེད་པ་འདི་འབའ་ཞིག་ཡོད་དོ་སྙམ་དུ་སེམས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That is only worked by magic, just an optical illusion.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-48">
+    <prop type="location-id">UT22084-071-002-90</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དེ་བཞིན་དུ་འཕགས་པ་ཉན་ཐོས་ཐོས་པ་དང་ལྡན་པ་ཡང་བདག་གི་མིག་གིས་རྣམ་པར་ཤེས་པར་བྱ་བ་འདས་པ་དང་། མ་འོངས་<tei:ref folio="F.232.a"/>པ་དང་། ད་ལྟར་བྱུང་བའི་གཟུགས་གང་དག་ཡིན་པ་འདི་དག་ལ་རྟག་པ་ཉིད་དམ། བརྟན་པ་ཉིད་དམ། ཐེར་ཟུག་ཉིད་དམ། དེ་བཞིན་ཉིད་དམ། མ་ནོར་བ་དེ་བཞིན་ཉིད་དམ། གཞན་མ་ཡིན་པ་དེ་བཞིན་ཉིད་དམ། ཡང་དག་པ་ཉིད་དམ། བདེན་པ་ཉིད་དམ། དེ་ཁོ་ན་ཉིད་དམ། ཇི་ལྟ་བ་བཞིན་ཉིད་དམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-90"/>“Monks, in the same way, noble hearers who are learned think, ‘All of the past, future, and present forms my eyes perceive lack permanence, stability, unchangeability, a true nature, an unmistaken true nature, a unique true nature, genuine reality, truth, suchness, a way things really are, infallibility, and incontrovertibility.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-49">
+    <prop type="location-id">UT22084-071-002-90</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་ནོར་བ་ཉིད་དམ། ཕྱིན་ཅི་མ་ལོག་པ་ཉིད་མེད་དེ། གསོག་ཀྱང་དེ་ཉིད་ཡིན་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are hollow.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-50">
+    <prop type="location-id">UT22084-071-002-90</prop>
+    <tuv xml:lang="bo">
+                <seg>གསོབ་ཀྱང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are vain.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-51">
+    <prop type="location-id">UT22084-071-002-90</prop>
+    <tuv xml:lang="bo">
+                <seg>སྙིང་པོ་མེད་པ་ཡང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They have no essence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-52">
+    <prop type="location-id">UT22084-071-002-90</prop>
+    <tuv xml:lang="bo">
+                <seg>བརྫུན་པ་ཡང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are false.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-53">
+    <prop type="location-id">UT22084-071-002-90</prop>
+    <tuv xml:lang="bo">
+                <seg>སླུ་བའི་ཆོས་ཀྱང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are deceptive phenomena.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-54">
+    <prop type="location-id">UT22084-071-002-90</prop>
+    <tuv xml:lang="bo">
+                <seg>བདུད་ཀྱང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are Māra.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-55">
+    <prop type="location-id">UT22084-071-002-90</prop>
+    <tuv xml:lang="bo">
+                <seg>བདུད་ཀྱི་ཡོ་བྱད་ཀྱང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are Māra’s tools.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-56">
+    <prop type="location-id">UT22084-071-002-90</prop>
+    <tuv xml:lang="bo">
+                <seg>རོ་ཡང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are corpses.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-57">
+    <prop type="location-id">UT22084-071-002-90</prop>
+    <tuv xml:lang="bo">
+                <seg>རོའི་གཟུགས་ཀྱང་དེ་ཉིད་ཡིན་པས་དེ་ལ་ནི་མངོན་པར་དགའ་བར་བྱ་བའམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are corpse-like forms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-58">
+    <prop type="location-id">UT22084-071-002-90</prop>
+    <tuv xml:lang="bo">
+                <seg>མངོན་པར་བརྗོད་པར་བྱ་བའམ། ལྷག་པར་ཆགས་པར་བྱ་བའམ། ལྷག་པར་ཆགས་ཤིང་གནས་པར་བྱ་བར་མི་རིགས་ཀྱི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, it does not make sense to delight in them, speak highly of them, or become and remain excessively attached to them.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-59">
+    <prop type="location-id">UT22084-071-002-90</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་འཕགས་པ་འཇིག་རྟེན་ལས་འདས་པ་ནི་བདེན་ནོ་ཞེས་དེ་ལྟར་སོ་སོར་རྟོག་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The noble, supramundane wisdom taught by the Blessed One is true.’ That is how they conduct a thorough analysis.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-60">
+    <prop type="location-id">UT22084-071-002-92</prop>
+    <tuv xml:lang="bo">
+                <seg>དེས་དེ་ལྟར་ཤེས་ནས་མིག་གིས་རྣམ་པར་ཤེས་པར་བྱ་བ་འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་གཟུགས་ནད་དུ་ཡང་དག་པར་རྗེས་སུ་མཐོང་ཞིང་། འབྲས་དང་། ཟུག་རྔུ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-92"/>“Having understood that, they correctly see all the forms perceived by their eyes in the past, future, and present as a sickness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-61">
+    <prop type="location-id">UT22084-071-002-92</prop>
+    <tuv xml:lang="bo">
+                <seg>སྡིག་པ་དང་། མི་རྟག་པ་དང་། སྡུག་བསྔལ་བ་དང་། སྟོང་པ་དང་། བདག་མེད་པར་ཡང་དག་པར་རྗེས་སུ་མཐོང་ངོ་། །དེས་མིག་གིས་རྣམ་པར་ཤེས་པར་བྱ་བ་འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་གཟུགས་རྣམས་ནད་དུ་ཡང་དག་པར་རྗེས་སུ་མཐོང་ཞིང་། འབྲས་དང་ཟུག་རྔུ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They correctly see them as a cancer, a splinter, a scorpion’s sting, impermanent, suffering, empty, and lacking a self.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-62">
+    <prop type="location-id">UT22084-071-002-93</prop>
+    <tuv xml:lang="bo">
+                <seg>སྡིག་པ་དང་། མི་རྟག་པ་དང་། སྡུག་བསྔལ་བ་དང་། སྟོང་པ་དང་། བདག་མེད་པར་ཡང་དག་པར་རྗེས་སུ་མཐོང་བ་ན་དེ་མིག་གིས་རྣམ་པར་ཤེས་པར་བྱ་བ་འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་གཟུགས་དག་ལ་ལོག་པར་མོས་པའམ། འདུ་ཤེས་ཕྱིན་ཅི་ལོག་གམ། སེམས་ཕྱིན་ཅི་ལོག་གམ། ལྟ་བ་ཕྱིན་ཅི་ལོག་ཏུ་གྱུར་པ་འདི་ལྟ་སྟེ། བརྣབ་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པ་དང་། གནོད་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པ་དང་། ཚུལ་ཁྲིམས་དང་བརྟུལ་ཞུགས་མཆོག་ཏུ་འཛིན་པའི་ཚོགས་ཀྱི་མདུད་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-93"/>“When they correctly see all the forms perceived by their eyes in the past, future, and present as a sickness, and they correctly see them as a cancer, as a splinter, as a scorpion’s sting, as impermanent, suffering, empty, and lacking a self, they then abandon mistaken beliefs, wrong ideas, incorrect thoughts, and incorrect views regarding past, future, and present forms perceived by the eyes that are the psychophysical bonds of covetousness, malice, a sense of moral and ascetic supremacy, and thinking, ‘This is the truth,’ and clinging to it as real.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-63">
+    <prop type="location-id">UT22084-071-002-94</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་བདེན་ནོ་སྙམ་དུ་མངོན་པར་ཞེན་ཅིང་<tei:ref folio="F.232.b"/>མཆོག་ཏུ་འཛིན་པའི་ཚོགས་ཀྱི་མདུད་པ་གང་དག་ཡིན་པ་དེ་དག་སྤོང་བར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-94"/>“By abandoning those bonds, they render Māra blind, depressed, and disoriented and stand their ground.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-64">
+    <prop type="location-id">UT22084-071-002-94</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དག་སྤངས་པའི་ཕྱིར་བདུད་ལྡོངས་པ་དང་། ཡི་ཆད་པ་དང་། ཕྱོགས་མེད་པར་བྱས་ཏེ་གནས་ཤིང་བདུད་སྡིག་ཅན་གྱིས་མི་མཐོང་བར་སོང་ནས་བདུད་དང་བདུད་ཀྱི་འཁོར་བཅོམ་ཞིང་གཡུལ་ཆེན་པོའི་གཡུལ་སྤྲད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Since evil Māra can no longer see them, they destroy Māra and his retinue and wage battle against his great army.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-65">
+    <prop type="location-id">UT22084-071-002-94</prop>
+    <tuv xml:lang="bo">
+                <seg>གཡུལ་ལས་རྣམ་པར་རྒྱལ་བ་དང་། གཡུལ་ངོ་དེ་ཉིད་མངོན་པར་ཕམ་པར་བྱས་ཤིང་གནས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are victorious in battle, destroy the army, and stand their ground.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-66">
+    <prop type="location-id">UT22084-071-002-94</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་ན་འདི་ལ་འཕགས་པ་ཉན་ཐོས་ལྷག་པའི་ཤེས་རབ་ལ་སྦྱོར་བར་རྗེས་སུ་ཞུགས་པ་ལ་གནས་པ་ནི་ཤེས་རབ་ཀྱིས་འཚོ་བ་རྣམས་ཀྱི་ནང་ན་བླ་ན་མེད་པས་འཚོ་བ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This is how noble hearers who remain engaged in practicing superior wisdom are supported by wisdom, which among all supports is unsurpassed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-67">
+    <prop type="location-id">UT22084-071-002-95</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་ཡང་ཇི་ལྟར་ན་འཕགས་པ་ཉན་ཐོས་ལྷག་པའི་ཤེས་རབ་ལ་སྦྱོར་བར་རྗེས་སུ་ཞུགས་པ་ལ་གནས་པ། ཤེས་རབ་ཀྱིས་འཚོ་བ་རྣམས་ཀྱི་ནང་ན་བླ་ན་མེད་པས་འཚོ་བ་ཡིན་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-95"/>“Monks, how else are noble hearers who remain engaged in practicing superior wisdom supported by wisdom, which among all supports is unsurpassed?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-68">
+    <prop type="location-id">UT22084-071-002-95</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་འདི་ལ་འཕགས་པ་ཉན་ཐོས་ལྷག་པའི་ཤེས་རབ་ལ་སྦྱོར་བར་རྗེས་སུ་ཞུགས་པ་ལ་གནས་པ་ནི། བདག་སྔོན་རྣ་བས་རྣམ་པར་ཤེས་པར་བྱ་བའི་སྒྲ་ཡིད་བདེ་བའི་གནས་ལྟ་བུ་དག་ལ་ནི་རྗེས་སུ་ཆགས་ཤིང་གནས་པར་འགྱུར་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Monks, noble hearers who remain engaged in practicing superior wisdom consider the following to conduct a thorough analysis: ‘Formerly, I became and remained attached to pleasant sounds perceived by the ears.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-69">
+    <prop type="location-id">UT22084-071-002-95</prop>
+    <tuv xml:lang="bo">
+                <seg>རྣ་བས་རྣམ་པར་ཤེས་པར་བྱ་བའི་སྒྲ་ཡིད་མི་བདེ་བའི་གནས་ལྟ་བུ་དག་ལ་ནི་ཁོང་ཁྲོ་བ་དང་ལྡན་ཞིང་གནས་པར་གྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I became and remained averse to unpleasant sounds perceived by the ears.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-70">
+    <prop type="location-id">UT22084-071-002-95</prop>
+    <tuv xml:lang="bo">
+                <seg>རྣ་བས་རྣམ་པར་ཤེས་པར་བྱ་བའི་སྒྲ་བཏང་སྙོམས་ཀྱི་གནས་ལྟ་བུ་དག་ལ་ནི་སོ་སོར་བརྟགས་པ་མ་ཡིན། སོ་སོར་བརྟགས་པ་མ་ཡིན་པའི་བཏང་སྙོམས་སུ་གནས་པར་གྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I became and remained thoughtlessly indifferent to neutral sounds perceived by the ears.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-71">
+    <prop type="location-id">UT22084-071-002-95</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་བདག་ཡུན་རིང་པོ་ནས་འདི་ལ་རྗེས་སུ་སློབ་ཅིང་རྗེས་སུ་བྱེད་པ་ན་རྒ་བ་དང་། ན་བ་དང་། འཆི་བ་ཉམས་སུ་མྱོང་ཞིང་། སྔོན་གྱི་མཐའ་མི་མངོན་པར་གྱུར་པས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I have trained myself and behaved in this way for a long time, and so I have experienced old age, sickness, and death.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-72">
+    <prop type="location-id">UT22084-071-002-95</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གིས་ད་ནི་རྣ་བས་རྣམ་པར་ཤེས་པར་བྱ་བའི་སྒྲ་དག་ལ་སྔོན་ཇི་ལྟ་བ་དེ་ལྟར་བསླབ་པར་མི་བྱ་ཞིང་བདག་གིས་རྣ་བས་རྣམ་པར་ཤེས་པར་བྱ་བ་འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་སྒྲ་དག་ལ་ལོག་པར་མོས་པའམ། འདུ་ཤེས་ཕྱིན་ཅི་ལོག་གམ། སེམས་ཕྱིན་ཅི་ལོག་གམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The past is gone, so today I will no longer train myself as I did before regarding sounds perceived by the ears.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-73">
+    <prop type="location-id">UT22084-071-002-95</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྟ་བ་ཕྱིན་ཅི་ལོག་ཏུ་གྱུར་པ་འདི་ལྟ་སྟེ། བརྣབ་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པ་དང་། གནོད་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པ་དང་། ཚུལ་ཁྲིམས་དང་བརྟུལ་ཞུགས་མཆོག་ཏུ་འཛིན་པའི་ཚོགས་ཀྱི་མདུད་པ་དང་། འདི་བདེན་ནོ་སྙམ་དུ་མངོན་པར་ཞེན་<tei:ref folio="F.233.a"/>ཅིང་མཆོག་ཏུ་འཛིན་པའི་ཚོགས་ཀྱི་མདུད་པ་གང་དག་ཡིན་པ་དེ་དག་སྤང་བའི་ཕྱིར་བསླབ་པར་བྱ་ཞིང་། དེ་དག་སྤངས་པར་གྱུར་ཅིག་ཅེས་དེ་ལྟར་སོ་སོར་རྟོག་པར་བྱེད་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I must train myself to abandon mistaken beliefs, wrong ideas, incorrect thoughts, and incorrect views regarding past, future, and present sounds I perceive with the ears that are the psychophysical bonds of covetousness, malice, a sense of moral and ascetic supremacy, and thinking, “This is the truth,” and clinging to it as real—and then I must abandon them.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-74">
+    <prop type="location-id">UT22084-071-002-97</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་འོན་ཀྱང་འདི་ན་ཁ་ཅིག་ལ་ནི་རྣ་བས་རྣམ་པར་ཤེས་པར་བྱ་བའི་སྒྲ་དེ་དག་ཉིད་ཡིད་དུ་འོང་བར་འགྱུར་ལ། གཞན་དག་ལ་ནི་དེ་དག་ཉིད་ཡིད་དུ་མི་འོང་བར་འགྱུར་བ་ཡང་ཡོད་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-97"/>“Moreover, monks, the very same sounds perceived by the ears may be pleasant to some but unpleasant to others.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-75">
+    <prop type="location-id">UT22084-071-002-97</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དག་ལ་ཡང་དུས་ལ་ལར་ནི་ཡིད་བདེ་བའི་གནས་ལྟ་བུ་དག་ཏུ་འགྱུར་ཞིང་། དུས་ལ་ལར་ནི་ཡིད་མི་བདེ་བའི་གནས་ལྟ་བུ་དག་ཏུ་འགྱུར། དུས་ལ་ལར་ནི་བཏང་སྙོམས་ཀྱི་གནས་ལྟ་བུ་དག་ཏུ་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Sometimes they will be pleasant to them, sometimes they will be unpleasant, and sometimes they will be neutral.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-76">
+    <prop type="location-id">UT22084-071-002-97</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དེ་ལྟར་ན་འདི་ལ་སེམས་ཅན་རྣམས་ཡུན་རིང་པོ་ནས་སེམས་ཀྱིས་བསྒྲིབས་ཤིང་། སེམས་ཀྱིས་བྲིད། སེམས་ཀྱིས་བསླུས་ནས་ཉེས་དམིགས་སུ་མི་མཐོང་ཞིང་ངེས་པར་འབྱུང་བ་རབ་ཏུ་མི་ཤེས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Monks, beings have been obscured by their minds in this way for a long time, and since they have been deceived and duped by their minds, they do not recognize the error.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-77">
+    <prop type="location-id">UT22084-071-002-97</prop>
+    <tuv xml:lang="bo">
+                <seg>བདུད་སྡིག་ཅན་ཇི་ལྟར་འདོད་པ་བཞིན་བྱེད་དུ་འཇུག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They have no conception of renunciation, and evil Māra forces them to do whatever he desires.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-78">
+    <prop type="location-id">UT22084-071-002-98</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དགེ་སྦྱོང་ངམ། བྲམ་ཟེ་གང་དག་ཁ་ཅིག་རྣ་བས་རྣམ་པར་ཤེས་པར་བྱ་བའི་སྒྲ་འདི་དག་ཉིད་བདེན་པ་དང་གནས་པའི་སྒོ་ནས་མ་མཐོང་ཞིང་། ཇི་ལྟར་རང་རང་ལོག་པར་མོས་པ་དག་ལ་ནན་གྱིས་བཟུང་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-98"/>“Monks, some śramaṇas and brāhmaṇas do not see those sounds that are perceived by the ears as they truly and really are, so they stubbornly hold on to their own mistaken beliefs.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-79">
+    <prop type="location-id">UT22084-071-002-98</prop>
+    <tuv xml:lang="bo">
+                <seg>མངོན་པར་ཞེན་པར་བྱས་ནས་འདི་ཉིད་བདེན་གྱི་གཞན་ནི་བརྫུན་པའོ་ཞེས་རྗེས་སུ་ཐ་སྙད་འདོགས་པར་བྱེད་པ་དེ་དག་ནི་རྣ་བས་རྣམ་པར་ཤེས་པར་བྱ་བའི་སྒྲ་ཡིད་བདེ་བའི་གནས་ལྟ་བུ་དག་ལ་རྗེས་སུ་ཆགས་ཤིང་གནས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They cling to them as real, thinking, ‘This is true, and anything else is false,’ and they conduct themselves accordingly. They become and remain attached to pleasant sounds perceived by the ears.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-80">
+    <prop type="location-id">UT22084-071-002-98</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སྦྱོང་དང་བྲམ་ཟེ་བརྣབ་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པས་ཀུན་ནས་སུན་ཕྱུང་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These śramaṇas and brāhmaṇas are completely corrupted by the psychophysical bond of covetousness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-81">
+    <prop type="location-id">UT22084-071-002-98</prop>
+    <tuv xml:lang="bo">
+                <seg>རྗེས་སུ་ཆགས་པའི་ཀུན་དུ་སྦྱོར་བ་དང་ལྡན་པ་དེ་དག་ཀྱང་བདུད་སྡིག་ཅན་ཇི་ལྟར་འདོད་པ་བཞིན་བྱེད་དུ་འཇུག་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are entangled in attachment, and so they too are forced to do whatever evil Māra desires.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-82">
+    <prop type="location-id">UT22084-071-002-99</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དགེ་སྦྱོང་ངམ་བྲམ་ཟེ་གང་དག་ཁ་ཅིག་རྣ་བས་རྣམ་པར་ཤེས་པར་བྱ་བའི་སྒྲ་འདི་དག་ཉིད་བདེན་པ་དང་། གནས་པའི་སྒོ་ནས་མ་མཐོང་ཞིང་། ཇི་ལྟར་རང་རང་ལོག་པར་མོས་པ་དག་ལ་ནན་གྱིས་བཟུང་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-99"/>“Monks, some śramaṇas and brāhmaṇas do not see those sounds that are perceived by the ears as they truly and really are, so they stubbornly hold on to their own mistaken beliefs.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-83">
+    <prop type="location-id">UT22084-071-002-99</prop>
+    <tuv xml:lang="bo">
+                <seg>མངོན་པར་ཞེན་པར་བྱས་ནས་འདི་ཉིད་བདེན་གྱི་གཞན་ནི་བརྫུན་པའོ་ཞེས་རྗེས་སུ་ཐ་སྙད་འདོགས་པར་བྱེད་པ་དེ་དག་ནི་རྣ་བས་རྣམ་པར་ཤེས་པར་བྱ་བའི་སྒྲ་ཡིད་མི་བདེ་བའི་གནས་ལྟ་བུ་དག་ལ་ཁོང་ཁྲོ་བ་དང་ལྡན་པར་གནས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They cling to them as real, thinking, ‘This is true, and anything else is false,’ and they conduct themselves accordingly. They remain averse to unpleasant sounds perceived by the ears.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-84">
+    <prop type="location-id">UT22084-071-002-99</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སྦྱོང་དང་བྲམ་ཟེ་གནོད་སེམས་ཀྱི་ཚོགས་<tei:ref folio="F.233.b"/>ཀྱི་མདུད་པས་ཀུན་ནས་སུན་ཕྱུང་བ་ཁོང་ཁྲོ་བའི་ཀུན་དུ་སྦྱོར་བ་དང་ལྡན་པ་དེ་དག་ཀྱང་བདུད་སྡིག་ཅན་ཇི་ལྟར་འདོད་པ་བཞིན་བྱེད་དུ་འཇུག་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These śramaṇas and brāhmaṇas are completely corrupted by the psychophysical bond of malice. They are entangled in aversion, and so they too are forced to do whatever evil Māra desires.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-85">
+    <prop type="location-id">UT22084-071-002-100</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དགེ་སྦྱོང་ངམ་བྲམ་ཟེ་གང་དག་ཁ་ཅིག་རྣ་བས་རྣམ་པར་ཤེས་པར་བྱ་བའི་སྒྲ་འདི་དག་ཉིད་བདེན་པ་དང་། གནས་པའི་སྒོ་ནས་མ་མཐོང་ཞིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-100"/>“Monks, some śramaṇas and brāhmaṇas do not see those sounds that are perceived by the ears as they truly and really are, so they stubbornly hold on to their own mistaken beliefs.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-86">
+    <prop type="location-id">UT22084-071-002-100</prop>
+    <tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་རང་རང་ལོག་པར་མོས་པ་དག་ལ་ནན་གྱིས་བཟུང་སྟེ། མངོན་པར་ཞེན་པར་བྱས་ནས་འདི་ཉིད་བདེན་གྱི་གཞན་ནི་བརྫུན་པའོ་ཞེས་རྗེས་སུ་ཐ་སྙད་འདོགས་པར་བྱེད་པ་དེ་དག་ནི་རྣ་བས་རྣམ་པར་ཤེས་པར་བྱ་བའི་སྒྲ་བཏང་སྙོམས་ཀྱི་གནས་ལྟ་བུ་དག་ལས་སོ་སོར་བརྟགས་པ་མ་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They cling to them as real, thinking, ‘This is true, and anything else is false,’ and they conduct themselves accordingly.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-87">
+    <prop type="location-id">UT22084-071-002-100</prop>
+    <tuv xml:lang="bo">
+                <seg>སོ་སོར་བརྟགས་པ་མ་ཡིན་པའི་བཏང་སྙོམས་སུ་གནས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They remain thoughtlessly indifferent to neutral sounds perceived by the ears.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-88">
+    <prop type="location-id">UT22084-071-002-100</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སྦྱོང་དང་། བྲམ་ཟེ་འདི་བདེན་ནོ་སྙམ་དུ་མངོན་པར་ཞེན་ཅིང་མཆོག་ཏུ་འཛིན་པའི་ཚོགས་ཀྱི་མདུད་པས་ཀུན་ནས་སུན་ཕྱུང་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These śramaṇas and brāhmaṇas are completely corrupted by the psychophysical bond of thinking, ‘This is the truth,’ and clinging to it as real.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-89">
+    <prop type="location-id">UT22084-071-002-100</prop>
+    <tuv xml:lang="bo">
+                <seg>ང་རྒྱལ་གྱི་ཀུན་དུ་སྦྱོར་བ་དང་ལྡན་པ་དེ་དག་ཀྱང་བདུད་སྡིག་ཅན་ཇི་ལྟར་འདོད་པ་བཞིན་བྱེད་དུ་འཇུག་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are entangled in pride, and so they too are forced to do whatever evil Māra desires.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-90">
+    <prop type="location-id">UT22084-071-002-101</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་འདི་ལྟ་སྟེ། དཔེར་ན་མི་སྨྱོན་པའམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-101"/>“Here is an analogy, monks.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-91">
+    <prop type="location-id">UT22084-071-002-101</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆང་གིས་ར་རོ་བར་གྱུར་པ་ནི་མ་དང་ལྷན་ཅིག་ཉལ་པོ་བྱེད་ཅིང་། དེ་དེས་མངོན་པར་དགའ་བར་བྱེད་ལ། དེ་ལ་ཉེས་དམིགས་སུ་མ་མཐོང་བ་ལས་གང་གི་ཚེ་དེ་སྨྱོས་པའམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>A person who is insane or drunk might sleep with their mother, take great pleasure in doing so, and not see any fault in it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-92">
+    <prop type="location-id">UT22084-071-002-101</prop>
+    <tuv xml:lang="bo">
+                <seg>ར་རོ་བ་སངས་པར་གྱུར་པ་དེའི་ཚེ་མ་དང་ལྷན་ཅིག་ཉལ་པོ་བྱས་པ་དེས་གདུང་བར་བྱེད། ངོ་ཚ་བར་བྱེད། གནོང་བར་བྱེད་ཅིང་། རྣམ་པར་སྨོད་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Yet, when they recover from their madness or drunkenness, the fact that they previously slept with their mother brings them distress, shame, remorse, and disgust.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-93">
+    <prop type="location-id">UT22084-071-002-102</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དེ་བཞིན་དུ་འཕགས་པ་ཉན་ཐོས་ཐོས་པ་དང་ལྡན་པ་ཡང་འཕགས་པ་འཇིག་རྟེན་ལས་འདས་པའི་ཤེས་རབ་འདི་ཉིད་ཐོབ་ནས་སྔོན་གྱི་བྱིས་པའི་སྤྱོད་པ་དང་། རྨོངས་པའི་སྤྱོད་པ་དང་། ཤེས་རབ་འཆལ་པའི་སྤྱོད་པ་དེས་གདུང་བར་བྱེད། ངོ་ཚ་བར་བྱེད། གནོང་བར་བྱེད་ཅིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-102"/>“Monks, in the same way, after noble hearers who are learned have obtained noble, supramundane wisdom, their previous childish, deluded, and confused behavior brings them distress, shame, remorse, and disgust.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-94">
+    <prop type="location-id">UT22084-071-002-102</prop>
+    <tuv xml:lang="bo">
+                <seg>རྣམ་པར་སྨོད་པར་བྱེད་ལ། དེ་འདི་སྙམ་དུ་སེམས་ཏེ། བདག་གིས་ནི་སྔོན་མི་རྟག་པ་ཁོ་ན་ལ་རྟག་པར་བསམས་ཤིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They think, ‘Formerly, I thought there was permanence where there is only impermanence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-95">
+    <prop type="location-id">UT22084-071-002-102</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གིས་སྡུག་བསྔལ་བ་ཁོ་ན་ལ་ནི་བདེ་བར་བསམས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I thought there was happiness where there is only suffering.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-96">
+    <prop type="location-id">UT22084-071-002-102</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གིས་མི་གཙང་བ་ཁོ་ན་ལ་ནི་གཙང་བར་བསམས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I thought there was purity where there is only impurity.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-97">
+    <prop type="location-id">UT22084-071-002-102</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གིས་བདག་མེད་པ་ཁོ་ན་ལ་ནི་བདག་ཏུ་བསམས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I thought there was a self where there is only the absence of a self.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-98">
+    <prop type="location-id">UT22084-071-002-102</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་ན་བདག་ནི་སྔོན་མི་རྟག་པ་ལ་རྟག་པར་འདུ་ཤེས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In this way, formerly, I perceived impermanence as permanence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-99">
+    <prop type="location-id">UT22084-071-002-102</prop>
+    <tuv xml:lang="bo">
+                <seg>སྡུག་བསྔལ་བ་ལ་བདེ་བར་འདུ་<tei:ref folio="F.234.a"/>ཤེས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I perceived suffering as happiness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-100">
+    <prop type="location-id">UT22084-071-002-102</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་གཙང་བ་ལ་གཙང་བར་འདུ་ཤེས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I perceived impurity as purity.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-101">
+    <prop type="location-id">UT22084-071-002-102</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་མེད་པ་ལ་བདག་ཏུ་འདུ་ཤེས་པར་གྱུར་ཏོ་སྙམ་དུ་སེམས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I perceived the absence of a self as a self.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-102">
+    <prop type="location-id">UT22084-071-002-103</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-103"/>“Here is an analogy, monks.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-103">
+    <prop type="location-id">UT22084-071-002-103</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔེར་ན་ཆུ་ཀླུང་གི་འགྲམ་མམ་ཡུར་པོ་ཆེའི་འགྲམ་ན་སྒྲ་བརྙན་གྱི་སྒྲ་གྲག་པར་གྱུར་ན། དེ་ལ་སེམས་ཅན་བྱིས་པའི་རང་བཞིན་ཅན་དང་། རྨོངས་པའི་རང་བཞིན་ཅན་དང་། ཤེས་རབ་འཆལ་པའི་རང་བཞིན་ཅན་གང་དག་ཡིན་པ་དེ་དག་ནི་འདི་སྙམ་དུ་སེམས་ཏེ། གང་ལས་སྒྲ་འདི་གྲག་པའི་སེམས་ཅན་དེ་ནི་བདེན་པ་དང་། གནས་པའི་སྒོ་ནས་ཡོད་དོ་སྙམ་དུ་སེམས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When an echo resounds on the shores of a river or a large canal, beings who have a childish, deluded, and confused disposition think, ‘There is a sentient being that is the source of that sound, real and present there.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-104">
+    <prop type="location-id">UT22084-071-002-104</prop>
+    <tuv xml:lang="bo">
+                <seg>སེམས་ཅན་བྱིས་པའི་རང་བཞིན་མ་ཡིན་པ་དང་། རྨོངས་པའི་རང་བཞིན་ཅན་མ་ཡིན་པ་དང་། ཤེས་རབ་དང་ལྡན་པའི་རང་བཞིན་ཅན་གང་དག་ཡིན་པ་དེ་དག་ནི་འདི་སྙམ་དུ་སེམས་ཏེ། གང་ལས་སྒྲ་འདི་གྲག་པའི་སེམས་ཅན་དེ་ནི་བདེན་པ་དང་། གནས་པའི་སྒོ་ནས་ཡོད་པ་མ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-104"/>“Beings whose disposition is insightful instead of childish or deluded think, ‘There is no sentient being that is the source of that sound, real and present there.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-105">
+    <prop type="location-id">UT22084-071-002-104</prop>
+    <tuv xml:lang="bo">
+                <seg>སྒྲ་བརྙན་འདི་འབའ་ཞིག་ཡོད་དེ། རྣ་བ་སླུ་བར་བྱེད་པ་འདི་འབའ་ཞིག་ཡོད་དོ་སྙམ་དུ་སེམས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That was only an echo, just an auditory delusion.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-106">
+    <prop type="location-id">UT22084-071-002-105</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དེ་བཞིན་དུ་འཕགས་པ་ཉན་ཐོས་ཐོས་པ་དང་ལྡན་པ་ཡང་བདག་གིས་རྣ་བས་རྣམ་པར་ཤེས་པར་བྱ་བ་འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་སྒྲ་གང་དག་ཡིན་པ་འདི་དག་ལ་རྟག་པ་ཉིད་དམ། བརྟན་པ་ཉིད་དམ། ཐེར་ཟུག་ཉིད་དམ། དེ་བཞིན་ཉིད་དམ། མ་ནོར་བ་དེ་བཞིན་ཉིད་དམ། གཞན་མ་ཡིན་པ་དེ་བཞིན་ཉིད་དམ། ཡང་དག་པ་ཉིད་དམ། བདེན་པ་ཉིད་དམ། དེ་ཁོ་ན་ཉིད་དམ། ཇི་ལྟ་བ་དེ་བཞིན་ཉིད་དམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-105"/>“Monks, in the same way, noble hearers who are learned think, ‘All of the past, future, and present sounds my ears perceive lack permanence, stability, unchangeability, a true nature, an unmistaken true nature, a unique true nature, genuine reality, truth, suchness, a way things really are, infallibility, and incontrovertibility.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-107">
+    <prop type="location-id">UT22084-071-002-105</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་ནོར་བ་ཉིད་དམ། ཕྱིན་ཅི་མ་ལོག་པ་ཉིད་མེད་དེ། གསོག་ཀྱང་དེ་ཉིད་ཡིན་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are hollow.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-108">
+    <prop type="location-id">UT22084-071-002-105</prop>
+    <tuv xml:lang="bo">
+                <seg>གསོབ་ཀྱང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are vain.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-109">
+    <prop type="location-id">UT22084-071-002-105</prop>
+    <tuv xml:lang="bo">
+                <seg>སྙིང་པོ་མེད་པ་ཡང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They have no essence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-110">
+    <prop type="location-id">UT22084-071-002-105</prop>
+    <tuv xml:lang="bo">
+                <seg>བརྫུན་པ་ཡང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are false.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-111">
+    <prop type="location-id">UT22084-071-002-105</prop>
+    <tuv xml:lang="bo">
+                <seg>སླུ་བའི་ཆོས་ཀྱང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are deceptive phenomena.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-112">
+    <prop type="location-id">UT22084-071-002-105</prop>
+    <tuv xml:lang="bo">
+                <seg>བདུད་ཀྱང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are Māra.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-113">
+    <prop type="location-id">UT22084-071-002-105</prop>
+    <tuv xml:lang="bo">
+                <seg>བདུད་ཀྱི་ཡོ་བྱད་ཀྱང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are Māra’s tools.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-114">
+    <prop type="location-id">UT22084-071-002-105</prop>
+    <tuv xml:lang="bo">
+                <seg>རོ་ཡང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are corpses.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-115">
+    <prop type="location-id">UT22084-071-002-105</prop>
+    <tuv xml:lang="bo">
+                <seg>རོའི་གཟུགས་ཀྱང་དེ་ཉིད་ཡིན་པས་དེ་ལ་ནི་མངོན་པར་དགའ་བར་བྱ་བའམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are corpse-like forms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-116">
+    <prop type="location-id">UT22084-071-002-105</prop>
+    <tuv xml:lang="bo">
+                <seg>མངོན་པར་བརྗོད་པར་བྱ་བའམ། ལྷག་པར་ཆགས་པར་བྱ་བའམ། ལྷག་པར་ཆགས་ཤིང་གནས་པར་བྱ་བར་མི་རིགས་ཀྱི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, it does not make sense to delight in them, speak highly of them, or become and remain excessively attached to them.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-117">
+    <prop type="location-id">UT22084-071-002-105</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་འཕགས་པ་འཇིག་རྟེན་ལས་འདས་པ་ནི་བདེན་ནོ་ཞེས་དེ་ལྟར་སོ་སོར་<tei:ref folio="F.234.b"/>རྟོག་པར་བྱེད་དོ། །དེས་དེ་ལྟར་ཤེས་ནས་རྣ་བས་རྣམ་པར་ཤེས་པར་བྱ་བ་འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་སྒྲ་རྣམས་ནད་དུ་ཡང་དག་པར་རྗེས་སུ་མཐོང་ཞིང་། འབྲས་དང་། ཟུག་རྔུ་དང་། སྡིག་པ་དང་། མི་རྟག་པ་དང་། སྡུག་བསྔལ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The noble, supramundane wisdom taught by the Blessed One is true.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-118">
+    <prop type="location-id">UT22084-071-002-105</prop>
+    <tuv xml:lang="bo">
+                <seg>སྟོང་པ་དང་། བདག་མེད་པར་ཡང་དག་པར་རྗེས་སུ་མཐོང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That is how they conduct a thorough analysis.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-119">
+    <prop type="location-id">UT22084-071-002-106</prop>
+    <tuv xml:lang="bo">
+                <seg>དེས་རྣ་བས་རྣམ་པར་ཤེས་པར་བྱ་བ་འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་སྒྲ་རྣམས་ནད་དུ་ཡང་དག་པར་རྗེས་སུ་མཐོང་ཞིང་། འབྲས་དང་། ཟུག་རྔུ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-106"/>“Having understood that, they correctly see all the sounds perceived by their ears in the past, future, and present as a sickness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-120">
+    <prop type="location-id">UT22084-071-002-106</prop>
+    <tuv xml:lang="bo">
+                <seg>སྡིག་པ་དང་། མི་རྟག་པ་དང་། སྡུག་བསྔལ་བ་དང་། སྟོང་པ་དང་། བདག་མེད་པར་ཡང་དག་པར་རྗེས་སུ་མཐོང་བ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They correctly see them as a cancer, a splinter, a scorpion’s sting, impermanent, suffering, empty, and lacking a self.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-121">
+    <prop type="location-id">UT22084-071-002-107</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་རྣ་བས་རྣམ་པར་ཤེས་པར་བྱ་བ་འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་སྒྲ་དག་ལ་ལོག་པར་མོས་པའམ། འདུ་ཤེས་ཕྱིན་ཅི་ལོག་གམ། སེམས་ཕྱིན་ཅི་ལོག་གམ། ལྟ་བ་ཕྱིན་ཅི་ལོག་ཏུ་གྱུར་པ་འདི་ལྟ་སྟེ། བརྣབ་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པ་དང་། གནོད་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པ་དང་། ཚུལ་ཁྲིམས་དང་བརྟུལ་ཞུགས་མཆོག་ཏུ་འཛིན་པའི་ཚོགས་ཀྱི་མདུད་པ་དང་། འདི་བདེན་ནོ་སྙམ་དུ་མངོན་པར་ཞེན་ཅིང་མཆོག་ཏུ་འཛིན་པའི་ཚོགས་ཀྱི་མདུད་པ་གང་ཡིན་པ་དེ་དག་སྤོང་བར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-107"/>“When they correctly see all the sounds perceived by their ears in the past, future, and present as a sickness, and they correctly see them as a cancer, as a splinter, as a scorpion’s sting, as impermanent, suffering, empty, and lacking a self, they then abandon mistaken beliefs, wrong ideas, incorrect thoughts, and incorrect views regarding past, future, and present sounds perceived by the ears that are the psychophysical bonds of covetousness, malice, a sense of moral and ascetic supremacy, and thinking, ‘This is the truth,’ and clinging to it as real.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-122">
+    <prop type="location-id">UT22084-071-002-108</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དག་སྤངས་པའི་ཕྱིར་བདུད་ལྡོངས་པ་དང་། ཡི་ཆད་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-108"/>“By abandoning those bonds, they render Māra blind, depressed, and disoriented and stand their ground.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-123">
+    <prop type="location-id">UT22084-071-002-108</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱོགས་མེད་པར་བྱས་ཏེ། གནས་ཤིང་བདུད་སྡིག་ཅན་གྱིས་མི་མཐོང་བར་སོང་ནས་བདུད་དང་བདུད་ཀྱི་འཁོར་བཅོམ་ཞིང་གཡུལ་ཆེན་པོའི་གཡུལ་སྤྲད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Since evil Māra can no longer see them, they destroy Māra and his retinue and wage battle against his great army.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-124">
+    <prop type="location-id">UT22084-071-002-108</prop>
+    <tuv xml:lang="bo">
+                <seg>གཡུལ་ལས་རྣམ་པར་རྒྱལ་བ་དང་། གཡུལ་ངོ་དེ་ཉིད་མངོན་པར་ཕམ་པར་བྱས་ཤིང་གནས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are victorious in battle, destroy the army, and stand their ground.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-125">
+    <prop type="location-id">UT22084-071-002-108</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་ན་འདི་ལ་འཕགས་པ་ཉན་ཐོས་ལྷག་པའི་ཤེས་རབ་ལ་སྦྱོར་བར་རྗེས་སུ་ཞུགས་པ་ལ་གནས་པ་ནི་ཤེས་རབ་ཀྱིས་འཚོ་བ་རྣམས་ཀྱི་ནང་ན་བླ་ན་མེད་པས་འཚོ་བ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This is how noble hearers who remain engaged in practicing superior wisdom are supported by wisdom, which among all supports is unsurpassed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-126">
+    <prop type="location-id">UT22084-071-002-109</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་ཡང་ཇི་ལྟར་ན་འཕགས་པ་ཉན་ཐོས་ལྷག་པའི་ཤེས་རབ་ལ་སྦྱོར་བར་རྗེས་སུ་ཞུགས་པ་ལ་གནས་པ། ཤེས་རབ་ཀྱིས་འཚོ་བ་རྣམས་ཀྱི་ནང་ན་བླ་ན་མེད་པས་འཚོ་བ་ཡིན་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-109"/>“Monks, how else are noble hearers who remain engaged in practicing superior wisdom supported by wisdom, which among all supports is unsurpassed?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-127">
+    <prop type="location-id">UT22084-071-002-109</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་འདི་ལ་འཕགས་པ་ཉན་ཐོས་ལྷག་པའི་ཤེས་རབ་ལ་སྦྱོར་བར་རྗེས་སུ་ཞུགས་པ་ལ་གནས་པ་ནི་བདག་སྔོན་སྣས་རྣམ་པར་ཤེས་པར་བྱ་བའི་དྲི་ཡིད་བདེ་བའི་གནས་ལྟ་བུ་དག་ལ་ནི་<tei:ref folio="F.235.a"/>རྗེས་སུ་ཆགས་ཤིང་གནས་པར་གྱུར་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Monks, noble hearers who remain engaged in practicing superior wisdom consider the following to conduct a thorough analysis: ‘Formerly, I became and remained attached to pleasant smells perceived by the nose.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-128">
+    <prop type="location-id">UT22084-071-002-109</prop>
+    <tuv xml:lang="bo">
+                <seg>སྣས་རྣམ་པར་ཤེས་པར་བྱ་བའི་དྲི་ཡིད་མི་བདེ་བའི་གནས་ལྟ་བུ་དག་ལ་ནི་ཁོང་ཁྲོ་བ་དང་ལྡན་ཞིང་གནས་པར་གྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I became and remained averse to unpleasant smells perceived by the nose.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-129">
+    <prop type="location-id">UT22084-071-002-109</prop>
+    <tuv xml:lang="bo">
+                <seg>སྣས་རྣམ་པར་ཤེས་པར་བྱ་བའི་དྲི་བཏང་སྙོམས་ཀྱི་གནས་ལྟ་བུ་དག་ལ་ནི་སོ་སོར་བརྟགས་པ་མ་ཡིན་སོ་སོར་བརྟགས་པ་མ་ཡིན་པའི་བཏང་སྙོམས་སུ་གནས་པར་གྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I became and remained thoughtlessly indifferent to neutral smells perceived by the nose.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-130">
+    <prop type="location-id">UT22084-071-002-109</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་བདག་ཡུན་རིང་པོ་ནས་འདི་ལ་རྗེས་སུ་སློབ་ཅིང་། རྗེས་སུ་བྱེད་པ་ན། རྒ་བ་དང་། འཆི་བ་ཉམས་སུ་མྱོང་ཞིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I have trained myself and behaved in this way for a long time, and so I have experienced old age and death.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-131">
+    <prop type="location-id">UT22084-071-002-109</prop>
+    <tuv xml:lang="bo">
+                <seg>སྔོན་གྱི་མཐའ་མི་མངོན་པར་གྱུར་པས་བདག་གིས་ད་ནི་སྣས་རྣམ་པར་ཤེས་པར་བྱ་བའི་དྲི་དག་ལ་སྔོན་ཇི་ལྟ་བ་དེ་ལྟར་བསླབ་པར་མི་བྱ་ཞིང་། བདག་གི་སྣས་རྣམ་པར་ཤེས་པར་བྱ་བ་འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་དྲི་དག་ལ་ལོག་པར་མོས་པའམ། འདུ་ཤེས་ཕྱིན་ཅི་ལོག་གམ། སེམས་ཕྱིན་ཅི་ལོག་གམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The past is gone, so today I will no longer train myself as I did before regarding smells perceived by the nose.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-132">
+    <prop type="location-id">UT22084-071-002-109</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྟ་བ་ཕྱིན་ཅི་ལོག་ཏུ་གྱུར་པ་འདི་ལྟ་སྟེ། བརྣབ་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པ་དང་། གནོད་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པ་དང་། ཚུལ་ཁྲིམས་དང་བརྟུལ་ཞུགས་མཆོག་ཏུ་འཛིན་པའི་ཚོགས་ཀྱི་མདུད་པ་དང་། འདི་བདེན་ནོ་སྙམ་དུ་མངོན་པར་ཞེན་ཅིང་མཆོག་ཏུ་འཛིན་པའི་ཚོགས་ཀྱི་མདུད་པ་གང་དག་ཡིན་པ་དེ་དག་སྤང་བའི་ཕྱིར་བསླབ་པར་བྱ་ཞིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I must train myself to abandon mistaken beliefs, wrong ideas, incorrect thoughts, and incorrect views regarding past, future, and present smells I perceive with the nose that are the psychophysical bonds of covetousness, malice, a sense of moral and ascetic supremacy, and thinking, “This is the truth,” and clinging to it as real—and then I must abandon them.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-133">
+    <prop type="location-id">UT22084-071-002-110</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དག་སྤངས་པར་གྱུར་ཅིག་ཅེས་དེ་ལྟར་སོ་སོར་རྟོག་པར་བྱེད་པའི་ཕྱིར་རོ། །དགེ་སློང་དག་འོན་ཀྱང་འདི་ན་ཁ་ཅིག་ལ་ནི་སྣས་རྣམ་པར་ཤེས་པར་བྱ་བའི་དྲི་དེ་དག་ཉིད་ཡིད་དུ་འོང་བར་འགྱུར་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-110"/>“Moreover, monks, the very same smells perceived by the nose may be pleasant to some but unpleasant to others.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-134">
+    <prop type="location-id">UT22084-071-002-110</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞན་དག་ལ་ནི་དེ་དག་ཉིད་ཡིད་དུ་མི་འོང་བར་འགྱུར་བ་ཡང་ཡོད་ལ་དེ་དག་ལ་ཡང་དུས་ལ་ལར་ནི་ཡིད་བདེ་བའི་གནས་ལྟ་བུ་དག་ཏུ་འགྱུར་ཞིང་། དུས་ལ་ལར་ནི་ཡིད་མི་བདེ་བའི་གནས་ལྟ་བུ་དག་ཏུ་འགྱུར། དུས་ལ་ལར་ནི་བཏང་སྙོམས་ཀྱི་གནས་ལྟ་བུ་དག་ཏུ་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Sometimes they will be pleasant to them, sometimes they will be unpleasant, and sometimes they will be neutral.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-135">
+    <prop type="location-id">UT22084-071-002-110</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དེ་ལྟར་ན་འདི་ལ་སེམས་ཅན་རྣམས་ཡུན་རིང་པོ་ནས་སེམས་ཀྱིས་བསྒྲིབས་ཤིང་། སེམས་ཀྱིས་བྲིད། སེམས་ཀྱིས་བསླུས་ནས་ཉེས་དམིགས་སུ་མི་མཐོང་ཞིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Monks, beings have been obscured by their minds in this way for a long time, and since they have been deceived and duped by their minds, they do not recognize the error.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-136">
+    <prop type="location-id">UT22084-071-002-110</prop>
+    <tuv xml:lang="bo">
+                <seg>ངེས་པར་འབྱུང་བར་རབ་ཏུ་མི་ཤེས་ཏེ། བདུད་སྡིག་ཅན་ཇི་ལྟར་འདོད་པ་བཞིན་བྱེད་དུ་འཇུག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They have no conception of renunciation, and evil Māra forces them to do whatever he desires.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-137">
+    <prop type="location-id">UT22084-071-002-111</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དགེ་སྦྱོང་ངམ་བྲམ་ཟེ་གང་དག་ཁ་ཅིག་སྣས་རྣམ་པར་ཤེས་པར་བྱ་བའི་དྲི་འདི་དག་ཉིད་བདེན་པ་དང་། གནས་པའི་སྒོ་ནས་མ་<tei:ref folio="F.235.b"/>མཐོང་ཞིང་། ཇི་ལྟར་རང་རང་ལོག་པར་མོས་པ་དག་ལ་ནན་གྱིས་བཟུང་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-111"/>“Monks, some śramaṇas and brāhmaṇas do not see those smells that are perceived by the nose as they truly and really are, and so they stubbornly hold on to their own mistaken beliefs.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-138">
+    <prop type="location-id">UT22084-071-002-111</prop>
+    <tuv xml:lang="bo">
+                <seg>མངོན་པར་ཞེན་པར་བྱས་ནས་འདི་ཉིད་བདེན་གྱི་གཞན་ནི་བརྫུན་པའོ་ཞེས་རྗེས་སུ་ཐ་སྙད་འདོགས་པར་བྱེད་པ་དེ་དག་ནི་སྣས་རྣམ་པར་ཤེས་པར་བྱ་བའི་དྲི་ཡིད་བདེ་བའི་གནས་ལྟ་བུ་དག་ལ་རྗེས་སུ་ཆགས་ཤིང་གནས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They cling to them as real, thinking, ‘This is true, and anything else is false,’ and they conduct themselves accordingly. They become and remain attached to pleasant smells perceived by the nose.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-139">
+    <prop type="location-id">UT22084-071-002-111</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སྦྱོང་དང་། བྲམ་ཟེ་བརྣབ་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པས་ཀུན་ནས་སུན་ཕྱུང་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These śramaṇas and brāhmaṇas are completely corrupted by the psychophysical bond of covetousness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-140">
+    <prop type="location-id">UT22084-071-002-111</prop>
+    <tuv xml:lang="bo">
+                <seg>རྗེས་སུ་ཆགས་པའི་ཀུན་དུ་སྦྱོར་བ་དང་ལྡན་པ་དེ་དག་ཀྱང་བདུད་སྡིག་ཅན་ཇི་ལྟར་འདོད་པ་བཞིན་བྱེད་དུ་འཇུག་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are entangled in attachment, and so they too are forced to do whatever evil Māra desires.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-141">
+    <prop type="location-id">UT22084-071-002-112</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དགེ་སྦྱོང་ངམ། བྲམ་ཟེ་གང་དག་ཁ་ཅིག་སྣས་རྣམ་པར་ཤེས་པར་བྱ་བའི་དྲི་འདི་དག་ཉིད་བདེན་པ་དང་། གནས་པའི་སྒོ་ནས་མ་མཐོང་ཞིང་། ཇི་ལྟར་རང་རང་ལོག་པར་མོས་པ་དག་ལ་ནན་གྱིས་བཟུང་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-112"/>“Monks, some śramaṇas and brāhmaṇas do not see those smells that are perceived by the nose as they truly and really are, so they stubbornly hold on to their own mistaken beliefs.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-142">
+    <prop type="location-id">UT22084-071-002-112</prop>
+    <tuv xml:lang="bo">
+                <seg>མངོན་པར་ཞེན་པར་བྱས་ནས་འདི་ཉིད་བདེན་གྱི་གཞན་ནི་བརྫུན་པའོ་ཞེས་རྗེས་སུ་ཐ་སྙད་འདོགས་པར་བྱེད་པ་དེ་དག་ནི་སྣས་རྣམ་པར་ཤེས་པར་བྱ་བའི་དྲི་ཡིད་མི་བདེ་བའི་གནས་ལྟ་བུ་དག་ལ་ཁོང་ཁྲོ་བ་དང་ལྡན་པར་གནས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They cling to them as real, thinking, ‘This is true, and anything else is false,’ and they conduct themselves accordingly. They remain averse to unpleasant smells perceived by the nose.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-143">
+    <prop type="location-id">UT22084-071-002-112</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སྦྱོང་དང་། བྲམ་ཟེ་གནོད་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པས་ཀུན་ནས་སུན་ཕྱུང་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These śramaṇas and brāhmaṇas are completely corrupted by the psychophysical bond of malice.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-144">
+    <prop type="location-id">UT22084-071-002-112</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁོང་ཁྲོ་བའི་ཀུན་དུ་སྦྱོར་བ་དང་ལྡན་པ་དེ་དག་ཀྱང་བདུད་སྡིག་ཅན་ཇི་ལྟར་འདོད་པ་བཞིན་བྱེད་དུ་འཇུག་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are entangled in aversion, and so they too are forced to do whatever evil Māra desires.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-145">
+    <prop type="location-id">UT22084-071-002-113</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དགེ་སྦྱོང་ངམ། བྲམ་ཟེ་གང་དག་ཁ་ཅིག་སྣས་རྣམ་པར་ཤེས་པར་བྱ་བའི་དྲི་འདི་དག་ཉིད་བདེན་པ་དང་། གནས་པའི་སྒོ་ནས་མ་མཐོང་ཞིང་། ཇི་ལྟར་རང་རང་ལོག་པར་མོས་པ་དག་ལ་ནན་གྱིས་བཟུང་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-113"/>“Monks, some śramaṇas and brāhmaṇas do not see those smells that are perceived by the nose as they truly and really are, so they stubbornly hold on to their own mistaken beliefs.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-146">
+    <prop type="location-id">UT22084-071-002-113</prop>
+    <tuv xml:lang="bo">
+                <seg>མངོན་པར་ཞེན་པར་བྱས་ནས་འདི་ཉིད་བདེན་གྱི་གཞན་ནི་བརྫུན་པའོ་ཞེས་རྗེས་སུ་ཐ་སྙད་འདོགས་པར་བྱེད་པ་དེ་དག་ནི་སྣས་རྣམ་པར་ཤེས་པར་བྱ་བའི་དྲི་བཏང་སྙོམས་ཀྱི་གནས་ལྟ་བུ་དག་ལ་སོ་སོར་བརྟགས་པ་མ་ཡིན་པའི་བཏང་སྙོམས་སུ་གནས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They cling to them as real, thinking, ‘This is true, and anything else is false,’ and they conduct themselves accordingly. They remain thoughtlessly indifferent to neutral smells perceived by the nose.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-147">
+    <prop type="location-id">UT22084-071-002-113</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སྦྱོང་དང་། བྲམ་ཟེ་འདི་བདེན་ནོ་སྙམ་དུ་མངོན་པར་ཞེན་ཅིང་མཆོག་ཏུ་འཛིན་པའི་ཚོགས་ཀྱི་མདུད་པས་ཀུན་ནས་སུན་ཕྱུང་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These śramaṇas and brāhmaṇas are completely corrupted by the psychophysical bond of thinking, ‘This is the truth,’ and clinging to it as real.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-148">
+    <prop type="location-id">UT22084-071-002-113</prop>
+    <tuv xml:lang="bo">
+                <seg>ང་རྒྱལ་གྱི་ཀུན་དུ་སྦྱོར་བ་དང་ལྡན་པ་དེ་དག་ཀྱང་བདུད་སྡིག་ཅན་ཇི་ལྟར་འདོད་པ་བཞིན་བྱེད་དུ་འཇུག་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are entangled in pride, and so they too are forced to do whatever evil Māra desires.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-149">
+    <prop type="location-id">UT22084-071-002-114</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-114"/>“Here is an analogy, monks.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-150">
+    <prop type="location-id">UT22084-071-002-114</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔེར་ན་མི་ཞིག་གི་ཕྱི་ཐོག་ཐག་ཏུ་གཤེད་མ་ཕྱིར་རྒོལ་བ་དགྲ་བོ་ཞིག་རྗེས་སུ་འབྲང་བར་གྱུར་ཅིང་། དེ་དེ་ལ་མངོན་པར་<tei:ref folio="F.236.a"/>དགའ་བར་བྱེད་ལ། དེ་ལ་ཉེས་དམིགས་སུ་མ་མཐོང་བ་ལས་གང་གི་ཚེ་དེ་སོ་སོར་རྟོག་པར་བྱེད་པ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>An executioner, adversary, and enemy might develop a close relationship with a person, and that person might take pleasure in it and not see any fault in it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-151">
+    <prop type="location-id">UT22084-071-002-114</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ནི་བདག་གི་གཤེད་མ་ཕྱིར་རྒོལ་བ་དགྲ་བོ་ཡིན་ནོ་ཞེས་ཤེས་པར་གྱུར་པ་དེའི་ཚེ། དེས་དེ་གདུང་བར་བྱེད། ངོ་ཚ་བར་བྱེད། གནོང་བར་བྱེད་ཅིང་། རྣམ་པར་སྨོད་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>However, once they examine them closely and realize, ‘This person is my executioner, adversary, and enemy,’ it brings them distress, shame, remorse, and disgust.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-152">
+    <prop type="location-id">UT22084-071-002-115</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དེ་བཞིན་དུ་འཕགས་པ་ཉན་ཐོས་ཐོས་པ་དང་ལྡན་པ་ཡང་འཕགས་པ་འཇིག་རྟེན་ལས་འདས་པའི་ཤེས་རབ་འདི་ཉིད་ཐོབ་ནས་སྔོན་བྱིས་པའི་སྤྱོད་པ་དང་། རྨོངས་པའི་སྤྱོད་པ་དང་། ཤེས་རབ་འཆལ་པའི་སྤྱོད་པ་དེས་གདུང་བར་བྱེད། ངོ་ཚ་བར་བྱེད། གནོང་བར་བྱེད་ཅིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-115"/>“Monks, in the same way, after noble hearers who are learned have obtained noble, supramundane wisdom, their previous childish, deluded, and confused behavior brings them distress, shame, remorse, and disgust.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-153">
+    <prop type="location-id">UT22084-071-002-115</prop>
+    <tuv xml:lang="bo">
+                <seg>རྣམ་པར་སྨོད་པར་བྱེད་ལ། དེ་འདི་སྙམ་དུ་སེམས་ཏེ། བདག་གིས་ནི་སྔོན་མི་རྟག་པ་ཁོ་ན་ལ་རྟག་པར་བསམས་ཤིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They think, ‘Formerly, I thought there was permanence where there is only impermanence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-154">
+    <prop type="location-id">UT22084-071-002-115</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གིས་སྡུག་བསྔལ་བ་ཁོ་ན་ལ་ནི་བདེ་བར་བསམས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I thought there was happiness where there is only suffering.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-155">
+    <prop type="location-id">UT22084-071-002-115</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གིས་མི་གཙང་བ་ཁོ་ན་ལ་ནི་གཙང་བར་བསམས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I thought there was purity where there is only impurity.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-156">
+    <prop type="location-id">UT22084-071-002-115</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གིས་བདག་མེད་པ་ཁོ་ན་ལ་ནི་བདག་ཏུ་བསམས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I thought there was a self where there is only the absence of a self.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-157">
+    <prop type="location-id">UT22084-071-002-115</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་བདག་ནི་སྔོན་མི་རྟག་པ་ལ་རྟག་པར་འདུ་ཤེས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In this way, formerly, I perceived impermanence as permanence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-158">
+    <prop type="location-id">UT22084-071-002-115</prop>
+    <tuv xml:lang="bo">
+                <seg>སྡུག་བསྔལ་བ་ལ་བདེ་བར་འདུ་ཤེས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I perceived suffering as happiness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-159">
+    <prop type="location-id">UT22084-071-002-115</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་གཙང་བ་ལ་གཙང་བར་འདུ་ཤེས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I perceived impurity as purity.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-160">
+    <prop type="location-id">UT22084-071-002-115</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་མེད་པ་ལ་བདག་ཏུ་འདུ་ཤེས་པར་གྱུར་ཏོ་སྙམ་དུ་སེམས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I perceived the absence of a self as a self.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-161">
+    <prop type="location-id">UT22084-071-002-116</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-116"/>“Here is an analogy, monks.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-162">
+    <prop type="location-id">UT22084-071-002-116</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔེར་ན་སྐྱེས་བུ་མིག་དང་ལྡན་པ་ཞིག་གིས་མེ་ལོང་གི་དཀྱིལ་འཁོར་ཤིན་ཏུ་ཡོངས་སུ་དག་པ་བླངས་ཏེ། རང་གི་བཞིན་གྱི་མཚན་མ་སོ་སོར་རྟོག་པར་བྱེད་པ་ན། དེ་ལ་སེམས་ཅན་བྱིས་པའི་རང་བཞིན་ཅན་དང་། རྨོངས་པའི་རང་བཞིན་ཅན་དང་། ཤེས་རབ་འཆལ་པའི་རང་བཞིན་ཅན་གང་དག་ཡིན་པ་དེ་དག་ནི་འདི་སྙམ་དུ་སེམས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When someone who can see holds up a round mirror that is extremely clear and closely examines their own facial features in it, beings who have a childish, deluded, and confused disposition think, ‘There is a sentient being that appears in this way, real and present there.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-163">
+    <prop type="location-id">UT22084-071-002-117</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་འདི་ལྟར་སྣང་བའི་སེམས་ཅན་འདི་ནི་བདེན་པ་དང་། གནས་པའི་སྒོ་ནས་ཡོད་དོ་སྙམ་དུ་སེམས་སོ། །སེམས་ཅན་བྱིས་པའི་རང་བཞིན་ཅན་མ་ཡིན་པ་དང་། རྨོངས་པའི་རང་བཞིན་ཅན་མ་ཡིན་པ་དང་། ཤེས་རབ་དང་ལྡན་པའི་རང་བཞིན་ཅན་གང་དག་ཡིན་པ་དེ་དག་ནི་འདི་སྙམ་དུ་སེམས་ཏེ། གང་འདི་ལྟར་སྣང་བའི་སེམས་ཅན་འདི་ནི་བདེན་པ་དང་གནས་པའི་སྒོ་ནས་ཡོད་པ་མ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-117"/>“Beings whose disposition is insightful instead of childish or deluded think, ‘There is no sentient being that appears in this way, real and present there.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-164">
+    <prop type="location-id">UT22084-071-002-117</prop>
+    <tuv xml:lang="bo">
+                <seg>གཟུགས་བརྙན་འདི་འབའ་ཞིག་ཡོད་དོ། །མིག་སླུ་བར་བྱེད་པ་འདི་འབའ་ཞིག་ཡོད་དོ་སྙམ་དུ་སེམས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This is only a reflection, just an optical illusion.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-165">
+    <prop type="location-id">UT22084-071-002-118</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དེ་བཞིན་དུ་འཕགས་པ་ཉན་ཐོས་ཐོས་པ་དང་<tei:ref folio="F.236.b"/>ལྡན་པ་ཡང་བདག་གི་སྣས་རྣམ་པར་ཤེས་པར་བྱ་བ་འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་དྲི་གང་དག་ཡིན་པ་འདི་དག་ལ། རྟག་པ་ཉིད་དམ། བརྟན་པ་ཉིད་དམ། ཐེར་ཟུག་ཉིད་དམ། དེ་བཞིན་ཉིད་དམ། མ་ནོར་བ་དེ་བཞིན་ཉིད་དམ། གཞན་མ་ཡིན་པ་དེ་བཞིན་ཉིད་དམ། ཡང་དག་པ་ཉིད་དམ། བདེན་པ་ཉིད་དམ། དེ་ཁོ་ན་ཉིད་དམ། ཇི་ལྟ་བ་བཞིན་ཉིད་དམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-118"/>“Monks, in the same way, noble hearers who are learned think, ‘All of the past, future, and present smells my nose perceives lack permanence, stability, unchangeability, a true nature, an unmistaken true nature, a unique true nature, genuine reality, truth, suchness, a way things really are, infallibility, and incontrovertibility.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-166">
+    <prop type="location-id">UT22084-071-002-118</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་ནོར་བ་ཉིད་དམ། ཕྱིན་ཅི་མ་ལོག་པ་ཉིད་མེད་དེ། གསོག་ཀྱང་དེ་ཉིད་ཡིན་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are hollow.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-167">
+    <prop type="location-id">UT22084-071-002-118</prop>
+    <tuv xml:lang="bo">
+                <seg>གསོབ་ཀྱང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are vain.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-168">
+    <prop type="location-id">UT22084-071-002-118</prop>
+    <tuv xml:lang="bo">
+                <seg>སྙིང་པོ་མེད་པ་ཡང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They have no essence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-169">
+    <prop type="location-id">UT22084-071-002-118</prop>
+    <tuv xml:lang="bo">
+                <seg>བརྫུན་པ་ཡང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are false.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-170">
+    <prop type="location-id">UT22084-071-002-118</prop>
+    <tuv xml:lang="bo">
+                <seg>སླུ་བའི་ཆོས་ཀྱང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are deceptive phenomena.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-171">
+    <prop type="location-id">UT22084-071-002-118</prop>
+    <tuv xml:lang="bo">
+                <seg>བདུད་ཀྱང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are Māra.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-172">
+    <prop type="location-id">UT22084-071-002-118</prop>
+    <tuv xml:lang="bo">
+                <seg>བདུད་ཀྱི་ཡོ་བྱད་ཀྱང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are Māra’s tools.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-173">
+    <prop type="location-id">UT22084-071-002-118</prop>
+    <tuv xml:lang="bo">
+                <seg>རོ་ཡང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are corpses.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-174">
+    <prop type="location-id">UT22084-071-002-118</prop>
+    <tuv xml:lang="bo">
+                <seg>རོའི་གཟུགས་ཀྱང་དེ་ཉིད་ཡིན་པས་དེ་ལ་ནི་མངོན་པར་དགའ་བར་བྱ་བའམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are corpse-like forms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-175">
+    <prop type="location-id">UT22084-071-002-118</prop>
+    <tuv xml:lang="bo">
+                <seg>མངོན་པར་བརྗོད་པར་བྱ་བའམ། ལྷག་པར་ཆགས་པར་བྱ་བའམ། ལྷག་པར་ཆགས་ཤིང་གནས་པར་བྱ་བར་མི་རིགས་ཀྱི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, it does not make sense to delight in them, speak highly of them, or become and remain excessively attached to them.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-176">
+    <prop type="location-id">UT22084-071-002-118</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་འཕགས་པ་འཇིག་རྟེན་ལས་འདས་པ་ནི་བདེན་ནོ་ཞེས་དེ་ལྟར་སོ་སོར་རྟོག་པར་བྱེད་དོ། །དེས་དེ་ལྟར་ཤེས་ནས་སྣས་རྣམ་པར་ཤེས་པར་བྱ་བ་འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་དྲི་རྣམས་ནང་དུ་ཡང་དག་པར་རྗེས་སུ་མཐོང་ཞིང་། འབྲས་དང་། ཟུག་རྔུ་དང་། སྡིག་པ་དང་། མི་རྟག་པ་དང་། སྡུག་བསྔལ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The noble, supramundane wisdom taught by the Blessed One is true.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-177">
+    <prop type="location-id">UT22084-071-002-118</prop>
+    <tuv xml:lang="bo">
+                <seg>སྟོང་པ་དང་། བདག་མེད་པར་ཡང་དག་པར་རྗེས་སུ་མཐོང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That is how they conduct a thorough analysis.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-178">
+    <prop type="location-id">UT22084-071-002-119</prop>
+    <tuv xml:lang="bo">
+                <seg>དེས་སྣས་རྣམ་པར་ཤེས་པར་བྱ་བ་འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་དྲི་རྣམས་ནད་དུ་ཡང་དག་པར་རྗེས་སུ་མཐོང་ཞིང་། འབྲས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-119"/>“Having understood that, they correctly see all the smells perceived by their nose in the past, future, and present as a sickness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-179">
+    <prop type="location-id">UT22084-071-002-119</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟུག་རྔུ་དང་། སྡིག་པ་དང་། མི་རྟག་པ་དང་། སྡུག་བསྔལ་བ་དང་། སྟོང་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They correctly see them as a cancer, a splinter, a scorpion’s sting, impermanent, suffering, empty, and lacking a self.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-180">
+    <prop type="location-id">UT22084-071-002-120</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་མེད་པར་ཡང་དག་པར་རྗེས་སུ་མཐོང་བ་ན། དེའི་སྣས་རྣམ་པར་ཤེས་པར་བྱ་བ་འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་དྲི་དག་ལ་ལོག་པར་མོས་པའམ། འདུ་ཤེས་ཕྱིན་ཅི་ལོག་གམ། སེམས་ཕྱིན་ཅི་ལོག་གམ། ལྟ་བ་ཕྱིན་ཅི་ལོག་ཏུ་གྱུར་པ་འདི་ལྟ་སྟེ། བརྣབ་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པ་དང་། གནོད་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པ་དང་། ཚུལ་ཁྲིམས་དང་བརྟུལ་ཞུགས་མཆོག་ཏུ་འཛིན་པའི་<tei:ref folio="F.237.a"/>ཚོགས་ཀྱི་མདུད་པ་དང་། འདི་བདེན་ནོ་སྙམ་དུ་མངོན་པར་ཞེན་ཅིང་མཆོག་ཏུ་འཛིན་པའི་ཚོགས་ཀྱི་མདུད་པ་གང་དག་ཡིན་པ་དེ་དག་སྤོང་བར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-120"/>“When they correctly see all the smells perceived by their nose in the past, future, and present as a sickness, and they correctly see them as a cancer, as a splinter, as a scorpion’s sting, as impermanent, suffering, empty, and lacking a self, they then abandon mistaken beliefs, wrong ideas, incorrect thoughts, and incorrect views regarding past, future, and present smells perceived by the nose that are the psychophysical bonds of covetousness, malice, a sense of moral and ascetic supremacy, and thinking, ‘This is the truth,’ and clinging to it as real.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-181">
+    <prop type="location-id">UT22084-071-002-121</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དག་སྤངས་པའི་ཕྱིར་བདུད་ལྡོངས་པ་དང་། ཡི་ཆད་པ་དང་། ཕྱོགས་མེད་པར་བྱས་ཏེ་གནས་ཤིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-121"/>“By abandoning those bonds, they render Māra blind, depressed, and disoriented and stand their ground.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-182">
+    <prop type="location-id">UT22084-071-002-121</prop>
+    <tuv xml:lang="bo">
+                <seg>བདུད་སྡིག་ཅན་གྱིས་མི་མཐོང་བར་སོང་ནས། བདུད་དང་བདུད་ཀྱི་འཁོར་བཅོམ་ཞིང་གཡུལ་ཆེན་པོའི་གཡུལ་སྤྲད་དེ་གཡུལ་ལས་རྣམ་པར་རྒྱལ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Since evil Māra can no longer see them, they destroy Māra and his retinue and wage battle against his great army.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-183">
+    <prop type="location-id">UT22084-071-002-121</prop>
+    <tuv xml:lang="bo">
+                <seg>གཡུལ་ངོ་དེ་ཉིད་མངོན་པར་ཕམ་པར་བྱས་ཤིང་གནས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are victorious in battle, destroy the army, and stand their ground.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-184">
+    <prop type="location-id">UT22084-071-002-121</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་ན་འདི་ལ་འཕགས་པ་ཉན་ཐོས་ལྷག་པའི་ཤེས་རབ་ལ་སྦྱོར་བར་རྗེས་སུ་ཞུགས་པ་ལ་གནས་པ་ནི་ཤེས་རབ་ཀྱིས་འཚོ་བ་རྣམས་ཀྱི་ནང་ན་བླ་ན་མེད་པས་འཚོ་བ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This is how noble hearers who remain engaged in practicing superior wisdom are supported by wisdom, which among all supports is unsurpassed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-185">
+    <prop type="location-id">UT22084-071-002-122</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་ཡང་ཇི་ལྟར་ན་འཕགས་པ་ཉན་ཐོས་ལྷག་པའི་ཤེས་རབ་ལ་སྦྱོར་བར་རྗེས་སུ་ཞུགས་པ་ལ་གནས་པ། ཤེས་རབ་ཀྱིས་འཚོ་བ་རྣམས་ཀྱི་ནང་ན་བླ་ན་མེད་པས་འཚོ་བ་ཡིན་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-122"/>“Monks, how else are noble hearers who remain engaged in practicing superior wisdom supported by wisdom, which among all supports is unsurpassed?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-186">
+    <prop type="location-id">UT22084-071-002-122</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་འདི་ལ་འཕགས་པ་ཉན་ཐོས་ལྷག་པའི་ཤེས་རབ་ལ་སྦྱོར་བར་རྗེས་སུ་ཞུགས་པ་ལ་གནས་པ་ནི་བདག་སྔོན་ལྕེས་རྣམ་པར་ཤེས་པར་བྱ་བའི་རོ་ཡིད་བདེ་བའི་གནས་ལྟ་བུ་དག་ལ་ནི་རྗེས་སུ་ཆགས་ཤིང་གནས་པར་གྱུར་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Monks, noble hearers who remain engaged in practicing superior wisdom consider the following to conduct a thorough analysis: ‘Formerly, I became and remained attached to pleasant tastes perceived by the tongue.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-187">
+    <prop type="location-id">UT22084-071-002-122</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྕེས་རྣམ་པར་ཤེས་པར་བྱ་བའི་རོ་ཡིད་མི་བདེ་བའི་གནས་ལྟ་བུ་དག་ལ་ནི་ཁོང་ཁྲོ་བ་དང་ལྡན་ཞིང་གནས་པར་གྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I became and remained averse to unpleasant tastes perceived by the tongue.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-188">
+    <prop type="location-id">UT22084-071-002-122</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྕེས་རྣམ་པར་ཤེས་པར་བྱ་བའི་རོ་བཏང་སྙོམས་ཀྱི་གནས་ལྟ་བུ་དག་ལ་ནི་སོ་སོ་སོ་སོར་བརྟགས་པ་མ་ཡིན་པའི་བཏང་སྙོམས་སུ་གནས་པར་གྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I became and remained thoughtlessly indifferent to neutral tastes perceived by the tongue.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-189">
+    <prop type="location-id">UT22084-071-002-122</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་བདག་ཡུན་རིང་པོ་ནས་འདི་ལ་རྗེས་སུ་སློབ་ཅིང་རྗེས་སུ་བྱེད་པ་ན་རྒ་བ་དང་། འཆི་བ་ཉམས་སུ་མྱོང་ཞིང་སྔོན་གྱི་མཐའ་མི་མངོན་པར་གྱུར་པས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I have trained myself and behaved in this way for a long time, and so I have experienced old age and death.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-190">
+    <prop type="location-id">UT22084-071-002-122</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གིས་ད་ནི་ལྕེས་རྣམ་པར་ཤེས་པར་བྱ་བའི་རོ་དག་ལ་སྔོན་ཇི་ལྟ་བ་དེ་ལྟར་བསླབ་པར་མི་བྱ་ཞིང་། བདག་གིས་ལྕེས་རྣམ་པར་ཤེས་པར་བྱ་བ་འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་རོ་དག་ལ་ལོག་པར་མོས་པའམ་འདུ་ཤེས་ཕྱིན་ཅི་ལོག་གམ། སེམས་ཕྱིན་ཅི་ལོག་གམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The past is gone, so today I will no longer train myself as I did before regarding tastes perceived by the tongue.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-191">
+    <prop type="location-id">UT22084-071-002-122</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྟ་བ་ཕྱིན་ཅི་ལོག་ཏུ་གྱུར་པ་འདི་ལྟ་སྟེ། བརྣབ་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པ་དང་། གནོད་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པ་དང་། ཚུལ་ཁྲིམས་དང་བརྟུལ་ཞུགས་<tei:ref folio="F.237.b"/>མཆོག་ཏུ་འཛིན་པའི་ཚོགས་ཀྱི་མདུད་པ་དང་། འདི་བདེན་ནོ་སྙམ་དུ་མངོན་པར་ཞེན་ཅིང་མཆོག་ཏུ་འཛིན་པའི་ཚོགས་ཀྱི་མདུད་པ་གང་དག་ཡིན་པ་དེ་དག་སྤང་བའི་ཕྱིར་བསླབ་པར་བྱ་ཞིང་། དེ་དག་སྤངས་པར་གྱུར་ཅིག་ཅེས་དེ་ལྟར་སོ་སོར་རྟོག་པར་བྱེད་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I must train myself to abandon mistaken beliefs, wrong ideas, incorrect thoughts, and incorrect views regarding past, future, and present tastes perceived by the tongue that are the psychophysical bonds of covetousness, malice, a sense of moral and ascetic supremacy, and thinking, “This is the truth,” and clinging to it as real—and then I must abandon them.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-192">
+    <prop type="location-id">UT22084-071-002-123</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་འོན་ཀྱང་འདི་ན་ཁ་ཅིག་ལ་ནི་ལྕེས་རྣམ་པར་ཤེས་པར་བྱ་བའི་རོ་དེ་དག་ཉིད་ཡིད་དུ་འོང་བར་འགྱུར་ལ། གཞན་དག་ལ་ནི་དེ་དག་ཉིད་ཡིད་དུ་མི་འོང་བར་འགྱུར་བ་ཡང་ཡོད་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-123"/>“Moreover, monks, the very same tastes perceived by the tongue may be pleasant to some but unpleasant to others.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-193">
+    <prop type="location-id">UT22084-071-002-123</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དག་ལ་ཡང་དུས་ལ་ལར་ནི་ཡིད་བདེ་བའི་གནས་ལྟ་བུ་དག་ཏུ་འགྱུར་ཞིང་། དུས་ལ་ལར་ནི་ཡིད་མི་བདེ་བའི་གནས་ལྟ་བུ་དག་ཏུ་འགྱུར། དུས་ལ་ལར་ནི་བཏང་སྙོམས་ཀྱི་གནས་ལྟ་བུ་དག་ཏུ་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Sometimes they will be pleasant to them, sometimes they will be unpleasant, and sometimes they will be neutral.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-194">
+    <prop type="location-id">UT22084-071-002-123</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དེ་ལྟར་ན་འདི་ལ་སེམས་ཅན་རྣམས་ཡུན་རིང་པོ་ནས་སེམས་ཀྱིས་བསྒྲིབས་ཤིང་། སེམས་ཀྱིས་བྲིད། སེམས་ཀྱིས་བསླུས་ནས་ཉེས་དམིགས་སུ་མི་མཐོང་ཞིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Monks, beings have been obscured by their minds in this way for a long time, and since they have been deceived and duped by their minds, they do not recognize the error.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-195">
+    <prop type="location-id">UT22084-071-002-123</prop>
+    <tuv xml:lang="bo">
+                <seg>ངེས་པར་འབྱུང་བ་རབ་ཏུ་མི་ཤེས་ཏེ། བདུད་སྡིག་ཅན་ཇི་ལྟར་འདོད་པ་བཞིན་བྱེད་དུ་འཇུག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They have no conception of renunciation, and evil Māra forces them to do whatever he desires.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-196">
+    <prop type="location-id">UT22084-071-002-124</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དགེ་སྦྱོང་ངམ། བྲམ་ཟེ་གང་དག་ཁ་ཅིག་ལྕེས་རྣམ་པར་ཤེས་པར་བྱ་བའི་རོ་འདི་དག་ཉིད་བདེན་པ་དང་གནས་པའི་སྒོ་ནས་མ་མཐོང་ཞིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-124"/>“Monks, some śramaṇas and brāhmaṇas do not see those tastes that are perceived by the tongue as they truly and really are, so they stubbornly hold on to their own mistaken beliefs.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-197">
+    <prop type="location-id">UT22084-071-002-124</prop>
+    <tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་རང་རང་ལོག་པར་མོས་པ་དག་ལ་ནན་གྱིས་བཟུང་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They cling to them as real, thinking, ‘This is true, and anything else is false,’ and they conduct themselves accordingly.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-198">
+    <prop type="location-id">UT22084-071-002-124</prop>
+    <tuv xml:lang="bo">
+                <seg>མངོན་པར་ཞེན་པར་བྱས་ནས་འདི་ཉིད་བདེན་གྱི་གཞན་ནི་བརྫུན་པའོ་ཞེས་རྗེས་སུ་ཐ་སྙད་འདོགས་པར་བྱེད་པ་དེ་དག་ནི་ལྕེས་རྣམ་པར་ཤེས་པར་བྱ་བའི་རོ་ཡིད་བདེ་བའི་གནས་ལྟ་བུ་དག་ལ་རྗེས་སུ་ཆགས་ཤིང་གནས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They become and remain attached to pleasant tastes perceived by the tongue.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-199">
+    <prop type="location-id">UT22084-071-002-124</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སྦྱོང་དང་། བྲམ་ཟེ་བརྣབ་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པས་ཀུན་ནས་སུན་ཕྱུང་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These śramaṇas and brāhmaṇas are completely corrupted by the psychophysical bond of covetousness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-200">
+    <prop type="location-id">UT22084-071-002-124</prop>
+    <tuv xml:lang="bo">
+                <seg>རྗེས་སུ་ཆགས་པའི་ཀུན་དུ་སྦྱོར་བ་དང་ལྡན་པ་དེ་དག་ཀྱང་བདུད་སྡིག་ཅན་ཇི་ལྟར་འདོད་པ་བཞིན་བྱེད་དུ་འཇུག་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are entangled in attachment, and so they too are forced to do whatever evil Māra desires.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-201">
+    <prop type="location-id">UT22084-071-002-125</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དགེ་སྦྱོང་ངམ། བྲམ་ཟེ་གང་དག་ཁ་ཅིག་ལྕེས་རྣམ་པར་ཤེས་པར་བྱ་བའི་རོ་འདི་དག་ཉིད་བདེན་པ་དང་གནས་པའི་སྒོ་ནས་མ་མཐོང་ཞིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-125"/>“Monks, some śramaṇas and brāhmaṇas do not see those tastes that are perceived by the tongue as they truly and really are, so they stubbornly hold on to their own mistaken beliefs.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-202">
+    <prop type="location-id">UT22084-071-002-125</prop>
+    <tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་རང་རང་ལོག་པར་མོས་པ་དག་ལ་ནན་གྱིས་བཟུང་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They cling to them as real, thinking, ‘This is true, and anything else is false,’ and they conduct themselves accordingly.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-203">
+    <prop type="location-id">UT22084-071-002-125</prop>
+    <tuv xml:lang="bo">
+                <seg>མངོན་པར་ཞེན་པར་བྱས་ནས་འདི་ཉིད་བདེན་གྱི་གཞན་ནི་བརྫུན་པའོ་ཞེས་རྗེས་སུ་ཐ་སྙད་འདོགས་པར་བྱེད་པ་དེ་དག་ནི་ལྕེས་རྣམ་པར་ཤེས་པར་བྱ་བའི་རོ་ཡིད་མི་བདེ་བའི་གནས་ལྟ་བུ་དག་ལ་ཁོང་ཁྲོ་བ་དང་ལྡན་པར་གནས་<tei:ref folio="F.238.a"/>ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They remain averse to unpleasant tastes perceived by the tongue.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-204">
+    <prop type="location-id">UT22084-071-002-125</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སྦྱོང་དང་། བྲམ་ཟེ་གནོད་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པས་ཀུན་ནས་སུན་ཕྱུང་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These śramaṇas and brāhmaṇas are completely corrupted by the psychophysical bond of malice.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-205">
+    <prop type="location-id">UT22084-071-002-125</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁོང་ཁྲོ་བའི་ཀུན་ཏུ་སྦྱོར་བ་དང་ལྡན་པ་དེ་དག་ཀྱང་བདུད་སྡིག་ཅན་ཇི་ལྟར་འདོད་པ་བཞིན་བྱེད་དུ་འཇུག་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are entangled in aversion, and so they too are forced to do whatever evil Māra desires.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-206">
+    <prop type="location-id">UT22084-071-002-126</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དགེ་སྦྱོང་ངམ། བྲམ་ཟེ་གང་དག་ཁ་ཅིག་ལྕེས་རྣམ་པར་ཤེས་པར་བྱ་བའི་རོ་འདི་དག་ཉིད་བདེན་པ་དང་གནས་པའི་སྒོ་ནས་མ་མཐོང་ཞིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-126"/>“Monks, some śramaṇas and brāhmaṇas do not see those tastes that are perceived by the tongue as they truly and really are, so they stubbornly hold on to their own mistaken beliefs.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-207">
+    <prop type="location-id">UT22084-071-002-126</prop>
+    <tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་རང་རང་ལོག་པར་མོས་པ་དག་ལ་ནན་གྱིས་བཟུང་སྟེ། མངོན་པར་ཤེས་པར་བྱས་ནས་འདི་ཉིད་བདེན་གྱི་གཞན་ནི་དོན་མེད་པའོ་ཞེས་རྗེས་སུ་ཐ་སྙད་འདོགས་པར་བྱེད་པ་དེ་དག་ནི་ལྕེས་རྣམ་པར་ཤེས་པར་བྱ་བའི་རོ་བཏང་སྙོམས་ཀྱི་གནས་ལྟ་བུ་དག་ལ་སོ་སོར་བརྟགས་པ་མ་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They cling to them as real, they think, ‘This is true, and anything else is meaningless,’ and they conduct themselves accordingly.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-208">
+    <prop type="location-id">UT22084-071-002-126</prop>
+    <tuv xml:lang="bo">
+                <seg>སོ་སོར་བརྟགས་པ་མ་ཡིན་པའི་བཏང་སྙོམས་སུ་གནས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They remain thoughtlessly indifferent to neutral tastes perceived by the tongue.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-209">
+    <prop type="location-id">UT22084-071-002-126</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སྦྱོང་དང་། བྲམ་ཟེ་འདི་བདེན་ནོ་སྙམ་དུ་མངོན་པར་ཞེན་ཅིང་མཆོག་ཏུ་འཛིན་པའི་ཚོགས་ཀྱི་མདུད་པས་ཀུན་ནས་སུན་ཕྱུང་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These śramaṇas and brāhmaṇas are completely corrupted by the psychophysical bond of thinking, ‘This is the truth,’ and clinging to it as real.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-210">
+    <prop type="location-id">UT22084-071-002-126</prop>
+    <tuv xml:lang="bo">
+                <seg>ང་རྒྱལ་གྱི་ཀུན་དུ་སྦྱོར་བ་དང་ལྡན་པ་དེ་དག་ཀྱང་བདུད་སྡིག་ཅན་ཇི་ལྟར་འདོད་པ་བཞིན་བྱེད་དུ་འཇུག་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are entangled in pride, and so they too are forced to do whatever evil Māra desires.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-211">
+    <prop type="location-id">UT22084-071-002-129</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-129"/>“Here is an analogy, monks.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-212">
+    <prop type="location-id">UT22084-071-002-129</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔེར་ན་སློབ་མ་ཞིག་གིས་སློབ་དཔོན་ཟས་སྦྱིན་པར་བྱའོ་ཞེས་བ་ལང་གི་ལྕི་བ་ཟར་བཅུག་ཅིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>A student might say, ‘I will offer my teacher food,’ and give them cow dung to eat.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-213">
+    <prop type="location-id">UT22084-071-002-129</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐོམ་བླུད་པར་བྱའོ་ཞེས་གཅིན་འཐུང་དུ་བཅུག་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They might say, ‘I will quench their thirst,’ and give them urine to drink.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-214">
+    <prop type="location-id">UT22084-071-002-129</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དེས་མངོན་པར་དགའ་བར་བྱེད་ཅིང་དེ་ལ་ཉེས་དམིགས་སུ་མ་མཐོང་བ་ལས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They might take great pleasure in doing so and not see any fault in it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-215">
+    <prop type="location-id">UT22084-071-002-129</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་གི་ཚེ་དེ་སོ་སོར་རྟོག་པར་བྱེད་པ་ན་བདག་གིས་སློབ་དཔོན་ཟས་སྦྱིན་པར་བྱའོ་ཞེས་བ་ལང་གི་ལྕི་བ་ཟར་བཅུག་ཅིང་། སྐོམ་བླུད་པར་བྱའོ་ཞེས་གཅིན་འཐུང་དུ་བཅུག་པར་ཤེས་པར་གྱུར་པ་དེའི་ཚེ། དེ་དེས་གདུང་བར་བྱེད། ངོ་ཚ་བར་བྱེད་ལ། གནོང་བར་བྱེད་ཅིང་རྣམ་པར་སྨོད་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then, when they thoroughly examine their actions, they realize, ‘I said, “I will offer my teacher food,” and then I gave them cow dung to eat, and I said, “I will quench their thirst,” and then I gave them urine to drink,’ and it brings them distress, shame, remorse, and disgust.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-216">
+    <prop type="location-id">UT22084-071-002-130</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དེ་བཞིན་དུ་འཕགས་པ་ཉན་ཐོས་ཐོས་པ་དང་ལྡན་པ་ཡང་འཕགས་པ་འཇིག་རྟེན་ལས་འདས་པའི་ཤེས་རབ་འདི་ཉིད་ཐོབ་ནས་སྔོན་གྱི་བྱིས་པའི་སྤྱོད་པ་དང་། རྨོངས་པའི་སྤྱོད་པ་དང་། ཤེས་རབ་འཆལ་པའི་སྤྱོད་པ་དེས་གདུང་བར་བྱེད། ངོ་ཚ་བར་བྱེད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-130"/>“Monks, in the same way, after noble hearers who are learned have obtained noble, supramundane wisdom, their previous childish, deluded, and confused behavior brings them distress, shame, remorse, and disgust.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-217">
+    <prop type="location-id">UT22084-071-002-130</prop>
+    <tuv xml:lang="bo">
+                <seg>གནོང་བར་བྱེད་ཅིང་རྣམ་པར་སྨོད་པར་བྱེད་ལ་དེ་འདི་སྙམ་དུ་སེམས་ཏེ། བདག་གིས་ནི་སྔོན་མི་རྟག་པ་ཁོ་ན་ལ་རྟག་པར་བསམས་ཤིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They think, ‘Formerly, I thought there was permanence where there is only impermanence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-218">
+    <prop type="location-id">UT22084-071-002-130</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གིས་སྡུག་བསྔལ་བ་ཁོ་ན་ལ་ནི་བདེ་བར་བསམས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I thought there was happiness where there is only suffering.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-219">
+    <prop type="location-id">UT22084-071-002-130</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གིས་མི་གཙང་<tei:ref folio="F.238.b"/>བ་ཁོ་ན་ལ་ནི་གཙང་བར་བསམས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I thought there was purity where there is only impurity.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-220">
+    <prop type="location-id">UT22084-071-002-130</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གིས་བདག་མེད་པ་ཁོ་ན་ལ་ནི་བདག་ཏུ་བསམས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I thought there was a self where there is only the absence of a self.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-221">
+    <prop type="location-id">UT22084-071-002-130</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་ན་བདག་ནི་སྔོན་མི་རྟག་པ་ལ་རྟག་པར་འདུ་ཤེས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In this way, formerly, I perceived impermanence as permanence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-222">
+    <prop type="location-id">UT22084-071-002-130</prop>
+    <tuv xml:lang="bo">
+                <seg>སྡུག་བསྔལ་བ་ལ་བདེ་བར་འདུ་ཤེས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I perceived suffering as happiness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-223">
+    <prop type="location-id">UT22084-071-002-130</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་གཙང་བ་ལ་གཙང་བར་འདུ་ཤེས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I perceived impurity as purity.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-224">
+    <prop type="location-id">UT22084-071-002-130</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་མེད་པ་ལ་བདག་ཏུ་འདུ་ཤེས་པར་གྱུར་ཏོ་སྙམ་དུ་སེམས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I perceived the absence of a self as a self.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-225">
+    <prop type="location-id">UT22084-071-002-131</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-131"/>“Here is an analogy, monks.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-226">
+    <prop type="location-id">UT22084-071-002-131</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔེར་ན་སོ་གའི་ཟླ་བ་ཐ་མ་ལ་སྤྲིན་མེད་ཅིང་སྤྲིན་དང་བྲལ་བའི་ཉི་མའི་གུང་ཚིགས་ལ་བབ་པའི་ཚེ། ཚ་བས་སྨིག་རྒྱུ་དག་གཡོ་བར་གྱུར་པ་ན། དེ་ལ་སེམས་ཅན་བྱིས་པའི་རང་བཞིན་ཅན་དང་། རྨོངས་པའི་རང་བཞིན་ཅན་དང་། ཤེས་རབ་འཆལ་པའི་རང་བཞིན་ཅན་གང་དག་ཡིན་པ་དེ་དག་ནི་འདི་སྙམ་དུ་སེམས་ཏེ། གང་འདི་ལྟར་སྣང་བའི་ཆུ་འདི་ནི་བདེན་པ་དང་གནས་པའི་སྒོ་ནས་ཡོད་དོ་སྙམ་དུ་སེམས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When the sun is at its zenith in a cloudless sky in the last month of spring, undulating mirages may appear due to the heat, and beings who have a childish, deluded, and confused disposition might think, ‘There is water that appears in this way, real and present there.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-227">
+    <prop type="location-id">UT22084-071-002-132</prop>
+    <tuv xml:lang="bo">
+                <seg>སེམས་ཅན་བྱིས་པའི་རང་བཞིན་ཅན་མ་ཡིན་པ་དང་། རྨོངས་པའི་རང་བཞིན་ཅན་མ་ཡིན་པ་དང་། ཤེས་རབ་དང་ལྡན་པའི་རང་བཞིན་ཅན་གང་དག་ཡིན་པ་དེ་དག་ནི་འདི་སྙམ་དུ་སེམས་ཏེ། གང་འདི་ལྟར་སྣང་བའི་ཆུ་འདི་ནི་བདེན་པ་དང་། གནས་པའི་སྒོ་ནས་ཡོད་པ་མ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-132"/>“Beings whose disposition is insightful instead of childish or deluded think, ‘There is no water that appears in this way, real and present there.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-228">
+    <prop type="location-id">UT22084-071-002-132</prop>
+    <tuv xml:lang="bo">
+                <seg>སྨིག་རྒྱུ་འདི་འབའ་ཞིག་ཡོད་དོ། །མིག་སླུ་བར་བྱེད་པ་འདི་འབའ་ཞིག་ཡོད་དོ་སྙམ་དུ་སེམས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is only a mirage, just a visual illusion.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-229">
+    <prop type="location-id">UT22084-071-002-133</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དེ་བཞིན་དུ་འཕགས་པ་ཉན་ཐོས་ཐོས་པ་དང་ལྡན་པ་ཡང་བདག་གི་ལྕེས་རྣམ་པར་ཤེས་པར་བྱ་བ་འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་རོ་གང་དག་ཡིན་པ་དེ་དག་ལ་རྟག་པ་ཉིད་དམ། བརྟན་པ་ཉིད་དམ། ཐེར་ཟུག་ཉིད་དམ། དེ་བཞིན་ཉིད་དམ། མ་ནོར་བ་དེ་བཞིན་ཉིད་དམ། གཞན་མ་ཡིན་པ་དེ་བཞིན་ཉིད་དམ། ཡང་དག་པ་ཉིད་དམ། བདེན་པ་ཉིད་དམ། དེ་ཁོ་ན་ཉིད་དམ། ཇི་ལྟ་བ་བཞིན་ཉིད་དམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-133"/>“Monks, in the same way, noble hearers who are learned think, ‘All of the past, future, and present tastes my tongue perceives lack permanence, stability, unchangeability, a true nature, an unmistaken true nature, a unique true nature, genuine reality, truth, suchness, a way things really are, infallibility, and incontrovertibility.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-230">
+    <prop type="location-id">UT22084-071-002-133</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་ནོར་བ་ཉིད་དམ། ཕྱིན་ཅི་མ་ལོག་པ་ཉིད་མེད་དེ། གསོག་ཀྱང་དེ་ཉིད་ཡིན་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are hollow.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-231">
+    <prop type="location-id">UT22084-071-002-133</prop>
+    <tuv xml:lang="bo">
+                <seg>གསོབ་ཀྱང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are vain.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-232">
+    <prop type="location-id">UT22084-071-002-133</prop>
+    <tuv xml:lang="bo">
+                <seg>སྙིང་པོ་མེད་པ་ཡང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They have no essence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-233">
+    <prop type="location-id">UT22084-071-002-133</prop>
+    <tuv xml:lang="bo">
+                <seg>བརྫུན་པ་ཡང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are false.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-234">
+    <prop type="location-id">UT22084-071-002-133</prop>
+    <tuv xml:lang="bo">
+                <seg>སླུ་བའི་ཆོས་ཀྱང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are deceptive phenomena.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-235">
+    <prop type="location-id">UT22084-071-002-133</prop>
+    <tuv xml:lang="bo">
+                <seg>བདུད་ཀྱང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are Māra.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-236">
+    <prop type="location-id">UT22084-071-002-133</prop>
+    <tuv xml:lang="bo">
+                <seg>བདུད་ཀྱི་ཡོ་བྱད་ཀྱང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are Māra’s tools.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-237">
+    <prop type="location-id">UT22084-071-002-133</prop>
+    <tuv xml:lang="bo">
+                <seg>རོ་ཡང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are corpses.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-238">
+    <prop type="location-id">UT22084-071-002-133</prop>
+    <tuv xml:lang="bo">
+                <seg>རོའི་གཟུགས་ཀྱང་དེ་ཉིད་ཡིན་པས་དེ་ལ་ནི་མངོན་པར་དགའ་བར་བྱ་བའམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are corpse-like forms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-239">
+    <prop type="location-id">UT22084-071-002-133</prop>
+    <tuv xml:lang="bo">
+                <seg>མངོན་པར་བརྗོད་པར་བྱ་བའམ། ལྷག་པར་ཆགས་པར་བྱ་བའམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, it does not make sense to delight in them, speak highly of them, or become and remain excessively attached to them.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-240">
+    <prop type="location-id">UT22084-071-002-133</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷག་པར་ཆགས་ཤིང་གནས་པར་བྱ་<tei:ref folio="F.239.a"/>བར་མི་རིགས་ཀྱི་བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་འཕགས་པ་འཇིག་རྟེན་ལས་འདས་པ་ནི་བདེན་ནོ་ཞེས་དེ་ལྟར་སོ་སོར་རྟོག་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The noble, supramundane wisdom taught by the Blessed One is true.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-241">
+    <prop type="location-id">UT22084-071-002-133</prop>
+    <tuv xml:lang="bo">
+                <seg>དེས་དེ་ལྟར་ཤེས་ནས་ལྕེས་རྣམ་པར་ཤེས་པར་བྱ་བ་འདས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That is how they conduct a thorough analysis.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-242">
+    <prop type="location-id">UT22084-071-002-134</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་རོ་རྣམས་ནད་དུ་ཡང་དག་པར་རྗེས་སུ་མཐོང་ཞིང་། འབྲས་དང་། ཟུག་རྔུ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-134"/>“Having understood that, they correctly see all of the tastes perceived by their tongue in the past, future, and present as a sickness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-243">
+    <prop type="location-id">UT22084-071-002-134</prop>
+    <tuv xml:lang="bo">
+                <seg>སྡིག་པ་དང་། མི་རྟག་པ་དང་། སྡུག་བསྔལ་བ་དང་། སྟོང་པ་དང་། བདག་མེད་པར་ཡང་དག་པར་རྗེས་སུ་མཐོང་ངོ་། །དེས་ལྕེས་རྣམ་པར་ཤེས་པར་བྱ་བ་འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་རོ་རྣམས་ནད་དུ་ཡང་དག་པར་རྗེས་སུ་མཐོང་ཞིང་། འབྲས་དང་། ཟུག་རྔུ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They correctly see them as a cancer, a splinter, a scorpion’s sting, impermanent, suffering, empty, and lacking a self.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-244">
+    <prop type="location-id">UT22084-071-002-135</prop>
+    <tuv xml:lang="bo">
+                <seg>སྡིག་པ་དང་། མི་རྟག་པ་དང་། སྡུག་བསྔལ་བ་དང་། སྟོང་པ་དང་། བདག་མེད་པར་ཡང་དག་པར་རྗེས་སུ་མཐོང་བ་ན། དེའི་ལྕེས་རྣམ་པར་ཤེས་པར་བྱ་བ་འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་རོ་དག་ལ་ལོག་པར་མོས་པའམ། འདུ་ཤེས་ཕྱིན་ཅི་ལོག་གམ། སེམས་ཕྱིན་ཅི་ལོག་གམ། ལྟ་བ་ཕྱིན་ཅི་ལོག་ཏུ་གྱུར་པ་འདི་ལྟ་སྟེ། བརྣབ་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པ་དང་། གནོད་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པ་དང་། ཚུལ་ཁྲིམས་དང་བརྟུལ་ཞུགས་མཆོག་ཏུ་འཛིན་པའི་ཚོགས་ཀྱི་མདུད་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-135"/>“When they correctly see all the tastes perceived by their tongue in the past, future, and present as a sickness, and they correctly see them as a cancer, as a splinter, as a scorpion’s sting, as impermanent, suffering, empty, and lacking a self, they then abandon mistaken beliefs, wrong ideas, incorrect thoughts, and incorrect views regarding past, future, and present tastes perceived by the tongue that are the psychophysical bonds of covetousness, malice, a sense of moral and ascetic supremacy, and thinking, ‘This is the truth,’ and clinging to it as real.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-245">
+    <prop type="location-id">UT22084-071-002-136</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་བདེན་ནོ་སྙམ་དུ་མངོན་པར་ཞེན་ཅིང་མཆོག་ཏུ་འཛིན་པའི་ཚོགས་ཀྱི་མདུད་པ་གང་དག་ཡིན་པ་དེ་དག་སྤོང་བར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-136"/>“By abandoning those bonds, they render Māra blind, depressed, and disoriented and stand their ground.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-246">
+    <prop type="location-id">UT22084-071-002-136</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དག་སྤངས་པའི་ཕྱིར་བདུད་ལྡོངས་པ་དང་། ཡི་ཆད་པ་དང་། ཕྱོགས་མེད་པར་བྱས་ཏེ་གནས་ཤིང་བདུད་སྡིག་ཅན་གྱིས་མི་མཐོང་བར་སོང་ནས་བདུད་དང་བདུད་ཀྱི་འཁོར་བཅོམ་ཞིང་གཡུལ་ཆེན་པོའི་གཡུལ་སྤྲད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Since evil Māra can no longer see them, they destroy Māra and his retinue and wage battle against his great army.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-247">
+    <prop type="location-id">UT22084-071-002-136</prop>
+    <tuv xml:lang="bo">
+                <seg>གཡུལ་ལས་རྣམ་པར་རྒྱལ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are victorious in battle, destroy the army, and stand their ground.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-248">
+    <prop type="location-id">UT22084-071-002-136</prop>
+    <tuv xml:lang="bo">
+                <seg>གཡུལ་ངོ་དེ་ཉིད་མངོན་པར་ཕམ་པར་བྱས་ཤིང་གནས་ཏེ་དེ་ལྟར་ན་འདི་ལ་འཕགས་པ་ཉན་ཐོས་ལྷག་པའི་ཤེས་རབ་ལ་སྦྱོར་བར་རྗེས་སུ་ཞུགས་པ་ལ་གནས་པ་ནི་ཤེས་རབ་ཀྱིས་འཚོ་བ་རྣམས་ཀྱི་ནང་ན་བླ་ན་མེད་པས་འཚོ་བ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This is how noble hearers who remain engaged in practicing superior wisdom are supported by wisdom, which among all supports is unsurpassed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-249">
+    <prop type="location-id">UT22084-071-002-137</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་ཡང་ཇི་ལྟར་ན་འཕགས་པ་ཉན་ཐོས་ལྷག་པའི་ཤེས་རབ་ལ་སྦྱོར་བར་རྗེས་སུ་ཞུགས་པ་ལ་གནས་པ། ཤེས་རབ་ཀྱིས་འཚོ་བ་རྣམས་ཀྱི་ནང་ན་བླ་ན་མེད་པས་འཚོ་བ་ཡིན་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-137"/>“Monks, how else are noble hearers who remain engaged in practicing superior wisdom supported by wisdom, which among all supports is unsurpassed?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-250">
+    <prop type="location-id">UT22084-071-002-137</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་འདི་ལ་འཕགས་པ་ཉན་ཐོས་ལྷག་པའི་ཤེས་རབ་ལ་སྦྱོར་བར་<tei:ref folio="F.239.b"/>རྗེས་སུ་ཞུགས་པ་ལ་གནས་པ་ནི་བདག་སྔོན་ལུས་ཀྱིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་རེག་བྱ་ཡིད་བདེ་བའི་གནས་ལྟ་བུ་དག་ལ་ནི་རྗེས་སུ་ཆགས་ཤིང་གནས་པར་གྱུར་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Monks, noble hearers who remain engaged in practicing superior wisdom consider the following to conduct a thorough analysis: ‘Formerly, I became and remained attached to pleasant textures perceived by the body.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-251">
+    <prop type="location-id">UT22084-071-002-137</prop>
+    <tuv xml:lang="bo">
+                <seg>ལུས་ཀྱིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་རེག་བྱ་ཡིད་མི་བདེ་བའི་གནས་ལྟ་བུ་དག་ལ་ནི་ཁོང་ཁྲོ་བ་དང་ལྡན་ཞིང་གནས་པར་གྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I became and remained averse to unpleasant textures perceived by the body.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-252">
+    <prop type="location-id">UT22084-071-002-137</prop>
+    <tuv xml:lang="bo">
+                <seg>ལུས་ཀྱིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་རེག་བྱ་བཏང་སྙོམས་ཀྱི་གནས་ལྟ་བུ་དག་ལ་ནི་སོ་སོར་བརྟགས་པ་མ་ཡིན། སོ་སོར་བརྟགས་པ་མ་ཡིན་པའི་བཏང་སྙོམས་སུ་གནས་པར་གྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I became and remained thoughtlessly indifferent to neutral textures perceived by the body.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-253">
+    <prop type="location-id">UT22084-071-002-137</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་བདག་ཡུན་རིང་པོ་ནས་འདི་ལ་རྗེས་སུ་སློབ་ཅིང་རྗེས་སུ་བྱེད་པ་ན་རྒ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I have trained myself and behaved in this way for a long time, and so I have experienced old age and death.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-254">
+    <prop type="location-id">UT22084-071-002-137</prop>
+    <tuv xml:lang="bo">
+                <seg>འཆི་བ་ཉམས་སུ་མྱོང་ཞིང་སྔོན་གྱི་མཐའ་མི་མངོན་པར་གྱུར་པས་བདག་གིས་ད་ནི་ལུས་ཀྱིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་རེག་བྱ་དག་ལ་སྔོན་ཇི་ལྟ་བ་དེ་ལྟར་བསླབ་པར་མི་བྱ་ཞིང་། བདག་གིས་ལུས་ཀྱིས་རྣམ་པར་ཤེས་པར་བྱ་བ་འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་རེག་བྱ་དག་ལ་ལོག་པར་མོས་པ་དང་། འདུ་ཤེས་ཕྱིན་ཅི་ལོག་གམ། སེམས་ཕྱིན་ཅི་ལོག་གམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The past is gone, so today I will no longer train myself as I did before regarding textures perceived by the body.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-255">
+    <prop type="location-id">UT22084-071-002-137</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྟ་བ་ཕྱིན་ཅི་ལོག་ཏུ་གྱུར་པ་འདི་ལྟ་སྟེ། བརྣབ་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པ་དང་། གནོད་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པ་དང་། ཚུལ་ཁྲིམས་དང་བརྟུལ་ཞུགས་མཆོག་ཏུ་འཛིན་པའི་ཚོགས་ཀྱི་མདུད་པ་དང་། འདི་བདེན་ནོ་སྙམ་དུ་མངོན་པར་ཞེན་ཅིང་མཆོག་ཏུ་འཛིན་པའི་ཚོགས་ཀྱི་མདུད་པ་གང་དག་ཡིན་པ་དེ་དག་སྤང་བའི་ཕྱིར་བསླབ་པར་བྱ་ཞིང་། དེ་དག་སྤངས་པར་གྱུར་ཅིག་ཅེས་དེ་ལྟར་སོ་སོར་རྟོག་པར་བྱེད་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I must train myself to abandon mistaken beliefs, wrong ideas, incorrect thoughts, and incorrect views regarding past, future, and present textures perceived by the body that are the psychophysical bonds of covetousness, malice, a sense of moral and ascetic supremacy, and thinking, “This is the truth,” and clinging to it as real—and then I must abandon them.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-256">
+    <prop type="location-id">UT22084-071-002-138</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་འོན་ཀྱང་འདི་ན་ཁ་ཅིག་ལ་ནི་ལུས་ཀྱིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་རེག་བྱ་དེ་དག་ཉིད་ཡིད་དུ་འོང་བར་འགྱུར་ལ། གཞན་དག་ལ་ནི་དེ་དག་ཉིད་ཡིད་དུ་མི་འོང་བར་འགྱུར་བ་ཡང་ཡོད་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-138"/>“Moreover, monks, the very same textures perceived by the body may be pleasant to some but unpleasant to others.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-257">
+    <prop type="location-id">UT22084-071-002-138</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དག་ལ་ཡང་དུས་ལ་ལར་ནི་ཡིད་བདེ་བའི་གནས་ལྟ་བུ་དག་ཏུ་འགྱུར་ཞིང་། དུས་ལ་ལར་ནི་ཡིད་མི་བདེ་བའི་གནས་ལྟ་བུ་དག་ཏུ་འགྱུར། དུས་ལ་ལར་ནི་བཏང་སྙོམས་ཀྱི་གནས་ལྟ་བུ་དག་ཏུ་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Sometimes they will be pleasant to them, sometimes they will be unpleasant, and sometimes they will be neutral.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-258">
+    <prop type="location-id">UT22084-071-002-138</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དེ་ལྟར་ན་འདི་ལ་སེམས་ཅན་རྣམས་སུ་ཡུན་རིང་པོ་ནས་སེམས་ཀྱིས་བསྒྲིབས་ཤིང་། སེམས་ཀྱིས་བྲིད། སེམས་ཀྱིས་བསླུས་ནས་ཉེས་དམིགས་སུ་མི་མཐོང་ཞིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Monks, beings have been obscured by their minds in this way for a long time, and since they have been deceived and duped by their minds, they do not recognize the error.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-259">
+    <prop type="location-id">UT22084-071-002-138</prop>
+    <tuv xml:lang="bo">
+                <seg>ངེས་པར་འབྱུང་<tei:ref folio="F.240.a"/>བ་རབ་ཏུ་མི་ཤེས་ཏེ། བདུད་སྡིག་ཅན་ཇི་ལྟར་འདོད་པ་བཞིན་བྱེད་དུ་འཇུག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They have no conception of renunciation, and evil Māra forces them to do whatever he desires.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-260">
+    <prop type="location-id">UT22084-071-002-139</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དགེ་སྦྱོང་ངམ། བྲམ་ཟེ་གང་དག་ཁ་ཅིག་ལུས་ཀྱིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་རེག་བྱ་འདི་དག་ཉིད་བདེན་པ་དང་གནས་པའི་སྒོ་ནས་མ་མཐོང་ཞིང་། ཇི་ལྟར་རང་རང་ལོག་པར་མོས་པ་དག་ལ་ནན་གྱིས་བཟུང་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-139"/>“Monks, some śramaṇas and brāhmaṇas do not see those textures that are perceived by the body as they truly and really are, so they stubbornly hold on to their own mistaken beliefs.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-261">
+    <prop type="location-id">UT22084-071-002-139</prop>
+    <tuv xml:lang="bo">
+                <seg>མངོན་པར་ཞེན་པར་བྱས་ནས་འདི་ཉིད་བདེན་གྱི་གཞན་ནི་བརྫུན་པའོ་ཞེས་རྗེས་སུ་ཐ་སྙད་འདོགས་པར་བྱེད་པ་དེ་དག་ནི་ལུས་ཀྱིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་རེག་བྱ་ཡིད་བདེ་བའི་གནས་ལྟ་བུ་དག་ལ་རྗེས་སུ་ཆགས་ཤིང་གནས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They cling to them as real, thinking, ‘This is true, and anything else is false,’ and they conduct themselves accordingly. They become and remain attached to pleasant textures perceived by the body.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-262">
+    <prop type="location-id">UT22084-071-002-139</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སྦྱོང་དང་། བྲམ་ཟེ་བརྣབ་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པས་ཀུན་ནས་སུན་ཕྱུང་བ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These śramaṇas and brāhmaṇas are completely corrupted by the psychophysical bond of covetousness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-263">
+    <prop type="location-id">UT22084-071-002-139</prop>
+    <tuv xml:lang="bo">
+                <seg>རྗེས་སུ་ཆགས་པའི་ཀུན་དུ་སྦྱོར་བ་དང་ལྡན་པ་དེ་དག་ཀྱང་བདུད་སྡིག་ཅན་ཇི་ལྟར་འདོད་པ་བཞིན་བྱེད་དུ་འཇུག་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are entangled in attachment, and so they too are forced to do whatever evil Māra desires.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-264">
+    <prop type="location-id">UT22084-071-002-140</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དགེ་སྦྱོང་དང་། བྲམ་ཟེ་གང་དག་ལུས་ཀྱིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་རེག་བྱ་འདི་དག་ཉིད་བདེན་པ་དང་གནས་པའི་སྒོ་ནས་མ་མཐོང་ཞིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-140"/>“Monks, some śramaṇas and brāhmaṇas do not see those textures that are perceived by the body as they truly and really are, so they stubbornly hold on to their own mistaken beliefs.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-265">
+    <prop type="location-id">UT22084-071-002-140</prop>
+    <tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་རང་རང་ལོག་པར་མོས་པ་དག་ལ་ནན་གྱིས་བཟུང་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They cling to them as real, thinking, ‘This is true, and anything else is false,’ and they conduct themselves accordingly.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-266">
+    <prop type="location-id">UT22084-071-002-140</prop>
+    <tuv xml:lang="bo">
+                <seg>མངོན་པར་ཞེན་པར་བྱས་ནས་འདི་ཉིད་བདེན་གྱི་གཞན་ནི་དོན་མེད་པའོ་ཞེས་རྗེས་སུ་ཐ་སྙད་འདོགས་པར་བྱེད་པ་དེ་དག་ནི་ལུས་ཀྱིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་རེག་བྱ་ཡིད་མི་བདེ་བའི་གནས་ལྟ་བུ་དག་ལ་ཁོང་ཁྲོ་བ་དང་ལྡན་པར་གནས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They remain averse to unpleasant textures perceived by the body.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-267">
+    <prop type="location-id">UT22084-071-002-140</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སྦྱོང་དང་བྲམ་ཟེ་གནོད་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པས་ཀུན་ནས་སུན་ཕྱུང་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These śramaṇas and brāhmaṇas are completely corrupted by the psychophysical bond of malice.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-268">
+    <prop type="location-id">UT22084-071-002-140</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁོང་ཁྲོ་བའི་ཀུན་དུ་སྦྱོར་བ་དང་ལྡན་པ་དེ་དག་ཀྱང་བདུད་སྡིག་ཅན་ཇི་ལྟར་འདོད་པ་བཞིན་བྱེད་དུ་འཇུག་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are entangled in aversion, and so they too are forced to do whatever evil Māra desires.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-269">
+    <prop type="location-id">UT22084-071-002-142</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དགེ་སྦྱོང་ངམ། བྲམ་ཟེ་གང་དག་ཁ་ཅིག་ལུས་ཀྱིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་རེག་བྱ་འདི་དག་ཉིད་བདེན་པ་དང་གནས་པའི་སྒོ་ནས་མ་མཐོང་ཞིང་། ཇི་ལྟར་རང་རང་ལོག་པར་མོས་པ་དག་ལ་ནན་གྱིས་བཟུང་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-142"/>“Monks, some śramaṇas and brāhmaṇas do not see those textures that are perceived by the body as they truly and really are, so they stubbornly hold on to their own mistaken beliefs.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-270">
+    <prop type="location-id">UT22084-071-002-142</prop>
+    <tuv xml:lang="bo">
+                <seg>མངོན་པར་ཞེན་པར་བྱས་ནས་འདི་ཉིད་བདེན་གྱི་གཞན་ནི་བརྫུན་པའོ་ཞེས་རྗེས་སུ་ཐ་སྙད་འདོགས་པར་བྱེད་པ་དེ་དག་ནི་ལུས་ཀྱིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་རེག་བྱ་བཏང་སྙོམས་ཀྱི་གནས་ལྟ་བུ་དག་ལ་སོ་སོར་བརྟགས་པ་མ་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They cling to them as real, thinking, ‘This is true, and anything else is false,’ and they conduct themselves accordingly.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-271">
+    <prop type="location-id">UT22084-071-002-142</prop>
+    <tuv xml:lang="bo">
+                <seg>སོ་སོར་བརྟགས་པ་མ་ཡིན་པའི་བཏང་སྙོམས་སུ་གནས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They remain thoughtlessly indifferent to neutral textures perceived by the body.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-272">
+    <prop type="location-id">UT22084-071-002-142</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སྦྱོང་དང་། བྲམ་ཟེ་འདི་བདེན་ནོ་སྙམ་དུ་མངོན་<tei:ref folio="F.240.b"/>པར་ཞེན་ཅིང་མཆོག་ཏུ་འཛིན་པའི་ཚོགས་ཀྱི་མདུད་པས་ཀུན་ནས་སུན་ཕྱུང་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These śramaṇas and brāhmaṇas are completely corrupted by the psychophysical bond of thinking, ‘This is the truth,’ and clinging to it as real.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-273">
+    <prop type="location-id">UT22084-071-002-142</prop>
+    <tuv xml:lang="bo">
+                <seg>ང་རྒྱལ་གྱི་ཀུན་དུ་སྦྱོར་བ་དང་ལྡན་པ་དེ་དག་ཀྱང་བདུད་སྡིག་ཅན་ཇི་ལྟར་འདོད་པ་བཞིན་བྱེད་དུ་འཇུག་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are entangled in pride, and so they too are forced to do whatever evil Māra desires.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-274">
+    <prop type="location-id">UT22084-071-002-143</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-143"/>“Here is an analogy, monks.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-275">
+    <prop type="location-id">UT22084-071-002-143</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔེར་ན་མི་ཞིག་རྐུན་པོ་དག་གིས་གཙེས་པ་ན་རང་གི་བུ་ཡིན་ནོ་སྙམ་དུ་སེམས་ཤིང་གཞན་གྱི་བུ་བླངས་ཏེ་གྲོང་ནས་འབྲོས་པར་བྱེད་ཅིང་། དེ་དེས་མངོན་པར་དགའ་བར་བྱེད་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When a person is attacked by robbers, they might grab someone else’s child, thinking it is their own, and then leave town.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-276">
+    <prop type="location-id">UT22084-071-002-143</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལ་ཉེས་དམིགས་སུ་མ་མཐོང་བ་ལས། གང་གི་ཚེ་དེ་སོ་སོར་རྟོག་པར་བྱེད་པ་ན་འདི་ནི་བདག་གི་བུ་མ་ཡིན་གྱི། འདི་ནི་གཞན་གྱི་བུ་ཡིན་ནོ་ཞེས་ཤེས་པར་གྱུར་པ་དེའི་ཚེ། དེ་དེས་གདུང་བར་བྱེད། ངོ་ཚ་བར་བྱེད། གནོང་བར་བྱེད་ཅིང་རྣམ་པར་སྨོད་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>At first, they rejoice and see no fault in this, but once they thoroughly examine it, they realize that the child is not their own but someone else’s, and it brings them distress, shame, remorse, and disgust.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-277">
+    <prop type="location-id">UT22084-071-002-144</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དེ་བཞིན་དུ། འཕགས་པ་ཉན་ཐོས་ཐོས་པ་དང་ལྡན་པ་ཡང་འཕགས་པ་འཇིག་རྟེན་ལས་འདས་པའི་ཤེས་རབ་འདི་ཉིད་ཐོབ་ནས་སྔོན་གྱི་བྱིས་པའི་སྤྱོད་པ་དང་། རྨོངས་པའི་སྤྱོད་པ་དང་། ཤེས་རབ་འཆལ་པའི་སྤྱོད་པ་དེས་གདུང་བར་བྱེད། ངོ་ཚ་བར་བྱེད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-144"/>“Monks, in the same way, after noble hearers who are learned have obtained noble, supramundane wisdom, their previous childish, deluded, and confused behavior brings them distress, shame, remorse, and disgust.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-278">
+    <prop type="location-id">UT22084-071-002-144</prop>
+    <tuv xml:lang="bo">
+                <seg>གནོང་བར་བྱེད་ཅིང་། རྣམ་པར་སྨོད་པར་བྱེད་ལ། དེ་འདི་སྙམ་དུ་སེམས་ཏེ། བདག་གིས་ནི་སྔོན་མི་རྟག་པ་ཁོ་ན་ལ་རྟག་པར་བསམས་ཤིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They think, ‘Formerly, I thought there was permanence where there is only impermanence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-279">
+    <prop type="location-id">UT22084-071-002-144</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གིས་སྡུག་བསྔལ་བ་ཁོ་ན་ལ་ནི་བདེ་བར་བསམས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I thought there was happiness where there is only suffering.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-280">
+    <prop type="location-id">UT22084-071-002-144</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གིས་མི་གཙང་བ་ཁོ་ན་ལ་ནི་གཙང་བར་བསམས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I thought there was purity where there is only impurity.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-281">
+    <prop type="location-id">UT22084-071-002-144</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གིས་བདག་མེད་པ་ཁོ་ན་ལ་ནི་བདག་ཏུ་བསམས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I thought there was a self where there is only the absence of a self.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-282">
+    <prop type="location-id">UT22084-071-002-144</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་བདག་ནི་སྔོན་མི་རྟག་པ་ལ་རྟག་པར་འདུ་ཤེས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In this way, formerly, I perceived impermanence as permanence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-283">
+    <prop type="location-id">UT22084-071-002-144</prop>
+    <tuv xml:lang="bo">
+                <seg>སྡུག་བསྔལ་བ་ལ་བདེ་བར་འདུ་ཤེས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I perceived suffering as happiness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-284">
+    <prop type="location-id">UT22084-071-002-144</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་གཙང་བ་ལ་གཙང་བར་འདུ་ཤེས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I perceived impurity as purity.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-285">
+    <prop type="location-id">UT22084-071-002-144</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་མེད་པ་ལ་བདག་ཏུ་འདུ་ཤེས་པར་གྱུར་ཏོ་སྙམ་དུ་སེམས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I perceived the absence of a self as a self.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-286">
+    <prop type="location-id">UT22084-071-002-145</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-145"/>“Here is an analogy, monks.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-287">
+    <prop type="location-id">UT22084-071-002-145</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔེར་ན་སྐྱེས་བུ་གཉིད་ཀྱིས་ལོག་པའི་རྨི་ལམ་ལ་འདོད་པའི་ཡོན་ཏན་ལྔས་རྩེ་ཞིང་དགའ་ལ་དགའ་མགུར་སྤྱོད་པར་བྱེད་པ་ལས་ཕྱིས་སད་པ་ན་ཅུང་ཟད་ཀྱང་མི་སྣང་བར་གྱུར་པའི་ཚེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>A person who is asleep might revel in and enjoy objects desirable to the five senses in a dream, yet when they wake up afterward there is nothing there.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-288">
+    <prop type="location-id">UT22084-071-002-145</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལ་སེམས་ཅན་བྱིས་པའི་རང་བཞིན་ཅན་དང་། རྨོངས་པའི་རང་བཞིན་ཅན་དང་། ཤེས་རབ་འཆལ་པའི་རང་བཞིན་ཅན་གང་དག་ཡིན་པ་དེ་དག་ནི་འདི་སྙམ་དུ་སེམས་ཏེ། གང་དག་བདག་ཅག་གིས་རྨི་ལམ་ན་དགའ་མགུར་སྤྱད་པའི་འདོད་པའི་ཡོན་ཏན་ལྔ་པོ་དེ་དག་ནི་བདེན་པ་དང་གནས་པའི་སྒོ་ནས་ཡོད་དོ་སྙམ་དུ་<tei:ref folio="F.241.a"/>སེམས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>At that point, beings with a childish, deluded, and confused disposition think, ‘There were those objects desirable to the five senses that we enjoyed in our dreams, real and present there.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-289">
+    <prop type="location-id">UT22084-071-002-146</prop>
+    <tuv xml:lang="bo">
+                <seg>སེམས་ཅན་བྱིས་པའི་རང་བཞིན་ཅན་མ་ཡིན་པ་དང་། རྨོངས་པའི་རང་བཞིན་ཅན་མ་ཡིན་པ་དང་། ཤེས་རབ་དང་ལྡན་པའི་རང་བཞིན་ཅན་གང་དག་ཡིན་པ་དེ་དག་ནི་འདི་སྙམ་དུ་སེམས་ཏེ། གང་དག་བདག་ཅག་གིས་རྨི་ལམ་ན་དགའ་མགུར་སྤྱོད་པའི་འདོད་པའི་ཡོན་ཏན་ལྔ་པོ་དེ་དག་ནི་བདེན་པ་དང་གནས་པའི་སྒོ་ནས་ཡོད་པ་མ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-146"/>“Beings whose disposition is insightful instead of childish or deluded think, ‘There were no objects desirable to the five senses that we enjoyed in our dreams, real and present there.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-290">
+    <prop type="location-id">UT22084-071-002-146</prop>
+    <tuv xml:lang="bo">
+                <seg>རྨི་ལམ་དེ་འབའ་ཞིག་ཡོད་དོ། །སེམས་སླུ་བར་བྱེད་པ་དེ་འབའ་ཞིག་ཡོད་དོ་སྙམ་དུ་སེམས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That was only a dream, just a mental delusion.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-291">
+    <prop type="location-id">UT22084-071-002-147</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དེ་བཞིན་དུ་འཕགས་པ་ཉན་ཐོས་ཐོས་པ་དང་ལྡན་པ་ཡང་བདག་གི་ལུས་ཀྱིས་རྣམ་པར་ཤེས་པར་བྱ་བ་འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་རེག་བྱ་གང་དག་ཡིན་པ་འདི་དག་ལ་རྟག་པ་ཉིད་དམ། བརྟན་པ་ཉིད་དམ། ཐེར་ཟུག་པ་ཉིད་དམ། དེ་བཞིན་ཉིད་དམ། མ་ནོར་བ་དེ་བཞིན་ཉིད་དམ། གཞན་མ་ཡིན་པ་དེ་བཞིན་ཉིད་དམ། ཡང་དག་པ་ཉིད་དམ། བདེན་པ་ཉིད་དམ། དེ་ཁོ་ན་ཉིད་དམ། ཇི་ལྟ་བ་བཞིན་ཉིད་དམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-147"/>“Monks, in the same way, noble hearers who are learned think, ‘All of the past, future, and present textures my body perceives lack permanence, stability, unchangeability, a true nature, an unmistaken true nature, a unique true nature, genuine reality, truth, suchness, a way things really are, infallibility, and incontrovertibility.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-292">
+    <prop type="location-id">UT22084-071-002-147</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་ནོར་བ་ཉིད་དམ། ཕྱིན་ཅི་མ་ལོག་པ་ཉིད་མེད་དེ། གསོག་ཀྱང་དེ་ཉིད་ཡིན་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are hollow.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-293">
+    <prop type="location-id">UT22084-071-002-147</prop>
+    <tuv xml:lang="bo">
+                <seg>གསོབ་ཀྱང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are vain.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-294">
+    <prop type="location-id">UT22084-071-002-147</prop>
+    <tuv xml:lang="bo">
+                <seg>སྙིང་པོ་མེད་པ་ཡང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They have no essence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-295">
+    <prop type="location-id">UT22084-071-002-147</prop>
+    <tuv xml:lang="bo">
+                <seg>བརྫུན་པ་ཡང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are false.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-296">
+    <prop type="location-id">UT22084-071-002-147</prop>
+    <tuv xml:lang="bo">
+                <seg>སླུ་བའི་ཆོས་ཀྱང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are deceptive phenomena.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-297">
+    <prop type="location-id">UT22084-071-002-147</prop>
+    <tuv xml:lang="bo">
+                <seg>བདུད་ཀྱང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are Māra.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-298">
+    <prop type="location-id">UT22084-071-002-147</prop>
+    <tuv xml:lang="bo">
+                <seg>བདུད་ཀྱི་ཡོ་བྱད་ཀྱང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are Māra’s tools.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-299">
+    <prop type="location-id">UT22084-071-002-147</prop>
+    <tuv xml:lang="bo">
+                <seg>རོ་ཡང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are corpses.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-300">
+    <prop type="location-id">UT22084-071-002-147</prop>
+    <tuv xml:lang="bo">
+                <seg>རོའི་གཟུགས་ཀྱང་དེ་ཉིད་ཡིན་པས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are corpse-like forms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-301">
+    <prop type="location-id">UT22084-071-002-147</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལ་ནི་མངོན་པར་དགའ་བར་བྱ་བའམ། མངོན་པར་བརྗོད་པར་བྱ་བའམ། ལྷག་པར་ཆགས་པར་བྱ་བའམ། ལྷག་པར་ཆགས་ཤིང་གནས་པར་བྱ་བར་མི་རིགས་ཀྱི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, it does not make sense to delight in them, speak highly of them, or become and remain excessively attached to them.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-302">
+    <prop type="location-id">UT22084-071-002-147</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The noble, supramundane wisdom taught by the Blessed One is true.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-303">
+    <prop type="location-id">UT22084-071-002-147</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་འཇིག་རྟེན་ལས་འདས་པ་ནི་བདེན་ནོ་ཞེས་དེ་ལྟར་སོ་སོར་རྟོག་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That is how they conduct a thorough analysis.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-304">
+    <prop type="location-id">UT22084-071-002-148</prop>
+    <tuv xml:lang="bo">
+                <seg>དེས་དེ་ལྟར་ཤེས་ནས་ལུས་ཀྱིས་རྣམ་པར་ཤེས་པར་བྱ་བ་འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་རེག་བྱ་རྣམས་ནད་དུ་ཡང་དག་པར་རྗེས་སུ་མཐོང་ཞིང་། འབྲས་དང་། ཟུག་རྔུ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-148"/>“Having understood that, they correctly see all textures perceived by their body in the past, future, and present as a sickness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-305">
+    <prop type="location-id">UT22084-071-002-148</prop>
+    <tuv xml:lang="bo">
+                <seg>སྡིག་པ་དང་། མི་རྟག་པ་དང་། སྡུག་བསྔལ་བ་དང་། སྟོང་པ་དང་། བདག་མེད་པར་ཡང་དག་པར་རྗེས་སུ་མཐོང་ངོ་། །དེ་ལུས་ཀྱིས་རྣམ་པར་ཤེས་པར་བྱ་བ་འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་རེག་བྱ་རྣམས་ནད་དུ་ཡང་དག་པར་རྗེས་སུ་མཐོང་ཞིང་། འབྲས་དང་། <tei:ref folio="F.241.b"/>ཟུག་རྔུ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They correctly see them as a cancer, a splinter, a scorpion’s sting, impermanent, suffering, empty, and lacking a self.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-306">
+    <prop type="location-id">UT22084-071-002-149</prop>
+    <tuv xml:lang="bo">
+                <seg>སྡིག་པ་དང་། མི་རྟག་པ་དང་། སྡུག་བསྔལ་བ་དང་། སྟོང་པ་དང་། བདག་མེད་པར་ཡང་དག་པར་རྗེས་སུ་མཐོང་བ་ན། དེའི་ལུས་ཀྱིས་རྣམ་པར་ཤེས་པར་བྱ་བ་འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་རེག་བྱ་དག་ལ་ལོག་པར་མོས་པའམ། འདུ་ཤེས་ཕྱིན་ཅི་ལོག་གམ། སེམས་ཕྱིན་ཅི་ལོག་གམ། ལྟ་བ་ཕྱིན་ཅི་ལོག་ཏུ་གྱུར་པ་འདི་ལྟ་སྟེ། བརྣབ་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པ་དང་། གནོད་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པ་དང་། ཚུལ་ཁྲིམས་དང་བརྟུལ་ཞུགས་མཆོག་ཏུ་འཛིན་པའི་ཚོགས་ཀྱི་མདུད་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-149"/>“When they correctly see all the textures perceived by their body in the past, future, and present as a sickness, and they correctly see them as a cancer, as a splinter, as a scorpion’s sting, as impermanent, suffering, empty, and lacking a self, they then abandon mistaken beliefs, wrong ideas, incorrect thoughts, and incorrect views regarding past, future, and present textures perceived by the body that are the psychophysical bonds of covetousness, malice, a sense of moral and ascetic supremacy, and thinking, ‘This is the truth,’ and clinging to it as real.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-307">
+    <prop type="location-id">UT22084-071-002-150</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་བདེན་ནོ་སྙམ་དུ་མངོན་པར་ཞེན་ཅིང་མཆོག་ཏུ་འཛིན་པའི་ཚོགས་ཀྱི་མདུད་པ་གང་དག་ཡིན་པ་དེ་དག་སྤོང་བར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-150"/>“By abandoning those bonds, they render Māra blind, depressed, and disoriented and stand their ground.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-308">
+    <prop type="location-id">UT22084-071-002-150</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དག་སྤངས་པའི་ཕྱིར་བདུད་ལྡོངས་པ་དང་ཡི་ཆད་པ་དང་། ཕྱོགས་མེད་པར་བྱས་ཏེ་གནས་ཤིང་བདུད་སྡིག་ཅན་གྱིས་མི་མཐོང་བར་སོང་ནས་བདུད་དང་བདུད་ཀྱི་འཁོར་བཅོམ་ཞིང་གཡུལ་ཆེན་པོའི་གཡུལ་སྤྲད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Since evil Māra can no longer see them, they destroy Māra and his retinue and wage battle against his great army.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-309">
+    <prop type="location-id">UT22084-071-002-150</prop>
+    <tuv xml:lang="bo">
+                <seg>གཡུལ་ལས་རྣམ་པར་རྒྱལ་བ་དང་། གཡུལ་ངོ་དེ་ཉིད་མངོན་པར་ཕམ་པར་བྱས་ཤིང་གནས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are victorious in battle, destroy the army, and stand their ground.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-310">
+    <prop type="location-id">UT22084-071-002-150</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་ན་འདི་ལ་འཕགས་པ་ཉན་ཐོས་ལྷག་པའི་ཤེས་རབ་ལ་བརྩོན་པའི་རྗེས་སུ་སྦྱོར་བ་ལ་གནས་པ་ནི་ཤེས་རབ་ཀྱིས་འཚོ་བ་རྣམས་ཀྱི་ནང་ན་བླ་ན་མེད་པས་འཚོ་བ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This is how noble hearers who remain engaged in practicing superior wisdom are supported by wisdom, which among all supports is unsurpassed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-311">
+    <prop type="location-id">UT22084-071-002-151</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་ཡང་ཇི་ལྟར་ན་འཕགས་པ་ཉན་ཐོས་ལྷག་པའི་ཤེས་རབ་ལ་སྦྱོར་བས་རྗེས་སུ་ཞུགས་པ་ལ་གནས་པ་ཤེས་རབ་ཀྱིས་འཚོ་བ་རྣམས་ཀྱི་ནང་ན་བླ་ན་མེད་པས་འཚོ་བ་ཡིན་ཞེ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-151"/>“Monks, how else are noble hearers who remain engaged in practicing superior wisdom supported by wisdom, which among all supports is unsurpassed?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-312">
+    <prop type="location-id">UT22084-071-002-151</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་འདི་ལ་འཕགས་པ་ཉན་ཐོས་ལྷག་པའི་ཤེས་རབ་ལ་སྦྱོར་བར་རྗེས་སུ་ཞུགས་པ་ལ་གནས་པ་ནི་བདག་སྔོན་ཡིད་ཀྱིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་ཆོས་ཡིད་བདེ་བའི་གནས་ལྟ་བུ་དག་ལ་ནི་རྗེས་སུ་ཆགས་ཤིང་གནས་པར་གྱུར་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Monks, noble hearers who remain engaged in practicing superior wisdom consider the following to conduct a thorough analysis: ‘Formerly, I became and remained attached to pleasant phenomena perceived by the mind.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-313">
+    <prop type="location-id">UT22084-071-002-151</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡིད་ཀྱིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་ཆོས་ཡིད་མི་བདེ་བའི་གནས་ལྟ་བུ་དག་ལ་ནི་ཁོང་ཁྲོ་བ་དང་ལྡན་ཞིང་གནས་པར་གྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I became and remained averse to unpleasant phenomena perceived by the mind.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-314">
+    <prop type="location-id">UT22084-071-002-151</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡིད་ཀྱིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་ཆོས་བཏང་སྙོམས་ཀྱི་གནས་ལྟ་བུ་དག་ལ་ནི་སོ་སོར་བརྟགས་པ་མ་ཡིན། སོ་སོར་བརྟགས་པ་མ་ཡིན་པའི་བཏང་སྙོམས་སུ་གནས་པར་གྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I became and remained thoughtlessly indifferent to neutral phenomena perceived by the mind.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-315">
+    <prop type="location-id">UT22084-071-002-151</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་བདག་ཡུན་རིང་པོ་ནས་འདི་ལ་རྗེས་སུ་སློབ་ཅིང་རྗེས་སུ་བྱེད་པ་ན། རྒ་<tei:ref folio="F.242.a"/>བ་དང་། འཆི་བ་ཉམས་སུ་མྱོང་ཞིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I have trained myself and behaved in this way for a long time, and so I have experienced old age and death.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-316">
+    <prop type="location-id">UT22084-071-002-151</prop>
+    <tuv xml:lang="bo">
+                <seg>སྔོན་གྱི་མཐའ་མི་མངོན་པར་གྱུར་པས་བདག་གིས་ད་ནི་ཡིད་ཀྱིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་ཆོས་དག་ལ་སྔོན་ཇི་ལྟ་བ་དེ་ལྟར་བསླབ་པར་མི་བྱ་ཞིང་། བདག་གིས་ཡིད་ཀྱིས་རྣམ་པར་ཤེས་པར་བྱ་བ་འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་ཆོས་དག་ལ་ལོག་པར་མོས་པའམ། འདུ་ཤེས་ཕྱིན་ཅི་ལོག་གམ། སེམས་ཕྱིན་ཅི་ལོག་གམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The past is gone, so today I will no longer train myself as I did before regarding phenomena perceived by the mind.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-317">
+    <prop type="location-id">UT22084-071-002-151</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྟ་བ་ཕྱིན་ཅི་ལོག་ཏུ་གྱུར་པ་འདི་ལྟ་སྟེ། བརྣབ་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པ་དང་། གནོད་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པ་དང་། ཚུལ་ཁྲིམས་དང་བརྟུལ་ཞུགས་མཆོག་ཏུ་འཛིན་པའི་ཚོགས་ཀྱི་མདུད་པ་དང་། འདི་བདེན་ནོ་སྙམ་དུ་མངོན་པར་ཞེན་ཅིང་མཆོག་ཏུ་འཛིན་པའི་ཚོགས་ཀྱི་མདུད་པ་གང་དག་ཡིན་པ་དེ་དག་སྤང་བའི་ཕྱིར་བསླབ་པར་བྱ་ཞིང་། དེ་དག་སྤངས་པར་གྱུར་ཅིག་ཅེས་དེ་ལྟར་སོ་སོར་རྟོག་པར་བྱེད་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I must train myself to abandon mistaken beliefs, wrong ideas, incorrect thoughts, and incorrect views regarding past, future, and present phenomena perceived by the mind that are the psychophysical bonds of covetousness, malice, a sense of moral and ascetic supremacy, and thinking, “This is the truth,” and clinging to it as real—and then I must abandon them.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-318">
+    <prop type="location-id">UT22084-071-002-152</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་འོན་ཀྱང་འདི་ན་ཁ་ཅིག་ལ་ནི་ཡིད་ཀྱིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་ཆོས་དེ་དག་ཉིད་ཡིད་དུ་འོང་བར་འགྱུར་ལ། གཞན་དག་ལ་ནི་དེ་དག་ཉིད་ཡིད་དུ་མི་འོང་བར་འགྱུར་བ་ཡང་ཡོད་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-152"/>“Moreover, monks, the very same phenomena perceived by the mind may be pleasant to some but unpleasant to others.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-319">
+    <prop type="location-id">UT22084-071-002-152</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དག་ལ་ཡང་དུས་ལ་ལར་ནི་ཡིད་བདེ་བའི་གནས་ལྟ་བུ་དག་ཏུ་འགྱུར་ཞིང་། དུས་ལ་ལར་ནི་ཡིད་མི་བདེ་བའི་གནས་ལྟ་བུ་དག་ཏུ་འགྱུར། དུས་ལ་ལར་ནི་བཏང་སྙོམས་ཀྱི་གནས་ལྟ་བུ་དག་ཏུ་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Sometimes they will be pleasant to them, sometimes they will be unpleasant, and sometimes they will be neutral.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-320">
+    <prop type="location-id">UT22084-071-002-152</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དེ་ལྟར་ན་འདི་ལ་སེམས་ཅན་རྣམས་ཡུན་རིང་པོ་ནས་སེམས་ཀྱིས་བསྒྲིབས་ཤིང་། སེམས་ཀྱིས་བྲིད། སེམས་ཀྱིས་བསླུས་ནས་ཉེས་དམིགས་སུ་མི་མཐོང་ཞིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Monks, beings have been obscured by their minds in this way for a long time, and since they have been deceived and duped by their minds, they do not recognize the error.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-321">
+    <prop type="location-id">UT22084-071-002-152</prop>
+    <tuv xml:lang="bo">
+                <seg>ངེས་པར་འབྱུང་བ་རབ་ཏུ་མི་ཤེས་ཏེ། བདུད་སྡིག་ཅན་ཇི་ལྟར་འདོད་པ་བཞིན་བྱེད་དུ་འཇུག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They have no conception of renunciation, and evil Māra forces them to do whatever he desires.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-322">
+    <prop type="location-id">UT22084-071-002-153</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དགེ་སྦྱོང་ངམ། བྲམ་ཟེ་གང་དག་ཁ་ཅིག་ཡིད་ཀྱིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་ཆོས་འདི་དག་ཉིད་བདེན་པ་དང་གནས་པའི་སྒོ་ནས་མ་མཐོང་ཞིང་། ཇི་ལྟར་རང་རང་ལོག་པར་མོས་པ་དག་ལ་ནན་གྱིས་བཟུང་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-153"/>“Monks, some śramaṇas and brāhmaṇas do not see those phenomena that are perceived by the mind as they truly and really are, so they stubbornly hold on to their own mistaken beliefs.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-323">
+    <prop type="location-id">UT22084-071-002-153</prop>
+    <tuv xml:lang="bo">
+                <seg>མངོན་པར་ཞེན་པར་བྱས་ནས་འདི་ཉིད་བདེན་གྱི་གཞན་ནི་བརྫུན་པའོ་ཞེས་རྗེས་སུ་ཐ་སྙད་འདོགས་པར་བྱེད་པ་དེ་དག་ནི་ཡིད་ཀྱིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་ཆོས་ཡིད་བདེ་བའི་གནས་ལྟ་བུ་དག་ལ་རྗེས་སུ་ཆགས་ཤིང་གནས་ཏེ། <tei:ref folio="F.242.b"/>
+                </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They cling to them as real, thinking, ‘This is true, and anything else is false,’ and they conduct themselves accordingly. They become and remain attached to pleasant phenomena perceived by the mind.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-324">
+    <prop type="location-id">UT22084-071-002-153</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སྦྱོང་དང་། བྲམ་ཟེ་བརྣབ་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པས་ཀུན་ནས་སུན་ཕྱུང་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These śramaṇas and brāhmaṇas are completely corrupted by the psychophysical bond of covetousness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-325">
+    <prop type="location-id">UT22084-071-002-153</prop>
+    <tuv xml:lang="bo">
+                <seg>རྗེས་སུ་ཆགས་པའི་ཀུན་དུ་སྦྱོར་བ་དང་ལྡན་པ་དེ་དག་ཀྱང་བདུད་སྡིག་ཅན་ཇི་ལྟར་འདོད་པ་བཞིན་བྱེད་དུ་འཇུག་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are entangled in attachment, and so they too are forced to do whatever evil Māra desires.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-326">
+    <prop type="location-id">UT22084-071-002-154</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དགེ་སྦྱོང་ངམ། བྲམ་ཟེ་གང་དག་ཁ་ཅིག་ཡིད་ཀྱིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་ཆོས་འདི་དག་ཉིད་བདེན་པ་དང་གནས་པའི་སྒོ་ནས་མ་མཐོང་ཞིང་། ཇི་ལྟར་རང་རང་ལོག་པར་མོས་པ་དག་ལ་ནན་གྱིས་བཟུང་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-154"/>“Monks, some śramaṇas and brāhmaṇas do not see those phenomena that are perceived by the mind as they truly and really are, so they stubbornly hold on to their own mistaken beliefs.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-327">
+    <prop type="location-id">UT22084-071-002-154</prop>
+    <tuv xml:lang="bo">
+                <seg>མངོན་པར་ཞེན་པར་བྱས་ནས་འདི་ཉིད་བདེན་གྱི་གཞན་ནི་བརྫུན་པའོ་ཞེས་རྗེས་སུ་ཐ་སྙད་ལ་འདོགས་པར་བྱེད་པ་དེ་དག་ནི་ཡིད་ཀྱིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་ཆོས་ཡིད་མི་བདེ་བའི་གནས་ལྟ་བུ་དག་ལ་ཁོང་ཁྲོ་བ་དང་ལྡན་པར་གནས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They cling to them as real, thinking, ‘This is true, and anything else is false,’ and they conduct themselves accordingly. They remain averse to unpleasant phenomena perceived by the mind.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-328">
+    <prop type="location-id">UT22084-071-002-154</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སྦྱོང་དང་། བྲམ་ཟེ་གནོད་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པས་ཀུན་ནས་སུན་ཕྱུང་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These śramaṇas and brāhmaṇas are completely corrupted by the psychophysical bond of malice.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-329">
+    <prop type="location-id">UT22084-071-002-154</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁོང་ཁྲོ་བའི་ཀུན་དུ་སྦྱོར་བ་དང་ལྡན་པ་དེ་དག་ཀྱང་བདུད་སྡིག་ཅན་ཇི་ལྟར་འདོད་པ་བཞིན་བྱེད་དུ་འཇུག་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are entangled in aversion, and so they too are forced to do whatever evil Māra desires.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-330">
+    <prop type="location-id">UT22084-071-002-155</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དགེ་སྦྱོང་ངམ། བྲམ་ཟེ་གང་དག་ཁ་ཅིག་ཡིད་ཀྱིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་ཆོས་འདི་དག་ཉིད་བདེན་པ་དང་གནས་པའི་སྒོ་ནས་མ་མཐོང་ཞིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-155"/>“Monks, some śramaṇas and brāhmaṇas do not see those phenomena that are perceived by the mind as they truly and really are, so they stubbornly hold on to their own mistaken beliefs.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-331">
+    <prop type="location-id">UT22084-071-002-155</prop>
+    <tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་རང་རང་ལོག་པར་མོས་པ་དག་ལ་ནན་གྱིས་བཟུང་སྟེ། མངོན་པར་ཞེན་པར་བྱས་ནས་འདི་ཉིད་བདེན་གྱི་གཞན་ནི་བརྫུན་པའོ་ཞེས་རྗེས་སུ་ཐ་སྙད་འདོགས་པར་བྱེད་པ་དེ་དག་ནི་ཡིད་ཀྱིས་རྣམ་པར་ཤེས་པར་བྱ་བའི་ཆོས་བཏང་སྙོམས་ཀྱི་གནས་ལྟ་བུ་དག་ལ་སོ་སོར་བརྟགས་པ་མ་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They cling to them as real, thinking, ‘This is true, and anything else is false,’ and they conduct themselves accordingly.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-332">
+    <prop type="location-id">UT22084-071-002-155</prop>
+    <tuv xml:lang="bo">
+                <seg>སོ་སོར་བརྟགས་པ་མ་ཡིན་པའི་བཏང་སྙོམས་སུ་གནས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They remain thoughtlessly indifferent to neutral phenomena perceived by the mind.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-333">
+    <prop type="location-id">UT22084-071-002-155</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སྦྱོང་དང་། བྲམ་ཟེ་འདི་བདེན་ནོ་སྙམ་དུ་མངོན་པར་ཞེན་ཅིང་མཆོག་ཏུ་འཛིན་པའི་ཚོགས་ཀྱི་མདུད་པས་ཀུན་ནས་སུན་ཕྱུང་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These śramaṇas and brāhmaṇas are completely corrupted by the psychophysical bond of thinking, ‘This is the truth,’ and clinging to it as real.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-334">
+    <prop type="location-id">UT22084-071-002-155</prop>
+    <tuv xml:lang="bo">
+                <seg>ང་རྒྱལ་གྱི་ཀུན་དུ་སྦྱོར་བ་དང་ལྡན་པ་དེ་དག་ཀྱང་བདུད་སྡིག་ཅན་ཇི་ལྟར་འདོད་པ་བཞིན་བྱེད་དུ་འཇུག་པ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are entangled in pride, and so they too are forced to do whatever evil Māra desires.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-335">
+    <prop type="location-id">UT22084-071-002-156</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-156"/>“Here is an analogy, monks.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-336">
+    <prop type="location-id">UT22084-071-002-156</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔེར་ན་སྐྱེས་བུ་ཞིག་གིས་རིན་པོ་ཆེའི་ཟ་མ་ཏོག་ཡིན་པར་སེམས་ཤིང་སྦྲུལ་གྱི་ཟ་མ་ཏོག་བླངས་ཏེ་གྲོང་ཁྱེར་ཀུན་དུ་འབར་བ་ནས་འབྲོས་པར་བྱེད་ཅིང་། དེ་དེས་མངོན་པར་དགའ་བར་བྱེད་ལ་དེ་ལ་ཉེས་དམིགས་སུ་མ་མཐོང་བ་ལས་གང་གི་ཚེ་དེ་སོ་སོར་རྟོག་པར་བྱེད་པ་ན་འདི་ནི་སྦྲུལ་གྱི་ཟ་མ་ཏོག་ཡིན་གྱི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>A person who picks up a chest containing snakes as they flee from a fire in their village thinking that it is a chest of jewels might be delighted in doing so and not see any fault in it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-337">
+    <prop type="location-id">UT22084-071-002-156</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ནི་རིན་པོ་ཆེའི་ཟ་མ་<tei:ref folio="F.243.a"/>ཏོག་མ་ཡིན་ནོ་ཞེས་ཤེས་པར་གྱུར་པ་དེའི་ཚེ། དེ་དེས་གདུང་བར་བྱེད། ངོ་ཚ་བར་བྱེད། གནོང་བར་བྱེད་ཅིང་རྣམ་པར་སྨོད་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>But when they thoroughly examine it and realize it is not a chest of jewels but a chest containing snakes, it brings them distress, shame, remorse, and disgust.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-338">
+    <prop type="location-id">UT22084-071-002-157</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དེ་བཞིན་དུ། འཕགས་པ་ཉན་ཐོས་ཐོས་པ་དང་ལྡན་པ་ཡང་འཕགས་པའི་འཇིག་རྟེན་ལས་འདས་པའི་ཤེས་རབ་འདི་ཉིད་ཐོབ་ནས་སྔོན་གྱི་བྱིས་པའི་སྤྱོད་པ་དང་། རྨོངས་པའི་སྤྱོད་པ་དང་། ཤེས་རབ་འཆལ་པའི་སྤྱོད་པ་དེས་གདུང་བར་བྱེད། ངོ་ཚ་བར་བྱེད། གནོང་བར་བྱེད་ཅིང་རྣམ་པར་སྨོད་པར་བྱེད་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-157"/>“Monks, in the same way, after noble hearers who are learned have obtained noble, supramundane wisdom, their previous childish, deluded, and confused behavior brings them distress, shame, remorse, and disgust.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-339">
+    <prop type="location-id">UT22084-071-002-157</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་འདི་སྙམ་དུ་སེམས་ཏེ། བདག་གིས་ནི་སྔོན་མི་རྟག་པ་ཁོ་ན་ལ་རྟག་པར་བསམས་ཤིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They think, ‘Formerly, I thought there was permanence where there is only impermanence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-340">
+    <prop type="location-id">UT22084-071-002-157</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གིས་སྡུག་བསྔལ་བ་ཁོ་ན་ལ་ནི་བདེ་བར་བསམས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I thought there was happiness where there is only suffering.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-341">
+    <prop type="location-id">UT22084-071-002-157</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གིས་མི་གཙང་བ་ཁོ་ན་ལ་ནི་གཙང་བར་བསམས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I thought there was purity where there is only impurity.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-342">
+    <prop type="location-id">UT22084-071-002-157</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་གིས་བདག་མེད་པ་ཁོ་ན་ལ་ནི་བདག་ཏུ་བསམས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I thought there was a self where there is only the absence of a self.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-343">
+    <prop type="location-id">UT22084-071-002-157</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་ན་བདག་ནི་སྔོན་མི་རྟག་པ་ལ་རྟག་པར་འདུ་ཤེས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In this way, formerly, I perceived impermanence as permanence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-344">
+    <prop type="location-id">UT22084-071-002-157</prop>
+    <tuv xml:lang="bo">
+                <seg>སྡུག་བསྔལ་བ་ལ་བདེ་བར་འདུ་ཤེས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I perceived suffering as happiness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-345">
+    <prop type="location-id">UT22084-071-002-157</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་གཙང་བ་ལ་གཙང་བར་འདུ་ཤེས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I perceived impurity as purity.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-346">
+    <prop type="location-id">UT22084-071-002-157</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་མེད་པ་ལ་བདག་ཏུ་འདུ་ཤེས་པར་གྱུར་ཏོ་སྙམ་དུ་སེམས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I perceived the absence of a self as a self.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-347">
+    <prop type="location-id">UT22084-071-002-158</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་འདི་ལྟ་སྟེ། དཔེར་ན་སྒྱུ་མ་མཁན་ནམ་སྒྱུ་མ་མཁན་གྱི་སློབ་མ་མཁས་པ་ཞིག་ལམ་པོ་ཆེའི་བཞི་མདོར་འདུག་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-158"/>“Here is an analogy, monks.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-348">
+    <prop type="location-id">UT22084-071-002-158</prop>
+    <tuv xml:lang="bo">
+                <seg>སྒྱུ་མ་སྣ་ཚོགས་འདི་ལྟ་སྟེ། ནོར་བུ་དག་གམ། རྣ་ཆ་གདུབ་ཀོར་དག་གམ། མགུལ་རྒྱན་དག་གམ། གདུ་བུ་རྒྱན་ཅན་དག་གམ། དཔུང་རྒྱན་དག་གམ། ལག་རྒྱན་དག་གམ། རྐང་རྒྱན་དག་གམ། སོར་གདུབ་རྒྱན་དག་གམ། གསེར་དང་དངུལ་གྱི་ཕྲེང་བ་དག་བྱས་ཏེ་རྣམ་པར་བསྟན་པར་གྱུར་ན། དེ་ལ་སེམས་ཅན་བྱིས་པའི་རང་བཞིན་ཅན་དང་། རྨོངས་པའི་རང་བཞིན་ཅན་དང་། ཤེས་རབ་འཆལ་པའི་རང་བཞིན་ཅན་གང་དག་ཡིན་པ་དེ་དག་ནི་འདི་སྙམ་དུ་སེམས་ཏེ། གང་འདི་ལྟར་སྣང་བའི་ནོར་བུ་དག་གམ། རྣ་ཆ་གདུབ་ཀོར་དག་གམ། མགུལ་རྒྱན་དག་གམ། གདུ་བུ་རྒྱན་ཅན་དག་གམ། དཔུང་རྒྱན་དག་གམ། ལག་རྒྱན་དག་གམ། རྐང་རྒྱན་དག་གམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>A magician or a skilled magician’s apprentice sits at a major crossroads and creates the following magical illusions: jewels, earrings, necklaces, bracelets, armlets, hand ornaments, anklets, rings, and gold and silver garlands.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-349">
+    <prop type="location-id">UT22084-071-002-158</prop>
+    <tuv xml:lang="bo">
+                <seg>སོར་གདུབ་རྒྱན་དག་གམ། གསེར་དང་། དངུལ་གྱི་ཕྲེང་བ་འདི་དག་ནི་བདེན་པ་དང་། གནས་པའི་སྒོ་<tei:ref folio="F.243.b"/>ནས་ཡོད་དོ་སྙམ་དུ་སེམས་སོ། །སེམས་ཅན་བྱིས་པའི་རང་བཞིན་ཅན་མ་ཡིན་པ་དང་། རྨོངས་པའི་རང་བཞིན་ཅན་མ་ཡིན་པ་དང་། ཤེས་རབ་དང་ལྡན་པའི་རང་བཞིན་ཅན་གང་དག་ཡིན་པ་དེ་དག་ནི་འདི་སྙམ་དུ་སེམས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Once these are displayed, beings who have a childish, deluded, and confused disposition think, ‘There are these jewels, earrings, necklaces, bracelets, armlets, hand ornaments, anklets, rings, and gold and silver garlands that are visible in this way, real and present there.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-350">
+    <prop type="location-id">UT22084-071-002-159</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་འདི་ལྟར་སྣང་བའི་ནོར་བུ་དག་གམ། རྣ་ཆ་གདུབ་ཀོར་དག་གམ། མགུལ་རྒྱན་དག་གམ། གདུ་བུ་རྒྱན་ཅན་དག་གམ། དཔུང་རྒྱན་དག་གམ། ལག་རྒྱན་དག་གམ། རྐང་རྒྱན་དག་གམ། སོར་གདུབ་རྒྱན་དག་གམ། གསེར་དང་དངུལ་གྱི་ཕྲེང་བ་འདི་དག་ནི་བདེན་པ་དང་གནས་པའི་སྒོ་ནས་ཡོད་པ་མ་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-159"/>“Beings whose disposition is insightful instead of childish or deluded think, ‘There are no jewels, earrings, necklaces, bracelets, armlets, hand ornaments, anklets, rings, and gold and silver garlands that are visible in this way, real and present there.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-351">
+    <prop type="location-id">UT22084-071-002-159</prop>
+    <tuv xml:lang="bo">
+                <seg>གྱི་ན་སྒྱུ་མར་བྱས་པ་འདི་འབའ་ཞིག་ཡོད་དོ། །མིག་སླུ་བར་བྱེད་པ་འདི་འབའ་ཞིག་ཡོད་དོ་སྙམ་དུ་སེམས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are only a magic trick, just a visual illusion.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-352">
+    <prop type="location-id">UT22084-071-002-160</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་དག་དེ་བཞིན་དུ་འཕགས་པ་ཉན་ཐོས་ཐོས་པ་དང་ལྡན་པ་ཡང་བདག་གིས་ཡིད་ཀྱིས་རྣམ་པར་ཤེས་པར་བྱ་བ་འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་ཆོས་གང་དག་ཡིན་པ་འདི་དག་ལ། རྟག་པ་ཉིད་དམ། བརྟན་པ་ཉིད་དམ། ཐེར་ཟུག་ཉིད་དམ། དེ་བཞིན་ཉིད་དམ། མ་ནོར་བ་དེ་བཞིན་ཉིད་དམ། གཞན་མ་ཡིན་པ་དེ་བཞིན་དམ། ཡང་དག་པ་ཉིད་དམ། བདེན་པ་ཉིད་དམ། དེ་ཁོ་ན་ཉིད་དམ། ཇི་ལྟ་བ་བཞིན་ཉིད་དམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-160"/>“Monks, in the same way, noble hearers who are learned think, ‘All of the past, future, and present phenomena perceived by my mind lack permanence, stability, unchangeability, a true nature, an unmistaken true nature, a unique true nature, genuine reality, truth, suchness, a way things really are, infallibility, and incontrovertibility.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-353">
+    <prop type="location-id">UT22084-071-002-160</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་ནོར་བ་ཉིད་དམ། ཕྱིན་ཅི་མ་ལོག་པ་ཉིད་མེད་དེ། གསོག་ཀྱང་དེ་ཉིད་ཡིན་ལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are hollow.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-354">
+    <prop type="location-id">UT22084-071-002-160</prop>
+    <tuv xml:lang="bo">
+                <seg>གསོབ་ཀྱང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are vain.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-355">
+    <prop type="location-id">UT22084-071-002-160</prop>
+    <tuv xml:lang="bo">
+                <seg>སྙིང་པོ་མེད་པ་ཡང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They have no essence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-356">
+    <prop type="location-id">UT22084-071-002-160</prop>
+    <tuv xml:lang="bo">
+                <seg>བརྫུན་པ་ཡང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are false.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-357">
+    <prop type="location-id">UT22084-071-002-160</prop>
+    <tuv xml:lang="bo">
+                <seg>སླུ་བའི་ཆོས་ཀྱང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are deceptive phenomena.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-358">
+    <prop type="location-id">UT22084-071-002-160</prop>
+    <tuv xml:lang="bo">
+                <seg>བདུད་ཀྱང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are Māra.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-359">
+    <prop type="location-id">UT22084-071-002-160</prop>
+    <tuv xml:lang="bo">
+                <seg>བདུད་ཀྱི་ཡོ་བྱད་ཀྱང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are Māra’s tools.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-360">
+    <prop type="location-id">UT22084-071-002-160</prop>
+    <tuv xml:lang="bo">
+                <seg>རོ་ཡང་དེ་ཉིད་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are corpses.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-361">
+    <prop type="location-id">UT22084-071-002-160</prop>
+    <tuv xml:lang="bo">
+                <seg>རོའི་གཟུགས་ཀྱང་དེ་ཉིད་ཡིན་པས་དེ་ལ་ནི་མངོན་པར་དགའ་བར་བྱ་བའམ། མངོན་པར་བརྗོད་པར་བྱ་བའམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are corpse-like forms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-362">
+    <prop type="location-id">UT22084-071-002-160</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷག་པར་ཆགས་པར་བྱ་བའམ། ལྷག་པར་ཆགས་ཤིང་གནས་པར་བྱ་བར་མི་རིགས་ཀྱི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, it does not make sense to delight in them, speak highly of them, and become and remain excessively attached to them.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-363">
+    <prop type="location-id">UT22084-071-002-160</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་འཕགས་པ་འཇིག་རྟེན་ལས་འདས་པ་ནི་བདེན་ནོ་ཞེས་དེ་ལྟར་སོ་སོར་རྟོག་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The noble, supramundane wisdom taught by the Blessed One is true.’ That is how they conduct a thorough analysis.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-364">
+    <prop type="location-id">UT22084-071-002-161</prop>
+    <tuv xml:lang="bo">
+                <seg>དེས་དེ་ལྟར་ཤེས་ནས་ཡིད་ཀྱིས་རྣམ་པར་ཤེས་པར་བྱ་བ་འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་ཆོས་རྣམས་ནད་དུ་ཡང་དག་པར་རྗེས་སུ་མཐོང་། འབྲས་དང་། ཟུག་རྔུ་དང་། <tei:ref folio="F.244.a"/>
+                </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-161"/>“Having understood that, they correctly see all phenomena perceived by their mind in the past, future, and present as a sickness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-365">
+    <prop type="location-id">UT22084-071-002-161</prop>
+    <tuv xml:lang="bo">
+                <seg>སྡིག་པ་དང་། མི་རྟག་པ་དང་། སྡུག་བསྔལ་བ་དང་། སྟོང་པ་དང་། བདག་མེད་པར་ཡང་དག་པར་རྗེས་སུ་མཐོང་ངོ་། །དེས་ཡིད་ཀྱིས་རྣམ་པར་ཤེས་པར་བྱ་བ་འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་ཆོས་རྣམས་ནད་དུ་ཡང་དག་པར་རྗེས་སུ་མཐོང་ཞིང་། འབྲས་དང་། ཟུག་རྔུ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They correctly see them as a cancer, a splinter, a scorpion’s sting, impermanent, suffering, empty, and lacking a self.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-366">
+    <prop type="location-id">UT22084-071-002-162</prop>
+    <tuv xml:lang="bo">
+                <seg>སྡིག་པ་དང་། མི་རྟག་པ་དང་། སྡུག་བསྔལ་བ་དང་། སྟོང་པ་དང་། བདག་མེད་པར་ཡང་དག་པར་རྗེས་སུ་མཐོང་བ་ན། དེའི་ཡིད་ཀྱིས་རྣམ་པར་ཤེས་པར་བྱ་བ་འདས་པ་དང་། མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བའི་ཆོས་དག་ལ་ལོག་པར་མོས་པའམ། འདུ་ཤེས་ཕྱིན་ཅི་ལོག་གམ། སེམས་ཕྱིན་ཅི་ལོག་གམ། ལྟ་བ་ཕྱིན་ཅི་ལོག་ཏུ་གྱུར་པ་འདི་ལྟ་སྟེ། བརྣབ་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པ་དང་། གནོད་སེམས་ཀྱི་ཚོགས་ཀྱི་མདུད་པ་དང་། ཚུལ་ཁྲིམས་དང་བརྟུལ་ཞུགས་མཆོག་ཏུ་འཛིན་པའི་ཚོགས་ཀྱི་མདུད་པ་དང་། འདི་བདེན་ནོ་སྙམ་དུ་མངོན་པར་ཞེན་ཅིང་མཆོག་ཏུ་འཛིན་པའི་ཚོགས་ཀྱི་མདུད་པ་གང་དག་ཡིན་པ་དེ་དག་སྤོང་བར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-162"/>“When they correctly see all of the phenomena perceived by their mind in the past, future, and present as a sickness, and they correctly see them as a cancer, as a splinter, as a scorpion’s sting, as impermanent, suffering, empty, and lacking a self, they then abandon mistaken beliefs, wrong ideas, incorrect thoughts, and incorrect views regarding past, future, and present phenomena perceived by the mind, the psychophysical bonds of covetousness, malice, a sense of moral and ascetic supremacy, and thinking, ‘This is the truth,’ and clinging to it as real.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-367">
+    <prop type="location-id">UT22084-071-002-163</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དག་སྤངས་པའི་ཕྱིར་བདུད་ལྡོངས་པ་དང་། ཡི་ཆད་པ་དང་། ཕྱོགས་མེད་པར་བྱས་ཏེ་གནས་ཤིང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-163"/>“By abandoning those bonds, they render Māra blind, depressed, and disoriented and stand their ground.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-368">
+    <prop type="location-id">UT22084-071-002-163</prop>
+    <tuv xml:lang="bo">
+                <seg>བདུད་སྡིག་ཅན་གྱིས་མི་མཐོང་བར་སོང་ནས་བདུད་དང་། བདུད་ཀྱི་འཁོར་བཅོམ་ཞིང་། གཡུལ་ཆེན་པོའི་གཡུལ་སྤྲད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Since evil Māra can no longer see them, they destroy Māra and his retinue and wage battle against his great army.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-369">
+    <prop type="location-id">UT22084-071-002-163</prop>
+    <tuv xml:lang="bo">
+                <seg>གཡུལ་ལས་རྣམ་པར་རྒྱལ་བ་དང་། གཡུལ་ངོ་དེ་ཉིད་མངོན་པར་ཕམ་པར་བྱས་ཤིང་གནས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are victorious in battle, destroy the army, and stand their ground.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-370">
+    <prop type="location-id">UT22084-071-002-163</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་ན་འདི་ལ་འཕགས་པ་ཉན་ཐོས་ལྷག་པའི་ཤེས་རབ་ལ་སྦྱོར་བར་རྗེས་སུ་ཞུགས་པ་ལ་གནས་པ་ནི་ཤེས་རབ་ཀྱིས་འཚོ་བ་རྣམས་ཀྱི་ནང་ན་བླ་ན་མེད་པས་འཚོ་བ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This is how noble hearers who remain engaged in practicing superior wisdom are supported by wisdom, which among all supports is unsurpassed.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-371">
+    <prop type="location-id">UT22084-071-002-164</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། དགེ་སློང་དེ་དག་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།བར་སྡོམ་ནི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-164"/>After the Blessed One had spoken, the monks rejoiced and praised the words of the Blessed One.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-372">
+    <prop type="location-id">UT22084-071-002-166</prop>
+    <tuv xml:lang="bo">
+                <seg>སྨྱོན་པ་དང་ནི་སྒྱུ་མ་དང་། །ར་རོ་བ་དང་སྒྲ་བརྙན་དང་། །གཤེད་མ་དང་ནི་མེ་ལོང་དང་། །ཟས་སྦྱིན་པ་དང་སྨིག་རྒྱུ་དང་། །རྐུན་པོས་གཙེས་པ་གྲོང་ནས་དང་། །རྨི་ལམ་དགའ་སྤྱོད་ཟ་མ་ཏོག །ནོར་བུ་དཔུང་རྒྱན་རྣམ་དག་ནི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-166"/>An intervening summary:<tei:milestone xml:id="UT22084-071-002-1661"/> The madman, the magical illusion, The drunk, the echo, The executioner, the mirror, The food offering, the mirage, Fleeing a robber’s attack, Enjoyments in a dream, the chest, And the jewels and necklaces— Under these is illusion’s net subsumed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-373">
+    <prop type="location-id">UT22084-071-002-167</prop>
+    <tuv xml:lang="bo">
+                <seg>སྒྱུ་མའི་དྲ་བ་ཀུན་བསྡུས་པའོ། །མདོ་ཆེན་པོ་སྒྱུ་མའི་དྲ་བ་ཞེས་བྱ་བ་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-167"/>This concludes The Mahāsūtra “Illusion’s Net.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-071-002-TU-374">
+    <prop type="location-id">UT22084-071-002-168</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་ཛི་ན་མི་ཏྲ་དང་། པྲཛྙཱ་ཝརྨ་དང་། ཞུ་ཆེན་གྱི་ལོཙྪ་བ་བན་དེ་ཡེ་ཤེས་སྡེ་ལ་སོགས་པས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-071-002-168"/>This was translated, edited, and finalized by the Indian preceptors Jinamitra and Prajñāvarman, along with the chief editor and translator Bandé Yeshé Dé, and so forth.</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

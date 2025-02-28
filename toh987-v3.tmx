@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-101-042" eft:text-version="v-1.0.4-2023"/>
+<body>
+<tu id="UT22084-101-042-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.138.b"/>༄༅། །རྒྱ་གར་སྐད་དུ། ཤྲཱི་དེ་བི་ཨུཥྞཱ་ཥ་ལ་ལཱ་ཏནྟྲ། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་ལྷ་མོ་གཙུག་ཏོར་རོལ་པའི་ཏནྟྲ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-translation"/>The Tantra of the Play of the Goddess Uṣṇīṣā</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-3">
+    <prop type="location-id">UT22084-101-042-76</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་རང་བྱུང་གི་ལྷ་མོ་ལ་ཕྱག་འཚལ་ལོ། །རོ་ལངས་ནག་མོའི་གདོན་དང་། ཤ་ཟ་ནག་མོའི་གདོན་དང་། སྨྱོ་བྱེད་ནག་མོའི་གདོན་དང་། སྒྲིབ་བྱེད་ནག་མོའི་གདོན་དང་། ཕུང་བྱེད་ནག་མོའི་གདོན་དང་། དྲང་སྲོང་ནག་མོའི་གདོན་དང་། སྲིན་མོ་ནག་མོའི་གདོན་དང་། རླུང་ལྷ་ནག་མོའི་གདོན་དང་། དབང་ལྡན་ནག་མོའི་གདོན་དང་། ནམ་གྲུ་ནག་མོའི་གདོན་དང་། གྲུལ་བུམ་ནག་མོའི་གདོན་དང་། ཀླུ་མོ་ནག་མོའི་གདོན་དང་། གནོད་སྦྱིན་ནག་མོའི་གདོན་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-76"/>Homage to the glorious self-arisen goddess!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-4">
+    <prop type="location-id">UT22084-101-042-78</prop>
+    <tuv xml:lang="bo">
+                <seg>ནམ་གྲུ་སྐྱོང་བྱེད་རོ་ལངས་ནག་མོའི་གདོན་དང་། ནམ་གྲུ་ཆེན་མོ་ཕུང་བྱེད་སེང་གེའི་གདོང་གི་གདོན་དང་། ནམ་གྲུ་ཆེན་མོ་མཁའ་འགྲོ་ཁྱུང་གཤོག་མའི་གདོན་དང་། ནམ་གྲུ་ཆེན་མོ་ལག་གཅིག་ཉབ་པའི་གདོན་དང་། ནམ་གྲུ་ཆེན་མོ་སོ་གཅིག་མིག་གཅིག་མའི་གདོན་དང་། ནམ་གྲུ་ཆེན་མོ་བོང་ཞོན་མའི་གདོན་ཉིད་ཡིན་པས་སྤྲུལ་པ་བཅྭ་བརྒྱད་མ་ཉིད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-78"/>These are the eighteen emanations: the grahī Black Vetālī, the grahī Black Piśācī, the grahī Black Unmadā, the grahī Black Obscurer, the grahī Black Defeater, the grahī Black Seer, the grahī Black Rākṣasī, the grahī Black Vāyu, the grahī Black Indrāṇī, the grahī Black Revatī, the grahī Black Kumbhāṇḍī, the grahī Black Nāginī, the grahī Black Yakṣiṇī, the grahī Black Revatī Protectress Vetālī, the grahī Great Revatī the Lion-Faced Defeater, the grahī Great Revatī the Garuḍa-Winged Ḍākinī, the grahī Great Revatī Who Extends One Hand, the grahī One-Toothed One-Eyed Great Revatī, and the grahī Donkey-Riding Great Revatī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-5">
+    <prop type="location-id">UT22084-101-042-80</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡང་སྤྲུལ་གུར་བདག་བཅུ་གསུམ་ནི་ཐུགས་ཀྱི་སྤྲུལ་པ་ཆེན་མོ་ནི་གུར་གཅིག་ལ་དབང་བྱེད་པའི་གདོན་དང་། གུར་གཉིས་ལ་དབང་བྱེད་པའི་གདོན་དང་། གུར་གསུམ་ལ་བྱེད་པའི་གདོན་དང་། གུར་བཞི་ལ་དབང་བྱེད་པའི་གདོན་དང་། གུར་ལྔ་ལ་དབང་བྱེད་པའི་གདོན་དང་། གུར་དྲུག་ལ་དབང་བྱེད་པའི་གདོན་དང་། གུར་བདུན་ལ་དབང་བྱེད་པའི་གདོན་དང་། གུར་བརྒྱད་ལ་དབང་བྱེད་པའི་གདོན་དང་། གུར་དགུ་ལ་དབང་བྱེད་པའི་གདོན་དང་། གུར་བཅུ་ལ་དབང་<tei:ref folio="F.139.a"/>བྱེད་པའི་གདོན་དང་། གུར་བཅུ་གཅིག་ལ་དབང་བྱེད་པའི་གདོན་དང་། གུར་བཅུ་གཉིས་ལ་དབང་བྱེད་པའི་གདོན་དང་། གུར་བཅུ་གསུམ་ལ་དབང་བྱེད་བའི་གདོན་ནོ། །ཡང་སྤྲུལ་ཐུགས་ཀྱི་སྤྲུལ་བ་ཡིས་རིམས་ནད་ལ་དབང་བྱེད་པ་དང་། འཁྲུག་པ་ལ་དབང་བྱེད་པ་དང་། བདུད་ཀྱི་དམག་དཔུང་ཐམས་ཅད་ལ་དབང་བྱེད་པ་དང་། ནད་དང་རིམས་ཀྱི་དབང་སྒྱུར་མ། མགོ་ནད་ལ་དབང་བྱེད་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-80"/>There are also the additional emanations, the thirteen Ladies of the Tent who are great heart emanations: the grahī Ruler of the First Tent, the grahī Ruler of the Second Tent, the grahī Ruler of the Third Tent, the grahī Ruler of the Fourth Tent, the grahī Ruler of the Fifth Tent, the grahī Ruler of the Sixth Tent, the grahī Ruler of the Seventh Tent, the grahī Ruler of the Eighth Tent, the grahī Ruler of the Ninth Tent, the grahī Ruler of the Tenth Tent, the grahī Ruler of the Eleventh Tent, the grahī Ruler of the Twelfth Tent, and the grahī Ruler of the Thirteenth Tent.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-6">
+    <prop type="location-id">UT22084-101-042-83</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁ་ནད་ལ་དབང་བྱེད་པ་དང་། སྙིང་ནད་ལ་དབང་བྱེད་པ་དང་། ལྐོག་ནད་ལ་དབང་བྱེད་པ་དང་། ལྷ་གོར་ན་བའི་ནད་ལ་དབང་བྱེད་པ་དང་། བརླན་བའི་ནད་ལ་དབང་བྱེད་པ་དང་། རྗེ་ངར་ན་བའི་ནད་ལ་དབང་བྱེད་པ་དང་། ལྷོག་པའི་ནད་ལ་དབང་བྱེད་པ་དང་། སྐེམ་པའི་ནད་ལ་དབང་བྱེད་པ་དང་། ཆུ་སོའི་ནད་ལ་དབང་བྱེད་པ་དང་། ཤུ་བའི་ནད་ལ་དབང་བྱེད་པ་དང་། ཡན་ལག་ན་བའི་ནད་ལ་དབང་བྱེད་པ་དང་། འབྲུམ་བུ་ཕྲ་མོ་ལ་དབང་བྱེད་པ་དང་། བས་བལྡགས་ལ་དབང་བྱེད་པ་དང་། མེ་དཔལ་ལ་དབང་བྱེད་པ་དང་། ལྷོག་པ་ལ་དབང་བྱེད་པ་དང་། དབྱིག་དུག་ལ་དབང་བྱེད་པ་དང་། དུག་ནད་ལ་དབང་བྱེད་པ་དང་། རྒྱུ་གཟེར་ལ་དབང་བྱེད་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-83"/>There are the re-emanations emanated by the heart emanations: the Ruler of Epidemics, the Ruler of Strife, the Ruler of All Mārā Armies, the Ruler of Illness and Fever, the Ruler of Headaches, the Ruler of Mouth Disease, the Ruler of Blood and Throat Disease, the Ruler of Heart Disease, the Ruler of Internal Illness, the Ruler of Painful Larynx Diseases, the Ruler of Painful Thigh Diseases, the Ruler of Painful Calf Diseases, the Ruler of Ulcers, the Ruler of Wasting Diseases, the Ruler of Bladder Disease, the Ruler of Skin Diseases, the Ruler of Painful Limb Diseases, the Ruler of Rashes, the Ruler of Pox, the Ruler of Burning Itch, the Ruler of Abscesses, the Ruler of Toxic Potions, the Ruler of Poison-Derived Diseases, the Ruler of Dysentery, the Ruler of Stomach Illness, the Ruler of Plague, the Ruler of Latent Brain Disease, and the rest.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-7">
+    <prop type="location-id">UT22084-101-042-85</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕོ་ལོག་ལ་དབང་བྱེད་པ་དང་། གཉན་པོ་ལ་དབང་བྱེད་པ་དང་། སྐྱ་རིམས་ཀླད་གཟེར་གྱི་ནད་ལ་སོགས་ཏེ། ནད་བཞི་བརྒྱ་རྩ་བཞི་དག་ལ་དབང་བྱེད་པ་ནི་ཨེ་ཀ་ཛ་ཊཱིའི་སྤྲུལ་པ་ཡིན་པར་ཤེས་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-85"/>Know that the rulers of the four-hundred forty-four types of illnesses are emanations of Ekajaṭī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-8">
+    <prop type="location-id">UT22084-101-042-85</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དག་ཐམས་ཅད་ལ་ནི་རིག་སྔགས་བདེན་པའི་བྱིན་གྱི་བརླབས་ཀྱི་རིག་སྔགས་ཀྱིས་གཅད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Eliminate them all with the vidyāmantra blessed by the true vidyāmantra.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-9">
+    <prop type="location-id">UT22084-101-042-85</prop>
+    <tuv xml:lang="bo">
+                <seg>དྲག་པོ་ཟློག་པའི་ཕུར་བུས་གདབ་པོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Stab with the dagger that violently repels.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-10">
+    <prop type="location-id">UT22084-101-042-87</prop>
+    <tuv xml:lang="bo">
+                <seg>གནོད་བྱེད་ཀྱི་གདོན་དུ་གྱུར་པ་ནི་རོ་ལངས་མ་སྲིན་མོ་ནག་མོས་གྲོང་ཁྱེར་སུམ་བརྩེགས་འཇིག་པར་བྱེད་པའི་རིག་སྔགས་ཀྱིས་གཅད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-87"/>Eliminate a harmful graha by reciting the vidyāmantra of Black Vetālī Rākṣasī, destroyer of the triple city.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-11">
+    <prop type="location-id">UT22084-101-042-87</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕུར་བུས་གདབ་བོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Stab with the dagger.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-12">
+    <prop type="location-id">UT22084-101-042-88</prop>
+    <tuv xml:lang="bo">
+                <seg>གནོད་བྱེད་ཀྱི་གདོན་དང་། སྨྱོ་བྱེད་རྔ་ཞོན་གྱི་གདོན་དང་། གྲོང་རྒྱུན་ལ་སོགས་པའི་གདོན་རྣམས་ནི་སྨྱོ་བྱེད་གདོན་དུ་ཟ་བ་ཡིན་པས་ན་ཤུགས་སྒྲོལ་མའི་རིག་སྔགས་ཀྱིས་གཅད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-88"/>Eliminate a harmful graha, an insanity-causing drum-riding graha, the graha of a dead person, and so forth with the vidyāmantra of Mule Lady, since these are due to the grahī Unmadā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-13">
+    <prop type="location-id">UT22084-101-042-88</prop>
+    <tuv xml:lang="bo">
+                <seg>རིག་སྔགས་འཆང་གི་ཕུར་བུས་གདབ་པོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Recite the vidyāmantra and stab with the dagger.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-14">
+    <prop type="location-id">UT22084-101-042-92</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོྃ་ཨ་<tei:ref folio="F.139.b"/>ཀ་ར་པྲ་མ་ནི་བྷྱཿཕཊ། ཤ་ཏུ་མ་ཀི་ལི་ཀི་ལ་ཡ་ཧཱུྃ་ཕཊ། བུད་མེད་ནག་མོར་མངོན་པ་དང་། །རྣལ་འབྱོར་སྤྱན་རྟུལ་བྱེད་པ་ནི། །སྒྲོལ་བྱེད་ནག་མོའི་གདོན་ཡིན་པས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-92"/>oṁ a ka ra pra ma ni bhyaḥ phaṭ | śa tu ma ki li ki la ya huṃ phaṭ ||<tei:milestone xml:id="UT22084-101-042-93"/> Appearing as a black woman Who sullies the yogin’s eyes Is the grahī Black Obscurer.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-15">
+    <prop type="location-id">UT22084-101-042-95</prop>
+    <tuv xml:lang="bo">
+                <seg>ལེགས་ལྡན་དཀའ་ཐུབ་ཀྱི་རིག་སྔགས་ཀྱིས་གཅད་དོ། །ཤུགས་སྒྲོལ་མ་དབང་ཕྱུག་གཙོ་མོའི་ཕུར་བུས་གདབ་པོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-95"/>Therefore, eliminate her with the vidyāmantra of the ascetic Lekden and stab with the dagger of the preeminent goddess Mule Lady.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-16">
+    <prop type="location-id">UT22084-101-042-96</prop>
+    <tuv xml:lang="bo">
+                <seg>སརྦ་པྲ་མ་ནི་བྷྱཿཕཊ། རོ་ཏི་བྃ་ཀི་ལི་ཀི་ལ་ཡ་ཧཱུྃ་ཕཊ། སྐྱ་རིམས་ཀླད་པ་ན་བ་དང་། །རྐང་ལག་འཁོལ་བའི་ནད་བྱུང་ན་འབྱུང་པོ་ནག་པོའི་གདོན་ཡིན་པས་དཔལ་ཆེན་དབང་གི་རིག་སྔགས་ཀྱིས་གཅད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-96"/>sarva pra ma ni bhyaḥ phaṭ | ro ti baṃ ki li ki la ya hūṁ phaṭ ||<tei:milestone xml:id="UT22084-101-042-97"/> If someone is afflicted by a latent brain disease or an illness where their hands and feet are burning, this is due to the graha Black Bhūta.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-17">
+    <prop type="location-id">UT22084-101-042-96</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤུགས་སྒྲོལ་ཆེན་མོའི་ཕུར་བུས་གདབ་པོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, eliminate him with the vidyāmantra of the powerful Great Glorious One and stab with the dagger of the great Mule Lady.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-18">
+    <prop type="location-id">UT22084-101-042-98</prop>
+    <tuv xml:lang="bo">
+                <seg>ཛ་ལར་ཡེ་བྷྱཿཕཊ། བྲམ་ཀི་ལི་ཀི་ལ་ཡ་ཧཱུྃ་དྲཱུྃ། ལྕི་ཞིང་ནད་བྱུང་འཐིབས་པ་དང་། །གཉིད་བྲོ་ཞིང་སེམས་ལ་མི་དྲན་པའི་ནད་བྱུང་ན་བུད་མེད་ནག་མོའི་གདོན་ཡིན་པས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-98"/>ja lar ye bhyaḥ phaṭ | pra ma ki li ki la ya hūṁ drūṁ ||<tei:milestone xml:id="UT22084-101-042-99"/> If someone feels heavy or is afflicted by illness, or has an illness involving dullness, sleepiness, or forgetfulness, this is due to the grahī Black Defeater.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-19">
+    <prop type="location-id">UT22084-101-042-98</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་བར་བྱེད་པའི་རིག་སྔགས་ཀྱིས་གཅད། །སྦྲང་རྩིར་བྱེད་པའི་ཕུར་བུས་གདབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, eliminate her with the vidyāmantra of the Victory Bringer and stab with the dagger of Madhukara.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-20">
+    <prop type="location-id">UT22084-101-042-101</prop>
+    <tuv xml:lang="bo">
+                <seg>རུ་ཏྲ་ཡ་ན་བྱི་ཤ་བྷྱཿཕཊ། ཀ་བ་ལ་ཀི་ལི་ཀི་ལ་ཡ་ཕཊ། བྱས་དགུར་ཡེ་ནས་མི་བཏུབ་ཅིང་། །ལས་བྱས་བསམ་པ་མི་འགྲུབ་པ་ནི་དྲང་སྲོང་གཟི་ཅན་གྱི་གདོན་ཡིན་པས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-101"/>ru tra ya na vyi śa bhyaḥ phaṭ | ka pa la ki li ki la ya phaṭ ||<tei:milestone xml:id="UT22084-101-042-102"/> If nothing that one does ever works out and one’s actions do not achieve their desired ends, this is due to the grahī Majestic Seer.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-21">
+    <prop type="location-id">UT22084-101-042-101</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐོད་པ་ཅན་གྱི་རིག་སྔགས་ཀྱིས་གཅད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore eliminate her with the vidyāmantra of Skull Holder and stab with the dagger of Naked Mendicant.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-22">
+    <prop type="location-id">UT22084-101-042-103</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སྦྱོང་གཅེར་བུའི་ཕུར་བུས་གདབ། ཙ་ཡ་མ་མེ་བྷྱཿཕཊ། རོ་ཏི་བ་མ་ཀི་ལི་ཀི་ལ་ཡ་ཧཱུྃ་དྲཱུྃ། རྣལ་འབྱོར་སེམས་ལ་ཡེང་ཡེང་པོ་སེང་སེང་ཕྱ་ཕྱ་བྱེད་པའི་ནད་བྱུང་ན་སྲིན་མོ་ནག་མོའི་གདོན་ཡིན་པས། ཕྱག་ན་རྡོ་རྗེའི་རིག་སྔགས་ཀྱིས་གཅད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-103"/>ca ya ma me bhyaḥ phaṭ | ro ti pa ma ki li ki la ya hūṁ drūṁ ||<tei:milestone xml:id="UT22084-101-042-104"/> If the yogin is afflicted by an illness that causes his mind to be unstable, unsteady, and emotional, this is due to the grahī Black Rākṣasī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-23">
+    <prop type="location-id">UT22084-101-042-103</prop>
+    <tuv xml:lang="bo">
+                <seg>དབང་ལྡན་མགོན་པོའི་ཕུར་བུས་གདབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, eliminate her with the vidyāmantra of Vajrapāṇi and stab with the dagger of the protector Indra.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-24">
+    <prop type="location-id">UT22084-101-042-106</prop>
+    <tuv xml:lang="bo">
+                <seg>རཀྵ་ཡ་ནི་བྷྱཿཕཊ། དུ་ནི་རཱཀྵ་ཀི་ལི་ཀི་ལ་ཡ་ཧཱུྃ་དྲཱུྃ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-106"/>rakṣa ya ni bhyaḥ phaṭ | du ni rākṣa ki li ki la ya hūṁ drūṁ | May whatever is unpleasing to the mind dissipate!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-25">
+    <prop type="location-id">UT22084-101-042-108</prop>
+    <tuv xml:lang="bo">
+                <seg>སེམས་ལ་མི་དགའ་ཕྱ་ཕྱའོ། །རླུང་འཕྱོའི་ཐབས་སུ་ན་བ་ནི་རླུང་ལྷ་ནག་མོའི་གདོན་ཡིན་པས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-108"/>An illness that involves increased wind is due to the grahī Black Vāyu.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-26">
+    <prop type="location-id">UT22084-101-042-108</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་མོ་བདུན་གྱི་རིག་སྔགས་ཀྱིས་གཅད། སྲིང་མོ་བཞིའི་ཕུར་བུས་གདབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, eliminate her with the vidyāmantra of the Seven Mothers and stab with the dagger of the Four Sisters.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-27">
+    <prop type="location-id">UT22084-101-042-109</prop>
+    <tuv xml:lang="bo">
+                <seg>ཧ་ས་ཡ་ནི་ར་རེ་བྷྱཿཕཊ། དུ་ཡ་ཀ་ས་ཡ་ནི་ཀི་ལི་ཀི་ལ་ཡ་ཧཱུྃ་དྲཱུྃ། ཁྲོ་བ་དང་ནི་འཚིག་པ་དང་། །སྨྲ་འདོད་དང་ནི་འཚིག་འདྲེ་དང་། །རྐང་ལག་བྱ་བ་ཙག་མང་པོའི་ནད་བྱུང་ན་དབང་ལྡན་ནག་པོའི་གདོན་ཡིན་པས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-109"/>ha sa ya ni ra re bhyaḥ phaṭ | du ya ka sa ya ni ki li ki la ya hūṁ drūṁ ||<tei:milestone xml:id="UT22084-101-042-110"/> If someone is afflicted by an illness that makes them angry, furious, talkative, and enraged, and their arms and legs move or cramp a lot, this is due to the grahī Black Indrāṇī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-28">
+    <prop type="location-id">UT22084-101-042-109</prop>
+    <tuv xml:lang="bo">
+                <seg>དབང་ལྡན་གཙོ་བོའི་རིག་སྔགས་ཀྱིས་གཅད། རིགས་ཀྱི་ཁྲོ་བོའི་ཕུར་བུས་གདབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, eliminate her with the vidyāmantra of the preeminent Indra and stab with the wrathful dagger of the Wrathful One from the family.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-29">
+    <prop type="location-id">UT22084-101-042-113</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བ་ལོ་ཡཱ་བྷྱཿཕཊ། དེ་བ་ཀི་ལི་ཀི་ལ་ཡ་ཧཱུྃ་དྲཱུྃ། ནམ་ཕྱེད་གུང་ལ་གཉིད་མེད་དང་། །ཆོ་<tei:ref folio="F.140.a"/>འཕྲུལ་ཆེན་པོ་འབྱུང་བ་དང་། །བུང་བུ་ཕག་གི་གཟུགས་སྟོན་པ་ནི་ནམ་གྲུ་ནག་མོའི་གདོན་ཡིན་པས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-113"/>de va lo yā bhyaḥ phaṭ | de va ki li ki li ya hūṁ drūṁ ||<tei:milestone xml:id="UT22084-101-042-114"/> Being unable to sleep in the middle of the night, The occurrence of powerful sorcery, And bees appearing as pigs Are due to the grahī Black Revatī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-30">
+    <prop type="location-id">UT22084-101-042-113</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་ཆེན་གཙོ་བོའི་རིག་སྔགས་ཀྱིས་གཅད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, eliminate her with the vidyāmantra of the preeminent Great Glorious One And stab with the dagger of the Wrathful One from the family.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-31">
+    <prop type="location-id">UT22084-101-042-115</prop>
+    <tuv xml:lang="bo">
+                <seg>རིགས་ཀྱི་ཁྲོ་བོའི་ཕུར་བུས་གདབ། །དེ་བ་ཀི་ལི་ཀི་ལ་ཨཱ་བྷྱཿཕཊ། དེ་བ་དྲ་ཏི་ཀི་ལི་ཀི་ལ་ཡ་ཧཱུྃ་དྲཱུྃ། རྐང་ལག་ཁོལ་ཞིང་ན་བ་དང་། །ཡི་ག་བཅིངས་ནས་སྐྱུག་བྲོ་བའི་ནད་བྱུང་ན་ཡ་མ་ནག་མོའི་གདོན་ཡིན་པས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-115"/>de va ki li ki la yā bhyaḥ phaṭ | de va dra ti ki li ki la ya hūṁ hūṁ ||<tei:milestone xml:id="UT22084-101-042-116"/> If one is afflicted by an illness where their limbs are burning and painful, or if one has little appetite and feels nauseous, this is due to the grahī Black Yamā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-32">
+    <prop type="location-id">UT22084-101-042-115</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་གཤིན་རྗེའི་རིག་སྔགས་ཀྱིས་གཅད། །མི་ཕམ་མཛེས་པའི་ཕུར་བུས་གདབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, eliminate her with the vidyāmantra of Mañjuśrī Yamāntaka and stab with the dagger of the Splendorous Invincible One.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-33">
+    <prop type="location-id">UT22084-101-042-117</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡ་མ་རཱ་ཛ་ཧྲིཿཥྚི་བི་ཀྲི་ཀྲི་ནད་མ་ཧཱ་ཧཱུྃ་དྲཱུྃ། ཙ་ཡ་རྃ་བ་ནི་ཀི་ལི་ཀི་ལ་ཡ་བྷྱཿཕཊ། གཞོགས་སྐམས་པ་དང་རེངས་པ་དང་། །ཞ་གྲུམ་ཤ་ལུས་སྔོ་ལ་འཇམ། །མིག་མདོག་གནག་ཅིང་རྐོང་བ་ནི། །ཤུ་བ་མཛེའི་ཆོ་འཕྲུལ་ནི་ཀླུ་མོ་ནག་མོའི་གདོན་ཡིན་པས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-117"/>ya ma rā ja hriḥ ṣṭi bi kri kri nad ma hā hūṁ drūṁ | ca ya raṃ ba ni ki li ki la ya bhyaḥ phaṭ ||<tei:milestone xml:id="UT22084-101-042-118"/> When half the body becomes withered or paralyzed, When crippled, when the body is bruised and tender, Or the eyes turn dark and itchy, This is leprosy caused by sorcery And is due to the grahī Black Nāgiṇī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-34">
+    <prop type="location-id">UT22084-101-042-117</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱ་ཁྱུང་ཧེའི་རིག་སྔགས་ཀྱིས་གཅད། །དྲང་སྲོང་རྒད་པོའི་ཕུར་བུས་གདབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, eliminate her with the vidyāmantra of Garuḍa He And stab with the dagger of the Old Seer.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-35">
+    <prop type="location-id">UT22084-101-042-119</prop>
+    <tuv xml:lang="bo">
+                <seg>ནཱ་ག་ལེ་ཡ་ཧཱུྃ་དྲཱུྃ། ཙ་ཡ་ཀ་བྷྱཿཕཊ། སེམས་ལ་ཡེང་ཡེང་སེང་སེང་པོ་རོ་སྟོད་མནན་པ་སྙམ་བྱེད་པ་དང་། སྙང་སྙོང་བྱེད་པའི་ནད་བྱུང་ན། །ཁ་སོ་འབྲུལ་བ་སྙམ་བྱེད་ན་གནོད་སྦྱིན་ནག་པོའི་གདོན་ཡིན་པས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-119"/>nā ga le ya hūṁ hūṁ | ca ya ka bhyaḥ phaṭ ||<tei:milestone xml:id="UT22084-101-042-120"/> If someone is afflicted by an illness that causes their mind to feel unstable and vacuous, to feel pressure on their torso, experience a sense of futility, or feel as if their teeth are falling out, this is due to the grahī Black Yakṣiṇī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-36">
+    <prop type="location-id">UT22084-101-042-119</prop>
+    <tuv xml:lang="bo">
+                <seg>རྣམ་ཐོས་སྲས་ཀྱི་རིག་སྔགས་ཀྱིས་གཅད། །སྤྲུལ་བྱེད་མའི་ཕུར་བུས་གདབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, eliminate her with the vidyāmantra of Vaiśravaṇa and stab with the dagger of the Emanatress.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-37">
+    <prop type="location-id">UT22084-101-042-122</prop>
+    <tuv xml:lang="bo">
+                <seg>ཏི་ཏི་མ་ཡེ་བྷྱཿཕཊ། ཀུ་ཀུ་རཱ་ཛ་ཡེ་ཧཱུྃ་དྲཱུྃ། ཤུ་བ་འབྲུམ་བུ་ན་བ་དང་། །ཤ་ལུས་གཡའ་བའི་ནད་བྱུང་ན་ནམ་གྲུ་སྐྱོང་བྱེད་རོ་ལངས་ནག་མོའི་གདོན་ཡིན་པས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-122"/>ti ti ma ye bhyaḥ phaṭ | ku ku rā ja ye hūṁ drūṁ ||<tei:milestone xml:id="UT22084-101-042-123"/> If someone is afflicted with skin disease, rashes, and their body itches, this is due to the grahī Black Revatī Protectress Vetālī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-38">
+    <prop type="location-id">UT22084-101-042-122</prop>
+    <tuv xml:lang="bo">
+                <seg>གཤིན་རྗེ་ཐོགས་མེད་ཀྱི་རིག་སྔགས་ཀྱིས་གཅད། །འདོད་པ་དམར་མོའི་ཕུར་བུས་གདབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, eliminate her with the vidyāmantra of unimpeded Yama and stab with the dagger of the Red Lady of Desire.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-39">
+    <prop type="location-id">UT22084-101-042-124</prop>
+    <tuv xml:lang="bo">
+                <seg>བ་རེན་ཧེ་ཡ་ཧཱུྃ་དྲཱུྃ། ཀུ་མ་ལ་གུར་དང་བྷྱཿཕཊ། ཁྲག་ཏུ་ན་ཞིང་ལྕི་བ་དང་། །མིག་རྒྱང་རིང་དུ་མི་མཐོང་བ་དང་། །སེམས་ལ་ཡེང་ཡེང་སེང་སེང་པོའི་ནད་བྱུང་ན་ནམ་གྲུ་ཁྱུང་གཤོག་མའི་གདོན་ཡིན་པས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-124"/>va ren he ya hūṁ hūṁ | ku ma la gur dang bhyaḥ phaṭ ||<tei:milestone xml:id="UT22084-101-042-125"/> If someone is afflicted by an illness of the blood, feels heavy, cannot see far, or has an unstable and vacuous mind, this is due to the grahī Garuḍa-Winged Revatī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-40">
+    <prop type="location-id">UT22084-101-042-124</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་ཆེན་དབང་གི་རིག་སྔགས་ཀྱིས་གཅད། །ཁྲོ་བོ་ཧཱུྃ་ཆེན་འབར་བའི་ཕུར་བུས་གདབ། །དུ་ཡ་ཀུ་ལ་ཧཱུྃ་ཕཊ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, eliminate her with the vidyāmantra of the powerful Great Glorious One and stab with the dagger of blazing wrathful Hūṁchen.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-41">
+    <prop type="location-id">UT22084-101-042-126</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་མ་ཁ་དུ་ཡེ་བྷྱཿཕཊ། གཡས་ཀྱི་ལག་པ་ཞ་བ་དང་། །རྩིབ་མར་<tei:ref folio="F.140.b"/>གཟེར་ཞིང་ན་བ་ནི་ལག་གཅིག་ཉབ་པའི་གདོན་ཡིན་པས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-126"/>du ya kula hūṁ phaṭ | ma ma ku du ye bhyaḥ phaṭ ||<tei:milestone xml:id="UT22084-101-042-127"/> If someone is afflicted by an illness that cripples their right arm or causes rib pain, this is due to the grahī Revatī Who Extends One Hand.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-42">
+    <prop type="location-id">UT22084-101-042-126</prop>
+    <tuv xml:lang="bo">
+                <seg>དབྱིངས་ཀྱི་ཁྲོ་བོའི་རིག་སྔགས་ཀྱིས་གཅད། །དབང་མོ་དམར་མོའི་ཕུར་བུས་གདབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, eliminate her with the vidyāmantra of Expanse of Wrath and stab with the dagger of the Powerful Red Lady.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-43">
+    <prop type="location-id">UT22084-101-042-128</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་མ་རི་ཧ་ཡ་ཧཱུྃ་དྲཱུྃ། ཀ་པ་ལ་ཡ་ཧེ་བྷྱཿཕཊ། མྱོས་ཤིང་ཁྲག་ཏུ་བཤལ་བ་དང་། །མིག་སྔར་སྣ་ཚོགས་གཟུགས་འོང་བ་ནི་སོ་གཅིག་མིག་གཅིག་མའི་གདོན་ཡིན་པས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-128"/>ma ma ri haya hūṁ hūṁ | ka pa la ya he bhyaḥ phaṭ ||<tei:milestone xml:id="UT22084-101-042-129"/> If someone feels intoxicated, hemorrhages blood, and sees all sorts of forms appear before their eyes, this is due to the grahī One-Toothed One-Eyed Revatī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-44">
+    <prop type="location-id">UT22084-101-042-128</prop>
+    <tuv xml:lang="bo">
+                <seg>ལེགས་ལྡན་ཕྱིར་ཟློག་པའི་རིག་སྔགས་ཀྱིས་གཅད། །དཀའ་ཐུབ་གཙོ་བོའི་ཕུར་བུས་གདབ། །རཱཀྵ་སེ་ཧཱུྃ་དྲཱུྃ། རཱཀྵ་ལྃ་ཀེ་ལ་ཡེ་བྷྱཿཕཊ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, eliminate her with the counteractive vidyāmantra of Lekden and stab with the dagger of the Principal Ascetic.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-45">
+    <prop type="location-id">UT22084-101-042-130</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་བདུད་ཀྱི་གདོན་བཅུ་གཉིས་ལ། །དར་དཀར་གུར་གྱི་ནང་ཤེད་ན། །བུད་མེད་མངའ་བདག་ཆོ་འཕྲུལ་ནི། །མི་བཟང་དཀར་མོ་བྱུང་བ་ནི། །གསེར་དང་གཡུས་བརྒྱན་དབང་མོ་ཆེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-130"/>rākṣa se hūṁ drūṁ | rākṣa laṁ ki la ye bhyaḥ phaṭ ||<tei:milestone xml:id="UT22084-101-042-131"/> As for the twelve grahīs of the lesser demons—<tei:milestone xml:id="UT22084-101-042-133"/> Inside a white silken tent Is the magical emanation of the sovereign woman Arisen from the White Inauspicious Lady, The powerful lady ornamented with gold and turquoise, The grahī Wisdom Samantabhadrī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-46">
+    <prop type="location-id">UT22084-101-042-134</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡེ་ཤེས་ཀུན་དུ་བཟང་མོའི་གདོན། །དུས་ངན་ཆར་པ་འཁྲུག་པ་དང་། །སད་དང་སེར་བའི་ཆོ་འཕྲུལ་ཏེ། །ཆོས་ཀྱི་དབྱིངས་ཀྱི་རིག་སྔགས་ཀྱིས་གཅད། །ཏིང་ངེ་འཛིན་གྱི་ཕུར་བུས་གདབ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-134"/>Eliminate untimely rain, strife, frost, and hail caused by sorcery with the dharmadhātu vidyāmantra and stab with the dagger of samādhi.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-47">
+    <prop type="location-id">UT22084-101-042-135</prop>
+    <tuv xml:lang="bo">
+                <seg>ནི་དྷརྨ་དྷཱ་ཏུ་ས་མ་ཡ་ཧཱུྃ་དྲཱུྃ། ཀུ་མ་ལ་ཙ་གཡེ་ས་མ་ཡེ་བྷྱཿཕཊ། གཡུ་གུར་གཉིས་ལ་དབང་བྱེད་མ། །མཐིང་ཀ་ཆེན་མོ་དབང་མོ་ཆེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-135"/>ni dhar ma dhā tu sa ma ya hūṁ druṁ | ka ma la ca ga ye sa ma ye bhyaḥ phaṭ ||<tei:milestone xml:id="UT22084-101-042-136"/> The Lady who rules the second turquoise tent Is the great and powerful Dark Blue Lady.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-48">
+    <prop type="location-id">UT22084-101-042-135</prop>
+    <tuv xml:lang="bo">
+                <seg>བ་ལང་དྲེ་རྟ་ཞོན་པ་དང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Riding an ox, mule, or horse.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-49">
+    <prop type="location-id">UT22084-101-042-135</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་ཡོ་ག་ཕུང་བར་བྱེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>She brings disaster upon worldly yogas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-50">
+    <prop type="location-id">UT22084-101-042-138</prop>
+    <tuv xml:lang="bo">
+                <seg>དབང་བྱེད་ཆེན་མོའི་རིག་སྔགས་ཀྱིས་གཅད། །ཁྱབ་པ་ཆེན་མོའི་ཕུར་བུས་གདབ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-138"/>Eliminate her with the vidyāmantra of the great and powerful Lady and stab with the dagger of the great all-pervasive Lady.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-51">
+    <prop type="location-id">UT22084-101-042-139</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨ་ར་ལི་བྷྱཿཕཊ། ར་དུ་ཧཱུྃ་དྲཱུྃ། བྱི་རུའི་གུར་གསུམ་དབང་བྱེད་མ། །གུར་ནང་སྙིང་གི་མངའ་བདག་སྟེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-139"/>a ra li bhyaḥ phaṭ | ra du hūṁ druṁ || <tei:milestone xml:id="UT22084-101-042-140"/>The Lady who rules the third coral tent Is the ruler of the heart inside the tent.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-52">
+    <prop type="location-id">UT22084-101-042-141</prop>
+    <tuv xml:lang="bo">
+                <seg>གསེར་གུར་མཆོད་པའི་རིག་སྔགས་ཀྱིས་གཅད། །དཀའ་ཐུབ་གཙོ་བོའི་ཕུར་བུས་གདབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-141"/>Eliminate her with the offering vidyāmantra of the yellow tent and stab with the dagger of the Principal Ascetic.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-53">
+    <prop type="location-id">UT22084-101-042-142</prop>
+    <tuv xml:lang="bo">
+                <seg>ཏིཥྚ་ཏིཥྚ་ནི་བྷྱཿཕཊ། བ་ཕཱ་མ་ཧཱུྃ་དྲཱུྃ། གསེར་གུར་བཞི་ལ་དབང་བྱེད་མ། །ལྷ་གོར་བ་དང་ལྷོག་ནད་ཀུན་གྱི་བདག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-142"/>tiṣṭa tiṣṭa ni bhyaḥ phaṭ | va pā ma hūṁ drūṁ ||<tei:milestone xml:id="UT22084-101-042-143"/> The Lady who rules the fourth golden tent rules over all illnesses of the throat and ulcers.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-54">
+    <prop type="location-id">UT22084-101-042-142</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇམ་དཔལ་རོ་ཏན་གྱི་རིག་སྔགས་ཀྱིས་གཅད། །མི་ཕམ་མཛེས་པའི་ཕུར་བུས་གདབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Eliminate her with the vidyāmantra of Mañjuśrī Roten and stab with the dagger of the Splendorous Invincible One.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-55">
+    <prop type="location-id">UT22084-101-042-145</prop>
+    <tuv xml:lang="bo">
+                <seg>རོ་རོ་བྃ་ཧཱུྃ་དྲཱུྃ། ཀུ་ཀུ་ཡེ་བྷྱཿཕཊ། མཐིང་ནག་གི་གུར་ལྔ་ལ་དབང་བྱེད་མ། །གཟེར་མ་ཁ་རལ་བུད་མེད་ཡིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-145"/>ro ro baṁ hūṃ druṃ | ku ku ye bhyaḥ phaṭ ||<tei:milestone xml:id="UT22084-101-042-146"/> The Lady who rules the fifth dark blue tent Is the rending spike woman.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-56">
+    <prop type="location-id">UT22084-101-042-145</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆུ་སོའི་ནད་དང་ལྐོག་ནད་དང་། །ཁྲག་ནད་དང་ནི་ཤུ་བའི་ནང་། །ཡམ་རོལ་པའི་རིག་སྔགས་ཀྱིས་གཅད། །མི་ཕམ་རོལ་བའི་<tei:ref folio="F.141.a"/>ཕུར་བུས་གདབ། ཡ་གོ་ལེ་ཧཱུྃ་དྲཱུྃ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Eliminate bladder and internal diseases, Blood diseases, and abscesses With the vidyāmantra of playful Yama, And stab with the dagger of the Playful Invincible One.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-57">
+    <prop type="location-id">UT22084-101-042-147</prop>
+    <tuv xml:lang="bo">
+                <seg>པྲ་དོ་པྲ་ཡེ་བྷྱཿཕཊ། བསམ་མེད་ཞིང་ཆེན་གྱི་གུར་དྲུག་ལ་དབང་བྱེད་མ། །ལྷ་མོ་ཉིད་ཀྱི་ནད་ལགས་ཏེ། །ཁ་ནས་ཁྲག་ཏུ་སྐྱུག་པ་དང་། །ལུས་ལ་ཚ་བ་སྐྱེས་པ་དང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-147"/>ya go le hūṁ drūṁ | phra do phra ye bhyaḥ phaṭ ||<tei:milestone xml:id="UT22084-101-042-148"/> The Lady who rules the sixth tent of the inconceivably large field Is the goddess of symptoms such as Vomiting blood from the mouth, The feeling of fever in the body, And contraction of the limbs.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-58">
+    <prop type="location-id">UT22084-101-042-149</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡན་ལག་འཁོངས་པར་བྱེད་པའོ། །ཡ་མ་ཐུགས་རྗེའི་རིག་སྔགས་ཀྱིས་གཅད། །ཡམ་ཆགས་བྱེད་ཀྱི་ཕུར་བུས་གདབ། །ཙ་ག་ཡ་བྃ་བྷྱཿཕཊ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-149"/>Eliminate her with the vidyāmantra of compassionate Yama and stab with the dagger of attachment-inducing Yama.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-59">
+    <prop type="location-id">UT22084-101-042-150</prop>
+    <tuv xml:lang="bo">
+                <seg>གུར་ལ་དེ་ཧཱུྃ་དྲཱུྃ། རེ་ལྡེའི་གུར་བདུན་པའི་ནང་ཤེད་ན། །ཁྲམ་ལ་འདེབས་པའི་མ་མོ་སྟེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-150"/>ca ga ya baṁ bhyaḥ phaṭ | gur la de hūṁ drūṁ ||<tei:milestone xml:id="UT22084-101-042-151"/> Inside the seventh oxen-hair tent Is the Mother who strikes those who speak falsely.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-60">
+    <prop type="location-id">UT22084-101-042-150</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁ་ནས་ཁྲག་ནད་འབེབས་པ་དང་། །ལུས་ལ་ཚ་བའི་མེ་ཆེན་སྦར་བ་དང་། །ཟངས་གྲི་ཐོགས་པའི་ལས་བྱེད་དེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>She inflicts illness where blood comes from the mouth, Kindles fever in the body like a great fire, And acts while brandishing a copper knife.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-61">
+    <prop type="location-id">UT22084-101-042-150</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྱུང་ཆེན་འབར་བའི་རིག་སྔགས་ཀྱིས་གཅད། །དུག་ཆེན་ཚར་གཅོད་ཀྱི་ཕུར་བུས་གདབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Eliminate her with the vidyāmantra of Blazing Great Garuḍa And stab with the dagger of the Eliminator of Poison.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-62">
+    <prop type="location-id">UT22084-101-042-153</prop>
+    <tuv xml:lang="bo">
+                <seg>ད་ཧེ་ཡ་ཨ་ཧཱུྃ་དྲཱུྃ། མེ་ཙ་ཡེ་བྷྱཿཕཊ། གླང་པོ་ཆེའི་གུར་བརྒྱད་པའི་ནང་ཤེད་ན། །བོང་བུ་དྲེའུ་ཞོན་པའི་བུད་མེད་དེ། །ལྷོག་པ་གློ་དང་རྐང་པ་ནད་ཀྱི་བདག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-153"/>da he ya ya hūṁ dṛūṁ | me ca ye bhyaḥ phaṭ ||<tei:milestone xml:id="UT22084-101-042-154"/> Inside the eighth elephant tent, The woman who rides a mule Rules over ulcers and lung and foot diseases.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-63">
+    <prop type="location-id">UT22084-101-042-153</prop>
+    <tuv xml:lang="bo">
+                <seg>གཤིན་རྗེ་ཐུགས་ཀྱི་རིག་སྔགས་ཀྱིས་གཅད། །འབར་མ་དབང་གི་ཕུར་བུས་གདབ། །ཙ་ཀྲ་ཀི་ལི་ཀི་ལ་ཡེ་བྷྱཿཕཊ། ཨཱ་ཀོ་ལྃ་ཧཱུྃ་དྲཱུྃ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Eliminate her with the heart vidyāmantra of Yama And stab with the dagger of Powerful Blazing Lady.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-64">
+    <prop type="location-id">UT22084-101-042-155</prop>
+    <tuv xml:lang="bo">
+                <seg>བསེ་གུར་ཁྲ་བོ་དགུའི་ནང་ཤེད་ན། །རྔ་བྲན་སྨན་གྱི་གཙོ་མོ་དགུས། །སེར་བ་སད་དང་འགོང་ནད་དང་། །ཕུང་བྱེད་ཁང་བ་རྡིབ་པ་དང་། །ལྦོ་ཞིང་སྣ་ཐབས་སུན་པ་ནི་ནག་པོ་དགུའི་ནད་ཡིན་པས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-155"/>ca kra ki li ki la ye bhyaḥ phaṭ | ā ko laṁ hūṁ drūṁ ||<tei:milestone xml:id="UT22084-101-042-156"/> Inside the multicolored ninth leather tent— <tei:milestone xml:id="UT22084-101-042-157"/>Are the nine preeminent Dabren Medicine Ladies, Who cause hail, frost, spell-caused illness, Personal ruin, house collapse, Swelling, nasal irritation, And illnesses of the nine black ones.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-65">
+    <prop type="location-id">UT22084-101-042-155</prop>
+    <tuv xml:lang="bo">
+                <seg>དབྱིངས་ཀྱི་གཙོ་མོའི་རིག་སྔགས་ཀྱིས་གཅད། །འཁོར་བ་རབ་འཇོམས་ཀྱི་ཕུར་བུས་གདབ། །ཀུ་མ་ལ་ཡ་ཧཱུྃ་དྲཱུྃ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, eliminate them with the vidyāmantra of the preeminent Lady of the Expanse And stab with the dagger of the Conqueror of Saṃsāra.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-66">
+    <prop type="location-id">UT22084-101-042-159</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤ་མ་མ་ཡེ་བྷྱཿཕཊ། མཐིང་ནག་གི་གུར་བཅུ་ཕུབ་པའི་ནང་ཤེད་ན། །གུར་ལ་དབང་བ་བཅུ་གནས་པ། །མཛེ་དང་ཤུ་བ་གཡན་པ་དང་། །དུག་སྦྱོར་མ་དང་འཁྲུག་བྱེད་དང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-159"/>ku ma la ya hūṁ drūṁ | śa ma ma ye bhyaḥ phaṭ ||<tei:milestone xml:id="UT22084-101-042-160"/> Inside the dark blue tenth tent—<tei:milestone xml:id="UT22084-101-042-161"/> Are the ten Rulers of the Tent, Who cause leprosy and itchy lesions, Make poison, cause conflict, And kill with knives.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-67">
+    <prop type="location-id">UT22084-101-042-159</prop>
+    <tuv xml:lang="bo">
+                <seg>གྲི་ཐབས་སུ་གསོད་པར་བྱེད་པ་ནི་ཁྲོ་བོ་གྲགས་འཛིན་གྱི་རིག་སྔགས་ཀྱིས་གཅད། ཁྱབ་པ་མའི་ཕུར་བུས་གདབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Eliminate them with the vidyāmantra of wrathful Yaśodharā And stab with the dagger of the All-Pervasive Mother.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-68">
+    <prop type="location-id">UT22084-101-042-162</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨ་ཀོ་ཤ་མེ་རར་ཧཱུྃ་དྲཱུྃ། པྲ་དུ་ལེ་བྷྱཿཕཊ། གསང་བ་པདྨ་གུར་བཅུ་གཅིག་པའི་ནང་ཤེད་ན། །བཅུ་གཅིག་དབང་གི་གུར་བདག་མོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-162"/>a ko śa me ra ra hūṁ drūṁ | pra du le bhyaḥ phaṭ ||<tei:milestone xml:id="UT22084-101-042-163"/> Inside the eleventh tent of the secret lotus—<tei:milestone xml:id="UT22084-101-042-164"/> Is the powerful eleventh tent-ruling Lady.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-69">
+    <prop type="location-id">UT22084-101-042-162</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྱབ་བདལ་ཆེན་མོ་དབང་གི་སྐུ། །འཇིག་རྟེན་དུ་ཆར་སྒོ་གཟའ་ཡིས་འགེགས་ཤིང་། ཆར་པ་འབེབས་སུ་མི་སྟེར་བ་ནི་དཔལ་ཆེན་དབྱིངས་ཀྱི་རིག་སྔགས་ཀྱིས་གཅད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>A great all-pervasive lady, powerful in form, She obstructs the passage of rainfall in the world by means of the planets And does not grant rainfall.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-70">
+    <prop type="location-id">UT22084-101-042-162</prop>
+    <tuv xml:lang="bo">
+                <seg>མཛེས་མ་<tei:ref folio="F.141.b"/>ས་འཛིན་མའི་ཕུར་བུས་གདབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Eliminate her with the vidyāmantra of Great Glorious Expanse And stab with the dagger of beautiful Gāndhārī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-71">
+    <prop type="location-id">UT22084-101-042-165</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨ་ཀོ་མུ་ན་བྷྱཿཕཊ། ཙ་ཡེ་མ་ཧཱུྃ་དྲཱུྃ། ག་ཕུར་ཤེལ་གྱི་གུར་བཅུ་གཉིས་པའི་ནང་ཤེད་ན། །མུ་ཁ་ལེ་མ་ཅིག་དབྱིངས་ཀྱི་ཡུམ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-165"/>a ko muna bhyaḥ phaṭ | ca ye ma hūṁ drūṁ ||<tei:milestone xml:id="UT22084-101-042-166"/> Inside the camphor crystal twelfth tent—<tei:milestone xml:id="UT22084-101-042-167"/> Is the mother of space, the sole mother Mukhale.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-72">
+    <prop type="location-id">UT22084-101-042-165</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅུ་གཉིས་བཅུ་བཞི་ཁྱོད་ལ་རྫོགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The twelve and the fourteen are complete in you.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-73">
+    <prop type="location-id">UT22084-101-042-165</prop>
+    <tuv xml:lang="bo">
+                <seg>འགྲོ་བ་ཡོངས་ལ་སྨན་སླད་དུ། །བདུད་རྩིའི་བཅུད་ཀྱི་ནང་ན་བཞུགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In order to heal all beings everywhere You reside in the essence of nectar.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-74">
+    <prop type="location-id">UT22084-101-042-165</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱག་ན་རིག་པ་ཐུགས་ཀྱི་སྡོང་བུ་བསྣམས། །སྲིད་པ་ཐམས་ཅད་དུས་གཅིག་གསལ། །གསལ་འབར་ཐུགས་ཀྱི་དཀྱིལ་འཁོར་དུ། །བདུད་བཞི་ཤིནྟཾ་ཀུ་རུ་སྭཱ་ཧཱ། རི་ཚེ་འགོང་གཡག་ཤནྟིཾ་ཀུ་རུ་སྭཱ་ཧཱ། ཕོ་བདུད་བཅུ་གཉིས་ཤནྟིཾ་ཀུ་རུ་སྭཱ་ཧཱ། སྐོས་རྗེ་དྲང་དཀར་ཤནྟིཾ་ཀུ་རུ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You hold the heart-stalk of knowledge in your hand And illuminate all of existence in a single moment.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-75">
+    <prop type="location-id">UT22084-101-042-168</prop>
+    <tuv xml:lang="bo">
+                <seg>གནམ་ཐེ་དཀར་པོ་ཤནྟིཾ་ཀུ་རུ་སྭཱ་ཧཱ། བར་ཐེ་ཁྲ་བོ་ཤནྟིཾ་ཀུ་རུ་སྭཱ་ཧཱ། ས་ཐེ་ནག་པོ་ཤནྟིཾ་ཀུ་རུ་སྭཱ་ཧཱ། བྱང་ཤར་མཚམས་ཀྱི་གདོན་བཙན་འགོང་དམར་པོ་ཤནྟིཾ་ཀུ་རུ་སྭཱ་ཧཱ། ཡམས་དང་ནད་ཀྱི་བདག་མོ་ཤིནྟཾ་ཀུ་རུ་སྭཱ་ཧཱ། སྨན་དང་ཡུལ་ས་ཤིནྟི་ཀུ་རུ་སྭ་ཧཱ། དཔལ་ལྷ་མོ་ནག་མོའི་གཙུག་ཏོར་ཕན་ཡོན་རྩ་བ་དང་བཅས་པ་གདོན་ཟློག་པའི་མདོའི་གཟུངས་འདི་ནི་ལན་གསུམ་དུ་དག་པར་བཀླགས་ཏེ། ལས་དཀའ་བ་ལ་དམོད་བཙུགས་ན་ཇི་ལྟར་བསམས་པ་ལྟར་འགྲུབ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-168"/>Within the heart-maṇḍala of blazing clarity, the four māras śantiṃ ku ru svā hā || The gongpo yak of the mountain peakśāntiṃ ku ru svā hā || The twelve male māras śāntiṃ ku ru svā hā || The thirteen female mārās śāntiṃ ku ru svā hā || The Lord of Order who Carries a White Staff śāntiṃ ku ru svā hā || White Sky Terang śāntiṃ ku ru svā hā || Colorful Terang of Intermediate Space śāntiṃ ku ru svā hā || Black Earth Terang śāntiṃ ku ru svā hā || Red grahas, tsen, and red gongpo in the northeastern direction śāntiṃ ku ru svā hā || Lady who Rules Epidemic and Illness śāntiṃ ku ru svā hā || Medicinal and local deitiesśāntiṃ ku ru svā hā ||<tei:milestone xml:id="UT22084-101-042-172"/> If someone clearly reads aloud three times this fundamentally beneficial dhāraṇī-sūtra of the Glorious Black Goddess Uṣṇīṣa that averts grahas and swears to perform a difficult action, they will achieve whatever they wish.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-76">
+    <prop type="location-id">UT22084-101-042-168</prop>
+    <tuv xml:lang="bo">
+                <seg>བསེ་ཕོར་གྱི་ནང་དུ་གཏོར་མ་ལྔ་བྱས་ལ། ཆོ་ག་གཞུང་བཞིན་དུ་བྱས་ན། ཇི་ལྟར་འདོད་པ་བཞིན་དུ་འགྲུབ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one makes five oblations inside a leather cup and performs the ritual according to the text, then they will achieve whatever they wish.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-77">
+    <prop type="location-id">UT22084-101-042-173</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་ལྷ་མོ་གཙུག་ཏོར་གྱིས་གདོན་ཟློག་པ་འདི་ནི་མཚན་མར་བཟུང་སྟེ། ཡང་དང་ཡང་དུ་བཏོན་ཞིང་ཆོ་ག་གཞུང་བཞིན་དུ་བྱས་ཏེ། གཏོར་མ་ཆུ་ཆེན་པོའམ། རི་མཐོན་པོ་ལ་བསྐྱལ་ན། འཁྲུག་པ་ཆེན་པོ་བྱེད་ན་གཡུལ་ལས་རྒྱལ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-173"/>If someone properly upholds this graha-averting ritual for the glorious goddess Uṣṇīṣa, recites it again and again, follows the ritual correctly, and carries oblations to a great river or the top of a high mountain, then when engaged in a great conflict they will be victorious in battle.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-78">
+    <prop type="location-id">UT22084-101-042-173</prop>
+    <tuv xml:lang="bo">
+                <seg>དྲག་པོའི་ལས་བྱེད་ན་དགྲ་བོའི་སྙིང་ལ་གཏད་དེ་གུར་བཅུ་གཉིས་ཀྱི་བདག་མོ་ལ་གཏད་ན་དགྲ་ཕུང་ཞིང་རླག་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When performing hostile rites, direct this toward the heart of the enemy. If this is directed to the Rulers of the Nine Tents, the enemy will be defeated and destroyed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-042-TU-79">
+    <prop type="location-id">UT22084-101-042-174</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་ལྷ་མོ་གཙུག་ཏོར་རོལ་པའི་ཏནྟྲ་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-042-174"/>This completes “The Glorious Tantra of the Play of the Goddess Uṣṇīṣā.”</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-090-033" eft:text-version="v-1.0.1-2023"/>
+<body>
+<tu id="UT22084-090-033-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg/>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-090-033-TU-2">
+    <prop type="location-id">UT22084-090-033-52</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.204.b"/>༄༅། །འཕགས་པ་ལང་ཀར་གཤེགས་པ་ལ་ཕྱག་འཚལ་ལོ། །བློ་གྲོས་ཆེན་པོ་སྔགས་ཀྱི་ཚིག་འདི་དག་བཤད་པར་བྱའོ། །ཏདྱ་ཐཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-033-translation"/>The Dhāraṇī-Mantra to Have the Entire Noble “Sūtra of Descent into Laṅkā” Read<tei:milestone xml:id="UT22084-090-033-52"/> Homage to the noble Descent into Laṅkā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-033-TU-3">
+    <prop type="location-id">UT22084-090-033-55</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་པདྨེ་པདྨེ་དེ་བཻ། ཧི་ནེ་ཧི་ནེ་ཧི་ནེ། ཙུ་ལུ་ཙུ་ལུ་ཙུ་ལུ། ཧུ་ལེ་ཧུ་ལེ་ཧུ་ལེ། ཡུ་ལེ་ཡུ་ལེ་ཡུ་ལེ། །པ་ལེ་པ་ལེ་པ་ལེ། མུཾ་ཙྪེ་ད་ན་དེ། བྷིནྡེ་བྷན་ཛྭ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-033-55"/>“Mahāmati, I shall speak these mantra-words: <tei:milestone xml:id="UT22084-090-033-56"/>tadyathā—padme padmadeve hine hine hine culu culu culu hule hule hule yule yule yule pale pale pale muñce chinde bhinde bhañje marde pramarde dinakare svāhā!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-033-TU-4">
+    <prop type="location-id">UT22084-090-033-62</prop>
+    <tuv xml:lang="bo">
+                <seg>མན་དེ་པྲ་མ་དེ། དི་ན་ཀ་རེ་སྭཱ་ཧཱ། བློ་གྲོས་ཆེན་པོ་རིགས་ཀྱི་བུ་འམ། རིགས་ཀྱི་བུ་མོ་གང་ལ་ལ་སྔགས་ཀྱི་ཚིག་འདི་དག་འཛིན་པ་དང་། འཆང་བ་དང་། ཀློག་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-033-62"/>“Mahāmati!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-033-TU-5">
+    <prop type="location-id">UT22084-090-033-62</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་ཆུབ་པར་བྱེད་ན། ལྷའམ། ལྷ་མོའམ། ཀླུའམ། ཀླུ་མོའམ། གནོད་སྦྱིན་ནམ། གནོད་སྦྱིན་མོའམ། ལྷ་མ་ཡིན་ནམ། ལྷ་མ་ཡིན་མོའམ། ནམ་མཁའ་ལྡིང་ངམ། ནམ་མཁའ་ལྡིང་མོའམ། མིའམ་ཅིའམ། མི་འམ་ཅི་མོའམ། ལྟོ་འཕྱེ་ཆེན་པོའམ། ལྟོ་འཕྱེ་ཆེན་མོའམ། དྲི་ཟའམ། དྲི་ཟ་མོའམ། འབྱུང་པོའམ། འབྱུང་མོའམ། གྲུལ་བུམ་མམ། གྲུལ་བུམ་མོའམ། ཤ་ཟའམ། ཤ་ཟ་མོའམ། གནོན་པོའམ། གནོན་མོའམ། བརྗེད་བྱེད་དམ། བརྗེད་བྱེད་མོའམ། སྲིན་པོའམ། སྲིན་མོའམ། ཕྲ་མེན་ཕོའམ། ཕྲ་མེན་མོའམ། མདངས་འཕྲོག་ཕོའམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If any son of good family or daughter of good family upholds these mantra-words, retains them, recites them, and masters them, then no one will be able to find a weak point in them, be that a god or a goddess, a nāga or a nāgī, a yakṣa or a yakṣī, an asura or an asurī, a garuḍa or a garuḍī, a kinnara or a kinnarī, a mahoraga or a mahoragī, a gandharva or a gandharvī, a bhūta or a bhūtī, a kumbhāṇḍa or a kumbhāṇḍī, a piśāca or a piśācī, an ostārako or an ostārakī, an apasmāra or an apasmārī, a rākṣasa or a rākṣasī, a ḍāka or a ḍākī, an ojohāra or an ojohārī, a kaṭapūtana or a kaṭapūtanī, or a human man or a woman.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-033-TU-6">
+    <prop type="location-id">UT22084-090-033-62</prop>
+    <tuv xml:lang="bo">
+                <seg>མདངས་འཕྲོག་མོའམ། ལུས་སྲུལ་པོའམ། ལུས་སྲུལ་མོའམ། མི་འམ་མི་མ་ཡིན་པ་དེ་དག་ཐམས་ཅད་ཀྱིས་གླགས་མི་རྙེད་དོ། །གསང་སྔགས་ཀྱི་ཚིག་འདི་དག་ཀློག་པར་བྱེད་པ་དེས་ལང་ཀར་གཤེགས་པའི་མདོ་ཐམས་ཅད་བཀླགས་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One who recites these mantra-words will have recited the entire Sūtra of Descent into Laṅkā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-033-TU-7">
+    <prop type="location-id">UT22084-090-033-62</prop>
+    <tuv xml:lang="bo">
+                <seg>སྔགས་ཀྱི་ཚིག་འདི་དག་ནི་བཅོམ་ལྡན་འདས་ཀྱིས་སྲིན་པོ་ལ་སོགས་པ་རྣམས་བཟློག་པའི་ཕྱིར་གསུངས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One taught these mantra-words so that rākṣasas and others will be kept at bay.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-033-TU-8">
+    <prop type="location-id">UT22084-090-033-66</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ལང་ཀར་གཤེགས་པའི་མདོ་ཐམས་ཅད་བཀླགས་པར་འགྱུར་བའི་གཟུངས་སྔགས་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-033-66"/>Here ends “The Dhāraṇī-Mantra to Have the Entire Noble ‘Sūtra of Descent into Laṅkā’ Read.”</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

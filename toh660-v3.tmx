@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-091-057" eft:text-version="v-1.0.2-2023"/>
+<body>
+<tu id="UT22084-091-057-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.180.b"/>༄༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱཱ་གྲ་ཧ་མཱ་ཏྲྀ་ཀཱ་ནཱ་མ་དྷཱ་ར་ཎཱི། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-2">
+    <prop type="location-id">UT22084-091-057-62</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་མ་གཟའ་རྣམས་ཀྱི་ཡུམ་ཞེས་བྱ་བའི་གཟུངས། འཕགས་མ་བཅོམ་ལྡན་འདས་མ་གཟའ་རྣམས་ཀྱི་ཡུམ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-057-translation"/>The Noble Dhāraṇī The Mother of the Grahas<tei:milestone xml:id="UT22084-091-057-62"/> Homage to the blessed noble Mother of the Grahas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-3">
+    <prop type="location-id">UT22084-091-057-62</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-4">
+    <prop type="location-id">UT22084-091-057-62</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་འབྲོག་གནས་ཀྱི་གྲོང་ཁྱེར་ཆེན་པོ་ན། ལྷ་དང་། ཀླུ་དང་། གནོད་སྦྱིན་དང་། སྲིན་པོ་དང་། དྲི་ཟ་དང་། ལྷ་མ་ཡིན་དང་། ནམ་མཁའ་ལྡིང་དང་། མིའམ་ཅི་དང་། ལྟོ་འཕྱེ་ཆེན་པོ་དང་། བདུད་དང་། གཤིན་རྗེ་དང་། ཉི་མ་དང་། ཟླ་བ་དང་། མིག་དམར་དང་། གཟའ་ལྷག་དང་། ཕུར་བུ་དང་། པ་བ་སངས་དང་། སྤེན་པ་དང་། སྒྲ་གཅན་དང་། མཇུག་རིངས་དང་། རྒྱུ་སྐར་ཉི་ཤུ་རྩ་བརྒྱད་ལ་སོགས་པ་དུ་མས་བསྟོད་ཅིང་། རྡོ་རྗེ་ཆེན་པོ་དམ་ཚིག་གི་རྒྱན་གྱིས་བྱིན་གྱིས་བརླབས་པའི་སེང་གེའི་ཁྲི་ལ་བཞུགས་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་དུ་མ་དང་ཐབས་<tei:ref folio="F.181.a"/>ཅིག་པ་ལ་འདི་ལྟ་སྟེ། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཕྱག་ན་རྡོ་རྗེ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྡོ་རྗེ་གཏུམ་པོ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྡོ་རྗེ་སྡེ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྡོ་རྗེ་གཞུ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྡོ་རྗེའི་བདག་པོ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྡོ་རྗེ་རྒྱན་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One was dwelling in Aṭavika’s great city, where he was being praised by a multitude of devas, nāgas, yakṣas, rākṣasas, gandharvas, asuras, garuḍas kinnaras, and mahoragas as well as Māra, Yama, Sūrya, Candra, Aṅgāraka, Budha, Bṛhaspati, Śukra, Śani, Rāhu, Ketu, the twenty-eight nakṣatras, and so forth while seated on a lion throne graced with the ornaments of the great vajra samaya.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-5">
+    <prop type="location-id">UT22084-091-057-65</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་རྡོ་རྗེ་འོད་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འཕགས་པ་སྤྱན་རས་གཟིགས་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཀུན་དུ་གཟིགས་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འཇིག་རྟེན་དཔལ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་པདྨའི་ཏོག་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཞལ་རས་རྒྱས་པ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་པདྨའི་སྙིང་པོ་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་པདྨའི་སྤྱན་དང་། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་འཇམ་དཔལ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-057-65"/>He was accompanied by a multitude of bodhisattvas and surrounded by many hundreds of members of the saṅgha of bodhisattvas, such as the bodhisattva great being Vajrapāṇi, the bodhisattva great being Vajracaṇḍa, the bodhisattva great being Vajrasena, the bodhisattva great being Vajra Bow, the bodhisattva great being Vajra Master, the bodhisattva great being Vajra Ornament, the bodhisattva great being Vajra Light, the bodhisattva great being Noble Avalokiteśvara, the bodhisattva great being Samantadarśin, the bodhisattva great being Lokaśrī, the bodhisattva great being Lotus Flag, the bodhisattva great being Broad Face, the bodhisattva great being Padmagarbha, the bodhisattva great being Lotus Eyes, the bodhisattva great being Mañjuśrī, the bodhisattva great being Maitreya, and more.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-6">
+    <prop type="location-id">UT22084-091-057-66</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བྱམས་པ་ལ་སོགས་པའི་བྱང་ཆུབ་སེམས་དཔའི་དགེ་འདུན་བརྒྱ་ཕྲག་དུ་མ་རྣམས་ཀྱིས་ཡོངས་སུ་བསྐོར་ཞིང་མདུན་དུ་བདར་ལ་ཆོས་སྟོན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-057-66"/>He sat before them teaching the Dharma.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-7">
+    <prop type="location-id">UT22084-091-057-66</prop>
+    <tuv xml:lang="bo">
+                <seg>བཀོད་པ་ཆེན་པོའི་རྒྱན་ཡིད་བཞིན་གྱི་ནོར་བུ་ཞེས་བྱ་བ། ཐོག་མར་དགེ་བ། བར་དུ་དགེ་བ། ཐ་མར་དགེ་བ། དོན་བཟང་པོ། ཚིག་འབྲུ་བཟང་པོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He was delivering a Dharma teaching called “A Wish-Fulfilling Jewel Adorning the Great Array” that was good at the beginning, good in the middle, good at the end, excellent in meaning, beautiful in its expression, unadulterated, perfectly pure, and thoroughly erudite.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-8">
+    <prop type="location-id">UT22084-091-057-67</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་འདྲེས་པ། ཡོངས་སུ་དག་པ། ཡོངས་སུ་བྱང་བའི་ཆོས་སྟོན་པར་མཛད་དོ། །དེ་ནས་སངས་རྒྱས་ཀྱི་བྱིན་གྱིས་བརླབས་ཀྱིས་ལག་ན་རྡོ་རྗེས་འཁོར་དེ་རྣམས་ལ་བལྟས་ནས་ལངས་ཏེ། བདག་གི་རྫུ་འཕྲུལ་གྱི་བྱིན་གྱིས་བརླབས་ཀྱིས་བཅོམ་ལྡན་འདས་ལ་ལན་སྟོང་ཕྲག་དུ་མ་བསྐོར་བ་བྱས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-057-67"/>Then, through the power of the Buddha, Vajrapāṇi rose from his seat in the assembly, and, through his own magical power, circled the Blessed One many thousands of times, bowed, and sat before him.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-9">
+    <prop type="location-id">UT22084-091-057-67</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱག་འཚལ་ནས་སྤྱན་སྔར་འདུག་སྟེ། སྙེམས་པ་དང་བཅས་པས་སྐྱིལ་མོ་ཀྲུང་ལེགས་པར་བཅས་པས་འཁོར་དེ་རྣམས་ལ་བལྟས་ཏེ། རྡོ་རྗེ་ཐལ་མོ་རང་གི་སྙིང་གར་སྦྱར་ནས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With pride, he sat in a perfect cross-legged position gazing at the assembly with his vajra palms placed together at his heart, and addressed the Blessed One.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-10">
+    <prop type="location-id">UT22084-091-057-68</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་<tei:ref folio="F.181.b"/>ལྡན་འདས་གཟའ་རྣམས་ནི་གཏུམ་ཞིང་གཏུམ་པའི་གཟུགས་ཅན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-057-68"/>“Blessed One the grahas are vicious and have a vicious nature.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-11">
+    <prop type="location-id">UT22084-091-057-68</prop>
+    <tuv xml:lang="bo">
+                <seg>དྲག་ཅིང་དྲག་པའི་གཟུགས་ཅན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are fierce and have a fierce nature.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-12">
+    <prop type="location-id">UT22084-091-057-68</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྲོ་ཞིང་ཁྲོ་བའི་སེམས་ཀྱི་སེམས་ཅན་རྣམས་ལ་རྣམ་པར་འཚེ་ཞིང་གནོད་པར་བགྱིད་ལ་མདངས་འཕྲོག་པར་བགྱིད་དེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are wrathful, and, because of their wrathful intention, they hurt, harm, and steal the life force of beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-13">
+    <prop type="location-id">UT22084-091-057-68</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁ་ཅིག་ནི་ནོར་རྫས་འཕྲོག་པར་བགྱིད། ཁ་ཅིག་ནི་སྲོག་འཕྲོག་པར་བགྱིད། སེམས་ཅན་ཚེ་རིང་པོ་ཁ་ཅིག་ནི་ཚེ་ཐུང་བར་བགྱིད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Some take wealth, some take life, and some shorten the length of a being’s lifespan.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-14">
+    <prop type="location-id">UT22084-091-057-68</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་སེམས་ཅན་རྣམས་ལ་གནོད་པས་འཚེ་བར་བགྱིད་པས་ན། དེའི་ཕྱིར་བཅོམ་ལྡན་འདས་ཀྱིས་ཆོས་ཀྱི་རྣམ་གྲངས་གང་གིས་སེམས་ཅན་རྣམས་ལ་བསྲུང་བར་འགྱུར་བ་བཤད་དུ་གསོལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Will the Blessed One please teach a Dharma discourse that will protect beings from these beings who are harmful and bring misfortune?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-15">
+    <prop type="location-id">UT22084-091-057-69</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། ལག་ན་རྡོ་རྗེ་གང་ཁྱོད་ཀྱིས་སེམས་ཅན་རྣམས་ལ་ཕན་པར་བྱ་བའི་དོན་དུ་སྙིང་རྗེ་བསྐྱེད་ནས། གསང་བ་ཆེན་པོ་ཤིན་དུ་གསང་བ་དེ་བཞིན་གཤེགས་པ་ལ་ཞུ་བར་བྱེད་པ་ལེགས་སོ་ལེགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-057-69"/>“Well done, Vajrapāṇi,” the Blessed One replied, “it is good that the compassion you have generated for being of benefit to beings has led you to ask the Thus-Gone One about the most secret of secret teachings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-16">
+    <prop type="location-id">UT22084-091-057-69</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དག་ངས་བཤད་ཀྱིས་ཉོན་ལ་ལེགས་པར་རབ་ཏུ་ཟུངས་ལ་ཡིད་ལ་གྱིས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Please listen, pay attention, and focus as I explain them.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-17">
+    <prop type="location-id">UT22084-091-057-69</prop>
+    <tuv xml:lang="bo">
+                <seg>གཟའ་རྣམས་གཏུམ་པའི་གཟུགས་ལ་ཤིན་ཏུ་ཁྲོ་ཞིང་འཇིགས་པ་རྣམས་ལ་མཆོད་པ་བཟང་པོ་མཆོད་ཡོན་དང་བཟླས་བརྗོད་བཟང་པོ་གསང་བ་ལས་ཆེས་གསང་བ་ངས་བཤད་པར་བྱའོ། །དེ་དག་མཆོད་པས་མཆོད་འགྱུར་ཞིང་། །གནོད་པ་བྱས་ན་གནོད་བྱེད་པ། །གཟའ་དེ་ཀུན་གྱི་ཁ་དོག་དང་། །ཇི་ལྟར་དགའ་བར་འགྱུར་བ་དང་། །ལྷ་རྣམས་དང་ནི་ལྷ་མིན་དང་། །མིའམ་ཅི་དང་ཀླུ་དག་དང་། །གནོད་སྦྱིན་རྣམས་དང་སྲིན་པོ་དང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I will explain the most secret of secret excellent offerings and the excellent recitation for incanting offering water for the grahas who have a vicious nature and are so very wrathful and terrifying.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-18">
+    <prop type="location-id">UT22084-091-057-70</prop>
+    <tuv xml:lang="bo">
+                <seg>སྲུལ་པོ་དང་ནི་མི་རྣམས་དང་། །དྲག་པོ་གཟི་བརྗིད་ཆེན་པོ་དག །ཁྲོས་པ་ཞི་བར་བྱེད་པ་ཡི། །གསང་སྔགས་རྣམས་དང་མཆོད་པ་དག །རིམ་པ་བཞིན་དུ་བཤད་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-057-70"/>“I will give a systematic explanation Of worshiping them with the offering rite, Identifying the perpetrator when harm has occurred, The colors of the celestial grahas,<tei:milestone xml:id="UT22084-091-057-72"/> “How they can be appeased, And the offerings and mantras That will pacify wrathful Devas, asuras,<tei:milestone xml:id="UT22084-091-057-201"/> “Kinnaras, nāgas, Yakṣas, rākṣasas, Pūtanas, and humans Brimming with fierce, fiery energy.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-19">
+    <prop type="location-id">UT22084-091-057-73</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཤཱཀྱ་ཐུབ་པ་ཉིད་ཀྱི་ཐུགས་ཀ་ནས་སྙིང་རྗེ་རྣམ་པར་རོལ་པ་ཞེས་བྱ་བའི་འོད་ཟེར་འབར་བ་ཕྱུང་ནས། གཟའ་རྣམས་ཀྱི་སྤྱི་བོར་ཞུགས་པར་གྱུར་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-057-73"/>A radiant light referred to as “the manifestation of compassion” blazed forth from blessed Śākyamuni’s heart and entered the crowns of the grahas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-20">
+    <prop type="location-id">UT22084-091-057-74</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་དེ་ཉིད་ཀྱི་སྐད་ཅིག་ཉིད་ལ་ཉི་མ་ལ་སོགས་པའི་གཟའ་རྣམས་ལངས་ནས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཀྱིས་བདག་ཅག་<tei:ref folio="F.182.a"/>རྣམས་ལ་སྨན་ཡོན་བཏགས་པར་གྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>At that very instant, Sūrya and the rest of the celestial grahas got up and addressed the Blessed One: <tei:milestone xml:id="UT22084-091-057-74"/>“The blessed, thus gone, worthy, perfect Buddha has shown us hospitality.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-21">
+    <prop type="location-id">UT22084-091-057-74</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་ཆོས་ཀྱི་རྣམ་གྲངས་བསྟན་དུ་གསོལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Please teach the Dharma discourse, Blessed One.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-22">
+    <prop type="location-id">UT22084-091-057-74</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་གང་གིས་བདག་ཅག་རྣམས་འཚོགས་ནས་ཡོ་བྱད་དུ་གྱུར་པར་བྱེད་པའི་ཆོས་སྨྲ་བ་རྣམས་ལ་བསྲུང་བ་དང་། ཡོངས་སུ་བསྐྱབ་པ་དང་། ཞི་བ་དང་། བདེ་ལེགས་སུ་འགྱུར་བ་དང་རིམ་གྲོ་དང་ཆད་པ་བཟློག་པ་དང་། མཚོན་ཆ་སྤང་བ་དང་། དུག་གཞིལ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Will the Blessed One, who has gathered us here, please teach the dharma reciters who act in your service about guarding and protecting themselves, bringing peace and happiness, healing, dispelling punishment, eliminating weapons, neutralizing poison, nullifying poison, establishing a protective boundary, and binding the ground.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-23">
+    <prop type="location-id">UT22084-091-057-75</prop>
+    <tuv xml:lang="bo">
+                <seg>དུག་གསད་པ་དང་། མཚམས་བཅད་པ་དང་། ས་བཅིང་བར་འགྱུར་བ་རྣམས་བཤད་དུ་གསོལ། དེ་ནས་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཤཱཀྱ་ཐུབ་པས་གཟའ་རྣམས་ཀྱི་མཆོད་པ་དང་གསང་སྔགས་བཀའ་སྩལ་པ། ཇི་ལྟ་བའི་རིམ་པའི་ཁ་དོག་གི་དབྱེ་བས་ཕྱོགས་རྣམས་སུ་དྲིའི་དཀྱིལ་འཁོར་བྱས་ལ་པདྨ་སོར་བཅུ་གཉིས་ཀྱི་ཚད་དུ་བྱས་པའི་འདབ་མ་བྲིས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-057-75"/>And so, the blessed, thus-gone, worthy, perfect Buddha Śākyamuni taught the offering rites and mantras of the celestial grahas:<tei:milestone xml:id="UT22084-091-057-76"/> “One should make a maṇḍala circle in which the directions are illustrated using the particular color that is appropriate for each one.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-24">
+    <prop type="location-id">UT22084-091-057-75</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྟེ་བ་ཡང་སོར་བཅུ་གཉིས་པ་ལ་སྒོ་བཞིས་མཛེས་པ་རིམ་བཞིན་དུ་བྱས་པ་ལ་པདྨ་རྒྱས་པའི་སྟེང་དུ་ལྷ་ཉི་མ་བསམ་པར་བྱ་བ་ནི་ལུས་གཟི་བརྗིད་ཀྱི་ཕུང་པོ་ལི་ཁྲི་ཉེ་བར་འབར་བ་ལྟ་བུ་ཉི་མ་སྟོང་དང་མཚུངས་པའི་འོད་ཟེར་ཅན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then, one should draw a lotus on it with petals that are twelve fingers long and a center that is twelve fingers in diameter and decorate the maṇḍala with four gates following the proper procedure—oṁ maigholkāya svāhā. One should imagine Sūrya on top of the blooming lotus. His body is like a blazing orange mass of fiery energy and his radiant light is equal to a thousand suns.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-25">
+    <prop type="location-id">UT22084-091-057-75</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་མཻ་གྷོ་ལྐཱ་ཡ་སྭཱ་ཧཱ། ཤར་དུ་ཟླ་བ་དཀར་པོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Candra is white and in the east—oṁ śitāṃśave svāhā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-26">
+    <prop type="location-id">UT22084-091-057-75</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོྃ་ཤི་ཏཱྃ་ཤ་བེ་སྭཱ་ཧཱ། མེའི་མཚམས་སུ་མིག་དམར་པོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Aṅgāraka is red and in the southeast—oṁ raktāṅga­kumārāya svāhā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-27">
+    <prop type="location-id">UT22084-091-057-75</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་རཀྟཱྃ་ག་ཀུ་མཱ་རཱ་ཡ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The kṣatriya Budha is yellow and in the south—oṁ budhāya svāhā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-28">
+    <prop type="location-id">UT22084-091-057-75</prop>
+    <tuv xml:lang="bo">
+                <seg>གཤིན་རྗེའི་ཕྱོགས་སུ་རྒྱལ་རིགས་གཟའ་ལྷག་མདོག་སེར་པོ། ཨོྃ་བུདྷཱ་ཡ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Aṅgiras is orange and in the southwest—oṁ bṛhaspataye svāhā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-29">
+    <prop type="location-id">UT22084-091-057-75</prop>
+    <tuv xml:lang="bo">
+                <seg>བདེན་བྲལ་དུ་ཕུར་བུ་དམར་སེར། ཨོཾ་པྲྀ་ཧ་སྤ་ཏ་ཡེ་སྭཱ་ཧཱ། ནུབ་ཀྱི་ཕྱོགས་སུ་པ་བ་སངས་དཀར་པོ། ཨོཾ་ཨ་སུ་རོཏྟ་མཱ་ཡ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Śukra is white and in the west—oṁ asurottamāya svāhā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-30">
+    <prop type="location-id">UT22084-091-057-75</prop>
+    <tuv xml:lang="bo">
+                <seg>རླུང་དུ་སྤེན་པ་མིག་སྨན་ལྟར་ཤིན་ཏུ་གནག་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Śani is as black as collyrium and in the northwest—oṁ kṛṣṇa­varṇāya svāhā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-31">
+    <prop type="location-id">UT22084-091-057-75</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་ཀྲྀཥྞ་ཝརྞྞ་ཡ་སྭཱ་ཧཱ། ལུས་ངན་པོའི་ཕྱོགས་སུ་སྒྲ་གཅན་དམར་ནག །ཨོཾ་ཨ་མྲྀ་ཏ་པྲི་ཡཱ་ཡ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Rāhu is dark red and in the north—oṁ amṛta­priyāya svāhā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-32">
+    <prop type="location-id">UT22084-091-057-75</prop>
+    <tuv xml:lang="bo">
+                <seg>དབང་ལྡན་གྱི་མཚམས་སུ་དུད་སྤྲིན་གྱི་མདོག་ལྟ་བུའི་མཇུག་རེངས། ཨོཾ་ཛྱོ་ཏི་ཀེ་ཏ་བེ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Ketu is the color of a cloud of smoke and in the northeast—oṁ jyotiketave svāhā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-33">
+    <prop type="location-id">UT22084-091-057-77</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤར་གྱི་སྒོར་རྗེ་བཙུན་སངས་རྒྱས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-057-77"/>“The venerable Buddha is at the eastern gate.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-34">
+    <prop type="location-id">UT22084-091-057-77</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷོ་སྒོར་ཕྱག་ན་རྡོ་རྗེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Vajrapāṇi is at the southern gate.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-35">
+    <prop type="location-id">UT22084-091-057-77</prop>
+    <tuv xml:lang="bo">
+                <seg>ནུབ་སྒོར་འཇིག་རྟེན་མགོན་པོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Lokanātha is at the western gate.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-36">
+    <prop type="location-id">UT22084-091-057-77</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་གི་སྒོར་འཇམ་དཔལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Manjuśrī is at the northern gate.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-37">
+    <prop type="location-id">UT22084-091-057-78</prop>
+    <tuv xml:lang="bo">
+                <seg>དཀྱིལ་འཁོར་གྱི་ཕྱི་རོལ་གྱི་བྱང་ཤར་དུ་གཟའ་ཐམས་ཅད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-057-78"/>“For the outer maṇḍala, all the celestial grahas should be depicted in the northeast.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-38">
+    <prop type="location-id">UT22084-091-057-78</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤར་ལྷོའི་<tei:ref folio="F.182.b"/>མཚམས་སུ་ཁྱིམ་རྣམས་དང་རྒྱུ་སྐར་རྣམས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The lunar mansions and the nakṣatras are in the southeast.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-39">
+    <prop type="location-id">UT22084-091-057-78</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷོ་ནུབ་དུ་གནོད་པ་ཐམས་ཅད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The upadravas are in the southwest.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-40">
+    <prop type="location-id">UT22084-091-057-78</prop>
+    <tuv xml:lang="bo">
+                <seg>ནུབ་བྱང་དུ་རྗེ་བཙུན་རིགས་པ་ཆེན་མོའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Venerable Mahāvidyā is in the northwest.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-41">
+    <prop type="location-id">UT22084-091-057-78</prop>
+    <tuv xml:lang="bo">
+                <seg>དཀྱིལ་འཁོར་གྱི་སྒོའི་ཕྱི་རོལ་གྱི་ཤར་དུ་ཡུལ་འཁོར་སྲུང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Dhṛtarāṣṭra is in the east at the outer maṇḍala gate.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-42">
+    <prop type="location-id">UT22084-091-057-78</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷོར་འཕགས་སྐྱེས་པོ། ནུབ་ཏུ་མིག་མི་བཟང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Virūḍhaka is in the south.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-43">
+    <prop type="location-id">UT22084-091-057-78</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་དུ་ལུས་ངན་པོའོ། ཉི་མའི་འོ་ཐུག་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Virūpākṣa is in the west.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-44">
+    <prop type="location-id">UT22084-091-057-78</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟླ་བའི་ཞོ་ཟན་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Kubera is in the north.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-45">
+    <prop type="location-id">UT22084-091-057-80</prop>
+    <tuv xml:lang="bo">
+                <seg>མིག་དམར་གྱི་སྲན་མ་མ་ཤའི་བཟའ་བ་དང་། ལྷག་པའི་མར་གྱི་ཁུར་བ་དང་། ཕུར་བུའི་འོ་མ་དང་། པ་བ་སངས་ཀྱི་ཁུར་བ་དང་། སྤེན་པའི་སྲན་མ་མ་ཤ་དང་། མུད་ག་བསྲེས་པ་དང་། སྒྲ་གཅན་གྱི་ཏིལ་གྱི་ཐུག་པ་དང་། མཇུག་རིངས་ཀྱི་ཏིལ་ཀྱི་ཐུག་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-057-80"/>“There should be kheer for Sūrya, yogurt for Candra, a meal of chickpeas and maṣa beans for Aṅgāraka, ghee for Budha, milk for Bṛhaspati, cake for Śukra, a mixture of chickpeas, maṣa, and mung beans for Śani, sesame kheer for Rāhu, and a soup of sesame kheer and molasses for Ketu.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-46">
+    <prop type="location-id">UT22084-091-057-81</prop>
+    <tuv xml:lang="bo">
+                <seg>བུ་རམ་གྱི་ཚོད་མའོ། །གནོད་སྦྱིན་གྱི་གཏོར་མ་ནི་ཡུལ་འཁོར་སྲུང་གི་ཞོ་ཟན་ནོ། །འཕགས་སྐྱེས་པོའི་ཞོ་དང་སྲན་མ་མ་ཤའི་བཟའ་བའོ། །མིག་མི་བཟང་གི་འོ་ཐུག་གི་བཟའ་བའོ། །ལུས་ངན་པོའི་ཞོ་དང་སྲན་མ་མ་ཤའི་བཟའ་བ་དང་བུ་རམ་ཆང་དང་སྦྱར་བའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-057-81"/>“The bali offering for the yakṣas consists of yogurt for Dṛtarāṣṭra, a dish prepared with yogurt, chickpeas, and maṣa beans for Virūpakṣa, rice pudding for Virūḍhaka, a meal of kheer for Virūpākṣa, and a meal of yogurt, chickpeas, and maṣa beans combined with alcohol and molasses for Kubera.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-47">
+    <prop type="location-id">UT22084-091-057-82</prop>
+    <tuv xml:lang="bo">
+                <seg>ཇི་ལྟ་བའི་རིམ་པའི་ཁ་དོག་གི་མེ་ཏོག་དབུལ་ལོ། །ཇི་ལྟ་བའི་རིམ་པའི་ཁ་དོག་གི་བདུག་སྤོས་དབུལ་ལོ། །ཇི་ལྟ་བའི་རིམ་པའི་ཁ་དོག་གི་བ་དན་དབུལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-057-82"/>“They should be given the correct type of flowers, the correct type of incense, and the correct type of banner.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-48">
+    <prop type="location-id">UT22084-091-057-82</prop>
+    <tuv xml:lang="bo">
+                <seg>སོ་སོ་ལ་མར་མེ་དབུལ་ལོ། །ཇི་ལྟ་བའི་རིམ་པའི་མཆོད་པ་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then, one should present a lamp to each one and perform the appropriate offering.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-49">
+    <prop type="location-id">UT22084-091-057-83</prop>
+    <tuv xml:lang="bo">
+                <seg>མར་དང་སྦྲང་རྩིས་དུང་ཕོར་བཀང་སྟེ། རིན་ཆེན་སྣ་ལྔ་བཅུག་ལ་མཆོད་ཡོན་དབུལ་ཞིང་གདོང་ལ་ཡང་དར་བཅིང་བར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-057-83"/>“One should fill a conch shell with butter and honey, set out the five precious substances and present the offering water, and tie a silk cloth around the mouth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-50">
+    <prop type="location-id">UT22084-091-057-85</prop>
+    <tuv xml:lang="bo">
+                <seg>ལག་ན་རྡོ་རྗེ་གཟའ་འདི་རྣམས་ཀྱི་སྙིང་པོའི་སྔགས་བཀླགས་པས་འགྲུབ་པ་རྣམས་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-057-85"/>“Vajrapāṇi, the following things should be done while reciting the celestial grahas’ heart mantra.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-51">
+    <prop type="location-id">UT22084-091-057-85</prop>
+    <tuv xml:lang="bo">
+                <seg>ཇི་ལྟ་བའི་རིམ་པའི་ཁ་དོག་དང་མཐུན་པའི་སྤོས་ཀྱི་དཀྱིལ་འཁོར་སོར་བཅུ་གཉིས་པ་བྱས་པའི་དབུས་སུ་མཆོད་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One should perform the offering in the middle of a maṇḍala that is twelve fingers in diameter and in which the appropriate type of incense is burning.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-52">
+    <prop type="location-id">UT22084-091-057-85</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁམ་པའམ་ཟངས་ལ་སོགས་པའམ། གསེར་དངུལ་གྱི་སྣོད་དུ་མཆོད་ཡོན་ཕུལ་ནས། རེ་རེ་ལ་ཡང་བཟླས་བརྗོད་ལན་བརྒྱ་རྩ་བརྒྱད་རྩ་བརྒྱད་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Present the water offering in vessels made of silver and gold or of clay, copper, and so forth, and incant each one of them with the mantra one hundred and eight times.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-53">
+    <prop type="location-id">UT22084-091-057-87</prop>
+    <tuv xml:lang="bo">
+                <seg>ལག་ན་རྡོ་རྗེ་དེ་ནས་ཡང་དེའི་འོག་ཏུ་གཟའ་རྣམས་ཀྱི་ཡུམ་ཞེས་བྱ་བའི་གཟུངས་ཀྱི་སྔགས་ཀྱི་ཚིག་རྣམས་ལན་བདུན་བརྗོད་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-057-87"/>“After that, Vajrapāṇi, one should recite the mantra verses of The Dhāraṇī “The Mother of the Grahas” seven times.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-54">
+    <prop type="location-id">UT22084-091-057-87</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་གཟའ་ཉི་མ་ལ་སོགས་པའི་གཟའ་ཐམས་ཅད་ཀྱིས་སྲུང་བར་བྱེད་པར་འགྱུར་རོ། །དབུལ་བའི་གདོན་ལས་གྲོལ་བར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>All the celestial grahas beginning with Sūrya and so forth will offer their protection and one will be free from the grahas who cause poverty.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-55">
+    <prop type="location-id">UT22084-091-057-87</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚེ་ཟད་པ་རྣམས་ཚེ་རིང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Those whose lifespan has been shortened will have a long life.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-56">
+    <prop type="location-id">UT22084-091-057-88</prop>
+    <tuv xml:lang="bo">
+                <seg>ལག་ན་རྡོ་རྗེ་ཡང་གང་ཞིག་དགེ་<tei:ref folio="F.183.a"/>སློང་དང་། དགེ་སློང་མ་དང་། དགེ་བསྙེན་དང་། དགེ་བསྙེན་མ་རྣམས་སམ། སེམས་ཅན་གཞན་སེམས་ཅན་གྱི་སྐྱེ་བར་གཏོགས་པ་གང་དག་གི་རྣ་ལམ་དུ་ཐོས་ན། དེ་དག་ཀྱང་དུས་མ་ཡིན་པར་འཆི་བའི་དུས་བྱེད་པར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-057-88"/>“Vajrapāṇi, any monk, nun, male lay practitioner, female lay practitioner, or any other being known to take birth in the realm of beings who hears it will not suffer an unnatural death.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-57">
+    <prop type="location-id">UT22084-091-057-88</prop>
+    <tuv xml:lang="bo">
+                <seg>ལག་ན་རྡོ་རྗེ་ཡང་གང་ཞིག་གཟའ་རྣམས་ཀྱི་དཀྱིལ་འཁོར་གྱི་དབུས་སུ་མཆོད་ཅིང་། ཉིན་གཅིག་བཞིན་དུ་ཀློག་པར་བྱེད་པའི་ཆོས་སྨྲ་བར་བྱེད་པ་དེ་ལ་གཟའ་རྣམས་ཐམས་ཅད་ཀྱིས་རྣམ་པ་ཐམས་ཅད་དུ་བདག་ཉིད་ཀྱིས་བསམ་པ་ཐམས་ཅད་ཡོངས་སུ་རྫོགས་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Vajrapāṇi, all the celestial grahas will fulfill everything that might be wished for in every way by the Dharma reciter who makes offerings in the center of the celestial grahas’ maṇḍala and recites this dhāraṇī every day.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-58">
+    <prop type="location-id">UT22084-091-057-88</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་རིགས་རྒྱུད་ཀྱི་དབུལ་བ་ཡང་ཉམས་པར་བྱེད་དོ། །དེ་ནས་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་ཤཱཀྱ་ཐུབ་པས་གཟའ་རྣམས་ཀྱི་ཡུམ་ཞེས་བྱ་བའི་གཟུངས་བཀའ་སྩལ་པ། ན་མོ་བུདྡྷཱ་ཡ། ན་མོ་བཛྲ་དྷ་རཱ་ཡ། ན་མོ་པདྨ་དྷ་རཱ་ཡ། ན་མོ་ཀུ་མཱ་རཱ་ཡ། ན་མོ་གྲ་ཧཱ་ཎཱཾ། སརྦཱ་ཤ་པ་རི་པཱུ་ར་ཀཱ་ནཱྃ། ན་མོ་ན་ཀྵ་ཏྲཱ་ཎཱྃ། ན་མོ་དྭཱ་ད་ཤ་རཱ་ཤི་ནཱྃ། ཏདྱ་ཐཱ། ཨོྃ་བུདྡྷེ་བུདྡྷེ། བཛྲེ་བཛྲེ། པདྨེ་པདྨེ། ས་ར་ས་ར། པྲ་ས་ར་པྲ་ས་ར། སྨ་ར་སྨ་ར། ཀྲཱི་ཌ་ཡ་ཀྲཱི་ཌ་ཡ། མཱ་ར་ཡ་མཱ་ར་ཡ། མཱརྡྷ་ཡ་མཱརྡྷ་ཡ། གྷཱ་ཊ་ཡ་གྷཱ་ཊ་ཡ། སརྦ་བིགྷྣཱྃ། ཀུ་རུ་ཀུ་རུ། མ་མ་ཀཱརྱཱཾ། ཙྪིནྡྷ་ཙྪིནྡྷ། སརྦ་དུཥྚཱཾ། ཀྵཱ་པ་ཡ་ཀྵཱ་པ་ཡ། ཤཱནྟེ་ཤཱནྟེ། དཱནྟེ་དཱནྟེ། དཱ་མ་ཡ་དཱ་མ་ཡ་སྭཱ་ཧཱ། དྲུ་ཏཱན་དརྴ་ཡ། ཨཱཏྨ་ནཾ། རཀྵ་རཀྵ་མཱྃ། སརྦ་སཏྭཱཾཤྩ། སརྦ་གྲ་ཧཱ་ན་ཀྵ་ཏྲ། བི་དྷྭཾ་ས་ནི་བརྟྟ་ཡ། བྷ་ག་བ་ཏི་མ་ཧཱ་མཱ་ཡེ། པྲ་སཱ་ད་ཡ། སརྦ་དུཥྚཾ། ཤོ་དྷ་ཡ་སརྦ་པཱ་པྃ་ཙཎྜེ་ཙཎྜེ། ཏུ་རུ་ཏུ་རུ། ཙཎྜེ་ནི་ཙཎྜེ་ནི། མུ་ཡུ་མུ་ཡུ། མུ་ཙུ་མུ་ཙུ། བ་ཧ་བ་ཧ། ཨུ་གྲེ་ཨུ་གྲ་ཏ་མེ། པཱུ་ར་ཡ་མེ། མ་ནོར་ཐཾ་པ་རི་པཱུ་ར་ཡ། སརྦ་ཏ་ཐཱ་ག་ཏ། ཨ་དྷིཥྛི་ཏེ་ས་མ་ཡེ་སྭཱ་ཧཱ། ཨོཾ་སྭཱ་ཧཱ། ཧཱུྃ་སྭཱ་ཧཱ། ཧྲྀ་སྭཱ་ཧཱ། དྷྲུྃ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The impoverished state of their family lineage will be brought to an end.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-59">
+    <prop type="location-id">UT22084-091-057-89</prop>
+    <tuv xml:lang="bo">
+                <seg>དྷྲིཾ་སྭཱ་ཧཱ། པདྨ་དྷ་རཱ་ཡ་སྭཱ་ཧཱ། ཨཱ་དི་ཏྱཱ་ཡ་སྭཱ་ཧཱ། སཽ་མཱ་ཡ་སྭཱ་ཧཱ། དྷཱ་ར་ཎཱི་སུ་ཏཱ་ཡ་སྭཱ་ཧཱ། བུ་དྷཱ་ཡ་སྭཱ་ཧཱ། པྲྀ་ཧསྤ་ཏ་ཡེ་སྭཱ་ཧཱ། ཤུ་ཀྲཱ་ཡ་སྭཱ་ཧཱ། ཀྲྀཥྞ་ཝརྞྞཱ་ཡ་སྭཱ་ཧཱ། རཱ་ཧ་བེ་སྭཱ་ཧཱ། ཀེ་ཏ་བེ་སྭཱ་ཧཱ། བུརྡྷཱཡ་སྭཱ་ཧཱ། བཛྲ་དྷ་རཱ་ཡ་སྭཱ་ཧཱ། པདྨ་དྷ་རཱ་ཡ་སྭཱ་ཧཱ། ཀུ་མཱ་རཱ་ཡ་སྭཱ་ཧཱ། སརྦ་གྲ་ཧེ་བྷྱཿསྭཱ་ཧཱ། སརྦ་ནཀྵ་ཏྲེ་བྷྱཿསྭཱ་ཧཱ། སརྦ་དཱ་ད་ཤ་རཱ་ཤི་ནི་བྷྱཿསྭཱ་ཧཱ། སརྦ་ཨུ་<tei:ref folio="F.183.b"/>པ་དྲ་བེ་བྷྱཿསྭཱ་ཧཱ། ཨོཾ་སརྦ་པིདྱེ་ཧཱུྃ་ཧཱུྃ་ཕཊ་ཕཊ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-057-89"/>Then, the blessed Thus-Gone One Śākyamuni recited The Dhāraṇī “The Mother of the Grahas”: <tei:milestone xml:id="UT22084-091-057-90"/>namo buddhāya namo vajradharāya namo padma­dharāya namo kumārāya namo grahānāṃ sarvāśa­pari­pūrakānāṃ namo nakṣatrāṇāṃ namo dvādaśa­rāśinām |<tei:milestone xml:id="UT22084-091-057-91"/> tadyathā | oṁ buddhe buddhe vajre vajre padme padme sara sara prasara prasara smara smara krīḍaya krīḍaya māraya māraya mārdhaya mārdhaya ghāṭaya ghāṭaya sarva­vighnān kuru kuru mama kāryāṃ cchindha cchindha sarva­duṣṭān kṣāpaya kṣāpaya śānte śānte dānte dānte dāmaya dāmaya svāhā |<tei:milestone xml:id="UT22084-091-057-92"/> drutam ādarśaya ātmanaṃ rakṣa rakṣa māṃ sarvasattvāṃś ca sarva­grahāna­kṣatravi­dhvaṃsaṃ nivartaya bhagavati mahāmāye prasādaya sarva­duṣṭaṃ śodhaya sarvapāpaṃ caṇḍe caṇḍe turu turu caṇḍeni caṇḍeni muyu muyu mucu mucu vaha vaha ugre ugrata me pūraya me manoratham pari­pūraya sarva­tathāgatādhiṣṭhite samaye svāhā |<tei:milestone xml:id="UT22084-091-057-95"/> oṁ svāhā | hūṁ svāhā | hṛ svāhā | dhruṁ svāhā | dhriṁ svāhā |<tei:milestone xml:id="UT22084-091-057-96"/> padma­dharāya svāhā | adityāya svāhā | saumāya svāhā | dhāraṇī­sutāya svāhā | budhāya svāhā | bṛhaspataya svāhā | śukrāya svāhā | kṛṣṇavarṇāya svāhā | rāhave svāhā | ketave svāhā | buddhāya svāhā | vajradharāya svāhā | padmadharāya svāhā | kumārāya svāhā | sarva­grahebhyaḥ svāhā | sarva­nakṣatrebhyaḥ svāhā | sarva­dvādaśa­rāśinibhyaḥ svāhā sarvopdravebhyaḥ svāhā | oṁ sarvavidye hūṁ hūṁ phaṭ phaṭ svāhā |<tei:milestone xml:id="UT22084-091-057-97"/> “Vajrapāṇi, the recitation of these mantra verses of The Dhāraṇī “The Mother of the Grahas” should begin on the seventh day during the waxing moon in the autumnal month of Kārtika.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-60">
+    <prop type="location-id">UT22084-091-057-89</prop>
+    <tuv xml:lang="bo">
+                <seg>ལག་ན་རྡོ་རྗེ་གཟའ་རྣམས་ཀྱི་ཡུམ་ཞེས་བྱ་བའི་གཟུངས་ཀྱི་སྔགས་ཀྱི་ཚིག་འདི་དག་སྟོན་ཟླ་ཐ་ཆུངས་སྨིན་དྲུག་གི་ཟླ་བའི་ཡར་ངོའི་ཚེས་བདུན་ནས་བརྩམས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One should take temporary vows, perform the offering rite, and recite the dhāraṇī every day until the fourteenth day of the month.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-61">
+    <prop type="location-id">UT22084-091-057-89</prop>
+    <tuv xml:lang="bo">
+                <seg>གསོ་སྦྱོང་བླངས་ནས་ཚེས་བཅུ་བཞིའི་བར་དུ་ཉིན་གཅིག་བཞིན་དུ་མཆོད་ཅིང་བརྗོད་པར་བྱས་ནས་དེ་ནས་ཉ་ལ་ཉིན་མཚན་ཐོག་ཐག་བཀླགས་ན་དེ་ལ་ལོ་དགུ་བཅུ་རྩ་དགུའི་བར་དུ་འཆི་བའི་འཇིགས་པ་འབྱུང་བར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one recites it day and night during the full moon, one will not have to fear death for ninety-nine years.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-62">
+    <prop type="location-id">UT22084-091-057-89</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐར་མདའ་ལྟུང་བ་དང་། གཟའ་དང་རྒྱུ་སྐར་གྱིས་གདུངས་པའི་འཇིགས་པ་འབྱུང་བར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One will not fear distress caused by meteors, grahas, and nakṣatras.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-63">
+    <prop type="location-id">UT22084-091-057-89</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐྱེ་བ་དྲན་པར་འགྱུར་རོ། །གཟའ་ཐམས་ཅད་ཀྱིས་མཆོད་པར་འགྱུར་རོ། །གཟའ་རྣམས་ཀྱིས་དེ་ལ་ཅི་འདོད་པའི་མཆོག་སྟེར་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One will remember one’s past lives, be worshipped by all the grahas, and the grahas will provide whatever one desires most.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-64">
+    <prop type="location-id">UT22084-091-057-98</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་གཟའ་དེ་རྣམས་ཀྱིས་བཅོམ་ལྡན་འདས་ལ་ལེགས་སོ་ཞེས་གསོལ་ནས་མི་སྣང་བར་གྱུར་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-057-98"/>After that, the celestial grahas voiced their approval in agreement with the Blessed One and disappeared.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-65">
+    <prop type="location-id">UT22084-091-057-99</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་མ་གཟའ་རྣམས་ཀྱི་ཡུམ་ཞེས་བྱ་བའི་གཟུངས་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-057-99"/>This concludes The Noble Dhāraṇī “The Mother of the Grahas.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-66">
+    <prop type="location-id">UT22084-091-057-100</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་བློན་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཀྱི་སྐུ་རིང་ལ་བསྒྱུར་བ་ལས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-057-100"/>This was translated during the lifetimes of the king, the minister, and the bodhisattva.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-057-TU-67">
+    <prop type="location-id">UT22084-091-057-100</prop>
+    <tuv xml:lang="bo">
+                <seg>དུས་ཕྱིས་དགེ་བསྙེན་གྲགས་པ་རྒྱལ་མཚན་གྱིས་དཔལ་ལྡན་ས་སྐྱའི་དབེན་གནས་སུ་རྒྱ་དཔེ་ལ་གཏུགས་ནས་ཤིན་ཏུ་དག་པར་བྱས་པའོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then, at a later date, the lay practitioner Drakpa Gyaltsen corrected it based on an Indian manuscript that was housed at the glorious hermitage of Sakya.</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

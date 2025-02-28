@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-088-029" eft:text-version="v-1.0.1-2023"/>
+<body>
+<tu id="UT22084-088-029-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg/>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-088-029-TU-2">
+    <prop type="location-id">UT22084-088-029-61</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.99.b"/>ཟླ་བའི་འོད་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་<tei:ref folio="F.100.a"/>པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-029-translation"/>Recollecting the Name of Moonlight<tei:milestone xml:id="UT22084-088-029-61"/> Homage to the thus-gone, worthy , fully and perfectly awakened Moonlight!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-029-TU-3">
+    <prop type="location-id">UT22084-088-029-95</prop>
+    <tuv xml:lang="bo">
+                <seg>ཏདྱ་ཐཱ། ཙནྡྲེ་ཙནྡྲེ། སུ་ཙནྡྲེ། མ་ཏི་ཙནྡྲ་ཙནྡྲ་ཀི་ར་ཎ། སི་རི་སི་རི། བུདྡྷཱ་ངྷིཥྛི་ཏེ། ཀི་ལི་ཀི་ལི། དྷརྨཱ་དྷིཥྛི་ཏེ། ཀི་ལི་ཀི་ལི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-029-95"/>tadyathā| candre candre| sucandre| mati­candra candra­kiraṇa| siri siri| buddhādhiṣṭhite| kili kili| dharmādhiṣṭhite| kili kili| saṃghādhiṣṭhite svāhā.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-029-TU-4">
+    <prop type="location-id">UT22084-088-029-64</prop>
+    <tuv xml:lang="bo">
+                <seg>སཾ་གྷཱ་དྷིཥྛི་ཏེ་སྭཱ་ཧཱ། རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་གིས་རྟག་ཏུ་ནང་པར་ལངས་ཏེ། ཟླ་བའི་འོད་དེ་བཞིན་གཤེགས་པའི་མཚན་དྲན་པར་བྱེད་པ་དེ་ནི་བསྐལ་པ་བཞི་ཁྲིར་ཚེ་རབས་དྲན་པར་འགྱུར་ཏེ། དེ་ནི་ངན་སོང་དུ་ལྟུང་བར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-029-64"/>A son or daughter of good family who, every morning after rising, recollects the name of the tathāgata Moonlight, will remember all their former lives during forty thousand kalpas and will not fall into the lower realms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-029-TU-5">
+    <prop type="location-id">UT22084-088-029-64</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟླ་བའི་འོད་ཀྱི་མཚན་རྗེས་སུ་དྲན་པས་ཡོན་ཏན་དེ་རྣམས་ཐོབ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>By recollecting Moonlight’s name, one will attain those attributes.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-029-TU-6">
+    <prop type="location-id">UT22084-088-029-65</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟླ་བའི་འོད་ཀྱི་མཚན་རྗེས་སུ་དྲན་པ་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-029-65"/>Recollecting the Name of Moonlight is complete.</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

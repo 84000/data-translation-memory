@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-096-010" eft:text-version="v-1.0.2-2023"/>
+<body>
+<tu id="UT22084-096-010-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.52.a"/>༄༅༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་ལོ་ཧ་ཏུཎྜ་ནཱ་མ་དྷཱ་ར་ཎཱི། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-2">
+    <prop type="location-id">UT22084-096-010-56</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ལྕགས་མཆུ་ཞེས་བྱ་བའི་གཟུངས། སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-096-010-translation"/>The Noble Dhāraṇī of the Iron Beak [1]<tei:milestone xml:id="UT22084-096-010-56"/> Homage to all buddhas and bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-3">
+    <prop type="location-id">UT22084-096-010-57</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-096-010-57"/>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-4">
+    <prop type="location-id">UT22084-096-010-57</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཡུལ་མ་ག་དྷཱ་ན་རྒྱུ་ཞིང་། ཨ་མྲའི་ཚལ་དུ་གཤེགས་ཏེ་བྱོན་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One was traveling through the land of Magadha when he arrived at a mango grove.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-5">
+    <prop type="location-id">UT22084-096-010-57</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨ་མྲའི་ཚལ་དུ་ལུས་འཕགས་རིའི་དབང་པོའི་བྲག་ཕུག་ན་བཞུགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>At that mango grove, he took up residence in the Indra’s Rock Cave on Vaidehaka Mountain.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-6">
+    <prop type="location-id">UT22084-096-010-57</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ལྷའི་དབང་པོ་བརྒྱ་བྱིན་གྱིས། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Śakra the lord of the devas then appeared before the Blessed One.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-7">
+    <prop type="location-id">UT22084-096-010-57</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ་ཕྱོགས་གཅིག་ཏུ་འདུག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He bowed his head at the Blessed One’s feet and sat to one side.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-8">
+    <prop type="location-id">UT22084-096-010-58</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱོགས་གཅིག་ཏུ་འདུག་ནས་ལྷའི་དབང་པོ་བརྒྱ་བྱིན་གྱིས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་ལྷ་མ་ཡིན་རྣམས་དང་། མི་རྣམས་ནི་བསྟན་པ་ལ་གནོད་པ་བགྱིད་པ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-096-010-58"/>Having sat to one side, Śakra the lord of the devas told the Blessed One, “Blessed One, there are asuras and humans who harm the Dharma.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-9">
+    <prop type="location-id">UT22084-096-010-58</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལྷ་མ་ཡིན་དང་། འཁོར་དུ་མི་གཏོགས་པའི་བསྟན་པ་ལ་ཡུན་རིང་བར་གནོད་པའི་ཕྱིར་རྒོལ་བའི་དགྲ་ལགས་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Blessed One, they are the asuras and other adversaries not included in the assembly who seek to bring the Dharma long-term harm.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-10">
+    <prop type="location-id">UT22084-096-010-58</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལ་བཅོམ་ལྡན་འདས་ཀྱིས་ཞི་བས་མི་འདུལ་ན་བདག་ལ་དྲག་པོས་འདུལ་བའི་ཆོས་བསྟན་དུ་གསོལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Since the Blessed One has not subdued them with peaceful means, I request a teaching on how to tame them with wrathful means.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-11">
+    <prop type="location-id">UT22084-096-010-58</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐེག་པའི་ཆོས་དགྲ་བསྲུང་དུ་གསོལ། དེ་སྐད་ཅེས་གསོལ་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Please allow me to protect the vehicle’s teachings against these enemies.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-12">
+    <prop type="location-id">UT22084-096-010-59</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་ལྷའི་དབང་པོ་བརྒྱ་བྱིན་ལ་འདི་སྐད་བཀའ་སྩལ་ཏོ། །ལྷའི་དབང་པོ་ཁྱོད་ཀྱིས་ཐམས་ཅད་ལ་མི་འཇིགས་པ་སྦྱིན་པའི་ལྕགས་མཆུའི་གཟུངས་མ་རུངས་པ་འཇོམས་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-096-010-59"/>The Blessed One told Śakra the lord of the devas, “Lord of devas, uphold the dhāraṇī of the iron beak which confers freedom from all dangers.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-13">
+    <prop type="location-id">UT22084-096-010-59</prop>
+    <tuv xml:lang="bo">
+                <seg>དོན་ཐམས་ཅད་བྱེད་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It vanquishes evildoers and accomplishes all aims.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-14">
+    <prop type="location-id">UT22084-096-010-59</prop>
+    <tuv xml:lang="bo">
+                <seg>དམ་པའི་ཆོས་སྲུང་བ། འཇིགས་པ་ཐམས་ཅད་རབ་ཏུ་ཞི་བར་བྱེད་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It protects the sacred Dharma and quells all dangers.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-15">
+    <prop type="location-id">UT22084-096-010-59</prop>
+    <tuv xml:lang="bo">
+                <seg>ནད་ཐམས་ཅད་རབ་ཏུ་ཞི་བར་བྱེད་པ། དུག་ཐམས་ཅད་འཇིལ་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It alleviates all diseases and neutralizes all poisons.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-16">
+    <prop type="location-id">UT22084-096-010-59</prop>
+    <tuv xml:lang="bo">
+                <seg>མཚོན་ཐམས་ཅད་རེངས་པར་བྱེད་པ། ཐེག་པའི་ཆོས་དགྲ་བསྲུང་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It stops all weapons and protects against the enemies of the vehicle’s teachings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-17">
+    <prop type="location-id">UT22084-096-010-59</prop>
+    <tuv xml:lang="bo">
+                <seg>རྐང་<tei:ref folio="F.52.b"/>མེད་དང་རྐང་གཉིས་དང་། རྐང་བཞི་ཐམས་ཅད་རེངས་པར་བྱེད་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It paralyzes all legless, two-legged, and four-legged beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-18">
+    <prop type="location-id">UT22084-096-010-59</prop>
+    <tuv xml:lang="bo">
+                <seg>རྐང་གཉིས་ཐམས་ཅད་སྐྲག་ཏུ་འཇུག་པ། དགྲ་ཐམས་ཅད་ཕུང་བར་བྱེད་པ། ལྷ་མ་ཡིན་དང་། ནམ་མཁའ་ལྡིང་དང་། སྦྱིན་བྱེད་མའི་བུ་དང་། ཤ་ཟ་དང་། བརྗེད་བྱེད་དང་། སྨྱོ་བྱེད་དང་། བྲམ་ཟེ་དང་། སྲིན་པོ་དང་། འབྱུང་པོ་དང་། རོ་ལངས་དང་། བྱའི་གདོན་དང་། སྲུལ་པོ་དང་། ནམ་གྲུ་དང་། གནོན་པོའི་གདོན་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It instills terror in all two-legged beings and defeats all adversaries.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-19">
+    <prop type="location-id">UT22084-096-010-59</prop>
+    <tuv xml:lang="bo">
+                <seg>གནོན་པོ་དང་། བརྗེད་བྱེད་ཀྱི་གདོན་དང་། ལྷའི་གདོན་དང་། ཀླུའི་གདོན་དང་། གནོད་སྦྱིན་གྱི་གདོན་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It defeats asuras, garuḍas, daityas, piśācas, apasmāras, unmādas, brahmanical rākṣasas, bhūtas, vetālas, śakuni grahas, pūtanas, revatīs, ostāraka grahas, ostārakas, apasmāra grahas, deva grahas, nāga grahas, yakṣa grahas, gandharva grahas, kinnara grahas, vināyaka grahas, and mātṛ grahas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-20">
+    <prop type="location-id">UT22084-096-010-59</prop>
+    <tuv xml:lang="bo">
+                <seg>དྲི་ཟའི་གདོན་དང་། མི་འམ་ཅིའི་གདོན་དང་། ལོག་འདྲེན་གྱི་གདོན་དང་། མ་མོའི་གདོན་ཕུང་བར་བྱེད་པ། ཟས་ཀྱི་རིགས་མི་མཐུན་པ་ཟ་བ་ཕུང་བར་བྱེད་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It overcomes any disagreeable foods that have been consumed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-21">
+    <prop type="location-id">UT22084-096-010-59</prop>
+    <tuv xml:lang="bo">
+                <seg>རིམས་ནད་ཐམས་ཅད་དང་། རླུང་ལས་གྱུར་པ་དང་། མཁྲིས་པ་ལས་གྱུར་པ་དང་། བད་ཀན་ལས་གྱུར་པ་དང་། འདུས་པ་ལས་གྱུར་པ་དང་། འགྲོ་བ་དྲག་ཤུལ་དུ་སྤྱོད་པ་ཕུང་བར་བྱེད་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It overcomes all infectious diseases, vātikas, paittikas, śleṣmikas, sānnipātikas, and malevolent beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-22">
+    <prop type="location-id">UT22084-096-010-59</prop>
+    <tuv xml:lang="bo">
+                <seg>འཐབ་པ་དང་། རྩོད་པ་དང་། མཚང་འདྲུ་བ་ཐམས་ཅད་རབ་ཏུ་ཞི་བར་བྱེད་པ་ལྕགས་ཀྱི་མཆུའི་གཟུངས་ནམ་མཁའི་ལྡིང་དྲག་པོའི་གཟུངས་འདི་ཟུང་ཤིག །བསྟན་པ་ལ་གནོད་པ་སྐྲག་པར་བྱེད་པ། ཆར་དྲག་པོ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It brings peace from all conflicts, disputes, and scandals.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-23">
+    <prop type="location-id">UT22084-096-010-59</prop>
+    <tuv xml:lang="bo">
+                <seg>སེར་བ་དྲག་པོ་འབེབས་པར་བྱེད་པའི་གཟུངས་བརྗོད་པར་བྱའོ། །ཏཏྱ་ཐཱ། ཨེ་ཏེ་མེ་ཏེ། པྲ་མེ་ཏྲི་ཏྲ། གོ་ལེ་བོ་ལེ་ལེ་བོས་སེ། མོཏྟེ། པ་ད་ཏེ། ཁཱ་རཏྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This is the dhāraṇī of the iron beak, the wrathful dhāraṇī of the garuḍas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-24">
+    <prop type="location-id">UT22084-096-010-61</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁཱ་ར་ཎེ། གཱ་ནཱ་གཱ་ནེ། ནཱ་གཱ་མུ་ག་ནེ། མོ་ནེ་པྲ་ཏཱི་མི་ནེ། ཀཱ་ལི་པྲ་ཀཱ་ལི་ཙ་ཎྜེ། མ་ཧཱ་ཙཎྜེ། པྲ་ཏི་ཙཎྜེ། པེ་གོ་སོ་ན། གོ་ནཱ་མོ་ཧཱ། པྲ་མོ་ཧཱ། མ་ཧཱ་མོ་ཊཱ། པྲ་མོ་ཊཱ། ནཱ་ཤ་ནི། པྲ་ནཱ་ཤ་ནཱ་དྷི་པ་ཏི། བལྒཱ་ཎི། པྲ་པ་ལྒཱ་ཎི། ནི་དྱ་ཎི། བཱ་ནི་ཥཱ་ནི། ཀྲོ་དྷ་ནི། པྲ་ཏི་གྲོ་དྷ་ནི། ཧ་ན་ཧ་ན། བི་ཧ་ན་བི་ཧ་ན། སརྦ་དུཥྚ་པྲ་དུ་ཥྜཾ། ནཱ་ཤ་ཡ་སརྦ་ཨ་བྷ་ཡ་བྲ་ངཻ་ཧཱུྃ་ཕཊ། སྔགས་འདི་བརྗོད་པ་ཙམ་གྱིས་ཕྱོགས་བཅུ་ཀུན་དུ་གཡོས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I will recite this dhāraṇī that instills fear in those who harm the teachings and creates fierce storms of rain and hail:<tei:milestone xml:id="UT22084-096-010-61"/> tadyathā | ete mete prametritra gole vole levosse motte padate khāratte khāraṇe gānāgāne nāgāmugane mone pratīmone kāli prakāli caṇḍe mahācaṇḍe praticaṇḍe vegosona gonāmohā pramohā mahāmoṭā pramoṭā nāśani pranāśanādhi­pati valgāṇi pravalgāṇi nidyaṇi pāniṭhāni krodhāni prati­krodhāni hana hana vihana vihana sarva­duṣṭapra­duṣṭān nāśaya sarvābhayaprade hūṃ phaṭ<tei:milestone xml:id="UT22084-096-010-62"/> “Simply reciting this mantra will make everything throughout the ten directions shake, shake violently, quake, and quake violently.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-25">
+    <prop type="location-id">UT22084-096-010-61</prop>
+    <tuv xml:lang="bo">
+                <seg>རབ་ཏུ་གཡོས། འགུལ་རབ་ཏུ་འགུལ་ལོ། །གནོད་པ་ཐམས་ཅད་ཁས་བུབ་ཏུ་བརྒྱལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>All harm doers will collapse face down, unconscious.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-26">
+    <prop type="location-id">UT22084-096-010-63</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐེ་ཚེ་དང་། ཡུངས་ནག་ཏུ་བསྲེས་ལ། ཆུ་བོ་དང་། <tei:ref folio="F.53.a"/>རྒྱ་མཚོ་དང་། རི་བོ་ལ་གཏོར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-096-010-63"/>“Mix yellow and black mustard seeds and scatter them over rivers, oceans, and mountains.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-27">
+    <prop type="location-id">UT22084-096-010-63</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཕྱིན་ཅད་ཆར་འབེབས་པར་བྱེད་དོ། །ཡང་ཆུ་བོ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>From then on, there will be rainfall.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-28">
+    <prop type="location-id">UT22084-096-010-63</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱ་མཚོ་དང་། ཆུ་མིག་དང་། རྫིང་བུ། ལུ་མ། འབབ་ཆུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Incant molasses, honey, licorice, sugar cane, and various nāga medicines in milk and sprinkle that on the rivers, oceans, springs, pools, ponds, waterfalls, and waterways.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-29">
+    <prop type="location-id">UT22084-096-010-63</prop>
+    <tuv xml:lang="bo">
+                <seg>གཉན་དགུར་བུ་རམ། སྦྲང་། ཤིང་མངར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Doing so will create great hailstorms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-30">
+    <prop type="location-id">UT22084-096-010-63</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤ་ཀ་ར། ཀླུ་སྨན་སྣ་ཚོགས་འོ་མ་ལ་བསྔགས་ལ་གཏོར་རོ། །དེའི་ཕྱིར་སེར་བ་ཆེན་པོ་འབེབས་སོ། །ཡིད་ཟློས་བགྱིས་ཏེ། སྤྲིན་ལ་བལྟས་ལ་ལྷ་ཕྱག་བྱ་ཞིང་བཟླས་ན་ཇི་ལྟར་འདོད་པའི་སེར་བ་ཆེན་པོ་འབབ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If you recite it by performing mental recitation, gazing at a cloud, and saluting the devas, great hailstorms will fall as you wish.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-31">
+    <prop type="location-id">UT22084-096-010-66</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤེས་རབ་ཅན་གྱིས་འཕགས་པ་ལྕགས་ཀྱི་མཆུའི་གཟུངས་འདི་ཟུང་ཤིག །ཆོངས་ཤིག ། བརྗོད་ཅིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-096-010-66"/>“The wise should uphold, memorize, and recite the noble dhāraṇī of the iron beak.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-32">
+    <prop type="location-id">UT22084-096-010-66</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞན་ལ་མ་སྤེལ་ཅིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They should not share it with others.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-33">
+    <prop type="location-id">UT22084-096-010-66</prop>
+    <tuv xml:lang="bo">
+                <seg>སྦོས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They must keep it hidden.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-34">
+    <prop type="location-id">UT22084-096-010-66</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐུན་མོང་དུ་མིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is not for everyone.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-35">
+    <prop type="location-id">UT22084-096-010-66</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱ་མཚོའི་ཆུ་རྡོ་བཞིན་མི་མངོན་པར་སྦོས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It should be kept out of sight like a pebble in the ocean.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-36">
+    <prop type="location-id">UT22084-096-010-66</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞན་གྱིས་མི་ཐུབ་པའི་དྲག་པོའི་གཟུངས་འདིས་འཐབ་པའམ། རྩོད་པའམ། འགྱེད་པའམ། གང་དུ་འགྲོ་ཡང་རུང་སྟེ། ཐམས་ཅད་དུ་རྒྱལ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>This indomitable wrathful dhāraṇī allows one to be victorious in all situations, no matter whenever one enters a conflict, dispute, or war.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-37">
+    <prop type="location-id">UT22084-096-010-66</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་མཚན་གྱི་རྩེ་མོ་ལ་བྱང་བུ་གཟུགས་སོ་སྔགས་པ་རིགས་ཀྱི་བུའམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Inscriptions of it should be affixed to the tips of banners.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-38">
+    <prop type="location-id">UT22084-096-010-66</prop>
+    <tuv xml:lang="bo">
+                <seg>རིགས་ཀྱི་བུ་མོ་གང་དང་གང་གིས་ཡིད་རྩེ་གཅིག་ཏུ་བྱའོ། །དགེ་སློང་ཕ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Sons and daughters of good families who follow mantra should practice it with single-pointed minds.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-39">
+    <prop type="location-id">UT22084-096-010-66</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་མ་དང་། དགེ་ཚུལ་ཕ་དང་། དགེ་ཚུལ་མའམ། དགེ་བསྙེན་ཕའམ། དགེ་བསྙེན་མ་གང་ཡང་རུང་བས་བསྟན་པ་ལ་གནོད་པ་བསྙུང་བའི་ཕྱིར་ཡིད་ལ་ཟུང་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Whether one is a bhikṣu or bhikṣuṇī, a śrāmaṇera or śrāmaṇerī, or an upāsaka or upāsikā, one should uphold and memorize it in order to avert harm to the teachings.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-40">
+    <prop type="location-id">UT22084-096-010-68</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོངས་ཤིག་དེ་སྐད་ཅེས་བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་དང་ལྷའི་དབང་པོ་བརྒྱ་བྱིན་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-096-010-68"/>After the Blessed One had spoken, Śakra the lord of the devas and the world with its asuras and gandharvas rejoiced and praised what the Blessed One had taught.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-096-010-TU-41">
+    <prop type="location-id">UT22084-096-010-69</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ལྕགས་མཆུ་ཞེས་བྱ་བའི་གཟུངས་རྫོགས་སྷོ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-096-010-69"/>This concludes “The Noble Dhāraṇī of the Iron Beak [1].”</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

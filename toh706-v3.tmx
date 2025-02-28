@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-093-021" eft:text-version="v-1.0.1-2023"/>
+<body>
+<tu id="UT22084-093-021-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.173.a"/>༄༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱཱ་བ་ལོ་ཀི་ཏེ་ཤྭ་ར་སྱ་ནཱ་མ་ཨཥྚ་ཤ་ཏ་ཀ །བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-093-021-TU-2">
+    <prop type="location-id">UT22084-093-021-65</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་མཚན་བརྒྱ་རྩ་བརྒྱད་པ་ཞེས་བྱ་བ། སངས་རྒྱས་དང་། བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-093-021-translation"/>The Noble Hundred and Eight Names of Avalokiteśvara [2]<tei:milestone xml:id="UT22084-093-021-65"/> Homage to all the buddhas and bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-021-TU-3">
+    <prop type="location-id">UT22084-093-021-67</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-093-021-67"/>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-021-TU-4">
+    <prop type="location-id">UT22084-093-021-67</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་གནས། རི་གྲུ་འཛིན་གྱི་རྩེ་མོ་མེ་ཏོག་དྲི་ཞིམ་པོ་སྣ་ཚོགས་བཀྲམ་པ། འཛམ་བུ་ཆུ་བོའི་གསེར་ཁ་དོག་བཟང་པོ་ལྟར་སྣང་བ། རིན་པོ་ཆེ་སྣ་ཚོགས་སྣང་བའི་ས་ཕྱོགས་ན་བཞུགས་ཏེ། ལྷ་དང་། <tei:ref folio="F.173.b"/>ཀླུ་དང་། གནོད་སྦྱིན་དང་། དྲི་ཟ་དང་། ལྷ་མ་ཡིན་དང་། ནམ་མཁའ་ལྡིང་དང་། མིའམ་ཅི་དང་། ལྟོ་འཕྱེ་ཆེན་པོ་དང་། མི་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One was residing at the noble Avalokiteśvara’s abode at the summit of Mount Potala, a place that was arrayed with many different fragrant flowers, shining like the excellent golden color of the Jambu River, and brilliant with a variety of jewels.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-021-TU-5">
+    <prop type="location-id">UT22084-093-021-67</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་མ་ཡིན་པ་བྱེ་བ་ཁྲག་ཁྲིག་འབུམ་ཕྲག་དུ་མ་དག་གིས། བཅོམ་ལྡན་འདས་ལ་བསྟི་སྟང་དུ་བྱས། བླ་མར་བྱས། རི་མོར་བྱས་ཏེ། མཆོད་ཅིང་རྗེད་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He was surrounded by many trillions of gods, nāgas, yakṣas, gandharvas, asuras, garuḍas, kinnaras, mahoragas, humans, and non-humans, who honored him, took him as their teacher, respected him, made offerings to him, and revered him.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-021-TU-6">
+    <prop type="location-id">UT22084-093-021-67</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡོངས་སུ་བསྐོར་ཅིང་མདུན་གྱིས་བལྟས་ནས་ཆོས་སྟོན་ཏེ། ཚངས་པར་སྤྱོད་པ། ཐོག་མར་དགེ་བ། བར་དུ་དགེ་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In front of this group, he taught the Dharma.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-021-TU-7">
+    <prop type="location-id">UT22084-093-021-68</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐ་མར་དགེ་བ། དོན་བཟང་པོ། ཚིག་འབྲུ་བཟང་པོ། མ་འདྲེས་པ། ཡོངས་སུ་རྫོགས་པ། ཡོངས་སུ་བྱང་བ་ཡང་དག་པར་རབ་ཏུ་སྟོན་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-093-021-68"/>He perfectly taught the pure conduct—virtuous in the beginning, virtuous in the middle, and virtuous in the end, excellent in meaning, beautiful in expression, unmixed, complete, and completely refined.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-021-TU-8">
+    <prop type="location-id">UT22084-093-021-68</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ཚངས་པ་ལ་སོགས་པས་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ལ་བསྟོད་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thereafter, Brahmā and the others praised the bodhisattva great being, noble Avalokiteśvara, as follows.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-021-TU-9">
+    <prop type="location-id">UT22084-093-021-69</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀྱེ་བཅོམ་ལྡན་འདས། དགོངས་པ་མཛད་པ། མཛད་རྒྱུ་མཛད་པ། ཁུར་བོར་བ། བདག་གི་དོན་རྗེས་སུ་བརྙེས་པ། སྲིད་པར་ཀུན་ཏུ་སྦྱོར་བ་ཡོངས་སུ་བསལ་བ། ཡང་དག་པའི་མཁྱེན་པས། ཐུགས་ཤིན་ཏུ་རྣམ་པར་གྲོལ་བ། ཅང་མཁྱེན་པ། གླང་པོ་ཆེ་ཆེན་པོ་དང་། སེམས་ཅན་ཐམས་ཅད་ཀྱི་དབང་དམ་པའི་ཕ་རོལ་ཏུ་བྱོན་པ། ཡེ་ཤེས་ཀྱི་ཚོགས་ཡོངས་སུ་རྫོགས་པ། སྲིད་པའི་དགོན་པ་ལས་རྒལ་བ། གཞན་ལ་སྨན་པ། ཐུགས་རྗེ་དང་འབྲེལ་བའི་ཐུགས་མངའ་བ། སྐྱེ་དགུ་ལ་མཆོག་ཏུ་མཉེས་གཤིན་པ། བདེ་བ་རབ་ཏུ་སྩོལ་བར་མཛད་པ། བྱམས་པས་ཞུགས་པ། སེམས་ཅན་མཐའ་ཡས་པ་སྒྲོལ་བ་ལ་མཁས་པ། བདེ་བར་གཤེགས་པའི་སྲས་པོ། སྲིད་པ་གསུམ་གྱི་རྩ་ལག་གཅིག་པུ། འདོད་ཆགས་མི་མངའ་བ། ཞེ་སྡང་མི་མངའ་བ། གཏི་མུག་མི་མངའ་བ། དྲི་མ་གསུམ་སྤངས་པ། རིག་པ་གསུམ་གྱི་ཕ་རོལ་དུ་གཤེགས་པ། མངོན་པར་ཤེས་པ་དྲུག་བརྙེས་པ། ཤིང་ནྱ་གྲོ་དྷ་ལྟར་ཆུ་ཞེང་གབ་པ། སྐྱེས་བུ་ཆེན་པོའི་མཚན་སུམ་ཅུ་རྩ་གཉིས་མངའ་བ། དཔེ་བྱད་བཟང་པོ་བརྒྱད་ཅུས་བརྒྱན་པ། པགས་པ་སྲབ་ཅིང་མདོག་སེར་བ། སྐུ་རིང་རྒྱུ་བཟང་ཞིང་དཀར་བ། སྐུ་ཤིང་གི་མེ་ཏོག་སར་པ་དང་། དམར་རིང་ལྟ་བུའི་དབུ་ཐོར་ཚུགས་མངའ་བ། ལྕང་ལོ་འཁྱིལ་པ་མང་པོས་དབུ་ཁེབས་པ། འོད་དཔག་མེད་ཀྱིས་འོད་ཟེར་བཏང་བ། འབར་བའི་འོད་འདོམ་གང་གིས་གསེར་གྱི་རི་བོ་ལྟར་སྙན་པར་གྲགས་པ། གཟི་བརྗིད་<tei:ref folio="F.174.a"/>རྒྱ་ཆེ་བ། གཟུགས་འཆར་ཀའི་རི་ལྟ་བུ་གཙུག་ཏོར་མངའ་བ། ནོར་བུ་རབ་ཏུ་འབར་བ། མཆོད་ཕྱིར་ཐོགས་སྐུ་ལ་སེ་རལ་དུ་ཐོགས་པ། ས་རབ་ཏུ་རྣམ་པར་འབྱེད་པ། ཕ་རོལ་ཏུ་ཕྱིན་པ་བཅུའི་ཞབས་དང་ལྡན་པ། ཚུལ་ཁྲིམས་མཉམས་པ། ཚུལ་ཁྲིམས་མ་ཞིག་པ། སེང་གེ་ལྟར་ཐོང་ཀ་ཕེལ་ཀ་ཆེ་བ། སྐུ་འཇམ་ཞིང་མཛེས་པ། གཟིགས་པ་དང་གཤེགས་ཐབས་ཁྱུ་མཆོག་གི་དབང་པོ་འདྲ་བ། མཁུར་བ་གཡས་སུ་འཁྱིལ་པ། དཔྲལ་བ་ཆེ་ཞིང་ཟླ་བ་ཁམ་པ་འདྲ་ལ་ཐིག་ལེ་མངའ་བ། ཕྱག་པུས་མོར་སླེབས་པ། སྨིན་མ་བར་མ་ཆད་པ། ཤངས་མཐོ་བ། མགུར་བུམ་པའི་མགྲིན་པ་འདྲ་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-093-021-69"/>“Ah, Blessed One!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-021-TU-10">
+    <prop type="location-id">UT22084-093-021-69</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱག་སོར་མོ་དང་ཚིགས་རིང་བ། སེན་མོ་འཇམ་ཞིང་ཟངས་ཀྱི་མདོག་དང་འདྲ་བ། ཕྱག་དྲ་བས་འབྲེལ་པ། ཕྱག་དང་ཞབས་ཀྱི་མཐིལ་འཁོར་ལོས་བརྒྱན་པ། སྟོན་ཀའི་པདྨ་འདྲ་བ། སྐུ་འཇམ་ཞིང་རྒྱས་པ། ཚངས་པ་ལྟར་དབྱངས་ཟབ་པ། ཡིད་དུ་མཆི་བ་སྡུག་པ། བལྟ་ན་སྡུག་པ། ཉམས་དགའ་བར་བགྱིད་པ། འོད་པདྨ་འདྲ་བ། པདྨ་ལས་འཁྲུངས་པ། པདྨ་ལས་བྱུང་བ། པདྨའི་གདན་ལ་བཞུགས་པ། ཕྱག་ན་པདྨ་མངའ་བ། ཕྱག་ན་རིལ་བ་སྤྱི་བླུགས་བསྣམས་པ། རི་དགས་ནག་པོའི་པགས་པ་མནབས་པ། ཕྱག་མཁར་བསྣམས་པ། བགྲང་བའི་ནོར་བུ་བསྣམས་པ། གཙང་བ་སྩངས་པ། གསོང་པོར་གསུང་བ། བདུད་རྩིའི་ཆར་འབེབས་པ། ཡིད་བཞིན་གྱི་ནོར་བུ་ལྟ་བུ། བལྟ་ན་སྡུག་པའི་ཤིང་འདྲ་བ། སེམས་ཅན་ཐམས་ཅད་མོས་པར་མཛད་པ། དགའ་བར་མཛད་པ། སེམས་ཅན་ཐམས་ཅད་ཉེ་བར་འཚོ་བ། སངས་རྒྱས་ཀྱི་སྤྲུལ་པ། བདེ་བར་གཤེགས་པའི་ཆ་བྱད་མངའ་བ། བདེ་བར་གཤེགས་པའི་རིང་བསྲེལ་འཛིན་པ། སྤུ་རེ་རེ་སྐྱེས་པ། སེམས་ཅན་གྱི་སྙིང་པོ། བསོད་ནམས་མཛད་པ། དགེ་བ་མཛད་པ། ངེས་པར་མཛད་པ། བརྩོན་འགྲུས་འབར་བ། འཁོར་བ་ལས་ཤིན་ཏུ་འདས་པ། དམ་པའི་ཆོས་ལ་རྒྱལ་ཚབ་ཏུ་དབང་བསྐུར་བ། སྒྲོལ་མ་ཞབས་དྲུང་ན་གནས་པ། ཁྲོ་གཉེར་ཅན་བཀའ་བཞིན་བགྱིད་པ། རྒྱལ་བ་དང་ལྡན་པ། ཚུལ་<tei:ref folio="F.174.b"/>དང་ལྡན་པ། དྲན་པ་དང་ལྡན་པ། མཐུ་རྩལ་ཆེ་བ། ཡོན་ཏན་དང་ལྡན་པ། བྱམས་པ་དང་ལྡན་པ། ཞི་བ་དང་ལྡན་པ། ཚུལ་ཁྲིམས་དང་ལྡན་པ། སྐལ་པ་དང་ལྡན་པ། དོན་དང་ལྡན་པ། དོན་རྣམས་ཐུགས་སུ་ཆུད་པ། ཐེ་ཙོམ་རྣམས་གཅོད་པ། ཆོས་རྣམས་གསུང་བ། འཇིག་རྟེན་རྣམས་ཀྱི་སྟོན་པ། ཞལ་གྱི་དཀྱིལ་འཁོར་ཡོངས་སུ་རྒྱས་པ། སྐུ་རྐེད་པའི་ཕྱོགས་རིན་པོ་ཆེ་ཐམས་ཅད་ཀྱིས་སྤྲས་པ། གསེར་གྱི་མཆོད་སྡོང་ལྟ་བུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>You have carried out your intention, done what is to be done, cast off the burden, achieved your own aims, and utterly cleared away the ties to existence; due to genuine wisdom, your mind is utterly free; you know everything; you are a great elephant; you have perfected the sublime power of all beings; you have completed the accumulation of wisdom; you have crossed the wilderness of existence; you benefit others; you have a mind suffused with compassion; you supremely please every being; you bestow bliss; you engage out of love; you are skilled in liberating countless beings; you are the son of the sugatas; you are the single friend of the three worlds; you have no desire; you have no anger; you have no delusion; you have abandoned the three stains; you are the perfection of the three knowledges; you have the six superknowledges; like the nyagrodha tree, you cover a vast area; you possess the thirty-two marks of a great being; you are adorned by the eighty minor marks; your skin is fine and golden; your body is tall and white; your body is fresh like a flowering tree; and you have a topknot like the rosy dawn; your crown is covered by many twisting locks; Amitābha shines light upon you; you are renowned for having a blazing aura a fathom in size, like a golden mountain; you have great magnificence; you have an uṣṇīṣa like a mountain ridge at dawn; you wear a scarf blazing with gems as a sash across your body; you perfectly discern the bhūmis; you have the legs of the ten perfections; your moral conduct is uncorrupted; your moral conduct is unbroken; your breast is broad like a lion’s; your body is smooth and handsome; you glance and move like the ruler of chieftains; your cheeks swirl to the right; your forehead is large and like the half-moon with a bindu; your hands reach your knees; your eyebrows are unbroken; your nose is high; your throat is like the neck of a vase; the fingers and joints on your hands are long; your fingernails are smooth and copper colored; your fingers are webbed; you are adorned with wheels at the palms of your hands and at the soles of your feet; like an autumn lotus, your body is smooth and vast; your voice is deep like Brahmā’s; you are pleasing to bring to mind, a pleasure to see, and bring delight; you are radiant like a lotus; you are born from a lotus; you have arisen from a lotus; you sit upon a lotus seat; you hold a lotus in your hand; you hold a round anointing vase in your hand; you wear the skin of a black deer; you hold a staff; you hold a jewel rosary; you are pure through purity; you speak sincerely; you shower down a rain of nectar; you are like a wish-fulfilling jewel; you are like a tree that is a delight to behold; you inspire all beings; you bring delight; you sustain all beings; you are an emanation of the buddhas; you possess the accoutrements of the sugatas; you bear the relics of the sugatas; with each bodily hair arisen, you are the essence of beings; you bring about merit; you carry out virtue; you engage with certainty; you blaze with diligence; you have gone far beyond saṃsāra; you were empowered into the True Dharma as a regent; Tārā is present at your feet; Bhṛkuṭī carries out your commands; the Victors are with you; you have moral conduct; you have good recall; you have gained great power; you have excellent qualities; you have loving kindness; you are peaceful; you have moral conduct; you have good fortune; you are purposeful; you understand things; you cut off doubts; you speak the Dharma; you are the teacher of worldly beings; the maṇḍala of your face is broad; the area around your waist is adorned with every gem; you are like a golden sacrificial post; your form surpasses a thousand suns; Brahmā and so forth bow before you.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-021-TU-11">
+    <prop type="location-id">UT22084-093-021-76</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐུ་ཉི་མ་སྟོང་བས་ལྷག་པར་མཛེས་པ། ཚངས་པའི་དབང་པོ་ལ་སོགས་པས་ཕྱག་བགྱིས་པ་ལགས་སོ། །གང་ལ་ལ་ཞིག་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་མཚན་བརྒྱ་རྩ་བརྒྱད་པས་བསྟོད་པ་སྒྲུབ་པ་བྱེད་པ་དེའི་མཚམས་མེད་པ་ལྔའི་ལས་ཀྱི་སྒྲིབ་པ་རྣམ་པར་བྱང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-093-021-76"/>Whoever accomplishes this praise of the one hundred and eight names of noble Avalokiteśvara will purify the karmic obscuration of the five actions of immediate consequence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-021-TU-12">
+    <prop type="location-id">UT22084-093-021-76</prop>
+    <tuv xml:lang="bo">
+                <seg>དཀྱིལ་འཁོར་ཐམས་ཅད་དུ་ཞུགས་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will enter into all maṇḍalas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-021-TU-13">
+    <prop type="location-id">UT22084-093-021-76</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལ་གསང་སྔགས་ཐམས་ཅད་གྲུབ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therein, they will accomplish all mantras.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-021-TU-14">
+    <prop type="location-id">UT22084-093-021-76</prop>
+    <tuv xml:lang="bo">
+                <seg>བསྐལ་པ་བྱེ་བ་འབུམ་ཕྲག་དུ་མར་ངན་འགྲོར་འགྲོ་བར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will not go to the lower realms for many trillions of eons.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-021-TU-15">
+    <prop type="location-id">UT22084-093-021-76</prop>
+    <tuv xml:lang="bo">
+                <seg>མཚམས་མེད་པར་འཇུག་པར་མི་འགྱུར་རོ། །སུ་ཞིག་ནང་པར་ལངས་ནས་འདོན་ཏམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will not engage in the actions of immediate consequence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-021-TU-16">
+    <prop type="location-id">UT22084-093-021-77</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀློག་གམ། ཁ་ཏོན་བྱེད་ན་དེའི་ལུས་ལ་མཛེ་དང་། རྐང་ཤུ་དང་། ལུད་པ་དང་། མི་བདེ་བ་མི་འབྱུང་ཞིང་ནད་ཐམས་ཅད་ལས་ཐར་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-093-021-77"/>Whoever rises at dawn and recites this, or reads this aloud, or chants it, will not have leprosy, foot sores, phlegm, or difficulty breathing, and will be freed from all illnesses.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-021-TU-17">
+    <prop type="location-id">UT22084-093-021-77</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚེ་རབས་སོ་ཅོག་ཏུ་ཚེ་རབས་དྲན་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will remember all of their previous lives.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-021-TU-18">
+    <prop type="location-id">UT22084-093-021-77</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷའི་བུ་དང་འདྲ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will become like the children of the gods.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-021-TU-19">
+    <prop type="location-id">UT22084-093-021-77</prop>
+    <tuv xml:lang="bo">
+                <seg>འཆི་བའི་དུས་ཀྱི་ཚེ་འཇིག་རྟེན་གྱི་ཁམས་བདེ་བ་ཅན་དུ་སྐྱེ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>At the time of death, they will be reborn in the realm of Sukhāvatī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-021-TU-20">
+    <prop type="location-id">UT22084-093-021-77</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚེ་རབས་སོ་ཅོག་ཏུ་འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་དང་མི་འབྲལ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In all of their lives, they will never be separated from noble Avalokiteśvara.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-021-TU-21">
+    <prop type="location-id">UT22084-093-021-77</prop>
+    <tuv xml:lang="bo">
+                <seg>རྟག་ཏུ་བཟླས་བརྗོད་བྱས་ན་ཡིད་གཞུངས་པར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If they recite this constantly, they will become intelligent.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-021-TU-22">
+    <prop type="location-id">UT22084-093-021-77</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔའ་བར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will become heroic.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-021-TU-23">
+    <prop type="location-id">UT22084-093-021-77</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐད་སྙན་པར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will become sweet voiced.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-021-TU-24">
+    <prop type="location-id">UT22084-093-021-77</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐལ་བ་བཟང་པོར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will become fortunate.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-021-TU-25">
+    <prop type="location-id">UT22084-093-021-77</prop>
+    <tuv xml:lang="bo">
+                <seg>བསྟན་བཅོས་ཐམས་ཅད་ལ་འཇིགས་པ་མེད་པར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will become fearless with respect to all treatises.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-021-TU-26">
+    <prop type="location-id">UT22084-093-021-77</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚིག་བཙུན་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will become someone who speaks nobly.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-021-TU-27">
+    <prop type="location-id">UT22084-093-021-78</prop>
+    <tuv xml:lang="bo">
+                <seg>བསྟོད་པ་སྒྲུབ་པ་འདིས་བསྟོད་པ་བྱས་ན། སངས་རྒྱས་བཅོམ་ལྡན་འདས་གང་གཱའི་ཀླུང་དྲུག་ཅུ་རྩ་གཉིས་སྙེད་ཀྱི་བྱེ་མ་སྙེད་དག་ལ་མཆོད་པ་བྱས་པར་འགྱུར་ཏེ། རྣམ་པར་སྨིན་པ་མཚུངས་ཤིང་བྱེ་བྲག་མེད་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-093-021-78"/>If one offers praise with this practice of praise, it will be just the same, not at all different, from making offerings to blessed buddhas equal in number to the grains of sand in sixty-two Ganges River.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-093-021-TU-28">
+    <prop type="location-id">UT22084-093-021-79</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་མཚན་<tei:ref folio="F.175.a"/>བརྒྱ་རྩ་བརྒྱད་པ་རྒྱལ་བ་ཐམས་ཅད་ཀྱི་རིང་བསྲེལ་གྱི་ཟ་མ་ཏོག་ཅེས་བྱ་བ་རྫོགས་སོ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-093-021-79"/>This completes “The Noble Hundred and Eight Names of Avalokiteśvara,” called “The Receptacle of the Relics of all Victors.”</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

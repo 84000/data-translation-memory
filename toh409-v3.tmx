@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-079-036" eft:text-version="v-1.0.2-2023"/>
+<body>
+<tu id="UT22084-079-036-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.247.a"/>༄༅༅། །རྒྱ་གར་སྐད་དུ། ཤྲཱི་བཛྲ་བྷཻ་ར་བ་བི་དཱ་ར་ཎ་ཏནྟྲ་རཱ་ཛ། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-079-036-TU-2">
+    <prop type="location-id">UT22084-079-036-60</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་རྡོ་རྗེ་འཇིགས་བྱེད་རྣམ་པར་འཇོམས་པའི་རྒྱུད་ཀྱི་རྒྱལ་པོ། དཔལ་ཧེ་རུ་ཀ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-079-036-translation"/>The Fearsome Vajra of Destruction<tei:milestone xml:id="UT22084-079-036-60"/> Homage to the glorious Heruka.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-079-036-TU-3">
+    <prop type="location-id">UT22084-079-036-60</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-079-036-TU-4">
+    <prop type="location-id">UT22084-079-036-62</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་འཁོར་དཔག་ཏུ་མེད་པ་དང་། །རི་རབ་ཀྱི་སྟེང་དུ་བཞུགས་པའི་དུས་སུ་བྱང་ཆུབ་སེམས་དཔའ་རྡོ་རྗེ་སྙིང་པོས། བཅོམ་ལྡན་འདས་ལ་ལན་གསུམ་དུ་བསྐོར་བ་བྱས་ཏེ་ཐལ་མོ་སྦྱར་ནས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །ཐུགས་རྗེ་ཆེ་ལྡན་བཅོམ་ལྡན་འདས། །རྡོ་རྗེ་གང་ལགས་འཇིགས་བྱེད་གང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One was staying on top of Mount Meru together with an inestimable assembly, when the bodhisattva Vajragarbha circled the Blessed One three times, folded his hands, and asked:<tei:milestone xml:id="UT22084-079-036-62"/> “Compassionate Blessed One, please explain: What does vajra mean, and what is fearsome?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-079-036-TU-5">
+    <prop type="location-id">UT22084-079-036-62</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇོམས་པ་གང་ལགས་རྒྱུད་གང་ལགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What does destruction mean, and what about tantra?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-079-036-TU-6">
+    <prop type="location-id">UT22084-079-036-62</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱལ་པོ་གང་ལགས་བཤད་དུ་གསོལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Please explain what king means.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-079-036-TU-7">
+    <prop type="location-id">UT22084-079-036-63</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། །རྡོ་རྗེ་རྣམ་པ་གསུམ་ཡིན་ཏེ། །ཉོན་མོངས་བདུད་སོགས་འཇིགས་པར་བྱེད། །ཉོན་མོངས་དགྲ་སོགས་རྣམ་པར་འཇོམས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-079-036-63"/>The Blessed One replied:<tei:milestone xml:id="UT22084-079-036-64"/> “Vajra has three aspects, That are fearsome to the māra of the afflictive emotions and the others, And destructive to the enemy, the afflictive emotions, and so forth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-079-036-TU-8">
+    <prop type="location-id">UT22084-079-036-63</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱུ་ཡི་རྒྱུད་དང་འབྲས་བུའི་རྒྱུད། །མཐར་ཐུག་རྒྱུད་ནི་གང་ཡིན་ལ། །རྒྱལ་པོ་ཞེས་ནི་བསྟན་པ་ཡིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These are causal tantra, resultant tantra, and ultimate tantra; It is these that are taught to be king.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-079-036-TU-9">
+    <prop type="location-id">UT22084-079-036-66</prop>
+    <tuv xml:lang="bo">
+                <seg>རྡོ་རྗེ་སྙིང་པོས་ཡང་གསོལ་པ། །རེ་རེའི་བྱེ་བྲག་མ་འཚལ་བས། །དེ་ཡི་དབྱེ་བ་བཤད་དུ་གསོལ། །<tei:ref folio="F.247.b"/>
+                </seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-079-036-66"/>Vajragarbha spoke again:<tei:milestone xml:id="UT22084-079-036-67"/> “This does not provide specifics for the individual terms, so please explain them in detail.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-079-036-TU-10">
+    <prop type="location-id">UT22084-079-036-68</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། །རྡོ་རྗེ་རྣམ་པ་གསུམ་ཡིན་ཏེ། །དོན་གྱི་རྡོ་རྗེ་དེ་ནས་རྟགས། །རྫས་ཀྱི་རྡོ་རྗེ་དང་ནི་གསུམ། །དེ་ནས་དོན་གྱི་རྡོ་རྗེ་བཤད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-079-036-68"/>The Blessed One replied:<tei:milestone xml:id="UT22084-079-036-69"/> “Vajra has three aspects: The true vajra, the symbolic vajra, And the material vajra.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-079-036-TU-11">
+    <prop type="location-id">UT22084-079-036-118</prop>
+    <tuv xml:lang="bo">
+                <seg>གཟུང་འཛིན་རྟོག་པས་མི་ཕྱེད་ཕྱིར། །དོན་གྱི་རྡོ་རྗེ་བཤད་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Now, to explain the true vajra:<tei:milestone xml:id="UT22084-079-036-118"/> “It is explained as the truevajra Because it is undivided by dualistic thinking.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-079-036-TU-12">
+    <prop type="location-id">UT22084-079-036-118</prop>
+    <tuv xml:lang="bo">
+                <seg>དབང་བཞི་རྡོ་རྗེ་རེ་རེ་སྟེ། །རྡོ་རྗེ་བཞི་རུ་བཤད་པ་ཡིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Each of the four initiations are vajras And are described as ‘the four vajras.’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-079-036-TU-13">
+    <prop type="location-id">UT22084-079-036-70</prop>
+    <tuv xml:lang="bo">
+                <seg>རྟགས་ཀྱི་རྡོ་རྗེ་གསུམ་ཡིན་ཏེ། །རྩེ་གསུམ་རྩེ་ལྔ་རྩེ་དགུ་པ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-079-036-70"/>“The symbolic vajra is of three kinds: Three-pronged, five-pronged, and nine-pronged.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-079-036-TU-14">
+    <prop type="location-id">UT22084-079-036-70</prop>
+    <tuv xml:lang="bo">
+                <seg>རྩེ་གསུམ་སྐུ་གསུང་ཐུགས་ཀྱི་རྟགས། །རྩེ་ལྔ་ཡེ་ཤེས་ལྔ་ཡི་རྟགས། །རྩེ་དགུ་ཁམས་གསུམ་ས་དགུའི་རྟགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The three prongs represent body, speech, and mind; The five prongs represent the five wisdoms; And the nine prongs represent the nine levels of the three worlds.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-079-036-TU-15">
+    <prop type="location-id">UT22084-079-036-71</prop>
+    <tuv xml:lang="bo">
+                <seg>རྫས་ཀྱི་རྡོ་རྗེ་བཞི་ཡིན་ཏེ། །བུམ་པའི་དབང་དང་འབྲེལ་པ་ཡི། །སྐུ་མདོག་ཕྱག་མཚན་ལ་སོགས་ལྷ། །གཟུང་དང་འཛིན་པའི་རྣམ་རྟོག་ནི། །འཇིག་དང་འཇོམས་པས་རྡོ་རྗེའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-079-036-71"/>“The true vajra is of four kinds: “The deity, with its colors and implements, Connected to the vase initiation, is vajra Because it crushes and destroys The dualistic concepts of subject and object.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-079-036-TU-16">
+    <prop type="location-id">UT22084-079-036-119</prop>
+    <tuv xml:lang="bo">
+                <seg>གསང་བའི་དབང་དང་འབྲེལ་པ་ཡི། །རྩ་དང་རླུང་དང་ཐིག་ལེ་ལ། །གཟུང་འཛིན་གཉིས་སུ་གང་རྟོག་པ། །འཇིག་ཅིང་འཇོམས་པས་རྡོ་རྗེའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-079-036-119"/>“The channels, winds, and drops, Connected to the secret initiation, are vajra Because they crush and destroy The dualistic concepts of subject and object.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-079-036-TU-17">
+    <prop type="location-id">UT22084-079-036-73</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤེས་རབ་ཡེ་ཤེས་དང་འབྲེལ་པའི། །ལྷན་ཅིག་སྐྱེས་དགའ་ལ་སོགས་ལ། །གཟུང་དང་འཛིན་པར་གང་རྟོག་པ། །འཇིག་ཅིང་འཇོམས་པས་རྡོ་རྗེ་ཡིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-079-036-73"/>“Innate joy and the other joys Connected to insight-wisdom are vajra Because they crush and destroy The dualistic concepts of subject and object.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-079-036-TU-18">
+    <prop type="location-id">UT22084-079-036-74</prop>
+    <tuv xml:lang="bo">
+                <seg>བཞི་པའི་དབང་དང་འབྲེལ་པ་ཡི། །རང་རིག་སེམས་ཉིད་སྟོང་ཉིད་ལ། །གཟུང་འཛིན་གཉིས་སུ་གང་རྟོག་པ། །འཇིག་ཅིང་འཇོམས་པས་རྡོ་རྗེའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-079-036-74"/>“The emptiness of the self-aware mind itself, Connected with the fourth initiation, is vajra Because it crushes and destroys The dualistic concepts of subject and object.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-079-036-TU-19">
+    <prop type="location-id">UT22084-079-036-75</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་རྟགས་ཀྱི་རྡོ་རྗེ་ནི། །རྩེ་གསུམ་སྐུ་གསུང་ཐུགས་སུ་བཤད། །འདོད་ཆགས་ཞེ་སྡང་གཏི་མུག་གསུམ། །འཇིག་ཅིང་འཇོམས་པས་རྡོ་རྗེ་སྟེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-079-036-75"/>“Next is the symbolic vajra: The three-pronged vajra is explained as body, speech, and mind, Because a vajra crushes and destroys Attachment, anger, and delusion.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-079-036-TU-20">
+    <prop type="location-id">UT22084-079-036-76</prop>
+    <tuv xml:lang="bo">
+                <seg>རྩེ་ལྔ་ཡེ་ཤེས་ལྔ་ཡི་རྟགས། །ང་རྒྱལ་ལ་སོགས་རྣམ་པ་ལྔ། །འཇིག་ཅིང་འཇོམས་པས་རྡོ་རྗེའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-079-036-76"/>“The five-pronged vajra symbolizes the five wisdoms Because it crushes and destroys The five afflictions of pride and the rest.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-079-036-TU-21">
+    <prop type="location-id">UT22084-079-036-77</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་རྫས་ཀྱི་རྡོ་རྗེ་ནི། །རྣམ་པ་བཞི་རུ་བསྟན་པ་སྟེ། །ཟུར་གསུམ་རྣོ་ལ་འབིགས་པ་དང་། །གྲུ་བཞི་དག་ནི་གསལ་བར་བྱེད། །ཟླུམ་པོས་རྫས་རྣམས་འཇོམས་པར་བྱེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-079-036-77"/>“Next, the material vajra Is taught to be of four kinds: “When sharp and triangular it pierces, When four sided it purifies, When round, it destroys all that is material, While one with five angles fulfills desires.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-079-036-TU-22">
+    <prop type="location-id">UT22084-079-036-77</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟུར་ལྔས་འདོད་བསྒྲུབ་རྫས་རྡོ་རྗེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Such are the material vajras.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-079-036-TU-23">
+    <prop type="location-id">UT22084-079-036-78</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱུད་ཀྱི་དོན་ནི་རྣམ་པ་བཞི། །རྒྱུ་དང་འབྲས་བུ་གཉིས་ཀའི་རྒྱུད། །མཐར་ཐུག་རྒྱུད་ནི་རྒྱལ་པོ་སྟེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-079-036-78"/>“The meaning of tantra is fourfold: There are the two tantras, causal and resultant, And the ultimate tantra that is king.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-079-036-TU-24">
+    <prop type="location-id">UT22084-079-036-78</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་རྣམས་ཀུན་ལ་དབང་བྱེད་པས། །ལོག་ལྟའི་རྒྱུད་སོགས་སྤོང་བར་བྱེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>By gaining mastery over them all, The tantra of wrong view is eliminated.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-079-036-TU-25">
+    <prop type="location-id">UT22084-079-036-79</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང་། བྱང་ཆུབ་སེམས་དཔའི་འཁོར་དཔག་ཏུ་མེད་པ་རྣམས་དགའ་ཞིང་མགུ་ནས་རྗེས་སུ་ཡི་རངས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-079-036-79"/>The Blessed One finished speaking, and the countless bodhisattvas in the assembly felt joy and devotion, and then rejoiced.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-079-036-TU-26">
+    <prop type="location-id">UT22084-079-036-79</prop>
+    <tuv xml:lang="bo">
+                <seg>གཡས་ཕྱོགས་ནས་ལན་གསུམ་བསྐོར་ནས་སོ་སོའི་རྫུ་འཕྲུལ་གྱིས་མི་སྣང་བར་གྱུར་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>After circling the Blessed One to the right three times, they disappeared by using their individual, miraculous powers.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-079-036-TU-27">
+    <prop type="location-id">UT22084-079-036-80</prop>
+    <tuv xml:lang="bo">
+                <seg>དཔལ་རྡོ་རྗེ་འཇིགས་བྱེད་རྣམ་པར་འཇོམས་པའི་རྒྱུད་ཀྱི་<tei:ref folio="F.248.a"/>རྒྱལ་པོ་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-079-036-80"/>“The Destruction of The Glorious Vajrabhairava, A King of Tantras,” is complete.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-079-036-TU-28">
+    <prop type="location-id">UT22084-079-036-81</prop>
+    <tuv xml:lang="bo">
+                <seg>པཎྜི་ཏ་ག་ཡ་དྷ་ར་དང་། ལོ་ཙྪ་བ་དགེ་སློང་ཤཱཀྱ་ཡེ་ཤེས་ཀྱིས་བསྒྱུར་བའོ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-079-036-81"/>This was translated by the paṇḍita Gayādhara and the translator-monk Śākya Yeshé.</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-072-024" eft:text-version="v-1.0.2-2023"/>
+<body>
+<tu id="UT22084-072-024-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.204.a"/>༄༅༅། །རྒྱ་གར་སྐད་དུ། ཙ་ཏུར་གཱ་ཐཱ། །བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-072-024-TU-2">
+    <prop type="location-id">UT22084-072-024-71</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚིགས་སུ་བཅད་པ་བཞི་པ། དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-024-translation"/>The Four Stanzas<tei:milestone xml:id="UT22084-072-024-71"/> Homage to the Three Jewels!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-024-TU-3">
+    <prop type="location-id">UT22084-072-024-73</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐུར་གྱུར་པ་ནི་ཐམས་ཅད་ལ། །མཚན་མཆོག་སུམ་ཅུ་གཉིས་མངའ་བ། །རྫོགས་པའི་སངས་རྒྱས་གྲགས་ལྡན་པའི། །རྒྱལ་བ་ཀུན་ལ་ཕྱག་འཚལ་ལོ། །རྫོགས་སངས་གང་དུ་བལྟམས་པ་དང་། །གང་དུ་བྱང་ཆུབ་ལ་རེག་དང་། །ཞི་བའི་འཁོར་ལོ་བསྐོར་བ་དང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-024-73"/>I pay homage to all victorious ones, Those celebrated perfect buddhas, And to their bodies That possess the thirty-two supreme marks.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-024-TU-4">
+    <prop type="location-id">UT22084-072-024-75</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟག་མེད་<tei:ref folio="F.204.b"/>མྱ་ངན་འདས་པ་དང་། །བདེ་གཤེགས་གང་དུ་བཞུགས་པ་དང་། །འཆག་པ་དང་ནི་བཞེངས་པ་དང་། །སེང་གེ་ལྟ་བུར་གཟིམས་པ་ཡི། །གནས་དེ་ལ་ནི་བདག་ཕྱག་འཚལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-024-75"/>Where the perfect buddhas were born, Where they reached awakening, Where they turned the wheel of peace, Where they passed into parinirvāṇa, free from defilement,<tei:milestone xml:id="UT22084-072-024-76"/> Where those sugatas sat, Where they walked and stood, And where they slept like lions— To all those places I bow.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-024-TU-5">
+    <prop type="location-id">UT22084-072-024-78</prop>
+    <tuv xml:lang="bo">
+                <seg>སྟེང་དང་འོག་དང་བར་དག་དང་། །ཕྱོགས་དང་ཕྱོགས་མཚམས་རྣམས་སུ་ཡང་། །སྐུ་བཅས་སྐུ་ནི་མེད་པ་ཡི། །མཆོད་རྟེན་ལ་ནི་བདག་ཕྱག་འཚལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-024-78"/>I also bow to all stūpas, With and without relics, Above, in between, below, And in the cardinal and intermediate directions.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-024-TU-6">
+    <prop type="location-id">UT22084-072-024-79</prop>
+    <tuv xml:lang="bo">
+                <seg>རྐང་གཉིས་དམ་པ་ཤར་དང་ནི། །བྱང་གི་ཕྱོགས་ཆར་བཞུགས་པ་ཡི། །རྒྱལ་བ་བསྟེན་དཀའ་ཞེས་བྱ་བ། །དེས་ནི་ཚིགས་བཅད་འདི་གསུངས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-024-79"/>These stanzas were uttered By the victorious one Difficult to Follow, The best of humans, Who dwells in the northeastern direction.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-024-TU-7">
+    <prop type="location-id">UT22084-072-024-82</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་གིས་ཚིགས་བཅད་འདི་བཞི་ཡིས། །དེ་བཞིན་གཤེགས་ལ་སྟོད་བྱེད་པ། །དེ་ནི་ཚེ་རབས་སྟོང་དུ་ཡང་། །ངན་འགྲོར་འགྲོ་བར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-024-82"/>Those who praise the tathāgatas With these four stanzas Will not go to the lower realms For a thousand lifetimes.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-072-024-TU-8">
+    <prop type="location-id">UT22084-072-024-84</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚིགས་སུ་བཅད་པ་བཞི་པ་རྫོགས་སོ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-072-024-84"/>Thus ends “The Four Stanzas.”</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

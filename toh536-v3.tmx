@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-088-030" eft:text-version="v-1.0.0-2023"/>
+<body>
+<tu id="UT22084-088-030-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg/>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-088-030-TU-2">
+    <prop type="location-id">UT22084-088-030-54</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.100.a"/>ནམཿསརྦ་ཏ་ཐཱ་ག་ཏ་ཧྲྀ་ད་ཡ། ཨ་ནུ་ག་ཏེ་ཨོཾ་ཀུ་རུཾ་གི་ནི་སྭཱ་ཧཱ། འདི་ལན་ཅིག་བཟླས་པས་ཀྱང་བསྐལ་པ་འབུམ་ཕྲག་བརྒྱད་སྟོང་དུ་བསགས་པའི་ལས་ཀྱི་སྒྲིབ་པ་ཡང་ཟད་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-030-translation"/>Recollecting the Common Essence of the Tathāgatas<tei:milestone xml:id="UT22084-088-030-54"/> namaḥ sarva tathāgata­hṛdaya| anugate oṃ kuruṃgini svāhā|<tei:milestone xml:id="UT22084-088-030-56"/> Reciting this even a single time will exhaust the karmic obscurations accumulated in eight hundred million eons.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-030-TU-3">
+    <prop type="location-id">UT22084-088-030-57</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་གཤེགས་པ་སྤྱིའི་སྙིང་པོ་རྗེས་སུ་དྲན་པ་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-030-57"/>This completes “Recollecting the Common Essence of the Tathāgatas.”</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

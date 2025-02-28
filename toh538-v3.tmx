@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-088-032" eft:text-version="v-1.0.1-2023"/>
+<body>
+<tu id="UT22084-088-032-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.100.a"/>༄༅༅། །རྒྱ་གར་སྐད་དུ། པཱུ་ཛ་མེ་གྷ་ནཱ་མ་དྷཱ་ར་ཎཱི། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-088-032-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>མཆོད་པའི་སྤྲིན་ཞེས་བྱ་བའི་གཟུངས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-032-translation"/>The Dhāraṇī “Cloud of Offerings”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-032-TU-3">
+    <prop type="location-id">UT22084-088-032-57</prop>
+    <tuv xml:lang="bo">
+                <seg>དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །ན་མོ་རཏྣ་ཏྲ་ཡཱ་ཡ། ན་མོ་བྷ་ག་བ་ཏེ། བཛྲ་སཱ་ར་པྲ་མརྡ་ནི། ཏ་ཐཱ་ག་ཏཱ་ཡ། ཨརྷ་ཏེ་སམྱཀྶཾ་བུདྡྷཱ་ཡ། ཏདྱ་ཐཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-032-57"/>Homage to the Three Jewels.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-032-TU-4">
+    <prop type="location-id">UT22084-088-032-59</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་བཛྲེ་བཛྲེ། མ་ཧཱ་བཛྲེ། མ་ཧཱ་ཏེ་ཛ་བཛྲེ། མ་ཧཱ་བིདྱཱ་བཛྲེ། མ་ཧཱ་བོ་དྷི་ཙིཏྟ་བཛྲེ། མ་ཧཱ་བོ་དྷི་མཎྜོ་པ་སཾ་ཀྲ་མ་ཎ་བཛྲེ། སརྦ་ཀརྨྨ་ཨཱ་བར་ཎ་བི་ཤོ་དྷ་ན་བཛྲེ་སྭཱ་ཧཱ། གཟུངས་སྔགས་འདིའི་ཆོ་ག་ནི་འདི་ཡིན་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-032-59"/>namo ratna trayāya| namo bhagavate| vajrasāra pramardani| tathāgatāya| arhate samyaksaṃ­buddhāya| tadyathā| oṃ vajre vajre| mahā­vajre| mahāteja­vajre| mahā­vidyāvajre| mahā­bodhi­citta­vajre| mahā­bodhi­maṇḍōpasaṃ­kramaṇa­vajre| sarva­karma āvaraṇa­viśodhana­vajre svāhā||<tei:milestone xml:id="UT22084-088-032-60"/> The rite for this dhāraṇī mantra is as follows.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-032-TU-5">
+    <prop type="location-id">UT22084-088-032-59</prop>
+    <tuv xml:lang="bo">
+                <seg>དྲན་པ་ཙམ་གྱི་མོད་ལ་ཕྱོགས་བཅུ་དག་ན་བཞུགས་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་གང་གཱའི་ཀླུང་གི་བྱེ་མའི་རྡུལ་ཕྲ་རབ་སྙེད་ལ་མཆོད་པ་བྱས་པར་འགྱུར་ཞིང་ཞབས་ལ་ཕྱག་བྱས་པར་འགྱུར་རོ། །མེ་ཏོག་དང་། བདུག་པ་དང་། སྤོས་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the instant of recollecting it, one makes offerings to as many blessed buddhas who reside in the ten directions as there are coarse and subtle grains of sand in the river Gaṅga, and pays homage at their feet.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-032-TU-6">
+    <prop type="location-id">UT22084-088-032-59</prop>
+    <tuv xml:lang="bo">
+                <seg>མེ་ཏོག་ཕྲེང་བ་དང་། བྱུག་པ་དང་། ཕྱེ་མ་དང་། གདུགས་དང་། རྒྱལ་མཚན་དང་། བ་དན་ཐམས་ཅད་དང་། གདན་དང་། གདིང་བ་དང་། ན་བཟའ་དང་། སྤྱན་གཟིགས་<tei:ref folio="F.100.b"/>དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These offerings are in the form of flowers, incense, perfumes, flower garlands, scented unguents, powders, parasols, banners, pennants, seats, carpets, clothing, enjoyments, food, and so forth, as well as ornaments and flowing garments.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-032-TU-7">
+    <prop type="location-id">UT22084-088-032-59</prop>
+    <tuv xml:lang="bo">
+                <seg>བཤོས་གཙང་བ་ལ་སོགས་པ་དང་། རྒྱན་དང་། ལྷབ་ལྷུབ་ཐམས་ཅད་ཀྱིས་མཆོད་པར་འགྱུར་རོ། །སྡིག་པ་ཐམས་ཅད་དང་བྲལ་བར་འགྱུར་ཞིང་དགེ་བའི་རྩ་བ་ཐམས་ཅད་དང་ལྡན་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One will be freed from all evil deeds and will possess every virtue.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-032-TU-8">
+    <prop type="location-id">UT22084-088-032-59</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་མཐོང་བས་ཡང་དག་པར་དབུགས་འབྱིན་པར་འགྱུར་རོ། །ལྷ་དང་། ཀླུ་དང་། གནོད་སྦྱིན་དང་། དྲི་ཟ་དང་། ལྷ་མ་ཡིན་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>One will see all the buddhas and bodhisattvas and thereby be comforted.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-032-TU-9">
+    <prop type="location-id">UT22084-088-032-59</prop>
+    <tuv xml:lang="bo">
+                <seg>ནམ་མཁའ་ལྡིང་དང་། མིའམ་ཅི་དང་། ལྟོ་འཕྱེ་ཆེན་པོ་ཐམས་ཅད་དང་། ལག་ན་རྡོ་རྗེ་ལ་སོགས་པ་གསང་བ་པའི་བདག་པོ་དང་བཅས་པ་རྣམས་དང་། རྒྱལ་པོ་ཆེན་པོ་བཞི་པོ་རྣམས་ཕྱི་བཞིན་ཡང་དག་པར་འབྲང་ཞིང་སྲུང་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>All the gods, nāgas, yakṣas, gandharvas, asuras, garuḍas, kinnaras, and mahoragas, as well as the Lords of Secrets, such as Vajrapāṇi, as well as the Four Great Kings, will follow, protect, guard, and remain near to one.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-032-TU-10">
+    <prop type="location-id">UT22084-088-032-59</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐྱོབ་པ་དང་། སྦེད་པར་བྱེད་དོ། །འདི་ནས་ཤི་འཕོས་ནས་ཀྱང་འཇིག་རྟེན་གྱི་ཁམས་བདེ་བ་ཅན་དུ་སྐྱེ་བར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>When one dies and transmigrates, one will be born in the realm of Sukhāvatī.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-032-TU-11">
+    <prop type="location-id">UT22084-088-032-59</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡོན་ཏན་གྱི་ཁྱད་པར་འདི་དག་ནི་མ་བསྒྲུབས་པར་ལན་ཅིག་དྲན་པ་ཙམ་གྱིས་ཐོབ་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>If one has not accomplished these special qualities, they will be obtained with just a single recitation.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-088-032-TU-12">
+    <prop type="location-id">UT22084-088-032-62</prop>
+    <tuv xml:lang="bo">
+                <seg>མཆོད་པའི་སྤྲིན་ཞེས་བྱ་བའི་གཟུངས་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-088-032-62"/>This completes the dhāraṇī called “The Cloud of Offerings.”</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

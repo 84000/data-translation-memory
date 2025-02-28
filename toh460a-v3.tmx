@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-083-008" eft:text-version="v-1.0.2-2023"/>
+<body>
+<tu id="UT22084-083-008-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.39.b"/>༄༅། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-083-008-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg/>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-083-008-translation"/>The Dhāraṇī “Dream Visions”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-008-TU-3">
+    <prop type="location-id">UT22084-083-008-56</prop>
+    <tuv xml:lang="bo">
+                <seg>དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-083-008-56"/>Homage to the Three Jewels!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-008-TU-4">
+    <prop type="location-id">UT22084-083-008-56</prop>
+    <tuv xml:lang="bo">
+                <seg>གནོད་སྦྱིན་གྱི་སྡེ་ཆེན་པོ་ལག་ན་རྡོ་རྗེ་དྲག་པོ་ལ་ཕྱག་འཚལ་ལོ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Homage to the great yakṣa general, the fierce Vajrapāṇi!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-008-TU-5">
+    <prop type="location-id">UT22084-083-008-81</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨོཾ་མུ་ཙི་ནི་སྭཱ་ཧཱ། མུ་ཁེ་སེ་སྭཱ་ཧཱ། མོ་ཧཱ་ནི་སྭཱ་ཧཱ། དན་ཏི་སྭཱ་ཧཱ། ཆོ་ག་འདི་ཆུ་ཁྱོར་བ་གང་བཟླས་པ་བྱས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-083-008-81"/>oṁ mucini svāhā | mukhese svāhā | mohani svāhā | dantiri svāhā<tei:milestone xml:id="UT22084-083-008-61"/> This rite is as follows: One should incant a handful of water and drink it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-008-TU-6">
+    <prop type="location-id">UT22084-083-008-81</prop>
+    <tuv xml:lang="bo">
+                <seg>འཐུངས་ནས་སེམས་བཞིན་དུ་ཉལ་ན་ལག་ན་རྡོ་རྗེས་རྨི་ལམ་སྟོན་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then, when one falls asleep with intent, Vajrapāṇi will reveal a dream.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-083-008-TU-7">
+    <prop type="location-id">UT22084-083-008-62</prop>
+    <tuv xml:lang="bo">
+                <seg>རྨི་ལམ་མཐོང་བ་ཞེས་བྱ་བའི་གཟུངས་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-083-008-62"/>The Dhāraṇī “Dream Visions” is complete.</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

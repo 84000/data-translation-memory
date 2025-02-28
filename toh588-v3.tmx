@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-090-032" eft:text-version="v-1.0.3-2023"/>
+<body>
+<tu id="UT22084-090-032-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.204.b"/>༄༅། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-090-032-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg/>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-032-translation"/>The Dhāraṇī to Uphold “The Noble Great Amulet”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-032-TU-3">
+    <prop type="location-id">UT22084-090-032-58</prop>
+    <tuv xml:lang="bo">
+                <seg>དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-032-58"/>Homage to the Three Jewels!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-032-TU-4">
+    <prop type="location-id">UT22084-090-032-61</prop>
+    <tuv xml:lang="bo">
+                <seg>ན་མཿས་མནྟ་བུདྡྷ་ནཱཾ། ཨ་པྲ་ཏི་ཧ་ཏ་ཤཱ་ས་ནཱ་ནཱཾ། ཨོཾ་མ་ཎི་དྷ་རི་བཛྲི་ཎི་མ་ཧཱ་པྲ་ཏི་ས་རེ་ཧཱུྃ་ཧཱུྃ་ཕཊ་ཕཊ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-032-61"/>namaḥ samanta­buddhānām aprati­hataśāsanānāṃ oṃ maṇidhari vajriṇi mahāpratisare hūṃ hūṃ phaṭ phaṭ svāhā!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-032-TU-5">
+    <prop type="location-id">UT22084-090-032-64</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་བཟུང་བས་འཕགས་མ་རིག་པའི་རྒྱལ་མོ་སོ་སོར་འབྲང་མ་ཆེན་མོ་གཟུང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-032-64"/>By upholding this, one will have upheld The Noble Queen of Incantations: The Great Amulet.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-090-032-TU-6">
+    <prop type="location-id">UT22084-090-032-66</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་མ་སོ་སོར་འབྲང་མ་ཆེན་མོ་གཟུང་བར་འགྱུར་བའི་གཟུངས་རྫོགས་སོ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-090-032-66"/>Here ends “The Dhāraṇī to Uphold ‘The Noble Great Amulet.’ ”</seg>
+            </tuv>
+</tu>
+
+
+</body>
+</tmx>

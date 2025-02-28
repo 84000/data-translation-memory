@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-091-006" eft:text-version="v-1.0.2-2023"/>
+<body>
+<tu id="UT22084-091-006-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.41.b"/>༄༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་སརྦ་ཨ་བྷ་ཡ་པྲ་དཱ་ནཱ་མ་དྷཱ་ར་ཎཱི། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-2">
+    <prop type="location-id">UT22084-091-006-55</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ཐམས་ཅད་ལ་མི་འཇིགས་པ་རབ་ཏུ་སྦྱིན་པ་ཞེས་བྱ་བའི་གཟུངས། སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-006-translation"/>The Noble Dhāraṇī That Fully Confers Freedom From All Dangers<tei:milestone xml:id="UT22084-091-006-55"/> Homage to all buddhas and bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-3">
+    <prop type="location-id">UT22084-091-006-56</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-006-56"/>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-4">
+    <prop type="location-id">UT22084-091-006-56</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཡུལ་མ་ག་དྷཱ་ནས་ཡུལ་རྒྱུ་ཞིང་ཨ་མྲའི་ཚལ་དུ་གཤེགས་ཏེ་བྱོན་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One was traveling through the land of Magadha when he arrived at a mango grove.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-5">
+    <prop type="location-id">UT22084-091-006-56</prop>
+    <tuv xml:lang="bo">
+                <seg>ཨ་མྲའི་ཚལ་ལུས་འཕགས་རིའི་དབང་པོའི་བྲག་ཕུག་ན་བཞུགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>At that mango grove, he took up residence in the Indra’s Rock Cave on Vaidehaka Mountain.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-6">
+    <prop type="location-id">UT22084-091-006-56</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ལྷའི་དབང་པོ་བརྒྱ་བྱིན་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Śakra the lord of the devas then appeared before the Blessed One.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-7">
+    <prop type="location-id">UT22084-091-006-56</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་<tei:ref folio="F.42.a"/>འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ་ཕྱོགས་གཅིག་ཏུ་འདུག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>He bowed his head at the Blessed One’s feet and sat to one side.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-8">
+    <prop type="location-id">UT22084-091-006-57</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱོགས་གཅིག་ཏུ་འདུག་ནས་ལྷའི་དབང་པོ་བརྒྱ་བྱིན་གྱིས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་ལྷ་མ་ཡིན་རྣམས་ནི་རབ་ཏུ་གནོད་པ་བགྱིད་པ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-006-57"/>Having sat to one side, Śakra the lord of the devas told the Blessed One, “Blessed One, the asuras are causing me great harm.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-9">
+    <prop type="location-id">UT22084-091-006-57</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ལྷ་མ་ཡིན་རྣམས་ནི་བདག་ལ་ཡུན་རིང་པོར་ཕྱིར་རྒོལ་བའི་དགྲ་ལགས་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Blessed One, the asuras are adversaries who have been hostile to me for a long time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-10">
+    <prop type="location-id">UT22084-091-006-57</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་བདག་ལ་ཆོས་བསྟན་དུ་གསོལ། དེ་སྐད་ཅེས་གསོལ་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Blessed One, please offer me a teaching.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-11">
+    <prop type="location-id">UT22084-091-006-58</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་ལྷའི་དབང་པོ་བརྒྱ་བྱིན་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །ལྷའི་དབང་བོ་ཁྱོད་ཀྱིས་ཐམས་ཅད་ལ་མི་འཇིགས་པ་སྦྱིན་པའི་རིག་སྔགས་དོན་ཐམས་ཅད་བྱེད་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-006-58"/>The Blessed One told Śakra the lord of the devas, “Lord of the devas, uphold the vidyāmantra that confers freedom from all dangers.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-12">
+    <prop type="location-id">UT22084-091-006-58</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇིགས་པ་ཐམས་ཅད་རབ་ཏུ་ཞི་བར་བྱེད་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It accomplishes all aims and quells all dangers.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-13">
+    <prop type="location-id">UT22084-091-006-58</prop>
+    <tuv xml:lang="bo">
+                <seg>ནད་ཐམས་ཅད་རབ་ཏུ་ཞི་བར་བྱེད་པ། དུག་ཐམས་ཅད་འཇིལ་བ། མཚོན་ཐམས་ཅད་རེངས་པར་བྱེད་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It alleviates all diseases, neutralizes all poisons, and stops all weapons.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-14">
+    <prop type="location-id">UT22084-091-006-58</prop>
+    <tuv xml:lang="bo">
+                <seg>རྐང་མེད་དང་། རྐང་གཉིས་དང་། རྐང་བཞི་པ་ཐམས་ཅད་རེངས་པར་བྱེད་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It paralyzes all legless, two-legged, and four-legged beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-15">
+    <prop type="location-id">UT22084-091-006-58</prop>
+    <tuv xml:lang="bo">
+                <seg>དགྲ་ཐམས་ཅད་ཕུང་བར་བྱེད་པ། ལྷ་དང་། ནམ་མཁའ་ལྡིང་དང་། སྦྱིན་བྱེད་མའི་བུ་དང་། ཤ་ཟ་དང་། བརྗེད་བྱེད་དང་། སྨྱོ་བྱེད་དང་། བྲམ་ཟེའི་སྲིན་པོ་དང་། འབྱུང་པོ་དང་། རོ་ལངས་དང་། བྱའི་གདོན་དང་། སྲུལ་པོ་དང་། ནམ་གྲུ་དང་། གནོན་པོའི་གདོན་དང་། གནོན་པོ་དང་། བརྗེད་བྱེད་ཀྱི་གདོན་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It defeats all adversaries.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-16">
+    <prop type="location-id">UT22084-091-006-58</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷའི་གདོན་དང་། ཀླུའི་གདོན་དང་། གནོད་སྦྱིན་གྱི་གདོན་དང་། དྲི་ཟའི་གདོན་དང་། མིའམ་ཅིའི་གདོན་དང་། ལོག་འདྲེན་གྱི་གདོན་དང་། མ་མོའི་གདོན་ཕུང་བར་བྱེད་པ། མདངས་འཕྲོག་པ་དང་། ཟས་སུ་ཕྲེང་བ་ཟ་བ་དང་། ཟས་སུ་སྤོས་ཟ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It defeats asuras, garuḍas, daityas, piśācas, apasmāras, unmādas, brahmanical rākṣasas, bhūtas, vetālas, śakuni grahas, pūtanas, revatīs, ostāraka grahas, ostārakas, apasmāra grahas, deva grahas, nāga grahas, yakṣa grahas, gandharva grahas, kinnara grahas, vināyaka grahas, and mātṛ grahas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-17">
+    <prop type="location-id">UT22084-091-006-58</prop>
+    <tuv xml:lang="bo">
+                <seg>ཟས་སུ་མེ་ཏོག་ཟ་བ་དང་། ཟས་སུ་བདུག་པ་ཟ་བ་དང་། ཟས་སུ་ཁྲག་འཐུང་བ་དང་། ཟས་སུ་རྣག་འཐུང་བ་དང་། ཟས་སུ་མི་གཙང་བ་ཟ་བ་དང་། ཟས་སུ་གཅིན་འཐུང་བ་རབ་ཏུ་ཕུང་བར་བྱེད་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And it utterly defeats ojohāras, beings who feed on garlands, fragrances, flowers, incense, blood, pus, filth, and urine for sustenance.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-18">
+    <prop type="location-id">UT22084-091-006-58</prop>
+    <tuv xml:lang="bo">
+                <seg>རིམས་ནད་ཐམས་ཅད་དང་། རླུང་ལས་གྱུར་པ་དང་། མཁྲིས་པ་ལས་གྱུར་པ་དང་། བད་ཀན་ལས་གྱུར་པ་དང་། འདུས་པ་ལས་གྱུར་པ་དང་། འགྲོ་བ་དྲག་ཤུལ་སྤྱོད་པ་རབ་ཏུ་འཇིགས་པར་བྱེད་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It completely overcomes all infectious diseases, vātikas, paittikas, śleṣmikas, sānnipātikas, and malevolent beings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-19">
+    <prop type="location-id">UT22084-091-006-58</prop>
+    <tuv xml:lang="bo">
+                <seg>འཐབ་པ་དང་། རྩོད་པ་དང་། འགྱེད་པ་དང་། མཚང་འདྲུ་བ་ཐམས་ཅད་རབ་ཏུ་ཞི་བར་བྱེད་པ་འདི་ཟུང་ཤིག །ཐམས་<tei:ref folio="F.42.b"/>ཅད་ལ་མི་འཇིགས་པ་སྦྱིན་པའི་རིག་སྔགས་བཤད་པར་བྱའོ། །ཏདྱ་ཐཱ། ཨ་ཌེ་མ་ཌེ་པྲ་མ་ཌེ། པྲ་བཾ་མ་དི་རི། གོ་ལེ་མ་བོ་ལི་བོ་སེ། མོད་དེ་བད་དེ། ཁ་རད་ཏེ། ཁ་ར་ནེ། གྲ་ཎ་གྲ་ཎེ། ག་ཎ་པྲ་ག་ཎེ་མོ་ཎེ། པྲ་ཏི་མོ་ཎེ། ཀཱ་ལཱི་པྲ་ཀཱ་ལཱི། ཙཎ་ཌེ་མ་ཧཱ་ཙཎ་ཌེ། པྲ་ཏི་ཙཎ་ཌེ། བེ་གེ་ཨ་ཏི་བེ་གེ་སོ་ན། གོ་ན། མོ་ཧཱ། པྲ་མོ་ཧཱ། མོ་ཏ་ཏྲ་མོ་ཊཱ། ནཱ་ཤཱ་ནི། པྲ་ནཱ་ཤཱ་ནི། དྷ་བ་ནཱི། པྲ་དྷ་བ་ནཱི། བ་ལ་ག་ནཱི། པྲ་བ་ལ་ནཱི། ནྲིད་ཏྱ་ནཱི། པྲ་ནྲིད་ཏྱ་ནཱི། ཀྲོ་དྷ་ནི། པྲ་ཏི་ཀྲོ་དྷ་ནི། ཧ་ན་ཧ་ན་བི་ཧ་ན་བི་ཧ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It brings perfect peace from all conflicts, disputes, wars, and scandals.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-20">
+    <prop type="location-id">UT22084-091-006-61</prop>
+    <tuv xml:lang="bo">
+                <seg>སརྦ་ཏུཥྚ་པྲ་དུཥྚ་ན་ནཱ་ཤ་ཡ། སརྦ་ཨ་བྷ་ཡ་པྲ་དེ། བདག་འཁོར་དང་བཅས་པ་འཇིགས་པ་ཐམས་ཅད་དང་། གདོན་ཐམས་ཅད་དང་། ནད་འགོ་བ་ཐམས་ཅད་ལས་སྲུངས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I will recite the vidyāmantra that confers freedom from all dangers:<tei:milestone xml:id="UT22084-091-006-61"/> tadyathā | aḍe maḍe pramaḍe pravaṃ madiri gole mavoli vose modde vadde kharadte kharane graṇa graṇe gaṇa pragaṇe moṇe pratimoṇe kālī prakālī caṇḍe mahācaṇḍe praticaṇḍe vege ativege sona gona mohā pramohā mota pramoṭā nāśāni pranāśāni dhavanī pradhavanī valaganī pravalanī nṛdtyanī pranṛdtyanī pāniṭhāni krodhāni pratikrodhāni hana hana vihana vihana sarva­duṣṭapraduṣṭān nāśaya sarvābhayaprade | Protect myself and all those around me from all dangers, all grahas, and all transmittable diseases.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-21">
+    <prop type="location-id">UT22084-091-006-61</prop>
+    <tuv xml:lang="bo">
+                <seg>སྲུངས་ཤིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Protect.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-22">
+    <prop type="location-id">UT22084-091-006-61</prop>
+    <tuv xml:lang="bo">
+                <seg>གནས་འདིར་བདག་གི་དོན་ཐམས་ཅད་གྲུབ་པར་གྱུར་ཅིག །དེ་ལྟ་བས་ན། ཁི་དི་ཁི་དི། ཙུམ་བྷེ། སརྦ་སཏྭ་ཧི་ཏེ་ར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Accomplish all my aims in this place.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-23">
+    <prop type="location-id">UT22084-091-006-62</prop>
+    <tuv xml:lang="bo">
+                <seg>ན་མཿསརྦ་བུདྡྷཱ་ནཱཾ་སྭཱ་ཧཱ། ལྷའི་དབང་པོ་ཐམས་ཅད་ལ་མི་འཇིགས་པ་སྦྱིན་པའི་རིག་སྔགས་ཚིག་བཞི་བཅུ་རྩ་གཅིག་པོ་འདི་སྐུད་པ་ལ་མདུད་དེ་བཅིངས་སམ། སྐྲ་ལ་མདུད་པ་བོར་རམ། བཟླས་བརྗོད་བྱས་སམ། ཡུངས་ཀར་རམ། གིའུ་ཝང་ལ་ལན་ཅིག་སྔགས་ཏེ་བསྐུས་སམ། གོ་ཆ་ལ་བསྔགས་ན་མཚོན་གྱིས་མི་ཚུགས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thus: khidi khidi cumbe sarva­sattvahite rate namaḥ sarva­buddhānāṃ svāhā<tei:milestone xml:id="UT22084-091-006-62"/> “Lord of the devas, anyone who ties a knot in a thread with this vidyāmantra of forty-one words that confers freedom from all dangers and wears it, ties it in their hair, chants it, incants mustard seeds or bezoar with it once and rubs that on themselves, or incants armor with it will be invulnerable to weapons.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-24">
+    <prop type="location-id">UT22084-091-006-62</prop>
+    <tuv xml:lang="bo">
+                <seg>དུག་གིས་མ་ཡིན། རིམས་ནད་ཀྱིས་མ་ཡིན། ཉིན་གཅིག་པས་མ་ཡིན། ཉིན་གཉིས་པས་མ་ཡིན། ཉིན་གསུམ་པས་མ་ཡིན། ཉིན་བཞི་པས་མ་ཡིན། མེས་མ་ཡིན། གསང་སྔགས་ཀྱིས་མ་ཡིན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will be invulnerable to poison, infectious diseases, single-day fevers, two-day fevers, three-day fevers, four-day fevers, fires, mantras, vetālas, venoms, and diseases.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-25">
+    <prop type="location-id">UT22084-091-006-62</prop>
+    <tuv xml:lang="bo">
+                <seg>རོ་ལངས་ཀྱིས་མ་ཡིན། དུག་གིས་མ་ཡིན། ནད་ཀྱིས་མ་ཡིན་ཏེ། ཆུས་འཆི་བའི་དུས་བྱེད་པར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will never die by drowning.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-26">
+    <prop type="location-id">UT22084-091-006-62</prop>
+    <tuv xml:lang="bo">
+                <seg>རིག་སྔགས་དང་། གསང་སྔགས་དང་། སྦྱོར་བ་སྒྲུབ་པ་ཐམས་ཅད་སྦྱོར་བ་རྣམས་ཀྱིས་མ་གྲུབ་པ་རྣམས་གྲུབ་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will accomplish all applications of vidyāmantras and mantras that they practiced yet failed to accomplish through their applications.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-27">
+    <prop type="location-id">UT22084-091-006-62</prop>
+    <tuv xml:lang="bo">
+                <seg>སྦྱར་ཏེ་གྲུབ་པ་རྣམས་གཞན་གྱིས་མི་ཚུགས་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Others will never be able to harm their accomplished applications.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-28">
+    <prop type="location-id">UT22084-091-006-62</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕ་རོལ་གྱིས་བཅིངས་པ་ལས་གྲོལ་བར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will be freed from bondage caused by opposing forces.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-29">
+    <prop type="location-id">UT22084-091-006-62</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞན་གྱི་རིག་སྔགས་གཅོད་པར་བྱེད་དོ། །བདག་གི་རིག་སྔགས་འཕེལ་བར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will destroy others’ vidyāmantras and make their own vidyāmantras multiply.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-30">
+    <prop type="location-id">UT22084-091-006-62</prop>
+    <tuv xml:lang="bo">
+                <seg>གདོན་ཐམས་ཅད་ཕུང་བར་བྱེད་དོ། །གདོན་གང་གིས་མི་གཏོང་ན་ཡང་དེའི་མགོ་ཨརྫ་ཀའི་དོག་པ་བཞིན་དུ་ཚལ་པ་བདུན་དུ་འགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will defeat all grahas and, if the grahas do not release them, the grahas’ heads will burst into seven pieces like the foliage of a basil plant.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-31">
+    <prop type="location-id">UT22084-091-006-65</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ལྷའི་དབང་པོ་<tei:ref folio="F.43.a"/>བརྒྱ་བྱིན་དེ་ཉིད་དུ་མི་སྣང་བར་གྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-006-65"/>Thereupon, Śakra the lord of the devas himself disappeared.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-32">
+    <prop type="location-id">UT22084-091-006-65</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། ལྷའི་དབང་པོ་བརྒྱ་བྱིན་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>After the Blessed One had spoken, Śakra the lord of the devas rejoiced and praised what the Blessed One had taught.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-33">
+    <prop type="location-id">UT22084-091-006-66</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ཐམས་ཅད་ལ་རབ་ཏུ་མི་འཇིགས་པ་སྦྱིན་པ་ཞེས་བྱ་བའི་གཟུངས་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-006-66"/>This concludes the noble dhāraṇī “Conferring Freedom from All Dangers.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-091-006-TU-34">
+    <prop type="location-id">UT22084-091-006-67</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་ཛི་ན་མི་ཏྲ་དང་། དཱ་ན་ཤཱི་ལ་དང་ཞུ་ཆེན་གྱི་ལོ་ཙྪ་བ་བནྡེ་ཡེ་ཤེས་སྡེས་བསྒྱུར་ཅིང་ཞུས་ཏེ་སྐད་གསར་ཆད་ཀྱིས་ཀྱང་བཅོས་ནས་གཏན་ལ་ཕབ་པ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-091-006-67"/>Translated and edited by the Indian preceptors Jinamitra and Dānaśīla along with the chief editor and translator Bandé Yeshé Dé; later revised according to the new language reforms and then finalized.</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>
