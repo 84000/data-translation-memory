@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-101-122" eft:text-version="v-1.0.5-2023"/>
+<body>
+<tu id="UT22084-101-122-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.235.a"/>༄༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་ག་ཎུ་ཨ་ལྃ་ཀ་ར་ཨ་གྲ་ནཱ་མ་དྷཱ་ར་ཎཱི། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-101-122-TU-2">
+    <prop type="location-id">UT22084-101-122-24</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་སྡོང་པོ་རྒྱན་གྱི་མཆོག་ཅེས་བྱ་བའི་གཟུངས། དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-122-translation"/>The Noble Dhāraṇī of the Supreme Stem Ornament<tei:milestone xml:id="UT22084-101-122-24"/> Homage to the Three Jewels.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-122-TU-3">
+    <prop type="location-id">UT22084-101-122-27</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ཀུན་གྱིས་བསྐྱབ་ཏུ་གསོལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-122-27"/>May all buddhas grant their protection!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-122-TU-4">
+    <prop type="location-id">UT22084-101-122-27</prop>
+    <tuv xml:lang="bo">
+                <seg>བྱང་ཆུབ་མཆོག་ལ་ཕྱག་འཚལ་ལོ། །འཕགས་པ་ཀུན་གྱིས་བསྐྱབ་ཏུ་གསོལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I pay homage to supreme awakening; May all noble ones grant their protection!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-122-TU-5">
+    <prop type="location-id">UT22084-101-122-27</prop>
+    <tuv xml:lang="bo">
+                <seg>རྡོ་རྗེ་མཆོག་ལ་ཕྱག་འཚལ་ལོ། །རིག་བྱེད་ཀུན་གྱིས་བསྐྱབ་ཏུ་གསོལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I pay homage to the supreme vajra; May all knowledge granters grant their protection!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-122-TU-6">
+    <prop type="location-id">UT22084-101-122-27</prop>
+    <tuv xml:lang="bo">
+                <seg>གཙང་རིས་ལྷ་ལ་ཕྱག་འཚལ་ལོ། །མགོན་པོ་ཀུན་གྱིས་བསྐྱབ་ཏུ་གསོལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I pay homage to all the gods of the pure god realms; May all protectors grant their protection!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-122-TU-7">
+    <prop type="location-id">UT22084-101-122-27</prop>
+    <tuv xml:lang="bo">
+                <seg>བར་སྣང་ལྷ་ལ་ཕྱག་འཚལ་ལོ། །སྲིད་གསུམ་དབང་གིས་བསྐྱབ་ཏུ་གསོལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>I pay homage to the gods in the heavens; May the lords of the three worlds grant their protection!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-122-TU-8">
+    <prop type="location-id">UT22084-101-122-27</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁམས་གསུམ་སྲིད་ལ་དབང་བསྒྱུར་བའི། །ཀུན་ལ་ཕྱག་འཚལ་རྗེས་སུ་མཆོད། །བདག་གི་ལྔ་ཕུང་ཡན་ལག་ལ། །ཐུགས་རྗེས་བྱིན་གྱིས་བརླབ་ཏུ་གསོལ། །དེ་ཡི་སྙིང་པོ་འདི་སྐད་གསུངས། །ཨོཾ་ཀ་ར་ཀ་ར་སྭཱ་ཧཱ། ཀུ་རུ་ཀུ་རུ་སྭཱ་ཧཱ། བྷ་ར་བྷ་ར་སྭཱ་ཧཱ། བྷུ་རུ་བྷུ་རུ་སྭཱ་ཧཱ། དྷ་ར་དྷ་ར་སྭཱ་ཧཱ། དྷུ་རུ་དྷུ་རུ་སྭཱ་ཧཱ། ཙ་ར་ཙ་ར་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>To all those who rule over the three realms of existence I pay homage and offer worship; Grant your compassionate blessings To my five aggregates and limbs!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-122-TU-9">
+    <prop type="location-id">UT22084-101-122-28</prop>
+    <tuv xml:lang="bo">
+                <seg>ཙུ་རུ་ཙུ་རུ་སྭཱ་ཧཱ། བདག་གི་ལྔ་ཕུང་ཡན་ལག་ལ། །ལོ་མི་རུང་དང་ཟླ་མི་རུང་། །ཞག་མི་རུང་དང་ཟ་མི་རུང་། །གཟའ་མི་རུང་དང་སྐར་མི་རུང་། །ཉིན་མི་རུང་དང་མཚན་མི་རུང་། །ཉིན་མཚན་ཕྱེད་མར་མི་རུང་དང་། །སྔ་དྲོ་ཕྱི་དྲོ་མི་རུང་དང་། །ཕྱོགས་མི་རུང་དང་མཚམས་མི་རུང་། །འདྲེ་ལྔ་སྡོད་དང་བདུད་གཅོད་པ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-122-28"/>The essence-mantra of that is said to be:<tei:milestone xml:id="UT22084-101-122-29"/> oṁ kara kara svāhā kuru kuru svāhā bhara bhara svāhā bhuru bhuru svāhā dhara dhara svāhā dhuru dhuru svāhā cara cara svāhā curu curu svāhā <tei:milestone xml:id="UT22084-101-122-30"/>Protect my five aggregates and limbs From inauspicious years and inauspicious months, Inauspicious days and inauspicious days of the week, Inauspicious planets and inauspicious stars, Inauspicious daytimes and inauspicious nighttimes, Inauspicious middays, Inauspicious mornings and inauspicious evenings, Inauspicious cardinal directions and inauspicious intermediary directions, Possession by the five ghosts, and inauspicious divinations.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-122-TU-10">
+    <prop type="location-id">UT22084-101-122-28</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དག་ཀུན་ལས་བསྐྱབ་ཏུ་གསོལ། །དེ་ཡི་སྙིང་པོ་འདི་སྐད་གསུངས། །ཨོཾ་པྲཛྙེ་པྲཛྙེ་པྲཛྙ་ཨ་བ་ལོ་ཀི་ར་དྷ་ཏི་མ་ནི་སུ་སིདྡྷི་ཨཱརྱ་ཛྭ་ལ་ནཱ་མ་མཉྫུ་ཡེ་སྭཱ་ཧཱ། བདག་གི་ལྔ་ཕུང་ཡན་ལག་ལ། །དམར་གྱི་ཐུན་དང་ཕྲ་མེན་དང་། །གློ་དང་ནད་ངན་འོང་བ་དང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Grant protection from all of these!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-122-TU-11">
+    <prop type="location-id">UT22084-101-122-34</prop>
+    <tuv xml:lang="bo">
+                <seg>ལོ་སྐེག་ཟླ་སྐེག་ཞག་སྐེག་དང་། །དེ་བཞིན་ཟ་སྐེག་ལ་སོགས་པ། །རྨི་ལམ་ངན་དང་<tei:ref folio="F.235.b"/>དགྲ་བགེགས་དང་། །མུན་པ་ལྟ་བུས་དབང་བྱས་ཀྱང་། །ཉི་ཟླ་ལྟ་བུའི་འོད་ཕྱུང་སྟེ། །མཐའ་ནས་རྣམ་པར་གསལ་བར་གསུངས། །ཕྱོགས་སྐྱོང་རྣམས་ཀྱིས་བསྲུང་དུ་གསོལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-122-34"/>The essence-mantra of that is said to be:<tei:milestone xml:id="UT22084-101-122-35"/> oṁ prajñe prajñe prajñe avalokiradhati mani susiddhi ārya jvala nāma mañjuye svāhā<tei:milestone xml:id="UT22084-101-122-36"/> May my five aggregates and limbs, Despite being subjected to darkness From violence and malevolent female spirits; From the onset of coughs and difficult illnesses; From obstacle years, obstacle months, obstacle days, Obstacle days of the week and the like; And from bad dreams, enemies, and hindrances, Be protected by the directional guardians Who are said to radiate light, like the sun and moon, That illuminates from the farthest reaches.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-122-TU-12">
+    <prop type="location-id">UT22084-101-122-39</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཡི་སྙིང་པོ་འདི་སྐད་གསུངས། །ཨོཾ་ཧ་ཀུ་ཧཱུྃ། ཧཱུྃ་དུ་ཧཱུྃ། ཧཱུྃ་ན་ཧཱུྃ། ཧཱུྃ་ཡྃ་ཧཱུྃ། ཧཱུྃ་ཀེ་ཧཱུྃ། ཧཱུྃ་ཀི་ཧཱུྃ། ཧཱུྃ་ཀཱི་ཧཱུྃ། ཧཱུྃ་ཏི་ཧཱུྃ། ཧཱུྃ་ཏཱི་ཧཱུྃ། ཧཱུྃ་དཱུ་ཧཱུྃ། ཧཱུྃ་བེ་ཧཱུྃ། བདག་གི་ལྔ་ཕུང་ཡན་ལག་ལ། །ཐོག་མ་མེད་པའི་དུས་མཐའ་ནས། །ད་ལྟའི་ཚེ་ལུས་འདི་སྐྱེས་སུ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-122-39"/>The essence-mantra of that is said to be:<tei:milestone xml:id="UT22084-101-122-40"/> oṁ haku hūṁ hūṁ du hūṁ hūṁ na hūṁ hūṁ yaṁ hūṁ hūṁ ke hūṁ hūṁ ki hūṁ hūṁ kī hūṁ hūṁ ti hūṁ hūṁ tī hūṁ hūṁ dū hūṁ hūṁ ve hūṁ <tei:milestone xml:id="UT22084-101-122-41"/>From beginningless time Until being born in this life and body, I have written incorrectly, recited incorrectly, Listened incorrectly, explained incorrectly, Meditated incorrectly, and trained incorrectly.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-122-TU-13">
+    <prop type="location-id">UT22084-101-122-39</prop>
+    <tuv xml:lang="bo">
+                <seg>བྲི་ཉེས་པ་དང་བཀླག་ཉེས་དང་། །མཉན་ཉེས་པ་དང་བཤད་ཉེས་དང་། །བསྒོམ་ཉེས་པ་དང་བསྒྲུབ་ཉེས་དང་། །ཁྲིམས་ཉམས་པ་དང་སྡོམ་ཉམས་དང་། །དམ་ཉམས་ཀུན་ལས་བསྲུང་དུ་གསོལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Protect my five aggregates and limbs From all such broken rules, broken vows, And broken samayas!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-101-122-TU-14">
+    <prop type="location-id">UT22084-101-122-42</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཡི་སྙིང་པོ་འདི་སྐད་གསུངས། །ན་མོ་བྷ་ག་བ་ཏེ་སརྦ་དྷུ་ཡེ་དུཥྚ་ན་སྭཱ་ཧཱ། འཕགས་པ་སྡོང་པོ་རྒྱན་གྱི་མཆོག་ཅེས་བྱ་བའི་གཟུངས་རྫོགས་སྷོ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-101-122-42"/>The essence-mantra of that is:<tei:milestone xml:id="UT22084-101-122-43"/> namo bhagavata sarva dhuye duṣṭana svāhā<tei:milestone xml:id="UT22084-101-122-44"/> This concludes “The Noble Dhāraṇī Called the Supreme Stem Ornament.”</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

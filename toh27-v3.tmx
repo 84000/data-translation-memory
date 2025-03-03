@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-034-015" eft:text-version="v-1.0.6-2023"/>
+<body>
+<tu id="UT22084-034-015-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.176.b"/>༄༅༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་ཙན་དྲ་གརྦྷ་པྲཛྙཱ་པཱ་ར་མི་ཏཱ་མ་ཧཱ་ཡཱ་ན་སཱུ་ཏྲ། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-034-015-TU-2">
+    <prop type="location-id">UT22084-034-015-15</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ཟླ་བའི་སྙིང་པོ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཐེག་པ་ཆེན་པོའི་མདོ། སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-015-translation"/>The Noble Great Vehicle Sūtra The Candragarbha Perfection of Wisdom<tei:milestone xml:id="UT22084-034-015-15"/> Homage to all buddhas and bodhisattvas!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-015-TU-3">
+    <prop type="location-id">UT22084-034-015-15</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-015-TU-4">
+    <prop type="location-id">UT22084-034-015-15</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་རྒྱལ་པོའི་ཁབ་བྱ་རྒོད་ཀྱི་ཕུང་པོའི་རི་ལ་དགེ་སློང་གི་དགེ་འདུན་ཚད་མེད་གྲངས་མེད་པ་དང་། བྱང་ཆུབ་སེམས་དཔའ་རབ་ཏུ་མང་པོ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One was residing on Vulture Peak in Rājagṛha together with an immeasurable and incalculable saṅgha of monks and a great many bodhisattvas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-015-TU-5">
+    <prop type="location-id">UT22084-034-015-18</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཚེ་འཁོར་དེར་བྱང་ཆུབ་སེམས་དཔའ་སེམས་<tei:ref folio="F.177.a"/>དཔའ་ཆེན་པོ་ཟླ་བའི་སྙིང་པོ་འདུག་པ་སྟན་ལས་ལངས་ནས། བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཀྱིས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་ཇི་ལྟར་བསླབ་པར་བགྱི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-015-18"/>Then the bodhisattva great being Candragarbha, who was in the assembly, got up from his seat and asked the Blessed One, “How, Blessed One, should bodhisattvas train in the perfection of wisdom?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-015-TU-6">
+    <prop type="location-id">UT22084-034-015-19</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་སྐད་ཅེས་གསོལ་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། ཟླ་བའི་སྙིང་པོ་ཆོས་ཐམས་ཅད་དངོས་པོ་དང་བྲལ་བ་གང་ཡིན་པ་དེ་ནི་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-015-19"/>The Blessed One replied, “Candragarbha, that all phenomena are devoid of entities is the perfection of wisdom.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-015-TU-7">
+    <prop type="location-id">UT22084-034-015-19</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟ་སྟེ་དཔེར་ན། ཟླ་བའི་དཀྱིལ་འཁོར་ནི་རྟོག་པ་མེད་ཀྱང་གླིང་བཞིར་འཁོར་བར་བྱེད་ཅིང་མུན་པ་རྣམས་རབ་ཏུ་སེལ་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>As an analogy, although the disk of the moon is without conceptualization, it encircles the four continents and dispels darkness.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-015-TU-8">
+    <prop type="location-id">UT22084-034-015-19</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་བཞིན་དུ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་སྤྱོད་པ་ནི་རྟོག་པ་མེད་ཀྱང་ཕྱིན་ཅི་ལོག་བཞི་རྣམས་ལ་ཐུགས་རྗེས་འཁོར་ཞིང་རང་བཞིན་གྱིས་ཉོན་མོངས་པ་རྣམས་སེལ་བར་བྱེད་ཀྱང་མི་རྟོག་པའི་ཕྱིར་རོ། །ཟླ་བའི་སྙིང་པོས་གསོལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Similarly, although bodhisattva great beings who practice the perfection of wisdom are without conceptualization, they encircle those with the four distorted views with compassion and naturally dispel defilements because of nonconceptualization.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-015-TU-9">
+    <prop type="location-id">UT22084-034-015-21</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་བྱང་ཆུབ་སེམས་དཔའི་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་དུ་མཆིས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-015-21"/>“Blessed One, how many perfections of wisdom of bodhisattvas are there?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-015-TU-10">
+    <prop type="location-id">UT22084-034-015-21</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>asked Candragarbha.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-015-TU-11">
+    <prop type="location-id">UT22084-034-015-21</prop>
+    <tuv xml:lang="bo">
+                <seg>རིགས་ཀྱི་བུ་བྱང་ཆུབ་སེམས་དཔའི་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་རྣམ་པ་གཉིས་ཏེ་ཟག་པ་དང་བཅས་པ་དང་། ཟག་པ་མེད་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>“Son of a good family,” replied the Blessed One, “there are two types of the bodhisattvas’ perfections of wisdom: contaminated and uncontaminated.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-015-TU-12">
+    <prop type="location-id">UT22084-034-015-23</prop>
+    <tuv xml:lang="bo">
+                <seg>རིགས་ཀྱི་བུ་དེ་ལ་ཟག་པ་དང་བཅས་པའི་ཤེས་རབ་ནི་མོས་པས་སྤྱོད་པའི་སའི་གནས་སྐབས་ན་གཟུང་བར་རྟོག་པ་དང་འཛིན་པར་རྟོག་པ་སྟེ། དེ་སྤོང་བར་བྱེད་པ་ནི་ཟག་པ་དང་བཅས་པའི་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-015-23"/>“Son of a good family, contaminated wisdom refers to the conceptualization of grasped objects and grasping subjects in the context of the stage of devoted conduct—contaminated perfection of wisdom abandons that.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-015-TU-13">
+    <prop type="location-id">UT22084-034-015-25</prop>
+    <tuv xml:lang="bo">
+                <seg>རིགས་ཀྱི་བུ་དེ་ལ་ཟག་པ་མེད་པའི་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ནི་མཐོང་བའི་ལམ་གྱི་རྣམ་པར་མི་རྟོག་པའི་ཡེ་ཤེས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-015-25"/>“Son of a good family, uncontaminated perfection of wisdom refers to the nonconceptual gnosis of the path of seeing.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-015-TU-14">
+    <prop type="location-id">UT22084-034-015-25</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡེ་ཤེས་དེ་ནི་རྟོག་པ་ཐམས་ཅད་དང་བྲལ་བའི་ཕྱིར་ན་མི་རྟོག་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That gnosis is nonconceptual because it is devoid of all conceptualization.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-015-TU-15">
+    <prop type="location-id">UT22084-034-015-26</prop>
+    <tuv xml:lang="bo">
+                <seg>རིགས་ཀྱི་བུ་འདི་ལྟ་སྟེ། ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ནི་ཕ་རོལ་དང་ཚུ་རོལ་གྱི་མཐའ་གང་ལ་ཡང་མི་གནས་པའི་ཕྱིར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-015-26"/>“Son of a good family, it is the perfection of wisdom because it does not abide in any extreme of near or far shore.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-015-TU-16">
+    <prop type="location-id">UT22084-034-015-26</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤེས་རབ་ནི་གཟུགས་ནས་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་ཀྱི་བར་དུ་རང་བཞིན་མེད་པས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རང་བཞིན་མེད་པར་ཤེས་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>As for wisdom, since everything from form up to all-aspect omniscience is without inherent existence, the perfection of wisdom should be known to be without inherent existence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-015-TU-17">
+    <prop type="location-id">UT22084-034-015-26</prop>
+    <tuv xml:lang="bo">
+                <seg>གཟུགས་ལ་སོགས་པའི་ཆོས་རྣམས་དུས་གསུམ་དུ་མི་དམིགས་ཤིང་མ་བཅིངས་མ་གྲོལ་བར་ཤེས་པར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Phenomena such as form and so on should be known to be unapprehended in the three times, neither bound nor freed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-015-TU-18">
+    <prop type="location-id">UT22084-034-015-28</prop>
+    <tuv xml:lang="bo">
+                <seg>རིགས་ཀྱི་བུ་ཆོས་ཐམས་ཅད་མཉམ་པ་ཉིད་པས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མཉམ་པ་ཉིད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-015-28"/>“Son of a good family, since all phenomena are equal, the perfection of wisdom is equal.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-015-TU-19">
+    <prop type="location-id">UT22084-034-015-28</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་འགག་<tei:ref folio="F.177.b"/>པ་མེད་པ་ཉིད་པས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འགག་པ་མེད་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Since all phenomena are without cessation, the perfection of wisdom is without cessation.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-015-TU-20">
+    <prop type="location-id">UT22084-034-015-28</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་མཚན་མ་མེད་པས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་མཚན་མ་མེད་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Since all phenomena are without signs, the perfection of wisdom is without signs.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-015-TU-21">
+    <prop type="location-id">UT22084-034-015-28</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་སྐྱེ་བ་མེད་པས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྐྱེ་བ་མེད་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Since all phenomena are without arising, the perfection of wisdom is without arising.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-015-TU-22">
+    <prop type="location-id">UT22084-034-015-28</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་ཆད་པ་མེད་པས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཆད་པ་མེད་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Since all phenomena are without annihilation, the perfection of wisdom is without annihilation.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-015-TU-23">
+    <prop type="location-id">UT22084-034-015-28</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་འོང་བ་མེད་པས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འོང་བ་མེད་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Since all phenomena are without coming, the perfection of wisdom is without coming.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-015-TU-24">
+    <prop type="location-id">UT22084-034-015-28</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་འགྲོ་བ་མེད་པ་ཉིད་པས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འགྲོ་བ་མེད་པ་ཉིད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Since all phenomena are without going, the perfection of wisdom is without going.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-015-TU-25">
+    <prop type="location-id">UT22084-034-015-28</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་རྟག་པ་མེད་པ་ཉིད་པས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྟག་པ་མེད་པ་ཉིད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Since all phenomena are without permanence, the perfection of wisdom is without permanence.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-015-TU-26">
+    <prop type="location-id">UT22084-034-015-28</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་ཐ་དད་པ་མེད་པ་ཉིད་པས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཐ་དད་པ་མེད་པ་ཉིད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Since all phenomena are without difference, the perfection of wisdom is without difference.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-015-TU-27">
+    <prop type="location-id">UT22084-034-015-28</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་དོན་གཅིག་པ་ཉིད་པས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དོན་གཅིག་པ་ཉིད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Since all phenomena are one, the perfection of wisdom is one.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-015-TU-28">
+    <prop type="location-id">UT22084-034-015-28</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ཐམས་ཅད་དངོས་པོ་མེད་པའི་ངོ་བོ་ཉིད་པས་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དངོས་པོ་མེད་པའི་ངོ་བོ་ཉིད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Since all phenomena are the essential nature of nonentities, the perfection of wisdom is the essential nature of nonentities.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-015-TU-29">
+    <prop type="location-id">UT22084-034-015-29</prop>
+    <tuv xml:lang="bo">
+                <seg>མདོར་ན་ཐམས་ཅད་མཚན་མ་དང་། རང་བཞིན་དང་། ངོ་བོ་ཉིད་ལས་འདས་པས་ནི་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-015-29"/>“In short, since it transcends a sign, existence, and nature, it is the perfection of wisdom.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-015-TU-30">
+    <prop type="location-id">UT22084-034-015-30</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟ་བས་ན་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྔགས་སོ། །ཏདྱ་ཐཱ། ཨོཾ་པྲཛྙེ་པྲཛྙེ་མ་ཧཱ་པྲཛྙེ་ཙནྡྲ་པྲཛྙེ། སརྦ་ཤཱ་ས་ཀ་རི་སྭཱ་ཧཱ། ཆོས་རྣམས་ཐམས་ཅད་རྒྱུ་ལས་བྱུང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, there is the mantra of the perfection of wisdom:<tei:milestone xml:id="UT22084-034-015-30"/> tadyathā | oṃ prajñe prajñe mahāprajñe candraprajñe sarvaśāsakari svāhā<tei:milestone xml:id="UT22084-034-015-31"/> “All phenomena arise from causes— That is the conventional truth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-015-TU-31">
+    <prop type="location-id">UT22084-034-015-30</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཉིད་ཀུན་རྫོབ་བདེན་པ་སྟེ། །རང་བཞིན་མེད་ཅིང་སྤྲོས་མེད་པ། །དེ་ཉིད་དོན་དམ་སྤྱོད་ཡུལ་ལོ། །བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང་། བྱང་ཆུབ་སེམས་དཔའ་ཟླ་བའི་སྙིང་པོ་དང་། ཐམས་ཅད་དང་ལྡན་པའི་འཁོར་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They are without an intrinsic nature and without thought construction— That is the domain of ultimate truth.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-015-TU-32">
+    <prop type="location-id">UT22084-034-015-32</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷ་དང་། མི་དང་། ལྷ་མ་ཡིན་དང་། དྲི་ཟར་བཅས་པའི་འཇིག་རྟེན་ཡི་རངས་ཏེ། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-015-32"/>After the Blessed One had spoken, the bodhisattva Candragarbha, the entire assembly, and the world with its gods, humans, asuras, and gandharvas rejoiced and praised what the Blessed One had said.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-015-TU-33">
+    <prop type="location-id">UT22084-034-015-33</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ཟླ་བའི་སྙིང་པོ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-015-33"/>This concludes the noble Great Vehicle sūtra “The Candragarbha Perfection of Wisdom.”</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

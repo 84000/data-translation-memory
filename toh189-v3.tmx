@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-061-009" eft:text-version="v-1.0.7-2023"/>
+<body>
+<tu id="UT22084-061-009-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.199.b"/>༄༅། །རྒྱ་གར་སྐད་དུ། ཨཱརྱ་བྲཧྨ་ཤྲཱི་བྱཱ་ཀ་ར་ཎ་ནཱ་མ་མ་ཧཱ་ཡཱ་ན་སཱུ་ཏྲ། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-2">
+    <prop type="location-id">UT22084-061-009-68</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ཚངས་པའི་དཔལ་ལུང་བསྟན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ། སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-061-009-translation"/>The Noble Mahāyāna Sūtra The Prediction for Brahmaśrī<tei:milestone xml:id="UT22084-061-009-68"/> Homage to all buddhas and bodhisattvas!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-3">
+    <prop type="location-id">UT22084-061-009-71</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-061-009-71"/>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-4">
+    <prop type="location-id">UT22084-061-009-71</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་མཉན་ཡོད་ན་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་མགོན་མེད་ཟས་སྦྱིན་གྱི་ཀུན་དགའ་ར་བ་ན་དགེ་སློང་གི་དགེ་འདུན་མང་པོ་དང་ཐབས་ཅིག་ཏུ་བཞུགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Blessed One was dwelling in Śrāvastī, in Prince Jeta’s Grove, Anāthapiṇḍada’s Park, together with a great assembly of monks.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-5">
+    <prop type="location-id">UT22084-061-009-71</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་སྔ་དྲོ་ཤམ་ཐབས་དང་ཆོས་གོས་གསོལ་ཏེ་ལྷུང་བཟེད་བསྣམས་ནས་མཉན་ཡོད་ཀྱི་གྲོང་ཁྱེར་དུ་བསོད་<tei:ref folio="F.200.a"/>སྙོམས་ལ་གཤེགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>At that time, one morning the Blessed One put on his lower robe and his upper robe, took his begging bowl, and walked toward the city of Śrāvastī to collect alms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-6">
+    <prop type="location-id">UT22084-061-009-72</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡང་དེའི་ཚེ་མཉན་ཡོད་ཀྱི་གྲོང་ཁྱེར་གྱི་ཕྱི་རོལ་ན་བྱིས་པ་ཕལ་པོ་ཆེ་དག་ས་རྡུལ་གྱི་ཁྱིམ་དང་། ས་རྡུལ་གྱི་ར་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-061-009-72"/>At that same time, on the outskirts of Śrāvastī, there was a group of children sitting and playing with houses of sand, surrounding walls of sand, and pavilions of sand.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-7">
+    <prop type="location-id">UT22084-061-009-72</prop>
+    <tuv xml:lang="bo">
+                <seg>ས་རྡུལ་གྱི་ཁང་པ་བརྩེགས་པ་དག་གིས་རྩེ་ཞིང་འཁོད་པ་ལས་བྱིས་པ་ཕལ་པོ་ཆེ་དེ་དག་གིས་ཐག་རིང་པོ་ཞིག་ནས་བཅོམ་ལྡན་འདས་གཤེགས་པ་མཐོང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The group of children saw the Blessed One approaching from afar.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-8">
+    <prop type="location-id">UT22084-061-009-72</prop>
+    <tuv xml:lang="bo">
+                <seg>མཐོང་ནས་ཀྱང་ལྷག་པར་དགའ་བ་དང་། རབ་ཏུ་དགའ་བ་དང་། ཡིད་བདེ་བ་སྐྱེས་ཏེ་རྩེ་དགའ་ཞིང་འཁོད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>As soon as they saw him, they were elated, delighted, and glad at heart, and they continued sitting there and playing.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-9">
+    <prop type="location-id">UT22084-061-009-73</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཁྱེའུ་དེ་དག་ལ་ཐུགས་བརྩེ་བའི་ཕྱིར་གང་ན་ཁྱེའུ་དེ་དག་རྩེ་ཞིང་འཁོད་པའི་ས་ཕྱོགས་དེར་གཤེགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-061-009-73"/>Then, out of compassion for those children, the Blessed One went over to where they were sitting and playing.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-10">
+    <prop type="location-id">UT22084-061-009-73</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བྱིས་པ་དེ་དག་གི་ནང་ནས་ཁྱེའུ་ཚངས་པའི་དཔལ་ཞེས་བྱ་བ་ཞིག་བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་ཕྱག་འཚལ་ནས། བཅོམ་ལྡན་འདས་ཀྱི་སྤྱན་སྔར་འདུག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Among the children, there was one boy named Brahmaśrī, who bowed at the feet of the Blessed One and sat right down in front of him.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-11">
+    <prop type="location-id">UT22084-061-009-74</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་མཁྱེན་བཞིན་དུ་བྱིས་པ་དེ་དག་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །བྱིས་པ་ཁྱེད་འདི་ན་ཅི་བྱེད།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-061-009-74"/>Even though he already knew what they would say, the Blessed One asked the children, “What are you doing, children?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-12">
+    <prop type="location-id">UT22084-061-009-75</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང་། བཅོམ་ལྡན་འདས་ལ་ཁྱེའུ་དེ་དག་གིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་བདག་ཅག་འདི་ནས་རྡུལ་གྱི་ཁྱིམ་དག་དང་། ས་རྡུལ་གྱི་ར་བ་དག་དང་། ས་རྡུལ་གྱི་ཁང་པ་བརྩེགས་པ་དག་གིས་རྩེ་ཞིང་མཆིས་ལགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-061-009-75"/>“Blessed One,” the children replied, “we are sitting here playing with these houses of sand, these surrounding walls of sand, and these pavilions of sand.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-13">
+    <prop type="location-id">UT22084-061-009-76</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ལ་ཁྱེའུ་ཚངས་པའི་དཔལ་གྱིས་འདི་སྐད་ཅེས་གསོལ་ཏོ། །བཅོམ་ལྡན་འདས་བདག་ལ་ཐུགས་བརྩེ་བའི་སླད་དུ་ས་རྡུལ་གྱི་ཁང་པ་བརྩེགས་པ་འདི་བཞེས་སུ་གསོལ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-061-009-76"/>The boy Brahmaśrī then said to the Blessed One, “Out of compassion for me, Blessed One, please accept this pavilion of sand.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-14">
+    <prop type="location-id">UT22084-061-009-77</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཁྱེའུ་ཚངས་པའི་དཔལ་གྱི་ལྷག་པའི་བསམ་པ་དང་། དགའ་བའི་སེམས་ཐུགས་སུ་ཆུད་ནས་ཐུགས་བརྩེ་བའི་ཕྱིར་ས་རྡུལ་གྱི་ཁང་པ་བརྩེགས་པ་དེ་བཞེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-061-009-77"/>The Blessed One knew the lofty ambition and exuberance in the mind of the boy Brahmaśrī and accepted the pavilion of sand out of compassion for him.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-15">
+    <prop type="location-id">UT22084-061-009-78</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་སངས་རྒྱས་ཀྱི་མཐུས་སྐད་ཅིག་དེ་དང་། ཡུད་ཙམ་དེ་ལས་རྡུལ་གྱི་ཁང་པ་བརྩེགས་པ་དེ་རིན་པོ་ཆེ་སྣ་བདུན་ལས་གྲུབ་པའི་ཁང་པ་བརྩེགས་པ་ཞིག་ཏུ་གྱུར་ནས། བཅོམ་ལྡན་འདས་ཀྱི་སྤྱན་སྔ་ན་འདུག་པར་གྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-061-009-78"/>Then, through the power of the Buddha, the pavilion of sand was instantaneously transformed into a pavilion made of the seven precious jewels, and it stood there right in front of the Blessed One.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-16">
+    <prop type="location-id">UT22084-061-009-78</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཤར་ཕྱོགས་ཀྱི་ངོས་སུ་ནི་གསེར་གྱི་ཀ་བ་བརྒྱད་ཁྲི་བཞི་སྟོང་ཟུག་པར་གྱུར། ལྷོ་ཕྱོགས་ཀྱི་ངོས་སུ་ནི་དངུལ་གྱི་ཀ་བ་བརྒྱད་ཁྲི་བཞི་སྟོང་ཟུག་པར་གྱུར། ནུབ་ཕྱོགས་ཀྱི་ངོས་སུ་ནི་བཻ་དཱུརྱའི་ཀ་བ་བརྒྱད་ཁྲི་བཞི་སྟོང་ཟུག་པར་གྱུར། བྱང་ཕྱོགས་ཀྱི་ངོས་སུ་ནི་ཤེལ་གྱི་ཀ་<tei:ref folio="F.200.b"/>བ་བརྒྱད་ཁྲི་བཞི་སྟོང་ཟུག་པར་གྱུར་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>On its eastern side were 84,000 pillars of gold; on its southern side were 84,000 pillars of silver; on its western side were 84,000 pillars of beryl; and on its northern side were 84,000 pillars of crystal.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-17">
+    <prop type="location-id">UT22084-061-009-79</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་དེའི་ཚེ་ཁྱེའུ་ཚངས་པའི་དཔལ་གྱིས་རྫུ་འཕྲུལ་གྱི་ཆོ་འཕྲུལ་དེ་མཐོང་ནས་ལྷག་པར་ཡང་ཆེས་དགའ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-061-009-79"/>When the boy Brahmaśrī saw this wondrous display of extraordinary power, he became even more elated.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-18">
+    <prop type="location-id">UT22084-061-009-80</prop>
+    <tuv xml:lang="bo">
+                <seg>མཆོག་ཏུ་དགའ་བ་རྒྱ་ཆེན་པོ་སྐྱེས་པར་གྱུར་ཏོ། །དེ་ནས་བཅོམ་ལྡན་འདས་ལ་ཁྱེའུ་ཚངས་པའི་དཔལ་གྱིས་ཚིགས་སུ་བཅད་པ་འདི་དག་གསོལ་ཏོ། །ཀྱེ་མ་འཇིག་རྟེན་མགོན་པོ་ཡིས། །རྫུ་འཕྲུལ་ཤིན་ཏུ་རྒྱ་ཆེན་བསྟན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The most immense joy welled up inside him, and he addressed the Blessed One with these verses:<tei:milestone xml:id="UT22084-061-009-80"/> “O, the World Protector has displayed The immense expanse of his extraordinary power!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-19">
+    <prop type="location-id">UT22084-061-009-80</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་ཉིད་ལ་ནི་ཐུགས་བརྩེའི་ཕྱིར། །སངས་རྒྱས་ཀྱིས་ནི་རྫུ་འཕྲུལ་བསྟན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Buddha has displayed his extraordinary power Out of compassion for me alone!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-20">
+    <prop type="location-id">UT22084-061-009-81</prop>
+    <tuv xml:lang="bo">
+                <seg>དྲང་སྲོང་ཆེ་ལ་བདག་གིས་ནི། །ས་རྡུལ་ཁང་བརྩེགས་ཕུལ་བ་དེ། །རིན་པོ་ཆེ་ལས་གྲུབ་པར་གྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-061-009-81"/>“This offering of a pavilion of sand, Which I made to the great sage, Has become something made of jewels!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-21">
+    <prop type="location-id">UT22084-061-009-81</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀྱེ་མ་སངས་རྒྱས་བསམ་མི་ཁྱབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>O, the Buddha is inconceivable!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-22">
+    <prop type="location-id">UT22084-061-009-82</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀྱེ་ཀྱེ་ཞིང་ནི་འདི་འདྲ་བ། །སངས་རྒྱས་ཞིང་ནི་བླ་མེད་པ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-061-009-82"/>“O, O, a field such as this one, A field of a buddha, cannot be surpassed!</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-23">
+    <prop type="location-id">UT22084-061-009-82</prop>
+    <tuv xml:lang="bo">
+                <seg>མིག་མེད་མིག་ནི་ཉམས་པ་དང་། །ཤེས་རབ་ཆུང་ངུས་མི་ཤེས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The blind, those with loss of vision, and Those with little wisdom do not know it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-24">
+    <prop type="location-id">UT22084-061-009-83</prop>
+    <tuv xml:lang="bo">
+                <seg>རྐང་གཉིས་དམ་པ་འགྲོ་བའི་ཞིང་། །འདི་ནི་བདག་གིས་རྙེད་པ་དང་། །དལ་བ་རབ་དཀོན་ཐོབ་པས་ན། །བྱང་ཆུབ་ཏུ་ནི་སྨོན་ལམ་གདབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-061-009-83"/>“Best of those who walk on two feet, I aspire to achieve awakening, Having obtained this field of beings, This opportunity so hard to obtain.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-25">
+    <prop type="location-id">UT22084-061-009-84</prop>
+    <tuv xml:lang="bo">
+                <seg>བདག་ཀྱང་འདྲེན་པ་ཁྱོད་ཀྱི་ནི། །ཡོན་ཏན་རྗེས་སུ་སློབ་པར་འཚལ། །བླ་མེད་བྱང་ཆུབ་ཐོབ་ནས་ནི། །རྫུ་འཕྲུལ་འདི་འདྲ་བདག་གིས་བགྱི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-061-009-84"/>“I, too, wish to train in the qualities That you possess, O Leader, so that, Having attained unsurpassable awakening, I can use extraordinary powers such as yours!”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-26">
+    <prop type="location-id">UT22084-061-009-85</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་དེའི་ཚེ་བཅོམ་ལྡན་འདས་ཀྱིས་འཛུམ་པ་མཛད་ནས་བཅོམ་ལྡན་འདས་ཀྱི་ཞལ་གྱི་སྒོ་ནས་འོད་ཟེར་ཁ་དོག་སྣ་ཚོགས་འདི་ལྟ་སྟེ། སྔོན་པོ་དང་། སེར་པོ་དང་། དམར་པོ་དང་། དཀར་པོ་དང་། བཙོད་ཀ་དང་། ཤེལ་གྱི་ཁ་དོག་དང་། དངུལ་གྱི་ཁ་དོག་ལྟ་བུ་དག་བྱུང་ངོ་། །དེ་དག་བྱུང་ནས་ཚངས་པའི་འཇིག་རྟེན་གྱི་བར་དུ་སོང་སྟེ། ཡང་སླར་ལོག་ནས་བཅོམ་ལྡན་འདས་ལ་ལན་གསུམ་བསྐོར་བ་བྱས་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-061-009-85"/>Then, at that moment, the Blessed One displayed a smile and various multicolored rays of light issued from the Blessed One’s mouth in such a way that blue, yellow, red, white, rose madder, crystalline, and silvery rays of light spread throughout endless, limitless world systems, reaching as far as the Brahmā realm, and then they returned, circled the Blessed One three times, and disappeared into the Blessed One’s uṣṇīṣa.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-27">
+    <prop type="location-id">UT22084-061-009-86</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱི་དབུའི་གཙུག་ཏོར་དུ་ནུབ་པར་གྱུར་ཏོ། །དེ་ནས་བཅོམ་ལྡན་འདས་ལ་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོས་ཚིགས་སུ་བཅད་དེ་གསོལ་པ། རྒྱལ་མཆོག་འདྲེན་པ་འགྲོ་བའི་གཙོ་བོ་རྣམས། །རྒྱུ་མ་མཆིས་པར་འཛུམ་པ་མི་མཛད་ན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-061-009-86"/>The venerable Ānanda then addressed the Blessed One with this verse:<tei:milestone xml:id="UT22084-061-009-87"/> “The supreme victors, the leaders, the chiefs among beings Do not display their smile without a reason.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-28">
+    <prop type="location-id">UT22084-061-009-86</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐུགས་རྗེ་ལྡན་པ་འཇིག་རྟེན་སྨན་སླད་དུ། །དེང་འདིར་ཅི་ཕྱིར་འཛུམ་མཛད་བདག་ལ་གསུངས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Compassionate one, for the world’s benefit, Please tell us why you displayed a smile just now.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-29">
+    <prop type="location-id">UT22084-061-009-88</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་སྐད་ཅེས་གསོལ་པ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་ལ་འདི་སྐད་ཅེས་བཀའ་སྩལ་ཏོ། །ཀུན་དགའ་བོ་ཁྱོད་ཀྱིས་ཁྱེའུ་ཚངས་པའི་དཔལ་འདི་མཐོང་ངམ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-061-009-88"/>When this had been said, the Blessed One answered the venerable Ānanda, “Ānanda, do you see this boy Brahmaśrī?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-30">
+    <prop type="location-id">UT22084-061-009-88</prop>
+    <tuv xml:lang="bo">
+                <seg>གསོལ་པ་བཅོམ་ལྡན་འདས་མཐོང་ལགས་སོ། །བཅོམ་ལྡན་འདས་ཀྱིས་<tei:ref folio="F.201.a"/>བཀའ་སྩལ་པ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>“Yes, Blessed One, I see him,” he replied.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-31">
+    <prop type="location-id">UT22084-061-009-90</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་བོ་ཁྱེའུ་འདི་དགེ་བའི་རྩ་བ་འདི་དང་། སེམས་ཀྱི་སྨོན་པ་འདིས་ནི་བསྐལ་པ་སུམ་སྟོང་ཉིས་བརྒྱའི་བར་དུ་ནམས་ཀྱང་སེམས་ཅན་དམྱལ་བར་འགྲོ་བར་མི་འགྱུར་རོ། །དེས་བྱང་ཆུབ་བསྒྲུབས་ནས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འཇིག་རྟེན་ཐམས་ཅད་ལས་མངོན་པར་འཕགས་པ་ཞེས་བྱ་བར་འགྱུར་རོ། །ཞེས་གསུངས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-061-009-90"/>“Ānanda,” said the Blessed One, “as a result of this root of virtue and this aspiration in his mind, this boy will not become a hell being for 3,200 eons, and then, once he has achieved awakening, he will be a tathāgata, a worthy one, a perfect and completely awakened buddha named The One Exalted above All the Worlds.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-32">
+    <prop type="location-id">UT22084-061-009-91</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་ཚེ་ཚིགས་སུ་བཅད་པ་འདི་དག་བཀའ་སྩལ་ཏོ། །སངས་རྒྱས་ལ་ནི་དད་པ་ཡིས། །བསོད་ནམས་ཆུང་ངུ་སྐྱེ་མི་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-061-009-91"/>The Blessed One then addressed the venerable Ānanda with these verses:<tei:milestone xml:id="UT22084-061-009-92"/> “Faith in the Buddha generates Merit in no small measure.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-33">
+    <prop type="location-id">UT22084-061-009-91</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་མཆོག་ཐོས་དང་དགེ་འདུན་ལ། །གུས་པར་བྱས་པའང་དེ་བཞིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>So, too, does hearing the supreme Dharma And showing respect to the Sangha.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-34">
+    <prop type="location-id">UT22084-061-009-93</prop>
+    <tuv xml:lang="bo">
+                <seg>སངས་རྒྱས་ལ་ནི་དད་པ་ལ། །བྱང་ཆུབ་ཐོབ་པར་དཀའ་བ་མེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-061-009-93"/>“For those with faith in the Buddha, Attaining awakening is not difficult.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-35">
+    <prop type="location-id">UT22084-061-009-93</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ཕྱིར་བྱང་ཆུབ་འདོད་པས་འདིར། །འཇིག་རྟེན་འདྲེན་རྣམས་མཆོད་པར་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Hence, those who aspire for awakening Should venerate the leaders of the world.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-36">
+    <prop type="location-id">UT22084-061-009-94</prop>
+    <tuv xml:lang="bo">
+                <seg>ཀུན་དགའ་ཁྱེའུ་འདི་རྐང་གཉིས་ཀྱི། །མཆོག་སྟེ་དཔལ་དང་ལྡན་པ་ཡི། །མངོན་པར་འཕགས་པ་ཞེས་བྱ་བ། །འཇིག་རྟེན་གྱི་ནི་འདྲེན་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-061-009-94"/>“Ānanda, this boy will become A glorious one, best of those who walk on two feet, A leader of the world, Called The Exalted One.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-37">
+    <prop type="location-id">UT22084-061-009-95</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་སངས་རྒྱས་བསམ་མི་ཁྱབ། །སངས་རྒྱས་ཆོས་ཀྱང་དེ་བཞིན་ཏེ། །བསམ་མི་ཁྱབ་ལ་དད་པ་ཡི། །རྣམ་པར་སྨིན་པའང་དེ་བཞིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-061-009-95"/>“In this way, the buddhas are inconceivable And so, too, are the qualities of the buddhas; Faith in those who are inconceivable Bears fruit that is like that as well.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-38">
+    <prop type="location-id">UT22084-061-009-97</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་ནས། ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་དང་། ཁྱེའུ་ཚངས་པའི་དཔལ་བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་ཡི་རངས་ཏེ་མངོན་པར་བསྟོད་དོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-061-009-97"/>After the Blessed One had spoken these words, the venerable Ānanda and the boy Brahmaśrī were delighted and they rejoiced at what the Blessed One had said.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-39">
+    <prop type="location-id">UT22084-061-009-98</prop>
+    <tuv xml:lang="bo">
+                <seg>འཕགས་པ་ཚངས་པའི་དཔལ་ལུང་བསྟན་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-061-009-98"/>This concludes the noble Mahāyāna sūtra “The Prediction for Brahmaśrī.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-40">
+    <prop type="location-id">UT22084-061-009-99</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་བི་ཤུདྡྷ་སིདྷ་དང་། ལོཙྪ་བ་བན་དེ་དགེ་བ་དཔལ་གྱིས་བསྒྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-061-009-99"/>Translated by the Indian preceptor Viśuddhasiṃha and the translator Bandé Gewa Pal.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-061-009-TU-41">
+    <prop type="location-id">UT22084-061-009-99</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱ་གར་གྱི་མཁན་པོ་བིདྱཱ་ཀ་ར་སིདྷ་དང་། ཞུ་ཆེན་གྱི་ལོ་ཙྪ་བ་བན་དེ་དེ་བ་ཙནྡྲས་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Edited and finalized by the Indian preceptor Vidyākarasiṃha and the great editor and translator Bandé Devacandra.</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

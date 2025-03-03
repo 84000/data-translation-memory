@@ -1,0 +1,1843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT22084-034-025" eft:text-version="v-1.1.5-2023"/>
+<body>
+<tu id="UT22084-034-025-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.271.a"/>༄༅། །རྒྱ་གར་སྐད་དུ། པཉྩ་ཤིཀྵྱཱ་ནུ་སྃ་ས་སཱུ་ཏྲ། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-2">
+    <prop type="location-id">UT22084-034-025-79</prop>
+    <tuv xml:lang="bo">
+                <seg>བསླབ་པ་ལྔའི་ཕན་ཡོན་གྱི་མདོ། འཕགས་པ་དཀོན་མཆོག་གསུམ་ལ་གུས་པས་ཕྱག་འཚལ་ལོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-translation"/>The Sūtra on The Benefits of the Five Precepts<tei:milestone xml:id="UT22084-034-025-79"/> Homage, with devotion, to the noble Three Jewels.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-3">
+    <prop type="location-id">UT22084-034-025-79</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་སྐད་བདག་གིས་ཐོས་པ་དུས་གཅིག་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Thus did I hear at one time.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-4">
+    <prop type="location-id">UT22084-034-025-79</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་གརྒ་ར་དང་། ཆུ་སྲིན་བྱིས་པ་གསོད་ཀྱི་རི་དང་། སྨན་གྱི་ནགས་རི་དགས་རྒྱུ་བའི་གནས་ན་བཞུགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The Bhagavān was staying in the Bhesakalā grove deer park at Suṃsumāragiri in the country of the Bhaggas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-5">
+    <prop type="location-id">UT22084-034-025-79</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་སྔ་དྲོའི་དུས་སུ་ཆོས་གོས་གྱོན་ལྷུང་བཟེད་ཐོགས་ཏེ། ཕ་ན་ཀུ་ལའི་ཁྱིམ་བདག་གང་ན་ཡོད་པའི་གནས་དེར་གཤེགས་ཤིང་ཉེ་བར་གཤེགས་ཏེ། གདན་བཤམས་པ་ལ་བཞུགས་སོ། །དེ་ནས་ཡང་ཕ་ན་ཀུ་ལའི་ཁྱིམ་བདག་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Early one morning, the Bhagavān, having donned his outer robe and taken up his bowl, went to the dwelling of the householder Nakulapitā and, having approached, sat down on a prepared seat.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-6">
+    <prop type="location-id">UT22084-034-025-79</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་ན་ཀུ་ལའི་ཁྱིམ་བདག་མོས། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་ཞིང་ཉེ་བར་སོང་ནས། བཅོམ་ལྡན་འདས་ལ་ཕྱག་བྱས་ཏེ། ཕྱོགས་གཅིག་ཏུ་འཁོད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then the householders Nakulapitā and Nakulamātā approached the Bhagavān, greeted him reverently, and sat down to one side.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-7">
+    <prop type="location-id">UT22084-034-025-91</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྱོགས་གཅིག་ཏུ་འཁོད་ནས། ཕ་ན་ཀུ་ལའི་ཁྱིམ་བདག་དེས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །གང་གི་ཚེ་བཙུན་པ་བཅོམ་ལྡན་འདས། མ་ན་ཀུ་ལའི་ཁྱིམ་བདག་མོ་བདག་ཁྱེའུའི་དུས་སུ་བུ་མོ་གཞོན་ནུ་མ་བླངས་ཏེ། མ་ན་ཀུ་ལའི་ཁྱིམ་བདག་མོ་ལས་ལོག་པར་གཡེམ་པའི་སེམས་མ་སྐྱེས་སོ། །ལུས་ཀྱི་སྐྱོན་གང་ཡང་མ་བྱུང་བ་ལས་བཙུན་པ་བཅོམ་ལྡན་འདས་མཐོང་བའི་ཆོས་འདི་ལ་ཕན་ཚུན་དུ་མཐོང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-91"/>Sitting to one side, the householder Nakulapitā addressed the Bhagavān: “Ever since, Venerable Bhagavān, the householder Nakulamātā was brought to me as a young girl when I was still a child, not even the thought of being unfaithful to Nakulamātā has occurred to me, and there has been no physical wrongdoing.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-8">
+    <prop type="location-id">UT22084-034-025-91</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐྱེ་བ་གཞན་དུ་ཕན་ཚུན་དུ་མཐོང་བར་བདག་འདོད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Bhagavān, this is our mutual experience in this life, and we wish to share this experience in other lives, too.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-9">
+    <prop type="location-id">UT22084-034-025-93</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་ན་ཀུ་ལའི་ཁྱིམ་བདག་མོས་བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །གང་གི་ཚེ་བཙུན་པ་བཅོམ་ལྡན་འདས་ཕ་ན་ཀུ་ལའི་ཁྱིམ་བདག་གཞོན་ནུའི་དུས་སུ་བདག་གཞོན་ནུ་མ་བླངས་སོ། །ཕ་ན་ཀུ་ལའི་ཁྱིམ་བདག་ལས། འདོད་པས་ལོག་པར་གཡེམ་པའི་སེམས་མ་སྐྱེས་སོ། །ལུས་ཀྱི་སྐྱོན་མ་བྱུང་བ་གང་ལས་བཙུན་པ་བཅོམ་ལྡན་འདས་མཐོང་བའི་ཆོས་འདི་ལ་ཕན་ཚུན་དུ་མཐོང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-93"/>Then the householder Nakulamātā addressed the Bhagavān: “Ever since, Venerable Bhagavān, I was brought as a girl to householder Nakulapitā when he was still young, not even the thought of being unfaithful to Nakulapitā has occurred to me, and there has been no physical wrongdoing.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-10">
+    <prop type="location-id">UT22084-034-025-93</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐྱེ་བ་གཞན་དུ་ཕན་ཚུན་དུ་མཐོང་བར་བདག་འདོད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Bhagavān, this is our mutual experience in this life, and we wish to share this experience in other lives, too.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-11">
+    <prop type="location-id">UT22084-034-025-95</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། ཁྱིམ་བདག་དང་ཁྱིམ་བདག་མོ་གཉིས་པོ་ལ་འདོད་པ་ཡོད་པར་གྱུར་པས་མཐོང་བའི་ཆོས་འདི་ལ་ཕན་ཚུན་དུ་མཐོང་བར་གྱུར་ཏོ། །སྐྱེ་བ་གཞན་དུ་མཐོང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-95"/>Then the Bhagavān said, “When a husband and wife both have that wish and have had this mutual experience in this life, they will share this experience in other lives, too.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-12">
+    <prop type="location-id">UT22084-034-025-95</prop>
+    <tuv xml:lang="bo">
+                <seg>གཉིས་པོ་དག་དད་པ་<tei:ref folio="F.271.b"/>མཉམ་པ་དང་། ཚུལ་ཁྲིམས་མཉམ་པ་དང་། གཏོང་བ་མཉམ་པ་དང་། ཤེས་རབ་མཉམ་པ་རྣམས་ཀྱིས་མཐོང་བའི་ཆོས་འདི་ལ་ཕན་ཚུན་དུ་མཐོང་བར་གྱུར་ཏོ། །སྐྱེ་བ་གཞན་དུ་མཐོང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>By being equal in faith, equal in ethical discipline, equal in generosity, and equal in wisdom, both of you have had this mutual experience in this life, and you will share this experience in other lives, too.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-13">
+    <prop type="location-id">UT22084-034-025-100</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡང་ཚིགས་སུ་བཅད་པ་འདི་བཀའ་སྩལ་ཏེ། གཉིས་ཀ་དད་དང་ཆོས་ཚིག་དང་། །མཉམ་དང་ཆོས་ཀྱིས་འཚོ་བ་དང་། །ཕན་ཚུན་དུ་ནི་དགའ་བའི་ཚིག །དེ་ལྟར་སྐྱེས་པ་བུད་མེད་གཅིག །ནོར་མང་དང་ནི་ལྡན་པ་དང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then he spoke the following verses:<tei:milestone xml:id="UT22084-034-025-100"/> “A man and woman like this, Who speak to each other lovingly, Who are both faithful, generous, and self-controlled, And who live in accordance with the Dharma,<tei:milestone xml:id="UT22084-034-025-102"/> “Will have abundant wealth And will be reborn in a good situation.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-14">
+    <prop type="location-id">UT22084-034-025-104</prop>
+    <tuv xml:lang="bo">
+                <seg>གནས་ནི་བཟང་པོར་སྐྱེ་བར་འགྱུར། །དགྲ་ནི་དེ་ལ་དགའ་བ་དང་། །གཉིས་ཀ་མཉམ་པའི་ཚུལ་ཁྲིམས་ཀྱིས། །འདི་ལྟར་ཆོས་ནི་སྤྱོད་པ་དང་། །གཉིས་ཀ་ཚུལ་ཁྲིམས་ལྡན་པ་དང་། །འདོད་ཅིང་འདོད་ལ་ཡི་རང་བས། །ལྷ་ཡི་གནས་སུ་དགའ་བར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Their enemies will become unhappy, And when both are equal in ethical discipline,<tei:milestone xml:id="UT22084-034-025-104"/> “And have practiced the Dharma in this life With equal virtue and good conduct, They will next enjoy a deva world Where they will delight in sensual pleasures.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-15">
+    <prop type="location-id">UT22084-034-025-104</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཕྱིར་བསླབ་པ་རྣམ་པ་ལྔ་པོ་བསྲུང་བར་བྱའོ། །འདི་ལྟ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>“Therefore, one should guard the five precepts.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-16">
+    <prop type="location-id">UT22084-034-025-1107</prop>
+    <tuv xml:lang="bo">
+                <seg>སྲོག་གཅོད་པ་སྤོང་བ་དང་། མ་བྱིན་པར་ལེན་པ་སྤོང་བ་དང་། འདོད་པས་ལོག་པར་གཡེམ་པ་སྤོང་བ་དང་། བརྫུན་དུ་སྨྲ་བ་སྤོང་བ་དང་། མྱོས་པར་འགྱུར་བའི་ཆང་གི་བཏུང་བ་སྤོང་བའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-1107"/>“These are (1) refraining from killing, (2) refraining from taking what has not been given, (3) refraining from sexual misconduct, (4) refraining from lying, and (5) refraining from drinking alcohol that leads to intoxication.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-17">
+    <prop type="location-id">UT22084-034-025-1107</prop>
+    <tuv xml:lang="bo">
+                <seg>བསླབ་པ་ལྔ་པོ་འདི་ནི་བསྲུང་བར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These are the five precepts that one should guard.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-18">
+    <prop type="location-id">UT22084-034-025-110</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ཡང་དགེ་སློང་རྣམས་ཀྱིས་ཚུལ་ཁྲིམས་ལྔའི་ཕན་ཡོན་ཞུས་པ། གཞན་ཡང་བཙུན་པ་བཅོམ་ལྡན་འདས་སྲོག་གཅོད་པ་སྤངས་པའི་རྣམ་པར་སྨིན་པ་ཇི་ལྟར་ཤེས་པར་བགྱི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-110"/>The monks then inquired about the benefits of the five disciplines: “How else, Venerable Bhagavān, should the karmic fruition of refraining from killing be understood?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-19">
+    <prop type="location-id">UT22084-034-025-110</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་བྱིན་པར་ལེན་པ་སྤངས་པའི་རྣམ་པར་སྨིན་པ་ཇི་ལྟར་ཤེས་པར་བགྱི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How should the karmic fruition of refraining from taking what has not been given be understood?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-20">
+    <prop type="location-id">UT22084-034-025-110</prop>
+    <tuv xml:lang="bo">
+                <seg>འདོད་པས་ལོག་པར་གཡེམ་པ་སྤངས་པའི་རྣམ་པར་སྨིན་པ་ཇི་ལྟར་ཤེས་པར་བགྱི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How should the karmic fruition of refraining from sexual misconduct be understood?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-21">
+    <prop type="location-id">UT22084-034-025-110</prop>
+    <tuv xml:lang="bo">
+                <seg>བརྫུན་དུ་སྨྲ་བ་སྤངས་པའི་རྣམ་པར་སྨིན་པ་ཇི་ལྟར་ཤེས་པར་བགྱི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>How should the karmic fruition of refraining from lying be understood?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-22">
+    <prop type="location-id">UT22084-034-025-110</prop>
+    <tuv xml:lang="bo">
+                <seg>མྱོས་པར་འགྱུར་བའི་ཆང་གི་བཏུང་བ་སྤངས་པའི་རྣམ་པར་སྨིན་པ་ཇི་ལྟར་ཤེས་པར་བགྱི།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And how should the karmic fruition of refraining from drinking alcohol that leads to intoxication be understood?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-23">
+    <prop type="location-id">UT22084-034-025-112</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེ་རྣམས་ཀྱིས་དྲིས་པ་དེ་བསྟན་ཅིང་རྟོགས་པར་བྱ་བའི་ཕྱིར་བཀའ་སྩལ་པ། དགེ་སློང་དག་སྲོག་གཅོད་པ་ནི་སྦྲུལ་དུག་ཅན་དང་འདྲ་བར་བལྟ་བར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-112"/>The Bhagavān responded to their questions so as to be well understood: “Monks, you should regard killing as being like a venomous snake.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-24">
+    <prop type="location-id">UT22084-034-025-112</prop>
+    <tuv xml:lang="bo">
+                <seg>སྡིག་པ་དུ་མ་དང་ལྡན་པ་དང་། ཡི་དགས་ཀྱི་སྐྱེ་གནས་སུ་སྐྱེ་བ་དང་། དུད་འགྲོའི་སྐྱེ་གནས་སུ་སྐྱེ་བ་དང་། དམྱལ་བའི་སྐྱེ་གནས་སུ་སྐྱེ་བར་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is accompanied by many wrongdoings and leads to rebirth in the realm of ghosts, the animal realm, and the hell realms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-25">
+    <prop type="location-id">UT22084-034-025-112</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ལུས་ཞིག་ནས་ཤི་བའི་ཕ་རོལ་དུ་དམྱལ་བ་ཡང་སོས་སུ་སྐྱེའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>After the destruction of the body, after death, one will be born in the Reviving Hell.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-26">
+    <prop type="location-id">UT22084-034-025-112</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནི་དམྱལ་བ་ཡང་སོས་དམྱལ་བའི་སྲུང་མས་ཡང་<tei:ref folio="F.272.a"/>དག་པར་སྲེག་པ་དང་མཚོན་སྣ་ཚོགས་པ་བཟུང་ནས་དུམ་བུར་གཅོད་ཅིང་ལུས་ལ་བུག་པ་འབུགས་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There, the guardians of the Reviving Hell will thoroughly roast one’s body, and then cut it to pieces with a variety of blades and gouge holes in it.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-27">
+    <prop type="location-id">UT22084-034-025-112</prop>
+    <tuv xml:lang="bo">
+                <seg>རྣམ་པ་ལྔ་ཡིས་བཅིང་ངོ་ཞེས་པས་ལས་བྱེད་ཅིང་བྱེད་ལ། དམྱལ་བའི་སེམས་ཅན་དེ་ཡང་དང་ཡང་དུ་ཤི་ནས་ཡང་དང་ཡང་དུ་འཚོ་བས་ན་ཡང་སོས་སུ་སྐྱེའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Forced to undergo the so-called “fivefold ordeal,” the denizens of this hell repeatedly die and are repeatedly revived and reborn in the Reviving Hell.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-28">
+    <prop type="location-id">UT22084-034-025-115</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་རྣམས་དེ་ལ་ཡང་སོས་ཀྱི་སྡུག་བསྔལ་དྲག་པོ་རྩུབ་པ་ཚ་བ་འཇོམས་ཤིང་འཇོམས་ལ་གང་ཞིག་ལ་ཐམས་ཅད་ལྕི་ཞིང་སྲོག་བཅད་པའི་རྣམ་པར་སྨིན་པ་དེའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-115"/>“The karmic fruition for those who weightily take life is to be overwhelmed again and again by all these terrible, harsh, and intense sufferings of the Reviving Hell.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-29">
+    <prop type="location-id">UT22084-034-025-115</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་མིར་སྐྱེས་ཀྱང་ཚེ་ཐུང་བར་འགྱུར་རོ། །དབང་པོ་ཡོངས་སུ་མ་ཚང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Even if they are reborn as a human, their lives will be short, their sense faculties defective.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-30">
+    <prop type="location-id">UT22084-034-025-115</prop>
+    <tuv xml:lang="bo">
+                <seg>གཟུགས་ངན་པ་དང་། ཤེས་རབ་འཆལ་པ་དང་། རྟག་ཏུ་སྐྲག་པ་དང་། རྟག་ཏུ་ཁྲོ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will be ugly, lacking insight, always fearful, and always angry.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-31">
+    <prop type="location-id">UT22084-034-025-115</prop>
+    <tuv xml:lang="bo">
+                <seg>ནད་དང་བཅས་པ་དང་། མྱ་ངན་དང་བཅས་པ་དང་། དགའ་བ་དང་འབྲལ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will be disease ridden, full of sorrow, and devoid of joy.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-32">
+    <prop type="location-id">UT22084-034-025-115</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐམས་ཅད་དང་འབྲལ་བ་དང་། རྟག་ཏུ་ཡུན་རིང་དུ་འབྲལ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will have nothing, and they will have nothing for a very long time.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-33">
+    <prop type="location-id">UT22084-034-025-119</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཕྱིར་བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། སྐྱེ་བ་ལྔ་བརྒྱར་ཡི་དགས་དང་། །ཉ་སྦྲུལ་རི་དགས་འུག་པ་དང་། །མ་ཧེ་ཁྱི་དང་ཝ་རྣམས་ནི། །སྲོག་བཅད་པ་ཡི་ཉེས་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>For that reason, the Bhagavān has said:<tei:milestone xml:id="UT22084-034-025-119"/> “Being reborn for five hundred rebirths As ghosts, fish, snakes, game, owls, Water buffalos, dogs, and foxes Is the harm that ensues from having killed.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-34">
+    <prop type="location-id">UT22084-034-025-1119</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ནི་སྲོག་བཅད་པའི་རྣམ་པར་སྨིན་པའོ། །སྲོག་གཅོད་པ་ནི་སྤངས་པ་ཡིས། །སྐྱེས་པའམ་ནི་བུད་མེད་ལུས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-1119"/>This is the karmic fruition of killing.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-35">
+    <prop type="location-id">UT22084-034-025-121</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐོབ་པར་འགྱུར་ཏེ་ཕན་ཡོན་ནི། །ཡོན་ཏན་ཉི་ཤུ་མི་དམན་པར། །ཡན་ལག་ཉིང་ལག་ཕུན་སུམ་ཚོགས། །ལུས་ནི་ཤེད་དང་ལྡན་པ་དང་། །རིགས་བཟང་པོར་ནི་མྱུར་དུ་སྐྱེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-121"/>“Those who refrain from killing Will obtain the body of a man or woman And the benefits they reap will be The full twenty of these qualities: <tei:milestone xml:id="UT22084-034-025-123"/>“Their limbs and minor body parts will be perfect, Their bodies will be strong, They will be reborn immediately in a good family, And their limbs will be beautiful and soft.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-36">
+    <prop type="location-id">UT22084-034-025-124</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡན་ལག་གཙང་ཞིང་འཇམ་པ་དང་། །ཚེ་རིང་བ་དང་བདེ་བ་དང་། །དཔའ་ཞིང་སྟོབས་དང་ལྡན་པ་དང་། །ཚིག་ནི་མཆོག་ཏུ་བཟང་བ་དང་། །ལྷ་དང་བཅས་པ་དགའ་བ་དང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-124"/>“Their lives will be long and happy, They will be courageous and strong, Their words will be most eloquent, And they will experience divine joy.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-37">
+    <prop type="location-id">UT22084-034-025-125</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་པ་ཡིས་ངན་མི་བྱེད། །འཕགས་པས་ཚིག་ངན་མི་བརྗོད་དང་། །བྱད་སྟེམས་ངན་པས་མི་འཆི་ཞིང་། །མཐའ་ཡས་པ་ཡི་འཁོར་དང་ལྡན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-125"/>“They will not be harmed by worldlings Or criticized by noble ones; They will not die through black magic, And they will have an infinite retinue.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-38">
+    <prop type="location-id">UT22084-034-025-127</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁ་དོག་གཟུགས་དང་ཡང་དག་ལྡན། །ནད་དང་མྱ་ངན་ཉུང་བ་དང་། །ཁྱིམ་གྱི་གནས་ནི་མི་སྤོང་དང་། །གཞན་གྱིས་མི་དགར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-127"/>“They will have a perfect complexion and form, They will have few illnesses and afflictions, They will not have to leave their homes, And they will not be made unhappy by others.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-39">
+    <prop type="location-id">UT22084-034-025-129</prop>
+    <tuv xml:lang="bo">
+                <seg>སྲོག་གཅོད་པ་ནི་སྤངས་པ་ཡིས། །སྐྱེས་པའམ་ནི་བུད་མེད་ཀྱིས། །ཕན་ཡོན་འདི་ནི་མྱོང་བར་འགྱུར། །ལྷ་རྣམས་དང་ནི་མི་རྣམས་སུའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-129"/>“A man or a woman, By refraining from killing, Will experience these benefits As a deva or as a human.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-40">
+    <prop type="location-id">UT22084-034-025-130</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལུས་ཞིག་ཅིང་ཤི་ནས་བདེ་འགྲོ་<tei:ref folio="F.272.b"/>མཐོ་རིས་ལྷའི་འཇིག་རྟེན་དུ་ཉེ་བར་སྐྱེའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-130"/>“After the destruction of the body, after death, they will be reborn in a happy rebirth-destiny, in heaven, in a deva world.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-41">
+    <prop type="location-id">UT22084-034-025-131</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་བྱིན་པར་ལེན་པ་ནི་མ་བྱིན་པར་ཕ་རོལ་གྱི་རྫས་རྣམ་པར་ཤེས་པ་དང་བཅས་པ་དང་། རྣམ་པར་ཤེས་པ་མེད་པ་གང་རུང་ཁང་པ་ཕུག་ནས་རྐུ་བ་ལ་སོགས་པའོ། །ཕ་རོལ་བསླུས་ནས་ལེན་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-131"/>“Stealing means robbing another’s possessions, which have not been given, from their house or room and so on, whether consciously or unconsciously.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-42">
+    <prop type="location-id">UT22084-034-025-131</prop>
+    <tuv xml:lang="bo">
+                <seg>རང་འཚོ་བའི་ཕྱིར་དེ་རྣ་མས་དེ་ལྟ་བུའི་རིམ་པས་མ་བྱིན་པར་ལེན་པ་དེ་དེའི་ལུས་ཞིག་ནས་ཤི་བའི་ཕ་རོལ་དུ་ངུ་འབོད་དུ་སྐྱེ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Those who take from others by deception in order to make a living likewise eventually take what has not been given and will, after the destruction of the body, after death, be reborn in the Wailing hells.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-43">
+    <prop type="location-id">UT22084-034-025-132</prop>
+    <tuv xml:lang="bo">
+                <seg>ངུ་འབོད་ཅེས་པའི་མིང་ནི་ངུ་འབོད་གཉིས་ཏེ། འབར་བའི་ངུ་འབོད་དང་། དུ་བའི་ངུ་འབོད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-132"/>“There are two hells called Wailing: the Wailing Hell of Flames and the Wailing Hell of Smoke.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-44">
+    <prop type="location-id">UT22084-034-025-132</prop>
+    <tuv xml:lang="bo">
+                <seg>འབར་བའི་ངུ་འབོད་ནི་ཚེ་བསྐལ་པ་གཅིག་ཏུ་གནས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the Wailing Hell of Flames, life lasts for one cosmic age.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-45">
+    <prop type="location-id">UT22084-034-025-132</prop>
+    <tuv xml:lang="bo">
+                <seg>བར་བར་དུ་མེ་འབར་བས་ཡོངས་སུ་གང་བའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>At intervals, the entire hell is filled with a blazing fire.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-46">
+    <prop type="location-id">UT22084-034-025-132</prop>
+    <tuv xml:lang="bo">
+                <seg>དུ་བའི་ངུ་འབོད་ནི་དུ་བ་འཚུབ་ཅིང་དེ་གཉིས་ལ་མེ་འབར་བས་ངུ་འབོད་དུ་སེམས་ཅན་དམྱལ་བ་རྣམས་འཚེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the Wailing Hell of Smoke, fumes billow. In both, the denizens of the Wailing hells are cooked by flames.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-47">
+    <prop type="location-id">UT22084-034-025-132</prop>
+    <tuv xml:lang="bo">
+                <seg>བུ་ག་དགུ་ནས་མེ་འབྱུང་ཞིང་ལུས་སྲེག་གོ། །འདི་ནི་དུ་བའི་ངུ་འབོད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Fire comes out of their nine orifices and scorches their bodies.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-48">
+    <prop type="location-id">UT22084-034-025-132</prop>
+    <tuv xml:lang="bo">
+                <seg>དུ་བའི་ངུ་འབོད་ནི་སེམས་ཅན་དམྱལ་བ་རྣམས་སུ་འཚེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In the Wailing Hell of Smoke, beings are cooked as denizens of hell.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-49">
+    <prop type="location-id">UT22084-034-025-132</prop>
+    <tuv xml:lang="bo">
+                <seg>བུ་ག་དགུ་ནས་དུ་བ་འཚུབ་ཅིང་འབྱུང་ངོ་། །ཇི་ལྟར་ཟན་འཚེད་པ་ལྟར་ལུས་འཚེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Fumes come billowing from their nine orifices, and their bodies are cooked like food.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-50">
+    <prop type="location-id">UT22084-034-025-132</prop>
+    <tuv xml:lang="bo">
+                <seg>སེམས་ཅན་གཉིས་ཀ་མྱ་ངན་གྱི་སྒྲ་ཆེན་པོ་སྒྲོགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The beings in both scream in torment.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-51">
+    <prop type="location-id">UT22084-034-025-132</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་དག་ནི་དེར་སྡུག་བསྔལ་དྲག་ཅིང་རྩུབ་པ་དང་ཚ་བ་མྱོང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There they experience terrible, harsh, and intense sufferings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-52">
+    <prop type="location-id">UT22084-034-025-136</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་བྱིན་པར་ལེན་པ་ནི་དགེ་སློང་དག་སྦྲུལ་དུག་ཅན་དང་འདྲ་བར་བལྟ་བར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-136"/>“Stealing, monks, should be regarded as being like a venomous snake.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-53">
+    <prop type="location-id">UT22084-034-025-136</prop>
+    <tuv xml:lang="bo">
+                <seg>དམྱལ་བར་འཇུག་པ་དང་། ཡི་དགས་ཀྱི་ཡུལ་དུ་འཇུག་པ་དང་། དུད་འགྲོའི་སྐྱེ་གནས་སུ་སྐྱེ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It leads to rebirth in the hells, in the realm of ghosts, and as animals.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-54">
+    <prop type="location-id">UT22084-034-025-136</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་ཞིག་མ་བྱིན་པར་ལེན་པའི་རྣམ་པར་སྨིན་པ་ནི་ཤིན་ཏུ་ཆེན་པོའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The karmic fruition for anyone who steals is very grave.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-55">
+    <prop type="location-id">UT22084-034-025-136</prop>
+    <tuv xml:lang="bo">
+                <seg>མིར་སྐྱེས་ཀྱང་ལོངས་སྤྱོད་རྣམས་ཉམས་པར་འགྱུར་བ་དང་། མ་བྱིན་པར་བླངས་པའི་སེམས་ཅན་གྱི་ལག་ཏུ་དངོས་པོ་ཅུང་ཟད་ཀྱང་འཆགས་པར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Even if reborn as a human, their resources will be depleted, and those who have taken what has not been given will be unable to hold on to even the smallest things.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-56">
+    <prop type="location-id">UT22084-034-025-136</prop>
+    <tuv xml:lang="bo">
+                <seg>བཟའ་བ་དང་། བཏུང་བ་དང་། གོས་དང་། སྟན་ལ་སོགས་པ་རྙེད་དཀའ་བར་འགྱུར་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It will be difficult for them to obtain food, drink, clothing, a mat, and so forth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-57">
+    <prop type="location-id">UT22084-034-025-136</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱུན་མི་འཆད་པར་ཟུག་རྔུ་ཅན་དང་། གཞན་སྡང་བ་དང་། འཚེ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will be in constant discomfort and will be hateful and hostile toward others.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-58">
+    <prop type="location-id">UT22084-034-025-136</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་དང་གང་རྙེད་པ་དེ་དང་དེ་ནི་ཉམས་པར་འགྱུར་རོ། །གཞན་གྱིས་ལོངས་སྤྱོད་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Whatever they do manage to obtain they will lose again, and others will enjoy it instead.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-59">
+    <prop type="location-id">UT22084-034-025-136</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་འདོད་པའི་ལོངས་སྤྱོད་ནི་རྙེད་དཀའ་བར་འགྱུར་རོ། །དངོས་པོ་ཡོད་པ་རྣམས་འཕེལ་བར་མི་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What they desire will be difficult to obtain, and things they already possess will not be productive.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-60">
+    <prop type="location-id">UT22084-034-025-136</prop>
+    <tuv xml:lang="bo">
+                <seg>བདེ་བ་དང་འབྲལ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will be devoid of happiness.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-61">
+    <prop type="location-id">UT22084-034-025-138</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཕྱིར་བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ། འདིར་ནི་དབུལ་དང་<tei:ref folio="F.273.a"/>བཀྲེན་པ་དང་། །གཟུགས་ངན་ཉེ་བར་འཚེ་བ་དང་། །རིགས་ངན་དུ་ནི་སྐྱེ་བ་ནི། །མ་བྱིན་ལེན་པའི་ཉེས་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>For that reason, the Bhagavān has said: <tei:milestone xml:id="UT22084-034-025-138"/>“In this life, poverty and destitution, Ugliness and misery, And birth in a low social status Are the harms that ensue from having stolen.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-62">
+    <prop type="location-id">UT22084-034-025-1138</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་བྱིན་པར་ལེན་པའི་རྣམ་པར་སྨིན་པའོ། །མ་བྱིན་ལེན་པ་སྤངས་པ་ཡིས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-1138"/>This is the karmic fruition of stealing.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-63">
+    <prop type="location-id">UT22084-034-025-139</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐྱེས་པ་འམ་ནི་བུད་མེད་ནི། །ཐོབ་པར་འགྱུར་ཏེ་ཕན་ཡོན་ནི། །ཡོན་ཏན་ཉི་ཤུ་མི་དམན་པར། །རྟག་ཏུ་འབྲུ་ནི་མང་བ་དང་། །མཐའ་ཡས་ལོངས་སྤྱོད་ཕུན་སུམ་ཚོགས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-139"/>“Those who refrain from stealing Will obtain rebirth as a man or a woman And the benefits they reap will be The full twenty of these qualities: <tei:milestone xml:id="UT22084-034-025-140"/>“Their grain will always be abundant, Their resources endless and fulsome.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-64">
+    <prop type="location-id">UT22084-034-025-139</prop>
+    <tuv xml:lang="bo">
+                <seg>སྔར་མེད་པ་ནི་རབ་ཏུ་འཕེལ། །འདོད་པ་རྣམས་ནི་བརྟན་པ་དང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What was lacking before will be plentiful, And their desires will be stable.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-65">
+    <prop type="location-id">UT22084-034-025-141</prop>
+    <tuv xml:lang="bo">
+                <seg>གཟུགས་སྒྲ་རོ་དང་དྲི་དང་ནི། །རེག་བྱ་རྣམས་ནི་ཡིད་དུ་འོང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-141"/>“All visible forms, sounds, tastes, smells, And tactile sensations will be pleasant.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-66">
+    <prop type="location-id">UT22084-034-025-141</prop>
+    <tuv xml:lang="bo">
+                <seg>དོན་དུ་གཉེར་བ་ཐམས་ཅད་ལ། །བསམ་པ་ཐམས་ཅད་མྱུར་དུ་འགྲུབ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Every purpose for which they strive, And every intention, will be swiftly achieved.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-67">
+    <prop type="location-id">UT22084-034-025-142</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལ་རྒྱལ་པོ་ཆོམ་རྐུན་དང་། །མི་མཛའ་བ་ཡིས་མི་འཕྲོགས་དང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-142"/>“They will not be robbed, Neither by kings nor thieves nor enemies.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-68">
+    <prop type="location-id">UT22084-034-025-142</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་འམ་ཡང་ན་ཆུ་དང་ནི། །དེ་རྣམས་ཀྱིས་ནི་འཚེ་མི་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will be impervious to harm, Even by fire and water.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-69">
+    <prop type="location-id">UT22084-034-025-143</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་འདྲ་བ་ཡི་ལོངས་སྤྱོད་ལྡན། །གང་ཞིག་སྟེར་དང་ཟ་བ་ལ། །མེད་ཅེས་པ་ནི་འབྱུང་མི་འགྱུར། །རྟག་ཏུ་བདེ་བར་གནས་པ་དང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-143"/>“Their resources will be such That when it comes to gifts and food They will never say ‘no’ And will always live in comfort.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-70">
+    <prop type="location-id">UT22084-034-025-144</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་བྱིན་ལེན་པ་སྤངས་པ་ཡིས། །སྐྱེས་པ་འམ་ནི་བུད་མེད་ལ། །ཐོབ་པར་འགྱུར་ཏེ་ཕན་ཡོན་ནོ། །ལྷ་རྣམས་དང་ནི་མི་རྣམས་སུའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-144"/>“A man or a woman, By refraining from stealing, Will experience these benefits As a deva or as a human.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-71">
+    <prop type="location-id">UT22084-034-025-144</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལུས་ཞིག་ཅིང་ཤི་ནས་བདེ་འགྲོ་མཐོ་རིས་དང་ལྷའི་འཇིག་རྟེན་དུ་ཉེ་བར་སྐྱེའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>“After the destruction of the body, after death, they will be reborn in a happy rebirth-destiny, in heaven, in a deva world.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-72">
+    <prop type="location-id">UT22084-034-025-144</prop>
+    <tuv xml:lang="bo">
+                <seg>འདོད་པ་རྣམས་ལ་ལོག་པར་གཡེམ་པས་ནི་འཚོ་བའི་འཇིག་རྟེན་འདིར་འདོད་པར་བྱེད་པ་ནི། དེའི་ལུས་ཞིག་ནས་ཤི་བའི་ཕ་རོལ་དུ་ངུ་འབོད་ཆེན་པོར་སྐྱེ་ཞིང་ལྟུང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>“Those who are lustful and commit acts of sexual misconduct in this world, after the destruction of the body, after death, will fall and be reborn in the Loud Wailing Hell.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-73">
+    <prop type="location-id">UT22084-034-025-144</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ཕྱི་རུ་ཆུ་བོ་རབ་མེད་ཀྱི་ངོགས་གཉིས་སུ། ཤལ་མ་ལིའི་ནགས་དཔག་ཚད་བརྒྱད་ཅུ་གྱེན་དུ་མཉམ་ཞིང་མཐོ་བ། ཚེར་མ་སོར་བཅུ་དྲུག་པ་ཡལ་ག་རྣམས་ཐུར་ལ་འཕྱང་བ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Outside, on both banks of the unfordable Vaitaraṇī River, is the Forest of Silk Cotton Trees, equally high, extending upward for eighty yojanas, with thorns sixteen finger-widths in length and downward-hanging branches.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-74">
+    <prop type="location-id">UT22084-034-025-144</prop>
+    <tuv xml:lang="bo">
+                <seg>ལུས་པོ་རྒྱང་གྲགས་བཅུ་གཉིས་དང་ལྡན་ཞིང་ལུས་ལ་མེ་གྱེན་དུ་འབར་བ། དཔག་ཚད་དྲུག་ཅུར་གྱེན་དུ་འགྲོ་ཞིང་དེ་ལ་རྟག་ཏུ་སྣ་ཚོགས་པའི་མཚོན་གྱིས་ཕན་ཚུན་དུ་གསོད་ཅིང་། དེ་ནི་ཤལ་མ་ལིའི་ཤིང་གི་ནགས་ལ་ཤོན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Bodies the size of twelve earshots, with flames climbing up their bodies, ascend sixty yojanas, and there they perpetually kill one another with various weapons, which are the leaves of the Forest of Silk Cotton Trees.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-75">
+    <prop type="location-id">UT22084-034-025-144</prop>
+    <tuv xml:lang="bo">
+                <seg>ལོ་སྟོང་ཕྲག་མང་པོར་ཤིང་གི་ཚེར་མ་ལ་འཛེག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>For many thousands of years they will climb on the thorns of those trees.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-76">
+    <prop type="location-id">UT22084-034-025-144</prop>
+    <tuv xml:lang="bo">
+                <seg>གཞན་ཡང་དམྱལ་བའི་སྲུང་མ་རྣམས་ཀྱིས་མཚོན་བླངས་ནས་བརྒྱབ་པས་ངུ་ཞིང་མགོ་ཐུར་ལ་བསྟན་ནས་ལྷུང་ངོ་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Moreover, they will be struck with weapons by the guardians of this hell.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-77">
+    <prop type="location-id">UT22084-034-025-144</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྷུང་བའི་དུས་སུ་ལྕགས་བསྲེགས་ཀྱི་ས་གཞིར་གསལ་ཤིང་བཙུགས་པ་རྣམས་ལ་ལྷུང་ངོ་། །དེ་རྣམས་བཤང་<tei:ref folio="F.273.b"/>ལམ་ནས་འཐོན་པས། དེ་རྣམས་ཀྱིས་སྡུག་བསྔལ་མྱོང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Crying out, they will fall headlong, and when they land they will be impaled on sharpened stakes set into a ground of burning iron, so that the stakes emerge from their anuses, causing extreme pain.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-78">
+    <prop type="location-id">UT22084-034-025-144</prop>
+    <tuv xml:lang="bo">
+                <seg>རྒྱུན་དུ་ངུ་ཞིང་དཔག་ཚད་དྲུག་ཅུ་པའི་ལྕགས་ཀྱི་བུམ་པར་བསྐལ་པ་གཅིག་ཏུ་སྡོད་དོ། །མེ་མདག་གིས་ཡོངས་སུ་གང་བར་དམྱལ་བའི་སྲུང་མ་རྣམས་ཀྱི་ཁར་ལྡུགས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Constantly wailing, they will stay for an eon in an iron pot sixteen yojanas wide and completely filled with burning coals, which the guardians of hell shove into their mouths.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-79">
+    <prop type="location-id">UT22084-034-025-153</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཕྱིར་བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། རི་ནག་བརྩེགས་པ་མཉམ་ཞིང་མཐོ། །ཤིང་ནི་ཚེར་མར་བཅས་པ་དང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>For that reason, the Bhagavān has said: <tei:milestone xml:id="UT22084-034-025-153"/>“Tall like the summits of the Kālaparvata mountains, The trees in this forest have thorns.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-80">
+    <prop type="location-id">UT22084-034-025-153</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྕགས་ཀྱི་ཚེར་མ་རྣོན་པོ་ཡིས། །འཇིག་རྟེན་མི་ལ་བདེ་བ་མེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>In a world of sharp iron thorns, There is no comfort for a human.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-81">
+    <prop type="location-id">UT22084-034-025-156</prop>
+    <tuv xml:lang="bo">
+                <seg>ཤིང་གི་རྩེ་མོར་གནས་པ་ཡི། །དུས་ཀྱི་ཆུང་མས་ཅི་ཞིག་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-156"/>“What is the use of a temporary partner now, When stuck on the tips of those trees?”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-82">
+    <prop type="location-id">UT22084-034-025-159</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཕྱིར་བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། དགེ་སློང་དག་འདོད་པ་རྣམས་ལ་ལོག་པར་གཡེམ་པ་ནི། སྦྲུལ་དུག་ཅན་དང་འདྲ་བར་བལྟ་བར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-159"/>For that reason, the Bhagavān has said, “Monks, sexual misconduct toward what you desire should be regarded as being like a venomous snake.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-83">
+    <prop type="location-id">UT22084-034-025-159</prop>
+    <tuv xml:lang="bo">
+                <seg>དམྱལ་བར་འཇུག་པ་དང་། ཡི་དགས་ཀྱི་ཡུལ་དུ་འཇུག་པ་དང་། དུད་འགྲོའི་སྐྱེ་གནས་སུ་སྐྱེ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It leads to rebirth in the hells, in the realm of ghosts, and as animals.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-84">
+    <prop type="location-id">UT22084-034-025-159</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་ཞིག་འདོད་པ་རྣམས་ལ་ལོག་པར་གཡེམ་པའི་རྣམ་པར་སྨིན་པ་ནི་ཤིན་ཏུ་ཆེན་པོའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The karmic fruition for anyone who commits sexual misconduct is very grave.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-85">
+    <prop type="location-id">UT22084-034-025-159</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་མིར་སྐྱེས་ཀྱང་སྡུག་བསྔལ་ཆེན་པོ་མྱོང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Even if reborn as a human, they will experience great suffering.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-86">
+    <prop type="location-id">UT22084-034-025-161</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཕྱིར་བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། སྐྱེ་བ་ལྔ་བརྒྱར་བུད་མེད་འགྱུར། །དེ་བཞིན་དུ་ནི་མ་ནིང་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>For that reason, the Bhagavān has said: <tei:milestone xml:id="UT22084-034-025-161"/>“For five hundred lives, they will be reborn as women, And likewise as paṇḍakas.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-87">
+    <prop type="location-id">UT22084-034-025-161</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐྱུག་བྲོའི་མཛེ་ཅན་ཡང་ཡང་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Again and again, they will be repugnant lepers.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-88">
+    <prop type="location-id">UT22084-034-025-161</prop>
+    <tuv xml:lang="bo">
+                <seg>ལོག་པར་གཡེམ་པའི་ཉེས་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These are the harms that ensue from from sexual misconduct.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-89">
+    <prop type="location-id">UT22084-034-025-162</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐྱེ་བ་དུ་མར་ཉེ་བར་འཚེ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-162"/>“They will experience misfortune over many lifetimes.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-90">
+    <prop type="location-id">UT22084-034-025-162</prop>
+    <tuv xml:lang="bo">
+                <seg>དགྲ་མང་བར་འགྱུར་བ་དང་། མི་མཛའ་བ་དང་རྟག་ཏུ་ལྷན་ཅིག་ཏུ་གནས་པར་འགྱུར་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will have many enemies and will always be among hostile people.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-91">
+    <prop type="location-id">UT22084-034-025-162</prop>
+    <tuv xml:lang="bo">
+                <seg>ཉལ་བ་དང་ལྡང་བའི་ཚེ་སྡུག་བསྔལ་དང་བཅས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Whether sleeping or rising, they will be uncomfortable.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-92">
+    <prop type="location-id">UT22084-034-025-162</prop>
+    <tuv xml:lang="bo">
+                <seg>དུས་རྟག་ཏུ་ཁྲོ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will be constantly angry.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-93">
+    <prop type="location-id">UT22084-034-025-162</prop>
+    <tuv xml:lang="bo">
+                <seg>མིས་གནོད་པར་བྱེད་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will be disturbed by people.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-94">
+    <prop type="location-id">UT22084-034-025-162</prop>
+    <tuv xml:lang="bo">
+                <seg>རྟག་ཏུ་ལུས་སྒུར་བར་འགྱུར་བ་དང་། འོན་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Their bodies will always be hunched.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-95">
+    <prop type="location-id">UT22084-034-025-162</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐྱེ་བ་ནས་སྐྱེ་བར་དམུས་ལོང་ལ་སོགས་པར་སྐྱེ་བར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>From rebirth to rebirth they will be born deaf and blind and so on.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-96">
+    <prop type="location-id">UT22084-034-025-162</prop>
+    <tuv xml:lang="bo">
+                <seg>རྣམ་པར་འགྱུར་བར་ངེས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Change for the worse will be certain.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-97">
+    <prop type="location-id">UT22084-034-025-162</prop>
+    <tuv xml:lang="bo">
+                <seg>རྟག་ཏུ་སེམས་མི་དགའ་བར་འགྱུར་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will always be dissatisfied.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-98">
+    <prop type="location-id">UT22084-034-025-162</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕན་ཚུན་དུ་འཐབ་པ་ལ་དགའ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will delight in mutual conflict.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-99">
+    <prop type="location-id">UT22084-034-025-162</prop>
+    <tuv xml:lang="bo">
+                <seg>དགའ་བའི་སེམས་དང་འབྲལ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will be bereft of faith.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-100">
+    <prop type="location-id">UT22084-034-025-165</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལུས་ཞིག་ནས་ཤི་བའི་ཕ་རོལ་དུ་ངུ་འབོད་ཆེན་པོའི་དམྱལ་བར་ལྟུང་ཞིང་སྐྱེ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-165"/>“After the destruction of the body, after death, they will fall and be reborn in the Loud Wailing Hell.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-101">
+    <prop type="location-id">UT22084-034-025-165</prop>
+    <tuv xml:lang="bo">
+                <seg>དེར་ཡང་དེ་ལ་སྡུག་བསྔལ་དྲག་པ་དང་། རྩུབ་པ་དང་། ཚ་བ་ཉམས་སུ་མྱོང་བར་འགྱུར།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There, they will experience terrible, harsh, and intense suffering.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-102">
+    <prop type="location-id">UT22084-034-025-1165</prop>
+    <tuv xml:lang="bo">
+                <seg>འདོད་པས་ལོག་པར་གཡེམ་པའི་རྣམ་པར་སྨིན་པའོ། །ལོག་པར་གཡེམ་པ་སྤངས་པ་ཡི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-1165"/>This is the karmic fruition of sexual misconduct.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-103">
+    <prop type="location-id">UT22084-034-025-166</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐྱེས་པའམ་ནི་བུད་མེད་ཀྱིས། །ཐོབ་པར་འགྱུར་ཏེ་ཕན་<tei:ref folio="F.274.a"/>ཡོན་ནི། །ཡོན་ཏན་ཉི་ཤུ་མི་དམན་པར། །དེ་ལ་དགྲ་ནི་མེད་པ་དང་། །འཇིག་རྟེན་ཐམས་ཅད་དགའ་བ་དང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-166"/>“Those who refrain from sexual misconduct Will obtain rebirth as a man or a woman And the benefits they reap will be The full twenty of these qualities:<tei:milestone xml:id="UT22084-034-025-168"/> “They will have no enemies, And the whole world will rejoice in them.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-104">
+    <prop type="location-id">UT22084-034-025-166</prop>
+    <tuv xml:lang="bo">
+                <seg>བཟའ་དང་བཏུང་བ་རྙེད་པར་སླ། །གོས་དང་སྟན་དང་གནས་རྣམས་དང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will easily obtain food and drink, Clothing, a bed, and a dwelling.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-105">
+    <prop type="location-id">UT22084-034-025-169</prop>
+    <tuv xml:lang="bo">
+                <seg>བདེ་བར་ཉལ་དང་བདེ་བར་འདུག །དེ་ནི་བདེ་བར་ལྡང་བ་དང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-169"/>“They will sleep well, stay well, And rise well.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-106">
+    <prop type="location-id">UT22084-034-025-169</prop>
+    <tuv xml:lang="bo">
+                <seg>ངན་སོང་འཇིགས་ལས་རྣམ་པར་གྲོལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will be completely free from the fear Of bad rebirth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-107">
+    <prop type="location-id">UT22084-034-025-170</prop>
+    <tuv xml:lang="bo">
+                <seg>མྱ་ངན་མེད་དང་འཇིགས་པའང་མེད། །ནད་རྣམས་ཐམས་ཅད་དེ་ལ་མེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-170"/>“They will have no sorrow or fear, Nor any illnesses.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-108">
+    <prop type="location-id">UT22084-034-025-170</prop>
+    <tuv xml:lang="bo">
+                <seg>མ་ནིང་བུད་མེད་དུ་མི་སྐྱེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will not be reborn as a paṇḍaka Or as a woman.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-109">
+    <prop type="location-id">UT22084-034-025-171</prop>
+    <tuv xml:lang="bo">
+                <seg>ཅུང་ཟད་གང་ནི་དོན་གཉེར་འདོད། །དེ་ཡི་འདོད་པ་གྲུབ་པར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-171"/>“Whatever they really want, however small, Will be obtained.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-110">
+    <prop type="location-id">UT22084-034-025-171</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕན་ཚུན་དུ་ནི་མཛའ་བ་མང་། །གཞན་ནི་མི་དགའ་དེ་ལ་མེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will enjoy many mutual friendships, And no one will bear them ill will.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-111">
+    <prop type="location-id">UT22084-034-025-172</prop>
+    <tuv xml:lang="bo">
+                <seg>དབང་པོ་ཀུན་ནི་ཚང་བ་དང་། །དགེ་བའི་མཚན་ཉིད་ཡང་དག་ལྡན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-172"/>“They will have unimpaired sense faculties And will possess the perfect marks of virtue.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-112">
+    <prop type="location-id">UT22084-034-025-172</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་བཟོད་ཆུང་དང་དོགས་པ་མེད། །སྐྱེས་པ་བུད་མེད་དོགས་མེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will not be impatient, nor doubtful, And will be trusted by men and women.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-113">
+    <prop type="location-id">UT22084-034-025-173</prop>
+    <tuv xml:lang="bo">
+                <seg>ལོག་པར་གཡེམ་པ་སྤངས་པ་ཡི། །སྐྱེས་པ་འམ་ནི་བུད་མེད་ཀྱིས། །ཕན་ཡོན་འདི་ནི་མྱོང་བར་འགྱུར། །ལྷ་འམ་ཡང་ན་མི་རྣམས་ཀྱིས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-173"/>“A man or a woman, By refraining from sexual misconduct, Will experience these benefits As a deva or as a human.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-114">
+    <prop type="location-id">UT22084-034-025-175</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ལུས་ཞིག་ནས་ཤི་བའི་ཕ་རོལ་དུ་མཐོ་རིས་དང་ལྷའི་འཇིག་རྟེན་དུ་བདེ་འགྲོར་སྐྱེ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-175"/>“After the destruction of the body, after death, they will be reborn in a happy rebirth-destiny, in heaven, in a deva world.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-115">
+    <prop type="location-id">UT22084-034-025-176</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་ཞིག་སྐྱེས་པ་འདོད་པ་ཡིས། །སྐྱེ་བ་ཡང་དང་ཡང་དུ་ནི། །བུད་མེད་གཞན་ལ་འགྲོ་མི་བྱ། །སེམས་ཀྱི་དྲི་མ་བཀྲུ་བའོ། །བུད་མེད་གང་ཞིག་གི་གྱོས་སྒྱུག་ལ་ཉེ་བར་མི་བསྙེན་པ་དང་། རང་གི་ཁྱོ་ལ་ཉེ་བར་མི་བསྙེན་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-176"/>“Any man who is driven by desire, In rebirth after rebirth, Should not go after other women But cleanse his mental stain instead.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-116">
+    <prop type="location-id">UT22084-034-025-178</prop>
+    <tuv xml:lang="bo">
+                <seg>རང་གི་ཁྱོ་ལ་མི་བརྩི་བ་དང་། རང་གི་ཁྱོའི་ཕུ་བོ་ལ་མི་འདུད་པ་དང་། རང་གི་ཁྱོའི་སྲིང་མོ་རྣམས་ལ་གནོད་པར་བྱེད་པ་དང་། གཞན་ཡང་ལག་པ་དང་། རྐང་པ་དང་། རྒྱབ་ལ་ལས་སུ་བྱ་བ་མི་བྱེད་པ་དང་། བཟའ་བ་དང་བཏུང་བ་གང་འདོད་པ་མི་སྟེར་བ་དང་། དེ་རྣམས་ལ་ངོ་ཚ་དང་ཁྲེལ་དུ་མི་བྱེད་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-178"/>“Any woman who does not fully serve her parents-in-law and does not fully serve her husband, who does not care for her husband, who is not respectful toward her husband’s elder brother, who causes trouble for her husband’s sisters, and who moreover does not put her arms, legs, and back into her work and does not give them the food and drink they want, is not modest and humble toward them, and criticizes her husband and recites texts at him will be reborn in hell.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-117">
+    <prop type="location-id">UT22084-034-025-178</prop>
+    <tuv xml:lang="bo">
+                <seg>རང་གི་ཁྱོ་བོ་ལ་ཀློག་པར་བྱེད་པ་དང་། སྐུར་པ་བཏབ་ན་དམྱལ་བར་སྐྱེ་བར་འགྱུར་རོ། །ལྕགས་བསྲེགས་ཀྱི་ས་གཞིའི་སྟེང་དུ་ཉལ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There she will sleep on a floor of burning iron.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-118">
+    <prop type="location-id">UT22084-034-025-178</prop>
+    <tuv xml:lang="bo">
+                <seg>འབར་བའི་ལྕགས་ཀྱུ་ཁ་རུ་བཅུག་ནས་མཆིལ་པའི་ཉ་ལ་བྱ་བ་བཞིན་དུ། ལྕེའི་རྩེ་མོ་ཕྱི་རོལ་དུ་ཕྱུང་སྟེ། ཐག་པས་བཅིངས་ནས་ཕྱི་རོལ་དུ་འདོན་ཏོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>A flaming iron hook will be inserted into her mouth, as if hooking a fish, and the tip of her tongue will be drawn forth, tied with a rope, and pulled out.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-119">
+    <prop type="location-id">UT22084-034-025-178</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་ཕྱི་རོལ་དུ་བཏོན་པ་ལ། ལྕེའི་རྩེ་མོ་ལ་མཚོན་ཆས་བརྒྱབ་ནས་བརྒྱབ་པའི་གནས་སུ་མཆུ་རང་ལ་སྐྱེས་པའི་སྲིན་བུ་ཆེན་པོས་ཟའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>After it is pulled it out like that, a big worm, born in the lips at the place where the weapon struck the tip of the tongue, will eat the tongue.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-120">
+    <prop type="location-id">UT22084-034-025-178</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་ཟོས་པས་ཅུང་ཟད་ཀྱང་སྨྲ་བར་མི་ནུས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Even after it eats only a little, she will be unable to speak.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-121">
+    <prop type="location-id">UT22084-034-025-178</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལྟར་དེ་ནི་དེ་ལ་ལོ་སྟོང་ཕྲག་དུ་མར་འཚེད་པར་འགྱུར་རོ། །བཙོས་<tei:ref folio="F.274.b"/>ནས་ཡང་དམྱལ་བ་ཆེན་པོར་ལྷུང་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Similarly, she will be cooked there for many thousands of years, and after being cooked there she will fall again into a great hell.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-122">
+    <prop type="location-id">UT22084-034-025-183</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཕྱིར་བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། གང་ཞིག་བུད་མེད་སྐྱེས་པ་འདོད། །སྐྱེ་བ་སྐྱེ་བར་ཡང་དང་ཡང་། །ལྷ་དང་ལྷ་མོ་ཇི་བཞིན་དུ། །རང་གི་ཁྱོ་ནི་སྤང་མི་བྱ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>For that reason, the Bhagavān has said: <tei:milestone xml:id="UT22084-034-025-183"/>“Any woman who desires a man, In rebirth after rebirth, Like a goddess to a god, Should never abandon her husband.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-123">
+    <prop type="location-id">UT22084-034-025-184</prop>
+    <tuv xml:lang="bo">
+                <seg>བརྫུན་དུ་སྨྲས་པས་སླར་ཡང་ཐིག་ནག་ཏུ་སྐྱེ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-184"/>“Lying, in turn, leads to rebirth in the Black Thread Hell.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-124">
+    <prop type="location-id">UT22084-034-025-184</prop>
+    <tuv xml:lang="bo">
+                <seg>དེར་ཡང་དམྱལ་བའི་སྲུང་མ་རྣམས་ཀྱིས་སྒྲ་ཆེན་པོའི་ཚིག་སྒྲོགས་ཤིང་། མཚོན་ཆ་འབར་བ་སྣ་ཚོགས་པ་བླངས་ནས་ལྕགས་བསྲེགས་ཀྱི་ས་གཞི་ལ་དམྱལ་བའི་སེམས་ཅན་གཅིག་གིས་གཅིག་འདྲུད་པ་དང་། འབར་བའི་ཐིག་ནག་པོས་འདེབས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>There, the guardians of that hell, shouting and bellowing and bearing a variety of blazing weapons, drag hell beings one by one onto a floor of burning iron and mark them with burning black thread.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-125">
+    <prop type="location-id">UT22084-034-025-184</prop>
+    <tuv xml:lang="bo">
+                <seg>འབར་བའི་མཚོན་ཆ་བཟུང་ནས་ཡང་དག་པར་བསྒྱུར་བ་དང་། ཞིབ་མས་འཚག་པ་བཞིན་དུ་སྟེའུ་དང་དགྲ་སྟས་འཇོག་པ་དང་། དེ་རྣམས་ཀྱིས་སྒྲ་ཆེན་པོ་སྒྲོགས་ཏེ་ངུ་ཞིང་གནས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Then, holding blazing weapons, they thoroughly transform them as if separating grain from chaff with a winnowing basket, but using hatchets and axes, leaving them screaming and wailing.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-126">
+    <prop type="location-id">UT22084-034-025-184</prop>
+    <tuv xml:lang="bo">
+                <seg>རང་གི་ཁྲག་འཐུང་ཞིང་ནང་དུ་དེར་གནས་པ་དེ་ཐིག་ནག་སྟེ་བརྫུན་དུ་སྨྲས་པས་སྐྱེའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It is in this Black Thread Hell, drinking one’s own blood, that one is reborn because of telling lies.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-127">
+    <prop type="location-id">UT22084-034-025-184</prop>
+    <tuv xml:lang="bo">
+                <seg>དེར་སྡུག་བསྔལ་དྲག་པ་དང་། རྩུབ་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Here, one will experience terrible, harsh, and intense suffering.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-128">
+    <prop type="location-id">UT22084-034-025-186</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚ་བའི་ཚོར་བ་མྱོང་བར་འགྱུར་རོ། །དགེ་སློང་དག་བརྫུན་དུ་སྨྲ་བ་ནི་སྦྲུལ་དུག་ཅན་དང་འདྲ་བར་ཡིད་ལ་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-186"/>“Monks, you should keep in mind that lying is like a venomous snake.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-129">
+    <prop type="location-id">UT22084-034-025-186</prop>
+    <tuv xml:lang="bo">
+                <seg>དེས་སྡུག་བསྔལ་མང་པོ་བྱེད་དོ། །དམྱལ་བར་འཇུག་པ་དང་། ཡི་དགས་ཀྱི་ཡུལ་དུ་འཇུག་པ་དང་། དུད་འགྲོའི་སྐྱེ་གནས་སུ་སྐྱེ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It produces great suffering and leads to rebirth in the hells, in the realm of ghosts, and as animals.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-130">
+    <prop type="location-id">UT22084-034-025-186</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་ཞིག་བརྫུན་དུ་སྨྲ་བ་ནི་རྣམ་པར་སྨིན་པ་ཆེན་པོའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>The karmic fruition for anyone who lies is grave.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-131">
+    <prop type="location-id">UT22084-034-025-186</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་མིར་སྐྱེས་ཀྱང་སྙིང་རྗེ་མེད་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Even if reborn as a human, they will be without compassion.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-132">
+    <prop type="location-id">UT22084-034-025-186</prop>
+    <tuv xml:lang="bo">
+                <seg>སྐད་བྱ་རོག་གི་དང་འདྲ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will have a voice like a crow.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-133">
+    <prop type="location-id">UT22084-034-025-186</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྕེ་མི་བདེ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will be poor at speaking.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-134">
+    <prop type="location-id">UT22084-034-025-186</prop>
+    <tuv xml:lang="bo">
+                <seg>སོ་ལ་སྲིན་འབྱུང་བ་དང་། ཁ་དྲི་མི་ཞིམ་པ་དང་། སོ་མི་སྙོམས་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will have tooth decay, bad breath, and crooked teeth.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-135">
+    <prop type="location-id">UT22084-034-025-186</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚིག་རྩུབ་པ་དང་། གྲེ་བ་འཛེར་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Their words will be rough and their voice hoarse.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-136">
+    <prop type="location-id">UT22084-034-025-186</prop>
+    <tuv xml:lang="bo">
+                <seg>མཆུ་མི་བདེ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will have bad lips.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-137">
+    <prop type="location-id">UT22084-034-025-186</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྲག་དོག་དང་བཅས་པ་དང་། རྟག་ཏུ་སྲེད་པ་དང་ལྡན་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will be jealous and have insatiable cravings.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-138">
+    <prop type="location-id">UT22084-034-025-186</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ལུས་ཞིག་ནས་ཤི་བའི་ཕ་རོལ་དུ་ཐིག་ནག་ཏུ་སྐྱེ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>And after the destruction of their body, after death, they will be reborn in the Black Thread Hell.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-139">
+    <prop type="location-id">UT22084-034-025-190</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཕྱིར་བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། ཁ་ནས་རྣག་གི་དྲི་ལྡང་ཞིང་། །དཔག་ཚད་གཅིག་ཏུ་དྲི་ངན་འགྲོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>For that reason, the Bhagavān has said: <tei:milestone xml:id="UT22084-034-025-190"/>“A putrid stench arises from their mouths, The bad smell spreading for a yojana.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-140">
+    <prop type="location-id">UT22084-034-025-190</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་ནི་ཤེས་པར་མི་འགྱུར་བ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will not know the Dharma.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-141">
+    <prop type="location-id">UT22084-034-025-190</prop>
+    <tuv xml:lang="bo">
+                <seg>བརྫུན་དུ་སྨྲས་པའི་ཉེས་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These are the harms that ensue from having lied.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-142">
+    <prop type="location-id">UT22084-034-025-1190</prop>
+    <tuv xml:lang="bo">
+                <seg>བརྫུན་དུ་སྨྲས་པའི་རྣམ་པར་སྨིན་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-1190"/>This is the karmic fruition of lying.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-143">
+    <prop type="location-id">UT22084-034-025-191</prop>
+    <tuv xml:lang="bo">
+                <seg>བརྫུན་དུ་སྨྲ་བ་སྤངས་པ་ཡིས། །སྐྱེས་པའམ་ནི་བུད་མེད་ནི། །ཐོབ་པར་འགྱུར་ཏེ་ཕན་ཡོན་ནི། །སུམ་ཅུ་རྩ་གསུམ་མི་ཉུང་བའི། །མིག་དང་རྣ་བ་སྣ་དང་ནི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-191"/>“Those who refrain from lying Will obtain rebirth as a man or a woman And the benefits they reap will be The full thirty-three of these:<tei:milestone xml:id="UT22084-034-025-192"/> “Their eyes, ears, and noses, Tongues, bodies, and minds, too, Will be perfect, Like the anthers of a lotus flower.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-144">
+    <prop type="location-id">UT22084-034-025-194</prop>
+    <tuv xml:lang="bo">
+                <seg>ལྕེ་དང་ལུས་དང་དེ་བཞིན་ཡིད། །དེ་ལ་རྣམ་པར་དག་པར་འགྱུར། །པད་མའི་ཟེ་འབྲུ་ལྟར་མཚུངས་སོ། །མིག་དང་སོ་ནི་མཉམ་པ་དང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-194"/>“Their eyes and teeth will be symmetrical.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-145">
+    <prop type="location-id">UT22084-034-025-194</prop>
+    <tuv xml:lang="bo">
+                <seg>ལུས་ནི་མི་རིང་མི་ཐུང་ལ། །ཧ་ཅང་<tei:ref folio="F.275.a"/>སྦོམ་དང་ཕྲ་བ་མིན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will be neither too tall nor too short, Neither too fat nor too thin.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-146">
+    <prop type="location-id">UT22084-034-025-194</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ལྟར་ལེགས་པར་བཤད་པའི་ཚིག །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Their speech will be articulate.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-147">
+    <prop type="location-id">UT22084-034-025-195</prop>
+    <tuv xml:lang="bo">
+                <seg>ཇི་ལྟར་ཨུད་པ་ལ་ཡི་དྲི། །རྟག་ཏུ་ཀུན་ད་ཁ་ཡི་དྲི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-195"/>“Their breath will always be scented like jasmine, Or like the blue lotus flower.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-148">
+    <prop type="location-id">UT22084-034-025-195</prop>
+    <tuv xml:lang="bo">
+                <seg>གཡོག་རྣམས་ཐམས་ཅད་བསྙེན་བཀུར་འགྱུར། །མཆོད་པར་འོས་པའི་ཚིག་གིས་སོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Servants will all respect and obey them, And their utterances will be worthy of veneration.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-149">
+    <prop type="location-id">UT22084-034-025-198</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆོས་རྣམས་ཀུན་ལ་མཁས་པ་དང་། །དོན་དང་ཚིག་འབྲུ་རྣམ་པར་མཁས། །སེམས་ཀྱི་རྟོག་ལ་ཞུམ་པ་མེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-198"/>“They will be adept in all things, Thoroughly learned in words and their meanings, And dauntless in the face of doubt.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-150">
+    <prop type="location-id">UT22084-034-025-202</prop>
+    <tuv xml:lang="bo">
+                <seg>རྟག་ཏུ་ཁྱད་པར་འཕགས་པའི་ཚིག །བརྫུན་དུ་སྨྲ་བ་སྤངས་པ་ཡིས། །སྐྱེས་པ་འམ་ནི་བུད་མེད་ཀྱིས། །ཕན་ཡོན་འདི་ནི་མྱོང་བར་འགྱུར། །ལྷ་དང་མི་རུ་སྐྱེས་པ་ན།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-202"/>“A man or woman, By refraining from lying, Will experience these benefits As a deva or as a human.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-151">
+    <prop type="location-id">UT22084-034-025-204</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ལུས་ཞིག་ནས་ཤི་བའི་ཕ་རོལ་དུ་བདེ་འགྲོ་ལྷའི་འཇིག་རྟེན་དང་མཐོ་རིས་སུ་སྐྱེའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-204"/>“After the destruction of the body, after death, they will be reborn in a happy rebirth-destiny, in a deva world, in heaven.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-152">
+    <prop type="location-id">UT22084-034-025-205</prop>
+    <tuv xml:lang="bo">
+                <seg>བརྫུན་དུ་སྨྲ་བ་ཞེས་བྱ་བ་ནི་ཁ་ན་མ་ཐོ་བ་དང་བཅས་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-205"/>“That which is called lying is reprehensible.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-153">
+    <prop type="location-id">UT22084-034-025-205</prop>
+    <tuv xml:lang="bo">
+                <seg>འདོད་པའི་དོན་རྣམས་ལ་རིགས་ཀྱི་བུས་མི་བྱ་བ་ཉིད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Sons of good family should refrain from pursuing the objects of their desire.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-154">
+    <prop type="location-id">UT22084-034-025-205</prop>
+    <tuv xml:lang="bo">
+                <seg>བདེན་པ་དང་ལེགས་པའི་བཅུད་རྣམས་དེ་ལྟ་བུ་ནི་བླང་བར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Instead they should extract the essence of that which is true and good.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-155">
+    <prop type="location-id">UT22084-034-025-205</prop>
+    <tuv xml:lang="bo">
+                <seg>བརྫུན་དུ་སྨྲ་བ་ཞེས་བྱ་བ་དོན་མེད་པར་བྱེད་པའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>That which is called speaking falsehoods serves no purpose.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-156">
+    <prop type="location-id">UT22084-034-025-205</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇིག་རྟེན་སླུ་བར་བྱེད་དོ། །སྐྱེ་བ་གཞན་དུ་མར་མནར་མེད་པའི་དམྱལ་བར་སྐྱེ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>It deceives the world and leads to rebirth in the Hell of Incessant Torture for many future lives.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-157">
+    <prop type="location-id">UT22084-034-025-205</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཕྱིར་འཚོ་བའི་སླད་དུ་བརྫུན་དུ་སྨྲ་བར་མི་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Therefore, one should not lie for the sake of one’s livelihood.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-158">
+    <prop type="location-id">UT22084-034-025-205</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐམས་ཅད་མཁྱེན་པ་སངས་རྒྱས། བྱང་ཆུབ་སེམས་དཔའ་སྒྲིབ་པ་དང་བཅས་པའི་དུས་ནའང་ཕྲ་མ་ནི། ཡུང་བའི་ཁ་དོག་ལྟར་ཡུན་རིང་པོར་མི་གནས་སོ། །ཕུབ་མའི་ཕུང་པོའི་སྟེང་དུ་ཕུར་པ་བཙུགས་ན་ཡུན་རིང་དུ་མི་གནས་པ་བཞིན་ནོ། །རྟའི་རྒྱབ་ཏུ་ཤིང་ཐོག་རིལ་བུ་བཞག་ན་ཡུན་རིང་དུ་མི་གནས་པ་བཞིན་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Even at such times as when the omniscient one, the Buddha, the Bodhisattva, is concealed, divisive speech, like the color of turmeric, does not last long; like a dagger planted in a heap of chaff, it does not last long; and like a round fruit placed on the back of a horse, it does not last long.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-159">
+    <prop type="location-id">UT22084-034-025-205</prop>
+    <tuv xml:lang="bo">
+                <seg>སྨྲས་པའི་ཚིག་ལ་རལ་གྲིས་སྐེ་འབྲེག་པའི་ཚེ་ཚིག་གཉིས་མི་སྨྲ་བ་བཞིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>So, too, when a word spoken is cut short by a sword, two words will not be uttered.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-160">
+    <prop type="location-id">UT22084-034-025-205</prop>
+    <tuv xml:lang="bo">
+                <seg>བདེན་པ་ཡུན་རིང་པོར་སྨྲས་པས་དགེ་སྦྱོང་དང་བྲམ་ཟེས་ཕ་རོལ་དུ་སྒྲོལ་བར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>But, by speaking the truth over a long period of time, ascetics and brahmins reach liberation after they die.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-161">
+    <prop type="location-id">UT22084-034-025-211</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆང་འཐུངས་པ་ནི་ཚ་བའི་དམྱལ་བར་ལྟུང་ཞིང་སྐྱེ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-211"/>“Drinking alcohol leads to falling into and being reborn in the Burning Hell.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-162">
+    <prop type="location-id">UT22084-034-025-211</prop>
+    <tuv xml:lang="bo">
+                <seg>དེར་ལྷུང་བའི་སེམས་ཅན་ནི་ལོ་སྟོང་ཕྲག་མང་པོར་འཚེད་པར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Beings who have fallen into this hell will be cooked for many thousands of years.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-163">
+    <prop type="location-id">UT22084-034-025-211</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནས་ཕྱིར་ཕྱུང་ནས་ཆུ་བོ་རབ་མེད་ཀྱི་ངོགས་སུ་སྐྱུར་བར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>After that, they are discarded on the bank of Vaitaraṇī River.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-164">
+    <prop type="location-id">UT22084-034-025-211</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་དུའང་འགྲོ་ས་མེད་པར་ཡང་དང་ཡང་དུ་སྐྱལ་བར་བྱེད་དོ། །དེར་དམྱལ་བའི་སྲུང་མ་རྣམས་ཀྱིས་མཆིལ་པས་ཉ་འདོན་པ་ལྟར། ལྕགས་བསྲེགས་ཀྱི་ས་གཞི་ལ་རྡེབས་པར་བྱེད་དོ། །འདི་ལྟར་སྒྲོགས་ཏེ། ཀྱེ་སྐྱེས་བུ་ཁྱོད་ཅི་འདོད། ཇོ་བོ་སྐོམ་མོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With no way across, they try again and again to swim, whereupon the guards of that hell will pull them out with hooks, like fish, and toss them down on the ground of burning iron and bellow, ‘Oi, what do you want?’</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-165">
+    <prop type="location-id">UT22084-034-025-211</prop>
+    <tuv xml:lang="bo">
+                <seg>དམྱལ་བའི་སྲུང་མ་དེས་ལྕགས་འབར་བའི་ལྕགས་ཀྱུས་ཁ་ཕྱེ་སྟེ་ལྕགས་བཞུ་བའི་ཁུ་བ་ལྡུགས་པར་བྱེད་དོ། །དེ་ལ་དེ་ཡི་<tei:ref folio="F.275.b"/>མཆུ་སྲེག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>‘Lord, I am parched,’ the beings will reply, and the guardians of that hell will rip open their mouths with red-hot iron hooks and pour molten iron into their gaping mouths.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-166">
+    <prop type="location-id">UT22084-034-025-211</prop>
+    <tuv xml:lang="bo">
+                <seg>མགྲིན་པ་ཡང་སྲེག་གོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>First, their lips and throats will be scorched.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-167">
+    <prop type="location-id">UT22084-034-025-211</prop>
+    <tuv xml:lang="bo">
+                <seg>བྲང་སྲེག་གོ། །རྒྱུ་མ་སྲེག་གོ། །སྙིང་ཡང་སྲེག་གོ། །བཤང་ལམ་ན་མར་འཐོན་པར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Next their chests burn, then their bowels, and their hearts will burn, too, until the molten iron forces its way out through the anus.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-168">
+    <prop type="location-id">UT22084-034-025-211</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་རྣམས་ཀྱིས་སྡུག་བསྔལ་མྱོང་བར་བྱེད་ཅིང་། ངུ་ལ་འགྲེ་བར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Such are the torments they are made to experience, weeping and rolling on the floor in pain.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-169">
+    <prop type="location-id">UT22084-034-025-211</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་དུས་སུ་ཡང་འཆི་བར་ནི་མི་འགྱུར་ཏེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>However, even then they will not die.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-170">
+    <prop type="location-id">UT22084-034-025-211</prop>
+    <tuv xml:lang="bo">
+                <seg>ཇི་སྲིད་ཀྱི་བར་དུ་སྡིག་པའི་ལས་ཀྱི་འབྲས་བུ་མྱོང་བར་བྱེད་དོ། །དེ་སྲིད་དུ་དེ་རྣམས་ཀྱིས་རྣམ་པར་སྨིན་པའི་ཚོར་བ་མྱོང་བར་བྱེད་དོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will experience these sensations, the karmic ripening of their actions, for as long as the fruits of their negative actions last.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-171">
+    <prop type="location-id">UT22084-034-025-215</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ཕྱིར་བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། ཚ་ཞིང་རྩུབ་པའི་ཆུ་བོ་ནི། །རབ་མེད་ཤིན་ཏུ་བགྲོད་པར་དཀའ། །ལྕགས་ཀྱི་པད་མའི་འདབ་མ་རྣམས། །འདབ་མ་རྣོ་བའི་སྟེང་དུ་འགྲེ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>For that reason, the Bhagavān has said: <tei:milestone xml:id="UT22084-034-025-215"/>“The caustic and rough river Vaitaraṇī, Without a ford, is very difficult to cross; With its petals of iron lotuses Rocking on sharp leaves— How can those who do not follow the Dharma Ever hope to traverse the bottomless Vaitaraṇī River?</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-172">
+    <prop type="location-id">UT22084-034-025-218</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆུ་བོ་རབ་མེད་གཞི་མེད་པར། །ཆོས་མིན་ཇི་ལྟར་སྤྱོད་པར་འགྱུར། །གང་ཞིག་ཆང་འཐུང་བ་དེ་ནི་སྡིག་པ་ཆུང་བ་མ་ཡིན་ནོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-218"/>“For someone to drink alcohol is not a small misdeed.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-173">
+    <prop type="location-id">UT22084-034-025-218</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་མིར་གྱུར་ཀྱང་རྟག་ཏུ་བརྗེད་ངས་པ་དང་། ལུག་ལྟར་ལྐུགས་པ་དང་། ཤེས་རབ་འཆལ་པ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Even if they are reborn as a human, they will always be absent-minded and as dull, stupid, and unaware as a sheep.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-174">
+    <prop type="location-id">UT22084-034-025-218</prop>
+    <tuv xml:lang="bo">
+                <seg>རིག་པ་མི་ཤེས་པ་དང་། རྟག་ཏུ་གཉིད་དུ་འགྲོ་བ་དང་། བློ་གྲོས་དམན་པ་དང་། གཏི་མུག་ཆེ་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Constantly falling asleep, they will be of low intelligence and very ignorant.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-175">
+    <prop type="location-id">UT22084-034-025-218</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇིགས་པ་དང་། སྐྲག་པར་འགྱུར་བ་དང་། དོགས་པར་འགྱུར་བ་དང་། ཕྲ་མ་ཅན་དང་། ཚིག་མི་བརྟན་པ་དང་། སེར་སྣ་ཅན་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will be scared and fearful, doubtful, divisive, untrustworthy, miserly, envious, and without renunciation.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-176">
+    <prop type="location-id">UT22084-034-025-218</prop>
+    <tuv xml:lang="bo">
+                <seg>ཕྲག་དོག་ཅན་དང་། ངེས་པར་མི་འབྱུང་བ་དང་། ངོ་ཚ་མེད་པ་དང་། ཁྲེལ་མེད་པ་དང་། ཤེས་རབ་ཆུང་བ་དང་།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will be without shame, with no sense of decency, and will have poor discernment.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-177">
+    <prop type="location-id">UT22084-034-025-218</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་བའི་ཆོས་རྣམས་མི་རིག་པ་སྟེ། སྐྱེ་བ་ལྔ་བརྒྱར་གནོད་སྦྱིན་སྐྱེ། །སྐྱེ་བ་ལྔ་བརྒྱར་ཁྱི་དང་ནི། །མཐའ་ཡས་སྨྱོན་པར་སྐྱེ་བར་འགྱུར། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will be unaware of virtuous qualities, and for five hundred lives they will be reborn as yakṣas, for another five hundred as dogs, and they will forever thereafter be reborn as lunatics.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-178">
+    <prop type="location-id">UT22084-034-025-218</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆང་འཐུངས་པ་ཡི་ཉེས་པའོ། །མྱོས་པར་འགྱུར་བའི་ཆང་གི་བཏུང་བའི་རྣམ་པར་སྨིན་པའོ། །ཆང་འཐུང་བ་ནི་སྤངས་པ་ཡིས། །སྐྱེས་པ་འམ་ནི་བུད་མེད་ནི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>These are the harms that ensue from having consumed alcohol.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-179">
+    <prop type="location-id">UT22084-034-025-1220</prop>
+    <tuv xml:lang="bo">
+                <seg>ཐོབ་སྟེ་དེ་ཡི་ཕན་ཡོན་ནི། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-1220"/>This is the karmic fruition of drinking alcohol that leads to intoxication.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-180">
+    <prop type="location-id">UT22084-034-025-220</prop>
+    <tuv xml:lang="bo">
+                <seg>སུམ་ཅུ་རྩ་དྲུག་མི་དམན་པར། །འདས་དང་མ་འོངས་པ་ཡི་དུས། །ད་ལྟར་བྱུང་བ་ཅུང་ཟད་དུ། །མྱུར་དུ་ཤེས་པར་འགྱུར་བ་དང་། །རྟག་ཏུ་དྲན་པ་གནས་པ་དང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-220"/>“Those who refrain from drinking alcohol Will be reborn as a man or a woman And the benefits they then will reap Will be the full thirty-six of these:<tei:milestone xml:id="UT22084-034-025-222"/> “They will quickly become aware Of the past and the future, And the fleeting present too, And they will always remain mindful.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-181">
+    <prop type="location-id">UT22084-034-025-223</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནི་སྨྱོ་བར་མི་འགྱུར་ཞིང་། །ཁྱད་པར་འཕགས་པའི་ཤེས་རབ་དང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-223"/>“They will not be insane— In particular, they will have noble insight.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-182">
+    <prop type="location-id">UT22084-034-025-223</prop>
+    <tuv xml:lang="bo">
+                <seg>མི་རྨོངས་པ་དང་བག་ཡོད་དང་། །ཚིག་ནི་ཤིན་ཏུ་གསལ་བ་དང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>With minds unclouded and vigilant, They will express themselves clearly.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-183">
+    <prop type="location-id">UT22084-034-025-225</prop>
+    <tuv xml:lang="bo">
+                <seg>ངོ་ཚ་ཤེས་ཤིང་ཚིག་ནི་གསལ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-225"/>“Being modest, their words will be clear.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-184">
+    <prop type="location-id">UT22084-034-025-225</prop>
+    <tuv xml:lang="bo">
+                <seg>དེ་ནི་ལོག་པར་སྨྲ་མི་འགྱུར། །ཕྲ་མ་དང་ནི་ཚིག་རྩུབ་མེད། །དོན་མེད་པ་ལ་མི་སྟོད་ཅིང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>What they say will not be wrong, Will be without slander and harsh words, And will not praise that which is meaningless.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-185">
+    <prop type="location-id">UT22084-034-025-226</prop>
+    <tuv xml:lang="bo">
+                <seg>ཉིན་དང་མཚན་དུ་དེ་བཞིན་དུ། །བྱས་པ་ཤེས་ཤིང་བྱས་པ་ཚོར། །འདོད་མེད་གཏོང་དང་ཚུལ་ཁྲིམས་ལྡན། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-226"/>“Day and night alike, Knowing and noticing what has been done, They will give without expectation, and they will have moral discipline.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-186">
+    <prop type="location-id">UT22084-034-025-226</prop>
+    <tuv xml:lang="bo">
+                <seg>ཁྲོ་བ་མེད་ཅིང་ཚིག་ནི་དྲང་། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>They will not be angry and will speak honestly.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-187">
+    <prop type="location-id">UT22084-034-025-227</prop>
+    <tuv xml:lang="bo">
+                <seg>འཇིགས་པ་མེད་ཅིང་རྣམ་པར་མཁས། །ངོ་ཚ་ཁྲེལ་<tei:ref folio="F.276.a"/>ཡོད་ཕུན་སུམ་ཚོགས། །འཇིགས་པ་དང་ནི་དོགས་པ་མེད། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-227"/>“They will be without fear and learned in details, With a strong sense of modesty and decency, Fearless and unhesitant.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-188">
+    <prop type="location-id">UT22084-034-025-227</prop>
+    <tuv xml:lang="bo">
+                <seg>ཡིད་གཞུངས་ཐོས་པ་འཛིན་པ་དང་། །དོན་ཡོད་སྐྱེ་བོ་མང་ནང་མཁས། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Their perceptive minds will retain what they learn, And they will be considered learned among significant men.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-189">
+    <prop type="location-id">UT22084-034-025-228</prop>
+    <tuv xml:lang="bo">
+                <seg>ཆང་གི་བཏུང་བ་སྤངས་པ་ཡིས། །སྐྱེས་པ་འམ་ནི་བུད་མེད་ཀྱིས། །ཕན་ཡོན་འདི་རྣམས་མྱོང་བར་འགྱུར། །ལྷ་རྣམས་དང་ནི་མི་རྣམས་སུ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-228"/>“A man or a woman, By refraining from consuming alcohol, Will experience these benefits As a deva or as a human.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-190">
+    <prop type="location-id">UT22084-034-025-229</prop>
+    <tuv xml:lang="bo">
+                <seg>དེའི་ལུས་ཞིག་ནས་ཤི་བའི་ཕ་རོལ་དུ་བདེ་འགྲོ་མཐོ་རིས་ལྷའི་འཇིག་རྟེན་དང་མཐོ་རིས་སུ་སྐྱེའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-229"/>“After the destruction of the body, after death, they will be reborn in the happy rebirth-destinies of the higher realms, in a deva world, in heaven.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-191">
+    <prop type="location-id">UT22084-034-025-230</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚུལ་ཁྲིམས་འདི་རྣམས་བསྲུང་བར་བྱའོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-230"/>“These disciplines should be guarded.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-192">
+    <prop type="location-id">UT22084-034-025-230</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་གང་ཟག་གང་སུ་དག་སྐྱེས་པའམ་བུད་མེད་ཀྱི་ཚུལ་ཁྲིམས་སྲུང་བར་མི་བྱེད་པ་དང་། སྒོམ་པར་མི་བྱེད་ན་དེའི་ལུས་ཞིག་ནས་ཤི་བའི་ཕ་རོལ་དུ་ངན་སོང་ངམ་ངན་འགྲོ་ལོག་པར་ལྟུང་བར་སྐྱེ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Any person, whether a man or a woman, who does not guard and cultivate these disciplines will, after the destruction of the body, after death, fall and be reborn in bad or unfortunate rebirth-destinies, in the lower realms.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-193">
+    <prop type="location-id">UT22084-034-025-230</prop>
+    <tuv xml:lang="bo">
+                <seg>གང་སུ་དག་ཚུལ་ཁྲིམས་སྲུང་བར་བྱེད་པ་དང་། སྒོམ་པར་བྱེད་པ་རྣམས་ནི་དེའི་ལུས་ཞིག་ནས་ཤི་བའི་ཕ་རོལ་དུ་བདེ་འགྲོ་མཐོ་རིས་དང་། ལྷའི་འཇིག་རྟེན་དུ་སྐྱེ་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Those who guard and cultivate these disciplines will, after the destruction of the body, after death, be reborn in the happy rebirth-destinies of the higher realms, in a deva world.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-194">
+    <prop type="location-id">UT22084-034-025-233</prop>
+    <tuv xml:lang="bo">
+                <seg>བཅོམ་ལྡན་འདས་ཀྱིས་དེ་སྐད་ཅེས་བཀའ་སྩལ་པ་དང་། དགེ་སློང་དེ་རྣམས་བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་ལ་མངོན་པར་བསྟོད་དོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-233"/>This is what the Bhagavān said, and the monks rejoiced at what the Bhagavān had taught.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-195">
+    <prop type="location-id">UT22084-034-025-234</prop>
+    <tuv xml:lang="bo">
+                <seg>ཚུལ་ཁྲིམས་ལྔའི་ཕན་ཡོན་བསྟན་པའི་མདོ་རྫོགས་སྷོ།། །།པཎྜི་ཏ་ཆེན་པོ་ཨཱ་ནནྡ་ཤྲཱིའི་ཞལ་སྔ་ནས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-234"/>This concludes “The Sūtra That Teaches the Benefits of the Five Disciplines.”</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-196">
+    <prop type="location-id">UT22084-034-025-235</prop>
+    <tuv xml:lang="bo">
+                <seg>མང་དུ་ཐོས་པའི་ལོ་ཙཱ་བ་ཤཱཀྱའི་དགེ་སློང་ཉི་མ་རྒྱལ་མཚན་དཔལ་བཟང་པོས། སྐད་གཉིས་སྨྲ་བ་རྣམས་ཀྱི་གདན་ས། གཙུག་ལག་ཁང་ཆེན་པོ་དཔལ་ཐར་པ་གླིང་དུ་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པའོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT22084-034-025-235"/>This sūtra was translated, edited, and finalized by the learned translator, the Śākya monk Nyima Gyaltsen Palsangpo, in the presence of the great scholar Ānandaśrī at the translation center of the great monastery Pal Tharpaling.</seg>
+            </tuv>
+</tu>
+<tu id="UT22084-034-025-TU-197">
+    <prop type="location-id">UT22084-034-025-235</prop>
+    <tuv xml:lang="bo">
+                <seg>སའི་སྟེང་དུ་ཉི་མ་དང་ཟླ་བ་ལྟར་གྱུར་ཅིག།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>May it become like sun and moon ornaments crowning the earth!</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx xmlns="http://www.lisa.org/tmx14" xmlns:eft="http://read.84000.co/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<header creationtool="tibetan-aligner/84000" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="TEI" eft:text-id="UT23703-075-017" eft:text-version="v-1.0.2-2023"/>
+<body>
+<tu id="UT23703-075-017-TU-1">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>
+                    <tei:ref folio="F.178.a"/>༄༅༅། །རྒྱ་གར་སྐད་དུ། སིཾ་ཧ་ནཱ་ད་དྷཱ་ར་ནི། བོད་སྐད་དུ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg/>
+            </tuv>
+</tu>
+<tu id="UT23703-075-017-TU-2">
+    <prop type="location-id">translation</prop>
+    <tuv xml:lang="bo">
+                <seg>སེང་གེ་སྒྲའི་གཟུངས།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT23703-075-017-translation"/>The Dhāraṇī of Siṃhanāda</seg>
+            </tuv>
+</tu>
+<tu id="UT23703-075-017-TU-3">
+    <prop type="location-id">UT23703-075-017-71</prop>
+    <tuv xml:lang="bo">
+                <seg>ན་མོ་རཏྣ་ཏྲ་ཡཱ་ཡ། ན་མ་ཨཱརྱ་ཨ་བ་ལོ་ཀི་ཏེ་ཤྭ་རཱ་ཡ། བོ་དྷི་སཏྭཱ་ཡ། མ་ཧཱ་སཏྭཱ་ཡ། མ་ཧཱ་ཀཱ་རུ་ཎི་ཀཱ་ཡ། ཏདྱ་ཐཱ། ཨོཾ་ཨ་ཀ་ཊེ་བི་ཀ་ཊེ་ནི་ཀ་ཊེ་ཀ་ཊཾ་ཀ་ཊེ་ཀ་རོ་ཊེ་བཱིར་ཡེ་སྭཱ་ཧཱ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT23703-075-017-71"/>namo ratna­trayāya | nama āryāvalokiteśvarāya bodhi­sattvāya mahā­sattvāya mahā­kāruṇikāya | tadyathā | oṁ akaṭe vikaṭe nikaṭe kaṭaṃkaṭe karoṭe karoṭavīrye svāhā ||</seg>
+            </tuv>
+</tu>
+<tu id="UT23703-075-017-TU-4">
+    <prop type="location-id">UT23703-075-017-74</prop>
+    <tuv xml:lang="bo">
+                <seg>འདི་ནི་བཅོམ་ལྡན་འདས་འཕགས་པ་འཇིག་རྟེན་དབང་ཕྱུག་གི་མདུན་དུ་ནང་པར་སྔ་མོར་བའི་ལྕི་བ་ས་ལ་མ་ལྷུང་བས་མཎྜལ་བརྒྱད་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT23703-075-017-74"/>In the early morning, in front of the blessed, noble Lokeśvara, make eight maṇḍalas out of cow dung that has not fallen to the ground.</seg>
+            </tuv>
+</tu>
+<tu id="UT23703-075-017-TU-5">
+    <prop type="location-id">UT23703-075-017-74</prop>
+    <tuv xml:lang="bo">
+                <seg>མཎྜལ་རེ་རེ་ཞིང་ལན་གསུམ་དུ་བཟླས་པར་བྱ་བའོ། །དེ་ནས་ལན་བདུན་དུ་བའི་ལྕི་བ་ལྷག་མ་མངོན་པར་བསྔགས་ལ་ནད་པ་ལ་བྱུག་པར་བྱ་སྟེ།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Recite this thirteen times at each maṇḍala, then incant the resulting dung with the mantra seven times.</seg>
+            </tuv>
+</tu>
+<tu id="UT23703-075-017-TU-6">
+    <prop type="location-id">UT23703-075-017-74</prop>
+    <tuv xml:lang="bo">
+                <seg>ནད་རྣམས་ཐམས་ཅད་ཞི་བར་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>Smear it on the sick person and all of their illnesses will be cured.</seg>
+            </tuv>
+</tu>
+<tu id="UT23703-075-017-TU-7">
+    <prop type="location-id">UT23703-075-017-77</prop>
+    <tuv xml:lang="bo">
+                <seg>གལ་ཏེ་མཚམས་མེད་པ་ལྔ་བྱས་པས་ཀྱང་ཉི་མ་བདུན་པའམ་བཅུ་གསུམ་པའམ་ཉི་མ་ཉི་ཤུ་རྩ་གཅིག་པ་ལ་ཡང་མ་གྲུབ་ན་དེའི་ཚེ་དེ་ཉིད་ཀྱིས་མཚམས་མེད་པ་ལྔ་བྱས་པ་ཡིན་ཞིང་། ངས་སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་བསླུས་པར་ཡང་འགྱུར་རོ། །</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT23703-075-017-77"/>If this is not successful after seven, thirteen, or twenty-one days, even if performed by someone who has carried out the five deeds of immediate retribution, then I myself will have carried out the five deeds of immediate retribution, and I will have deceived the blessed buddhas.</seg>
+            </tuv>
+</tu>
+<tu id="UT23703-075-017-TU-8">
+    <prop type="location-id">UT23703-075-017-79</prop>
+    <tuv xml:lang="bo">
+                <seg>སེང་གེ་སྒྲ་ཞེས་བྱ་བའི་གཟུངས་རྫོགས་སོ།། །།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT23703-075-017-79"/>This completes “The Dhāraṇī of Siṃhanāda.”</seg>
+            </tuv>
+</tu>
+<tu id="UT23703-075-017-TU-9">
+    <prop type="location-id">UT23703-075-017-80</prop>
+    <tuv xml:lang="bo">
+                <seg>དགེ་སློང་ཚུལ་ཁྲིམས་རྒྱལ་མཚན་གྱིས་བསྒྱུར་བའོ།།</seg>
+            </tuv>
+    <tuv xml:lang="en">
+                <seg>
+                    <tei:milestone xml:id="UT23703-075-017-80"/>This was translated by the monk Tsultrim Gyaltsen.</seg>
+            </tuv>
+</tu>
+
+</body>
+</tmx>
